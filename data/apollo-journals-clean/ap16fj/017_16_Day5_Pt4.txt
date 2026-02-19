@@ -1,0 +1,1112 @@
+Casper, Houston. How do you read?
+Okay; they're locking up on me. Hello, Houston. This is Casper Bar [?] now. We did not do [the] Circ [burn], and I'd like to talk about the TVC servo loops.
+Understand. No Circ.
+That's affirmative. Presently, about a mile ahead of the LM. And I'd like to talk about a TVC servo loop problem.
+Okay, Ken. Go ahead.
+Okay, and - and break in and tell me as soon as you get the DS - get ready to dump the DSE, so you can take a look at what I'm talking about, and I'll leave the antenna Manual and Wide until you do. Okay; the text is that we came up to the burn time and I was going through the gimbal checks. Number 1 servo started normally, checked out. I switched to - clockwise on the THC to perform the secondary gimbal check and started them - they looked normal. I set the pitch trim normally, and I went to set the yaw trim; I'd just been checking that the trim lock [?] worked, and I got divergent oscillations on the yaw trim indicator, and you could feel them in the spacecraft. So I switched to the - Servo Power to the Number 2 Servo to AC1/Main A, tried that. That had no effect. Then I cycled through looking at - at the gimbal - with the Auto Drive switch in Number 1, Number 2 in Auto. Every time I selected Number 2, by some means, I had the same results. Then I tried SCS in Auto, and as soon as I would excite some motion in the secondary yaw servo, why it would go unstable again. I then tried using the G&N to drive the gimbal, and I did the first half of the gimbal drive in Servo Loop 1, then switched to the Servo Loop 2 for the second half, and again the same instability showed up. Based on the [mission] rule of four servo loops, I canceled Circ. I had no other indications in the cockpit, no warning lights, no - no other abnormalities.
+Roger. We copy...
+The [garble] was in fact running, but I don't think that could have had any effect when SCS was going.
+Roger. Could we get you to go to the AOS attitude, Ken, so we can dump the data?
+Yes, sir. Will do.
+How about if I just give you the high gain from right here?
+Okay, if you think you can get it up.
+Okay; I've got you a solid lock on the high gain.
+Casper, Houston. We'd like to verify that...
+I prefer this attitude, Hank, because I can keep the LM in sight.
+[Garble] So I can keep the LM in sight.
+Casper, we'd like to verify that the - that the oscillations were on servo loop Number 2. Is that correct?
+That's affirmative. Servo loop Number 2, yaw only.
+Roger. And servo loop Number 1 is okay?
+That's affirmative.
+And did I read that the first time through the servo checks, they were okay? And then when you started to set the yaw trim, the oscillation started, and that once you had the malfunction, it occurred in...
+No, sir. No, sir. Primary loop checked out normally. Secondary loop never checked out in yaw servo.
+Roger; copy. And that was both...
+[Garble] started normally, and it's - Go ahead, Hank.
+Roger. And that occurred both in SCS and G&N, is that correct?
+That's affirmative. And I tried both Auto and Rate Command in SCS.
+And, Ken, We'd like to confirm that was a divergent oscillation. Is that correct?
+That's affirmative.
+Casper, Houston. We'd like for you to run another gimbal drive check in the yaw axis on both SCS and G&N, and let us take a look at it.
+Okay; I'm prepared to do that right now if you're ready.
+Ready to go.
+Okay; I'm bringing the Bus Ties on.
+Okay, and ServoPowers 1 and 2 are on in the loop configuration. Are you ready for me to start the gimbals ?
+That's affirmative, Ken. Go ahead.
+Okay, here comes - You just wanted to look at the yaw. Here comes Yaw number 2. There it is, and it's oscillating now, and it's damped out, and that's in Auto. I'll switch it to Number 2, and Number 2 in Auto. I'm now going to move the , and it - Well, now it's - there it goes - now it's oscillating, and it's divergent, and I'm turning the Gimbals Off. Okay, Yaw Gimbal Number 2 is Off. I'll hold this configuration.
+Ken, is your transponder on?
+That's affirmative. It is.
+Okay. We're gonna try our radar lockup here again.
+Okay.
+John, you want to try to initialize VHF ranging while we're above it?
+Orion, Casper.
+Would you like to try and check out our VHF at the same time?
+Okay.
+Sounds very garbled. If you can read me, Orion, you're extremely garbled and making a pulsing-noise sound.
+Orion, do you read me on B Duplex?
+Orion, do you read Casper? Orion, do you read Casper?
+Houston, Casper.
+Casper, Houston. Go ahead.
+Roger. It looks like I'm losing comm with Orion. Could you ask them to go back to A Simplex?
+Wilco.
+Go ahead, Ken.
+Okay, you were just about unreadable. I don't know if you could pick me up on that other configuration, but that didn't work at all. Yeah, but it was coming through completely garbled - unintelligible. Okay. Okay; and if no voice in 30 seconds, we'll come back to A Simplex. Okay, how do you read me now? You're still very scratchy, hardly make you out at all. Yeah, that's pretty bad. That's not much better; it's not near like what we got before. Let's go back to A Simplex.
+Hey, you sound good now.
+Hey, Charlie.
+Okay, you want to turn your light on when it gets dark? And how about let's try a little ranging here, before we go into the darkness?
+[Garble] CapCom...
+...comm now - you're on - on configuration for ranging.
+Hey - am I - Hey, Gerry, am I on your loop? Okay. Hey, on - on this conversation here, I ran this rendezvous from the miniball.
+Hey, Stuart, you're on air-to-ground.
+Sorry about that, Ken.
+Hey, Charlie, let's - hey, Charlie, how about let's try out this ranging? You're in the ranging configuration, right? Okay, stand by for about 30 seconds until I try to lock up.
+Okay, I've got you at 0.36; 0.38; 0.36, bouncing around. How does that compare? It doesn't really.
+Gee, I think so. Might as well keep an eye on it, looks like we're getting ready to go in the dark here. Could you wait until we get in the dark so I can look at you? Right now, I've got the Sun right smack in my eyes.
+Did you get any words out of Houston? I haven't heard a word from them.
+Casper, Houston. We're working on a problem down here.
+Roger, Henry. I understand that; but I'm not bugging you. We'll stay off the loop.
+Okay, we've got the data down, and we've got the strip charts, and we're taking a look here and see if we can't find some way to get around it.
+Okay. I know if there's a way, you'll find it.
+Stand by a second.
+Was doing temporary battle with our friend, the trash bag. I have you, visual. Tally ho.
+Okay. I'll keep you in sight.
+That old probe is really nice.
+Casper, Houston.
+Go ahead, Houston.
+Okay. We're getting set up for another gimbal drive check, Ken, and what we want to do is go through a complete gimbal drive check by the numbers, and have you tell us as you do each thing and especially in relation to the - the yaw thumbwheel, which way you're moving it and how many degrees and - and what's happening. And we'll give you the word when we're ready to start that. We've got to get some things configured down here.
+Okay. Was attitude - How about looking ahead to see if this attitude is going to hold throughout the test?
+Okay, I'll check it.
+Thank you.
+The attitude is good, Ken.
+Okay.
+Okay, Ken. We're ready to go. Do you think VOX might make it easier for you?
+Yes, sir. I'll go to VOX now and, Orion, are you still working on your [P]52?
+Okay. I'm going to have my head in the cockpit here for a while, but if Mr. Kepler isn't a high school dropout, why, we won't hit anyhow.
+Okay, Houston. Here we go. I'm gonna run over the switch configuration that I've got in the cockpit. We're going to do this - everything except calling P40, or do you want to call P40 for something?
+We don't need P40.
+[Garble] you do not want P40. Okay, here we go. I got - The circuit breakers are all checked over on Panel 8. The only ones that are out are RCS Logic, the Probe, and the stuff on the bottom rows that don't matter. Okay. The switches for SCS are in Limit Cycle, Off; Dead Band, Min; Rate, Low. I've got the Rotation Power at AC. Direct are Off. I've got my BMAGs. I'm going to ungag them now. They're ungagged. I'm going to SCS Control. Okay. Now I'm going over and catch the - the bus ties. Here comes Bus Tie, AC. It's On. EC is On. Gimbal power Number 1 to AC 1, number 2 to AC 2. Start Pitch Gimbal Number 1.
+Mark. And Yaw Gimbal number 1.
+Mark. I have a thumbwheel drive. I'm driving it from zero to minus one-half to plus one-half, which is the trim. The Yaw thumbwheel is at plus one half. I'm going to take it to zero and back up to 1, and will set it at 122. It runs smoothly in both directions. I'm making an MTVC check in Pitch. There's a little plus Pitch, a little minus Pitch - that's good - a little minus Yaw, a little plus Yaw. That's good and stable. I'm going to CMC Control.
+Mark. I have no MTVC. I'm going clockwise on the Translation Hand Controller.
+Mark it. I still have no MTVC. I'm bringing on the Pitch 2 Gimbal.
+Mark. I'm checking the thumbwheel down to zero, up to 1, back to one-half. The Yaw thumbwheel is going over to one and I don't - Let me try it again. There it goes. Didn't have the Motor on; turning it Off. I'll turn it on one more time. Okay, it's stable. I'm taking the trim, which is now set at a little over 1 on the thumbwheel, down towards zero. I move it slowly. It gets a little dynamics, and then it stops. I'm going to take it down to zero at about this rate. It oscillates, and now it's diverging, and I'm turning the Gimbal Motor Off. I'm going to hold in this configuration.
+Roger. Copy.
+Ken, what we would like for you to do now is crank up the Yaw 2 Gimbal again to that stable condition, and then let's see what MTVC does to it - see if that will excite the oscillation.
+It did last time. I now have the Gimbal on again, and I'm going to give it a little Yaw, and there it goes. Coming Off...
+Mark.
+Roger. Copy. [Pause.]
+Would you like to take a look at it in Accel Command?
+Stand by. [Long pause.]
+Understand. Stand by.
+Roger. Ken, go ahead and let's try it in Accel Command. [Long pause.]
+Okay, and it's diverging all on its own in Accel Command. I didn't put any inputs into it.
+Roger. Copy.
+Hello, Orion and Casper. This is Houston.
+Roger. It looks like we're not going to have a decision on this rev, and we do have the capability of spending about five revs in this configuration before we have to make that decision. We would like y'all to move into a station-keeping position, and you should be at the closest point of approach at about 100 hours, and we're recommending a CSM active to move into a position and to station-keep. And we're gonna run some simulations down here on this TVC problem, and we'll get back to you. [Long pause.]
+Casper, this is Houston. You copied, too, didn't you? [Pause.]
+Okay.
+Rog. I'm with you. I still have the - some of the gimbal motors on and the bus ties. Want to stand by on that?
+Okay, Ken. We'd like to try one more thing. There's a remote possibility that the RHC may be inducing some noise or transients into the system. We'd like you to kill all the power to the RHCs. Turn off both AC and DC, and repeat the gimbal check in AC - Accel Command and see if the gimbal takes off.
+Okay. I've got - I secured the hand controller by just taking Normal 2 Power to Off, and the rest of the Powers were Off. I'm in Accel Command on Yaw and I'm going Number 2 up to Start, and it's in Accel, and it's stable. Would you like for me to try the thumbwheels?
+Stand by one.
+And with a little excitation from the thumbwheel, it took off again.
+Roger. Understand. [Long pause.]
+Ken, for that rendezvous, we're suggesting you use the procedure you worked on there in the simulator, just moving in when you're at close - closest approach.
+Okay, Hank. Will do that. Thank you.
+Let me see if there's anything else they want to do with this gimbal thing before we shut it down? Stand by one.
+Casper, Houston. We'd like you to try, for our data, one more Yaw primary - Yaw secondary G&N servo loop check - gimbal check. [Long pause.]
+Henry, did you say primary and secondary on this G&N drive?
+Negative. Just - just the secondary loop. I didn't mean to say primary.
+Okay. Can I turn the other three gimbal motors off?
+Say again. You were blocked out.
+I say, I'd like to turn the other three gimbal motors off if we don't need them.
+Roger. Go ahead and turn those off. [Long pause.]
+Okay. I'm now in - I'm in S - in CMC Control. I'm setting up 204, and I have program 509 loaded. [Pause.] I'm starting Gimbal number 2 Yaw. [Pause.] Okay. It's stable now. I'm going to do a Proceed on 204.
+Roger. [Long pause.]
+Well, doesn't look like I got anything that time.
+I suspect you've got to be in G&N or CMC Control, haven't you? [Pause.]
+Okay. Let's try it again. Go back over everything. [Long pause.]
+Okay. I'm coming up. I'm going to start it again. I'm going to try it. Now, as soon as I turn - Well, by golly, it - it damped itself there, it started out wild, and it's settled down. Now I'm going to Proceed on 204.
+Roger. [Pause.]
+Plus two, and it's oscillating. Minus two, and it's oscillating about one degree each, and it's oscillating in the center, it is not divergent, however. Well - now it's gone to trim, and it's oscillating about plus or minus - almost two degrees - or plus or minus one degree. I'm going to turn it Off...
+Mark.
+Roger. Copy. [Long pause.]
+Casper, Houston. You can go ahead and shut down the gimbal motors, and turn off the TV servo loops - TVC servo loops, and clean it up.
+All right, sir. I'll power down. Thank you.
+Casper, Houston. I've been advised that the average g killed your EMP. [Pause.]
+Okay. Thank you.
+Casper, Houston. We're about two minutes from LOS, and when you come around next time, in that rendezvous, just come up on the best omni, and then we'll get High Gain from there. [Pause.]
+Okay, Hank. And is there anything else you can think of we can do - we might try and take a look at? Otherwise, we'll just be station-keeping at a hindred feet or so. [Pause.]
+We can't think of anything else down here, Ken.
+Okay. Thank you, sir. See you in a few minutes.
+Ken, for your info, we up-linked a new vector to the the LM, and we weren't able to get yours in. So there will be a small difference - a couple of feet per second.
+Okay.
+Orion, this is Houston; I'm reading you. We want you to stay with the omni antenna. [Long pause.]
+Orion, this is Houston. How do you read? [No answer.]
+Orion, this is Houston. How do you read? [No answer.]
+Okay; yaw around to - yaw to zero.
+Yaw - yaw what?
+Yaw right a little bit.
+Why?
+So we can get a better - better lock on them.
+Orion, this is Houston. How do you read? [Long pause.]
+[Garble] checked out. I switched to...
+Loud and clear.
+...[garble] the THC to perform the secondary gimbal check [garble] normal. I set the pitch trim normally, I went to set the yaw trim; and [garble] that the trim would not work and I got divergent oscillations on the yaw trim indicator, and you can feel them in the spacecraft. So, I switched to the...
+Hey, Ken. Go off VHF please. [Long pause.]
+...the number...
+All we got to do is...
+Huh?
+Turn yours off, man.
+Huh?
+Turn it off over there.
+Houston, Orion. Over.
+Orion, this is Houston. We read you rather weak. How do you read us?
+Roger; you're five by. The Command Module did not reach Circ. And we're standing by to - for y'alls' decision with him. Over.
+Roger. Understand you standing by. We want you to stay with the omni and we'll be requesting high bit rate shortly.
+Roger.
+And we're ready for high bit rate now.
+Did you copy? No Circ.
+We copied, no Circ.
+Okay; you have high bit rate.
+You hear that noise?
+Okay. Anticipate a wave-off for this one. We'll set you up for the next one.
+Okay. [Long pause.]
+Yeah, What is that noise? Huh?
+I don't know either. Engine Arm, Off, Master Arm, Off, P00, Landing Radar is Off, Ascent Bats, Off.
+They are.
+Propellant Quantity Monitor, Off.
+It is.
+We never turned it on. Audio to PTT.
+It is.
+ECS to Cabin mode.
+It is.
+Helmet and gloves off, AGS to Att Hold.
+It is.
+Align IMU, P52, same stars.
+Okay, Ken's right out in front of us, maybe about a - 600 feet [180 metres], so we have a visual on him.
+How about if I just give you the high gain from right here?
+So we have a visual on him.
+Okay. We copy.
+What attitude do you want us to go to for bit.
+I think you can stop it right now.
+I'm -
+Stay right where you are, John. You're coming - comm's fairly good.
+Okay.
+Orion, will you confirm forward omni? [Pause.]
+Rog. That's what you have, forward omni.
+I prefer this attitude, Hank, because I can keep the LM in sight.
+Let's try that rendezvous radar lockup again, Charlie.
+Okay.
+I don't understand why it didn't work. Do you?
+No.
+It's good, John.
+It got him, hadn't it?
+Yeah. Go Auto Track.
+Orion, this is Houston. We'd like you to go back to normal RCS configuration. [Pause.]
+Roger.
+Normal RCS config, Charlie; whatever that means.
+Jim, be advised we had a couple of RCS Reg A lights on the back side, and by flipping the system, it went out. [Pause.]
+I think he's probably just about out of Mode - Mode 1 limits, John.
+Yeah, I think that's what it is.
+Roger. We copy, Charlie.
+Well, the heck with it.
+Wait a minute. Let me park the antenna where it should be.
+Plus all balls? No, you - there you go, plus.
+Okay.
+Let me pull the breakers.
+Houston, how do you read. Over?
+Orion, this is Houston. Read you loud and clear.
+Okay; I'm prepared to do that right now if you're ready.
+Okay. I don't think we're going to have a - remeeting problem here, but we're pointed right at him and as I look at him on my LPD, [pause] Ken is out at 46 degrees and about - oh, I'd say 800 or 900 feet, maybe a thousand [300 metres].
+Roger. Can you see those booms that had the problem? [Pause.]
+They're all retracted. Everything's retracted.
+Everything is retracted in the SIM bay.
+Okay, we copy.
+There's nothing we can do, Charlie. You think?
+Up to them. Let's see the book.
+You want - you say you want to go ahead and try it without - without the - without the loops? What do you think?
+I don't think they do. I bet you they don't.
+You never can tell, Charlie.
+What?
+What they'll do. Sock, me a little water.
+Okay.
+That's fine. Thank you.
+Houston, 16.
+Okay, go ahead, 16.
+All right, Jim. You guys working on some more PADs and stuff for us?
+Oh, yeah, we are, Charlie, and when you get a chance we'll take your AGS cal, if you have those.
+Yeah, sure do. Stand by.
+We'd like to pitch down to keep Ken in sight. Is that possible?
+Okay, you're clear. [Pause.]
+Okay, starting with 540, minus 008, plus 001, plus 002, plus 006, plus 05 - correction plus 045, minus 088, and the initial numbers were the same as on the Data Card Book.
+Okay, beginning - here's the readback, beginning at 540, minus 008, plus 001, plus 002, plus 006, plus 045, minus 088, and the initial values were the same as on the card. Over.
+That's affirmative.
+Okay. And on your RCS situation, we suspect that the burst disk went back side. We'd like to make sure that the System A pressure, when the source pressure in System A gets down to 500 psi, we'd like you to close off System A. Over.
+Roger. [Pause.]
+What is it now, Jim?
+When you say source pressure, you mean helium?
+Affirmative.
+Okay, Jim, the helium is holding right up there. It's 2400 and that was where it was before we started getting those RCS lights. The pressure never has gone above about the 205, 210 maybe.
+Okay, we copy.
+But it's RCS problem. The comm problem.
+The radar problem.
+And the gimbal problem.
+They're liable to shoot us down on numbers alone.
+Yeah.
+Man, I'm ready. I'm ready to go down and land. I think that'd really be neat.
+I bet we dock and come home in about three hours.
+- Jim, give me a call when you want us to go to Aft Omni.
+Roger. We sure will, Charlie. [Long pause.]
+You got a LOS time for us? [No answer. Long pause.]
+300 hours in the pressure suit.
+Ken, is your transponder on?
+Okay.
+Okay. We're gonna try our radar lockup here too again.
+Okay, Orion. Let's go Lo bit rate.
+Orion, will you go Hi bit rate, again? [Long pause.]
+Orion, go Aft Omni. [Pause.]
+We have Aft Omni, Jim.
+Roger. [Long pause.]
+Orion, go Lo bit rate. [Pause.]
+We have Lo bit rate.
+We have an RCS Reg A light, Jim. We're going to [garble].
+Orion, go A Simplex, Ken's trying to call you.
+Go ahead, Ken. [Long pause.]
+Orion, go Forward omni. [Long pause.]
+Orion, Forward omni.
+Okay, that sounds pretty good. [Pause.] Houston, how do you read Orion? Over.
+Read you loud and clear, Orion. [Long pause.]
+Houston, this is Apollo 16 [garble]. [Long pause.] [Garble] PDI. We'd like to try.
+Orion, this is Houston, if you're calling.
+Roger. We wonder if there is any possibility of an answer on - We're going to do a P52 and get ready for another PDI. Over.
+Stand by. We'll tell you.
+Okay. Orion, this is Houston. You can go ahead with your P52, John, we're thinking of having you all try to get back closer together on the back side, of your - point of approach. And we'll have some more words to you on that. And if later we decide for the PDI, we'll have another procedure for you.
+Okay. [Pause.] Understand.
+Houston, I gave you Aft omni.
+Orion, go Aft omni.
+Orion is in Aft omni.
+Roger. Copy.
+Orion, go Forward omni.
+[Garble] registering 10.
+Yeah, the [garble] was off 10.
+Orion, go Aft Omni.
+Orion, Aft Omni.
+Hello, Orion and Casper. This is Houston.
+Go ahead, Houston.
+Roger. It looks like we're not going to have a decision on this Rev, and we do have the capability of spending about five rev's in this configuration before we have to make that decision. We would like y'all to move into a station-keeping position, and you should be at the closest point of approach at, about 100 hours. And we're recommending a CSM active to move into a position and to station-keep. And we're going to run some simulations down here on this TVC problem, and we'll get back to you.
+Roger.
+Casper, this is Houston. You copied, too, didn't you?
+Roger. He reads you.
+Okay.
+Go ahead.
+That...
+Orion, this is Houston. We want to try another procedure here to improve our comm. We want you to select Secondary Power Amplifier.
+Okay, [garble] Secondary Power [garble].
+Orion, this is Houston. Will you confirm that you changed power amplifiers?
+That's affirmative.
+Roger. Copy.
+Orion, let's go Hi bit rate.
+You have Hi bit rate.
+Roger.
+Hey, Jim; Orion. Could we close off main B in this system A?
+Stand by.
+Orion, we're happy with your present RCS configuration.
+Orion, this is Houston. And if - you're in P00; if you'll go to Data, we'll send you a state vector. Over.
+Roger. You have it. Go ahead.
+Roger.
+And, Orion, we're 2 minutes from LOS.
+Copy, Jim. And we're going to - Updata Link to Off.
+Orion, we're finished with your computer.
+Roger. Thank you much.
+[Garble] the CSM to be active [garble]. They want [garble]. Oh, this one must be - Yeah, this is RCS [garble]...
+Okay.
+Yeah, they - yeah, but they must want the CSM to be active on the [garble]. What is the [garble]? [garble] go down there [garble]. Can't [garble] these burns [garble]. It's very expensive to try to keep [garble].
+Okay, Ken. We're gonna lock on to the landing rad - to the rendezvous radar, and are you just gonna move in with RCS?
+Yeah. I think I'll [garble].
+You're pretty garbled.
+[Garble]. Can you read me now, Charlie?
+Yeah, we - we read you.
+You sound like you're talking through about six feet of grits.
+I don't think that's what it is right now.
+That's [garble] all that stuff? Oh, man. [garble].
+Makes you think that the [garble] valve [garble][garble] landing radar, Ken. Pick me up [garble].
+Look at that.
+What?
+Already lost some of it.
+This was pretty good flight.
+Going down.
+Got time for this [garble]? It has - it's got a main [garble] minus something.
+Well, it will be here pretty quick, Charlie. [Garble].
+That's 20 minutes. I don't think we'll ever agree on that, though; okay?
+Okay. Let's try [garble].
+Okay.
+[Garble] there and [garble].
+Okay, [garble] lock up on the radar [garble]. Okay, Charlie.
+We're not locking up. We're gonna say that we don't want to do it for this, Ken.
+[Garble] plans.
+Okay.
+[Garble] flight [garble].
+[Garble] oh, okay [garble] try to [garble].
+I didn't get a chance to follow all the things [garble]. Do you have any problems or anything?
+We got a RCS problem, but it's not too bad. And, otherwise, we're okay. We can't get our steerable antenna up.
+You don't need that now, do you?
+No.
+Can you land on omni?
+Yeah, we can land on omni. How does that thing look to you, Ken? Is it unstable everywhere?
+Yes, sir. There's no question about it. I - any - any force at all that moves at all makes it go unstable. Looks like feedback in the control.
+Is that Main B? Is it run off Main B?
+Yeah. But I don't think that - it's not likely that I wouldn't have done that, I wouldn't think. They - they told me after - I guess it was after you guys had left that they went back and looked at the dumps and found that we happened to hit all the heaters at one time.
+Ah so. Well, I never did think it was a good idea to run those gimbal motors that long.
+Well, I guess they're having some of those kind of thoughts right now, too.
+Yeah. Those once in a million problems like that coarse align, and everybody gets boresighted on it.
+Well, I guess we really need to wait and see [garble] really want. You never know, those guys might come through here and find a way to take you down. Thought that it would hold its position with an external force on it, we could control the problem pretty good by using the - just using the proper trims to start the burn.
+Yeah.
+But if you just count on the external forces not moving it, then I don't know what you do. I was thinking maybe we could use it in Accel Command with - just set the proper trim and immediately go to SCS and Accel Command, point it the right direction.
+[Garble] that pulse. [Garble]
+You sleeping?
+Was I sleeping? I was almost asleep.
+I bet my bride is beside herself.
+Yeah.
+Well, we'll be two revs late, but we'll do it.
+I hope you're right.
+We ain't gonna do any EVA today, either.
+You don't want to?
+Not for two revs, Charlie. Let's do it tomorrow and do the full thing.
+What's it do, bend?
+Probably the first dish, yeah.
+He's dropping down out the bottom of the window.
+We're now passing right [garble] through Scorpio.
+Yep.
+Did find out that once we got the LM off there that the - we'd be able to see it a lot better. I guess the telescope just wiped out the [garble] the LM.
+What's the limitation of how long you can stay before - you can't go down?
+Five revs.
+No, I mean what's the limiting factor? Is it water?
+No. We got plenty of water.
+We could - we can land and just do a couple of EVAs.
+I just wondered what - how they came up with five revs - was it water or what [garble]?
+Got no idea.
+I don't know.
+Light still on?
+Yeah, ours is.
+No, I mean the RCS light.
+What's the pressure?
+It's 210.
+I think we got enough ullage in there, in the tanks to -
+Just let it go? It's not firing anymore?
+Well, I don't know.
+I don't think we ought to fire anymore.
+It's probably that thermal blanket blew off and caused this thing to overpressurize.
+Probably right, Charlie.
+But the temps are good.
+Is that sunrise?
+Yep.
+Did you say you had sunrise, Charlie?
+It's coming up. We can see it glowing beyond the horizon.
+It's gonna be instant sunrise.
+[Garble] doing? Man, looks like [garble] dark as ever.
+It's behind you, Ken.
+Yeah, it's behind you, boy. When it comes up, we won't be able to see you anymore.
+Okay; I've got you boresighted.
+Okay.
+Be kind of hard to get a radar lock. Oh, no.
+Yeow!
+Boy! Did you ever brighten up in a hurry!
+It was long before we got there, though, that we saw it, right?
+Right. Yeah.
+Do you reckon light bends?
+Huh?
+Reckon the light bends?
+Man, are you ever bright!
+Where'd my glove go?
+We were Go for PDI there for a while.
+Yeah.
+I can't - I can't believe it. I can't believe it (laughter). We'd had no trouble at all picking up the site either.
+I know; it's beautiful. I guess you can't win them all.
+I'm not getting any cooling at all, Charlie. Are you?
+Cooling?
+Yeah.
+A little bit out of the suit. Not much.
+Why don't you go to LGC on a - for a second or two?
+Okay.
+Charlie, we ought to have an eat period is what we ought to do. You ain't hungry?
+No.
+How about something to drink, or something like that?
+Back there in the food locker.
+I don't want anything, really.
+You don't? Okay.
+Unless they got a sandwich or something back there. I'll eat that.
+All they got is those drinks, Charlie. Those orange drinks.
+Wait a minute. Open the top, John.
+I don't want to get too close to the hatch.
+Ain't nothing wrong with the hatch. It's okay.
+Those two on the left come open.
+Yeah, I know it, if I can get to them.
+See. Those orange drinks.
+What's all that's in there, is orange drinks?
+Well, there's some stuff behind it, but I can't get at it. I'm not - I just can't. I - I could reach it with the moving the orange drinks, but if I do, I don't know what I'm gonna do with them.
+Put them in the Flight Data File up here. There's plenty of room up here.
+Oh, oh. Excuse me.
+Son of a gun, I keep - I keep getting them things.
+In this one?
+Yeah. Either one.
+Don't think there is plenty of room in there. No, there ain't.
+Man, there is more pieces of metal around this spacecraft! You want a food stick?
+It won't go in there?
+Might if I fold them in half.
+Stick them into the ISA then.
+There we go.
+I'd hate for any of that stuff to get loose in zero gravity. It would be a mess.
+Charlie, you got me almost to PDI there.
+Well, I tried hard.
+You did good.
+But if the gear don't work. Well, maybe they'll come up with something.
+How about a food stick? Can I have a food stick, Charlie?
+Sure.
+Don't know where he is now.
+Probably down below him. Below us, rather. Hey, Ken, they want you to rendezvous at 100 hours, wherever that is.
+Yeah, I thought they said that was our closest point of approach, and it sure doesn't look to me like it's gonna be. Looks like we passed it back there about 20 minutes ago.
+Yeah, I - I agree with you. They want you to be active.
+There is no way they can tell what it is or, these short things; they don't have any idea where we are, Charlie - Ken.
+Charlie, I'm going to try reacquire range and make sure I don't have a bad rate.
+Okay, I got 0.68 on the...
+I got 0.52. Let me reacquire and we'll try it again.
+That - What is that? That's not 1678.
+No, that's...
+Say, could you could stay off the mike while I get it working?
+Okay, I have reacquired the LM. 0.55.
+Okay; you can start closing if you want, I guess.
+Yeah, I guess I will. I was gonna watch - watch the Sun here. It should scoot back around any minute.
+Yeah, just be - Hey, if you want us to give you range and range rate, we'll lock on you. How about that?
+I'm sorry. I didn't understand what you said, John.
+We should lock on you and give you range and range rate.
+Well, I thought you were saying you didn't have your radar, and I thought that made good sense.
+No. We got plenty.
+We've got plenty of radar. We're going to do it.
+I thought you were trying to save on your amps.
+No. No, we got plenty of amps.
+Okay. Well, that would help. That's better than this thing.
+Dang right. Where are - Which way should we pitch to get to you?
+Beg your pardon?
+Which way should we pitch to get to you?
+Oh. Well, let me see here. All - Oh, boy. It's hard to tell what figures I'm looking at, it's so bright. I think I'm looking at the top of you, though.
+Okay.
+That's what it says, pitch up.
+[Garble], Well, you can't believe that, Charlie. We ain't updated it.
+Huh?
+We ain't updated it or nothing.
+I said - Oh, you mean the radar?
+I don't see him anywhere.
+That's superbright. That must be - maybe I'm looking at the heat shield around your engine. That's probably it, because I can see the four gear. You - you must be pitched 180 to me.
+That's what I thought. He's been going in under us.
+Well, why did you say pitch up?
+I didn't say that, Ken did.
+(Laughter) You ain't gonna take credit for it, huh? [Garble] I'd have swore I heard you say pitch up.
+Well, that's what the AGS says, but that ain't right.
+Well, it must have been - You know...
+Yeah, yeah.
+...you can't - Anything less than a mile, these things ain't no good. Because - Well, AGS is okay. But this thing here measures from the center of the Moon. I don't have the foggiest notion where our boy is.
+Hear that noise?
+It's in the comm. Oh, that whooooo? Oh, yeah.
+That's what I mean.
+Yeah.
+We were back here - It's got something to do with the VHF ranging.
+Boy, I don't see him anywheres.
+Think we got quite a ways to pitch yet.
+Oh, shoot. Do it.
+There he is. Yeah, he's way far away from us. I think what the problem is, Ken...
+There he is, dead ahead.
+...is you're opening up.
+Dead ahead.
+Yeah, I got it.
+Push the Rendezvous Breakers breakers in.
+Yeah, that's a good idea.
+I agree with you.
+You want to be careful how much velocity you add, because you're too low to add a lot. Or...
+So far I've just put in two foot per second, but that's - that's even closing [garble]
+Okay.
+It looks like you're looking at me now.
+Well, two foot per second, you should of took out two foot a second on account of you're ahead of us.
+Say again?
+Remember Mr. Kepler?
+Say again, John.
+Either way, two foot in or out will do it. That'll make him slow down when he goes up over the top of us.
+Yeah.
+I'd rather have - There we go.
+Hey, we got him. Okay. He's still opening.
+Okay. What kind of a range do you read now?
+0.66 miles and open, and it's 0.6 foot a second.
+Okay.
+Well, I guess I better put in another couple of foot per second then. Hate using all that gas on it, but I guess that's the only way.
+Let me get him boresighted and locked up.
+Well, let me get it like this.
+Okay. Thought we might have had a side lobe.
+Yeah.
+There you go. Go to LGC.
+Got a side lobe.
+Okay, what do you show now? ["Tell me when you [garble]" in LM comm]
+Stand by, Ken. We had a side-lobe block. We're getting the main lobe.
+Okay.
+That looks like it, John. Oh, you want to go to -
+There we go.
+Okay; we close. Show 0.68 miles [1.26 kilometres], 0 feet a second,
+Yeah, you're 4200 [feet, 1,280 metres] out. It says here it -
+Okay; we show you -
+Better not add too much.
+No. I'd just hold what you got, Ken.
+Okay.
+He'll drop way down. You know, if he - if he fires this way, it's retrograde; it's gonna drop him low - lower his orbit.
+Yeah, how much did you put in?
+I put in a total of 3.5 [feet per second or 1.0 metres per second].
+Okay. Well, that's gonna get you right close to the ground.
+Not from over here.
+Well, I ain't gonna get very far from you.
+Am I closing any yet?
+No. It - it'll take half a rev.
+Okay, I'm not sure - it seemed to me like they gave us bum dope on this 100 hours.
+Yeah, you know they have no idea where we are.
+Yeah, but they know where we undocked and we haven't done anything. Think they ought to...
+No, no. There's no way. Not for short ranges like this.
+I really wanted to get within half a rev. I guess that ought to be a radial burn, shouldn't it?
+Okay. We show you closing slightly now, about a half a foot a second.
+Okay.
+Yeah, it shows it took me down to 8.6. But as long as I stick with you, I can't get too far away.
+Okay. Our Range Rate meter says you're 4,100 foot [1,250 metres] out.
+Okay.
+What do you show for your - perilune?
+The what?
+What's your perilune?
+Ours says 11.0 [miles, 20.4 kilometres], Ken.
+Okay, I'm reading 8.6 [15.9 kilometres].
+I guess the five revs might have been, John, the - the high gain coverage they got, since our steerable doesn't work. We can go as long as we got the 210.
+Yeah.
+It's going to be hard to run - He's going to take a lot of gas to get over here.
+Should have took it out.
+Huh?
+You thrusted toward us 3.5 feet a second. Is that true?
+I thrusted toward you 3.5. Yeah that was - looks like mostly retrograde.
+Yeah. Looks like to me you're gonna have to go up a little bit now, a couple of feet a second.
+Have you got some kind of a chart there I could navigate with?
+No, we sure don't.
+No. But, see, that retrograde burn is going to take you down, below us.
+Roger. I understand that. It really looks like what I want to do is make a radial burn, you behind me. I really ought to make a radial burn now, shouldn't I?
+Yeah. Shouldn't he?
+How about let's do that?
+Okay.
+What's my range and range rate now?
+0.680 feet a second [0.21 metres per second].
+Okay. There's 0.5 foot per second 0.15 metres per second] radial out. ["0.4 foot per sec" in LM tape]
+Okay.
+Man, it's really white into zero phase, isn't it?
+Sure looks to me like I'm opening again.
+Well, we got you about zero, Ken, maybe closing slightly. I think it's gonna take a couple of feet per second radial.
+He's got to go up like that. But with our mechanics, it may not do anything.
+I guess I'm getting a little concerned about that minus-X I put in there.
+Guess I don't blame you. I'd have thought you'd have put in plus-X and rose over the top of us.
+Yeah, I think I'm gonna take it back out and go the other way. That sound reasonable?
+Sure does to me, Ken.
+Okay; here we go.
+Okay, there's two - two power.
+Okay, now that shows you're opening at 3 and a - that shows you're opening at 3 [feet per second - 0.9 metres per second].
+Here comes Earthrise. See it?
+Yeah.
+That's spectacular.
+Yeah. Now according to our mechanics, you're bound to end up behind us, and close to us.
+Okay. That shows I got a 59 by 9 [nautical mile, 109 by 17 kilometres orbit].
+Houston, Orion. How do you read?
+Orion, this is Houston. Read you loud and clear.
+Roger; same-o, Jim. We're about 0.7 of a mile [1.3 km] out from Casper now.
+Say again, Charlie. We still have excessive noise down here.
+I say our range to Casper is about 0.7 of a mile.
+And he's opening at 2½ [feet per second, 0.8 metres per second]. He put in some posigrade velocity to go up and above and come down and get with us.
+John, I think that total is still slightly retrograde.
+The total is (slightly retrograde?) [Long pause.]
+Yeah, you - I - I'm thinking maybe I ought to go put some more in there. What do you think?
+Okay.
+Okay, 16. This is Houston. We still do not have an answer, but people are working very feverishly. [Pause.]
+Orion. Roger.
+Okay; thank you. It'll probably be awhile before we get to station-keeping anyway.
+Roger. [Long pause.]
+That only shows 9.2 [2.8 metres per second]. Why don't we get them to get an arc on this? I guess I'd like to know how good my vector was to start with.
+It's no good this close in, Ken.
+How's that?
+Say again? I'm sorry; I can't hear you.
+It's not any good this close in.
+Okay. I can't hear you.
+He said it's not any good this close in.
+I know, but my state vector is good. How good is it?
+Oh, okay.
+That's what I'd like to know from Houston.
+You're not locked on them?
+Stand by, Ken. [Long pause.]
+Ken - Ken, you should be able to get a lock on with them.
+No, I've been trying that.
+Roger. I'm trying now.
+Houston, Orion.
+Go ahead, Orion.
+Okay; we got an RCS System A Reg light. Pressures: Helium is looking like 2300...
+Get the B?
+The Propellant is at 210; the Fuel Manifold at - and Ox Manifold is - correction, make it 215 - or 220. And everything else looks pretty good. Pressures are holding up - You think the burst disk is gone?
+Houston, do you read Casper?
+Roger. That looks that way to us, Charlie.
+Houston, do you read Casper?
+Okay.
+Yes, Casper. This is Houston. Read you loud and clear.
+Okay. Look like we got a - that 100 hours was a bad time, and I tried to close at him before he realized that it was all minus X. I put in about 3½ foot per second and got to checking. That didn't look like the right thing to do. So I took about 3 of that out, and...
+Hey, Ken, why don't you summarize what you did in the way of thrusters to tell them what to expect. Okay?
+I'm doing that, John.
+...and so I took about three of that out, and I put in a half foot per second radial at about 100 hours and 5 minutes. And I put in the rest, took two foot per second posigrade at about 100 hours and 6 minutes. And at about 100 hours, then I put in three - it was about - roughly retrograde. And my computer now shows 16.5 by 9.2. And I had a good state vector when I started, and that's probably a good value - whenever you get a short arc or something on me.
+Roger. We copy, Ken. [Long pause.]
+That [garble] sound - sounds like all the gears are broken in it.
+Orion, this is Houston. We're wondering where you got the estimate of 0.7 nautical-mile range [1.3 kilometres]. [Pause.]
+We got the Rendezvous Radar locked on, if you want us to. Or do you want us to turn it off?
+No, that's fine. [Long pause.]
+Yeah, I show us now at about 0.9 mile [1.7 kilometres]. Is that correct?
+That's right, Ken.
+5500 feet, Ken [1.7 kilometres].
+Okay. And still opening?
+Yeah.
+Houston, Orion. John and I been talking about - If we get to land this thing, we'd like to - probably ought to think about going to sleep first, and we'd get up and do a full EVA tomorrow.
+Roger. We - we concur down here.
+Could you tell me if my range...
+Okay, Casper; this is Houston. We're recommending that you null the line-of-sight rates...
+...[garble] Go ahead.
+...and fire five feet per second toward the LM. [Long pause.]
+Okay. That's still going to be mostly retrograde, it looks like. That's how I got in this place to start with.
+We copy you, Ken. [Long pause.]
+Okay, I'm going to hold. Can you guys get a short arc going on my trajectory?
+Okay, Ken. We show you coming up on perilune now, so you'll be affecting your apolune. [Pause.]
+You show me coming up on perilune?
+That's affirm. [Long pause.]
+Roger. My state vector shows 19 miles up [35 kilometres], and we're not - I'm just passing Smythii. is that - Does that sound reasonable, that we shifted that much in orbital track?
+Okay. That sounds good, Ken. [Long pause.]
+Okay, I guess I'd like for you to - to summarize again where I stand. I'm a little bit confused now, Jim.
+Roger. We were hoping that... [Long pause.]
+[Garble] I'm just passing Smythii, and my altitude according to my computer - Was my state vector a little bit off to start with?
+We think your state vector was fairly accurate, Ken. [Long pause.]
+Okay. Then there's still a discrepancy in...
+And you'll be at perilune in 15 minutes. [Long pause.]
+Okay, that makes more sense. All right. Because I'm presently at 19 miles, and I think that's probably a good estimate. All right. If I do - Do you want me to thrust towards the LM now, because I'm approaching perilune. Is that affirmative?
+That's affirmative. [Long pause.]
+Okay. Now I'm - This is using up a great deal of RCS which is going to violate the next line. Is this preferable to trying to do a regular rendezvous now?
+Regular what?
+Because if we still have a chance at landing, then I need to [garble] to you...
+Ken, could you give us your position, relative to the LM? [Long pause.]
+Yes, sir. I'm ahead of him and slightly below, and I show a - a mile [1.8 kilometres] on the EMS, and I don't know what John has on the radar.
+Yeah, he's - he's ahead of us, and I show him about - level and 6,500 feet [2.0 km] out and opening at 3 feet a second [0.9 metres per second].
+Okay. We copy your position as ahead, below, and about one nautical mile. [Pause.]
+That's affirmative.
+And he's opening at 2½ on 16 78.
+Roger.
+And 3 feet a second on the tapemeter. [Long pause.]
+Can't unless we terminate this.
+Well, let's terminate it.
+Can't terminate it, huh? Go to Auto in Track.
+Okay, Jim. To make sure there's no confusion, I haven't done anything yet.
+No, you got to...
+Okay. Stand by. [Long pause.]
+Thank you, sir.
+Okay. On the - on the COAS, I've got him boresighted there, and he's 35559 from local vertical.
+Okay, Casper. This is Houston. We're convinced that we want you to fire directly at the LM about 5 feet per second. We want to get a positive closing rate.
+Okay. That's in work.
+Okay. Looks like the DAP isn't stable now. How about if I give it a Verb 46?
+Roger. We copy.
+Is that a good idea?
+Ken, we show you in Free.
+I am now: but I wasn't.
+The DAP is unstable!
+Okay.
+Does that mean I'm clear to do a Verb 46? [Pause.]
+Yeah, they said okay.
+They say okay, Ken.
+Okay. No, that doesn't work. I think maybe I've had one of those transients. [Long pause.]
+For some reason, every time I pick up CMC Auto, this thing - starts doing maneuvers. [Long pause.]
+Can't believe it.
+Turn on some water, Charlie.
+Orion, let's go Lo Bit Rate.
+You have it.
+Okay.
+Okay. I've got it under control, Jim. I had a bad DAP. [Long pause.]
+Okay; we'll [garble] 5 feet per second directly at the LM. [Long pause.]
+Go.
+Didn't mean to do that.
+What?
+What he just did.
+Huh?
+He didn't mean to do it.
+He didn't?
+No. It's going up and over us right now.
+See? The line-of-sight rate...
+Casper, this is Houston. Hold up on that RCS maneuver.
+Okay. I've put in 3 foot per second.
+Hold up, Ken.
+Say again, please?
+Okay. Hold it there.
+[Garble] Okay. Holding at three.
+You keeping him boresighted?
+Yeah.
+Roll's going off a little bit, John. Not that that's going to hurt you any.
+Say he's drifting down - that says he's drifting down.
+He's drifting up.
+Well, look at the needle.
+Okay, Ken, to - to get us, you're going to have to thrust down to null the needles.
+Thrust down means towards the Moon or down as you see it?
+Towards the Moon.
+Towards the Moon.
+Okay. I guess I am. Houston, do you want me to go null line of sight all the way in?
+We need a range and range rate reading now.
+[Garble]
+7000 feet [2100 metres], closing at 3 feet a second [0.9 m/s], and we have a line-of-site rate. [Pause.]
+Roger. We copy. [Pause.]
+Okay, Ken. If you can kill that line of sight, you're closing.
+Roger, Charlie. I'm standing by for instructions for best [garble]
+Yeah, Casper; this is Houston. You should null the line-of-sight rates. [Pause.]
+He'll take...
+Okay, do you want me to keep them nulled and go all the way in? Is that the idea?
+Roger. Keep a positive closing rate.
+Okay. It's likely to be expensive, but we'll do that.
+Okay, [not on PAO recording] you're going to have to - Your needles are better than [back to PAO recording] mine, why don't you tell me what to do there, John.
+Okay. Thrust down, and I'll tell you which way the needle moves. [Garble].
+Towards the Moon, Ken.
+Towards the Moon.
+Wilco.
+That's the wrong way, Ken.
+That's sure towards the Moon.
+Were you thrusting?
+That's affirm.
+Okay, thrust away from the Moon. That's doing it. Little more. [Pause.]
+You didn't get it corrected, Ken. [Pause.]
+How's that now?
+Oh, it's just not moving very much at all.
+Okay, that's a good place to stop?
+No, you - It's gonna be expensive, Ken, to do this, but you - you're gonna have to thrust up.
+Okay, I just need some gauges to when I got it nulled.
+Okay. You don't have it nulled.
+How's that?
+That's - you've got 4 milliradians down. [Pause.]
+Okay. What's my range rate?
+Three - 3 feet a second, closing.
+Okay.
+You're at 6,600 feet [2,000 metres].
+Still going down.?
+That's affirmative. [Pause.]
+You got it to 3 milliradians.
+You got it to 2 milliradians. [Pause.]
+You've got it to 2 milliradians. Now you've got it, Ken. You killed it.
+Okay. [Long pause.]
+Looks to me now like I'm drifting the other way.
+Not according to my needles.
+Okay; I'll believe your needles. [Long pause.]
+Better be something right around here.
+Well, I really don't know.
+Don't know what, Charlie?
+Range rate?
+Three and a half feet [1.1 metres] a second, and you're at 6300 feet [1900 metres].
+Okay. [Long pause.]
+Is the rate starting to build now? I'm trying to calibrate the deadband activity here so I can tell what the rate - when it's really a rate and when it's just deadbanding.
+Okay. Your rates are nulled, essentially.
+Okay, thank you. [Long pause.]
+Turn on some more water, Charlie. I don't know if I can stand this or not.
+I think I might throw up.
+Houston, Orion...
+Orion, request you select the Secondary Transmitter and Receiver. [Long pause.]
+Ken - Ken, tell them I selected that Secondary. It'll be awhile.
+Okay, Houston. Orion says that they have already selected the Secondary. [Pause.]
+Okay, Houston. How do you read now?
+Read you loud and clear, Orion.
+Okay. You're five by. How's the problem looking? [Long pause.]
+16, no answers yet. We're still looking at it. [Long pause.]
+You - you maneuvering, aren't you, John?
+You - are you - you're pitching up, aren't you?
+Yeah.
+Huh?
+Yeah.
+Okay. I just wondered. He looks like to me he's moving on out there some.
+He is moving out.
+Okay, Ken. You're at 5,600 feet [1,700 metres], closing at 4 feet a second [1.2 m/s].
+Okay. [Long pause.]
+Okay, Orion. This is Houston. We'd like you to open the Primary Power Amp circuit breaker on [Panel] 16. [Pause.]
+It's open, Jim.
+Roger. [Long pause.]
+Okay, Orion, let's go Hi Bit Rate.
+Rog. You have Hi Bit Rate.
+Roger. [Long pause.]
+Here comes the landing site.
+Yeah.
+Okay, Ken. You're getting a line-of-sight rate. You're going to have to thrust a little toward the Moon. [Pause.]
+Okay, let me try this.
+Okay, we can't hold Hi Bit Rate. Request you go back to Lo Bit Rate, Orion.
+Is that the right direction?
+Needles didn't move, Ken.
+That's the right direction.
+Okay, that's up for me - it looks like it ought to be down for you. [Pause.]
+That sounds pretty good, Ken.
+Okay. [Long pause.]
+Okay, Ken. You've got it.
+Orion, this is Houston. Can you give us a range and range rate read-out?
+Okay; 4,900 feet [1,500 metres], closing at 5 [feet per second, 1.5 m/s].
+Roger. 4,900 closing at 5. [Long pause.]
+You got the line-of-sight rates nulled now, Ken.
+Okay. [Pause.] Man, this is expensive.
+They wouldn't want to do it the easy way. We're gonna arrive at the same time, in the dark. They've thrusted toward us at - at perigee at 100 hours. Man, that's really - I mean, he's thrusting at apogee so it'd take effect at perigee. And that's no good.
+Rates nulled again, John?
+Yes, they're nulled right now.
+Okay - They are going to keep building this way, and do we have some - some fuel point at which to cut off and switch over to LM power.
+How much are you using?
+Stand by, Ken.
+Okay, well, you're at 4,000 feet [1,200 metres] now, at 5 feet a second [1.5 m/s], Ken.
+Okay, hopefully, that's most of it.
+And - and - and your line-of-sight rate is starting to build a little in the other direction. You've got it now. [Long pause.]
+Orion, this is Houston. Is the CSM above you or below you? We hope he's directly ahead. [Pause.]
+He's at 45 degrees above us.
+: Forty-five degrees above.
+Above the local vertical.
+Roger. [Pause.]
+And, he's got a - a 5-foot-a-second closing rate, and his line of sights are nulled on the radar.
+Roger. [Pause.]
+And they look like they're killed completely on the optics too. [Pause.] Going to need your tracker light here in a minute. We're just getting a little glinted sunlight now.
+Okay. It's on now?
+Okay. Thank you. [Long pause.]
+Which way was he supposed to thrust to null them?
+The one that was down - then it was up, he was thrusting -
+Toward the Moon...
+Yeah.
+...away from the Moon.
+It was down for him.
+It was opposite.
+Yeah. They're just opposite of what we're looking at.
+Yeah.
+Boy, those rates look steady as they can be.
+You've really got them killed. [Long pause.]
+Okay, and since we are going to get rendezvoused in the dark - I guess we'll just come up alongside and hold stations.
+That seems like a fair thing.
+All right, sir. [Long pause.]
+Would - would it be easier to thrust down now?
+Yeah.
+Okay, Ken. You're going to have to thrust down a hair.
+That's down to you, right? [Pause.]
+It looks - it would be up to us, Ken. I think if we thrusted, we'd have to thrust up. I think you have to thrust down a skosh.
+Yeah, that's what I mean, you would thrust - you would thrust up.
+Yeah.
+Okay. I think I got it killed again.
+It's looking good.
+Looks pretty good. [Pause.]
+What's that closure rate now?
+Still five feet a second. Still off 3½ feet a second [1.1 m/s] now at 3,000 [900 metres].
+3½ feet per second.
+Roger.
+Okay, all I've got's the tracking light; I've lost the rest of your image.
+Okay. You've - you're gonna have to thrust a little more to kill that rate the same way. [Long pause.]
+Okay. That got a lot of it, but not all of it. [Pause.] Okay. You got most of it.
+Okay, Casper. This is Houston. You might pick up a temperature caution light on your quads, but it's of no consequence.
+Okay. Yeah, I see B is up high. Is that due to the thruster activity?
+Affirmative, Ken.
+Or is that due to heater fail-on?
+I think it's thruster activity.
+Okay. Rog.
+Orion, this is Houston. Will you give us another range and range rate, John?
+Yep. They're at 3,100 feet [950 metres], at 3½.
+Roger. 3,100 at 3½.
+Roger. At an angle of 68 degrees to local vertical now.
+Understand; 68 degrees. [Long pause.]
+I can't believe I'm doing this. I can't believe we're doing this. Turn on some more water.
+Okay, Ken. You got a sight rate going to the south according to my needles. [Long pause.]
+Whoa, Charlie.
+Whoa.
+Okay. Let's watch that for a minute before I start working on it, because we haven't had any plane component before.
+How's the line-of-sight rate doing now? Holding?
+Holding. It's holding - the vertical one is holding right on.
+Okay. And range rate?
+You're at 3,000 feet [900 metres], at 3 feet a second [0.9 m/s].
+Okay.
+2,800 feet [850 metres].
+Now we must be going in the right direction then.
+Yeah, you're just get there.
+Yeah.
+You now have 2 milliradians to the south.
+Okay, I'll take some of that out. That means I go to the south, right?
+Yep. [Pause.]
+How's that? Right direction?
+Yeah, that's got most of it. [Long pause.]
+Go ahead. [Pause.]
+You still got some more to the south you've got to get. Still 2 milliradians. Okay. That's got it, Ken.
+Okay. [Long pause.]
+Okay, it looks like I'm picking up a rate in the opposite direction in the in-plane component.
+No, you're not - you're not - You don't have any rate yet.
+Okay.
+According to my needles.
+All right. [Pause.]
+This is very much like the simulator where, because of the deadband lags, it looks like it takes a long time to pick up one of those rates. [Long pause.]
+Orion, this is Houston. We want you to get the Rendezvous Radar and the tracking light off as soon as it's feasible, to conserve power.
+Roger. We will. It's not too feasible right now.
+Yeah, we understand. [Long pause.]
+Okay, it looks like I may be a little more to the south.
+Just a hair, Ken. Okay. You're at 2,400 feet [730 metres] at 2 [feet per second, 0.6 m/s].
+Okay.
+He's going to need to thrust towards us a little bit.
+Yeah.
+He thrusts the opposite way we do. We're up down.
+Yeah.
+How about that rate to the south? It looks like it's building again. Okay.
+Ken, our needles don't show it.
+Okay. [Long pause.]
+He never really got it all out.
+Better start using their -
+Huh?
+Somebody better start using their brains and common sense here.
+What do you mean?
+Or it'll blow the whole works.
+You don't think this is right, what he's doing?
+Yeah.
+You want me to stick that card back over there?
+Hey, I show quite a drift rate now, John. Do you still show no out of plane?
+Yeah, I don't show any, and I've got you boresighted in Att Hold, and I don't show any motion there either, Ken. [Pause.]
+Where? Our needles say he's drifting south.
+Just a little south, Ken.
+Okay. It looks like - I'm going to take some of that out. [Long pause.]
+He's going off the bellyband.
+Can you tell if I'm going to - maybe I put that in the wrong direction, although I'm sure that that was the right - South is to your left, isn't it?
+You betcha.
+Okay. We're going the right way, then.
+Hey, wait a minute, Ken...
+Whoa, Ken. You got it.
+Okay, Ken. You were drifting south. That's right. You have to thrust north. You got it.
+John, we've been going the right direction all along, then.
+Yeah, you have. Yeah, don't worry about it.
+It appears to be I'm still a little bit out of plane. I guess that's the sensitivity of the Rendezvous Radar. [Long pause.]
+Yeah, don't worry about it.
+Down to one foot [0.3 metres] a second. If he'd get a little bit more closing rate in, it'd be less gas.
+I think it would be too.
+Huh?
+Let's call up Verb 63 again. Can we do that? No, I don't want to - I don't want to break lock.
+Okay; how's my closure rate?
+We're showing a foot a second on the tapemeter. It isn't closing very fast.
+Well, that's what I was just wondering. There could be a little more plus-X.
+Okay. Say when and how much.
+Okay, I'm going to put in a foot plus-X.
+Okay? As long as we are using brute force, we might as well.
+Okay. [Long pause.]
+Okay, that's about a foot.
+Okay. You're at 2,000 feet [600 metres] at 2 [feet per second, 0.6 m/s]. [Long pause.]
+There you go. It worked.
+How about that? [Long pause.]
+What was that?
+Tunnel light.
+Oh.
+I can see the LM in Earthshine now. [Pause.]
+Okay, fine. [Long pause.]
+You're getting over behind us, Ken. You're going to have to - to thrust toward us a little more.
+Okay, what's my range rate now?
+You're at 2,000 feet, but it's hardly closing at all.
+Okay, give me another foot. [Pause.]
+Okay, there's another foot per second. [Long pause.]
+Okay. [Pause.]
+Now you're starting to build a rate to the north.
+I don't think those needles are as good as we're using them in here.
+Yeah, I - I don't think they're quite as good.
+It looks like I need to start reversing my in-plane direction.
+Yeah.
+Okay, do I still have a positive closure rate?
+Yep, 3 feet a second; 2,000 feet.
+Okay.
+1,800 feet now [550 metres].
+Old Antares.
+Okay, Ken. Now, you are moving north definitely.
+Okay, I'm getting you centered back up in the COAS. [Pause.]
+Okay. [Long pause.]
+He's got to put that 05 back in to get - to get his orbit back up.
+Okay, do I still have a closure rate?
+Say again?
+Do I still have a closure rate?
+That's affirmative; 2 feet a second.
+Okay. Looks like the old EMS is just sort of sitting here looking at itself.
+Okay, Ken. You do have a line-of-sight rate to north.
+Okay, I'm going to go ahead and use the EMS - I mean the COAS on the sync because that's working out pretty good in here. Seems to be a more sensitive indicator of out of plane.
+Okay, you've got 4 milliradians to the north. You're at 1,500 feet [450 metres] now. [Long pause.]
+Okay, well. Just barely drifting in my COAS. It's pretty good here. [Long pause.]
+Okay; well, now, you have... [Long pause.]
+Can you see me at all?
+Yes, sir, in Earthshine I can see the whole LM now.
+Okay, fine.
+I'm afraid we're going to run out of Earthshine here before we get it completed. How's the closure rate now?
+Still 2 feet a second, Ken. We're about 1,400 feet [430 metres] now.
+Okay.
+Man, that Moon in Earthshine is really something.
+Okay; And I show you with 4 milliradians to the north, and I see you drifting slowly across the COAS to the north.
+Rog. I didn't quite get it stopped. [Pause.]
+That looks to me like that's fixed.
+Okay, you're fixing it.
+[Garble.] You still show some residuals?
+Yeah, you're still 3 milliradians to the north.
+Okay. [Long pause.]
+Orion, this is Houston. We're showing about ten minutes to LOS, and I have some words for you on our general plan, when it's convenient.
+Go ahead.
+Okay. [Pause.] Fair enough.
+And, Casper; this is Houston.
+Go right ahead.
+Roger. We want you to verify that you're in Auto Dump on the water. That's Pressure Relief in the number 2 position. That's vertical. And if you have an opportunity to get away from the controls there, we'd like you to manually dump the water to ten percent on the back side. That should require about 17 minutes. Over.
+Okay. I am in Auto Dump and I'll have to wait until we get in daylight to go down there, I think.
+Okay, we copy.
+I show about full, but I guess it isn't. [Pause.]
+Okay, Ken. The line-of-sight rate is starting to - Have to thrust down a little - I mean, up a little. [Pause.] That fixed it.
+Okay. [Pause.] How's my closure rate?
+Two feet a second. You have it.
+Okay.
+You're at a thousand feet [300 metres] now, approaching [garble].
+How's the out of plane?
+It's starting to go to the south of here. Don't worry about it right now.
+All right. [Long pause.]
+You got it, Ken. When you get in - when you get in...
+Orion, this is Houston. We'd like you to configure for RCS Bravo only. Over.
+Roger. We'll open the Cross Feed and pull Main SOV A.
+We're configured.
+Why don't you turn out some lights, Charlie? I don't know...
+Okay. How's that?
+Yeah. Okay.
+Let me turn the numerics down a little bit.
+Okay, Ken. You're about 990 feet [300 metres] now.
+All righty. [Long pause.]
+What a time to be closing, pitch black dark.
+970 [295 metres]. [Pause.] You've got the line-of-sight rate. [Long pause.] Okay; can you see me with the spotlight yet?
+No, that's what I was looking to see, because we're going to lose Earthshine here in just a minute. [Long pause.]
+Okay, Ken. You've got to thrust down just a hair. [Long pause.]
+You get that thrusting down a hair?
+Yeah, I'm not sure if that was the same [garble] you're talking about. [Pause.]
+Okay.
+Does that fix it?
+No.
+It's really strange, it was sitting here in the COAS here, right in the middle. [Pause.]
+You thrust a hair down and a hair to the north.
+You're upside down compared to me, and when you say down you mean you're going - you're going down on me - is that correct?
+I'm doing it from the needles. If you don't ro - if you haven't rolled from the last way you were doing it, we were doing it okay. [Long pause.]
+Yeah. That's right, Ken. We're going down with you. We'd have to thrust up, according to the needle.
+Okay; it's 820 feet [250 metres] now.
+Okay. [Long pause.] It still doesn't seem like it does much. [Pause.] Okay; I show a line of-sight rate that's essentially killed.
+That's about right.
+Yeah. They're about killed for this close in. [Long pause.]
+He looks bigger than 800 feet [240 metres].
+Sure does. At night, all cats are black.
+[Garble] one of those cycle slips of that radar.
+What's your VHF reading, Ken?
+[Garble] One-four.
+0.147
+Yes, sir.
+Okay; we're 750 feet [230 metres] here.
+How much?
+750.
+Okay, I can see your image is about 2 degrees, now. [Long pause.]
+16, this is Houston. We're showing about two minutes to LOS, and if you'll give us a range and range rate, and, Ken, perhaps you could repeat it for us.
+Okay; 710 feet [215 metres], closing at 2 feet a second, rates essentially nulled.
+Did you copy that, Houston? The range is 710 feet, 2 feet per second, rates nulled. [Long pause.] Houston, did you copy Casper?
+Roger; we copied down here. Thank you.
+Okay. [Long pause.]
+Okay, Ken. I can see the whites of your eyes. I can see you every time your light flashes. And every time my light flashes, it flashes off your probe.
+Uh huh. Let me turn my spotlight now. [Long pause.]
+You ought to have me now. Does it do you any good?
+Yeah, I can tell I got you, but it's a poor competitor for Earthshine. [Pause.]
+Well, we ain't got any Earthshine, old buddy.
+Beg your pardon.
+I say, we're gonna lose Earthshine here in a minute.
+Roger. It will all of a sudden look very nice. [Long pause.]
+You can rendezvous under these conditions very nicely, the problem being that you've got to keep referring to the reticle to get some kind of range, I because there's just no - you still don't have enough good depth perception to tell where you are. [Pause.]
+Right. You're gonna be docking with - you're just slowly drifting to the north. You got the vertical line-of-sight rate killed.
+Okay, in order to have good comm, [pause] man, you just disappeared - got the spotlight on. [Pause.] I tell you, the spotlight isn't nearly as good as Earthshine. I'm really surprised.

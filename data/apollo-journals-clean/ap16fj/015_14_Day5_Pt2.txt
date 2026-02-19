@@ -1,0 +1,1117 @@
+Hello, Houston. Ole Orion; how do you read? Over.
+Orion, this is Houston. Read you loud and clear.
+Okay, Jim. We're zipping right on through the checklist. We got the PGNS up, the docked coarse align done, the landing gear's deployed, and the only thing we haven't done is really what you need to see. And we're ready to start in on the S-Band checks and bring up the steerable. Over.
+Okay, Charlie. [Pause.]
+Okay, while guidance is - Let me give you some angles. We had a Verb 06 Noun 20 that was done at 94:20:20. The LM angles were plus 29465, plus 28996, plus 35502. [Pause.]
+Roger; we copy. Copied the LM as plus 29465, plus 28996, plus 35502. Over.
+That's affirmative. The Command Module are plus 00269, plus 10931, plus 00472. Over.
+Roger. I copied plus 00269, plus 10931, plus 00470 [sic]. Over.
+That's affirm. It sounds like we've got good comm on Primary S-band and T/R and Secondary Power Amp. I'm going Secondary S-Band T/R and Primary Power Amp. Over.
+Roger. We're standing by.
+Okay. I think it's my switch you're doing.
+Huh? Yeah, it is. Carry on.
+Okay.
+Try your other one.
+See, it doesn't do it here.
+Casper, this is Houston. We want narrow on the S-band. [Pause.]
+You've got it.
+[Weak.] Okay, Jim. How do you read the old CDR? [Long pause.]
+Wait a minute. Let's get locked up here.
+Okay.
+Is that affirmative?
+Yeah, you - go ahead. You ought have him.
+Okay, Jim; how do you read? Over. [Pause.]
+Orion, this is Houston. Go ahead.
+How do you read, Jim? Over.
+I read you, but there's a lot of noise in the background. [Pause.]
+Okay. We have Primary Evap activation time as 93:33:30; and we're standing by for the AGS abort constants. Over. Or...
+Roger...
+...let's do the steerable first and get - and get you the downlink off the E-memory dump. Over.
+Okay. We're standing by for the steerable.
+Okay, PM, Secondary, Primary, Voice...
+Casper, this is Houston. Will you go Auto?
+You're Auto.
+What have we got there, Charlie?
+Bringing up the steerable.
+Okay. You want me to help you?
+Casper, this is Houston. How do you read? [Pause.]
+Loud and clear.
+Roger, Casper. I have a PIPA bias update for you. [Long pause.]
+Orion, this is Houston. We want you to go Low Bit Rate and then bring up the High Gain. [Pause.]
+Okay. [Long pause.]
+Orion, this is Houston. The pitch should be 99 on the steerable. [Long pause.]
+Okay, Houston. We got the aft Omni, I can't - when I move the yaw drive, the yaw indicator does not move on the steerable, and I do not hear any grinding noise. Over.
+Roger, I copy no response on the yaw drive.
+That's affirmative.
+Roger. if you're ready, Charlie, I'll read you the AGS abort constants.
+Okay, go ahead.
+Okay, 224 beginning: plus 60511, plus 29419, plus 60383, plus 00565, minus 32776, minus 54412. Over.
+Rog. Copy, starting with 224: 60511, 29419, 60383, 00565, 3 - minus 32776, 54412. Over.
+Okay. On 673, it was minus 54412.
+Rog. That's what I got - minus 54412.
+Good readback.
+Houston, Orion.
+Go ahead, Orion.
+Okay. I can't seem to get the yaw out of the stowed position, minus 12 on the indicator, and I cannot hear it drive when I move this dial - just like the - in pitch I can hear it drive and the needle follows. Over.
+Okay, I - We read you, Charlie. We want you to go through a little procedure here to essentially get you back to a start position. We want you to go to Slew on the S-Band. Check both S-Band circuit breakers on 11 and 16. Select Pitch of minus 75 and Yaw of minus 12: wait 30 seconds and then go to an acquisition and we'll have some angles for you.
+Okay, that's where we are. [Long pause.]
+Casper, this is Houston. Go to Accept. And, Orion, the angles for your S-band are Pitch of 99 and Yaw of 16. [Pause.]
+Copy. 99 and 16.
+And, Casper, this is Houston. I have that PIPA bias for you whenever you're ready to copy. [Pause.]
+Go ahead.
+Okay, on the PIPA bias: Address 1454, Data 03521; Address 1456, Data 76274. Over. [Pause.]
+Okay, Address 1454, 03521; Address 1456, 76274.
+Okay, on the 1456, couldn't hear your readback, Ken. The data is 76274.
+Roger; 76274.
+Sounded like a good readback. [Pause.]
+And, Casper, this is Houston with a DAP load for you whenever you're ready. [Long pause.]
+Go ahead. [Long pause.]
+Go ahead, Jim.
+Casper, this is Houston. We're finished with the computer.
+Okay, I'm in Block, and I'm standing by.
+Houston, Orion. [Long pause.]
+Orion, this is Houston. Will you select Down Voice Backup...
+Houston, Orion. [Long pause.]
+Voice Backup. How do you read?
+Roger. We're reading you but still excessive noise down here.
+Okay. Was it as noisy on the other transmitter receiver and power amp?
+I think it was about the same, Charlie.
+Okay, be advised - we went through the steerable Step 2 on Page 3-62, and the yaw still does not indicate that it's moving, and we cannot hear a grind. Though, with those angles, I get a - that I got of 99 and minus 12, I get a signal strength of greater than 3. I went Track Mode to Auto and UpLink - and when I went Track Mode to Auto, it sounded like the thing is setting up there just constantly oscillating and the - the pitch needle varies plus or minus 10. The signal strength stays pretty constant. In fact, no matter what position I select on the S-Band antenna, the signal strength stays up around 38 or so.
+Roger; we copy.
+Okay. Could we press on with the Aft Omni in - in this configuration? Over.
+Yeah, let's press on.
+Okay. Can you get an E-memory dump? We're ready for the E-memory dump.
+Stand by one. [Pause.]
+Okay, let's bypass that because we need high bit rate.
+Okay. You can't get high bit rate on the omni?
+Not until we get to the - 210 up.
+Okay. [Pause.] Okay, we'll bypass the UpLink and we'll go on and do the - the Ascent Battery checkout.
+Okay, we're ready for the battery checkout.
+Okay. Is it okay to do the P52 without - Okay to do the P52 as soon as we get into darkness here? [Long pause.]
+Houston, can I do the P52 when I get into the darkness? Over.
+Stand by. [Pause.] Okay, we're preparing a REFSMMAT for you now, John, that you'll have to put in manually. Then you'll be able to proceed.
+Roger. Shit!
+Okay here's a... [Long pause.]
+Here's the P27 PAD.
+Where's the G&C Checklist? Oh man! [Long pause.]
+Okay, Orion. This is Houston. I have a - a P27 for you, one for REFSMMAT and the other's your state vector. Over. [Pause.]
+Okay; go ahead.
+Stand by 1. [Pause.]
+Orion, we - we'd like you to go back to Slew and place the antenna at the Stow position, minus 75 and minus 12 and just leave it there.
+Tell them okay. We got it.
+Okay, we got it.
+And, Charlie; if you're ready to copy, I have this P27 update for the REFSMMAT and state vector for you.
+I'm ready to copy.
+Okay. Index is 24: 01731, 12560, 22624, 66315, 75546, 71001, 47526, 02044, 04020, 70164, 73753, 15651, 30651, 64233, 64471, 65647, 63433, 74021, 76063. Over.
+Okay, readback. Index 24 - index is 24: 01731, 12560, 22624, 66315, 75546, 71001, 47526, 02044, 04020, 70164, 73753, 15651, 30651, 64233, 64471, 65647, 63433, 74021, 76063.
+Okay, that's a good readback, I have your state vector for you when you're ready.
+Roger. Go.
+Okay, if you're ready, Charlie, on the state vector. Index 21: 01501, 77775, 77776, 57602, 00301, 37450, 00155, 20621, 20111, 31450, 00662, 17260, 76004, 55226, 04076, 17120. Over.
+Okay. State vector, 21 Index: 01501, 77775, 77776, 57602, 00301, 37450, 00155, 20621, 20111, 31450, 00662, 17260, 76004, 55226, 04176, 17120.
+Roger. On item 20 - it's 04076. Over.
+It's what you got.
+That's what I have, 04076.
+Roger. [Long pause.]
+Back to [garble].
+Oh shit. I can't believe it.
+[Garble] Verb 74.
+And, Orion. This is Houston. I have a Sep PAD whenever y'all are ready.
+Okay. Wait one. [Long pause.]
+Orion, this is Houston with another procedure for the S-band.
+Roger.
+Roger. We want you to open the S-Band Antenna circuit breaker on panel 11, wait 1 minute, and then try acquisition again.
+Roger...
+After 1 minute, you close the circuit breaker and try an acquisition.
+Rog. [Long pause.]
+It did.
+That's for state vector, okay?
+We'll get the Verb 74.
+Verb 71.
+Verb 71 Enter.
+Enter.
+24, Enter.
+24, Enter. Doesn't say that.
+Okay, Houston. How do you - you load this state vector by a Verb 71, and then a 24 Enter, then enter the numbers, right?
+No, that's the REFSMMAT. The...
+Stand by.
+...state vector's the 24 [garble]. See - see, we've got a flashing 24.
+Now when you do a 24, you're going to get it. The Verb 71 and then you've got 24 index, okay?
+Okay. Now, starting with 1174, okay?
+Orion, this is Houston. Roger. You should enter it just as it's read up on the PAD.
+Understand. Verb 71; then a 24 Enter; then a 01731 Enter; and so on.
+That should be correct.
+01731 Enter.
+Okay.
+12560 Enter.
+Enter.
+22624 Enter.
+Enter.
+66315 Enter.
+Go.
+75546 Enter. No, 755...
+755...
+...46 Enter.
+46 Enter.
+71001 Enter.
+Enter.
+47526 Enter.
+Okay, Enter.
+02044 Enter.
+Enter.
+04020 Enter.
+04020?
+Yes.
+Okay.
+70161 Enter. Wait a minute. Have to take that back.
+I don't know how to do that.
+Okay, we'll go back and change that later. Start out [garble]. 73753 Enter.
+73...
+Orion, this is Houston...
+7...
+A reminder of a Verb 33 at the end of your entries.
+Rog. Understand. We've got a hot mike down there.
+Go ahead. What are you on, 1207?
+Okay, 73 - Okay, 15651 Enter.
+51 Enter.
+30651 Enter.
+Enter.
+64233 Enter.
+Enter.
+64471 Enter.
+Go.
+65647 Enter.
+Enter.
+63433 Enter.
+Enter.
+74021 Enter. 76063, Enter.
+Six what?
+6063 Enter.
+Go.
+Okay, that was a mistake on 701 - Okay, now let me see, that's...
+It says delete. We got to check it. [Long pause.]
+Okay, Orion. This is Houston. We're looking at Page 1-26 in the G&N Dictionary to review the data.
+Roger. So are we.
+Okay. Now, we got one that's wrong.
+Yeah.
+Yeah, we heard that, and we believe it's Number 13.
+Verb - We concur, Jim. [Pause.]
+Enter.
+Enter.
+Okay. R-1 data. Noun 15.
+Enter.
+Enter.
+One. [Pause.] Enter.
+Enter. [Long pause.]
+Enter. Okay. Enter. Noun 15. Noun - 5 Enter. There we go. Okay. Okay, let's review it.
+Okay, 0731.
+Yeah.
+Go ahead. No, John, you've got to Enter after every one of those. Verb 1 Noun 1 Enter. 1173 Enter. Noun 15 Enter.
+Enter.
+Okay. Now Enter for each one - Okay, that one's correct. Now, Enter again. Okay, 12560. Okay, 22624, 66315, 75546, 71001, 47 - Enter. 47526.
+Go.
+62044.
+Just a moment. That ain't what it says. 02044. Okay, mark that one. That's wrong.
+Okay, let's change it right now.
+Change data load component identifier; correct Data E. [Pause.] What's a component identifier?
+Ah, it's ah, 1117.
+[Garble]. Okay.
+Okay, Orion. This is Houston. Line 11 should be 02044. Over.
+Okay. That's what it is.
+Okay.
+[Garble]. 4020.
+Yeah. Now that's what's wrong.
+Okay; we fixed it.
+Okay. [Pause.]
+Load component identifier.
+And that's 13.
+13?
+Yeah. I think it's Noun, John. Hey, Jim, on the checklist, when it says "Load component identifier," we got - 13 is wrong. What do we load in there?
+A 13 Enter.
+Okay.
+13. Okay. Enter. Okay.
+Okay, load 70 - 70, 0164 Enter. Okay, the next one is 15...
+I don't think it took.
+You skipped one.
+Did you skip one?
+Hey, why don't you do the RCS pressurization [garble].
+Okay. [Long pause.]
+Orion, this is Houston. We'd like you to close that circuit breaker and try an acquisition on the steerable. [Pause.]
+Okay, in work. [Long pause.]
+Okay, Jim; the yaw is still not working.
+Understand. The yaw is still not working.
+That's affirmative.
+You doing it over? All right, good idea.
+Yeah. [Pause.]
+All right, good idea. [Long pause.]
+[Garble.] True. [Pause.]
+Okay. Logic B has got to be Go.
+[Garble.] I'll get it. [Long pause.]
+Okay, Houston. We're pressurizing RCS now.
+Roger. Understand you're pressurizing RCS.
+Okay, Orion. The RCS press looks good. [Pause.]
+Stay [garble] P52, Ken.
+Roger. [Pause.]
+Okay, it's in. [Pause.]
+Keep pressing, John.
+Okay. [Garble]
+Guidance Control, PGNS. Att/Translation to 4 Jets. Okay. Attitude Control, Three, to Pulse. Control Mode, Att Hold. ACA Jets, Disable. [Pause.] TTCA, Both Jets [garble]. [Pause.]
+Okay, Houston, we're ready for the RCS checkout. I guess we still don't have high bit rate, huh? [Long pause.]
+Houston. Over. Houston, this is Orion. Over. [Pause.]
+Orion, this is Houston. Open...
+Houston...
+...ascent stage.
+...this is Orion. Over.
+Go ahead, Orion.
+They are open.
+No.
+Say again?
+Do you want us to open the ascent stage? No, don't do that! Goddamit!
+Stand by, Charlie.
+Excuse me.
+That's all right, Charlie. What he said, wasn't it?
+That ain't right. [Pause.] We're going to pump all the RCS into the APS tank, looks like to me.
+Well, I just closed it again.
+Good.
+Okay, Orion. The RCS pressure is creeping up on system A. [Pause.]
+Okay, it looks all right here, Jim.
+Go ahead, Casper. [Pause.]
+Roger. We're not going there yet. I'll tell you when.
+Orion, this is Houston. Do you read that System A manifold pressure?
+Roger. System A manifold pressure is 195.
+Copied 195.
+190. Make it 190.
+Roger; 190. [Pause.]
+Dang, Charlie, you're a genius. [Pause.]
+I practiced this.
+Did you?
+Yeah. [Long pause.]
+Okay, we got it.
+Did you check the other one, too?
+Yeah.
+Okay, Orion. This is Houston. Looks like RCS manifold pressure on A is creeping up again. That's why we're holding you.
+Okay, we - it does look like it's risen five pounds. [Pause.]
+[Garble] do a P52?
+Okay, Ken. Stay at Min Dead Band. We'll do a P52 here.
+Okay, I'm still in Min Dead Band. Thank you. [Long pause.]
+Okay?
+Yeah.
+What [garble] in here, on this verb?
+Well, let's keep going. Verb 37; 52 Enter, Pro.
+Verb 32. Load 335 [garble] two - It should have been [garble] three.
+Okay.
+Orion, this is Houston. We want System A Ascent Feed, Open. And under no situation do we want the APS ullage pressure to exceed 180.
+Okay. [Pause.] Okay, we closed it. It's - ullage pressure is 170, now.
+Roger. We copy.
+And, RCS is 180 and we're down to 85 percent.
+Okay. We get what, Charlie?
+P52.
+This is worst day sim I was ever in.
+Eighty on the pressure.
+Okay, we can't do it P52, we got to do it [garble].
+Can't see it?
+No. How do you know?
+I'm looking in the AOT.
+Okay.
+Orion, this is Houston. You need the - that state vector in before you do the P52.
+It's all in, Jim.
+Okay.
+Roger. We understand you already have it in.
+32 Enter.
+32 Enter. There you go.
+Okay.
+Pro to the next display, right?
+No, wait a minute. Let's do it again. Verb 21 Noun 01 Enter. 373 Enter. 32533 Enter. Pro. Okay, P53.
+Okay.
+Okay, 331. [Pause.]
+331 in. [Long pause.]
+There it is. [Pause.]
+You got it?
+We got to turn up the lights, Charlie,
+Okay. [Pause.] [Garble.] [Pause.]
+There you go.
+You got a 331?
+Yeah.
+Enter? Go ahead, you are cleared to mark. 33195. Go ahead. [Pause.] 33197. [Garble.] [Long pause.]
+33 - Wait, let me recheck that. [Pause.] No, I don't know how you do that [garble]
+You got to Enter it, Charlie. 33195. [Long pause.]
+Okay. 33182. [Long pause.]
+33180. [Long pause.]
+[Garble] every time.
+Okay, you're clear to mark.
+16950, [garble]. [Pause.] 17007; and [pause] 17078 and... [Long pause.] What are you going to do? [Garble], Charlie.
+16990. 16990.
+Verb 21 Enter.
+Why don't you look at the [garble].
+Orion, this is Houston. Will you check the Rendezvous Radar Operate circuit breakers on Panel 11?
+They're open. They're open.
+They are open.
+Okay, what's the number [garble].
+Roger. We copied that you said they were open, John. [Pause.]
+Okay, the Rendezvous Radar Operate Heater should be Closed at this time.
+Okay, we'll do it [garble].
+Okay, we're at Close in Standby and Open - in Operate.
+Okay, the Rendezvous Radar Operate Heater is Closed.
+Roger. We copy.
+Is it two?
+It's just one [garble]. But if you don't see it, we'll go to two.
+Okay. I sure don't - sure don't see it.
+Now do you see it?
+[Garble] all I see is the rendezvous radar. It's just stowed right there. Can we unstow the rendezvous radar?
+Hey, Jim. We got the rendezvous radar in detent two. Can we slew it out of the way or can we select another star?
+Stand by. [Long pause.]
+Okay. Go ahead and slew it, Orion.
+Okay [garble]. Push that breaker in.
+Let's give it 30 seconds [garble].
+Okay [garble] while we're still docked?
+Yeah.
+Okay, we got that [garble] and can't - Ken has got to have 53 [garble]. He had to have that [garble] and make sure your radar [garble].
+Okay, I don't have it Off yet, John. What happened to our Hot Fire?
+We're still doing a P52. We'll get to you in a minute.
+Okay, and you want B-3 Off now.
+Okay. [Garble] bring it down. [Garble] breakers.
+Should be detent two.
+[Garble]. Okay.
+Can you see [garble] out there.
+[Garble].
+I don't have any number yet. [Garble].
+Okay, Orion. This is Houston. On this RCS problem - we want you to transfer out of System A down to a reading of 80 percent on RCS System A. We are trying to transfer out of that system to reserve your blowdown capability. We would like you to go ahead and transfer now, but do not let the aft pressure go above 180. Over,
+We copy. [Long pause.]
+Okay, closed, 80 percent, and the aft pressure's 19 - 155.
+Okay, Charlie [garble]. Go ahead.
+Plus 260, 1 - 8 - plus 26112; plus 26121 [garble] 8. [Long pause.]
+Plus 26117. [Long pause.]
+Okay, go ahead. [Long pause.]
+Okay.
+Okay.
+261 30 [garble].
+16017. Wait a minute. 6057 [garble]
+16010 [garble], 16092, [garble], 16182 [garble].
+Okay. Houston, [garble] Noun 93 [garble] torque [garble] on the minute. Mark 95 23.
+Orion. This is Houston with some words on your Hot Fire Check. You have a Go to do that Hot Fire Check on the back side. We'd like you to use System A. Of course, the procedure for that is to close Main SOV [Shut Off Valve] on System B and to open the Crossfeed so that you'll be using just System A. Over.
+Say that again, Jim?
+Roger. For your hot fire check on the back side, we want you to use system A. So we'd like you to close the Main SOV System B and open the Crossfeed. Over.
+Rog. We copy.
+Roger.
+[Garble] Closed. Want me to open?
+[Garble].
+Set that to zero zero.
+Okay, Ken. We no longer need Min Dead Band. We'd like a - [garble] Okay, Ken. We no longer need Min Dead Band. We'd like an 06 Noun 20.
+Roger.
+On my mark, 5, 4, 3, 2, 1...
+Mark.
+Ninety-five percent [garble].
+I know why that was. When we torque the platform, we're in Att Hold, see.
+You didn't try to [garble] to go there, you...
+That's right.
+Okay, did you get the Verb? Okay, read those numbers to me.
+2933...
+Orion, this is Houston.
+...28925. Go ahead.
+Roger.
+(CM) 491 [garble]
+Assuming you get the P52 complete, you have a Go for undocking. Over.
+Okay. They're already completing it.
+Okay, good.
+Okay, Jim. Our torquing angles - we didn't copy, but they were less than a half a degree. And our Noun 06 is at 95:23 and 24. For Command Module, plus 268, plus 10919; plus 005, 00503. The LM, 29338. Command Mod - inner gimbal, 28925, 35491. And the torque was about a minute before that on the - on the P52.
+Okay, Repressed. Are we ready to go to RCS checkout?
+Okay; Guidance Control, P to A.
+Okay.
+Okay. Att/Translation, 4 Jet.
+4 Jet.
+Attitude Control, three, to Pulse.
+Okay, Orion. We copied that data.
+Mode Control, both, Att Hold.
+Mode Control, Att Hold.
+ACA/Jet 4, Disable.
+ACA/Jet. That's - No, this right here [garble].
+We've already gone through this.
+Yeah, that first part.
+Okay, Verb 76. Okay, Ken, we need Wide Dead Band and Att Hold.
+Orion, say again, please.
+Ken, we need Wide Dead Band and Att Hold.
+We need Wide Dead Band, Att Hold. Wide Dead Band, Attitude Hold.
+Orion, I am in Wide Dead Band, Att Hold. Okay, I'll go Free when you give me the call.
+Okay.
+We're going to an RCS checkout, Ken. Verb 76.
+Go.
+Roger; we copy.
+Okay. Verb 11 Noun 10 Enter, 5 Enter. Okay. Commander TTCA, up.
+Okay. TTCA 28.
+That's okay. It's not going to burn anything that - that [garble] good. And I don't...
+M, L, 25.
+Good. Okay. I'll give you...
+It's all yours, Charlie.
+Good. Good...
+Orion, you are one minute from LOS.
+Go right. Roger Jim. Left. Good one. Up forward, forward. Good one. Aft. Good. Okay let me turn the page. "PGNS Rate Command (Cold Fire), AGS pulse." CB 11, Attitude Direct, Close.
+Attitude Direct, Closed.
+Verb 77.
+Verb 77.
+Verb 15 Noun 01 Enter.
+Roger. Noun 01 Enter.
+42 Enter.
+42 Enter.
+Okay. Commander ACA to soft stop, pause [garble] Roll right. Okay. Here [garble]
+There you go. No, you don't. That's right. That's cold fire.
+Okay, left. Good number. Pitch up. Good number. Pitch down. Okay. That's a good number. Yaw right. Good number. Yaw left. Good number. You pitch up again. Good number. Okay. "AGS rate command (Cold Fire), 4 Jet Secondary Coil (Hot Fire) Check."
+Casper, Houston.
+Go ahead.
+Good morning to you. Got a couple of PADs for you, Ken. I got the CSM DAP load, which is copied at 95:55.
+Okay, Hank. Just make sure that I get a break here about 94:49. Okay, go ahead with your PADs.
+Roger. Weight, 39298; Noun 48, plus 0.49, plus 1.22.
+Okay, this is at 95:55. Weight 39298, plus 0.49, plus 1.22.
+Roger; that's correct.
+And, Hank, Jim's still up on our loop.
+Roger. He just went off, Ken.
+Okay. Did you get my readback?
+That's affirmative. It was good.
+And we ought to orbit down here at eight miles. This is really neat.
+Did you have anything else for me, Hank?
+Roger; I had your P24 PAD for about 96:45. I think we've got time to get that in.
+Yes, sir; let's go ahead. I'm ready.
+Okay. The target is 16-3. TI, 096:43:59, 096:45:37.0, 096:46:07, 096:46:29. Attitude, 015, 296, 000; north, 03 nautical miles.
+Okay, Hank. I thought 16-3 was to be used only for high altitude. That's kind of a large crater, isn't it?
+Stand by, and I'll check it.
+Maybe that's the only one that's in the track. Okay, let me read it back to you, and just verify that later. 096:43:59, 96:45:37.0, 96:46:07, 96:46:29; roll, 015; pitch, 296; yaw, 000; north, 3 miles on 16-3.
+Good readback, Ken.
+Okay. And I'm going to go out the window here for just a minute. And I've got the VHF off so I can talk to you. If the LMs call me or something, you might give me a call.
+Okay, will do.
+Okay, I'm coming up on the edge of the Kant Plateau now and, from down here, that looks like a real steep rise. That's very impressive. But there's nothing that's particularly significant about the topography or the texture, it just rises up.
+Roger; copy.
+And all the surface here, Hank, has this striation effect to it. It's like we were looking at down there at - pictures of the Silver Spur and so forth. But this is on the horizontal surface. And it all has that same effect.
+Hey, that's really interesting.
+Okay, Hank, we slipped by it. Coming up upside down and backwards almost vertical like this, I didn't get a very good hack at it, but I did get a - one look at it, and you can identify North and South Ray and all the features there, and got a look at that old Erastostenion [sic] Crater that's over to the southwest that shows beautiful lineaments in the photographs. And they aren't there visually from - from here. It looks like it has the same interior that all the rest of the things do. And I'll talk more about that later.
+Roger.
+Okay, I'm ready to go to work.
+Did you get any photos in there?
+Got just one. Just had one glance at it before it was occulted by the LM.
+Roger.
+Ken, did you get a Flight Plan change at a hundred hours and 20 minutes to charge Battery A?
+No, sir.
+Okay, I couldn't tell from here whether that'd gone up or not. That - At a hundred hours, 20 minutes, we'd like to add "Charge Battery A."
+Okay, charge Battery A at a hundred hours and 20 minutes, and I'm gonna go get my helmet and gloves on here. Then we'll do a little suit circuit integrity check. Got anything that we ought to do first?
+I'm just coming on. Did you happen to take a look at that docking latch? Okay, I've just been told that's all squared away. So I don't - don't know of anything that needs to be done now before you go ahead with the integrity check.
+Okay. I'm going to press into that.
+Casper, Houston. For your information, the LM's about four or five minutes from hot fire.
+Okay, I'm still on a tight dead band.
+Okays. I was just giving you a warning, in case you wanted to bring your VHF up or whatever you need to do to talk to them.
+Okay, thank you.
+Orion, Casper.
+Go ahead, Casper.
+Okay, Orion. I understand you're coming up on the hot fire check, and I think I'm supposed to go to a Wide Dead Band. Can I have about two minutes to complete my suit check?
+Roger. We're not going there yet. I'll tell you when.
+Okay. Thank you, sir.
+Casper, Houston. If you've got a sec there, I'd like to give you your sep PAD. Stand by; I'll wait until you get through with the check.
+Houston, did you call Casper?
+Roger, Ken. I'll wait until you get through with your integrity check. Give me a call when you're through, please.
+Okay, thank you. There's not much else I can do.
+Okay, Ken. Stay at Min Dead Band. We'll do a P52 here.
+Okay, I'm still in Min Dead Band. Thank you.
+Okay, Casper's completed with a suit circuit integrity check.
+Real good, Ken. Can you copy a sep PAD now?
+Go ahead.
+Roger. Noun 33, 096:13:31.00. And your attitude is good except pitch is 105.
+Okay, I copy. Noun 33, 096:13:31.00. The attitude: 000, 105, and 000.
+Good readback, Ken. And in regard to that question you had about 16-3, your present groundtrack is about 15,000 feet south of the preplanned, and that puts 16-1 outside the acceptable limits; 16-3 is closer to the landing site, and they would like for you to go ahead and use that.
+Okay.
+And I guess the message is there, Ken, just shoot the center.
+All right, I'll do that.
+Okay, I don't have it Off yet, John. What happened to our hot fire?
+We're still doing a P52. We'll get to you in a minute.
+Okay, and you want B-3 Off now.
+B-3 is Off.
+Okay, say when you want the 620.
+Okay, that's plus 2.68, plus 109.19, plus 5.03.
+Okay, Ken, we need Wide Dead Band and Att Hold.
+Casper, Houston. We're about two minutes from LOS.
+Orion, say again, please.
+Roger. This is Houston, Casper. We're about two minutes from LOS.
+Okay, Houston. Stand by. Break. Orion, I am in Wide Dead Band, Att Hold. Okay, I'll go Free when you give me the call. Break. Houston, this is Casper. Go ahead.
+Roger, Ken. We've got about a minute until LOS. I was just telling you.
+Hi, gang.
+Okay. I'm Free now.
+All right.
+I believe you're moving them.
+Yeah. It feels like it.
+Okay. Ken, you can go Wide Dead Band, Att Hold.
+Okay. We're in Att Hold.
+How about if we set up this comm configuration to record data, and then I can work on the hatch.
+Okay, I'll do it. Okay, you got it - B Data.
+Okay, John. Get out your checklist, and you can start the rendezvous radar check, if you want to. We've got 16 minutes to the -
+Okay, Orion. I'm going to turn my roll engines off because it looks like we're stable here, and go ahead with the procedure here, and close out the tunnel.
+Okay.
+Okay, we got something - we're hung up in some loop here, Charlie.
+Why...
+Do a Verb 96.
+...why do you say that?
+Because the Activity light is on.
+Oh.
+There we go. Okay. Now what?
+Okay, you can do the rendezvous radar self-test, if you want to. That's all we got to do.
+Okay. Let's do it.
+Okay. And I'll do the rate gyro check. 95:26, Track Mode, Slew. S-band Antenna, Aft. Biomed, Off. Lo bit rate. Up-Link Squelch, Enable. Okay. Okay, let's get going.
+Okay.
+Don't you - I'll read it to you.
+Okay. Give me the book - give me the boo...
+I'll read it to you; I've got nothing else to do.
+You don't have nothing to do?
+No. CB 11, Rendezvous Radar, two, close.
+Okay. One, close...
+Okay. Ken, can you turn the B3 off, please? We're gonna do a rendezvous radar checkout.
+Yes, sir. It's been off.
+Thank you. And verify your transponder off.
+That's verified.
+Okay, go to Hi Mult.
+Okay. Hi Mult.
+Okay. Your - Rate/Error Monitor, Rendezvous Radar. Okay, mine is, yours is.
+What else we need?
+Okay. Rate - go to Range/Range Rate. I got it.
+Range/Range Rate.
+Shaft/Trunnion, Plus Or Minus 50, you've got. Okay, Mode to Slew. Temperature is okay. Select Secondary Gyros.
+Okay.
+No, no. Just - sl - I'm sorry, this to - this to Slew. That what's I was...
+Yeah, it is.
+Okay, wait a minute, now; wait a minute. Okay. AC Bus A: Range/Range Rate Altitude/Altitude Rate, close. On 11, AC Bus A.
+It's closed.
+Flight Displays: Range/Range Rate Altitude/Altitude Rate, close.
+Closed.
+Okay. Slew Rate, Hi. Okay, we're -
+Slew.
+He's [garble] the latches. Okay, we've already slewed Down. Okay, check the Mode 1 region, Left, Right. Okay.
+I did.
+Okay. Up and Down. Okay, go to Lo.
+Lo. Go, Charlie.
+Okay. Oops, there you go. Right, Down, Left, and Up. Okay.
+Okay.
+Okay, go to Auto Track.
+Go to Auto Track. Radar Test to on?
+Radar Test to Rendezvous.
+Rendezvous, I mean.
+Okay, go to 477 and 517. Crosspointers oscillate. FDAI needles vary. Okay, they are.
+Okay, it's 494. That close enough?
+Okay. This thing is gonna drive me insane.
+Okay. Test Monitor, AGC: 1.2 to 1.6. Okay, that's great - number. Okay; 1.2 to 1.6. Transmitter: 2.8 to 3.2.
+3.7.
+Great. It is?
+Yeah.
+Okay. Shaft Error: 2.2 to 2.6.
+2.2 to 2.6.
+Wait a minute. How about the Trunnion Error?
+The same.
+Okay. Go back to AGC.
+AGC.
+Okay. Set NorMon flag, Verb 25 Noun 07 Enter, 101 Enter, 10 Enter, 01 Enter. Rendezvous Radar mode to LGC.
+Okay. LGC. What am I doing? Go.
+Okay. Verbs - No Track and power fail. Verb 6 -
+Verb 63.
+Okay. Okay, Pro; Tracker light on. Should go out after 12 seconds.
+Yeah.
+That comm can really screw you up. Well, we're not gonna have TV from the LM, unless we get that High Gain up.
+That's all right.
+Okay, my lights are out. 72, varying, Pro.
+There you go. 195.57, 195.57...
+Good.
+...minus 049.66.
+Good.
+Verb 34.
+Okay. Radar Test to Off.
+Radar Test is Off.
+Verb 40 Noun 72.
+Noun 72 Enter. Verb 41, that right? Verb 40 Noun...
+No, I just want you to zero the CDUs.
+...72 Enter. Okay.
+31210.
+Making it overflow. Have to bail out.
+1210. Two routines using AOT, IMU, or radar at same time.
+Okay, that's my - that was a procedural error.
+Okay. I don't know whether I got the right state vector there. Let's kill that integration. We'll try that state vector in a minute. Okay. Now, Verb 40 Noun 72 Enter.
+Enter.
+Okay. Shaft and Trunnion, Plus or Minus 50.
+There you go.
+Verb 41 Noun 72 Enter. Load plus 04000. Same thing. Pro. Verb 16 [Noun] 72.
+Okay.
+It's there. Shaft and Trunnion, Plus or Minus 5.
+Okay.
+Radar - go to Primary on the RA - on the - Okay, Verb 41 Noun 72. Okay. Load 356, and plus 3 - go, plus 356. Okay. Pro. Verb 16 Noun 72. Okay, it's there. Verb 41 Noun 72. Load all balls. That's good. You don't - plus 283. Pro. 16 Noun 72.
+Hey, I...
+it's there.
+...I'm going...
+Okay, Rendezvous Radar, two, open.
+Radar, two, coming open, Charlie. Verb 44 Enter.
+Okay. Go back to Slew.
+Slew.
+Okay, Ken. You can turn on B3 and the transponder, as you wish.
+Let's - let's check that state vector again, Charlie. That's...
+Okay. Let's undock first. Let's get all this done.
+Okay.
+Okay. And I'll - I'll put the hatch in.
+Okay, we've got to get a pressure integrity check. PGAs.
+Oh, we do?
+Yeah.
+Okay, so we ain't - Is that the only thing we have to do on this side, right?
+Yeah, we're - then we're two minutes ahead on that. We caught up, babe.
+Well, if that vector's right.
+Well, that - that won't take me two seconds to do that.
+Okay.
+Okay. If you'll verify that your hatch is closed and dump valve in Auto.
+Tell him yes.
+That's verified, Ken.
+All right, sir.
+Okay. Suit Gas Diverter, Pull Egress. Cabin Gas Return to Egress.
+Here, let me read that to you, Charlie.
+Okay.
+Okay, Suit Gas Diverter to Pull Egress.
+Go ahead.
+Cabin Gas Return to Egress.
+Go ahead.
+Suit Circuit Relief to Close.
+Go ahead.
+Press Reg A to Egress.
+Well, wait a minute, we got a - Okay. Go ahead. Go ahead.
+Okay, Press Reg B, Direct O2.
+Well, we got to get our helmets and gloves on first.
+Oh, okay.
+Charlie, I can't see what I'm doing.
+Okay, I'm buttoned up.
+Okay. Me - me - me, too, almost. Okay.
+Suit Gas Diverter to - to Egress.
+Okay, I'm down to the Press Reg B to Direct O2 .
+Press Reg B to Direct O2 .
+Okay.
+Monitor cuff gage to 3.7 to 4.0.
+Okay, here we go.
+Boy, it takes forever, doesn't it?
+Yep.
+How are your ears?
+Fine.
+Good; mine, too.
+And, Orion, I understand you're complete with your rendezvous radar transponder check [garble]. Is that affirm?
+That's affirmative, Ken.
+What do you have to do on this RCS?
+We're okay now. We'll use RCS B for a little while.
+Okay.
+Okay. I'm going to Cabin-Egress.
+Okay. Should you have System B shutoff valve closed?
+Right now we do. I'm going to turn it on in a minute. But let's go - Okay.
+Okay. Press Reg - Reg - Reg B to - to Direct O2 .
+I got that.
+It says, Press Reg B to Egress. Monitor cuff gage to - Are you at Egress?
+Yeah.
+Okay. Shouldn't be less than 0.3 in a minute.
+Okay, we've been there.
+Looks good to me, Charlie.
+Okay, it looks good to me. I'm going Secondary Canister.
+Okay.
+No good way to get to that [garble]
+Should have an O2 light. We do.
+Pressure dropped a little.
+Okay. The loop was evacuated.
+Yeah.
+Then check it for a minute.
+Okay.
+Rock solid.
+Yeah.
+Okay, what's next?
+Okay. CO2 select to Primary. CO2 light goes off.
+Go ahead.
+Suit Circuit Relief to Auto.
+Suit Circuit Relief going Auto. We'll start back down.
+Press Reg A and B to Cabin.
+Going to Cabin.
+Cabin Gas Return to Auto.
+Cabin Gas Return is in Auto.
+Suit Gas Diverter to Push-Cabin. That'll really get us down.
+Is that what it says?
+Yeah.
+Okay, here we go. How do you read?
+Fine.
+Man, it really brought us down, didn't it?
+Yeah. I think that was a little too fast, Charlie. My ear didn't clear.
+Sorry. Let's go back. What else does it say to do?
+It's clear now.
+Okay.
+Okay, it says, "Rate gyro test." Suit circuit - Well, wait a minute.
+Okay, we're down through there.
+Yeah, okay...
+[Garble] diverter [garble].
+Turn the page. That's a regulator...
+Regulator check.
+Okay. I'm going to go to Push-Cabin. I don't understand that noise, but...
+Well, the suit depresses around you, see?
+Yeah, uh-huh, okay.
+Verify CSM tunnel
+I know it. Okay.
+Hey, Ken. Is the tunnel vented yet?
+It's venting.
+Okay. We're ready for our regulator check right now, when you get a - if you'll give us a Go on that tunnel vent.
+Okay, I've got about a half of a psi to go before I get - let you have it.
+Cheek.
+Okay.
+That's crazy. We don't get any flow that way.
+Well, maybe we're supposed to take our helmets and gloves off.
+Doesn't say that. Okay, while we're waiting, let's check this state vector.
+Yeah, okay.
+Okay, where's the G&N Checklist? Did you - we put it back up? I did, I think. Yeah, here it is.
+Could you check the other vector, too?
+Yeah.
+1-26; I knew there was some page in there somewhere where you could go.
+Okay, Verb 01 Noun 01 Enter. 17 - 1173 Enter. 21 Enter.
+It's already there.
+Okay, Noun 15 Enter.
+Okay, should be...
+Read them out to me.
+...01501.
+Go. Enter.
+77775.
+Go.
+77776.
+Go.
+57602.
+Go.
+00301.
+Go.
+37450.
+Go.
+00155.
+Go.
+20621.
+Go.
+20111.
+Go.
+31450.
+Go.
+00662.
+Go.
+17260.
+Go.
+76004.
+Go.
+55226.
+Go.
+04076.
+Go.
+17120.
+Go.
+Okay, I've got us about 22½ minutes from undocking, and I'm at 3 psi [20 kPa] Delta-P in the tunnel. Estimate another [garble] to get it [garble] down.
+Answer him, John.
+Okay, Ken. That's fine.
+Let's see what happens here.
+You guys don't have any problems over there?
+Yeah, we can't get our Computer Activity light to go out. See, it's integrating somewhere. I wonder if it's a - if it's a LM state - CSM state vector. That's what it is - I got the idea.
+What?
+How do you transfer the...
+Well, that's a busy little thing anyway.
+Nothing in the - we do not undock until you get AOS?
+No, we undock.
+Oh, no, we're ready to go.
+Okay.
+We just don't have your state vector in, and that's - that's our problem. It's not - it's having trouble bringing your state vector up.
+I know what we should do. We should do a Verb 66.
+Okay.
+Well, well, wait. Let me look and see if that's what we should do.
+I'm not sure you can do a Verb 66.
+I'm not sure you can in here, but they do it in P27.
+John?
+Huh?
+Let me read the book, okay?
+Okay. I can't - just look where the verbs are, Charlie.
+That's what I'm going to do. That's nouns.
+Okay, I'm doing a routine check on the tunnel. As soon as I complete this, you can go ahead and do your relief valve check.
+Okay.
+That's - that's what we need - need.
+See that? Let's try it.
+Okay, doing a Verb 96.
+Okay. No, wait a minu...
+I'll wait - I'll make this a one-minute check.
+John, you should've done a Verb 96 and stopped that integration first. Okay, now Verb 66. Now call P00.
+That didn't fix it.
+That takes awhile. See? Good, we got it.
+Okay.
+Pro. Okay, let's look at P00 now.
+We're looking at it.
+Okay, we fixed it. Okay, what we need to do is get Ken's - state vector.
+Well, Ken's state vector is the same as ours, Charlie.
+How about that? (Laughter) Better be. (Laughter)
+Yeah.
+(Laughter) Sorry about that.
+That's why that's an - I knew that's what it was. What is this pressure you've got to keep lower than, Charlie? Explain that to me.
+Okay, I'm back in tunnel vent and I'm gonna bring my roll engines on, and you're clear to check your relief valve.
+Okay.
+Okay.
+Okay, John. Turn the page.
+Hey, I'll read it to you, Charlie.
+Regulator check. Here we go. Okay, starting with cabin repress.
+Cabin Repress valve to Manual. Verify flow, then Auto.
+Okay, go ahead.
+Verify overhead cabin dump valve to Auto.
+Go.
+Circuit Breaker 16, ECS, Cabin Repress to open.
+Okay, go.
+Press Reg A and B to Egress.
+Go.
+Suit Gas Diverter to Egress.
+Go.
+Cabin Gas Return to Egress.
+Go.
+Forward Cabin Dump Valve, Open, then Auto at 4½.
+Okay.
+Want me to get it?
+No, I'll get it. Okay, here we go. And it's going down.
+Okay, Auto at 4½.
+Okay, it is.
+Auto at 4½. Suit Circuit Relief to Open.
+Okay.
+Verify suit pressure at 4½, then Close.
+It is, Close.
+Close. Press Reg A to Cabin. Verify suit pressure...
+Okay, Press Reg A's coming to Cabin.
+Comes up; it's rising, Charlie.
+It is.
+Right. Then it says, Press Reg B to - Press Reg A to Egress.
+Okay, go.
+Suit Circuit Relief to Open.
+To Open? Okay, go.
+Suit Circuit Relief, Open. Suit pressure goes to 4½.
+Okay.
+Then it says, Close.
+Close, okay.
+Press Reg B to Cabin.
+Okay, go.
+Verify suit pressure rises, 4.6 to 5. It is.
+It is. Go ahead.
+Okay. Suit Circuit Relief to Auto.
+Go ahead.
+Cabin Gas Return to Auto.
+Cabin Gas Return to Auto. Go ahead.
+Press Reg A to Cabin.
+Okay.
+Suit Gas Diverter to Push-Cabin.
+Okay. We don't get any flow when we do that.
+No, do you know why?
+Why?
+I got - have I got my hoses right?
+Yeah, you got your hoses right. This thing is leaking like a sieve.
+What's that?
+My helmet's full of water.
+Oh.
+Okay, Orion. I'm going to maneuver to the undocking attitude.
+Okay, go to it.
+Okay, John. What's next? Do the rate gyro check for me.
+Can't do it while he's maneuvering.
+Oh, yeah.
+Man, look at that Moon. We're going to have to get a rag to wipe this thing off with.
+There's some towels in your -
+Here.
+Here you go, Charlie.
+Okay, just a minute. This thing, I can't get - keep - stay rolled up.
+There we go. Here you go, Charlie.
+Just a minute. Okay, give it to me.
+Okay, John. Here you go.
+Okay.
+We don't unsuit until after undocking?
+Yeah.
+Is that what it is?
+Yeah.
+Oh. When is the undocking?
+In about 13 minutes.
+Okay.
+Can you get the tape out for me, John? I can't get this thing to stay in down here.
+I can't either, Charlie.
+We were on Down Voice Backup that whole time?
+Yeah, uh-huh.
+Oh, boy.
+Oh, boy is right. I had a couple of dadgummits. Okay, John. Let's go. We got some stuff to do here before undocking. Attitude Monitor, LMP, to PGNS. It is. Rendezvous Radar Mode to Slew.
+It is.
+Dead Band, Min.
+Min.
+Attitude Control, three, to Mode Control.
+Mode Control.
+Mode Control, both, Att Hold.
+Att Hold.
+TTCA, both, to Jets.
+Jets.
+Okay.
+Balance Couple - Okay, Rate/Error Monitor, Landing Radar/Computer.
+Landing Radar/Computer.
+Okay, Attitude Monitor, PGNS. Guidance Control, PGNS. Okay?
+Atti - Guidance Control is PGNS.
+Okay. Mode Select, Landing Radar.
+Landing Radar.
+Range/Altitude Monitor, Range/Range Rate.
+Go.
+Rate Scale, 5 Degrees a Second.
+Rate Scale, 5 Degrees a Second.
+Att/Translation of 4 Jets.
+4 Jets.
+Balance Couple, On.
+Balance Couples are On.
+Okay, my monitor. Okay, I got to mount the camera. Don't believe we're going to be able to see anything, though.
+Yeah, well, don't worry about that.
+All fogged up. How about turning the window heater on? Want to try a window heater?
+Want to try yours for a second?
+Yeah, let's see what happens.
+You don't want to leave it on too long, Charlie. So don't forget.
+Okay. Okay, I'm going to open System B, so we'll have two jets, two -
+Okay, Charlie. Okay, Ken. Are you in undocking attitude now?
+That's affirmative; 12 minutes.
+Okay.
+Okay, Ken. Give me a Verb 06 Noun 20 on my mark.
+Stand by.
+Okay, say when.
+3, 2, 1 -
+Mark it; 96:02:07.
+Okay [garble]. Let's do it again.
+Okay. Verb 06 Noun 20; 3, 2, 1 -
+Mark.
+96...
+Okay. Plus[garble].
+96:02:23.
+What? Hold on, Ken.
+[Garble] 56; plus 000.45.
+Tell him to start over again.
+Okay, that was at 96:02:23, Charlie.
+Yeah...
+Read the numbers again, Ken.
+Plus 000.04; plus 105.56; plus 000.45.
+Copy.
+Okay. Copy four balls 4, 105.56 three balls 45.
+That's affirmative.
+That's affirmative.
+296.03 - 03, 28...
+5.63.
+359.51.
+359.51. Okay.
+How much fuel can we transfer into the ascent tanks before it becomes too full to fly?
+Well, it's the pressure I think that - that they're worried about - on the ascent tanks.
+Okay. And let me make a small trim maneuver. Looks like it should be less than a half degree, unless you'd like to just leave it alone. Either way.
+Okay. It's up to you.
+Okay, let's leave it as is.
+Okay, Charlie. The tape is going back in.
+Well, I never did get to use it, but that's okay. Go ahead.
+Okay. What el - what else we got to check here?
+Wait a minute, wait a minute. Okay, go ahead.
+Just get the book.
+Yeah. What's my f-stop for the 16?
+Be easy to find. There's LM3/DAC/10/CEN [sic] - ULC.
+Okay.
+Mount Timeline Book. It's time. Okay, checklist [garble] check attitude. Verb - Verb 48 Enter. 21 Enter. 22012 Enter. Pro. We got the right weight, huh?
+Yeah. What's the DAC should be - I mean, there's Hasselblad/ DC/60/HEX-A, (f/11, 250, focus).
+Okay. Configure circuit breakers per unlocking chart, [garble]...
+Okay. Go ahead, and I'll get the camera out.
+Nothing like a helmet full of water.
+Is it full, Charlie?
+Just about.
+Here's your [garble], Charlie. Wait a minute. Let me check to be sure.
+John, that window heater's working.
+Where's your hook?
+I don't know.
+Charlie, I'm going to pull it open. I don't think we're supposed to leave them run too long.
+It's okay.
+It worked, huh?
+Yeah, it's working. Please close it. Then, up in the - you can just let it close - just a few more minutes, it'll be fine. Okay, why don't you open yours?
+I did.
+I mean close yours.
+I did.
+Okay.
+John, can you see - is my thing leaking right now?
+I can't tell, Charlie. Doesn't look like it. Is it leaking?
+My whole helmet's full of water. I mean my whole comm carrier. My hair is soaked.
+You're kidding.
+Huh-uh.
+Well, it leaks every time you put your - your thing up against it, that's for sure.
+Is it leaking now?
+Yeah. Every time you put it up against there, it leaks.
+Like that, huh?
+Yeah. That makes it squirt out.
+Okay. That's what's happening.
+You never had that happen to you before?
+Yeah, but -
+It never bothered you in one g.
+Yeah. Never bothered me in one g.
+Okay. Now what's undocking time?
+96:13, about four minutes.
+Okay, Ken. How much to undocking?
+Three minutes and a half.
+Okay. It's gonna undock at 96:13 even?
+96:13:31.
+Okay.
+We'll stow the Activation Checklist - Oh, I can't. Harnesses are too tight. Do that later.
+Are we through with the undocking - through the activation books, Charlie? I didn't do the rate gyro test.
+Are we in attitude now?
+Yeah.
+Okay, let's go through this little one.
+Okay.
+It looks good to me.
+Plus or minus 5 - 25 over there? No, that - that one.
+That's got it.
+Okays it's got it. Let's see, are you hit - does your mike hit your valve? Let me see. Turn around towards me.
+When it does, I get squirted.
+You do?
+Yeah. I had to really be careful.
+Okay, check attitude. The Verb 48.
+I did that.
+Okay, LM weight we got.
+You got it.
+Okay, we got the angles.
+I got the angles.
+Okay. We can call...
+All we need to do is call P47.
+... P47. Okay, you can close my window heater - open my window heater. It's clear now. Beautiful. Is yours closed, John?
+Yeah.
+Okay. It'll clear it off in a little bit. Takes about ten minutes or so.
+John, I'm going to have to pull this water bag out of here, I think.
+Yeah.
+I'm - I'm soaked.
+Okay.
+Okay, can you read me on Vox, Orion?
+Loud and clear, Ken.
+Orion, do you read on Vox?
+Loud and clear, Ken.
+We're reading you five by.
+Okay. We're inside of a minute.
+Roger. We got P47 coming up.
+Understand you're still Go.
+We're still Go. P47's up.
+Okay, if you're on Vox, you're cutting out pretty badly, too. Thirty seconds.
+We are not on Vox.
+We're not on Vox, Ken. Okay, go ahead and undock whenever you want to, and then go ahead and separate.
+Okay.
+Okay, coming up. Give you a countdown for the release; 5, 4, 3, 2, 1...
+Release.
+Hey.
+We didn't go very far. (Laughter) Okay. We'll let it sit here for a second. Okay, we're going to back off, now.
+Very good.
+Is he going?
+Yeah.
+Didn't get anything out of it.
+Right on time to the second. This thing is a dream.
+Okay, John. P00. I got a - I give you Verb 60.
+I see you rolling, or yawing, as you guys do it. I see one, two, ought to see four [garble]. Haven't seen them yet.
+Okay, you can close - Okay. How's your window looking, John?
+Looks great.
+Okay, beautiful. Okay, camera's coming on.
+Sequence camera [garble]
+I can see three [garble] loud and clear. And looks like that one panel up there that we were watching shred is the only one that I see that is shredded. The rest of it's all intact.
+Okay. Great, Ken. Man, it's great! Boy, when we fire the RCS, it really shakes the whole stack.
+Oh, not any more!
+Hey, you're beautiful, babe! You're just beautiful !
+Yes, indeed. You sure look good.
+Okay, all your booms are in.
+I see full view. You've got three [garble] down. Your [garble] valve's clean [garble] clean [garble] still hanging on. What more can you ask for?
+You can - you can see your RCS spitting at us.
+Yeah, yours is doing the same.
+Okay, Charlie. Helmet and gloves off.
+Have we got Houston, yet? We ought to have them right now.
+Not yet.
+Okay, let's go through this sequence.
+Okay, I got enough pictures here.
+Yeah.
+That's ten.
+Boy, Ken, you look great!
+Well...
+You really got a pretty spacecraft!
+Yours is a [garble] pretty one, too.
+Okay, John. Helmets - and cameras to off, VHF Antenna is Forward...
+It'll look even better without your [garble] peeking down underneath.
+Sequence camera. Okay, suit gas diverter. Okay, let's get helmets and gloves off.
+Okay.

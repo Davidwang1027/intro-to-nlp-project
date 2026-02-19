@@ -1,0 +1,912 @@
+Hello, hello, je t'entendre.
+Madrid Comm Tech Net 1.
+Roger. Madrid Comm Tech. Read you loud and clear. How me?
+Read you loud and clear.
+Okay, thank you.
+Aquarius, Houston. Over.
+Go ahead, Joe.
+Roger. Listen, Charlie Duke wants to talk to you - to you about the AOT star check; and, so that we can have good comm, I'd like to reconfigure with the Power Amplifier circuit breaker, In, and the Voice Function switch to Voice and while we're at it, we'd like the Ranging Function switch to Ranging. Over.
+Okay. [Long pause.]
+Aquarius, Houston. Over.
+Houston, Aquarius.
+Roger, Freddo. Reading you-
+Okay, Houston, Aquarius. Go ahead.
+Okay, Freddo. Reading you 5-by. The procedure I'm going to read up to you is a Sun check for the - to see if we're going to need an alignment or not. If you'll get out your G&N dictionary and open it to P52, page 34, we'll start at the bottom. Over. [Pause.]
+Okay. Stand by 1. [Pause.]
+Sounds like you broke out, Charlie.
+Yes, finally, Freddo. I've no longer got the red spots. [Pause.]
+Okay. Stand by, Aquarius. We'll be back with you momentarily.
+Okay.
+Aquarius, Houston. You ready with your G&N dictionary?
+Okay. I'm on page 34 now, looking at P52.
+Okay, Freddo. At the bottom of the page, we want step 1, on the flashing 0406, we want an option 3, and that'll pull us over to 6; and, on the 5025, we want you to do the Enter on the 5025, and that'll bring up flashing 0170, and load in R1, 200. Over. [Pause.]
+Okay. Let me see if I'm with you. We call up P52 and, on the flashing 0406, we Pro on a 3 REFSMMAT which leads us to a flashing 5025. We Enter on that. On the flashing 0170, we want to Enter a 200.
+That's affirmative; and after that, you Pro on that, and you come up with a flashing 0688, and we'll have to load Noun 88. And if you're ready to copy, I have the Sun half-unit vectors at 74 hours GET. Over. [Pause.]
+Okay. Go ahead.
+Okay. At Sun half-unit vectors, X, R1, is plus 0.45498, Y plus 19024, Z plus 08250. Over. [Pause.]
+Okay. We Pro on - after entering the 200. We'll get a flashing 0688. We then load the Sun unit vectors for 74 hours, which are R1 plus 5 - correction, plus 45498, R2 plus 19024, R3 plus 08250.
+Roger. That's good, Freddo. And that'll bring you to step 8, and you get a flashing 5018 when you Pro on the Noun 88. Okay. At 5018, we want to do an Auto maneuver to - to the attitude, so just do the - the Pro with the Guidance Control, PNGS; Mode Control, PNGS, Auto; and we'll take this attitude. Now, that's going to put us at - at attitude for the Sun check. Now, we're being a 1.4-degree dead band in this program in a docked configuration; so, to help you out, you could call Verb 62 to get your needles - and it - when the needles go through zero or null out and - in that dead band - then you take a look in the AOT and see how close the Sun is. And we want within plus or minus 1 degree. Over.
+Okay. So we Pro on the Noun 88, and we end up with a flashing 5018; and you want an Auto maneuver here rather than using the TTCA, so we Pro with Guidance, PNGS; Mode Control, Auto. We've got a 1.4-degree dead band with a Verb 62 will give us the needles to try to zero them in and, at that time I look through the AOT and, if it's like Apollo 11 Sun check, all we've got to have is the Sun somewhere in the - out there somewhere on the Sun as it passes. Is that correct?
+I think that's a little tight; that's about a quarter degree. We can go a little bit out of that. Stand by 1. Fred, we'll get you an answer on that one. And also, if you'll stand by, we'll give you a DAP load for this maneuver. Over.
+Okay. We'll - You'll give us a DAP load.
+Roger. Stand by.
+Aquarius, Houston. Freddo, on that - to pass that check, the Sun is at - will subtend an arc of one-half degree in the AOT, so you can be two diameters off and still pass the check. Over.
+Okay. It's a half a degree, and so we can be two Sun diameters off and still pass.
+That's affirmative. And we want you to maneuver with a DAP of 0.2 of a degree a second. Over. [Pause.]
+Okay. You want us to use a DAP of 0.2.
+Okay. That DAP load, Freddo, is 31120. Over. [Pause.]
+Okay. 31120.
+Roger. Now, if we pass that check, you can just terminate P52 right there, and we'll give you an attitude to go to a burn attitude, and from this we can get a star check. If you don't pass, we'd like you to do an alignment at 75 hours. And, if you're ready to copy, we have some Sun half-unit vectors and some Earth half-unit vectors at 75 hours. Over. [Long pause.]
+Stand by 1, Charlie. [Long pause.]
+Okay. Go ahead for 75 hours - Sun and Earth half-unit vectors.
+Roger. First with the Sun; for X, plus 45483; for Y, plus 19053; for Zebra, plus 08262; Earth half-unit vector at 75 hours, plus 32120, minus 34155, minus 17370. Over. [Pause.]
+Okay. Sun half-unit vectors: R1, plus 45483; R2, plus 19053; R3, plus 08262. Earth half-unit vectors: R1, plus 32120; R2, minus 34155; R3, minus 17370.
+Roger, Freddo. Good readback. Now, on the Earth, we estimate it - if you have to do this alignment, that the Earth will be about a 2-degree Earth. And it'll be approximately three-quarters lighted. Now, to mark on the Earth, we'd like you to take an imaginary line between the horns of the crescent and mark midway between the horns. Over.
+Okay. We got a 2-degree Earth that's three-quarter lighted, and we're to imagine a line between the horns of the Earth and mark right in the center of that line.
+That's affirmative. Now, on - on this star check - correction, the Sun check, Fred, at - On the 5018, I got some FDAI angles for you if you're ready to copy. Over. [Pause.]
+Okay. You're talking about the check at 74 hours GET, right?
+Roger. Okay. At 74 hours when you start this maneuver, the 5018 should look like R1 of 2703 degrees, pitch R2 is 0903, and R3 of 2908. Over. [Pause.]
+Okay. How about making those all five digit readouts; read them again, Charlie.
+Okay. Pardon me. It's 27030, 09030, 29080.
+Okay. The 50 18 should look like R1 plus 27030, R2 plus 09030, R3 plus 29080.
+Roger. That's good readback. Now, we got one more procedure for you; and, right now, we got the Rendezvous Radar stowed and we won't be able to see anything out of detent 2, so we'd like you to position the radar to 0283; and we have a procedure for that. And we'd like you to do that right before you get the attitude. Over.
+Okay. Stand by. [Long pause.]
+Okay. Go ahead.
+Stand by. [Long pause.]
+Aquarius, Houston. On those 50 18 angles we had at 74 hours, Fred, that was based on a Verb 49 to this attitude, and they will be incorrect for the two axis maneuvers, so you can just scratch them. Over.
+Okay. You're saying the angles you gave me for the 50 18, that was for a Verb 49, so they won't be good for the 50 18, and we should scratch them.
+That's affirmative. Okay. If you're ready to copy, I've got this Rendezvous Radar procedure. Over.
+Okay. Go ahead.
+Okay. It's about a 10-stepper, but real easy. Okay. On CB 16, EPS Inverter 2, Close. CB 11, AC Bus A, Bus Tie Inverter 2, Close. Panel 14, verify Inverter switch 2. CB 11 Rendezvous Radar 2, close. Rendezvous Radar, release. Rendezvous Radar to LGC on panel 3. Are you with me? Over. [Pause.]
+Roger. I'm right up with you at step 6. Go ahead.
+Okay, Fred. Good show. Step 6: Verb 41 Noun 72, Enter, plus all balls, plus 28300. Step 7: Monitor movement with Verb 16 Noun 72. Step 8: CB 11 Rendezvous Radar 2, Open. Are you with me? Over. [Pause.]
+Stand by 1. [Long pause.]
+Okay. Go ahead now.
+Roger. Step 9 is a Verb 44. Step 10: CB 16, EPS Inverter 2, Open. Over. [Pause.]
+Okay. I got it.
+Okay.
+Do you want me to read it back now?
+I got one more for you. You'll copy this and give me it all on the readback. Okay. Once you get the attitude and you want to use the - you want to get the AOT lamp, we got to go CB 16 EPS Inverter 2, Close; CB 11, AC Bus A AOT Lamp, close. After the P52, you can open CB 16 EPS Inverter 2, and open CB 11 AC Bus A AOT Lamp and AC Bus A Bus Tie Inverter 2. Over. [Pause.]
+Okay. Stand by 1.
+Okay. Let's see if I got it all. For Rendezvous Radar parking: first of all we want CB 16 EPS Inverter 2, Closed; CB 11 AC Bus A Bus Tie Inverter 2, Closed. Then on panel 14, verify Inverter 2 selected. And CB 11 Rendezvous Radar 2, Closed, both breakers. Then we are to pull the Rendezvous Radar Release handle. On panel 3, we then want Rendezvous Radar to LGC. A Verb 41 Noun 72, Enter, with plus all zips, plus 28300 in registers 1 and 2. Go on that. Then we monitor movement with the 16 72. After it gets parked, CB 11 Rendezvous Radar 2, Open; followed by Verb 44, Enter. And CB 16 EPS Inverter 2, Open. Now, when it comes time for the alignment to get an AOT lamp, CB 16, EPS Inverter 2, Closed; CB 11 AC Bus A AOT Lamp, Closed; and after the alignment is completed at CB 16, EPS Inverter 2, Open; CB 11 AC Bus A AOT Lamp, Open, CB 11 AC Bus A Bus Tie Inverter 2, Open.
+Good readback, Aquarius. We'll - To get those needles on the Verb 62, we got to power up the commander's FDAI. We'll have that procedure for you shortly. Over.
+Okay. [Long pause.]
+Charlie, Jim here.
+Roger. Go ahead.
+Have you run a Earth set alignment in the simulator with a docked configuration?
+Is the question, "Have we run a - an alignment in the docked configuration?" That is affirmative.
+Okay. Did you have any trouble controlling the vehicle, and what techniques did you use?
+Briefly, to control pitch and roll, use the TTCA, as we've practiced; for yaw, you can use the ACA. Over.
+Okay. You have no special techniques going back and forth between the yaw and the X and Y lines. Over.
+Not right now, Jim. Dave Scott's been running these things and we'll get them up to you shortly. Over. [Pause.]
+Okay.
+We think the alignment's going to be okay, so we don't have to do this P52 full-up alignment. We think the check is going to be okay. Like to remind you since you are in Att - if check does not pass, since you are in attitude for the Sun, that we'd - We want the Sun half-unit vectors first. Over.
+Roger. Understand.
+Okay, Houston. It's been over an hour since we did our last PTC. You want us to do another one now?
+Stand by 1. Over. [Long pause.]
+Aquarius, Houston. We'd like you to go ahead and yaw 90 for the PTC. Keep a close eye out on your middle gimbal angle. You're about 30 degrees from gimbal lock, and we'll call you an Omni switch halfway through the maneuver. Over.
+Roger.
+Okay. And, Houston, Aquarius. You might know when you've had enough ranging so we can get the power amp back off again.
+Roger, Freddo. We got one more procedure, and we can shut it down, and that's to get the needles and the FDAI for this maneuver. That 5018 could take you to gimbal lock, and we think it's a good idea to power up the commander's ball. We've got a four-stepper, if you're ready to copy. Over. [Long pause.]
+Okay. Go ahead.
+Okay. Verify that you got AC power; in other words, the Inverter 2 selected and the Bus Tie Inverter 2 AC Bus A, Closed. We'll be under Flight Displays, GASTA, Closed, Commander FDAI, Closed. On the AC Bus A, CBs, GASTA, Closed, Commander FDAI, Closed. Over. [Long pause.]
+Okay. It's verify we have AC, which is panel 16, Inverter 2, Closed. CB Inverter 2 closed. Then on panel 11 under Flight Displays, we want the GASTA and the Commander's FDAI breakers closed. Also under panel 11, AC Bus A GASTA and Commander's FDAI breakers, Closed.
+That's affirmative. Over. [Long pause.]
+Aquarius, Houston. After the Omni switch, we would like you to get the ranging off, the Voice switch to Down Voice Backup, and the Power Amp CB on 16, Open. Over.
+Okay. After the Omni switch, we'll get the Power Amp, off, and go back to Down Voice Backup FTA and the Ranging off. It's your call.
+Roger. Stand by. [Pause.]
+Freddo, we got about 2 minutes to the Omni switch. You can go ahead and power the Ranging down and and the Down Voice Backup, and we'll give you a call on Omni switch. Over.
+Okay. [Pause.]
+How do you read Aquarius now on Down Voice Backup?
+Roger, Aquarius. We are reading you about the same, about 2-by.
+Okay. [Long pause.]
+Aquarius, Houston. Select Forward Omni. Over.
+You got it.
+Roger.
+Do you read down there, Houston? [Pause.]
+Apollo 13, Houston. We read you weakly. Go ahead.
+Okay. Vance, if Buzz or Neil are around you might ask them if they had to use the AOT lamps to shoot the Sun like they did on 11.
+Well, where's the [garble].
+Right down below me here?
+Fred, breaking in. You're very weak. Understand if Buzz or Nell are down here, you'd like to ask them if they used the AOT lamp to what? Over.
+To see the Sun, Vance. It might be possible to see the reticle without even having the light on.
+Oh, I see. See if it's possible to see the reticle without the light on. Okay. We'll make a check. And one other thing, you might move that Rendezvous Radar antenna to park any time now. You can start any time you want.
+Okay.
+[Garble] it's out of the way. [Long pause.]
+Apollo 13, Houston. [Pause.]
+Go ahead, Vance.
+Jim, Neil is here. He advises that you will not need the lamp on for the Sun check but that you will need it on for the Earth check. Over.
+Understand. [Long pause.]
+Okay. Let's park the radar. Are you ready?
+Okay. Let me - First of all, let me see how we're doing here. That's going down. That's better. That's coming up. That's right. Let's - Okay. Let's park the radar. How - How long is it going to take?
+Not too long. Okay, Inverter 2 [garble]. Here, hold the light for me, Jim. Right here on the [garble] panel. Hold it still. [Garble] AC Bus A Bus Tie.
+Okay.
+AC Bus A.
+Okay.
+Bus Tie Inverter 2.
+Bus Tie Inverter 2. Pro.
+Okay. Panel 16 verify and select Inverter 2.
+Okay.
+Okay. On CB 11, give me the Rendezvous Radar breakers, with 30-second spread.
+Okay. [Garble] at 15, I [garble]. [Pause.]
+Okay. [Garble] 30 seconds.
+Okay. Go ahead.
+Right. [Long pause.]
+Okay. Thirty seconds. AC breaker.
+Okay. Got a big dip.
+Okay. Reach up here and give me the [garble] panel [garble]
+Okay. She's pulled. [Pause.]
+Okay. Panel 3, check the LGC.
+LGC.
+Okay. Give me a Verb 41 Noun 72.
+Still going good, right?
+Okay. And they're all zips, 28300. [Pause.]
+00.
+Go.
+[Garble] 16 72 [garble]. [Long pause.]
+It's going now. [Garble] signal light.
+Right. [Pause.]
+[Garble] is running away. Docking light.
+What?
+Command Module docking light. Okay. You got them. They're in. [Long pause.]
+Okay. Two Rendezvous Radar breakers, pull them. [Garble]. [Pause.]
+[Garble].
+CB 16 Inverter 2, Open.
+Okay. [Pause.]
+You know that light on the Command Module [garble]? [Long pause.]
+Apollo 13, Houston. Over.
+[Garble] get that thing [garble].
+Roger. One correction. We think that the cheapest way for you to maneuver to change attitude is with minimum pulse ACA. That's to do the star mark.
+We had - Okay. As soon as possible we'll get that star data [garble] we can get to maneuver attitude by using TTCA.
+Roger.
+And, just out of curiosity, we got rid of the radar very nicely. It's hanging right in the middle of the - the forward digit is the docking light on the Command Module. Can you believe that? I don't think it will hurt our Sun check, but it'll sure make P52 [garble].
+Sorry, Jim, but we are only reading you about 1 by 1.
+Look at that big [garble] out there. [Pause.]
+[Garble] out there.
+It looks like a piece of wrapping for [garble] line. [Long pause.]
+You're watching that. Right?
+It's going to get smaller before it gets larger.
+Okay. I guess they can close it. [Long pause.]
+Okay. Did you read your figures [garble]?
+Yes.
+Okay. [Long pause.]
+Okay. [Garble] P22. What's our next time line?
+[Garble] about 73:30 [Garble].
+Did you get that or did he give it to you?
+He gave it to me.
+Okay. Because I thought he said 2 degrees per second. Like to check on that.
+Okay, Houston; Aquarius.
+Go ahead, Fred.
+Okay. Jim thinks he heard something different than I copied on the DAP load. Is Register 1 supposed to be 31120? [Pause.]
+That's correct, Fred. That was to be 31120.
+Okay.
+Okay.
+And, Houston, how do you want us to [Garble]? [Long pause.]
+[Garble] 3, 2, C and D, 2, 2, 0, [garble]. Okay. We're at high bit rate. [Long pause.]
+Okay. [Garble] give [garble] a call. [Pause.]
+Well, they probably don't know what to do there.
+Okay. And, Houston; Vance.
+Go ahead, Jim.
+Just want to get a time check with you. When do you want us to start powering up the ball? We just got to our PTC attitude.
+Understand you'd like to know when to power up the...
+We think to take about 15...
+[Garble].
+Yes. The ball inside the maneuver, we think it will take us about 15 minutes to get there. We'd like you to confirm that.
+Stand by 1. [Long pause.]
+[Garble] god damn [garble]. [Long pause.]
+What would that take to use [garble] use the Command Module or what? To load the PLSS [garble].
+[Garble]. [Garble]. Let's see, about 10 or 11 [garble].
+When is that Sun check time supposed to take place?
+74 hours, 29 minutes [garble].
+Okay, Houston; Aquarius. I'd just like to do the little Sun check. Do you want me to do it now?
+Jim, Roger. We just came up with a maneuver time of approximately 15 minutes, so if you start any time between now and about the next 2 minutes it would get you into attitude by 73:15. Over.
+Roger. We'll start the maneuver at this time. Okay. Let's go.
+Okay. SPS [garble]...
+If we don't keep working, we'll never develop it. [Pause.]
+[Garble] now, Power up your FDAI.
+All right.
+Okay. Give me 16 [garble]. Apparently. [Garble] panel 11 [garble].
+Yes.
+[Garble] GASTA.
+Okay.
+And Commander FDAI.
+Okay.
+And on your HA, yaw right side, lift main line [garble]. [Garble].
+Okay.
+Now [garble] 30 second [Garble]. Okay. Now let's get ready to run this back. [Garble].
+Okay. [Pause.]
+Okay. Dead band Option. [Long pause.]
+Okay. [Garble]. [Garble]. [Long pause.]
+Okay. [Garble] on this [Garble] vector. Okay; R1, plus 45498 [garble] Okay, plus 190 [garble], plus 08256. Okay, now we show zips [garble]. Okay. Verb 62, Enter. Okay. [Garble] and the main [garble] in Auto [Garble]. [Garble]. [Long pause.]
+Houston, are you monitoring our P52 technique?
+...Apollo 13...
+Roll, yaw, roll, pitch, and yaw.
+Jim, that's negative. We don't have any data on you. Low bit rate.
+We don't have high bit rate. [Pause.]
+Houston, do you read Aquarius?
+Roger. Reading you, Fred. Go ahead. [Pause.]
+Go ahead. Houston is reading you.
+Houston, Aquarius.
+Reading you loud and clear. Go ahead.
+Are you monitoring our P52 technique?
+That's negative, Jim. We do not have high bit rate data on you now. Over.
+Okay. Thank you.
+Roger.
+And be advised, Vance, that we are getting several echoes in our comm downlink here.
+Roger. We'll check into it. [Long pause.]
+[Garble]. [Garble] and [garble] alignment.
+Apollo 13, Houston. [Pause.]
+Go ahead, Houston.
+Jim, request you give us high bit rate now. We might be able to fix you up on the 120 antenna.
+Okay. High bit rate.
+Roger. [Long pause.]
+And, zero, zero, zero.
+Yes.
+Apollo 13, Houston.
+Go ahead.
+Fred, we can't lock up on your high bit rate. Request you go back low bit rate.
+Hey, we lost you there, Vance.
+Roger. Advise, we are not locking up on your high bit rate, so you can go back low bit rate. Over.
+Low bit rate.
+Right here, Jim. There it is. Looks like it [garble].
+I don't have all the confidence in the world in this Earth-Sun P52. [Long pause.]
+You know how many times I screwed up on my arithmetic.
+Yes. Don't count your chickens before they hatch.
+Listen, I'm not. [Pause.]
+We're [garble] going to be two diameters out, huh?
+Yes.
+Okay. Tell me what that technique is to get the lamp on, in case I don't see it.
+They'll have to give you AC again and you punch in your breaker - Well, let's see - I've still got HP On for the FDIs, so you're in business now. All you need is the lamp breaker, the AC Bus A AOT lamp breaker, that is. [Long pause.]
+Let me know when these start going. There's the Sun. Give me the - Give me the AOT.
+Okay.
+Never mind. I don't need it. Go ahead. I got it. Never mind.
+Reticle brightness, want it up? Got the reticle?
+I got the reticle [garble]. [Pause.]
+[Garble]. Call it, Jack; you can see it better.
+[Garble].
+Okay.
+[Garble]. [Garble]. [Long pause.]
+[Garble] we got it a great big one.
+Yes. I show it about maybe a third of a diameter to the left.
+Okay. Take a look.
+Check your needles. You're off in roll, Jim. [Long pause.]
+Pitch and yaw are in, but we're off in your roll needle. Better get that [garble]. [Pause.]
+Okay. It brings it in. Say when. [Long pause.]
+Okay. We got it. I think we got it. What diameter was it? [Pause.]
+Yes. It's coming back in. Just a second. [Pause.]
+Yes, yaw's coming back in. [Long pause.]
+Just about it.
+Okay. Yaw is in [garble].
+What have you got?
+[Garble] upper right corner of the Sun.
+We've got it.
+You're hot [garble].
+Houston, Aquarius.
+Go ahead, Aquarius.
+Okay. It looks like the Sun check passes.
+We understand it checks out. We're kind of glad to hear that.
+It's not quite centered, but it's about a diameter, a little bit less than a diameter, just to one side.
+Sounds good.
+Now. Let's get the AOT lamp on.
+Okay, Jim.
+Which [garble] to get the AOT lamp on?
+Okay. Pull the - your AOT lamp breaker.
+Got it.
+Okay. And, Houston, can we proceed with our powerdown now? Getting the ball back off and AOT lamp, et cetera, AC secured.
+Stand by on that one for a minute, Fred.
+...the ball [garble] get back to - Okay. What we'd like now, I guess, is the next attitude to go to, Vance, and we will work on getting there while we still have the ball.
+Roger. We copy.
+[Garble]. [Long pause.]
+Okay. Seventy-four hours. [Pause.]
+Yes. We're not there yet, really. I've got 11 minutes to check [garble] out. [Long pause.]
+Yes. Bring your [garble] down. [Long pause.]
+Get set. Keep [garble]. It's better in here. Slow now [garble]. [Long pause.]
+Apollo 13, Houston.
+Go ahead.
+Jim, in a moment we will have an attitude for you to go to, and recommend that you keep your FDI up while maneuvering to that attitude. After you get there, then we will have you widen the dead band and eventually go into a PTC about the burn attitude. [Pause.]
+You were cut off slightly, Vance.
+Roger. We will have an attitude for you to maneuver to in a moment. And you should leave your FDAI up for that. The attitude is as follows if you are ready to copy. Over.
+Got the book.
+Go ahead, Vance.
+Okay. This is FDAI attitudes for the maneuver. Yaw, 060 degrees; pitch, 083 degrees; roll, 272 degrees. [Pause.]
+Let's not read that in the R1, R2. I don't want Verb 69 twice. I want Verb 49, 58g's so I can fly the needle. [Pause.]
+Jim. Those are not Verb 49 angles. Those are strictly FDAI attitudes. Over.
+Okay. I understand, Vance. It's much easier if the ball is up to fly the needles; that gives me a drift of Verb 49, 58g maneuver. We could fly that manually.
+Stand by. We'll try to get you a Verb 49 angle. [Long pause.]
+Flying on maneuvers.
+[Garble]. [Long pause.]
+On that last check, what did it look like?
+[Garble]. [Garble]. [Garble].
+This is the first three-man LM we've had.
+Apollo 13, Houston.
+And, Vance, which - What hack you got now on GET?
+Okay. Stand by on that, Fred. First, let me read up your Verb 49 attitude, if you are ready to copy.
+Go ahead.
+Okay. Yaw, 27100; pitch, 35500; roll, 33000. Over.
+Ask him if you keep it in Auto maneuver there.
+Okay. Verb 49: yaw, plus 27100; pitch, plus 35500; roll, plus 33000. And do you think it's cheaper to manually make that maneuver or take the 0.2-degree range and go in Auto maneuver? [Long pause.]
+Fred, we're recommending Auto maneuver. Over.
+Okay. Auto maneuver, and could you give me a GET right now.
+Okay. I understand you want GET of the burn. Stand by 1.
+That's negative, Vance. What is you clock reading right now?
+Okay. When I give you a hack, it will be 73:59, and that's about 40 seconds away.
+Okay. I think we will make one last check there with the half-unit vectors for 74 hours before we leave this attitude.
+Okay. And I'm going to calculate in the 2 seconds in giving you the time hack coming up on 73:59:00 when I give the mark. [Long pause.]
+Okay. Stand by.
+Mark. [Pause.]
+Looked good.
+Okay. I understand you got it.
+You want me to Proceed one more time on that, Jack?
+Roger. Yes, go ahead. [Long pause.]
+Oh, it's on; it's a center. [Pause.]
+That's it, she's right on still. Okay. I have too. That's better than I expected.
+Okay. Let's do a Verb 74 and get out of here.
+If we can. Go to P00? Okay. I'm going to go to...
+[Garble]. [Pause.]
+737100. Roger. 35500, plus 33000. [Garble].
+Okay. That's...
+Yaw, pitch, and roll.
+Let me see. No, that's yaw, pitch, and - Okay. Everything's [garble]. [Garble]. That's roll, pitch, and yaw. [Long pause.]
+Roll, pitch, and yaw.
+Everything [garble] yaw. [Pause.]
+The roll's going to be down here, but the yaw will be off the bellyband. [Garble] procedure, or don't you have a procedure? [Long pause.]
+Roll, pitch, and yaw, but drift's the one. That would be gimbal lock if it wasn't for being off [garble]. [Long pause.]
+And, Houston, I see that this maneuver gives us a roll of 27172, a pitch of 08301. Is that what they gave us?
+This is Houston. Please repeat.
+Houston, did you give us Verb 49 in yaw, pitch, and roll, or register 1, 2, and 3?
+We gave it as yaw, pitch, and roll.
+Okay. We wrote it as roll, pitch, and yaw. [Long pause.]
+Okay, Jim. We read it to you as yaw, pitch, and roll, and we should have given it to you registers l, 2, and 3; but we did not. So register 1 is 33000, register 2 is 35500, and register 3 is 27100. [Pause.]
+Okay, Vance. Register 1 will be 33000; register 2, 35500; register 3, 27100.
+Hey, Fred? Stand by on that.
+Okay. Plus 27100. Okay. Stand by. Right now you can enter [garble]. [Long pause.]
+Okay. Apollo 13, Houston.
+Go ahead.
+Okay, Jim. We sorted it out, and it is correct the way we gave you the first time. So, R1, 27100, and in the LM, that's yaw; R2, 35500, and that's pitch; R3, 33000, and that's roll in the LM. Over.
+I agree with you. Okay. 50 18, it's there, and 50 18, and that's what it will be. Okay.
+That's right. That's Verb 49. [Pause.]
+There are 25. 25, Enter.
+Okay. Plus 27100, plus 35500, plus 33000.
+Okay. [Long pause.]
+So far we're [garble] what can we do about it? [Long pause.]
+Apollo 13, Houston. You better watch that middle gimbal. Over.
+Roger. We're watching that middle gimbal. We have as a roll, 27172. Our yaw is - that's register 3 - 3300. How did we get this? [Long pause.]
+And, Apollo 13. We have a procedure for you describing how to widen the dead band to 5 degrees later on. But stand by for that.
+Apollo 13, you're heading for gimbal lock. You better stop everything. [Pause.]
+Yes, we're back in Att Hold now. We're trying to stop it.
+Roger.
+I'm going to roll it. [Long pause.]
+Can you give it a roll up now, Jim?
+Yes.
+That's great. [Pause.]
+I don't understand why we got that. [Long pause.]
+[Garble]. [Pause.]
+Pitch.
+It's down.
+Yeah.
+What?
+Apollo 13, Houston. It looks like Verb 49 maneuver will just take you right through there. You're going to have to go around it. Over.
+Okay. That's what we're in the process of doing.
+Si, si.
+We're manually working our way around it, Vance.
+Okay.
+Pitch is 083. [Pause.]
+How do I work my way around it? I'm 58g's, and I want yaw 231, right? I think they screwed up on our - our numbers again.
+Zero out the needles; we're heading that way, and then we'll stop and talk about it. [Long pause.]
+No. Pitch is 83. Pitch should be up here. [Garble]. [Garble]. What's the number, 552?
+Pitch should be 83 degrees. [Garble]. [Pause.]
+Roll 232; that's a long way to roll, [garble] yaw is 62 [garble].
+[Garble] yaw. [Long pause.]
+[Garble] roll. [Pause.]
+[Garble]. [Long pause.]
+Okay. What's that read; there's 180. [Pause.]
+Roger.
+[Garble] is over here. Houston, 13.
+Go ahead, 13.
+There's something screwed up on our burn attitude. We're not getting the proper readings on the ball and the needles are centered. I'm not too sure what's wrong. Let's go through this procedure again.
+Okay. Stand by 1. Let us look at it.
+It was - angles you gave us, Vance, aren't correlating the Verb 49 numbers.
+Okay. We'll check into it. [Long pause.]
+We know the ball is good. Why don't we just get a 40? [Long pause.]
+You better watch out; it's heading that way. [Pause.]
+Apollo 13, Houston.
+Go ahead, Houston.
+Okay, Jim. To answer your last question, do you have PGNS checklist page 57 handy?
+Right, we do. I'll check it.
+As soon as you open up to that, I'll explain it. [Long pause.]
+Okay. Go ahead, Vance.
+Okay. Under Verb 49, crew-defined maneuver, the flashing 06 22 are the angles that we gave you that were loaded. The flashing 50 18 actually represents FDAI angles, and so what you read on 50 18 should...
+Right. I understand.
+...should not correspond with Noun 22. [Pause.]
+Yes. We appreciate that, Vance. It's just that right now we're trying to follow center needles that appear to be possibly taking us away from the place we know we want to be in the ball. [Pause.]
+Okay, You're tending toward the gimbal lock area again. Heads up.
+Roger. [Long pause.]
+There's our 83... [Long pause.]
+Apollo 13, Houston.
+Go ahead.
+13, request you put in the Power Ampl circuit breakers so that we can take a look at your angles. [Pause.]
+You got it.
+Thank you. And now high bit rate. [Long pause.]
+Okay, 13; we're getting your high bit rate now and taking a look at your angles.
+Apollo 13, Houston. [Pause.]
+Go ahead.
+Okay, Jim, we just took a look at your angles, and you're looking good here. Your PGNS is looking good. We can't yet explain the attitude error needle thing, but I suggest you continue on in your maneuver.
+Roger. Okay. We've just about got roll.
+13, Houston. We see you now in the Auto maneuver. How are your error needles looking now?
+Okay. They look like they are working their way in, Vance.
+Okay. You think maybe they are working right now?
+Yes. Because we got a 270-degree roll, our pitch and yaw needles are reversed.
+Okay. [Long pause.]
+Say, how do you read, Vance? [Garble].
+Fred, you are starting to fade out. Request Aft Omni, Omni Aft.
+Okay. You've got Aft Omni.
+Thank you. [Long pause.]
+13, Houston. [Long pause.]
+Okay, Houston; Aquarius. We appear to be there - at the burn attitude. And now do you want us to change the DAP?
+Roger, Jim. We have a procedure to give you for widening the dead band to 5 degrees for the PTC in the next 3 or 4 hours, if you're ready to copy.
+Okay, stand by. [Long pause.]
+Go ahead.
+Okay. Verb 21, Noun 01, Enter; 3011, Enter; 44, Enter. Now, that's the procedure for widening the dead band to 5 degrees with the DAP. Later on, prior to the burn, you would return the dead band to 1.4 degrees, and if you're ready to copy, I'll read you that. [Pause.]
+Stand by.
+Okay. [Long pause.]
+Go ahead.
+Okay. To return the dead band later to 1.4 degrees: Verb 21, Noun 01, Enter; 3011, Enter; 200, Enter. Over. [Pause.]
+Okay, Vance. To widen the dead band, we'll enter a Verb 21, Noun 01, Enter; 3011, Enter; 44, Enter. Before the burn to go back to narrow dead band, it's Verb 21, Noun 01, Enter; 3011, Enter; 200, Enter.
+Roger. Readback correct.
+And, Houston, I'll guess we'll do this PTC in yaw, and do you want them all powered down? [Pause.]
+Stand by. [Long pause.]
+Okay, Apollo 13. Over.
+Go ahead.
+Okay, that's affirm. You'll be doing the PTC in yaw, and we'll give you a call at each time you change yaw - yaw attitude. Aside from that, request low bit rate, Off; then Down Voice Backup, Off; then Power Ampl, Off; and then FDAI, Off. [Pause.]
+Okay, Vance. On the power down, we go low bit rate; Down Voice Backup, we'll pull the Power Ampl breaker; and we'll power down the FDAI and the AC.
+That's affirm. And the AOT, too.
+Okay, are you all set for old a...
+Okay, Houston; Aquarius. How do you read Down Voice Backup?
+Reading you loud - loud and clear now, Fred.
+Okay.
+Oh, Vance, do you want to stay in this attitude for a certain length of time before we start maneuvering?
+Roger. Jim, we'll keep you there for about an hour, and then we'll have our first 90-degree rotation.
+Okay. How wide do I make the dead band? [Pause.]
+Say again.
+[Garble] the other Omni's in. [Pause.]
+Yes. My forward Omni is in.
+Apollo 13, Houston. Forward Omni should be best.
+We're there.
+I don't see why the hell he [garble].
+I know.
+I don't know. I don't know where that 5 degrees [garble]. [Long pause.]
+Cut it. [Pause.]
+[Garble] [Long pause.]
+Oh-h. [Garble] that thing against the [garble].
+I'm just going to try and close my eyes for a little.
+Go ahead.
+Aquarius, Houston.
+Go ahead.
+Fred, one - one point on the PTC requests that, about an hour or less from now when you make your 90-degree change, that you do it in PGNS Auto as opposed to Att Hold. Reason is that if you're in Att Hold, it establishes a new null point each time you stop the - the maneuver. Over. [Pause.]
+Okay. You want us to make the maneuver with PGNS Auto rather than the PGNS Att Hold. Is that right?
+Yes. That's correct. [Long pause.]
+And, Fred, advise that it - it is a manual maneuver. [Long pause.]
+13, Houston. You'd be using X-axis override. It will be a manual maneuver, but with the PGNS Auto mode.
+Okay.
+And if you're ready to copy, Charlie is going to be on in a minute with some recommended checklist changes for your upcoming burn. Over.
+Okay. Stand by 1.
+I'm going to erase this. [Long pause.]
+Hello, Aquarius; Houston. Do you read? Over.
+Yes. Stand by 1, Charlie. [Long pause.]
+Okay. Which book are you going to give me some words in, Charlie? [Long pause.]
+Houston, Aquarius. Which book do you want us to have out? [Garble] contingency [garble]?
+Houston. This is Houston, Aquarius. Say again. Over.
+Houston, Aquarius. Which book do you want me to update here, Charlie, the contingency two hour DPS? [Pause.]
+Okay, Freddo, we'd like you to get out the contingency checklist; turn to page 1, the 2-hour activation. Over. [Pause.]
+Okay. I'm right there.
+Okay. On page 1, the only thing we have to do is EPS Activation, step 2, CB(16) EPS: Display, Close. Over. [Pause.]
+Okay. On page 1, we need EPS Display, Close, under EPS Activation, step 2.
+Okay. Turning over to page 2, we'd like you to complete step 5 and step 6 with the following changes: Power/Temp Monitor, AC Bus, Inverter 2, then Inverter 1. Fourth line CB(11), EPS: Inverter 2, Open. Over.
+Okay, on step number - or page 2, we should do step 5 and modify step 6 second line to read Inverter 2, then Inverter 1, to the last line of step 6 CB(11), EPS Inverter 2, Open. [Long pause.]
+Okay. That will be on CB(16), Freddo, but it's Inverter 2, Open. Okay, on the Mission Timer Activation. Do step 1, correction, lines 1 and 2. Omit "set mission timer on CSM mark" and insert a Verb 16, Noun 65, set mission timer. Over. [Pause.]
+Okay. We'll do the Mission Timer Activation except we'll set it on Verb 16, Noun 65.
+Okay. Proceeding on to step, correction, page 3, CWEA checkout. Step 1, perform step 1. Warning lights will be Ascent Press, CES AC, and CES DC. Under the caution lights, we may have a heater light. And that's all. Okay, perform - under the circuit breaker 16...
+I can't understand you. I'll switch Omnis.
+Say again. Over.
+I'm going to switch to Omnis here, Charlie, you're starting to fade out.
+Understand. Switching Omnis. Over.
+Okay. How do you read? [Garble], how do you read me now?
+Okay, you're a little better. How me? Over.
+Okay, Houston. Coming in loud and clear. I got your caution/warning checkout, step 1, do; the warning lights we'll have will be Ascent Press, CES AC, CES DC. The only caution lights we may have will be a heater light and go ahead and proceed from there.
+Okay, good. The component light, we won't have the H2O Sep. Okay, on CB(16) right under that, "Heater Display, Close," you can scratch that out. Perform all of step 2 and perform step 4 with the following changes. On panel 11, under AC Bus B, are you ready to copy? Over.
+Go ahead.
+Okay. Under AC Bus B: S-Band Antenna, Open; ORDEAL, Open. Under AC Bus A: Tape Recorder, Open. Row 2 under RCS System A: Main SOV. Starting with a Quad TCA; all four Closed. Under Flight Displays: Cross - Commander Cross-Pointer, Open; COAS, Open; ORDEAL, Open. For row 3 under Heaters: Rendezvous Radar Standby, Open; Landing Radar, Open. Under Stab/Control: Attitude Direct Control, Close. Under ED: Logic Power A, Open; and under Lighting: Utility, Open. Are you with me? Over.
+Yes. I'm still with you, Charlie; go ahead.
+Okay, Freddo, good show. On row 4, starting with ECS: Suit Fan 1, Close; Glycol Pump Auto Transfer, Close. Under comm: VHF B Transmitter, Open; VHF A Receiver, Open. Under PGNS: Signal Strength Display, Open; IMU Operate, Close. Under EPS, row 5: Cross Tie Bus, Open; and Inverter 1, Close. Over. [Pause.]
+Okay, stand by just 1. [Long pause.]
+Okay, panel 11 configuration, top row: AC Bus B, I want the S-Band Antenna, Open, ORDEAL, Open; AC Bus A, Tape Recorder, Open. Second row, under RCS System A, I want Main SOV through Quad 1 TCA, all Closed. Commander's X-Pointer under Flight Displays, Open; COAS, Open; ORDEAL, Open. Third row: Rendezvous Radar Standby Heater, Open; Landing Radar Heater, Open. Under Stab/Control: Attitude Direct breaker, Closed; ED: Logic Power A, Open; Lighting: Utility, Open. Under ECS: Suit Fan 1, Closed; Auto Transfer, Closed. Under comm: VHF B Transmitter, Open; VHF A Receiver, Open. Under PGNS: Signal Strength Display, Open; IMU Operate, Closed. Bottom row, EPS: Cross Tie Bus, Open; Inverter 1, Closed.
+Roger, Fred. Good readback. Starting with panel 16. Under Flight Displays, row 1: SE Cross-Pointers, Open; RCS System Bravo - Quad 1 TCAs, Close; Quad 2, Close; Quad 3, Close; Quad 4, Close. Second row, under Lighting: Flood is your choice. You can either use them or not. Under ED: Logic Power Bravo, Open; ECS: Suit Flow Control, Open. Third row, under comm: Display, Open; VHF A Transmitter, Open; VHF B Receiver, Open; S-Band Antenna, Open. Fourth row, under Heaters: Display, Open; under EPS: Inverter 2, Open. And that's it. Readback. Over.
+Okay, panel 16, top row, Flight Displays: System Engineer Cross-Pointer, Open; RCS System B: QUADs 1 through 4 TCAs, all Closed. Second row, Lighting: Floods we'll probably have open - our choice. ED: Logic Power B, Open; ECS: Suit Flow Control, Open. Under comm: Display, Open; VHF A Transmitter, Open; VHF B Receiver, Open; S-Band Antenna, Open. Bottom row, Heaters: Display, Open. Under EPS: Inverter 2, Open.
+Roger. Good readback. Okay, continuing on. Nothing on page 6; nothing on page 7. Nothing on page 8 or 9. Nothing on page 10 or 11. On page 12, we want the - to perform...
+Hold it. Hold on just a minute, Charlie.
+Okay. [Long pause.]
+Okay. Go ahead, page 12. I'm there.
+Okay Freddo. On page 12, we want the MSFN updates. We've got some vectors for you and a P30 PAD. And we'll - when you get to that state, we'll let you know when we want to uplink. Okay. Under "AGS Activation and Self Test," perform the entire procedure. On page 13, under "AGS Align," do step 1; under "DAP Set, Gimbal/Throttle Test," do step 1 with the following change. Under "Throttle Control," we want it "Auto." Over. [Pause.]
+Okay. I'll catch up here. On page 12, you'll give us MSFN updates, some vectors, and a P30; and we're to do the entire "AGS Activation and Self Test." On page 13, we'll do the "AGS Align" and under "DAP Set, Gimbal/Throttle Test," step 1, I've changed "Throttle Control Manual" to "Throttle Control Auto.
+Good readback. Turning over to page 14, step 2, we want you to change the DAP Noun 46 to 31021. Then after the Noun 47, insert "Verb 34, Enter." Over.
+Okay. On page 14, a Verb 48, DAP load, Noun 46 changed to 31021. I assume you will give us any updated weights if we need any, and after the Noun 47, a "Verb 34, Enter." So, I - you're saying our gimbals look all right.
+That's affirmative on the gimbals, Fred. Nothing else on page 14. Proceed to page 15, and under "RCS Checkout," we'd like to scratch that wording and just say "Verify the following switches: Guidance Control, PGNS;" step 3 - correction, it's line 3, change "Attitude CONTROL (3)" to "Mode Control;" "Mode Control (BOTH)" to "Auto." Verify ACA Prop, LMP Enable; ACA/4 JET, LMP Enable; TTCA/Translation, LMP, Enable. That is all on page 15. Over. [Pause.]
+Okay. On page 15, we'll change the heading "RCS Checkout" to "Verify following switches ," and those switches are "Guidance Control, PGNS;" third line, "Attitude CONTROL (3)" to "Mode Control" now; and then "Mode Control (BOTH)" to "Auto" and ACA Prop, LMP Enable; ACA/4 JET, LMP Enable; and TTCA/Translation, LMP Enable.
+Roger. Now stand by 1.
+Okay. Hand me the eyepiece. I got Scorpio.
+You have?
+Yes. And Antares.
+Where's the other one? I'll put it back in here.
+Hello, Aquarius. Houston. On activation page 16, if you are ready. Over.
+Okay. Stand by just 1, Charlie. Jim's going to fish around and see if he's got - he thinks he's got Scorpio. I'm the AOT now. Okay, Charlie, go ahead. I'm on 16 now.
+Okay. Fred. On page 16, perform the "Docked DPS Burn (PGNS)," that entire sequence down - down through the end of the page, except cross out that "CSM Maneuver to Burn Attitude, then CMC - Free." Over.
+Yes. I kind of deduced that one, Charlie. Page 16, "Docked DPS Burn (PGNS)," except we'll forget the CSM maneuver.
+Okay. And you can forget the "APS Follow-up," too. Okay, on page 17, perform all of the AGS entries and at 4 minutes, we got a change. First line, CB(16) Inverter 2, Close; line 2, scratch out "Select Inverter 1." At - proceeding on down the page, after "Attitude Monitor," we'd like you to place the Rate Scale to "25 degrees a second." Okay, proceeding on down four more lines to "Balance Couple," we'd like to turn "Balance Couple-Off." That's to keep the upfiring jets off of the CSM, in case we have to damp any rates in AGS, though we don't think we will. Then perform the rest of that page as written. Over.
+Okay, on page 17. Do the AGS load at minus 4 minutes; it's CB(11), Inverter 2, Close, and scratch "Select Inverter 1." Rate Scale changed to "25 degrees a second." "Balance Couple," we'll turn "Off;" and, incidentally, on the AGS dampen rates point, it brings up the discussion we'd had before, Charlie, on takeovers. You might discuss what it's going to cost us Delta-V wise, if we get a control problem, to just shut her off and it take 30 minutes to regroup for a good manual burn.
+Fred, we already got that story for you, pretty well in hand. We're reviewing it right now. And I'd like to defer that question until later on. Basically, we're just going to shut down and take what we got, and we got a midcourse of about - the maximum of 5 foot per second, anywhere in the burn to get back to free return. That - that's basically the story. We'll give you the mission rules for this burn momentarily. I'd like to proceed on to page 18, at minus 1 minute, scratch "Master Arm - On." Stand by.
+Okay, on page 18, and I've already done that at 1 minute; "Master Arm - On," I'll scratch...
+...Slipped that [garble] and I won't have anything to do...
+...I've already scratched "CB(16) Abort Stage Close" for the previous burn.
+Okay. We want you to close the CB(16) Abort Stage. Over. [Pause.]
+Okay. You got some special reason for that?
+Yes, sir. We like - In case we don't get a manual On - I mean, an Auto On, we're going to back up using the abort stage in the descent engine command override at ignition plus 1 second. Backing up to page 17, at minus 4 minutes, you read "CB(11) Inverter 2," it should be "CB(16) Inverter 2." Over.
+Okay, I got you, Charlie. 17, "CB(16) Inverter 2, Close.
+Okay, back to page 18. We'll continue on as is at 30 seconds, 10 seconds, 7 seconds, minus 5 seconds. At "ignition," no ignition and we'll add here, "no ignition, Start pushbutton - push; still no ignition, Descent Engine Command Override, On." Over. [Long pause.]
+I got it out there, but I can't get to see it closer. [Pause.]
+Okay, on channel - on page 18, right on down the line, everything holds until after "ignition"; "if no ignition, Start pushbutton - push; still no ignition, Descent Engine Command Override switch On.
+Okay, good readback, Freddo. At plus 15 seconds, scratch "Master Arm - Off;" and at - proceeding on down to "At Engine Cutoff," it's - after the "Mode Control: PGNS to Att Hold," we'd like a "Verb 76," and the "Damp Excessive Rates via the LM Y, Z Translation." Over.
+Okay, scratch "Master Arm - Off" at plus 15, and "At Engine Cutoff" after "Mode Control: PGNS - Att Hold," we want a "Verb 76 Enter," and "Damp Excessive rates via LM Y, Z translation." And a question on the - propellant quantity, we expect it to get down below 37 percent on this burn. Does that compare with that burn time when you get down to it.
+That's negative. At this - this burn, we're looking at - not reaching 37 percent, so I don't think we'll have to perform that step. We will verify that for you. Okay. One other statement: "At Engine Cutoff, if manual start, then at 30 feet per second to go, throttle to 40 percent. At Delta-V equals zero, stop pushbutton, push." Over. [Long pause.]
+Okay, Charlie. If a manual start, that was throttle to 40 percent at - Was that 30 foot per second to go?
+That's affirmative. At 30 foot per second to go. [Pause.]
+Okay. Then it's stop pushbutton at VGo equals zero?
+That's affirmative. What we want to do, if we got a manual start, we're going to have to shut down manually, and, to get a better guided cut-off at 30 foot per second to go, we want you to throttle at 40 and acceleration is within reason there, and we feel like we can get a good manual cut-off. Over.
+Okay.
+Okay. Now, Fred, that was good in the checklist. That's all. We'll have the powerdown checklist for you momentarily, and we'd like to ask you if you plan to use the DPS burn card. If you do, we have some changes to that. Over.
+Okay. Let me get a hold of this [garble] right now.
+Let me know when you are ready to copy. Over.
+I'm ready.
+Okay. The first two lines are okay. CB - third line, CB(11) and (16): Stab/Control, all Closed except CB(11) AEA, Open; Abort Stage, Open; AELD, Open. CB(16) AELD, Open. Over. [Pause.]
+Okay, on the DPS burn card, third line should read CB(11) and (16): Stab/Control CBs all Closed, except CB(11) AEA, Open; Abort Stage, Open; AELD, Open; CB (16) AELD, Open.
+Okay. Good readback. Proceeding on down the page. "Balance Couple" switch, "Balance Couple, Off." Okay, down to the TTCA - it's the last line before minus 2 minutes - "TTCA Commander Throttle, Minimum; LMP TTCA to Jets." At minus 2 minutes, scratch "400 plus 1." At minus 1 minute, scratch "Master Arm, On." At minus 10 seconds, add "Manual Ullage." At plus 5 seconds, scratch "Descent Engine Command Override, On;" add "TTCA, 40 percent." Okay, the same comments apply about the manual start: "At the ignition time, if no start, manual Start pushbutton, push; if still no start, Descent Engine Command Override, On." And the same comments apply to shutting down at manual start. Over.
+Okay. The same comments. I'll start at the top again here. Okay. "Balance Couple" should be changed to "Off." Under TTCA, it should be "LMP TTCA" to "Jet." Scratch "400 plus 1" at minus 2; scratch "Master Arm, On" at minus 1. Add at minus 10 seconds "Manual Ullage"; add ignition - can add the comment about "If no start, Start pushbutton, push; still no start, Descent Engine Command Override, On." At the plus 5-second point, scratch "Descent Engine Command Override, On," and add "TTCA to 40 percent," and the same comment applies at engine stop to perform.
+We really don't use this card at that time.
+Roger, Freddo. Now we aren't - also at minus 30 seconds, we aren't looking at an AGS burn so you can scratch "Abort pushbutton, push," and at Delta-V equal to zero, scratch "Abort pushbutton, reset." Over.
+Okay. Minus 30 for AGS burn, "Abort pushbutton, push" is scratched, and at Delta-V equals zero, "Abort pushbutton, reset" is scratched.
+Okay, you got it, babe. We'll have some mission rules for you momentarily, and the powerdown checklist and also a PTC setup. Over.
+Okay.
+Houston, Aquarius.
+Go ahead, Jim. Over.
+Roger. Be advised I'm now seeing Antares and Nunki in the AOT, and I just wanted to know whether you want me to try to do a P52.
+Roger. Stand by. We copy the stars you are seeing. Stand by on a P52.
+Not very far apart. Put the card back up, Jim...
+It's better than Antares and Shaula.
+Yes. Sure is. That's right. [Pause.]
+We got pretty good [garble] I'll do an Auto P52 to Antares. That's the way I'll get it up there.
+Hey, Houston - correction - Aquarius, Houston. We're satisfied with our present alignment. We don't want you to waste any more RCS gas trying to do this P52, and be advised you guys are hot mike, if you haven't heard. Over.
+Okay, understand.
+How's your memory there, Charlie?
+Okay, we're putting Vance back on. Stand by. [Long pause.]
+What was that...[Pause.]
+Okay, okay, let's go back to that P52 [garble] now the attitude.
+The burn attitude?
+Yes. I want to make sure I got it.
+Oh, you strayed off?
+Yes.
+Okay. [Garble]. Okay. You want these numbers? Or do you want the numbers from these.
+What?
+PADs. You got the G&N dictionary?
+I got 13 20 going now.
+Wait a minute. [Pause.]
+[Garble]. Just a [garble]. These are those 13 20 angles here. Up here. Right here. [Long pause.]
+Hey, great. [Long pause.]
+One on. And Houston, Aquarius.
+Go ahead, Fred.
+Oh, about how long we got before we're going to have to go to work here, Vance. Kind of like to get a bite to eat, maybe.
+Okay. We have a - a couple of PADs to give you and stand by. Let's - we'll check to see if we have anything else.
+Hold on to that, baby. Where's that G&N book? You got it over there?
+Here we go. Here, you want me to start copying...
+...[garble] the bag...
+...off there.
+Aquarius, Houston.
+No, you've got it right here.
+Go ahead.
+Okay. About all we have to do is to send up your state vectors and target loads, and that will have to wait a couple of minutes until we get ready to do so. And if you're ready to copy, I can give you the P30 maneuver PAD for PC plus 2, and after that, probably you should eat and then we'll regroup again to send up other things. Over.
+Okay. I'm ready to copy a P30, a PC plus 2.
+Okay. Okay, this is a preliminary P30 LM maneuver PC plus 2. Starting Noun 33: 079:27:40.07; plus 0819.2, minus 0020.0, minus 0218.9; NA; plus 0020.9, 0848.2; 420, 274, 082; plus 0820.3, minus 0020.0, minus 0215.0. Comments. Ullage is two jets for 10 seconds. CSM weight, 62480. LM weight 33576. And the following is the DPS throttle profile: 5 seconds at minimum followed by 21 seconds at 40 percent, and the remainder at Max. Over. [Long pause.]
+Okay. PC plus 2. 079:27:40.07; plus 0819.2, minus 0020.0, minus 0218.9; N/A; plus 0020.9, 0848.2; 420, 274, 082; plus 0820.3, minus 0020.0, minus 0215.0; the rest N/A. Under remarks: ullage, two jets, 10 seconds; CSM weight, 62480; LM weight, 33576. DPS throttle profile: 5 seconds at idle; 21 seconds at 40 percent; remainder at Max. [Pause.]
+Roger; that's correct, Fred. If you'll take out a maneuver PAD, I'll give you some landing information. Over. [Pause.]
+Okay, you're talking in the CSM update book?
+Yes, that's affirm.
+You got it right here. Make sure and scratch the [garble]...
+[Garble]...
+...though. [Long pause.]
+Okay, which - which one we want? P37?
+What kind of a maneuver PAD do you want, Vance?
+This is a CSM maneuver PAD for - to monitor PC plus 2. And it's going to be mainly blank except I want to give you your Noun 61 latitude and longitude, range to go for the EMS and that sort of thing.
+Okay, go ahead.
+Okay, at the top, purpose is monitor PC plus 2; everything is blank until you get down to Noun 61. Latitude as follows: minus 21.47, minus 165.00; 1166.0, 36291, 142:39:20. Over. [Pause.]
+Okay, monitor PC plus 2 PAD. Noun 81: minus 21.47, minus 165.00; 1166.0, 36291, 142:39:20.
+Roger; that's correct, Freddo. And we - now would like to get you in a configuration to uplink your state vector and target load. So, if you're ready to copy, I have some circuit breaker changes for you. Over.
+Okay, go ahead.
+Okay, circuit breaker panel 11 Updata Link, Close; Primary Power Ampl, panel 16, Close; Voice Function to Voice; Range - Rangine Function to Ranging; TM bit rate, Hi; and then P00 and Data. [Long pause.]
+Okay, we're now in P00 and Data, and switches and breakers are configured. You got it.
+Okay, thank you. You're coming in loud and clear.
+Aquarius, Houston. Over.
+Go ahead, Houston.
+Hey, Jim, I have about three things. First thing, the computer is yours again. The second thing, no PTC maneuvering will be required from now until burn, so you can just sit in the burn attitude. And the third thing is we'd like to back out of this procedure we just put you into to updata link, which would mean going from TM bit rate Hi back to Lo, Ranging to Off, Voice to Down Voice, Primary Power Ampl to Close.
+Hold up, Vance.
+Okay.
+We have a Program Alarm, Vance. 1106. [Pause.]
+Stand by...
+...that high bit rate. [Pause.]
+Okay, that apparently was just my putting the Updata Link switch Off that set that bit.
+Roger. We concur on that. And I'll read this back to you a little more slowly, Fred.
+Okay, are you ready to copy?
+Okay. Go ahead.
+Okay. TM bit rate to Lo; Ranging to Off, Voice to Down Voice, Primary Power Ampl to Off - that's on panel 16 - and - or Open - and circuit breaker 11 Updata Link to Close - or to Open. Over. [Long pause.]
+Okay, Vance, how do you read on Down Voice Backup now?
+Okay, Fred, reading you loud and clear now.
+Okay. I've got the Power Ampl off, Down Voice Backup, PCM to Lo bit rate, and the Updata Link breaker on 11 is pulled. [Pause.]
+Okay. Copy. Thank you. [Long pause.]
+Apollo 13, Houston.
+Go ahead.
+Okay. On this last readback, we'd just like to verify that the Primary Power Ampl was pulled opened. Over.
+That's affirm. I used the breaker on 16, Primary S-Band Power Ampl breaker is Open.
+Okay. Thank you.
+Boy, we must be getting pretty close to the Moon.
+What's that? [Long pause.]
+It's in a Att Hold.
+Five degrees.
+Hey, Jack. Bring me down one of the [garble]. [Pause.]
+And [garble].
+[Garble] need two of them, I guess [garble].
+[Garble].
+Yes. I've been meaning to tell you about that, yes. [Pause.]
+You know where this [garble] water?
+What's that?
+You know where this [garble] water?
+Where?
+The LGC. [Pause.]
+[Garble].
+[Garble]. [Long pause.]
+[Garble] there she is [garble].
+Pretty close? How's the hoses coming? [Long pause.]
+That screen goes - goes on - Fred's hose up there.
+Yes. Here, take that one. [Garble] another few minutes [garble].
+Let's not forget to haul these out of here. [Pause.]
+Thank you.
+Get the hose screens?
+Yes.
+I'll [garble].
+Houston, Aquarius. How do you read? [Long pause.]
+Hello, Houston; Aquarius. How do you read?
+Aquarius, Houston. Loud and clear.
+Okay. Vance, I guess I understood you all were amassing a couple of - list of things that you were thinking about later on - we'd be taking back from the LM across into the CSM. A couple of items to add to that list, we've pilfered the - the intake hose screens out of the CSM and we have them mounted on the LM hoses now to catch the debris in here. We probably ought to take those back.
+Okay. We got that. Intake hose screens. [Long pause.]
+I guess that item isn't going to change your c.g. too much, Freddo. [Pause.]
+Let's hope not.
+[Garble] Command Module water.
+Yes. No, I haven't. [Long pause.]
+Yes.
+[Garble]. Get out one of those big [garble] bags.
+Much debris in there?
+Yes.
+Trying to put debris in?
+Yes.
+[Garble] Jim. Ready to go.
+How's that for [garble]. [Laughter]. [Long pause.]
+[Garble] didn't see any [garble]. [Long pause.]
+Yes. Oh, what I'd like to do is find out how many - Yes - What happened to the two little midcourses that's got to be with this vehicle.
+Yes. [Garble].
+Now we just take the CSM and strip it down. Start putting the [garble] stuff in here. [Pause.]
+Why are you worrying about that? Why are you worried about stripping down the vehicle?
+Well, you don't want - You don't want the drogue and the probe in.
+Oh, yes.
+And, you do want room for the PLSSs. So, we'll grab this [garble] suit valve and [garble] them in there. [Pause.]
+General [garble].
+Well, the suit [garble] oxygen [garble] the cabin. [Pause.]
+[garble].
+[Clears throat] We're not planning to reenter with suits. [Pause.]
+[Garble] a suit would help you out is for protection.
+Yes, [garble]. [Long pause.]
+They work on the Repress valve.
+Yes, [garble]. [Pause.]
+You know [garble] suit [garble].
+Breathe through the canister.
+[Garble].
+Yes, breathe through the canister. [Long pause.]
+My job is to maintain [garble]. [Pause.]
+You got all those things [garble]?
+Roger.
+[Garble].
+Yes, I think they forgot that.
+Sun must be coming back.
+Yes. [Garble]. [Pause.]
+Yes, I got two stars, circling back, Nunki and Antares [garble] back up again. [Long pause.]
+Actually, you can see [garble]. [Pause.]
+What? Huh? [Long pause.]
+That's the one you put up there, [garble] I would like to [garble].
+Ready to trade it in.
+Right.
+Doesn't that also fit this big container back here?
+[Garble].
+That's a little [garble].
+I wouldn't mind - dumping this [garble] [Pause.]
+Okay. [Garble]. [Long pause.]
+[Garble] seems to me. [Pause.]
+Guaranteed to work. [Pause.]
+Okay. [Garble].
+Hey, can't you pilfer more there? Yes. [Garble].
+[Garble] what you do - what you do, you put your... [Pause.]
+Not bad [garble]. [Long pause.]
+Now, let's see, this burn's [garble] to our back, I suppose. Let's hope it works. [Long pause.]
+Now, let's see. What should we be doing here now?
+Okay. The next thing is power for the burn. Did they give you a time to start powerup?
+No. [Garble]. [Pause.]
+Yes, we ought to get a [garble]. You know, we ought to get [garble]...
+They will.
+...[garble].
+Hello, Houston; Aquarius.
+Go, Aquarius.
+Let's just recap the situation now. We're not going to do any more PTC. We'll maintain this attitude. You have already updated us on P30 load. We would like from you an LOS time, and a power-up start time for the PC plus 2. And an AOS time. [Pause.]
+Okay. We copy that. [Long pause.]
+We're going to also get back with you shortly, Jim, for - with some burn guidelines for PC plus 2.
+All right. Very well.
+Have they powered up the mission timer - the event timer?
+[Garble].
+Oh, I see. Are they going to?
+Apollo 13, Houston. [Pause.]
+Go ahead, Houston.
+Jim, we were just discussing burn star monitoring and we were curious to know if you can see Nunki in detent 2 at this time. Over. [Long pause.]
+That's affirmative. I can see Nunki in detent 2,
+Okay. Thank you. Roughly, in what part of the field of view? [Pause.]
+Nunki is in the upper right-hand corner.
+Okay. Thank you.
+And Scorp - And Antares is barely visible in the bottom of the field of view.
+Okay.
+Yup, Gerry. [Long pause.]
+Hey, I bet I know how I could get an alignment. Give them a cursor spiral angle. Instead of maneuvering the spacecraft, I'll give them cursor spiral. [Pause.]
+Do that for AGS and [garble]. [Pause.]
+[Garble] How's the Earth?
+Houston, for what it's worth, we can probably give you a cursor spiral angle on Nunki and possibly Antares or more than likely Shaula.
+Roger, Jim. According to our calculations, Nunki should be, at burn time, pretty close to the center of the AOT. We've been talking that possibility. Over. [Pause.]
+Roger.
+Also, as a matter of general interest, the Sun should be in - at the bottom part of the CDR's window at the bottom of the LPD vertical line. [Pause.]
+Be at TIG, which is at...
+That's affirm at TIG.
+It must be that - You're right, because it's behind us now. [Pause.]
+Wait a minute, we're holding inertial attitude.
+Yes, we're not at the TIG attitude.
+Oh.
+Apollo 13, Houston.
+Go ahead.
+Jim, whenever you're through eating and ready to copy the info, I can send you the burn rules. [Pause.]
+Do you want this?
+Write them right on - [garble]?
+Why don't you write them right in here?
+Okay. [Pause.]
+Okay. I'll start on that.
+Okay, Vance.
+Go ahead.
+We're all set to go.
+Okay. Okay. First of all, general philosophy is that these rules should be similar to LOI mode I abort with the tight limits. Now, I'll go through them one by one for you to copy. Okay. You should shut down, if any of the following happen. Thrust monitor readout, 77 percent or below; DPS propellant tank pressure - that's the inlet pressure - onboard readout, 160 or below; fuel to OX Delta-P, greater than 25 psi - and that would have to be a ground call to you. Attitude error plus or minus 10 degrees, with the exception of the start transient; attitude-rate limits, plus or minus 10 degrees a second. And you should shut down if you get any of the following alarms: Engine Gimbal, ISS, plus Program Alarm, LGC, CES DC, and if you get an inverter light after switching inverters. Are you with me?
+Roger.
+Okay...
+Affirmative.
+And proceeding on. If, during the burn, the engine stops, if you have a flashing Noun 97, you should Proceed, then ullage, Engine Start to Push, and Descent Engine Override On. Okay. Now just general information. If you didn't burn PC plus 2, probably P - C plus 4 would be the earliest MCC. AGS is going to backup in a rate-fail mode only, which you know. We're talking over the star check. Will have to get back with you on that. If, for some reason, there is no PC-2, you have a free-return trajectory with the landing at 152:02:00, and that would be after a small midcourse-5, which would probably be around 4 feet per second at 93 hours. And you have recovery forces in the Indian Ocean; you're in good shape there. And the Indian Ocean is where this landing would be. Okay. You still with me?
+Roger.
+Okay. After...
+Yes. I'm with you.
+Okay. After PC plus 2, there are no trim requirements; and, if you have a shutdown during PC plus 2, subsequent midcourse maneuvers required with - Well, the earliest one would be PC plus 4. If you don't do a PC plus 2, but we still want to do one - MCC later. At PC plus 4, the increase in Delt - in Delta-V, or the penalty, would be about 24 feet per second, with a landing in the mid-Pacific at 142:46:30. Now, you should expect new PADs, state vectors, and targets for PC plus 2 at about GET 78. Over. [Pause.]
+Tell them to stand by.
+Stand by, Vance.
+Okay. [Pause.]
+Okay. How do you read?
+Loud and clear.
+Okay. Burn rules. We should shut down for the following: if we have the thrust monitor at 77 percent or below; number 2, if the DPS propellant ullage pressure is less than 160 psi; 3, if the fuel oxidizer Delta-P is greater than 25, and that'll be a ground callout; 4, if the attitude error is plus or minus 10 degrees except for starting transients. Okay. Rate limits are plus or minus 10 degrees per second. And we're to shut down with the following alarms: an Engine Gimbal light, an ISS with a Program Alarm, an LGC, a CES DC, and an inverter light, if it's still on after we've tried switching inverters. If, during the burn, the engine shuts down when the Noun 97 flashes, we should Pro, do manual ullage, and Start pushbutton, push, and Descent Engine Command Override, open. If we don't do a PC-2, our next burn will it be at PC-4 for an added 24 foot per second. We'll land mid-PAC at 142:46:30. Okay. We'll have the AGS up for backup rate command, or rate damping, I guess. And the free return that we're on, if we don't - that we're on now, if we don't do PC-2 or 4, lands us at 152:02:00 in the Indian Ocean. And there's no trim requirements on this burn, and we should expect a new uplink and a new final maneuver PAD from you at 178 hours.
+78.
+Okay. I'm sorry, 1 - Yes, 78 hours. It only seems like it's been that long.
+I can understand. [Long pause.]
+Okay, Fred. Your readback was correct.
+Okay. [Long pause.]
+Okay. And, Vance, did you ever have any LOS/AOS times, and - and a startup time for us to jump into this activation checklist?
+Okay. Let me - Let me poll the house again on that one. [Pause.]
+What?
+Okay. One word is that the - In an optimum fashion there, going through that 2-hour activation generally took somewhere from about an hour and 15 to an hour 20. [Pause.]
+Okay. I guess then we ought to allow you a little more than that, huh?
+No, I was thinking that we don't have to do about four pages of it, that we probably need just about that, and that will make up for the difference of any added time we need maneuvering et cetera.
+Okay. [Long pause.]
+We'll need a - Can I get a flashlight? You got a flashlight. We might need a spare flashlight - Yes. Okay. We might need a spare flashlight: have you got one? Okay. Okay. The Sun has gone [garble] down. [Pause.]
+Man, look at those stars. Houston.
+Go ahead, Aquarius.
+Roger. We are in the shadow of the Moon now. The Sun is just about set as far as I can see and the stars are all coming out.
+Okay. And if you are ready to copy, we have LOS/AOS times for you.
+Flashlight. Okay. [Pause.]
+Go ahead, Vance.
+Okay. LOS 77:08:35, AOS 77:33:10. Sunrise - First I'll give you sunset which is past, but that was supposed to be at 76:32:45 and sunrise 77:16:48. [Pause.]
+Okay. LOS at 77:08:35, AOS at 77:33:10. Sunset at 76:32:45, sunrise at 77:16:48.
+Roger. We'll get back with you on the powerup time and, if you're ready to copy, have angles to load into Noun 22 for your Verb 49 maneuver to burn attitude. Over. [Pause.]
+Okay. Go ahead with the Verb 49 value.
+Okay. R1, plus 27210; R2, plus 35570; R3, plus 33010. Second item, as you know, due to maneuver with a Proceed and a Proceed; and, after your attitude, a reminder that P40 will not set you back to a narrow dead band. To get back to the 1.40-degree dead band, you have to use the procedure I gave you, which is Verb 21, Noun 01, Enter, 3011, Enter. And 200, Enter. [Pause.]
+Okay. Verb 49, register 1, plus 27218; register 2, plus 35570; register 3, plus 33010; and to get the narrow dead band back we want a Verb 21, Noun 01, Enter, 3011, Enter, 200, Enter.
+Roger. And a correction on your - on your first number for register 1. That should be plus 27210. And another comment; after you get into the narrow dead band at that attitude, why, you might tell us where you see Nunki.
+Roger. Will do, Vance.
+Thank you.
+Okay. And you corrected register 1; it's plus 27210.
+Roger.
+And would you like us to make that maneuver at this time? [Long pause.]
+It's down below us, isn't it?
+Stand by.
+Can't see it.
+Can we have some more light in here now?
+I have a light. [Long pause.]
+What do you see out your upper window? [Pause.]
+Stars.
+Yes. It looks like - looks like the light is coming from around those clouds.
+Well, you won't get AOS/LOS until 77.
+[Garble]. [Long pause.]
+Yes.
+[Garble].
+Yes. [Long pause.]
+Let's see, AOS is at 2 hours before the burn?
+Just about. [Long pause.]
+Apollo 13, Houston.
+Go ahead, Houston.
+Jim, we recommend you go ahead and make your Verb 49 maneuver, but just stay there in Verb 49 and don't go ahead to narrow the dead band just yet. And, when you're in that attitude, why, of course, then you can make your star check. And one other item is, I don't think we got back with you, but that hour-fifteen for powerup sounds fine with us.
+Okay. At this time, I'll start my Verb 49 maneuver, but will not narrow the dead band, and we will take a look at Nunki. Okay, Vance.
+Roger. [Long pause.]
+Almost, huh? [Long pause.]
+Jim? Jim? [Long pause.]
+[Garble].
+No, it shouldn't. [Long pause.]
+[Garble].
+It shouldn't.
+I was below that [garble].
+[Garble].
+That's a good idea. [Long pause.]
+[Garble].
+[Garble] how many lights you're going to see. You can coach Jim on that.
+Sure. We're there. [Long pause.]
+Nunki?
+Yes. I can just barely see it. I see Antares much better. [Pause.]
+Why is the wide dead band on? Stand by. Is - Is Scorpio moving down? [Long pause.]
+What's that cloud I see over there?
+I don't know. It looks like a Milky Way.
+Just a... [Pause.]
+Huh! [Pause.]
+Houston, Aquarius. [Pause.]
+Aquarius, Houston. Go ahead.
+Okay. We have completed our maneuver. We're in our wide dead band, and Nunki is close to the top of my display of the AOT. Right now, Antares seems to be more closer towards the center. However, we are in our wide dead band.
+Right; understand. We'll have to make a better check later, I guess.
+I can't for the life of me figure out what that dark stuff is. [Pause.]
+Yes. Did you look at it, Jack? [Pause.]
+Yes. Okay. But I didn't recall what [garble]. [Long pause.]
+See it there. Like two black clouds.
+Well, you know what this burn is buying us; 10 hours.
+Yes.
+And how. [Long pause.]
+Might be a good idea. [Long pause.]
+Hey, that's pretty extensive, Jim. You can locate it and get it halfway through the [garble]. [Long pause.]
+Strange. [Long pause.]
+It's on the AOT. Well, may be not.
+I don't think so.
+I know what that is. That might be the debris that was thrown out there.
+...into the cloud?
+It's all dark now.
+From the explosion.
+[Garble] we made a maneuver.
+No, from our explosion.
+Take a look. It covers a wide area.
+God, that dark cloud. [Garble]. Like a pair of contrails. Only if you switch the detent, they go on around. How long to LOS? Is that right?
+I'd sure like to try the detent 2, but I guess our damn platform's okay, isn't it?
+Yes.
+Yes. [Long pause.]
+[Garble]. [Long pause.]
+[Garble]. [Long pause.]
+Aquarius, Houston. Over.
+Go ahead, Houston.
+Okay, Jim. We have a little over 2 minutes until LOS, and everything's looking good here.
+Roger. Yes. I take it that we don't have to start our activations until we receive AOS from you.
+Roger. That's correct.
+You [garble] up our edibles? [Garble] water? [Garble].

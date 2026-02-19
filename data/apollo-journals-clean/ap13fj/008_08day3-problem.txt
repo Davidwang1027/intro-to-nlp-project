@@ -1,0 +1,452 @@
+Apollo 13, Houston. The next thing we'd like you to do is to...
+Go ahead.
+...we'd like you to roll right to 060 and null your rates for photography of the Comet Bennett. To do that, we'd like you to enable quads C and D. For the maneuver, use all your quads. And in precisely 1 minute, we'd like you to terminate the battery charge on battery B. One other request, we'd like to have you verify...
+Okay. Will do.
+One other request, we'd like you to verify your High Gain configuration. We'd like to know what track mode, what servo, and what beam width. [Pause.]
+Okay, Jack, during the TV, we were Auto Track, Narrow Beam Width, and the Primary Electronics. And we had a good lockup. Just after we started the maneuver, I was able to lock you up and get real good signal strength, and it just seemed that right there at about 239 degrees in yaw, that the signal strength would just drop off and yaw would go to zero and pitch would go to 90.
+Roger. We copy, and the TV show was great.
+Okay, real fine. Okay, I'm going to maneuver to 060, 090, and 0. [Pause.]
+And, 13, we'd like to - to check C-4 thruster. [Long pause.]
+Okay, Jack. The battery charge has been terminated on the battery B.
+Roger. We see it, Jack. And we got a reading of minus 2 degrees on the docking index. We'd like to know if that's 2.0 precise or if it's 2.1 or 1.9.
+No. It's, uh, minus 2.0 precisely.
+Thank you.
+13, we've got one more item for you, when you get a chance. We'd like you to stir up your cryo tanks. In addition, I have shaft and trunnion... [Pause.]
+Okay.
+...for looking at the Comet Bennett, if you need it.
+Okay. Stand by.
+Okay, Houston...
+...Houston...
+...we've had a problem here. [Pause.]
+FLIGHT, GUIDANCE.
+Go GUIDANCE.
+This is Houston. Say again, please.
+We've had a Hardware Restart. I don't know what it was.
+Okay. GNC, you want to take a look at it? See if you see any problems?
+[Garble.] Ah, Houston, we've had a problem. We've had a Main B Bus Undervolt.
+Roger, we're copying it, CapCom. We see a hardware restart.
+You see an AC Bus Undervolt there, GUIDANCE - ehhhm EECOM?
+Roger. Main B Undervolt. [Long pause.]
+Negative, FLIGHT
+I believe the crew reported it.
+We've got a Main Bus B undervolt.
+Okay, flight, we've got some instrumentation funnies. Let me add them up.
+Roger.
+Okay, stand by, 13. We're looking at it. [Pause.]
+We may have had an instrumentation problem, FLIGHT.
+Rog.
+FLIGHT, INCO.
+Go, INCO.
+We switched to wide beam width about the time he had that problem.
+Okay. Right now, Houston, the voltage is - is looking good. And we had a pretty large bang associated with the Caution and Warning there. And as I recall, Main B was the one that had had an amp spike on it once before. [Pause.]
+Roger, Fred. [Long pause.]
+In the interim here, we're starting to go ahead and button up the tunnel again. [Pause.]
+Roger.
+Yeah. That - That jolt, uh, must have rocked the, uh, the sensor on - uh, see now - on O2 Quantity 2. It's, uh - was oscillating down around 20 to 60 percent. Now it's full-scale high again.
+Roger. [Pause.]
+And, Houston, we had a Restart on our computer and we had a PGNCS light and the Restart Reset.
+Roger. Restart and a PGNCS light. Restart on a PGNCS and Reset...
+Okay. And we're looking at our S - Service Module RCS Helium 1. We have - B is barber poled and D is barber poled; Helium 2, D is barber pole, and Secondary Propellants, I have A and C barber pole. BMAG temperatures?
+Okay, AC 2 is showing zip. I'm going to try to reconfigure on that, Jack.
+Roger. [Pause.]
+Yeah. We got a Main Bus A Undervolt now, too, showing.
+Main A Undervolt.
+It's reading about 25½. Main B is reading zip right now. [Long pause.]
+And, Houston, Odyssey.
+Stand by one, Jim. [Long pause.]
+EECOM, you see any AC problems? Looks like...
+FLIGHT, EECOM.
+...we've got a lot of instrumentation problems here. Go ahead.
+That's affirm. He's flipping the fuel cells around, FLIGHT.
+Well, let's get some recommendation here, Sy, if you've got any better ideas.
+Sy, what do you want to do? Hold your own, and...
+Sy, have you got a SIG sensor type problem there, or what?
+FLIGHT, EECOM.
+Go ahead.
+He's got - fuel cells 1 and 3 are offline. We've got Main A volts, we have no Main B volts. Have them attempt to reconnect the fuel cells. Fuel Cell 1 to Main A, Fuel Cell 3 to Main B.
+Okay.
+Just try that...
+Fuel Cell 1 ...
+...back to Main A, Fuel Cell 3 back to Main B.
+...Main A, 3 to Main B.
+Let's see what happens.
+Okay, now is there - do we have instrumentation problems?
+Well, we've lost A - it does appear we've lost AC Bus 2 Voltage. Main B is reading - 4 volts. And that effectively takes AC 2 away from us...
+Okay.
+...the - yeah and he reported barber poles on the...
+Rog.
+...on the fuel cell onboard, too, FLIGHT.
+Yeah...
+FLIGHT, GNC.
+Let's see if we can get our DC back.
+Rog. Go ahead, GNC.
+Verify that the Quad Delta Helium Valves are Open.
+You seeing an attitude problem or you seeing some BI-levels that are giving you problems?
+[Under Kranz.] No.
+No, it's some low pressures in the fuel and oxidizer which would be symptomatic of the Helium Valve closing and firing some jets.
+Quad number 2 helium valve, Open?
+Quad Delta.
+Quad Delta - Helium Valve, Open, right?
+Right.
+CAPCOM, do you want to verify that quad Delta Helium Valve is Open, please.
+Are there other problems in the RCS, Buck?
+Okay, is that all we've come up with for them; have we got any other recommendations?
+Yeah, we wanted to get Fuel Cell 1 configured to Main A, Fuel Cell 3 to Main B. Did you pass that up?
+Let's attempt that, FLIGHT.
+INCO, this seems to be AC type problem, may be tied into that High Gain thing you got.
+We went - went to Wide Beam Width, FLIGHT, at 55:55:04, as best as we can tell.
+Okay.
+I copy, FLIGHT.
+Let me commiserate on that.
+Is there any kind of leads we can give them? Are we looking at instrumentation or have we got a real problem, or what?
+13, Houston. We'd like you to attempt to reconnect fuel cell 1 to Main A and fuel cell 3 to Main B. Verify that quad Delta is open. [Pause.]
+Okay, Houston. I'm showing - I tried to reset and fuel cell 1 and 3 are both showing gray flags, but they're both showing zip on the flows.
+We copy.
+You got - can we review our status here, Sy, and see what we've got from a standpoint of status. What do you think we've got in the spacecraft that's good?
+Main Bus A is reading 25 volts.
+Okay, Main A...
+And that's reflected by the fact...Fuel Cell 2 is putting out 53 amps which is just about the most it can and keep our voltage up.
+Okay
+So that's bonafide. AC Bus 2 is zero, which is reflected by the fact we lost Main B.
+AC Bus...
+Standby FLIGHT.
+...zero output...
+Okay, Houston. Are you still reading 13?
+That's affirmative. We're reading you. We're trying to come up with some good ideas here for you.
+Okay. Let me give you some readings, in the interim to help Main A voltage, Jack. I've got Bus Tie AC on.
+Say again, Fred.
+In the interim, to help out Main A voltage, I've got Main Bus Tie Bat AC, On. Or would you rather accept the 25 volts we're seeing on Main A?
+Okay. Bus Tie AC, On. [Long pause.]
+13, Houston. We need Omni Charlie, please. [Pause.]
+You got it.
+13, Houston. We'd like you to verify couple of readings for us. We would like the nitrogen pressure on fuel cell 1. We need the oxygen pressure on fuel cell 2.
+Okay. Nitrogen on 1 and oxygen on 2. Is that correct?
+Negative. Oxygen on 3.
+Okay. [Long pause.]
+FLIGHT, GUIDANCE.
+Go Guidance.
+Uh, When hi - when his hardware restart, he was doing a predefined maneuver and, uh, that should have killed it but we're still moving. We ought to stop it.
+Are we using RCS now, Buck?
+GNC from FLIGHT.
+GNC from FLIGHT.
+GNC.
+Did you see any problems in Quad D Helium valve? Does that look like that's cleared up?
+Rog, that cleared up, Flight, we're in good shape there.
+Okay, now, are we using RCS now?
+That's affirmative, we're going to have to switch some thrusters over to Main A to hold attitude here.
+Okay. Aaaah... how much RCS we've used?
+Oh, We've used um - our guess 25 pounds.
+Okay. Give me a minimum fuel usage configuration that'll keep me attitude.
+Rog.
+FLIGHT, TELMU.
+Go, TELMU.
+The LM heater current's become essentially static.
+Rog. Let's solve one problem at a time. Come back to me later on on it.
+Okay. Systems test 1-A says zip. [Long pause.]
+And 2-Baker, which is 3 oxygen, says 0.6.
+2 Baker says 0.6, and say again the other one.
+Fuel cell 1 nitrogen reads zero.
+Roger. Zero.
+Okay, Sy - give me your - next best thing to try.
+EECOM, from Flight.
+EECOM, Flight.
+Go ahead.
+Uhmmm... why don't we try [sigh] leave fuel cell 2 alone and make sure that 1 and 3 are disconnected from the buses and make sure there's absolutely no load on them at all and - see what happens.
+13, Houston. We'd like you to open circuit fuel cell 1; leave 2 and 3 as is.
+Okay. I'll get to work on that.
+And, Jack, our O2 quantity number 2 tank is reading zero. Did you get that? [Pause.]
+O2 Quantity number 2 is zero.
+Roger, Flight. That's the AC problem.
+That's AC, okay. Yeah, that's - that's a - good with AC and it looks to me, looking out the hatch, that we are venting something. We are - We are venting something out into the - into space.
+Roger.
+Crew thinks they are venting something!
+I heard it, FLIGHT.
+Roger. We copy your venting.
+Copy that, FLIGHT?
+It's a gas of some sort. [Long pause.]
+Rog. (Pause) Okay, let's everybody think of the kind of things we might be venting. GNC; you got anything that looks abnormal in your system?
+Negative, FLIGHT.
+How about you, EECOM? You see anything that - with the instrumentation you've got that could be venting?
+Okay. Fuel cell 1, you just wanted it off the line now, Jack, is that right?
+We just wanted you to open the circuit on fuel cell 1.
+Open circuit it, right?
+That's affirm FLIGHT. Let me look at the systems as far as venting is concerned.
+Okay. She's off the line.
+Okay. Let's start scanning.
+Okay now, let's everybody keep cool, we got the LM still attached, the LM spacecraft's good so if we need, uh, to get back home we've got a LM to do a good portion of it with. Okay, let's make sure that we don't do anything that's going to blow our CSM electrical power with the batteries or that will cause us to lose the main or the fuel cell number 2. Okay, we want to keep the O2 and that kind of stuff working. We'd like to have RCS, but we got the Command Module system, so we're in good shape if we need to get home. Let's solve the problem but let's not make it any worse by guessing.
+13, Houston. We see you getting close to gimbal lock there. We'd like you to bring up all quad Cs on Main A, quad C-1, C-2, C-3, C-4 on Main A, and also bring B-3 and B-4 up on Main A. [Pause.]
+13, Houston. Do you read?
+Yeah. We got it.
+Affirm.
+Okay. Can you tell us anything about the venting...
+Okay.
+...where it's coming from, what window you see it at.
+It's coming out of window 1, right now, Jack, and could you give me the thrusters again?
+Okay, the thrusters...
+What buses?
+We'd like - on Main A, we'd like Charlie 1, 2, 3, and 4. Also Bravo 3 and 4 on Main A.
+Okay. Got it. [Long pause.]
+13, we need Omni Bravo.
+Omni Bravo.
+Okay, 13; this is Houston. We'd like you to go to your G&C checklist, the pink pages, 1-5. Do powerdown until we get a Delta of 10 amps. Over.
+All right.
+Roger. [Long pause.]
+Okay, Jack, say again that - [Garbled] for the power-down; it's not in the pink pages, the 1-5.
+Okay. We'd like you to go down that power-down procedure until you get a Delta of 10 amps. Over.
+Roger. Say - uh, never mind. [Long pause.]
+13, Houston. Did you copy our power-down request?
+Roger, Jack. We're - we're doing it right now.
+Yeah, where - Where did you say that was located, Jack?
+That's in your systems checklist, page 1-5. [Long pause.]
+And, 13, you might also check for those pages in your launch checklist. They're emergency pages; pink pages, 1-5, and we'd like you to power down until you get...
+Okay. That was must be in the launch checklist, Jack.
+Roger. Power down until you get a amperage of 10 amps less than what you got now. Over.
+Okay.
+Okay. Jack. Are you happy with the amps we have now?
+Stand by one, Fred.
+Okay, Jack, and on this page 1-5, we proceeded right down the list, all the way down; we're right now at BMAG number 2 is in Warm Up.
+Roger. We copy BMAG 2 in Warm Up. We'll follow you through.
+Okay, and something is giving us a reach, Jack, both in pitch and roll, so I'm suspecting that maybe it's whatever it is that's venting back there. I've had to use Direct in order to stabilize this, and as soon as I do, we're starting to pick up rates again. Can you pick up any jets firing?
+Stand by. What direction are your rates in, Jack?
+It's negative pitch and negative roll.
+Roger.
+13, Houston. We need to get some more instrumentation up. We'd like you to put Inverter 1 on both AC Buses. Over.
+Okay. [Pause.]
+Okay, you got Inverter 1 on both AC Buses now. [Pause.]
+And Jack, one of the items that we turned off was the - all the fuel cell pumps. Okay, and you might let us know when fuel cell 2 needs its pump back; we ought to take care of that guy.
+Roger. [Pause.]
+Okay, Fred, we want Fuel Cell 2 Pumps to AC1, please.
+Fuel Cell 2 to AC1. Roger.
+Okay, it's on AC1.
+Omni Charlie, please, 13.
+Omni Charlie. [Long pause.]
+Okay, 13. We've got lots and lots of people working on this; we'll give you some dope as soon as we have it, and you'll be the first one to know.
+Oh, thank you. [Pause.]
+Okay, Jack, and the weird configuration we're sitting in now is we have the hatch installed, we still have the probe and drogue inside the Command Module, and we're going to stay in this situation until you - kind of give us an okay to reinstall the probe and drogue.
+Roger. We'll give you an answer.
+Or, if necessary, to use the LM consumables.
+Roger.
+13, we'd like to have you put thruster Alpha 3 on Main A, please.
+Alpha 3 on Main A.
+Okay, Jack, are you monitoring the quad temps in quad A - package temps?
+Affirmative.
+13, this is Houston. We'd like to power down just a little bit more, so let's get BMAG 2, Off; and make sure your lights are down. Over.
+Okay. The lights are down, and BMAG 2's going from Standby to Off.
+13, Houston...
+Okay, Jack, now I've got a rate...
+...we'd like you to open circuit fuel cell 3.
+Open circuit fuel cell 3.
+Go ahead, Jack. [Pause.]
+Okay, fuel cell 3 is off the line now. [Long pause.]
+And 13, Houston. We'd like you to turn all your Bravo thrusters Off; and put all your Delta thrusters on Main A, please.
+All Delta thrusters on Main A and all Bravo thrusters Off. Roger. [Long pause.]
+13, Houston. Turn Battery A, Off...
+Okay, Jack, we've pretty well got the [garble].
+[Garble] that down to nothing
+That's right; we were pulling current all the time.
+Battery A, Off. Roger.
+Now you have no...
+I'm transmitting. I don't have any current now.
+Hey, it's off - it's off. They - they killed the bus completely now. [Long pause.]
+FLIGHT, EECOM.
+Go, EECOM.
+Have them isolate the surge tank also, and save it. We'll use the cryo as much as we can.
+Uhh. Say that again?
+Let's isolate the surge tank...
+Why that?
+...in the Command Module.
+I don't understand that, Sy.
+I don't want to - I want to use the cryo as much as possible.
+But that would seem to be the opposite, if you want to keep the fuel cell going.
+The fuel cells are fed off the tanks in the Service Module, FLIGHT. The surge tank is in the Command Module. We want to save the surge tank in which we need for entry.
+Okay, I'm with you. I'm with you.
+Roger.
+CapCom, let's also isolate the surge tank.
+Okay, you want to isolate the surge tank.
+Yeah.
+O2 surge tank, right?
+Yeah. What we are really doing is securing our entry systems right now.
+13, Houston. We'd like you to isolate your O2 surge tank. Over. [Pause.]
+Surge tank off now, Jack? Okay, Jack, are you copying - O2 tank 1 cryo pressure?
+That's affirmative. And we're trying to get power to that tank. Stand by; we're working on it.
+Okay.
+Okay. We had a - Service Module RCS B light, Jack, due to a package temperature.
+Service Module RCS B. We copy. No problem.
+Let's read you the lights we got on now; Cryo Press, Fuel Cell 1, Fuel Cell 3, Main Bus B Undervolt, Suit Compressor.
+Roger, we copy them and we'd like to build up the pressure in O2 tank 1, so turn the heaters on manually; we'll watch the pressure for you.
+Okay, do you want to see...
+Go ahead.
+...We're going to get a Main Bus A Undervolt, probably.
+Roger. We realize that; we feel we can stand 5 more amps on it.
+Okay.
+Okay, heater on tank 1's On.
+13, Houston. We'd like you to additionally bring on the fans in O2 tank 1, and we can stand the additional amperage on that.
+Okay - bring on the fans on O2 tank 1.
+FLIGHT, EECOM
+Go ahead, EECOM
+The pressure in O2 tank 1 is all the way down to 297. We'd better think about getting in the LM, or using the LM systems. I'm going to have to power way down, I don't know if I'm going to be able to save the O2 for the third fuel cell - for fuel cell 2, rather.
+13, Houston. We'd like you to check some circuit breakers on panel 226. Cryo O2 Heater number 1, Main A, and check the three Cryo Fan Motors, Tank 1, three phases. [Pause.]
+EECOM, I don't think we're gonna come to any solution here until we get back to the initial set of conditions, so I hope you got a set of guys looking at the DLOG pretty soon.
+TELMU from FLIGHT.
+Go ahead FLIGHT.
+I want you to get some guys figuring out minimum power in the LM to sustain life.
+Okay, Jack. 226 is configured just like it should be. I got three Reac breakers and three Rad breakers open. All the rest are closed.
+Roger.
+Okay.
+Okay, Fred. Thank you. [Long pause.]
+Jack, looking outside, the number of particles has diminished greatly, almost ceased now, which indicates maybe what was venting has almost stopped.
+Roger, Jack. Thank you. We copy.
+I'm still getting some rates in negative pitch, though.
+Roger. [Pause.]
+And, 13, we'd like to verify that both BMAGs are Off, please.
+Negative. We just have one BMAG. BMAG number 1 is still On.
+Okay, Jack. Let's take BMAG 1, Off.
+Okay. BMAG number 1, Off, now.
+13, this is Houston. We'd like you to give us a survey of your displays on MDCs 1 and 2. Give us gauge readings and talkbacks. Over.
+See that juice is still going down there, EECOM. You got any more suggestions?
+Flight, EECOM
+Any more suggestions in trying to pump up O2 Tank 1 pressure?
+No... (sounding exasperated) Uhh, FLIGHT, we're gonna hit 100 psi in an hour and 54 minutes. That's the end, right there.
+Okay, 100 psi...
+Less than two hours now.
+Okay. We'll start with display number 1. Are, uh...
+Okay, Jack. On MDC 1, there is nothing abnormal. All the rate indicators are zero. Ball number 2 is, uh, frozen, of course; we lost - lost, uh. Main B. I've got Ball number 1 appears to be working normally. Right now I'm sitting at roll 0, pitch 180, and, uh, yaw about 13 degrees. I'm going to try and hold, uh, 0, 180, and 0.
+Okay, Houston. The center panel - I'm looking at the RCS indicator A. We have a package temperature of about 180. Our helium pressure is 3900. I'm looking at fuel pressure of about 180 and percentage of about, I'd say 85 percent. B is about the same, except that that package pressure is 190. On quad C, we're looking about the same, except that the package temperature is 100. On quad D, we're looking at package temperature of 160. All other indications about the same. CM pressure - RCS pressure is looking nominal. Helium pressure's up around 4000. And package temperature is about - a little less than 80 on ring 1 and about the same on ring 2.
+And the - talkbacks on the SM RCS, I've got Helium 1 now are all gray. Helium 2 are all gray. Primary Propellant all gray. Secondary Propellant, I've got two barber pole, and A is barber pole, B gray, C barber pole, and D gray. Okay. On the ECS Radiators, barber pole is gray. On the - On the ECS, Primary indicator.
+FIDO, from FLIGHT.
+Go ahead FLIGHT.
+Whatever planning you do, I wanna do assuming that we're going around the Moon and we're using the LM for performing the maneuver because in the present configuration unless we get a heck of a lot smarter I think we're wasting our time planning on using the SPS.
+Okay, FLIGHT.
+So I think all of our return to Earth-type planning should be assuming the use of the LM DPS and/or RCS and I think third priority down the line should be CSM RCS.
+Okay, and I'm assuming you - you'd want fastest possible return?
+Aaah, yeah, I think that's the case.
+Okay, we'll - we'll work on it from that side line, FLIGHT. Should be no problem.
+Okay, Jack. Starting at the top. Okay. The Cryo Tanks; H2 1 is reading 230 and the same for 2. Our O2 Cryo Tank 1 is - looks like it's barely holding its own at 300. And Cryo Tank 2 is reading zip. Our quantities: H2 1 is reading 73; 2, 74. On the O2 side, we're reading O2 1 at quantity 76; O2 2 pegged to full scale high. RAD Temps Primary Inlet, we're reading about 55; RAD Out is reading about 30, and, uh, Secondary Outlet is reading...
+FLIGHT, EECOM.
+Go ahead, EECOM.
+Okay, listen. There is a possibility that we blew a O2 line in one of the fuel cells, and it's effectively manifolded there, of course. Now I'm - I wanna shut off one of the reactant valves to one of the fuel cells. And that would be fuel cell 3, since its O2 pressure is gone. Now, fuel cell 1's oxygen pressure is trying to stay up there, at 45 psi. Maybe the problem is in fuel cell 3.
+That sounds like a good assumption right there.
+Yeah, fuel cell 3 is lost anyways, as far as...
+Excuse me, Fred; I'd like to butt in here a minute. We'd like to have Thruster C-1 off.
+C-1 is off.
+And proceed...
+Okay...
+...my last copy is Secondary RAD In. [Pause.]
+Okay. Your Secondary RAD In, I gave to you 70 - about 72 degrees; the RAD Out's about 30; the Glycol Evap Temp is reading about 65; Steam Pressure full scale high, Glycol Discharge Pressure about 9 psi. The Accum - Secondary Accumulator is about 30 - 34 percent. Our temperatures: Suits showing about 52 degrees; Cabin, about 58 degrees; pressures, Suit reading 4.1, Cabin at 5. Partial Pressure CO2 is up to little over 1, about 1.1. On the SPS side of the house, the temperature is 72 degrees, helium's reading 3500; N2 A is reading 2300; N2 B, about 2450. And our ullage pressures: Fuel is reading about 165; Oxidizer 170. Fuel cells: Fuel Cell 1, both Closed, they're zip; Skin Temp 405 degrees; Condenser Exhaust is lower scale. Fuel Cell 2 - right now we've got an O2 or an H2 Flow reading of 0.13 to 0.14, and the O2 Flow is right now pegged full scale high although it's been varying dependant on thruster activity which has also given us Main Bus A undervolts from a steady reading of about 1.1 up to full scale high. The T-skin is about 445 and the Condenser Exhaust, 17 - correction, 180. Let's see if you want it on the DC indicator: Fuel Cell 1 is 0 amps; 2 is reading somewhere between 44 and about - oscillating 44 to 48 again dependant on thruster activity.
+Stand by.
+...is 0 amps. Ah, Say again, Jack. [Long pause.]
+Houston, 13. [Long pause.]
+Hello, Houston; Apollo 13. How do you read? [Pause.]
+Okay, 13. This is Houston. It appears to us that we're losing O2 flow through fuel cell 3. So, we want you to close the Reac valve on fuel cell 3. It looks like fuel cell 1 and 2 are trying to hold up okay. You copy?
+Are you saying fuel cell 1 and 2 - 1 and 2 are trying to hold up but we're leaking O2 out of fuel cell 3? And you want me to shut the Reac valve on fuel cell 3? Did I hear you right?
+That's affirmative. Close the Reac valve on fuel cell 3.
+Okay. I'll go to the SSR page. Do you want me to go through that whole smash for fuel cell shutdown? Is that correct?
+Stand by. [Long pause.]
+Okay, 13. We want you to turn the inline heaters off on fuel cell 1. Then we want you to go through the fuel cell shutdown procedure on fuel cell 3. Read back.
+Okay. Shut down the inline heaters on fuel cell 1. We're proceeding with the shutdown, special subroutine, for fuel cell 3.
+That's affirmative. [Long pause.]
+13. Omni Bravo, please. [Long pause.]
+13, Houston. Over.
+Go ahead.
+Okay. You got Omni Bravo and we'd like to have you verify that the tape recorder is off please.
+That's verified. Okay, Jack. I'm sitting here with an 0618 showing and I can't get rid of it here. Oh, stand by just a... [Long pause.]
+Okay. Fuel cell 3 Reac's are Off, Houston.
+Roger, Jim. Thank you.
+Okay, Jack. Step 2, special subroutine 1 for the fuel cell procedure, has been completed.
+Roger. Thank you.
+Okay. Jack. I'd like to bring on jet A-4. I've got, uh, no - negative pitch control - negative pitch control, and right now neither Direct or Auto coils.
+Okay. You say no pitch in either Direct or Auto? You want to bring on A-4?
+Yeah. I got a - I got a positive pitch rate and I can't stop it.
+Okay. [Pause.]
+Okay, Jack. Bring A-4 on; stop the pitch rate.
+Okay. That got it. [Long pause.]
+And, 13, we need Omni Charlie, please.
+Omni Charlie.
+And, Freddo, we'd like to have you, uh, verify fuel cell reactants talkback is barber poled
+That's affirm. I watched it and it went barber pole as I threw the switch.
+Roger. [Pause.]
+Okay, all Flight Controllers, I'm handing over to Glynn. I assume the majority of all the team guys are pretty much briefed and up to speed as best we can. Now what I'd suggest is the White Team do two things. They go over the D-logs...
+Okay, let me go back over this again. We're handing over to Glynn. I'd suggest the White Team goes back and starts going through the D-log of the data. In other words, let's see if we can go back to the initial conditions and work on that problem to see if we can find out what happened and we may find some better clues as to what to do and let the fresh guys come on and try to figure out where do we go from here.
+Okay. Jack. Let me give you a thruster configuration right now. Able 1, Charlie 1, Able 2 are off. Charlie 2, Main A, all the thrusters that I call that are on are on Main A. Baker 1, Off. Dog 1, On; Baker 2, Off; Dog 2, On. Able 3, Charlie 3, Able 4, Charlie 4, On. Baker 3, Off; Dog 3, On; Baker 4, Off; Dog 4, on. [Long pause.]
+Okay, Jack. That thruster configuration looks okay.
+All right. Okay. Do you want some readings from the Systems Test Meter regarding fuel cells?
+Stand by one on that, Jack. Let me ask the EECOM.
+We've got some incompatibilities here. [Pause.]
+Okay, 13. We'd like to have you give us those systems test readings on fuel cell 1 and 3, please.
+Okay. 1 and 3 coming up.
+Okay. Jack, 1-A is reading, lower scale, 0; 1-B is reading. 3.45. Okay. You only want fuel cells 1 and 3. Okay. Ignore that 1-B reading. 1-C is reading 3.4. Now, 1-D is reading 2.4. 2-B is reading 0.25.
+Roger. Is that 2 Bravo, Fred?
+That's 2 Bravo is reading - oh, about 0.25 to 0.3. [Long pause.]
+EECOM, I don't like the way that O2 pressure's going down. If you want do something about these other reactant valves, let's make up our mind.
+Okay.
+Don't you think?
+Okay. Let me get back with you, a minute, FLIGHT. Would - Stand by on these readouts.
+Yeah, Okay. Anybody can copy the readouts. Be sure you - got discussing this reactants.
+Okay. 2-C is reading 4.1. [Long pause.]
+Hey Flight, CapCom, a long time ago I heard somebody mention something about closing a Repress package and then we never made a decision on that. Do they want to do that too?
+EECOM?
+He's busy.
+Go Flight.
+Uh, you want to close out the repress pack. I think that came on for 'em before.
+And 3-A is reading 4.0.
+Uh, we indicated earlier that we'd like to get it closed off, right.
+Yes, Jack.
+Roger. 4.0. Say again what it is, please. [Pause.]
+3 Able, 3-A. [Long pause.]
+Flight, EECOM.
+Go ahead.
+Okay. On the reactants for fuel cell 1, uh, seems to me we have no choice but to go ahead and do it. The pressure continues to drop. Uh, we're not gonna have anything left soon anyway, so, uh, looks like the next best thing to try is to go ahead and turn the reactants off on fuel cell 1.
+3-B is reading 1.8. [Pause.]
+And 3-D is reading 1.95.
+Is there any chance that I'm just looking at a bad pressure reading here? I'm going to shut off the second fuel cell now, is there any cur - any data you can correlate that say that, yeah, that pressure's going down?
+On the O2 tank?
+Yes. You understand my question?
+Yeah, I understand your question. Uh, the temperatures are also dropping. Let me get a verification on that - stand by for just a minute.
+And, Houston, 13. O2 tank pressure number 1 is less than 300 now.
+Roger. We're seeing that. We confirm it. [Long pause.]
+13, Houston. We're going to have to have you go through the shutdown procedure on fuel cell 1. Our O2 pressure is going down as you note and the temperature confirms it. Did you copy?
+Okay. Well, what bus configuration - What main bus do you want powered? [Pause.]
+Okay, Jack. We want you to leave the bus configuration as it is. Fuel cell 2 on Main A, and we need Omni Bravo.
+Okay, Jack. We're proceeding with the shutdown procedures for fuel cell 1. [Long pause.]
+And, 13, Houston. We'd like you to isolate the Repress package, please.
+Okay.
+Isolate the Repress package. Roger.
+I can confirm Repress package is off.
+Roger. So now you've got the Repress package and the surge tank isolated. Is that affirm?
+That is Charlie.
+Okay. Now, this is - We're ready to close the Reacs on fuel cell 1; is that right? [Long pause.]
+Jack, stand by on the fuel...
+On that last - confirmation. Okay.
+Roger. We're - We're giving you one last...
+We want to just get one last confirmation.
+Okay, Jack. We're getting that last confirmation. Stand by, please.
+Okay. [Pause.]
+Okay, 13. We verify that we want you to close down - shut down fuel cell 1, close Reacs valve.
+Roger...
+Okay.
+...fuel cell 1; close the Reacs valve. [Pause.]
+Fuel cell...
+Reacs valve on fuel cell 1 is closed. [Long pause.]
+Okay, Jack. I can confirm step 2. The fuel cell shutdown procedure is complete for fuel cell 1.
+Roger.
+13, we recommend that you enable BD roll in the DAP. Over.
+Okay. Will do...
+Enable BD roll in the DAP. [Long pause.]
+13, Houston. We're working on the big dish now, so turn the High Gain Power switch, Off, please.
+Okay. [Long pause.]
+Okay, Jack. When we got the loud bang, we got also a restart. Did you copy that? Is - does GUIDO want anything, a Verb 74 or anything done with the CMC?
+Stand by. [Long pause.]
+13, Houston. We're ready with a Verb 74 now, please. [Pause.]
+Coming down at you.
+TELMU, FLIGHT.
+Go, FLIGHT.
+Is there anything simple that we can refer the crew to, to get them thinking about using the LM here? Have you got anything in the checklist, paperwork that'll describe to them what your intentions are?
+Negative, there's nothing documented in contingency. We're thinking about using the LM as a lifeboat. We have some procedures here. On the ground, though.
+I'm sure you do. What do they amount to? Flying with the tunnel open?
+Rog. Just a LM low power - low - supplying power to the CSM.
+Supplying power to the CSM?
+Yes, about 5 amps.
+Uhh, to what?
+It's to their Main Bus B.
+Okay. Where did - well, Main B is in bad shape. We don't have anything on Main B right now. What's that power for TELMU?
+Just anything they might need it for.

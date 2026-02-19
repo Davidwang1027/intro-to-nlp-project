@@ -1,0 +1,1216 @@
+Ken, the SIM Bay's warmed up and - it looks like we give the computer and the software a clean bill of health. And we're suspecting we might of had a - a transient or something in the CDUs, so G&C would like to maneuver back to about the attitude where we had this thing and sweep out plus or minus 5 degrees in each axis one at a time and see if we can get another glitch. Now, we're trying to search those low-order bits because we think that's where the problem occurred. The attitude is 182.5, 130.7, 039.7, and we'd like for you to stay in SCS.
+Can you tell me why you want to stay in SCS, please?
+Just to be conservative, Ken.
+Okay, that's just - All right.
+And, Ken, when you get to the attitude, we'd like to sweep this 5-degree band there with a very low rate, say maybe using Minimum Impulse.
+You guys wouldn't want to consider the very conservative approach of just avoiding this 5-degree area on the 8-ball, would you?
+Well, we don't want to do that yet.
+Okay.
+You want a sweep of one axis at a time? Is that what you're talking about, Hank? Say like from - 125 to 135 in the - in the pitch?
+That's affirmative.
+I see.
+Okay, Hank, do you have any preferred axis first? We'll take yaw first.
+Okay.
+Okay, Hank, is 5 degrees sufficient to cover all your bits?
+They're checking. That'll do it, Ken. Five degrees will cover the low-order bits.
+Okay. Going back the other way with yaw.
+Ken, we'd like to do roll next - for the next axis.
+Oh, very well.
+Okay, Hank, what do I do at the end of this little sweep?
+Okay. We didn't get it, did we?
+No, sir. Sure didn't.
+Stand by a second, Ken.
+Okay, Ken. Here's the plan. The G&C gives a hardware clean bill of health. So, I - they're going to smoke over the data now and look at why we got that little transient in there. In the meantime, it looks like we're safe to proceed with the Flight Plan. We'd like to pick it up at 267 - go into this Sco X-1 attitude. And, since we're real fat on RCS fuel, we'd like to do the maneuvers between these different attitudes today where we're getting data in different - different attitude at a faster rate, a half degree per second. And if that's all right with you, then, we'll get the X-ray on now which is called for in the Flight Plan and then start maneuver into the Sco X attitude and I guess we can use CMC for that.
+Okay, I'll - I concur with using the CMC and do you have any feel for midcourse 7?
+I'll get an answer on that, Ken. Right now, it's looking like about 3 feet per second, Ken.
+Okay. I can - think we can cover that.
+Apollo 16, Omni Charlie.
+Apollo 16, Command Reset, and Omni Charlie.
+Houston, 16. How do you read?
+Say again, 16.
+Thought I'd just send y'all - got you back on the Omni - or correction, High Gain now, Hank. Say how do you read?
+Okay. Read you 5 by 5 and we got High Bit Rate and locked up, looks like.
+Ken, if you got a minute. I've got a little procedure here we want to try. Another little troubleshoot, if you're free.
+Just a minute. We'll get him back on comm.
+Hello, Henry.
+Hello, there. We got something we'd like to try here, and its purpose is to determine whether or not the time delay on the CDU fail detection circuitry is so short that - apparently normal CDU movements can trigger the alarm. Now the normal time delay is 2 to 10 seconds. And we got a procedure here we'd like for you to run and time - time this thing, and see if that might be our culprit.
+Okay. Read it to me.
+Okay. We'd like for you to go the SCS control, Min, Low, and uncage BMAG so we can hold this attitude pretty close. Then we'll do a Verb 25 Noun 7 Enter, 12 Enter, 20 Enter, 1 Enter, and when you Enter on the 1, we want you to start your stopwatch, and as accurately as possible, get the time from the Enter until you get to ISS warning light. And after you get...
+Okay. So this channel 12 is gonna - is setting the bit that is the ISS warning bit that comes from the hardware, and the computer is the thing that does the timing. Is that correct?
+What that's doing is zeroing the CDUs. And that - that guarantees you a fail. Okay, and as - as soon as you get the accurate time on that, we'll do a - a Verb 40 Enter, and wait 10 seconds for the CDUs to recover.
+Okay. I'll do that, and then I'll call the steps out as I go through it.
+Roger. And be advised that the CMC DAP is inoperative between the time you set the bit and the time you do the Verb 40.
+Also for 10 seconds thereafter.
+Roger.
+Okay, we're in SCS. Deadband Min, the Rate's Low, limit cycles On, we've got the BMAGs uncaged. You're watching this too, John?
+Okay, we're looking down here.
+All set. There's Verb 25 Noun 7 Enter, 12 Enter, 20 Enter, 1 - Is it Noun? I am Enter, Reset. Okay. Here we go; 5, 4, 3, 2, Enter. I got 5 seconds.
+Roger. That's a normal indication. That eliminates that as a possible source, so you can go ahead and do your Verb 40 and recover and go back to CMC control.
+Okay, back in CMC.
+And, Ken, we're ready to get the Alpha Particle X-Ray Cover, Open.
+It was already open, Hank.
+Roger. Copy.
+I think he wants to verify that.
+Apollo 16, Houston. Like to get a check on the battery compartment.
+2.7.
+Roger. 2.7.
+Make it 2.65.
+Roger.
+Apollo 16, Houston. We need the X-Ray Off for 2 seconds and then back On.
+The purpose of that, Ken, is to set the logic. Looks like it isn't set properly.
+Okay. You have it.
+Apollo 16, Houston. Since we just did a P52 a few minutes back, we'll scrub the one that's scheduled at 268 hours [243:13] prior to the TV.
+Okay, Henry; thank you. We're setting the TV up now.
+Roger.
+Okay, Hank; this attitude will be satisfactory for the - yeah, it'll be satisfactory for the TV also. Right?
+Affirmative.
+Okay; fine.
+Houston, 16.
+Go ahead.
+Hank, can we go S-Band Aux TV to check - get this camera set and focused?
+We need about 12 more minutes.
+Okay; we'll wait. We'll hold off. We got plenty of time.
+Houston, 16.
+Go ahead.
+What - what's our velocity - inertial velocity and - and distance out right now?
+Okay. You're 5,516 feet per second and 108,880.
+Thank you, Henry! That was the nicest thing you could say.
+I'll split it with you.
+[Whistling.]
+16, Houston. You can check out the TV now.
+Okay. Thank you.
+With any luck, it'll break. Turn the monitor on.
+Monitor's on. That's not (garble) It's (garble) ...
+You don't have the power on yet.
+Yeah, I do. I got it in Standby.
+You got the TV switch on?
+Yeah. I got it to S-Band Aux TV and to Standby. We ought to be getting a picture on the monitor.
+There it comes. I see us ...
+Takes a few seconds for it to warm up.
+What - what do you see on the monitor?
+Looks to me like -
+It's taking a nice picture of the wire.
+Okay, you got - let me have (garble) ...
+Why don't you let me get the brightness to bring on the monitor.
+Okay.
+I hope that's what it is. Maybe you need to stop down the aperture.
+Back on again.
+That's what it is. Yeah. I don't know.
+You want me to adjust it?
+The brightness is too (Garble).
+(Whistling)
+Can you see this, Charlie? On the monitor?
+Oh. Yeah, you can see it.
+(Garble) Oh, excuse me. I stepped on your tail.
+Didn't hurt it.
+Okay, Ken. Why don't you get in?
+Come on over here.
+I'm in the picture.
+No, you aren't. You just - your strut - the strut's in the way.
+Oh.
+See, that's the problem with it. To get three guys in the picture is really tough.
+I tell you what, I'll get in the tunnel and hang head down.
+That wouldn't be bad.
+It might work okay.
+I hope all the blood doesn't rush to my head.
+Yeah.
+That'd be a great picture, as a matter of fact.
+You think any ...
+Huh! I think this'll work.
+Yeah, it will. It's gonna be great. But you got to get up a little bit. There you go.
+Get which way? How should -
+Higher up that way so you got ...
+Higher up in the cone?
+Yeah. Can you?
+Like that?
+Yeah, that's great.
+Oh, yeah, I see. I got my head up against John.
+That's too far.
+Okay?
+You see how you all think that looks.
+Well, that looks like a good picture. Wish I knew what it was.
+Get the wire out in front of the camera.
+It's the wire, yeah.
+Now what - Can you slide down some, John?
+Yeah.
+Let's see, maybe the - can you slide the - center the picture a little bit better?
+Yeah, why don't you all take the monitor over this way out of the - out of the field of view. Which way you want it to ...
+That's really gonna be a good picture, isn't it?
+Yeah, which way you want it to go?
+Yeah.
+Push the lens - up a little. Right there.
+Okay.
+How's that? Now, why don't you come get in the picture and see -
+Okay; let me tighten this thing down ...
+I think you - I think you -
+I wouldn't even mess with it. It ain't gonna move.
+Okay (garble). the old urine hose?
+(Laughter) Okay, I've ...
+Okay, now. Get the water (garble) down.
+I got to move the camera over - let's see if I can ...
+Just let Charlie slide over.
+Is that gonna be enough?
+Sure. There we go.
+Okay. (Laughter)
+There we go. We can put the monitor right here.
+Yeah.
+Yeah. Let me take - let me just take ...
+Maybe we all ought to slide down a little, and then - and then Ken can ...
+Yeah. There we go.
+Now you come down a little.
+I'm - I'm in good shape. This is comfortable here. I can stay here; I couldn't stay where I was. Can you read that from here? I'll pull my tail up. You can read it from that way.
+Is it - is it live TV?
+Yeah.
+No, it's not. It's not on - it is going to be, but it's not now.
+I got (garble) ...
+Then it will be ...
+Yeah.
+...in the future.
+I got to go to Transmit.
+Okay. You want to get the tape out of there, and I'll tape it? Or how about if I just ...
+Tape what?
+Let me - I'll (garble) ...
+Here, here. How about this?
+Okay; wherever - wherever you can look at it. You know more about that than I do.
+Smell. It's (Garble).
+Oh, that's the Velcro.
+Yeah.
+Wait a minute. Let me get un - unravelled a little bit ...
+Let me get some of this cord out of there.
+There we go.
+Let me get - Let's see. Yeah, there's what I need. Man, right up here on the ceiling. Now, get you a picture that's about oriented the way you see it. Can you see that?
+Yeah. Uh-huh.
+That's got too much torque in it.
+There; it's going to stay.
+Okay.
+Well, now what do we do? Tell them we're all ready to go ...
+Okay; right in the middle of this little exercise, the ISS warning light comes on.
+There will be a lot of (garble) there.
+Boy, that's more elbows than you've ever seen in one small screen.
+Tell them we're ready to go.
+Okay; Houston, we got the gear all checked out ready to go whenever you are.
+Roger. Roger. We've got just under 8 minutes to go.
+We'll get down a little bit so Ken can (garble) ...
+Let's see, I wonder if that ...
+(Garble) we've got just under 8 minutes to go.
+Yeah. I believe that helps - or hurts.
+I think it helps to have it up.
+Turn it - have it up?
+Yeah.
+Yeah. I think you're right.
+You have any fixed ones over here that we could put on?
+Yeah.
+Okay, let me try that.
+That help?
+I couldn't see it (garble) on the picture, but - Yeah, I think ...
+Yeah, it did help.
+I think it did.
+Yeah. Try not to hit the strut. Hey, that's going to be neat. First time anybody's ever hung upside down before.
+Can you read Mr. D. there, John? I can drop it on down (garble).
+Yeah. Oh, no; that's fine.
+Okay. Why don't you practice that, John?
+(Laughter)
+There's nothing so far removed from us so as to be beyond our reach nor - or so hidden that we cannot discover it.
+And here we sit ...
+(Garble) minutes.
+...testing his theories with what we been doing.
+Just a second.
+Excuse me.
+I'll just sit here the whole time scratching my rear.
+Oh, you (garble) (laughter).
+Adjust up your arm. Hey, wouldn't you know the TV studio turns out to be the head also.
+Phew! That urine is beginning to smell real good, isn't it?
+Oh, boy. You wonder, why would anyone build a spacecraft with everything located in the john?
+Where else could they put it?
+Well, I might get one more exercise period in tonight before I go to bed.
+I think that's a good idea.
+There you go.
+(Garble) we're going to snooker them on that bike tomorrow.
+I feel great. I really do, but I don't know how I feel - I'm going to feel when I hit the ground.
+I got a feeling that hitting the ground is going to be just like the adaptation of hitting orbit.
+Not the same.
+Like you felt like you'd always been there.
+Yeah.
+Now I didn't quite have that feeling (laughter).
+It's a great picture.
+Yeah; of course, the one that goes down isn't that good.
+(Garble).
+Hey, Hank, do you have a list of questions? Are you going to be reading the questions up?
+That's affirmative.
+Okay; thank you.
+Boy, (garble) I like to do that.
+Let's see, what time - Where's the Flight Plan?
+Right up there, Ken (yawn). It's supposed to be 268:10 [243:23] or something like that.
+Yeah, we've got about 2 minutes to go. I can't see a clock.
+It's right over there.
+It's (garble) here ...
+It's 268:02.
+No, 08.
+Oh, 06 here. Back in Stable II again.
+Now it's back to (garble) We can forget about that.
+EMS entry check.
+(Yawn) Coming up?
+Yes, sir. And then we get ready for those Skylab contamination photos; we'll get those out of the way. And I'll do my weight measurements at the same time, just before we get to it. And then we go do some entry stowage. How does that sound?
+Sounds pretty good.
+Okay; there's two PPKs back there. I got one up here, and the rest of them ...
+We catalog all of that on the entry stowage.
+And there's a bunch in there?
+Oh, you do?
+Man, I tell you, there's more PPKs around this place than you can imagine.
+We have an eat period, then a rest period, and then we come out and we have 6 hours to entry.
+Well, I tell you that -
+Ohhh. You know what I ought to - As a precaution, I almost feel like pulse torquing that platform tomorrow.
+I sure would. How long does it take?
+I don't know (garble) though.
+Well, you got to go -
+80 degrees -
+Yeah ...
+At least.
+...(garble) 80 degrees.
+At least.
+I don't know what the pitch has to do.
+It's going to be a - it could be a 12 - 14-minute torque, but the ...
+Well, we've got plenty of time. Four hours before entry. And you get another one on downstream.
+And we could - and we could maneuver the vehicle to (garble) the stars. I mean, there's no doubt in my mind what you (garble) see. You can recognize the patterns out here.
+Well, what I did the other night works like a champ.
+It sure does. Man, it worked like a champ. Sure a good way to do it.
+Yeah ...
+Let's do that.
+You never - you never get screwed up that way. You can't miss the Sun; you can't miss the Moon.
+Let's do that.
+Yeah. The accuracy you get was - well, enough to get auto optics to put the stars down. No, it's in the sextant.
+You still (garble) ...
+No sense in fooling around wasting time looking for ...
+Well, let's do - let's do that then.
+Do what?
+That.
+The thing I'm worried about is if you coarse align, and it doesn't work, then what have you got?
+Well, let's align the SCS like we did before.
+Do it just like you've been doing except torque - except pulse torquing. Why don't you do that?
+That's awfully (garble) If you coarse align, and it doesn't work, I don't know what kind of a failure mode that leaves you in.
+Okay. They're about to come up. Why don't you give me the Flight Plan? (Yawn)
+I'll just stuff it up here.
+Okay.
+Let me get up about like this. That'll be halfway between you and Ken.
+Okay.
+(Garble) Try and slide in there. There you go. That's good.
+I - I ...
+Apollo 16, Houston. We're about ready to go here. You want to try to bring up the TV?
+Okay; it's in work.
+Okay; it's in work. Going to Transmit. Doesn't show. Okay. Then (garble) better go to Transmit.
+Yeah. You know that's a way to get to the patch in there. If you just - if you just drive up towards that camera, Charlie, that one on your patch flows right up and looks great. That's a good way to end it.
+Okay.
+Once you reach over for the Transmit switch, you just got to try to keep that ...
+Okay. We've got a picture now.
+Super! How does it look?
+Looks pretty good.
+How does everything look to you?
+Pretty good.
+Come down just a little bit, Ken. There you go.
+Which way is down? (Laughter)
+That - this way, towards me. That's good.
+Looks like I'm - you know...
+Other than the fact you're looking pretty woolly now, that's not bad.
+(Laughter) Keeps you warm.
+Where did it go?
+It's going right towards the (Garble).
+Apollo 16, the questions in this press conference have been prepared by newsmen covering the flight here at the Manned Spacecraft Center. I'm going to read them to you exactly as worded by the newsmen and in a priority specified by them. Question number 1 for John Young: A couple of times you were on hot mike and didn't know it, but how could a nice Florida boy like you say what you did about citrus fruit?
+That's a very good question. Wait'll you drink it day and night for 2 weeks, and - and let me know what you think. And for lunch, too.
+Question number 2 ...
+I - I have an orange grove - I have an orange grove down in Florida, too, so I do like citrus, but citrus drinks are something else.
+Question 2: When the CSM circularization burn could not be performed on schedule, did you think you wouldn't be able to land on the Moon?
+I thought - we all had serious doubts about whether we're going to be able to do it or not. Right?
+Question number 3 in three parts. Were you surprised at the rocks and other formations at the Cayley site?
+I think we were. The - the original impression had been mostly volcanics to look for, and I don't think we found the - the highest percentage of volcanics as we had originally anticipated. So the rocks that we found were unique, that we had never seen before in any of the lunar samples, we feel, and so it was a surprise.
+Do you think your geological training properly prepared you to describe them?
+I think so, under the circumstances. You see, most of the rocks are - were dust covered apparently by the - by the two impacts, North Ray and South Ray. It had just thrown a big blanket of dust out across there, and we saw very few rocks that were clean un - until we cut into them. And you don't want to take too much time to stop and whack off a piece of rock, because it's pretty hard to do in a pressure suit. So we were just describing them more by shape and softness and friability and things like that. And that really doesn't take a lot of training, but I think we've had adequate training to do this kind of a job.
+Did you see anything specifically volcanic?
+As far as craters go, Hank, we think we saw two that had the shape we called endogenic that had the shape of very subdued old cinder cones or something of that nature. They were - In other words, they were - look more like, well, sink holes, really, with the surrounding topography. They had no rim on them; and, to us, it looked like it might have been a source for some - volcanic activity way, way back.
+Question 4: Several times at North Ray you mentioned, "Don't get too close to the edge." Did you think that if you had fallen in, you wouldn't have been able to get out?
+That's affirmative.
+[Laughter.] Yeah. You bet.
+If we had fallen in we would not have been able to get out. That's correct.
+Question 5: The heat flow experiment you broke was successfully fixed in simulation, although it was complicated and took a great deal of time. Do you think you should have tried to fix it or do what you did?
+I don't think we're qualified to make that decision. It was made by people on the ground that are far more qualified to do that sort of thing than we are. If - if we had been told to do that, we would have certainly done it.
+Would you like to have been informed of the successful sinta - simulation and the trade-off factors involved?
+I - I still don't think that that's our decision making process up there on the surface.
+Question 6: You've had a lot of equipment trouble during this mission. Is there a common thread running through all these problems for which you could suggest an explanation?
+Yeah. I think space flight's kind of complicated. You got a lot of sophisticated equipment here that you're trying to get all working at one time. I think that's what we built a redundancy in for, and it seems to be paying off quite well.
+Yeah. I don't - I don't think there's any relation between any of these failures, one to another. I - I don't think there's any common thread. I agree with Ken. It's very complicated gear. It has to run for long periods of time, and you've got to expect some times that it won't run, and you got to know how to fix it, and that's why they send us on these trips.
+Question 7 for Ken: Your observations of the landing site. Did you see the Lunar Module or the Rover, and did you see any differences between Cayley and Descartes?
+Okay. That's two distinct questions. First thing, did I see it? We never pointed the sextant at the landing site according to the Flight Plan because of the alterations we had. And there were two occasions, once when I thought I caught a glint of light, which I could not recognize as the LM but which came from the location where I think the LM probably was sitting. And that was very close to the position on my map that you folks read up to me. And once, as Rover was starting up on Stone Mountain, I just happened to be looking as they went by, and I think you were on the shift, Hank, and told me that they were hitting Stone Mountain, and I looked over there, and about that time I got another little flash of light, which is about all, with the 10-power optics we have, that - that I think you could expect to see. At no time could you see something you could identify.
+The second part of that question was: Did you see any differences between Cayley and Descartes?
+Yes, I think there's a distinctly different morphology involved in these two units. Our pre-flight training is a little different in impression than what I think I saw; and, again, we have, like I say, a 10-power resolution. I think the - the real answer of what this material is, is going to lay in analyzing the data post-flight. We have some good film records, and I think the - When you put that together with the rocks we picked up, we'll have a pretty powerful story that'll explain a lot of things we don't know now. But I think that there are sections of material we called Descartes, particularly the material that makes up Stone and Smoky, and that stuff runs all the way south down to the old Descartes Crater for which the region is named. And that does look texturally entirely different from the Cayley formation.
+Question number 8, again for Ken: What were your impressions of the back side of the Moon, and were there any surprises?
+Well, the impression of the back side is something I tried to collect from the time we got there until the time we left. And I'm still mulling that over in my mind. I've got a lot of transcripts we're going to have to read before I can psych it all out. But, in general, the impression I have is that the material on the back side, when you look at it on as small a detail as I could look, looks to me like it's very much like the material we find on the front side surrounding most of the big craters. The thing that looks different is that the back side is devoid of these large basins. We don't have the large mares; there's very little mare. In fact, on the back side the only mare we saw was really post-TEI, when we could look back and see a big area. But our ground-track didn't pass over any mare in the daylight, so it took a while to psych that out. But I think that was a major difference was the absence of these large basins. And, on the back side, did we see surprises? Well, we went up looking for - with a suspicion that we might find material similar to the Descartes formation located in several areas on the back side, and, indeed, I think we did. I think we saw an awful lot. I think we saw a lot that looks exactly like the Cayley. I think the things that I saw that were - Probably the most surprising thing was the - On the side of a crater called Guyot, which is just to the north and a little west of King Crater - which is right about the eastern limb of the Moon when you look at it from the Earth - we saw a big hole, I'll call it a crater, in the side of this - of the wall of this crater, and it appeared that there was material oozing out. And on our last couple of revs, we passed almost directly overhead, and it looked like it was filled with a pool of material, and then this material had run down the side. And that's a formation typical of things you see like in Hawaii, something I have not seen anywhere else on the Moon, nor have I seen a picture of it.
+Question number 9 for John and Charlie: At the tag end of EVA-3, you appeared to be having a high-jump competition. Who won, and how high do you think you jumped?
+No, we weren't having a competition. We were just showing you some of the things you could do with a 360-pound mass that only weighs 60 pounds, even slowed down, if you will, by the pressure suit. And I don't think anybody won. We were just demonstrating what you can do with the suit.
+Question 10 ...
+I don't have any idea how we - how high we jumped. You'll have to look at the TV. Maybe - maybe a foot or two feet.
+It was too high for me.
+Question 10: Could you ...
+Still have a picture, Hank?
+...Explain the circumstances surrounding the failure of the Lunar Module Ascent Stage to de-orbit?
+I think that has to be worked out when we've looked at all the data - on the ground and discuss it with the flight controllers. At the present time, I have no idea.
+No, I don't either.
+Question 11: To what extent ...
+Hank, could you verify that you still have a picture? We've lost our monitor, and just like to make sure there's nothing wrong with the camera.
+We have a good picture. Question 11: To what extent did fatigue affect your performance? For example, do you feel that you would have been capable of a full 7-hour EVA-3, lift-off, and LM jettison all in the same day?
+I think that'd been pushing it a little.
+Question 12, for each of you ...
+We could probably - we could probably have done it, but I think that'd really been pushing it.
+Question 12 for each of you: What do you hope to tell your grandchildren as your most memorable moment of your trip to the Moon?
+Well, I'll start with that one, Hank. I have two impressions. The first is the dazzling beauty of Descartes - the surface. It was just one of the most awe-inspiring sights I've ever seen. And secondly, on the EVA, when you look away from the Earth - or the Moon - it's just the utter blackness of space. It really is black out there.
+Time number 53 you said that.
+Well, I guess I'm next then. I - I thought of - I knew someone would ask that question, and I've been asking that question, too. And I don't think I can put an impression. There's so many that we've crammed in in the last 12 days. And it seems like each one comes on top of the other one, and the immediate response that you come up with is "That's the most fantastic thing I've ever seen." In - in a lot of respects, it really is. There - there have been so many events and so many sights that, in my case, I'm going to have to sit and think about this one for a long time before I could ever pick out one, and then I'm not sure I'll ever be able to say that there was a unique thing, or a most memorable event. The whole thing has been a - just one series of very impressive, and I hate to use the word, but I don't know anything else except to say, "It's fantastic."
+I think Ken's got the answer. I think we've seen as much in - in 10 days as most people see in 10 lifetimes. And we certainly have enjoyed it.
+Question 13: From an astronaut's point of view, would you discuss the possible operation - operational difficulties, besides language, to be overcome in the proposed joint US-USSR manned space flight? And would you have any suggestions to make?
+(Laughter) From an astronaut's point of view, I'd - I would not feel qualified to discuss it, other than to say that if language is a problem, I'll be glad to learn Russian. I think Charlie and Ken feel the same way.
+Question 14: Did the potassium in your diet affect the taste of the food, and did it cause any other problems?
+(Laughter)
+That's a very good question, and I - I'm not sure we're qualified to - to say. We'll have to get back and talk to everybody. I - I don't think it - I didn't notice it being in there as far as taste was concerned. And I don't think anybody else did.
+Yeah. This is one of those things where you have to wait and take a look at - in our post-flight medicals and see what they come up with as our body potassium level, because that's really the part that they're trying to work on, and I'm afraid the guys on the ground have a lot more data than we have on our physical condition, other than the fact that we know that we feel good.
+Yeah, I think - I think we've been very fortunate to do as much of the mission as we have, considering - considering how much we got slowed there. And I don't know whether potassium had anything to do with it or not, but if it did, I'm sure grateful that we were taking it.
+Question 15 for John: What did you mean when you said, "Morale went up a couple of hundred percent after the successful TEI." Was it low?
+Yes, that's a - No, not particularly. It's just - It would sure be low if you didn't get off the TEI burn, I can tell you that.
+Question 16 for each of you: Based on your experience, do you have any recommendations right now for the crew of Apollo 17?
+Yeah, I recommend they enjoy it as much as we did. I'm sure they will, because, I tell you, we really have - we really have had a lot of sights to see. I'll admit that, in a lot of cases, we worked hard, and - and I suppose the people on the ground were able to tell that. But we got all the support in the world from the - MCC-Houston. I - I mean, I could tell, from every decision that came up from the ground, that there had been a lot of work put into it, and all around the country that there were a lot of wheels turning and people working late hours and solving these problems. And I'm just really happy that Ken, Charlie, and myself got to do this. And I think it's a wonderful experience.
+That was the last question, John. We thank you very much, and thank you for the kind comments.
+Why don't you read (garble) ...
+...(garble) say the words?
+Okay.
+Why don't you say ...
+Well, let me just say one thing, Hank, and that is - Mr Descartes said it. He said, "There's nothing so far removed from us as to be beyond our reach, or so hidden that we cannot discover it." And you all know Descartes was a French mathematician and philosopher for whom the region was named. And I guess, really, the story of our mission so far is we've been out testing his theory. My personal assessment of where we are right now, as soon as we get the rocks back in the LRL, we'll be making headway toward proving he was right.
+Good show, John.
+Okay. Hank, as the LEB sinks slowly into the distance, we'll say goodbye.
+Good show. Right on.
+Yeah, thank you.
+Well, it wasn't bad.
+Was your morale low before TEI?
+(Laughter).
+(Garble).
+That was a good answer: it sure - it sure would have been if they hadn't. (Laughter)
+Oh, anyone who asks a question like that, there isn't an answer for.
+Yeah.
+Houston, 16.
+Go ahead.
+Okay. Hank, you want S-Band Aux back to SCI?
+Affirmative.
+I knew - I knew those remarks about orange juice were going to come back to haunt me.
+Okay; you got it.
+Okay.
+Okay, we take the power off; the monitor's off.
+Nice job there, guys.
+Thank you, sir.
+Was that the boss?
+Yeah.
+Okay. Camera coming down.
+Okay; I don't put it up then, if you don't mind, again.
+That sounds good.
+Put the Flight Plan back there.
+Apollo 16, if you'll give us Accept, we'll give you a new state vector.
+Roger.
+They got it.
+How come you're standing on your head?
+Stable II again, eh?
+Dang gummit.
+Yeah, you're right; it is Stable II again.
+I don't remember you saying that, John, on hot mike.
+Oh, yeah. Oh, yeah!
+(Laughter)
+(Garble) I was on hot mike quite a bit.
+It was on the - while we were sitting there coasting around waiting for a decision.
+Oh, yeah.
+And you were drinking the orange juice, and John said something about that, and I thought, "Oh, shoot, I hope that isn't hot mike." That's why - I think I called and asked you, and you said something about you were on hot mike to me but not to the ground.
+No. Most of the time, we were hot mike to the ground. We had Down Voice Backup. Dadgum Fendell - Biomed, Off - He was trying to improve his circuit margin, so he was ...
+Here, I got to wad that up in a small ball, so -
+(Garble) this?
+Yeah, I'll coil it when I get down there. I'll see how big the hole is. That is, if I can find my way down there. Gee, I'm turned around. Here I am going back up in the tunnel again.
+I may never get my equilibrium.
+I don't know if that was the fairest estimate or not. That's my feeling on it. I think - with the complete EVA and going through LM Jett, would really be pushing it.
+We - we (garble) did that.
+That's basically what we did.
+I know it.
+Apollo 16, looks like we're getting some stratification in the H2 tanks. Would you take the H2 fans on for a minute and then back off again?
+Well, this is where the (garble) comes.
+I don't like the idea of doing any of those evolutions.
+I don't either.
+In a - in a 24-hour day. That's dumb.
+The computer's yours, 16.
+Okay, Hank; and we've got the fans on.
+Okay. Thank you, Charlie.
+Okay; your fans are off.
+Okay; the tanks look good now.
+Apollo 16, Houston.
+Go ahead.
+Roger. I got a sort of an outline of our plans here for the rest of the day. You might want to jot these down on your scratch pad, Ken, and then you can operate on the Flight Plan.
+Okay; Stand by.
+Okay. Hank, why don't you go ahead?
+Okay. In absence of any thermal problems, this Sco X-1 we're in now is going to run until 270:30 [245:43].
+Understand; 270:30 [245:43].
+Roger. And at the termination - or at 270:30 [245:43], we want you to immediately maneuver to the Skylab attitude, Skylab contamination, and, as soon as you get in attitude, do the photo sequence B - Skylab contamination photo sequence B - and Skylab dump sequence. And do those as quickly as possible. And, in the Dump sequence, number 3, it now reads "Do it 30 minutes after sequence 1." Make that "15 minutes after sequence 1."
+Okay; we'll stay with Sco X-1 until 270:30 [245:43]. Then we'll go to Skylab photo sequence B and we'll press right through that and the dump sequences. And we'll do dump sequence number 3 at 15 minutes instead of 30 minutes, and we're ready to press on.
+Okay. Then, after that, maneuver immediately to attitude of Noun 20 per roll, 128, 042; and we want to do the ecliptic Aux PTC with a minus 0.3 rate and a 2-degree dead band. And that's what we started at 264 hours [239:13] when we got the glitch.
+Okay. You want the - the completion of the dump sequences; you want to go to Noun 20 roll, 128 Pitch, 042 in yaw, which will start the ecliptic Aux PTC mode. We'll use 2-degree deadband and minus 0.3 of a degree per second rates.
+Roger. And it doesn't say how long we're going to ...
+I can use the thruster configuration I have now.
+That's affirmative. Use the same con - thruster configuration we had before, and when we finish that sequence - and I'll get you a time on that a little later how long we do that - we're going to go to the ecliptic Aux PTC for the Cyg X-1 photos. And that'll be - at 273:15 [248:28], we want to do that.
+Okay. Hank, I didn't follow that. I thought we were in the ecliptic Aux PTC at - for this earlier maneuver. So - say again what happens at 273:15 [248:28].
+At 273:15 - Excuse me; I may have - I read it to you wrong, Ken. We want to go to the Cyg X-1 point per the Flight Plan.
+Okay; at 273:15 [248:28], you'd like to go to the Cyg X-1 per the Flight Plan.
+Roger. And we want to continue with the 0.5 - degree per second rates in these maneuvers to try to make up as much time as possible until we get back on the Flight Plan at 273:15 [248:28]. And, if we have any thermal problems, just to read you in on what we're thinking, we'll scrub the Skylab contamination first, and the ecliptic Aux second, as required.
+Okay. When you say Skylab contamination, you talking about both the dump and the sequence B, or just - are you referring to sequence B?
+It'll be the whole works, if we have a thermal problem.
+Okay,
+And that's our plan, Ken. Is there any question on that?
+No; I think I understand what you want to do.
+Okay.
+Charlie, we've got a couple of very special guests here would like to see your biomed, and they guarantee they'll be able to understand it.
+Boy, you got me, Hank. It'll be 15 minutes before I can get it up.
+Roger. Understand.
+Oh, I know who you're talking about. Good. Thank you.
+You're a little slow at that, Charlie.
+Yeah, it took me a while there. Thank you. Tell them "Hi".
+Are you going to do it, Charlie?
+Say again?
+Are you going to do it?
+Yeah, I can get some sensors on.
+Okay.
+Well, while we're waiting in the meantime, I can guarantee you old Charlie's alive and well.
+Roger. By the way, you guys did a - did a great job here on that show.
+Thank you, Hank. You - you asked pretty mean questions, I'll tell you that.
+John, the truth is the backup crew wrote those questions. And I got your Mid-Course 7 PAD and Entry PAD.
+Roger; wait a second.
+And, Hank, we just completed our EMS check, and it works like a champ.
+Outstanding.
+Okay. Go ahead for Mid-Course 7.
+Roger. MCC-7, RCS/G&N; 27318; Noun 33: 287:22:56.28; Noun 81, minus 0003.1, all zips, minus four balls 1; 102, 126, 040; HA is NA, plus 0021.7; 0003.1, 0:07, 0003.1; sextant star 13, 312.7, 33.7; boresight star NA; minus 007.1, minus 156.17; range to go, 1045.9, 36276; 290:23:59; Sirius and Rigel: 219, 166, 313. Four jets, plus-X. Comments: EMS not biased for drift; PTC REFSMMAT.
+Okay. MCC-7, RCS/G&N; 27318; hours, 187:22:56. 28 [sic]; minus 0003.1, all balls, minus 0000.1; 102, 126, 040; HA is NA. HP is 21.7; Delta-VT is 3.1; burn time, 7 seconds; Delta-VC is 3.1; sextant star 13, plus 312.7, plus 33.7; not applicable on the boresight; latitude, minus 007.1; longitude, minus 156.17; 1045.9, plus 36276; 290:23:59. Sirius and Rigel are set stars; 219; 166; 313. Four jets, plus-X. EMS not biased for drift and the PTC REFSMMAT.
+Roger, John. And would you re-read the Noun 33?
+287:22:56.28.
+Roger. Good readback.
+Okay; you want to give me the Entry PAD?
+Okay. MidPac; 000, 153, 000; 290:06:32, 267; minus 00.71, minus 156.17; 06.9; 36196, 6.50; 1045.9, 36276; 290:23:32; 00:27; Noun 69 is NA; 04.00, 02:02; 00:16, 03:32, 07:44; sextant star 25, 151.6, 26.2; boresight NA; lift vector Up. Comments: use nonexit EMS pattern. RET for 90 K is 6 plus 05; RET for the mains, 8 plus 30; RET landings 13 plus 22. Constant-g entry, roll right. Moonset at 290:20:26. EMS entry reverse bank at 20,000 foot per second. Okay. These entry angles assume the crew has done the procedure to obtain the entry REFSMMAT. And that's at the bottom of G&C Checklist 4-18. And you must realign the platform to the Entry REFSMMAT, or you'll go into gimbal lock during P67.
+Okay. Say again the page that's on?
+G/4-18.
+And it also assumes MCC-7?
+I'm sorry, John. Somebody said something to me. What was your question?
+It assumes MCC-7, right?
+That is affirmative.
+Okay. The MidPac area; roll, zero; Pitch, 153; yaw, zero; GET horizon check 290:06:32, Pitch 267; latitude, minus 00.71; longitude, minus 156.17; 6.9, max Gs; 36196, minus 006.50; plus 1045.9 plus 36276; 290:23:32; 27 seconds; D zero, 4.00; Vcirc 2:02; 0:16, 3:32, 07:44; 25, 151.6, 26.2; lift vectors Up. Comments: nonexit EMS pattern. RET 90 K, 6 plus 05; RET Mains, 8 plus 30; RET landing, 13,22. Constant-G entry, roll right. Moonset, 290:20:26. EMS entry reverse bank at 20 K feet per second. And this assumes the crew procedure to get the entry REFSMMAT on page G/4-18.
+And also assume MCC-7.
+Roger. And you must have the entry REFSMMAT, or you'll go into gimbal lock.
+Okay. We got the picture.
+And Hank. I'm up on biomed and no - arrhythmias - don't count.
+They say everything looks fine.
+16; Houston. We'd like the Gamma Ray Shield, on now, please. And during the next few hours, we'll be calling in real time all the Gamma Ray Shield calls and the Gainstep calls.
+Okay, Don. Thank you.
+Roger.
+Good afternoon, Donald.
+How are you doing?
+Don, we're on our way to the Skylab contamination attitude. Is that okay?
+That's affirmative.
+16, Houston. When you get into this maneuver to the second attitude, we'd like to go Mapping Camera door, Open, and a Gainstep up four steps. And then Stu's got some words for you here on the use of EMP 509 for entry.
+Okay. Stand by.
+Okay, you've got the Mapping Camera door Open, and you've got the Gainstep up four steps.
+Roger. Copy.
+Okay. We're on our way. How about giving first a couple of philosophy words on 509, and then, if there's something for us to copy, we'll come back and catch it later with our books.
+Okay, Ken. I think we'll not copy anything at this time or make any changes to the Entry Checklist. I would just like to give you a few words on it, let you mull it over. If you have any questions, and then tomorrow morning we'll - we'll make the - the changes. Basically, we're recommending the use of 509 during entry. And, of course, the TVC relay that we've chased around will not be activated during entry. However, all the time there's - there's been this doubt that we can say, specifically, that's the relay. We think it's a high-probability source, however, in lieu of today, in particular. We - we're not sure that - we - we can't rule out that some other EMI might - might glitch that CDU. They've taken a good look - and - look at the wiring in the CDU, and, as it turns out, the 90-degree bit in CDU Z is the most sensitive to being set by EMI. And this bit is wired differently that - than the other bit. So, to preclude going into coarse align, we - we'd like to use 509 for entry. And, of course, this doesn't prevent any glitches, but it does prevent you from locking up the platform with the - with the coarse align: routine. What this is going to ...
+......
+...what this is - Go ahead, Ken.
+I was thinking about the things that happened today. We didn't have to do anything. It didn't lock up anything, and it didn't look like even zeroing the CDUs had any effect on it.
+We agree - we agree to that ...
+...with 509, if we have a glitch, what would - what would you anticipate would be the proper thing to see and the proper response?
+Okay, now. As we've said before, the only thing 509 will do for you is to prevent the CMC from going into the coarse-align routine. If you, indeed, get a glitch, you're going to have the CDU indicating a wrong attitude. This would be reflected, most probably, in your Noun 20s, and you could expect the spacecraft, if you're under CMC control, to try to chase off after this Noun 20. And, if it is the 90-degree bit, you would - the 509 would keep you from going into a coarse align. So, if the spacecraft moves, you would not lose your attitude reference, and you could do a Verb 20, zero the CDUs, and be back in business again. That - that's the only - the only thing that we have to offer on the thing is to try to prevent this coarse align, if you get the 90-degree glitch. Now, if you get a glitch in roll - you could get a glitch in roll or pitch. And, under CMC control, it would see this as a - as a erroneous Noun 20 and do whatever is appropriate. If you're in attitude hold, it's going to try to - try to chase it.
+Okay.
+Okay. And, as I said, let's don't make any changes to the checklist. Let's massage this overnight. But, basically, what you're going to do is continue to use SCS control for your P52s, and then we'll - As we start into our entry program, we'll make one entry as we go into P61, and then 509 protection will be in once average g and P61 comes back up. And then, as you activate the entry DAP, this is going to kill 509, because it - it resets the DAP registers. So after you enter the entry DAP, you're going to have to do your Verb 21 Noun 46 and put - put your three back in R-1 of Noun 46. The procedures look pretty straightforward, Ken. There's - like I say, these two spots where you need to make these entries, they look real straightforward, and it's the same numbers that - that you've been using. And once you have put 509 back in after activation of entry DAP, then it will be in throughout the rest of the entry.
+Okay. Sounds like you guys have been working again.
+Well, this is (laughter). You know what, this is really chasing a - chasing a spook bit here, but I guess we're probably getting a lot of experts on - on CDUs, and it looks like the - the 509 is - is the way to go. And the question you might have is - well, why didn't we do 509 during the - during the rendezvous if that's what we're concerned about? And there I just didn't want any glitches, and I did want to keep the gimbal lock protection in. Now, something maybe we haven't discussed with you, that if 509 is in and you truly go through your 90 or 270 yaw, you will, most probably, damage the IMU. And you hear the words, "you'll break it," you'll hear the words, "you'll render it unreliable," so forth. So as long as 509 is in, you do not have your true gimbal lock protection because the CMC will never go to coarse align. And I didn't feel it was worth doing that - taking any sort of chance on the platform until we've got down to the entry point, but, once we're here, it's sort of superfluous. If - if you - if you go there, you've lost your reference anyway, no matter what you've done to the - done to the platform, but you should be aware that you have lost this protection.
+Okay. Sounds real good, Stu. Thank you, sir.
+Yeah. Good work, Stu. Thank you.
+Okay. And, if you don't have any more questions on this, I'll - I'll get off the loop, and we will have these specific changes to the Entry Checklist for you tomorrow.
+Okay. Don't stay up all night.
+No sweat. Don't you either. We'll see you.
+16, your rates look good.
+Roger. The pictures are being snapped.
+16, would it help you if we called you to advise you when your rates are sufficiently damped in these different Skylabs.
+Don, did you call us?
+Yeah, we just wanted to know if we could help you by advising you when your rates are damped, so you wouldn't have to wait for them.
+No, we - we're having to restart the sequence, but we'll get it this time, and we'll be pressing on.
+Roger.
+Houston, when we started the Skylab dump contamination, it didn't - it dumped a little out the side hatch and then it must have flashed - froze - or something, because it stopped immediately. And so Ken is now removing the screw to see if it's - to see if it's still flowing.
+Roger. We copy that.
+Okay. It's not flowing right now.
+Roger. Understand.
+The heater had been on about - about ten minutes before we started.
+I'm not sure what you mean by it "had been on about ten minutes before you started." You mean the dump had started?
+Yeah, before we started dumping.
+Okay. The bag had been on before you started dumping.
+No, not the bag, the heater.
+Okay,
+Okay. It's flowing again.
+Roger. Understand.
+And, John, I guess using that heater's about the only thing we know to do. If that doesn't work, we don't have an answer for you.
+It's working fine now, Don.
+Okay. Thank you.
+16, Houston. Since we're going into PTC pretty quick, there are about four things we need to get done.
+What are they?
+Okay. We need to close the door on the Mapping Camera/Laser Altimeter and on the X-Ray/Alpha Particle, and we need to make about a one-minute water dump. We need to dump five per cent. And we need to get the Gainstep up four steps.
+Don, we have another four minutes before we take our last sequence of photos here, and you don't want to take a water dump until we get through with that, do you?
+Negative. You can hold off until after the photos.
+And we've got the Gainstep set, and we've closed the doors.
+Roger.
+Okay, Don. You said something about PTC. We show we're going to the - this Cygnus X-1 attitude next.
+That's really not what you were supposed to do, though, here. You want us to go to this ...
+Roger.
+We want to go to this auxiliary ecliptic first.
+That's affirmative.
+Is that correct?
+That's affirmative.
+Okay.
+Okay, Don. We're ready for a dump.
+Okay. Go ahead.
+You want us to dump 5 five per cent. Is that correct?
+That's affirmative. It should run about one minute.
+Okay. We were reading 62 per cent when we started. You want us to go to 52?
+57, Ken.
+Okay.
+Don, I think we're through with the water dump.
+Okay. It looks good from here. And 16, we'd like to get into a roll as soon as we can because we're running kind of close to the limit on some of the tips.
+Jet configuration okay, Don?
+That's affirmative.
+You don't want us to bring D-2 on for the spinup?
+Roger. Bring a couple on for the roll.
+Let's go Pitch minus 40 and Yaw 90 on the High Gain, please.
+Three filters.
+Yeah.
+Okay. And then it says, "The 70-millimeter mag, LM from, three in a bag." Transfer three in a bag. Okay, you got those, huh? Tape cassette kit.
+(Garble).
+Do what?
+(Garble).
+Where's that?
+It's in here (Garble).
+Oh, yeah, yeah. Yeah, I know where that is.
+Most of this stuff that we need to stow is in F-1 and F-2, I think.
+(Garble).
+Okay, we'll ...
+(Garble).
+That's right. I think we're in a heap of trouble, myself (laughter).
+Why?
+Because I don't believe we're gonna make it through this list before re-entry.
+Okay, here we go.
+(Garble).
+No. It isn't listed in section 1. The tape cassette kit.
+Got that.
+The tape recorder batteries, 11 in the bag?
+Okay, (garble).
+Okay.
+(Garble).
+Yeah, they're not in there. We looked.
+Nothing in there but the 16s.
+(Garble).
+Well, they aren't in here, Ken.
+(Garble).
+What is it?
+Huh?
+What is it that rattles?
+(Garble).
+Yeah, it's in - I saw that - it's in R - it's up there in the corner in R -
+Okay.
+That far one. Nab. Nab. Nab. That one with the ...
+Here you go.
+...biostack in it.
+(Garble) okay.
+And the next one is the in-flight exerciser, and that's coming over to you.
+(Garble).
+Yeah.
+That's the one?
+Yeah. That's what it says.
+(Garble).
+Yeah. It's - it's on the way.
+Here you go.
+It says, "EMU maintenance kit."
+It's here.
+"In-flight exerciser," that's in there. "Water - H2 gas separators, two in a bag."
+(Garble).
+Okay.
+(Garble).
+Okay. "Snag line in the bag with a strap," that's in there. "PGA interconnects, three in the bag."
+Oh, shoot.
+What are we looking for?
+The interconnects. Three of them.
+(Garble).
+Sure don't see them in here, Ken.
+Here's the interconnect bag.
+(Garble).
+Yeah.
+(Garble).
+Well, I'll see.
+16, we got about ten items here to talk about. Most of them are real short. We can either try to get to them now, or we can wait a while.
+We'd like to wait a while. We're in the midst of our re-entry stowage.
+Okay. One of the items here has to do with re-entry - with entry stowage. We'd just like to verify, or have you tell us about any changes that you're making relative to the normal stowage, that is, in accordance with Page 2-17.
+That's where we're working on right now, and we'll be - certainly gonna do that, Peter
+Okay.
+Okay.
+I don't know where that goes - section III, I guess.
+Okay.
+Okay. "Urine filter assembly, three in a bag."
+(Garble).
+Well, I ain't gonna worry about our lousy filters. What difference does it make? They don't weigh 10 pounds. "Side of A-8 in a bag."
+That's all in A-8?
+That's it.
+Okay (garble).
+Yeah. You know, they - they don't want anything in those things.
+(Garble).
+"Side of A-8 in bag." Ah. "Vacuum hose - vacuum brush."
+(Garble).
+Yeah.
+(Garble).
+No, don't we have the vacuum hose?
+(Garble).
+No, vacuum hose - vacuum brush, it says.
+(Garble).
+"Urine hose with adapters and two straps."
+Side of A-8?
+Yes, sir.
+Okay. Here - here you go.
+"EVA guards; left, center, and right, with straps." They're in there. And the "Unipole - Unipod pole assembly" ...
+Wait a minute. Wait a minute.
+They're in (garble). The unipoles are here. The guards are here.
+Okay. The vacuum brush is there?
+No. Jettisoned.
+We threw that away.
+Okay. Jettisoned with the LM.
+Okay. Now what?
+Okay, A-9 - "Lunar sample in bag."
+Nine - the samples in bag.
+"B-1, 3-inch mapping camera mag."
+Mag.
+B-2 -
+B-2?
+Yeah.
+The 35-millimeter camera?
+Yeah. You want to work - you want to work on - what do you want to work on? A-1?
+Yeah. I (garble) A-1 there (garble) I think (Garble).
+Okay. A-1, "16-millimeter mags, seven in two bags."
+Here's three.
+Have you got some of those?
+I've got the cam - I got GG on the camera.
+Okay. I need LL.
+What do you need LL for? Okay, so we gonna miss one - one mag.
+Is that all?
+Yeah.
+(Garble) Okay, I have - I have (garble) millimeter (Garble).
+Okay. "70-millimeter mags, two" ...
+(Garble).
+It's really bad.
+Okay (garble).
+The what? Yeah. Wait a minute. I was just looking back to the Flight Plan to see what we're supposed to be doing right now - 272:46 (garble).
+(Garble).
+Yeah.
+Houston, 16.
+Go ahead 16.
+Pete, we're busy with this entry stowage. Could you keep us on the Flight Plan if something comes up.
+Okay. Will do.
+Thank you.
+Okay. Go ahead, John.
+There's - 16 millimeters.
+We got that.
+(Garble).
+Okay. And then, "70-millimeter mags, two in the bag."
+I got one with three.
+There's two here.
+Take three, then. Well, ain't th - this is all of them. This is the last magazines we got out.
+(Garble) three.
+You want these or not?
+Yes.
+Okay. Here you go.
+(Garble).
+Yeah. Three. Okay, the "Interval timer."
+Where's that?
+Over there on your - Here it is, right here.
+Not any more, it's not.
+Here you go, Ken.
+(Garble).
+What are we timing now?
+(Garble).
+Nah. I don't need it.
+The "Voice recorder."
+That's the tape recorder?
+Yeah.
+Let's see. That's up here in the -
+Here you are. I got it.
+Okay.
+"Remote control cable with ...
+16, we're having some thermal problems in the SIM bay. We'd like to stop the roll at 274 degrees, and get the Sun on the SIM bay.
+Roger. Stop the roll at 274 degrees, and get the Sun on the SIM bay.
+That's affirmative. Thank you.
+(Garble).
+That didn't come out of the LM.
+Maybe they're up in U ...
+(Garble).
+That did.
+...maybe they're up in U-2.
+No, they're down here, John. This other one right there, Ken. I think. Yeah. No, that's ours. No, wait a minute.
+Yeah, but I don't -
+(Garble).
+No, huh-uh.
+Ones down here, I don't think are (Garble).
+Weren't they - weren't these over there (garble)?
+Some of them were.
+Yeah.
+(Garble).
+Okay, the thing looks sort of like - this might be it right here. I don't think it really matters; a PPK is a PPK. The trouble is the guy who tied this, tied it so dadgum tight.
+(Garble).
+Yeah, why not.
+Okay, here's the flag kit.
+(Garble).
+Okay. And here's a PPK, and how - can you get this - load this one of mine - this was a pocket item of mine - will that go in there? If not, I'll put it in my pocket. I'll leave it up here in R-2. Huh? Yeah, okay.
+Okay. You've got 274 about there, Pete.
+Okay, John. Thank you.
+(Garble).
+Okay.
+I - I'll get it, Charlie.
+"LM 16-millimeter camera." Here you go, and it's get bracket and everything. Lens - you want all that? It just says the camera.
+It just says, "LM 16-millimeter camera."
+(Garble).
+Okay, that was up here in U ...
+Where was the LM - all that other stuff at? In one of the U's?
+Yeah, it was in U-2 back here.
+Don't say nothing about the (Garble).
+Here you go, Ken.
+Nothing in U-2 like that. That's where it was.
+I got it out. Okay, "Contamination and contamination photo equipment."
+The DSEA - where is that? The DS ...
+It's in the ISA, I think, John. We'll just leave it there.
+Okay, so we've got the rest of this. Yeah.
+No, no, I'm doing that talking.
+On top of A-1 goes the lunar sample in decon bag.
+(Garble).
+Yep. I'm sorry, you're through. I tell you, they don't want nothing in those lower compartments. I think they float the spacecraft or something, I don't know what.
+It doesn't even say which sample is in the decon bag, that's what gets me.
+It's the one - it's on the decon bag, John. It says stow on top of A-9. It's the -
+(Garble) whole bunch of them (Garble).
+A-7?
+(Garble).
+(Garble) Well, that wasn't what they said when I sent them across.
+(Garble).
+Which way?
+Plus-Y.
+Plus-Y.
+(Garble) Okay, (garble) out.
+What is that?
+(Garble).
+I think that goes somewhere like A-9 or something.
+(Garble) this thing (Garble).
+What's that?
+(Garble) bag (garble) middle of the floor (Garble).
+There's one up here you can reach, Ken.
+Huh?
+Here's one right here you can reach.
+(Garble).
+Yeah.
+(Garble) bag (Garble).
+Yeah, I know it. This one barely - barely sticks out. Well, I can hook it on the side - I can hook it on the side - there - there we go.
+I'll get it loose. Okay. Huh? Oh, excuse me. I thought you meant you had the wrong bag. Okay.
+Ken, those two PPKs you took out of A-7 - can we put these two that were in U-1 back in there? The ones that were in U-1.
+(Garble) I don't know, Charlie, (garble) I wouldn't think so.
+Okay.
+Want to put them down here before I close this up?
+Do you have room in A-7 - I mean in A-1 for these?
+[Garble].
+Oh, that's okay, we'll just leave them in U-1.
+..
+Yeah.
+..
+That's right, that's (Garble).
+(Garble).
+I sure didn't see you. You want a flashlight, Ken?
+..
+Do you want to see it, in other words.
+..
+Shine in your face.
+(Garble).
+I can't think of any.
+(Garble).
+No.
+I'm gonna take this cabin fan filter off, okay?
+I'll just pull it reasonably tight.
+Is that okay, you guys?
+(Garble), Charlie, (Garble).
+Okay. Well, I was just trying to help. It should be stowed in U-2.
+(Garble), got a bag to put it in (garble) take it down (Garble).
+I have a bag right here.
+Oh, okay.
+(Garble).
+Okay. Want to go up to - what do you want to start on next? A-2? Okay. "PPK, two, and flag kit, one."
+(Garble).
+Two of them and a flag kit.
+(Garble).
+That's what it says. It's been written in here.
+This ORDEAL, where does it stow, John? It goes down on the bottom, it doesn't go in U-1 (Garble).
+(Garble).
+Yeah.
+(Garble).
+The FCS.
+(Garble).
+Okay. That's trash. That's in the trash bag?
+Yeah.
+"Tissue dispenser, four."
+(Garble).
+Okay. Tiedown rope bag?
+It's in the cockpit up here. Don't we want to leave that out?
+(Garble).
+Yeah. The heel restraint bag?
+(Garble).
+Okay. PPK, two, and flag kit, one, is all that is
+(Garble).
+Okay.
+(Garble).
+Okay; ISA on top of A-2. ISA and decon bag.
+(Garble).
+Yeah, I believe it is one of the biggest.
+(Garble).
+It says - it should say on there, doesn't it?
+(Garble).
+Well, Ken, it always did back in the old days, I -
+It doesn't say - no - it didn't - Well, we went through that the other night. It ain't worth it again.
+Oh, you - John?
+Huh?
+Put your seat pin up.
+Sure.
+I was reading those others (garble) ...
+Yeah, okay.
+...(garble) Darn thing. I got it out like nothing's business and it isn't going back in. Yeah.
+(Garble).
+Well, it looks like it, because the connector fits in there. Other than that, it wouldn't fit.
+(Garble).
+Yeah, I think the face is up in the - the face is up in the ...
+(Garble) hold this right there.
+(Garble).
+Okay. Now it says "Front" - that's all of A-2. It says, "Front of A-3 - A-6, core stem in bag." And we'll leave it where it is.
+A-3?
+A-6.
+What's in there?
+Core stem in bag.
+(Garble).
+Yeah.
+(Garble).
+What?
+(Garble).
+Oh, yeah. There you go.
+As soon as I figure out what is keeping it from going in there, I'll get it.
+I'm just wasting my time. I can't get it. I don't know how you can get in there and do it. I'll tell you what. I'm going off comm. Charlie, watch the store and I'll get it. It makes me mad.
+(Garble).
+That's a - I can't tell what it's doing. I'm looking at it ...
+Well, I (Garble).
+Yeah, I guess you better, I can't get the -
+(Garble).
+What do you want me to put in the suit bag? (Laughter) Oh, shoot.
+Hey, John, here. You hold the store and I'll get the thing back there. Oops, excuse me. Everywhere we look there's tissues everywhere. But when you want to - when you want one, you can't find it.
+(Garble).
+No, you never would. I ain't sure you'll do it in zero g, either.
+Okay, that's in.
+You gonna leave those core stems where they are, Ken, or bring them over here?
+(Garble).
+Okay. I thought that seemed like a pretty good spot to me.
+Yeah, (Garble).
+This goes in the PGA bag, Charlie.
+What?
+How's it coming?
+This goes in the PGA bag?
+What was it you wanted to put in the PGA bag?
+I've already got it.
+Oh, okay. What do you think?
+(Garble).
+You got it. Beautiful (garble). Never get it out.
+(Garble).
+You know, Ken, the core stems go right here but how - I don't know how they tie down.
+I think you strap them.
+Yeah.
+(Garble).
+Oh, that's the way they do it, yeah. Man, is this thing filthy.
+(Garble).
+I don't know. Let's see, maybe if we did it this way. Oh, that's the way you do it, I bet you. Take the straps this way like this - like this? And then snap it to the top here, because it'll - it'll fit then.
+(Garble).
+You can't hack it up there? Those are - they're really bad. Let's see - Wrap it around once like this one. Take it around - there you go. Now. There you go. Okay, that ought to be it, yeah. Yeah, I don't think this is gonna quite hack it. Why don't we just leave that one? Make this -
+No.
+Okay, John.
+Okay, what do you want to work on next? Top of A-2 says, "ISA decon bag." De - ISA decon bag, you got that?
+(Garble) here. Yeah, yeah, yeah (garble), yeah (garble).
+16, we think we may have stratification in H2 tanks 1 and 2. Would you give us about one minute on the fans?
+Roger. H2 Tanks 1 and 2, one minute on the fans.
+They said that this morning. One, two.
+Okay, it says, "In front of A-3 and A-6, core stem in bag."
+We got it.
+Got it?
+Yeah.
+It says, "Fire extinguisher on the side of A-3."
+Yeah.
+"CO2 absorbers, four, in A-3. CO2 absorbers, four, in A-4. CO2 absorbers, four, in A-5. A-6, urine bags, three, with overwraps. Retention straps, two; vacuum cleaner, side of A-6. Rock bags, two" - That's no, we put those rock bags -
+(Garble).
+It'd have to be.
+It's in A-6? What kind of rock bag is it?
+(Garble).
+There ain't no rock bags in it? Those - weren't those the padded samples, Charlie?
+Oh, yeah, those were in the - yeah, that's right, those are in the ISA.
+Pardon?
+They are in one of the other collection bags.
+Samples in other bag, right? Okay, it says, "Dosimeter taped to bottom" - of something.
+(Garble).
+Yeah.
+(Garble).
+I don't know.
+What does it say? You have it written in, Ken; "Dosimeter taped to bottom."
+No, I don't think Ken wrote this thing. Don't worry about the dosimeter.
+(Garble).
+I don't know where it is. It says, "Rock bags" - there are no dosimeters on those rocks.
+(Garble) want that.
+Yeah.
+I don't know what that means. I wouldn't worry about it.
+Okay, me, too. "Fecal collection assembly in bag, 18, three Skylab in A-7."
+(Garble).
+That's what they say.
+(Garble).
+Okay.
+There's this one to jettison to the LM, Ken, I put up here in U-1 - to replace the LCGs.
+(Garble).
+Yeah, uh-huh.
+Okay, the OPS. 'Vacuum cleaner decon bag, vacuum bag, vacuum cleaner power cables."
+Vacuum bag went in the LM.
+Vacuum cleaner (Garble).
+(Laughter) (Garble).
+Oh, it is?
+(Garble).
+Oh, yeah.
+Vacuum cleaner power cable.
+You want to stow that, Ken? With the food in it?
+Well, (Garble).
+(Garble).
+What's the matter?.
+He's urinating
+Oh. Shoot, Ken.
+16, we noticed the cabin pressure drop about a tenth and the O2 flow go up a little bit. Are you doing something that might have caused that?
+Negative. Sure not.
+We were just laying here.
+Okay. And also we have a maneuver for you. We'd like you to do the Verb 49 maneuver to the X-Ray pointing thermal attitude [for] Cyg X-1. It's at 273:15 in your Flight Plan, but I'll read you the angles, if you want.
+Appreciate it.
+Check off ...
+Okay. It's 278, 295, and 310.
+They noticed the cabin go down about a tenth and the O2 flow come up, and they was wondering if we were doing anything.
+And the High-Gain angles are Pitch 11 and Yaw 330.
+Roger. Pitch 11; Yaw 330; attitude 278, 295, and 310.
+That's affirmative.
+Okay. We're going there now.
+Okay. And we're watching the cabin pressure. It's steady again now.
+Okay, Pete. It looks about like where it's been to us. We think it's been hanging a little bit below 5 [psi].
+Yeah. That's affirmative, and EECOM says that could be the cabin regs making up that's causing what he's seeing.
+Okay.
+(Garble).
+I think it's doing it now, Ken.
+(Garble) making up (Garble).
+Yeah.
+Yeah, I think while we had that hole open, we saw no increase in O2 flow and we thought it was very strange at the time. There was no increase at all, and maybe now the cabin regs decided to make it up a little.
+(Garble).
+You want some more, Ken?
+(Garble).
+Some more (garble) to - to pack.
+(Garble).
+I know. I got to tinkle, too. (Laughter) Bad.
+(Garble) 7 (garble) is what I'm telling you. Okay.
+A-7 is a bad compartment to get into.
+(Garble).
+Okay, it says, "E - E - vacuum cleaner power cable."
+(Garble).
+Man, I sure don't either, come to think of it.
+(Garble) Yeah.
+You think this is it?
+Yeah, (garble).
+I think that's where we put it, as a matter of fact.
+(Garble).
+That's where we put it. Okay. Let me continue.
+(Garble) finish up.
+Okay. EVA- EVA equipment container.
+Go ahead.
+Pressure control valve.
+All that equipment (Garble).
+All that's there.
+And it's in A-7, right?
+Yep.
+We already checked that yesterday. EV gloves and wrist tether in accessory bag - for the CMP is in there, right?
+(Garble) one (Garble).
+Where are they going to go?
+(Garble) tunnel.
+They're up in the tunnel, I think, Ken.
+You want to put this up there, John? Let's turn it around.
+(Garble).
+That's the wrong one. I should have known.
+Okay, Houston. You want us to dump the OPS again? We would like to finally stow it, and we can dump it now if you want.
+Okay. We would like to use the OPS to get the cabin up to 5.6, and then leave it in bleed flow thorough the sleep period.
+Okay.
+Whatever that means.
+I don't know how you do that.
+(Garble).
+I would think.
+Yeah.
+I don't know. I think that's how it is.
+That bleed flow means leaving the hose in the port and leave it on, right?
+Stand by a minute, John. I'll check
+(Garble).
+How much is in there, Ken?
+(Garble) on the (Garble).
+16, we need you to check that dump in the hatch where you just made the Skylab dump from. We're still showing a little high on the 02 flow.
+Well, we checked it. It's all closed.
+Flow just went to 0.2 here, Pete.
+Yeah. Roger. EECOM's just calling it. We're seeing it drop off here now.
+Dingalings.
+That sure looks tight. I guess I could switch to (Garble).
+Okay. On the OPS configuration, we wanted the OPS connector locked in the stowage plate, and turn the OPS Actuator to On.
+I understand.
+It is 5.2.
+That's after you dump the cabin up.
+Okay. That's what we'll do
+How did I get so tangled up here?
+Charlie, how did you get so tangled up there? (Laughter) 5 - 5.3, Ken. I don't think it's going to get up there. What's - what's on the - what's ...
+(Garble).
+Well, that's what they said.
+No, they didn't say that. They said they had it ...
+They said they wanted us to check and make sure we closed the port. Not only did he close it, he sealed it with a kiss. Right?
+If that's all the leak is, we got it made.
+Right.
+16, on the High Gain, I think the angles we called up are wrong. Let's go Pitch 55, Yaw 323.
+Did you get those angles?
+Yeah, I got them.
+Okay. We're at the Sco X-1 attitude, as you know.
+Roger. And go Wide on the High Gain.
+Pete, it doesn't seem to be acquiring in Reacq. I stepped it through.
+Okay. And Charlie, did you copy to try 55 degrees on Pitch and 323 on Yaw? And the first set of angles we called up were not correct.
+Okay. My mistake.
+No, Charlie. That was our mistake. The first set of angles we called up were wrong.
+Okay. 55 and 323.
+Affirmative.
+(Garble) put it on the eight ball and (garble) let it (Garble).
+Okay. That's reading to ...
+Okay, Houston. We got it turned on. It's got about 200 pounds in it; it's just barely making any noise.
+Roger.
+And 16, would you give us Gamma Ray Shield, Off, please?
+Okay.
+Okay.
+16, with the OPS flow, we're still looking at an O2 flow that is higher than normal. And we'd like you to take a look at the nozzle on the hatch window there and make sure that - on the hatch there and make sure that it's secured.
+Okay, Pete. We'll reinstall it. I got the cover hand - tight as I can get it, and we'll take the cover off and reinstall the nozzle.
+Okay, Charlie.
+Okay? Charlie. Looks like the O2 flow is down to about what we'd expect now.
+Okay, Pete. We're cleaning off the suit return hoses and the inlet to the suits circuit.
+Roger.
+16, would you verify the H2 Tanks 1 and 2 Fans Off, please?
+That's affirmative.
+Okay. Thank you.
+16, we need the X-Ray Off for two seconds and then back On. We're trying to keep it out of the attenuate mode for the next few minutes here.
+Roger. You have it, Houston.
+Thank you.
+16, would you verify that the X-Ray/Alpha Cover is Open, 16?
+We got it closed.
+Okay. Would you open it, please?
+It's open now, Pete.
+Roger. Thank you.
+16, we're asking for some stuff that's at 273:50 [249:03] in the Flight Plan. We need a report on the Command Module RCS injector valve temps.
+Okay. It's in work.
+Okay. Do you want me to give you a call out on the systems test meter positions or not?
+No, we can figure that out, probably.
+Pete, 5 Charlie is 4.3; 5 Delta is 4.6; 6 Alpha is 4.2; 6 Bravo is 4.4; 6 Charlie is greater than 5; and 6 Delta is 4.4.
+Roger. Copy. And also, we'd like to remind you of a LiOH canister change, 23 in the Bravo and Stow 21 in A-5.
+Okay.
+16, we need the Gamma Ray, Shield; On.
+Okay. You have it.
+Roger. Thank you. And, Charlie, you let us know when you get the LiOH canister changed.
+Being done right now.
+Roger. And 16, we've got a new attitude for you. The angles are 164, 134, 035. High Gain angles, Pitch minus 23, yaw 101.
+We got it, Pete. Thank you.
+Okay. The LiOH canister's changed.
+Roger. Copy.
+Okay, 16. Let's try to bring the High Gain up.
+And 16, I'm still sitting here with about six items, a couple of which require readings. Most of them just require a little talking. Anytime you can get to it - well, let's get started on it.
+Okay. Just as soon as we get Ken on comm.
+Roger.
+Hello, Houston.
+Go ahead, 16.
+Understand you have a few words.
+Roger. First of all, I guess we wanted to check with you on any changes to entry stowage, and particularly the LiOH canisters, to check that they are stowed according to the entry stowage list.
+LiOH canisters are stowed according to the entry stowage list, and the entry stowage is essentially complete except for the items that we need to work out tomorrow. And, of course, tying down the suit under the right-hand seat.
+Roger.
+Okay. There's a couple of things that we couldn't stow as per nominal. They are the fecal bag and the goodie bag. And we intend to tie those down in the LEB. The goodie bag is the IN Data File.
+Roger. Understand IN data file and the fecal bag are gonna be tied down in the LEB.
+That's affirmative. And we know we can tie those down enough to withstand any kind of re-entry. You might even help L-over-D. I don't - You know how much the IN Flight Data File weighs? Less the Contingency Checklist and the Timeline Book. And that's a total - mostly the total weight of that bag.
+Roger. Okay. We - we also need the battery compartment reading one more time before you go to bed tonight. And I guess if you want to, we could get that out of the way now.
+2.75.
+Understand, 2.75.
+That's affirmative.
+Okay. And, Charlie, we want you on the biomed tonight. And it looks like we're gonna have to reverse the top two sensor wires, because apparently - either you got them hooked up backwards, or we're getting the signal turned around somewhere in the transmission.
+Charlie, that's - we want to reverse ...
+Yeah, is the lon - The long one's the ground, isn't it?
+Negative. Stand by just a minute.
+Okay, Charlie. The long one goes to the sternum, and the branching one goes off to the right.
+Well, I got them on like I been wearing them all week.
+Roger.
+Okay. And the surgeons wanted you to know they appreciated your status - the good status report you gave them this morning. And they hope you can find time to give them a good one again tomorrow morning.
+Okay. We got one other item. We just want to make sure that we don't get any uncoupled attitude control after 277 hours [252:13] GET. That's to ensure that we get precise tracking for at least 10 hours prior to Mid-Course 7.
+Okay. I'm as interested in that as you are.
+Roger.
+Okay. And I guess we've got some news items here for you. And I think that'll wrap it up.
+Okay. Go ahead.
+Okay. I guess the biggest news was that President Nixon went on national television tonight to discuss the military situation in Vietnam. He said efforts toward Vietnamization of the war were proving effective. And he announced additional US troop withdrawals of 20,000 men by July the first. At the same time, the President characterized the current North Vietnamese advances into South Vietnam as an open invasion. And he said US air and naval forces will continue to attack military targets in North Vietnam to assure the safety of remaining US forces in South Vietnam and to prevent a military takeover of South Vietnam by the North. The President also said US negotiators would return to the Paris peace talks, as he put it, "To get on with the constructive business of obtaining peace." "The first order of business," he said, "will be to get the North Vietnamese to stop their invasion and to secure the release of Americans being held prisoner." And we got an item here on Apollo 16. The headline says, "Spaceship Speeds Up, Zeros in on Earth." Apollo 16 picked up speed today from the gravitational embrace of Earth as scientists awaited the delivery of samples that may rewrite the history of the Moon. Astronauts John Young, Charles Duke, and Thomas Mattingly II, were due to enter the atmosphere of Earth, Thursday afternoon, at 24,000 miles per hour. Apollo 16 is returning 240 pounds of Moon samples. But the flight's lunar legacy consists of more than just rocks. Mattingly spent an hour walking in space Tuesday to retrieve two holders containing the exposed film of powerful mapping and panoramic cameras. With only one mission remaining in the Apollo Program, the cameras' pictures, taken from lunar orbit, are expected to provide much knowledge about areas of the Moon that man will not visit for a long time. And a little - little bit on the Democratic campaign here. "Muskie dealt 1-2 blow by McGovern in Massachusetts and HHH in Pennsylvania. Senator George McGovern, triumphant in Massachusetts, and Senator Hubert H. Humphrey, the Pennsylvania victor, joined head-on political battle today after dealing a 1-2 blow to the Presidential campaign of Senator Edmund Muskie. Muskie finished a far-back second in Massachusetts, and managed only a virtual third-place tie with McGovern and Wallace in Pennsylvania where he concentrated his campaign. Alabama Governor George C. Wallace got 21 percent with 97 percent of the precincts tallied in Pennsylvania, after staging a 1-day campaign. Massachusetts gave Wallace 8 percent of the vote in partial returns, just ahead of Humphrey. Next Tuesday McGovern and Humphrey confront each other, Muskie, and Senator Henry M. Jackson of Washington in Ohio battle for 153 convention delegates." A couple of items on - on the re-entry area. The USS Ticonderoga, the primary recovery ship for Apollo 16, has arrived at the new splashdown site, 1,500 miles south of Honolulu. The forecast for Thursday splash was unlimited visibility with temperatures in the 80s. Seas are expected to be one to three feet with swells to five feet. And the weather here in Houston is low tonight in the low 60s, high Thursday in the low 80s, and the weather's been clear to partly cloudy today. And the Houston Astros did it again. They won their eighth consecutive baseball victory last night, a hard-fought 5 to 4 verdict over the Chicago Cubs. The win kept Houston in a tie with Los Angeles for first place in the National League West. And let's see, I guess we'll close ...
+...Go get 'em. It's a big "Atta boy" for the Astros.
+Roger.
+And we got one last item here, which is entitled "Slick Trick by an Eager Beaver" from Flint, Michigan. Dedication to duty is fine, say Flint city officials, but the man who turned several miles of city streets into an ice rink carried that concept too far. He had been told to use the city water truck to wash the streets Tuesday morning. He did. Dutifully ignoring the three degrees below freezing temperature. His trail was clearly marked by irate drivers trying to navigate their dented cars over the glassy surface. Officials said salt crews were dispatched, but the Sun came out and melted the problem before they did.
+Thanks a lot, Pete.
+You bet.
+Yeah. That's the way - that's the way the Rover drives. Like it's on ice.
+Roger.
+We appreciate that good news, Pete.
+Roger.
+Hey, Don.
+Go ahead.
+What would you folks think about my going to whatever attitude I'm going to do PTC in tonight and get it all damped and ready to set up?
+Stand by a minute.
+Okay.
+Okay, Ken. You can go ahead.
+Okay; and that's a Pitch of 43 and Yaw of 335. Is that affirm?
+That's affirmative.
+Okay, sir. And this PTC will be a normal PTC with no engines enable. Correct?
+I believe that's right, Ken. Stand by one.
+Houston, 16.
+Go ahead.
+Okay; it looks like we've got a H2 Tank 1 that's a little above the green line - about 270. Oh that's - Excuse me; that's the one with the sen - bad sensor. Excuse me.
+Roger.
+And, Ken, that is a normal PTC.
+Thank you, sir.
+Okay, Ken. And in connection with that, we want to verify that the Pitch is minus 40, Yaw is 90 on the High Gain.
+That's verified.
+And ...
+And, Pete, I was ready to sack out. Did y'all come to any conclusion about this biomed?
+Charlie, you can leave it just like it is.
+Thank you.
+And one other item we need, I guess, is a readout on Battery C and Pyro Batteries A and B voltage. This will be the last chance we'll get to look at them.
+Okay; stand by. Battery C is 36½. The Pyro Bats are both 36½.
+Roger; copy. Thank you.
+Okay. And, Ken, we need an E-MOD, and we're ready to call it a night.
+Okay. I guess - I guess I could do that while we're doing the maneuver.
+Don, I've got one more question for you.
+Okay; go ahead.
+When it comes time to change REFSMMATs, to go to the entry REFSMMAT tomorrow, I've been thinking about our - our funnies that we've seen with the CDUs, and when we were looking at that one this afternoon, it in - in some ways hinted that maybe we - maybe we didn't have all that D to A and A to D stuff working the way it ought to. Would there be any advantage of - Maybe someone could think about it tonight, maybe they already are - but is there any advantage to doing a pulse torque to change REFSMMATs tomorrow instead of by the usual procedure of using the coarse align.
+Okay. I understand what you're asking. Stand by just a minute. Okay. Ken, we'll work on that and get back to you first thing in the morning with it.
+Okay. I don't have any strong druthers. I just - I was thinking over the things we might be going through and kind of wondered if that might be prudent if I avoided that loop. But if everybody's happy with it, it's certainly a lot easier to coarse align.
+Okay. We'll take a good close look at it tonight and let you know in the morning first thing.
+Okay. Thank you.
+Roger.
+Don, we'll be off comm for about three or four minutes.
+Roger. Understand.
+Okay. Don, I'm back up.
+Okay, Ken.
+Do the rates look reasonable for PTC?
+Roger. The rates look real good. You can go ahead.
+Okay. We'll see what happens.
+Don, we're about ready to sign off. Is there anything else that you'd like to do tonight? Anything we have out of configuration that you're aware of?
+I don't think so, Ken, but stand by one minute. Okay. Ken, we're all squared away. Get a good sleep. We'll see you in the morning.
+Okay. Thank you very much. Good night.
+Night.

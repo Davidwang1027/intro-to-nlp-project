@@ -1,0 +1,547 @@
+Okay, Antares; Houston. We'd like you to back out of that (P)52. We need to look at a bit here.
+Roger. Do you have some pads ready for me this pass, Fred?
+Okay. They're coming up in a minute, Ed. You ready to copy a couple of steps here?
+Yes. Go ahead.
+Okay. We'd like a VERB 11 NOUN 10 ENTER, 30 ENTER. (Pause)
+You got it. (Long Pause)
+Do you read the DSKY, Houston? (Pause)
+Antares, Houston. What we're looking at there is the abort bit, and it looks set. And we'd like to proceed with the following to reset it.
+Okay. Give me the words.
+Okay. We need the STOP pushbutton, push. And the next thing is the ABORT pushbutton, depress. And wait on that one.
+Okay. Standing by on that one.
+Okay. I meant you can go ahead and press the ABORT button, Ed; but stand by for our word on the reset. (Pause)
+Okay. It's set.
+Okay. Stand by. (Long Pause)
+Antares, Houston. You can reset the ABORT pushbutton. (Pause)
+Okay. It's reset. (Pause)
+Okay. You can reset the STOP button...
+(Garbled under Haise) ...Fredo?
+You can reset the STOP button now, Ed, and press on with the P52.
+Okay.
+Okay. STOP button is reset.
+Okay. And, Antares, we're showing the abort bit set again, and we're working on a procedure to reset it. And, also, another procedure to lock it out after starting PDI.
+Okay. That'll be great, thank you. We're pressing on with the DPS (Descent Propulsion System) pressurization. (Long Pause)
+Okay. Antares, you can go ahead with the DPS pressurization.
+Okay.
+Antares, Houston. (Pause)
+Go ahead.
+Okay. I see you're back to P00 (program zero-zero, pronounced 'pooh') now. We'd like to do a VERB 11 NOUN 10 ENTER; 30 ENTER; and look at that bit again. (Pause)
+Okay. VERB 11 NOUN 10. (Long Pause)
+Houston, Kitty Hawk. Are you through with the computer?
+Roger, Kitty Hawk. (To Ed) And, while we got that display up, Ed, could you tap on the panel around the ABORT pushbutton and see if we can shake something loose? (Long Pause)
+Yeah, Houston, it just changed while I was tapping there.
+You sure tap nicely.
+I'm pretty good at that. (Pause)
+Okay. Antares, we'd like to kind of sit here a minute and watch it.
+Okay.
+Antares, Houston.
+Go ahead.
+Okay, why don't y'all proceed on, Ed, with the landing radar checkout?
+Okay.
+Okay. Antares, Houston. (Pause)
+Go ahead.
+Okay, Ed. That bit just showed up again. Wonder if you could try tapping the panel there by the ABORT switch again.
+Okay. (Long Pause)
+Anything yet, Fredo?
+Okay, Ed. You did good work again. (Pause)
+Okay. (Long Pause)
+Houston, Antares.
+Antares, Houston. Go ahead.
+Hello, Tom. Do you think we're going to come up with something on this problem with the ABORT button?
+Roger. We're working it right now and also MIT's working it. Needless to say, we're busy here, but we think we got a solution.
+Good enough. Something - is it something like a solder ball?
+Well, we don't know yet. We got about 19 minutes until loss-of-signal here, so we'll have something to you before then, and we'll have some time to pick it up on the other side.
+Thank you, Tom.
+Roger.
+Antares, Houston.
+Go ahead.
+Okay, Ed, you and Al ready to listen to some words on the abort bit business?
+Roger. We sure are. And did you get our torquing angles?
+That's affirm, Ed. (Pause) Okay, Ed. And before I start in here, would you try tapping the panel again? The abort bit came back. (Long Pause)
+Okay. You tapped it right again, Ed.
+Okay.
+Okay. I guess you've surmised already that we have some sort of a contamination in the ABORT switch. And the implications of that bit being set, I guess you also realize, means that in (program P)63 we're going to find ourselves in P70.
+Okay, so...
+(Garbled under Haise) Fred.
+Say again, Ed. How do you read me now, Ed?
+That's affirm. We read you. Go ahead.
+Okay. Did you hear my last about the implications of that bit being set?
+That's affirm. We understand.
+Okay. So, directly, I'll be giving you some...
+Affirmative.
+Roger, Al. I'll be giving you some changes to the time line here, whereby we'll be starting initiating PDI in PNGS, ATT HOLD, and MANUAL THROTTLE. The next consideration is if the bit sets during ullage, your procedure will be: STOP pushbutton to set and exit P63, or rather P70 in this case. And we'll have some further words on how you're to do that exit.
+Okay. We understand the strategy, I believe.
+Okay. Then we - we got some more. Assuming we - we get by ignition, like you to copy the following procedures.
+Stand by one, Fred. And, while he's getting something to write on, I understand that you're going to be looking at the - you want us to be looking at the bit during the ullage cycle?
+Negative, Al. You'll get the program switched to P70, which is your cue. We'll be - we'll be looking at it down here, too, to pass the word up.
+Okay. I misunderstood you. I understand. We just go to a regular (P)63. Okay.
+Okay. And I just got corrected, Al. The switch to P70 would occur at ignition, at ignition.
+Okay. I understand.
+Okay, Fred. Do I have enough room to write just in the space on my PDI chart?
+Stand by. (Long Pause) Okay. You mean the time line, Ed, or your pad?
+The time line. (Pause)
+Ah, Roger, Ed...
+(Garbled under Fred) room on the DPS burn card, Fred. Go ahead with it.
+Okay. The procedure is VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. (Long Pause)
+Okay. I'll read back. VERB 25 NOUN 07 ENTER; 05 ENTER. Is it 4000 ENTER? 0 ENTER.
+Okay, Ed, it's VERB 25 NOUN 7 ENTER. Then, 105 ENTER; 400, four zero zero, ENTER; 0 ENTER.
+Okay. VERB 25 NOUN 07 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. And when do I do this?
+Okay. You to do this as soon as you can after ignition. We're trying to get this in - to - before there's any chance of the bit getting set in this interval.
+Okay. We have to let P63 call up normally, get ignition in ATT HOLD, MANUAL THROTTLE, and then reset the bit, hopefully, before it gets - or rather, lock out the bit, hopefully, before it gets set. Is that right?
+That's affirm, Ed. And, if somehow you get hung up a little further downstream, you can go ahead and throttle up manually at 26. I'd like to explain the implications of this. What we've done, then, is locked out P70 and P71, so any aborts have to be done on the AGS. And, while you got the card handle [sic, means 'handy] you can - I'll give you something that will reenable P70, P71.
+Okay. We understand, and go ahead with your words.
+Okay. It's VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 1 ENTER. (Pause)
+Okay. Readback: VERB 25 NOUN 07 ENTER; 105 ENTER; 400 ENTER; 1 ENTER. That's all straightforward enough.
+Okay, Ed. Once we're by that initial disabling step, we got it made. We'll comment that if, in the process of your keying that in, the abort bit sets, we'll be in P70; and, if that happens, we need the same as before ignition; we'll need the stop button set and exit the program, and we'll try it on the second pass.
+Okay. Are you going to give me the words on exiting now?
+Okay. They're still - they're still working on that... (Pause) Right. And, Antares; Houston.
+Go ahead.
+Okay. Assuming we get through the disabling procedure, after that time you can go back to AUTO on the THROTTLE (CONTROL switch) and the MODE CONTROL switch.
+Understand, Fredo. Thank you.
+Okay. One other word. The same holds for any surface NO STAY. The abort there would have to be on AGS.
+Understand, Fred.
+Okay.
+Roger. We understand. Sounds like you all have been busy down there.
+Antares, Houston.
+Go ahead, Houston.
+Okay. Read you loud and clear. And we got some more procedures to pump up that are going to alter what you already copied, and Ed might ought to get something a little bigger than the DPS card to write this down.
+Okay, stand by. Let's get locked up on the main lobe first.
+Okay. (Long Pause)
+Now, in the meantime, do you still read me?
+Roger, Al.
+Okay, ASCENT BATTs went on at 108:01:45.
+Roger. 108:01:45. (Pause)
+And NOUN 93's as follows: plus 40, minus 52, minus 16.
+Okay. Copied plus 40, minus 52, and minus 16.
+That's right. GET (Ground Elapsed Time of NOUN 93 is) 107:08:30.
+107:08:30. (Pause)
+Okay, Antares; Houston. And, before we start here, the bit is set again; could you... (Intermittent static) You still there, Antares? (Long Pause)
+Okay, I believe we're locked up now, Houston.
+Okay, Antares; Houston. If you get locked up there, you might just stay in SLEW.
+Okay, we're locked up in AUTO TRACK, now.
+Okay. I don't know if you heard, the bit appeared to be set again, and we need you to rap on the panel again by the ABORT button. (Long Pause)
+Okay, Antares. The bit is reset. And... (intermittent static) are you still reading, Al? (Pause)
+That's affirmative.
+Okay, Al. The... the reason for the... some changes I'm going to feed you up on the procedure is, we found, in the interim of time around the backside there, a little slicker way of doing this. And what it does is allows us to start PDI in the right configuration, switchwise. And, we can make an entry before we get to ullage or ignition that will get us by that problem area.
+Sounds very good. Go ahead; we're ready. (Pause)
+Okay. And in the interim here, Antares, could you give us P00 (Program zero-zero, pronounced 'pooh') and DATA, so we can start getting the uplinks in?
+Okay. You have P00 and DATA.
+And, Fred, I am having to stay on the OMNIs. I'm popping the S-BAND ANTENNA circuit breaker.
+Eagle, Houston. It appeared to us when you're doing the P52, maneuvering the S-band, the High Gain went into the stop. Verify that both S-band breakers are in. Over.
+Rog. I think I'd got it to 90.0 before it went there. The one on this side is in, and I'll check the other later.
+Okay, Ed. The first (of the procedure changes) is after P63 selected and you're to NOUN 92, which, in the time line, is right aft(er)... correction NOUN 62 which is right after your ENTER at minus 4 minutes. (Pause)
+Go ahead. (Long Pause) Go ahead!
+Okay, Antares. I've got a lot of static in the background here. How do you read?
+Loud and clear. Keep going.
+Okay. After the ENTER and check (✓) DET (second line after '-4 PRO-FINAL TRIM'), Ed; we need a VERB 21 NOUN 1 ENTER; 10 10 ENTER; 107 ENTER. (Long Pause)
+Okay, Fred, I understand. After P63 and NOUN 9... (correcting himself) NOUN 62 (appears) at about 4 minutes (before PDI), we want to enter VERB 21 NOUN 1; 101 ENTER; 107 ENTER.
+Antares, Houston. Correction on your readback. It's VERB 21 NOUN 1 ENTER; 10 10 ENTER; 107 ENTER.
+Roger; got you. 10 10 ENTER; 107 ENTER.
+Okay, that's correct. From there on, you can follow the nominal procedures through ignition. After ignition...
+Okay.
+Okay. After ignition, at plus 26 seconds on page 6, we need MANUAL THROTTLE UP. And, so you don't misconstrue what I'm saying, we're... we have the THROTTLE (Control) switch in AUTO (Timeline page 5 about halfway down the lefthand column), but we're going to manually override it to FULL THROTTLE at 26 seconds.
+Okay. We understand that at ignition plus 26, we will MANUAL THROTTLE UP, overriding the AUTO.
+That's correct. Okay. After we... after we get by THROTTLE UP, it's VERB 25 NOUN 7 ENTER; 101 ENTER; 200 ENTER; 1 ENTER. And this will enable guidance and give you steering at that time. (Pause)
+Okay. Understand after THROTTLE up, we enter VERB 25 NOUN 7; 101 ENTER; 200 ENTER; 1 ENTER. And this enables guidance steering at that point.
+Roger. Okay the next entry. VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. (Pause)
+Okay. Understand VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. And this looks like our procedures you gave us earlier (at 106:34:17 Ed will do the entry at 108:03:23).
+That's right, Ed. This'll disable P70, P71 . Okay, the next entry: VERB 21 NOUN 1 ENTER; 10 10 ENTER; 77 ENTER. (Pause)
+Okay. VERB 21 NOUN 1 ENTER; 10 10 ENTER; 77 ENTER.
+Okay. This gets the P63 in the MODREG which gets us right for landing radar. Now, the same words apply if...
+Okay.
+...an abort requirement exists. We're going to be on the AGS. And one thing maybe I didn't make clear before, is the procedure for re-enabling P70, P71. You're not to perform (those procedures), unless you do abort on AGS.
+Roger. Roger. Understand that, in an abort situation, we will abort on AGS and use the re-enable procedure previously given up (at 106:36:03).
+Okay. And the only other thing I can say is, as you already know, be sure and get MANUAL THROTTLE UP at 26; and after the last entry, Ed, add one more thing; we need THROTTLE to MINIMUM setting. (Pause)
+Okay. Got that. The last entry we return the COMMANDER's THROTTLE to MINIMUM setting.
+That's affirm. (Pause) Antares, Houston. We'd like FORWARD OMNI.
+Hey, let me just recheck one... (Pause)
+Antares. You have FORWARD OMNI.
+Okay. I'm sorry I cut you out. Say again, Al.
+That's affirm. And also the MODE CONTROL switch PNGS's in AUTO.
+All right, sir. Fine.
+Fredo, we need a few words on what you want to do with this S-band. I don't think you can fight it all the way down. Can we go with the OMNI?
+Stand by, Ed. (Long Pause)
+And, Fredo, one more question. Does this procedure, now, safe us until such time as we get the abort disable to feed in, or do we still need to rush right along to get that in?
+Ed, this procedure is good as long as we can get by the first entry with the bit not set. That is, the entry right after you get NOUN 62 (displayed on the DSKY). If you get that in with the bit not set, we're in good shape.
+Okay. Is the bit not set now? (Pause)
+That's affirm. The bit is not set now.
+Okay. And I'm standing by for words about this (Omni) antenna. (Long Pause)
+Houston, are you through with the computer?
+Antares, Houston. The computer's yours.
+Okay. (Long Pause)
+Houston, our VOICE BACKUP is giving us a hell of a squeal. (Pause)
+Go ahead, Antares.
+I say our VOICE BACKUP position of the UPDATA LINK switch is giving us quite a squeal. You ready for us to go DOWN VOICE BACKUP now? (Pause)
+Okay. Stand by one, Ed. (Long Pause)
+Okay, Antares. They're configured. Now, you can try it one more time, Ed. (Pause)
+Okay. (garbled)
+Roger.
+Kitty Hawk, Kitty Hawk, Houston. How do you read? (Long Pause)
+Kitty Hawk, Houston. How do you read?
+(garbled)
+Okay, you're way down in the mud, Stu. We're getting an awful lot of noise. We're going to drop the downlink... we're going to drop your downlink; and, if you call, call two times, so we can get it cranked back in here.
+Okay. (Pause)
+And, Antares; Houston.
+Go ahead.
+Okay. And, since we dropped Kitty Hawk here, we're not going to be in that relay mode for this period; so, you probably won't get an answer from him, if you call him at 2 minutes (before PDI PRO for the comm check).
+Okay. (Pause)
+Okay.
+Okay. I've got the downlink.
+Okay. (Garbled) How do you read in VOX, Houston?
+Okay, Al. You're about 2 by 2.
+Okay. How do you read Ed?
+Okay, Ed. You're about 3 by 3 there. You're still getting a lot of background static there.
+Okay.
+Okay. Now, you're loud and clear.
+(To Ed, garbled under Haise) here's your VERB 83 coming up.
+Very good. (Pause)
+(To Al) Okay, that looks good. 317, looks good; 3883 (?), that looks good. Let's go to 277, that looks good. Great. All right, I can start loading the AGS pad, now. 231, plus 56963 ...6963 ENTER. 240 is the same...
+Right.
+...plus 56963.
+Okay, 254.
+Okay, 254, plus 05428.
+Right.
+05428.
+(2)61, plus 00037.
+00037, (2)61, 00037 ENTER. 6...
+(2)62 minus...
+(2)62 minus...
+...00147.
+...00...0147. (2)62, minus 00147.
+Right. 404.
+(4)04.
+Minus 12345.
+Minus 12345.
+Okay. That's entered. Let me run back through them very quickly.
+Okay.
+231 read-out 56963. That's good. 240 read-out 56963. That's good. 254 read-out - Check me on these - plus 5 - 05428.
+GO.
+(2)61 read-out, plus 00037.
+That looks good.
+262 read-out, minus 00147.
+Okay.
+And 404 is a large negative number. It's (minus) 12345.
+Okay.
+That's good. Okay. Let's press on...
+Beginning on minus 10 (minutes).
+Okay. We're a little ahead of time.
+Okay. I think, Houston, what we'll do just before we ENTER on the Final Trim (at minus four minutes) is to call you to see if the bit is set at that time. Do you concur?
+Okay. It... it doesn't matter, Al. You can go ahead and make the ENTER (next line after '-4 Pro-Final Trim') and make the first entry at that time, after you get NOUN 62 up.
+Okay. But we seem to be fairly successful that resetting by tapping; so, if it shows up prior to that time, then let us know.
+Okay. (Pause)
+Okay, let me read this. (Confirming with Shepard and Haise what he needs to do) At (minus) 4 minutes, that (first entry, namely,VERB 21 NOUN 1 ENTER; 10 10 ENTER; 107 ENTER ) goes in; (and at) ignition plus 26 (go to) MANUAL THROTTLE (UP as per 107:35:16).
+Rog.
+And (then) I'll put these other calls in just as quick as I can get them in.
+Yes. One right after the other. I'll tell you what 's going on.
+Okay.
+Antares, Houston.
+Go ahead.
+Go ahead.
+Okay. I see you're already past that point, and we need the throttle to... THROTTLE CONTROL to AUTO.
+Okay. We're... we'll get it when... We've got it on our checklist, Fred. We're not quite there yet.
+Okay, Ed. And one other thing the...
+(Let's) go ahead and change our DPS Burn (Card).
+...the value of 231 (seventh line up from the bottom of the lefthand column on page 5) has changed, Ed; so, we need you to reload 231 and 240 with the following number: plus 56978. That's an update to your RLS (Radius of Landing Site or Reference Landing Site).
+Roger. 56978, CLEAR 231; 56978, ENTER; (2)40, plus 56978, ENTER. Okay, Fred. They are in.
+Roger, Ed. (Pause)
+(Taking care of the sixth and seventh lines of the DPS Burn Card) Okay, AUTO/COMMANDER. AUTO again. (Pause)
+Okay, we're done with that (DPS Burn Card) down to the point where we check out ABORT and ABORT STAGE, RESET. DEAD BAND, MIN, MODE CONTROL 3 (ATT CONT switches).
+(Referring to the first line on the DPS Burn Card) Okay. Did you get your circuit breaker to GIMBAL AC.
+Yes. They... they're all set.
+All right. Let me check mine then. ...
+I already checked yours.
+Okay.
+Okay. (Pause) (Taking care of the last four lines before 'For PDI GO TO TIMELINE BOOK') PGNS in... PGNS AUTO and AGS AUTO. STOP pushbuttons are RESET. (Garbled, but referring to the final line: CDR TTCA - THROT) is in MIN. (Pause)
+Okay, how far down are we on the DPS configuration card now, down to...
+There.
+...down to there. Okay.
+We're through with that card.
+Okay.
+Back on this one? (Timeline Book page 5)
+Roger. We have 10 minutes (until ignition).
+Standing by for the landing radar (circuit breaker to be closed, as per first line below POWERED DESCENT INITIATION). (Long Pause)
+I'm a little (20 seconds) early here.
+Ah, Fred, if you're going to give me any words on the antenna operation, I'd appreciate them very soon. (Pause)
+Okay, Antares. The OMNI is GO.
+Okay. We're going on OMNI. (To Al) (We are at minus) 10 minutes; give me circuit breaker LANDING RADAR, CLOSE ('CB LR - Close'). Check the ALTITUDE TRANSMITTER ('✓ALT XMTR).
+Okay. It's closed. And the VELOCITY TRANSMITTER is reading 4.0, and the ALTITUDE TRANSMITTER is reading 4.0.
+Okay. Let's call P63. (Third line under 'Powered Descent Initiation')
+Let's do. (Long Pause)
+Bum-bum, Bum-bum, Bum. (Pause)
+(Comparing the time to ignition on the DSKY with the Digital Event Timer) It looks like it (the DET)'s about 1 second off.
+(garbled) (Pause)
+Right on. Okay, timer's set. It's right on.
+Okay.
+Okay. And we're looking for NOUN 63; go ahead.
+Hold on. (Pause)
+(As per 'Okay, your DPS burn card is all complete. (Long Pause)
+Antares, Houston.
+Go ahead, Fredo.
+Okay, somewhere down a little past 10 minutes (after ignition), Ed, we're going to need to switch to AFT OMNI. We'll try to give you a call on it.
+Okay, if I hear it, I'll switch... If I hear it start to break up, I'll switch it, unless you'd... rather I wait for the call (from Fred).
+Okay, you can go ahead and initiate it on your own, Ed. I think that'll work out better.
+Okay.
+Okay, the FDAI (Flight Director Attitude Indicator). PRO?
+Okay, we're way high, John; we got to get down. Way high on the H-dot.
+Okay.
+(Apparently reading the current LM pitch on the FDAI) 111 and about...
+(garbled) (Pause)
+(garbled)
+FDAI looks good. We'll zero the CDU (Coupling Data Unit)s.
+Okay.
+Your (CDU) zeros in?
+Roger. Standing by. (Pause)
+Your zeros complete.
+Okay.
+400 to plus 30,000.
+It's entered.
+410 to plus all zeros. (Pause)
+410 to plus all zeros is entered.
+400 to plus 10,000.
+Plus 10,000 is entered.
+(garbled)
+It went in. We have needles.
+Get a read-out at 433, at your pleasure.
+Okay. 433 inertial velocity. (Pause)
+Okay, we're sitting on FINAL TRIM, waiting (for minus) 4 minutes. (Pause)
+Got a VERB 21 NOUN 01, 10 10 and a 107 is your first call (meaning the first abort-bit change which Ed will enter via the DSKY at 107:58:10).
+Okay. (I) have it there, and I've got it there. Good enough. (Long Pause)
+Okay, we're starting now with 96 on A and (garbled, possibly '94') on B. (Cough, Pause) Still good. (Pause) Steady as a rock. (Pause)
+Okay, Al, your RCS system looks good.
+Ascent Helium (tank pressures) 1 and 2 look good. B tank's still good. And the (garbled) is good.
+EPS (Electrical Power) system is good. EPS, all indications are normal.
+Okay.
+We're ready.
+(garbled) Okay, a minute and 50 seconds away from Final Trim.
+Okay.
+(Garbled).
+All right. (Long Pause)
+Okay. We'll go into FINAL TRIM 30 seconds early. It'll allow you to get that... (VERB 21 NOUN 1 ENTER; 10 10 ENTER; 107 ENTER entered to put P70/71 in the Mode Register).
+Okay.
+(Garbled) (Pause)
+Let me do the FINAL TRIM, and then you can take it over.
+Yeah. Good.
+Rather have me put it in?
+No, I've got it. I just wanted to adjust this locking harness and still reach (the DSKY). (Pause)
+Okay.
+Pro. (Pause)
+(garbled)
+(garbled) there.
+Do it? Says we're there, and we are.
+(Garbled) Okay, you're ready?
+I'm ready. ENTER.
+Okay, ENTER. (Pause)
+(garbled) display comes up. (Pause)
+Okay, there it (Noun 62) is.
+NOUN 62 is VERB 21, NOUN 01 ENTER, 10 10, ENTER; 107, ENTER.
+Okay, Houston. It's in. (Pause)
+Roger, Antares.
+And Antares is standing by for a PDI Go. (Long Pause)
+And, Antares; Houston. You're Go for Fra Mauro.
+Good show, Fredo. Thank you.
+Thank you. You troops do a nice job down
+That was beautiful. (Pause)
+Okay, if your watch is reset, we'll flip the
+Let's go.
+Okay. (Pause)
+(Garbled).
+Okay. All procedures are normal from here on in
+That's correct. I'll start reentering the DPS
+Okay.
+Won't have guidance until after I give it to
+Yes, sir. (Pause)
+At 10 feet per second, we (garbled).
+You're breaking up to me. Would you run your
+Okay. VOX sensitivity is full up.
+Okay. (Long Pause)
+All righty; it's a beautiful day to land at Fra Mauro. (Long Pause) Okay, we'll bring Master Arm on 30 seconds (early) in case simulations hit us again.
+Okay.
+Houston, the Master Arm is On, and the A and B Lights are On.
+Roger, Antares. (Long Pause)
+Looks quiet; looks good. (Pause)
+Mark; 1 minute (before ignition).
+Okay. Landing radar temperature's coming up. (Pause) Okay. (Pause)
+Put that to Off?
+(I) see it. (Changing the switch position) There you go.
+(Garbled under Al) it got bumped.
+Okay....
+(Garbled)
+...(the) DSKY's on time.
+Engine Arm to Descent.
+Average g is On. The Descent Engine is armed.
+Roger, Antares.
+There's Altitude and Velocity light(s). R3 looks quiet. (Pause) Okay. We're waiting for Ullage, Auto Ullage. (Pause)
+Okay, R(egister)3 looks good.
+Ullage.
+Auto Ullage.
+Pro(ceed).
+3, 2, 1, 0...
+Ignition.
+And we have Auto Ignition.
+Ignition looks good.
+Roger, Antares.
+We have an Auto Ignition.
+Okay. Engine Arm, Override...(correcting himself) Engine Command, Override.
+Okay. And the Master Arm is Off.
+All right. Standing by for 26 (seconds into the burn).
+Okay. (Pause) We'll take the Throttle up at 26. (Pause)
+Throttle up.
+Okay. We're at full throttle, Houston.
+Command is Down. Verb (garbled) 5...
+Roger, Antares.
+...Noun 7, Enter 101.
+1.7.
+001, Enter. Should have guidance. And you have Command and Throttle.
+Okay. We have guidance.
+All right. I'm Disabling (aborts). Verb 25 Noun 7 Enter, 105 Enter,...
+You're Go at one (minute) Antares.
+400, Enter; 0, Enter. Okay. Landing radar enable: Verb 21 Noun 1 Enter, 1010 Enter, 77, Enter. The landing radar is there. Al, you can reduce your Throttle to Minimum.
+Okay. It's coming down.
+You have Command and Thrust (garbled) (Pause) Okay, Houston. The procedure is complete.
+Roger, Ed.
+And we're standing by for Noun 69. As appropriate. (Pause)
+And, Antares, Noun 69...
+(Garbled under Haise) back to normal now, huh?
+(Garbled under Haise).
+...is plus (+) 02800.
+Plus...What is it?
+02 - no, (only) one zero - plus 02800.
+Okay, Houston, how does that look? (Pause)
+Okay; go for Enter.
+Okay, it's in.
+Okay. Give me a two-minute-30-second hack, Al.
+Okay; my mark.
+2:30. Okay, we're a little fast. (The
+Okay, it's almost back on the track.
+Yep. (Pause) I'll give it a 3-minute mark, again.
+(Garbled).
+And, Antares; you're Go at 3.
+Go at 3. Okay, V-sub-i (total velocity) is good.
+Okay; understand. Go at 3.
+H-dot is low; H is a little low; PGNS and AGS (have) a foot per second difference.
+Okay. (Pause) A little higher than AGS at the moment. (Pause) Okay, you want to get those ED Batts out of the way.
+Yeah. I was going to wait just another 10 seconds here.
+I'll look at the throttle convergence.
+Take a look at ED Batts.
+Okay, throttle's converging; looks nice.
+Houston, my ED Batts are Go, all in the
+Roger, Ed. (Pause)
+Isn't it a smooth ride?
+Yeah, it's great.
+Antares, you're Go at 4 (minutes).
+Guidance is good. (Responds to Haise) Rog.
+Four (minutes). V-sub-i is good. H-dot still
+Come on radar, (garbled) lock on. (Pause)
+Antares, Houston. You're Go at 5.
+(Garbled) the radar in.
+(To Haise) Roger. (Long Pause)
+5:30 (into the burn). (Pause) We're on
+Okay, 6 plus 40...
+(Garbled).
+...is throttle down, Antares.
+Roger.
+Roger, Houston. We still have Altitude (and)
+Roger. (Pause)
+I'll bet they know that.
+What?
+I bet they know that. Stand by for six
+Six. V-sub-i is good; H-dot is low; H
+Antares, Houston. We'd like
+Cycle the Radar Landing breaker.
+Okay. Been cycled. (Pause)
+(To the radar) Come on in! (Pause) Okay!
+Velocity light (is out). Verb 57 Enter. How's
+Can we Accept?
+Okay. We'd like to Accept the radar.
+Okay. Pro(ceed). Converging. Pro.
+Great. Whew; that was close.
+Okay, and monitor...
+(Garbled).
+...Descent Fuel 2.
+Okay, the throttle-down was on time, essentially.
+Roger, Al.
+(Garbled). (Pause)
+And, Antares; Houston. Your PGNS H-dot is the good
+Okay, thank you. (Pause) Give you PGNS.
+(Garbled) leave that up?
+(Static) 14,000.
+Antares, Houston. You're Go at 8.
+Roger. (Pause) Okay; AGS (garbled). (Static; garbled) looks good, Al. I'm starting the camera. (Pause) (Garbled)
+10 seconds to go. (Pause) (Sixty) four. (Pause)
+Okay, there's pitchover.
+64 and we have pitchover, Houston.
+There's PRO...
+Roger, Al.
+There's Cone Crater.
+And there it is.
+Right on the money!
+That's it. Right on the money.
+What's the
+LPD, 41.
+Okay. Fat. Fat as a goose.
+41.
+Beautiful!
+Right out the window, just like it should to be.
+Outstanding!
+Great.
+Okay, Antares; Houston. You're go for landing.
+Okay. Here we go.
+(To Haise) Thank you, sir.
+3000 (feet altitude).
+(Garbled, possibly "Ground's next")
+Okay, you're out at 3000, Al; 75 feet a second
+Okay, that
+Houston, I'm on AFT (omni-directional antenna).
+Roger, Ed.
+Okay, 2000; 48 feet (per second descent
+One click left.
+...coming down a little fast.
+One click left.
+2000; 60 feet a second, a little bit fast, but
+Okay. (Pause) Outstanding!
+Okay. 1500 (feet altitude). A little fast; not
+Okay.
+Coming through a 1000 feet; 27 feet (per
+Going by
+Okay, the best spot is a little south of track,
+Okay.
+About 60 meters (south of track); that's where
+It looks good from here. (Pause) Looks good
+Okay.
+16 feet per second (descent rate), 500 feet
+Let's take it over and move up a little.
+Okay. I think so; you're through 340 feet.
+Att(itude) Hold. (Pause)
+Okay. Okay; I'd give it a few clicks. You're
+Go level.
+...per second. That looks good.
+Go level here.
+Nine percent fuel, looks great. (Pause) Okay,
+You're 170 feet, Al; 2 feet per second down; 8
+Okay, babe.
+170 feet and holding (altitude). About 1 foot
+Okay, I'm going to move forward a little.
+Okay. (Pause)
+Seven percent fuel. Okay, you're still at 170
+Starting down.
+Okay, you can move on forward. You're just
+Okay. (Pause)
+Low level.
+All right.
+If you could land over here; there's some dust, Al; 110 feet. Three feet per second down. You're looking great.
+(Garbled).
+Six percent; there's good dust. You're on your own. (Garbled).
+Starting down, starting down.
+Okay. It says 90 feet, 4 feet per second; 5 feet per second, down.
+Okay.
+Going down; looking great.
+60 seconds (of fuel remaining).
+We're in good shape.
+Okay. 50 feet down, 50 feet.
+We're in good shape, troops.
+3 feet per second (down), 40 feet (altitude); 3 feet per second, 30; 3 feet per second, looking great, 20 feet; 10, 3 feet
+Contact, Al.
+(Garbled), Stop. Great, Pro, Auto, Auto.
+We're on the surface.
+Okay, we made a good landing.
+Roger, Antares.

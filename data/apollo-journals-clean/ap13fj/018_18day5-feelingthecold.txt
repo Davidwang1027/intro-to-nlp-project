@@ -1,0 +1,253 @@
+That's affirm. [Pause.]
+And, Jim, we have a lengthy procedure here for powering up the CSM and turning on instrumentation so we can check the TM, and this will take a large piece of scratch paper whenever you're ready to copy.
+This is to power up the CSM?
+That's affirm.
+Okay. I'll tell you what, I'll have Jack get configured. He can copy that down and I'll have him ... we'll get the stuff. Stand by.
+Okay.
+Okay, Vance, how do you read the Aquarius?
+Okay, read you loud and clear, Aquarius. Is it cool in there now?
+Okay. Yes, it's pretty cool. This is the third officer on this LM crew here. Ready to copy.
+Okay. Jack, this is a lengthy procedure, take probably two or three pages. It assumes that you are in your nominal configuration, which was sent up ... or in your day-flying configuration, which was sent up to you earlier today.
+Okay. I can verify that we are in that configuration with the exception of panel 382, the water accumulator, which I've left off in case we wanted to get some more drinking water out of the Command Module, and I'll put those in the proper configuration before we do anything.
+Okay. Ready to copy?
+Okay. Go ahead.
+Okay. Panel 4: Telcomm, Group 1, to AC1. Panel 5: close the following circuit breakers: ECS, Press Group 1, Main B; ECS, Press Group 2, Main B; ECS, Temp, Main B; ECS, Secondary Loop Transducer, Main B; ECS Rad, Control/Heaters, Main B; Bat Relay Bus, Bat B; Bat Charger, Bat B, Charge ... or to B, Charge; Inverter Control, 2; Inverter Control, 1; EPS Sensor Signal, AC1; EPS Sensor Signal, Main B; EPS Sensor Unit, AC Bus 1; Waste/Potable Water, Main B; Instruments, ESS, Main B; that's Essential, Main B. Are you with me? [Long pause.]
+Okay, Vance. Are you with me?
+Roger. Why don't you read that group back, and then we'll proceed on.
+Okay, sounds good. Because I don't know where I ... how far I lost you. Okay, panel 4; Telcomm, Group 1, to AC1. On panel 5, close the following circuit breakers: ECS, Pressure Group 1, Main B; ECS, Pressure Group 2, Main B; ECS, Temp, Main B; ECS, Secondary Loop Transducer, Main B; ECS Rad, Control/Heaters, Main B; Bat Relay Bus, Bat B; Bat Charger, Bat B; Inverter Control, 2; Inverter Control, 1; EPS Sensor Signal, AC1; EPS Sensor Signal, Main B; EPS Sensor Unit, AC1; Waste/Potable H2O, Main B; Instrumentation, Essential, Main B.
+Okay; That's all correct. Is that reading rate okay for you?
+Yes, that's fine.
+Okay, and leave a little space if you can to the right of these because when we talk about the backup procedure, why then we can just use the same listing, and I'll ... I'll tell you open instead of close these circuit breakers, or at least most of them. Over.
+Okay.
+Okay. Next, panel 3: Transponder, Primary; Power Ampl, to Primary, that's a verify; Power Ampl, High; Mode, Voice, to Off; Power, SCE, to Normal; PMP to Normal; S-Band Antenna, Omni D, that's Delta. Okay, why don't you read that one back? [Pause.]
+Okay. On panel 3: Transponder to Primary; Power Amplifier to Primary; Power Ampl, High; Mode, Voice, to Off; Power, SCE, to Normal; PMP to Normal; S-Band Antenna, Omni D, D as in Doggy.
+Hey, very good. Okay, panel 225: circuit breaker Flight Bus, Main B, to close; circuit breaker CTE, Main B, to close. Panel 250: CB Bat C Bat Charger/EDS 2 to close.
+Hey, Vance, just a minute. Slow down, would you?
+Okay.
+Okay. I got distracted here. On panel 225: CB Flight Bus, Main B, close; and then I lost you after that.
+Okay. After that, CB CTE, Main B, to close. Next, panel 250: CB Bat C Bat Charge/EDS2 to close; CB Bat C Power Entry/Postlanding to close. Next, panel 275: CB Main B, Bat Bus B, to close; CB Inverter Power 2, Main B, to close. Okay. Incidentally, anything that I've given you up until now is not sequence critical, but from now on, it should be ... you should be sure to do it in the sequence we give you. Why don't you read that back, Jack? [Pause.]
+Okay. Let me give you all of panel 225 again. CB Flight Bus, Main B, close; CB CTE, Main B, close. On panel 250: CB Bat ... B Bat Charge, that should be Bat C, Charlie, isn't it? Bat Charge/EDS2 closed?
+That's right. That's ...
+CB Bat B Power Entry ...
+Okay. That should be Bat Charlie.
+Let me finish. Okay. That's what I thought. Bat Charlie Bat Charge/EDS2, close; Bat Baker Power Entry/Postlanding, closed. On panel 275: CB Main B, Bat Bus B, closed; CB Inverter Power 2, Main B, closed.
+Okay. That's correct except for the second circuit breaker on panel 250, which is CB Bat Charlie Power Entry slash Postlanding, close.
+Okay. Bat Charlie Power Entry/Postlanding.
+Okay, now back to panel 250. CB Bat Bravo Power Entry/Postlanding, close. Next, MDC 3, AC Inverter 2 to Main B. AC Inverter 2, AC Bus 1, on up. Next, panel 5: AC Inverter AC Bus 1 to Reset and then center. Panel 3: Up Tlm to Command Reset then Off. Then select best Omni. Readback, please. [Long pause.]
+Okay, Vance. The following steps are sequence critical. Panel 250: CB Bat B Power Entry/Postlanding, closed. That's Bat Baker. MDC 3, AC Inverter 2, to Main B; AC Inverter 2, AC1, on [Garbled]. [Pause.]
+How do you read now, Jack?
+Okay, Vance. Did you ... how far did you ... did you copy any of my steps there?
+Okay, I heard you through AC Inverter 2, AC Bus 1 to on, and you were cut out by noise. Go ahead.
+Okay, Now comes to one I didn't understand. You said go over to MDC 5 and A in ... AC Inverter, AC Bus 1, Reset, then center, and then back to MDC 3; Up Telemetry, Command Reset then Off, and then select best Omni.
+Roger. The readback's correct, but let me recheck that. Stand by. [Long pause.]
+Jack, we were incorrect on panel 5; that should have been panel 3.
+Okay, that's good. I got it.
+Okay. Now, when you're in this configuration, the following onboard readouts are required. Panel 3: Bat C voltage, Pyro Bat A voltage, Pyro Bat B voltage, SPS Helium Pressure. And the following readouts on panel 101: CM RCS injector temperatures, those are positions 5 Charlie, 5 Delta, 6 Alpha, 6 Bravo, 6 Charlie, 6 Delta; and the battery manifold pressure, which is 4 Alpha. And standing by for readback. [Long pause.]
+Okay. You want me to read out on MDC 3: Bat B voltage, Pyro A voltage, Pyro B voltage, SPS Helium Pressure. On panel 101: Command Module RCS injector temperatures; 5 Charlie, 5 Dog, 6 Alpha, 6 Baker, 6 Charlie, 6 Dog. The battery manifold pressure, 4 Alpha.
+Okay. Now ... that was correct but I want to recheck the very first one, that was Bat Charlie voltage. Is that what you read back?
+Okay. Okay, Bat Charlie voltage. Seems like we're having a difference ... I can't understand Bat Charlie from Bat Dog.
+Okay. Now, that ... that complete procedure for getting into it, as far as getting into it's concerned. What I will give you now is how to back out of it after you're through with your readings. Are you ready to copy?
+Okay.
+Okay. Now you'll back out fairly quickly after you go into this procedure. All we'll need is about 5 minutes of TM, and so if you're ready to copy, here it comes.
+Go ahead.
+Panel 3: Power Ampl to Off. Incidentally, copy this down on a piece of scratch paper as I read it, and then later I'll refer back to your first list where you can write things in the righthand margin.
+Okay.
+Okay ...
+Go ahead. You want ... Repeat the one on panel 3 again, Vance.
+Okay. Power Ampl, Off. [Pause.]
+Okay. Go ahead.
+Transponder, Off. AC Inverter, 2, to Off. Okay. Next, panel 250: CB Bat Bravo, Power Entry/ Postlanding to open. Stand by 1. [Long pase]
+Okay, Jack. What I just gave you now on the backout is the only thing that's order critical. From here on, you can go to the steps for initiating the procedure, and backtrack. In other words, you should go to each of the panels that I read up and put the circuit breakers back to the base-line configuration ... or the switches. Over.
+Okay, now here's ... to accent, here's the sequence-critical steps: Power AMFL, Off; Transponder Off; AC Inverter, 2, Off; and the last one on panel 250, CB Bat Baker Power Entry/Postlanding, open; and then hit the steps in reverse order that you gave them to me, and back out, like then I would start on MDC 3 Up Telemetry, Off ... to Off; and then AC Inverter ... AC1 Bus 1 to Off; and then AC Inverter, 2, Off; AC Inverter, 2, Main B to Off. Is that the type of order that you want to back out of?
+That's affirm, but ... just for kicks, let's go through these panels again, and I'll give you the ... the position, just to make sure there can be no doubt. [Pause.]
+Okay. Go ahead.
+Okay. And once again in the ... in the area where I said order was not critical, it's still not critical when you back out. But now I'll go ahead. Okay, panel 4: Telcomm, Group 1, AC1, it will not be AC1, it'll go to Off. Panel 5: all circuit breakers on that panel which were positioned will now come to opened. Over.
+Okay. Panel 4: Telcomm, Group 1 will go Off. Panel 5: all the circuit breakers that we closed will go back to open.
+Okay. Panel 3: the first three lines have been taken care of already in my beginning in the backout procedure, so starting with Mode, Voice, that should go back to Voice. Power, SCE, Off; PMP, Off; S-Band Antenna, Omni Bravo. Panel 225: CB Flight Bus, Main B, open; CB CTE, Main B, open. Read back. [Long pause.]
+Okay, Vance. I'm going to have to switch Omnis. I'm starting to get some static here.
+Okay. [Pause.]
+Okay. How do you read on Aft Omni?
+Loud and clear.
+Okay. On panel 3: the first three steps we took care of; Mode, Voice, to Voice; Power, SCE, Off; Power PMP to Off; and S-Band Omni would go back to Bravo. Panel 225: Flight Bus, Main B, will go open; and CB CTE, Main B, will go open.
+That's affirm. The two circuit breakers on panel 250 will go open; the two circuit breakers, panel 275, will go open. Okay, the circuit breakers on panel 250, we took care of already. Panel 3: AC Inverter, 2, we took care of. AC Inverter 2, AC Bus 1 should now go Off. And the remaining two switches on panel 3 we took care of. And "Select best Omni" remains the same. Okay. Read back. [Pause.]
+Okay. The two switches ... two circuit breakers on panel 250 will go back to open; the two circuit breakers on panel 275 back to open; the Power Entry/Postlanding circuit breaker, we already took care of earlier; AC Inverter 2; we took care of earlier; AC Inverter 2 to AC Bus 1 will go to Off; and AC Inverter, AC Bus 1, we took care of ... No, that'll go to Off; and Up Telemetry, Command Reset will go Off.
+That's correct, Jack. Okay, that's it. And I think we're about ready to go with this procedure whenever you are. [Long pause.]
+Okay. First we got to go through that procedure to power the CSM from the LM, is that Charlie?
+No. No, this is independent of power from the LM. This is a ... this is purely a CSM ...
+Oh, okay.
+This is purely a CSM powerup so we can take a look at your telemetry and see how cold the vehicle is and that sort of thing.
+Okay. It's going in work. [Pause.]
+Okay, now I won't ... I won't have any voice with you, so ... Is that right? You don't want me to get connected up ... you want me to just take these readings and come back and tell you what I have, huh?
+That's affirm. There'll be no voice. And ...
+Okay. Okay. In work.
+I ... we presume, though, that there'll be somebody in the LM that we can call if we have to get word to you.
+Oh, yes. There'll be somebody to be standing by, they'll run up into the bedroom and tell me to stop what I'm doing.
+Okay, and let us know when you start.
+Okay. I'm going to start right now, Vance.
+Okay. [Long pause.]
+Aquarius, Houston. [Long pause.]
+Aquarius, Houston. Over.
+Okay, Houston; Aquarius. Switching watches, and Jack's going up into the Command Module.
+Okay, Jim. We have four steps here to give you to request that you get back on Down Voice Backup, if you're ready to copy? [Long pause.]
+Ready to copy.
+Okay. Bit rate to Lo bit rate. Voice, Function switch to Down Voice Backup. Power Amps CB, open; Range Function switch in Ranging; that's verify. [Pause.]
+Okay. Bit rate, Lo; Voice Function, Down Voice Backup; Power Amp S-Band, open; and Range Function to Range; and that's a verify. And I still have the Biomed on Right here, so we don't have hot mike.
+Okay. Thank you.
+And, you want that in work, now?
+That's affirm,
+Okay. [Long pause.]
+Okay. Houston, Aquarius. How do you read?
+Loud and clear, Jim.
+Okay. I have a question for you, Houston, if you have time,
+Sure, go ahead.
+And I'm copying down the reestablishing ... PTC maneuver that Charlie gave me. Step 5 was, "When rates are less than 0.05 degrees per second, Attitude Control Yaw to Pulse." And just how am I to get my rates down to 0.05 degrees per second. My ... My rate indicator, at the best, is 0.1 of a degree.
+Stand by.
+Aquarius, Houston.
+Go ahead.
+Jim, this has been tried in the simulator by Charlie and others, and what they recommend is that you null your rates on the error needles until you see no movement whatsoever, and then wait another couple of minutes, and that should do it. That's the only way we can tell. Over.
+Okay. I'll give it the old college try.
+Okay. And if you can't attain that, why, of course, just the best you can do. We'll have to give it a try. Maybe it won't be quite like the simulator.
+Right.
+Okay, Houston; Aquarius.
+Go ahead, Aquarius.
+Okay, Vance. I've gone all the way through your procedure ... all the way down to "Select best Omnis," but I'm not getting any Main Bus B voltage and this I don't understand.
+Roger.
+I can read ... I can read Bat ... Bat Bus B voltage at 36.5 [Garble]. [Long pause.]
+Okay, Jack. Do you read now?
+I am not sure, Vance.
+Okay. You faded out due to noise in the orientation. If you close the Power Amp circuit breaker, we can hear you better. Over. [Pause.]
+That's panel 16.
+Okay.
+Okay. You faded out at the very beginning, so please go through that again. We understand you don't get anything on Main B. [Long pause.]
+Okay, Vance. How are you reading now?
+Okay. We're hearing you better. Stand by 1.
+Okay, Jack. Please, repeat back now your conversation. You were cut out for ... a while ago.
+I don't have any idea where we cut out, Vance. I just said that we performed the procedure exactly as you say. We're down into the SEP critical portion to where I said, "select best Omni." However, we're not getting any Main Bus B voltage reading. I can read Bat Bus B, Baker, at 36.5; Bat Charlie at 37.0, but I have negative Main Bus B readings.
+Okay. Stand by. [Long pause.]
+Okay, Jack. There are two ... There's a switch and a circuit breaker that were positioned this morning that we'd like to have you check ... Correction, just the switch. Panel 5, check your bus tie. Main Bus Tie Bat B/C on.
+That is verified on. I checked that.
+Okay.
+Okay, Jack; this is Houston. Over. [Pause.]
+Go ahead, Vance.
+Okay. We're getting data from you, Jack, so that much looks good. On panel 5, request verification that EPS Sensor Signal circuit breaker is Main B. Over.
+Okay.
+Or it's ...
+... Stand by. ...
+... that Main B is closed.
+Okay. [Long pause.]
+Okay, Jack. And, we see your Main Bus B voltage at 28½.
+Okay. You can see it. Good. Okay then. Okay, Vance. That circuit breaker is in.
+Copy. [Long pause.]
+Well, Vance, if you're getting data from them, let me go back up there and finish the [Garble]. [Pause.]
+Okay, Jack. Please repeat, you're cutting out.
+Okay, Vance. Okay. We just changed Omnis here. I say, if you're getting data from us, that's the important thing. Let me go back up into the bedroom there and get the readings you wanted, so we can get this stuff powered down. Is that okay?
+Okay, we'll get ...
+... by all means and ...
+... down there ...
+... select best Omni ...
+... and then go back up. [Pause.]
+Okay, Vance. We'll go back up ... We've got voltage now, and we'll go back up and take the readings that you want.
+Okay. And select best Omni. [Pause.]
+Okay. I'm going back up into the bedroom, Vance. How do you read?
+Loud and clear.
+Okay. I'm going back up to the bedroom. We'll select best Omni and continue on with the procedure.
+Roger. [Long pause.]
+Okay, Vance. Jim's up. How do you read?
+Reading you loud and clear, Jim.
+Okay. [Long pause.]
+And, Houston, I noticed through the AOT and through the overhead docking window that we are venting again.
+Okay, Jim. Understand; the service module is venting.
+That's affirm.
+Aquarius, Houston.
+Go ahead, Houston.
+Jim, would you holler into the bedroom and tell Jack that when he has his onboard readouts that we wish he'd back ... use the backout procedure and shut down again ... per the procedure we gave him.
+Roger. As soon as he ... As soon as he gets his onboard readouts to use the powerdown procedure and shut down. Is that right? [Pause.]
+That's affirm.
+Okay. Jack just ... Jack just told me that he's through, and he's going to go through the backout procedures again, the first one he's got is the shutdown.
+Okay.
+Houston, Aquarius.
+Go ahead, Aquarius.
+Jack's ready to give you the readings if you are ready to copy them.
+Stand by. [Pause.]
+Okay. Go ahead. [Pause.]
+Okay, Vance. The readings that you wanted; are you ready?
+Ready to copy, Jack.
+Bat Charlie, 37.0; pyro A, 37.0; pyro B, 37.0; SPS helium pressure, 3450; and just for kicks, nitrogen A, 2300; nitrogen B, 2400; CM RCS injector temperatures: 5 Charlie, 4.5; 5 Dog, 3.5; 6 Alpha, 4.0; 6 Baker, 4.6; 6 Charlie, 4.0; 6 Dog, 3.8; battery manifold pressure, 4 Alpha, 1.4. [Pause.]
+Okay, Jack. We got it. Thank you very much.
+Okay. How does the telemetry look on our ... on the old Odyssey?
+It doesn't look too cold. Looks pretty good.
+Okay. Thank you very much.
+You bet.
+We're going to need him.
+How does it feel, Jack?
+I'll tell you, Deke, it's cold up in there. I don't know whether we'll be able to sleep up there tonight; it must be about 35 or 40 degrees.
+Roger. That's just what I was worrying about.
+Right now, we're getting two sets of CWGs on. [Pause.]
+It's not uncomfortable at all in Aquarius, but it definitely is cold in Odyssey.
+Roger. [Long pause.]
+Okay, Vance. Jim's back on.
+Go ahead, Jim.
+We just had a change in watch; that's all.
+Okay.
+Aquarius, Houston, Over.
+Go ahead, Houston.
+Jim, two items: in the Command Module, we wish to verify that the Pyro Battery selector was left in the main position. And we're ready to have the Power Amp circuit breaker on panel 16 pulled, whenever you are ready. [Long pause.]
+Okay, Vance. Fred just tells me that he put it there, and we're checking that again about the Pyro Battery selector in the main position.
+Okay. Understand that you are checking it.
+And I will pull the Power Amp circuit breaker.
+Roger.
+Houston, Aquarius.
+Go ahead, Jim.
+How does number 2 battery look to you now? [Pause.]
+Stand by. [Long pause.]
+Aquarius, Houston.
+Go ahead.
+Jim, it looks like it was probably a sensor problem; the battery number 2 is load-sharing well. And we see no indications of higher temperatures in the glycol loop or anything that would make us think that it is heating up.
+Okay. Thank you.
+Roger.
+Houston, Aquarius.
+Roger. Go ahead.
+I just want to talk over a little philosophy here. Fred told me that at one time you came up and told him that we were a little steep on the entry angle, and now our burn is going to make us ... give us a steeper angle. I just want to make sure that we're all talking about the same thing, that, in essence, at this particular situation, we're shallow, are not steep, and we are going to increase the angle. [Pause.]
+Jim, the situation is that, at the moment, we're a little bit shallow, and retrograde midcourse is going to put us more in the center of the corridor. Over. [Pause.]
+Okay; Fine. I just, wanted to make sure. Fred had written down, some time ago, that ... that our angle now was about 71 and we were going to do a midcourse of 7 feet per second because it appears that we're going to shallow it out. I think we're all talking the same language now.
+Roger. And, I guess it follows, but your perigee is a little bit high right now, too; so that will be bringing it back ... back down, that is.
+Yes. Yes, that's the important thing. [Long pause.]
+One other question, Jim. Our readings down here say your LM cabin's about as cold as the Command Module cabin. Is that right?
+Well, we really don't know. There's usually two people in the LM cabin, and it's a lot ... It seems to be a lot more compact, and so we don't notice the coldness down here as we do in the Command Module.
+Okay.
+Houston, Aquarius.
+Go ahead.
+Some time ago, I copied down a long Comm midcourse-7 corridor control burn at a GET of 134:59:42.98. Is that burn PAD still valid? [Long pause.]
+Jim, that's affirm. That PAD is still valid.
+And that is assuming no midcourse 7 here at 105 hours.
+That's affirm. [Long pause.]
+Aquarius, Houston.
+Go ahead.
+Jim, we're setting up your burn for 105:30, and we'll be working up a PAD, et cetera, based on that time. Over.
+Roger. The time will 105:30.
+And, additional point; I guess this one's for Jack. Do we have any idea why we couldn't read the Main Bus B voltage a while back when first he didn't get it and then later he did?
+Yes. I think we have a reason for that. Stand by. [Long pause.]
+It appears, Vance, that the battery charge circuit breaker which appeared to be in, wasn't in. Fred pulled it and reset it, and then he started getting readings.
+Roger. Which circuit breaker was that? [Pause.]
+It was ... It was the battery charge circuit breaker that allows you to read volts, but we haven't ... don't know the exact name for it yet.
+Okay. Understand. [Pause.]
+The name is Battery Charger Bat B Charge. Jack tells me.
+Okay. Battery Charger Bat B Charge. [Long pause.]
+Aquarius, Houston.
+Go ahead.
+Have you opened your ... just curiosity ... Have you opened your food locker just aft of the LM data file? Over. [Long pause.]
+Yes. It's been opened.
+Okay. Just checking. Thanks.
+[Garbled] meal had come through.
+Good. [Long pause.]
+It came at the right time.
+Good.
+Aquarius, Houston. Over.
+Go ahead.
+Jim, we have some CSM temperatures here for you that might be of interest, if you're ready to copy. [Pause.]
+Roger. Go ahead.
+Okay. Your quad package temperatures range from 85 degrees to 44 degrees. Your CM RCS injectors range from 44 degrees to 21; and your heat shield is well above its lower limits in all the various locations. Temperatures appear to be cycling based on Sun angle, and it's no sweat. They all look very good.
+Sounds good.
+Were you calling, Houston?
+Negative, Jim.
+Okay.
