@@ -1,0 +1,1113 @@
+Apollo 16 Flight Journal - Day 1, Part 3: Second Earth Orbit and Translunar Injection
+Day 1, Part 2: First Earth Orbit
+Journal Home Page
+Day 1, Part 4: Transposition, Docking and Ejection
+Apollo 16
+Day 1, Part 3: Second Earth Orbit and Translunar Injection
+Corrected Transcript and Commentary Copyright © 2006-2025 by W. David Woods and Tim Brandt. All rights reserved.
+Last updated 2025-02-22
+The Apollo 16 spacecraft, together with the S-IVB third-stage of the Saturn V launch vehicle, has almost completed its first orbit around the Earth. After a long transit across the Pacific, during which they were out of communication with Mission Control, John Young, Charlie Duke and Ken Mattingly are about to start the preparation for Trans Lunar Insertion - the firing of the S-IVB booster to send Apollo 16 out of Earth orbit and towards the Moon. To help readers find the more significant parts, the following is a short index of the main events.
+Index to events
+TLI Plus 90 PAD
+001:33:59
+P37 PAD
+001:38:09
+TLI PAD
+001:38:40
+Loss of Signal with USNS Vanguard
+001:47:16
+Contact through Canary Islands
+001:50:06
+Loss of Signal From Canary Islands
+001:54:23
+African Fires Sighted
+001:59:32
+Acquisition of Signal with ARIA
+002:22:36
+Translunar Insertion burn starts
+002:33:35
+Translunar Insertion burn ends
+002:39:20
+End of chapter
+002:44:53
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+We have acquisition with Texas.
+001:31:21 Young: Houston, [Apollo] 16. Over.
+Break in CM tape until 001:48:38.
+001:31:23 Fullerton: Roger, 16. Loud and clear. Go ahead.
+001:31:25 Young: Okay. You're 5 by. The coastline is under us. It's beautiful, and we're standing by for some words. The spacecraft has been holding attitude just perfect in pitch.
+001:31:39 Fullerton: Okay, John. We'll take a look at the APS module here.
+001:31:43 Young: Okay.
+001:31:44 Young: [Faintly.] Gordy, why the late acquisition?
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 1 hour, 33 minutes Ground Elapsed Time. An observation of our displays with on the S-IVB indicates that the - that the mod probably has not relieved at this time. We've probably lost one transducer. There is some reason to believe, and we will observe this further, that the relief valve - valve is very possibly feathering. We'll stand by and continuing to - continue to monitor. This is Apollo Control, Houston.
+The PAO means that the pressure has not released as planned. However, he is suggesting that the valve is releasing some pressure, if not as much as it is intended to.
+001:33:48 Duke: Houston, 16. Over.
+Apollo Control Houston. At one hour, 34 minutes.
+001:33:50 Fullerton: Go ahead, 16.
+001:33:52 Duke: Okay, how are you coming on the PADs, Gordy?
+001:33:59 Fullerton: Okay, I'm ready with the TLI plus 90 and the P37 for lift-off plus eight. We're putting together a story and looking at the APS module. No immediate action is necessary, so let's get the PADs out of the way.
+Throughout the mission, large lists of numbers, called PADs, will be read up to the crew which give them the information necessary to carry out a particular manoeuvre. PAD stands for Pre-Advisory Data. Some of these "block data" are for planned manoeuvres such as the TLI (Translunar Injection) or LOI (Lunar Orbit Insertion) burns. Other PADs, such as the "TLI plus 90" and "Lift-off plus 8" mentioned here are the first of 27 abort options which will be read up to the crew at scheduled times throughout the early and middle portions of the mission. Note that the TLI+90 PAD has nothing to do with TLI itself but would occur 90 minutes after a successful TLI burn in the event of an abort. However, mission planners have decided that at no time beyond Earth orbit will the crew be without a get-you-home PAD. If at any time the crew subsequently lose communication with Earth, they will have the information to hand to get themselves back manually.
+To simplify the voice transmission of these huge lists of numbers and reduce the likelihood of errors, each type of PAD was precisely formatted both in Mission Control's and the crew's paperwork - all the crew needed to do was fill in the blanks.
+The abort PADs are the responsibility of RETRO, one of the flight controllers in the front row of the MOCR (Mission Operations Control Room). According to Chuck Deiterich, who was one of those who occupied the RETRO console throughout Apollo, "There is quite a bit of protocol in the PAD process. Empty PADs were in tablets of no carbon required (NCR) paper. We would make about six copies and use a red ballpoint on the top (original) so the CapCom would be sure what was part of the printed form and what was data." (2003 correspondence).
+001:34:08 Duke: Okay, fine. Go ahead.
+001:34:13 Fullerton: Okay, TLI plus 90, SPS/G&N; the weight is 66973; minus 0.54, plus 1.89; time of ignition is 004:03:18.55; minus 0356.2, plus four balls 1, plus 3600.7; 181, 234, 002; HA is NA; HP, plus 0018.9; 3618.3, 5:04, 3602.0; sextant star is 26, 073.4. Stand by 1. [Pause.] We got a handover coming up; I'll get the rest in a minute.
+As Fullerton reads the PAD, a complete P30 type, Charlie Duke copies the values to the appropriate form in the checklist.
+TLI Plus 90 PAD.
+Interpretation of this particular PAD is as follows:
+Purpose: In the event of a serious problem soon after a good Translunar Injection, this PAD has the details of a burn which would return them quickly to the Earth. It has an ignition time of 90 minutes after TLI. In the event of such an emergency, the SPS (Service Propulsion System) engine would be used to slow the spacecraft to below Earth escape velocity, resulting in a high altitude ballistic arc that would take them directly to splashdown without any further orbits. Full procedures for the TLI plus 90 abort are given on Page L4-13 of the CSM Launch Checklist
+System: The burn would be under the control of the Guidance and Navigation System. Burns can also be controlled by the SCS (Stabilization Control System).
+CSM weight (Noun 47): Calculated to be 66,973 pounds (30,378 kilograms). Note that here, and in all the NASA documentation of the time, the term "weight" is freely used in the context where, strictly speaking, "mass" ought to be used. Weight is defined as the force applied by a mass in a gravity field. In free fall, mass remains the same while weight becomes essentially zero.
+Pitch and yaw trim (Noun 48): -0.54° and +1.89°. The SPS engine bell is gimbal mounted to allow its thrust vector to be aligned with the spacecraft's centre of mass. Two thumb wheels on the left of the Main Display Console allow adjustment of these pitch and yaw trim angles. Once a burn begins, the bell's aim is slowly altered automatically to compensate for shifts in the centre of mass.
+Time of ignition, TIG (Noun 33): 4 hours, 3 minutes and 18.55 seconds Ground Elapsed Time.
+Change in velocity (Noun 81), fps (m/s): X, -356.2 (-108.6); Y, +0.1 (+0.03); Z, +3,600.1 (+1,097.3). This is the change in velocity as defined along three orthogonal axes with respect to the local vertical.
+The three velocity components in a PAD are always expressed with respect to the local vertical. Imagine a coordinate system based on a line from the spacecraft to the centre of Earth or the Moon. (Which you use depends on the sphere of influence you are in, i.e. which gravitational field is stronger.) This line is the Z-axis and is vertical at the point where it intersects the surface. The X-axis is perpendicular to this in whatever direction the spacecraft's orbit is taking it. It is therefore parallel to the local horizontal. The Y-axis is perpendicular to the orbital plane. This arrangement holds even for a very extended elliptical orbit like the one Apollo 15 will take to the Moon, where the spacecraft is clearly not travelling parallel to the local horizontal. For this burn, we can see that the largest component of velocity change is in the plus-Z direction which is towards Earth, countering the spacecraft's velocity away from the planet.
+Spacecraft attitude at TIG: Roll, 181°; Pitch, 232°; Yaw, 2°. Although the velocity change is expressed with respect to the local vertical, spacecraft attitude is expressed with respect to the current alignment of the guidance platform. That alignment is currently set to the launch pad REFSMMAT.
+HA (Noun 44): This is the height of the resulting orbit's apogee. Since the computer cannot display an altitude higher than 9999.9 nautical miles, and the maximum height of the CSM during a TLI+90 abort will be much higher than that, HA is not applicable.
+HP (Noun 44): 18.9 nautical miles (35.0 km). This is the height of the resulting orbit's perigee. Targeting a perigee so low will cause the spacecraft to intercept Earth's atmosphere and cause it to re-enter.
+Delta-VT: 3,618.3 fps (1,103.8 m/s). This is the total velocity change that would be experienced by the spacecraft. It is a vector sum of the three components given earlier.
+Burn duration or burn time: 5 minutes, 04 seconds.
+Delta-VC: 3,604.0 fps. This figure would be entered into the EMS (Entry Monitor System) Delta-V display.
+Delta-VC requires a little more depth of explanation. SPS engine burns are normally controlled by the G&N system. If it is a long burn, that is, greater than six seconds, the control is closed loop. The system monitors the achieved Delta-V and shuts down the engine at the appropriate time to reach the required Delta-V. In doing so, it takes account of the engine's tail-off impulse, which is the amount of thrust that the engine continues to impart after the shutdown command. It knows the thrust that is expected from this tail-off and can calculate the resulting tail-off Delta-V based on this and the spacecraft mass.
+If the G&N system were to fail during a burn, the EMS provides a backup means of shutting down the engine at the right time. This equipment carries a separate accelerometer which measures Delta-V along the longitudinal axis of the spacecraft. Prior to the burn, the crew enter the expected Delta-V into a display on the EMS. As the burn progresses, the figure showing the remaining Delta-V drops towards zero, at which time the EMS sends a shutdown command to the SPS in case the G&N system has not already done so. However, the EMS has no knowledge of the tail-off thrust. The flight controllers take this into account and give the crew a low Delta-V figure for entering into the EMS so that if it is called upon to shut down the engine, it will do so early enough for the tail-off thrust to effect the correct total Delta-V.
+As CapCom Gordon Fullerton was reading up the PAD, the communication route was transferred to a ship in the Atlantic, USNS Vanguard. The changeover has caused Charlie to miss some of the information.
+001:36:12 Fullerton: Charlie, this is Houston. How do you read now?
+The communications link has transferred to the Vanguard...
+001:36:15 Duke: Okay, 5/5 Gordy. Go ahead.
+Carrying on with the PAD.
+001:36:18 Fullerton: Okay, shaft was 073.4, trunnion, 15.1; boresight star 037, up 25.7, right 2.9; minus 21.31, minus 165.00; 1093.2, 34867; and 0.05g time is 023:08:28. Sirius and Rigel; 317, 108, 005. No ullage. Go ahead.
+Continuing with the explanation of the PAD:
+Sextant star: Star number 26 (Spica, Alpha Virginis) should be visible through the sextant when its shaft and trunnion are set to the values 73.4° and 15.1° respectively.
+Boresight star: Star number 37 (Nunki, Sigma Sagittarii) which should be visible through the COAS when its angles are set to the values 25.7° up, and 2.9° right.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. However, in this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05g.
+Expected splashdown point (Noun 61): 21.31° south, 165.00° west; in the mid-Pacific.
+Range to go at the 0.05 g event: 1,093.2 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05g event: 34,867 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+GET of 0.05g event: Expected at 23 hours, 08 minutes and 28 seconds GET. This is when it is expected that the EMS and P64 will be triggered.
+GDC Align stars: Stars Sirius (in Canis Major) and Rigel (in Orion) are to be used to align the gyro assemblies if it is not possible to use the guidance platform for this purpose.
+GDC Align angles: Roll, 317°; Pitch, 108°; Yaw, 005°.
+GDC Align is another term that needs a little more explanation. The spacecraft has two independent systems for determining attitude and changes in attitude. The primary system is the IMU and its stable platform, held orientated to the stars by gyroscopes. A secondary system, usually tied to the SCS, comprises a set of gyros that are attached to the spacecraft structure. In other words, being mounted directly to the body of the spacecraft, their mounts are not stable. Unlike the IMU, which measures absolute attitude, these gyro assemblies only measure the rate of attitude change. However, absolute attitude can be derived from these measurements by integrating the change, a job carried out by the GDCs (Gyro Display Couplers). This technique is imprecise so at regular times, the crew presses the GDC Align button to make the GDCs knowledge of attitude match the IMU's. The question then arises; what happens if the IMU is not working? The crew then have a backup method of aligning the GDCs by sighting two stars through the scanning telescope in a particular way. They know what the spacecraft's attitude should be when this is achieved and can dial this into the GDCs, properly aligning them.
+The final note in the PAD concerns the ullage burn. Since the SPS propellant tanks are full, there is no need to perform a small RCS burn, known as the ullage burn, to settle their contents. To confirm the figures, Charlie Duke reads back the PAD.
+001:37:17 Duke: Okay, TLI plus 90, SPS/G&N; 66973; minus 0.54, plus 1.89; 004:03:18.55; minus 0356.2, plus four balls 1, plus 3600.7; 181, 234, 002; HA is NA; plus 0018.9; 3618.3, 5:04, 3602.0; 26, 073.4; 15.1; 037, 025.7 correction - that's up 25.7, right 2.9; minus 21.31, minus 165.00; 1093.2, 34867; 023:08:28. Sirius and Rigel; 317, 108, 005. No ullage.
+001:38:09 Fullerton: Okay, readback correct. Ready for Lift-Off plus 8.
+001:38:13 Duke: Speak.
+001:38:14 Fullerton: 008:00; Delta-VT is 7948, minus 165, 022:06. Go ahead.
+The Lift-off+8 PAD carries data for P37, a program in the computer that will calculate the details of a burn that will return the crew to Earth. An important condition for P37 is that the spacecraft must still be in Earth's sphere of influence, thus simplifying the calculations. The program takes the four values from the PAD; the specified time for ignition of the engine, a specified maximum change in velocity (or Delta-V), the longitude of the splashdown and the GET for the start of re-entry. These act as a set of constraints with which it calculates the desired trajectory and the details of the burn to achieve it.
+001:38:30 Duke: Rog. P37 for lift-off plus 8: 008:00, 7948, minus 165, 022:06, and ready for TLI.
+PAD for TLI Burn.
+And now the PAD for the TLI Burn itself.
+001:38:40 Fullerton: Okay, readback correct, and TLI PAD: Time Base 6 predict, 2:23:57; attitude 179, 113, 000; burn time is 5:43, 10373.0, 35589; Sep attitude is 359, 146, 319; extraction 301, 326, 041; R2 align 112.7, 107.2, 57:20, and yaw is 001. Go ahead.
+The data read up by Fullerton is structurally different to other PADs as the manoeuvre is controlled by the IU on the launch vehicle, and not the computer in the CM. A form for filling in the numbers is available on L2-21.
+The timings for events relating to the launch vehicle are defined relative to a number of time bases, each of which start with a particular event. This allows controllers to move complete sequences of events relative to the overall mission time. The restart sequence for the S-IVB's single J-2 engine is tied to Time Base 6 (TB-6). When TB-6 begins, all subsequent events to restart the engine such as tank repressurisation, engine chilldown, ullage, etc., follow on, leading to the engine start command 9 minutes, 30 seconds later, and ignition 8 seconds after that.
+The crew also have tasks to perform in the minutes leading up to the TLI burn and they use their event timer to help them. Around 002:23:57, the 'S-II Sep' lamp is illuminated for ten seconds, this being the start of TB-6. At 9 minutes to ignition, John will start the event timer counting up, having previously set it to 51:00. This will give a visual count-up to and beyond ignition to aid the crew in sequencing their final tasks before and during TLI. Items in the checklist are therefore shown with times from 51:00, through (1:)00:00 and upwards.
+The PAD is interpreted as follows:
+TB-6 predict light: 002:23:57. This is predicted start of time base 6. It implies that TIG (time of ignition) will be 9:38 later, at 002:33:35.
+Attitude for TLI: 179°, 113°, 000° in roll, pitch and yaw respectively. This attitude is stated with respect to the orientation that the guidance platform has held since launch.
+Duration of burn: 5 minutes, 43 seconds.
+Delta-VC': 10,373.0 fps. This figure will be entered into the EMS to allow the crew to monitor the remaining velocity that is still to be added. This should be at zero when the burn comes to an end.
+VI: 35,589 fps (10,847.5 m/s). Inertial velocity at engine cut-off.
+Separation attitude: The correct attitude for separation of the CSM from the launch vehicle is 359°, 146°, 319° in roll, pitch and yaw respectively, again with respect to the orientation of the guidance platform. Among the criteria for adopting this attitude is solar illumination of the LM to assist the docking procedure.
+Extraction attitude: The correct attitude for extraction of the LM from the S-IVB is 301°, 326°, 41° in roll, pitch and yaw respectively.
+R2 align: 112.7.
+R2 ignition: 107.2.
+ORDEAL Start: Relative to the count-up on the event timer, the ORDEAL should be started at 57.20. The ORDEAL (Orbital Rate Display - Earth And Lunar) drives the FDAI (Flight Director Attitude Indicator, or "8-ball") to make it display the spacecraft's attitude relative to the ground below.
+Yaw: 001
+During Apollo 16's TLI, the crew are going to use the ORDEAL to drive the FDAI at a rate which matches the pitch rate of the S-IVB during its powered flight. This way, the crew can monitor the progress of the TLI as far as the vehicle's attitude is concerned, and they can take over manual attitude control if required during the burn. They must start the ORDEAL working at a precise time if the FDAI is to show zero attitude errors, otherwise the spacecraft's further motion around the Earth will cause it to be offset one way or the other.
+001:39:44 Duke: Rog. Give me Delta-VC again.
+001:39:46 Fullerton: Delta-VC is 10373.0.
+001:39:53 Duke: Okay, copy. TLI, 2:23:57...
+001:39:57 Fullerton: Stand by one, Charlie.
+001:39:58 Duke: Okay.
+001:39:59 Fullerton: Handover. [Pause.]
+This is Apollo Control Houston at 1 hour, 40 minutes Ground Elapsed Time
+001:40:07 Fullerton: Okay. Go ahead, Charlie.
+001:40:10 Duke: Okay, 2:23:57; 179, 113, 000; 5:43; 10373.0, 35589, 359, 146, 319; 301, 326, 041; 112.7, 107.2, 57:20, 001. Over.
+001:40:35 Fullerton: Readback is good. [Pause.]
+This is Apollo Control, Houston at 1 hour, 41 minutes Ground Elapsed Time.
+001:40:43 Duke: Okay, Gordy - that Stateside pass, the part I saw was just super. He - the other guys saw Ellington as we went over.
+Ellington Air Force Base (now Ellington Field) is located approximately 24 km (15 miles) south of downtown Houston, near the major highway heading from the City to NASA and Galveston Island. It is where NASA bases its small fleet of aircraft in support of the Manned Spacecraft Centre.
+001:40:50 Fullerton: How about that? Say, Charlie. Got an update to the ORDEAL monitor numbers on page L2-28 and 29.
+001:41:00 Duke: Stand by. [Pause.]
+001:41:07 Duke: Okay, you speak.
+001:41:08 Fullerton: Okay, we got a - last-minute change. Stand by on that. Sorry. [Long pause.]
+001:41:45 Fullerton: We'd like Command Module UpTel, Accept, for a new vector.
+DSKY display area and Up Link switches on the right.
+At this point, the Command Module's computer, the CMC, must be set to receive the updated state vector. This involves setting the Up Telemetry (Tlm) switch to the right of the DSKY to Accept. The CMC must also be in an idle status (running P00, essentially a 'do-nothing' program). P00 is commonly pronounced 'pooh' by all the Apollo crews as in the character from A. A. Milne's book Winnie the Pooh. As recounted in Murray & Cox's book, Apollo: The Race to the Moon, this program name even entered the daily lingo of the flight controllers. To 'go to poo' meant to go to sleep. While the CMC is receiving data link information by up-telemetry, the top left DSKY status light will illuminate.
+001:41:51 Young: Okay, you got it.
+001:41:53 Fullerton: Okay, and words on the APS module. It appears to be operating, not completely normally, but adequately - that we predict that it'll be good through TLI and TD&E with no change in procedure. Over.
+001:42:08 Young: Outstanding prediction.
+Mission Control has some final updates to the procedures for TLI, starting on Page L2-28 of the Checklist.
+001:42:12 Fullerton: Okay, and back to what we started earlier, on L2-2-28, Charlie. Opposite 56 minutes, "Slew FDAI number 1 to Pitch equal 17," change 17 to 16. Over.
+001:42:28 Duke: Okay, go ahead. It was changed to 16.
+And on Page L2-29.
+001:42:32 Fullerton: And next page, after the ORDEAL start time, change that to 57:20 rather than 57 even.
+001:42:42 Duke: Okay, ORDEAL start, 57:20.
+001:42:46 Fullerton: That's affirmative. And then, "Ensure FDAI number 1 Pitch equal to 11" rather than 13, inside the box there.
+001:42:58 Duke: Okay, at 57 minutes, I've changed that to 57:20 to start the ORDEAL and the - ensure FDAI number 1 pitch is at 11.
+001:43:08 Fullerton: Okay, and then the blank under there, "Maneuver to R2 ignition," attitude is 107 as printed in parentheses.
+001:43:20 Duke: Okay, we copy.
+001:43:23 Fullerton: That's good. [Pause.] And the CMC is yours. The up-link is complete.
+001:43:33 Young: Okay, and we're back in Block. [Long pause.]
+With the state vector updated, the CMC Up Tlm switch is set to block further data from the ground
+This is Apollo Control Houston, at one hour, 44 minutes Ground Elapsed Time. You heard that prediction on the APS. You heard the crew's response, the prediction being that we could go through TLI, and transposition and docking with no change in procedures. The individual responding with the 'outstanding' was spacecraft commander John Young. We also received a TLI PAD, and let me sort those numbers out for you rather quickly. Our time of ignition for a Translunar Injection burn is 2 hours, 33 minutes, 34.6 seconds Ground Elapsed Time with a burn duration of 5 minutes, 43 seconds. We predict a velocity at cut-off of 35,589 feet per second. [10,847 m/s].
+001:44:28 Mattingly: Okay, Gordy. We're standing by with the SECS Arm.
+See explanation of the SECS Pyros at 002:13:46
+001:44:33 Fullerton: Roger. Stand by. Go ahead, we're watching. [Pause.]
+001:44:46 Young: Okay, Houston, stand by for the Logic.
+001:44:50 Fullerton: Roger.
+001:44:51 Mattingly: Okay, Logic 1's going on, up; Logic 2, on, up.
+001:44:54 Mattingly: Mark. [Long pause.]
+001:45:08 Fullerton: Okay, you're Go for Pyro Arm.
+001:45:12 Young: Roger. Thank you, sir.
+001:45:16 Fullerton: And I'd like to update a procedure. The APS-module fail procedure - one step in that, just in case the prediction is wrong and it does fail to - If you can get that page out, I'll give you a short update.
+001:45:32 Young: Okay, Charlie's got it.
+001:45:34 Fullerton: Okay, Charlie. Center of the procedure, it says "DSE command burn mode on," cross that line out. And the one below it says "If successful, Launch Vehicle Guidance, IU." And, after the line that says "Control pitch and yaw with THC, roll with RHC," add "Keep rates below two-tenths degree per second, pitch and yaw; six-tenths degree per second in roll to avoid fighting the other APS module." Over.
+001:46:16 Young: Rog. We understand.
+001:46:19 Fullerton: Okay, that's it. [Long pause.]
+This is Apollo Control, Houston; 1 hour, 47 minutes Ground Elapsed Time in Mission Control. Flight Director Gene Kranz is polling his flight control team as to our status for the Translunar Injection burn.
+001:47:16 Fullerton: [Apollo]16, Houston. We're about a minute and a half to LOS. No further updates. Everything looks good. Canaries should have their antenna fixed, and we should be good as we go through their site. Over.
+001:47:31 Young: 16, Roger.
+Comm break.
+Break in Tech transcript until reacquisition by Canary at 001:50:06. Onboard tape restarts one minute after Loss Of Signal.
+001:48:38 Young (onboard): Put it to the side and [garble] right there. [Garble] like - [garble].
+001:48:44 Duke (onboard): Could you - you switch to G&C and do a Verb 46 and drive around a little while?
+001:48:48 Mattingly (onboard): We've already got a Verb 46. That's standard [garble]. I was just curious if you had tried...
+001:48:55 Duke (onboard): No. No. I really [garble].
+001:48:57 Mattingly: Okay. I'm not advocating that you do.
+001:49:00 Young (onboard): Okay.
+001:49:03 Mattingly (onboard): I would rather see that we do the most nominal things that the world has ever seen.
+001:49:07 Young (onboard): You better believe it.
+001:49:09 Mattingly (onboard): But if we do something off of that, I just thought it would be nice to record it. What we found out. That's all ...
+001:49:18 Duke (onboard): Yeah.
+001:49:19 Mattingly (onboard): [Garble] have to [garble] it.
+001:49:20 Duke (onboard): I could sure use a drink of water, but I sure don't want to...
+001:49:22 Mattingly (onboard): Want me to get it for you?
+001:49:23 Duke (onboard): Yeah. But I don't want to...
+001:49:24 Mattingly (onboard): Okay?
+001:49:25 Duke (onboard): No, I'll get it.
+001:49:26 Mattingly (onboard): Hey, look, you don't have to.
+001:49:27 Duke (onboard): Okay.
+001:49:30 Young (onboard): Yeah, let's all take a drink of water.
+001:49:32 Mattingly (onboard): Here. I'll put the binos up.
+001:49:34 Young (onboard): Okay. We'll have to stick this in that bag, wherever it is.
+001:49:38 Mattingly (onboard): Oh, I put it up - up here through TLI. Okay. How' s that?
+001:49:44 Young (onboard): We need it right after TLI [garble]...
+001:49:45 Mattingly (onboard): Yeah, it won't be far away.
+001:49:47 Duke (onboard): How about just on the velcro over here?
+001:49:49 Mattingly (onboard): I'd like to tighten this down.
+001:49:50 Young (onboard): For launch, it should be up somewheres,Charlie, because I think [garble] burns five minutes of engine, you get up to darn near two-thirds of a g.
+Towards the end of the TLI burn, the S-IVB's thrust will actually produce an acceleration of nearly 1.4g, so all the items in the CM have to be properly secured.
+001:49:58 Duke (onboard): Well, I was gonna put it on the shelf - girth shelf, on the Velcro.
+001:50:00 Mattingly (onboard): Well, but it might - if you got an attitude excursion.
+If the attitude of the spacecraft changes, there could be a small amount of lateral acceleration. Placing heavy objects on the spacecraft's shelf under the side windows would not be a good location.
+001:50:03 Duke (onboard): Okay.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control, Houston; 1 hour, 49 minutes Ground Elapsed Time. We've had Loss Of Signal with Vanguard. We're standing by now for acquisition with the Canary Islands station. This should take place in less than one minute. At 1 hour, 50 minutes Ground Elapsed Time; this is Apollo Control, Houston.
+001:50:06 Fullerton: [Apollo] 16, Houston through Canary.
+001:50:08 Young: Loud and clear, Gordon.
+001:50:13 Fullerton: Okay, a little - a little down in the mud, but I think I can understand you.
+001:50:20 Young: Okay.
+001:50:23 Duke: Hey, Gordy, we heard you there before we got the signal strength. That must have been on the...
+001:50:26 Young (onboard): VHF.
+001:50:27 Duke: ...VHF, huh?
+001:50:31 Fullerton: You are clear but weak. [Pause.]
+001:50:39 Duke (onboard): Okay, we got - we got [garble].
+The technical transcript and the CM tape transcripts do not agree for the period 001:50:39 to 001:50:52. The technical transcript gives continued conversation between Charlie Duke and Gordon Fullerton, lasting up until 001:54:23, about 30 seconds before LOS. The CM transcript details a conversation between all three crew members, but this does not fit in with the other conversation. It appears that the CM transcript timings may be in error. The following details both conversations in turn.
+001:50:42 Duke: Okay, how do you read now, Gordy?
+001:50:45 Fullerton: Loud and clear, Charlie.
+001:50:48 Duke: Okay, our signal strength's up to max now.
+001:50:51 Fullerton: Roger.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+001:52:56 Fullerton: 16, Houston.
+001:52:59 Duke: Go ahead. Over.
+001:53:00 Fullerton: We'd like the H2 Tank 3 Fans to Auto. Over.
+001:53:06 Duke: Roger; H2 Tank 3 Fans going to Auto.
+Comm break.
+The suspect CM tape follows. The two tapes agree again from 001:54:21.
+001:50:42 Mattingly (onboard): Oh, look at that horizon. Isn't that pretty? You got one out your side, too, Charlie?
+001:50:45 Duke (onboard): Yeah.
+001:50:46 Mattingly (onboard): [Garble]?
+001:50:47 Young (onboard): Isn't that fantastic?
+001:50:49 Mattingly (onboard): [Laughter.] [Garble]. Oh!
+001:50:50 Duke (onboard): Just as blue and pretty!
+001:50:52 Young (onboard): Can't you imagine that [garble].
+No more CM tape data recorded until 001:54:21.
+This is Apollo Control, Houston; 1 hour, 54 minutes Ground Elapsed Time. We're at a little over a minute away now from Loss Of Signal with the Apollo 16 spacecraft. We'll standby and continue to monitor. This is Apollo Control Houston.
+001:54:21 Young (onboard): [Garble] open.
+001:54:22 Duke (onboard): [Garble] went [garble].
+001:54:23 Fullerton: [Apollo] 16, Houston. About 30 seconds to LOS. We should get - should have you through ARIA at 2:22, a couple of minutes later than shown in the Flight Plan. Over.
+Apollo Range Instrumentation Aircraft (ARIA).
+The Apollo Range Instrumentation Aircraft or ARIA are US Air Force Boeing EC-135E aircraft modified from C-135B transports similar to the Boeing 707 airliner. With a huge tracking antennae in the bulbous nose, the ARIA provides a mobile "ground" station where the Manned Spaceflight Network cannot provide communications. Four of these aircraft were converted at the time of Apollo.
+001:54:33 Mattingly: Roger; understand.
+Very long comm break.
+001:54:36 Mattingly (onboard): Did - did he ever say anything about why we got the thing late?
+001:54:39 Duke (onboard): You know that's - Hey, you know, this light's on out there, Ken. Is that supposed to be?
+001:54:43 Mattingly (onboard): What's that?
+001:54:44 Duke (onboard): On that thing?
+001:54:45 Young (onboard): Whoops! Hmph. I didn't get my things on time.
+001:54:48 Mattingly: (onboard): Let me see.
+001:54:49 Young (onboard): Okay.
+001:54:50 Mattingly (onboard): Maybe I hit something. Boy, it gets [garble] in here.
+001:54:54 Young (onboard): Yeah. Well, we might - Do you want to run into the TLI? We got a - we're at 01:55.
+The crew are now starting to prepare the spacecraft for Trans Lunar Injection, starting at the top of Page 2-27 of the Launch Checklist.
+001:55:04 Duke (onboard): Yeah. I'm going to go Low Bit Rate, Command Reset - [garble]. Command Reset. We better go into the TLI prep.
+001:55:17 Duke (onboard): Okay, Translunar Inject, verify?
+Setting the Trans Lunar Inject (XLunar) switch on the MDC to tells the Instrument Unit that the crew are ready for TLI. At 42 seconds into TB-6 the IU will make the first of two checks to see the status of this switch.
+001:55:20 Young (onboard): That's Inject.
+001:55:22 Duke (onboard): Okay. EDS Power on up?
+001:55:24 Young (onboard): EDS Power coming on up.
+The Launch Vehicle Emergency Detection System is powered up so that any failures in the S-IVB during the burn can be indicated to the crew. At this stage in the flight, there is no automatic abort option, so the crew would have to manually initiate separation of the CSM from the S-IVB.
+001:55:26 Duke (onboard): Okay. Perform EMS Delta-V test and null bias check.
+Main Display Console - EMS.
+The Entry Monitoring System provides a secondary function of measuring velocity changes during the TLI burn and later SPS and RCS burns. During Entry, the output of the EMS's accelerometer is integrated twice to calculate the distance travelled by the CM after the entry interface. During engine burns, the accelerometer output is integrated once to calculate the velocity change (Delta-V) along the CM's X-axis. The electro-luminescent indicator can read up to 99,999.9 feet per second, with a precision of 0.1 foot per second. In each case, the crew set the desired Delta-V on the counter, which then counts down to zero.
+Entry Monitoring System Panel.
+The use of the EMS is a good example of system redundancy in the Apollo design. Changes in spacecraft velocity could be measured from the main CM Guidance and Nav inertial system, but this is more complex and liable to errors due to drift. The fixed EMS accelerometer provides a simple, reliable means of making this critical measurement. As another example of multiple use of the same system, the EMS display also provides an indication of the range between the CM and the LM during rendezvous operations, using the separate VHF radio ranging system.
+The EMS Delta-V Test and Null Bias Check is carried out in accordance with Page G2-5 of the G&C Checklist.
+001:55:30 Young (onboard): Okay.
+001:55:33 Duke (onboard): And set the Delta-Vc.
+001:55:42 Young (onboard): 1586.57
+This value is set as part of the test; it is not related to the earlier PAD values.
+001:55:46 Mattingly (onboard): 1586.57
+001:55:49 Young (onboard): Great.
+This is Apollo Control, Houston; 1 hour, 55 minutes Ground Elapsed Time. We've had Loss of Signal with Apollo 16 over Canary. The next ground station to acquire will be Carnarvon at approximately 2 hours, 25 minutes Ground Elapsed Time. However, we should pick up the Apollo 16 spacecraft shortly in advance of that time with one of the ARIA aircraft which will be on station as Apollo 16 now proceeds toward the time of ignition for the Translunar Injection burn. Our clock in Mission Control presently shows that burn time some 38 minutes away. At one hour, 56 minutes Ground Elapsed Time; this is Apollo Control, Houston.
+001:55:51 Duke (onboard): Okay, Ken, I guess you can call P15.
+While John Young carries on with the EMS test, Charlie Duke and Ken Mattingly ready the CMC for TLI using P15. This provides a back-up for initiation of the S-IVB ignition sequence, monitors the TLI burn if the IU is in control and provides automatic shutdown of the S-IVB if the CMC is in control.
+001:55:54 Mattingly (onboard): All right. [Garble].
+001:56:21 Mattingly (onboard): Okay. [Garble] want? 61 [garble] 63?
+001:56:24 Duke (onboard): 63.
+001:56:25 Mattingly (onboard): Okay. [Garble].
+001:56:35 Mattingly (onboard): Okay, Charlie.
+Charlie Duke is reading the TLI PAD details to Ken Mattingly, who is then entering them in the DSKY. The first set of figures is the GET of Time Base 6, 2:23:57.
+001:56:36 Duke (onboard): Two.
+001:56:37 Mattingly (onboard): Two.
+001:56:38 Duke (onboard): 23.
+001:56:39 Young (onboard): Minus 18.9 on the Delta-V test. That's pretty good, isn't it?
+The target is between -0.1 and -41.5 feet per second, so the actual value is right in the middle of the range.
+001:56:43 Mattingly (onboard): [Garble] particularly [garble]. What's the next one?
+001:56:47 Duke (onboard): 20:57.
+001:56:49 Mattingly (onboard): 20:57, right? [Garble].
+001:56:53 Duke (onboard): No, 57 ... 57. It's 67 seconds. [Garble].
+001:56:58 Mattingly (onboard): Okay, I got 02:23:57 [garble].
+001:57:04 Duke (onboard): Go.
+001:57:06 Young (onboard): Now you run that for how much? 100 seconds?
+001:57:08 Mattingly (onboard): Yeah. Okay, 14 is the [garble]. That was the Time Base 6 [garble]. Isn't that right? Not the TLI.
+Verb 06 Noun 14 is the command to load the velocity change.
+001:57:16 Duke (onboard): Time Base 6 [garble]...
+001:57:17 Young (onboard): [Garble] count 0.3 for every five seconds [garble] count a tenth every five seconds. [Garble].
+Not clear what John Young is referring to.
+001:57:26 Mattingly (onboard): All right. Okay.
+001:57:28 Duke (onboard): It's this number right up here.
+001:57:29 Mattingly (onboard): Okay. I'd just - You know, I'd feel bad [garble] TLI.
+001:57:33 Duke (onboard): Yeah.
+001:57:34 Mattingly (onboard): Okay, Noun 14 is [garble] cut-off. All right. Go on.
+001:57:43 Duke (onboard): VI, you want 35589.
+From the TLI PAD, the Indicated Velocity at S-IVB cut-off will be 35,589 feet per second (10,848 m/s).
+001:57:46 Mattingly (onboard): Okay, 35589.
+001:57:50 Duke (onboard): Go.
+001:57:58 Mattingly (onboard): [Garble] 35, 36.
+001:58:02 Young (onboard): Do you do this for 100 seconds?
+001:58:04 Mattingly (onboard): [Garble].
+001:58:07 Young (onboard): Okay, well, there's a minute. Plus 100 [garble].
+001:58:31 Duke (onboard): What's that gurgling?
+001:58:33 Young (onboard): Wait a minute. Okay. Wait a minute.
+001:58:44 Young (onboard): Four, three, two, one...
+001:58:48 Young (onboard): Mark it.
+001:58:51 Mattingly (onboard): [Garble] two and a half; 100 seconds. [Garble] Five [garble]...
+001:59:00 Duke (onboard): What's our pitch attitude, John? You got the optics [garble] there?
+001:59:04 Young (onboard): Yeah, full Moon.
+001:59:05 Mattingly (onboard): You got ORDEAL on that?
+001:59:06 Young (onboard): Yep.
+001:59:07 Mattingly (onboard): [Garble] hundred?
+001:59:08 Young (onboard): Yeah; 95, actually.
+001:59:10 Mattingly (onboard): All righty.
+001:59:11 Duke: (onboard): Okay. Set Delta-VC [garble], John.
+001:59:13 Young (onboard): Okay.
+001:59:14 Duke (onboard): It's 10,373.0.
+From the TLI PAD, the change in velocity during the burn will be 10,373.0 feet per second (3,161.7 m/s).
+001:59:25 Young (onboard): [Garble] over there, Charlie.
+001:59:27 Duke (onboard): Got it.
+001:59:29 Mattingly (onboard): [Garble] Charlie?
+001:59:30 Duke (onboard): Oh, yeah. Look - look, John.
+001:59:31 Young (onboard): What?
+001:59:32 Duke: (onboard): The fires. Out the right side. Looka there! They were right. They were really right.
+001:59:38 Young (onboard): What's that?
+001:59:39 Duke (onboard): Beautiful!
+001:59:40 Mattingly: The fires of Africa. They're there. Like he said. Isn't that spectacular?
+001:59:42 Duke (onboard): That is really beautiful!
+001:59:45 Mattingly (onboard): Can you see them, John?
+001:59:46 Young (onboard): Yeah, I see them. Yeah, yeah.
+001:59:48 Duke (onboard): (Unreadable text).
+001:59:49 Young (onboard): Good gosh!
+001:59:52 Duke (onboard): There must be a hundred or so.
+001:59:54 Mattingly (onboard): [Garble] over there.
+002:00:05 Duke (onboard): What are they from?
+002:00:07 Mattingly (onboard): Nomads.
+002:00:09 Duke (onboard): And - and there's brush fires, sometimes.
+002:00:12 Mattingly (onboard): Mostly, I - you know there's the - all the nomads and stuff that are out there [garble] around.
+John Young and Charlie Duke continue with the P15.
+002:00:20 Young (onboard): One zero - What did you say it was, Charlie?
+002:00:22 Duke (onboard): 10,373.0. Man, you can see them out here, I'll tell you.
+002:00:30 Mattingly (onboard): Are they [garble]?
+002:00:31 Duke (onboard): Yeah. I think they are.
+002:00:32 Mattingly (onboard): Okay, you're looking...
+002:00:33 Young (onboard): [Garble].
+002:00:34 Mattingly (onboard): Well, you're looking north.
+002:00:35 Duke (onboard): North, yeah. I see some thunderstorms. Wow! Look at that! The ones [garble] there...
+002:00:39 Young (onboard): 10, 37...
+002:00:40 Mattingly (onboard): [Garble.].
+002:00:42 Duke (onboard): Yeah, 10, 373.0.
+002:00:45 Young (onboard): [Garble] 37 [Garble].
+002:00:46 Duke (onboard): Okay, check the DAP, Ken.
+002:00:48 Mattingly (onboard): Okay. You just want me to verify it?
+002:00:51 Duke (onboard): Well, it says load 310.
+002:00:54 Mattingly (onboard): Okay, [garble]...
+002:00:55 Duke (onboard): ... 31 - point 11.
+002:00:59 Mattingly (onboard): 31.0, 0.11.
+002:01:03 Young (onboard): Okay. 10, 373.0.
+002:01:06 Duke (onboard): That's good. Okay. GDC Align.
+002:01:10 Young (onboard): Okay.
+002:01:17 Duke (onboard): Do you want to hold off on the power until Carnarvon LOS?
+002:01:21 Young (onboard): Okay.
+002:01:22 Mattingly (onboard): We got the Delta-V test and [garble].
+002:01:35 Duke (onboard): I've never seen so many storms [garble].
+002:01:43 Mattingly (onboard): [Garble] have a thunderstorm, [garble] be [garble] usually. The - the [garble] thunderstorm.
+002:01:47 Young (onboard): (Laughter)
+002:01:52 Duke (onboard): I don't [garble]. Wonder if that's not one of those fires.
+002:02:11 Duke (onboard): Okay. Set [garble]. Did you do a Verb 83?
+002:02:14 Young (onboard): No. I aligned the GDC [garble].
+002:02:16 Duke (onboard): Okay.
+002:02:18 Young (onboard): That's really going to be a hassle.
+002:02:20 Duke (onboard): Yeah, I know.
+002:02:37 Young (onboard): Okay.
+002:02:39 Duke (onboard): Okay, do a Verb 83.
+002:02:40 Young (onboard): You really want one of those, huh?
+002:02:41 Duke (onboard): I'd [garble].
+002:02:42 Young (onboard): [Laughter.]
+002:02:43 Duke (onboard): Yeah, I'm reading the checklist.
+The crew are halfway down Page 2-27 of the Launch Checklist. However, they have become slightly out of order, and have carried out P15 without having carried out Verb 83. If they now call up the Verb 83 routine, they will lose the information they have stored in the CMC ready for the TLI burn. Without Verb 83, they will not have an exact pitch angle when they reset the ORDEAL.
+002:02:45 Young (onboard): We already loaded P15.
+002:02:47 Duke (onboard): Okay.
+002:02:48 Young (onboard): We got the - we got the ORDEAL Set.
+002:02:51 Duke (onboard): Okay. Trans Control Power, On.
+Applying power to the two Translational Controllers mounted on John Young's and Ken Mattingly's couch arms.
+002:02:54 Young (onboard): Okay.
+002:02:55 Duke (onboard): And bypass the SECS Pyro Arm.
+002:02:57 Young (onboard): Okay.
+002:03:00 Duke (onboard): Rot Control Power Normal, two, AC/DC, verify.
+Applying power to the two Rotational Controllers mounted on John Young's and Ken Mattingly's couch arms. There are two supplies; the Normal supply powers the breakout switches which control the RCS through the SCS and the CMC. The Direct supply powers the direct switches which give the crew direct control of the RCS thrusters in event of a malfunction of the SCS. A more detailed description of the RCS and its controls will be given in the chapter on TD&E.
+002:03:03 Young (onboard): Verify.
+002:03:04 Duke (onboard): Rot Control Power Direct, two, Main A/Main B.
+002:03:07 Young (onboard): Main A/Main B.
+002:03:09 Duke (onboard): Spacecraft Control, SCS, verify.
+Enabling SCS control through Translation and Rotation Controls.
+002:03:11 Young (onboard): Verify.
+002:03:13 Duke (onboard): LV/SPS Indicator, S-IVB.
+Setting the dual indicator to monitor S-IVB oxidiser pressure. See 000:06:02 for more details.
+002:03:16 Young (onboard): S-IVB.
+002:03:17 Duke (onboard): CB, Direct Ullage, two, close.
+The term "ullage" comes from the brewing industry, where it means the space above the beer in a brewer's vat., but in this context it means the volume in the spacecraft propellant tanks that is filled with helium gas. In a spacecraft, fuel will float freely in the tanks, unless it is constrained. However, it is essential that there are no bubbles of helium in the propellant before it is fed into the engines. In smaller tanks, such as those of the RCS, Teflon bladders are used to control the fuel and to separate it from the helium used to pressurise the tanks. But in larger tanks, such as the four main ones of the SPS, bladders cannot be used and so a short period of acceleration is required to force the fuel to the bottom of the tank (and the helium to the top) before the SPS fires. This acceleration is provided by the RCS firing for a few seconds. Normally, the SPS will command this automatically, but in event of a failure of the automatic system, the Direct Ullage switch on Panel 1 of the MDC provides a back-up capability for initiating the RCS ullage burn. The Direct Ullage Switch is backed up by two circuit breakers on Panel 8, which must be energised to enable the switch to work. A complex system, but necessary to provide the necessary safety.
+It is not clear what the next conversation is about. John Young and Ken Mattingly seem to be discussing a deviation from the procedure. Possibly linked to the Verb 83 issue?
+002:03:24 Mattingly (onboard): You don't want to monitor the - [garble] you want to do that? [Garble]? [Garble].
+002:03:31 Young (onboard): Yeah, that's what I was doing.
+002:03:33 Mattingly (onboard): [Garble] should be all right.
+002:03:39 Young (onboard): It goes back to whatever it was, doesn't it?
+002:03:43 Mattingly (onboard): [Garble] ought to be able to call [garble].
+002:03:47 Young (onboard): I don't want to experiment with that, particularly. [Garble] I don't know whether we ever did or not, to be honest with you, Ken.
+002:03:54 Mattingly (onboard): Well, I - that's why I asked. That's one that I don't...
+002:03:57 Young (onboard): I don't remember even ever doing that.
+002:04:02 Mattingly (onboard): Let's not then.
+002:04:04 Young (onboard): Yeah.
+002:04:05 Mattingly (onboard): It's tough when you [garble].
+002:04:09 Duke (onboard): Did you get the Direct Ullage C-breaker, John?
+002:04:11 Young (onboard): Yeah, I got them, Charlie.
+002:04:12 Duke (onboard): Okay. Set the DET to 51 minutes.
+002:04:15 Mattingly (onboard): You got them there, didn't you? [Garble].
+002:04:19 Young (onboard): Yeah. DET to 51 minutes. Okay, going to Reset, two hours and four minutes.
+002:04:35 Mattingly (onboard): It won't start?
+002:04:36 Young (onboard): [Garble].
+002:04:37 Mattingly (onboard): Oh.
+002:04:39 Duke: (onboard): Okay, at 56 minutes, John, we got to change the slew FDAI number 1 to [garble] equals 16.
+The crew have now completed Page L2-28 of the Launch Checklist. Charlie Duke is highlighting the change in FDAI slew setting on Page L2-29 that was read up from Mission Control at 001:42:12.
+002:04:56 Young (onboard): [Garble] equals 16.
+002:04:59 Duke (onboard): [Garble].
+002:05:13 Mattingly (onboard): It really isn't like I - I don't know, the way I - I thought it would - would be after [garble]. It just feels like I've been here forever.
+002:05:20 Young (onboard): Yeah, I agree.
+002:05:22 Duke (onboard): I must admit, I feel like I'm [garble].
+002:05:26 Mattingly (onboard): I don't even feel that. I'm just...
+002:05:28 Young (onboard): My sinuses are all stuffed up - getting worse.
+002:05:30 Duke (onboard): Mine, too.
+002:05:34 Young (onboard): I think my nose is, you know, just about to drain. [Garble]. [Laughter] [Garble].
+002:05:48 Mattingly (onboard): Okay, you guys, you better start [garble] out your belts, because they could get in the way.
+002:06:00 Duke (onboard): Can you...
+002:06:04 Young (onboard): Not with the seat down, you can't, Charlie.
+002:06:07 Duke (onboard): Well, I'm gonna leave the seat down, okay?
+002:06:09 Young (onboard): Sure. [Garble].
+002:06:48 Duke (onboard): Man, that booster [garble] ride. I can't get over that. It really felt like a runaway freight train!
+002:06:57 Mattingly (onboard): I thought that [garble] was pretty impressive.
+002:07:00 Young (onboard): I saw that big flash of flame out that window, and I flat forgot that it was [garble]. Man, I thought I'd take this old arrhythmia gauge...
+002:07:10 Mattingly (onboard): Right. That was pretty bad.
+002:07:14 Young (onboard): (Laughter) Either that or it'd absolutely stop (laughter). Golly, I was just - I was all prepared for the shock [garble] separation...
+002:07:21 Duke (onboard): Is [garble] is on? [Garble].
+002:07:25 Young (onboard): I'll go look. I didn't really know that.
+002:08:02 Duke: [Garble], John.
+002:08:04 Young (onboard): I told you I'd forget. Man, I'm forget - I'm in a rapid dump mode. I'm forgetting faster than I [garble]. Okay; 25 minutes to go again.
+002:08:21 Duke (onboard): Attitude looks okay?
+002:08:28 Young (onboard): Looks super.
+002:08:31 Duke (onboard): Man, I can't get over that [garble]. (Laughter) [Garble] I tell you, there are a lot of ...
+002:08:40 Young (onboard): [Garble] gonna leave them checklists up there during the boost?
+002:08:42 Mattingly (onboard): Okay, I'm getting to them. My next course of action [garble] is to go around and see what I got laying [garble].
+002:08:48 Duke (onboard): Okay, we got a lot [garble].
+002:08:53 Young (onboard): You want to eat a sandwich, you guys? We got about ten minutes here.
+002:08:56 Duke (onboard): Not me; I'm gonna wait until later.
+002:09:01 Young (onboard): [Garble]. Okay. I don't want y'all to get hungry and starve. [Garble].
+002:09:21 Mattingly (onboard): I'll have to admit, when you get up here - I always thought that EL[?] was kind of a silly [garble] but when you get up here, it sure is different.
+002:09:26 Duke (onboard): Sure is.
+002:09:28 Mattingly (onboard): It just [garble]. Don't you guys have a little - little [garble] thing on the...
+002:09:32 Young (onboard): [Garble]...
+002:09:34 Mattingly (onboard): You can't see it?
+002:09:35 Young (onboard): ...[Garble] confuses me. Okay, 10, 272. Right, Charlie?
+This may be a transcription error. The time for R2 ignition in the R2 ignition in the TLI PAD is 107.2, and John Young may be referring to this as "ten, seven, two".
+002:09:40 Duke (onboard): That's right. [Garble].
+002:09:45 Young (onboard): Okay. What's the fuel-to-oxidizer Delta-P?
+002:09:48 Duke (onboard): Hey, could you get me a little piece of tape [garble]?
+002:09:51 Young (onboard): [Garble]. What's the fuel - allowable fuel-to-oxidizer Delta-P with this thing? On powered flight.
+002:09:57 Mattingly (onboard): On powered flight is 30 - greater than - it's greater than 36; OX over fuel, greater than 26.
+John Young is reviewing the procedures on Page L2-28. During the S-IVB re-start sequence, the booster propellant tanks are pressurised. Because the tanks share a common bulkhead, any large difference in pressure could cause a catastrophic failure of the bulkhead, followed by an explosion of the booster. If the LOX pressure exceeds the LH2 pressure by more than 36 psi, the LH2 pressure exceeds the LOX pressure by more than 26 psi or the LOX tank pressure exceeds 50 psi, then the crew must carry out an emergency separation of the CSM from the S-IVB, as detailed on Page Emer 1-1.
+002:10:04 Young (onboard): Okay.
+002:10:07 Mattingly (onboard): If LOX goes greater than 50, you want Emergency Sep.
+002:10:09 Young (onboard): When is the - when does [garble] - when does old whatyoucallit predict when we ought to list this stuff down. Write all these numbers down so we [garble], Charlie.
+002:10:22 Duke (onboard): Man, they didn't give me nothing but a pen.
+002:10:26 Young (onboard): [Garble] give me Time Base 6.
+002:10:27 Duke (onboard): You know where a pencil is?
+002:10:28 Young (onboard): ... [Garble], Charlie.
+002:10:29 Duke (onboard): Okay, Time Base 6 started at 02:23...
+002:10:35 Young (onboard): Okay.
+002:10:36 Duke (onboard): Wait a minute; 02:23:57, I think it was.
+002:10:39 Young (onboard): [Garble].
+002:10:42 Duke (onboard) : 02:23:57.
+002:10:44 Young (onboard): 02:23:57.00?
+002:10:46 Duke (onboard): Yes.
+002:10:47 Young (onboard): Okay; and then R-2 align?
+002:10:52 Duke (onboard) : R-2 align is 1 - 112.7.
+002:10:57 Young (onboard): 112.7. ORDEAL operate time?
+002:11:02 Duke (onboard): 57:20.
+002:11:05 Young (onboard): 57:20? Didn't they change that on us?
+002:11:08 Duke (onboard): That's what it's - that's what's the new time.
+002:11:11 Young (onboard): Okay. And maneuver to the R-2 ignition would be what?
+002:11:18 Duke (onboard): Okay, 107. ORDEAL of 107.
+002:11:21 Young (onboard): Okay. And then they said something about [garble] data of 17 instead of 16, right?
+002:11:27 Duke (onboard): That's right, at 56 minutes.
+002:11:30 Young (onboard): Okay. [Garble].
+002:11:32 Duke (onboard): Okay, and at - and at 57:20, your insured [?] is 11 degrees.
+002:11:37 Young (onboard): 57:20 is 11, right? Okay,11. Thank you. No wonder we ain't never got the right profile. And then they have....
+002:11:48 Mattingly (onboard): [Garble].
+002:11:51 Young (onboard): VI is what?
+002:11:54 Duke (onboard): VI is one at 35589.
+002:12:02 Young (onboard): And burn time? [Garble]...
+002:12:05 Duke (onboard): 05:43.
+002:12:09 Young (onboard): Okay. [Garble].
+And back to more housekeeping, preparing the cabin for acceleration.
+002:12:20 Mattingly (onboard): Well, I don't see what's back here that's not battened down. [Garble] up here; [garble] over there.
+002:12:30 Young (onboard): Well, I'll try to take this camera [garble]. How will that be?
+002:12:33 Mattingly (onboard): Take the camera off?
+002:12:35 Young (onboard): Yeah. We can put it on [garble].
+002:12:42 Mattingly (onboard): [Garble]?
+002:12:44 Young (onboard): Okay, going back to 12. There you go.
+002:12:52 Mattingly (onboard) : Okay. We've [garble] TLI preparation?
+002:12:54 Duke {onboard): [Garble] to SECS Pyro Arm.
+002:13:02 Mattingly (onboard): Can you make a good place to put that Flight Plan there? Guess I could put it there myself.
+002:13:07 Young (onboard): Right.
+002:13:10 Mattingly (onboard): Okay...
+002:13:11 Young (onboard): Well, let's see here, now. Again, we got the CSM/LM Sep breakers [garble].
+002:13:18 Mattingly (onboard): We do?
+002:13:19 Young (onboard): Yeah. There we are. SECS Pyro Arm really is a sort of a [garble] for docking [garble].
+002:13:30 Mattingly (onboard): Be kind of terrible [garble].
+002:13:34 Young (onboard): It's got CSM/LM Sep switch and then S-IVB/LM Sep switch. We got to be very sure we're pushing the right one [garble], but anybody can look at it.
+002:13:45 Mattingly (onboard): We're going to all look at that, aren't we?
+002:13:46 Young (onboard): Yes. We're all going to [garble]...
+MDC Separation Switches.
+A number of the major systems on Apollo are operated by explosives. This provides a very reliable and low-weight means of achieving events such as separating the LM from the S-IVB, or of separating the docking ring from the CM to jettison the LM after docking in lunar orbit. As a down-side, they are one-shot devices that cannot be re-set if operated in error. With the SECS Pyro Arm circuit breakers live, all the relevant switches are also live. John Young is making sure that all the crew are aware of this, since even though the switches are guarded, it would be all too easy to press the wrong one and, for example, jettison the docking ring while leaving the LM attached to the S-IVB - thus losing any chance of a lunar landing. The two controls, although not adjacent, are on the same row of six switches. The even more important switches that jettison the SM from the CM are powered by different circuit breakers and are not live at this point.
+A similar problem, but with even more serious potential consequences, faced the crew of Apollo 13 as they approached the Earth at the end of their calamitous mission. They had to jettison the SM from the CM, while keeping the LM attached until the last minute. The CMP, Jack Swigert, had to resort to sticking large labels on the two switches to make sure that he did not press the wrong one.
+002:13:47 Mattingly (onboard): Three, 4, and 5 - 5-second hold. Then we're gonna make sure we got the circuit breakers in. All [garble].
+002:14:07 Mattingly (onboard): Might as well take my water wings off. What'll I do with them?
+Ken Mattingly is referring to his life jacket.
+002:14:13 Duke (onboard): [Garble] go?
+002:14:15 Mattingly (onboard): Right down here. [Garble] you?
+002:14:16 Young (onboard): Let me turn the [garble].
+002:14:20 Duke (onboard): Okay, [garble].
+002:14:24 Young (onboard): Yeah, we - we thought we was supposed to Pro there.
+Not clear what the discussion is about. Pro (Proceed) is normally the end of a CMC Program, so the crew may have not completed P15.
+002:14:26 Duke (onboard): [Garble].
+002:14:30 Young (onboard): That's okay.
+002:14:34 [unclear] (onboard): That's low [garble]...
+002:14:35 Duke (onboard): I just got a [garble]...
+002:14:36 Mattingly (onboard): [Garble] get any [garble].
+002:14:38 Young (onboard): Yeah. [Garble] all out. I don't know how you're ever gonna make it with that couch in there, if you don't [garble] to take the couch out [garble] [laughter].
+002:14:55 Duke (onboard): One thing about the [garble] especially [garble], I got one little minor [garble] and that's [garble].
+002:15:04 [General] (onboard): [Laughter.]
+002:15:08 Mattingly (onboard): You know, you don't look fat faced to me.
+In zero gravity, the body has a natural tendancy to move its's fluids to the head, since the normal counterbalancing effect of gravity is removed. The sinuses also tend to fill, both due to increased leakage of fluid into them and because they do not drain normally. The result is a full-headed feeling and a swelling of the face.
+002:15:09 Duke (onboard): I don't? I feel a little [garble].
+002:15:13 Young (onboard): It looks like - well, you - you...
+002:15:14 Duke (onboard): What?
+002:15:15 Young (onboard): Yeah, you look like you're [garble] hat.
+002:15:33 Duke (onboard): It's natural.
+002:15:34 Young (onboard): I mean, but it's not near as bad as standing on your head. That's what I did for two or three days. Stood on there for ten minutes, and, boy, that's about ten minutes [garble]. Seemed like about - I'll tell you what's just as bad as standing on your head, though. [Garble] got a couple or three [garble]. Mine keeps going - it keeps...
+002:15:43 Mattingly (onboard): Keeps going [garble]?
+002:15:45 Duke (onboard): What, your sinuses?
+002:15:47 Young (onboard): Yeah. And then it goes away.
+002:15:48 Duke (onboard): Yeah.
+002:15:49 Mattingly (onboard): Yeah, I suspect [garble] tomorrow.
+002:15:51 Duke: (onboard): Mine really can drain [garble].
+002:15:54 Young (onboard): There's nothing else they can do. But the zero g is sure neat (laughter).
+002:16:03 Mattingly (onboard): Freddie Baker's [?] simulator was never like this one.
+002:16:05 Young (onboard): Boy, I mean to tell you.
+002:16:07 Mattingly (onboard): I wouldn't have [garble], if I was [garble].
+002:16:10 Duke (onboard): I hate to tell you, but they don't have any ARIA AOS [Acquisition of Signal] in this.
+Although the Launch Checklist shows the periods that the spacecraft will be in contact with the ground stations, it does not include the same for the ARIA.
+002:16:14 Young (onboard): It's 02:22 is what he said, Charlie.
+002:16:26 Duke (onboard): I couldn't get my helmet back down in there. [Garble]. Down under there. There you go.
+002:16:37 Mattingly (onboard): Okay. Now that's - The only thing we got that I'm a little leery about is the camera.
+002:16:42 Duke (onboard): It's supposed to be mounted there.
+002:16:43 Mattingly (onboard): Okay. You want to leave it there?
+002:16:44 Duke (onboard): Yeah.
+002:16:45 Mattingly (onboard): [Garble]?
+002:16:46 Duke (onboard): Yeah, I think so.
+002:16:47 Mattingly (onboard): Okay, we got the Hasselblad.
+002:16:48 Duke (onboard): Okay.
+002:16:49 Mattingly (onboard): I've got it up in R-2. And you got the TV monitor. Is it gonna be all right?
+002:16:53 Duke (onboard): Yeah; well, yeah, I think so. It's on the shelf and it's on a big piece of Velcro.
+002:16:57 Young (onboard): [Garble] is all in there.
+002:16:59 Mattingly (onboard): You got the COAS locked [garble].
+002:17:09 Duke (onboard): (Laughter) Man, we're going to the Moon.
+002:17:11 Young (onboard): Well, we ain't there yet, babe. We got [garble] to do it. A couple of things you got to do.
+002:17:17 Mattingly (onboard): A couple of things you got to do.
+002:17:18 Duke (onboard): I know it. I know it.
+002:17:19 Young (onboard): And then Casper will be out of his bag.
+In other words, the CM will separate from the S-IVB.
+002:17:28 Young (onboard): I'll tell you, if this isn't the cat's meow if I've ever saw it.
+002:17:34 Duke (onboard): You know, I'm getting used to it. My head's not feeling so poorly.
+002:17:37 Young (onboard): Okay. It goes up and then it goes back down again. Don't ask me how the head compensates for it, because - The sinuses, I don't see how they can ever drain. [Garble] doctors [garble]. It doesn't know it can't compensate.
+002:17:54 Mattingly (onboard): [Garble] checklist. [Garble] G&C Checklist [garble] there.
+002:18:05 Mattingly (onboard): Aw, beautiful. It's got the little card.
+002:18:06 Duke (onboard): You know the - the dadgum - the flow ain't exactly [garble].
+002:18:16 Young (onboard): I ain't got much flow, either.
+002:18:18 Duke (onboard): It beats me.
+002:18:19 Young (onboard): Well, the - these extension hoses would make it better, Charlie [garble]...
+002:18:22 Duke (onboard): Well, I don't want to do it now.
+002:18:24 Young (onboard): That's really the only thing.
+002:18:25 Duke (onboard): That's okay. I'll do it after [garble].
+002:18:29 Mattingly (onboard): I did it. It's pretty comfortable. It's cool. You want me to turn yours off? [Garble].
+002:18:38 Young (onboard): Okay.
+002:18:40 Duke (onboard): How much time we got?
+002:18:41 Young (onboard): [Garble]. What was Time Base 6 predict?
+002:18:47 Duke (onboard): 02:23:37.
+Five minutes to Time Base 6 start.
+002:18:50 Young (onboard): [Garble].
+002:18:54 Duke (onboard)> : Why don't you turn my - could you slide up - go right up there and turn my flow on, Ken.
+002:19:00 Mattingly (onboard)> : [Garble] get the top one.
+002:19:01 Duke (onboard): Okay, [garble].
+002:19:05 Young (onboard): Can't do it if you don't [garble] strapped in.
+002:19:06 Mattingly (onboard): [Garble].
+The crew are re-reading the checklist. Having bypassed some of the steps in the TLI preparation on Page L2-27, they are now checking that nothing has been omitted in their earlier actions from 001:54:54.
+002:19:12 Young (onboard): Okay. EMS Delta-V test, set Delta-V, Direct Ullage, two, close...
+002:19:16 Mattingly (onboard): Here you go, Charlie.
+002:19:17 Young (onboard): ...Up Telemetry to Block, that's Block...
+002:19:18 Duke (onboard): Okay.
+002:19:19 Young (onboard): EDS Power is On, Charlie. Okay, Charlie; I'm gonna arm the pyros. Charlie?
+002:19:26 Duke (onboard) : Wait a minute. You want to put your hose around through there? Okay, go ahead, John.
+002:19:33 Mattingly (onboard): John, you want to do yours while I'm here?
+002:19:35 Young (onboard): Nah.
+002:19:36 Duke (onboard): Okay. I'm ready on the pyros.
+The SECS Pyro switches are being selected, as this step was bypassed at 002:02:55.
+002:19:38 Young (onboard): Okay, pyros are coming on. Pyro A, on; Pyro B, on.
+002:19:43 Duke (onboard) : Okay.
+002:19:44 Young (onboard): THC, it's On. RHC - what do they want to do with it?
+002:19:50 Duke (onboard): [Garble]. Okay, wait a minute. THC - Trans Control Power - we need Rot Control Direct, two, Main A/Main B - should have already had all that.
+002:20:00 Young (onboard): Yeah. Direct, two, Main A/Main B. Go.
+002:20:02 Duke (onboard): Okay, two - Normal, two - AC/DC.
+002:20:05 Young (onboard): Go. Spacecraft Control to SCS.
+002:20:08 Duke (onboard): Okay. We got that.
+002:20:09 Young (onboard): Launch Vehicle Guidance is IU. Translunar Inject [is set to] Inject. Set DET to 51 minutes. Okay.
+See comment at 001:55:17 on the significance of the Translunar Inject (XLunar) switch.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston, at 2 hours and 19 minutes of Ground Elapsed Time. We're standing by in Mission Control, awaiting acquisition with the ARIA aircraft who are presently on the station for this pass. It will be during this - following this acquisition and during this pass that we will have the Translunar Injection burn. Prior to the burn, the booster, the S-IVB will go into Time Base 6. This would be 9 minutes, 38 seconds prior to the TLI burn and it will represent the automatic sequence in the booster leading to the burn itself. We presently show a TLI ignition time of 2 hours, 33 minutes, 35 seconds, with the burn duration of 5 minutes, 43 seconds. Predicted velocity at cut-off, 35,589 feet per second [10,848 m/s] with a Delta-V of 10,389 feet per second [3,166 m/s]. During the burn itself, we will be monitoring data from the Instrument Unit on the S-IVB. This would be data such as velocity, current altitude and a predicted apogee at time of shutdown. This data will come through us - through one of the ARIA aircraft. We're at 2 hours, 20 minutes Ground Elapsed Time; continuing to monitor. We show some 13 minutes away now from time of ignition and this is Apollo Control, Houston.
+002:20:18 Mattingly (onboard): Hey, is that Tool E gonna stay up there, John? It's right over your head...
+002:20:22 Young (onboard): [Garble]. Okay.
+002:20:24 Duke (onboard): Yeah, it'll stay up.
+002:20:25 Mattingly (onboard): Okay.
+002:20:26 Young (onboard): I thought I [garble]...
+002:20:27 Mattingly (onboard): [Garble]. Okay, why don't I put it in my pocket. Here, I'll wrap it. I'll put it in my pocket.
+002:20:33 Duke (onboard): We've got an evaporator problem here. No, I guess we don 't.
+002:20:37 Mattingly (onboard): You've got the radiators on, haven't you?
+002:20:38 Duke (onboard): Yeah. [Garble].
+002:20:44 Young (onboard): Here you go.
+002:20:46 ARIA : [Garble].
+002:20:47 Duke: [Garble] ARIA...
+002:20:48 Young (onboard): [Garble] a little rough there.
+002:20:49 ARIA : [Garble].
+002:20:51 Duke (onboard): [Garble] antenna [garble]. That was ARIA calling.
+002:20:56 Young (onboard): I know.
+002:20:57 Duke (onboard): [Garble] think they must be [garble].
+002:21:03 Young (onboard): Yeah.
+002:21:04 Mattingly (onboard): Hey, you want to check to see that that's going to be all right.
+002:21:06 Young (onboard): Yeah, it's alright.
+002:21:07 Mattingly (onboard): You might make sure that these shoulder straps aren't laying - floating somewhere where they get over your head...
+002:21:12 Duke (onboard): Mine are tied down...
+002:21:13 Young (onboard): [Garble] are down.
+002:21:14 Mattingly (onboard): Okay, because those clips are just [garble].
+002:21:17 Young (onboard): Okay. I'm gonna set 300 LUNAR on this [garble] - [garble] to do it.
+John Young is setting the ORDEAL to 300 and Lunar, in accordance with the Launch Checklist Page L2-28.
+002:21:25 Mattingly (onboard): All right.
+002:21:26 Duke (onboard): Okay, a couple of minutes, you guys.
+002:21:28 Young (onboard): 300 and LUNAR, we got set on it.
+002:21:30 Duke (onboard): [Garble].
+002:21:37 Young (onboard): We - we got signal strength?
+002:21:38 Duke (onboard): Yeah, a little bit...
+002:21:39 Mattingly (onboard): Here we go.
+002:21:40 Duke (onboard): ... [garble] keeps babbling, though. [Garble] locked up yet. We'll let them give us a call.
+002:21:52 Young: Okay, Houston, through the ARIA. We got signal strength and - assume you're down there somewheres.
+002:21:59 ARIA: [Garble].
+002:22:09 Duke (onboard): Typical ARIA. Hey, that's a lot cooler, Ken.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+002:22:15 Young: Okay, Houston; we don't read anything you say, but we'll transmit in the blind. [Long pause.]
+002:22:20 ARIA: [Garble].
+002:22:24 Duke (onboard): Think they're having trouble locking up.
+002:22:25 Young (onboard): [Garble], Charlie.
+002:22:27 Duke (onboard): Try them now. [Garble].
+002:22:30 Young: How do you read that down there now, Houston?
+002:22:36 Fullerton: Apollo 16, this is Houston through ARIA. Over.
+002:22:40 Young: By gosh, loud and clear there.
+002:22:44 Fullerton: So are you, John. [Long pause.]
+002:22:50 Duke (onboard): Okay, we'll stand by for the light.
+The crew are waiting for the Uplink Activity Light to go On, signalling the start of Time-Base 6, nine minutes and 38 seconds before ignition (9:30 before Engine Start Command).
+002:22:53 Young (onboard): What time?
+002:22:54 Duke (onboard): 09:38. About a minute.
+002:22:58 Fullerton: How's everything on board?
+002:23:01 Young: Everything looks good here. We're a minute - we're 10 minutes and 30 seconds to the burn.
+002:23:09 Fullerton: Roger. [Long pause.]
+002:23:13 Duke (onboard): What's that black thing over there, Ken?
+002:23:15 Mattingly (onboard): It's your neckband.
+002:23:16 Duke (onboard): Oh. [Garble].
+002:23:23 Mattingly (onboard): You got the Flight Plan...
+002:23:24 Duke (onboard): Yep.
+002:23:25 Mattingly (onboard): All put up.
+002:23:30 Young (onboard): When is this up-link on? Up-link activity light on?
+002:23:34 Duke (onboard): That [garble]?
+002:23:35 Young (onboard): Yeah.
+002:23:36 Duke (onboard): Okay, that and the S-II light come on at 09:38.
+002:23:38 Young (onboard): Okay.
+002:23:49 Young (onboard): Does that Time Base 6 start at 09:38?
+002:23:53 Duke (onboard): Yeah, minus 09:38.
+Apollo Control, Houston...
+002:23:59 Mattingly (onboard): [Garble].
+002:24:00 Young : Okay. On time for Time Base 6.
+002:24:03 Duke (onboard): Okay, stand by to start it.
+002:24:04 Fullerton: Roger. [Long pause.]
+Apollo Control, Houston at 2 hours, 24 minutes. Time Base 6 started on time. We're less than a minute away now from time of acquisition with Carnarvon. Standing by and continuing to monitor; this is Apollo Control, Houston.
+002:24:07 Young (onboard): You start it on that.
+002:24:08 Duke (onboard): At 9 min - yeah, okay.
+002:24:09 Mattingly (onboard): Yeah. Yeah, that will be [garble]...
+002:24:12 Young (onboard): This was - this is at [garble].
+002:24:13 Mattingly (onboard): [Garble] that [garble] was at 09:30 - 5, I get. 36.
+002:24:20 Young (onboard): Yeah, 36.
+002:24:21 Mattingly (onboard): Okay.
+002:24:29 Mattingly (onboard): Come on, boy.
+002:24:38 Mattingly (onboard): That was on time.
+002:24:39 Young (onboard): Yeah, that was on time.
+002:24:40 Mattingly (onboard): Now, I don't understand that...
+002:24:41 Young (onboard): ... [Garble]. No, I don't understand it either, but I guess we'll [garble]...
+002:24:45 Duke: Okay, Houston. The S-II Sep light was out on time.
+The S-II SEP light is now being used as an indicator.
+002:24:50 Young (onboard): Charlie, [garble]...
+002:24:51 Fullerton: Roger; very good.
+Long comm break.
+002:24:54 Young (onboard): Get this ball lined up?
+The FDAI needs to be slewed to the correct position.
+002:24:55 Duke (onboard): What, John?
+002:24:56 Young (onboard): We were off ...
+002:24:57 Mattingly (onboard): Yeah.
+002:24:58 Young (onboard): ...[garble] on [garble].
+002:24:59 Mattingly (onboard): Yeah.
+002:25:00 Young (onboard): Roll is...
+Apollo Control, Houston, receiving data now. Two hours, 25 minutes Ground Elapsed Time.
+002:25:01 Duke (onboard): Okay, John. Okay. Let see, you can monitor the tank pressures. Nominal LOX, 40; LH2, 31.
+002:25:12 Young (onboard): [Garble] 148, about?
+In the Mission Control Center, Houston, displays are being changed to show the dynamics of the upcoming Translunar Injection burn a little more than 8 minutes away at this time. At 2 hours, 25 minutes Ground Elapsed Time; this is Apollo Control, Houston.
+002:25:17 Mattingly: (onboard): No. No, we're below that, John. 146 - let's say 146.
+002:25:26 Young (onboard): Okay.
+002:25:38 Mattingly (onboard): Okay.
+002:25:40 Young (onboard): Okay, now let's go over this thing here. What should I have on ...
+002:25:43 Duke (onboard): I got a couple of things for you.
+002:25:44 Young (onboard): Okay.
+Setting the ORDEAL. See earlier for the ORDEAL controls.
+002:25:45 Duke (onboard): OR - DE - A - L - ORDEAL FDAI number l, ORB RATE.
+002:25:47 Young (onboard): It's ORB RATE, Charlie.
+002:25:48 Duke (onboard): Two, Inertial.
+002:25:50 Young (onboard): Two, Inertial.
+002:25:51 Duke (onboard): ORDEAL Mode, Hook - Hold/Fast.
+002:25:53 Young (onboard): Hold/Fast.
+002:25:55 Duke (onboard): Okay, and go 300 Lunar.
+002:25:58 Young (onboard): We're in 300 and Lunar.
+002:26:00 Duke (onboard): Okay, RHC number 2, armed...
+002:26:04 Young (onboard): [Garble].
+Apollo Control, Houston, at two hours, 26 minutes Ground Elapsed Time. Seven minutes away now.
+Break in CM Tape, perhaps due to vox.
+002:26:36 Fullerton: 16, this is Houston through Carnarvon now, and the APS module is looking good.
+002:26:42 Young: 16; Roger. Everything looks normal here.
+002:26:47 Fullerton: Roger.
+002:26:51 Duke: Gordy, one question on the - comment on the primary loop. Does it look okay to you guys?
+002:27:01 Fullerton: Stand by, Charlie. [Pause.] Roger, Charlie. EECOM is happy.
+002:27:12 Duke: Fine.
+Comm break.
+Apollo Control, Houston. A little over 6 minutes away now from time of ignition. Our maneuver monitor displays in Mission Control show a predicted velocity at shutdown of 35,593 feet per second [10,849 m/s], a predicted altitude at time of shutdown of 167.7 nautical miles [310.6 km] with a forecast apogee of 266,879 nautical miles [494,260 km]. Less than 6 minutes away now from time of ignition, continuing to monitor; this is Apollo Control, Houston.
+In Mission Control Center, Houston, Flight Director Gene Kranz now going around the room for a Go/No-Go for TLI. We'll stand by.
+002:28:17 Fullerton: 16, Houston. You're Go for TLI.
+002:28:21 Young: Roger; Go for TLI.
+Comm break.
+002:30:31 Duke (onboard): [Garble] the SCS TVC Servo Power, [garble]. Okay?
+002:30:34 Mattingly (onboard): [Garble]. Yeah. .
+002:30:35 Duke (onboard): Okay, and that's on your card over there.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control, Houston. Three minutes away now from time of ignition. Less than a minute away now from time of Carnarvon LOS. The data will be monitored by the ARIA aircraft in the area. We're at 2 hours, 31 minutes Ground Elapsed Time; this is Apollo Control, Houston.
+002:30:37 Mattingly (onboard): Okay, and what's [garble] 5? [garble]...
+002:30:41 Young (onboard): [Garble] five [garble] degree [garble] 25.
+002:30:45 Mattingly (onboard): Okay, and the shutdown, if it's - if it's [garble] control - TLI - if you overburn shutdown, you [garble].
+002:30:53 Young (onboard): Okay.
+002:30:56 Duke (onboard): Okay, Ken - excuse me. [Garble]. You want to do that for all the [garble]?
+002:30:59 Mattingly: (onboard): Yes.
+002:31:01 Young (onboard): Okay, we're in operating mode, gang.
+002:31:06 Mattingly: (onboard): Okay.
+002:31:07 Fullerton: [Apollo] 16, Houston, we're about LOS Carnarvon. Handing over to ARIA. We'll watch the booster for you. Spacecraft's all yours.
+002:31:16 Young: Okay; thank you much. (onboard) Okay; now we're at 57:45, Charlie.
+Comm break.
+One minute, 15 seconds to S-IVB ignition.
+002:31:24 Duke: (onboard): Okay; thank you.
+002:31:26 Young (onboard): There's a couple of things here that's got to be...
+002:31:28 Duke (onboard): At 58:20, give me a call.
+002:31:30 Young (onboard): All right, I'll call you at 58:20. What do we do?
+On Launch Checklist Page L2-29, coming up for 58:15, 105 seconds to S-IVB ignition.
+002:31:35 Duke (onboard): SCS TVC Servo Power, Number l, AC1/Main A; 2, Off. And I go High Bit Rate, Record, Forward, Command Reset.
+Apollo Control, Houston; at 2 minutes away now from time of ignition for the Translunar Injection burn. We should be monitoring data from the Instrument Unit on the S-IVB. The ARIA aircraft has acquired Apollo 16. We're at 2 hours, 32 minutes Ground Elapsed Time. Proceeding now toward the time of ignition for the Translunar Injection burn.
+002:31:44 Young (onboard): And I go EMS Mode...
+002:31:46 Duke (onboard): You go to Normal.
+002:31:47 Young (onboard): Okay, that - that TVC Servo Power Number 1 gets power [garble].
+002:31:49 Duke (onboard): That's right.
+002:31:50 Young (onboard): Right.
+002:31:51 Duke (onboard): That's right.
+002:31:52 Young (onboard): Okay, 15, 16, 17, 18, 19, 20, 21...
+002:31:57 Mattingly or Duke (onboard): Okay, DSKY blanks.
+The DSKY display blanks for five seconds at 105 seconds before S-IVB ignition, while in P15.
+002:31:59 Young (onboard): On schedule.
+002:32:00 Duke (onboard): Okay, SCS TVC Servo Power Number 1, AC1/Main A; Two, Off.
+002:32:05 Young (onboard): Two, Off.
+002:32:06 Duke (onboard): And we're going High Bit Rate, Record, Forward. Command Reset back to Normal. EMS Mode to Normal, John?
+To ensure that there is a record of spacecraft systems performance, even if the data link with Mission Control is lost during the TLI burn, Charlie Duke sets the Data Recorder Reproducer (DRR) - the CM's tape recorder - to High pulse-code modulation (or data bit rate), to Record and to Forward, to achieve the best recording conditions. He also resets the Up-Data Link equipment, and then sets it to Normal, in case Mission Control need to up-link any commands to the spacecraft. However, the crew still have the final control over up-link activity as the Up-Tlm switch is set to Block (see 001:41:45).
+002:32:13 Young (onboard): EM Mode to Normal. S-II Sep light's On, on time.
+John Young sets the EMS to display the velocity change during the burn, as discussed at 001:55:26
+The S-II Sep light illuminates at Time Base 6, 58:36, two seconds before S-IVB APS starts thrusting in the ullage manoeuvre.
+002:32:17 Duke (onboard): You should have ullage at 58: 38.
+002:32:21 Young (onboard): [Garble] where the ullage is.
+Booster reports the ullage engines have been turned on. We're at 2 hours, 32 minutes Ground Elapsed Time.
+002:32:23 Duke (onboard): Yeah (laughter).
+002:32:24 Young (onboard): [Garble] do we count?
+002:32:26 Duke (onboard): Look at the sunrise.
+002:32:32 Mattingly (onboard): [Garble] clock there. [Garble] would you like [garble]?
+002:32:35 Young (onboard): No. [Garble]?
+Mark. One minute away from time of ignition.
+002:32:39 Duke (onboard): 02:33:35, John.
+002:32:41 Young (onboard): 55 [garble].
+Booster reports all systems proceeding normally. Less than a minute away now from time of ignition. 40 minutes away now - 40 seconds away now.
+002:32:59 Mattingly (onboard): You want to turn your numerics up, so you can see them a little better?
+The spacecraft is over the Pacific, facing into the sunrise. Ken Mattingly is suggesting that John Young increase the brightness of the displays to help him read them.
+002:33:01 Young (onboard): [Garble.]
+Standing by at 2 hours, 33 minutes Ground Elapsed Time; this is Apollo Control, Houston.
+002:33:10 Young (onboard): Okay; we got about 25 seconds.
+Booster says we're Go for the burn. 16 seconds away.
+002:33:24 Duke: (onboard): Pressure's okay, John?
+002:33:26 Young (onboard): Yeah.
+002:33:28 Duke (onboard): Okay.
+002:33:29 Young (onboard): At 59:55, we're going to be [garble].
+002:33:32 Duke [Garble] EMS.
+002:33:35 Mattingly (onboard): There it goes, you guys.
+The engine start command is sent at 002:50:29.51 GET. The restart sequence is essentially identical to the start of the S-II stage's J-2s and of the first start of the S-IVB 's J2. The main difference is that fuel is allowed to run through the engine walls for eight seconds before the final ignition.
+002:33:37 Young (onboard): Okay.
+002:33:38 Duke (onboard): There it goes.
+002:33:39 Mattingly (onboard): Outboards.
+002:33:40 Young (onboard): Ignition.
+002:33:41 Mattingly (onboard): Outboards!
+002:33:42 Duke (onboard): Boy, you don't miss that!
+002:33:43 Mattingly (onboard): You sure don't miss it (laughter).
+Booster Systems engineer reports ignition on the third stage. The thrust looks good, he says.
+002:33:45 Young (onboard): Okay. Something I missed...
+002:33:48 Duke (onboard): Something fell to the bottom of the...
+002:33:49 Young (onboard): [Garble]. What do you do?
+002:33:50 Fullerton: [Apollo] 16, we're showing good thrust on the S-IVB.
+002:33:55 Young: Roger. [Long pause.]
+Young (onboard): Steer, baby, steer.
+002:34:02 Mattingly (onboard): Okay. It's steering right on, John.
+Monitoring data from the Instrument Unit shows a slow buildup in our velocity. Velocity now reading 26,147 feet per second [7,970 metres/second].
+002:34:08 Duke (onboard): How's the tank pressures look?
+See comments at 002:09:57.
+002:34:10 Mattingly (onboard): Fine.
+002:34:11 Duke (onboard): Good.
+002:34:13 Young (onboard): That [garble] is [garble].
+002:34:17 Duke (onboard): We're passing the 40-seconds mark. That might have been a second or two behind.
+Booster reports a good, stable burn.
+002:34:25 Young/Mattingly: (onboard): PU shift.
+As the J-2 engine burns, the ratio of oxidiser to fuel is changed from approximately 4.5:1 to 5 to 1 at the 56-second point. This increases the thrust from around 183,000 lbf (814 kN) to 207,000 lbf (921kN).
+002:34:27 Mattingly (onboard): Boy, you feel that guy moving.
+002:34:31 Young (onboard): One minute coming up.
+002:34:34 Mattingly (onboard): Our attitude is perfect.
+002:34:35 Duke (onboard): Okay, stand by on - pitch and roll.
+002:34:38 Young: One minute...
+002:34:38 Duke (onboard): Mark.
+002:34:39 Young: ...looks good.
+Mark. One minute into the burn.
+002:34:40 Mattingly: (onboard): Okay; I've got - I've got us - oh, I've got us about three seconds early.
+002:34:43 Duke (onboard): Okay, [garble].
+002:34:42 Fullerton: Roger. We're looking good here.
+Instrument Unit data shows velocity now reading 26,932 feet per second [8,209 m/s].
+002:34:49 Duke (onboard): We're about - my time, three seconds.
+002:34:51 Mattingly (onboard): Well, here. Let me give you a hack when I see - 01:30.
+002:34:55 Young (onboard): Okay.
+002:34:56 Fullerton: We've seen PU shift. The thrust looks good. [Long pause.]
+002:35:00 Mattingly (onboard): Okay; well, I'm not sure this clock is right. Did it start on the time?
+002:35:08 Young (onboard): I wasn't watching it, Ken.
+002:35:06 Mattingly (onboard): Well, I just wanted to know if there's difference at the mark.
+002:35:08 Duke (onboard): Okay; we're one second off.
+002:35:10 Mattingly (onboard): Okay.
+002:35:19 Young (onboard): Okay, we're up to three-quarters (of a ) g.
+002:35:22 Duke (onboard): It feels like the weight of the world's on my shoulders.
+002:35:24 Young (onboard): Yeah, doesn't it feel good.
+002:35:25 Mattingly (onboard): Wait'll you're at re-entry - [garble] you could [garble].
+Displays in Mission Control show our trajectory right down the middle of the plot board. Looking good. Coming up on 2 minutes. Mark. 2 minutes since time of ignition.
+002:35:40 Duke (onboard): Mark. That was two minutes.
+002:35:41 Young (onboard): Yeah.
+002:35:42 Mattingly (onboard): Man, we're following this thing today.
+002:35:44 Fullerton: [Apollo] 16, Houston. At two minutes, looking good.
+002:35:49 Young: Roger. Steering right on in here.
+002:35:55 Duke (onboard): About 42...
+002:35:56 Fullerton: Roger.
+Comm break.
+002:36:03 Mattingly (onboard): Okay, [garble].
+Two minutes, 30 seconds since time of ignition. Velocity now reading through the Instrument Unit 28,841 feet per second [8,791 m/s].
+002:36:09 Duke (onboard): Pretty high - it's a high-frequency vibration.
+002:36:12 Mattingly/Young (onboard): Yeah.
+002:36:17 Young (onboard): Hitting four cycles per second [garble].
+002:36:23 Mattingly (onboard): [Garble] come back and tell us something, for heaven's sakes.
+002:36:31 Duke (onboard): Okay. Coming up on three minutes. (Cleared throat). One last chance to drain your sinuses.
+Three minutes since time of ignition. Velocity now showing 29,956 feet per second [9,131 m/s].
+002:36:39 Duke (onboard): Mark. Three minutes.
+002:36:44 Young (onboard): Three-quarters of a g, Charlie.
+002:36:46 Duke (onboard): Okay.
+002:36:48 Mattingly (onboard): [Garble] three minutes to burn.
+Booster Systems engineer reports the burn performance looks real good.
+002:36:53 Duke (onboard): [Garble] about right?
+002:36:56 Young (onboard): Yeah.
+002:36:57 Mattingly (onboard): Yeah. [Garble] at 03:13.
+002:36:59 Duke (onboard): Three - no, that's wrong. Something...
+002:37:01 Mattingly (onboard): Boy, that calculation's way off.
+002:37:03 Duke (onboard): Yeah.
+002:37:05 Mattingly (onboard): [Garble] there. Something's wrong. [Garble] 42 seconds.
+Three minutes, 30 seconds since time of ignition. The velocity now reading 30,852 feet per second [9,404 m/s].
+002:37:12 Young (onboard): How does it look, Charlie?
+002:37:14 Duke (onboard): I'll give you a mark at two minutes.
+002:37:15 Young (onboard): Okay.
+002:37:16 Duke (onboard): [Garble] 43, 4, 5..
+002:37:21 Duke (onboard): Mark; two minutes to go.
+002:37:22 Mattingly: (onboard): Okay; it's converging.
+002:37:23 Duke (onboard): Yeah. It's converging. Rapidly.
+002:37:35 Duke (onboard): Stand by on four minutes...
+002:37:39 Duke (onboard): Mark. Four minutes.
+Mark. Four minutes since time of ignition. The velocity now...
+002:37:40 Mattingly (onboard): There's 90...
+002:37:41 Fullerton: [Apollo] 16, Houston through ARIA 3 now. Burn time is as predicted, 05:43. Everything looks good.
+002:37:47 Young: Roger. [Long pause.]
+Velocit - velocity now reading 32,073 feet per second [9,776 m/s]. Present altitude 119 nautical miles [220 km]
+002:37:50 Mattingly (onboard): Feels like you got pitch and yaw.
+002:37:53 Young (onboard): Well, you're up to 1[g?].
+002:37:54 Mattingly (onboard): And you can see those vibrations on the g-meter. Shaking [garble].
+002:38:00 Young (onboard): Hold together [garble]. That's bad.
+002:38:05 Duke (onboard): What's that?
+002:38:06 Young (onboard): Like these [garble].
+002:38:08 Duke (onboard): Mark.
+002:38:09 Young (onboard): [Garble] could look at this.
+002:38:11 Duke (onboard): 04:30. A minute to go. I'll give you a mark at a minute on the time.
+002:38:16 Mattingly (onboard): [Garble] check - check this. It's going to a higher freq.
+002:38:20 Young (onboard): Yeah.
+002:38:21 Duke (onboard): Mark.
+002:38:23 Mattingly:Young (onboard): (Laughter)
+002:38:24 Young (onboard): Oh.
+002:38:25 Duke (onboard): What was that?
+002:38:26 Mattingly (onboard): [Laughter.] John's hand controller [garble]. Coming up on five.
+002:38:33 Duke (onboard): Coming up on five minutes.
+002:38:39 Duke (onboard): Mark. Five minutes.
+Five minutes sinkce time of ignition. The velocity now 33,864 feet per second [10,322 m/s]. Present altitude 143 nautical miles [265 km].
+002:38:40 Fullerton: [Apollo] 16, everything looks good at five (minutes).
+002:38:44 Young: Roger. [Long pause.]
+002:38:45 Duke (onboard): They aren't concerned about it.
+Mission Control cannot directly observe the vibration levels that the crew are sensing. During the 1972 Technical Debrief, the crew discussed the vibration.
+Mattingly, from the 1972 Technical debrief: "On TLI, it seemed to be increasing in amplitude; although I thought that the frequency was still the same."
+Young, from the 1972 Technical debrief: "Yes. That's what I thought all the way to ECO (Engine Cut-Off) . But, there was a buzz on the S-IVB all the way to engine cut-off. And, it was a high frequency buzz. ... It was too high a frequency to be characterized as pogo. The amplitude was so low you couldn't characterize it as pogo either. It didn't seem that anything was in danger of coming apart. I was more worried about it quitting."
+From the AS-511 Flight Evaluation Report: "In a post-mission debriefing the Apollo 16 crew reported that the vehicle had experienced some low amplitude vibration or 'buzz' during portions of the S-II stage burn, and throughout the S-IVB first and second burns. The crew also noted that the vibrations did not appear to be oriented in any particular axis. Analysis of flight data indicates the presence of low amplitude, approximately 65 hertz, vibration during the S-II stage burn and both S-IVB stage burns. The data show lateral amplitudes of ±0.10 g at the IU during S-IVB first burn and ±0.20 during second burn. The vibrations can also be seen on selected propulsion pressure measurements. A review of AS-510 [Apollo 15] data shows similar vibration at approximately 72 hertz. Because of the data characteristics, the vibration is suspected to be related to normal stage propulsion system operation and probably characteristic of the J-2 turbomachinery. These vibrations pose no pogo or any other structural concerns, and are of such low amplitude as to be virtually obscured in the measurement background noise."
+A rather bland engineering report on a phenomenon that gave the crew considerable concern!
+002:38:47 Mattingly (onboard): They don't see that.
+002:38:48 Duke (onboard): I guess they don't. Okay, [garble]...
+002:38:54 Young (onboard): [Garble] and the steering for the angles.
+002:38:55 Duke (onboard): Within 30 seconds.
+002:38:56 Mattingly (onboard): [Garble] counting them down.
+002:38:59 Duke (onboard): I'll give you a mark at 13 seconds.
+002:39:03 Young (onboard): 600 feet [per second] to go.
+002:39:06 Duke (onboard): 40...
+002:39:07 Duke (onboard): Mark. 13 seconds.
+Ten seconds to go. Everything still looking good. 35,132 feet per second [10,708 m/s] velocity.
+002:39:11 Mattingly (onboard): [Garble] on the FDAI.
+002:39:13 Young (onboard): 1.2, you guys. 41.
+002:39:18 Unidentified (onboard): Whoo!
+002:39:20 Young: MECO.
+002:39:21 Unidentified (onboard): Whooz!
+002:39:22 Young : Thank you. (Laughter)
+002:39:23 Fullerton: Roger.
+002:39:24 Mattingly (onboard): Right on.
+002:39:25 Young (onboard): Did I get it? I mean - see what it did.
+002:39:26 Mattingly (onboard): Yeah. That's good.
+002:39:27 Duke (onboard): I got - Okay.
+Booster reports shutdown on time. Guided cut-off.
+002:39:29 Young (onboard): Okay. SECO right on time.
+002:39:31 Duke (onboard): It was a little early, John; 05:41.
+From the AS-511 Flight Evaluation Report: "The S-IVB second burn time was 341.9 seconds, 2.4 seconds less than predicted. This difference is primarily due to the slightly higher S-IVB performance and lighter vehicle mass during the second burn."
+The lighter vehicle mass was due, in part, to a slightly longer (0.4 seconds) than anticipated first S-IVB burn, due in turn to lower than anticipated S-IC and S-II performance.
+002:39:33 Young (onboard): Yeah. I see it.
+002:39:34 Mattingly (onboard): Well, but this...
+002:39:35 Fullerton: Roger. Looked like normal shutdown and a guided cut-off.
+002:39:38 Young: That's what it looked like...
+002:39:39 Mattingly (onboard): Yeah, it was.
+The crew are now supposed to read the following parameters, but were slightly late in freezing the display:
+Time From Cutoff (TFC) giving the burn time in minutes and seconds.
+Velocity to be gained (VG) in feet per second.
+Indicated Velocity at cutoff(VI in feet per second.
+The remaining velocity to be added (Delta VC)
+002:39:40 Young: We're looking at minus 10 on the Delta-VC.
+002:39:44 Duke (onboard): Okay. TF - What's Delta-VC? Minus 10?
+002:39:46 Young (onboard): Yeah.
+002:39:47 Fullerton: Roger.
+002:39:50 Duke (onboard): Man, all I can say...
+002:39:51 Young (onboard): How you gonna get back to that?
+002:39:53 Mattingly (onboard): You want...
+002:39:54 Young (onboard): What do you need?
+002:39:55 Mattingly (onboard): I need...
+002:39:56 Duke (onboard): I need some times on...
+002:39:57 Young (onboard): You [garble] to record that stuff?
+002:39:59 Duke (onboard): VG. What is VG?
+002:40:00 Mattingly: (onboard): [Garble].
+002:40:05 Duke (onboard): 34? 354?
+002:40:07 Mattingly (onboard): 432 ...
+002:40:08 Young (onboard): Yeah, but what's that other ...
+002:40:09 Mattingly (onboard): That's - that's probably ...
+Apollo Control, Houston at 2 hours, 40 minutes Ground Elapsed Time. Booster Systems engineer reports everything looks good at this time.
+002:40:10 Young (onboard): That's [garble]...
+002:40:11 Mattingly (onboard): ...[Garble] time.
+002:40:12 Young (onboard): Yeah, that's what it is.
+002:40:13 Mattingly (onboard): And 55 - Gee, that's high.
+002:40:17 Duke (onboard): Yeah.
+002:40:18 Young (onboard): You see it's converg - converting.
+002:40:20 Duke/Mattingly (onboard): Yes.
+002:40:22 Duke (onboard): Okay, at 08:26, we manoeuvre to orb rate, heads down. Okay, John, S ...
+002:40:27 Mattingly (onboard): Make a note there that those times are...
+002:40:28 Young (onboard): Okay. Go ahead, Charlie.
+The crew are now at the top of Page L2-31, as they reconfigure the spacecraft after the successful TLI burn.
+We're about 4 minutes away now from acquisition of Apollo 16 by the Hawaii tracking station. Standing by, continuing to monitor; this is Apollo Control, Houston.
+002:40:29 Duke (onboard): Okay. SCS TVC Servo Power number 1, Off.
+002:40:31 Young (onboard): It's Off.
+002:40:32 Duke (onboard): Going to Low Bit Rate.
+002:40:34 Young (onboard): EMS Mode, Standby,
+002:40:35 Duke (onboard): EMS Function, Off.
+002:40:36 Young (onboard): Off.
+002:40:37 Duke (onboard): SECS Pyro Arm, two, Safe.
+002:40:39 Young (onboard): Two, Safe.
+002:40:40 Duke (onboard): FDAI number 1, Inertial.
+002:40:42 Young (onboard): Number 1 is going to Inertial.
+002:40:44 Duke (onboard): Okay, lock your hand controller.
+002:40:46 Young (onboard): [Garble] should have done that first.
+002:40:48 Fullerton : [Apollo] 16, Houston. If it's convenient, would you give us VI at cut-off?
+002:40:58 Duke: Okay, Gordy, we got you a late time - Stand by.
+002:41:04 Young (onboard): He cut it off - I thought you...
+002:41:05 Duke (onboard): No, huh-uh.
+002:41:06 Mattingly (onboard): No.
+002:41:07 Young (onboard): What was that? That 35539 was what it was, wasn't it?
+002:41:12 Mattingly (onboard): Well, that's what it was counting to - that's when they said "It," and it quit.
+002:41:14 Young (onboard): Okay, well, that's...
+002:41:17 Mattingly: Gordy, we froze the display on the - P15 displays - we were watching the countdown clock and when we got over to 64, it was already changing.
+002:41:37 Young (onboard): Okay...
+002:41:38 Fullerton: Okay, Ken. We copied that, although you faded out at the end. We'll be up on Hawaii here at 44.
+002:41:47 Mattingly (onboard): Well, there's my first one.
+002:41:48 Duke: Okay, Gordy. We're down - we got the pyros safed and we're just about to go to P00.
+002:41:55 Young (onboard): We're in P00.
+002:41:56 Duke: We're in P00. And the - the...
+002:41:57 Fullerton: Charlie, you're just about unreadable. Copy that you're in P00, and we're standing by for Hawaii acquisition.
+The CMC is now in P00, to update the State Vector.
+002:42:06 Duke (onboard): Okay.
+002:42:07 Mattingly (onboard): Got to have that.
+002:42:08 Young (onboard): Okay. You want to swap seats to get in [garble]...
+002:42:10 Duke (onboard): Look at that horizon start to streak.
+002:42:18 Young (onboard): You want to swap seats?
+002:42:14 Mattingly (onboard): Yeah.
+002:42:15 Duke (onboard): Okay, Ken - Ken, look...
+002:42:16 Mattingly (onboard): I just can't.
+002:42:17 Duke (onboard): One - one quick one. You got to look at that Moon.
+002:42:18 Young (onboard): No, no. Take the picture - take the picture.
+002:42:21 Duke (onboard): Ohh.
+002:42:22 Mattingly (onboard): Come on, you guys. Look at that pretty star underneath us.
+002:42:25 Young (onboard): Shut up and let's move.
+002:42:26 Mattingly (onboard): Okay. Hang on a second. Let me get through this - let me get my clothes here.
+002:42:29 Duke (onboard): Give - give us the camera.
+002:42:30 Mattingly (onboard): Yeah.
+002:42:31 Duke (onboard): Okay, I got ...
+002:42:32 Mattingly (onboard): [Garble] get the camera for you.
+002:42:36 Young (onboard): Okay, I'm gonna switch comm, too. Okay, Ken?
+002:42:39 Mattingly (onboard): Yeah. Okay, turn your suit power off.
+002:42:43 Duke (onboard): (Laughter) Okay, what am I supposed to take a picture of, the Moon? It - Oh. Okay, let me take the dark slide out. Okay, I got about f/8; I put - I ought to put it on f/11, huh? I hope they don't expect me to look at the Flight Plan right now.
+002:43:31 Duke (onboard): Transfer State Vector. Did we do the Verb 66? Okay, the Moon is out of window Number 2 - CMC 2 - 250 - CEX. Okay, that's a 250-millimeter lens you got - you want there. We don't want that. We want a Earth picture.
+Verb 66 sets the updated CMC State Vector into the LM Computer.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 2 hours, 44 minutes Ground Elapsed Time. Standing by now for acquisition with Hawaii.
+002:43:52 Unknown: [Garble.]
+002:43:56 Duke (onboard): f/8. I'll try one at f/8.
+002:43:59 Young (onboard): Oh - you got your - you plugged in?
+002:44:00 Fullerton: Apollo 16, Houston through Hawaii. Over. [Long pause.]
+002:44:07 Duke: Roger.
+002:44:08 Mattingly (onboard): [Garble].
+002:44:09 Duke: We're reading you 5 by through Hawaii...
+002:44:10 Young (onboard): What, Ken? What?
+002:44:11 Duke: ...Gordy, and they're shifting couches.
+002:44:12 Mattingly (onboard): I didn't get any waste stowage vent valve closed.
+002:44:15 Young (onboard): Okay.
+002:44:16 Duke (onboard): I got all those circuit breakers.
+002:44:18 Young (onboard): You got the High Gain Antenna?
+002:44:19 Duke: (onboard): Yeah.
+002:44:20 Young (onboard): And the Flight Bus?
+002:44:21 Duke (onboard): Sure.
+002:44:24 Young (onboard): Waste Stowage Vent, Closed. It's going to Closed, old buddy.
+002:44:28 Mattingly (onboard): Okay.
+002:44:30 Duke (onboard): Look at the way the stars show up in the daytime.
+002:44:33 Young: (onboard): Yeah, yeah.
+002:44:35 Duke: Houston, this is the most spectacular view in the - you can possibly imagine. [Pause.]
+002:44:40 Young (onboard): What did you do with the camera?
+002:44:42 Duke (onboard): I got it right here.
+002:44:44 Mattingly (onboard): Okay, you got the...
+002:44:45 Fullerton: Apollo 16, Houston through Hawaii. Over.
+002:44:46 Young (onboard): Got the what?
+002:44:48 Duke: Rog, Gordy. You're 5 by and it's...
+002:44:50 Matktingly (onboard): I'm turning Direct O2, On.
+002:44:51 Duke: ...the most spectacular view I've ever seen.
+002:44:53 Fullerton: Roger, Charlie, you're loud and clear.
+002:45:05 Mattingly: Okay, Houston, the Direct O2 is coming on; we're pumping her up right now.
+002:45:09 Fullerton: Roger.
+Long comm break.
+Apollo Control, Houston; 2 hours, 46 minutes Ground Elapsed Time. We're now receiving radar data through Hawaii. We presently show Apollo 16 at an altitude of 766 nautical miles [1,418 kilometres].
+Apollo 16 is now well on its way to the Moon. Travelling at over 10 km per second (22,000 miles per hour), John Young, Charlie Duke and Ken Mattingly are on course for the Moon. Next, they have to conduct the Transposition and Docking manoeuvre, to link up with the LM.
+Day 1, Part 2: First Earth Orbit
+Journal Home Page
+Day 1, Part 4: Transposition, Docking and Ejection

@@ -21,7 +21,7 @@ HTML_EXTENSIONS = {"", ".html", ".htm", ".shtml", ".php", ".asp", ".aspx"}
 
 
 class LiLinkExtractor(HTMLParser):
-    """Extract href from <a> tags that are inside first-level <li> tags."""
+    """Extract href from <a> tags that are inside any <li> nesting level."""
 
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
@@ -34,7 +34,7 @@ class LiLinkExtractor(HTMLParser):
             self.li_depth += 1
             return
 
-        if tag == "a" and self.li_depth == 1:
+        if tag == "a" and self.li_depth > 0:
             attr_map = dict(attrs)
             href = attr_map.get("href")
             if href:

@@ -1,0 +1,1234 @@
+A16FJ - Day 5, Part 4: Rendezvous and Waiting. Revs 13 to 15
+Day 5, Part 3: "I be a sorry bird". LM and CM Problems, Revs 12 and 13
+Journal Home Page
+Day 5, Part 5: Clearance for PDI - Again - and Landing, Revs 15 and 16
+Apollo 16
+Day 5, Part 4: Rendezvous and Waiting. Revs 13 to 15
+Corrected Transcript and Commentary Copyright © 2006-2025 by W. David Woods and Tim Brandt. All rights reserved.
+Last updated 2025-04-12
+Index to events
+Start of Chapter and CM transcript
+098:05
+Report of CM SPS Servo Fault
+098:11:16
+Fault Investigation
+098:19:08
+Further Fault Investigation
+098:50:50
+Wave-off Decision
+099:01
+Loss of Signal (CM Transcript)
+099:16
+LM Transcript Starts
+098:10:49
+Loss of Signal (LM Transcript)
+099:16
+Resumption of Combined Transcript - General Discussions
+099:16:32
+Start of Rev 14
+??
+Start of Rendezvous Manoeuvering
+099:44:01
+Acquisition of Signal - Continued Rendezvous Manoeuvering
+100:03
+Loss of Signal - End of Chapter
+101:11
+We rejoin Apollo 16 halfway through Rev 13, awaiting AOS.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control; 98 hours, 5 minutes Ground Elapsed Time into the mission of Apollo 16. Three minutes and 50 seconds to Acquisition of Signal; that is, [for] the two spacecraft come around the Moon on the 13th lunar revolution. Some 29 minutes, 24 seconds until ignition for the landing phase. Ignition time for PDI or Powered Descent Initiate is 98:35:04. The descent engine will burn for approximately 12 minutes and 53 seconds, according to the nominal plan, for a total velocity change from orbital velocity all the way down to zero, or landing at the lunar surface of 6,698 feet per second [2,041 metres per second]. The Lunar Module Orion will slim down at a rate that would make a calorie counter envious for at the start of PDI, the Orion will weigh some 18 tons. By landing, she'll only weigh 9 tons. All of this weight loss, of course, is propellant. During the descent, the Lunar Module Pilot will be calling out numbers that the computer display has displayed for him. He will call them out to the Commander. Both men will be in what is called a Vox mode, or voice actuated communications so that those on the ground can hear their conversation. The Lunar Module Pilot will call out these numbers for the angle at which the Commander can see the landing site on a grid on his window called the Landing Point Designator. During the final descent phase of the touchdown, the Lunar Module Pilot will be calling out the landing radar readouts of H and H-dot, that is, altitude and descent rate respectively. The so-called low level of propellant quantities will be called out when the propellant quantities reach 5.8 percent. At that time, the burn time remaining will be approximately 111 seconds. 91 seconds into this margin, there's a point called 'Bingo'. This is the point where the Commander has to make the decision to go ahead and land or to begin vertical motion and then abort stage in case it's a No-Go situation on the landing. He has approximately 20 seconds to make this decision to land. The CapCom, in this case, Jim Irwin, or the Orion, will be make this call of level and Bingo to the crew at the appropriate times. Some 19 seconds away from predicted acquisition as Orion and Casper come around the Moon and Casper meanwhile will have circularized. 25 minutes, 47 seconds from ignition. We should have acquisition now. We're standing by for that.
+It remains to be seen whether the steerable antenna on the Orion is functioning properly as we come around on Revolution 13. In any case, whether it works or not, we're still Go for landing at this point. Displays here in Mission Control have switched from the lunar orbit background projection plotters to the X-Y plotters of altitude, velocity and so on. Colored lines that are driven by radar, for the descent and landing phase. We have AOS on Lunar Module Orion. Let's switch on to air-ground.
+The available audio recordings do not include the communication between Ken in the CSM and Mission Control.
+098:11:13 Hartsfield: Casper, Houston. How do you read?
+098:11:16 Mattingly: Okay; they're locking up on me. Hello, Houston. This is Casper Bar [?] now. We did not do [the] Circ [burn], and I'd like to talk about the TVC servo loops.
+098:11:29 Hartsfield: Understand. No Circ.
+098:11:33 Mattingly: That's affirmative. Presently, about a mile ahead of the LM. And I'd like to talk about a TVC servo loop problem.
+098:11:51 Hartsfield: Okay, Ken. Go ahead.
+098:11:55 Mattingly: Okay, and - and break in and tell me as soon as you get the DS - get ready to dump the DSE, so you can take a look at what I'm talking about, and I'll leave the antenna Manual and Wide until you do. Okay; the text is that we came up to the burn time and I was going through the gimbal checks. Number 1 servo started normally, checked out. I switched to - clockwise on the THC to perform the secondary gimbal check and started them - they looked normal. I set the pitch trim normally, and I went to set the yaw trim; I'd just been checking that the trim lock [?] worked, and I got divergent oscillations on the yaw trim indicator, and you could feel them in the spacecraft. So I switched to the - Servo Power to the Number 2 Servo to AC1/Main A, tried that. That had no effect. Then I cycled through looking at - at the gimbal - with the Auto Drive switch in Number 1, Number 2 in Auto. Every time I selected Number 2, by some means, I had the same results. Then I tried SCS in Auto, and as soon as I would excite some motion in the secondary yaw servo, why it would go unstable again. I then tried using the G&N to drive the gimbal, and I did the first half of the gimbal drive in Servo Loop 1, then switched to the Servo Loop 2 for the second half, and again the same instability showed up. Based on the [mission] rule of four servo loops, I canceled Circ. I had no other indications in the cockpit, no warning lights, no - no other abnormalities.
+098:13:58 Hartsfield: Roger. We copy...
+098:14:01 Mattingly: The [garble] was in fact running, but I don't think that could have had any effect when SCS was going.
+098:14:10 Hartsfield: Roger. Could we get you to go to the AOS attitude, Ken, so we can dump the data?
+098:14:20 Mattingly: Yes, sir. Will do.
+098:14:25 Mattingly: How about if I just give you the high gain from right here?
+CM on board transcript ends until 099:16:32.
+098:14:31 Hartsfield: Okay, if you think you can get it up.
+098:15:30 Mattingly: Okay; I've got you a solid lock on the high gain.
+098:15:40 Hartsfield: Casper, Houston. We'd like to verify that...
+098:15:40 Mattingly (CM comm): I prefer this attitude, Hank, because I can keep the LM in sight.
+098:15:41 Mattingly: [Garble] So I can keep the LM in sight.
+098:15:54 Hartsfield: Casper, we'd like to verify that the - that the oscillations were on servo loop Number 2. Is that correct?
+098:16:00 Mattingly: That's affirmative. Servo loop Number 2, yaw only.
+098:16:08 Hartsfield: Roger. And servo loop Number 1 is okay?
+098:16:11 Mattingly: That's affirmative.
+098:16:18 Hartsfield: And did I read that the first time through the servo checks, they were okay? And then when you started to set the yaw trim, the oscillation started, and that once you had the malfunction, it occurred in...
+098:16:31 Mattingly: No, sir. No, sir. Primary loop checked out normally. Secondary loop never checked out in yaw servo.
+098:16:40 Hartsfield: Roger; copy. And that was both...
+098:16:43 Mattingly: [Garble] started normally, and it's - Go ahead, Hank.
+098:16:49 Hartsfield: Roger. And that occurred both in SCS and G&N, is that correct?
+098:16:56 Mattingly: That's affirmative. And I tried both Auto and Rate Command in SCS.
+098:17:21 Hartsfield: And, Ken, We'd like to confirm that was a divergent oscillation. Is that correct?
+098:17:28 Mattingly: That's affirmative.
+098:19:08 Hartsfield: Casper, Houston. We'd like for you to run another gimbal drive check in the yaw axis on both SCS and G&N, and let us take a look at it.
+098:19:18 Mattingly: Okay; I'm prepared to do that right now if you're ready.
+098:19:24 Hartsfield: Ready to go.
+098:20:13 Mattingly: Okay; I'm bringing the Bus Ties on.
+098:20:30 Mattingly: Okay, and ServoPowers 1 and 2 are on in the loop configuration. Are you ready for me to start the gimbals ?
+098:20:41 Hartsfield: That's affirmative, Ken. Go ahead.
+098:20:51 Mattingly: Okay, here comes - You just wanted to look at the yaw. Here comes Yaw number 2. There it is, and it's oscillating now, and it's damped out, and that's in Auto. I'll switch it to Number 2, and Number 2 in Auto. I'm now going to move the , and it - Well, now it's - there it goes - now it's oscillating, and it's divergent, and I'm turning the Gimbals Off. Okay, Yaw Gimbal Number 2 is Off. I'll hold this configuration.
+No conversation for 12 minutes.
+098:32:45 Young (LM): Ken, is your transponder on?
+098:32:50 Mattingly: That's affirmative. It is.
+098:32:59 Duke (LM): Okay. We're gonna try our radar lockup here again.
+098:33:07 Mattingly: Okay.
+098:34:03 Mattingly: John, you want to try to initialize VHF ranging while we're above it?
+098:34:35 Mattingly: Orion, Casper.
+098:34:45 Mattingly: Would you like to try and check out our VHF at the same time?
+098:34:49 Duke (LM): Okay.
+098:35:02 Mattingly: Sounds very garbled. If you can read me, Orion, you're extremely garbled and making a pulsing-noise sound.
+098:35:51 Mattingly: Orion, do you read me on B Duplex?
+098:37:10 Mattingly: Orion, do you read Casper? Orion, do you read Casper?
+098:37:31 Mattingly: Houston, Casper.
+098:37:33 Hartsfield: Casper, Houston. Go ahead.
+098:37:39 Mattingly: Roger. It looks like I'm losing comm with Orion. Could you ask them to go back to A Simplex?
+098:37:45 Hartsfield: Wilco.
+098:38:00 Duke (LM): Go ahead, Ken.
+098:38:03 Mattingly: Okay, you were just about unreadable. I don't know if you could pick me up on that other configuration, but that didn't work at all. Yeah, but it was coming through completely garbled - unintelligible. Okay. Okay; and if no voice in 30 seconds, we'll come back to A Simplex. Okay, how do you read me now? You're still very scratchy, hardly make you out at all. Yeah, that's pretty bad. That's not much better; it's not near like what we got before. Let's go back to A Simplex.
+098:39:16 Mattingly: Hey, you sound good now.
+098:40:00 Mattingly: Hey, Charlie.
+098:40:18 Mattingly: Okay, you want to turn your light on when it gets dark? And how about let's try a little ranging here, before we go into the darkness?
+098:40:25 MCC: [Garble] CapCom...
+098:40:26 Mattingly: ...comm now - you're on - on configuration for ranging.
+098:40:30 MCC: Hey - am I - Hey, Gerry, am I on your loop? Okay. Hey, on - on this conversation here, I ran this rendezvous from the miniball.
+098:40:45 Mattingly: Hey, Stuart, you're on air-to-ground.
+098:40:48 MCC: Sorry about that, Ken.
+098:40:51 Mattingly: Hey, Charlie, let's - hey, Charlie, how about let's try out this ranging? You're in the ranging configuration, right? Okay, stand by for about 30 seconds until I try to lock up.
+098:41:34 Mattingly: Okay, I've got you at 0.36; 0.38; 0.36, bouncing around. How does that compare? It doesn't really.
+098:45:24 Mattingly: Gee, I think so. Might as well keep an eye on it, looks like we're getting ready to go in the dark here. Could you wait until we get in the dark so I can look at you? Right now, I've got the Sun right smack in my eyes.
+098:45:40 Mattingly: Did you get any words out of Houston? I haven't heard a word from them.
+098:45:50 Hartsfield: Casper, Houston. We're working on a problem down here.
+098:45:57 Mattingly: Roger, Henry. I understand that; but I'm not bugging you. We'll stay off the loop.
+098:46:02 Hartsfield: Okay, we've got the data down, and we've got the strip charts, and we're taking a look here and see if we can't find some way to get around it.
+098:46:11 Mattingly: Okay. I know if there's a way, you'll find it.
+098:48:03 Mattingly: Stand by a second.
+098:48:12 Mattingly: Was doing temporary battle with our friend, the trash bag. I have you, visual. Tally ho.
+098:48:39 Mattingly: Okay. I'll keep you in sight.
+098:49:09 Mattingly: That old probe is really nice.
+098:50:43 Hartsfield: Casper, Houston.
+098:50:48 Mattingly: Go ahead, Houston.
+098:50:50 Hartsfield: Okay. We're getting set up for another gimbal drive check, Ken, and what we want to do is go through a complete gimbal drive check by the numbers, and have you tell us as you do each thing and especially in relation to the - the yaw thumbwheel, which way you're moving it and how many degrees and - and what's happening. And we'll give you the word when we're ready to start that. We've got to get some things configured down here.
+098:51:16 Mattingly: Okay. Was attitude - How about looking ahead to see if this attitude is going to hold throughout the test?
+098:51:23 Hartsfield: Okay, I'll check it.
+098:51:27 Mattingly: Thank you.
+098:51:33 Hartsfield: The attitude is good, Ken.
+098:51:38 Mattingly: Okay.
+098:54:10 Hartsfield: Okay, Ken. We're ready to go. Do you think VOX might make it easier for you?
+098:54:20 Mattingly: Yes, sir. I'll go to VOX now and, Orion, are you still working on your [P]52?
+098:54:31 Mattingly: Okay. I'm going to have my head in the cockpit here for a while, but if Mr. Kepler isn't a high school dropout, why, we won't hit anyhow.
+098:54:46 Mattingly: Okay, Houston. Here we go. I'm gonna run over the switch configuration that I've got in the cockpit. We're going to do this - everything except calling P40, or do you want to call P40 for something?
+098:55:01 Hartsfield: We don't need P40.
+098:55:03 Mattingly: [Garble] you do not want P40. Okay, here we go. I got - The circuit breakers are all checked over on Panel 8. The only ones that are out are RCS Logic, the Probe, and the stuff on the bottom rows that don't matter. Okay. The switches for SCS are in Limit Cycle, Off; Dead Band, Min; Rate, Low. I've got the Rotation Power at AC. Direct are Off. I've got my BMAGs. I'm going to ungag them now. They're ungagged. I'm going to SCS Control. Okay. Now I'm going over and catch the - the bus ties. Here comes Bus Tie, AC. It's On. EC is On. Gimbal power Number 1 to AC 1, number 2 to AC 2. Start Pitch Gimbal Number 1.
+098:56:14 Mattingly: Mark. And Yaw Gimbal number 1.
+098:56:19 Mattingly: Mark. I have a thumbwheel drive. I'm driving it from zero to minus one-half to plus one-half, which is the trim. The Yaw thumbwheel is at plus one half. I'm going to take it to zero and back up to 1, and will set it at 122. It runs smoothly in both directions. I'm making an MTVC check in Pitch. There's a little plus Pitch, a little minus Pitch - that's good - a little minus Yaw, a little plus Yaw. That's good and stable. I'm going to CMC Control.
+An audio recording is available on the PAO tape covering the communications between Mission Control and Ken Mattingly in the Command Module.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. Aboard the Command Module Casper, Ken Mattingly is troubleshooting the SCS, reading out what his onboard indications are. Let's listen to that for a while, and switch away from Orion.
+098:56:55 Mattingly: Mark. I have no MTVC. I'm going clockwise on the Translation Hand Controller.
+098:57:01 Mattingly: Mark it. I still have no MTVC. I'm bringing on the Pitch 2 Gimbal.
+098:57:08 Mattingly: Mark. I'm checking the thumbwheel down to zero, up to 1, back to one-half. The Yaw thumbwheel is going over to one and I don't - Let me try it again. There it goes. Didn't have the Motor on; turning it Off. I'll turn it on one more time. Okay, it's stable. I'm taking the trim, which is now set at a little over 1 on the thumbwheel, down towards zero. I move it slowly. It gets a little dynamics, and then it stops. I'm going to take it down to zero at about this rate. It oscillates, and now it's diverging, and I'm turning the Gimbal Motor Off. I'm going to hold in this configuration.
+098:57:54 Hartsfield: Roger. Copy.
+Comm break.
+098:59:13 Hartsfield: Ken, what we would like for you to do now is crank up the Yaw 2 Gimbal again to that stable condition, and then let's see what MTVC does to it - see if that will excite the oscillation.
+098:59:28 Mattingly: It did last time. I now have the Gimbal on again, and I'm going to give it a little Yaw, and there it goes. Coming Off...
+098:59:36 Mattingly: Mark.
+098:59:38 Hartsfield: Roger. Copy. [Pause.]
+098:59:49 Mattingly: Would you like to take a look at it in Accel Command?
+098:59:53 Hartsfield: Stand by. [Long pause.]
+098:59:59 Mattingly: Understand. Stand by.
+099:00:04 Hartsfield: Roger. Ken, go ahead and let's try it in Accel Command. [Long pause.]
+099:00:15 Mattingly: Okay, and it's diverging all on its own in Accel Command. I didn't put any inputs into it.
+099:00:22 Hartsfield: Roger. Copy.
+Comm break.
+This is Apollo Control, 99 hours and 1 minute Ground Elapsed Time. Flight Director Gerry Griffin is instructing the two spacecraft communicators to brief the crew on the current situation. And which apparently we have as long as five lunar orbits to make a determination on the feasibility of continuing with the landing, or whether we'll have to rendezvous with the two spacecraft back together, and do an immediate return to Earth, assuming that the Service Propulsion System would be inoperative. We're some 14 minutes away from Loss of Signal with the Command Module. We'll monitor the discussion between the spacecraft communicator, and the crew of Orion, and Mattingly in Casper.
+099:02:38 Irwin: Hello, Orion and Casper. This is Houston.
+099:02:47 Irwin: Roger. It looks like we're not going to have a decision on this rev, and we do have the capability of spending about five revs in this configuration before we have to make that decision. We would like y'all to move into a station-keeping position, and you should be at the closest point of approach at about 100 hours, and we're recommending a CSM active to move into a position and to station-keep. And we're gonna run some simulations down here on this TVC problem, and we'll get back to you. [Long pause.]
+099:03:32 Irwin: Casper, this is Houston. You copied, too, didn't you? [Pause.]
+099:03:37 Irwin: Okay.
+099:03:38 Mattingly: Rog. I'm with you. I still have the - some of the gimbal motors on and the bus ties. Want to stand by on that?
+099:03:43 Hartsfield: Okay, Ken. We'd like to try one more thing. There's a remote possibility that the RHC may be inducing some noise or transients into the system. We'd like you to kill all the power to the RHCs. Turn off both AC and DC, and repeat the gimbal check in AC - Accel Command and see if the gimbal takes off.
+099:04:09 Mattingly: Okay. I've got - I secured the hand controller by just taking Normal 2 Power to Off, and the rest of the Powers were Off. I'm in Accel Command on Yaw and I'm going Number 2 up to Start, and it's in Accel, and it's stable. Would you like for me to try the thumbwheels?
+099:04:34 Hartsfield: Stand by one.
+099:04:35 Mattingly: And with a little excitation from the thumbwheel, it took off again.
+099:04:39 Hartsfield: Roger. Understand. [Long pause.]
+099:05:09 Hartsfield: Ken, for that rendezvous, we're suggesting you use the procedure you worked on there in the simulator, just moving in when you're at close - closest approach.
+099:05:19 Mattingly: Okay, Hank. Will do that. Thank you.
+099:05:23 Hartsfield: Let me see if there's anything else they want to do with this gimbal thing before we shut it down? Stand by one.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+099:07:30 Hartsfield: Casper, Houston. We'd like you to try, for our data, one more Yaw primary - Yaw secondary G&N servo loop check - gimbal check. [Long pause.]
+099:08:09 Mattingly: Henry, did you say primary and secondary on this G&N drive?
+099:08:14 Hartsfield: Negative. Just - just the secondary loop. I didn't mean to say primary.
+099:08:21 Mattingly: Okay. Can I turn the other three gimbal motors off?
+099:08:27 Hartsfield: Say again. You were blocked out.
+099:08:32 Mattingly: I say, I'd like to turn the other three gimbal motors off if we don't need them.
+099:08:37 Hartsfield: Roger. Go ahead and turn those off. [Long pause.]
+099:08:50 Mattingly: Okay. I'm now in - I'm in S - in CMC Control. I'm setting up 204, and I have program 509 loaded. [Pause.] I'm starting Gimbal number 2 Yaw. [Pause.] Okay. It's stable now. I'm going to do a Proceed on 204.
+099:09:16 Hartsfield: Roger. [Long pause.]
+099:09:49 Mattingly: Well, doesn't look like I got anything that time.
+099:09:52 Hartsfield: I suspect you've got to be in G&N or CMC Control, haven't you? [Pause.]
+099:10:01 Mattingly: Okay. Let's try it again. Go back over everything. [Long pause.]
+099:10:30 Mattingly: Okay. I'm coming up. I'm going to start it again. I'm going to try it. Now, as soon as I turn - Well, by golly, it - it damped itself there, it started out wild, and it's settled down. Now I'm going to Proceed on 204.
+099:10:45 Hartsfield: Roger. [Pause.]
+099:10:53 Mattingly: Plus two, and it's oscillating. Minus two, and it's oscillating about one degree each, and it's oscillating in the center, it is not divergent, however. Well - now it's gone to trim, and it's oscillating about plus or minus - almost two degrees - or plus or minus one degree. I'm going to turn it Off...
+099:11:14 Mattingly: Mark.
+099:11:19 Hartsfield: Roger. Copy. [Long pause.]
+This is Apollo Control at 99 hours, 11 minutes into the mission of Apollo 16. To recap the current situation, the crews of both vehicles, Casper and Orion, have been instructed to station-keep as they come to their closest approach during the next pass behind the Moon, with the Command Service Module being active in the rendezvous. We have some five hours to resolve the current problem which consists of difficulty by Ken Mattingly in getting the Thrust Vector Control System, which keeps the Service Propulsion Engine aligned through the center of gravity on the Command Service Module. At the same time people on the ground, here in Mission Control and over in the Training Building are running simulations to attempt to develop a bypass or a workaround for the situation that Ken Mattingly has encountered and as preparations for the circularization burn. Some three minutes away from Loss Of Signal.
+099:12:14 Hartsfield: Casper, Houston. You can go ahead and shut down the gimbal motors, and turn off the TV servo loops - TVC servo loops, and clean it up.
+099:12:26 Mattingly: All right, sir. I'll power down. Thank you.
+099:13:12 Hartsfield: Casper, Houston. I've been advised that the average g killed your EMP. [Pause.]
+099:13:23 Mattingly: Okay. Thank you.
+Comm break.
+This is Apollo Control. One slight correction. We have five revolutions which amounts to ten hours in which to make the decision before the geometry of the two spacecraft orbits would dictate no landing, would be out of plane with the landing site beyond the capability of the Descent Propulsion System to steer into the landing site. To repeat again, that is five revolutions instead of five hours.
+099:14:48 Hartsfield: Casper, Houston. We're about two minutes from LOS, and when you come around next time, in that rendezvous, just come up on the best omni, and then we'll get High Gain from there. [Pause.]
+099:15:02 Mattingly: Okay, Hank. And is there anything else you can think of we can do - we might try and take a look at? Otherwise, we'll just be station-keeping at a hindred feet or so. [Pause.]
+099:15:18 Hartsfield: We can't think of anything else down here, Ken.
+099:15:25 Mattingly: Okay. Thank you, sir. See you in a few minutes.
+Comm break.
+099:16:35 Hartsfield: Ken, for your info, we up-linked a new vector to the the LM, and we weren't able to get yours in. So there will be a small difference - a couple of feet per second.
+099:16:45 Mattingly: Okay.
+Loss of Signal. Casper's onboard transcript restarts at 099:16:32.
+Now for Orion's communications, with audio, restarting from 098:10:38.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+098:10:49 Irwin: Orion, this is Houston; I'm reading you. We want you to stay with the omni antenna. [Long pause.]
+098:11:11 Irwin: Orion, this is Houston. How do you read? [No answer.]
+098:11:44 Irwin: Orion, this is Houston. How do you read? [No answer.]
+098:11:54 Duke (LM onboard): Okay; yaw around to - yaw to zero.
+098:11:58 Young (LM onboard): Yaw - yaw what?
+098:12:04 Duke (LM onboard): Yaw right a little bit.
+098:12:11 Young (LM onboard): Why?
+098:12:13 Duke (LM onboard): So we can get a better - better lock on them.
+098:12:13 Irwin: Orion, this is Houston. How do you read? [Long pause.]
+098:12:15 Mattingly (CM comm): [Garble] checked out. I switched to...
+098:12:18 Young (LM onboard): Loud and clear.
+098:12:20 Mattingly (CM comm): ...[garble] the THC to perform the secondary gimbal check [garble] normal. I set the pitch trim normally, I went to set the yaw trim; and [garble] that the trim would not work and I got divergent oscillations on the yaw trim indicator, and you can feel them in the spacecraft. So, I switched to the...
+098:12:44 Young (LM): Hey, Ken. Go off VHF please. [Long pause.]
+098:12:45 Mattingly (CM comm): ...the number...
+098:12:46 Duke (LM onboard): All we got to do is...
+098:12:47 Young (LM onboard): Huh?
+098:12:49 Duke (LM onboard): Turn yours off, man.
+098:12:51 Young (LM onboard): Huh?
+098:12:52 Duke (LM onboard): Turn it off over there.
+098:12:55 Duke (LM): Houston, Orion. Over.
+098:12:58 Irwin: Orion, this is Houston. We read you rather weak. How do you read us?
+098:13:06 Duke (LM): Roger; you're five by. The Command Module did not reach Circ. And we're standing by to - for y'alls' decision with him. Over.
+098:13:15 Irwin: Roger. Understand you standing by. We want you to stay with the omni and we'll be requesting high bit rate shortly.
+098:13:24 Duke (LM): Roger.
+098:13:26 Irwin: And we're ready for high bit rate now.
+098:13:28 Duke (LM): Did you copy? No Circ.
+098:13:29 Irwin: We copied, no Circ.
+098:13:33 Young (LM): Okay; you have high bit rate.
+098:13:34 Young (LM onboard): You hear that noise?
+098:13:35 Irwin: Okay. Anticipate a wave-off for this one. We'll set you up for the next one.
+098:13:42 Young (LM): Okay. [Long pause.]
+098:13:46 Duke (LM onboard): Yeah, What is that noise? Huh?
+098:13:50 Young (LM onboard): I don't know either. Engine Arm, Off, Master Arm, Off, P00, Landing Radar is Off, Ascent Bats, Off.
+098:13:57 Duke (LM onboard): They are.
+098:13:58 Young (LM onboard): Propellant Quantity Monitor, Off.
+098:13:59 Duke (LM onboard): It is.
+098:14:00 Young (LM onboard): We never turned it on. Audio to PTT.
+098:14:03 Duke (LM onboard): It is.
+098:14:04 Young (LM onboard): ECS to Cabin mode.
+098:14:05 Duke (LM onboard): It is.
+098:14:06 Young (LM onboard): Helmet and gloves off, AGS to Att Hold.
+098:14:08 Duke (LM onboard): It is.
+098:14:09 Young (LM onboard): Align IMU, P52, same stars.
+098:14:19 Young (LM): Okay, Ken's right out in front of us, maybe about a - 600 feet [180 metres], so we have a visual on him.
+098:14:25 Mattingly (CM comm): How about if I just give you the high gain from right here?
+098:14:27 Duke [Young in LM transcript](LM): So we have a visual on him.
+098:14:32 Irwin: Okay. We copy.
+098:14:34 Young (LM): What attitude do you want us to go to for bit.
+098:14:38 Duke (LM onboard): I think you can stop it right now.
+098:14:40 Young (LM onboard): I'm -
+098:14:41 Irwin: Stay right where you are, John. You're coming - comm's fairly good.
+098:14:46 Young (LM): Okay.
+098:14:49 Irwin: Orion, will you confirm forward omni? [Pause.]
+098:14:56 Duke (LM): Rog. That's what you have, forward omni.
+Lunar Module Orion has been advised of the possibility of a wave-off for landing on this revolution. It seems that the circularization burn on the Command Module Casper was unsuccessful.
+098:15:40 Mattingly (CM comm): I prefer this attitude, Hank, because I can keep the LM in sight.
+098:15:52 Young (LM onboard): Let's try that rendezvous radar lockup again, Charlie.
+098:15:55 Duke (LM onboard): Okay.
+098:15:57 Young (LM onboard): I don't understand why it didn't work. Do you?
+098:15:58 Duke (LM onboard): No.
+098:16:18 Duke (LM onboard): It's good, John.
+098:16:21 Young (LM onboard): It got him, hadn't it?
+098:16:22 Duke (LM onboard): Yeah. Go Auto Track.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+098:16:58 Irwin: Orion, this is Houston. We'd like you to go back to normal RCS configuration. [Pause.]
+098:17:07 Young (LM): Roger.
+098:17:08 Young (LM onboard): Normal RCS config, Charlie; whatever that means.
+098:17:15 Duke (LM): Jim, be advised we had a couple of RCS Reg A lights on the back side, and by flipping the system, it went out. [Pause.]
+098:17:30 Duke (LM onboard): I think he's probably just about out of Mode - Mode 1 limits, John.
+098:17:33 Young (LM onboard): Yeah, I think that's what it is.
+098:17:33 Irwin: Roger. We copy, Charlie.
+098:17:49 Young (LM onboard): Well, the heck with it.
+098:17:51 Duke (LM onboard): Wait a minute. Let me park the antenna where it should be.
+098:17:57 Young (LM onboard): Plus all balls? No, you - there you go, plus.
+098:18:25 Young (LM onboard): Okay.
+098:18:26 Duke (LM onboard): Let me pull the breakers.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+098:19:12 Young (LM): Houston, how do you read. Over?
+098:19:17 Irwin: Orion, this is Houston. Read you loud and clear.
+098:19:19 Mattingly (CM comm): Okay; I'm prepared to do that right now if you're ready.
+098:19:22 Young (LM): Okay. I don't think we're going to have a - remeeting problem here, but we're pointed right at him and as I look at him on my LPD, [pause] Ken is out at 46 degrees and about - oh, I'd say 800 or 900 feet, maybe a thousand [300 metres].
+098:19:55 Irwin: Roger. Can you see those booms that had the problem? [Pause.]
+098:20:01 Duke (LM onboard): They're all retracted. Everything's retracted.
+098:20:05 Duke [Young in LM transcript] (LM): Everything is retracted in the SIM bay.
+098:20:09 Irwin: Okay, we copy.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We are going around at least one more rev before attempting the Power Descent Initiation for Lunar Module Orion. Ken Mattingly in Command Module Casper encountered some problems in preparing for the Service Propulsion System burn for the circularization maneuver. Seems that a secondary circuit on the Thrust Vector Control System apparently did not come up to specifications. So the circularization burn was aborted, and we have a wave-off. We'll stand by for the remainder of this front-side pass as a new circularization burn maneuver is calculated, and troubleshooting continued for Ken Mattingly and his problem aboard Casper.
+098:23:12 Young (LM onboard): There's nothing we can do, Charlie. You think?
+098:23:18 Duke (LM onboard): Up to them. Let's see the book.
+098:24:26 Young (LM onboard): You want - you say you want to go ahead and try it without - without the - without the loops? What do you think?
+098:24:31 Duke (LM onboard): I don't think they do. I bet you they don't.
+098:26:13 Young (LM onboard): You never can tell, Charlie.
+098:26:15 Duke (LM onboard): What?
+098:26:16 Young (LM onboard): What they'll do. Sock, me a little water.
+098:26:24 Duke (LM onboard): Okay.
+098:26:34 Young (LM onboard): That's fine. Thank you.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+098:27:21 Duke (LM): Houston, 16.
+098:27:23 Irwin: Okay, go ahead, 16.
+098:27:27 Duke (LM): All right, Jim. You guys working on some more PADs and stuff for us?
+098:27:31 Irwin: Oh, yeah, we are, Charlie, and when you get a chance we'll take your AGS cal, if you have those.
+098:27:40 Duke (LM): Yeah, sure do. Stand by.
+098:27:44 Young (LM): We'd like to pitch down to keep Ken in sight. Is that possible?
+098:27:49 Irwin: Okay, you're clear. [Pause.]
+098:27:55 Duke (LM): Okay, starting with 540, minus 008, plus 001, plus 002, plus 006, plus 05 - correction plus 045, minus 088, and the initial numbers were the same as on the Data Card Book.
+098:28:14 Irwin: Okay, beginning - here's the readback, beginning at 540, minus 008, plus 001, plus 002, plus 006, plus 045, minus 088, and the initial values were the same as on the card. Over.
+098:28:33 Duke (LM): That's affirmative.
+098:28:36 Irwin: Okay. And on your RCS situation, we suspect that the burst disk went back side. We'd like to make sure that the System A pressure, when the source pressure in System A gets down to 500 psi, we'd like you to close off System A. Over.
+098:28:56 Young (LM): Roger. [Pause.]
+098:28:57 Young (LM onboard): What is it now, Jim?
+098:29:07 Duke (LM): When you say source pressure, you mean helium?
+098:29:09 Irwin: Affirmative.
+098:29:13 Duke (LM): Okay, Jim, the helium is holding right up there. It's 2400 and that was where it was before we started getting those RCS lights. The pressure never has gone above about the 205, 210 maybe.
+098:29:27 Irwin: Okay, we copy.
+098:29:42 Duke (LM onboard): But it's RCS problem. The comm problem.
+098:29:46 Young (LM onboard): The radar problem.
+098:29:48 Duke/Young (LM onboard): And the gimbal problem.
+098:29:58 Young (LM onboard): They're liable to shoot us down on numbers alone.
+098:30:00 Duke (LM onboard): Yeah.
+098:30:04 Young (LM onboard): Man, I'm ready. I'm ready to go down and land. I think that'd really be neat.
+098:30:47 Duke (LM onboard): I bet we dock and come home in about three hours.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+098:31:55 Duke (LM): - Jim, give me a call when you want us to go to Aft Omni.
+098:31:58 Irwin: Roger. We sure will, Charlie. [Long pause.]
+098:32:20 Duke (LM): You got a LOS time for us? [No answer. Long pause.]
+098:32:39 Young (LM onboard): 300 hours in the pressure suit.
+LM transcript ceases until 099:22:56:
+098:32:45 Young (LM): Ken, is your transponder on?
+098:32:53 Young (LM): Okay.
+098:32:59 Young (LM): Okay. We're gonna try our radar lockup here too again.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+098:34:34 Irwin: Okay, Orion. Let's go Lo bit rate.
+Comm break.
+This is Apollo Control. Here in Mission Control, all of the...
+This is Apollo Control. Here in Mission Control, all of the options are being considered with the current situation in which the Thrust Vector Control portion of the Stabilization and Control System, which in turn controls the firing and gimbaling of the Service Propulsion System engine. It's being mulled over. The other options would be rendezvous over the next couple [of] revolutions and possibly using the Descent Propulsion System onboard Orion for injecting the spacecraft back into a trans-Earth trajectory. Over the next several hours this consideration should sort itself out.
+098:36:10 Irwin: Orion, will you go Hi bit rate, again? [Long pause.]
+098:36:41 Irwin: Orion, go Aft Omni. [Pause.]
+098:36:48 Young (LM): We have Aft Omni, Jim.
+098:36:50 Irwin: Roger. [Long pause.]
+098:37:33 Irwin: Orion, go Lo bit rate. [Pause.]
+098:37:35 Young (LM): We have Lo bit rate.
+This is Apollo Control at 98:37. The current situation in Apollo 16 is a wave-off. That is another revolution before attempting a landing.
+098:37:50 Duke (LM): We have an RCS Reg A light, Jim. We're going to [garble].
+098:37:52 Irwin: Orion, go A Simplex, Ken's trying to call you.
+However as mentioned earlier other options are being looked at in case the trouble shooting on the Command Module - Command Service Module Stabilization and Control System fails to pan out to where the circularization burn or any other Service Propulsion System burns could be conducted successfully.
+098:38:00 Duke (LM): Go ahead, Ken. [Long pause.]
+098:38:31 Irwin: Orion, go Forward omni. [Long pause.]
+098:39:02 Irwin: Orion, Forward omni.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+098:41:40 Duke (LM): Okay, that sounds pretty good. [Pause.] Houston, how do you read Orion? Over.
+098:41:48 Irwin: Read you loud and clear, Orion. [Long pause.]
+098:42:33 Young (LM): Houston, this is Apollo 16 [garble]. [Long pause.] [Garble] PDI. We'd like to try.
+098:42:56 Irwin: Orion, this is Houston, if you're calling.
+098:43:02 Young (LM): Roger. We wonder if there is any possibility of an answer on - We're going to do a P52 and get ready for another PDI. Over.
+098:43:21 Irwin: Stand by. We'll tell you.
+098:44:10 Irwin: Okay. Orion, this is Houston. You can go ahead with your P52, John, we're thinking of having you all try to get back closer together on the back side, of your - point of approach. And we'll have some more words to you on that. And if later we decide for the PDI, we'll have another procedure for you.
+098:44:36 Young (LM): Okay. [Pause.] Understand.
+This is Apollo Control. There's a rather busy huddle around the Flight Director's console here in Mission Control as all the options for the current situation in the mission are considered. Shall we continue trying to troubleshoot the problem with the Command Service Module Stabilization and Control System or shall we proceed with re-rendezvous and a Trans-Earth Injection burn at several hours hence. The possibility is still open for troubleshooting and fixing the problem with the system that controls the Service Propulsion System, and just landing at a later time. We are hopeful that before Loss of Signal on this 12th revolution of Apollo 16 that the decision will be made. At 98:46, this is Apollo Control.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. Spacecraft communicator Jim Irwin in the next few moments should pass up to the crew of Orion what the current thinking is here in the Control Room on attacking the problems that have arisen in the Apollo 16 mission.
+098:49:59 Duke (LM): Houston, I gave you Aft omni.
+098:50:29 Irwin: Orion, go Aft omni.
+098:50:33 Duke (LM): Orion is in Aft omni.
+098:50:36 Irwin: Roger. Copy.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+098:52:26 Irwin: Orion, go Forward omni.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+098:54:29 Young (LM): [Garble] registering 10.
+098:54:43 Young (LM): Yeah, the [garble] was off 10.
+Comm break.
+098:58:35 Irwin: Orion, go Aft Omni.
+098:58:40 Duke (LM): Orion, Aft Omni.
+099:02:40 Irwin: Hello, Orion and Casper. This is Houston.
+099:02:46 Young (LM): Go ahead, Houston.
+099:02:47 Irwin: Roger. It looks like we're not going to have a decision on this Rev, and we do have the capability of spending about five rev's in this configuration before we have to make that decision. We would like y'all to move into a station-keeping position, and you should be at the closest point of approach at, about 100 hours. And we're recommending a CSM active to move into a position and to station-keep. And we're going to run some simulations down here on this TVC problem, and we'll get back to you.
+099:03:22 Duke (LM): Roger.
+099:03:30 Irwin: Casper, this is Houston. You copied, too, didn't you?
+099:03:34 Duke (LM): Roger. He reads you.
+099:03:35 Irwin: Okay.
+099:05:16 Duke (LM): Go ahead.
+099:06:04 Duke (LM): That...
+099:06:56 Irwin: Orion, this is Houston. We want to try another procedure here to improve our comm. We want you to select Secondary Power Amplifier.
+099:07:08 Duke (LM): Okay, [garble] Secondary Power [garble].
+099:08:25 Irwin: Orion, this is Houston. Will you confirm that you changed power amplifiers?
+099:08:32 Duke (LM): That's affirmative.
+099:08:36 Irwin: Roger. Copy.
+099:09:07 Irwin: Orion, let's go Hi bit rate.
+099:09:27 Duke (LM): You have Hi bit rate.
+099:09:28 Irwin: Roger.
+099:10:23 Duke (LM): Hey, Jim; Orion. Could we close off main B in this system A?
+099:10:30 Irwin: Stand by.
+099:10:35 Irwin: Orion, we're happy with your present RCS configuration.
+099:12:22 Irwin: Orion, this is Houston. And if - you're in P00; if you'll go to Data, we'll send you a state vector. Over.
+099:12:34 Young (LM): Roger. You have it. Go ahead.
+099:12:35 Irwin: Roger.
+099:15:01 Irwin: And, Orion, we're 2 minutes from LOS.
+099:15:17 Duke (LM): Copy, Jim. And we're going to - Updata Link to Off.
+099:15:43 Irwin: Orion, we're finished with your computer.
+099:15:49 Duke (LM): Roger. Thank you much.
+The LM transcript restarts at 099:23:02.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We've had Loss of Signal at the end of the - near the end of the 13th lunar revolution as both spacecraft go around the back of the Moon. Flight Director Gerry Griffin is having what he calls a 'tag up' with all of the console positions here in the Control Center for a discussion of the current situation in Apollo 16. We've had a wave-off so far. That is the current posture of the mission. Crew will rendezvous at the next closest approach time and station-keep until such time as the resolution is made here on the ground whether or not to continue the mission or to re-rendezvous, dock and do an immediate Trans-Earth Injection burn. They're attempting to work around the problem in the Command Service Module Thrust Vector Control circuitry, which apparently bombed out on Ken Mattingly when he was preparing for his circularization burn. We have some five revolutions in which the decision can be made before it would be a definite No-Go for landing. At 99:18, and 46 minutes away from acquisition on Rev 14, this is Apollo Control.
+We start with just under six minutes of CM transcript.
+099:16:32 Young (CM onboard): [Garble] the CSM to be active [garble]. They want [garble]. Oh, this one must be - Yeah, this is RCS [garble]...
+099:16:44 Mattingly (CM onboard): Okay.
+099:16:46 Young (CM onboard): Yeah, they - yeah, but they must want the CSM to be active on the [garble]. What is the [garble]? [garble] go down there [garble]. Can't [garble] these burns [garble]. It's very expensive to try to keep [garble].
+099:17:18 Duke (CM onboard): Okay, Ken. We're gonna lock on to the landing rad - to the rendezvous radar, and are you just gonna move in with RCS?
+099:17:26 Mattingly (CM onboard): Yeah. I think I'll [garble].
+099:17:31 Duke (CM onboard): You're pretty garbled.
+099:17:34 Mattingly (CM onboard): [Garble]. Can you read me now, Charlie?
+099:17:38 Duke (CM onboard): Yeah, we - we read you.
+099:17:40 Young (CM onboard): You sound like you're talking through about six feet of grits.
+099:17:47 Mattingly (CM onboard): I don't think that's what it is right now.
+099:17:53 Young (CM onboard): That's [garble] all that stuff? Oh, man. [garble].
+099:18:33 Young (CM onboard): Makes you think that the [garble] valve [garble][garble] landing radar, Ken. Pick me up [garble].
+099:19:06 Young (CM onboard): Look at that.
+099:19:08 Duke (CM onboard): What?
+099:19:09 Young (CM onboard): Already lost some of it.
+099:19:13 Duke (CM onboard): This was pretty good flight.
+099:19:17 Young (CM onboard): Going down.
+099:19:32 Duke (CM onboard): Got time for this [garble]? It has - it's got a main [garble] minus something.
+099:19:47 Young (CM onboard): Well, it will be here pretty quick, Charlie. [Garble].
+099:20:07 Young (CM onboard): That's 20 minutes. I don't think we'll ever agree on that, though; okay?
+099:20:13 Duke (CM onboard): Okay. Let's try [garble].
+099:20:16 Young (CM onboard): Okay.
+099:20:38 Young (CM onboard): [Garble] there and [garble].
+099:21:06 Mattingly (CM onboard): Okay, [garble] lock up on the radar [garble]. Okay, Charlie.
+099:21:12 Duke (CM onboard): We're not locking up. We're gonna say that we don't want to do it for this, Ken.
+099:21:18 Mattingly (CM onboard): [Garble] plans.
+099:21:25 Young (CM onboard): Okay.
+099:22:22 Mattingly (CM onboard): [Garble] flight [garble].
+099:22:34 Mattingly (CM onboard): [Garble] oh, okay [garble] try to [garble].
+099:22:55 Mattingly (CM comm): I didn't get a chance to follow all the things [garble]. Do you have any problems or anything?
+LM transcript restarts and is combined with the CM one from 101:10:46.
+099:23:02 Duke (LM comm): We got a RCS problem, but it's not too bad. And, otherwise, we're okay. We can't get our steerable antenna up.
+099:23:21 Mattingly (CM comm): You don't need that now, do you?
+099:23:22 Duke (LM comm): No.
+099:23:23 Mattingly (CM comm): Can you land on omni?
+099:23:25 Duke (LM comm): Yeah, we can land on omni. How does that thing look to you, Ken? Is it unstable everywhere?
+099:23:30 Mattingly (CM comm): Yes, sir. There's no question about it. I - any - any force at all that moves at all makes it go unstable. Looks like feedback in the control.
+099:23:41 Duke (LM comm): Is that Main B? Is it run off Main B?
+099:23:44 Mattingly (CM comm): Yeah. But I don't think that - it's not likely that I wouldn't have done that, I wouldn't think. They - they told me after - I guess it was after you guys had left that they went back and looked at the dumps and found that we happened to hit all the heaters at one time.
+099:24:00 Duke (LM comm): Ah so. Well, I never did think it was a good idea to run those gimbal motors that long.
+099:24:13 Mattingly (CM comm): Well, I guess they're having some of those kind of thoughts right now, too.
+099:24:19 Duke (LM comm): Yeah. Those once in a million problems like that coarse align, and everybody gets boresighted on it.
+099:24:33 Mattingly (CM comm): Well, I guess we really need to wait and see [garble] really want. You never know, those guys might come through here and find a way to take you down. Thought that it would hold its position with an external force on it, we could control the problem pretty good by using the - just using the proper trims to start the burn.
+099:24:59 Duke (LM comm): Yeah.
+099:25:01 Mattingly (CM onboard): But if you just count on the external forces not moving it, then I don't know what you do. I was thinking maybe we could use it in Accel Command with - just set the proper trim and immediately go to SCS and Accel Command, point it the right direction.
+099:26:18 Young (LM onboard): [Garble] that pulse. [Garble]
+099:26:25 Young (LM onboard): You sleeping?
+099:26:27 Duke (LM onboard): Was I sleeping? I was almost asleep.
+099:26:37 Young (LM onboard): I bet my bride is beside herself.
+099:26:41 Duke (LM onboard): Yeah.
+099:27:12 Duke (LM onboard): Well, we'll be two revs late, but we'll do it.
+099:27:16 Young (LM onboard): I hope you're right.
+099:27:28 Young (LM onboard): We ain't gonna do any EVA today, either.
+099:27:30 Duke (LM onboard): You don't want to?
+099:27:32 Young (LM onboard): Not for two revs, Charlie. Let's do it tomorrow and do the full thing.
+099:27:54 Young (LM onboard): What's it do, bend?
+099:27:59 Duke (LM onboard): Probably the first dish, yeah.
+099:28:34 Duke (LM onboard): He's dropping down out the bottom of the window.
+099:26:54 Mattingly (CM comm): We're now passing right [garble] through Scorpio.
+099:28:58 Young (LM comm): Yep.
+099:29:00 Mattingly (CM comm): Did find out that once we got the LM off there that the - we'd be able to see it a lot better. I guess the telescope just wiped out the [garble] the LM.
+099:29:39 Mattingly (CM comm): What's the limitation of how long you can stay before - you can't go down?
+099:29:44 Young (LM comm): Five revs.
+099:29:46 Mattingly (CM comm): No, I mean what's the limiting factor? Is it water?
+099:29:49 Young (LM comm): No. We got plenty of water.
+099:29:51 Duke (LM comm): We could - we can land and just do a couple of EVAs.
+099:29:56 Mattingly (CM comm): I just wondered what - how they came up with five revs - was it water or what [garble]?
+099:30:02 Young (LM comm): Got no idea.
+099:30:03 Duke (LM comm): I don't know.
+099:30:13 Duke (LM comm): Light still on?
+099:30:16 Young (LM comm): Yeah, ours is.
+099:30:18 Duke (LM comm): No, I mean the RCS light.
+099:30:26 Young (LM comm): What's the pressure?
+099:30:29 Duke (LM comm): It's 210.
+099:30:47 Duke (LM comm): I think we got enough ullage in there, in the tanks to -
+099:30:55 Young (LM comm): Just let it go? It's not firing anymore?
+099:31:02 Duke (LM comm): Well, I don't know.
+099:31:13 Duke (LM comm): I don't think we ought to fire anymore.
+099:31:33 Duke (LM comm): It's probably that thermal blanket blew off and caused this thing to overpressurize.
+099:31:39 Young (LM comm): Probably right, Charlie.
+099:31:43 Duke (LM comm): But the temps are good.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, 99 hours, 31 minutes Ground Elapsed Time into the mission of Apollo 16. To recap the current situation here in Mission Control Center, various considerations are underway on whether or not to continue the mission with a later landing or to have the two spacecraft, Orion and Casper, rendezvous, dock and do a Trans-Earth Injection burn using the Lunar Module's Descent Propulsion System. This would assume of course that the Service Propulsion System on the Command Module is inoperative, because of the apparent problem in the SCS or Stabilization Control System, which in turn drives and controls the SPS system, aboard the Command Service Module. We have something in the neighborhood of five revolutions or about 10 hours in which to reach the decision on the outcome of the lunar landing. As Orion came around the east limb of the Moon this last revolution in preparation for Powered Descent Initiation, they were prepared for the landing. However Casper, piloted by Ken Mattingly, reported that he had not made the Circularization Burn. Since that time there have been many huddles here in the Control Room; engineers are going over drawings in the back rooms, simulations are underway here at the Manned Spacecraft Center to determine the nature of the Service Propulsion System control problem and hopefully by the time the crew comes around the corner again some 31 minutes from now, at least some clarity will come out of the situation. But as mentioned earlier, it may take the entire five revolutions. The limit of five revolutions has to do with the orbital geometry because after that time the orbital plane of the Lunar Module would be - would have drifted so far away from the landing site that the - there's not ample propellant to steer into the Descartes landing area from the present orbit without a [orbital] plane change. At 99:34, and 30 minutes and 30 seconds from Acquisition of Signal [from] both spacecraft, this is Apollo Control.
+099:33:21 Duke (LM comm): Is that sunrise?
+099:33:27 Young (LM comm): Yep.
+099:33:30 Mattingly (CM comm): Did you say you had sunrise, Charlie?
+099:33:32 Duke (LM comm): It's coming up. We can see it glowing beyond the horizon.
+099:33:36 Young (LM comm): It's gonna be instant sunrise.
+099:33:39 Mattingly (CM comm): [Garble] doing? Man, looks like [garble] dark as ever.
+099:33:45 Duke (LM comm): It's behind you, Ken.
+099:33:46 Young (LM comm): Yeah, it's behind you, boy. When it comes up, we won't be able to see you anymore.
+099:33:52 Mattingly (CM comm): Okay; I've got you boresighted.
+099:33:54 Young (LM comm): Okay.
+099:34:15 Young (LM comm): Be kind of hard to get a radar lock. Oh, no.
+099:35:24 Duke (LM comm): Yeow!
+099:35:25 Mattingly (CM comm): Boy! Did you ever brighten up in a hurry!
+099:35:34 Young (LM comm): It was long before we got there, though, that we saw it, right?
+099:35:37 Duke (LM comm): Right. Yeah.
+099:35:38 Young (LM comm): Do you reckon light bends?
+099:35:40 Duke (LM comm): Huh?
+099:35:44 Young (LM comm): Reckon the light bends?
+099:35:44 Mattingly (CM comm): Man, are you ever bright!
+099:35:48 Young (LM comm): Where'd my glove go?
+099:37:40 Young (LM comm): We were Go for PDI there for a while.
+099:37:43 Duke (LM comm): Yeah.
+099:37:46 Young (LM comm): I can't - I can't believe it. I can't believe it (laughter). We'd had no trouble at all picking up the site either.
+099:37:54 Duke (LM comm): I know; it's beautiful. I guess you can't win them all.
+099:38:10 Young (LM comm): I'm not getting any cooling at all, Charlie. Are you?
+099:38:13 Duke (LM comm): Cooling?
+099:38:14 Young (LM comm): Yeah.
+099:38:15 Duke (LM comm): A little bit out of the suit. Not much.
+099:38:22 Young (LM comm): Why don't you go to LGC on a - for a second or two?
+099:38:42 Young (LM comm): Okay.
+099:39:13 Young (LM comm): Charlie, we ought to have an eat period is what we ought to do. You ain't hungry?
+099:39:20 Duke (LM comm): No.
+099:39:22 Young (LM comm): How about something to drink, or something like that?
+099:39:24 Duke (LM comm): Back there in the food locker.
+099:39:36 Duke (LM comm): I don't want anything, really.
+099:39:38 Young (LM comm): You don't? Okay.
+099:39:42 Duke (LM comm): Unless they got a sandwich or something back there. I'll eat that.
+099:39:49 Young (LM comm): All they got is those drinks, Charlie. Those orange drinks.
+099:39:57 Duke (LM comm): Wait a minute. Open the top, John.
+099:40:01 Young (LM comm): I don't want to get too close to the hatch.
+099:40:04 Duke (LM comm): Ain't nothing wrong with the hatch. It's okay.
+099:40:15 Duke (LM comm): Those two on the left come open.
+099:40:18 Young (LM comm): Yeah, I know it, if I can get to them.
+099:40:38 Young (LM comm): See. Those orange drinks.
+099:40:50 Duke (LM comm): What's all that's in there, is orange drinks?
+099:40:52 Young (LM comm): Well, there's some stuff behind it, but I can't get at it. I'm not - I just can't. I - I could reach it with the moving the orange drinks, but if I do, I don't know what I'm gonna do with them.
+099:41:06 Duke (LM comm): Put them in the Flight Data File up here. There's plenty of room up here.
+099:41:47 Duke (LM comm): Oh, oh. Excuse me.
+099:41:48 Young (LM comm): Son of a gun, I keep - I keep getting them things.
+099:41:58 Young (LM comm): In this one?
+099:41:59 Duke (LM comm): Yeah. Either one.
+099:42:03 Young (LM comm): Don't think there is plenty of room in there. No, there ain't.
+099:42:19 Young (LM comm): Man, there is more pieces of metal around this spacecraft! You want a food stick?
+099:42:28 Duke (LM comm): It won't go in there?
+099:42:31 Young (LM comm): Might if I fold them in half.
+099:42:32 Duke (LM comm): Stick them into the ISA then.
+099:42:41 Young (LM comm): There we go.
+099:42:51 Young (LM comm): I'd hate for any of that stuff to get loose in zero gravity. It would be a mess.
+099:43:07 Young (LM comm): Charlie, you got me almost to PDI there.
+099:43:11 Duke (LM comm): Well, I tried hard.
+099:43:12 Young (LM comm): You did good.
+099:43:18 Duke (LM comm): But if the gear don't work. Well, maybe they'll come up with something.
+099:43:27 Young (LM comm): How about a food stick? Can I have a food stick, Charlie?
+099:43:30 Duke (LM comm): Sure.
+099:43:59 Young (LM comm): Don't know where he is now.
+099:44:01 Duke (LM comm): Probably down below him. Below us, rather. Hey, Ken, they want you to rendezvous at 100 hours, wherever that is.
+099:44:10 Mattingly (CM comm): Yeah, I thought they said that was our closest point of approach, and it sure doesn't look to me like it's gonna be. Looks like we passed it back there about 20 minutes ago.
+099:44:19 Duke (LM comm): Yeah, I - I agree with you. They want you to be active.
+099:44:24 Young (LM comm): There is no way they can tell what it is or, these short things; they don't have any idea where we are, Charlie - Ken.
+099:44:38 Mattingly (CM comm): Charlie, I'm going to try reacquire range and make sure I don't have a bad rate.
+099:44:43 Duke (LM comm): Okay, I got 0.68 on the...
+099:44:45 Mattingly (CM comm): I got 0.52. Let me reacquire and we'll try it again.
+099:44:52 Young (LM comm): That - What is that? That's not 1678.
+099:44:55 Duke (LM comm): No, that's...
+099:44:56 Mattingly (CM comm): Say, could you could stay off the mike while I get it working?
+099:45:16 Mattingly (CM comm): Okay, I have reacquired the LM. 0.55.
+099:45:20 Duke (LM comm): Okay; you can start closing if you want, I guess.
+099:45:25 Mattingly (CM comm): Yeah, I guess I will. I was gonna watch - watch the Sun here. It should scoot back around any minute.
+099:45:31 Young (LM comm): Yeah, just be - Hey, if you want us to give you range and range rate, we'll lock on you. How about that?
+099:45:37 Mattingly (CM comm): I'm sorry. I didn't understand what you said, John.
+099:45:39 Young (LM comm): We should lock on you and give you range and range rate.
+099:45:43 Mattingly (CM comm): Well, I thought you were saying you didn't have your radar, and I thought that made good sense.
+099:45:47 Duke (LM comm): No. We got plenty.
+099:45:49 Young (LM comm): We've got plenty of radar. We're going to do it.
+099:45:51 Mattingly (CM comm): I thought you were trying to save on your amps.
+099:45:54 Young (LM comm): No. No, we got plenty of amps.
+099:45:57 Mattingly (CM comm): Okay. Well, that would help. That's better than this thing.
+099:45:59 Young (LM comm): Dang right. Where are - Which way should we pitch to get to you?
+099:46:05 Mattingly (CM comm): Beg your pardon?
+099:46:06 Young (LM comm): Which way should we pitch to get to you?
+099:46:09 Mattingly (CM comm): Oh. Well, let me see here. All - Oh, boy. It's hard to tell what figures I'm looking at, it's so bright. I think I'm looking at the top of you, though.
+099:46:26 Young (LM comm): Okay.
+099:46:28 Duke (LM comm): That's what it says, pitch up.
+099:46:32 Young (LM comm): [Garble], Well, you can't believe that, Charlie. We ain't updated it.
+099:46:35 Duke (LM comm): Huh?
+099:46:36 Young (LM comm): We ain't updated it or nothing.
+099:46:38 Duke (LM comm): I said - Oh, you mean the radar?
+099:47:35 Young (LM comm): I don't see him anywhere.
+099:47:42 Mattingly (CM comm): That's superbright. That must be - maybe I'm looking at the heat shield around your engine. That's probably it, because I can see the four gear. You - you must be pitched 180 to me.
+099:47:57 Duke (LM comm): That's what I thought. He's been going in under us.
+099:48:03 Young (LM comm): Well, why did you say pitch up?
+099:48:05 Duke (LM comm): I didn't say that, Ken did.
+099:48:09 Young (LM comm): (Laughter) You ain't gonna take credit for it, huh? [Garble] I'd have swore I heard you say pitch up.
+099:48:16 Duke (LM comm): Well, that's what the AGS says, but that ain't right.
+099:48:20 Young (LM comm): Well, it must have been - You know...
+099:48:21 Duke (LM onboard): Yeah, yeah.
+099:48:22 Young (LM comm): ...you can't - Anything less than a mile, these things ain't no good. Because - Well, AGS is okay. But this thing here measures from the center of the Moon. I don't have the foggiest notion where our boy is.
+099:49:32 Young (LM comm): Hear that noise?
+099:49:35 Duke (LM comm): It's in the comm. Oh, that whooooo? Oh, yeah.
+099:49:42 Young (LM comm): That's what I mean.
+099:49:43 Duke (LM comm): Yeah.
+099:49:44 Young (LM comm): We were back here - It's got something to do with the VHF ranging.
+099:51:02 Young (LM comm): Boy, I don't see him anywheres.
+099:51:06 Duke (LM comm): Think we got quite a ways to pitch yet.
+099:51:08 Young (LM comm): Oh, shoot. Do it.
+099:51:16 Young (LM comm): There he is. Yeah, he's way far away from us. I think what the problem is, Ken...
+099:51:21 Duke (LM comm): There he is, dead ahead.
+099:51:22 Young (LM comm): ...is you're opening up.
+099:51:24 Duke (LM comm): Dead ahead.
+099:51:25 Young (LM comm): Yeah, I got it.
+099:51:26 Duke (LM comm): Push the Rendezvous Breakers breakers in.
+099:51:27 Young (LM comm): Yeah, that's a good idea.
+099:51:32 Mattingly (CM comm): I agree with you.
+099:51:33 Young (LM comm): You want to be careful how much velocity you add, because you're too low to add a lot. Or...
+099:51:39 Mattingly (CM comm): So far I've just put in two foot per second, but that's - that's even closing [garble]
+099:51:45 Young (LM comm): Okay.
+099:51:47 Mattingly (CM onboard): It looks like you're looking at me now.
+099:51:49 Young (LM comm): Well, two foot per second, you should of took out two foot a second on account of you're ahead of us.
+099:51:56 Mattingly (CM comm): Say again?
+099:51:59 Young (LM comm): Remember Mr. Kepler?
+099:52:10 Mattingly (CM comm): Say again, John.
+099:52:11 Young (LM comm): Either way, two foot in or out will do it. That'll make him slow down when he goes up over the top of us.
+099:52:23 Duke (LM comm): Yeah.
+099:52:28 Young (LM comm): I'd rather have - There we go.
+099:52:58 Duke (LM comm): Hey, we got him. Okay. He's still opening.
+099:53:03 Mattingly (CM comm): Okay. What kind of a range do you read now?
+099:53:05 Duke (LM comm): 0.66 miles and open, and it's 0.6 foot a second.
+099:53:09 Mattingly (CM comm): Okay.
+099:53:24 Mattingly (CM comm): Well, I guess I better put in another couple of foot per second then. Hate using all that gas on it, but I guess that's the only way.
+099:53:50 Young (LM comm): Let me get him boresighted and locked up.
+099:54:08 Young (LM comm): Well, let me get it like this.
+099:54:10 Duke (LM comm): Okay. Thought we might have had a side lobe.
+099:54:16 Young (LM comm): Yeah.
+099:54:19 Duke (LM comm): There you go. Go to LGC.
+099:54:34 Duke (LM comm): Got a side lobe.
+099:54:35 Mattingly (CM onboard): Okay, what do you show now? ["Tell me when you [garble]" in LM comm]
+099:54:41 Duke (LM comm): Stand by, Ken. We had a side-lobe block. We're getting the main lobe.
+099:54:44 Mattingly (CM onboard): Okay.
+099:54:48 Duke (LM comm): That looks like it, John. Oh, you want to go to -
+099:55:01 Young (LM onboard): There we go.
+099:55:04 Duke (LM comm): Okay; we close. Show 0.68 miles [1.26 kilometres], 0 feet a second,
+099:55:12 Young (LM comm): Yeah, you're 4200 [feet, 1,280 metres] out. It says here it -
+099:55:20 Duke (LM comm): Okay; we show you -
+099:55:35 Duke (LM comm): Better not add too much.
+099:55:36 Young (LM comm): No. I'd just hold what you got, Ken.
+099:55:39 Mattingly (CM onboard): Okay.
+099:55:41 Duke (LM comm): He'll drop way down. You know, if he - if he fires this way, it's retrograde; it's gonna drop him low - lower his orbit.
+099:55:55 Young (LM comm): Yeah, how much did you put in?
+099:55:57 Mattingly (CM comm): I put in a total of 3.5 [feet per second or 1.0 metres per second].
+099:56:01 Young (LM comm): Okay. Well, that's gonna get you right close to the ground.
+099:56:05 Mattingly (CM comm): Not from over here.
+099:56:10 Mattingly (CM comm): Well, I ain't gonna get very far from you.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control; 99 hours, 56 minutes Ground Elapsed Time into the mission of Apollo 16. Some seven minutes, 40 seconds away from acquisition on the 14th lunar revolution. To recap again the current situation in the mission, the circularization burn for Command Module Casper was aborted when Ken Mattingly discovered some discrepancies in the backup system which controls the Service Propulsion Engine. We still have a good prime system, that is a Guidance and Navigation system aboard the Command Module. However, we would be one failure away for the very critical Trans-Earth Injection maneuver which requires a fairly lengthy burn and a stable engine bell from the Service Propulsion System; therefore, quite a few people here in Houston and at the spacecraft manufacturer in Downey, California are looking into the ramifications of the backup system having apparently failed. Would this present any structural strain on the spacecraft if the engine bell went to full yaw, and would we be able to do a successful Trans-Earth Injection with this engine? As all of these questions are answered, the decision will be made whether or not to continue with the landing phase or to rendezvous and do a Trans-Earth Injection burn using the Descent Engine on the Lunar Module Orion. We have about five revolutions, or some 10 hours in total time in which to make this decision. This, again, is dictated by the orbital mechanics. The fact that the Lunar Module would drift away from the desired ground track for the landing site at Descartes during any time past these five revolutions. The Gold Team of flight controllers will stay on duty in the Control Center for the landing if the decision is made to land. If the decision is made to rendezvous and do a docked Descent Propulsion System burn to bring the spacecraft home, Pete Frank's Orange Team will take over. Some 4 minutes, 37 seconds now away from acquisition and at 100 hours even, this is Apollo Control.
+099:56:28 Mattingly (CM comm): Am I closing any yet?
+099:56:32 Young (LM comm): No. It - it'll take half a rev.
+099:56:34 Mattingly (CM comm): Okay, I'm not sure - it seemed to me like they gave us bum dope on this 100 hours.
+099:56:44 Young (LM comm): Yeah, you know they have no idea where we are.
+099:56:47 Mattingly (CM comm): Yeah, but they know where we undocked and we haven't done anything. Think they ought to...
+099:56:51 Young (LM comm): No, no. There's no way. Not for short ranges like this.
+099:57:24 Mattingly (CM comm): I really wanted to get within half a rev. I guess that ought to be a radial burn, shouldn't it?
+099:57:30 Duke (LM comm): Okay. We show you closing slightly now, about a half a foot a second.
+099:57:35 Mattingly (CM comm): Okay.
+099:57:54 Mattingly (CM comm): Yeah, it shows it took me down to 8.6. But as long as I stick with you, I can't get too far away.
+099:58:03 Young (LM comm): Okay. Our Range Rate meter says you're 4,100 foot [1,250 metres] out.
+099:58:07 Mattingly (CM comm): Okay.
+099:58:19 Mattingly (CM comm): What do you show for your - perilune?
+099:58:23 Duke (LM comm): The what?
+099:58:25 Mattingly (CM comm): What's your perilune?
+099:58:35 Duke (LM comm): Ours says 11.0 [miles, 20.4 kilometres], Ken.
+099:58:41 Mattingly (CM comm): Okay, I'm reading 8.6 [15.9 kilometres].
+099:59:02 Duke (CM comm): I guess the five revs might have been, John, the - the high gain coverage they got, since our steerable doesn't work. We can go as long as we got the 210.
+099:59:15 Young (LM comm): Yeah.
+099:59:22 Duke (LM comm): It's going to be hard to run - He's going to take a lot of gas to get over here.
+099:59:27 Young (LM comm): Should have took it out.
+099:59:31 Duke (LM comm): Huh?
+099:59:43 Young (LM comm): You thrusted toward us 3.5 feet a second. Is that true?
+099:59:47 Mattingly (CM comm): I thrusted toward you 3.5. Yeah that was - looks like mostly retrograde.
+099:59:55 Duke (LM comm): Yeah. Looks like to me you're gonna have to go up a little bit now, a couple of feet a second.
+100:00:04 Mattingly (CM comm): Have you got some kind of a chart there I could navigate with?
+100:00:07 Young (LM comm): No, we sure don't.
+100:00:08 Duke (LM comm): No. But, see, that retrograde burn is going to take you down, below us.
+100:00:15 Mattingly (CM comm): Roger. I understand that. It really looks like what I want to do is make a radial burn, you behind me. I really ought to make a radial burn now, shouldn't I?
+100:00:33 Duke (LM comm): Yeah. Shouldn't he?
+100:00:35 Mattingly (CM comm): How about let's do that?
+100:00:41 Duke (LM comm): Okay.
+100:00:44 Mattingly (CM onboard): What's my range and range rate now?
+100:00:47 Duke (LM comm): 0.680 feet a second [0.21 metres per second].
+100:01:28 Mattingly (CM comm): Okay. There's 0.5 foot per second 0.15 metres per second] radial out. ["0.4 foot per sec" in LM tape]
+100:01:33 Duke (LM comm): Okay.
+100:02:09 Duke (LM comm): Man, it's really white into zero phase, isn't it?
+100:02:25 Mattingly (CM comm): Sure looks to me like I'm opening again.
+100:02:29 Duke (LM comm): Well, we got you about zero, Ken, maybe closing slightly. I think it's gonna take a couple of feet per second radial.
+100:02:49 Young (LM comm): He's got to go up like that. But with our mechanics, it may not do anything.
+100:03:04 Mattingly (CM comm): I guess I'm getting a little concerned about that minus-X I put in there.
+100:03:18 Young (LM comm): Guess I don't blame you. I'd have thought you'd have put in plus-X and rose over the top of us.
+100:03:25 Mattingly (CM comm): Yeah, I think I'm gonna take it back out and go the other way. That sound reasonable?
+100:03:36 Duke (LM comm): Sure does to me, Ken.
+In the following audio recording, Ken Mattingly's side of the conversation is missing.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control; 100 hours, 3 minutes Ground Elapsed Time. Less than a minute now away from acquisition of Orion and Casper coming around the east limb of the Moon on the 14th lunar revolution. Standing by for acquisition here half a minute away. The atmosphere here in the control room is reminiscent of the period just after the cryogenic oxygen tank incident on Apollo 13. Ten seconds. We're waiting confirmation from the network controller that we've had acquisition.
+100:03:55 Mattingly (CM onboard): Okay; here we go.
+100:04:27 Mattingly (CM comm): Okay, there's two - two power.
+100:04:30 Young (LM comm): Okay, now that shows you're opening at 3 and a - that shows you're opening at 3 [feet per second - 0.9 metres per second].
+100:04:44 Duke (LM comm): Here comes Earthrise. See it?
+100:04:52 Young (LM comm): Yeah.
+100:04:53 Duke (LM comm): That's spectacular.
+100:04:58 Young (LM comm): Yeah. Now according to our mechanics, you're bound to end up behind us, and close to us.
+100:05:07 Mattingly (CM comm): Okay. That shows I got a 59 by 9 [nautical mile, 109 by 17 kilometres orbit].
+LM tech transcript restarts.
+We have AOS, Lunar Module. Let's stand by now for resumption of communications between the control center, Jim Irwin CapCom, and the crew of Casper and Orion.
+100:05:19 Duke (CM): Houston, Orion. How do you read?
+100:05:24 Irwin: Orion, this is Houston. Read you loud and clear.
+100:05:26 Duke (CM): Roger; same-o, Jim. We're about 0.7 of a mile [1.3 km] out from Casper now.
+100:05:42 Irwin: Say again, Charlie. We still have excessive noise down here.
+100:05:46 Duke (CM): I say our range to Casper is about 0.7 of a mile.
+100:05:51 Young (CM): And he's opening at 2½ [feet per second, 0.8 metres per second]. He put in some posigrade velocity to go up and above and come down and get with us.
+100:06:08 Mattingly: John, I think that total is still slightly retrograde.
+100:06:12 Young (CM): The total is (slightly retrograde?) [Long pause.]
+The rest of John's utterance is not on the air/ground recording.
+100:06:18 Mattingly: Yeah, you - I - I'm thinking maybe I ought to go put some more in there. What do you think?
+100:06:31 Mattingly: Okay.
+100:06:50 Irwin: Okay, 16. This is Houston. We still do not have an answer, but people are working very feverishly. [Pause.]
+100:07:05 Duke (LM): Orion. Roger.
+100:07:07 Young (LM onboard): Okay; thank you. It'll probably be awhile before we get to station-keeping anyway.
+100:07:XX Young (LM onboard): Like about a week.
+100:07:16 Irwin: Roger. [Long pause.]
+100:07:25 Mattingly: That only shows 9.2 [2.8 metres per second]. Why don't we get them to get an arc on this? I guess I'd like to know how good my vector was to start with.
+100:07:33 Young (LM onboard): It's no good this close in, Ken.
+100:07:36 Mattingly (CM comm): How's that?
+100:07:38 Mattingly: Say again? I'm sorry; I can't hear you.
+100:07:37 Young (LM onboard): It's not any good this close in.
+100:07:40 Mattingly (CM comm): Okay. I can't hear you.
+100:07:43 Duke (LM comm): He said it's not any good this close in.
+100:07:49 Mattingly: I know, but my state vector is good. How good is it?
+100:07:52 Young (LM comm): Oh, okay.
+100:07:53 Mattingly (CM comm): That's what I'd like to know from Houston.
+100:07:54 Young (LM onboard): You're not locked on them?
+100:07:55 Irwin: Stand by, Ken. [Long pause.]
+100:07:57 Duke (LM onboard): Ken - Ken, you should be able to get a lock on with them.
+100:08:01 Mattingly (CM comm): No, I've been trying that.
+100:08:04 Mattingly: Roger. I'm trying now.
+100:08:22 Duke (LM comm): Houston, Orion.
+100:08:25 Irwin: Go ahead, Orion.
+100:08:28 Duke (LM onboard): Okay; we got an RCS System A Reg light. Pressures: Helium is looking like 2300...
+100:08:36 Young (LM onboard): Get the B?
+100:08:37 Duke (LM onboard): The Propellant is at 210; the Fuel Manifold at - and Ox Manifold is - correction, make it 215 - or 220. And everything else looks pretty good. Pressures are holding up - You think the burst disk is gone?
+100:08:56 Mattingly: Houston, do you read Casper?
+100:09:00 Irwin: Roger. That looks that way to us, Charlie.
+100:09:02 Mattingly: Houston, do you read Casper?
+100:09:06 Duke (LM onboard): Okay.
+100:09:07 Irwin: Yes, Casper. This is Houston. Read you loud and clear.
+Comm break (PAO tape).
+100:09:08 Mattingly: Okay. Look like we got a - that 100 hours was a bad time, and I tried to close at him before he realized that it was all minus X. I put in about 3½ foot per second and got to checking. That didn't look like the right thing to do. So I took about 3 of that out, and...
+100:09:25 Young (LM onboard): Hey, Ken, why don't you summarize what you did in the way of thrusters to tell them what to expect. Okay?
+100:09:31 Mattingly (CM): I'm doing that, John.
+100:09:31 Mattingly (CM): ...and so I took about three of that out, and I put in a half foot per second radial at about 100 hours and 5 minutes. And I put in the rest, took two foot per second posigrade at about 100 hours and 6 minutes. And at about 100 hours, then I put in three - it was about - roughly retrograde. And my computer now shows 16.5 by 9.2. And I had a good state vector when I started, and that's probably a good value - whenever you get a short arc or something on me.
+100:10:11 Irwin: Roger. We copy, Ken. [Long pause.]
+100:11:00 Duke (LM onboard): That [garble] sound - sounds like all the gears are broken in it.
+100:11:07 Irwin: Orion, this is Houston. We're wondering where you got the estimate of 0.7 nautical-mile range [1.3 kilometres]. [Pause.]
+100:11:18 Duke (LM onboard): We got the Rendezvous Radar locked on, if you want us to. Or do you want us to turn it off?
+100:11:24 Irwin: No, that's fine. [Long pause.]
+100:11:30 Mattingly: Yeah, I show us now at about 0.9 mile [1.7 kilometres]. Is that correct?
+100:11:33 Duke (LM comm): That's right, Ken.
+100:11:35 Young (LM com): 5500 feet, Ken [1.7 kilometres].
+100:11:38 Mattingly: Okay. And still opening?
+100:11:38 Young (LM comm): Yeah.
+100:12:00 Duke (LM comm): Houston, Orion. John and I been talking about - If we get to land this thing, we'd like to - probably ought to think about going to sleep first, and we'd get up and do a full EVA tomorrow.
+100:12:14 Irwin: Roger. We - we concur down here.
+100:12:34 Mattingly (CM comm): Could you tell me if my range...
+100:12:33 Irwin: Okay, Casper; this is Houston. We're recommending that you null the line-of-sight rates...
+100:12:38 Mattingly: ...[garble] Go ahead.
+100:12:39 Irwin: ...and fire five feet per second toward the LM. [Long pause.]
+100:12:46 Mattingly: Okay. That's still going to be mostly retrograde, it looks like. That's how I got in this place to start with.
+100:13:02 Irwin: We copy you, Ken. [Long pause.]
+100:13:06 Mattingly: Okay, I'm going to hold. Can you guys get a short arc going on my trajectory?
+100:13:35 Irwin: Okay, Ken. We show you coming up on perilune now, so you'll be affecting your apolune. [Pause.]
+100:13:47 Mattingly: You show me coming up on perilune?
+100:13:49 Irwin: That's affirm. [Long pause.]
+100:13:50 Mattingly: Roger. My state vector shows 19 miles up [35 kilometres], and we're not - I'm just passing Smythii. is that - Does that sound reasonable, that we shifted that much in orbital track?
+100:14:13 Irwin: Okay. That sounds good, Ken. [Long pause.]
+100:14:27 Mattingly: Okay, I guess I'd like for you to - to summarize again where I stand. I'm a little bit confused now, Jim.
+100:14:35 Irwin: Roger. We were hoping that... [Long pause.]
+100:14:40 Mattingly: [Garble] I'm just passing Smythii, and my altitude according to my computer - Was my state vector a little bit off to start with?
+100:14:52 Irwin: We think your state vector was fairly accurate, Ken. [Long pause.]
+100:14:59 Mattingly (CM comm): Okay. Then there's still a discrepancy in...
+100:15:00 Irwin: And you'll be at perilune in 15 minutes. [Long pause.]
+100:15:02 Mattingly: Okay, that makes more sense. All right. Because I'm presently at 19 miles, and I think that's probably a good estimate. All right. If I do - Do you want me to thrust towards the LM now, because I'm approaching perilune. Is that affirmative?
+100:15:21 Irwin: That's affirmative. [Long pause.]
+100:15:26 Mattingly: Okay. Now I'm - This is using up a great deal of RCS which is going to violate the next line. Is this preferable to trying to do a regular rendezvous now?
+100:15:38 Young (LM onboard): Regular what?
+100:15:46 Mattingly (CM): Because if we still have a chance at landing, then I need to [garble] to you...
+100:15:46 Irwin: Ken, could you give us your position, relative to the LM? [Long pause.]
+100:15:56 Mattingly: Yes, sir. I'm ahead of him and slightly below, and I show a - a mile [1.8 kilometres] on the EMS, and I don't know what John has on the radar.
+100:16:04 Young (LM onboard): Yeah, he's - he's ahead of us, and I show him about - level and 6,500 feet [2.0 km] out and opening at 3 feet a second [0.9 metres per second].
+100:16:23 Irwin: Okay. We copy your position as ahead, below, and about one nautical mile. [Pause.]
+100:16:31 Mattingly: That's affirmative.
+100:16:34 Young (LM): And he's opening at 2½ on 16 78.
+100:16:39 Irwin: Roger.
+100:16:40 Young (LM): And 3 feet a second on the tapemeter. [Long pause.]
+100:16:XX Young (LM onboard): Give me a Verb 83.
+100:16:50 Duke (LM onboard): Can't unless we terminate this.
+100:16:52 Young (LM onboard): Well, let's terminate it.
+100:17:03 Young (LM onboard): Can't terminate it, huh? Go to Auto in Track.
+100:17:08 Mattingly: Okay, Jim. To make sure there's no confusion, I haven't done anything yet.
+100:17:10 Duke (LM onboard): No, you got to...
+100:17:17 Irwin: Okay. Stand by. [Long pause.]
+100:17:22 Mattingly: Thank you, sir.
+100:17:34 Young (LM onboard): Okay. On the - on the COAS, I've got him boresighted there, and he's 35559 from local vertical.
+100:17:44 Irwin: Okay, Casper. This is Houston. We're convinced that we want you to fire directly at the LM about 5 feet per second. We want to get a positive closing rate.
+Comm break (PAO tape).
+100:17:58 Mattingly: Okay. That's in work.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+100:19:38 Mattingly: Okay. Looks like the DAP isn't stable now. How about if I give it a Verb 46?
+100:19:45 Irwin: Roger. We copy.
+100:19:49 Mattingly: Is that a good idea?
+100:20:02 Irwin: Ken, we show you in Free.
+100:20:06 Mattingly: I am now: but I wasn't.
+100:20:08 Young (LM onboard): The DAP is unstable!
+100:20:09 Irwin: Okay.
+100:20:11 Mattingly: Does that mean I'm clear to do a Verb 46? [Pause.]
+100:20:09 Duke (LM onboard): Yeah, they said okay.
+100:20:13 Young (LM comm): They say okay, Ken.
+100:20:14 Mattingly (CM): Okay. No, that doesn't work. I think maybe I've had one of those transients. [Long pause.]
+100:20:36 Mattingly (CM): For some reason, every time I pick up CMC Auto, this thing - starts doing maneuvers. [Long pause.]
+100:20:59 Duke (LM onboard): Can't believe it.
+100:21:03 Young (LM onboard): Turn on some water, Charlie.
+100:21:11 Irwin: Orion, let's go Lo Bit Rate.
+100:21:18 Duke (LM): You have it.
+100:21:25 Young (LM onboard): Okay.
+100:21:28 Mattingly: Okay. I've got it under control, Jim. I had a bad DAP. [Long pause.]
+This is Apollo Control at 100 hours, 21 minutes. Still standing by here for a resolution of the apparent problem with the Stabilization and Control System aboard the Command Service Module. Meanwhile the two spacecraft are making the necessary maneuvers for rendezvous. Or I should qualify that to say station-keeping. Right now the Rendezvous Radar display shows a separation of some one nautical mile [1.85 km].
+100:22:00 Mattingly: Okay; we'll [garble] 5 feet per second directly at the LM. [Long pause.]
+100:22:11 Irwin: Go.
+100:22:10 Young (LM onboard): Didn't mean to do that.
+100:22:12 Duke (LM onboard): What?
+100:22:14 Young (LM onboard): What he just did.
+100:22:15 Duke (LM onboard): Huh?
+100:22:16 Young (LM onboard): He didn't mean to do it.
+100:22:17 Duke (LM onboard): He didn't?
+100:22:18 Young (LM onboard): No. It's going up and over us right now.
+100:22:28 Young (LM onboard): See? The line-of-sight rate...
+100:22:34 Irwin: Casper, this is Houston. Hold up on that RCS maneuver.
+100:22:40 Mattingly: Okay. I've put in 3 foot per second.
+100:22:43 Irwin: Hold up, Ken.
+100:22:48 Mattingly: Say again, please?
+100:22:48 Irwin: Okay. Hold it there.
+100:22:52 Mattingly: [Garble] Okay. Holding at three.
+Comm break.
+The maneuver Mattingly was attempting was a 5-foot-per-second line-of-sight RCS maneuver toward the Lunar Module. Right now, he's ahead and below the Lunar Module by about one nautical mile [1.85 km], straight-line distance. We would like to re-emphasize that this will be strictly for station-keeping. Lunar landing is still not positively ruled out at this time depending on what decision is made on the reliability of the Stabilization and Control System to control the SPS engine on the Service Module. Continuing to monitor air/ground for both spacecraft, this is Apollo Control [at] 100 hours, 24 minu...
+100:23:08 Duke (LM onboard): You keeping him boresighted?
+100:23:10 Young (LM onboard): Yeah.
+100:23:24 Duke (LM onboard): Roll's going off a little bit, John. Not that that's going to hurt you any.
+100:23:50 Duke (LM onboard): Say he's drifting down - that says he's drifting down.
+100:23:54 Young (LM onboard): He's drifting up.
+100:23:55 Duke (LM onboard): Well, look at the needle.
+100:23:58 Young (LM comm): Okay, Ken, to - to get us, you're going to have to thrust down to null the needles.
+100:24:10 Mattingly: Thrust down means towards the Moon or down as you see it?
+100:24:13 Duke (LM onboard): Towards the Moon.
+100:24:14 Young (LM onboard): Towards the Moon.
+100:24:18 Mattingly (CM comm): Okay. I guess I am. Houston, do you want me to go null line of sight all the way in?
+100:24:25 Irwin: We need a range and range rate reading now.
+100:24:28 Mattingly: [Garble]
+100:24:30 Young (LM): 7000 feet [2100 metres], closing at 3 feet a second [0.9 m/s], and we have a line-of-site rate. [Pause.]
+100:24:44 Irwin: Roger. We copy. [Pause.]
+100:24:44 Duke (LM comm): Okay, Ken. If you can kill that line of sight, you're closing.
+100:24:49 Mattingly: Roger, Charlie. I'm standing by for instructions for best [garble]
+100:24:59 Irwin: Yeah, Casper; this is Houston. You should null the line-of-sight rates. [Pause.]
+100:25:11 Young (LM onboard): He'll take...
+100:25:12 Mattingly: Okay, do you want me to keep them nulled and go all the way in? Is that the idea?
+100:25:17 Irwin: Roger. Keep a positive closing rate.
+100:25:23 Mattingly: Okay. It's likely to be expensive, but we'll do that.
+100:25:30 Mattingly: Okay, [not on PAO recording] you're going to have to - Your needles are better than [back to PAO recording] mine, why don't you tell me what to do there, John.
+100:25:38 Young (LM): Okay. Thrust down, and I'll tell you which way the needle moves. [Garble].
+100:25:41 Duke (LM onboard): Towards the Moon, Ken.
+100:25:42 Young (LM onboard): Towards the Moon.
+100:25:44 Mattingly: Wilco.
+100:25:49 Young (LM): That's the wrong way, Ken.
+100:25:50 Mattingly (CM comm): That's sure towards the Moon.
+100:25:53 Young (LM): Were you thrusting?
+100:25:54 Mattingly (CM comm): That's affirm.
+100:25:55 Young (LM): Okay, thrust away from the Moon. That's doing it. Little more. [Pause.]
+100:26:13 Young (LM): You didn't get it corrected, Ken. [Pause.]
+100:26:19 Mattingly (CM comm): How's that now?
+100:26:21 Young (LM): Oh, it's just not moving very much at all.
+100:26:24 Mattingly (CM comm): Okay, that's a good place to stop?
+100:26:26 Young (LM): No, you - It's gonna be expensive, Ken, to do this, but you - you're gonna have to thrust up.
+100:26:32 Mattingly: Okay, I just need some gauges to when I got it nulled.
+100:26:37 Young (LM onboard): Okay. You don't have it nulled.
+100:26:43 Mattingly (CM comm): How's that?
+100:26:45 Young (LM onboard): That's - you've got 4 milliradians down. [Pause.]
+100:26:55 Mattingly (CM): Okay. What's my range rate?
+100:26:57 Young (LM): Three - 3 feet a second, closing.
+100:27:00 Mattingly (CM): Okay.
+100:27:01 Young (LM): You're at 6,600 feet [2,000 metres].
+100:27:03 Mattingly (CM): Still going down.?
+100:27:05 Young (LM onboard): That's affirmative. [Pause.]
+100:27:13 Young (LM onboard): You got it to 3 milliradians.
+100:27:17 Young (LM onboard): You got it to 2 milliradians. [Pause.]
+100:27:28 Young (LM): You've got it to 2 milliradians. Now you've got it, Ken. You killed it.
+100:27:32 Mattingly (CM comm): Okay. [Long pause.]
+100:27:55 Mattingly: Looks to me now like I'm drifting the other way.
+100:27:59 Young (LM onboard): Not according to my needles.
+100:28:01 Mattingly (CM): Okay; I'll believe your needles. [Long pause.]
+100:28:07 Young (LM onboard): Better be something right around here.
+100:28:16 Duke (LM onboard): Well, I really don't know.
+100:28:18 Young (LM onboard): Don't know what, Charlie?
+100:28:25 Mattingly: Range rate?
+100:28:31 Young (LM): Three and a half feet [1.1 metres] a second, and you're at 6300 feet [1900 metres].
+100:28:35 Mattingly: Okay. [Long pause.]
+100:29:01 Mattingly: Is the rate starting to build now? I'm trying to calibrate the deadband activity here so I can tell what the rate - when it's really a rate and when it's just deadbanding.
+100:29:14 Young (LM): Okay. Your rates are nulled, essentially.
+100:29:20 Mattingly: Okay, thank you. [Long pause.]
+100:29:21 Young (LM onboard): Turn on some more water, Charlie. I don't know if I can stand this or not.
+100:29:27 Duke (LM onboard): I think I might throw up.
+100:29:47 Duke (LM onboard): Houston, Orion...
+100:29:45 Irwin: Orion, request you select the Secondary Transmitter and Receiver. [Long pause.]
+100:30:07 Duke (LM onboard): Ken - Ken, tell them I selected that Secondary. It'll be awhile.
+100:30:12 Mattingly: Okay, Houston. Orion says that they have already selected the Secondary. [Pause.]
+100:30:24 Duke (LM): Okay, Houston. How do you read now?
+100:30:29 Irwin: Read you loud and clear, Orion.
+100:30:32 Duke (LM): Okay. You're five by. How's the problem looking? [Long pause.]
+100:30:54 Irwin: 16, no answers yet. We're still looking at it. [Long pause.]
+100:30:55 Duke (LM onboard): You - you maneuvering, aren't you, John?
+100:31:11 Duke (LM onboard): You - are you - you're pitching up, aren't you?
+100:31:13 Young (LM onboard): Yeah.
+100:31:14 Duke (LM onboard): Huh?
+100:31:15 Young (LM onboard): Yeah.
+100:31:16 Duke (LM onboard): Okay. I just wondered. He looks like to me he's moving on out there some.
+100:31:21 Young (LM onboard): He is moving out.
+100:31:42 Young (LM): Okay, Ken. You're at 5,600 feet [1,700 metres], closing at 4 feet a second [1.2 m/s].
+100:31:48 Mattingly: Okay. [Long pause.]
+100:32:10 Irwin: Okay, Orion. This is Houston. We'd like you to open the Primary Power Amp circuit breaker on [Panel] 16. [Pause.]
+100:32:23 Duke (LM): It's open, Jim.
+100:32:25 Irwin: Roger. [Long pause.]
+100:32:46 Irwin: Okay, Orion, let's go Hi Bit Rate.
+100:32:52 Duke (LM): Rog. You have Hi Bit Rate.
+100:32:54 Irwin: Roger. [Long pause.]
+100:33:02 Duke (LM onboard): Here comes the landing site.
+100:33:07 Young (LM onboard): Yeah.
+100:33:20 Young (LM): Okay, Ken. You're getting a line-of-sight rate. You're going to have to thrust a little toward the Moon. [Pause.]
+100:33:29 Mattingly: Okay, let me try this.
+100:33:32 Irwin: Okay, we can't hold Hi Bit Rate. Request you go back to Lo Bit Rate, Orion.
+100:33:38 Mattingly: Is that the right direction?
+100:33:41 Young (LM comm): Needles didn't move, Ken.
+100:33:46 Young (LM comm): That's the right direction.
+100:33:51 Mattingly: Okay, that's up for me - it looks like it ought to be down for you. [Pause.]
+100:34:02 Duke (LM): That sounds pretty good, Ken.
+100:34:03 Mattingly: Okay. [Long pause.]
+100:34:23 Young (LM onboard): Okay, Ken. You've got it.
+100:34:23 Irwin: Orion, this is Houston. Can you give us a range and range rate read-out?
+100:34:30 Young (LM): Okay; 4,900 feet [1,500 metres], closing at 5 [feet per second, 1.5 m/s].
+100:34:34 Irwin: Roger. 4,900 closing at 5. [Long pause.]
+100:34:53 Young (LM): You got the line-of-sight rates nulled now, Ken.
+100:35:00 Mattingly: Okay. [Pause.] Man, this is expensive.
+Comm break.
+100:35:14 Young (LM onboard): They wouldn't want to do it the easy way. We're gonna arrive at the same time, in the dark. They've thrusted toward us at - at perigee at 100 hours. Man, that's really - I mean, he's thrusting at apogee so it'd take effect at perigee. And that's no good.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+100:36:18 Mattingly: Rates nulled again, John?
+100:36:19 Young (LM): Yes, they're nulled right now.
+100:36:20 Mattingly: Okay - They are going to keep building this way, and do we have some - some fuel point at which to cut off and switch over to LM power.
+100:36:36 Young (LM): How much are you using?
+100:36:XX Mattingly: Well, it's really showing, and I don't know how much more we're going to see on the way in and I'm reading - of course, these gauges don't tell you exactly what it is, but I have - That's 65 percent showing on B. [Pause.] And all this stuff is going to be in the - in the Z plane. Houston, you got any thoughts on a cut-off point on the RCS?
+100:37:15 Irwin: Stand by, Ken.
+100:37:17 Young (LM): Okay, well, you're at 4,000 feet [1,200 metres] now, at 5 feet a second [1.5 m/s], Ken.
+100:37:21 Mattingly (CM comm): Okay, hopefully, that's most of it.
+100:37:23 Young (LM): And - and - and your line-of-sight rate is starting to build a little in the other direction. You've got it now. [Long pause.]
+100:37:54 Irwin: Orion, this is Houston. Is the CSM above you or below you? We hope he's directly ahead. [Pause.]
+100:38:07 Young (LM): He's at 45 degrees above us.
+100:38:11 Irwin:: Forty-five degrees above.
+100:38:15 Young (LM): Above the local vertical.
+100:38:18 Irwin: Roger. [Pause.]
+100:38:29 Young (LM): And, he's got a - a 5-foot-a-second closing rate, and his line of sights are nulled on the radar.
+100:38:34 Irwin: Roger. [Pause.]
+100:38:42 Mattingly: And they look like they're killed completely on the optics too. [Pause.] Going to need your tracker light here in a minute. We're just getting a little glinted sunlight now.
+100:38:55 Duke (LM comm): Okay. It's on now?
+100:38:58 Mattingly: Okay. Thank you. [Long pause.]
+100:39:03 Young (LM onboard): Which way was he supposed to thrust to null them?
+100:39:09 Duke (LM onboard): The one that was down - then it was up, he was thrusting -
+100:39:14 Young (LM onboard): Toward the Moon...
+100:39:15 Duke (LM onboard): Yeah.
+100:39:16 Young (LM onboard): ...away from the Moon.
+100:39:17 Duke (LM onboard): It was down for him.
+100:39:18 Young (LM onboard): It was opposite.
+100:39:19 Duke (LM onboard): Yeah. They're just opposite of what we're looking at.
+100:39:20 Young (LM onboard): Yeah.
+100:39:31 Mattingly: Boy, those rates look steady as they can be.
+100:39:33 Young (LM): You've really got them killed. [Long pause.]
+100:39:51 Mattingly: Okay, and since we are going to get rendezvoused in the dark - I guess we'll just come up alongside and hold stations.
+100:40:05 Young (LM): That seems like a fair thing.
+100:40:09 Mattingly: All right, sir. [Long pause.]
+100:40:41 Young (LM onboard): Would - would it be easier to thrust down now?
+100:40:46 Duke (LM onboard): Yeah.
+100:40:50 Young (LM): Okay, Ken. You're going to have to thrust down a hair.
+100:40:57 Mattingly: That's down to you, right? [Pause.]
+100:40:56 Duke (LM onboard): It looks - it would be up to us, Ken. I think if we thrusted, we'd have to thrust up. I think you have to thrust down a skosh.
+100:41:05 Mattingly: Yeah, that's what I mean, you would thrust - you would thrust up.
+100:41:07 Duke (LM onboard): Yeah.
+100:41:08 Mattingly: Okay. I think I got it killed again.
+100:41:11 Duke (LM onboard): It's looking good.
+100:41:12 Young (LM comm): Looks pretty good. [Pause.]
+100:41:17 Mattingly (CM comm): What's that closure rate now?
+100:41:19 Young (LM): Still five feet a second. Still off 3½ feet a second [1.1 m/s] now at 3,000 [900 metres].
+100:41:23 Mattingly: 3½ feet per second.
+100:41:25 Young (LM onboard): Roger.
+100:41:26 Mattingly (CM): Okay, all I've got's the tracking light; I've lost the rest of your image.
+100:41:32 Young (LM): Okay. You've - you're gonna have to thrust a little more to kill that rate the same way. [Long pause.]
+100:41:48 Young (LM): Okay. That got a lot of it, but not all of it. [Pause.] Okay. You got most of it.
+100:41:58 CC-CM/LM: Okay, Casper. This is Houston. You might pick up a temperature caution light on your quads, but it's of no consequence.
+100:42:09 Mattingly: Okay. Yeah, I see B is up high. Is that due to the thruster activity?
+100:42:14 Irwin: Affirmative, Ken.
+100:42:15 Mattingly: Or is that due to heater fail-on?
+100:42:19 Irwin: I think it's thruster activity.
+100:42:21 Mattingly: Okay. Rog.
+100:42:28 Irwin: Orion, this is Houston. Will you give us another range and range rate, John?
+100:42:35 Young (LM): Yep. They're at 3,100 feet [950 metres], at 3½.
+100:42:39 Irwin: Roger. 3,100 at 3½.
+100:42:44 Young (LM): Roger. At an angle of 68 degrees to local vertical now.
+100:42:50 Irwin: Understand; 68 degrees. [Long pause.]
+100:43:23 Young (LM onboard): I can't believe I'm doing this. I can't believe we're doing this. Turn on some more water.
+100:43:33 Young (LM): Okay, Ken. You got a sight rate going to the south according to my needles. [Long pause.]
+100:43:49 Young (LM onboard): Whoa, Charlie.
+100:43:50 Duke (LM onboard): Whoa.
+100:43:51 Mattingly: Okay. Let's watch that for a minute before I start working on it, because we haven't had any plane component before.
+100:43:58 Mattingly: How's the line-of-sight rate doing now? Holding?
+100:44:01 Young (LM): Holding. It's holding - the vertical one is holding right on.
+100:44:05 Mattingly: Okay. And range rate?
+100:44:02 Young (LM): You're at 3,000 feet [900 metres], at 3 feet a second [0.9 m/s].
+100:44:17 Mattingly (CM): Okay.
+100:44:18 Young (LM comm): 2,800 feet [850 metres].
+100:44:21 Mattingly: Now we must be going in the right direction then.
+100:44:25 Young (LM): Yeah, you're just get there.
+100:44:27 Mattingly: Yeah.
+100:44:33 Young (LM): You now have 2 milliradians to the south.
+100:44:37 Mattingly: Okay, I'll take some of that out. That means I go to the south, right?
+100:44:42 Young (LM): Yep. [Pause.]
+100:44:49 Mattingly: How's that? Right direction?
+100:44:51 Young (LM): Yeah, that's got most of it. [Long pause.]
+100:45:13 Unknown speaker: Go ahead. [Pause.]
+100:45:21 Young (LM): You still got some more to the south you've got to get. Still 2 milliradians. Okay. That's got it, Ken.
+100:45:32 Mattingly: Okay. [Long pause.]
+100:46:22 Mattingly: Okay, it looks like I'm picking up a rate in the opposite direction in the in-plane component.
+100:46:26 Young (LM): No, you're not - you're not - You don't have any rate yet.
+100:46:30 Mattingly: Okay.
+100:46:31 Young (LM): According to my needles.
+100:45:32 Mattingly: All right. [Pause.]
+100:46:43 Mattingly: This is very much like the simulator where, because of the deadband lags, it looks like it takes a long time to pick up one of those rates. [Long pause.]
+100:47:04 Irwin: Orion, this is Houston. We want you to get the Rendezvous Radar and the tracking light off as soon as it's feasible, to conserve power.
+100:47:15 Young (LM): Roger. We will. It's not too feasible right now.
+100:47:21 Irwin: Yeah, we understand. [Long pause.]
+100:47:36 Mattingly: Okay, it looks like I may be a little more to the south.
+100:47:39 Young (LM): Just a hair, Ken. Okay. You're at 2,400 feet [730 metres] at 2 [feet per second, 0.6 m/s].
+100:47:46 Mattingly: Okay.
+100:47:50 Duke (LM onboard): He's going to need to thrust towards us a little bit.
+100:47:51 Young (LM onboard): Yeah.
+100:48:21 Young (LM onboard): He thrusts the opposite way we do. We're up down.
+100:48:24 Duke (LM onboard): Yeah.
+100:48:24 Mattingly: How about that rate to the south? It looks like it's building again. Okay.
+100:48:29 Young (LM): Ken, our needles don't show it.
+100:48:33 Mattingly (CM comm): Okay. [Long pause.]
+100:48:34 Duke (LM onboard): He never really got it all out.
+100:48:46 Young (LM onboard): Better start using their -
+100:48:49 Duke (LM onboard): Huh?
+100:48:50 Young (LM onboard): Somebody better start using their brains and common sense here.
+100:48:53 Duke (LM onboard): What do you mean?
+100:48:55 Young (LM onboard): Or it'll blow the whole works.
+100:49:05 Duke (LM onboard): You don't think this is right, what he's doing?
+100:49:07 Young (LM onboard): Yeah.
+100:49:15 Duke (LM onboard): You want me to stick that card back over there?
+100:49:23 Mattingly: Hey, I show quite a drift rate now, John. Do you still show no out of plane?
+100:49:29 Young (LM): Yeah, I don't show any, and I've got you boresighted in Att Hold, and I don't show any motion there either, Ken. [Pause.]
+100:49:35 Duke (LM onboard): Where? Our needles say he's drifting south.
+100:49:42 Young (LM): Just a little south, Ken.
+100:49:44 Mattingly: Okay. It looks like - I'm going to take some of that out. [Long pause.]
+This is Apollo Control. Flight Director Gerry Griffin has instructed the CapCom to tell the crew that at Acquisition of Signal on Rev 15 - that's in spite of the next revolution - they'll be given a Go/No-Go for a landing on Rev 16. Hopefully by that time the situation will have resolved itself on the Thrust Vector Control System which drives the SPS. Apparently there is a problem in the yaw gimbal actuator in the Service Propulsion System. The decision has not yet been made, and hopefully will be made prior to the time of Acquisition of Signal on Revolution 15. Some 19 minutes remaining in this 14th revolution. Add to that 47 minutes of backside pass, and at start of that rev we'll either be Go for landing or for immediate rendezvous, docking, and subsequent return home. This is Apollo Control at 100 hours, 51 minutes.
+100:49:59 Duke (LM onboard): He's going off the bellyband.
+100:50:00 Mattingly: Can you tell if I'm going to - maybe I put that in the wrong direction, although I'm sure that that was the right - South is to your left, isn't it?
+100:50:12 Young (LM onboard): You betcha.
+100:50:13 Mattingly (CM): Okay. We're going the right way, then.
+100:50:18 Duke (LM onboard): Hey, wait a minute, Ken...
+100:50:06 Young (LM): Whoa, Ken. You got it.
+100:50:26 Duke (LM onboard): Okay, Ken. You were drifting south. That's right. You have to thrust north. You got it.
+100:50:29 Mattingly: John, we've been going the right direction all along, then.
+100:50:32 Young (LM): Yeah, you have. Yeah, don't worry about it.
+100:50:34 Mattingly: It appears to be I'm still a little bit out of plane. I guess that's the sensitivity of the Rendezvous Radar. [Long pause.]
+100:50:37 Young (LM onboard): Yeah, don't worry about it.
+100:50:55 Duke (LM onboard): Down to one foot [0.3 metres] a second. If he'd get a little bit more closing rate in, it'd be less gas.
+100:51:07 Young (LM onboard): I think it would be too.
+100:51:08 Duke (LM onboard): Huh?
+100:51:09 Young (LM onboard): Let's call up Verb 63 again. Can we do that? No, I don't want to - I don't want to break lock.
+100:51:17 Mattingly: Okay; how's my closure rate?
+100:51:21 Young (LM): We're showing a foot a second on the tapemeter. It isn't closing very fast.
+100:51:24 Mattingly: Well, that's what I was just wondering. There could be a little more plus-X.
+100:51:30 Young (LM): Okay. Say when and how much.
+100:51:33 Mattingly: Okay, I'm going to put in a foot plus-X.
+100:51:38 Mattingly: Okay? As long as we are using brute force, we might as well.
+100:51:45 Young (LM): Okay. [Long pause.]
+100:52:00 Mattingly: Okay, that's about a foot.
+100:52:01 Young (LM): Okay. You're at 2,000 feet [600 metres] at 2 [feet per second, 0.6 m/s]. [Long pause.]
+100:52:19 Young (LM): There you go. It worked.
+100:52:22 Mattingly: How about that? [Long pause.]
+100:52:23 Duke (LM onboard): What was that?
+100:52:24 Young (LM onboard): Tunnel light.
+100:52:25 Duke (LM onboard): Oh.
+100:52:56 Mattingly: I can see the LM in Earthshine now. [Pause.]
+100:53:03 Young (LM): Okay, fine. [Long pause.]
+100:53:14 Young (LM): You're getting over behind us, Ken. You're going to have to - to thrust toward us a little more.
+100:53:19 Mattingly: Okay, what's my range rate now?
+100:53:23 Young (LM): You're at 2,000 feet, but it's hardly closing at all.
+100:53:24 Mattingly: Okay, give me another foot. [Pause.]
+100:53:31 Mattingly: Okay, there's another foot per second. [Long pause.]
+100:53:44 Young (LM): Okay. [Pause.]
+100:53:55 Young (LM): Now you're starting to build a rate to the north.
+100:54:04 Mattingly: I don't think those needles are as good as we're using them in here.
+100:54:08 Young (LM): Yeah, I - I don't think they're quite as good.
+100:54:12 Mattingly: It looks like I need to start reversing my in-plane direction.
+100:54:11 Duke (LM onboard): Yeah.
+100:54:20 Mattingly: Okay, do I still have a positive closure rate?
+100:54:23 Young (LM): Yep, 3 feet a second; 2,000 feet.
+100:54:27 Mattingly: Okay.
+100:54:28 Young (LM): 1,800 feet now [550 metres].
+Comm break.
+100:55:09 Duke (LM onboard): Old Antares.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+100:55:39 Young (LM): Okay, Ken. Now, you are moving north definitely.
+100:55:42 Mattingly: Okay, I'm getting you centered back up in the COAS. [Pause.]
+100:55:50 Young: Okay. [Long pause.]
+100:56:01 Duke (LM onboard): He's got to put that 05 back in to get - to get his orbit back up.
+100:56:12 Mattingly: Okay, do I still have a closure rate?
+100:56:15 Young (LM): Say again?
+100:56:16 Mattingly: Do I still have a closure rate?
+100:56:18 Young (LM): That's affirmative; 2 feet a second.
+100:56:20 Mattingly: Okay. Looks like the old EMS is just sort of sitting here looking at itself.
+100:57:10 Young (LM onboard): Okay, Ken. You do have a line-of-sight rate to north.
+100:57:14 Mattingly: Okay, I'm going to go ahead and use the EMS - I mean the COAS on the sync because that's working out pretty good in here. Seems to be a more sensitive indicator of out of plane.
+100:57:28 Young (LM): Okay, you've got 4 milliradians to the north. You're at 1,500 feet [450 metres] now. [Long pause.]
+100:57:48 Mattingly: Okay, well. Just barely drifting in my COAS. It's pretty good here. [Long pause.]
+100:58:12 Young (LM): Okay; well, now, you have... [Long pause.]
+100:58:32 Young (LM): Can you see me at all?
+100:58:34 Mattingly: Yes, sir, in Earthshine I can see the whole LM now.
+100:58:37 Young (LM): Okay, fine.
+100:58:35 Mattingly (CM): I'm afraid we're going to run out of Earthshine here before we get it completed. How's the closure rate now?
+100:58:47 Young (LM): Still 2 feet a second, Ken. We're about 1,400 feet [430 metres] now.
+100:58:54 Mattingly: Okay.
+100:59:03 Mattingly: Man, that Moon in Earthshine is really something.
+100:59:07 Young (LM): Okay; And I show you with 4 milliradians to the north, and I see you drifting slowly across the COAS to the north.
+100:59:16 Mattingly: Rog. I didn't quite get it stopped. [Pause.]
+100:59:30 Mattingly: That looks to me like that's fixed.
+100:59:25 Young (LM): Okay, you're fixing it.
+100:59:31 Mattingly: [Garble.] You still show some residuals?
+100:59:36 Young (LM): Yeah, you're still 3 milliradians to the north.
+100:59:41 Mattingly: Okay. [Long pause.]
+100:59:54 Irwin: Orion, this is Houston. We're showing about ten minutes to LOS, and I have some words for you on our general plan, when it's convenient.
+101:00:04 Duke (LM comm): Go ahead.
+101:00:XX Irwin: Okay, when you come up on AOS, on the next rev, Rev 15, we'll give you a Go or No-Go for another try, and we'd be looking at PDI on Rev 16. And at that time, we'd have PADs for you and procedures. Over.
+101:00:29 Young (LM): Okay. [Pause.] Fair enough.
+101:00:38 Irwin: And, Casper; this is Houston.
+101:00:43 Mattingly: Go right ahead.
+101:00:46 Irwin: Roger. We want you to verify that you're in Auto Dump on the water. That's Pressure Relief in the number 2 position. That's vertical. And if you have an opportunity to get away from the controls there, we'd like you to manually dump the water to ten percent on the back side. That should require about 17 minutes. Over.
+101:01:08 Mattingly: Okay. I am in Auto Dump and I'll have to wait until we get in daylight to go down there, I think.
+101:01:19 Irwin: Okay, we copy.
+101:01:20 Mattingly: I show about full, but I guess it isn't. [Pause.]
+101:01:27 Young (LM): Okay, Ken. The line-of-sight rate is starting to - Have to thrust down a little - I mean, up a little. [Pause.] That fixed it.
+101:01:41 Mattingly: Okay. [Pause.] How's my closure rate?
+101:01:52 Young (LM): Two feet a second. You have it.
+101:01:54 Mattingly: Okay.
+101:01:55 Young (LM): You're at a thousand feet [300 metres] now, approaching [garble].
+101:02:00 Mattingly: How's the out of plane?
+101:02:02 Young (LM): It's starting to go to the south of here. Don't worry about it right now.
+101:02:07 Mattingly: All right. [Long pause.]
+101:02:41 Young (LM): You got it, Ken. When you get in - when you get in...
+101:02:50 Irwin: Orion, this is Houston. We'd like you to configure for RCS Bravo only. Over.
+101:02:58 Duke (LM): Roger. We'll open the Cross Feed and pull Main SOV A.
+101:03:12 Duke (LM): We're configured.
+Comm break.
+101:03:45 Young (LM onboard): Why don't you turn out some lights, Charlie? I don't know...
+101:03:47 Duke (LM onboard): Okay. How's that?
+101:03:51 Young (LM onboard): Yeah. Okay.
+101:03:53 Duke (LM onboard): Let me turn the numerics down a little bit.
+101:04:15 Young (LM): Okay, Ken. You're about 990 feet [300 metres] now.
+101:04:19 Mattingly: All righty. [Long pause.]
+101:04:26 Duke (LM onboard): What a time to be closing, pitch black dark.
+101:04:38 Young (LM): 970 [295 metres]. [Pause.] You've got the line-of-sight rate. [Long pause.] Okay; can you see me with the spotlight yet?
+101:04:50 Mattingly: No, that's what I was looking to see, because we're going to lose Earthshine here in just a minute. [Long pause.]
+101:05:27 Young (LM comm): Okay, Ken. You've got to thrust down just a hair. [Long pause.]
+101:05:36 Young (LM comm): You get that thrusting down a hair?
+101:05:39 Mattingly: Yeah, I'm not sure if that was the same [garble] you're talking about. [Pause.]
+101:05:41 Young (LM onboard): Okay.
+101:05:49 Mattingly: Does that fix it?
+101:05:52 Young (LM onboard): No.
+101:05:XX Mattingly: Right?
+101:05:XX Young (LM onboard): That made it worse. That's making it worse.
+101:06:02 Mattingly: It's really strange, it was sitting here in the COAS here, right in the middle. [Pause.]
+101:06:14 Young (LM): You thrust a hair down and a hair to the north.
+101:06:18 Mattingly: You're upside down compared to me, and when you say down you mean you're going - you're going down on me - is that correct?
+101:06:30 Young (LM): I'm doing it from the needles. If you don't ro - if you haven't rolled from the last way you were doing it, we were doing it okay. [Long pause.]
+101:06:35 Duke (LM onboard): Yeah. That's right, Ken. We're going down with you. We'd have to thrust up, according to the needle.
+101:06:44 Young (LM): Okay; it's 820 feet [250 metres] now.
+101:06:47 Mattingly: Okay. [Long pause.] It still doesn't seem like it does much. [Pause.] Okay; I show a line of-sight rate that's essentially killed.
+101:07:12 Duke (LM onboard): That's about right.
+101:07:14 Young (LM): Yeah. They're about killed for this close in. [Long pause.]
+101:07:18 Duke (LM onboard): He looks bigger than 800 feet [240 metres].
+101:07:22 Young (LM onboard): Sure does. At night, all cats are black.
+101:07:42 Duke (LM onboard): [Garble] one of those cycle slips of that radar.
+101:07:54 Young (LM onboard): What's your VHF reading, Ken?
+101:08:00 Mattingly: [Garble] One-four.
+101:08:02 Young (LM onboard): 0.147
+101:08:04 Mattingly: Yes, sir.
+101:08:05 Young (LM onboard): Okay; we're 750 feet [230 metres] here.
+101:08:09 Mattingly: How much?
+101:08:08 Young (LM onboard): 750.
+101:08:11 Mattingly: Okay, I can see your image is about 2 degrees, now. [Long pause.]
+101:08:29 Irwin: 16, this is Houston. We're showing about two minutes to LOS, and if you'll give us a range and range rate, and, Ken, perhaps you could repeat it for us.
+101:08:38 Young (LM onboard): Okay; 710 feet [215 metres], closing at 2 feet a second, rates essentially nulled.
+101:08:47 Mattingly: Did you copy that, Houston? The range is 710 feet, 2 feet per second, rates nulled. [Long pause.] Houston, did you copy Casper?
+101:09:12 Irwin: Roger; we copied down here. Thank you.
+101:09:19 Mattingly: Okay. [Long pause.]
+101:09:16 Young (LM onboard): Okay, Ken. I can see the whites of your eyes. I can see you every time your light flashes. And every time my light flashes, it flashes off your probe.
+101:09:36 Mattingly: Uh huh. Let me turn my spotlight now. [Long pause.]
+101:09:38 Young (LM onboard): You ought to have me now. Does it do you any good?
+CM tape on until 101:59:29.
+101:09:54 Mattingly (CM): Yeah, I can tell I got you, but it's a poor competitor for Earthshine. [Pause.]
+101:09:56 Young (LM comm): Well, we ain't got any Earthshine, old buddy.
+101:10:02 Mattingly: Beg your pardon.
+101:10:03 Young (LM comm): I say, we're gonna lose Earthshine here in a minute.
+101:10:05 Mattingly: Roger. It will all of a sudden look very nice. [Long pause.]
+101:10:26 Mattingly: You can rendezvous under these conditions very nicely, the problem being that you've got to keep referring to the reticle to get some kind of range, I because there's just no - you still don't have enough good depth perception to tell where you are. [Pause.]
+101:10:37 Young (LM onboard): Right. You're gonna be docking with - you're just slowly drifting to the north. You got the vertical line-of-sight rate killed.
+LM tape off at 101:10:46. Not resumed until much later.
+101:10:47 Mattingly: Okay, in order to have good comm, [pause] man, you just disappeared - got the spotlight on. [Pause.] I tell you, the spotlight isn't nearly as good as Earthshine. I'm really surprised.
+Very long comm break.
+End of Tech transcript until 101:59:34.
+This is Apollo Control. We have had Loss Of Signal with both vehicles as they pass behind the Moon during the end of revolution number 14. At the start of Revolution 15, the crew of Apollo 16, still at this time station-keeping in the two vehicles, will be given a Go/No-Go decision for powered descent and landing during Rev 16 which will be some 4 hours from now. If the decision is Go, and all of the maneuver timelines will have to be read up to the crew during the front-side pass of revolution number 15. If the decision is [for] no landing, then the crew would proceed to rendezvous, dock, and prepare the spacecraft for return home. To recap the situation, the - the planned circularization maneuver by the Command Service Module back prior to AOS on Revolution 13 was aborted by Ken Mattingly when he discovered that the backup system, the Stabilization and Control System which in turn controls the gimbal actuators on the Service Propulsion System, apparently had a malfunction in the yaw direction - in other words the driver that moves the engine bell left and right apparently had some excursions of several degrees and fairly rapid amplitude - fairly rapid succession. Simulations are underway here at - in Houston and with the Command Module simulator and some structural tests are underway at this time at the manufacturer's plant, Downey, California to determine if indeed the problem would present any structural hazard to the spacecraft should the backup SCS system have to be used in SPS burns. Keep in mind, please, that the primary system - the G&N system - is still in perfect condition, but the mission rules call for both systems being operational before we have a 'Go' for landing. Some 44 minutes remaining now until acquisition on Rev 15. During the next three quarters of an hour, the decision should be firmed up on a Go for landing - Go/No-Go decision. And at 101 hours, 14 minutes Ground Elapsed Time into the mission of Apollo 16; this is Apollo Control.
+Day 5, Part 3: "I be a sorry bird". LM and CM Problems, Revs 12 and 13
+Journal Home Page
+Day 5, Part 5: Clearance for PDI - Again - and Landing, Revs 15 and 16

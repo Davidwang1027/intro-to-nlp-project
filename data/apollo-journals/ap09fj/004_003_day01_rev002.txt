@@ -1,0 +1,1817 @@
+Apollo 9 Flight Journal: Day 1: Orbit 2 - Transposition & Docking
+In Earth Orbit
+Journal Home Page
+Separation & Ejection
+Apollo 9
+Day 1: Orbit 2 - Transposition & Docking
+Corrected Transcript and Commentary Copyright © 2008-2025 David Woods and Andrew Vignaux. All rights reserved.
+Last updated 2025-02-14.
+[The Apollo 9 spacecraft has completed its first orbit of the
+Earth. The spacecraft remains attached to the S-IVB third stage and
+the Lunar Module Adapter. The main task of this next orbit is to
+prepare for the separation of the CSM followed by transposition
+(pitching over and facing the stack) and finally docking with the
+then exposed Lunar Module.]
+[Communications have been switched to Bermuda.]
+001:40:15 Roosa:
+Apollo 9, this is Houston through Bermuda.
+001:40:19 McDivitt:
+Roger. Houston through Bermuda. Go ahead.
+001:40:21 Roosa:
+Roger. We'd like to uplink you a state vector there, Apollo 9. We -
+there is a discrepancy between your vector and ours. We don't have
+a real good story for you at this time. It was sort of a slow
+diversion trend, but we would like to slip it in. There were some
+funnies about the lift-off time, and everything that we're working
+on, but at this time we'd like to give you a new vector.
+001:40:43 Scott:
+Okay. Understand you want to give us a new vector on the - let me
+see - stand by.
+001:40:51 Scott:
+Roger. P00 and Accept. You got it.
+001:40:53 Roosa:
+Roger. We'll go to work on it. Thank you.
+[Comm break.]
+001:42:46 Scott:
+Houston, Apollo 9.
+001:42:48 Roosa:
+Go, Apollo 9.
+001:42:49 Scott:
+Roger. I checked the O2 purge before I noticed I didn't
+check the H2, so I got the purge heater on for awhile,
+and I'm gonna check the H2 purge. Might be seeing that.
+001:43:05 Roosa:
+Roger. You're going to be checking H2 purge; and Apollo
+9, I have a nav[igation] check to go along with this state vector
+when you are ready to copy.
+001:43:13 McDivitt:
+Roger. Stand by on the purge, and stand by on the nav check.
+001:43:17 Roosa:
+Roger. At your convenience.
+001:43:44 Roosa: And,
+Apollo 9, this is Houston. The computer is yours. The vector has
+been transferred, and it looks good.
+001:43:52 Scott:
+Roger, Thank you.
+001:43:53 McDivitt:
+And ready to copy on the nav.
+[Jim will copy the information into a nav check PAD. The image is
+cropped from the Flight
+Plan, page 2-5 showing a just single data set.]
+001:43:55 Roosa:
+Roger. Reading the nav check. Time: 002:29 all zeros, -30.81,
++116.22, 106.7. End of update.
+001:44:25 McDivitt:
+Roger. Readback: 002:29 all zips, -30.81, +116.22, 106.7.
+001:44:35 Roosa:
+Roger. Houston confirms the update.
+[Houston has updated the orbital state vector directly to the
+computer and has read up the navigation check information so the
+crew can confirm the update. The information provided for the
+navigation check consists of the single input time parameter and
+the set of output results for program P21 - Ground Track
+Determination. The crew can run the program with the specified
+input and check that their computer returns the expected result.]
+[To run the program the crew selects program P21 and after choosing
+which vehicle state vector (CSM or LM) to use for the calculation,
+the crew enters the desired time (GET) for the ground track
+integration. Based on the orbital data for the spacecraft the
+program works out the position relative to the Earth at that
+specified time. The program displays the calculated latitude and
+longitude (in degrees to two decimal places) and the altitude (in
+nautical miles to one decimal place).]
+[This navigation check information is as follows:
+Time: 002 hours 29 minutes 00.00 seconds GET.
+Latitude: 30.81° South.
+Longitude: 116.22° East.
+Altitude: 106.7 nautical miles (197.6 km).]
+[This agrees reasonably well with the NORAD two-line element
+tracking data: 30.81°S, 116.23°E, 109.5 nautical miles
+(202.8 km).]
+001:44:38 McDivitt:
+Okay. [Long pause.]
+001:45:28 Roosa:
+And, Apollo 9, Houston. We copy your DSKY on the ground.
+[Comm break.]
+001:48:01 Roosa:
+Apollo 9, Houston.
+001:48:04 McDivitt:
+Go ahead, Houston.
+001:48:06 Roosa:
+Roger. Just for your info here, we'll be sending a command into the
+IU just to verify our response, and this will have no effect on
+you. We are just trying to troubleshoot our LVDC data, and we don't
+want you to move the IU Accept switch; leave it in Block.
+[The Launch Vehicle Digital Computer (LVDC) is one of the
+components of the Instrument Unit (IU).]
+001:48:20 McDivitt:
+Roger.
+[Comm break.]
+[Communications have been switched to the Canary Island station.]
+001:50:39 Scott:
+Houston, Apollo 9.
+001:50:46 Scott:
+Houston, Apollo 9.
+001:50:48 Roosa:
+Go, Apollo 9.
+001:50:50 Scott:
+Roger, Houston. Apollo 9. Do you - We're about ready to terminate
+our cabin purge. Is that okay with you?
+001:50:56 Roosa:
+Stand by one, Apollo 9.
+001:51:08 Roosa:
+Apollo 9, this is Houston. We concur. Go ahead and terminate.
+001:51:13 Scott:
+Okay.
+001:51:16 Scott:
+Didn't work.
+001:51:18 Roosa:
+Roger. Copy.
+[Comm break.]
+["Didn't work." is an odd comment for both the crew to
+make and to be so simply acknowledged by Houston. It is possible
+that the transcript has an error and the crew said something like
+"It's in work." just as used at 001:53:39.]
+001:52:59 Schweickart (onboard):
+(garbled) That's the first of many times.
+001:53:01 McDivitt (onboard):
+Yes, but - all welcome.
+[The crew are working through the pre-CSM separation checklist.
+For comparison, see the
+Apollo 12 Launch
+Operations Checklist, Page L3-1 and the
+Apollo 15
+CSM Launch Checklist, Page L3-1. ]
+001:53:05 Schweickart (onboard):
+S-IV LM - S-IVB/LM SEP, two, are both closed.
+[The two S-IVB/LM Separation circuit breakers are on the lower edge
+of panel 278 in the right-hand equipment bay. Both circuit breakers
+were closed in the liftoff configuration.]
+001:53:11 McDivitt (onboard):
+Verified.
+001:53:12 Schweickart (onboard):
+Okay, CB Docking Probe (2), Closed.
+001:53:15 McDivitt (onboard):
+Okay. CB Docking Probe (2), Closed.
+001:53:19 Schweickart (onboard):
+Docking Probe Extend/Release, Extend/Release until barber pole.
+001:53:24 McDivitt (onboard):
+Okay. I'm going to call Houston and tell them we're doing that.
+001:53:27 McDivitt:
+Houston, this is Apollo 9.
+[The technical transcription has this conversation by Scott.]
+001:53:29 Roosa:
+Go, Apollo 9.
+001:53:31 McDivitt:
+We're ready to extend the docking probe. Are you ready.
+001:53:32 Roosa:
+Oh boy, we are all ears down here. Please let us hear how that goes.
+001:53:39 McDivitt:
+Okay. Fine. It's in work.
+001:53:41 Schweickart (onboard):
+Okay, --
+001:53:42 Roosa:
+Roger.
+001:53:43 Schweickart (onboard):
+Extend/Release switch to Extend/Release until barber
+pole. Whooee! Would you believe it went --
+001:53:50 McDivitt:
+We've got a good one.
+001:53:51 Schweickart (onboard):
+Yes. Docking probe Extend/Release --
+001:53:52 Roosa:
+Roger. Copy. That makes us all happy.
+001:53:58 Schweickart (onboard):
+Gray, at full extend. I'd say that was three tenths of a second
+again, Dave.
+001:53:59 McDivitt (onboard):
+Yes.
+001:54:00 Scott:
+Roger. It was just like the chamber; we heard it go out, and it
+took a couple or three tenths of a second.
+001:54:06 McDivitt (onboard):
+Then Release until talkback?
+001:54:07 Roosa:
+Roger. Copy.
+001:54:08 McDivitt (onboard):
+Okay.
+001:54:09 McDivitt (onboard):
+Then note Docking probe talkback gray at full extension.
+001:54:10 Schweickart (onboard):
+Okay, talk --
+001:54:11 McDivitt (onboard):
+Then Release?
+001:54:12 Schweickart (onboard):
+Hey, who's reading this thing?
+001:54:13 McDivitt (onboard):
+Me.
+001:54:14 Schweickart (onboard):
+You want to take my job?
+001:54:16 McDivitt (onboard):
+I will in a minute, yes.
+001:54:17 Schweickart (onboard):
+Docking probe Extend/Release to Retract; talkback, gray.
+001:54:18 McDivitt (onboard):
+Retract; talkback is gray.
+001:54:20 Schweickart (onboard):
+COAS mounted.
+001:54:23 Scott (onboard):
+Okay.
+001:54:24 Schweickart (onboard):
+COAS Power - On.
+001:54:26 Scott (onboard):
+COAS Power's coming on.
+001:54:27 Schweickart (onboard):
+Verify RCS DAP loaded.
+001:54:29 McDivitt (onboard):
+I'll tell you what. Why don't you start putting our helmets and -
+Oh, they're down here a step.
+001:54:34 Schweickart (onboard):
+Yes.
+001:54:35 Scott (onboard):
+Okay, Rusty.
+001:54:36 McDivitt (onboard):
+I think I ought to go put mine on.
+001:54:37 Roosa:
+And, Apollo 9, this is Houston. We'll fall off at Canaries here in
+about another minute and we'll see you over Tananarive around 09.
+001:54:46 Scott:
+Roger. Tananarive at 09.
+001:54:49 Schweickart (onboard):
+Okay, you want to load the RCS DAP, Dave?
+001:54:51 Scott (onboard):
+Alright.
+001:54:52 Schweickart (onboard):
+11102.
+001:55:01 Scott (onboard): Okay.
+001:55:02 Schweickart (onboard):
+Okay, and R2, all ones.
+001:55:08 Scott (onboard):
+Okay. 11102 and 11111?
+[Control of which particular RCS thrusters to use to maintain
+attitude comes from the Digital AutoPilot (DAP) settings. The crew
+can configure the DAP by calling up Verb 48 on the computer,
+entering the control digit settings and finally activating the DAP
+with Verb 46. Other values that can be altered include the
+spacecraft weight and the trim angles of the gimbal-mounted SPS
+engine. The program procedure is shown on the (Apollo 15) CSM
+G&C Checklist (Page G 1-25).
+In this case the crew are setting R1 to 11102 and R2 to
+11111. These settings correspond to:
+1: Vehicle configuration is the CSM only. The routine needs
+to take account of the distribution of mass of the complete
+vehicle.
+11: Quads A/C and B/D are used as coupled pairs. By firing
+opposing thrusters in opposing directions, a rotation can be
+started without any significant thrusting that will affect the
+spacecraft's trajectory. For the separation and transposition
+maneuver coupled pairs are selected.
+0: The deadband will be ±0.5° for tight control
+of the spacecraft's attitude. The deadband is the range of error
+from the ideal attitude that will be allowed before active
+correction is made. As long as the spacecraft stays within half a
+degree of the desired attitude, the thrusters will not fire.
+2: The relatively fast rotation rate of 0.5° per second
+will be used for any corrective maneuvers.
+1: The quad pair A/C will be used for roll corrections.
+1111: All quads are available for use.]
+001:55:11 Schweickart (onboard):
+Okay, and I guess you Proceed out of there.
+001:55:13 Scott (onboard):
+Yes.
+001:55:15 Schweickart (onboard):
+Okay, load Noun 17.
+[The crew are loading three angles (roll, pitch and yaw) into Noun
+17 - Astronaut total att.]
+001:55:18 Scott (onboard):
+Okay.
+001:55:21 McDivitt (onboard):
+Boy, I wish I had a towel (garbled) --
+001:55:23 Schweickart (onboard):
+That's wrong. Okay, try Verb 25.
+[Verb 25 will allow the crew to load all three components of the data.]
+001:55:26 Scott (onboard):
+Okay.
+001:55:27 Schweickart (onboard):
+18143.
+001:55:30 McDivitt (onboard):
+You didn't run across a towel or anything down there, did you?
+001:55:33 Scott (onboard):
+A what, Jim?
+001:55:34 McDivitt (onboard):
+A towel?
+001:55:35 Scott (onboard):
+They're up underneath me.
+001:55:36 McDivitt (onboard):
+(garbled) clean off my visor.
+001:55:37 Scott (onboard):
+They're up underneath me. Lay up at A-1, Jimmy.
+001:55:40 McDivitt (onboard):
+A long ways up there.
+001:55:41 Schweickart (onboard):
+09436.
+001:55:46 Schweickart (onboard):
+Okay. 01478.
+001:55:51 Schweickart (onboard):
+Looks good. 183.43 [sic], 94.36, 14.78.
+[Schweickart reads the first angle incorrectly but the error is
+picked up Scott.]
+001:55:56 Scott (onboard):
+180 - 181.43, right?
+001:55:59 Schweickart (onboard):
+Yes, yes.
+001:56:00 Scott (onboard):
+Okay.
+001:56:01 Schweickart (onboard):
+Okay, Noun 22.
+[The crew are now loading the three attitude angles into Noun 22 -
+New Inertial Coupling Data Unit (ICDU) Angles. This is the
+LM docking and extraction attitude and corresponds to the reverse
+orientation of the S-IVB separation attitude loaded into Noun 17
+with an additional roll of 60°. See the orientation diagram on
+page 502 of CSM 104
+Handbook, page 501 which shows the 60° roll offset.]
+001:56:03 Scott (onboard):
+Okay.
+001:56:06 Schweickart (onboard):
+121.43.
+001:56:09 Scott (onboard):
+Okay.
+001:56:10 Schweickart (onboard):
+274.36.
+001:56:14 Scott (onboard):
+Okay.
+001:56:15 McDivitt (onboard):
+Oh, Davey, you didn't get me the helmet visor cover.
+001:56:20 Scott (onboard):
+Yes. It's un - it's in the L-1, Jim.
+001:56:22 McDivitt (onboard):
+L-1, what's that?
+001:56:23 Scott (onboard):
+No - it's in the L-shaped bag, I'm sorry.
+001:56:25 McDivitt (onboard):
+L-shaped bag, okay.
+001:56:27 Schweickart (onboard):
+345.22.
+001:56:32 Scott (onboard):
+Okay.
+001:56:33 McDivitt (onboard):
+I'll go get that.
+001:56:34 Scott (onboard):
+Let me check that: 121.43, 274.36, 345.22. That looks good.
+001:56:42 Schweickart (onboard):
+Set the docking attitude on attitude set dials.
+[Scott now mirrors the Noun 22 angles on the Attitude Set dials on
+the lower left hand side of the Main Display Console (MDC). The
+dial angles are only accurate to one decimal place.]
+001:56:46 Scott (onboard):
+Alright.
+001:56:47 Schweickart (onboard):
+121.4.
+001:56:49 McDivitt (onboard):
+Where did you say those towels were, Dave?
+001:56:51 Scott (onboard):
+The towels? I think they're underneath me in A-1, way up here.
+001:56:56 Schweickart (onboard):
+Oh, isn't it pretty out? Whoo hoo! Look at those thunderstorms.
+001:56:59 McDivitt (onboard):
+What am I hooked on up there? (garbled) hanging over.
+001:57:05 Schweickart (onboard):
+121.4; Dave, you got that?
+001:57:08 Scott (onboard):
+Coming up. Okay. 121.4, okay?
+001:57:10 Schweickart (onboard):
+274.4.
+001:57:12 Scott (onboard):
+Alright. A little longer.
+001:57:20 Schweickart (onboard):
+See if I can see a star in the daytime now.
+001:57:24 Scott (onboard):
+274.4, wasn't it?
+001:57:26 Schweickart (onboard):
+Right, and 345.2.
+001:57:32 Scott (onboard):
+345.2, okay.
+001:57:35 Schweickart (onboard):
+Okay, that's it. Sep preparation now. S-IVB attitude, deadband, and
+H2 vent rate, confirmed by MSFN.
+001:57:50 Scott (onboard):
+Got to align the GDC - Did we get that again? Yes, we did.
+001:57:55 Schweickart (onboard):
+Jim, while you're down there, how about Waste Stowage Vent - Closed.
+001:57:59 McDivitt (onboard):
+I got that.
+001:58:00 Schweickart (onboard):
+Suit Circuit Return valve - Close.
+001:58:02 Scott (onboard):
+Okay, just a minute.
+001:58:04 Schweickart (onboard):
+Wait a minute now. I guess we've got to don our helmets and gloves
+first before we do that one.
+001:58:10 McDivitt (onboard):
+Yes.
+001:58:18 McDivitt (onboard):
+There he is, right there.
+001:58:20 Schweickart (onboard):
+It's - getting dark again.
+001:58:23 McDivitt (onboard):
+Does that every few minutes. Okay, I think I'll put my helmet and
+gloves on and then put that on. Ouch!
+001:58:36 Schweickart (onboard):
+I got a few spots on my window, but I don't see much gunk.
+001:59:00 McDivitt (onboard):
+(Singing)
+001:59:10 Schweickart (onboard):
+Try my SPS helium again. Maybe it came back in order. Boy, it
+really hit the peg, I'll tell you. It looked like it was going to
+go right off the bottom of the (garbled) Boing! Looked like a
+reset.
+001:59:24 Scott (onboard):
+(Laughter)
+001:59:43 Schweickart (onboard):
+Man, I'll tell you, when that water boiler boils, it really puts
+the temperature down there.
+002:00:04 Schweickart (onboard):
+There it is. It's getting dark.
+002:00:11 Scott (onboard):
+It sure is, isn't it?
+002:00:13 Schweickart (onboard):
+Yes. Oh, there's lightning. Look at all that lightning on the
+horizon.
+002:00:23 Scott (onboard):
+Now you can see stars, Rusty. See the stars?
+002:00:25 Schweickart (onboard):
+Let me look. I got my lights up awful bright.
+002:00:29 McDivitt (onboard):
+Tell you one thing I'm going to have is some navigation here with
+this medal. Let me get this thing out of there.
+002:00:39 Schweickart (onboard):
+No, I don't yet. Oh, let me get my checklist out of the way.
+002:00:43 Scott (onboard):
+Got one right at 12 o'clock.
+002:00:45 Schweickart (onboard):
+Do we really?
+002:00:47 Scott (onboard):
+Yes.
+002:00:48 Schweickart (onboard):
+Oh, yes. Yes, I see it. Yes, about three degrees above the horizon?
+Yes. Sure do.
+002:00:55 McDivitt (onboard):
+Why don't you start getting your helmets on so we can get -
+002:00:57 Scott (onboard):
+Here, give me mine, Jim.
+002:00:58 Schweickart (onboard):
+Ahh, what a drag!
+002:01:01 McDivitt (onboard):
+(garbled)
+002:01:04 Scott (onboard):
+Jim, I need you to hand me mine.
+002:01:06 McDivitt (onboard):
+Okay. Just a second; I'm trapped. Oh boy!
+002:01:13 Schweickart (onboard):
+Okay, it's turnover time. Slowly I turn. (Singing)
+002:01:53 Schweickart (onboard):
+Clever, Rusty - put your old fingerprint right on the helmet.
+002:01:56 McDivitt (onboard):
+Here, I have a rag here if you can use it.
+002:01:59 Schweickart (onboard):
+Oh, that's okay. I'm - I'm sure I didn't get it enough to even notice.
+Public Affairs Officer - "This is Apollo Control at 2 hours
+2 minutes into the mission. Apollo 9 is in its second revolution
+over the continent of Africa - its status is go. We have not yet
+identified whether there is a problem in the command module
+computer. The computer was about 4 tenths of a second late on
+lift-off. Over Bermuda in this first stateside pass we did
+successfully update a state vector - that is the ground told the
+command module computer the spacecraft's position and velocity in
+reference to the Earth at that particular time. So we do have a
+good state vector aboard the spacecraft. The Guidance Officer is
+continuing to watch the computer - and will for some time yet
+before he is able to say whether there is a problem or there is
+not. To date we have not identified a problem. Just at the end of
+the Canaries pass a few minutes ago Dave Scott extended the docking
+probe for the first time. His comments were: "We've got a good
+one. It's just like in the chamber." He reported the crew could
+hear the docking probe extend. We're still reading good -
+H2 tank - the pressure is on the ground in that tank
+that was reading zero onboard. Ground telemetry shows the pressures
+are good there. We had a caution warning light on in the number one
+H2 tank. Briefly, however, just within a second the
+heater came on and the light went out. It has been determined that
+the limits are probably set a little too high on that caution and
+warning light in that parameter and that there is no problem."
+002:02:12 Scott (onboard):
+Jim, the bags go in A-5, which is the CO2 canister right down --
+002:02:16 McDivitt (onboard):
+Okay.
+002:02:17 Scott (onboard):
+-- to the right of the --
+002:02:18 McDivitt (onboard):
+Okay, let me just - just a minute until I get my visor.
+002:02:23 Scott (onboard):
+Okay.
+002:02:24 McDivitt (onboard):
+I'll be right with you.
+002:02:31 Schweickart (onboard):
+Okay, one each, helmet, on (garbled) tied down. Oh, that was a
+brilliant one!
+002:02:42 McDivitt (onboard):
+By the time I get it out, I won't need it; my helmet will already
+be bashed up. Oh, shoot. Crash, bang! Where did we get this thing?
+002:03:00 Schweickart (onboard):
+Am I in your way, Jim?
+002:03:02 McDivitt (onboard):
+No, no.
+002:03:04 Schweickart (onboard):
+Okay.
+002:03:10 Schweickart (onboard):
+Okay, I got the helmet on.
+002:03:28 Schweickart (onboard):
+Oh, I got a foggy helmet.
+002:03:30 Scott (onboard):
+Do you?
+002:03:31 Schweickart (onboard):
+Whooee! Sure is.
+002:03:34 Scott (onboard):
+How come, is it foggy already?
+002:03:36 Schweickart (onboard):
+I don't know, but it's really fogging.
+002:03:39 Scott (onboard):
+You got your flow on?
+002:03:40 Schweickart (onboard):
+Yes. Helmet, too.
+002:03:42 McDivitt (onboard):
+Hey, what's the suit-inlet temperature? I feel kind of warm.
+002:03:45 Scott (onboard):
+Suit inlet is 47° [F, 8°C].
+002:03:48 McDivitt (onboard):
+Hmm!
+002:03:56 McDivitt (onboard):
+Here, they go down here in A-5, huh?
+002:03:59 Scott (onboard):
+Yes.
+002:04:16 Schweickart (onboard):
+Mmm.
+002:04:23 Schweickart (onboard):
+Ahh, there goes a hair. By the time this flight's over, I'm not
+going to have any hairs left on my forearm; I'll say that.
+002:04:31 McDivitt (onboard):
+Wow, how do you ever get these things in here? All three of them
+went in there, Dave.
+002:04:42 Scott (onboard):
+Yes, there - should be EVA gloves on the left. You ought to be able
+to get them all in there, Jim.
+002:04:46 McDivitt (onboard):
+Tell you what; rather than fool around with that, I think I'll just
+stick them down here in the - Well, maybe I better not.
+002:04:50 Scott (onboard):
+Put them in a temporary - F-1 or F-2 up near the temporary
+(garbled)
+002:04:56 McDivitt (onboard):
+I think I'll do that. I want to get back up there and get going on
+this thing, so we don't - have to leave.
+002:05:01 Scott (onboard):
+Yes.
+002:05:06 Scott (onboard):
+Get them out again soon anyway.
+002:05:14 Scott (onboard):
+Here's mine.
+002:05:15 McDivitt (onboard):
+Okay, I'll be with you in just a minute.
+002:05:17 Scott (onboard):
+Oh, I'm sorry. I thought you were done.
+002:05:19 McDivitt (onboard):
+No, not quite. Not quite.
+002:05:27 McDivitt (onboard):
+Okay, I'll take it.
+002:05:29 Schweickart (onboard):
+Now, let me get that. Okay, I got that one. Ouch! Boy, I got a real
+hair in there.
+002:05:34 McDivitt (onboard):
+Where's your bag, Rusty, or don't you need me to stow it?
+002:05:36 Schweickart (onboard):
+It's - it's up at the head there. I think it's okay.
+002:05:39 McDivitt (onboard):
+Okay, good.
+002:05:44 Schweickart (onboard):
+I guess I ought to get that dark slide off there; it's liable to
+smack me in the chops. Oh, we're not going to thrust, are we, yet?
+Hey, Jim, before you get up, could you pull my leg strap tighter?
+002:05:56 McDivitt (onboard):
+Sure. Is that noticeably tighter?
+002:06:07 Schweickart (onboard):
+Yes, that's as tight as they go. Okay, that's better. That's good.
+002:06:12 McDivitt (onboard):
+Okay, now I've got to get yours.
+002:06:14 Scott (onboard):
+Okay, so I can (garbled)
+002:06:19 Schweickart (onboard):
+Oh, no!
+002:06:21 Scott (onboard):
+What?
+002:06:22 Schweickart (onboard):
+Guess what's missing?
+002:06:23 Scott (onboard):
+What?
+002:06:24 Schweickart (onboard):
+A Hasselblad camera.
+002:06:25 Scott (onboard):
+Oh, no.
+002:06:26 McDivitt (onboard):
+What do you mean, it's missing? (Laughter)
+002:06:28 Schweickart (onboard):
+It's not where I put it, on the Velcro.
+002:06:30 McDivitt (onboard):
+Okay.
+002:06:32 Schweickart (onboard):
+So, it's got to be floating around somewhere in the cabin.
+002:06:43 Schweickart (onboard):
+Damn!
+002:06:44 McDivitt (onboard):
+There it is, down there.
+002:06:45 Schweickart (onboard):
+You got it?
+002:06:46 McDivitt (onboard):
+Yes. I see it; I haven't got it.
+002:06:48 Schweickart (onboard):
+Okay.
+002:06:55 Schweickart (onboard):
+Dave, let me see if I can read you something here.
+002:06:57 Scott (onboard):
+Okay.
+002:06:58 Schweickart (onboard):
+Emergency Cabin Pressure to Off; no, Dave - Jim's got to do that.
+002:07:02 McDivitt (onboard):
+Let me - let me go ahead and get those. Here's your camera.
+002:07:05 Schweickart (onboard):
+Where? Okay.
+002:07:08 McDivitt (onboard):
+Emergency Cabin Pressurization's off.
+002:07:09 Schweickart (onboard):
+No, stand by here; I - I'm screwed up. Suit Circuit Return valve -
+Closed.
+002:07:15 Scott (onboard):
+Okay. Yo - Everybody in their suit okay?
+002:07:17 McDivitt (onboard):
+Everybody's in their suit. Emergency Cabin Pressure to Test, and
+Press until cabin reaches 5.7 [psi, 39.3 kPa], and I'll let you
+know.
+002:07:26 Scott (onboard):
+I can't get that son of a bitch closed.
+002:07:28 McDivitt (onboard):
+You want me to?
+002:07:31 Scott (onboard):
+There, it's closed. Boy, that's a bitch, isn't it, Jim?
+002:07:33 McDivitt (onboard):
+Yes, really it's - it's tough to move; you - you're such a -
+002:07:39 Scott (onboard):
+You say you're ready, Jim?
+002:07:40 McDivitt (onboard):
+Well, not really. Let me try to get done here.
+002:07:42 Scott (onboard):
+Oh.
+002:07:44 McDivitt (onboard):
+Boy, am I messing up my helmet!
+002:07:45 Scott (onboard):
+What are you doing?
+002:07:46 McDivitt (onboard):
+Putting my face helmet --
+002:07:47 Schweickart (onboard):
+Pressurizing the cabin.
+002:07:48 McDivitt (onboard):
+Okay, Emergency Cabin Pressure - Press to test going now.
+002:07:53 Schweickart (onboard):
+Okay. And we'll probably get an O2 Flow High warning.
+002:07:58 McDivitt (onboard):
+How we doing?
+002:07:59 Schweickart (onboard):
+We are 5.0 something [psi, 34.4 kPa].
+002:08:06 McDivitt (onboard):
+Okay, the warning's going to come on in a second here.
+002:08:09 Schweickart (onboard):
+We're not even to 5.1 [psi, 35.1 kPa] yet, Jim.
+002:08:11 McDivitt (onboard):
+Oh.
+002:08:12 Schweickart (onboard):
+We got a long way to go.
+002:08:13 McDivitt (onboard):
+How did the surge tank go?
+002:08:18 Schweickart (onboard):
+Surge tank is 8 - 820 or so. Okay, we're 5.25 [psi, 36.2 kPa];
+surge tank is now 800. 5.4 [psi, 37.2 kPa]; surge tank is 780. Now
+we're about 5.5 [psi, 37.9 kPa]; surge tank, 760. And 5.6 [psi,
+38.6 kPa] almost, and the surge tank is 720. And we're about 5.7
+[psi, 39.3 kPa].
+002:09:15 McDivitt (onboard):
+Okay?
+002:09:16 Schweickart (onboard):
+Okay. Emergency Cabin Press to Off.
+002:09:20 Scott (onboard):
+Emergency Cabin Press to Off.
+002:09:21 Schweickart (onboard):
+EMS Mode to Standby.
+002:09:24 Scott (onboard):
+Ems - Standby.
+002:09:26 Schweickart (onboard):
+EMS Function to Delta-V.
+002:09:29 Scott (onboard):
+Delta-V.
+002:09:30 Schweickart (onboard):
+Counter zero.
+002:09:32 Scott (onboard):
+Okay, it's set at minus 100.
+002:09:34 Schweickart (onboard):
+Oh, okay, that's a wrong - that's a baddy in here.
+[Communications have been switched to Tananarive.]
+002:09:34 Roosa:
+Apollo 9, this is Houston through Tananarive. [Long pause.]
+002:09:36 Scott (onboard):
+Yes, I know. We - that's -
+002:09:38 Schweickart (onboard):
+Align the GDC.
+002:09:41 Scott (onboard):
+Okay.
+002:09:43 Schweickart (onboard):
+FDAI 1 - Inertial.
+002:09:45 Scott (onboard):
+Now wait a minute, Rusty. Let me finish aligning the GDC first.
+002:09:48 Schweickart (onboard):
+Yes, sir.
+002:09:49 Scott (onboard):
+Okay. I was behind; fixed in a minute.
+002:09:52 Schweickart (onboard):
+I'm sorry.
+002:09:54 McDivitt (onboard):
+Boy, you center these three hoses and --
+002:09:56 Roosa:
+Apollo 9, Houston through Tananarive.
+002:10:00 Schweickart (onboard):
+Roger, Houston. You're 5 square.
+002:10:05 Schweickart (onboard):
+What's that?
+002:10:07 Scott (onboard):
+Oh, gunk.
+002:10:09 Schweickart (onboard):
+Okay, you ready, Dave?
+002:10:11 Scott (onboard):
+No.
+002:10:12 Schweickart (onboard):
+Okay.
+002:10:16 Schweickart (onboard):
+Oh, you know what I needed on this damned camera was a handle.
+002:10:22 McDivitt (onboard):
+It's too late now.
+002:10:23 Schweickart (onboard):
+Shoot, yes.
+002:10:36 McDivitt (onboard):
+I can't keep my bloody nose off of that thing.
+002:10:37 Comm Tech:
+Tananarive, Houston, NET 1.
+002:10:38 Comm Tech:
+Houston, Tananarive,
+002:10:39 Comm Tech:
+Verify CAP COM is uplinking properly.
+002:10:41 Comm Tech:
+That's affirmative,
+002:10:42 Comm Tech:
+Roger, thank you.
+002:10:48 Scott (onboard):
+Okay, GDC is aligned.
+002:10:49 Schweickart (onboard):
+FDAI 1 - Inertial.
+002:10:52 Scott (onboard):
+Okay, read me those attitude-set numbers again.
+002:10:57 Schweickart (onboard):
+Okay. 121.4.
+002:10:59 Scott (onboard):
+Okay.
+002:11:00 Schweickart (onboard):
+Okay?
+002:11:01 Scott (onboard):
+Yes.
+002:11:02 IMP (onboard):
+274.4 --
+002:11:03 Roosa:
+And, Apollo 9,this is Houston, We'll have you over Tananarive for
+about the next 5 minutes; we are standing by. I have not heard any
+transmissions from you here.
+002:11:13 McDivitt (onboard):
+Okay, we're proceeding through the separation-through-withdraw checklist.
+002:11:19 Schweickart (onboard):
+345.2.
+002:11:23 McDivitt (onboard):
+Houston, you read Apollo 9?
+002:11:25 Scott (onboard):
+345.2 and 274 what?
+002:11:28 Schweickart (onboard):
+274.4 on the middle --
+002:11:30 Roosa:
+Okay. Apollo 9, Houston. I heard just the first part of that; I'll
+just stand by here.
+002:11:37 Schweickart (onboard):
+Oh, shoot. You know what I forgot?
+002:11:38 Scott (onboard):
+What?
+002:11:39 Schweickart (onboard):
+So clever! Just a smartass!
+002:11:40 McDivitt (onboard):
+No sunglasses, huh?
+002:11:41 Schweickart (onboard):
+Yes.
+002:11:42 Scott (onboard):
+Oh, me too, damn it!
+002:11:46 McDivitt (onboard):
+Son of a gun! You want mine, Dave?
+002:11:51 Scott (onboard):
+I got mine handy.
+002:11:52 Schweickart (onboard):
+Hey, you want to take your helmet off, and put it on?
+002:11:56 Scott (onboard):
+Yes. I guess I will.
+002:12:00 Schweickart (onboard):
+Okay, I'll stop reading the checklist here.
+002:12:03 McDivitt (onboard):
+Just a second now, I'll loosen up - I'll shut your suit flow off so
+you can get your helmet back on.
+002:12:09 Scott (onboard):
+Now wait a minute. I don't need to do that, Jim. I can pop a glove
+and do it. Yes, it's easier to pop a glove.
+002:12:13 McDivitt (onboard):
+Alright.
+002:12:15 Schweickart (onboard):
+I tell you, this damned camera won't stay anywhere. Let me try it
+Velcro on the back, there. Okay, camera, stay there now. Yes, I'm
+going to pop a glove and put mine on, too.
+002:12:36 Scott (onboard):
+Jim, could you hang on to these things for me for a minute? I have a -
+002:12:43 Schweickart (onboard):
+Whee! I got myself in the nose anyway.
+002:12:58 McDivitt (onboard):
+What's the flow at?
+002:13:02 Schweickart/Scott (onboard):
+O2 flow high.
+002:13:05 Schweickart (onboard):
+Wonder wha - oh - wonder why that is.
+002:13:12 McDivitt (onboard):
+Oh, Dave took his helmet off.
+002:13:15 Schweickart (onboard):
+Yes, me too. Does that make a difference?
+002:13:18 McDivitt (onboard):
+Yes.
+002:13:34 McDivitt (onboard):
+Back a little farther. Okay, that's it. Here you go. How you doing?
+002:13:46 Schweickart (onboard):
+Okay, I'm - I'm about to take my helmet off here, so --
+002:13:48 McDivitt (onboard):
+Okay, why don't I press on with the checklist with Dave? EMERGENCY
+CABIN PRESS TEST - we've done that; EMERGENCY CABIN PRESS, OFF; EMS
+MODE, STAND-BY -
+002:13:54 Schweickart (onboard):
+We're all the way down to the bottom, Jim.
+002:13:56 McDivitt (onboard):
+EMS FUNCTION, DELTA-V; counter, zero -
+002:14:00 Schweickart (onboard):
+We're three lines from the bottom.
+002:14:01 McDivitt (onboard):
+Align of GPS - GDC; you've done that? FDAI 1 - Inertial.
+002:14:05 Scott (onboard):
+Inertial.
+002:14:06 Schweickart (onboard):
+FDAI 2, Verb 83, adjust ORDEAL.
+002:14:10 Scott (onboard):
+Okay.
+002:14:13 McDivitt (onboard):
+(garbled)
+002:14:23 McDivitt (onboard):
+Hey, I'm really unstable here.
+002:14:27 Schweickart (onboard):
+You got your seatbelt on, Jim?
+002:14:28 McDivitt (onboard):
+Yes, it's about over my knees.
+002:14:31 Schweickart (onboard):
+Okay, I'll take over again. Okay, are you in P00, Dave?
+002:14:37 Scott (onboard):
+Just - I'm doing ORDEAL.
+002:14:38 McDivitt (onboard):
+He's ad - he's adjusting ORDEAL.
+002:14:39 Schweickart (onboard):
+Okay.
+002:14:46 Scott (onboard):
+Okay, back to P00.
+002:14:47 Schweickart (onboard):
+Okay, in P00, and then MANUAL ATTITUDE, three, RATE COMMAND.
+002:14:51 Scott (onboard):
+I guess they're in RATE COMMAND.
+002:14:54 McDivitt (onboard):
+Yes, that's really bad, isn't it?
+002:14:57 Schweickart (onboard):
+(Laughter) LIMIT CYCLE, off.
+002:14:59 Scott (onboard):
+That cycle's off.
+002:15:00 Schweickart (onboard):
+ATT DEADBAND, Min.
+002:15:01 Scott (onboard):
+Min.
+002:15:02 Schweickart (onboard):
+RATE, Low.
+002:15:03 Scott (onboard):
+Low.
+002:15:04 Schweickart (onboard):
+TRANSLATION CONTROL POWER, ON, up.
+002:15:06 Scott (onboard):
+ON, up.
+002:15:07 Schweickart (onboard):
+ROTATIONAL CONTROL POWER NORMAL, two, AC/DC.
+002:15:10 Scott (onboard):
+Two, AC/DC.
+002:15:11 Schweickart (onboard):
+DIRECT, two, MAIN A/MAIN B.
+002:15:12 Scott (onboard):
+DIRECT, two, MAIN A/MAIN B.
+002:15:14 Schweickart (onboard):
+SPACECRAFT CONTROL to CMC.
+002:15:18 Scott (onboard):
+Yes, that's in FREE; flip it to CMC.
+002:15:20 Schweickart (onboard):
+CMC MODE, FREE.
+002:15:22 Scott (onboard):
+FREE.
+002:15:23 Schweickart (onboard):
+BMAG MODE, three, to RATE 2.
+002:15:24 Roosa:
+Apollo 9, this is Houston. We'll lose you in Tananarive here in
+about 1 minute. If you have tried to call me, I haven't received
+anything, but we'll see you over Carnarvon at 26.
+002:15:39 McDivitt (onboard):
+Roger, Houston; Carnarvon at 26.
+002:15:42 Roosa:
+And, Apollo 9, that will be Carnarvon at 26.
+002:15:46 McDivitt (onboard):
+Roger, Houston; Apollo 9. Carnarvon at 26.
+002:15:49 Schweickart (onboard):
+Okay -
+002:15:50 Scott (onboard):
+Okay, I got the --
+002:15:53 Schweickart (onboard):
+Did you get the BMAG MODE, three, to RATE 2.
+002:15:55 Scott (onboard):
+That's affirm.
+002:15:56 Schweickart (onboard):
+Okay, LAUNCH VEHICLE SPS INDICATOR to S-II/S-IVB.
+002:16:01 Scott (onboard):
+S-II/S-IVB.
+002:16:02 Schweickart (onboard):
+LV GUIDANCE to IU.
+002:16:08 Scott (onboard):
+IU.
+002:16:09 Schweickart (onboard):
+LUNAR INJECT, SAFE.
+002:16:12 Scott (onboard):
+SAFE.
+002:16:13 Schweickart (onboard):
+UP TELEMETRY, IU, to BLOCK.
+002:16:16 Scott (onboard):
+BLOCK.
+002:16:18 Schweickart (onboard):
+AUTO RCS SELECTOR, 16, to MAIN B.
+002:16:20 Scott (onboard):
+Okay. Coming up.
+002:16:23 Schweickart (onboard):
+Okay.
+002:16:34 Scott (onboard):
+16 to MAIN B.
+002:16:36 Schweickart (onboard):
+Okay, RCS - CIRCUIT BREAKER RCS LOGIC, two, CLOSE.
+002:16:44 Scott (onboard):
+Two, CLOSE.
+002:16:45 Schweickart (onboard):
+TVC SERVO POWER 1, AC-1/MAIN A.
+002:16:49 Scott (onboard):
+Okay, let's see how much time we got here? We got 20 minutes. I
+sort of hate to be putting all that power --
+002:16:56 McDivitt (onboard):
+Yes, let's - let's wait a little while.
+002:16:57 Schweickart (onboard):
+Okay, you want to wait there?
+002:16:58 McDivitt (onboard):
+Yes.
+002:16:59 Schweickart (onboard):
+Okay.
+Public Affairs Officer - "This is Apollo Control, at 2
+hours, 17 minutes into the mission of Apollo 9. Apollo 9 out of
+range at Tananarive now, out over the Indian Ocean. Next station to
+acquire will be Carnarvon in about 8 minutes. This is Mission
+Control, Houston."
+002:17:09 Schweickart (onboard):
+We've got 9 minutes.
+002:17:11 Scott (onboard):
+02:34 is the maneuver.
+002:17:14 Schweickart (onboard):
+Okay, well - well, Carnarvon's at 26; that's what I was looking at.
+002:17:16 Scott (onboard):
+Yes.
+002:17:24 Schweickart (onboard):
+Get in that pocket, you stupid thing.
+002:17:40 Schweickart (onboard):
+I was thinking it was time to dark adapt, but that's probably the
+worst thing we could do.
+002:17:48 McDivitt (onboard):
+Dark adapt with your sunglasses on, huh?
+002:18:02 Schweickart (onboard):
+Yes. I will turn it down a little bit and see what it looks like
+out there, though. Oh, isn't that a pretty Earth?
+002:18:20 Schweickart (onboard):
+See if you can see those - S-IVB thrusters firing.
+002:18:24 McDivitt (onboard):
+I've seen some light out the side window. I never was really sure
+whether it was the S-IVB thrusters or --
+002:18:30 Schweickart (onboard):
+Yes, I have, too. I - I just saw a flash; that's what reminded me
+of it.
+002:18:39 Scott (onboard):
+That COAS sure looks like we rolled. I guess it's just me.
+002:18:43 McDivitt (onboard):
+Hey, how does our horizon look out there, Dave? Can you see it alright?
+002:18:46 Scott (onboard):
+Yes. The COAS looks like we're in a roll. Did you notice that, Jim?
+002:18:50 McDivitt (onboard):
+No, I didn't. I just turned on to see what it looked like.
+002:18:53 Schweickart (onboard):
+Which way am I? I'm - I'm looking north out my window, aren't I?
+Yes. Because I can see the Big Dipper on the horizon.
+002:19:00 Scott (onboard):
+I wonder if just the way I am in the seat -
+002:19:03 McDivitt (onboard):
+No, you look straight.
+002:19:05 Scott (onboard):
+Did it - did it look straight when you checked it out?
+002:19:07 McDivitt (onboard):
+No, I said you look straight. No, I did - all I did was turn it on
+to see if the light lit, Dave.
+002:19:13 Schweickart (onboard):
+Looks level to me, Dave.
+002:19:14 Scott (onboard):
+No, I didn't mean the reticle.
+002:19:16 Schweickart (onboard):
+I know. Oh, I see.
+002:19:18 Scott (onboard):
+If - if - if I look - it just doesn't.
+002:19:21 Schweickart (onboard):
+Yes, I know what you're saying.
+002:19:24 Scott (onboard):
+I'll check on the horizon when we come up there.
+002:19:40 McDivitt (onboard):
+Okay, Rusty, you read the checklist down through DET STARTUP, and
+then I'll read it from there on over to a --
+002:19:46 Schweickart (onboard):
+Right. I'm just trying to picture what I'm going to do with my
+checklist at that point.
+002:19:49 McDivitt (onboard):
+I'm still trying to figure out what I'm going to do with mine,
+too. I pulled up my suit --
+002:19:52 Schweickart (onboard):
+Maybe I ought to tighten down my seatbelt here and - stick it under
+me or something.
+002:19:59 McDivitt (onboard):
+Hey, how about that? You want to try sticking it up there?
+002:20:02 Schweickart (onboard):
+Where's that? Under there?
+002:20:05 McDivitt (onboard):
+But the hand - Hey, the hand controller is going to be in your way.
+002:20:07 Scott (onboard):
+Yes, I have a hard time getting my arm over there without banging
+something --
+002:20:10 McDivitt (onboard):
+Well, you've got - you've got one of those here; maybe you can
+stick it in there?
+002:20:14 Schweickart (onboard):
+Maybe I can; I'll try it.
+002:20:21 Scott (onboard):
+All the RCS look good, Jimmy?
+002:20:24 McDivitt (onboard):
+Looks good. Quad C is really down there.
+002:20:29 Schweickart (onboard):
+Looks like a good spot, Jim.
+002:20:31 McDivitt (onboard):
+Okay.
+002:20:36 Schweickart (onboard):
+Let me just check my Hasselblad, and make sure it's ready to go --
+002:20:37 McDivitt (onboard):
+Hey, you know, it looks okay, Dave.
+002:20:39 Scott (onboard): Okay.
+002:20:44 Schweickart (onboard):
+Okay. The dark slide is out. We don't have a filter on it. I
+thought we were supposed to have a haze filter on it.
+002:20:53 McDivitt (onboard):
+Yes, we were.
+002:20:59 Schweickart (onboard):
+We got the film - ASA --
+002:21:00 McDivitt (onboard):
+It's supposed to be mounted on there.
+002:21:02 Schweickart (onboard):
+Yes, that's what I thought.
+002:21:06 Scott (onboard):
+Are you checking these things off, I mean sort of making a line by
+them or something, Rusty, when you go through them to make sure we
+get them all?
+002:21:14 Schweickart (onboard):
+I can, Dave; I haven't been.
+002:21:17 McDivitt (onboard):
+What's that? The checklist, Dave?
+002:21:18 Scott (onboard):
+Yes. Since it's sort of a one-time checklist - I think we sort of
+stop in the middle. Oh, I don't care; just so we get them all.
+002:21:29 McDivitt (onboard):
+Yes.
+002:21:40 McDivitt (onboard):
+When we get over Carnarvon, you're going to have to go ahead and
+get a go for arming the pyros.
+002:21:47 Schweickart (onboard):
+Um hum. Okay, the camera looks like it's ready to go.
+002:21:56 McDivitt (onboard):
+Okay, when we --
+002:22:10 McDivitt (onboard):
+You're going to push the plus-X thing and hit the strip button, and
+I'm going to start the clock. Let's see how our arms fit in here,
+Dave, with the clock's starting (garbled)
+002:22:19 Scott (onboard):
+Okay.
+002:22:20 McDivitt (onboard):
+Which one is the clock?
+002:22:21 Scott (onboard):
+The next one.
+002:22:22 McDivitt (onboard):
+This one?
+002:22:23 Scott (onboard):
+No.
+002:22:25 Schweickart (onboard):
+Okay, 3½ minutes to Carnarvon.
+002:22:27 Scott (onboard):
+The one that says RE - that says START.
+002:22:30 McDivitt (onboard):
+I can't see it.
+002:22:31 Scott (onboard):
+Okay, it's the third one from the right. You got it?
+002:22:33 McDivitt (onboard):
+Yes.
+002:22:35 Scott (onboard):
+Okay.
+002:23:02 Schweickart (onboard):
+Hey, you want to read down those again?
+002:23:05 Scott (onboard):
+Guess I'm not sure what we are going to do. I'm going to go: 3, 2,
+1; I'll start thrusting at 1; hit the button at Mark; and then you
+start the clock.
+002:23:13 McDivitt (onboard):
+I'm going to start the clock.
+002:23:15 Scott (onboard):
+I'll go - 1001, 1002, 1003; come off of it; come back up here 15
+seconds. Prior to 15 seconds, I'll go: SCS ACCELERATION COMMAND on
+PITCH.
+002:23:31 Schweickart (onboard):
+Alright.
+002:23:33 Scott (onboard):
+Start the PITCH around -
+002:23:34 McDivitt (onboard):
+I'll - I'll punch in Verb 62 for you at that time.
+[Verb 62 displays the total attitude error (N22 - N20).]
+002:23:37 Scott (onboard):
+Right. And - coming around, I'll stop it.
+002:23:42 McDivitt (onboard):
+FDAI Scale (garbled) 5/5 INERTIAL (garbled)
+002:24:11 Schweickart (onboard):
+Dave, surge tank is coming back up. It's up at 800 now.
+002:24:15 Scott (onboard):
+Good.
+002:24:18 Schweickart (onboard):
+Cabin pressure is 5.8 [psi, 40.0 kPa] or so.
+002:24:34 McDivitt (onboard):
+Let's see here. You know your rates?
+002:24:37 Scott (onboard):
+Alright, (garbled) I pitch down, and when I get the DAP rate back,
+RATE COMMAND, CMC, then stop it, MINIMUM IMPULSE, roll it, and
+(garbled) to get us lined up.
+002:24:49 McDivitt (onboard):
+Okay.
+002:24:50 Scott (onboard):
+And (garbled) translation from CMC. And when we get in - 50 feet or
+so, we lock it up with the SCS and drive it in.
+002:25:03 McDivitt (onboard):
+Okay, real good.
+002:25:04 Scott (onboard):
+And when we get there, CMC, and lock it up (garbled) If it gets out
+of hand, you're going to (garbled) rates in it? If that's okay,
+you're going to (garbled)
+002:25:20 McDivitt (onboard):
+Okay.
+[Onboard transcription break.]
+Public Affairs Officer - "This is Apollo Control at 2 hours
+25 minutes into the mission. Apollo 9 coming up the tracking
+station Carnarvon. During the Carnarvon pass, the S-IVB instrument
+unit will be enabled for command and about halfway between
+Carnarvon and the tracking ship Huntsville, the S-IVB will maneuver
+to transposition and docking attitude. We should have ARIA aircraft
+in that area which may be able to pick it up. Here is Apollo 9 at
+Carnarvon now."
+[Communications have been switched to Canarvon.]
+002:25:31 Roosa:
+Apollo 9, this is Houston through Carnarvon.
+002:25:36 McDivitt:
+Roger, Houston. We're here.
+002:25:38 Roosa:
+Roger. We read you loud and clear, We would like to have the
+up-telemetry IU switched to accept.
+002:25:44 McDivitt:
+Go for the pyro arm anytime you want to run through it.
+002:25:48 Roosa:
+Roger. We want to take a look at you, and we will give you a go on
+that shortly. We would like to have you go ahead and arm the logic
+at this time.
+002:25:58 McDivitt:
+Roger.
+002:26:03 Roosa:
+And would you confirm up-telemetry; are you enabled?
+002:26:08 McDivitt:
+Negative. Up-telemetry IU is in block. Do you want to go to
+up-telemetry IU in accept?
+002:26:15 Roosa:
+That is affirmative. We would like to have the up-telemetry IU to
+accept.
+002:26:20 McDivitt:
+In accept.
+002:26:21 Roosa:
+Understand.
+002:26:23 McDivitt:
+Roger.
+[Long pause.]
+002:26:45 Roosa:
+And, Apollo 9, this is Houston. We would like to have you have the
+up-telemetry IU switched to block.
+002:26:54 McDivitt:
+Up-telemetry IU to block.
+002:26:56 Roosa:
+Very good. Thank you.
+002:26:59 McDivitt:
+And, Houston, the logic on my mark, 3, 2, 1.
+002:27:06 McDivitt:
+Mark!
+002:27:08 McDivitt:
+Two logic.
+002:27:09 Roosa:
+Roger. We copy. Stand by one.
+002:27:26 Roosa:
+Apollo 9; this is Houston. You are go for pyro arm.
+002:27:30 McDivitt:
+Roger. Understand, go for pyro arm. Thank you.
+002:27:33 Roosa:
+That is affirmative.
+002:28:04 Roosa:
+Apollo 9, this is Houston. You are go for TD&E.
+002:28:08 McDivitt:
+Roger. Understand, go for TD&E.
+002:28:38 McDivitt:
+Houston, what time do we come into daylight?
+002:28:40 Roosa:
+Do you mean on this pass or for the ejection pass?
+002:28:45 McDivitt:
+This pass.
+002:28:47 Roosa:
+Okay. Stand by.
+002:29:34 Roosa:
+Apollo 9, Houston.
+002:29:38 McDivitt:
+Go ahead.
+002:29:39 Roosa:
+Roger. You will come into daylight on this one at about 02 plus 39
+plus 21.
+002:29:48 McDivitt:
+Roger. Thank you.
+002:29:56 Roosa:
+Here I was all primed for your ejection sunrise time. You faked me
+out on this one.
+002:30:03 McDivitt:
+Next time I'll ask.
+002:30:05 Roosa:
+Roger.
+002:31:19 McDivitt:
+Houston, Apollo 9.
+002:31:21 Roosa:
+Go, Apollo 9.
+002:31:24 McDivitt:
+We have a rather consistent behavior on this number 1 H2
+tank. It appears to light the cryo warning light every time it gets
+down there before the heater comes on. You might start thinking
+about how we're going to handle that for the sleep period because
+it keeps setting off the master alarm.
+[The onboard transcription has this conversation by Scott.]
+002:31:43 Roosa:
+Roger, Apollo 9. Copy. And that is in work.
+002:31:48 McDivitt:
+Okay. Thank you.
+002:31:57 Roosa:
+And, Apollo 9, this it Houston. We will go right on through an ARIA
+as soon as we come up off of Carnarvon on this one in about 20
+seconds.
+002:32:30 McDivitt (onboard):
+What's that? (Machine gun-like noises)
+002:32:33 Schweickart (onboard):
+Sounds like a World War II movie (laughter).
+002:33:10 McDivitt (onboard):
+What's the pitch attitude, Dave?
+002:33:15 Scott (onboard):
+(garbled)
+[Communications have been switched to an Apollo Range
+Instrumentation Aircraft (ARIA).]
+002:33:20 Roosa:
+Apollo 9, this is Houston through an honest-to-goodness ARIA. How
+do you read?
+002:33:27 McDivitt:
+Ah-wah-wah-wah-wah! I got it?
+002:33:34 Roosa:
+Roger on the wah-wah's, Apollo 9.
+002:33:38 McDivitt (onboard):
+Okay, we're reading you then.
+002:33:50 McDivitt:
+Houston, according to all calculations, our S-IVB ought to start maneuvering in about 6 or 8 seconds.
+[The technical transcription records this as "We are going to
+come into parallel with the S-IVB in about 6 or 8 seconds".]
+002:34:01 McDivitt/Scott (onboard):
+There it goes.
+002:34:07 Schweickart (onboard):
+(garbled) look at this.
+002:34:10 Scott (onboard):
+Oh, boy, look at that spacecraft go.
+002:34:32 Schweickart (onboard):
+I can see the - the stars in the Big Dipper here.
+002:34:45 McDivitt (onboard):
+(garbled) now and the (garbled)
+002:34:50 Schweickart (onboard):
+That S-band's (garbled)
+[Onboard transcription break.]
+002:35:28 McDivitt:
+Houston, we're just about there.
+Public Affairs Officer - "This is Apollo Control. We aren't
+having too much success in voice communications through this ARIA
+aircraft. We'll be at the Huntsville in about 2 minutes. Standby."
+002:38:09 Scott (onboard):
+We've made it.
+002:38:10 Schweickart (onboard):
+Oh, we did?
+002:38:11 Scott (onboard):
+Yes.
+002:38:17 McDivitt (onboard):
+Let's wait until we get good daylight before we do (garbled)
+002:38:19 Schweickart (onboard):
+Yes, I think so, too, Dave. I don't think they're in any big
+hurry. Did you say (garbled)? You see, that thing's going to take a
+long time, and I think it's about --
+002:38:40 McDivitt (onboard):
+That looks pretty (garbled)
+002:38:43 Scott (onboard):
+Got it?
+002:38:45 Schweickart (onboard):
+Yes.
+002:38:50 Schweickart (onboard):
+Isn't that something?
+002:39:16 McDivitt:
+Hello.
+002:39:17 Roosa:
+Apollo 9, this is Houston. Did you call?
+[Communications have been switched to the tracking ship
+Huntsville.]
+002:39:33 Comm Tech:
+Huntsville AOS.
+002:39:56 Schweickart (onboard):
+S-band looks great (garbled) Let's see how wild it is. (garbled)
+002:40:09 Schweickart (onboard):
+2 hours and 40 right now. The Huntsville at 02:40 for about 7 minutes.
+002:40:14 McDivitt (onboard):
+Okay.
+002:40:21 Comm Tech:
+Huntsville valid two-way lock.
+Public Affairs Officer - "This is Apollo Control. Command
+and Service Module separation from the third stage is scheduled
+near the end of this Huntsville pass. Separation and turn
+around. We will have an ARIA aircraft between the Huntsville and
+Hawaii for that maneuver, too."
+002:40:22 Schweickart (onboard):
+(garbled) get Hawaii next (garbled) that thing seems to be
+spurious. Well, what do you say?
+002:40:30 Scott (onboard):
+Alright. It's about that time.
+002:40:33 Schweickart (onboard):
+Okay. Verb 37, Enter; 47, Enter.
+002:40:36 Scott (onboard):
+37, Enter; 47 Enter.
+002:40:41 Schweickart (onboard):
+Pyro - switch Pyro Arm, two, on, up.
+002:40:45 Scott (onboard):
+Pyro Arm, two, on, up.
+002:40:47 Schweickart (onboard):
+CMC Mode to Hold.
+002:40:49 Scott (onboard):
+CMC to Hold.
+002:40:51 Schweickart (onboard):
+Okay. Okay, now we want to go - the THC to plus X and hold; CSM/LV
+pushbutton, hold, and release; and the LV tanks go to Low, and
+start the DET up from zero. Okay, is everybody ready --
+[CSM/LV SEP pushbutton is in the push-button group on panel 1.]
+Public Affairs Officer - "This is Apollo Control. The crew
+is very busy at this time preparing for its separation."
+002:41:10 McDivitt (onboard):
+Oh, okay, go ahead.
+002:41:12 Schweickart (onboard):
+Okay. 3, 2, 1 - Bang! It's gone.
+[According to the Apollo 9
+Mission Report, CSM/S-IVB separation occurred at
+002:41:16.]
+002:41:20 Schweickart (onboard):
+4 seconds and release it.
+002:41:22 Scott (onboard):
+Okay.
+002:41:24 Schweickart (onboard):
+That's 100.8. Dave, you have anything (garbled) --
+002:41:27 Scott (onboard):
+Yes, I have to check for Acceleration Command; Spacecraft Control to SCS.
+002:41:30 Schweickart (onboard):
+Okay, we got that?
+002:41:33 Scott (onboard):
+Yes, sir.
+002:41:34 Schweickart (onboard):
+You got the 5 and 5?
+002:41:36 Scott (onboard):
+(garbled)
+002:42:14 Schweickart (onboard):
+Hey, David, there goes the (garbled) on the panel. See it?
+002:42:18 Scott (onboard):
+Yes.
+002:42:19 McDivitt (onboard):
+Man, look at that son of a gun go!
+002:42:20 Schweickart (onboard):
+Okay, Dave, (garbled) is just beautiful. Just halfway around. Okay,
+just right there, Davey. Just leave it like it is (garbled) nice
+and bright there.
+002:42:30 Scott (onboard):
+Okay.
+002:42:31 Schweickart (onboard):
+Right there (garbled) Not too bright at all.
+002:42:38 Scott (onboard):
+That help?
+002:42:39 Schweickart (onboard):
+Yes.
+002:42:40 McDivitt (onboard):
+Is the camera running?
+002:42:42 Schweickart (onboard):
+Turn it on!
+002:42:44 Scott (onboard):
+Okay.
+002:42:51 Schweickart (onboard):
+Okay, (garbled) right in the right place there.
+002:42:52 Scott (onboard):
+Isn't it!
+002:42:53 Schweickart (onboard):
+Right there.
+002:42:55 McDivitt (onboard):
+When you get that, you want to get Manual Attitude Pitch, to Rate
+Command.
+002:43:00 Schweickart (onboard):
+That's good. Okay, now.
+002:43:01 McDivitt (onboard):
+Spacecraft Control, CMC.
+002:43:02 Scott (onboard):
+Okay. You look good, Jim.
+002:43:04 McDivitt (onboard):
+Good. Null your translation and your rates.
+002:43:10 Scott (onboard):
+Think they've nulled.
+002:43:11 McDivitt (onboard):
+Okay, fine.
+002:43:12 Scott (onboard):
+I'm going SCS, Minimum Impulse.
+002:43:13 McDivitt (onboard):
+SCS, MINMUM IMPULSE. That a boy. (garbled)
+002:43:14 Scott (onboard):
+(garbled) let's see - I'm going to damp out - Oh, shoot, (garbled)
+002:43:21 McDivitt (onboard):
+What's the matter?
+002:43:23 Scott (onboard):
+Well, our pitch angle isn't exactly right - it doesn't look right.
+002:43:27 McDivitt (onboard):
+Okay.
+002:43:31 Schweickart (onboard):
+That's alright; we're going to fly around a little bit, Dave.
+002:43:34 Scott (onboard):
+Alright.
+002:43:35 Schweickart (onboard):
+Okay. I want you to roll left 60 (garbled) Spacecraft Control to
+CMC and (garbled) Rate Command.
+002:43:44 Scott (onboard):
+I'll talk to Houston here.
+002:43:48 Scott:
+Houston, Apollo 9.
+[The technical transcription has this conversation by McDivitt.]
+002:43:51 Roosa:
+Go, Apollo 9. This is Houston.
+002:43:54 Scott:
+Roger. It's out there, and we're turned around and proceeding with
+the station-keeping and docking.
+002:44:00 Roosa:
+Tremendous, Apollo 9. Thank you.
+Public Affairs Officer - "Command and Service module has
+separated from the third stage, is turned around and is now station
+keeping."
+002:44:08 Schweickart (onboard):
+I'm going to have to (garbled), Jim. Do you know that? (Laughter)
+002:44:11 McDivitt (onboard):
+That's interesting. That's a big fellow.
+002:44:17 Schweickart (onboard):
+Sure is!
+002:44:19 Scott:
+It's a great big fellow.
+002:44:22 McDivitt (onboard):
+Okay, I'm going to stow the gear --
+002:44:23 Roosa:
+Roger. Copy that.
+[Long pause.]
+Public Affairs Officer - "This is Apollo Control. Apollo 9
+scheduled to continue station keeping for about another 15 minutes,
+docking is scheduled over the Goldstone, California, station at
+about 3 hours even."
+002:44:27 Schweickart (onboard):
+(garbled) go to Rate Command (garbled) CMC Mode (garbled)
+002:45:18 Schweickart (onboard):
+Okay, you got the Docking Probe extended there and that's in the
+Retract position?
+002:45:25 McDivitt (onboard):
+Okay.
+002:45:27 Schweickart (onboard):
+You (garbled) stabilize there at 50 feet or so and go to BMAG.
+002:45:30 Scott (onboard):
+Okay. Going back to CMC.
+002:45:34 Schweickart (onboard):
+Going back to CMC.
+002:45:44 Schweickart (onboard):
+You can see the thrusters hitting the (garbled) on the (garbled)
+002:45:50 Roosa:
+(garbled)
+002:45:59 McDivitt (onboard):
+What did he say?
+002:46:00 Schweickart (onboard):
+I didn't hear it.
+002:46:14 Roosa:
+Apollo 9, this is Houston. We're going to lose you here in about 45
+seconds, and we'll see you over Hawaii in about 5 minutes at 51.
+002:46:24 McDivitt:
+Roger.
+[The technical transcription has this conversation by Scott.]
+002:46:29 Roosa:
+And we may have an ARIA in here, but if it is like the last one, we
+won't hear much out of you.
+002:46:38 McDivitt:
+Just a minute. As a matter of fact, we would be better without it.
+[The onboard transcription records this as "Yes, we think, as
+a matter of fact".]
+002:46:39 Roosa:
+Okay. We will see you at 51.
+[Onboard transcription break.]
+Public Affairs Officer - "This is Apollo Control at 2 hours
+47 minutes. Huntsville has loss of signal now. During this pass,
+the command and service modules did separate from the S-IVB, the
+third stage of the launch vehicle. The spacecraft has turned around
+and the crew is now inspecting the lunar module, which is still
+inside the spacecraft LM adapter attached to the S-IVB. They will
+continue this station keeping for another 10 or 12 minutes. Docking
+is scheduled just about 3 hours over the Goldstone station. We will
+come back up at Hawaii, scheduled at 2 hours 50 minutes. This is
+Mission Control Houston."
+002:49:38 Schweickart (onboard):
+How (garbled) to get there?
+002:49:49 Scott (onboard):
+I hate to use all this fuel.
+002:49:51 McDivitt (onboard):
+That's okay. Better to get it than - a little extra fuel, than not get it.
+002:50:05 McDivitt (onboard):
+Can you see him, Davey?
+002:50:06 Scott (onboard):
+Yes, I'm alright. I can see him, I just can't -
+002:50:14 Schweickart (onboard):
+Yes, it looks like you're coming over now pretty good. I can see
+the vent on this side going off.
+002:50:26 Schweickart (onboard):
+Yes, you're coming in good now.
+002:50:28 Scott (onboard):
+Yes. Yes, it looks good.
+002:50:39 Schweickart (onboard):
+I don't know where to point this stupid camera.
+[During this period of station keeping the crew takes a series of
+photographs of the LM stowed at the top of the S-IVB.]
+[Communications have been switched to Hawaii.]
+002:51:01 Roosa:
+And, Apollo 9, this is Houston. We should have you through
+Hawaii. Standing by.
+002:51:07 McDivitt:
+Roger.
+Public Affairs Officer - "This is Apollo Control. The
+booster engineer reports the attitude rates on the S-IVB look very
+good."
+002:51:10 Scott (onboard):
+Damn it, Jim, I just can't translate sideways.
+[This is similar to the training incident shown in the Apollo 13
+film. In the film the Mattingly character reports "I can't
+translate up." Note that Dave Scott was a technical consultant
+on the film.]
+002:51:13 McDivitt (onboard):
+Is that right?
+002:51:15 Scott (onboard):
+Just can't do it.
+002:51:17 McDivitt (onboard):
+Give it a big push.
+002:51:18 Scott (onboard):
+I did! I'm on it.
+002:51:26 McDivitt (onboard):
+You on it right now?
+002:51:27 Scott (onboard):
+Yes. Look at that Delta-V counter, or the EMS, or the DSKY rather.
+002:51:32 McDivitt (onboard):
+Yes, something's wrong.
+002:51:39 Scott (onboard):
+Yes, these things are going crazy (garbled) Try it now.
+[Onboard transcription break.]
+002:56:55 Scott (onboard):
+It's coming.
+002:56:56 McDivitt (onboard):
+Okay. Get her all lined up?
+002:57:00 Scott (onboard):
+Okay, SCS, and ATT 1/RATE 2. Well, it looks like it ripped a little
+bit off the - off the top of the SLA on one side. Just a little
+piece hanging out there. That is looking beautiful now.
+[Communications have been switched to the tracking ship
+Redstone.]
+Public Affairs Officer - "This is Apollo Control at 2 hours
+57 minutes. The Redstone has acquired the Apollo 9 now. There has
+been no air-to-ground conversation as the crew is busy station
+keeping and visually inspecting the Lunar Module and the SLA. We'll
+continue to standby for any conversation."
+002:58:02 Schweickart (onboard):
+Well, that's looking beautiful, David. I'm going to start the
+camera again. Well, I'll wait for a minute here.
+002:58:08 Scott (onboard):
+Yes.
+002:58:20 Roosa:
+And, Apollo 9, Houston. We've got you through the
+Redstone. Standing by.
+[The technical transcription has this transmission at 002:52:28.]
+002:58:29 McDivitt:
+Roger.
+002:58:34 Schweickart:
+Roger, Houston. We are about 25 feet now and closing slowly.
+[The technical transcription has this transmission by Scott.]
+002:58:41 Roosa:
+Copy.
+002:58:51 Schweickart (onboard):
+That looks beautiful, Dave.
+Public Affairs Officer - "Apollo 9 is free to dock whenever
+the crew feels like they want to. They will not have to await a go
+from the ground. The flight schedule shows it about 3 hours over
+California, but the crew is free to dock when they desire to."
+003:01:11 Schweickart (onboard):
+(garbled) only way they'd do it, Dave.
+[The technical transcription records this as "That should do
+it".]
+003:01:13 McDivitt (onboard):
+Is it - is it damping it down - is the probe damping it down?
+003:01:15 Scott (onboard):
+It's damped good, Jim. I want to get it lined up. Rusty, I want you
+to get 12 latches. Now we're coming. Patience.
+003:01:25 McDivitt (onboard):
+Yes. We'll do it when you're ready, David.
+003:01:36 Scott (onboard):
+It's very stable.
+003:01:39 McDivitt (onboard):
+Isn't it, though?
+003:01:40 Scott (onboard):
+Yes. I just want to make sure that we're really lined up. Okay,
+Jim, that looks like a good one. Have at it.
+003:01:50 McDivitt (onboard):
+Okay, Retract coming now.
+003:01:53 Scott (onboard):
+Here it comes. Coming in.
+003:02:00 McDivitt (onboard):
+Come on, baby.
+003:02:02 Scott (onboard):
+We're coming.
+[According to the Apollo 9
+Mission Report, docking occurred at 003:01:59.3.]
+003:02:03 Schweickart (onboard):
+How about that! We got two of them. And we got a master alarm --
+003:02:06 Scott/McDivitt (onboard):
+For no apparent reason.
+[Discussion of this issues occurs
+at 007:19:37.]
+003:02:07 Scott:
+Alright, Houston; we're hard docked.
+003:02:10 Roosa:
+Roger, Apollo 9. Understand hard dock. Good show!
+Public Affairs Officer - "Reported hard dock at 003:02:08."
+003:02:19 Scott (onboard):
+You know what I think it was?
+003:02:20 McDivitt (onboard):
+What?
+003:02:21 Scott (onboard):
+Probably a static discharge, because there was nothing on the
+caution and warning panel.
+003:02:24 McDivitt (onboard):
+Yes.
+003:02:25 Scott (onboard):
+Yes, that - Remember the old Agena?
+003:02:26 McDivitt (onboard):
+Yes.
+003:02:27 McDivitt:
+Hello, Houston, Apollo 9. We had a Master Alarm when we did the
+docking when we made the contact there, And we had some problems
+with our RCS thrusters we'll tell you about later.
+[Onboard transcription break.]
+003:02:40 Roosa:
+Apollo 9, this is Houston. Understand you got a Master Alarm just
+as you docked, and I didn't copy about the RCS.
+003:02:46 McDivitt:
+We'll tell it to you later, just a minute.
+003:02:47 Roosa:
+Roger.
+003:04:30 Scott:
+Apollo - Houston, Apollo 9.
+003:04:31 Roosa:
+Go, Apollo 9.
+003:04:33 Scott:
+Roger. We'll give you a quick rundown here. How much time do we
+have with you?
+003:04:36 Roosa:
+We've got you for a long time here. We're coming across the States
+here - just over California now.
+003:04:43 Scott:
+Okay. I've got it. We came out just right. The angles were all just
+right. We got turned off, turned around, and lined up, and didn't
+have any left translation for some reason.
+003:05:00 Roosa:
+Roger. Copy, No left translation.
+003:05:06 McDivitt:
+Houston, check quad A service module RCS for us.
+003:05:18 Roosa:
+Stand by a second, Apollo 9.
+003:05:24 Roosa:
+Apollo 9, this is Houston. It looks okay to us. Do you have a
+question?
+003:05:29 McDivitt:
+Roger. We just had a light on it, and it's difficult to tell with
+the helmets on whether we have any adjustment on it or not. Didn't
+see any motion - just wanted you to check.
+003:05:38 Roosa:
+Roger, Apollo 9. Copy.
+003:05:43 McDivitt:
+Okay. The pressures all look good up here.
+003:06:06 Scott:
+Houston, our package temp on the quad A is running about 200. What
+do you have down there?
+003:06:10 Roosa:
+Stand by, Apollo 9, and let's check it.
+003:07:02 McDivitt:
+Houston, 9. Do you want to go on with the recap?
+003:07:06 Roosa:
+That's affirmative, Apollo 9. Let's press ahead, and your comm sort
+of cycles in and out. You are a little weak at times. We do confirm
+the temperature here however, and we will have some more words on
+that in a minute. And we are standing by for the rest of your
+recap.
+003:07:27 Scott:
+Okay. When we got off, we were in pretty good shape and then for
+some reason we noticed that we didn't have any left translation and
+tried to figure out why. Finally noticed that the primary quad C
+and secondary quad C isolation valves were closed, and the
+secondary Dog was closed, and by this time we had moved over
+somewhat to the side. It took us a while to get back after we got
+that sorted out and probably used up quite a bit of gas getting us
+squared away, but the docking was smooth. The capture latches
+worked just right, there were no oscillations after we captured. We
+lined it up and did the retract, and it took about 10 seconds, and
+it sounded like we got a good solid lock.
+[This issue is reported on page 23 in
+the Final Flight Evaluation
+Report, Apollo 9 Mission. Additional discussion of this issue
+with the ground occurs
+at 007:20:18.]
+003:08:21 Roosa:
+Roger, Apollo 9. Copied all that real good.
+003:10:08 Roosa:
+And, Apollo 9, this is Houston. We will have another state vector for
+you over Bermuda.
+003:10:13 Scott:
+Roger.
+003:10:23 Roosa:
+And you should be coming just about overhead, Apollo 9. You ought
+to be over Texas.
+003:10:30 Scott:
+Roger.
+[Comm break.]
+In Earth Orbit
+Journal Home Page
+Separation & Ejection

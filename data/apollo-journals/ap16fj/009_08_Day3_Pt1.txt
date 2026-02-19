@@ -1,0 +1,892 @@
+Apollo 16 Flight Journal - Day 3, Part 1: ALFMED Experiment
+Day 2, Part 2: LM Entry and Checks
+Journal Home Page
+Day 3, Part 2: Lunar Module Activation and Checkout
+Apollo 16
+Day 3, Part 1: ALFMED Experiment
+Corrected Transcript and Commentary Copyright © 2006-2025 by W. David Woods and Tim Brandt. All rights reserved.
+Last updated 2025-02-22
+Index to events
+Day 3 Wake Up
+045:59:11
+INU Fault Update and Comms Fault Finding
+046:00:37
+Daily Status Report
+046:47:43
+ALFMED Preamble
+046:56:46
+ALFMED
+048:19:49
+ALFMED Complete
+050:16:10
+Discussion of INU Fault
+050:37:00
+G&C Checklist Update
+050:56:54
+News Update
+051:30:48
+Pan Camera and Mapping Camera Film Cycling, Meal.
+051:47:30
+INU Discussion
+052:45:53
+End of Chapter
+053:06:22
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+045:59:11 Young: Houston, Apollo 16. Good morning. [Long pause.]
+045:59:56 Young: Houston, how do you read Apollo 16? Over.
+045:59:59 Peterson: 16, you're loud and clear. How me?
+046:00:03 Young: I read you the same. Good morning to you.
+046:00:07 Peterson: How are you doing this morning?
+046:00:10 Young: Doing great. [Long pause.]
+046:00:22 Young: I guess that sort of depends on what y'all can say about the old platform.
+046:00:27 Peterson: Roger. [Pause.]
+046:00:37 Peterson: Okay, 16. The gimbal lock and the coarse align that you had back at 38 plus 18 [GET] was caused by a CDU transient in the yaw axis. The transient was induced when the TVC relay was disabled. And this relay is normally enabled when the Optics is in Manual and disabled when you select P00, and that's kind of the situation that you were in when that occurred. And Ken had just selected P00, and he had, prior to that, been using the Optics in Manual. And they say that this type transient has been observed in CSM 117 [Apollo 17] testing, and we're presently looking at - a software work-around for LOI. And we'll get some more words to you later on this - on this same subject.
+046:01:26 Young: Now you're talking. That's the best news I've heard today, so far. [Pause.]
+046:01:41 Peterson: Okay. And, John, we've had some problems here getting commands up to the bird - real-time commands. And we've got a command test we want to run. And - we'll be standing by. As soon as you can get ready, let us know and we'll get into it.
+046:01:58 Young: Okay. We've got some seat swap to do and we'll let you know.
+046:02:05 Peterson: Roger.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control; 46 hours, 1 minute Ground Elapsed Time, and about 30 minutes early, the - or ahead of the scheduled wakeup time, the crew has called Mission Control. We have a few seconds of accumulated tape caught unawares. Then we will rejoin the conversation with the crew of Apollo 16 live. Let's roll the tape.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+046:02:36 Peterson: 16, in the situation we're in now, we've only got one omni that we can read, and we can't command. So we're only getting about 11 minutes of low-bit rate data out of every 18 while you're in PTC. It's possible - we might lose you; if so, just stand by and we'll pick you up again.
+046:02:57 Duke: Okay. We're ready for that command test, Pete.
+046:03:02 Peterson: Okay. [Pause.]
+046:03:12 Peterson: Okay, Charlie. We're gonna go one step at a time. First thing we want to do is Up Telemetry, Command Reset and then Normal. [Pause.]
+046:03:25 Duke: Okay. I can give you - You want a Command Reset and then Normal?
+046:03:32 Peterson: Charlie, we want the Up Telemetry Command switch to Reset and then Normal.
+046:03:42 Duke: Roger. It's Reset, Normal.
+046:03:48 Peterson: Okay, Charlie. Stand by. We're gonna try some command. [Long pause.]
+046:04:09 Peterson: Okay, Charlie. That apparently didn't work. We're going on in. But we want to cycle the Up Telemetry switch, Off, for three seconds and then back to Normal.
+046:04:22 Duke: Rog. In work.
+046:04:30 Duke: Okay, you're back to Normal.
+046:04:35 Peterson: Okay. We're trying commands now, Charlie. Stand by.
+046:04:52 Peterson: Okay, Charlie. That apparently cleared it up.
+046:04:59 Duke: Okay.
+046:05:03 Peterson: And, Charlie, we've got commands again. We'll handle the antenna and the bit rate for you now.
+046:05:09 Duke: Okay, fine.
+046:05:21 Peterson: To repeat an old phrase, Charlie, we had a lot of people down here turning blue on this - until that - until that last little situation got cured there.
+046:05:32 Duke: Was that that IMU problem?
+046:05:35 Peterson: No, the - the - comm problem.
+046:05:39 Duke: Well, you could put Fendell in the backup mode and just put him up on top of the building.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+046:06:01 Peterson: We may have to put him up there anyway, Charlie.
+046:06:06 Duke: [Laughter.] Afraid so.
+Very long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+046:18:50 Peterson: 16, Houston. I've got about three - a couple, three updates to the Flight Plan. Whenever you're - it's convenient for you, we'll read them up.
+Very long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+046:36:08 Mattingly: Don, you about ready for a little status report?
+046:36:14 Peterson: Stand by a minute, Ken.
+046:36:19 Peterson: Okay, Ken. We're all set. Go ahead. [Long pause.]
+046:36:44 Peterson: Okay, Ken. We're all set.
+046:36:45 Mattingly: Houston. Casper. [Pause.]
+046:36:52 Peterson: Casper, Houston. How do you read me? [No answer.]
+046:37:10 Peterson: Casper, Houston. How do you read? [No answer.]
+046:37:32 Peterson: Casper, Houston. How do you read me? [No answer.]
+046:38:19 Peterson: Casper, Houston. Do you read? [Long pause.]
+046:38:37 Mattingly: Houston. Casper.
+046:38:39 Peterson: Casper we read you loud and clear. Do you read me? [No answer.]
+046:39:07 Peterson: Casper, Houston. How do you read? [Long pause.]
+046:39:20 Mattingly: Houston. Casper. Over.
+046:39:24 Peterson: Casper, we read you. Do you read us? [Long pause.]
+046:40:09 Mattingly: Houston, if you're reading Casper, we're transmitting in the blind. We have a signal strength on the meter of about 60 percent. We're not receiving you and, based on your comment about the antennas, we'll wait about five minutes and then try again before we change the configuration. [Long pause.]
+046:40:43 Peterson: 16, you're loud and clear. Do you read Houston? [No answer.]
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+046:46:08 Peterson: Casper, Houston. [Pause.]
+046:46:15 Young: Rog. We lost you there for a while there, Don.
+046:46:19 Peterson: Roger. You're loud and clear now. You read me okay?
+046:46:24 Young: Loud and clear.
+046:46:26 Peterson: Roger. You were loud and clear all the time. Apparently, you just lost us. [Long pause.]
+046:46:53 Peterson: And, 16, the comm problem may have been on the ground. We'll try to find out and let you know in a minute. [Long pause.]
+046:47:09 Young: Roger. [Pause.]
+046:47:19 Young: The background tone at the - the background noise that the system is making right now is a little different than it was making before, if that would help you figure out what the problem was. It's almost like it wasn't up-linking, maybe.
+046:47:38 Peterson: Roger, 16.
+046:47:43 Mattingly: Okay, Don; and, if you're ready, I'll give you some status reports.
+046:47:48 Peterson: Stand by just a minute, Ken. [Long pause.]
+046:48:14 Peterson: Okay, Casper, go ahead with your status report. [Pause.]
+046:48:22 Mattingly: Okay. I'm using that famous old trick on how to get someone to talk to you, but every time I pick up a juice bag and get halfway down, why it seems like we are able to establish comm. So I'll start with the Commander's list and I'll go through and I'll skip the menus since they're on separate pages and come back to them. So let's start with A-1: 22035; Alpha 3: 7, good; Alpha 4: none; Alpha 5: 19, 15, 18; Alpha 6: 6, 5, 6, and 3. That's a total of four. Going to Bravo. [Pause.] Bravo 1: 15035; 6: good - that's on Bravo 3. Bravo 4: none; Bravo 5: 10, 30, 25; Bravo 6: 2, 2, and 5. [Pause.] Charlie 1: 21059; Charlie 3: 7, good; Charlie 4: none; Charlie 5: 15, 30; Charlie 6: 7, 7, 5, 5, 5. Okay, and if you want the menu stuff, I'll go back to that now.
+046:50:36 Peterson: Okay, go ahead. [Long pause.]
+046:50:55 Mattingly: Okay. For John, and that's day 2, Meal B, scratch the bread and peanut butter. [Pause.] On Meal C, scratch the frankfurters; add an orange drink. [Long pause.]
+046:51:50 Mattingly: Okay, on Bravo 2. Are you still there, Don?
+046:51:58 Peterson: Affirmative; we're getting a lot of background noise. 16, hold off a minute...
+046:52:03 Mattingly: Okay, [garble] keep on going. [Pause.]
+046:52:04 Peterson: ... we'll switch omnis [garble]. [Pause.] Hold off a minute, 16; we'll switch omnis.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+046:54:19 Peterson: Okay, Casper. Go ahead. [Pause.]
+046:54:26 Mattingly: Okay, just a second. [Long pause.]
+046:54:39 Mattingly: Okay, starting on - Where did you copy last?
+046:54:44 Peterson: Okay, we got John, day 2, Meal Charlie complete, and we're ready, I guess, for Bravo.
+046:54:54 Mattingly: Okay, Bravo 2. On Meal A, you can scratch sausage patties and - orange juice - and fruit cocktail. [Long pause.]
+046:55:37 Mattingly: On Bravo, that's Meal B, you can scratch turkey and gravy, vanilla pudding, bread, peanut butter. Meal C, you can scratch the chocolate pudding. [Long pause.]
+046:56:13 Mattingly: Going to Charlie 2.
+046:56:16 Peterson: Okay.
+046:56:19 Mattingly: On meal A, scratch the sausage patties. Meal B, you can scratch the bread and peanut butter. Meal C, you can delete two of the frankfurters and scratch the chocolate pudding.
+046:56:40 Peterson: Okay, Casper, we copied all that. [Pause.]
+046:56:46 Mattingly: Okay, and a couple of other words here on the - We got ALFMED coming up; and, to date, Charlie saw some flashes the other night and not a whole heck of a lot of them last night. And I'm not sure I have seen any at all yet, and John may or may not. So, what we thought we'd do here is - We've got a little more house cleaning to do here and finish our chores. And we'll probably take a look at what we see, and if Charlie is seeing sufficient - you know, enough flashes that he's pretty sure he's seeing things, why, we'll go and run the experiment now. And if we aren't seeing a sufficient number to look like it justifies sitting here for an hour with it, why, what would you think about saving it until such time as it looks like maybe we see more of them?
+046:57:45 Peterson: Okay, Ken. We'll - we'll think on that a little. And also, I've got a note on the Nikon camera light meter here in connection with the ALFMED photography. [Pause.]
+046:58:02 Mattingly: Okay, stand by another second. [Long pause.]
+046:58:15 Peterson: Ken, you don't really need to copy much, I think. If you've got the camera handy there where you can look at it, I can give it to you in a few words.
+046:58:24 Mattingly: You know one of the things we need in this program is some octopuses.
+046:58:29 Peterson: Rog. [Long pause.]
+046:58:57 Mattingly: Okay, Don, I don't have the camera out, but how about just reading to me whatever it is you want to say, and I'll write it down here.
+046:59:05 Peterson: Okay. It's not - it's probably not worth writing down except maybe a little note to remind you the - the camera was observed to hang up in the Battery Check position full down, when you hit the camera light meter On, Check. And what we want you to do is - the little button on top of the camera there has a while band around the base of it - they want to make sure that white line is visible on the light meter switch button. If it's not visible, you can take your fingernail and catch the top of that button and pull out on it until the white line is visible. And then, verify that the meter is operating by holding the camera up to a light and observing the meter response to varying light levels.
+046:59:53 Mattingly: Rog. We'll make sure it works before we use it.
+046:59:57 Peterson: Okay, Ken. That's all I've got on that one.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+047:02:44 Duke: Hey, Houston, 16.
+047:02:46 Peterson: Go ahead, 16.
+047:02:50 Duke: Rog. Flash, with a hot report here. Pass on to the chefs that the grits were delicious.
+047:02:59 Peterson: Say again, Charlie. I didn't copy that.
+047:03:04 Duke: I say, pass on to the chef that the grits were delicious.
+047:03:07 Peterson: Roger; will do. [Pause.] And for Ken's information, the status report that we just got was excellent as far as format, readability, and everything. The - Doc said he really appreciates it.
+047:03:25 Mattingly: Always glad to help.
+Very long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control; 47 hours and 27 minutes into the mission of Apollo 16. Crew awake now, presumably conducting either the ALFMED experiment or beyond the eat period. As a matter of fact, part of their first activities after wakeup was the status report, which [lists] all the parts not eaten; in other words, negative reporting on the meals for the three crewmen are read down. Also the problems with the commanding through the omni antennas have cleared themselves up, with the crew cycling a switch Off, back On again, which cleared the logic in the switching circuit. And everything is properly working now in that area. As soon as the crew completes the current housekeeping activities, the trouble shooting procedures for the Inertial Measuring Unit in the Guidance and Control System - Guidance and Navigation System will be read up to the crew, and they'll pursue that problem. As a little aside to the crew food report, Charlie Duke, a good southern boy from South Carolina, said "pass on to the chef that the grits were delicious," grits having been packed in the menu on his request. Present distance of Apollo 16, 157,253 nautical miles [291,233 km] out from Earth. Velocity ever decreasing as we near the crossover point. Now 3,396 feet per second [1,035 m/s]. Total spacecraft weight still 102,890 pounds [46,670 kg]. We're continuing to leave the circuit live, background noise and all, as we anticipate resumption of communications between the spacecraft communicator Don Peterson and the crew of Apollo 16 for the day's activities. This is Apollo Control at 47:30.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+047:33:32 Duke: Houston, 16. Over.
+047:33:36 Peterson: Go ahead.
+047:33:39 Duke: Okay, Pete, I'm up on biomed. How does it look?
+047:33:45 Peterson: Stand by one. [Long pause.]
+047:34:29 Peterson: Okay, the biomed data looks good.
+047:34:35 Duke: Okay, thank you. [Pause.]
+047:34:41 Young: You can tell Charlie's still breathing, huh?
+047:34:45 Peterson: It looks that way. [Pause.]
+047:34:51 Young: We've been suspecting it up here all along.
+047:34:55 Peterson: Rog. [Long pause.]
+047:35:44 Young: Houston, based on the burn yesterday, is the data you gave us for the SPS burn card still going to hold for LOI?
+047:35:55 Peterson: Stand by a minute.
+047:36:00 Young: And the other question is, does it look like we're going to have another midcourse, and which one and how much is it?
+047:36:07 Peterson: Okay, we'll get back to you in a minute.
+047:36:12 Young: Okay, thank you, Pete. [Long pause.]
+047:36:41 Peterson: Okay, 16. On the burn card, we will probably have to do some more updating, we'll get to that tomorrow. And on the midcourses, Midcourse 4, right now, is - looks like it's less than one foot per second. If it gets much bigger, we'll probably do it. But we'll advise you. [Pause.]
+047:37:04 Young: Houston, 16. You're breaking up badly. How do you read us? Over. [Pause.]
+047:37:16 Mattingly: [Garble], Pete, you probably read us loud and clear in the [garble] mode [garble]. [Long pause.]
+047:37:49 Mattingly: Go ahead, Houston, [garble]. Say again on all [garble] on the burn card. [Long pause.]
+047:38:08 Peterson: Okay, 16, if you read. We probably will have to do some updating on that - on that PAD. And we'll let you know on that and we'll update it tomorrow. And on the Midcourse 4 - Midcourse 4 is looking pretty small, less than one foot per second now. If it gets larger, we'll probably go ahead and do it, but we'll keep you advised on it. [Long pause.]
+047:38:43 Young: Houston, your up-link keeps fading in and out on you. [Pause.]
+047:38:50 Peterson: Roger, 16, We're switching on you.
+047:38:51 Young: [Garble] fading [garble]. [Long pause.]
+047:39:10 Young: Houston, 16. Do you read us now?
+047:39:12 Peterson: I read you loud and clear. Do you read me?
+047:39:17 Young: And I read you same. You faded cut on your last transmission again.
+047:39:23 Peterson: Okay, hang on a minute until the comm clears up a little bit and then I'll come back to you.
+047:39:29 Young: Okay. [Long pause.]
+047:39:44 Peterson: Okay, 16. Let's try it again. On that updating the PAD, we'll get that to you tomorrow. And right now, Midcourse 4 looks very small, less than one foot per second. If it gets larger, we will probably do it, but we'll keep you advised on that.
+047:40:01 Young: Outstanding. [Long pause.]
+047:40:16 Young: Just to review that SPS pressure system - as near as I can make out, it's purely - we don't actually have a Delta-P. It's just - of about more than five psi. What we do have is a gauge difference. Is that not correct?
+047:40:41 Peterson: That's affirmative, John. There's a - there's a chamber in there - a reference chamber that's supposed to be at atmospheric pressure. It has apparently vented to a vacuum condition, which brings in about - about a 14.7-psi bias. Then there's a 5-psi meter bias on top of that.
+047:41:01 Young: Okay, so actually, the two meters, as we look at them now, are actually balanced. Is that not correct?
+047:41:08 Peterson: I believe that's correct.
+047:41:12 Young: Okay. [Pause.]
+047:41:20 Peterson: John, the actual pressures on both meters - the actual pressures are the same, although the meters are reading differently.
+047:41:29 Young: Okay, we got the message.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+047:44:01 Duke: Houston, 16. Will we need to charge Battery B, just looking ahead in the Flight Plan a little bit?
+047:44:07 Peterson: Just a moment. [Long pause.]
+047:44:36 Peterson: Okay, Charlie, you can go ahead and start charging the battery now. [Pause.]
+047:44:45 Duke: Rog.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+047:47:31 Duke: Okay, Pete, Bat B is on charge now.
+047:47:35 Peterson: Understand. Bat B on charge.
+Very long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+048:00:25 Duke: Houston, 16.
+048:00:28 Peterson: Go ahead, 16.
+048:00:32 Duke: Okay, Pete. We got you. Finally had time to look out the window and you're just coming into view again and just as pretty as ever.
+048:00:43 Peterson: Very nice. What you looking at right now? [Pause.]
+048:00:53 Peterson: Can you tell what part of the Earth?
+048:00:54 Duke: We've got a half-Earth. Say again?
+048:00:58 Peterson: Can you yell what part of the Earth you're looking at?
+048:01:03 Duke: Well, we got a half-Earth, and we see a land mass - see the North Pole - the north polar cap with two big swirls coming out off of it to the southwest. I can see the subsolar point very distinctly. It's a big white dot in the center towards the LM, away from the terminator. And there's a big land mass that's visible in the center. And can't really make out exactly what it is. It's clear of clouds, though. It's the only place that's fairly clear.
+048:01:44 Peterson: Okay, we show you directly over North Africa. [Pause.] And that's just about the terminator. [Pause.]
+048:02:00 Duke: Okay, you got North Africa at the terminator?
+048:02:04 Peterson: Just about.
+048:02:06 Duke: Okay, that's what it is, then, looking at it, yeah. It's - it's Africa. [Pause.] Looks like a good storm system up in the Atlantic Ocean and above the subsolar point.
+048:02:18 Peterson: Roger. [Long pause.]
+048:02:45 Duke: The blue color and the white of the clouds and the blue of the ocean, Dick. Things just stayed pretty constant as we move out - still really a spectacular sight.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+048:06:22 Young: Houston, 16. Over.
+048:06:24 Peterson: Go ahead, 16. [Pause.]
+048:06:30 Young: What do they think of this PTC down there in the trenches?
+048:06:35 Peterson: It's looking real good. [Pause.]
+048:06:44 Young: It really does look good. I don't know who to congratulate, Ken or the computer. [Long pause.]
+048:07:13 Peterson: I guess we'll give Ken credit for that one. [Pause.]
+048:07:24 Young: Darned right.
+Comm break.
+048:08:31 Peterson: 16, let us know what you think about the number of light flashes and whether or not it's feasible to try the ALFMED.
+048:08:40 Young: Okay. That's in work right now.
+048:08:43 Peterson: Roger.
+048:08:45 Young: That is, if you can work on seeing flashes.
+048:08:50 Peterson: Rog. [Pause.]
+048:08:56 Young: That's a low metabolic load.
+048:09:01 Peterson: Understand.
+Very long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+048:19:49 Young: Okay, Houston. We're going to start on the ALFMED now. I guess it'll take us about an hour and a half from the time we start to the time we finish up.
+048:20:00 Peterson: Okay. And you think you are seeing enough light flashes to make it valid?
+048:20:07 Young: They haven't gotten around to doing that yet, but we're working on it.
+048:20:12 Peterson: Roger; understand.
+048:20:13 Mattingly: Don, Charlie saw some this morning when he got up. And so we're going to put the ALFMED on Charlie. And we will not turn it on until we start to see some flashes, and if we don't see any, we'll just terminate it. We'll wait some reasonable time. We'll talk it over with you. We'll tell you when we're ready to go through it. That's our present plan.
+048:20:39 Peterson: Okay, Ken, we'll be standing by. And, Ken, while I'm talking to you, we've got a little more information on this platform problem and its a fairly big mouthful, so, sometime when you get a chance where you can copy some information, give me a call.
+048:21:00 Mattingly: Okay. It looks like it'll be a couple of hours.
+048:21:03 Peterson: Roger. We don't want you to get into another P52 before we have time to talk about it.a16_0480622
+048:21:10 Mattingly: All righty.a16_0480622
+048:21:18 Duke: Pete, (clear's throat) a little background on these flashes [garble].
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+048:24:02 Peterson: 16, Houston. We missed your comments on the light flashes. You'd started to give them to us, and you were blocked out by noise.
+048:24:13 Duke: Rog, Pete. I was just telling you - the first night - during the first sleep period, whatever that was GET, I saw numerous light flashes before going to sleep, probably a - as freq - as high as three or four a minute. The next morning, they were not as numerous as that, and then last night still not as numerous. This morning, I was perhaps seeing maybe one every couple of minutes or so. If that frequency repeats itself during this test, is that good enough to go ahead?
+048:24:50 Peterson: Stand by one, Charlie. [Long pause.]
+048:25:03 Peterson: Okay, Charlie. If you see one every minute or so, that's enough to go ahead.
+048:25:09 Duke: Okay. [Long pause.]
+048:26:01 Peterson: And, 16. At 48:30 in the Flight Plan, there's a line that says "Synchronize mission timer to CMC clock," and it is not required.
+048:26:11 Duke: Okay.
+048:26:12 Young: Oh, that's great. Thank you.
+048:26:16 Mattingly: Hey, Don, is our comm gonna be good enough the way we're going here now for you to get the marks or are we gonna - can we count on recording them on board too?
+048:26:28 Peterson: You better record on board as well.
+048:26:34 Mattingly: Okay. You'll start the tape recorder, is that affirmative ?
+048:25:39 Peterson: Affirmative. Call us when you're ready.
+048:26:41 Mattingly: Or you want us to do that?
+048:26:42 Mattingly: Okay. We'll do that; thank you. [Pause.]
+048:26:52 Mattingly: Okay, if at any time, the voice quality goes down, our procedures, as I understand them described, will - I'll knock off or I'll take Charlie's place here, and I'll knock off the observations and go to recording. And other than that, Charlie will be doing all the things that I was going to be doing. But, if you want us to record them in pen and ink at the same time, just give us a call.
+048:27:20 Peterson: Roger.
+Long comm break.
+048:36:30 Peterson: 16, Houston. Voice check.
+048:36:35 Young: Loud and clear there, Pete.
+048:36:40 Peterson: Roger. You all were so quiet, you scared us.
+048:36:51 Duke: Okay, Pete. I just got the ALFMED on and in position, and we're gonna see if we see anything.
+048:36:58 Peterson: Okay.
+Very long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+048:53:33 Duke: Houston, 16.
+048:53:36 Peterson: Go ahead, 16.
+048:53:39 Duke: Okay. I've seen five in 15 minutes.
+048:53:42 Peterson: Five in 15 minutes, Charlie?
+048:53:46 Duke: That's affirm.
+048:53:50 Peterson: Okay. Stand by a minute; we'll look at that.
+048:53:52 Mattingly: Okay, Don. We were just about ready to call this thing off and try it another day. And then looked like Charlie was starting to see them at - at a pretty fair rate. That five in 15 minutes was like four in the last minute or two. And John has seen one; I have not seen any yet. But sounds like Charlie is gonna be able to see these and I'm gonna go ahead and take the photographs and get - get all set and wait for your answer.
+048:54:26 Peterson: Okay. We've been advised that we do want to go ahead with the ALFMED experiment.
+048:54:33 Mattingly: Okay. It's in work. I'll tell you when we're ready to start timing.
+048:54:37 Peterson: All righty.
+048:54:41 Duke: Okay, Pete. They seem to come in clusters. You get one or two right after - and then - then nothing for a while.
+048:54:50 Peterson: Roger.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+048:58:07 Mattingly: Hey, Don. Can you help us [garble] record our [garble] 12 [garble] 0.15, 1.2, [garble] at three feet shows Charlie in the ALFMED with his face sticking out. I'm taking a picture from the LEB looking up towards the center couch.
+048:58:40 Peterson: 16, that was so garbled we didn't copy, so you're gonna have to say it again.
+048:58:45 Mattingly: Did you copy that, Don?
+048:58:47 Peterson: Negative, Ken. We were in - had a lot of background noise, and we didn't get any of that.
+048:58:52 Mattingly: Houston, Casper.
+048:58:55 Peterson: Casper, go ahead.
+048:59:00 Mattingly: Did you copy comments about the film?
+048:59:02 Peterson: Negative; we did not. We had too much background noise. Can you say again?
+048:59:09 Mattingly: Okay. I guess I'll write it down. I think that's faster after all.
+048:59:13 Peterson: Okay.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+049:08:42 Mattingly: Okay, Houston. We're ready to start. Could you make sure the tape recorder's running? [Long pause.]
+049:08:58 Peterson: Ken, it's been running awhile. We're going to rewind it, and I'll get it back to you in a minute. [Pause.]
+049:09:12 Peterson: In the meantime, Ken, if you've got comments we'll take them on air-to-ground. [Pause.]
+049:09:21 Mattingly: Does that mean you want us to go ahead and start?
+049:09:25 Peterson: Affirmative. [Pause.]
+049:09:33 Mattingly: Was that Roger or Stand by?
+049:09:36 Peterson: Affirmative; go ahead and start. [Long pause.]
+049:10:12 Mattingly: Okay, Don. We're running at 49:10.
+049:10:16 Peterson: Okay. [Pause.]
+049:10:22 Duke: Mark. Okay, a bright dot in the - in my right eye in the upper - upper left center.
+049:10:31 Peterson: Okay. [Pause.]
+049:10:39 Duke: Mark. Bright dot in the left eye, upper left - right center. [Long pause.]
+049:11:11 Duke: Mark.
+049:11:12 Duke: Mark. The first one was a fuzzy dot in the right eye - the left eye. The second one was a bright dot in the right eye, lower left center. [Long pause.]
+049:11:47 Duke: You copying, Houston?
+049:11:49 Peterson: Affirmative. We're copying. [Long pause.]
+049:12:02 Peterson: DSE - DSE is now running.
+049:12:08 Duke: Okay. [Long pause.]
+049:12:46 Duke: Mark. Light streak - white streak in the right eye, upper center - moving from up - bottom to up - top.
+049:12:59 Duke: Mark. Faint left - faint white dot in the left eye - extreme left.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+049:15:47 Duke: Mark.
+049:15:49 Duke: [Garble] upper right eye [garble].
+049:15:50 Duke: Mark again. Same spot. That was a bright dot. [Long pause.]
+049:16:31 Mattingly: Mark. Bright flash in upper left eye. [Long pause.]
+This is Apollo Control. Apollo 16 crew now conducting the Apollo light flash experiment, using the blinders. The Apollo ALFMED, Apollo Light Flash in Moving Emulsion Detector, is the acronym, ALFMED. At 1:30 today, Central Standard Time, in the small briefing room in the Apollo News Center, MSC, there'll be a briefing by a panel of several scientist. The topic is "Magnetic Enigmas of the Moon". Spacecraft distance at the present time, 160,746 nautical miles [297,702 km]. Velocity 3,307 feet per second [1,008 m/s]. At 49:17, still up live air-to-ground, this is Apollo Control.
+049:17:08 Mattingly: Mark. Flash across the bottom of right eye - white dot - from right [garble] left to right but I doubt it. [sic] [Long pause.]
+049:17:32 Duke: Mark. Simultaneous white dots in the right eye, upper and lower center.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+049:20:05 Duke: Mark. Right eye center. A - just a bright flash.
+Comm break.
+049:21:52 Duke: Mark. A bright flash in the lower center of the right eye. [Long pause.]
+049:22:42 Mattingly: Mark. A little light dim streak in the lower right eye - lower left. [Long pause.]
+049:23:06 Mattingly: Mark. Lower left - left eye, in the outboard, and it was a bright flash - looked like a streak - probably going from right to left.
+Comm break.
+049:24:52 Duke: Mark. Bright dot, upper right, outboard, right eye.
+Comm break.
+At about 049:25:10, the air/ground line is interrupted by a Spanish voice. As the PAO announcer will shortly explain, this is a Spanish telephone engineer who is inadvertently connected to the circuit.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+049:27:41 Young: Mark. Dot - bright dot in the upper right eye, center.
+Comm break.
+049:28:56 Duke: Okay, Houston. I've also had some very subtle things that - just very - looks like little dim flashes that I haven't been calling. They're just so subtle, I've been afraid to call them a definite mark.
+049:29:15 Peterson: Okay, Charlie. We copied that. [Long pause.]
+049:30:00 Duke: Mark. Upper right eye going from left to right. [Pause.]
+049:30:12 Duke: Light flash. [Long pause.]
+049:30:25 Peterson: Okay. And, Charlie, if you see any more of the subtle marks, how about calling them and just call them a subtle mark. We'd like to record that information.
+049:30:35 Duke: Okay. [Pause.]
+Comm break.
+This is Apollo Control. The mysterious comments and singing and frequent repetition of 'hello, hello' on the Public Affairs broadcast line a few moments ago has been identified by the Network controller as a telephone company technician in Spain who inadvertently somehow got patched over onto the network line coming from the tracking station on the air/ground circuit. He has been isolated, electronically that is; and hopefully, we shouldn't have anymore of that sort of thing. Continuing with the ALFMED experiment at 49:31.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+049:33:16 Duke: Mark. Bright dot, right eye, center, upper. [Long pause.]
+049:33:45 Duke: [Garble] Left, right, the last one, I got the impression it was moving toward me. Why, I don't know, but it didn't - didn't [garble].
+049:34:01 Peterson: 16, you're very weak. [Long pause.]
+049:34:13 Duke: Mark. Subtle one, very subtle on the left eye, outboard, upper. [Long pause.]
+049:35:14 Young: Mark. Flash in the lower right eye, sort of a distant lightning flash. [Long pause.]
+049:35:41 Young: Mark. Upper center of upper right eye - bright light flash.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+049:39:58 Duke: Mark. Faint dot, lower left eye, inboard.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+049:42:04 Duke: Mark. Flash, a - a light streak in the left eye, starting at the center going to the bottom right from upper - from upper - center down to right in movement.
+049:42:17 Young: [Garble] Charlie [garble]. [Long pause.]
+049:42:39 Duke: Mark. Bright dot, center, right eye. [Long pause.]
+049:43:01 Duke: Mark. Left eye, sort of subtle, towards inboard center, a white flash. [Long pause.]
+049:43:55 Duke: Mark. Subtle dot - white dot - in the inboard center of the right eye.
+049:44:03 Duke: Mark again. That was the left eye. That was the center upper, white dot, left eye; both of those were in left eye. [Long pause.]
+049:44:23 Young: Mark. Upper right - part of right eye, white flash, small. [Long pause.]
+049:44:51 Duke: Mark. Subtle white flash, inboard upper right eye, inboard corner, that was.
+049:45:01 Duke: Mark. Same spot. A white streak.
+Comm break.
+049:46:15 Young: Mark. Right eye, center, white dot.
+Comm break.
+049:47:26 Young/Duke: Mark.
+049:47:27 Duke: White dot, center - center right; lower of the left eye.
+049:47:34 Young: Same here. All at the same time Charlie did. Only mine were in the lower left side and not the right.
+049:47:44 Young: Mark. Flash across the bottom of the left eye, high speed.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+049:49:11 Mattingly: Hey, Don. Can you tell us how we're doing on time?
+049:49:15 Peterson: Stand by one; I'll let you know.
+049:49:20 Peterson: You've got about 20 more minutes. [Pause.]
+049:49:27 Young: Okay, thank you. [Pause.]
+049:49:35 Duke: Don, this thing was made for about a size 6¼ or something head. It's really tight on me.
+049:49:48 Peterson: Okay, Charlie. We'll make a note of that.
+049:49:52 Duke: I'm not complaining, it's just a little tight.
+049:49:55 Peterson: Roger. [Long pause.]
+049:50:34 Young: Mark. Bright flash down at the right center of the right eye. White flash [garble]. [Long pause.]
+049:51:11 Duke: Mark. A dull fuzzy spot in the outboard center of the left eye. [Long pause.]
+049:52:05 Young: Mark. Flash in the center of the right eye - sort of like a small flash.
+Comm break.
+049:53:56 Mattingly: Mark. Flash in the center of left eye, just a faint flash - much more like a dot.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+049:56:36 Duke: Mark. White dot, outboard, right eye, center. [Long pause.]
+049:57:09 Young: Mark. Small flash in the lower center of the right eye. [Long pause.]
+049:58:02 Young: Mark. Very tiny flash in the lower center of the left eye. [Pause.]
+049:58:14 Young: Mark. Streak across the lower left of the left eye, on the inboard side. The light was going to left - from right to left. [Long pause.]
+049:58:39 Young: Mark. Two little dot flashes in the upper right center of the right eye - left eye, excuse me. [Long pause.]
+049:59:38 Young: Mark. Small flash in the upper right center of the [garble]. [Long pause.]
+050:00:08 Crew: [Garble.]
+050:00:11 Duke: Mark. My last mark was the upper center right eye, little flash.
+050:00:21 Young: Mark. Small flash in the left center of the right eye. [Long pause.]
+050:01:04 Duke: Mark. Mark. A - one - the first one was right eye, a streak going from inboard center to the upper right. Left one was a streak, pencil shaped - a pencil line, left eye from center to upper right. [Long pause.]
+050:02:04 Duke: Mark. Very subtle flash in the light - right eye, upper cen - upper right.
+050:02:13 Duke: Mark. Another subtle one just below that, center right, right eye. [Long pause.]
+050:03:12 Duke: Mark. Left eye, a streak starting in the center.
+050:03:16 Duke: Mark. Right eye, dot, center. The left eye was a streak starting in the center going out to the right. It increased in size as it went from right to left. [Long pause.]
+050:04:02 Duke: Mark. Subtle dot, outboard side, center left eye.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+050:06:26 Duke: Mark. Mark. Faint dot in the right eye, center, upper, and the inboard side is a white dot in the left eye - and the second one - was in the inboard side, center. [Long pause.]
+050:07:09 Duke: Mark. Dot, right eye, outboard center. [Long pause.]
+050:07:31 Young: Mark. Streak in the lower left of - left eye, moving from top to bottom. [Long pause.]
+050:08:29 Duke: Mark. Simultaneous white dots, right and left eye. Left one was in the upper right, inboard center. Left - right one was in the inboard bottom, left. [Long pause.]
+050:09:24 Duke: Mark. Subtle flash in the right eye, upper inboard.
+050:09:31 Young: Mark. Flash in the right eye, right side.
+Comm break.
+050:10:57 Duke: Houston, 16. How's the time? [Pause.]
+050:11:08 Peterson: 16, we figure the time's about up on the ALFMED experiment. We'd like to know if the motor's stopped. [Pause.]
+050:11:19 Mattingly: No, it's still running.
+050:11:20 Duke: Mark. A streak in the lower left side of the left eye, moving down.
+050:11:28 Peterson: Okay, Ken. Keep going until the motor stops. [Pause.]
+050:11:35 Mattingly: Okay.
+050:11:37 Duke: Mark. Thin white dot upper right, inboard, left eye.
+Comm break.
+050:13:18 Duke: Mark. Lightning-flash-type phenomena, lower right, inboard, left eye.
+Comm break.
+050:14:34 Duke: Mark. White dot, center, left eye. [Long pause.]
+050:15:22 Duke: Mark. White dot, left eye, outboard, center.
+050:15:29 Young: Mark. White dot, left eye, center. [Pause.]
+050:15:41 Duke: Mark. Right eye, center, inboard, a white dot.
+050:15:48 Peterson: Okay, Ken, we've got all the ALFMED data we need. We want you to give us a mark when you shut the motor off. [Long pause.]
+050:16:08 Duke: Okay, Pete.
+050:16:10 Duke: Mark. ALFMED is off.
+050:16:14 Peterson: Roger.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+050:18:37 Peterson: 16, Houston. Whenever you can copy, I've got some words on the IMU problem that we had. Also some - an entry to the G&C Checklist.
+050:18:47 Mattingly: Okay, Don. How about standing by, would you? Stand by until we clean up all the [garble].
+050:18:54 Peterson: Roger. [Pause.]
+050:18:58 Mattingly: You're cutting out pretty bad, Don.
+050:19:03 Peterson: Okay.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+050:28:05 Peterson: 16, the PI advises on the ALFMED experiment that we got about 70 counts, and he's very happy with the results, and he wants you to verify that the clutch is in the Stow position.
+050:28:19 Duke: That's a verify.
+050:28:23 Peterson: Roger; thank you.
+050:28:24 Duke: Okay, great. Those things - those things are really something, Don. There were a couple of the phenomena that I had seen previously that I didn't see today, but there were some other ones today that were different too. The phenomena - the flashes leave no afterglow and they're - they're just instantaneous. All the colors are white - were all we saw. We saw no colors at all; neither John nor I. It was - every one we saw was white.
+050:28:55 Peterson: Roger, copy that.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+050:32:16 Mattingly: Okay, Don. I'm ready to copy some things now.
+050:32:22 Peterson: Say again, Ken.
+050:32:23 Mattingly: Before we get into copying stuff, let me confirm what Charlie said about that clutch. Now I listened to that thing retract before, and as soon as we went to the mid-position on the clutch - why, you can hear the plates come down. And we went ahead and rapped it once, anyhow, just to be sure, but I didn't hear anything jiggle. And we cycled it to Operate and then back to Stow, and it all felt normal and the - the plate travel sounded proper.
+050:32:56 Peterson: Okay, we copied that, Ken.
+050:33:00 Mattingly: Okay, and I guess my only comment on ALFMED is that I think those light flashes are made by the same guy that makes the emperor's clothes.
+050:33:08 Peterson: That makes what?
+050:33:13 Mattingly: I think they're made by the same guy that makes the emperor's clothes.
+050:33:17 Peterson: Roger; understand.
+Comm break.
+050:34:19 Mattingly: Hey, Don, I'm standing by to copy whatever words you got about P52s and G&N and any of those other subjects pertaining to our operation.
+050:34:28 Peterson: Okay, Ken, I'll - we'll talk about the platform problem first, and I'm gonna back up and talk about the original data that we passed up because there are some small corrections to that. And then I'll - I'll try to break it down into about four shovelfuls here for you, because it's a fairly big mouthful if we try to do it all at once.
+050:34:50 Mattingly: Okay. You have some stuff that I probably should copy, huh?
+050:34:54 Peterson: Yes, I will have some items for you to copy.
+050:35:01 Peterson: Hold off a minute, 16. We're coming up on an omni switch. [Pause.]
+050:35:10 Mattingly: Rog.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+050:36:53 Peterson: Okay, 16. How do you read now? [Pause.]
+050:36:58 Mattingly: Loud and clear.
+050:37:00 Peterson: Okay, we'll start here on this thing. First of all, the - the problem occurs, apparently, in CSM-117 when the TVC relay changes state, either going from enable to disable or from disable to enable. And it causes an electric glitch that makes the CDUs go to 90 degrees; in particular, the yaw CDU, and therefore the CMC thinks it's in gimbal lock and goes into a coarse align mode. The - some of the cases that could cause this, for example, are when you go to - when you select Manual Optics, you have the TVC relay enabled and then if you go from Manual to Auto, or if you hit the Zero Optics switch with Manual Optics selected, or if you go from P52 to P00 with the Manual Optics selected, you will reset the TVC relay, and that can cause the glitch. This is apparently what happened last night. [Pause.]
+050:38:15 Mattingly: Okay, is it important for me to copy those things that cause this, or are you going to give me a way to prevent it?
+050:38:21 Peterson: Negative. You don't have to copy those. That's just background. Now we're going to talk about what you can do here in P52s and maybe subsequently in - for the LOI and for P40s. There are two ways to approach the P52. There's a - there's a quick and dirty way which is to simply go to SCS Control, because with SCS control, the TVC relay is not enabled. And, by doing that, you don't run the risk of generating this glitch. That's not the way, however, that the guys are recommending, because they have a procedure that they think will handle not only the P52, but the burn cases. And they'd like you to get that procedure, and you're going to have to copy that one.
+050:39:11 Mattingly: Okay. How about running down that list of things that causes the TVC enable to change state again? Let me - let me copy those this time.
+050:39:23 Peterson: Okay, will do. And - now - these cases are not all inclusive. These are just some examples that - that we can bring up to you. First of all, the TVC relay is enabled when you select Manual Optics. It is then subsequently disabled if you go from Manual to Auto or if you go to zero the Optics with Manual selected, or if you go with Manual - with the Manual Optics selected, if you go from P52 to P00. But these are probably not the only cases; they're probably just some examples that we know of. [Pause.]
+050:40:11 Mattingly: Okay.
+050:40:12 Peterson: Another important point, Ken, is that it changes state during the TVC gimbal drive check.
+050:40:22 Mattingly: Yeah, that's what I was afraid of. Okay.
+050:40:24 Peterson: Okay. We're going to - this next procedure that I have to read up to you is probably going to be the one that we'll use to try to get around that. And also, we'd like you to use it in the P52s because it allows us to monitor for the glitch, and at the same time prevents the glitch from bringing your platform down.
+050:40:44 Mattingly: Okay.
+050:40:47 Peterson: Okay, if you're ready to copy...
+050:40:48 Mattingly: [Garble]...
+050:40:49 Peterson: ...I'll read you up the procedures.
+050:40:51 Mattingly: ...[garble] copy this or - Okay, I'll just copy this on a scratch pad, and we'll put it in the appropriate place, if that sounds reasonable.
+050:40:57 Peterson: Roger. That sounds real good. Number 1, we want you to key Verb 48 Enter and load Noun 46, Register 1. The first digit should be loaded as a 3. The rest of the numbers can be left as they are. [Pause.]
+050:41:25 Mattingly: Okay, why don't you read on at about that pace, Don, and I'll just copy, and then I'll read it back to you?
+050:41:31 Peterson: Okay, the second step is key Verb 25 Noun 07 Enter, 75 Enter, 1 Enter, 1 Enter. That sets the Average g flag, but does not turn Average g on. The combination of those two will prevent the CMC from going into coarse align. [Pause.] After you've done that, you can select P52 and use your normal alignment procedures. [Long pause.] And, when you've completed the P52 to terminate this - EMP, we'll have you key Verb 48 Enter, load Noun 4 Register 1 with its original value, whether that was 2 or 1 in the first digit. Step 2, we'll have you a key Verb 25 Noun 07 Enter, 75 Enter, 1 Enter, Enter. [Pause.] That'll then return your - you to the correct DAP and also reset the Average g flag.
+050:43:18 Mattingly: Okay, that - that was, in Verb 25 Noun 07, that was a 75 Enter, 1 Enter, and then zero Enter or a 1 Enter?
+050:43:26 Peterson: Zero Enter.
+050:43:30 Mattingly: Okay.
+050:43:32 Peterson: Okay, that's the whole procedure.
+050:43:37 Mattingly: Okay, let me look it over here for a second. At first glance, the first thing I see here looks like - do I - should I [garble]? [Pause.]
+050:43:58 Peterson: 16, we're switching omnis; hold off a minute.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+050:45:50 Peterson: Okay, 16. How do you read now?
+050:45:55 Mattingly: Loud and clear.
+050:45:56 Peterson: Okay. We lost comm there temporarily. You can go ahead now with the readback on that any time you're ready.
+050:46:05 Mattingly: Okay. Did you get my question about the Verb 46?
+050:46:09 Peterson: Negative, but we have a caution note that says, "Do not key Verb 46 Enter while this EMP is in to prevent Sap - Saturn DAP actually coming on."
+050:46:20 Peterson: Okay, thank you. [Long pause.]
+050:46:34 Mattingly: Okay, what you would do then is - we're gonna set Saturn DAP in Average g in order to prevent coarse aligning in the event the middle gimbal picks up spurious signals. And to do this, we set Verb 48 with a Noun 46. Digit A is set to a 3, and we set the Average g flag with a Verb 25 Noun 07, address 75, bit 1, set it to a 1. Then we should call P52 normally, and if the glitch occurs, it'll be ignored. I assume from this that if the glitch occurs sometime while we're in the process of taking marks, that we get some kind of garbage out of P52, but it should be obvious. And from what you gave me on this list up at the top, it looks like normally we would not run across TVC Enable during that period. At the completion of a 52, we go back into a Verb 48, and now we take Noun 46 back to its original values. Then we reset the Average g flag by taking channel 75 bit 1 to a zero, using Verb 25 Noun 07, and the restrictions on this EMP is that we will not use Verb 46 at any time while this is punched in.
+050:48:04 Peterson: That's affirmative, Ken. [Pause.]
+050:48:12 Mattingly: Okay, do you - do you have some words on how - on how we handle the P40? [Pause.]
+050:48:30 Peterson: Okay, Ken, and - in the P40 is what we're thinking about, and we haven't completely decided now, is that we'll probably use this EMP before and after the TVC gimbal check, and we may move the TVC gimbal check earlier or before the burn so that we have plenty of time to get this thing in and out. [Pause.]
+050:48:56 Mattingly: Okay, that sounds like a good plan.
+050:49:00 Peterson: Okay, now I've got the last shovelful here if you're ready to copy.
+050:49:06 Mattingly: Okay, I've got my bucket out.
+050:49:08 Peterson: Okay, if you should lose the platform alignment, we'll do the same thing we tried last night, a Verb 23 Noun 20 Enter, Enter, Verb 40 Enter, and then go to the checklist, G/7-1, and do the rapid IMU realign. [Long pause.]
+050:49:44 Mattingly: Okay, Don. If we - if we tumble the thing again, we're gonna release the platform by setting Noun 20 to - to zeros, and we do that with the Verb 23 Noun 20 Enter, Enter. Then we release the platform with the Verb 40 Enter, and then we go through page G/7-1 and get a rapid alignment to the GDC. Now that - that assumes that what happened to us was the glitch in the middle gimbal. If I understood your conversation, it's possible to have a glitch in one of the other gimbals. Is that correct?
+050:50:23 Peterson: That's correct. That will not, however, get you into the - into the problem that causes the platform to go into coarse align. And also, we were advised that while this EMP is in, you shouldn't have the problem with losing the platform alignment. [Pause.]
+050:50:41 Mattingly: Okay. If we - if we get this glitch in one of the other axes - I - and we have the controls enabled, I assume one of the things we would - we'd see would be some unusual thruster activity.
+050:50:58 Peterson: That's affirmative, and in that case I guess all you need...
+050:51:00 Mattingly: [Garble] proper correction. Well, I'm trying to figure out what we'd do if we have a - say we're in attitude hold. If we have that glitch occur right now and - with our engines disabled, I don't think there would be any way I'd see it until I went to use some auto optics or something. And that - if we were in an attitude hold, it appears to me that I would see a - a DAP that appeared to be unstable in the axis that it was going for, or at least it would take off for some place other than where it is. And we would go to SCS momentarily, and the proper response would be a Verb 40, Enter, and allow the CMC to zero and recount the IMU CDUs. Is that correct?
+050:51:50 Peterson: Right on. [Pause.]
+050:52:00 Mattingly: This TVC enable that we're talking about that's used for the gimbal drive test - now that's a function only of the gimbal drive test and not a function of the setting of the trims in P40. Is that correct?
+050:52:15 Peterson: That's affirmative.
+050:52:20 Mattingly: Okay, so, our P40 then would be something like we would go out and we'll get a gimbal drive check to you folks early, then we'll turn the gimbals back off probably, and I'm just reiterating what I'm [garble].
+050:52:35 Peterson: Omni switch coming up, 16. Stand by. Stand by, 16; we're switching omnis.
+050:52:46 Mattingly: Roger.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+050:54:19 Peterson: 16, how do you read now?
+050:54:23 Mattingly: Loud and clear, Don.
+050:54:24 Peterson: Okay. Go ahead with your question.
+050:54:25 Mattingly: I'm trying to give you my impression of what we're gonna be - the general approach to the burn - and we check out the gimbal drives and the gimbal trims, then when we come into P40 to do it for the actual burn, we would go ahead and use the SCS gimbal checks to verify all the gimbals are properly hooked up. Then we would bypass the flashing 202 with an Enter, and we'd just let the gimbals go to trim, and everything else would be done nominally. [Pause.]
+050:55:07 Peterson: Ken, I think your general impression's right. I guess we're not yet ready to commit ourselves to a - a set of procedures. We're going to have Stu take a look at it in the simulator here, and we'll come up to you later with some detailed procedures specifically for the burn.
+050:55:27 Mattingly: Rog. I understand that; I just wanted to make sure I had a general understanding in case we had to do some original thinking.
+050:55:35 Peterson: Rog. I think we concur with what you said so far. [Long pause.]
+050:55:51 Mattingly: Okay. And the other thing, that's out of curiosity - if the guys in the back rooms, after they get through getting all the important things squared away, that they could kind of think some more about their list of things that causes this enable relay to change state. I'll compile a list of those things in case we come across something later on that we hadn't thought about.
+050:56:16 Peterson: Okay, Ken, we'll do that for you. And there's one last note here, that, prior to your P52s, it'd be a good idea to align the GDC just prior to going in.
+050:56:30 Mattingly: Yes, sir. I don't think I'll let that guy get very far away from us.
+050:56:33 Peterson: Roger. [Long pause.]
+The GDCs (Gyro Display Couplers) are part of the secondary system that keeps track of the spacecraft's attitude (the IMU and its associated couplers being primary). The gyros used for the secondary system are 'strapped down'; that is they are not mounted on a stabilised platform but instead are fixed to the spacecraft's body. They are known as Body Mounted Attitude Gyros (BMAGs). They don't measure absolute attitude but rather measure the rate of rotation. Absolute attitude can be derived from these measurements, a job that is carried out by the GDCs. However, this only works if they have a known starting point, usually given to them by the primary system using the GDC Align button. The attitude measurement given by the GDCs is much more prone to drift than the primary system so if Ken is to use the GDCs to realign a misaligned IMU platform, it would be a good idea for him to press the GDC Align button just prior to starting any task that might cause the IMU to becomes misaligned. That way, any drift of the GDCs will be minimised.
+050:56:54 Peterson: And, Ken, I've got an update to the G&C Checklist on page 9-4 any time you're ready to copy. [Long pause.]
+050:57:09 Mattingly: Okay, pencil in hand.
+050:57:13 Peterson: Okay, on Page 9-4, line 07, column A ...
+050:57:20 Mattingly: Yes, sir.
+050:57:21 Peterson: Column A, line 07, should read '76747.' Line 11 should read '77552.' Line 12, '77756'; line 13, '77307.' [Long pause.]
+050:58:05 Mattingly: Okay, I 'm on page G/9-4, reading down column A. On line 7, I replace '77426' with '76747.' On line 11, I replace '00214' with '77552.' On line 12, I replace '77714' with '77756.' Line 13, I replace '77446' with '77307.'
+050:58:49 Peterson: That's correct, Ken. [Long pause.]
+050:59:10 Peterson: And we've got, Ken, here some notes on this jet-on monitor EMP. We'd like to do a check on it at 54:25, and I can read you up the procedure for that any time you're ready to copy.
+050:59:24 Mattingly: Go ahead.
+050:59:27 Peterson: Okay, at 54:25 in the Flight Plan, we would like to add 'P20 option 5,' in the 'LM checkout attitude', Noun 78, minus 09000, minus 03000, plus 25500; Noun 79, plus 00050; Noun 70, plus 00047. We will up link the jet-on monitor loads and, when the P20 maneuver's complete, you can do a Verb 74 Enter. [Pause.] And the P20 attitude that we've selected will be the attitude that you're already in, so there is actually not a maneuver involved here.
+051:00:49 Mattingly: Okay, when you say when maneuver complete, - does that mean that you would want us to maneuver to the LM checkout attitude using P20, or are you going to let us go to Verb 49 to that? And then, I'll call it up and bypass the maneuver, is that correct?
+051:01:06 Peterson: You can use a Verb 49 for that, Ken.
+051:01:11 Mattingly: Okay, I understand. A Verb 49, and then we'll call P20, and then you can command the same attitude I'm in.
+051:01:17 Peterson: That's affirmative.
+051:01:18 Mattingly: In other words, I've got the 50 18 the second time. Then you want the Verb 74, Enter.
+051:01:24 Peterson: That's affirmative. Coming up on an omni switch, 16. Stand by.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+051:03:24 Peterson: 16, how do you read now?
+051:03:29 Mattingly: Loud and clear, Don.
+051:03:31 Peterson: Okay, the only other thing is at 56 hours, that's 56:00, we want you to terminate the jet-on monitor EMP. [Long pause.]
+051:03:53 Mattingly: Okay, can you tell me what deadband you're gonna be setting in there?
+051:03:57 Peterson: Stand by one. [Long pause.]
+051:04:35 Peterson: Okay, Ken, it'll be a one-degree deadband. [Long pause.]
+051:04:49 Mattingly: Okay, you're setting me in the EMP at one-degree deadband; is that affirm?
+051:04:55 Peterson: That's affirmative. [Long pause.]
+051:05:15 Peterson: Ken, on the Noun 70, I read you a - a plus 00047. You actually don't need that plus; that's an octal number.
+051:05:25 Mattingly: Rog. I understand.
+051:05:29 Mattingly: Okay, it's not clear to me - if we're going to exceed this or not; we normally would not. Do you want to try letting us drift out of the deadband and see if the monitor works?
+051:05:55 Peterson: Negative; that's - that's not the intent, I think. They just want to get the program in and look at it. [Long pause.]
+051:06:03 Mattingly: Okay. Well, sometime before we get through, would you ask them if they would object to letting us see if that thing triggers the same response that we're used to?
+051:06:16 Peterson: Okay, Ken; we'd like to think that over. We'll get back to you on that.
+051:06:21 Mattingly: Okay, fine. Thank you.
+051:06:23 Peterson: Okay. Now I've still got this note that we've had since about 24 hours ago on changing the angle on that Sun wheel and if you have that out now, we can clean that up otherwise, I'll hold it a while.
+051:06:37 Mattingly: I don't have it out, but why don't you tell me what it is. I think I know what you're talking about. It's due to the REFSMMAT angles on there being changed.
+051:06:44 Peterson: That's affirmative. And we [belch] inked '27 degrees' on it. We should have written in '37 degrees'. [Pause.]
+051:06:59 Mattingly: Okay. It turns out we're at - is inked in at 27 and it should be 37.
+051:07:06 Peterson: That's affirmative. [Pause.]
+051:07:11 Mattingly: Okay, thank you. I'm glad you remembered that.
+051:07:14 Peterson: Roger.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+051:10:12 Peterson: 16, terminate battery Bravo charge.
+051:10:17 Mattingly: Okay.
+051:10:21 Young: Okay, it's in work.
+051:10:24 Peterson: Roger. [Long pause.]
+051:10:42 Young: What's the probability of this - glitch happening? Is it about one in a million?
+051:10:47 Peterson: Stand by 1. [Long pause.]
+051:10:59 Young: Say again, Pete. You cut out.
+051:11:01 Peterson: 16, I guess we really don't know the answer to that. That's one of the reasons we want to get this EMP in to kind of watch for it and see if it's occurring frequently or infrequently. [Pause.] Omni switch, 16. [Long pause.]
+051:11:53 Mattingly: Okay, Don, we're going to go ahead and punch through this P52 and we'll start with our little procedure here, and you might kind of watch us through and make sure we do it right the first time.
+051:12:05 Peterson: Will do.
+Comm break.
+051:13:23 Young: Okay, Houston. You're watching this, right?
+051:13:25 Peterson: That's affirmative. We're watching and you can go ahead.
+051:13:30 Young: Okay, and what did you say the probability was of this thing happening?
+051:13:34 Peterson: I think we don't know the answer to that, John. That's why we want to load this software program so we can monitor to see if that glitch is occurring frequently - or it may never occur again, we really don't know.
+051:13:48 Young: Understand.
+051:13:51 Mattingly: Okay, I've got it in. I'm going to call P52.
+051:13:55 Peterson: Roger. [Long pause.]
+051:14:15 Peterson: And you got the GDC aligned there?
+051:14:20 Mattingly: Oh, yeah.
+051:14:21 Young: You better believe it.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+051:17:23 Mattingly: Houston, how do you like those angles? [Pause.]
+051:17:30 Peterson: Stand by one. [Pause.]
+051:17:36 Peterson: Look real good, 16.
+051:17:41 Mattingly: Do you want us to torque some that small? [Pause.]
+051:17:50 Peterson: Go ahead and torque them.
+051:17:53 Mattingly: Okay. We'll do it at 17 minutes. [Pause.] Yeah, I guess that's 51:18, excuse me.
+051:18:07 Peterson: Understand 18 minutes.
+051:18:12 Mattingly: Okay, would you like for me to return it to zero with the switch in Manual this time, just to see if you get that glitch?
+051:18:22 Peterson: Affirmative. [Long pause.]
+051:18:34 Young: Going to zero.
+051:18:36 Young: Mark. [Long pause.]
+051:18:59 Peterson: And, 16, we didn't see any glitch. [Pause.] There, we're coming up on an omni switch.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+051:22:19 Peterson: And, 16, that EMP that we loaded to protect the platform - we'll refer to it as EMP 509. [Pause.]
+051:22:34 Mattingly: Okay, 509; sounds familiar.
+051:22:37 Peterson: Roger.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+051:30:32 Peterson: 16, if you'll go Accept, we've got an uplink for you. And I've got news, if you're interested.
+051:30:43 Young: Okay, here's P00 and Accept. And, yeah, we're interested.
+051:30:48 Peterson: Okay. Former President Lyndon Johnson is resting comfortably after he was hospitalized again following an increase in his heart rate. He's hospitalized in San Antonio. Vice President Agnew, speaking here in Houston, has asked the nation's supermarket executives to hold the line on prices. If prices for food continue to soar, Mr. Agnew hinted at mandatory Federal controls. President Nixon added a stop during his scheduled trip to Moscow. Prior to returning home, he will stop off in Poland to discuss Polish-American relations. The Moscow trip in late May is still on, despite some fears that recent developments in the Vietnamese conflict could affect the President's visit to the Soviet Union. State news: The Texas governor's race is still a hot item, but no word yet from John Connally, who said he may speak out on the wide-open race. Congressman Bob Eckhardt says the U.S. needs at least three large super ocean ports to keep in contention with the world market. He says the Galveston-Houston area is a prime superport site. And on sports news: The Astros captured their first victory of the year with a 7-2 win over the L.A. Giants. And some scores on the other games: in the American League; Cleveland 4, Boston 0; Baltimore 4, New York 0. In the National League; St. Louis 5, Philadelphia 4; Los Angeles 8, Atlanta 3. The Boston marathon, run yesterday on Patriots Day in Beantown, was won by a 25-year-old engineering student from Finland. Strangely enough, they've omitted his name. A 33-year-old Long Island, New York, woman, Nina Kuscsik, won the special ladies division. The Los Angeles Lakers and the Milwaukee Bucks are tied 2-2 in their Western division playoffs in the NBA. [Long pause.]
+051:33:00 Young: Charlie wants to know how (laughter) - how Consolidated Jack Pine is doing.
+051:33:08 Peterson: (Laughter) Was that Consolidated Jackpot?
+051:33:13 Young: Jack Pine.
+051:33:14 Peterson: Roger. [Pause.]
+051:33:21 Young: Probably lost 3 or 4 points again yesterday.
+051:33:25 Peterson: Rog. [Pause.] Charlie, I guess I haven't got those figures handy. We'll see what we can do. [Pause.]
+051:33:44 Duke: If you can find out, Pete, you're a better man than I am. I've been trying to find it for 10 years.
+051:33:50 Peterson: Okay, Charlie, And you can have your computer back, 16. [Long pause.]
+051:34:10 Young: Yeah, that compensation you guys put up there really fixed that baby.
+051:34:15 Peterson: Yeah, seems to have.
+051:34:18 Young: Plus Ken's marks.
+Long comm break.
+051:37:42 Mattingly: Don, we're gonna put off the Skylab [garble] until our [garble] and take the time to do it right. And we're gonna - gonna mix up [garble] snacks and try to get back [garble].
+051:37:57 Peterson: We've got an omni switch, 16. Stand by.
+051:38:11 Mattingly: Houston, do you read Casper? [Long pause.]
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+051:38:24 Peterson: You're pretty weak. [Long pause.]
+051:38:38 Peterson: 16, can you read now?
+051:38:41 Mattingly: Yeah, I read you now. Did you copy when I commented about the Skylab food?
+051:38:45 Peterson: Negative. [Pause.]
+051:38:55 Duke: Pete, I'm back on the Biomed. How does it look?
+051:38:58 Peterson: Stand by one. [Long pause.]
+051:39:34 Peterson: Charlie, they're just now starting to get it. They'll take a look at; I'll let you know in a minute. [Pause.]
+051:39:42 Duke: Okay, thanks. [Pause.]
+051:39:49 Peterson: Okay, you want to go ahead with your comments on the Skylab food, now? [Pause.]
+051:40:10 Mattingly: The comment I made, Don, was that, because we're behind the time line here, we - we thought we would put the Skylab food off until tonight, so we have time to do it right. And we're just going to eat snacks for now and try to get caught up a little bit.
+051:40:16 Peterson: Okay; we concur with that, Ken.
+051:40:21 Mattingly: Rog.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+051:43:15 Peterson: 16, we'd like to get the High Gain up on this next rev. You're about ten minutes away from it now. Do you think you can make that? If not, we can wait another rev.
+051:43:25 Mattingly: We'll get it to you.
+051:43:27 Peterson: Okay, it's Pitch, minus 40; and Yaw, plus 90, 90. [Long pause.]
+051:44:12 Peterson: And, Ken, you can go on; your - in your checklist there down to the MSFN cue any time, you're ready. [Long pause.]
+051:45:00 Duke: Houston. 16. Over.
+051:45:03 Peterson: Go ahead, 16.
+051:45:06 Duke: Okay, Pete, I hit a Command Reset there. I went to the - went to High Gain too soon; and we're operating now in Omni Bravo. And give me a Mark. The High Gain just didn't seem to work; it looks like I ought to be able to get High Gain now. I'll try it.
+051:45:25 Peterson: Negative. You won't be able to get it yet.
+051:45:31 Duke: Okay. Okay, you're on Omni Charlie now. [Pause.]
+051:45:47 Peterson: 16, we'll handle the omnis until we're ready to go to the High Gain, and we'll tell you when to go to High Gain at the angles we just gave you.
+051:45:59 Duke: Okay, we're all set, and you're on Omni Charlie. Will you want me to reconfigure?
+051:46:06 Peterson: Come back to Bravo.
+051:46:10 Duke: Okay, back to - back to Bravo. [Pause.] Okay, you're in Omni Bravo.
+051:46:21 Peterson: Okay. Thank you, Charlie.
+Comm break.
+051:47:30 Peterson: 16, would you go ahead and start the Pan Camera and Mapping Camera film cycling procedures down to the point in the checklist where it calls - where it calls for a MSFN cue?
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+051:52:57 Duke: Houston, how much longer until we get the High Gain? [Pause.]
+051:53:08 Peterson: A couple of minutes, Charlie. [Pause.]
+051:53:13 Duke: Okay.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+051:55:04 Peterson: Okay, 16, you can bring up the High Gain.
+Comm break.
+051:56:13 Peterson: 16, bring up the High Gain now, please. [Long pause.]
+051:56:26 Duke: Okay, there you go. You got Reacq and Narrow on the High Gain.
+051:56:34 Peterson: Roger. [Long pause.]
+051:57:13 Peterson: 16, we're ready to proceed with the film cycling. [Pause.]
+051:57:20 Duke: Okay.
+Comm break.
+051:57:53 Duke (onboard): That's verified.
+051:57:55 Mattingly (onboard): Mapping Camera Image Motion is Off.
+051:57:59 Duke (onboard): That's verified.
+051:58:02 Mattingly (onboard): That darn [garble] Data System is On. PCM Bit Rate, High?
+051:58:11 Duke (onboard): Okay, go ahead.
+051:58:12 Mattingly (onboard): System - S-Band Aux TV to SCI?
+051:58:17 Duke (onboard): Go ahead.
+051:58:19 Mattingly (onboard): SM/AC Power is coming On.
+051:58:34 Mattingly: Okay, the Mapping Camera is coming on to Standby.
+051:58:38 Peterson: Roger. [Long pause.]
+051:59:08 Mattingly: Okay, you ready for Mapping Camera and Pan Camera operations?
+051:59:14 Peterson: Stand by one. [Long pause.]
+051:59:17 Duke (onboard): And that one.
+051:59:33 Peterson: 16, stand by. We're checking a couple of temperatures. [Pause.]
+051:59:35 Mattingly (onboard): Man, that peanut butter...
+051:59:36 Peterson: [Garble].
+051:59:43 Mattingly (onboard): ...peanut butter was really good.
+051:59:44 Peterson: Okay, you can proceed, 16.
+051:59:47 Mattingly: Okay. The Mapping Camera is coming On. [Long pause.] And the Pan Camera Self Test has been hit. [Long pause.]
+051:59:51 Young (onboard): I just might eat the peanut butter with no bread. How would that be?
+051:59:57 Duke (onboard): Borrow some.
+052:00:00 Young (onboard): Can't find the bread.
+052:00:06 Duke (onboard): Got to.
+052:00:07 Young (onboard): Yeah, I know it.
+052:00:09 Mattingly (onboard): And the Pan Camera Self Test is completed..
+052:00:20 Duke (onboard): Well, I - I saw the [garble] around here - this morning.
+052:00:38 Young (onboard): [Garble] you say is true ...
+052:00:39 Duke (onboard): [Garble] peaches are delicious.
+052:00:40 Young (onboard): Oh, that ...
+052:00:42 Mattingly (onboard): Charlie?
+052:00:43 Duke (onboard): Yeah. They're good. Want a bite?
+052:00:52 Mattingly (onboard): No, thanks.
+052:00:53 Duke (onboard): Want a bite, John?
+052:00:54 Young (onboard): No, I just had some peaches. I had to throw mine in the jett bag [garble].
+052:01:04 Duke (onboard): What are you waiting for, a word from them?
+052:01:05 Mattingly (onboard): No. Waiting for the time to run out.
+052:01:10 Mattingly: Okay, the Pan Camera Mode barber pole has gone back to gray. That took about 40 seconds.
+052:01:15 Peterson: Roger. [Long pause.]
+052:01:27 Young (onboard): Now I lost my peanut butter [garble] I lose some of my peanut butter.
+052:01:38 Mattingly (onboard): I was only kidding. If you find it floating around, I bet you'll have a hard time finding the guy who hid it.
+052:01:49 Duke (onboard): It's really good. Peaches is one of the best things we have.
+052:01:53 Young (onboard): [Garble] good.
+052:01:54 Mattingly: Mapping Camera is to Off.
+Comm break.
+052:01:58 Duke (onboard): How did you cycle the film?
+052:02:00 Young (onboard): I didn't.
+052:02:01 Duke (onboard): Huh?
+052:02:02 Young (onboard): Ken did it.
+052:02:26 Mattingly (onboard): The - was there something you wanted to say at the end of this thing, Charlie?
+052:02:29 Duke (onboard): Huh? No. I just wanted to be sure at the end of this thing that the Mapping Camera to Standby Mode...
+052:02:33 Mattingly (onboard): Huh? Oh...
+052:02:34 Duke (onboard): ...on Page 1-16...
+052:02:35 Mattingly (onboard): Oh, okay. While [garble]...
+052:02:36 Duke (onboard): That's after - after you've cycled the Pan Camera switch.
+052:02:40 Mattingly (onboard): Yeah. Well, let me see the Flight Plan. Thank you.
+052:02:44 Duke (onboard): I [garble]
+052:03:02 Mattingly: Houston, do you copy Casper?
+052:03:04 Young (onboard): I've just been contemplating [garble]...
+052:03:04 Peterson: Read you loud and clear, Casper, Go ahead.
+052:03:08 Young (onboard): ...get to [garble]
+052:03:08 Mattingly: Okay. The next item here is to take the Mapping Camera to Standby mode, and I assume I should do that before I turn the SM/AC Power Off. [Pause.]
+052:03:21 Peterson: That's affirmative, 16. [Long pause.]
+052:03:28 Duke (onboard): Can they see that down there? ...
+052:03:34 Mattingly (onboard): Yeah. Well, [garble] they can tell it, too.
+052:03:42 Duke (onboard): [Garble] cycle.
+052:03:44 Mattingly (onboard): Could it take the cassette? Will it sit one place and still - corners it has to go around and [garble] cassette?
+052:03:52 Duke (onboard): You could have, yeah.
+052:03:53 Mattingly (onboard): Probably you would ...
+052:03:54 Duke (onboard): Wait, yeah.
+052:04:00 Young (onboard): Oh-ho.
+052:03:58 Peterson: Alright, Casper, after you turn the Mapping Camera to the Standby mode, we want you to add Pan Camera Self Test to Heaters. [Pause.]
+052:04:11 Mattingly: Okay, you've got Heaters now. And we're in Standby, and I'm about to turn the SM/AC Power Off unless you want me to hold it.
+052:04:18 Peterson: Leave it on, Casper. Leave that Power on.
+052:04:24 Mattingly: Okay. [Long pause.]
+052:04:30 Duke (onboard): [Garble] he say [garble] Standby Mode that I leave it? [garble]
+052:04:31 Young (onboard): [Garble], yeah.
+052:04:32 Duke (onboard): Uh-huh.
+052:04:34 Mattingly (onboard): Well, [garble]
+052:04:38 Duke (onboard): I doubt it.
+052:04:39 Young (onboard): Number 2, a 3, a 4, a 5, a 6, [garble] all be [garble].
+052:04:52 Duke (onboard): John, I tell you what I'll do [garble].
+052:04:59 Peterson: 16, go Omni Bravo. You can stow the High Gain.
+Comm break.
+052:05:00 Young (onboard): I'll [garble].
+052:05:01 Duke (onboard): Wait a minute.
+052:06:25 Mattingly: Houston, Casper.
+052:06:27 Peterson: Go ahead, Casper.
+052:06:32 Mattingly: Okay, after the film cycling, it normally calls for our taking the SM/AC Power Off, and you asked that we hold there. Do you want us to complete the rest of that powerdown, or do you want to just stop there and you're going to pick it up later or - what would you have in mind? [Pause.]
+052:06:49 Peterson: We want to leave the Heaters on for a while and the Power on. And we'll pick it up again later at about 58 hours, but we'll call you. [Pause.]
+052:07:00 Mattingly: Okay. We'll leave that in your care.
+052:07:03 Peterson: Roger.
+Comm break.
+052:08:21 Mattingly: And, if you're ready, Houston, we'll go ahead and stop PTC and go over to the UV attitude.
+052:08:30 Peterson: Okay. [Long pause.]
+052:08:45 Mattingly: It's really a shame to kill a PTC that looks as nice as this one.
+052:08:49 Peterson: Yeah, it does. [Long pause.]
+052:09:38 Peterson: Casper, you might try killing this roll at 208, which is your next roll attitude. [Pause.]
+052:09:49 Mattingly: We're with you.
+Very long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control; 52 hours, 17 minutes Ground Elapsed Time. Apollo 16 now being maneuvered into a High Gain Antenna attitude leaving the Passive Thermal Control after all night and most of the day. Midcourse correction 3 will not be performed and it's likely that Midcourse 4 will not be either, in as much as the present calculations show that the correction would about 1.4 feet per second [0.4 metres per second] at the present time. We should be getting some improvement in communications when we do get locked up on the High Gain Antenna. And we're continuing to stand by at 52:18.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+052:26:19 Mattingly: Hey, Don.
+052:26:20 Peterson: Go ahead, Ken. [Pause.]
+052:26:25 Mattingly: Let me tell you, all our plans for peanut butter were - were correct. That's the ideal space food.
+052:26:33 Peterson: Rog. [Pause.] You guys gonna do the Skylab thing tonight? [Long pause.]
+052:27:39 Peterson: 16, Houston. How do you read?
+052:27:44 Mattingly: Loud and clear.
+052:27:45 Young: Loud and clear.
+052:27:46 Peterson: Okay, we're just doing a subcarrier voice check. [Pause.]
+052:27:57 Young: Your sub - your subcarrier has good voice...
+052:28:00 Peterson: Right.
+052:28:01 Young: ...and Ken's right about that peanut butter sandwich. It's like when we were aboard ship, we can get that peanut butter sandwich when we're in too much of a hurry to do something else - to do anything else, and it works!
+052:28:15 Peterson: Okay. We'll pass that along.
+Comm break.
+052:29:33 Peterson: Casper, I've got that list of TVC relay set and reset conditions anytime you're ready to copy. [Long pause.]
+052:29:50 Mattingly: I'm all pencil.
+052:29:55 Peterson: Okay, the conditions that set the relay are: one, Spacecraft Control switch, CMC; Optics Zero switch, Off; and Optics Mode switch, Manual.
+052:30:24 Young: What to Manual?
+052:30:25 Peterson: Optics Mode switches Manual. [Pause.] And number two, another way to set it, is start a CMC TVC gimbal drive check in P40. [Long pause.] Okay, the different ways that it can get reset are: number one, Optics Zero switch, Zero; [pause.] number two, Optics Zero switch, Off and the Optics Mode switch to CMC; [pause.] number three, Spacecraft Control...
+052:31:38 Young: Hey, Don, would you stand by for a minute, please?
+052:31:40 Peterson: Sure will.
+052:31:41 Young: Let's get our UV. Give us a rough on that time and I'll come back with you.
+050:31:45 Peterson: Roger.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+052:37:51 Young: Houston, 16.
+052:37:53 Peterson: Go ahead, 16.
+052:37:56 Young: Okay. On your plot board, Pete, what do you show us over now?
+052:38:02 Peterson: Just about over Florida. [Pause.] Kind of down over the tip of ...
+052:38:10 Young: Okay.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+052:41:04 Peterson: 16, could you verify the position of the S-Band Aux TV switch? [Pause.]
+052:41:12 Mattingly: Yeah, it's still in SCI, waiting for you guys to tell us to finish up our film cycling checklist.
+052:41:19 Peterson: Understand; it's in SCI?
+052:41:23 Mattingly: Affirmative. [Pause.]
+052:41:31 Peterson: You can take that switch to Off, but leave the Pan Camera Heaters and stuff on.
+052:41:38 Mattingly: Okay. Well, since we - you don't want us to do the exact checklist, we'll - we'll turn the SCI, Off and the Data System, Off, or do you want the Data System On? You're not reading anything now, I don't think.
+052:41:56 Peterson: Just leave the Data System, On. We've commanded it Off on the ground.
+052:42:03 Young: Okay; Data System, On.
+052:42:07 Mattingly: Okay. [Long pause.]
+052:42:57 Duke: Houston, with the binocs out looking at the Earth, we can see Florida and the - the real blue water around the Bahamas. On around the Gulf of Mexico, looks like you might have some clouds near Houston and on down into Mexico and the Great Lakes up in the North, where there's lots of clouds on up north of that.
+052:43:20 Peterson: Roger. It is overcast here, Charlie.
+052:43:22 Duke: [Garble] and up in the polar icecap, there is a big broken line; it looks like a river or something running down off to the southwest. Wonder what that feature might be?
+052:43:43 Peterson: Does it look like - Is it a feature on the ground or a feature in the clouds? [Pause.]
+052:43:55 Duke: Well, I cau - I thought the whole thing was just snow and ice up there; maybe it is the clouds up in - it looked like to me it's - it's just up at the North Pole in the icecap area.
+052:44:08 Peterson: Roger; understand. I don't...
+052:44:10 Duke: And it's been there since we laun - it's been there since we launched.
+052:44:15 Peterson: Roger.
+052:44:17 Duke: What it appeared to me to be was some places thawed out up there, but - and I was looking at water, but that might be the clouds actually.
+052:44:26 Peterson: Okay. Tony's sitting here. I'll see if he knows anything about it. [Pause.]
+052:44:36 Duke: Okay, and that storm system that was out west of Alaska or thereabouts appears to be still there.
+052:44:47 Peterson: Okay. [Long pause.]
+052:45:06 Mattingly: Okay, Don. I'm ready to copy the rest of those things that reset the TVC [garble].
+052:45:12 Peterson: Okay, stand by just a minute. They're adding a couple of notes to it.
+052:45:16 Mattingly: Sure thing. [Pause.] Can I read back the other things when I read back the ones that set it?
+052:45:27 Peterson: Say again, Ken.
+052:45:32 Mattingly: I'll just wait until you get it all; I was going to read back the one that set it. Everybody's talking about those binoculars. We pulled those things out in Earth orbit as we were going over the States, and it's pretty impressive. It works out well in other places; it really does enhance things you can see.
+052:45:53 Peterson: Roger. Okay, I've got this list on the TVC Relay set/reset conditions again, if you want to go back into that now.
+052:46:03 Mattingly: Okay, all set.
+052:46:04 Peterson: Okay. The note they added was back up on the very first thing I gave you: the number 1, conditions to set the relay. Those conditions only work in certain programs or extended verbs, and those are P20, 22, 23, 24, 52, or Verb 41 Noun 91. [Pause.]
+052:46:38 Mattingly: Okay.
+052:46:39 Peterson: Okay, and I believe we'd gotten down through numbers...
+052:46:41 Mattingly: Is it all options to P20? [Pause.]
+052:46:52 Peterson: Stand by a minute, Ken; we'll get you an answer on that.
+052:46:58 Mattingly: Okay. Go ahead.
+052:47:00 Peterson: Okay. While we're waiting for them to decide whether it's all options or not, I believe we got down through number 2, reset conditions.
+052:47:11 Mattingly: Okay. I copied the Optics to Zero and the Optics Zero to Off when in CMC Mode control.
+052:47:21 Peterson: Okay, and that was number 2. Number 3 is Spacecraft Control switch, SCS. [Pause.] Number 4 is THC, clockwise. [Pause.] Number 5 is Verb 37 Enter, XX Enter. [Pause.] Number 6 is fresh start, Verb 36. [Pause.] Number 7 is Verb 34 or Pro in the sighting mark routine, R53 display. [Pause.] And number 8 is Auto Enter RCS DAP at SPS cut-off plus 2.5 seconds in P40. [Pause.]
+052:48:46 Mattingly: Okay. I didn't understand that one, Don.
+052:48:49 Peterson: Okay. It's the - it's what happens to you immediately following the burns. The SPS cuts off, and then 2.5 seconds later in P40, the TVC relay gets reset. [Long pause.]
+052:49:16 Mattingly: Okay.
+052:49:18 Peterson: Okay, and on the question of options, back up under set condition number 1, it's all options except number 2 in program 20. [Pause.]
+052:49:36 Mattingly: Okay.
+052:49:39 Peterson: And that's all of them. [Pause.]
+052:49:44 Mattingly: Okay, and I understand that this - this can happen when you either set or reset the enable relay, is that correct?
+052:49:52 Peterson: That's affirmative. They say it can happen going - any change of state on the TVC relay. [Pause.]
+052:50:06 Mattingly: Okay. Can you tell me if it's the change of state of the relay, or just the command to change? For instance, if we already had it in some of these things like a Verb 37, any program resets it; but if it's already in the reset position, is that a condition that's likely to trigger one of these things, or is that one of the safe conditions?
+052:50:34 Peterson: We - we think, Ken, it's the actual relay set/reset changing, not - not the command.
+052:50:44 Mattingly: Okay. [Long pause.]
+052:51:20 Mattingly: Don, let me read back what you read to me, and then I'll want to mull that over for a while and see if I have any other questions.
+052:51:27 Peterson: Okay. [Pause.]
+052:51:34 Mattingly: Okay, and I think that, except the TVC enable [garble].
+052:51:43 Peterson: 16, you're fading out. [Pause.]
+052:51:53 Peterson: 16, we are unable to read.
+052:51:56 Mattingly: Okay, the things that will set the TVC enable are the Spacecraft Control switch to CMC, the Optic Zero to Off, the Optics Mode to Manual, and the CMC TVC gimbal test in P40. These things occur only if I'm in P20 options 0, 1, 3, 4; P22, P23, P24, P52; and a Verb 41 Noun 91.
+052:52:29 Peterson: Okay, Ken. On that, the first three of those constitute one set of conditions; and the last one, that is, the start of CMC thrust vector control, is another condition that is sufficient by itself. [Pause.]
+052:52:48 Mattingly: Okay, understand. The first three go with those programs, and the CMC thrust vector control is sufficient by itself.
+052:52:57 Peterson: Okay.
+052:53:01 Mattingly: Did you - I don't remember if we concluded whether that was when it - the CMC sets the gimbal in preparation for the burn or only during that test.
+052:53:12 Peterson: I don't think that's - at least, I haven't been advised as to which set of conditions we're talking about there.
+052:53:21 Mattingly: Okay, now I'll read you the reset ones.
+052:53:24 Peterson: Okay.
+052:53:26 Mattingly: It's Optics to Zero, Optics Zero to Off when in CMC Mode, Spacecraft Control to SCS, Translation Hand Controller to clockwise, any Verb 37 Enter to XX Enter, a fresh start, a Verb 34 or Pro when in the sighting mark display, and the Auto engine off or Auto TVC reset after a burn in P40.
+052:53:58 Peterson: That's affirmative. [Pause.] There are eight different reset conditions; number 2 actually contains two separate items [Pause.].
+052:54:12 Mattingly: That's affirmative. Thank you...
+052:54:16 Peterson: Okay.
+Comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+052:56:11 Young: Okay, Houston. We're starting the fuel cell purge and waste water dump.
+052:56:16 Peterson: Roger; Copy.
+Long comm break.
+Your browser does not support the audio element. [Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+053:05:52 Mattingly: Houston, Casper.
+053:05:54 Peterson: Go ahead, Casper.
+053:05:58 Mattingly: Okay, we've got a LM/CM Delta-P of 0.6. We'd like to go ahead and pressurize the cabin and get ready for the LM entry.
+053:06:10 Peterson: Stand by one. [Pause.]
+053:06:17 Peterson: Okay, Casper. We copied, and you can go ahead.
+053:06:22 Mattingly: Thank you, sir.
+Day 2, Part 2: LM Entry and Checks
+Journal Home Page
+Day 3, Part 2: Lunar Module Activation and Checkout
