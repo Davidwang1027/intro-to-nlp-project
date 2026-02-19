@@ -1,0 +1,957 @@
+A8FJ - Day 5: The Green Team
+Day 4 & 5:
+The Black Team
+Journal Home Page
+Day 5: The Maroon Team
+Apollo 8
+Day 5: The Green Team
+Corrected Transcript and Commentary Copyright © 2001-2024 by W. David Woods, Frank O'Brien and William Smeaton. All rights reserved.
+Last updated 2025-02-21
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+101:51:03 Borman: Houston. How do you read Apollo 8?
+101:51:09 Collins: Apollo 8, Houston. Say again.
+101:51:13 Borman: Hello Michael, we lost lock and Bill hit Command Reset to get the lock back on again, but you're welcome to the antenna.
+101:51:21 Collins: Okay, Frank. Thank you.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:07:02 Anders: Houston, Apollo 8. Over.
+102:07:08 Collins: Apollo 8, this is Houston. Go ahead.
+102:07:13 Anders: Good morning, Michael.
+102:07:15 Collins: Good morning.
+102:07:17 Anders: Or is it afternoon? Or is it afternoon?
+102:07:23 Collins: Apollo 8, Houston. You've got a lot of background noise and about unreadable. [Pause.] We're trying to get a better Omni. [Pause.]
+102:07:45 Collins: Apollo 8, Houston. How do you read? Over.
+102:07:50 Anders: Loud and clear.
+102:07:51 Collins: Okay. You're loud and clear. This Bill?
+102:07:57 Anders: None other.
+102:07:58 Collins: I got a message for you while you were asleep. Valerie said to tell you that she and the kids are leaving for church about 11:30 and eagerly awaiting your return. She said presents are magically starting to appear under the Christmas tree again so it looks like a double barrel Christmas. Over.
+102:08:16 Anders: You can't beat a deal like that. [Pause.] How was Christmas at your house today?
+102:08:26 Collins: Early and busy as usual. I told Michael you guys are up there, and he said who's driving?
+102:08:39 Anders: That's a good question. [Pause.] I think Isaac Newton is doing most of the driving right now.
+102:08:51 Collins: Say again.
+102:08:55 Anders: I think Isaac Newton is doing most of the driving right now.
+102:08:59 Collins: Rog. We copy. [Long pause.]
+102:09:40 Anders: Well, give Valerie and the kids a Merry Christmas for me, Mike, and tell them I'll see them there in a while.
+102:09:46 Collins: I sure will, and you might tell Frank if he's got any messages his people are about 10 feet away.
+102:09:57 Anders: He said "bah humbug."
+102:10:01 Borman: Howdy, how're you all?
+102:10:06 Collins: You've got a whole row of smiling faces in the back room, Frank.
+102:10:11 Borman: Very good. Well, they'd be proud of me: I'm using the Exer-Genie right now.
+102:10:19 Collins: Don't overdo it.
+102:10:23 Borman: I won't.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 102 hours, 12 minutes into the flight. Frank Borman's family; his parents, his wife, his two boys are in the Control Center and they just got a Christmas nod relayed to them from Apollo 8 by Mike Collins. Here's how the conversation went.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:15:54 Collins: Apollo 8, Houston. Over.
+102:15:59 Borman: Go ahead, Houston. Apollo 8.
+102:16:01 Collins: Roger. Quad Able helium tank temperature has dropped very slightly and is looking pretty good to us now.
+102:16:11 Borman: Thank you, Michael.
+102:16:12 Collins: Righto, and I've got a procedure for Jim which I'd like to read up. It involves bringing the LM and CSM state vectors to the Earth sphere of influence. Over.
+102:16:27 Borman: All right. Stand by.
+102:16:29 Collins: Okay. [Pause.]
+102:16:34 Borman: He's getting his hat on now. Whose procedure is this, Michael?
+102:16:41 Collins: Oh, it's the summation of the opinions of all our experts down here. I got it from Mr. Colossus, Gunther Sabionski.
+102:16:54 Borman: Very good. I want to make sure it wasn't another Aldrin special.
+102:17:03 Collins: I'm sorry you're broken up. Don't say again. [Laughter.] [Pause.]
+102:17:16 Borman: Merry Christmas, Buzze. [Pause.]
+102:17:25 Collins: Yeah, Merry Christmas up there, Jim. I've got a procedure when you are ready to copy.
+102:17:31 Lovell: Okay. I just got on the headset; just let me get a pencil and paper here, and I'll copy it.
+102:17:36 Collins: Okay. [Long pause.]
+102:17:58 Lovell: Okay, Mike.
+102:18:00 Collins: Okay. The purpose is to bring the LM and the CSM state vectors to the Earth's sphere of influence. Step 1: Verb 37 Enter, 23 Enter. Step 2: At Noun 70, at Noun 70, load in register 1, 2, and 3 the following numbers. Register 1, 00002; register 2, five balls; register 3, 00210. Step 3: proceed on Noun 70, Noun 70. Step 4: proceed on Noun 25, 25. Step 5: do not proceed on Noun 18. Wait for 30 seconds; then do Verb 37 Enter, 00 Enter. End of procedure. Over. [Pause.]
+102:19:29 Lovell: Okay. As I understand it, the reason for this procedure is to bring the LM and CSM state vectors back into the Earth's sphere of influence; is that correct?
+102:19:37 Collins: That's correct.
+102:19:42 Lovell: Okay. To do it, we go Verb 37 Enter, 23 Enter; and at the Noun 70, we'll load in register 1, four balls 2; register 2, all balls; and register 3, two balls 210. We'll proceed on Noun 70, we'll proceed on Noun 25. We will not proceed on 18. We'll wait 30 seconds, and we'll do a Verb 37 Enter, 00 Enter.
+102:20:15 Collins: That's affirmative. Apollo 8. [Pause.]
+102:20:21 Lovell: I'm just kinda curious, Mike; I thought this was done for us. I thought the computer took care of this little problem. [Pause.]
+102:20:34 Collins: Roger. Normally, it is done automatically, Jim; and had you done the P23s exactly as scheduled, it would have been, but there was some doubt P23 was stopped about 7 minutes prior to the transition point and just to be absolutely sure, we included this procedure. Over.
+102:20:59 Lovell: Okay. [Long pause.] Tell Buzz I could sure use his eye-patch.
+102:21:19 Collins: Roger. Understand. I had one on Gemini X. Worked real well.
+102:21:28 Lovell: Mike, you want me to do this procedure now?
+102:21:31 Collins: That's affirmative, Jim. Now at your convenience.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:23:04 Unidentified (MCC): Did you see guidance? Is the flag set? Reset, that's right.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:24:50 Collins: Apollo 8, Houston.
+102:24:54 Lovell: Go ahead.
+102:24:56 Collins: Roger Jim. We copied your DSKY work there, and it's looking just fine to us now.
+102:25:03 Lovell: Okay.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control, Houston here; 102 hours, 29 minutes into the flight. Couple of points we should mention. For one, Quad A, the temperature that we reported earlier up - peaked to 86 degrees [F, 30°C], it's now on it's way down. It's dropped one degree - it's at 85 [°F, 29.4°C]. And that - that drop's taken place in the past 15 minutes. About 15 minutes ago, we went into Passive Thermal Control, a gentle slow roll that should distribute the Sun's heat evenly. Quad B is reading 71 degrees [F, 21.7°C]; Quad C, 76 [F, 24.4°C]; and Quad D, like dog, is 70 [F, 21°C]. This temperature measurement comes from the helium tank which pressurizes that particular quad. We are planning a midcourse (correction burn) at - last time, 104 hours - 104 hours even. It will be burn of 5 feet per second. 5 feet per second. We're also planning a television acquisition at 104 hours, 15 minutes, which in relation to Houston time should be 3:06 pm Central Standard Time. Duration of the television pass is planned for 10 to 12 minutes. We do not know the content of the show. We have no scheduled plans for it. Mrs. Frank Borman, who with Frank's parents and Frank and Susan's two sons, just left the Control Center, forwarded a message this morning to Mrs. - to Commander and Mrs. Lloyd Bucker at the San Diego Navy hospital in San Diego, California. The message is as follows: You have been in our thoughts and our prayers. Your reunion has brought great joy into our hearts this Christmas Day. Our best to you personally, and to all the families under your command. Signed the families of the crew of Apollo 8. The message was composed and suggested by Mrs. Frank Borman. It was forwarded by NASA Facilities this morning. We have some conversation with the crew and we will play it for you now.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:29:42 Borman: Houston, Apollo 8.
+102:29:44 Collins: Apollo 8, Houston.
+102:29:50 Borman: You know, one thing you can pass on to the program office - something you might try working on right away is...
+102:30:00 Collins: Can you stand by, Apollo 8?
+102:30:02 Collins: Apollo 8, can you stand by? We'll try to get you a better antenna; you're just about unreadable.
+102:30:10 Borman: All right. [Pause.]
+102:30:18 Collins: Apollo 8, Houston. We are right in between antennas and if you can wait about 5 minutes with your message, we should have better comm then.
+102:30:27 Borman: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:33:44 Collins: Apollo 8, Houston. Over.
+102:33:49 Borman: Go ahead, Houston. Apollo 8.
+102:33:51 Collins: Okay. You're Loud and clear now, Frank. Go ahead with what you were saying about the program office.
+102:33:57 Borman: They ought to get some moving out on some way to fix these windows. The three windows, the hatch window and the two side windows, really it's a shame, the fact that they're almost - excuse me - almost totally unusable, because they got so gummed up.
+102:34:17 Collins: Roger, I sure agree. We - we copy so far on the windows that 2 and 4 are still in excellent shape and 1 and 5 are sort of mediocre and 3 is just about totally unusable.
+102:34:34 Borman: Three is totally unusable and 1 and 5 are unusable for any kind of photography.
+102:34:39 Collins: Roger.
+102:34:42 Lovell: And, Mike, that sure puts the CMP in a bad light, you know, when you can't see where you're going.
+102:34:48 Collins: Yeah, when you're sitting between two guys that won't tell you, too. [Laughter.]
+102:34:54 Lovell: That's right. You think they'd share a window? No soap. You might also note the optics are very good visibility so far. No coating at all.
+102:35:04 Collins: Glad to hear that, Jim.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+That was Jim Lovell who tagged that one with the statement 'Sure is a shame when the CMP, the Commander - Command Module Pilot can't see where he's going.' It's a reference to the old navigator joke. 'I am the navigator and I have a right to know [where I'm going]. Please tell me.' So, we in - all and all in good shape at 102 hours, 40 minutes into the flight; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:42:32 Collins: Apollo 8, Houston.
+102:42:36 Borman: Go ahead.
+102:42:38 Collins: Roger. We copy Jim doing a P52, and I'm standing by with a maneuver PAD for midcourse 5, anytime at your convenience. [Long pause.]
+102:43:31 Lovell: Okay. Ready to copy, Mike.
+102:43:35 Collins: Roger, Jim. This is midcourse maneuver number 5, and it's a RCS/G&N: and it's 31700; not applicable, not applicable. Are you with me?
+102:43:56 Lovell: With you.
+102:43:58 Collins: Good. 103:59:52.86; minus 0005.0, plus all zeros, plus 0000.1; 000, 334, 001; five zeros - 00000, plus 0019.0; 0005.0, 0:14, 0005.0. Are you still with me? Over.
+102:45:14 Lovell: Still with you.
+102:45:16 Collins: Good. 41, 302.0, 18.3: Shaula, down 06.4, left 0.6; plus 07.47, minus 164.10; 1298.8, 36301, 146:46:40; north set of stars, Sirius and Rigel; roll, 308; pitch, 209; yaw, 357; remarks: use high-speed procedure with minus MA. Over. [Pause.]
+102:47:00 Lovell: Roger, Houston. MCC-5; RCS/G&N. Are you with me?
+102:47:08 Collins: I'm with you, Jim.
+102:47:13 Lovell: 31700; N/A, N/A, 103:59:52.86: minus 0005.0, plus all zeros, plus 0000.1: 000, 334, 001; all zeros, plus 0019.0; 0005.0, 0:14, 0005.0; 41, 302.0, 18.3; Shaula, down 06.4, left 0.6; plus 07.47, minus 164.10; 1298.8, 36301, 146:46:40; Sirius, Rigel, 308, 209, 357; use high-speed procedure with minus MA.
+The PAD is interpreted as follows:
+Purpose: This PAD provides the details of a short burn of the RCS thrusters, executed at the fifth midcourse correction opportunity, which will refine their arrival at Earth.
+Systems: The burn would be made using their RCS thrusters under the control of the Guidance and Navigation system.
+CSM mass (Noun 47): 31,700 pounds (14,379 kg).
+Pitch and yaw trim (Noun 48): Not Applicable. These parameters are only required for the gimbal-mounted SPS engine.
+Time of ignition (Noun 33): 103 hours, 59 minutes, 52.86 seconds.
+Change in velocity (Noun 81), fps (m/s): X, -5.0 (-1.5); Y, 0 (0); Z, +0.1 (+0.03). The change in velocity is resolved into three components which are quoted relative to the Local Vertical frame of reference.
+Spacecraft attitude: Roll, 0°; Pitch, 334°; Yaw, 1°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable. In their S-shaped path from Moon to Earth, the concept of apogee is meaningless in the current context.
+HP, expected perigee of resulting orbit (Noun 44): 19.0 nautical miles (35.2 km). The altitude of this perigee is well within the upper reaches of Earth's atmosphere and therefore the spacecraft will re-enter.
+Delta-VT: 5 fps (1.5 m/s). This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 14 seconds.
+Delta-VC: 5 fps. The EMS will give an independent indication of their change of velocity using its own accelerometer.
+Sextant star: Star 41 (Dabih, Beta Capricorni) visible in sextant when shaft and trunnion angles are 302.0° and 18.3° respectively. This is part of an attitude check.
+Boresight star: Shaula (Lambda Scorpii) will be visible through the COAS (Crew Optical Alignment Sight) line of sight when it is set to stated angles. This is a second attitude check.
+COAS Pitch Angle: Down 6.4°.
+COAS X Position Angle: Left 0.6°.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.
+Expected splashdown point (Noun 61): 7.47° north, 164.1° west; in the mid-Pacific.
+Range to go at the 0.05 g event: 1,298.8 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05 g event: 36,301 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+Predicted GET of 0.05 g event: 146 hours, 46 minutes and 40 seconds GET.
+GDC Align stars: The stars to be used for GDC Align purposes are Sirius and Rigel. By manoeuvring the spacecraft to place these stars in a particular configuration through the telescope, the crew can set the alignment of the Gyro Display Couplers to be This provides a starting point for backup determination of their attitude that will be relevant to the current REFSMMAT.
+GDC Align angles: Roll, 308°; pitch, 209° and yaw, 357°.
+The final note is related to a workaround the crew must use for trajectory determination, one that reflects the rushed nature of the Apollo 8 software.
+102:48:23 Collins: Roger. And could you go to Accept, please, and we're going to send you a P27 load consisting of a LM state vector and a target load for MCC-5.
+102:48:37 Lovell: Roger.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:51:19 Collins: Apollo 8, Houston. Over.
+102:51:24 Borman: Go ahead, Houston. Apollo 8.
+102:51:26 Collins: Roger. We'd like to dump your waste water tank down to 25 percent; we'd like to do it before the midcourse, for tracking reasons. So if it is convenient with you, if you start right now, we'll dump on down to 25.
+102:51:39 Borman: Roger. We'll get right with it.
+102:51:41 Collins: Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:55:20 Collins: Apollo 8, Houston.
+102:55:24 Borman: Go ahead.
+102:55:26 Collins: Roger. We got those loads in and verified; you can go back Block at your computer. And George Low says he's working on that window problem at 6, or spacecraft 104. You just happen to have the wrong spacecraft.
+102:55:40 Borman: That's the wrong statement; we've got the right spacecraft. I'll clue you, if it keeps going this way for 2 more days, we've got not only the right spacecraft, we've got the best spacecraft.
+102:55:50 Collins: It'll keep going.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:57:13 Borman: Apollo 8. We're starting the dump now, Houston.
+102:57:17 Collins: Apollo 8, Houston. Over.
+102:57:23 Borman: Okay. We're starting the waste water dump now.
+102:57:26 Collins: Okay, Bill [means Frank]. Thank you. [Long pause.]
+102:57:38 Borman: That's a blizzard.
+102:57:42 Collins: Rog. Understand. [Long pause.]
+102:58:33 Collins: Apollo 8, Houston.
+102:58:39 Anders: Go ahead, Houston.
+102:58:41 Collins: Roger. I need a Pop Romeo Dog on all three and a status report on the LMP.
+102:59:01 Anders: Roger. The LMP's PRD hasn't moved an inch since we took off. And that's the one the CMP used to have, still 0.64. And I just had about 5½ hours sleep, and I'm in the process of scarfing up a meal; and I've been drinking lots of water, feeling good, and that's about it.
+102:59:01 Collins: Okay. And you got a PRD on the other two.
+102:59:29 Lovell: Yes. The CMP's PRD is reading point - The CMP's is reading 0.12 rem.
+102:59:41 Borman: And the CDR: I got stuck with somebody else's, but mine reads now - my new one reads 2.02 rem. I don't know if there is a message there or not.
+102:59:49 Anders: He's starting to glow in the dark. [Pause.]
+102:59:55 Collins: Yeah. You should have - you should have hung on to the one you had. It sounded a little bit better. I copy left to right 2.02, 0.12, and 0.64. Over.
+103:00:10 Anders: Roger.
+103:00:13 Collins: Thank you, sir.
+103:00:17 Anders: What have they measured in our [pause] What have they measured on that, I guess you would call it the VABABR, or VABD?
+103:00:42 Collins: We're sending a boy to the back room to find out.
+103:00:51 Anders: Find out what it is, or what it's reading?
+103:00:55 Collins: First one and then the other.
+103:01:02 Anders: We'll need both answers up here, too.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:03:58 Collins: Apollo 8, Houston.
+103:04:02 Lovell: Go ahead.
+103:04:04 Collins: Roger. Bill's VABR reading that he requested is 0.13. Over.
+103:04:16 Anders: Roger. Looks like you've got a little discrepancy here.
+103:04:25 Collins: Yeah, I agree. [Long pause.]
+103:04:39 Anders: You ought to give those guys a chance to go back to sleep and calibrate those things. [Long pause.]
+103:05:26 Collins: Apollo 8, Houston. We just passed 25 percent, and you can terminate your waste water dump, please.
+103:05:31 Anders: Okay. Will do. [Pause.]
+103:05:41 Borman: Believe it or not, our gauge is 5 percent behind yours.
+103:05:48 Collins: Yeah, John Aaron says he's been noticing it.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:07:23 Collins: Apollo 8, Houston.
+103:07:27 Anders: Go ahead, Houston. Apollo 8.
+103:07:30 Collins: Yeah. We're going to switch antennas from Madrid to Goldstone in about 3 minutes. You should hear the glitch.
+103:07:37 Anders: Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 103 hours, 7 minutes into the flight. Apollo 8 is 169,750 [nautical] miles [314,377 km] from home. It's moving in a velocity of 4,264 feet per second [1,300 m/s]. You multiply by a 0.68, you get miles per hour. In the last 15 minutes, we've had a good deal of conversation with the crew. And in the course of it, Frank Borman makes a comment, a reference about the windows. He says they are really a shame. We discussed them yesterday, and the message was immediately relayed to George Low. And in the course of the ensuing discussion, Mike Collins suggested perhaps the crew, this crew should have had Spacecraft 104, which is the next one down - down the line. And Borman insists, no, no; he had the right spacecraft. And it's a most interesting conversation. Here's how it goes.
+103:08:40 Lovell: Houston, Apollo 8.
+103:08:44 Collins: Apollo 8, Houston. Over.
+103:08:48 Lovell: Rog. Just for information, would the perigee reading and Noun 42 be such a big minus number for such a small burn? We are reading minus 03137 now.
+103:09:03 Collins: Rog. Understand; Noun 42 perigee reads minus 03137. Over.
+103:09:12 Lovell: Roger. We're going through Program 30 after you give us the target load, and I didn't think there would be that much of a change for such a small burn.
+103:09:20 Collins: Roger. Stand by. We'll check into it, Jim.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:16:54 Collins: Apollo 8, Houston. Over.
+103:16:59 Borman: Go ahead, Houston. Apollo 8.
+103:17:01 Collins: Roger, Frank. We don't think there's any problem or any funnies in this perigee prediction of minus 03137. It's a Keplerian prediction, and it's not very accurate. Now we've taken your vector from the downlink and run it through a make-believe external Delta-V maneuver down here, and we get precisely the correct answer. Over. [Pause.]
+103:17:35 Lovell: Roger. Understand that you figure just because of the conics solution that it comes up.
+103:17:40 Collins: That's affirmative. The Kepler solution is just pretty gross.
+103:17:47 Lovell: Okay. I was just kind of curious. I could see differences when we were talking about LOI burns, but this being such a short one, I thought it wouldn't be that much difference. I understand.
+103:17:58 Borman: Mike, this is Frank.
+103:18:00 Collins: Go ahead.
+103:18:03 Borman: Y'all are monitoring our - and seeing if we get any inadvertent engine firing all the time, aren't you?
+103:18:10 Collins: Well, we - we can't tell when you're in low bit rate. When in high bit rate, yes, we are.
+103:18:20 Borman: Okay. If we crank up high bit rate and just have you take a checkout look at them?
+103:18:26 Collins: Okay. [Long pause.]
+103:19:03 Collins: Apollo 8, Houston.
+103:19:08 Borman: Go ahead.
+103:19:10 Collins: Roger. Since you're on Omni D, Dog, at this time, we're sort of 180 out of phase for the High Gain. As soon as we can get High Gain lock, then we'll, with our high bit rate, be looking at those - be looking for any thruster firings, but we can't do it until then. Over.
+103:19:38 Borman: Okay. We'll take the antennas and get on the High Gain as soon as we can.
+103:19:43 Collins: Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And this is Apollo Control, Houston. That catches us up - catches us up to 103 hours, 21 minutes. We are now about 45 minutes away from a - 40 minutes away from the burn, a midcourse correction of 5 feet per second. The spacecraft will have its nose pointed at Scorpio. I do not know exactly what angle that'll be in - along its path of flight, but it apparently will not be in the direct line of flight. It'll be a slight adjustment kind of burn to have the effect to move the spacecraft more to the center of a 35-mile corridor keyhole through which the spacecraft will enter the atmosphere in it's final splashdown maneuver. At 103 hours, 22 minutes into the flight; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:26:49 Collins: Apollo 8, Houston.
+103:26:53 Borman: Go ahead, Houston. Apollo 8.
+103:26:54 Collins: Roger, Frank. We've done some more checking, and we confirm that that is the correct Keplerian prediction on Noun 42, minus 03137, just like you said.
+103:27:09 Borman: Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:35:41 Collins: Apollo 8, Houston.
+103:35:46 Borman: Go ahead.
+103:35:48 Collins: Roger. We are going to be doing a ranging sequence; if we could eliminate voice for a couple of minutes, we'd appreciate it.
+103:35:56 Borman: Roger. We will.
+103:35:58 Collins: For a change.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:42:41 Collins: Apollo 8, Houston. Over.
+103:42:46 Borman: Go ahead, Houston.
+103:42:48 Collins: Roger. Our ranging's complete, and we've been monitoring your thruster firings, and they show what appears to be very normal damp activity. Over.
+103:42:59 Borman: Thank you.
+103:43:00 Collins: Okay.
+103:42:59 Borman: I guess it was associated with the water vent.
+103:43:05 Collins: Roger. Understand, Frank.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; at 103 hours, 45 minutes into the flight. In the last few minutes we've been looking at the biomed data. The harness is switched to Jim Lovell and his mean heart rate is 57. The high during this sample period was 59; the low is 54. His respiration rate is 13. Jim and Bill Anders are shortly to have Christmas dinner, just after this midcourse correction which is to come at 104 hours into the flight. The 5-foot-per-second burn that'll have the effect of ensuring the spacecraft hits more nearly the center of our entry corridor, rather than the high side of it. We have some tape conversation backed up here. We'll play it now.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And this is Apollo Control, Houston; 103 hours, 47 minutes into the flight. We'll be back up with the burn in about 12 minutes.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:57:08 Collins: Apollo 8, Houston. Over.
+103:57:12 Borman: Go ahead, Houston. Apollo 8.
+103:57:14 Collins: Frank, we've got about 2½ minutes to ignition, and we're still showing some of your SCS switches not set up as per checklist; specifically, rate Low, deadband Minimum, and your BMAG modes at attitude one, rate two.
+103:57:35 Borman: Okay. Thank you.
+103:57:37 Collins: And your manual attitude switch is in Rate Command.
+103:57:44 Borman: Right.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:58:49 Collins: Apollo 8, Houston.
+103:58:52 Collins: Mark.
+103:58:53 Collins: One minute to ignition. Over.
+103:58:58 Borman: Roger. We concur. [Long pause.]
+103:59:30 Collins: Apollo 8, Houston.
+103:59:32 Collins: Mark.
+103:59:34 Collins: Twenty seconds to ignition.
+103:59:39 Borman: Roger.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 103 hours, 59 minutes into the flight and Mike Collins has given the crew a standby for their midcourse. 20 seconds to ignition for a burn that - in which the nose will be pointed at a 90-degree angle away - 90 degrees away from a radius vector running out from the center of the Earth. And we'll try to describe the position of the spacecraft a bit more at the change of shift briefing. It's - it's just a very difficult thing to visualize with the cerebral bodies. Present weight is 31,678 pounds [14,369 kg]. We're 167,548 [nautical] miles [310,299 km] from home. By the way, that Quad A's temperature we reported earlier up to 86 [°F, 30°C] is now down to 82 [°F, 27.8°C]. His pitch attitude is 334 degrees; his yaw at 1.1 degrees; he's got 0.7 degrees in roll. Apparently, he's all set up now and got the angles he wants. Jim Lovell now is reporting that the burn went off on time and the duration of the burn was 14 seconds, and we're trying to check now and find out exactly how many feet per second we got. Mike Collins is now filling in his post-burn report. Let's - let's pick up this conver... - go back from the start of the burn and pick up the conversation up till now.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+104:01:33 Lovell: Houston, Apollo 8.
+104:01:35 Collins: Go ahead, Jim.
+104:01:38 Lovell: Rog. We burned on time, 14 seconds, attitude nominal. Our residuals were plus 2 in VGX, minus 1 in VGY nothing in VGZ. Our EMS stopped about 6.2 and was counting up - up to - continued counting after the burn.
+104:02:03 Collins: Rog. Understand 14 seconds, burn on time, nominal attitude, two-tenths X, one-tenth Y, and nothing minus one-tenth Y, and nothing Z; and you put 6.2 on the EMS, and it continued to count after the burn. Is that affirmative?
+104:02:22 Lovell: No. We put the burn - we put the burn Delta-V in the EMS, and after the burn, it was still counting.
+104:02:31 Collins: Rog. Understand.
+The EMS has its own accelerometer which is aligned to measure changes in velocity along the spacecraft's X axis. During a manoeuvre, it is used as a backup method of monitoring the effect of the burn and it can stop the burn at the right time in the event that the computer fails to do so. The crew can enter a number in its Delta-V display and pulses from the accelerometer will cause the number to decrement towards zero. In a state of weightlessness, this number should not change. However, in this instance, when the burn had finished, the display continued to count, apparently past zero and on up.
+104:02:32 Lovell: It was counting up.
+104:02:33 Collins: Understand. [Long pause.]
+104:03:31 Lovell: Okay, Houston. We transferred the state vector to the LM slot.
+104:03:36 Collins: Roger, Jim. Thank you, and I still don't understand you on this EMS. Counted down from 5 to zero normally and then continued through zero in a negative way, and now it's reading minus 6.2? Is that affirmative?
+104:03:52 Lovell: Rog. That's right. It was counting up when we shut it off. Last time I saw it, it was 6.9. Now Frank just put it on to Auto again with the Delta-V function switch in Delta-V, and it jumped six-tenths. Then he tried the second time, and it stayed at zero so we really don't know what the story is.
+104:04:16 Collins: Rog. Understand you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And that brings us up to the live - up to the present. 104 hours, 5 minutes. 10 minutes from now should start our television acquisition. Let's go back now.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+A reminder to the press in the Building 1 Auditorium area, the big Eidophor will be available for the television pass.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+104:05:48 Borman: Houston, this is Apollo 8.
+104:05:50 Collins: Go ahead, Frank.
+104:05:53 Borman: I guess you want us to resume PTC, right? [Pause.]
+104:06:00 Collins: Stand by. [Long pause.]
+104:06:29 Collins: Apollo 8, Houston.
+104:06:34 Borman: Go ahead.
+104:06:35 Collins: We'd like you to resume the PTC attitude; pitch, 010; yaw, 045; and then come out of it again for your P23 that you're scheduled for about another hour and 10 minutes, in another hour and 10 minutes.
+104:06:55 Borman: Roger. [Long pause.]
+104:07:16 Borman: Mike, this is Frank. Is this TV still scheduled for 104:50?
+104:07:22 Collins: That's affirmative, Frank, if you can manage it.
+104:07:27 Borman: Okay. [Pause.]
+104:07:36 Collins: How's it going with the TV, Frank? Are we - can the networks count on having it on schedule? Over.
+104:07:44 Borman: Yeah, we can have it on schedule. We don't have much to do, but we'll perform for you.
+104:07:49 Collins: Okay. We got a bunch of filter experts standing by if you need any advice.
+104:07:55 Borman: Well, we're just going to have to just do it inside today because there's no good shots of the Moon and the Earth; the Sun's too darn bright.
+104:08:03 Lovell: I think it's raining out there.
+104:08:07 Collins: Yeah, that's what we thought.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Well, until we get acquisition, or until we get closer to the time, 6 or 7 minutes away, we'll just get off the line right now and come back up then. Our present distance, 167,187 [nautucal miles, 309,630 km]; velocity in relation to the Earth, 4,304 feet per second [1,312 m/s]. Our weight is now 31,679 pounds [14,369 kg]. At 104 hours, 9 minutes into the flight; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+104:09:57 Borman: Houston, Apollo 8.
+104:10:00 Collins: Apollo 8, Houston. Go ahead.
+104:10:06 Borman: Roger. On this EMS, when I put it in Delta-V, it's reading zero; then I switched to Auto. Sometimes it'll count to 19 or 20 feet per second. I guess that's what happened.
+104:10:17 Collins: Rog. Understand when you put it to Auto, it maybe will keep counting up to as much as 19, 20 feet per second.
+104:10:27 Borman: Just when you put it to Auto; it'll start counting on some occasions, by itself.
+104:10:31 Collins: Understand.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And this is Apollo Control, Houston; 104 hours, 14 minutes. We do not have a picture as yet. We're not particularly trying hard but we do expect it within 45 seconds. Earlier, Frank Borman said only that he'd probably have to keep the camera inside today and made some offhanded reference to the fact that it was raining outside. The Flight Plan shows two crew members, Jim Lovell and Bill Anders would be in an eating period, eating their Christmas dinner. Perhaps we'll see them performing that little chore and also Frank Borman is to be having Christmas dinner. And immediately after dinner, Frank will, like so many other people after their Christmas dinners down here on Earth, will take a long nap. Frank's is to extend for about 7 hours. We're advised from our Goldstone station they're having a little trouble acquiring the spacecraft today, just momentarily - a momentary delay we hope. 104 hours, 15 minutes in elapsed time. All quiet. We haven't heard from the spacecraft about 4 or 5 minutes. Our EECOM [means INCO], the communications officer here on the console, advises we are not yet locked up on the High Gain Antenna and we'll certainly have to do that in order to receive a television signal. In relation to the Earth, the spacecraft is directly above the heart of South America; over 60 degrees west longitude and about 5 degrees south latitude. Flight Director advises it'll be several more minutes before we get the High Gain Antenna locked up. We have some small amount of tape backed up to this point; suppose we move that now. Now this was recorded about 5 to 7 minutes ago. Can we have that tape please?
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Present velocity is - our present distance from Earth is 166,743 [nautical] miles [308,808 km], moving at a velocity of 4,311 feet per second [1,314 m/s]. It's constantly - it's a constantly increasing value. Present weight of the spacecraft is 31,679 pounds [14,369 kg]. We're standing by waiting for the High Gain Antenna to lock up with our Goldstone antenna. And hopefully the antenna - at the big antenna in Madrid as well. And now our Communications Officer advises he's about - the spacecraft's about 3 degrees from establishing lock, and we ought to just get a picture any second now. For the newsmen who may be monitoring a picture of the Control Center, perhaps they can observe the Christmas tree down in front of the consoles between what we call the front trench and the wall displays.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+104:21:26 Borman: Mike, we're ready when you are.
+Now Borman says 'Mike, we're ready when you are.' and we're certainly ready.
+104:21:28 Collins: We're ready. [Pause.]
+104:21:35 Borman: Say again.
+104:21:37 Collins: Yeah, we're ready, Frank. We're all squared away and eagerly standing by.
+104:21:44 Borman: Oh boy. [Long pause.]
+104:22:12 Collins: You got your make-up on?
+104:22:17 Borman: Yeah. Have we got a picture?
+104:22:21 Collins: Negative, Frank. [Long pause.]
+104:22:43 Borman: How about now, Houston?.
+104:22:46 Collins: Negative, Frank. [Long pause.]
+104:23:19 Borman: We don't seem to have much luck today, but don't call for a repairman yet. It may be our camera here. [Long pause.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+We're understanding that the onboard camera takes a minute and a half, two minutes to warm up. At least that's the word of the Communications Officer. Here we go back now.
+104:23:46 Borman: Any results yet, Mike?
+104:23:49 Collins: Negative, Frank. It may be that it hasn't warmed up properly.
+104:23:56 Borman: Okay. We've had it on for a while. Are you getting our FM okay?
+At last, a television picture from the onboard camera is received on Earth.
+H.264 MP4 video file.
+104:24:04 Collins: Okay, Frank. There - we got it. It's coming in loud and clear. We look like we're looking at your hat and now the MDC. [Pause.]
+104:24:18 Borman: Okay. Well, good afternoon. This is the Apollo 8 crew. And how's it focusing now, Houston?
+104:24:27 Collins: It's looking good. If you can hold the thing still, there's sort of a time delay. Any motion at all ruins our picture.
+104:24:39 Borman: Tell me if there's any difference in it now.
+104:24:42 Collins: It's looking good now.
+104:24:46 Borman: Okay, fine.
+104:24:48 Collins: It looks like you're okay, but somebody else is upside down.
+104:24:54 Borman: Okay. That's right. That's Jim Lovell. What we thought we'd do today was just show you a little bit about life inside Apollo 8. We've shown you the scenes of the Moon, the scenes of the Earth, and we thought we'd invite you into our home. It's been our home at least for four days as you can see on the instrument panel. We - we mark off each day on the - on the instrument panel. We're four down, and we're working on the fifth day. Of course, we're all looking forward to the landing on Friday. Down here in the part of the spacecraft that we call the Lower Equipment Bay, we have the President's adviser on physical fitness, Captain Jim Lovell, about to undergo an exercise program that we do every day. You notice that he floats around very freely. He just bumped his head on the optics, used for our navigating. [Pause.] He's working with an exercise device that's designed to keep the muscles in shape. [Pause.] Now another very important function of our spacecraft is the computer, and I thought you might be interested in seeing what we have here, the displays that give us all the information about our burns, about navigating, and about the velocities that we use during entry and retro-fire on Earth-orbital missions. You can see it's controlled by a DSKY, or similar to a typewriter keyboard, and the things that go in and out of that are absolutely miraculous. It's done a fantastic job for us, and Jim Lovell's done an excellent job operating it. Now another very important thing, whether you're in space or the ground, is eating, and I've asked Bill Anders to show you how we eat up here in the flight. Pardon the picture while we move around here and change cameras. [Pause.] The food that we use is all dehydrated; it comes prepackaged in vacuum-sealed bags. You notice that all Bill has to do to keep it in one place is let go of it. Except for the air currents in the spacecraft, it would stay perfectly still. He gets out his handy, dandy scissors and cuts the bag. [Long pause.] The food is varied, generally pretty good. If that doesn't sound like a rousing endorsement, it isn't, but nevertheless, it's pretty good food. [Pause.] You can see that Bill is very clever. He does things swiftly. Actually, those food bags are stuck together because they've been vacuum packed in plastic.
+104:28:24 Lovell: What do you have today, Bill, for dinner?
+104:28:32 Anders: Well, here we have some cocoa; should be good. I'll be adding about 5 ounces of hot water to that. [Pause.] These are little sugar cookies, [pause] some orange juice, [long pause] corn chowder, [pause] chicken and gravy, and a little napkin to wipe your hands when you're done. I'll prepare some orange juice here. [Long pause.]
+104:29:37 Borman: Okay. You can see that he's taking his scissors and cutting the plastic end off the little [pause] - the little nozzle that he's going to insert the water gun into. The water gun dispenses half-ounce bursts of water per click. [Long pause.] Here we go; Bill has it in now, and the water's going in. [Long pause.] I hope that you all had better Christmas dinners today than us, but nevertheless, we thought you might be interested in how we eat.
+104:30:51 Collins: Rog. I haven't heard any complaints down here, Frank. We'll bring you up to speed on your food when you get back.
+104:30:59 Borman: Very good.
+104:31:01 Collins: Looks like a happy home you've got up there.
+104:31:04 Borman: Ordinarily, we let these drinks - Ordinarily, we let these drinks settle for 5 or 10 minutes, but Bill's going to drink it right now. Then, to get on with the program, he cuts open another flap, and you'll see a little tube comes out...
+104:31:32 Lovell: This is not a commercial. [Long pause.]
+104:31:36 Borman: ...and he drinks his delicious orange drink. Maybe I should say he drinks his orange drink. He's usually not that fast. Bill is really in a hurry today. Well, that's what we eat. Now another very important part of the spacecraft is the navigation station or the optics panel. And we - just a minute; Bill wants to say something.
+104:32:04 Anders: That's good; but not quite as good as good old California orange juice.
+104:32:09 Borman: Bill's from Florida.
+104:32:12 Borman: Okay. Now if you'll let me have the camera, Jim, and I'll show the people where you do most of your work. Okay. Bill (means Jim), can you explain it?
+104:32:25 Lovell: If I can clean up some of Bill's food around here, and have it away. [Long pause.] Down in this area is called the LEB or the Lower Equipment Bay, and we have our optics positioning equipment right here. We do all our navigation down here by sighting on stars and on horizons of either the Moon or the Earth. And this is where we find out exactly where we are in space, what direction, and how fast we are traveling. And our computer, as Frank has mentioned, takes information and tells us how to maneuver to get home safely. I work with the scanning telescope and the sextant, and occasionally, if I get too busy, I just sort of float out of sight and go up into the tunnel which is the tunnel to the hatch of the Lunar Module which we don't have onboard, of course. [Pause.]
+104:33:35 Borman: Now that's about all we have for today. I - each and every one of us wish each and every one of you a very Merry Christmas. And, we - I guess we'll see you tomorrow, and we'll be landing early Friday morning. Merry Christmas from Apollo 8.
+104:33:53 Collins: Roger. Merry Christmas from the ground, Apollo 8, and thank you very much for the guided tour. We really enjoyed it.
+104:34:00 Borman: Roger.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And at - this is Apollo Control. We started receiving pictures at 104 hours, 24 minutes. And the - we saw the wind up at 104 hours, 33 minutes, 55 seconds. This is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+104:35:11 Collins: Apollo 8, Houston.
+104:35:15 Borman: Go ahead, Mike.
+104:35:16 Collins: We're suggesting attitude deadband, Max, and rate, High.
+104:35:25 Borman: You're right, Thank you.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+104:45:29 Borman: Houston, Apollo 8.
+104:45:32 Collins: Go ahead, Frank.
+104:45:36 Borman: How soon will they tell us what effect that midcourse had on our trajectory, Mike?
+104:45:42 Collins: Oh, the longer we track, the smarter we'll get; but stand by one for a pertinent answer. [Long pause.]
+104:46:39 Collins: Apollo 8, Houston.
+104:46:43 Borman: Go ahead.
+104:46:44 Collins: Roger. Tentatively, your midcourse correction at 122 hours is zero; and in about an hour and a half, we'll have some track data to confirm that. Over.
+104:46:57 Borman: Okay. Thank you.
+104:46:58 Collins: Okay. [Pause.]
+104:47:09 Borman: We're going to have something to eat here, Mike; just taking it easy now.
+104:47:16 Collins: Rog. Understand, Frank. [Long pause.]
+104:47:39 Borman: Did you get another shotgun for Christmas? [Pause.]
+104:47:45 Collins: No, I'm missing enough with the one I have.
+104:47:50 Borman: That's what Edwin told me; I thought maybe you might want to try another one. [Pause.]
+104:48:00 Borman: What was it, 40 shots at four birds?
+104:48:02 Collins: Oh, negative, Frank. I'm 100 percent, one bird per box.
+104:48:12 Borman: Then you and I are in the same fix.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+104:51:18 Lovell: Houston, Apollo 8.
+104:51:22 Collins: Apollo 8, Houston. Go ahead.
+104:51:26 Lovell: It appears that we did a grave injustice to the food people. Just after our TV show, Santa Claus brought us some - a TV dinner each, which was delicious. Turkey and gravy, cranberry sauce, grape punch; outstanding.
+Journal contributor Harald Kucharek offers the following insight to the expression 'TV dinner', a pre-packed, ready made meal you only have to heat. "I knew this term from an old movie by American film maker Jim Jarmusch, Stranger than Paradise. It pretty well gives an explanation of the term:
+Willie (John Lurie): You're sure you don't want a TV dinner?
+Eva (Eszter Balint): Yes. I'm not hungry. Why is it called TV dinner?
+Willie: Um... You're supposed to eat it while you watch TV. Television.
+Eva: I know what a TV is. Where does that meat come from?
+Willie: What do you mean?
+Eva: What does that meat come from?
+Willie: I guess it comes from a cow.
+Eva: From a cow? It doesn't even look like meat.
+Willie: Eva, stop bugging me, will you? You know, this is the way we eat in America. I got my meat, I got my potatoes, I got my vegetables, I got my dessert, and I don't even have to wash the dishes.
+104:51:45 Collins: Roger, Jim. Glad to hear it. [Pause.] Now we're down here eating cold coffee and bologna sandwiches.
+Very long comm break.
+Jim is about to begin a series of navigational exercises to prove that a CMP can autonomously determine the spacecraft's state vector and thereby navigate home in case the radio link to Earth is lost. The state vector (a statement of the spacecraft's position and velocity at a given time) is central to having a mathematical understanding of their trajectory. Jim's method of determining the values within the state vector is to take measurements of the angles between a body's horizon (either Earth's or the Moon's) and a known star. Within the computer, Program 23 (P23) will aid him in this process and carry out the calculations that will lead to his version of the state vector, which Mission Control will then compare with their own ground-based determination.
+Pages 2-85 and 2-86 of the Flight Plan indicate six suggested stars for Jim to use though spaces are included if he decides to use alternative stars. This exercise should finish at about 106:45.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control, Houston here; 104 hours 59 minutes into the flight. And in between courses of the Christmas dinner, we've recorded this conversation.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+105:10:10 Borman: Houston, Apollo 8. [Pause.]
+105:10:15 Collins: Apollo 8, Houston. [Pause.]
+105:10:23 Collins: Apollo 8, this is Houston. Over.
+105:10:28 Borman: Roger. We've got an awful lot of these stars to mark on now, Mike, and we were - they were having some concern about the PTC. Will you let us know if we stay in one position too long, or if we have to knock off and do some PTC?
+105:10:42 Collins: Will do, Frank.
+105:10:45 Borman: Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+105:12:46 Collins: Apollo 8, Houston. We're monitoring your temperatures. The quads all look good. We'll continue to do so, and we expect no difficulty with them during the P23 work.
+105:12:59 Borman: Thank you. [Long pause.]
+105:13:12 Borman: Our highest tank temperature now is C.
+105:13:17 Collins: Understand; C is the hot one.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 105 hours, 26 minutes into the flight. A few minutes ago, Frank Borman told us that they had a number of navigational checks to make and their attitude might consequently put certain quads in the Sun for an overlong time. As a result, he asked us to keep an eye - keep an eye on the temperatures. Here's how the conversation went.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And our present distance from Earth is 163,838 nautical miles [303,428 km]; velocity, 4,360 feet per second [1,329 m/s]; current weight, 31,679 pounds [14,369 kg]. At 105 hours, 28 minutes into the flight; that's our status.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+105:48:39 Collins: Apollo 8, Houston. Over. [No answer.]
+105:49:12 Collins: Apollo 8, this is Houston. Over.
+105:49:17 Anders: Go ahead, Houston.
+105:49:20 Collins: Roger, Bill. We'd like to talk about your High Gain Antenna sometime when you get a minute.
+105:49:27 Anders: Okay. Just a second, Mike.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+105:50:47 Anders: About 5 minutes, Mike, we'll be done here.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+105:56:22 Anders: Hi Houston, Apollo 8. About the High Gain Antenna.
+105:56:26 Collins: Okay, Bill. We think it'd be an extremely worthwhile thing to find out how it operates in the Auto Reacq mode, and we propose running a test on it in that mode from 109 to 111 hours GET. Over.
+105:56:46 Anders: Okay. We'll do that.
+105:46:48 Collins: Okay. I have about a...
+105:56:50 Anders: We'll try it on the way out. [Pause.]
+105:56:58 Collins: We have a detailed procedure which we can read up to you anytime you're ready.
+The High Gain Antenna subsystem has a mode where, if it loses lock with Earth, it will slew to a preset pointing angle. The idea is that in a while, that angle will allow it to reacquire Earth. As expected, this mode is known as Reacq.
+High Gain Antenna control section of Panel 2.
+During Passive Thermal Control, as the spacecraft rotates around its long axis, the HGA, mounted on one side, will be unable to keep track of Earth as it reaches its end stops. If the angles have been calculated correctly, the antenna will then adopt a position that should bring Earth back into its reception pattern, at which point it should recommence tracking the ground station.
+105:57:07 Anders: Go ahead.
+105:57:10 Collins: Okay. We suggest the start time, 109 hours GET; stop time, 111 hours; and you'll be in a PTC. We're requesting a left roll rate, which we notice you've been preferring, a left roll rate of 1 revolution per hour, and this is in your present PTC attitude (i.e. pitch, 10 degrees, 010 degrees; and yaw, 45 degrees). Procedure is this: step 1, stop at roll angle 150 degrees; acquire - this is step 2 - acquire in Manual mode; 3, switch to Auto Narrow Beam; 4, make sure tracking in Auto mode then switch to Auto Reacq mode; 5, position the High Gain Antenna...
+105:58:17 Anders: Wait a minute, Houston.
+105:58:19 Anders: Whoa, whoa, whoa.
+105:58:21 Collins: Okay. Whoa, whoa. Standing by.
+105:58:23 Anders: I'm still starting. [Pause.]
+105:58:30 Anders: Okay. Make sure tracking in Auto and then what?
+105:58:34 Collins: Make sure tracking in Auto, and then switch to Auto Reacq mode. Over. [Pause.]
+105:58:46 Anders: Okay. Will do.
+105:58:48 Collins: Okay. Step 5, position High Gain Antenna pitch and yaw control to predicted Earth rise angles, and those angles are yaw, 50 degrees; pitch, minus 40 degrees. Over. [Pause.]
+105:59:18 Anders: Okay.
+105:59:19 Collins: Okay. Two more steps. Step 6, remain on High Gain Antenna in this mode for two revs. Do not switch to Omni anytime during these two revs, and maintain mode configuration of voice and data. We expect the loss of track should be no more than 15 minutes per rev. Over. [Pause.]
+105:59:51 Anders: Roger.
+105:59:53 Collins: And the final step, 7, if any problem arises, go back to your initial gimbal angles of 10 degrees pitch, 45 degrees yaw, and 150 degrees roll; reacquire and go to Auto mode. Over.
+106:00:18 Anders: Yeah, let's - I guess there ought to be a step 4A which says start roll again, right? [Pause.]
+106:00:29 Collins: That's affirmative. Excuse me there, that's affirmative.
+106:00:38 Anders: Okay. If - let's see, if we - I don't understand your last comment. If we get into a problem, you want us to go back to 150 degrees roll?
+106:00:50 Collins: Well, all we want you to do is go ahead and reacquire in the Auto mode, Bill. And it looks like that would be one way of doing it. But all we're saying is, you know, if you want to talk to us about something, or you have any other problems, or you don't like the way it looks, anything at all, just go ahead and reacquire in the Auto mode.
+106:01:10 Anders: Yeah, why don't we just say if we do have problems, it doesn't pick it up when it's supposed to, give it a good try, and then call you up on the Omnis or position ourselves and we'll talk about it and try for another two revs.
+106:01:21 Collins: That's just fine, Bill.
+106:01:29 Anders: Okay. It's worked. We tried it once or twice on the way out, but the one modification is once it did break lock, and go to its manual position, but I switched to the Omnis in between. That sounds fine.
+106:01:45 Collins: Bill, could you run through that again? We're not reading you too loud, and would you say again what you tried on the way out, please.
+106:01:55 Anders: On the right way out, they gave us some Reacq angles which we used, and once it broke lock and repositioned itself, why, it went over to the Omnis and waited till we got to near breaking lock again and switched back and snapped right in there [Pause.].
+106:02:20 Collins: Roger. Thanks. We copy. [Pause.]
+106:02:28 Anders: We have a few more stars to get, and then we'll give it a try.
+106:02:33 Collins: Roger.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control Houston, here; 106 hours, 10 minutes into the flight, and here's what's been going on.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+106:23:15 Collins: Apollo 8, Houston. Over.
+106:23:20 Anders: Go ahead, Houston.
+106:23:22 Collins: Rog, Bill. We got a bunch of tapes of some of your favorite music down here. You be interested in hearing a little background on the S-band?
+106:23:31 Anders: Go ahead.
+106:23:32 Collins: Okay.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+106:27:22 Lovell: Houston, Apollo 8.
+106:27:24 Collins: Apollo 8, Houston. Go ahead.
+106:27:28 Lovell: Roger. For some reason, we suddenly got a Program 01 and a 'No Attitude' light on our computer.
+106:27:35 Collins: We confirm that. [Long pause.]
+The Apollo Guidance Computer (AGC) is an astonishing piece of kit for its time. It is a powerful, small, multitasking machine that pushed the state of the art in computers. However, its interface to its human operator is unsophisticated, even clunky, and very unforgiving of errors. This, combined with the fact that the crew are sleep-deprived and well outside of a natural circadian rhythm has led to Jim unintentionally reinitialising it; putting it in a mode that is meant for the time prior to launch from Earth.
+Jim is on page 2-86 of the Flight Plan and is about to measure the angle between star 01 (Alpheratz, Alpha Andromedae) and the lunar horizon that is nearest the star in angular terms. As detailed on page G-28 of the CMP Checklist, Jim has to go back to the beginning of P23 as if he was coming from another program. He enters Verb 37 (please change program to...), 23, Enter. Then he has to enter the star code for Alpheratz (01) which is achieved by Verb 5 (please enter star code...), 01, Enter. Unfortunately, he misses out the program number (23) and Verb 5, and instead enters the star code (01) directly after Verb 37 which makes the computer go to the beginning of program 01.
+It is fortunate that Apollo 8 is on its long coast home without critical time-dependent manoeuvres immediately ahead of it. Jim has inadvertently entered P01, the prelaunch or service/initialisation program whose stated function is 'to initialise the platform for the prelaunch programs' and 'to provide an initial stable member (i.e. the platform) orientation for gyrocompassing (P02).' This takes the platform away from its current orientation per the LOI-2 REFSMMAT and it also disturbs the REFSMMAT. The loss of the inertial platform causes the "No Attitude" (NO ATT) light to illuminate on the DSKY. Having realised his mistake, Jim will work with Mission Control through a gradual reinstatement of the guidance system. Thankfully, he has plenty of time available for this task.
+106:27:51 Collins: Stand by one, Jim. We're working on a procedure for getting you cranked back up again.
+106:27:57 Lovell: Okay.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+106:29:58 Collins: Apollo 8, Houston.
+106:30:02 Lovell: Go ahead.
+106:30:04 Collins: Okay. Jim, while we're working on this procedure, we'd like to know did you select 01, did you get a Verb 37 Enter. 01 Enter? [Pause.]
+106:30:15 Lovell: Let's see, I'm not too sure, Mike. I might have done that, yeah.
+106:30:20 Collins: Okay.
+106:30:21 Lovell: We have star 01 coming up, now that might have been the reason.
+106:30:25 Collins: Okay. We understand. Why don't you just hold what you've got on your DSKY, and we'll be with you shortly.
+106:30:29 Lovell: Okay.
+Comm break.
+For his 2018 book, Rocketmen, written for the 50th anniversary of the flight, author Robert Kurson got excellent access to the Apollo 8 crew. In Kurson's version of this event, the spacecraft began to rotate, trying to follow an attitude reference that, itself, had lost orientation. Bill had tried to counter the rotation, but was himself following an 8-ball that was tumbling. Frank had been asleep and was woken by the commotion. Furious at the situation, he began to take the controls himself. Kurson describes there being a lot of anger at this error; Frank and Bill at Jim, and Jim angry at himself for making the error. This does not come across in the air/ground transcript. Jim eventually used the Moon and Earth to locate the spacecraft's orientation as Mike Collins funneled information from the flight controllers to the crew to get the spacecraft's attitude reference back.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+106:32:29 Collins: Apollo 8, Houston.
+106:32:33 Lovell: Go ahead.
+106:32:34 Collins: Rog. Could you or Bill give us a better Omni antenna, please?
+106:32:42 Lovell: Stand by.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+106:37:53 Collins: Apollo 8, Houston. Over.
+106:37:56 Borman: Go ahead, Houston. Apollo 8.
+106:37:58 Collins: Okay. Frank, our procedure is to select P00, and from P00 go to P51, and get a platform alignment. After you've done that, we will send you up a P27, a REFSMMAT, and then you can do P52 REFSMMAT options, and you'll be back in business. Over.
+106:38:21 Borman: Okay, Mike. Thank you.
+106:38:22 Lovell: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+106:47:55 Borman: Houston, this is Apollo 8. [No answer.]
+106:48:12 Borman: Houston, Apollo 8.
+106:48:15 Collins: Apollo 8, this is Houston. Go ahead. [No answer.]
+106:48:24 Collins: Apollo 8, this is Houston. Say again. Over.
+106:48:29 Borman: Okay. We've completed a P51 now. You want us to try a P52, or do you want us to wait till we can put a REFSMMAT in?
+106:48:39 Collins: Stand by one, will you, please, Frank?
+106:48:43 Borman: Roger. [Pause.]
+106:48:50 Collins: We're putting together a P27 load for you now, Frank; that's the reason for the delay. We just want to make sure we don't overlook anything before we send it up to you.
+106:49:02 Borman: Okay. We'll just sit tight then. We've got a good P51. We'll just wait till you put in a REFSMMAT, and then, of course, we'll fine align over to that, right?
+106:49:14 Collins: That's right, that's exactly right. Just stand by. [Long pause.]
+106:49:45 Borman: Mike, this is Frank again.
+106:49:47 Collins: Go ahead.
+106:49:50 Borman: I suggest that we go ahead while you're doing that, do a P52 here, and let it do an automatic and just tweak this up. Jim had to use Rigel and Sirius, and they're pretty close together. And although we got a zero difference for the star angle, that might not be a bad idea just to try a 52 here.
+106:50:08 Collins: We'd rather not do that, Frank. Stand by one.
+106:50:14 Borman: All right. We won't do a thing. [Long pause.]
+106:50:47 Collins: Frank, we - we feel that procedure that you're talking about is - is really not required. It's sort of wasting your time. You'd still have to - upon completion of that, we'd have to send you a new REFSMMAT, and you'd have to go ahead and do a P52 to that REFSMMAT in addition. Over.
+106:51:07 Borman: We understand that. Go ahead. We'll wait for your REFSMMAT.
+106:51:09 Collins: Okay. Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 106 hours, 52 minutes into the light - into the flight. We've had a long quiet period this afternoon. The ground - on the ground here, we're working with Jim Lovell. Checking out his computer programs and comparing them against ours, sending him some - some programs so they can be put in and compared. All in all, sort of a feeling of relaxed vigilance, I would say. No major activities going on. Frank Borman should be sleeping, but he's not. He hasn't turned in yet. And a little - before too much longer goes by, we plan to play the crew a little music, perhaps some Christmas Carols. We have some conversation backed up here, we'll play it for you now.
+The PAO announcer is playing down Jim's error on the computer.
+106:52:11 Collins: Apollo 8, Houston. If you'd go P00 and Accept, we have our P27 ready. We'll send you up a REFSMMAT. Over.
+106:52:20 Borman: Roger. P00 and Accept.
+106:52:23 Collins: Roger. [Long pause.]
+106:53:15 Collins: Apollo 8, Houston. Frank, we'd like to make sure you understand, when you do your P52, you want to select option 1, the preferred option, because those are the registers we're blinking now with this P27.
+106:53:31 Borman: Roger. Option 1; thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+106:55:08 Collins: Apollo 8, Houston. We got a good load in; it's your computer. Go to Block.
+106:55:16 Lovell: Okay.
+106:55:17 Borman: Roger. Stand by.
+106:55:19 Collins: And you can go ahead with your P52 at your convenience.
+106:55:24 Borman: We're going ahead right now.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+106:58:47 Collins: Apollo 8, Houston. Over.
+106:58:49 Borman: Go ahead, Houston. Apollo 8.
+106:58:51 Collins: Roger. When Jim gets to the end of P52, he's got a flashing Verb 37. We'd like him to not proceed, to hold at that point; we'd like to read some bits and pieces out of the computer at that time. Over.
+106:59:10 Borman: Roger. [Pause.]
+106:59:20 Collins: Apollo 8, if Anders has got time to give us a countdown, could we get the Biomed switch from center to left?
+106:59:33 Anders: Two, one...
+106:59:34 Anders: Mark.
+106:59:38 Collins: Did you take that 1.7-second time delay into account?
+106:59:44 Anders: Sorry about that. [Long pause.]
+107:00:38 Lovell: Okay. Houston, you have it. [Pause.]
+107:00:49 Collins: Thank you, Jim. And I'll give you an estimate here on how long we want to hold at this point; it won't be too much longer.
+107:00:58 Lovell: Rog.
+107:01:02 Lovell: It was my goof; I must have put in 3701 instead of 3723 and star 01.
+107:01:11 Collins: Rog.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+107:03:04 Collins: Apollo 8, Houston. We have got a Flight Plan suggestion for you.
+107:03:11 Borman: Go ahead.
+107:03:13 Collins: Go ahead and delete the remainder of these P23s that you're working on now, go back to PTC attitude, and then pick up where it says 108 hours in the Flight Plan to pick up again there with your P23, or if you prefer to slip that time a couple of hours, if you want to get some rest in between.
+107:03:37 Borman: I think that's a good idea; we'll do that.
+107:03:40 Collins: Okay. [Long pause.]
+107:03:59 Lovell: Mike, what does this do to our state vector?
+107:04:02 Collins: Not a thing. We've looked at your state vector, and it's good.
+107:04:08 Lovell: So we didn't lose all the nav that we were just - had accomplished, right?
+107:04:16 Collins: Stand by one on that, Jim. I don't know; I'm checking.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+107:05:44 Collins: Apollo 8, Houston.
+107:05:49 Lovell: Go ahead.
+107:05:51 Collins: Roger. I say again, your state vector is just fine; it's still tickety-poo, and the reason we're holding here is that we're checking to see whether if any P23 information was lost. That's reason one, and the second reason is that your W-matrix shares some computer memory cells with P01, and we're getting a clarification on the status of your W-matrix before we proceed. Over.
+107:06:22 Lovell: Roger, Michael. [Long pause.]
+107:06:53 Borman: We'll go ahead and start heading over to the PTC attitude.
+107:06:57 Collins: Very good. [Long pause.]
+107:07:57 Borman: Do you need the High Gain any more, Mike? [Pause.]
+107:08:07 Collins: Negative. We don't need it any more.
+107:08:13 Borman: Okay.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Very long comm break.
+107:18:51 Collins: Apollo 8, Houston.
+107:18:54 Borman: Go ahead.
+107:18:56 Collins: Roger, Frank. We're coming up on time for an oxygen purge on all three fuel cells. Might be a good time to do it while we're waiting here.
+107:19:04 Borman: Fine. [Long pause.]
+107:19:31 Borman: All right. Mike, we're going to purge the three fuel cells, oxygen only.
+107:19:35 Collins: That's correct. Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control here at 107 hours, 19 minutes into the flight. And the long quiet afternoon continues with Jim Lovell looking at his computer programs and us looking at his computer program, and essentially nothing new to report. Here's the conversation that ensued since our last report.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+107:23:44 Collins: Apollo 8, Houston. That's enough on fuel cell number 1; if you'd start on 2 please.
+107:23:51 Borman: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+107:32:22 Collins: Apollo 8, Houston. We're on low bit rate now. Last time we saw you, you were still purging. Over.
+107:32:31 Lovell: Roger. [Garble].
+107:32:35 Collins: You're unreadable, but request that you end your purge.
+107:32:42 Lovell: Roger. We ended our purge.
+107:32:45 Collins: Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+107:38:37 Collins: Apollo 8, Houston. Over.
+107:38:42 Lovell: Go ahead, Houston.
+107:38:44 Collins: Roger, Jim. I've got a short procedure I'd like to read up to you on your DSKY, and I'd like to explain what it is. Your W-matrix shared some memory locations with P01; therefore, the W-matrix that you have right now is not a good one, and we would not want you to continue your P23 sightings with that matrix. So this procedure I'm going to give you is going to cause the matrix to reinitialize itself prior to your next P23, when you go into P23. And this will put you back with the value of the W-matrix which you loaded after TEI, you remember, that 3303 thing. And if this has any...
+107:39:37 Lovell: Roger.
+107:39:38 Collins: ...further effects on the Flight Plan, we'll - we're in the process of sorting that out, and if need be, we'll send you up a revised sighting schedule later, both for the comm and loss-of-comm case. Over.
+107:39:53 Lovell: Okay. Stand by, and I'll get something to copy with.
+107:39:57 Collins: Okay. [Long pause.]
+107:40:09 Lovell: Okay. Go ahead.
+107:40:11 Collins: Okay. Insert, without releasing the flashing Verb 37, the following: Verb 25 Noun 07 Enter, 77 Enter, 40 Enter, Enter, Verb 37 Enter, 00 Enter. Over. [Pause.]
+107:40:49 Lovell: Understand. We insert Verb 37 without releasing, is that correct?
+107:40:56 Collins: Rog. You should have flashing 37 on your DSKY now, and without releasing that flashing 37, go ahead with the Verb 25, et cetera.
+107:41:08 Lovell: Oh, Roger. Okay. I see what you mean. Okay. We'll insert Verb 25, Noun 07 Enter, 77 Enter, 40 Enter, Enter, then reinsert Verb 37 Enter, 00 Enter.
+107:41:24 Collins: That's all correct. And if you've got any questions about that, we would be happy to answer them.
+107:41:35 Lovell: Roger. Are we cleared to do that now?
+107:41:37 Collins: That's affirmative, Jim.
+107:41:39 Lovell: Rog. [Long pause.]
+107:42:29 Borman: Hey, Mike, this is Frank.
+107:42:32 Collins: Go ahead, Frank.
+107:42:36 Borman: Is there any danger that this might have screwed up any other part of memory that would be involved with entry or anything like that? [Pause.]
+107:42:53 Collins: Frank, all indications are that there is absolutely no problem with anything in the computer memory other than the W-matrix. However, we are continuing to look at it, and if there is any doubt in our mind, we will ask you to dump the memory locations for us later. Over.
+107:43:15 Borman: Okay. Fine.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control, Houston here; 107 hours, 44 minutes into the flight. And the exhaustive business of checking the onboard computer continues. We're 157,989 [nautical] miles [292,596 km] from home, moving at a velocity of 4,464 feet per second [1,361 m/s]. Our weight is down to 31,679 pounds [14,369 kg]. Here's how the conversation's been running.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+107:56:41 Collins: Apollo 8, Houston.
+107:56:45 Lovell: Go ahead, Houston.
+107:56:47 Collins: Roger, Jim. We thought you might be interested in knowing, based on 2½ hours worth of track after your last midcourse, and looking ahead, we're predicting that the midcourse correction at 122 hours will be less than 1 foot per second. And keeping on going to Entry Interface minus 2 hours, we're predicting a 2-foot-per-second midcourse at that time. Now those numbers will be refined; we'll get about another 8 hours of track on you before we amend them. Over.
+107:57:21 Lovell: Sounds like we're on a pretty good trajectory.
+107:57:25 Collins: Can't hardly beat it. [Pause.]
+107:57:33 Lovell: After we do these next P23s, I'll see what our P37 gives us. What's that midcourse, 122 hours, that has practically zero?
+107:57:44 Collins: Yeah. It's looking to be less than 1 foot per second, about four-tenths of a foot per second right now. And then the one before entry, at 2 hours before Entry Interface, is looking to be about 2 feet per second. [Pause.]
+107:58:00 Lovell: Roger. Okay. Well, I'll - I'll run a P37, and we can just compare the difference.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+108:07:59 Anders: Houston, Apollo 8. Over. [No answer.]
+108:08:45 Anders: Houston, Apollo 8. Over.
+108:08:50 Collins: Apollo 8, Houston. Over.
+108:08:53 Anders: Roger. You got the J.O.D. back on watch again. We want to make sure we don't overdo the star sightings at the expense of thermal control, so you might keep an eye on us and give us a No-Go if we start getting too hot on one side.
+108:09:09 Collins: Roger. Will do, Bill. Has Jim gone to bed?
+108:09:18 Lovell: No, I'm right here, Mike. We're going to start doing cislunar nav right now, and Bill's up in the left-hand seat.
+108:09:28 Collins: Rog. Understand you're going to do some P23s now, huh? We thought you were going to take a rest and do them later.
+108:09:38 Lovell: No, Frank's asleep now. We'll get these out of the way. So I'm going over to do a trunnion alignment at this time, and then we'll go into the P23. [Pause.]
+108:09:56 Collins: Okay, Jim. There's one thing before you get started on the P23. What we told you before, we still think is absolutely correct. The only thing in the computer memory that is changed by that P02 [means P01] is the W-matrix. However, as an additional precaution, we'd like to dump the computer memory and go through it and check it bit by bit and make sure everything is exactly copacetic. Over.
+108:10:31 Lovell: Okay. Do you want to do that now?
+108:10:34 Collins: Affirmative. We're getting Goldstone configured for it; it'll be just a minute. And while we're doing that, I can read you the procedure if you're ready to copy.
+108:10:43 Lovell: Okay. Stand by one, and I'll be ready to copy pretty soon.
+108:10:47 Collins: Thank you. [Long pause.]
+108:11:01 Lovell: Go ahead.
+108:11:03 Collins: Okay. We'd like a Verb 01 Noun 01 Enter, 333 Enter, and then we'd like you to read us register 1. Register 1 we expect will be a 10000, 1 0 0 0 0. And if register 1 is equal to that, then what that means is that the computer will dump its erasable memory twice. That's 10,000 numbers, twice number for the erasable memory dump. If it's not reading 10000, then we'll ask you to make it read 10000 by going Verb 21 Noun 01 Enter, 333 Enter, 10000 Enter. And after you've done that, then the dump Verb is Verb 74 Enter, and that will automatically dump the total erasable memory twice, and return you to the proper configuration.
+108:12:13 Lovell: Okay. The procedure will be Verb 01 Noun 01 Enter, 333 Enter, and read out register 1. If it's 10000, the memory - the computer will then dump the memory twice if properly configured. If not, we have to load in 10000, and we do that by going Verb 21 Noun 01 Enter, 333 Enter, 10000 Enter, and Verb 74 Enter. Now if register 1 does read 10000, we'll still have to do the Verb 74 Enter, is that correct?
+108:12:49 Collins: That's affirmative. That Verb 74 Enter is what starts the dump. Then we, just prior to that, want to make sure we got 10000 in register 1. And just hang loose one on Goldstone here; we're getting it configured.
+108:13:10 Anders: Roger. You need the High Gain, Mike?
+108:13:13 Collins: Negative. We won't need the High Gain.
+108:13:17 Anders: Okay.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And this is Apollo Control, Houston at 108 hours, 12 minutes into this flight. Frank Borman is now retired for a night's sleep. Jim Lovell is still going through his computer check with the ground, and Bill Anders is up and about. Refers to himself as the JOD, which I believe means Junior Officer of the Day. Here's some conversation.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+108:15:21 Collins: Apollo 8, Houston. Goldstone is all ready, and you can go ahead with that procedure, Jim.
+108:15:28 Lovell: Roger. [Long pause.]
+108:15:55 Lovell: Okay. Register 1 reads 10000.
+108:15:58 Collins: Okay. Thank you. [Pause.]
+108:16:07 Lovell: And do you want the Verb 74 now?
+108:16:09 Collins: That's fine.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+108:17:59 Collins: Apollo 8, Houston.
+108:18:03 Lovell: Go ahead.
+108:18:04 Collins: Roger. Have you done the Verb 74 Enter yet?
+108:18:07 Lovell: No, I'm waiting for your command.
+108:18:10 Collins: Okay. I'm sorry; you must have missed it. You can go ahead right now, Jim; we're all set.
+108:18:17 Lovell: Roger. Verb 74. [Pause.]
+108:18:23 Lovell: On its way down.
+108:18:25 Collins: Thank you.
+Comm break.
+What is "on its way" is a complete dump of the computer's 2-kiloword erasable memory. This will be done twice, presumeably to confirm the accuracy of the process.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control here. Spacecraft's 156,460 [nautical] miles [289,764 km] from Earth, moving now at a speed of 4,493 feet per second [1,369 m/s]. And at 108 hours, 19 minutes; that's our status.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+108:20:18 Collins: Apollo 8, Houston. Jim, the dump is complete. You can go ahead and do whatever you like with your computer now.
+108:20:26 Lovell: Roger. [Pause.]
+108:20:34 Anders: We're going to be restricted to P23 for a while.
+108:20:38 Collins: Just don't let Anders touch the computer.
+108:20:45 Anders: I haven't yet, and I don't plan to.
+108:20:50 Collins: Roger. We concur with that decision.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+108:22:17 Collins: Oh, we've just been honored by the presence of Mr. Neil Armstrong who is now standing by the CapCom console, alert and eager.
+108:22:28 Lovell: Roger. Ask him how the stock market's doing.
+108:22:31 Collins: Tears are rolling down his face.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+108:26:25 Collins: Apollo 8, Houston.
+108:26:29 Anders: Go ahead.
+108:26:30 Collins: Roger. Well with the computer, we sort of got behind in our promise of music. are you still wanting it?
+108:26:38 Anders: Go ahead.
+108:26:40 Collins: Okay.
+108:26:44 Anders: Just so Neil doesn't accompany it.
+108:26:49 Collins: I'll enquire. [Long pause.]
+108:27:07 Collins: Neil says you're in luck; he has a cold today. [Long pause.]
+108:27:14 Anders: Okay.
+Comm break.
+Neil Armstrong is the backup Commander of Apollo 8. On his own Apollo flight, Apollo 11, he shows an unusual taste in music when he takes a cassette tape with him that includes a piece of music played on a theremin.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+108:29:28 [Music of "Joy to the World" and a choir singing another song.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 108 hours, 29 minutes. The crew has asked for some music to pass away the hours on this Christmas evening. Here's how the conversation is going and here's - here's what we're piping up.
+108:32:09 Anders: Must be the wrong speed. [Long pause.]
+108:33:01 Anders: Houston, Apollo 8. [Long pause.]
+108:33:21 Collins: Apollo 8, Houston. Over.
+108:33:25 Anders: Roger, Mike. That's real nice, but if you don't mind, you'd better hold it off until we get this tracking test done. [Garble].
+Mission Control cut the music feed to the spacecraft.
+108:33:45 Collins: Roger, Bill. We concur. [Pause.]
+108:33:54 Anders: Sounds like it is [was] being run at the wrong speed. [Pause.]
+108:33:58 Collins: It doesn't sound very good to us either.
+108:34:02 Anders: Coming through nicely, though, Mike. You're coming through nicely, Mike; maybe you could just sing a little bit. [Pause.]
+108:34:10 Collins: Yeah, I'll get my harmonica.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control here. Apparently, the music didn't sound at just the right speed to Bill Anders, or it may have somehow interrupted the other activities on board. Whatever the reason, he gave us a call and asked us to stop it with the music, so we have. At 108 hours, 34 minutes into the flight; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control, Houston here at 108 hours, 54 minutes into the flight. Since our last report we've had no communications with the crew. Very, very quiet. These hours this afternoon, as you might have assumed, might be contrasted with the last several revs, perhaps earlier than that. Maybe the last 10 or 12 hours of a long-duration mission. The crew feels - senses that it is all down hill, which of course, it is. The only thing that is different here is, that we still have 37 hours to go, and - before splashdown. But subjectively, it's very much like the - the last revs of an Earth orbital mission and a fairly extensive one. We're 154,900 [nautical] miles [286,875 km] from Earth. Speed - velocity building to 4,523 feet per second [1,379 m/s]. And at 108 hours, 55 minutes; that's our status. By the way we are planning a press conference this evening - a press briefing - if reporter interest warrants it, shortly after 9 pm Houston time in the auditorium. This is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy Bernard Scrivener, Honeysuckle Tracking Station.]
+108:56:36 Anders: Houston, Apollo 8.
+108:56:39 Collins: Apollo 8, Houston. Over.
+108:56:42 Anders: Roger, Mike. How are our temperatures looking across the Service Module? Could it be Go here for a shoot in another couple sets on this next start?
+108:56:53 Collins: Yeah, I'm monitoring them. They look real good to me, Bill. Just a second and I will check with the experts. [Pause.] Yeah, you're just fine, Bill, on your quad temps.
+108:57:08 Anders: And SPS is okay?
+108:57:13 Collins: Affirmative. SPS is looking good also.
+108:57:19 Anders: Okay. [Pause.]
+108:57:28 Collins: Apollo 8.
+108:57:32 Anders: Go ahead, Mike.
+108:57:34 Collins: Roger, Bill. Because of this W-matrix thing, we'd like to add some more star sightings when Jim gets through with the series that he's currently on. And I have the information relevant to them when you're ready to copy.
+108:57:53 Anders: Stand by. [Pause.]
+108:58:00 Anders: Go ahead.
+108:58:02 Collins: Okay. This is - we'd like him to do them, as I say, whenever he is through the series he's on now, and they're the same ones that are printed on your Flight Plan page 2-86. The first one, we'd like to increase to two sets; the second one, we'd like to increase to two sets, making a total of five sets on those stars on page 2-86. Do you copy?
+108:58:34 Anders: Roger. [Pause.]
+108:58:44 Collins: Okay. The other change...
+108:58:45 Anders (talking over Collins): How come we have to...
+108:58:45 Collins:...is on an elapsed time of 120 - a hundred and twenty hours: we'd like to increase that P23 work, the first star, change from one set to two sets. The second star from one to two...
+108:59:07 Anders: Wait a minute. Wait a minute, Mike.
+108:59:08 Collins: Okay.
+108:59:12 Anders: Okay. Looking for the page; I got it now.
+108:59:16 Collins: Okay. The first star, make two sets; second star, two sets; for a total of five sets.
+108:59:25 Anders: Okay.
+108:59:27 Collins: And if you're in a copying mood, I have, would you believe, a couple of changes to your entry checklist which I'd like to read up to you sometime today or tomorrow.
+108:59:43 Anders: Okay. Why don't we get them here after this one set of stars.
+108:59:46 Collins: Very good. [Long pause.]
+109:00:01 Collins: Roger, Bill. I was just given a new one here. While you've got your Flight Plan out, this would be 130 hours GET, and you got that page?
+109:00:15 Anders: I just put it away, but I'll get it out again. Wait a minute.
+109:00:17 Collins: Yeah, I'm sorry about that. [Pause.]
+109:00:24 Anders: We're neat up here. Not sloppy. [Pause.]
+109:00:33 Collins: Roger. At 130 hours GET, star 02: Where it is printed two sets, we'd like to make that only one set; and then we would like to add star 11, star one - one, lunar far horizon, two sets. Over. [Pause.]
+109:01:05 Anders: Okay.
+109:01:08 Lovell: Hey, Mike. Is MIT slipping in the back door?
+109:01:14 Collins: Not - Not really, Jim. It has to do with - with this W-matrix. You remember that we reinitialized it in lunar orbit, and then we worked on it as you came back on the previous sightings you made, and now we've - we've gone and reinitialized it again at this point. And we'd like to restore it to its former size and shape and what-not.
+109:01:40 Lovell: Okay. I understand.
+Mike is gently reminding Jim that this procedure is still related to Jim's accidental call up of Program 01 and Jim immediately acknowledges.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+109:12:12 Anders: Houston, Apollo 8.
+109:12:15 Collins: Go ahead, Jim.
+109:12:20 Anders: Mike, I've got the entry checklist out now. You want to give me that update?
+109:12:24 Collins: Okay, Bill. Thank you. The first one is on page E-7.
+109:12:32 Anders: Okay. Stand by. [Long pause.]
+109:13:08 Anders: Okay, Mike. Ready to go. Now I know why Neil was over there.
+109:13:14 Collins: No. You can't blame it on him. Page E-7 under CM RCS preheat, halfway down where it says "Up Telemetry, Block" - Are you with me?
+109:13:31 Anders: I'm with you.
+109:13:33 Collins: Okay. After Up Telemetry, Block, insert "RCS CM heaters, circuit breakers, two, Close." [Long pause.]
+109:13:58 Anders: Okay.
+109:14:00 Collins: All...
+109:14:01 Anders (talking under Collins): Let me get them on both [garbled] we're ready.
+109:14:01 Collins: ...they are doing there is just making sure you get your heater circuit breaker closed. The next one is on page E-9. [Long pause.]
+109:14:25 Anders: Ready to copy.
+109:14:27 Collins: Roger. On E-9 up near the top under "terminate CM RCS preheat" in the middle there, after "CM RCS heaters, Off, LMP confirm," insert "RCS CM heaters, circuit breakers, 2, Open." That's just opening those two breakers back up.
+109:14:54 Anders: Roger.
+109:14:56 Collins: And the last change is on page 14. [Long pause.]
+109:15:20 Anders: Okay.
+109:15:22 Collins: This one should be a favorite of yours. Near the top where it says "tape recorder, Record, Forward" - Are you with me?
+109:15:35 Anders: Rog.
+109:15:36 Collins: Insert between "tape recorder" and "Record, Forward," insert "Command Reset, high bit rate." Over. [Long pause.]
+109:16:08 Anders: Okay. We got them.
+109:16:10 Collins: Thank you, Bill. That's all.
+109:16:14 Anders: Okay, Michael. [Pause.]
+109:16:24 Collins: How's it going? Do you want any systems dope?
+109:16:29 Anders: Yeah, they hanging together? I haven't even looked at them for the last half an hour. I've been over here in the Sun.
+109:16:35 Collins: Yeah, they sure are, Bill. They can get you any specific numbers, what-not, if you're interested. [Pause.]
+109:16:50 Anders: Well, I hate to say I wasn't interested, but I don't need any specific numbers right now.
+109:16:56 Collins: Okay. Very good. We concur. [Pause.]
+109:17:03 Collins: That's an aerospace first. [Pause.]
+109:17:10 Anders: On second thought, how's the evaporator outlet Temp doing? [Long pause.]
+109:17:25 Collins: Forty-six degrees, Bill.
+109:17:31 Anders: Cancel that aerospace first.
+109:17:35 Collins: Right. [Long pause.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control, Houston here; 109 hours, 17 minutes into the flight. And we have had a little chatter with the crew, Bill Anders primarily sitting over in the driver's seat. Here's how that is going.
+109:17:49 Collins: How's Magellan coming along?
+109:17:55 Lovell: I'm getting a crossed eye looking at this thing. Hey, Mike, as a matter of interest, I've been just looking at the Earth for the last hour and a half and there's two tremendous storms down there. Not too sure where they are, but the vortexes are - are huge.
+109:18:14 Collins: Rog. Understand.
+109:18:15 Anders: That's your first space weather report. That's a manned weather forecast from space, and he's not so sure where it's raining, but it is raining somewhere.
+109:18:25 Collins: Rog.
+109:18:26 Anders: I'd like to point out that Magellan is not a good analogy. I'd also like to point out that Magellan is not a good analogy. I don't think he made it around.
+Ferdinand Magellan is commonly recognized as the first man to circumnavigate the Earth in 1521, but in fact he was killed en route, though a portion of his remaining crew were able to complete the journey.
+109:18:36 Collins: Very good.
+109:18:39 Anders: How about Alfred Chichister?
+109:18:44 Collins: Roger. Alf. [Long pause.]
+Bill is likely referring to Francis Chichester, a British lone yachtsman who circumnavigated the world during 1966 and 67.
+109:19:27 Collins: I don't know how much detail you can see, Jim, but your sub-spacecraft point is out in the middle of the Pacific Ocean about halfway between Australia and South America. [Pause.]
+109:19:45 Lovell: Rog. Okay. The next time I take a look, I'll see what I - I see we're maneuvered to the Moon now. [Pause.] We'll see if we can see our shadow. [Pause.]
+109:20:06 Anders: Seriously, has anyone been able to see the spacecraft from Earth, Optically? [Pause.]
+109:20:18 Collins: We don't think so, Bill. We haven't been able to confirm that they have.
+109:20:26 Anders: Okay. [Pause.]
+109:20:33 Collins: You're coming right down the center line of the airways. If you see the airliners going the other way, you better move over.
+109:20:42 Anders: That's the first time old Lovell's been on track for a long time.
+109:20:48 Collins: Rog. [Pause.]
+109:20:53 Lovell: Mike, an interesting viewpoint of the nav sightings: maneuvering with the minimum impulse controller on the way home is a lot more difficult than going out because of all the fuel we don't have now. Every little pulse really moves the spacecraft around.
+109:21:08 Collins: Rog. Understand you have too much control authority.
+109:21:14 Lovell: Now, yes.
+109:21:19 Anders: Let Bruce beware.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+109:23:48 Collins: Apollo 8, Houston.
+109:23:52 Lovell: Go ahead.
+109:23:54 Collins: Roger, Jim. Dick Underwood's over here. They're getting their film processing all prepared for your film when you get back and tentatively, can you give us some idea of how much you exposed?
+109:24:08 Lovell: Let me introduce you to the great film man. He'll tell you all about it.
+109:24:12 Collins: Very good.
+109:24:15 Anders: Tell him I hope he can account for haze through the windows. We - on our departure from the Moon, we tried to burn up as much as - of what we had left over, which was quite a bit, and tell him I hope he can develop the high-speed film taken at normal film settings. [Long pause.]
+109:24:47 Collins: Roger. Understand you used just about everything and a lot of the high speed; you used it to normal settings.
+109:24:56 Anders: Roger. We got it in the wrong bucket there a couple of times.
+109:24:59 Collins: Okay. [Pause.]
+109:25:06 Anders: We never did have a chance to do any night Earthshine stuff. [Pause.]
+109:25:14 Collins: Say again about the Earthshine, Bill.
+109:25:18 Anders: We never did have a chance to do any Earthshine photography.
+109:25:21 Collins: Rog. Understand.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And so we get a good something of a wrap-up on our film situation, which we've been wondering about now for about a 24-hour period. And at 109 hours, 26 minutes; with the spacecraft 153,504 [nautical] miles [284,289 km] from home; this is Apollo Control, Houston.
+Day 4 & 5:
+The Black Team
+Journal Home Page
+Day 5: The Maroon Team

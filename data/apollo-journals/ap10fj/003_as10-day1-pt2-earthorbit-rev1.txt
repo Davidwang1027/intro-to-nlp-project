@@ -1,0 +1,582 @@
+Apollo 10 Flight Journal - Day 1, part 2: Earth orbit, rev 1
+Day 1, part 1: Countdown, launch and climb to orbit
+Journal Home Page
+Day 1, part 3: Earth orbit, rev 2
+Apollo 10
+Day 1, part 2: Earth orbit, rev 1
+Corrected Transcript and Commentary Copyright © 2009-2025 by W. David Woods, Robin Wheeler and Ian Roberts. All rights reserved.
+Last updated 2025-02-21
+000:11:47 Stafford: [Garble] at 56.
+000:11:50 Duke: Roger. Stand by, 10.
+000:12:02 Cernan: Okay, Houston. We show a 102.6 by 101.1 [nautical miles].
+The Command Module Computer (CMC) is displaying its determination of their orbit in terms of its apogee and perigee. In metric, this is 190.0 by 187.2 kilometres and is regarded as essentially a circular orbit.
+000:12:07 Duke: Roger. We copy that.
+000:12:11 Young: And our VI was 25,565 [fps], minus one-tenth H dot, and 102.6 [nautical miles].
+At the point of engine cut-off, the computer was displaying their inertial speed, their rate of vertical ascent and their altitude. They are travelling at 7,792 metres per second, ignoring the rotation of Earth, they were descending at around 30 centimetres per second (i.e. essentially flying parallel to the ground) and their altitude was 190.0 kilometres which means that they were inserted into orbit at their apogee.
+000:12:17 Duke: Roger. We copy.
+000:12:19 Stafford: [Garble].
+000:12:20 Young: And, Charlie, have them take a look at our evaporator. We're reading a high outlet temperature and Off-Scale Low on the steam pressure right now.
+The primary evaporator in the Environmental Control System began operation soon after lift-off but dried out after only a few minutes. The secondary cooling system was activated and functioned nominally. The primary evaporator was deactivated and was not reserviced with water until just prior to Lunar Orbit Insertion. It dried out again during the second lunar orbit. Just prior to entry, the evaporator was serviced again. During entry, it functioned normally.
+This evaporator had dried out once during altitude chamber tests at KSC, and the cause was not determined. During later tests, the evaporator functioned satisfactorily.
+After the mission, the spacecraft wiring and control circuits were checked. Continuity and resistance measurements were normal. Further tests of the system duplicated the inflight condition and revealed that the water control circuit operated intermittently. When a microswitch in this circuit opens, the water section of the environmental temperature control unit is activated and begins to supply water to the evaporator on demand.
+A check of the switch assembly revealed that the actuator moved as little as 0.0008 inch beyond the point at which the switch should have opened. With changes in environment, the actuator travel was at times not sufficient to open the switch. Actuator rigging procedures were modified to assure proper overtravel on all subsequent missions.
+000:12:28 Duke: Roger. We agree. Stand by.
+Up to now, communications had been handled through a ground station near the launch site. With Apollo 10 heading towards the horizon for that site, communication moves to USNS Vanguard, a converted ship.
+000:12:35 Stafford: Okay...
+000:12:52 Duke: 10, Houston. Your S-IVB is safe. We'd like you - On the evaporator, we'd like for you to close the Primary Back Pressure valve, and activate the Secondary Loop.
+CM panel 382 (LH Equipment Bay)
+000:13:03 Young: Roger. Understand. Close the primary back pressure valve and activate the secondary loop.
+000:13:08 Duke: Roger. Just for a little while. We'll give you the number. And we'll have Vanguard LOS at 15:32, and a minute gap. And, we'll see you over the Canaries at 16:29.
+000:13:19 Stafford: Roger. And, we have closed the isolation valve on CM RCS ring 1 [panel 2], 2 is still Open.
+CM RCS isolation valve switches - CM panel 2
+000:13:26 Duke: Roger.
+000:13:36 Duke: 10, Houston. The Saturn is in great shape; you're configured for orbit; we're all Go.
+Apollo 10 Earth orbit groundtrack
+000:13:41 Stafford: Roger. Just looks beautiful.
+000:13:47 Duke: And 10, Houston. We confirm your orbit. The IU vector has you in a 103 by 100 [nautical miles].
+000:13:54 Stafford: Roger.
+000:14:54 Duke: 10, Houston. We want you to keep the Primary Back Pressure [Panel 382] valve closed for about 15 minutes, and then we'll deacti - Stand by.
+000:15:02 Stafford: Roger.
+000:15:18 Duke: 10, Houston. At GET of 30 we'd like you to put the Primary Back Pressure [Panel 382] valve back in Auto and deactivate the Secondary Loop [Panel 382].
+000:15:35 Cernan: Roger. Understand. You want - at 30 - You want to deactivate the Secondary Loop and go back to Auto on the primary boiler.
+000:15:44 Duke: Affirm, Gene
+We've had LOS at the Vanguard - there will be about a minute gap between the Vanguard and the Canary Island station. Showing a lift-off time of 12:49:00.70 Eastern Daylight Time. This is Apollo Control we should be picking up via Canaries anytime now; we'll continue to stand by. We do have AOS - acquisition of signal - at Canaries now.
+The Earth parking orbit around does not allow continuous communication with Houston, Mission Control. The orbit is low, when the spacecraft does come within range of a ground station, it is only above the ground stations horizon for a short period of time, even during passes that go directly overhead. For passes other than directly overhead, the period of contact is even less. Communications has been via the insertion tracking ship Vanguard. Following a one minute gap communications will be picked up by the tracking station on the Canaries.
+000:17:01 Duke: Apollo 10, Houston. Standing by through the Canaries.
+000:17:04 Stafford: Roger. 10 reading you loud and clear. We've just completed that insertion checklist.
+000:17:09 Duke: Roger. Copy. And, 10, Houston, would you like for me to review this ring 2 heater check?
+When the propellant isolation valves in Command Module Reaction Control System B were opened about 10 hours prior to launch, the helium manifold pressure dropped from 44 to 37 psia. A pressure drop of this magnitude would be expected if the oxidizer burst disc was ruptured, allowing oxidizer to flow from the tank into the oxidizer manifold.
+The isolation valve and the burst disc are redundant devices; therefore, a decision was made to proceed with the launch even though the disc was ruptured. The isolation valves were closed after orbital insertion. The engine valves were then opened by means of the reaction control heater circuits, and the oxidizer was vented from the manifold for 25 minutes. Afterward, the helium manifold pressure remained at 37 psia except for changes caused by thermal effects. When the isolation valves were opened just prior to system activation for entry, the helium manifold pressure dropped from 37 to 25 psia, confirming that the venting procedure had been effective and that the manifold was empty.
+After the mission, the oxidizer and fuel burst discs were similar in physical appearance, indicating that the oxidizer burst disc had failed because of pressure.
+Caution notes were added to the prelaunch checkout procedures for subsequent missions, in the places where the allowable limits on the burst disc (241 + or -16 psid in the flow direction and 10 psid in the reverse direction) could be exceeded. To allow early detection of any similar problem in the later missions, a leak check of the burst disc was added after Reaction Control System propellant servicing.
+000:17:22 Stafford: Why don't you do that ...
+000:17:25 Duke: Okay, Tom. We'd like for you to - We got a 7-step procedure here, and I'll read it up to you. On panel 8, CB CM heaters, 2, Main B, closed, CM RCS Logic, On [panel 1], CM RCS heaters, On [panel 101]. We want you to heat ring 2 for 15 minutes, and you can select position C5 on the systems test [also panel 101] and monitor the Ox line temp.
+CM RCS heater circuit breakers - CM panel 8
+CM RCS logic switch - CM panel 1
+CM RCS heater switch - CM panel 101 (Lower Equipment Bay)
+000:18:00 Stafford: [Garble].
+000:18:02 Duke: Correct - 10, your first step would be to close the RCS Propellant Isolation valve on ring 2 [panel 2
+000:18:14 Stafford: We'll go ahead and do that right now, Charlie.
+000:18:16 Duke: Okay. Then you can - then we'd like for you to - If you are going to close the Prop valve right now, we'd like for you to turn the heaters on, too.
+000:18:22 Stafford: Okay. Turn the heaters on right now.
+000:18:22 Stafford: Affirm. And then after...
+000:18:30 Duke: 10, Houston.
+000:18:31 Stafford: Okay, Charlie. We're going through the procedure; the heater is On.
+000:18:34 Duke: Roger.
+000:18:37 Cernan: Okay. And we'll turn them off after 15 minutes. And you say we can monitor what on C5?
+000:18:42 Duke: You can monitor the oxidizer line temp on C5 - it'll probably be Off-Scale High, but if you see any change, we'd appreciate you - we'd appreciate you telling us.
+000:18:52 Stafford: Roger.
+000:18:53 Cernan: Okay. We got that, Charlie.
+000:19:05 Duke: 10, after 15 minutes, we'll - We'd like for you to turn the heater off, RCS Logic, Off [Panel 1], and open both heater circuit breakers.
+000:19:15 Stafford: Roger. Will do, Houston.
+000:19:31 Cernan: Charlie, it's just fantastic to be back up here again! Fantastic, really.
+000:19:36 Duke: Man, you guy's - [laughter]. You guys really sound great up there.
+000:19:40 Stafford: Yes, Charlie, after 3 years, it seems a long time, but here comes the Coast of Africa again and it looks beautiful.
+000:19:49 Duke: Yes, I'll bet. Wish we were there with you.
+000:19:50 Cernan: They make you feel - we all feel great.
+000:19:55 Duke: Roger. Next time we are going to put a cot on board and one of us is going along.
+000:19:56 Stafford: Roger.
+That was Gene Cernan and Tom Stafford conversing with Charlie through - both very happy to be back in orbit.
+000:21:00 Duke: Apollo 10, Houston. The P52 is your option. It really looked great during the launch phase; we have an azimuth correction of minus 0.11.
+000:21:08 Stafford: Roger. Minus 0.11. Thank you.
+000:21:58 Duke: 10, Houston. If you've taken your helmets off, we'd remind you to open the Suit Circuit Return valve.
+000:22:06 Stafford: Roger. We're gonna do that now.
+000:22:08 Duke: Okay.
+000:22:29 Duke: Apollo 10, Houston; you've got about 1 minute to Canaries LOS; Tananarive at 3; - correction - 37.
+000:22:33 Stafford: Roger. Tananarive at 37, thank you.
+This is Apollo Control at 24 minutes into the mission. Canary Island has Loss Of Signal. Tananarive will acquire Apollo 10 at 37 minutes. Apollo 10 is in a good orbit. Controllers here in the Control Center report all systems functioning well. The procedure that you heard passed up to the crew over the Canaries was to release some oxidizer in system B of the Command Module RCS. During a test on the pad when the isolation valves were open it was discovered that a burst disc had opened also and had allowed some liquid hydrogen to flow into the lines. The valve was then closed, the crew is now going through a procedure in which they will open an engine valve and allow this liquid hydrogen to vent through the engine. This was the talkiest crew on liftoff in the memory of anyone here in the Control Center. We have a tape of that powered portion of flight and we will play that for you now.
+This is Apollo Control at 35 minutes. Just about within acquisition at Tananarive. We have a report now from the Flight Surgeon on the heart rates on the crew during launch. Tom Stafford, 123; Gene Cernan, 120; John Young, 125. And the Guidance Officer has just reported that all of the guidance systems look very good on Apollo 10. Tananarive will be acquiring Apollo 10 any second now. We'll stand by for any conversation through that station.
+000:37:46 Duke: Apollo 10, this is Houston through Tananarive. How do you read? Over.
+The space vehicle has now passed into range of the Tananarive tracking station on the island of Madagascar.
+That's astronaut Bruce McCandless putting in a call.
+000:38:12 Duke: Apollo 10, this is Houston through Tananarive. How do you read? Over.
+000:38:25 Comm Tech: Tananarive, Houston Comm Tech Net 1.
+000:38:28 Comm Tech: Houston Comm Tech, Tananarive.
+000:38:30 Comm Tech: Roger. Can you confirm that CapCom is uplinking through your site?
+000:38:32 Comm Tech: That's affirm. You are uplinking.
+000:38:34 Comm Tech: Have you heard any downlink from the spacecraft?
+000:38:38 Comm Tech: Negative. No downlink.
+000:38:39 Comm Tech: Roger.
+000:38:45 Duke Apollo 10, this is Houston through Tananarive. Radio check. Over.
+000:39:13 Duke: Apollo 10, this is Houston transmitting in the blind. Confirm Simplex Alpha [Panel 3]. Over.
+VHF radio controls - CM panel 3
+The VHF/AM transmitter-receiver is controlled by the VHF-AM controls on panel No.3 of the main display console (S43, 544, and S71). The Duplex/Off/Simplex switches activate the receivers and transmitters by applying 28-volt DC power. About 6 watts of power are required in these modes with the transmitter in standby and about 36 watts when keyed. Simplex A transmit and receive on 296.8 MHz for voice only.
+Houston are trying to at least establish voice communications with the spacecraft through the Tananarive ground station.
+This is Apollo Control. We have experienced considerable voice communication difficulties at Tananarive in past missions, apparently we're having the same problem on this mission. We'll continue to stand by.
+000:40:04 Duke: Apollo 10, Apollo 10, this is Houston through Tananarive. Over.
+000:40:24 Stafford: Houston, Apollo 10. Transferring to broad. We're reading you loud and clear.
+000:40:26 Duke: Roger, 10. And now we're reading you loud and clear. Up.
+000:40:32 Stafford: Okay. We've been reading you all the time down there, Houston. John and Gene have completed the P52 [IMU align], and the torquing on the IMU realign is minus 0.12, plus 0.34, and minus 0.76. Looks like the platform is real good.
+Before the platform realignment could commence, the cover protecting the optics, which is located on the opposite side of the CM from the main hatch, was jettisoned to enable the spacecraft's optical instruments to view targets in deep space. The cover protects the external surfaces of the sextant and scanning telescope from the aerodynamic and thermal effects of the launch and ascent to Earth orbit.
+Guidance and navigation are crucial to any journey, especially on the ballistic trajectory used to get to the Moon and back. The crew need the ability to point the spacecraft precisely, to well-known directions. The spacecraft carries a gyroscopically stabilised platform within the IMU (Inertial Measurement Unit) which remains fixed in attitude while the spacecraft moves about it, connected to it by three orthogonal gimbals. The only way to ensure that the platform is properly aligned is to compare its orientation to a fixed attitude reference - with the stars almost always used. Initially, the CSM (Command/Service Module)'s platform was aligned just before launch. Realignment, once in orbit, is achieved by using P52 [Program 52] on the CMC (Command Module Computer). With the spacecraft held in a steady attitude, the sextant is pointed at a specified star, marked on that star, then to a second star, where another mark is taken. The computer, knowing the attitude of the spacecraft (relative to its own idea of where the stars are), now has new values of where the stars are located. With these measurements, the amount of drift the platform has experienced can be calculated, and displayed as the amount of correction needed to move, or "torque" the gimbals to bring the platform back into accurate alignment. Known as "gyro torquing angles", they are displayed on the DSKY as "Noun 93". These angles are usually very small, and are expressed in thousandths of a degree.
+The Command Module Pilot (CMP), John Young has completed these procedures.
+000:40:50 Duke: Roger, 10. We copy. Understand platform is good.
+000:40:56 Stafford: And we will turn the Command Module RCS B heater off at 43. That will give us 15 minutes on it.
+000:41:06 Duke: Roger. We confirm - We confirm that. And - Your Prop Isol valves, Off? RCS Propellant valves, Off?
+000:41:13 Stafford: That's affirmative, Charlie.
+000:41:15 Duke: Okay.
+000:41:39 Stafford: Houston, Apollo 10. The [garble] on the heater is Off-Scale High, which we expected for the heaters, and we're going to turn the heaters off at 43.
+000:41:50 Duke: Say again, 10. You're fading in and out.
+000:41:54 Stafford: Roger. Command Module RCS heaters, Off at 43.
+000:41:58 Duke: Roger. We copy. Off at 43.
+000:42:13 Duke: 10, Houston. We expected that on the heaters. We'll have LOS here at Tananarive in 30 seconds; we'll see you over Carnarvon at 52.
+000:42:24 Cernan: Roger. Understand 52. Our radiators appear to be working all right. Our Glycol Evap Outlet temperature is down around 58. The steam pressure is Off-Scale Low, Off-Scale Low?
+000:42:42 Duke: Roger. Steam pressure Off-Scale Low?
+000:42:44 Cernan: That's affirm. And the evaporator outlet temperature is 58 degrees with - with the radiators apparently working.
+000:42:51 Duke: Roger. We copy, Gene.
+000:43:05 Duke: And, Apollo 10, Houston. If you read, we'd like you to close the Primary Back Pressure [Panel 382] valve again. Over.
+This is Apollo Control at 43 minutes. Apollo 10 is out of range at Tananarive. The purge of that oxidizer line on the Command Module RCS system has been completed. This system is in good shape. Gene Cernan reported the radiators on the spacecraft are working well. Carnarvon will acquire Apollo 10 at 52 minutes. This is Mission Control Houston.
+000:43:54 Cernan (onboard): Could have been - hell, it was close to the launch; it could've been air pressure from the ground in there.
+000:44:01 Young (onboard): Okay, you can close it.
+000:44:03 Cernan (onboard): Closed. Okay, 21.5. Should be like zero.
+000:44:10 Young (onboard): Okay, now what do you want to look at?
+000:44:14 Cernan (onboard): [Garble].
+000:44:26 Cernan (onboard): Why don't you take these and [garble]? Okay?
+000:44:30 Young (onboard): Yes; just a second.
+000:44:38 Stafford (onboard): COAS looks [garble].
+000:44:45 Young (onboard): Okay, everything - looks alright. Okay, I've got Mars in there now, son of a gun [garble].
+000:45:03 Cernan (onboard): What's our chances on [garble] into the water?
+000:45:07 Young (onboard): Gene, how's this?
+000:45:09 Stafford (onboard): How - how come these bastards gave us this star chart with no [laughter] Velcro?
+000:45:15 Young (onboard): [Garble].
+000:45:18 Stafford (onboard): You want this whole package, John?
+000:45:20 Young (onboard): Yes.
+000:45:24 Stafford (onboard): Here are these breakers, these light things - [garble].
+000:45:31 Cernan (onboard): John, can you read your [garble]?
+000:45:33 Young (onboard): Maybe I can.
+000:45:34 Stafford (onboard): John, do you want this back?
+000:45:35 Young (onboard): Yes - no, I don't want that. No, I don't want any of that shit (laughter). God - we had to take it. I don't want it, give it to - give it to [garble].
+000:45:43 Stafford (onboard): [Garble] keep that light on.
+000:45:47 Young (onboard): You don't want that on.
+000:45:48 Stafford (onboard): You don't want the Moishe Dayan patch?
+Stafford is referring to the single eye patch sometimes used to aid the CMP when he is sighting through the CM optics
+000:45:50 Young (onboard): No, I don't [garble] [laughter] [garble] the walls.
+000:46:01 Stafford (onboard): I'm going to set that other one up in orb-rate and align that GDC [Gyro Display Coupler] to the IMU and get all that good stuff done.
+Stafford reference to "set that other one up in orb-rate" refers to the second FDAI (Flight director attitude indicator, aka "8-ball"). The FDAI can display the spacecraft's attitude in two different modes, Inertial or Orb-Rate. The FDAI displays the spacecraft's attitude relative to the celestial sphere (i.e. it normally shows the inertial attitude). For the FDAI to be operated in the Orb-Rate mode, a device know as ORDEAL (Orbital-Rate Drive Earth And Lunar) (panel 13) provides the correct drive signal to rotate the FDAI at a rate which also matches the orbital period. With the ORDEAL, the FDAI will display attitudes relative to the body's surface below (Earth or Moon).
+The ORDEAL front panel - CM panel 13.
+Below is a description of the GDC taken from the Apollo Operations Handbook.
+Gyro Display Coupler (GDC)
+The purpose of the GDC is to provide a backup attitude reference system for accurately displaying the spacecraft position relative to a given set of reference axes. Spacecraft attitude errors can be displayed on an FDAI using the ASCP [Attitude Set Control Panel - In the lower left hand corner of Panel 1]-GDC difference. This error signal provides a means of aligning the attitude reference system to a fixed reference while monitoring the alignment process on the error needles; or it could be used in conjunction with manual manoeuvring of the spacecraft with the error needles representing fly-to commands.
+The GDC can be configured for the following configurations:
+GDC Align - Provides a means of aligning the GDC to a given reference [i.e. the IMU]
+Euler - Computes total inertial attitude from body rate signal inputs.
+Non-Euler - Converts analogue body rate signals to digital body rate pulses.
+Entry (~.05 G) - Provides redundant outputs of attitude changes with respect to the roll stability axis.
+GDC Configurations.
+Panel switch positions necessary to obtain each particular GDC function are discussed below.
+The GDC Align mode is used when aligning the GDC Euler angles (shafts) to the desired inertial reference selected by the ASCP thumbwheels (resolvers). This is done by interfacing the GDC resolvers with the ASCP resolvers (per axis) to generate error signals which are proportional to the sine of the difference between the resolver angles. When the GDC Align switch is pressed, these error signals are fed back to the GDC input to drive the GDC (ASCP resolver angular difference to zero. During the align operation all other inputs and functions for the GDC are inhibited. When the EMS ROLL [panel 1 bottom] switch is up and the GDC Align [panel 1 lower section] switch is pressed, the RSI pointer rotates (open loop) in response to yaw ASCP thumbwheel rotations.
+In the Euler configuration, the GDC accepts pitch, yaw, and roll DC body rate signals from either gyro assembly and transforms them to Euler angles to be displayed on either FDAI ball. The GDC Euler angles also interface with the attitude set control panel (ASCP) to provide Euler angular errors, which are transformed to body angular errors for display on either FDAI attitude error indicators.
+With the CMC ATT switch in the GDC position, pitch, yaw, and roll DC body rate signals from either gyro assembly are converted to digital body rate signals and sent to the G&N command module computer. Power is not only removed from both FDAI ball-drive circuits when this configuration is selected, but ASCP-generated errors are also removed.
+In the entry mode (~.05 G), the GDC accepts yaw and roll DC rate signals from;
+Either gyro assembly, and computes roll attitude with respect to the stability axis to drive the RSI on the entry monitor system.
+Gyro assembly 1, and computes roll attitude with respect to the stability axis to drive either FDAI 1 or FDAI 2 in roll only.
+GDC controls - CM panel 1
+000:46:13 Young (onboard): You want me to [garble] all those closed for you?
+000:46:21 Stafford (onboard): Do you need the star chart, John? You don't need that there, do you?
+000:46:24 Young (onboard): No. Got to take the launch guards off the end.
+000:46:29 Stafford (onboard): You want to stick them in this - in here, or where you want to put them?
+000:46:30 Young (onboard): No, I'll put them down here in A-5. There's a whole separate spot down there to stow all that crap.
+000:46:36 Stafford (onboard): Okay. Here's this one.
+000:46:39 Young (onboard): Okay. Have you got your cards out for TLI?
+000:46:45 Stafford (onboard): They're already up, babe.
+000:46:46 Young (onboard): Okay. And that Flight Plan is out to everybody's satisfaction?
+000:46:57 Stafford (onboard): Well, gee, I don't...
+000:46:58 Young (onboard): Everybody have all the pages they need?
+000:46:59 Stafford (onboard): Where's the Flight Plan? I don't have the Flight Plan.
+000:47:01 Young (onboard): Flight Plan we need. It's in R-12 [storage container].
+000:47:05: Cernan (onboard): You sure?
+000:47:06 Young (onboard): Yes. It better be, or it's all [laughter].
+000:47:09 Stafford (onboard): Oh, shit!
+000:47:10 Young (onboard): The MAL procedures are in there, and [garble].
+000:47:21 Cernan (onboard): [Laughter] I swear to God, that burn effect - You know what caused that? The damn hose.
+000:47:34 Young (onboard): Things ought to be cooling down in here a little bit.
+000:47:37 Cernan (onboard): It doesn't happen; then you've got stuff down in the box that just sits there.
+000:47:50 Cernan (onboard): Now, you want to get into panel 382 back in there?
+000:47:58 Stafford (onboard): Let's see. I need the ORDEAL ...
+000:48:01 Cernan (onboard): Well, I - I [garble] - I get it [garble] no sweat.
+000:48:04 Young (onboard): [Garble] piece of cake. Well, I don't know if I can get that [garble] give it a go.
+000:48:11 Stafford (onboard): Let me stick this underneath you, Gene-o.
+000:48:13 Cernan (onboard): Ha! Yes, guess I can get it.
+000:48:15 Stafford (onboard): Okay.
+000:48:16 Young (onboard): No sweat. That ain't it.
+000:48:20 Stafford (onboard): It's down below, there. [Garble] you want that camera bracket out [garble]?
+000:48:26 Young (onboard): Yes.
+000:48:27 Stafford (onboard): [Garble].
+000:48:31 Young (onboard): Here you go.
+000:48:33 Stafford (onboard): [Garble] it, John. There's a camera bracket right up in the ...
+000:48:37 Young (onboard): The next one?
+000:48:38 Stafford (onboard): Yes, [garble].
+000:48:47 Young (onboard): I've got it.
+000:48:48 Stafford (onboard): You've got it?
+000:48:49 Young (onboard): Okay, [garble] I can't [garble].
+000:49:02 Stafford (onboard): [Garble].
+000:49:04 Young (onboard): [Garble].
+000:49:06 Stafford (onboard): [Garble] all this freaking [garble].
+000:49:13 Cernan (onboard): You got the [garble] flow valve open?
+000:49:14 Stafford (onboard): Yes.
+000:49:16 Cernan (onboard): We had enough water boiling on launch, John.
+000:49:19 Young (onboard): We didn't have no water boiling?
+000:49:22 Cernan (onboard): [Garble] should be operating right now.
+000:49:29 Young (onboard): I thought it was the water boiler that [garble].
+000:49:31 Cernan (onboard): It is the water boiler. [Garble].
+000:49:39 Young (onboard): [Garble].
+000:49:44 Stafford (onboard): Okay.
+000:49:45 Young (onboard): Got that.
+000:49:46 Stafford (onboard): [Garble] 183.
+000:49:48 Young (onboard): [Garble] torquing angle [garble] realign [garble] realign the PTC [garble] attitude reference check?
+000:50:04 Cernan (onboard): Yes.
+000:50:05 Young (onboard): You done all them other things? Gene-o?
+000:50:08 Cernan (onboard): [Garble].
+000:50:04 Stafford (onboard): [Garble].
+000:50:24 Young (onboard): Gene-o? [Garble].
+000:50:25 Stafford (onboard): [Garble] (laughter) [garble].
+000:50:50 Young (onboard): Shit! [garble] temperature [garble].
+000:50:54 Stafford (onboard): [Garble].
+000:50:59 Cernan (onboard): Did you get this GDC Align, Tom? Got any drift to record?
+000:51:03 Stafford (onboard): No.
+000:51:04 Cernan (onboard): BMAG, Rate 2 [Panel 1]?
+000:51:05 Stafford (onboard): BMAG, Rate 2.
+000:51:06 Cernan (onboard): COAS is Go?
+000:51:07 Stafford (onboard): Completely done.
+000:51:08 Cernan (onboard): COAS Tunnel Lighting, Main B, Closed? Circuit breaker panel 226, John? COAS Tunnel Lighting, Main B?
+000:51:27 Young (onboard): Got to get a flashlight [garble] Main B, COAS Tunnel Lighting circuit breaker. Main B, coming Closed.
+000:51:30 Stafford (onboard): No, it's Open, John.
+000:51:33 Young (onboard): It's Closed now.
+000:51:35 Cernan (onboard): Okay, where's the sequence camera? [Garble] Tom.
+000:51:37 Stafford (onboard): [Garble].
+000:51:40 Cernan (onboard):Do you want the sequence camera?
+000:51:42 Young (onboard): No.
+000:51:45 Cernan (onboard): How about the sequence camera? [Garble].
+000:51:55 Cernan (onboard): Okay, mount ORDEAL, all ECS redundant component checks less main regulator check ... just went through all these things.
+000:52:01 Stafford (onboard): [Garble].
+000:52:09 Cernan (onboard): Okay, Secondary Coolant Loop? Open coolant panel, coolant panel required, Evaporator Water Control, Secondary valve, Auto?
+000:52:28 Young (onboard): How about our [garble]?
+000:52:30 Cernan (onboard): You want the sequence camera?
+000:52:33 Young (onboard): Yes, we got some [garble] we need to get.
+000:52:38 Cernan (onboard): Okay, how about going down [garble]?
+000:52:40 Young (onboard): Oh, I guess [garble].
+This is Apollo Control at 52 minutes into the mission of Apollo 10, Carnarvon has acquired Apollo 10. We will stand by for transmission.
+000:52:42 Duke: Hello, Apollo 10, Houston through Carnarvon. Standing by.
+000:52:49 Stafford: Roger, Houston. This is Apollo 10. We're going through our ECS checklist and everything looks good.
+000:52:53 Duke: Roger, Tom. Comm is real great.
+000:52:56 Stafford: Roger. We got the - we could read you all the way through Tananarive, but evidently you couldn't read us - COMM back here until the last. We got the heater off at exactly 15 minutes, the propellant valve was shut, the logic was off and the breaker open.
+000:52:59 Stafford: Roger. We got the - We could read you all the way through Tananarive, Houston, but evidently you couldn't read us - Comm back here until the last. We got the heater Off exactly at 15 minutes, the Propellant valve was shut, the Logic was Off and the breakers Open.
+000:53:13 Duke: Roger. We copy, Tom.
+000:53:14 Cernan (onboard): Okay...
+000:53:16 Young (onboard): You want the Coolant Control Panel, Open; huh?
+000:53:17 Cernan (onboard): Yes. That's what it says - it's required. Evaporator Water Control, Secondary valve, Auto.
+000:53:21 Young (onboard): Wait a second, wait a second. I think we launched with the goddam thing.
+000:53:24 Cernan (onboard): Probably did.
+000:53:27 Young (onboard): [Garble] I'll tell you what I'm going to do with this [garble].
+000:53:31 Cernan (onboard): Hey, wait...
+000:53:32 Young (onboard): I'm just going to close one valve - one [garble].
+000:53:38 Cernan (onboard): Hey, we know that secondary loop works, babe. We're not going to worry about that. I [garble].
+000:53:43 Young (onboard): [Garble]. How do you know the water control valve came on?
+000:53:48 Cernan (onboard): Okay, let's go - Well, we don't, but it...
+000:53:51 Young (onboard): It had to be. Okay, the secondary mode control - Secondary Evaporator [garble] valves in Auto. [Garble]. Primary [garble] bypass on the Secondary [garble].
+000:54:02 Cernan (onboard): I just got to make sure [garble].
+000:54:10 Young (onboard): Okay, you are - you are...
+000:54:12 Cernan (onboard): We've already accumulated some [garble] stuff, and I got [garble].
+000:54:17 Young (onboard): [Garble].
+000:54:23 Cernan (onboard): Well, [garble] spacecraft they flew [garble].
+000:54:28 Stafford (onboard): [Garble] voice check. We're over Carnarvon. [Garble].
+000:54:40 Young (onboard): [Garble] goes back up here?
+000:54:42 Stafford (onboard): [Garble].
+000:54:53 Stafford: Houston, Apollo 10. Did you get our torquing angles on the IMU realign?
+000:54:58 Duke: Roger, Tom. You were pretty weak. What I copied was minus 0.12, plus 0.34, and minus 0.76.
+000:55:08 Stafford: Roger. And everything looks real good.
+000:55:12 Duke: Roger. Can you give us the time that you torqued those?
+000:55:14 Young (onboard): Yes, I got it right here.
+000:55:17 Stafford: Stand by.
+000:55:23 Young: It was 41 minutes even, Charlie. That's what I paid special attention to that.
+000:55:30 Duke: Roger. Thank you very much, John. 41 minutes; special attention.
+000:55:47 Cernan (onboard): Okay, the next thing is that [garble] camera. Where's the...
+000:56:00 Young (onboard): I don't really think that it's going to be too hard to get up in that tunnel. I think it's got to be a piece of cake. Look at this. I [garble].
+000:57:03 Cernan: Hello, Houston; this is 10.
+000:57:05 Duke: Go ahead.
+000:57:07 Cernan: Okay. Guess you got my word on the Off-Scale Low on the steam pressure on the Primary Loop.
+000:57:12 Duke: Roger. We've been discussing that, Gene, and stand by. We'll have some words on it for you.
+000:57:17 Cernan: I just rechecked the Secondary Loop and it all looks good on it. Going through all our monitor checks and redundant component checks. Looks like we've got a good Charlie Brown, here.
+000:57:27 Duke: Roger. Good.
+000:57:59 Duke: Apollo 10, Houston, with some words on the - the primary evap.
+000:58:03 Cernan: Go ahead, Charlie.
+000:58:04 Duke: Roger. We'd like you to put the Back Pressure valve back to Auto - correction, Manual. And we wondered if you went to Auto on the H2O valve during launch?
+000:58:17 Cernan: That's affirm; I sure did. I went to Auto on the steam pressure valve and the water valve.
+000:58:22 Duke: Okay. We want the steam pressure back to Manual, and we're going to think about it a little bit more, and we might reservice later on.
+000:58:30 Cernan: Okay, fine. Looks like our radiators are beginning to carry the load. I'm looking at about 51 degrees on the Evap Outlet Temp.
+000:58:37 Duke: Roger.
+000:59:17 Duke: Apollo 10, Houston. Gene, everybody thinks I might have given you the wrong word. What - Now to clarify it, we want the Back Pressure valve Closed. Over.
+000:59:31 Cernan: Okay. In other words, you want Steam Pressure Auto switched to Manual, and you want me to go to Increase, is that correct?
+000:59:38 Duke: Affirmative.
+000:59:41 Cernan: Okay. Well, I'm in Manual now. I'll go to Increase.
+001:00:37 Cernan: Houston, this is 10. Do you want me to leave the Water Flow in Auto during - after I do this?
+001:00:41 Duke: Stand by
+001:00:51 Duke: 10, Houston. You can leave the water valve in Auto.
+001:00:55 Cernan: Roger. Understand.
+Communications is now taken through the Honeysuckle Creek ground station in eastern Australia.
+001:02:24 Duke: Hello, Apollo 10. Houston on the S-band through Honeysuckle. How do you read? Over.
+001:02:28 Stafford: Roger. Houston, Apollo 10. Reading you loud and clear.
+001:02:32 Duke: Roger, Tom. Same. The S-band is really great today.
+001:02:36 Stafford: Roger. I've never seen the comm better. It's great, Charlie.
+001:02:39 Duke: Roger.
+001:03:20 Duke: Apollo 10, Houston. We'll have LOS at Honeysuckle at 1 plus 06. We'll see you over Guaymas at 1 plus 28.
+001:03:28 Stafford: Apollo 10, Roger.
+This is Apollo Control at 1 hour, 5 minutes into the mission. The station at Honeysuckle Creek in Australia has Loss Of Signal. Flight Director Glynn Lunney is taking checks with the controllers here in the Mission Control Center. Everybody gives him a Go. The Service Propulsion System looks good, the Reaction Control Systems on both the Service Module and the Command Module look very good. The environmental communications officer is pleased with his system. There is one minor problem in with the EECOM. You heard Charlie Duke and Gene Cernan discussing the steam pressure and evaporators during this Australian pass. There is a belief that the primary evaporator may have dried out. These evaporators, there is a primary and a secondary, they are used for cooling purposes when the radiators are not on the line. They cool by evaporating or boiling water. They are sometimes referred to as water boilers. We may reservice the water boilers and again we may not. EECOM wants to take a look at it over the States and see whether it needs to be reserviced. The radiators are working very well and there's the secondary evaporator. It is in good shape. We really have no need for the primary evaporator. So EECOM will continue to take a look at that, but it is not really a problem. The station at Guaymas, Mexico, will be next to acquire Apollo 10 at 1 hour, 28 minutes. This is Mission Control, Houston.
+001:05:01 Young (onboard): Yes, I think so. [Garble] lost control of the checklist and cards. I lost [garble] card. I don't know where it is.
+001:05:09 Stafford (onboard): [Garble].
+001:05:18 Young (onboard): [Garble]. We'll find it. [Garble] I know where it is.
+001:05:22 Stafford (onboard): Okay, [garble].
+001:05:25 Young (onboard): Okay.
+001:05:26 Stafford (onboard): [Garble].
+001:05:29 Young (onboard): Hey, I know what I can do. [Garble] garbage bag. Get the garbage bag.
+001:05:34 Stafford (onboard): Yes.
+001:05:35 Young (onboard): [Garble]. Yes, it's got to be in there.
+001:05:37 Stafford (onboard): [Garble].
+001:05:44 Young (onboard): Yes, but get the garbage bag. Okay. [Garble] leave them [garble]. There it is. Oh, shit!
+001:06:22 Young (onboard): Just having trouble controlling things that's all.
+001:06:32 Young (onboard): How does it feel moving around down there?
+001:06:36 Cernan (onboard): It's great!
+001:06:41 Young (onboard): [Garble]. Trouble is, I can't tell [garble]. Which one is that? [Garble] back here [garble].
+001:06:55 Cernan (onboard): Want all three of them?
+001:06:57 Young (onboard): That has to be it.
+001:07:03 Cernan (onboard): [Garble].
+001:07:05 Young (onboard): [Garble].
+001:07:07 Stafford (onboard): Look at those [garble]. Yes, [garble].
+001:07:22 Young (onboard): [Garble].
+001:07:39 Young (onboard): [Garble] little warm in here.
+001:07:42 Stafford (onboard): [Garble].
+001:07:43 Young (onboard): [Garble] backup [garble].
+001:07:54 Stafford (onboard): [Garble]. [Laughter] [Garble].
+001:07:58 Young (onboard): [Garble] cotton-picking display or [garble]. Look, are you [garble] do it with one hand?
+001:08:19 Stafford (onboard): [Garble].
+001:08:24 Cernan (onboard): How far down [garble] anyhow?
+001:08:27 Young (onboard): About...
+001:08:44 Young (onboard): [Garble] do that [garble]!
+001:09:01 Cernan (onboard): [Garble]. I can't get [garble].
+001:09:05 Young (onboard): [Garble].
+001:09:11 Cernan (onboard): I hate to tell you this, but my cord ain't long enough.
+001:09:14 Young (onboard): Is that right?
+001:09:15 Cernan (onboard): Yes, Now it is.
+001:09:17 Young (onboard): [Garble].
+001:09:24 Cernan (onboard): Where is - where is [garble] right here.
+001:09:40 Young (onboard): It's a lot easier in zero g [garble].
+001:09:48 Cernan (onboard): Okay, you want to do it?
+001:09:50 Young (onboard): Yes.
+001:09:53 Stafford (onboard): [Garble].
+001:09:59 Young (onboard): EC 1 Main A [garble].
+001:10:09 Cernan (onboard): What do you [garble]?
+001:10:15 Young (onboard): [Laughter.] [Garble] equal to opposite Reacq. How about that? ...
+001:10:20 Stafford (onboard): [Garble].
+001:10:29 Young (onboard): [Garble] zero g [garble].
+001:10:33 Stafford (onboard): [Garble] 5000 [garble].
+001:10:35 Cernan (onboard): [Garble]. Hey, where did we say we were going to - Oh, that was after [garble].
+001:10:38 Young (onboard): That was that thing there. I don't know how to work it. [Garble] how to work [garble].
+001:10:44 Cernan (onboard): Oh, I don't know [garble] that stuff around [garble] outfit.
+001:10:50 Young (onboard): Yes, we got - you got...
+001:10:52 Cernan (onboard): [Garble].
+001:10:55 Young (onboard): [Garble].
+001:11:00 Cernan (onboard): [Garble]. we could turn it on right there [garble].
+001:11:03 Young (onboard): No [garble] TLI...
+001:11:04 Cernan (onboard): Oh. [Garble].
+001:11:07 Stafford (onboard): [Garble].
+001:11:10 Young (onboard): [Garble].
+001:11:18 Cernan (onboard): Yes. [Garble].
+001:11:20 Stafford (onboard): Yes, this thing feels like a [garble] truck [garble]...
+001:11:25 Young (onboard): God damn!
+001:11:26 Stafford (onboard): ...[garble] big battleship going across [garble].
+001:11:28 Young (onboard): [Garble] man [garble].
+001:11:33 Cernan (onboard): [Garble] so hard to get out. I just [garble].
+001:11:46 Young (onboard): [Garble] I better leave it on [garble] leave it on there on account of [garble]. And the monitor's in [garble].
+001:12:00 Cernan (onboard): [Garble].
+001:12:01 Stafford (onboard): [Garble].
+001:12:06 Cernan (onboard): Want the monitor?
+001:12:09 Stafford (onboard): No.
+001:12:11 Cernan (onboard): You want the cable? That goes from the monitor to the thing?
+001:12:20 Young (onboard): I'll close the hatch [garble].
+001:12:28 Stafford (onboard): [Garble].
+001:12:30 Young (onboard): [Laughter.]
+001:12:33 Stafford (onboard): This time is so good, I can't believe it.
+001:12:36 Young (onboard): [Garble] zero g's what I can't believe.
+001:12:38 Cernan (onboard): Oh, man!
+001:12:39 Stafford (onboard): Want to hold it, Gene-o?
+001:12:40 Young (onboard): [Garble].
+001:12:42 Cernan (onboard): Okay, this comes [garble]...
+001:12:43 Young (onboard): [Garble] hatch [garble] You don't believe what about the [garble]?
+001:12:58 Young (onboard): Oh, I come from Alabama...
+001:12:59 Stafford (onboard): [Garble].
+001:13:02 Young (onboard): I know you can't miss it [garble].
+001:13:07 Cernan (onboard): Okay, [garble] on this [garble].
+001:13:15 Young (onboard): Anybody care for a [garble]?
+001:13:22 Cernan (onboard): Isn't that something? Isn't that something?
+001:13:26 Young (onboard): Oh, yes.
+001:13:27 Cernan (onboard): [Garble] try the other, babe. I [garble] over here [garble].
+001:13:32 Young (onboard): [Garble].
+001:13:33 Cernan (onboard): [Garble] BMAG's [garble] How'd it get -
+001:13:40 Young (onboard): [Garble].
+001:13:43 Cernan (onboard): Yes, I [garble].
+001:13:45 Young (onboard): Oh! [Garble].
+001:13:52 Cernan (onboard): God, this thing's really got [garble].
+001:13:54 Young (onboard): [Garble].
+001:13:56 Cernan (onboard): You could tell lift-off, babe. I knew when we left the ground.
+001:13:58 Young (onboard): [Garble] clock.
+001:14:02 Stafford (onboard): [Garble].
+001:14:05 Young (onboard): [Garble]?
+001:14:07 Cernan (onboard): [Garble].
+001:14:08 Young (onboard): [Garble] track of these things.
+001:14:10 Cernan (onboard): [Garble] nothing to hang on to [garble].
+001:14:17 Young (onboard): [Garble] you don't want [garble].
+001:14:20 Cernan (onboard): [Garble].
+001:14:23 Young (onboard): [Garble].
+001:14:24 Cernan (onboard): [Garble]. my foot's over here and [garble] up here [garble].
+001:14:30 Young (onboard): [Garble].
+001:14:38 Stafford (onboard): [Garble]?
+001:14:41 Cernan (onboard): Yes.
+001:14:43 Young (onboard): [Garble].
+001:14:52 Stafford (onboard): [Garble].
+001:14:54 Cernan (onboard): This is the hardest job we've had.
+001:14:55 Young (onboard): [Garble].
+001:15:03 Cernan (onboard): [Garble].
+001:15:05 Stafford (onboard): No, you could take...
+001:15:06 Cernan (onboard): I can [garble].
+001:15:15 Young (onboard): [Garble].
+001:15:16 Cernan (onboard): We're practically in [garble].
+001:15:18 Young (onboard): [Garble].
+001:15:39 Young (onboard): Question is, do I have [garble]?
+001:15:45 Stafford (onboard): Want me to get over there and help you?
+001:15:46 Young (onboard): No. I think I've got it [garble] on that [garble]. Here it is [garble].
+001:15:56 Cernan (onboard): [Garble] get your [garble]. Hey, anyone found an isolation valve open today?
+001:16:02 Young (onboard): [Garble] isolation valve [garble] today.
+001:16:05 Stafford (onboard): [Garble] isolation [garble].
+001:16:07 Young (onboard): [Garble] valves open, nobody knows [garble].
+001:16:11 Stafford (onboard): [Garble].
+001:16:14 Young (onboard): Okay. They okay?
+001:16:15 Cernan (onboard): Yes, I think [garble].
+001:16:20 Stafford (onboard): They all good, John.
+001:16:23 Young (onboard): [Garble]. What's the cabin pressure?
+001:16:36 Stafford (onboard): Cabin pressure is 5.6.
+001:16:38 Young (onboard): [Garble].
+001:16:44 Stafford (onboard): [Garble] I'll get back [garble].
+001:16:49 Young (onboard): Okay, I [garble].
+001:16:53 Stafford (onboard): Hold it.
+001:17:03 Young (onboard): [Garble] the other [garble] at TLI?
+001:17:08 Stafford (onboard): No. [Garble].
+001:17:11 Young (onboard): [Garble].
+001:17:16 Cernan (onboard): John.
+001:17:18 Young (onboard): I tell you, I think this thing looks like it's nose down, Oh, God, [garble] look ahead.
+001:17:24 Stafford (onboard): [Garble].
+001:17:25 Young (onboard): Look ahead.
+001:17:26 Stafford (onboard): [Garble].
+001:17:28 Young (onboard): Absolutely incredible.
+001:17:31 Stafford (onboard): There's the Moon, too, old buddy. [Garble].
+001:17:35 Young (onboard): I don't believe it. [Garble].
+001:17:44 Cernan (onboard): John.
+001:17:45 Young (onboard): Okay. Hold it, Okay.
+001:17:47 Cernan (onboard): I would describe [garble].
+001:17:52 Young (onboard): [Garble].
+001:17:56 Stafford (onboard): You got to aim for the [garble].
+001:17:58 Young (onboard): Looks like the [garble].
+001:17:59 Cernan (onboard): Okay.
+001:18:01 Young (onboard): How about the [garble].
+001:18:03 Cernan (onboard): Yes, they're - they're...
+001:18:04 Young (onboard): [Garble].
+001:18:06 Stafford (onboard): [Garble] are you looking [garble].
+001:18:08 Young (onboard): I'm - I'm [garble].
+001:18:10 Stafford (onboard): [Garble].
+001:18:12 Cernan (onboard): [Garble]. in there?
+001:18:13 Young (onboard): Yes, we [garble], babe, [garble].
+001:18:24 Stafford (onboard): Gene-o? [Garble]. Could you get it the other way? Could you swing that bottom part down [garble]?
+001:18:32 Cernan (onboard): That's about the right place, Tom, because [garble] how far it was up above this here [garble].
+001:18:38 Stafford (onboard): Yes, [garble] but the TV can't - the picture's going to be backwards, you know?
+001:18:40 Cernan (onboard): Oh.
+001:18:41 Stafford (onboard): [Garble]. There you go.
+001:18:44 Cernan (onboard): Oh.
+001:18:45 Young (onboard): [Garble] but you ain't going to be pointed out the window.
+001:18:49 Stafford (onboard): Okay, can you turn it around where that [garble]?
+001:18:51 Young (onboard): There ain't no way.
+001:18:53 Cernan (onboard): [Garble] extra, bracket, here.
+001:18:56 Stafford (onboard): [Garble].
+001:18:59 Young (onboard): There's just no way.
+001:19:04 Cernan (onboard): [Garble].
+001:19:12 Young (onboard): [Garble] doesn't make a hill of beans, Gene-o.
+001:19:19 Stafford (onboard): Why don't you go pick up that cable [garble]?
+001:19:22 Young (onboard): I already opened it up. What do you need [garble] cable here?
+001:19:26 Cernan (onboard): Yes. [Garble].
+001:19:35 Young (onboard): [Garble].
+001:19:53 Young (onboard): [Garble] bracket [garble].
+001:20:02 Young (onboard): Yes. [Garble]. There's only one other place it can go - and that'd be pointing the other way and that won't work, Now the [garble] bracket goes - If it were this one...
+001:20:16 Stafford (onboard): Well, what you need is to have one turned like that. Is there a bracket on this thing?
+001:20:20 Young (onboard): Yes, [garble].
+001:20:22 Stafford (onboard): Well, see, we'll [garble] on this bracket...
+001:20:25 Young (onboard): Will it fit? Where?
+001:20:27 Stafford (onboard): Right here.
+001:20:30 Young (onboard): Yes, but I want you to look out the damn window.
+001:20:34 Cernan (onboard): Well, I'll move it over then. I'll move [garble].
+001:20:37 Stafford (onboard): [Garble].
+001:20:53 Cernan (onboard): Its looking out the window, too [garble].
+001:20:54 Young (onboard): Yes. There just ain't no way to get it - What you're going to end up doing is - with that wide-angle thing looking at - If you don't have it right in the middle of the window, you're going to be looking at some of the window glass.
+001:21:20 Young (onboard): Can I hold it? [Garble] sideways. [Garble] it's either
+going to be off sideways...
+001:21:30 Stafford (onboard): Well, it won't go straight down, then.
+001:21:32 Cernan (onboard): [Garble].
+001:21:33 Young (onboard): [Garble].
+001:21:36 Stafford (onboard): If you can't hold it up, [garble] other way.
+001:21:43 Cernan (onboard): Let's give up, Tom...
+001:21:46 Stafford (onboard): [Garble]. Here's the X-axis here. [Garble] you can point it 30 degrees above the X-axis here.
+001:21:50 Young (onboard): Only trouble is the X-axis has got to be down that-a-way.
+001:21:52 Cernan (onboard): This [garble] ought to be pointing up the tunnel [garble]. Well, let me see.
+001:21:58 Young (onboard): No, he's - he's pointed up the tunnel. Put it back in there, Gene-o.
+001:22:02 Cernan (onboard): Well, this is the X-axis bracket [garble] right here. Now can you keep [garble].
+001:22:07 Young (onboard): Yes! There, it's parallel to them lines.
+001:22:10 Stafford (onboard): That's parallel.
+001:22:11 Young (onboard): [Garble] on it. This here - this here - this here - this here hatch - it ain't - The panel goes back that-a-way.
+001:22:16 Cernan (onboard): Okay, [garble].
+001:22:24 Stafford (onboard): Okay, I got the TLI [garble].
+001:22:32 Cernan (onboard): [Garble].
+001:22:38 Stafford (onboard): We have Guaymas at 01:30. About 18 minutes.
+001:22:42 Young (onboard): Okay, hold it.
+001:22:43 Cernan (onboard): [Garble].
+001:22:51 SC (onboard): [Laughter.]
+001:23:32 Young (onboard): [Garble]?
+001:23:33 Cernan (onboard): Yes, [garble].
+001:23:54 Young (onboard): Okay.
+001:23:55 Young (onboard): [Garble] I don t know what the hell [garble] take a few g's in that Saturn [garble] - [garble] take a few g's with that Saturn. How many g's do you get out of that?
+001:24:07 Stafford (onboard): About 1¾.
+001:24:30 Stafford (onboard): What's that [garble] on your window, Gene-o?
+001:24:36 Cernan (onboard): I don't know what the hell that is.
+001:24:37 Stafford (onboard): [Garble] it's all over, really. It isn't cut in there, is it?
+001:24:43 Cernan (onboard): I don't know.
+001:24:44 Young (onboard): Where? On Gene-o's window? Which one? That one there?
+001:24:48 Stafford (onboard): [Garble].
+001:24:51 Young (onboard): Oh, that one there; yes.
+001:24:53 Stafford (onboard): That's not a pressure window, but...
+001:25:00 Young (onboard): [Garble] on the back of it.
+001:25:06 Cernan (onboard): Yes.
+001:25:09 Young (onboard): It may not fit. Looks like it's going to be tight. You're going to have to bend the end of it.
+001:25:14 Stafford (onboard): That son of a bitch is tricky.
+001:25:16 Young (onboard): Yes.
+001:25:31 Stafford (onboard): Let's see, you've got your [garble].
+001:25:34 Young (onboard): Yes.
+001:25:39 Stafford (onboard): We're going to be picking up the west coast of Mexico...
+001:25:48 Cernan (onboard): I don't know where in the hell I'm going to be [garble].
+001:25:58 Stafford (onboard): Yes. We got plenty of time left. We've got 15 minutes. Do you want to test it and see if the monitor works? We're going to be getting an update [garble].
+001:26:16 Young (onboard): Well, I ain't got [garble].
+001:26:37 Young (onboard): This is the TLI plus 10-minute abort PAD, isn't it? I'll give it to you [garble].
+001:27:01 Cernan (onboard): Oh, [garble] look there. The [garble].
+001:27:15 Stafford (onboard): Put your hand down there.
+001:27:16 Cernan (onboard): [Garble].
+001:27:21 Stafford (onboard): You got some in your pockets?
+001:27:31 Cernan (onboard): Did you bring some extra Velcro with you, babe? [Garble].
+001:27:37 Stafford (onboard): I've got it all set up.
+001:27:52 Cernan (onboard): Do you guys want the spotmeter [garble]?
+001:27:55 Young (onboard): No.
+001:27:57 Cernan (onboard): Have you got a place to put it?
+001:27:59 Young (onboard): I don't want it. You want it, Tom?
+001:28:04 Stafford (onboard): [Garble].
+001:28:07 Young (onboard): [Laughter.] [Garble] willing to get it.
+001:28:09 Stafford (onboard): That should hold it.
+001:29:10 Young (onboard): [Garble]. We've got to have two docking [garble]. [Garble] Baja California.
+001:29:31 Young (onboard): [Garble] Baja California.
+001:29:38 Cernan (onboard): [Garble] lock on.
+Day 1, part 1: Countdown, launch and climb to orbit
+Journal Home Page
+Day 1, part 3: Earth orbit, rev 2

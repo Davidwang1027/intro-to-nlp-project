@@ -1,0 +1,683 @@
+A8FJ - Day 3: Lunar Encounter
+Day 3: The Black Team
+- Approaching the Moon
+Journal Home Page
+Day 4: Lunar Orbit 1
+Apollo 8
+Day 3: Lunar Encounter
+Corrected Transcript and Commentary Copyright © 2003-2025 by W. David Woods, Frank O'Brien and William Smeaton. All rights reserved.
+Last updated 2025-02-21
+Apollo 8 has just disappeared behind the Moon's western limb and will be out of radio contact with Earth for a period of time that depends on what the crew do in the next few minutes. If they do nothing, the Moon's gravity will sling them around and send them back towards Earth. They would then re-emerge from behind its eastern limb 22½ minutes later, having aborted the mission. What they intend to do is to fire their SPS (Service Propulsion System) engine for a little over four minutes against their direction of travel, slowing them down enough to be captured by the lunar gravitational field. If this burn works as expected, then according to the trajectory experts and their computers, Apollo 8 will reappear 32 minutes, 37 seconds after it disappears. Any deviation from the planned burn will affect this duration, making it a good initial test of the burn's fidelity and their trajectory.
+In the minds of many, this temporary interruption of Apollo 8's communication link by the massive bulk of another world is a most profound step in human exploration, at least since the flight of Yuri Gagarin. Arguably, it is of equal historical importance and almost certainly represents the point where the United States was deemed to have essentially won the race to the Moon. Apollo 11 would be the remembered mission. However, Apollo 8 made the political point. This is borne out by the fact that the Soviets were pushing to achieve a similar manned circumlunar flight in the months leading up to Apollo 8 with which they would have undoubtedly claimed the kudos of reaching the Moon first.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+This is Apollo Control, Houston. They're traveling over the back side of the Moon now. Our velocity reading here; 7,777 feet per second [2,370 m/s]. At the present time we show an altitude above the Moon of 293 nautical miles [543 km]. So at 69 hours, 1 minute; this is Apollo Control, Houston.
+While out of view and radio range of Earth, telemetry on the spacecraft's most vital systems is being recorded on the DSE (Data Storage Equipment) tape recorder. The crew's conversations are also recorded on this tape, whose contents will be replayed to Earth once they come around for a nearside pass.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+068:58:02 Lovell (onboard): 58:04.
+068:58:06 Borman (onboard): Geeze.
+Just as Jim Lovell reminded his commander, Frank Borman, of the exact time they were calculated to lose the S-band radio signal from Earth, it was lost, a precision by the Earthbound computers of some wonder to Frank.
+068:58:10 Anders (onboard): S-Band Volume, down.
+068:58:12 Borman (onboard): That was great, wasn't it? I wonder if they've turned it off.
+068:58:19 Anders (onboard): [Laughing.] Chris probably said, "No matter what happens, turn it off.
+Chris Kraft is very much the boss in Houston. At the time of Apollo 8, he is the Director of Flight Operations and the man the Flight Directors report to. The joke that Bill Anders injects is to suggest that Kraft would have ordered the people at the transmitting station to turn off the radio signal at the right time so as not to worry the crew if the predictions had not been so accurate.
+068:58:24 Lovell (onboard): Okay. My S-volume is down.
+068:58:25 Borman (onboard): Alright, let's go ahead with the checklist. Okay, we've got 10 minutes. We want to hold at the 6-minute mark.
+They are following the checklist for Program 40 per pages G-43 to G-49 in the Guidance Checklist. As we pick them up, they are beginning the TVC (Thrust Vector Control) Check and Preparation section, midway down page G-45. While the engine is firing, it is important for its thrust axis to act through the spacecraft's centre-of-gravity to avoid it tumbling. To achieve this, the SPS engine is mounted on gimbals with actuators that allow it to be aimed before and during a burn. Note that these checks had already been performed while to spacecraft was still in view of Earth so that ground controllers could monitor telemetry. Now the crew are repeating the steps purely as checks.
+068:58:31 Anders (onboard): Okay. You got the Stabilization Control System's circuit breakers, panel 8, Closed.
+068:58:34 Borman (onboard): Right.
+Panel 8 is to the left of the Main Display console and populated mostly with circuit breakers. Though there are two rows of breakers for the SCS (Stabilisation and Control System), the checklist line is referring to a single breaker at the top left.
+068:58:35 Anders (onboard): Closed SPS, 12, Closed.
+068:58:36 Borman (onboard): Right.
+These twelve SPS circuit breakers are also on panel 8, second row from the bottom. They feed power to the gauging system, the helium pressurisation valve, the engine gimbal motors and the two pilot valves that control the flow of propellant to the engine.
+068:58:37 Anders (onboard): Deadband, Minimum.
+068:58:39 Borman (onboard): Deadband, Minimum.
+Bill and Frank are using the challenge and response methodology to work through the checklist. Bill reads the line from the checklist and Frank confirms to him that the requested action has been carried out.
+Deadband refers to the range of attitudes around the ideal that the spacecraft can drift through before active steps are taken to correct it. There are two settings for this: maximum is ±5° and minimum is ±0.5°. For the next series of checklist lines, Frank deals with switches on Panel 1 of the Main Display Console.
+068:58:40 Anders (onboard): Rates, Low.
+068:58:41 Borman (onboard): Low.
+When the RCS system does need to correct the attitude of the spacecraft, it can be set to do so at a high (7° per second) or low (0.7° per second) rate.
+068:58:42 Anders (onboard): Limit Cycle, On.
+068:58:43 Borman (onboard): Limit Cycle, On.
+The Limit Cycle switch enables a subtle aspect of automatic attitude control. With the switch set to On, then during active attitude correction, when the spacecraft approaches the deadband, the RCS jets are made to pulse on and off quickly rather than making long firings. This helps to reduce the overshoot effects of liquids sloshing about in the tanks.
+068:58:44 Anders (onboard): Manual Attitude, three, Rate Command.
+068:58:47 Borman (onboard): Rate Command.
+Three switches, one each for roll, pitch and yaw, set the mode that the spacecraft's attitude is controlled in. The Rate Command position gives control to the SCS and allows rotation rates that are proportional to the deflection.
+068:58:48 Anders (onboard): BMAG Mode, three, Att 1/Rate 2.
+068:58:49 Borman (onboard): Att 1/Rate 2.
+This refers to another three switches, one each for roll, pitch and yaw, which set how two sets of gyros, the gyro assemblies, supply information to the rest of the SCS, including the two FDAIs (Flight Director Attitude Indicators). The gyros are called BMAGs as they are body mounted and used primarily for attitude control. In this configuration, gyro assembly 1 will supply attitude information while gyro assembly 2 supplies rate of change of attitude information.
+068:58:52 Anders (onboard): Rotational Control Power Direct, both, Off.
+068:58:54 Borman (onboard): Off.
+The rotational hand controllers have two modes of operation. In Normal, they operate via the computer so that commands can be interpreted into different ways of firing the RCS thrusters. In Direct mode, the controllers directly signal the thrusters to fire. This is a mode that must be used carefully as it can cause prodigious amounts of manoeuvring fuel to be consumed.
+068:58:55 Anders (onboard): SCS TVC, two, Rate Command.
+068:58:59 Borman (onboard): Rate Command.
+Thrust vector control is normally handled by the Guidance and Navigation system. As a backup, the commander can fly the engine manually. In case he has to resort to it, this switch setting readies the manual control system in a rate-damped mode which is the easiest way to control the engine.
+068:59:01 Anders (onboard): TVC Gimbal Drive, Pitch and Yaw, Auto.
+068:59:03 Borman (onboard): Auto.
+At the bottom of Panel 1, two switches set how the pitch and yaw gimbals that move the engine bell are controlled. In auto, the control is automatic. However, control signals can be sent to the primary (1) or secondary (2) gimbal system.
+By the checklist, this is the six-minute point and there are nine minutes to go. They will hold here and continue in three minutes time.
+068:59:05 Anders (onboard): Have you got your GDC aligned?
+068:59:06 Borman (onboard): Yep.
+068:59:11 Borman (onboard): GDC aligned.
+The GDCs (Gyro Display Couplers) take signals from the two gyro assemblies and use them to drive the FDAIs. However, the BMAGs (the type of gyros in these assemblies) do not have an absolute attitude reference as they only measure changes in attitude. The resulting measurements from this are prone to error and drift. Periodically, then, the GDCs' knowledge of absolute attitude must be updated which is done by aligning them with the IMU (Inertial Measurement Unit) and its stabilised platform. This is done simply with a push-button on Panel 1.
+068:59:13 Anders (onboard): CMC and Auto.
+068:59:14 Borman (onboard): CMC and Auto.
+Bill is looking at items in the top half of page G-45, apparently just to double check them. These two items are the switch settings for the spacecraft control mode.
+068:59:18 Anders (onboard): Delta-V Set in Delta-V.
+068:59:22 Borman (onboard): Up here, you mean?
+068:59:23 Anders (onboard): Yeah.
+Bill is now referring to a line halfway down page G-43 of the checklist. This is to have the EMS (Entry Monitor System) prepared to provide a backup means of shutting down the engine. Frank entered a Delta-V figure into the EMS display. As the burn progresses, this figure will reduce, sending a shutdown command when it goes below zero.
+068:59:24 Borman (onboard): Yes.
+068:59:25 Anders (onboard): Just going back and catching all those things.
+068:59:38 Borman (onboard): Is that all?
+068:59:39 Anders (onboard): That's it.
+068:59:41 Anders (onboard): Waiting to turn on the Bus Ties.
+Bill is waiting for the six-minute point in their count. At that time, he will throw two switches that channel power from the batteries to the main DC power busses as follows: the A/C switch puts battery A across Main Bus A and battery C across Main Bus B; the B/C switch puts battery B across Main Bus B and battery C across Main Bus A. The extra power is needed to supply the gimbal motors that aim the SPS engine.
+069:00:23 Borman (onboard): Okay, 8 minutes.
+069:01:00 Lovell (onboard): Well, the main thing to be is be cool.
+Presumably Jim means that they should try and not get too worked up about their current historic situation and the accuracy demanded in what they are about to do. Quickly, Frank begins talking about the temperature of the cabin.
+069:01:03 Borman (onboard): Gosh, it is cool.
+069:01:07 Lovell (onboard): It's up to 80 [Fahrenheit, 27°C] in the cockpit.
+069:01:10 Anders (onboard): No, I think - just when my clothes touch me, it gets cold, huh?
+069:01:18 Lovell (onboard): Well, I'll tell you, gentlemen; that Moon is pretty close.
+It is an interesting question as to what cues Jim is using to determine this. The map update read to the crew two hours ago includes a time, 069:05:05, just over three minutes before the LOI-1 burn, when the crew will pass over the 150° west meridian, a line which coincides with the eastern rim of the large crater, Korolev. Based on a look at later photography, that rim also coincides with the Moon's sunset terminator. Therefore, they will not fly over the sunlit Moon for another three minutes. Additionally, the spacecraft is oriented to be facing engine-first at LOI ignition as they travel towards the daylit Moon, which means the spacecraft's windows are facing towards the lunar night. However, they are flying in a heads-down orientation with the windows favouring the Moon's surface. Based on Frank's debrief remarks reproduced at 069:15:24, it seems like that Jim is inferring the Moon's proximity by seeing an arc of darkness that contains no stars.
+069:01:20 Borman (onboard): 7 minutes [to ignition].
+069:01:46 Anders (onboard): Pressure should go down to about 1,500 [psi, 10.3 MPa].
+069:01:48 Lovell (onboard): Huh?
+069:01:50 Anders (onboard): Helium pressure will be going down to about 1,500.
+The propellants for the SPS engine are stored in four great tanks that take up most of the bulk of the Service Module. For reliability reasons, there are no pumps to feed the fuel and oxidiser to the engine. Instead, the tanks are pressurised by helium fed from two small high-pressure tanks mounted in the module's central tunnel. This pressure forces the propellants to the engine. With the propellant tanks still full, little helium has been used and the pressure in the helium tanks is in the order of 25 MPa (3,600 psi). Bill is pointing out how far the helium pressure should drop to. It is also a reminder that a value below 1,500 psi would indicate a helium leak - a very serious problem if one is just entering lunar orbit.
+069:01:53 Lovell (onboard): Will it stay there?
+069:01:55 Borman (onboard): Okay, let's go.
+069:01:57 Lovell (onboard): [Garble] minute, Frank.
+069:02:02 Borman (onboard): Come on, Bill; 6 minutes.
+069:02:06 Anders (onboard): Okay. Main Bus Ties, going On.
+069:02:16 Anders (onboard): A is On; B is On.
+069:02:22 Anders (onboard): TVC [SPS Thrust Vector Control] Servo Power, one, AC 1, Main A.
+069:02:24 Borman (onboard): AC 1, Main A.
+069:02:26 Anders (onboard): AC 2, Main B.
+069:02:27 Borman (onboard): AC 2, Main B.
+Power has now been fed to the servos that operate the engine gimbals. The primary servos are fed from the primary AC bus, while the secondary servos are powered from the secondary AC bus.
+069:02:28 Anders (onboard): Translation Control Power, On.
+069:02:29 Borman (onboard): On.
+069:02:30 Anders (onboard): Rotational Control Power, Normal 2, AC.
+069:02:32 Borman (onboard): AC.
+069:02:33 Anders (onboard): Rotational Hand Controller number 2, Armed.
+069:02:35 Borman (onboard): Armed.
+Two hand controllers need to be operational for this manoeuvre. If the automatic control of the engine gimbals fails, then Frank needs the rotational hand controller to be able to hold the spacecraft's attitude. Prior to SPS ignition, a ullage burn will be carried out which is essentially a plus-X translation manoeuvre, requiring the use of the translational hand controller.
+069:02:37 Anders (onboard): Okay. Stand by for the primary TVC check.
+The following sequence checks that the Thrust Vector Control is properly configured.
+069:02:39 Anders (onboard): You want Pitch 1, On?
+069:02:46 Borman (onboard): Not quite.
+069:02:47 Lovell (onboard): It's [at] 5 minutes.
+Meaning the time when the SPS gimbals are to be powered on.
+069:02:49 Anders (onboard): 69:03:20; we'll just get it at 69:03.
+069:02:53 Anders (onboard): Okay, ready?
+069:02:54 Borman (onboard): Yeah.
+069:02:56 Anders (onboard): Okay. Go ahead and start Pitch 1.
+069:02:57 Borman (onboard): 1.
+069:02:58 Anders (onboard): Got it.
+069:03:00 Borman (onboard): Yaw 1.
+069:03:01 Anders (onboard): Got it.
+069:03:02 Borman (onboard): Okay.
+Momentary switches on panel 1 activate relays that send power to the primary gimbal motors on the SPS.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+Apollo Control, Houston; 69 hours, 3 minutes now into the flight of Apollo 8. Apollo 8 now traveling over the back side of the Moon. Time of ignition for our Service Propulsion System engine burn; 69 hours, 8 minutes, 52 seconds [sic - planned time of ignition is 069:08:19.52]. Some - a little over four minutes away from this time, Apollo 8 will perform its burn in the guidance and navigation mode, using the onboard computer and the DSKY - the Display Keyboard. To do this, the crew will key into one of their guidance programs on the DSKY. The Service Propulsion System gimbal is trimmed before the burn. Maneuver to burn altitude [means attitude] has already been accomplished. A good deal of data will be flashed on the DSKY; and then in the final thirty seconds, a countdown to time of ignition will come up on its face. And at time of ignition minus seco - five seconds, comes what in effect is a final Go/No Go. The computer in effect asks the crew, 'May I proceed?' To execute the burn, one of the crew, probably spacecraft Commander Frank Borman, must punch the Proceed key. So at 69 hours, 4 minutes, 55 seconds into the flight of Apollo 8; this is Apollo Control.
+Jim's utterance at 069:07:30 indicates that he will press the Proceed key.
+069:03:03 Anders (onboard): Translational Hand Controller [THC], clockwise.
+069:03:04 Borman (onboard): Clockwise.
+069:03:06 Anders (onboard): Verify no MTVC [SPS Manual Thrust Vector Control].
+069:03:07 Borman (onboard): No MTVC.
+With the primary gimbal motors powered, Frank turns the THC clockwise to try and control the engine's aim. If their configuration is correct, the engine should not respond to his commands as the primary gimbals are to be controlled by the G&C system and any manual control is to be via the rotational controller.
+Their next check is to ensure the secondary gimbals do respond to Frank's commands, as they should.
+069:03:09 Anders (onboard): Okay, SCS sec - TV - secondary TVC check.
+069:03:13 Borman (onboard): Alright.
+069:03:14 Anders (onboard): Pitch 2 and Yaw 2, On.
+069:03:16 Borman (onboard): Pitch 2.
+069:03:17 Anders (onboard): Got it.
+069:03:18 Borman (onboard): Yaw 2.
+069:03:19 Anders (onboard): Got it.
+Now the secondary gimbal motors are activated via relays.
+069:03:20 Anders (onboard): Set GPI trim.
+069:03:22 Lovell (onboard): Minus 161.
+069:03:24 Anders (onboard): Got it.
+069:03:25 Lovell (onboard): Plus 129.
+GPI is Gimbal Position Indicator, a set of dual-use gauges on panel 1. During ascent from Earth, they showed the tank pressures in the launch vehicle using the 0 to 50 scales. Now they will show the angles to which the SPS engine is being aimed using the scales that run from +4.5, through zero to -4.5.
+GPI meters and GPI trim thumbwheels aboard the Apollo 13 Command Module Odyssey.
+This photograph shows the GPI meters and the two GPI trim thumbwheels on board the Apollo 13 Command Module, Odyssey. The crew are setting the trim angles on the thumbwheels. These only have relevance when the crew have to manually aim the engine, which they do so for the start of the burn. This Manual TVC Mode is being tested now. The secondary motors are controlled by the Rotational Hand Controller. Frank tries moving the controller and confirms that the engine moves by watching the needles on the GPI.
+069:03:28 Anders (onboard): Verify MTVC.
+069:03:31 Borman (onboard): Verified.
+069:03:32 Anders (onboard): Translational Hand Controller, Neutral.
+069:03:34 Borman (onboard): Neutral.
+The THC was previously turned clockwise to enable the secondary TVC mode. Now that the check is complete, the THC is returned to normal.
+069:03:35 Anders (onboard): GPI returns to zero.
+069:03:36 Borman (onboard): Zero.
+The checklist actually says that the GPI meters should return to zero if they have the primary system under control of the G&N system, otherwise, if the SCS is in control, the trim angles would be displayed.
+069:03:37 Anders (onboard): Rotational Control Power, Normal 2, AC/DC.
+069:03:40 Borman (onboard): AC/DC.
+069:03:45 Anders (onboard): Okay. You want to trim it one more time.
+069:03:47 Borman (onboard): Okay.
+The crew is midway down G-46. At this stage, they have the option to ensure the spacecraft attitude is still correct (perhaps because the movements of the engine bell may have upset the spacecraft attitude slightly) by returning to step 12 at the top of page G-45 where they ask the computer to manoeuvre the spacecraft to the requested attitude angles.
+069:03:48 Anders (onboard): Okay.
+069:03:49 Borman (onboard): Ready?
+069:03:50 Anders (onboard): Negative.
+069:03:52 Anders (onboard): BMAG Mode, three, Rate 2.
+069:03:53 Borman (onboard): Rate 2.
+Both sets of gyro assemblies are switched to provide rate data to the FDAIs.
+069:03:54 Anders (onboard): Spacecraft Control, CMC.
+069:03:56 Borman (onboard): CMC.
+069:03:58 Anders (onboard): CMC Mode, Auto.
+069:03:59 Borman (onboard): Auto.
+069:04:00 Anders (onboard): Proceed.
+069:04:02 Borman (onboard): Proceed. We're right there [at the correct attitude].
+069:04:04 Anders (onboard): Ok. You ready to bypass?
+069:04:08 Borman (onboard): Yeah.
+With the spacecraft attitude checked, the crew return to the middle of Page G-46 where they can move on to step 15. First they have to return the BMAGs in the gyro assemblies to providing attitude and rate data.
+069:04:09 Anders (onboard): Att 1/Rate 2.
+069:04:10 Borman (onboard): Att 1/Rate 2.
+069:04:11 Anders (onboard): Enter.
+069:04:13 Borman (onboard): Enter.
+069:64:14 Anders (onboard): Gimbal test option.
+Now they move onto step 15.
+069:04:15 Borman (onboard): Right.
+069:04:16 Anders (onboard): Verify CMC.
+They verify that the spacecraft attitude is still under the control of the CMC (Command Module Computer).
+069:04:38 Borman (onboard): Right.
+069:04:19 Anders (onboard): Proceed. Call it out.
+069:04:24 Borman (onboard): Oh, you Entered instead of - you Entered, Jim. All right, you would bypass [garble]
+Step 15 has the option to accept or reject the gimbal test option. This exchange implies that Jim is helping the process by operating the DSKY and that he has chosen to bypass the test by pressing Enter rather than Proceed. Jim is confident in the operation of the SPS gimbals, and he believes that his small procedural error will not be of any consequence.
+069:04:33 Lovell (onboard): [Garble] It's okay. No sweat.
+069:04:35 Borman (onboard): Counting down. Okay?
+069:04:36 Anders (onboard): What happened?
+069:04:37 Borman (onboard): He Entered...
+069:04:38 Lovell (onboard): Should have Proceeded. No sweat.
+069:04:40 Borman (onboard): We're just counting down, now.
+069:04:41 Anders (onboard): Okay.
+069:04:44 Borman (onboard): 3 minutes and 34 seconds, counting.
+Program 40, which performs the burn, is running on the computer. Verb 06 Noun 40 is selected on the DSKY. This code says, "Display the contents of Noun 40." The DSKY's three displays will show the time elapsed from ignition, the velocity still to be gained and the velocity change thus far. These will let the crew monitor the progress of the burn.
+069:04:52 Anders (onboard): Okay, Rotational Control Power, Direct, both, Main A, Main B.
+069:04:56 Borman (onboard): Main A and Main... [B]
+Power for the rotational hand controller is switched to come from both main DC power busses.
+069:04:57 Anders (onboard): SPS helium valve, Auto, verify.
+With the helium valve in auto, helium is only allowed into the propellant tanks when the engine valves are energised.
+069:05:02 Anders (onboard): Limit Cycle, Off.
+069:05:04 Borman (onboard): Off.
+The Limit Cycle switch was set On during the TVC check.
+069:05:05 Anders (onboard): FDAI scale, 50/15.
+069:05:08 Borman (onboard): Alright.
+Around the edge of the FDAI are three displays that show the rate of rotation of the spacecraft.
+Flight Director/Attitude Indicator (FDAI) on board the Apollo 13 Command Module Odyssey.
+The FDAI Scale switch allows the crew to select what is meant by the full scale deflection of these needles. Its positions are ±1° per second, ±5° per second and a "50/10" position that means ±10° per second in pitch and yaw, and ±50° per second in roll.
+The same switch also selects the full scale deflection for the attitude error needles (the yellow needles within the ball display).The first two positions of the switch represent ±5° error while the bottom position selects ±15° in pitch and yaw, and ±50° in roll. The crew have therefore selected the position that has the coarsest resolution for the error and rate displays.
+About now they are passing over the 150°W meridian which we reckon is also the terminator. They ought to be able to see the lunar features out of their window very soon.
+069:05:10 Anders (onboard): Okay, at 2 minutes to go, we'll hit the Delta-V Thrust A, Normal.
+069:05:15 Borman (onboard): Alright.
+069:05:21 Anders (onboard): I'm going to give you a Go...
+069:05:22 Borman (onboard): At that point there?
+069:05:23 Lovell (onboard): Yeah.
+069:05:26 Anders (onboard): At 2 minutes to go?
+069:05:27 Borman (onboard): Hey, you know the one thing. The problem is we didn't go to trim.
+069:05:33 Anders (onboard): Yeah, I said trim - it goes to trim...
+069:05:35 Borman (onboard): Okay.
+069:05:36 Lovell (onboard): Or zero.
+069:05:37 Anders (onboard): It's to trim!
+069:05:38 Lovell (onboard): It is? Okay.
+069:05:39 Anders (onboard): Yeah.
+069:05:41 Borman (onboard): On that horizon, boy, I can't see squat out there.
+069:05:47 Anders (onboard): You want to turn off your lights to check it?
+The cockpit lights prevent any night adaptation of their eyes, making it impossible to see many stars. Without the ability to see faint stars, the horizon of the Moon cannot easily be discerned. Still any "horizon" that might be visible would be very hard to discern. See discussion at 69:01:18
+069:05:49 Lovell (onboard): Hey, I got the Moon.
+For the first time in the mission, the crew can see the first shafts of sunlight obliquely illuminating the lunar surface. They are flying heads-down and the windows are looking at the surface they have just passed. Frank ought to be able to see to the south through window 1 while Bill would be looking to the north out of window 5. Jim has the best view of the surface below and to the east of them as he looks straight ahead out of the central hatch window.
+069:05:51 Anders (onboard): Do you?
+069:05:52 Lovell (onboard): Right below us.
+069:05:54 Borman (onboard): Okay.
+069:05:55 Anders (onboard): It is below us?
+069:05:56 Lovell (onboard): Yeah, and it's...
+069:05:57 Anders (onboard): Oh, my God!
+The first reaction to seeing the Moon makes Frank think that Bill has found a problem with the systems.
+069:05:58 Borman (onboard): What's wrong?
+069:05:59 Anders (onboard): Look at that!
+069:06:00 Borman (onboard): Well, come on - Let's - What's, what's the....
+069:06:02 Lovell (onboard): 69:06.
+069:06:04 Borman (onboard): Stand by, we're all set.
+069:06:08 Borman (onboard): 2:13, 2:12.
+069:06:12 Anders (onboard): Okay. 69:06:20.
+With two minutes left in the count, Bill picks up the checklist at the top of page G-47.
+069:06:16 Anders (onboard): Okay. Delta-V Thrust A, Normal.
+069:06:19 Borman (onboard): Normal.
+Two guarded switches in the middle of panel 1 enable the main and backup Pilot valves in the SPS engine. Frank has enabled the main valves, set A, which will now open upon command from the computer. Set B will be brought into play soon after ignition.
+069:06:20 Anders (onboard): Translational Hand Controller, Armed.
+069:06:22 Borman (onboard): Armed.
+069:06:23 Anders (onboard): Rotational Hand Controller, both, Armed.
+069:06:24 Borman (onboard): Armed.
+The hand controllers are ready to be used if called upon if the primary automatic systems fail.
+069:06:25 Anders (onboard): Tape Recorder's going Stop.
+There are two recorders onboard the spacecraft. The DSE has been operated regularly throughout the flight to record telemetry and crew voices. It is regularly replayed to Earth and is recording the voices you are reading in this journal. The second recorder is the Flight Qualification Recorder which, by its presence, shows that Apollo 8's spacecraft, CSM-103, is still very much an experimental vehicle. Unlike the DSE, it is an analogue instrument and will only be replayed on return to Earth. It is therefore activated only during ascent, entry and for SPS engine burns.
+The Flight Recorder will start recording with only seconds to go to ignition. By the fact that we have this transcript, we know the DSE is recording. Therefore, Bill may simply be stating a line of the SPS ignition checklist that is not relevant to this situation. Remember that the checklist is for any use of the SPS engine, whether or not the spacecraft is behind the Moon.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+069:06:45 Anders (onboard): Well, I see two - Look at that - fantastic!
+069:06:47 Lovell (onboard): Yeah.
+069:06:50 Anders (onboard): See it? Fan - fantastic, but you know, I still have trouble telling, the holes from the bumps.
+Bill and Jim are struck by the view unfolding out of their windows and will have to be pulled back into the cabin and their instruments by their commander.
+One characteristic of our perception of the lunar surface is that, at first, we have difficulty telling depressions from high ground. Without the cues of familiar objects to help us, and with the right lighting, our brain can interpret the countless lunar crater pits with a positive as well as a negative relief. Experienced lunar watchers do not have this problem as they long ago learned to make the correct distinction.
+069:06:55 Borman (onboard): All right, all right, come on. You're going to look at that for a long time.
+One of Frank's main responsibilities as commander is to "keep the troops focused". This certainly isn't to say that Jim and Bill are running around the spacecraft like toddlers on a sugar high, but at this point, Frank wants to maintain a tone of "all business". Even without the actual tapes, we can likely guess that he is gently chiding Jim and Bill to keep their attention at the task at hand.
+069:07:07 Anders (onboard): 20 hours, is that it?
+Twenty hours or ten orbits is the length of time they will spend in lunar orbit.
+069:07:17 Borman (onboard): Okay.
+069:07:19 Anders (onboard): Coming up 07:45; DSKY should blank.
+At 069:07:45, with only 35 seconds to ignition, the display on the DSKY will go blank to show that the G&N system has begun measuring the average g-force that the burn will produce.
+069:07:22 Borman (onboard): 1 minute. Come on, Jim, let's watch it real good.
+069:07:30 Lovell (onboard): I'm proceeding on [Verb] 99.
+Five seconds before TIG, the computer will begin to flash "99". This is a request from the computer asking for permission to open the propellant valves and ignite the engine. Just so there is no confusion, Jim is stating that when it does so, he will be the one to press Proceed. This is the final task necessary to perform the engine ignition.
+069:07:45 Borman (onboard): DSKY blank.
+069:07:46 Anders (onboard): Okay. Okay, average g, On; Flight Recorder's going to Record; EMS Mode, Auto.
+069:07:56 Lovell (onboard): Auto.
+069:07:57 Anders (onboard): Check PIPA bias.
+This is a step that was dropped from the checklists of later flights. The PIPAs are the accelerometers within the IMU (Inertial Measurement Unit) which are mounted on the stabilised platform. PIPA is Pulsed Integrating Pendulous Accelerometer and there are three of them, one each for the three directions of three-dimensional space. They do exhibit some bias which shows up as an apparent change in velocity when they are really in a zero-g environment. It is unclear how this would be determined during the final seconds before ignition but it may be simply a case of watching the Delta-V display while they are still weightless and ensuring it does not change by more than 2 fps every five seconds.
+069:07:59 Anders (onboard): No ullage required. Standing by for Engine On Enable. [Press] Proceed when you get it [that being Verb 99 on the DSKY].
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 69 hours, 8 minutes. Apollo 8 is now less than 30 seconds away from the planned time of Lunar - the Lunar Orbit Insertion burn. The crew should be now looking at the countdown to ignition on the face of their Display and Keyboard. Heads down, they should be seeing the features, the rugged features over the back side of the Moon moving below them at a high rate of speed. Standing by, this is Apollo Control.
+069:08:07 Lovell (onboard): Okay.
+069:08:08 Anders (onboard): Start your watch when you get ignition.
+069:08:12 Anders (onboard): Stand by for Delta-V, Normal, B.
+When the engine starts, it will only be using one of two sets of valves that let propellant flow to the engine. Bill is reminding Frank and Jim that the secondary set, the B set, should be enabled soon after ignition per a handwritten addition to page G-48 of the checklist. Having both A and B banks of valves operating allows the engine to reach its proper thrust.
+069:08:16 Lovell (onboard): Enabled.
+At 069:08:20 the SPS engine ignites for its 4-minute burn, bringing humans into lunar orbit for the first time in history.
+069:08:21 Borman (onboard): 1 second, 2 seconds; alright, how's every...
+069:08:24 Anders (onboard): We got them. Pressure's holding good.
+There are two pressure readings the crew will be looking at during the burn. Bill is watching the pressures in the propellant tanks on a pair of meters at the top of panel 3.
+Meters for displaying SPS propellant tank pressures. Photographed in the Apollo 13 Command Module Odyssey.
+This photograph shows the same meters as photographed in the Apollo 13 Command Module, Odyssey. The four scales show propellant temperature, pressure of either the helium or nitrogen storage tanks and the pressure in the fuel and oxidiser tanks respectively. As the engine begins operation, helium is allowed into the propellant tanks to keep them pressurised as their contents are depleted.
+On the opposite side of the Main Display Console, Frank is watching the combustion pressure meter. This little meter was used during launch from Earth to show the angle of attack based on the air pressure on the tip of the launch vehicle as it rose through the thickest part of the atmosphere. Now it monitors the pressure imposed on the combustion chamber walls by the burning fluids, PC, and is a good indication of how well the engine is performing.
+069:08:28 Borman (onboard): Alright. Everything's good over here, so far.
+069:08:30 Anders (onboard): Everything is looking good.
+069:08:37 Borman (onboard): 15 seconds.
+069:08:40 Anders (onboard): That's four ball valves; everything is great.
+Frank has brought the B bank of valves into play by placing the Delta-V Thrust, B switch in the Normal position. Once he has done that, a small but noticeable increase in thrust can be felt.
+Indicators aboard the Apollo 13 Command Module Odyssey which show the status of the primary and secondary pilot valves.
+On Bill's panel, four indicators show the position of the four propellant valves and he confirms that they show that all four are open.
+069:08:42 Borman (onboard): Okay.
+069:08:43 Anders (onboard): Pressures are coming up nicely.
+069:08:45 Borman (onboard): Alright.
+069:08:59 Anders (onboard): Everything is great.
+069:09:03 Lovell (onboard): Be the longest 4...
+Although Jim doesn't finish his sentence, readers can easily imagine how it is finished.
+069:09:04 Borman (onboard): Long burn.
+069:09:17 Lovell (onboard): She holding good?
+069:09:19 Borman (onboard): Drifting a little bit in roll.
+069:09:26 Anders (onboard): Good shape. PC check?
+069:09:30 Borman (onboard): 100 [psi, 690 kPa].
+069:09:36 Anders (onboard): EMS is counting down.
+Given the positioning of the EMS display directly in front of Frank, it is entirely possible these are his words.
+The EMS has its own accelerometer, the output of which causes the Delta-V display to count down from the original Delta-V figure entered by the crew. If it passes zero, the EMS will send a command to shut down the engine. If the flight controllers have done their sums right, this will be at the same time that the G&N system will be sending the same command based on its own calculations. Either way, they have redundant methods of automatically shutting the engine down.
+If neither of the automatic systems work, the crew can manually bring the burn to an end by throwing the two Delta-V Thrust switches. Near the bottom of page G-48, there are instructions on when they should do this and in the case of the LOI-1 burn they should wait six seconds after the planned end of the burn. If they were to wait much longer, they would be in danger of slowing down enough to cause them to impact the Moon. To try and put this into perspective, consider that in two orbits time, they will make another burn to circularise their orbit, bringing their near-side altitude down by 200 km. This drop in their apocynthion will be achieved with only a 9-second burn. It does not take much of an overburn to place the crew in danger of impact and the six-second allowance for manual shutdown errs on the side of caution.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Although we will not know until we reacquire, their retrograde burn with the Service Propulsion System engine should be progressing now, assuming no last minute complications. We won't know, however, until we acquire.
+069:10:04 Borman (onboard): Jesus, 4 minutes?
+The tension of the situation is readily apparent.
+069:10:20 Borman (onboard): 2 minutes [into the burn].
+069:10:28 Borman (onboard): How's it doing, Bill?
+069:10:30 Anders (onboard): Great shape. Pressures are holding. Helium's coming down nicely. All the systems are Go.
+Helium is leaving its storage tanks to fill the voids left in the propellant tanks by the depleting fuel. The pressure in the helium supply tanks is therefore dropping.
+069:10:48 Borman (onboard): Okay.
+069:10:50 Anders (onboard): We're past 2 minutes; we're in mode 30. Free area for flange Temp. Thing is looking good.
+Mode 30 is one of the abort control points for Lunar Orbit Insertion. Aborts and their recovery procedures during the SPS burn depend greatly on their velocity. Depending on the point of the SPS failure, Apollo 8 might return to Earth, be placed into an unstable orbit in the Earth/Moon system, or be trapped in Lunar Orbit. 'Flange temp' might refer to the SPS engine bell flange, where the nozzle extension is bolted to the engine proper.
+069:11:14 Lovell (onboard): Longest 4 minutes I ever spent.
+069:11:17 Anders (onboard): You know, it seems like about 3-g's.
+At the start of the burn, the engine's thrust was about a third of the Earth-weight of the spacecraft. The acceleration felt by the crew is therefore about a third of a g. As propellant is depleted, this will rise to about half a g by the end of the burn.
+069:11:20 Anders (onboard): 3 minutes [into the burn].
+069:11:24 Lovell (onboard): Okay, you're running a little bit longer on the time on the computer. I got 58, 6, 5, Stand by.
+069:11:39 Anders (onboard): We're looking good, Frank.
+069:11:40 Lovell (onboard): 48 seconds [left in the burn].
+The burn should finish at 069:12:21.5 though this is based on the expected thrust of the SPS engine. In practice, the thrust is about two percent lower than expected and the G&N system will burn the engine correspondingly longer to compensate.
+069:12:00 Lovell (onboard): 28 [seconds].
+069:12:17 Lovell (onboard): Stand by
+069:12:18 Borman (onboard): Okay.
+069:12:20 Lovell (onboard): It went a little bit over, I think.
+069:12:22 Borman (onboard): That's 4:02, right?.
+069:12:24 Anders (onboard): 5, 4...
+069:12:25 Lovell (onboard): I'll let you go...
+069:12:26 Anders (onboard): 3...
+069:12:27 Lovell (onboard): a little bit over.
+069:12:28 Anders (onboard): 2, 1...
+069:12:29 Borman (onboard): Shutdown.
+069:12:30 Anders (onboard): Shutdown.
+The lower than expected thrust has extended the controlled burn duration such that it came to an end at nearly the same time as the crew were meant to manually stop the engine.
+069:12:30 Lovell (onboard): Okay.
+With the burn at an end, Apollo 8 has achieved lunar orbit. The crew continue with the P40 checklist at the bottom of page G-48.
+Borman, from the 1969 Technical debrief: "We performed the LOI number 1 SPS burn with no ullage using Program 40, G&N external Delta-V. We started the engine on bank A, and after approximately 2 seconds I threw on bank B. When we threw it on there was a noticeable surge, but the engines from then on were extremely smooth. The guidance was smooth and the cut-off was very accurate. I don't have the specific details of the cut-off now, but it required no trimming. There was no oscillation or swaying of the spacecraft at the initiation of the burn. It seems that the [engine] gimbal angles that were called up from the ground must have been very close to the center of gravity because we had no initial oscillation at all."
+069:12:32 Borman (onboard): Okay, go ahead.
+069:12:33 Anders (onboard): Okay, Delta-V Thrust, A and B, Off.
+069:12:36 Borman (onboard): Off.
+These are the two switches that would have been used to kill the engine manually. By operating them now, the engine is inhibited from inadvertent ignition.
+069:12:37 Anders (onboard): Verify thrust is Off; it is Off; helium valves are okay; pressure is static; Flight Recorder okay.
+Though Bill mentions the Flight Recorder at this point, he will call for it to be switched off when he reaches the top of page G-49.
+Anders (onboard, continued): SPS, Gimbal Motors, four, Off, slowly.
+069:12:46 Borman (onboard): Okay.
+Like all large inductive loads, the gimbal motors will likely cause a short power surge as current is removed. By switching them one by one, these power spikes can minimised.
+069:12:47 Borman (onboard): 1, Off.
+069:12:48 Anders (onboard): Got it.
+069:12:49 Borman (onboard): 2, Off.
+069:12:50 Anders (onboard): Got it.
+069:12:51 Borman (onboard): 3, Off.
+069:12:51 Anders (onboard): Got it.
+069:12:52 Borman (onboard): 4, Off.
+069:12:53 Anders (onboard): Got it. TVC Servo Power, 1 and 2. Off.
+069:12:56 Borman (onboard): 1, Off; 2, Off.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+Apollo Control, Houston. Now we are in our period of the longest wait thus far in the mission. We're 19 minutes, 50 seconds awayfrom acquisition at this time. During Mission Control simulations, this was a good time for coffee breaks for the flight controllers, but that is not true today. Continuing to monitor, this is Apollo Control, Houston.
+069:12:57 Anders (onboard): Flight Recorder's Off; Main Bus tie's going Off; A is Off; B is Off.
+069:13:13 Anders (onboard): Okay, go with it; proceed.
+A long burn with the SPS is not likely to achieve the exact velocity changes required in the three axes as called for in the PAD. Jim calls up Noun 85 on the computer which displays three velocity figures called VGX, VGY and VGZ. These numbers represent the velocities still to be gained and are known as residual velocities. In the case of midcourse correction burns or Trans-Earth Injection burns, these residual velocities are trimmed out, or "nulled" by using the translation controller. For the LOI burn they are simply recorded, though it appears Jim is about to call for them to be nulled. This is probably due to the layout of the checklist at this point.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+069:13:15 Lovell (onboard): Okay, null resid - proceed.
+069:13:16 Borman (onboard): Proceed.
+069:13:17 Anders (onboard): Null residuals.
+069:13:19 Borman (onboard): Hold it a second or we're not going to null any.
+069:13:23 Anders (onboard): Okay, Record.
+069:13:25 Lovell (onboard): Okay.
+069:13:27 Anders (onboard): Okay, get the Delta-VC
+069:13:32 Lovell (onboard): Okay, Delta-VC.
+069:13:34 Borman (onboard): Minus 20.1.
+The EMS was counting down the velocity change (Delta-VC) as the burn progressed, ready to shut down the engine when it reached zero. This should have happened at the same time the G&N system decided to do so. However, unlike the G&N system, the EMS did not take account of the tail-off thrust. 20.1 fps (6.1 m/s) represents how much velocity change the EMS measured after it reached zero. Some of the figure will be due to the tail-off thrust, some to the error's in Mission Control determination of what figure Delta-VC should be.
+069:13:35 Anders (onboard): Okay. EMS function, Off.
+069:13:38 Borman (onboard): EMS function, Off.
+069:13:40 Anders (onboard): EMS Mode, Standby.
+069:13:41 Borman (onboard): Standby.
+069:13:43 Anders (onboard): BMAG Mode, three, Rate 2.
+069:13:45 Lovell (onboard): Attitude?
+069:13:46 Borman (onboard): Rate 2.
+069:13:47 Anders (onboard): Deadband, Max.
+069:13:48 Borman (onboard): Deadband, Max.
+With the deadband set to maximum, the spacecraft can wander in attitude quite far (±5°) before active steps are made to correct the drift.
+069:13:52 Borman (onboard): Okay.
+069:13:53 Lovell (onboard): VGX...
+069:13:55 Anders (onboard): Trans Control Power, Off.
+069:13:56 Borman (onboard): Off.
+069:13:57 Anders (onboard): Rotational Control Power, Direct, Off.
+069:14:00 Borman (onboard): Off.
+The crew are essentially powering down the systems that were used for the burn, per page G-49 in the Guidance Checklist.
+069:14:01 Anders (onboard): SPS Pitch 1 and 2, Yaw 1 and 2 circuit breakers, Open.
+069:14:05 Borman (onboard): Yaw 1 and 2, Pitch 1 and 2, Open.
+069:14:09 Anders (onboard): Pro - whenever you're ready, proceed.
+069:14:11 Lovell (onboard): Proceed.
+069:14:12 Anders (onboard): Okay, Verb 82, Enter.
+Verb 82 tells the computer to display the size their new orbit based on the effect of the burn.
+069:14:14 Lovell (onboard): Verb 82, Enter. Check it at zero [Program 00, where the computer is not running a major program]; I'd better go to zero, now.
+069:14:22 Borman (onboard): You want to put that in the other state vector, too, don't you?
+Frank is referring to saving a copy of the spacecraft's state vector into the computer's memory location usually reserved for the Lunar Module state vector. Since the LM is not flown on this mission, this is a good way of saving a "backup copy" of the current state vector.
+069:14:25 Lovell (onboard): Yeah.
+069:14:26 Borman (onboard): Got it.
+069:14:31 Anders (onboard): Congratulations, gentlemen, you're at 00.
+And with that arcane reference to arriving at the computer's Program 00 in the checklist, Bill dryly announces that they have completed the most critical parts of the task to insert themselves into lunar orbit.
+069:14:33 Borman (onboard): Well, now is no time for congratulations yet.
+069:14:35 Lovell (onboard): No, we get stuck with that on the carrier. Okay, Verb 82, Enter.
+069:14:40 Borman (onboard): Right.
+069:14:43 Lovell (onboard): Our state vector.
+069:14:49 Anders (onboard): Okay, you got it?
+069:14:50 Lovell (onboard): We're at 1691, minus 6005. Roger.
+It is likely that there is a mistake in the second number. These give the size of their orbit and when the crew eventually speak to Mission Control, Jim will report that its dimensions are 169.1 by 60.5 nautical miles (313.2 by 112.0 km).
+069:14:55 Anders (onboard): Proceed.
+069:14:58 Lovell (onboard): Proceed.
+069:14:59 Anders (onboard): 00, En...
+069:15:00 Borman (onboard): Go back to P00.
+069:15:02 Anders (onboard): 00, Enter.
+069:15:03 Borman (onboard): Wait - wait a minute. Okay.
+069:15:04 Anders (onboard): We go to [Verb] 37 and then P00, though.
+They are going through the final steps of the P40 SPS thrusting program, per page G49 of the Guidance Checklist. Note that the PAO announcer (and the rest of Mission Control) have no confirmation yet that the burn has been completed successfully. The numbers they quote for velocity and distance are based on the spacecraft's trajectory before the burn.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+This is Apollo Control, Houston; 69 hours, 15 minutes now into the flight. Our display readings now show an altitude of 86 nautical miles [159 km], a velocity reading of 8,355 [feet per second, 2,547 m/s]: this last reading assuming that we did not have a burn. Our AOS [Acquisition Of Signal] at this time; 16 minutes, 40 seconds. If, for any reason, the Service Propulsion System engine did not burn, we would see the spacecraft perhaps 10 minutes before a normal acquisition time. So here in Mission Control, continuing to monitor; this is Apollo Control, Houston.
+The PAO announcer's AOS countdown is based on the crew making a successful burn. If the burn had not been made, the spacecraft would not have been slowed down and would consequently reappear around the Moon's eastern limb about ten minutes earlier.
+069:15:11 Anders (onboard): Verb 66, Enter.
+069:15:13 Lovell (onboard): Verb 66, Enter.
+Jim is copying their state vector into spare set of slots in the computer's erasable memory, the final line in the P40 checklist.
+069:15:15 Borman (onboard): That's it. Dig out the Flight Plan.
+069:15:17 Anders (onboard): Whew! Well, we answered it. They're meteorites, aren't they? (Laughter.)
+Prior to NASA's exploration of the Moon, the lunar science community had been split over the origins of the Moon's ubiquitous craters. The number of those who believed that volcanic processes explained the huge circular formations was declining and impact by meteorites was becoming widely accepted as the correct theory. Bill's dry sense of humour seems to be playing on this.
+069:15:22 Lovell (onboard): Hey, I don't see a thing. Where are we?
+069:15:24 Anders (onboard): It looks like a big - looks like a big beach down there.
+The far side of the Moon is a far rougher place than the near side, missing the great dark maria over much of its surface. Instead, this landscape is a beat-up mish-mash of overlapping large craters whose ancient forms have been smoothed by aeons of relentless sandblasting from space. Its rounded, undulating topography reminds Bill of a sandy beach which has seen the passage of many feet.
+Borman, from the 1969 Technical debrief: "We should point out that we never even saw the Moon until we had completed burning LOI. When we saw it, we were in exactly the right position."
+069:15:28 Borman (onboard): Let me have the Flight Plan.
+069:15:29 Lovell (onboard): Holy cow, it's completely blank here.
+069:15:31 Borman (onboard): Okay, Jim, you want to...
+069:15:35 Lovell (onboard): Have we got all the gimbal motors off and all that sort of thing?
+069:15:37 Anders (onboard): Yes, sir.
+069:15:45 Borman (onboard): You want to take some pictures, Bill?
+069:15:47 Anders (onboard): Let's just go by the - whatever the Flight Plan says there.
+069:15:50 Borman (onboard): Alright.
+069:15:53 Borman (onboard): Let's see what it says to do. SPS monitor, you're all through with that? Camera Prep.
+With the LOI burn completed, the crew begin the most intensive phase of the mission. Page 2-51 of the Flight Plan shows the beginning of this twenty-hour, ten-orbit period with different tasks being assigned to each crewmember. Within the next half hour, Frank will hold an inertial attitude then help with preparation of the camera equipment. Jim will also help with unstowing photographic equipment after he makes a check of the Service Module RCS system. Bill, meanwhile, has completed a check of the SPS and begins preparing his camera gear. After his system monitoring duties, photography is his major responsibility during their orbital tour.
+069:15:59 Anders (onboard): Okay, Jim has got to get them out or I'll have to - one of us - both of us probably had best get them out.
+069:16:02 Lovell (onboard): Yeah, I'll just take a look here a minute.
+069:16:11 Lovell (onboard): Which ones are the craters?
+069:16:15 Anders (onboard): Don't we - we have a lot of time for looking; let's get those cameras out. Here, do you want to stick those in, Jim? Please, when you go by?
+069:16:31 Anders (onboard): GDC aligned, IMU/Orb-rate.
+Frank is setting up the spacecraft for orb-rate rotation. After they have spoken to Mission Control in a quarter of an hour, he will begin a rotation whose period matches that of their orbital revolutions, thereby keeping one side of the spacecraft facing the Moon. To help them maintain this, the FDAI will be driven to rotate at the same rate such that, instead of showing inertial attitude (with respect to the stars) it will show attitude with respect to the local horizontal. This drive signal is supplied by an add-on box called the ORDEAL (Orbital Rate Display - Earth and Lunar).
+When the Apollo control system was first conceived, the designers wanted to discard earlier conventions of attitude control which concentrated on the horizon, as pilots have always used. Instead they wished to make Apollo an all-inertial spacecraft, with all attitude references being made with respect to the guidance platform and its orientation with respect to the stars. The crews, being pilots, fought for some kind of aircraft-like reference. After all, many orbital manoeuvres are made parallel to the local horizontal of the planet below. The result is the ORDEAL which can supply a drive signal relevant to either Earth or lunar orbits over a range of altitudes.
+069:16:37 Borman (onboard): Okay, Orb-rate, lunar power.
+069:16:40 Anders (onboard): Can I call a Verb 83 here, Jim?
+Verb 83 brings rendezvous parameters; Range, Range-rate and Theta; onto the DSKY display.
+Diagram to illustrate the angle Theta.
+Theta represents the angle between the spacecraft's plus-X axis and the local horizontal. Frank will use theta to initialise the ORDEAL correctly.
+069:16:45 Lovell (onboard): Oh, you're within...
+069:16:47 Anders (onboard): Huh?
+069:16:48 Lovell (onboard): Yeah, you can do that. You're below 482 miles or whatever it is.
+069:17:00 Borman (onboard): 197.
+069:17:02 Lovell (onboard): Huh? What are you doing?
+069:17:04 Anders (onboard): What do you need? Who are you talking to, me?
+069:17:06 Lovell (onboard): Yes, I thought you said something about Verb 97?
+069:17:09 Anders (onboard): Oh.
+069:17:11 Lovell (onboard): You get the camera equipment, and I'll get this stuff out.
+069:17:18 Anders (onboard): Okay, what's our camera configuration, Frank?
+069:17:21 Borman (onboard): Okay, stand by a minute while I get...
+069:17:23 Anders (onboard): Call them out real loud, because I'm going off the air.
+Bill is probably referring to taking off his headset.
+069:17:35 Borman (onboard): Alright, I'm supposed to - Let's see; 16, 18, new C, exposure, 1/250th; 1 foot per second, one Mag[azine].
+Frank is reading from his column in the Flight Plan. Interpreting the instructions, he is to set up the 16-mm movie camera with an 18-mm lens attached, likely looking out of the left rendezvous window. His next item really means he should use one new magazine of C-EX (colour-exterior SO368) film. The shutter speed should be set to 1/250th second and the camera set to take one frame, not foot, per second. Three additional lenses for the Maurer camera include a 200-mm, a 75-mm and a 5-mm.
+069:17:44 Anders (onboard): [Garble.]
+069:17:53 Borman (onboard): Yeah, new C.
+069:17:55 Anders (onboard): Check.
+069:17:56 Borman (onboard): Right.
+069:18:08 Lovell (onboard): Hey, you know something; it's gray, huh?
+Presumably Jim means the Moon is gray. That will be his comment to Earth twenty minutes after they regain contact.
+069:18:10 Borman (onboard): Yeah.
+069:18:20 Borman (onboard): Okay, I've got to roll right, so watch out.
+The spacecraft is holding an inertial attitude, constant with respect to the stars. As they come around the curve of the Moon, the nose increasingly points towards the surface. The HGA is on the side of the spacecraft away from Earth so Frank rolls 180° to ready it for contacting Mission Control.
+069:18:25 Lovell (onboard): Go easy on those thrusters.
+069:18:34 Lovell (onboard): [Singing.]
+069:18:35 Borman (onboard): You got that thing running, Bill?
+069:18:37 Anders (onboard): What's that, Frank?
+069:18:38 Borman (onboard): The camera?
+069:18:43 Anders (onboard): [Garble.]
+069:18:48 Lovell (onboard): Yeah. Just a minute.
+069:19:10 Anders (onboard): [Garble] Frank. You got the cameras [garble].
+069:19:15 Borman (onboard): 2; 150th; new; B&W; mag[azine] D.
+069:19:18 Anders (onboard): [Garble.]
+069:19:19 Borman (onboard): 1 - 1/80; B&W; 1/250th.
+The crew have two still cameras for capturing images of the lunar surface. These are Hasselblad 6 by 6-centimetre format cameras that use 70-mm film. Each has an 80-mm lens (considered the "standard" lens for the format) and there is a single 250-mm telephoto lens.
+The two lines just read out by Frank are as they are printed in the Flight Plan but the first is confusing. The second line makes sense: use camera 1 with an 80-mm lens, black and white film at a shutter speed of 1/250th of a second. The first line implies a 150-mm lens will be used with camera 2 which does not make sense as no such lens is on board.
+069:19:27 Lovell (onboard): Okay.
+069:19:32 Anders (onboard): Okay, let's get a lens.
+069:19:35 Lovell (onboard): 2, 150?
+069:19:38 Lovell (onboard): 50 millimeter...
+069:19:39 Borman (onboard): 2; 150; new; black and white; mag D.
+Hasselblad cameras have their film preloaded into detachable magazines. The films have a thinner than normal base layer so that 180 frames can be packed into each magazine. At this stage, the magazines are simply given a letter. Back on Earth, they will be catalogued into an overall Apollo numbering system. Magazine D will become roll 12 in the Apollo collection.
+069:19:43 Anders (onboard): I've got mag D.
+069:19:45 Lovell (onboard): Okay. Okay, mag D. I got it off the camera. 70 millimeter?
+069:19:54 Anders (onboard): [Garble] number 2 with this lens.
+069:20:00 Lovell (onboard): Okay. What else? Filters?
+069:20:06 Borman (onboard): Doesn't say anything about filters. Oh, yes, red and black filter, U-4.
+069:20:11 Lovell (onboard): You got that? Okay.
+069:20:16 Borman (onboard): Something went flying down when we started burning, didn't it?
+The burn gave a temporary sense of gravity in the spacecraft with any loose objects falling to the aft of the Command Module.
+069:20:27 Anders (onboard): [Garble.]
+069:20:28 Borman (onboard): Huh?
+069:20:30 Anders (onboard): [Garble.]
+069:20:33 Borman (onboard): No.
+069:20:36 Lovell (onboard): Did I write on there that - the orbit we are in?
+069:20:40 Borman (onboard): It was just what they told me, yes - 169.1 by 60.5 [nautical miles, 313.2 by 112 km].]
+069:20:43 Lovell (onboard): Okay. Okay, when I give the burn status report there, will you...
+069:21:17 Lovell (onboard): Hey, look at - Can you put these cameras someplace? Stash them against the back of your bulkhead. Stash this back there, too.
+069:21:32 Lovell (onboard): Hey, you're maneuvering quite rapidly.
+069:21:35 Borman (onboard): No, I'm not.
+069:22:04 Lovell (onboard): Well.
+069:22:33 Lovell (onboard): Tape, Bill. Thank you.
+069:22:41 Anders (onboard): [Garble.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+Houston here. In Mission Control Center, Cliff Charlesworth getting our - correction there - Glynn Lunney we should say, getting ready to talk to his flight control team. Our time-of-acquisition clock now reading 9 minutes, 45 seconds and we're continuing to watch it. Meanwhile our top clock is counting forward, now reading 25 seconds. The top clock was used to denote an acquisition time if we had a no-burn situation. We will continue to monitor here in Mission Control Center.
+069:23:59 Borman (onboard): Are these cameras all set up right?
+069:24:01 Borman (onboard): Huh?
+069:24:03 Anders (onboard): [Garble.]
+069:24:68 Borman (onboard): Huh?
+069:24:09 Anders (onboard): [Garble.]
+069:24:13 Borman (onboard): Can I take one?
+069:24:15 Anders (onboard): [Garble.]
+069:24:30 Borman (onboard): That's what I thought: it doesn't work.
+069:24:38 Borman (onboard): Well, that - the camera doesn't work.
+069:24:40 Anders (onboard): You want me to try it out?
+069:24:42 Borman (onboard): Yeah.
+069:24:46 Anders (onboard): [Garble.]
+069:25:06 Borman (onboard): Huh? Does it work now?
+069:25:09 Anders (onboard): [Garble.]
+069:25:10 Borman (onboard): We're not that hard up; don't worry about it.
+069:25:15 Lovell (onboard): Listen, we're not going to...
+069:25:18 Borman (onboard): I just want to take a picture.
+069:25:21 Borman (onboard): Hey, look; just slow down and take your time. Okay.
+069:25:28 Borman (onboard): f/8.
+069:25:30 Borman (onboard): f/8 at what?
+069:25:35 Anders (onboard): [Garble.]
+069:25:38 Borman (onboard): Okay.
+069:25:44 Borman (onboard): Okay. Bill, get me MSFN, will you?
+069:25:56 Anders (onboard): AOS at 69:31.
+069:25:59 Borman (onboard): Oh, is it that late? Okay, I thought it was...
+069:26:13 Lovell (onboard): Can you see it? Huh?
+069:26:15 Anders (onboard): Yep, [garble].
+069:26:23 Borman (onboard): It says I'm supposed to run one mag here of 16-millimeter; new color exposure [means exterior film], 1/250th, spot, 1 foot [means frame] per second.
+069:26:35 Anders (onboard): [Garble] Flight Plan (garble]
+069:26:42 Lovell (onboard): Wait a second, Bill.
+069:26:47 Borman (onboard): Take your time; go slow.
+069:26:55 Anders (onboard): Did you take your bracket up?
+069:26:58 Lovell (onboard): No.
+069:26:59 Anders (onboard): [Garble.]
+069:27:00 Borman (onboard): I'll get it.
+069:27:02 Anders (onboard): [Garble.]
+069:27:03 Borman (onboard): Where is it?
+069:27:04 Anders (onboard): [Garble.]
+069:27:06 Lovell (onboard): Boy, there're no shadows in those craters down there. Are we near the subsolar point?
+From Earth, the Moon appears as a waxing crescent so the far side is largely lit. They passed over the terminator just before LOI and as they approach the Moon's eastern limb and contact with Earth, they cross the midday landscape. Here, with the Sun shining nearly vertical on to the lunar surface, they are almost at the subsolar point and there are no shadows to give relief to the topography.
+069:27:11 Borman (onboard): Yes.
+069:27:12 Lovell (onboard): The subsolar point?
+069:27:13 Borman (onboard): Yes, getting close to it.
+069:27:16 Lovell (onboard): What's our attitude?
+069:27:18 Borman (onboard): Well, we're pitch down. We're going around it.
+069:27:22 Lovell (onboard): Are we heads up?
+069:27:23 Borman (onboard): Yeah.
+069:27:26 Borman (onboard): Jim, have you unstowed the orbital charts?
+069:27:28 Lovell (onboard): Yeah, I'm in the process right now. I've got part of them unstowed.
+069:27:44 Anders (onboard): [Garble], Frank.
+069:27:48 Borman (onboard): Okay.
+069:27:56 Anders (onboard): [Garble.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+Apollo Control, Houston. Just under four minutes away now from our time of acquisition with Apollo 8. Apollo 8 still out of range, should be rolling 180 degrees shortly, if not already, to establish S-band High Gain Antenna communications with the ground. We're standing by in Mission Control. This is Apollo Control, Houston.
+069:28:19 Lovell (onboard): Why don't we put it - why don't we temporarily stow it someplace? You're never going to use this thing at all? I think you're making a big mistake using that 250-millimeter [lens].
+The Flight Plan does not call for the 250-mm lens to be used but considering the ambiguous line in the Flight Plan apparently calling for a 150-mm lens, perhaps Bill is using the 250-mm on camera 2.
+069:28:28 Anders (onboard): No, not on [garble] because that's [garble].
+069:28:31 Lovell (onboard): Oh.
+069:28:56 Lovell (onboard): Well...
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+Mark. Three minutes from predicted time of acquisition. Standing by.
+069:29:16 Lovell (onboard): Where do we start doing the fan work, Frank?
+069:29:20 Borman (onboard): Well, first of all, we've got to got these cameras set up.
+069:29:28 Borman (onboard): Bill, that's not in the Flight Plan.
+069:29:42 Borman (onboard): You want me to take pictures with that 16-millimeter?
+069:29:49 Anders (onboard): Frank, [garble.]
+069:29:52 Borman (onboard): New color exposure [means exterior film], 1/250th, spot[meter], 1 foot [means frame] per second; one whole magazine they want.
+069:29:57 Anders (onboard): [Garble.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+Apollo Control, Houston. Mark, two minutes from predicted time of acquisition.
+069:30:14 Borman (onboard): I need the camera.
+069:30:26 Borman (onboard): What are you doing, Jim?
+069:30:27 Lovell (onboard): Trying to figure out where we are, Frank.
+069:30:44 Lovell (onboard): Alright, it's 11 south, 118 west.
+These coordinates lead to a spot near to the crater Lucretius which is far from their current position. In fact, it is on the night-time side of the Moon. It is possible that Jim meant 118° east which would put them above the crater Langemak (Georgij E. Langemak (1898-1938) was a Soviet rocket scientist). Jim is about to give us a better idea of where they are in a few seconds.
+069:30:48 Borman (onboard): Is that all set?
+069:31:07 Lovell (onboard): Okay, we should be...
+069:31:15 Lovell (onboard): We're passing over Brand right now.
+Apollo 8's exploration takes place at a time before the names of the far-side craters had been officially decided by the IAU (International Astronomical Union), the body charged with naming the landscapes discovered by the astronomers and explorers of space.
+When, in 1959, the Soviet Union succeeded in photographing the far side for the first time, it was given the privilege of naming the features it could see. For example, the dark features Tsiolkovsky and the Moscow Sea showed up well on the otherwise bland images. During their preparations for lunar operations, the Apollo crews used the excellent Lunar Orbiter imagery for mission planning. To aid this, they named a lot of the large craters they saw in the photographs after prominent members of their team. All the craters they named have since be renamed by the IAU with the names of deceased scientists, a move that has been controversial as there has been a convention whereby explorers usually get to name the features they are first to visit.
+The policy in this journal will be to preserve the Apollo names within the transcripts but we will include the IAU names within the commentary for reference. Crater Brand is now called Danjon after André-Louis Danjon (1890-1967), a French astronomer noted for inventing a scale of lunar brightness during total lunar eclipses. Danjon is just east of Langemak.
+069:31:28 Anders (onboard): Brand?
+069:31:29 Lovell (onboard): Brand right about now.
+069:31:36 Lovell (onboard): Holy cow, there's no resolution whatso - there's no shadows on the craters.
+069:31:46 Lovell (onboard): Hey, there we go. There we are.
+069:31:49 Anders (onboard): [Garble.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+Apollo Control, Houston. Mark one minute from predicted time of acquisition.
+069:31:53 Lovell (onboard): Is that Tsiolkovsky?
+The dark floor of Tsiolkovsky makes it perhaps the most distinctive feature on an otherwise light-toned lunar far-side. This majestic 200-km crater was named after one of the pioneers of rocketry. Konstantin Tsiolkovsky (1857-1935) was a Russian physicist who laid much of the theoretical groundwork for the use of rockets for spaceflight. It is fitting that this important lunar feature bears his name. One of the best images of Tsiolkovsky is AS15-0757M, an oblique Mapping Camera photograph taken during the Apollo 15 mission.
+069:31:54 Anders (onboard): [Garble.]
+069:31:55 Lovell (onboard): Okay, we'll go upside down.
+069:31:56 Borman (onboard): Well, listen, Bill, if this is the way it goes, the way you say, look at that.
+069:31:59 Anders (onboard): You have it all the way in, Frank?
+069:32:02 Borman (onboard): Yeah. There's a stop on that thing; it won't go any higher than that.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy Bernard Scrivener, Honeysuckle Creek Tracking Station.]
+069:32:02 Carr: Apollo 8, Houston. Over. [Long pause.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+Apollo Control, Houston. Jerry Carr has placed a call. We're standing by. We've heard nothing yet, but we're standing by.
+069:32:08 Lovell (onboard): Gee, you ought to get a picture of Tsiolkovsky.
+069:32:10 Anders (onboard): [Garble.]
+069:32:15 Lovell (onboard): Hey, how am I going to get any fan, with this window the way it is?
+Their three largest windows are fogged, making photography difficult.
+069:32:20 Lovell (onboard): Frank?
+069:32:25 Borman (onboard): I don't know, Jim.
+069:32:26 Lovell (onboard): I'm going to have to use another window.
+069:32:28 Borman (onboard): Okay.
+069:32:35 Carr: Apollo 8, Houston. Over. [Long pause.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy Simon Plumpton.]
+Apollo Control, Houston. We've acquired signal but no voice contact yet. We're standing by.
+069:32:36 Anders (onboard): [Garble.]
+069:32:38 Lovell (onboard): Okay, here we go.
+069:32:43 Lovell (onboard): Houston, Apollo 8.
+069:32:50 Carr: Apollo 8, Houston. Over. [Long pause.]
+Apollo Control, Houston. We're looking at engine data, and it looks good, tank pressures look good. We have not talked yet with the crew, but we're standing by.
+069:33:03 Borman (onboard): What do you want this on, Bill?
+069:33:05 Lovell (onboard): Oh, where's the other Flight Plan?
+069:33:08 Anders (onboard): Okay, be about - Going to f/8, Frank.
+069:33:08 Carr: Apollo 8, Houston. Over. [Long pause.]
+069:33:14 Borman (onboard): f/8?
+069:33:15 Anders (onboard): And we just passed the subsolar point.
+There are markings on the left-hand side of the Flight Plan along the timeline to show when certain events occur. These include an indication of when the spacecraft is in night-time, when the crew have contact with MSFN (Manned Space Flight Network) and a cross and circle mark that shows when they are due to pass over the subsolar point. By coincidence, the subsolar point at this time nearly coincides with the moment the crew regain contact with Mission Control.
+069:33:21 Carr: Apollo 8, Houston. Over. [Long pause.]
+069:33:22 Lovell (onboard): Houston, Apollo 8.
+069:33:29 Borman (onboard): Houston, this is Apollo 8. Over.
+069:33:38 Lovell (onboard): You through with the Flight Plan?
+069:33:41 Borman (onboard): No.
+069:33:42 Lovell (onboard): Can I have that other Flight Plan when you get a chance?
+069:33:45 Borman (onboard): Are you hooked on to them, Bill?
+069:33:44 Carr: Apollo 8, Houston. Over. [Long pause.]
+We've got it! We've got it! Apollo 8 now in lunar orbit! There's a cheer in this room! This is Apollo Control, Houston, switching now to the voice of Jim Lovell.
+069:33:47 Borman (onboard): Houston, Houston, this is Apollo 8. Over.
+069:33:50 Anders (onboard): He's answering you.
+069:33:52 Lovell: Go ahead, Houston, (This is) Apollo 8. Burn complete. Our orbit (is) 160.9 [sic] by 60.5; 169.1 by 60.5.
+069:34:07 Carr: Apollo 8, this is Houston. Roger, 169.1 by 60.5. Good to hear your voice. [Long pause.]
+Day 3: The Black Team
+- Approaching the Moon
+Journal Home Page
+Day 4: Lunar Orbit 1

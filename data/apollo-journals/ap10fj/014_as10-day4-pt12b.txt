@@ -1,0 +1,927 @@
+Apollo 10 Flight Journal - Day 4, part 12b: Lunar encounter - Lunar Orbit Insertion
+Day 3, part 12a: Lunar encounter - Approach
+Journal Home Page
+Day 4, part 13: Acclimatising in lunar orbit
+Apollo 10
+Day 4, part 12b: Lunar encounter - Lunar Orbit Insertion
+Corrected Transcript and Commentary Copyright © 2010-2025 by W. David Woods, Robin Wheeler and Ian Roberts. All rights reserved.
+Last updated 2025-02-21
+The Apollo 10 stack has just disappeared around the back of the Moon as viewed from Earth. In a few minutes, the crew will perform the Lunar Orbit Insertion (LOI) burn which will slow the spacecraft down enough to be captured in orbit around the Moon. Failure to achieve LOI would cause the spacecraft to return to Earth's vicinity, thanks to the free return trajectory that was chosen for Apollo 10's coast to the Moon.
+The transcript for this chapter is exclusively derived from an onboard recording that was made while Apollo 10 was out of radio contact. The Data Storage Equipment (DSE) is a multitrack tape recorder that records digital data streams from around the spacecraft. This allows engineers to inspect the spacecraft's performance during farside passes when most of the important manoeuvres are carried out. The DSE also includes an analogue voice track that records the conversations of the crew. These recordings are not brought back to Earth as tape. Indeed, the tape will be recorded over many times on subsequent farside passes. Instead, once the spacecraft comes back into view of Earth, the DSE is replayed to a ground station at high speed using an auxiliary radio channel.
+075:46:47 Stafford (onboard): Okay. I'll put this under my back, back here, Gene-o.
+075:46:51 Cernan (onboard): Okay.
+075:46:52 Stafford (onboard): The criteria for overburn is 10 seconds. At Loss Of Signal, you got the DSE [Data Storage Equipment] - if no DSE motion, go to [garble] Command Reset then Normal. You got that?
+The overburn criteria of 10 seconds is the mission rule that the crew must manually shut down the SPS engine should it still be burning 10 seconds after the predicted cut-off. They will monitor the burn-time and Delta-V change using the EMS.
+The DSE should be recording at Loss Of Signal (LOS). If not, the crew must move the spring loaded Up Telemetry switch on panel 3 to the Command Reset position and it will then return to the Normal position. Setting this switch briefly to CMD Reset performs a real-time Command Reset function and maintains the power supply. This resets all read time commands (RTC) relays except those relays affecting the system A abort light and the crew alarm so the affected equipment will resume the operational mode dictated by their control switches on the panel 3.
+Up Telemetry Command Reset switch - Panel 3.
+075:47:03 Cernan (onboard): Okay there it is, we've got it, so we're okay.
+075:47:05 Stafford (onboard): Yes, okay. The only thing we've got left now is - to go...
+075:47:12 Cernan (onboard): You're on - you're on tape by the way.
+075:47:14 Stafford (onboard): That checks. Okay, we're on tape.
+075:47:15 Young (onboard): You're on High Bit Rate now?
+High Bit Rate on the DSE.
+075:47:16 Cernan (onboard): No, but we got the DSE running.
+075:47:18 Young (onboard): Okay, I'm going to run through these checks just one more time...
+075:47:20 Cernan (onboard): Yes, go ahead.
+075:47:21 Young (onboard): ...the EMS Delta-V check; the EMS Delta-V is set. 2975.2, right?
+As set out in the LOI-1 PAD previously, the EMS Delta-VC value of 2,975.2 fps [907.0 m/s] is entered into the Delta-V display of the EMS (Entry Monitor System) panel. The crew monitor this figure as it descends to zero as the engine burns. If the Guidance and Control System fails to stop the burn, the EMS will do so but it has to be given a lower Delta-V figure to take account of the engine's tail-off thrust after shutdown. The EMS switches and displays are situated at the top of Main Display Panel 1.
+EMS switches and displays used to monitor SPS burns - Panel 1.
+The EMS function switch is placed in the Vo SET position which enables the Delta-V/Range display to be set to the desired figure using the Delta-V/EMS Set switch.
+075:47:26 Stafford (onboard): Yes.
+075:47:27 Young (onboard): BMAGs, three, to Rate 2; go. LM/CM, Delta-V CG, no RCS Selects are set.
+BMAG Rate 2 switch is set for each of the three axes; roll, pitch and yaw, and ensures the BMAG output is not utilized. The Delta-V CG switch on panel 1 is set to LM/CM enables body-bending filters in the SCS Auto TVC control path.
+Delta-V CG switch - Panel 1
+No Auto RCS Select switches have yet been set to select the required RCS quads and the buses they will be tied to.
+075:47:34 Cernan (onboard): [Cough].
+075:47:35 Young (onboard): The DAP is set and loaded.
+The CM DAP has been set to support the upcoming LOI burn using the CMC routine R03 detailed below.
+Routine R03-Digital Autopilot Data Load
+To load and verify the CMC DAP
+To provide the crew a means for selecting appropriate coast autopilots, after completion of this routine, which identifies the vehicle configuration, the use of Verb 46 Enter ("establish GNC control") will cause the appropriate DAP to become active.
+Key Verb 48 Enter to commence the R03 routine to load the DAP.
+Verb and Noun displays flash to request crew input and display the DAP configuration data Verb 04 Noun 46 Enter:
+Register 1 (R1): ABCDE
+Register 2 (R2): ABCDE
+Register 3 (R3): BLANK
+R1 data code:
+A-vehicle configuration:
+0-No DAP
+1-CSM only
+2-CSM + LM (Ascent & Descent stages)
+3-S-IVB
+6-CSM + LM (Ascent stage only)
+B-Quads AC for +X translation code:
+0-Don't use quads
+1-Use quads
+C-Quads BD for +X translation code:
+0-Don't use quads
+1-Use quads
+D-Deadband code:
+0-0.5 deg
+1-5.0 deg
+E-(USB) maneuver rate code:
+0-0.05 deg/sec
+1-0.2 deg/sec
+2-0.5 deg/sec
+3-4.0 deg/sec
+R2 data code
+A-AC or BD roll code
+0-Use BD quads
+1-Use AC quads
+B-Quad A code
+0-Don't use
+1-Use quad
+C-Quad B code
+0-Don't use
+1-Use quad
+D-Quad C code
+0-Don't use
+1-Use quad
+E-Quad D code
+0-Don't use
+1-Use quad
+If satisfied with existing DAP configuration codes, key in Proceed.
+If not satisfied with existing DAP configuration codes, key Verb 21 Enter to load the desired R1 code, Verb 22 Enter to load the desired R2 code.
+A flashing Verb/Noun request for crew to respond with CSM and LM weights.
+Verb 06 (display decimal in R1 & R2) Noun 47 (R1 this vehicle weight XXXXX. lbs, R2 other vehicle weight XXXXX. Lbs).
+R1-CSM weight
+R2-LM weight
+R3-BLANK
+Both weights in pounds to the nearest pound.
+Is the LM attached?
+If Yes, are the weights entered for both vehicles correct? Key Proceed.
+If No, is the weight entered for the CSM correct? If YES key Proceed.
+If the weights entered are incorrect, reload using Verb 21 (CSM only) or Verb 22 (CSM & LM) Enter then key Proceed
+Flashing will terminate.
+Flashing Verb 06 (display decimal in R1 & R2) Noun 48 (Gimbal pitch trim XXX.XX deg, Gimbal yaw trim XXX.XX deg)
+R1-Pitch trim
+R2-Yaw trim
+R3-BLANK
+If displayed values agree with expected values, key Proceed. If they are incorrect, load using Verb 21 or 22 Enter then key Proceed.
+Data will now be transferred to the digital autopilot and routine R03 will be exited.
+075:47:36 Cernan (onboard): Yes.
+075:47:37 Young (onboard): Spacecraft Control, CMC and Auto.
+The SC Cont switch on panel 1 is set to the CMC position to inhibit spacecraft control functions by the SCS. When the spacecraft is under CMC control, a translation command by the crew using the translation controller, results in a logic signal (28V DC) being sent to the CMC. The CMC would provide a translation command to the roll jets. The crew can immediately switch to SCS control if required by rotating the translation controller clockwise 17°.
+The CMC Mode switch is set to Auto to enable the computer to control the spacecraft's attitude during the LOI burn.
+SC CONT CMC Mode switch - Panel1
+075:47:39 Cernan (onboard): Yes.
+075:47:40 Young (onboard): Maneuver to burn attitude - we've done that; we've done that - boresight star; we've done the sextant star check; we done - we ain't got no boresight star, come to think of it. We've maneuvered to the attitude; panel 8, SCS breakers are Closed...
+Flight Plan page 3-39a.
+Spacecraft attitude during the LOI burn and the initial part of lunar orbit 1. This document is from the final Flight Plan. The times shown should be amended by adding 11 minutes due to the slightly later than planned lunar arrival due the cancellation of midcourse correction 3 as unnecessary.
+The SCS breakers are the 4 SCS Logic Bus circuit breakers on panel 8 which supply 28V DC power over the main power buses A & B to the SCS logic (command) buses (circuits). These logic buses were used to send commands to the RCS, TVC (Thrust Vector Control) gimbals to steer the SPS engine, the Flight Director Attitude Indicator (FDAI) display and the Body Mounted Attitude Gyros (BMAG), if SCS control is required.
+The SCS Logic Bus circuit breakers - Panel 8.
+075:47:56 Stafford (onboard): Are Closed. [Garble] okay.
+075:47:58 Young (onboard): Manual Attitude, three, Rate Command is Go. Limit Cycle switch is Off - Doesn't make any difference...
+The Manual Attitude switch on panel 1 is placed in the Rate Command position to provide the capability to command spacecraft attitude translation rates that are proportional to the rotation controller (RC) deflection. If there is no deflection of the RC the spacecraft will be under automatic control.
+Manual Attitude, Limit Cycle, Att Deadband Rate and Trans Contr Power switches - Panel 1.
+The Limit Cycle switch also on panel 1 is set to the Off position. It is placed in this position to conserve RCS propellant by allowing manual proportional rate command and automatic rate damping. If it was left in the up (On) position the spacecraft would be attitude hold mode, which is propellant expensive.
+075:48:03 Stafford (onboard): [Garble.]
+075:48:04 Young (onboard): Deadband, Min Rate is High. Translation Control Power is On, in case we have to get Att through the SCS; AC 1, okay; Rotational Control Power, Directs, are Off; Spacecraft Control, CMC and Auto again; SCS TVCs in Rate Command; TVC Gimbal Drives in Auto. And wait for 6 minutes. That was Loss Of Signal right there.
+The Att Deadband and Rate switch positions establish rate and deadband response. With the Att Deadband switch placed in the Min position, it switches the electrical deadband out of the Electronic Control Assembly (ECA) attitude control loop in all 3 axes. The Rate switch is set to High to set the attitude rates (see below).
+Attitude rates
+The Translation Control Power switch is set to On to allow use of this controller in all 3 axes. SCS-TVC Servo Power switch on panel 7, is set to AC1 to provide AC power over AC power bus 1 and DC power over main power bus A to the Trust Vector Control (TVC) servos in both pitch & yaw.
+Thrust Vector Control (TVC) power switch - Panel 7.
+Rotational Control Power-Direct, are both set to off. This removes all DC and AC power from the controller.
+Rotation Controller Power switches - Panel 1.
+John Young has repeated the instruction regarding the Spacecraft Control and CMC Mode which he called out at 075:47:37. SCS TVCs in Rate Command on panel 1 allows thrust vector control to be switched to SCS control as a backup to the CMC. This both in pitch and yaw.
+SCS Thrust Vector Control (TVC) switches - Panel 1.
+TVC Gimbal Drive in Auto provides an automatic transfer from servo 1 to servo 2 if either a Translation Controller-Clockwise motion is made or an over-current logic signal is sent from the SPS.
+Thrust Vector Control (TVC) Gimbal Drive switches - Panel 1.
+Young also is noting that they have had Loss Of Signal between the combined spacecraft and the Earth as they finally swing behind the Moon for the first time, just prior to the planned LOI burn.
+075:48:26 Cernan (onboard): Yes. Yes, that was it, babe.
+075:48:27 Young (onboard): That was it! Lost it.
+075:48:30 Stafford (onboard): We're on our own now.
+075:48:32 Cernan (onboard): You see anything over the top, Tom?
+075:48:33 Stafford (onboard): No. Sure I'm not even going to look.
+075:48:34 Cernan (onboard): Did you hear that? Man, we lost them in a hurry.
+075:48:36 Young (onboard): Yes, it went off in a hurry.
+075:48:38 Cernan (onboard): What's the configuration in the Flight Plan for acquiring them around the other side; does it say, Tom? I'll go into that - Oh, that's the High Gain, right?
+075:48:44 Stafford (onboard): Right.
+075:48:45 Cernan (onboard): We'll be in a special, attitude, and I'll be able to pick them up High Gain, right?
+075:48:48 Stafford (onboard): We roll 180, pitch...
+075:48:50 Cernan (onboard): And then High Gain.
+075:48:51 Stafford (onboard): ...pitch is minus 86, yaw is zero.
+The latter two values are High Gain Antenna pointing angles.
+075:48:54 Cernan (onboard): Verb 64, acquire for MSFN. Okay, fine; I'm all set.
+075:48:58 Stafford (onboard): Okay, you've got a minus 86 degrees...
+075:49:00 Cernan (onboard): I got it in there.
+075:49:01 Stafford (onboard): Okay. And minus - yaw is - is...
+075:49:02 Cernan (onboard): Okay.
+Cernan is ensuring the communications settings onboard are ready for acquisition of signal (AOS) when the spacecraft emerges from behind the Moon as seen from Earth. Stafford has given him the steering angles (Pitch -86°, Yaw 0°) for the high gain antenna, so that it is oriented correctly to get a strong lock on to the signal from the Earth MSFN station. Using CMC Verb 64 (request S-band antenna routine) to run routine R05, the CMC can calculate and display the S-band antenna gimbal angles required to point the antenna at the center of the Earth.
+075:49:03 Stafford (onboard): ...minus 7. Okay. Now, let me see just - again, the EMS is in, the RCS Logic - we got the helium - the pilot valves are in. All those good things are in...
+The CM RCS switch must be in Logic position (up) before power is available to the CM Prplnt Dump, Purge, and CM RCS Htrs switches, and circuitry controlling automatic transfer of engine firing command from SM RCS to CM RCS.
+CM RCS switch - Panel 1.
+The EMS was set previously to monitor the LOI Delta-V at 075:47:21. There are two Helium SPS Helium Valve circuit breakers on panel 8, which provide DC power on main bus A to 2 SPS He Valve switches and the talkback indicators for these switches, which are all on panel 3. When both switches are set to the Auto position, the valve opening is controlled by the thrust On-Off signal from either the CMC or SCS. The valve position is indicated by the talkback indicator above the switches; barberpole indicates closed, gray indicates open. The helium is used to pressurize the SPS fuel and oxidiser tanks. The helium tank pressure is monitored on the strip meter at the top of panel 3.
+SPS Helium Valve switches and He pressure meter - Panel 3.
+The two Pilot Valve circuit breakers on panel 8 are pushed in to provide power to the Delta-V Thrust Normal switch via both DC power buses.
+Helium Valve and Pilot Valve circuit breakers - Panel 8.
+075:49:12 Young (onboard): Yes, all those things are in because if they ain't, nothing happens.
+075:49:16 Stafford (onboard): Yes.
+075:49:17 Cernan (onboard): Okay, we got the Bus Ties to go over here.
+075:49:19 Stafford (onboard): Okay, and we got the Bat Relay Bus and all those.
+The battery relay bus provides DC power to the AC sensing units, the fuel cell and inverter control circuits, fuel cell reactant and radiator valves and the fuel cell main bus A and B talkback indicators.
+Battery Relay Bus circuit breakers - Panel 5.
+075:49:22 Cernan (onboard): That's all in. Everything that I can see over here is in that should be in.
+075:49:26 Stafford (onboard): Okay, we're up to 6 minutes.
+075:49:28 Cernan (onboard): And, John, I'll give you a call through mode 1, mode 2, and...
+Cernan is referring to the LOI abort modes detailed at 073:37:19
+075:50:19 Young (onboard): Roger.
+075:50:20 Stafford (onboard): You want to go ahead and be ahead of it? Or not?
+075:50:22 Young (onboard): I don't see much sense in doing it.
+075:50:36 Cernan (onboard): Oh, dear.
+075:50:47 Stafford (onboard): Okay.
+075:50:48 Stafford (onboard): Okay, 5 minutes, Gimbal...
+075:50:49 Young (onboard): Pitch Motor number 1 is coming On, Gene-o.
+075:50:52 Cernan (onboard): Okay, stand by. Go. That's go.
+075:50:56 Stafford (onboard): Yaw 1.
+075:50:57 Young (onboard): Yaw 1 is coming On.
+The Pitch and Yaw SPS Gimbal Motor switches are in a single bank on panel 1. The three position toggle switch with upper (Start) position spring-loaded to return the switch to the center position when released. Pitch 1 and Yaw 1 switches control the gimbal actuator primary drive motors. The Pitch 2 and Yaw 2 switches control the gimbal actuator secondary drive motors.
+SPS Gimbal Motors, Pitch and Yaw - Panel 1.
+075:50:58 Cernan (onboard): That's go.
+075:50:59 Stafford (onboard): Translational Control, clockwise...
+075:51:00 Young (onboard): Translational Control, clockwise.
+075:51:03 Stafford (onboard): ...verify no MTVC.
+075:51:04 Young (onboard): We have no MTVC.
+MTVC - Manual Thrust Vector Control. Rotational Controller clockwise action signals are used to command spacecraft rotation rates during SCS proportional rate control and to command SPS engine gimbal position during manual thrust vector control. The manual proportional commands to the TVC are input via the rotation controller. The crew is checking that the TVC is under the control of the CMC.
+075:51:05 Stafford (onboard): Check TVC - secondary TVC check; Pitch 2.
+075:51:09 Young (onboard): Coming On, Gene-o.
+075:51:10 Young (onboard): Mark.
+075:51:11 Cernan (onboard): That's go.
+075:51:12 Stafford (onboard): Yaw 2, Start.
+075:51:13 Young (onboard): Yaw 2, coming On.
+Pitch 2 and Yaw 2 SPS Gimbal Motors have now been set to start.
+075:51:15 Cernan (onboard): That's go.
+075:51:16 Stafford (onboard): Set the trim.
+075:51:17 Cernan (onboard): Should have all four, babe...
+075:51:18 Young (onboard): Plus 95.
+075:51:19 Stafford (onboard): And minus 17.
+075:51:20 Young (onboard): Minus 17.
+Gimbal trim angles, 0.95° pitch and 0.17° yaw.
+075:51:22 Stafford (onboard): Okay.
+075:51:23 Young (onboard): Okay.
+In SCS Delta-V mode, manual SPS engine gimbal trim capability is provided. Desired gimbal trim angles are set with the pitch and yaw trim thumbwheels on panel 1. The indicator displays SPS engine position relative to actuator null and not body axes. The range of the engine pitch and yaw gimbal displays are ±4.5°. This range is graduated with marks at each 0.5° and reference numeral at each 2° division. The range of the fuel pressure scale is 0 to 50 psi with graduations at each 5-psi division, and reference numerals at each 10-psi division.
+SPS Gimbal trim panel in the Apollo 13 Command Module, Odyssey.
+SPS gimbal trim thumb wheels and Gimbal Position Indicator (GPI) displays - Panel 1.
+SPS gimbal trim thumb wheels and Gimbal Position Indicator (GPI) displays - Panel 1.
+075:51:24 Stafford (onboard): Check MTVC, would you, John? Something's shaking.
+075:51:31 Cernan (onboard): That's got...
+075:51:32 Young (onboard): The old big bell, babe. GPI to neutral.
+075:51:34 Stafford (onboard): GPI to neutral.
+075:51:35 Young (onboard): Go to zero.
+Young is saying the gimbal position indicator needs to be set to the neutral position using the translation controller.
+075:51:37 Stafford (onboard): Rotational Control Power, number 2, AC/DC.
+Provides 28V DC via main buses A & B and 26V AC via AC bus 1 to rotation controller 2.
+Rotation Controller power switches - Panel 1.
+075:51:41 Young (onboard): AC/DC. We checked the boresight star?
+075:51:42 Stafford (onboard): We don't have that?
+075:51:43 Young (onboard): Okay, Auto gimbal check.
+075:51:45 Stafford (onboard): Okay. Oh, do you want one final trim here?
+075:51:48 Cernan (onboard): No. We don't need that.
+075:51:51 Young (onboard): Yes. There you go.
+075:51:56 Stafford (onboard): Okay, Enter?
+075:51:57 Young (onboard): Enter.
+075:51:58 Cernan (onboard): You're back in neutral on your controller, huh?
+Translation controller to its neutral position.
+075:51:59 Stafford/Young (onboard): Yes.
+075:52:00 Cernan (onboard): Okay.
+075:52:01 Stafford (onboard): 204, ready?
+075:52:02 Young (onboard): Yes.
+075:52:03 Stafford (onboard): Plus 2, minus 2, and zero. Plus 2, minus 2, and a zero.
+Stafford is manually testing the SPS pitch and yaw gimbals by ±2°.
+075:52:13 Cernan (onboard): Oh, I tell you; that mother really moves around, doesn't it?
+075:52:16 Young (onboard): Trim that moves it.
+075:52:21 Cernan (onboard): Okay, y'all.
+075:52:22 Stafford (onboard): 03:30. Okay, 6 [garble] 40 okay - Rotational Control Power, Direct, MN A/MN B.
+3 minutes and 30 seconds to LOI ignition. The Rotational Control Power switches are being set to Direct via both DC buses. This enables direct manual control of the RCS once the rotation controller has been deflected by 11 degrees in any axes.
+Rotation Controller power switches - Panel 1.
+075:52:29 Young (onboard): That's go.
+075:52:30 Stafford (onboard): SPS Helium Valves, two, Auto.
+075:52:31 Young (onboard): They are Auto. Limit Cycle switch to Off.
+With both SPS Helium Valves switches set to Auto, the supply of power to the valves is controlled by the CMC, SCS or SPS Thrust Direct, On switch.
+SPS Helium Valves, Auto switches - Panel 3.
+075:52:33 Stafford (onboard): Limit Cycle switch is Off. FDAI is what you wanted?
+The crew are confirming the Limit Cycle switch is Off which they set at 075:47:58
+075:52:35 Young (onboard): Yes. GDC Align, right?
+075:52:37 Stafford (onboard): Yes, GDC Align.
+GDC Align pushbutton on panel 1, provides a means of aligning the Gyro Display Coupler (GDC) to a given reference. The GDC has two gyro assemblies associated with it, which can provide attitude determination. They are normally aligned to match the current IMU orientation. This provides a backup attitude reference in case of an IMU malfunction.
+GDC Align push button - Panel 1.
+075:52:40 Young (onboard): I've got 351 here, now.
+Spacecraft currently at 351° roll angle. 355° is the planned roll attitude at LOI ignition.
+075:52:46 Stafford (onboard): Coming in.
+075:52:51 Young (onboard): Okay.
+075:52:52 Stafford (onboard): BMAGs, three, Att 1/Rate 2.
+With the BMAG Mode switches (one in each axes) in the Att 1/Rate 2 position the BMAG in GA-2 provides rate signals for control and display, plus GDC update. The BMAG in GA-1 provides attitude error signals for control and display.
+Three BMAG Mode switches - Panel 1.
+075:52:55 Young (onboard): Okay.
+Mark. 3 minutes to LOI burn. We won't know how this maneuver has gone until we acquire Apollo 10 as it comes around the front of the Moon.
+075:52:58 Stafford (onboard): Okay, minus 2 minutes, John.
+075:53:04 Cernan (onboard): Still don't see nothing, huh, Tom?
+075:53:06 Stafford (onboard): Shit, no! And I don't care to see anything now. Not much to see...
+075:53:09 Cernan (onboard): Okay, your trim's set, John?
+075:53:11 Young/Stafford (onboard): Yes.
+075:53:18 Cernan (onboard): Was it plus 0.95 and a minus 0.17?
+The SPS gimbal trim angles of plus 0.95° pitch and minus 0.17° yaw are those read up to the crew as part of the LOI PAD at 073:34:51.
+075:53:21 Young (onboard): Yes.
+075:53:22 Cernan (onboard): Okay.
+075:53:23 Stafford (onboard): Okay, at 2 minutes, Delta-V Thrust, A and B, Normal.
+075:53:27 Young (onboard): A, Normal, right?
+075:53:28 Stafford (onboard): A, Normal. You can get the guard up on B.
+Both of the Delta-V Thrust switches on panel 1 are covered by flip up guards to prevent inadvertent use. These switches provide an SPS-ready signal to the GDC and provide power to the Flight Combustion Stability Monitor (FCSM), and the SPS valves via both main power buses.
+Delta-V Thrust switches - Panel 1.
+SPS ignition will only occur with the Delta-V Thrust A switch in the Normal position.
+075:53:44 Cernan (onboard): Sure is getting bright out there. I got the Moon's reflected surface in the LM window. I can see it in the LM window, the overhead window.
+075:53:52 Stafford (onboard): Good show.
+075:53:53 Cernan (onboard): It's down there, babe.
+075:53:54 Stafford (onboard): Okay, 2 minutes, Delta-V Thrust, A, Normal; Translational Control Power, Armed.
+075:53:59 Young (onboard): Translational Control Power is Armed.
+075:54:01 Cernan (onboard): Look at the size of...
+075:54:02 Young (onboard): Rotational Control Power is Armed. Okay, at 30 seconds...
+075:54:05 Stafford (onboard): You don't have the Translation Armed.
+The Translational Control Power switch on panel 1 provides 28V DC power to the controller via both main power buses. Young actually powers up the rotational controller which was the next step on the checklist. Stafford double checks the actions and catches the small error.
+Translational Control Power switch - Panel 1.
+075:54:07 Young (onboard): Yes, it is. No, there you go.
+075:54:08 Stafford (onboard): Okay, at 30 seconds, EMS, Normal, and Delta - EMS Delta-V, Normal, and High Bit Rate.
+EMS Mode switch on panel 1 is set to Normal <30 seconds prior to thrusting to minimize build-up of Delta-V indicator errors, caused by accelerometer bias. The Rate switch on panel 1 selects low gains in both rate and attitude in all axes, and high gain in roll manual control.
+Entry Monitor System (EMS) Mode switch - Panel 1.
+Rate switch - Panel 1.
+075:54:14 Cernan (onboard): Okay, I'm really for it. God, that Moon is beautiful; we're right on top of it...
+075:54:19 Stafford (onboard): Oh, shit!
+075:54:20 Cernan (onboard): God dang. We're right on top of it. I can see it...
+075:54:22 Stafford (onboard): Oh, shit; John! It looks like a big plaster-of-paris cast.
+075:54:24 Cernan (onboard): I can see it reflected, babe - right in the LM overhead window.
+075:54:29 Stafford (onboard): Okay, let's get busy...
+075:54:30 Cernan (onboard): Okay, let's get this burn off. How much time?
+075:54:35 Stafford (onboard): 1 minute and...
+075:54:36 Cernan (onboard): 1 minute and 20, right? Okay.
+075:54:37 Stafford (onboard): Oh, yes.
+075:54:38 Cernan (onboard): You got it, Tom?
+075:54:39 Stafford (onboard): You damn right I got it.
+075:54:42 Cernan (onboard): Oh, I do, too.
+075:54:43 Stafford (onboard): Okay, let's keep looking then.
+075:54:44 Cernan (onboard): My God, that's incredible.
+075:54:46 Stafford (onboard): It looks like we're close...
+075:54:47 Cernan (onboard): That's incredible.
+075:54:49 Stafford (onboard): It does look like we're - well, we're about 60 miles, I guess.
+075:54:51 Stafford (onboard): Okay, 1 minute. Okay, let's go.
+075:54:54 Cernan (onboard): It does look - look gray, doesn't it?
+075:54:55 Stafford (onboard): Okay, 30 seconds; we'll get Delta-V, Normal.
+One minute to LOI.
+075:54:58 Young (onboard): Yes, and don't forget the High Bit Rate. Coming up...
+075:54:59 Stafford (onboard): High Bit Rate.
+High Bite Rate on the data storage equipment recorder.
+075:55:00 Young (onboard): ...coming up whenever you go to Delta-V, Normal.
+075:55:03 Stafford (onboard): Shit, baby; we have arrived - It's a big gray plaster-of-Paris thing...
+075:55:07 Cernan (onboard): Oh, my God, that's incredible.
+075:55:08 Stafford (onboard): Okay, let's keep going; we've got to watch this bear here.
+Stafford is encouraging his crew to concentrate on their preparations for the LOI burn.
+075:55:10 Young (onboard): Put your head back in the cockpit, Gene-o.
+Despite Stafford instruction to his crew, Young is voicing his concern over Cernan's distraction by the view of the Moon outside. He is quite firmly encouraging Cernan to concentrate on the matters at hand inside the spacecraft as the crew prepare for the LOI burn.
+075:55:11 Cernan (onboard): Look at that!
+075:55:12 Stafford (onboard): Let's go.
+075:55:13 Cernan (onboard): Okay, I'm ready.
+075:55:14 Stafford (onboard): Okay, the High Bit Rate, go ahead; hit it.
+075:55:15 Cernan (onboard): High Bit Rate...
+075:55:33 Stafford (onboard): Okay, 22 seconds. Standing by to push the Thrust On. 18 seconds. Get your watch; we're all set, babe...
+With the SCS in Delta-V mode, the Thrust On push button provides a logic signal which energizes the SPS relays and solenoid control valves. It remains on throughout the SPS thrusting period.
+Thrust On push button - Panel 1.
+075:55:42 Young (onboard): All set.
+075:55:43 Stafford (onboard): ...Count us down, Gene-o. Delta-V to Normal; rechecked. Everything is good. Delta...
+Stafford is repeating to himself the instruction to set the Delta-V Thrust switch A to the Normal position. See note at 075:53:28
+075:55:45 Cernan (onboard): 10 seconds.
+075:55:46 Stafford (onboard): ...Okay, and get that On in 3 seconds. [Garble] Delta-V.
+075:55:47 Cernan (onboard): Stand by.
+075:55:48 Stafford (onboard): ...7...
+075:55:49 Cernan (onboard): 5 seconds.
+075:55:50 Stafford (onboard): 5, Proceed, 3, 2, 1...
+At ignition minus 5 seconds, Stafford has to command the CMC that he approves the SPS ignition on time by pressing the Proceed button on the DSKY whilst in program P40.
+5 seconds. Ignition. Apollo 10 should be burning now. And at that time of ignition, Apollo 10 was 98.4 nautical miles [182.2 km] from the Moon, 215,847 nautical miles [399,746 km] from Earth. We have 2 clocks counting in the control room now. The top clock reading AOS CM. It reads 25 minutes, 8 seconds. That's the acquisition of signal time with a good LOI burn. The bottom clock reads 14 minutes, 24 seconds and that is the acquisition time if Apollo 10 did not perform the burn. Flight Director Chris Kraft describes the attitude in this Control Center now as anticipatory. It's very quiet in this control room right now. A few conversations going but not very many. Most controllers sitting at their consoles very quietly. The entire Apollo 10 backup crew is here in the Control Center; Gordon Cooper, Donn Eisele, and Ed Mitchell. Two CapComs; Charlie Duke and Bruce McCandless. Jack Schmitt is still here. Deke Slayton, the Director of Flight Crew Operations is here talking at the moment with Dr. Robert Gilruth, the Director of MSC. George Low, the Apollo Spacecraft Program Manager is here with Chris Kraft, the Director of Flight Operations. Lt. General Samuel Phillips, the Apollo Program Director, is seated next to them. On the other side of General Phillips is George Hage, the Mission Director. We understand that Dr. Kurt Debus, the Director of the Kennedy Space Center and Dr. von Braun, the Director of the Marshall Space Flight Center are in the viewing room. We'll try to get a list of some of the other people in the viewing room. And this is Apollo Control. Among other distinguished visitors in the viewing room are Dr. George Mueller, the Associate Administrator for Manned Space Flight, NASA; Mr. Lou Evans, the President of Grumman Aircraft Engineering Corporation, the prime contractor for the Lunar Module; and the Vice President for Space of that company, Joe Gavin. The manufacturer of the Command Module Charlie Brown is represented by William Bergen, President of the Space Division of North American Rockwell. And Rusty Schweickart who was the Lunar Module Pilot on the Apollo 9 mission is in the viewing room.
+075:55:55 Cernan (onboard): Okay, we're burning; you got good valves.
+075:55:57 Stafford (onboard): Okay, bank the Delta-V...
+Stafford is referring to the SPS control banks which are selected by the Delta-V Thrust switch.
+075:55:58 Cernan (onboard): You got four good valves; you got four good valves. Helium Valves are Closed, you got four good valves.
+The four valves are the SPS solenoid control valves, which control the propellant ball valves. The SPS pressurization helium valves are closed during SPS non thrusting periods, with its talkback indicator showing barber pole.
+SPS helium valve switches and talkback indicators - Panel 3.
+075:56:05 Stafford (onboard): Guidance looks good.
+075:56:07 Cernan (onboard): Guidance looks good. Boy, it's a soft burn right now. Come on, balance up, you mother. It's 15 seconds into the burn; she ought to start balancing now. Okay, and...
+Any deviation from the nominal oxidizer to fuel ratio (1.6:1 by mass) is displayed by the Unbalance indicator in pounds. The upper half of the indicator is marked Inc and the lower half is marked Dec to identify the required change in oxidizer flow rate to correct any unbalance condition. The marked or shaded area is a normal unbalance range area.
+Oxidizer Unbalance meter and Oxidizer Flow Valve switches - Panel 3.
+SPS propellant utilization panel - Panel 3.
+The crew can determine if a true unbalance of propellant remaining exists. With the PUG (Propellant Utilization and Gauging Subsystem) mode switch in Prim or Norm, the crew display percentage readouts would not indicate the same percentage value and the unbalance meter would indicate the amount of unbalance in pounds. To verify if a true unbalance condition exists, the PUG mode switch would be positioned to Aux. If the crew display percentage readouts and the unbalance meter now read similar to the readouts when in Prim, a true unbalance condition exists.
+The crew display readouts and unbalance meter could not be considered accurate until the SPS engine is thrusting for at least 25 seconds. This is to allow complete propellant settling in the SPS tanks before the gauging system is within its design accuracy.
+If an unbalance condition exists, which is determined from the Incr, Decr readings on the unbalance meter on panel 3, the crew use the propellant utilization valve to return the remaining propellants to a balanced condition. The propellant utilization is not powered until a Thrust On command is provided to the propellant utilization gauging control unit. The propellant utilization valve housing contains two sliding gate valves within one housing. One of the sliding gate valves is the primary, and the remaining valve is the secondary. Stops are provided within the valve housing for the full increase or decrease positions. There are separate stops for the primary and secondary sliding gate valves. The secondary propellant utilization valve has twice the travel of the primary propellant utilization valve. This is to compensate for the primary propellant utilization valve failure in any position.
+The propellant utilization valve controls are located on panel 3. The Oxid Flow Prim/Sec switch, selects the primary or secondary propellant utilization valve for operation. The normal position of the Oxid Flow Valve select switch is Prim. The Oxid Flow Valve select switch will not be moved to Sec unless a problem is encountered with the primary valve. The Oxid Flow Valve Incr, Norm, Decr switch is utilized to position the selected primary or secondary propellant utilization valve. When the Oxid Flow Valve switch is in Norm and the Oxid Flow Valve select switch is in Prim, the sliding gate valves are in a nominal flow position. The upper and lower Oxid Flow Valve position indicators are gray. When the unbalance meter informs the crew of Incr, the Oxid Flow Valve switch is positioned to Incr and the Oxid Flow Valve select switch is in Prim. The primary sliding gate valve then moves to the increase flow position. The valve movement will take approximately 3.5 seconds to reach the full increase position. The upper Oxid Flow Valve position indicator would then indicate Max and the lower indicator would remain gray. The Oxid Flow Valve would then be left in the Incr oxidizer flow position. This will increase the oxidizer flow approximately 3 percent above the nominal oxidizer flow. When the unbalance meter informs the crew of approximately zero unbalance, the Oxid Flow Valve switch is then positioned to Norm. The primary sliding gate valve would then return to the nominal flow position. The valve movement will take approximately 3.5 seconds to reach the nominal flow position. The Oxid Flow Valve upper indicator would then return to gray. The lower indicator would remain gray.
+When the unbalance meter informs the crew to Decr the oxidizer flow, the Oxid Flow Valve switch is then positioned to Decr with the Oxid Flow Valve select switch in Prim. The primary sliding gate valve then moves to the decrease flow position. The valve movement will take approximately 3.5 seconds to reach the decrease flow position. This will decrease the oxidizer flow approximately 3½ percent below that of the nominal oxidizer flow. When the primary gate valve reaches the Decr position, the upper Oxid Flow Valve position indicator remains gray and the lower indicator would indicate Min. The Oxid Flow Valve would then be left in the Decr position. When the unbalance meter informs the crew of approximately zero unbalance. The Oxid Flow Valve switch is then positioned to Norm. The primary sliding gate valve would then return to the nominal flow position. The valve movement will take approximately 3.5 seconds to reach the nominal flow position. The Oxid Flow Valve upper indicator would then return to gray. The lower indicator would remain gray.
+The secondary propellant utilization valve is selected by positioning the Oxid Flow Valve select switch from Prim to Sec. The Sec position would be selected in the event of a problem with the Prim. The secondary sliding gate valve would then be controlled and operated by the Oxid Flow Valve Incr. Norm, Decr switch in the same manner as the primary valve. The position indicators would then operate in the same manner as in the primary. however, now indicating the secondary valve position.
+075:56:16 Young (onboard): It's on now.
+075:56:17 Cernan (onboard): ...chamber pressure's 95. Okay, all my pressures are looking good, babe.
+075:56:22 Young (onboard): 75, 80, 85, 90...
+The SPS engine combustion chamber pressure is displayed as a percentage to the crew on the multi-purpose rotary SPS PC meter on panel 1. The normal range during an SPS burn is 95 to 105%. The percentage readout correlates directly to the same measurement in psia, i.e. 98 per cent = 98 psia. The measurement is provide by a transducer on the engine injector.
+SPS PC meter - Panel 1.
+SPSPC meter in the Apollo 13 Command Module, Odyssey.
+075:56:23 Cernan (onboard): Okay, we burn it for 30 [garble] on the A.
+The SPS engine has dual banks of controls and valves to provide redundancy. The burn could be made using only one bank, but the Apollo 10 mission rules set out that for long burns, the engine should be ignited using bank A only and after 30 seconds, bank B should be energized so as to provide a redundant set of controls should bank A malfunction. The banks are selected using the Delta-V Thrust A or B switch. See note at 075:53:28
+075:56:24 Young (onboard): ...we better start balancing that - the oxidizer here.
+075:56:25 Stafford (onboard): Good.
+075:56:27 Cernan (onboard): Okay, everything's looking good...
+075:56:30 Stafford (onboard): Do you want...
+075:56:31 Cernan (onboard): ...pressures are still good.
+075:56:33 Stafford (onboard): Looking good at 30 seconds. EMS is agreeing with the G&N.
+The crew would be running program P40 on the CMC, which will display the remaining Delta-V in the LOI burn. The EMS Delta Velocity Indicator is set prior to ignition to the desired Delta-V of the LOI burn. It will display the remaining Delta-V as the burn proceeds. This gives a comparison to the figure provided by the CMC.
+EMS Delta-V counter - Panel 1.
+075:56:38 Cernan (onboard): Okay, she's balancing up nicely.
+075:56:40 Young (onboard): Okay, chamber pressure's 97...
+Young is noting that the SPS chamber pressure indicated on the SPS PC meter continues to climb.
+075:56:42 Stafford (onboard): Holding steady.
+075:56:43 Young (onboard): ...and holding steady, and it jumped about 4 when it turned on the second bank. Gimbal motors is Go.
+The SPS chamber pressure jumped momentarily by 4 percent when the bank B SPS controls were switched on and then returned to the previous reading of 97 percent.
+075:56:47 Cernan (onboard): Okay, four good banks, helium pressure's Go, and - fuel oxidizer pressures are Go.
+Cernan is referring to the measurements he is observing on the bank of four gauges displaying the SPS temperature, helium, fuel and oxidiser pressures on panel 3.
+SPS temperature, helium, fuel and oxidiser pressure gauges - Panel 3.
+075:56:54 Stafford (onboard): Gimbal motors have settled down a little bit.
+The gimbal motors on the SPS engine have settled down now that the burn has become established, the chamber pressure has come up to its optimum value and the propellant have settled fully. The gimbals are no longer so active to maintain the spacecraft's vector.
+075:56:55 Cernan (onboard): Balancing up really nice, John. The PUGS is working after 30 seconds. I turned it on. Looking good.
+The PUGS system is not considered accurate until at least 25 seconds of the SPS burn has elapsed whilst the SPS propellants settle in their tanks. Cernan is happy that he is controlling the propellant balancing using the output from the PUG display.
+075:57:00 Young (onboard): Okay. Okay.
+075:57:02 Cernan (onboard): Tank pressures are good.
+075:57:03 Young (onboard): 98 psi. That's Go.
+SPS chamber pressure continues to climb slowly.
+075:57:05 Cernan (onboard): Helium pressures are good.
+This is the helium that is pressurising the tanks, forcing propellant into the engine.
+075:57:06 Young (onboard): Okay.
+075:57:09 Stafford (onboard): How's the nitrogen [garble]?
+075:57:10 Young (onboard): Okay, that chamber pressure's coming up; now it's 100.
+075:57:13 Cernan (onboard): I'm still looking good here. I got four valves and tank pressures are Go.
+The four valves Cernan is referring to are the SPS solenoid control valves, which control the propellant ball valves.
+075:57:19 Stafford (onboard): You have 4 minutes.
+075:57:20 Young (onboard): The roll is trimming out a little. How's your regulator pressure...
+075:57:22 Cernan (onboard): 1 minute, 30 seconds into burn; we've got a - Regulated pressures all good.
+075:57:27 Stafford (onboard): Things are looking good.
+075:57:28 Cernan (onboard): Okay, John we're coming up at 01:40 at the end of mode 1.
+Abort mode 1 lasts for the first 105 seconds of the Apollo 10 LOI burn. See the details of the various LOI abort modes at 073:37:19
+075:57:31 Young (onboard): Okay.
+075:57:33 Cernan (onboard): Okay, we're in no-man's land; 01:40; and everything's looking good.
+075:57:36 Young (onboard): Our chamber pressure's up to 101 now.
+075:57:41 Stafford (onboard): 04:14 to go.
+075:57:42 Cernan (onboard): Okay, babe; let's get by 2 minutes. We're in no-man's land; everything's looking good.
+For 15 seconds on Apollo 10 they were between abort modes, hence Cernan's reference to no-man's land.
+075:57:47 Young (onboard): Alright.
+075:57:50 Cernan (onboard): Everything's looking good. 01:55.
+075:57:53 Stafford (onboard): Looking good.
+075:57:54 Cernan (onboard): Boy, it's a nice soft burn; keep burning, baby...
+075:57:55 Stafford (onboard): 2 minutes.
+075:57:56 Cernan (onboard): 2 minutes.
+075:57:57 Cernan (onboard): Mark. We're into mode 2. Okay, we're into mode 2.
+They are now into the mode-2 abort period. See the details of the various LOI abort modes at 073:37:19
+075:58:00 Stafford (onboard): Okay.
+075:58:02 Cernan (onboard): She's going on the Increase; I'm going to balance back the other way.
+075:58:07 Stafford (onboard): Okay, I'm looking at the burn and what we have to do - It'll be 50.
+075:58:11 Cernan (onboard): Okay, all my pressures here are holding good, John.
+075:58:14 Young (onboard): Holding good here. We're up to 102 psi - chamber pressure. That little baby's getting better and better.
+075:58:20 Stafford (onboard): 18 6 [garble] go. 18 7 [garble]...
+LOI burn time in seconds.
+075:58:25 Cernan (onboard): Come on, baby. Balance back down; balance back down...
+075:58:28 Young (onboard): You approaching crossover yet, Gene-o?
+075:58:29 Cernan (onboard): ...balance back down - No, I'm only at 72 percent, but I can't get that son of a bitch to balance back down. Here it comes. Come on, baby.
+075:58:38 Young (onboard): Don't lean on...
+075:58:39 Cernan (onboard): 70 percent. Everything's looking good here.
+Propellant quantity is down to 70%. Cernan is controlling the propellant balancing. See notes on balancing at 075:56:07.
+075:58:44 Stafford (onboard): 3 minutes - to burn.
+075:58:48 Stafford (onboard): If the G&N's right, we'll burn...
+075:58:51 Cernan (onboard): Coming up to 3 minutes, John.
+075:58:52 Stafford (onboard): 3 55 [garble].
+LOI-1 burn has 3 minutes, 55 seconds remaining.
+075:58:54 Young (onboard): [Garble]. Okay.
+075:58:55 Stafford (onboard): [Garble]. 5 56.
+Stafford is making a prediction of the total SPS burn time; 5 minutes, 56 seconds.
+075:58:56 Young (onboard): Mark it, 3 minutes.
+075:59:00 Cernan (onboard): Come on, baby. Get that thing going.
+075:59:02 Young (onboard): Yaw's off in roll. See that?
+075:59:04 Stafford (onboard): Yes, I saw that, John.
+075:59:05 Young (onboard): Okay, we're up to 102 pounds now. Son of a gun's just getting better all the time.
+075:59:11 Stafford (onboard): Yes.
+075:59:12 Young (onboard): That's the roll thruster firing to bring it back in.
+The roll RCS thrusters are firing under command from the CMC to correct the spacecraft's attitude. In the Apollo 10 Crew Technical Debrief, Young described the roll transients.
+Young, from the 1969 Technical debrief: "It was steady, and the thing that was noted about the burn transient, as on the D mission, was that you get continued control in roll; it's up against the deadband, but it gives you a very good feeling of how the vehicle is performing."
+The roll deadband during the LOI burn was set at ±5°.
+075:59:14 Cernan (onboard): Okay, your - all your pressures are looking good right now. Except I can't get that increase now. Come on, baby. I don't want to switch to secondary valve yet, because it's not off that far.
+075:59:24 Young (onboard): What secondary valve? Don't go on a backup.
+Young is encouraging Cernan not to switch to the secondary propellant utilization valve. See the notes on balancing at 075:56:07
+075:59:26 Cernan (onboard): No, no, it's still slowly in the - Everything's looking good; you're at 3 minutes and coming up on 40 seconds.
+075:59:34 Stafford (onboard): Coming up - coming up to 2 minutes to go, John. It's looking good. Beautiful, baby.
+075:59:38 Young (onboard): My God, there it is.
+075:59:40 Stafford (onboard): Oh, you'd better believe it.
+075:59:41 Cernan (onboard): There it is, is right...
+075:59:42 Stafford (onboard): Strangest looking son of a bitch I've ever seen.
+075:59:44 Young (onboard): Isn't that weird?
+075:59:45 Stafford (onboard): Okay, let's go. 2 minutes to go. Looking good.
+075:59:47 Cernan (onboard): Okay, all your valves are still good. 102.
+075:59:50 Stafford (onboard): 2.
+075:59:51 Cernan (onboard): 102 on the psi.
+075:59:52 Stafford (onboard): I'm estimating that the G&N is going to be about...
+075:59:55 Cernan (onboard): Okay, we're at crossover right now on the - on the propellants.
+075:59:57 Young (onboard): Okay, and don't pay any attention to what it's...
+075:59:58 Stafford (onboard): Don't worry; we're about [garble]...
+Flight Plan page 3-40.
+076:00:00 Young (onboard): 102.
+076:00:01 Stafford (onboard): I'm going to estimate 5 plus; 58 for the burn.
+Based on the indicated SPS engine performance, Stafford is estimating the engine will be shut off automatically by the CMC after a burn time of 5 minutes, 58 seconds. He is making this estimation so they can calculate how long they should let the SPS engine burn beyond that time should the auto cut-off not occur and they have to manually shut it down.
+076:00:04 Young (onboard): Okay. Okay, there's 4 minutes and coming up on 15 seconds.
+076:00:10 Stafford (onboard): Yes.
+076:00:14 Cernan (onboard): Oh, would you believe it? There's the lunar horizon.
+076:00:16 Stafford (onboard): Okay, how's the - propellant tanks are looking good.
+076:00:18 Cernan (onboard): Everything's looking good, babe.
+076:00:19 Young (onboard): Helium's up to 103. 104.
+076:00:23 Stafford (onboard): First I've heard of a bloody engine going up...
+076:00:26 Young (onboard): Okay, there's...
+076:00:27 Stafford (onboard): ...[garble].
+076:00:28 Young (onboard): ...[garble].
+076:00:29 Stafford (onboard): Okay, we're getting down to 1 minute to go and - guidance is fantastic.
+076:00:35 Young (onboard): Beautiful, just beautiful. Just beautiful.
+076:00:39 Stafford (onboard): Beautiful guidance; you couldn't ask for any better.
+076:00:41 Young (onboard): It's solid as a rock.
+076:00:42 Cernan (onboard): Tank pressures are looking good.
+076:00:43 Stafford (onboard): Okay, good. Fuel is holding good, Gene-o.
+076:00:46 Cernan (onboard): Everything's looking good, babe. You're well into mode 3.
+They are now into the time period of the mode 3 abort plan. See the details of the various LOI abort modes at 073:37:19
+076:00:48 Stafford (onboard): Good, okay. Good. I'm going to say that it'll be 5:56 to get to [garble].
+Stafford is amending his estimate of the total SPS burn time to 5 minutes, 56 seconds.
+076:00:52 Young (onboard): 4 [garble] but that chamber pressure's...
+076:00:55 Stafford (onboard): [Garble] that we have on [garble].
+076:00:56 Cernan (onboard): Okay, there's 5 minutes, babe.
+076:00:58 Stafford (onboard): I'm standing by on the valves, John.
+Stafford is preparing to set the Delta-V Thrust switches A and B to Off to shut down the SPS controlling banks A and B.
+076:01:00 Young (onboard): Okay.
+076:01:01 Stafford (onboard): 49 seconds to go.
+076:01:02 Young (onboard): Okay.
+076:01:07 Cernan (onboard): We're pulling (laughter) 0.2 or 0.3 of a g, I can't...
+076:01:10 Stafford (onboard): 40 seconds to go.
+076:01:13 Young (onboard): Okay.
+076:01:14 Stafford (onboard): 35.
+076:01:17 Young (onboard): 5, 4...
+076:01:19 Stafford (onboard): 30 seconds to go. Estimating at 5 plus 56.
+Stafford is sticking with his estimate of a total SPS burn time of 5 minutes, 56 seconds and will count down to cut-off based on this estimate.
+076:01:23 Young (onboard): Okay.
+076:01:25 Cernan (onboard): Going to close this thing. Get it closed before we shut down.
+076:01:30 Stafford (onboard): 20 seconds, babe.
+076:01:31 Young (onboard): Okay.
+076:01:32 Stafford (onboard): Stand by for the valves. 18, 17, 16, 15, 14, 13, 12, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1...
+076:01:50 Stafford (onboard): Shut - SECO - valves [garble]...
+Both Delta-V Thrust switches are set to Off.
+076:01:51 Cernan (onboard): There's all four valves Closed, Helium Valves are Closed. Everything's Go.
+Cernan is confirming that the four SPS Engine Injector Valve indicators have moved to their Closed position, and he has set the Helium Valves to the Closed position.
+SPS Engine Injector Valve indicators - Panel 3.
+076:01:54 Stafford (onboard): Gimbal Motors, Off. TVC Servo Power, Off.
+The crew is now safing the SPS engine and its associated systems.
+076:02:00 Cernan (onboard): Whew! Babe, I think we's here.
+076:02:02 Stafford (onboard): Oh, you know we are.
+This is Apollo Control. As Apollo 10 went behind the Moon, we were showing a distance of 256 nautical miles [474 km] from the Moon, velocity of 7,770 feet per second [2,369 m/s] and a spacecraft weight of 93,281 pounds [42,408 kg]. They were in a good Lunar Orbital Insertion burn. We should reacquire Apollo 10 in 20 minutes, 52 seconds; at an elapsed time of 76 hours, 22 minutes, 58 seconds.
+076:02:03 Young (onboard): Bus Ties, Open.
+076:02:04 Stafford (onboard): Bus Ties, Open.
+076:02:05 Cernan (onboard): Okay, Bus Ties.
+During high power demand, supplemental power to the main DC buses can be supplied from the CM batteries A and B via the battery buses and directly from battery C. By setting the Main Bus Tie to Bat A/C, the battery A bus is connected to DC main bus A and battery C to DC main bus B. Also, setting the Main Bus Tie to Bat B/C connects battery B bus to DC main bus B and battery C to DC main bus A. During the SPS burn both switches were set as detailed above.
+Main Bus Tie switches - Panel 5.
+076:02:07 Stafford (onboard): BMAGs, Rate 2. EMS to Standby. Okay, you want to take the readings on the...
+The EMS MODE switch is set to Stby (standby). In this position, all of the settings on the EMS Function rotary switch are inhibited except Delta-V Set, Rng Set (range) and Vo Set.
+076:02:11 Young (onboard): Minus 7 on EMS.
+076:02:13 Stafford (onboard): Minus 7 [coughing].
+The EMS was counting down the velocity change (Delta-VC) as the LOI burn progressed, ready to shut down the engine when it reached zero. This should have happened at the same time the G&N system decided to do so. However, unlike the G&N system, the EMS did not take account of the SPS thrust tail-off. Minus 7.0 fps (2.1 m/s) represents how much velocity change the EMS measured after it reached zero. Some of the figure will be due to the thrust tail-off and some to the errors in MCC-H prediction of what figure Delta-VC should have been.
+076:02:14 Cernan (onboard): Okay, let me - let me read that stuff. Let me take that stuff.
+076:02:17 Young (onboard): (Sigh.)
+076:02:18 Cernan (onboard): What is it? Minus 7?
+076:02:19 Stafford (onboard): Yes.
+076:02:20 Cernan (onboard): What was the burn time, Tom?
+076:02:22 Stafford (onboard): The total burn time...
+076:02:23 Cernan (onboard): Yes.
+076:02:24 Stafford (onboard): ...was 5 minutes and 56 seconds.
+Stafford's burn time prediction was spot on.
+076:02:29 Young (onboard): Minus 7 on EMS. I'll turn it Off.
+076:02:30 Cernan (onboard): At what? Give it? What was it?
+076:02:32 Stafford (onboard): Hot time: 05:56.
+Hot time = total LOI burn time.
+076:02:33 Cernan (onboard): I mean, what was the EMS?
+076:02:35 Young (onboard): Okay, well, let's proceed out of here, huh?
+076:02:36 Stafford (onboard): Let's proceed [garble] proceed.
+076:02:37 Cernan (onboard): What was the EMS? Okay. Give me - give me those. Plus 0.1, residuals are...
+076:02:44 Stafford (onboard): Zero...
+076:02:45 Cernan (onboard): ...zero, minus 0.2. Zero, minus 0.2 of zero.
+A long burn with the SPS such as the LOI burn is unlikely to achieve the precise velocity changes required in the three axes as called for in the LOI PAD. Using Noun 85 whilst in program P40 on the CMC the velocity errors in the three axes are displayed as VGX, VGY, VGZ. These values represent the velocities, in fps, still to be gained and are known as residual velocities. For Apollo 10's LOI burn the residuals are VGX 0.0, VgY minus 0.2, VGZ 0.0. After many burns, these residuals would be corrected for (or nulled) but not on this occasion as they will be factored in to the second LOI burn PAD.
+076:02:49 Stafford (onboard): Okay, go to [garble].
+076:02:51 Cernan (onboard): What was Delta-VC, John?
+076:02:54 Young (onboard): Minus 7.
+076:02:55 Cernan (onboard): Minus 7?
+076:02:56 Young (onboard): Yes.
+076:02:57 Cernan (onboard): Not 0.7, but 7?
+076:02:58 Young (onboard): 7.
+076:02:59 Stafford (onboard): 7 - 7.0.
+076:03:01 Cernan (onboard): Okay.
+076:03:06 Stafford (onboard): Go to wide deadband.
+With the deadband set to wide (maximum), the spacecraft can wander in attitude as much as ±5° before active steps are made to correct the drift.
+076:03:07 Young (onboard): Yes.
+076:03:20 Young (onboard): We didn't use much gas on that [garble].
+076:03:24 Stafford (onboard): Oh, man! Oh, man, look at those shallow craters.
+076:03:28 Cernan (onboard): Holy smoley!
+076:03:29 Young (onboard): Okay.
+076:03:30 Cernan (onboard): I guess we has arrived.
+076:03:31 Stafford (onboard): You'd better believe it.
+076:03:32 Young (onboard): I'll tell you something. By God, they are craters!
+076:03:34 Stafford (onboard): Yes. They sure don't look like it, but they're [garble] shit!
+076:03:38 Young (onboard): Get some pictures, you guys.
+076:03:39 Cernan (onboard): Yes.
+076:03:40 Stafford (onboard): Here. I've got [garble].
+076:03:44 Young (onboard): Okay.
+076:03:45 Stafford (onboard): Put this watch up over there, [garble].
+076:03:48 Young (onboard): Okay; now, let's make sure we've got everything shut off.
+076:03:50 Stafford (onboard): Okay, yes.
+076:03:51 Young (onboard): Gimbal Motors are Off. The Thrust chambers are Off; the Logic is Off; the TVC Servo Power's Off - You got the Bus Ties, Off, Gene?
+Young is just double-checking the checklist items that have already been carried out.
+076:03:58 Cernan (onboard): Yes, they want you to stay on High Bit Rate?
+The crew are discussing whether to leave the DSE recorder in High Bit Rate.
+076:04:01 Young (onboard): I don't - I don't know.
+076:04:02 Stafford (onboard): I guess so. Let's look in the Flight Plan.
+076:04:07 Cernan (onboard): What's - At - at I - we're crossing 150 at 75:53, which we already did, so - Son of a bitch - we're way over here somewhere.
+Cernan is trying to establish the longitude they are currently crossing. The Flight Plan states they should be passing 150° East GET 075:53.
+076:04:14 Young (onboard): That's the weirdest-looking surface - there's some color in that.
+076:04:17 Stafford (onboard): There's the coloring C - it's a brownish gray.
+076:04:20 Young (onboard): [Garble].
+076:04:23 Stafford (onboard): It's a brownish gray, old buddy.
+076:04:22 Cernan (onboard): Like a big sandbox, though, isn't it?
+076:04:24 Stafford (onboard): Yes.
+076:04:25 Cernan (onboard): We is at the Moon, fellows! Can you believe that?
+076:04:27 Stafford (onboard): Yes, I can believe it.
+076:04:28 Young (onboard): It's a brownish gray.
+076:04:29 Cernan (onboard): 60 miles?
+076:04:30 Stafford (onboard): And I don't see a level spot in the whole thing. Yes, I guess we might be down close.
+076:04:33 Young (onboard): It's fascinating...
+076:04:34 Cernan (onboard): Well - what do we do now? [Laughter.] Read the Flight Plan, I guess.
+076:04:37 Stafford (onboard): Yes, alright. Let's get back with it. Okay; transfer Verb 66 Enter, when you finish that thing up real fast? Okay? Proceed.
+Verb 66 transfers the present CSM state vector to the LM state vector slots in the computer's erasable memory.
+076:04:43 Unidentified Crew member (onboard): [Coughing.]
+076:04:44 Stafford (onboard): Proceed.
+076:04:47 Young (onboard): We got it.
+076:04:48 Stafford (onboard): Oh, did you put a Verb 46 in after that?
+Verb 46 activates the DAP.
+076:04:50 Young (onboard): Yes, I did.
+076:04:51 Stafford (onboard): You did?
+076:04:52 Young (onboard): Yes. I was just - that was the second check.
+076:04:54 Stafford (onboard): Okay, good. You got a Verb 66 Enter?
+076:04:57 Young (onboard): Yes.
+076:04:58 Stafford (onboard): Hold cut-off attitude to 76:00; we're already there. We've got the burn residuals?
+076:05:02 Young (onboard): Yes. Then we got to get some other attitudes.
+076:05:04 Stafford (onboard): Okay at 76:00 maneuver to roll 180; pitch is the same it's 232; and yaw [garble] three zeros. All we got to do is roll 180. Verb 21; Enter. Just use...
+The planned spacecraft attitude is detailed in Flight Plan page 3-39 attitude diagram. Verb 21 (to load a star code into register 1) is run as part of program P51 (IMU orientation determination).
+076:05:16 Young (onboard): Well, let's just roll 180, huh?
+076:05:18 Stafford (onboard): Yes, [garble].
+076:05:20 Young (onboard): Okay?
+076:05:21 Stafford (onboard): Yes. Look. There you go. Oh, Translation Control to Lock.
+The Translation Control has a sliding switch on it with two positions, Armed or Locked. Stafford is moving this switch to the Locked position to avoid any inadvertent movement of the controller.
+Command Module Translation Control (TLC). The scale is in inches.
+076:05:37 Cernan (onboard): Would you believe it? [Sigh.] What about a camera? Try to figure out where the hell we are while you guys are doing that.
+076:05:41 Stafford (onboard): Really, I - I don't think you can tell what we're at right now. Until we get acclimated to the thing. We're going to roll 180.
+076:05:47 Young (onboard): Man, that is utterly unbelievable!
+076:05:51 Cernan (onboard): Isn't that - isn't that something? When I first saw that reflecting in that LM window, I about came unglued!
+076:05:56 Young (onboard): I just don't know what to think of that. That's just fantastic!
+076:06:00 Cernan (onboard): I about came un - Look at this! Oh, look! Give me that camera, Tom...
+076:06:03 Young (onboard): Are we at America?
+When the early Apollo flights reached the Moon's far side, the IAU (International Astronautical Union, a body tasked with giving names to bodies and places in the Solar System) had not caught up with the pace of exploration and had not yet officially named the major features around the Moon's far side. Understandably, and to help with identification, the people of Apollo applied their own names. Most of the names for small-scale features around landing sites have stuck but all those for large features were eventually replaced by the IAU according to their naming conventions.
+What the Apollo 10 crew are calling 'America' is now known as Korolev. This massive 437-km walled plain is really a small multiring basin, having the vestiges of an inner ring visible within the main crater rim. Sergei P. Korolev (1906-1966) was the mastermind behind the early Soviet space program, being largely responsible for both the first unmanned and manned spacecraft.
+076:06:04 Stafford (onboard): You got it.
+076:06:05 Young (onboard): We're at America, aren't we? Take pictures of that thing.
+076:06:07 Cernan (onboard): Give me that camera.
+076:06:08 Stafford (onboard): Here, take [garble].
+076:06:09 Young (onboard): I - should I be using this one, I wonder?
+076:06:10 Stafford (onboard): Don't get much of the horizon.
+076:06:11 Young (onboard): Don't get much of the horizon.
+076:06:12 Cernan (onboard): The what? Don't get much of horizon?
+076:06:14 Stafford (onboard): Take the slide out.
+076:06:16 Cernan (onboard): I should probably have the other lens right here.
+076:06:20 Young (onboard): By golly, that's fascinating!
+076:06:22 Stafford (onboard): That stuff looks gray. It was brownish gray.
+076:06:24 Cernan (onboard): It was brownish gray to me.
+076:06:26 Stafford (onboard): It's brownish gray.
+076:06:27 Cernan (onboard): Oh! What the hell's wrong with it? What the hell is wrong with it?
+076:06:30 Young (onboard): You've got to fix it. God damn it, that slide...
+076:06:32 Cernan (onboard): The son-of-a-bitch camera, I took the slide out.
+076:06:35 Young (onboard): It's that damn thing; you've got to wind it, remember? You got to cock the film...
+076:06:38 Stafford (onboard): And it's in black and white...
+076:06:39 Cernan (onboard): You wind it which way?
+076:06:40 Stafford (onboard): Here. Let me show you.
+076:06:42 Stafford/Young (onboard): Take that one, Gene-o.
+076:06:43 Stafford (onboard): Then [garble] this one. You wired it for red.
+076:06:45 Young (onboard): Okay. When do we get AOS [Acquistion Of Signal], Gene-o?
+076:06:48 Cernan (onboard): At 22.
+076:06:49 Stafford (onboard): [Garble] white. Okay, you're all set.
+076:06:51 Young (onboard): Shoot, I want to take...
+076:06:55 Stafford (onboard): Okay, we have AOS at 76:22. Okay?
+076:07:04 Young (onboard): Just not much of the horizon there, Gene-o.
+076:07:06 Cernan (onboard): I'm not taking any of it, because I don't see it. I got - you know, I think it looks bluish gray.
+076:07:16 Young (onboard): By God, we're all satisfied it's got color in it of some kind...
+076:07:18 Stafford (onboard): [Garble] color.
+076:07:23 Young (onboard): [Garble] brownish to me.
+076:07:24 Stafford (onboard): It's a brownish gray.
+076:07:25 Young (onboard): I agree with Tom; I think it's got a little brown in it...
+076:07:26 Stafford (onboard): It's brownish gray. Very little - occasional white, but mostly brownish gray. And I would say the - the gray predominates - it's 50/50. Hey, as we're coming to right-side up, it's easier to shoot, Gene-o.
+076:07:41 Cernan (onboard): Okay. I think - Do we want this lens that - Look at some of those craters!
+076:07:45 Young (onboard): Yes.
+076:07:46 Cernan (onboard): I tell you, I'd sure like to know where we are.
+076:07:48 Stafford (onboard): Well, look; get out the map. You can - you've been trying to work...
+076:07:50 Cernan (onboard): [Garble] I got...
+076:07:51 Stafford (onboard): ...to get this on...
+076:07:52 Cernan (onboard): Hey, look at - look at this thing that's floating with us out this window, Tom. See it?
+076:07:55 Stafford (onboard): Yes, I've seen it. It's a big bubble.
+076:07:56 Cernan (onboard): A big bubble right with us.
+076:07:57 Young (onboard): It's a what? A what?
+076:07:58 Stafford (onboard): A bubble.
+076:07:59 Young (onboard): Take a picture of that.
+076:08:00 Cernan (onboard): A bubble.
+076:08:01 Stafford (onboard): Well, there's a bubble from - probably from the urine dump...
+076:08:04 Young (onboard): Oh.
+076:08:05 Stafford (onboard): ...or something. And then there's a...
+076:08:08 Cernan (onboard): I imagine people will think it's a - You want to try this?
+076:08:11 Stafford (onboard): No...
+076:08:12 Cernan (onboard): See if I can navigate and find out where we are.
+076:08:14 Young (onboard): See what Verb 82 says, and write that down.
+Verb 82 is used as part of computer routine R30. This routine is used to provide the crew with their current orbital parameters.
+076:08:16 Young (onboard): Yes.
+076:08:17 Cernan (onboard): (Coughing)
+076:08:18 Young (onboard): That should be a little better this time...
+076:08:20 Cernan (onboard): Let me get that in so I can put it in the postburn report...
+076:08:22 Young (onboard): ...6. 169.1 by 59.6. Now, where the hell is it? 1 - 165.
+Young is struggling to find his post-burn notes of the orbit parameters displayed by the CMC. Apolune (orbit high point), 169.1 nautical miles (313.2 km); perilune (orbit low point), 59.6 nautical miles ( 110.4 km).
+076:08:34 Cernan (onboard): God, it's brown all around that crater there, I swear.
+076:08:37 Young (onboard): 1.1 by 59.6.
+076:08:40 Stafford (onboard): Yes.
+076:08:42 Cernan (onboard): The only thing I didn't like about the whole operation is the unbalanced Mickey Mouse - I never could catch up with it.
+Cernan's Mickey Mouse comment, refers to his role during the LOI burn, of balancing the fuel to oxidiser ratio. He had found it difficult at times to bring the mix into balance. See balancing notes at 075:56:07
+076:08:47 Stafford (onboard): Making sure we got a [garble].
+076:08:48 Young (onboard): Well, did you get...
+076:08:49 Cernan (onboard): You see, it went unbalanced at 300, and then I put decrease, and then I get it to neutral, and then I stopped it; and then it went way up and I never could catch up with it.
+Cernan has noted that the propellants became unbalanced at 3:00 minutes into the LOI burn.
+076:08:55 Stafford (onboard): Okay, why don't we time - We've got a time hack back there, two pages back.
+076:08:59 Young (onboard): Okay, the - this helium pressure went from like 98 to 100...
+076:09:03 Cernan (onboard): Let me write that down there.
+076:09:04 Young (onboard): ...and 3. It was doing it throughout the burn, just beautiful. And then - with a notable increase...
+076:09:11 Cernan (onboard): Oh, hell there. Okay, I'll just pass [garble] all I know...
+076:09:16 Stafford (onboard): [Garble]. By God, I'll get that from Jack Schmitt. And I'll clue you. 5.6 now [garble].
+Camera aperture stop setting. f:5.6.
+076:09:25 Young (onboard): [Garble]...
+076:09:26 Stafford (onboard): Hey, you shooting at 5.6, Gene-o?
+076:09:29 Cernan (onboard): Yes, I hope so.
+076:09:30 Stafford (onboard): Well, it had about f:11 there, when it got - Okay. Well, it looks like Mount Shasta up there; something's definitely [garble] volcanism.
+076:09:45 Cernan (onboard): Where?
+076:09:46 Stafford (onboard): Well, I - I mean, you can definitely see that, can't you? See that white mound out there?
+076:09:50 Cernan (onboard): Yes.
+076:09:51 Stafford (onboard): [Garble]. That's definite volcanism [garble]...
+076:09:53 Young (onboard): [Garble] and there isn't color in that; it's in black and white.
+076:09:56 Cernan (onboard): It's black and (laughter) - Oh, Tom, give me that thing. Let me get this - let me get this fresh crater. Hold on here. This set? You should see this little white one down there.
+076:10:11 Stafford (onboard): That's probably [garble] little white one on the peak.
+076:10:14 Cernan (onboard): Can you see that? I'm looking right directly at it.
+076:10:16 Young (onboard): Yes, I got it. Okay.
+076:10:18 Cernan (onboard): That does look like a fresh volcanism because it's black inside.
+076:10:22 Young (onboard): Yes, it's black in there.
+076:10:26 Cernan (onboard): I guess when we get rolled over, we'll be better than old - This is the first time we'll be sitting upright that we know of.
+076:10:31 Young (onboard): Here you are.
+076:10:34 Stafford (onboard): What's this? You got the slide in?
+076:10:36 Cernan (onboard): It's right in here, Tom. Right there. Look at that ridge; it sits right on the ridge, too.
+076:10:46 Young (onboard): My gosh, we ain't very high, you guys.
+076:10:49 Cernan (onboard): We don't look it, do we?
+076:10:50 Young (onboard): It doesn't look at all high to me (laughter).
+076:10:53 Stafford (onboard): Wait until we get down to 10,000 feet.
+076:10:57 Cernan (onboard): Holy smoley, down around 10 miles, you're going to...
+076:11:00 Young (onboard): These mountains look like they'll reach right up here at us. I never saw anything [garble] This is a little bitty planet, for crying out loud.
+076:11:04 Cernan (onboard): It sure is. It sure is.
+076:11:08 Stafford (onboard): Okay, let's go ahead. Let's get going; we've got a lot of things to do in the Flight Plan yet.
+076:11:12 Young (onboard): I don't know what they all are. Where is the Flight Plan?
+076:11:14 Stafford (onboard): Right here.
+076:11:17 Cernan (onboard): Okay, and give me that thing, and see if I can help us find out where we are. Okay, I've got the S-band set up to...
+076:11:22 Stafford (onboard): Okay, we'll take it. Let me get a time hack back here for these damn things, Gene-o. The time we started at 150 west, 75:52...
+076:11:31 Cernan (onboard): I already got that on there. 75:53, the second one.
+076:11:34 Stafford (onboard): Okay.
+076:11:35 Cernan (onboard): I already got that. Now, where in hell are time [garble]?
+076:11:44 Young (onboard): Okay, we done that part.
+076:11:48 Cernan (onboard): You're still going backwards, right?
+076:11:49 Stafford (onboard): Yes.
+076:11:50 Young (onboard): Yes.
+076:11:52 Cernan (onboard): Oh, my golly!
+076:11:55 Stafford (onboard): We're still going backwards, okay. Now, it's - At 70, we initiate orb-rate - right away 76:17, orb-rate 350, ORDEAL. Let's get the ORDEAL going. Let's go to Lunar and 60 by 170 over the [garble] John. I'll get it. Let's go to Power on the Lunar, take an average [garble].
+The ORDEAL (Orbital Rate Display - Earth And Lunar) drives one or both FDAI (Flight Director/Attitude Indicator, or "8-ball") instruments to display the spacecraft's attitude relative to the ground below. It is a separate box of electronic controls which is connected by the crew for use by virtue of it being an add-on to the system as originally designed.
+The ORDEAL has several controls:
+The two FDAI switches set the relevant FDAI to Orb Rate to display the pitch attitude with respect to the local horizontal, or Intrl to display the inertial attitude (bypassing the ORDEAL)
+The 3-way mode switch - Earth/Power Off/Lunar enables the ORDEAL to work in Earth or Lunar Orbit.
+The Alt Set rotary switch allows the crew to dial in the orbital altitude, which determines the rotation rate at which the FDAI will be driven.
+The 3-way Lighting switch controls the ORDEAL's electroluminescent panel, BRT, OFF, DIM.
+The 2-way Mode-Opr/Slow or Hold/Fast and the 3-way Slew-Up or Down, switches allow the FDAI to be set to the correct initial attitude slowly (0.55 degrees/sec) or fast (10 degrees/sec). Once set using the Slew switch, the ORDEAL is set to Opr for normal operation. Hold would be used to maintain a constant ORDEAL output.
+ORDEAL control panel.
+When the ORDEAL panel is not in use during launch and entry, it is stored in compartment U3 in the Upper Equipment Bay. When in use, it is mounted above window 1 on the left side of the crew compartment. Stafford is setting the ORDEAL up for initial use in lunar orbit. He is setting the mode switch to LUNAR, and the ALT SET switch as prescribed to the 350 position.
+076:12:16 Young (onboard): Okay, I'll align the GDC to IMU.
+076:12:18 Stafford (onboard): Yes, align the GDC to IMU and go to close rate. Then you want to call up Verb 82 - 83, right? I wonder what day it is?
+076:12:31 Cernan (onboard): They know we're here, because they would have acquired us at 12. You want me to take something off your hands, Tom?
+076:12:43 Stafford (onboard): The stuff get your DAP at 315 [garble] 214. You want me to get it, John?
+076:12:50 Young (onboard): Go ahead. You want me to get it?
+076:12:56 Cernan (onboard): Yes, the only damn thing I didn't like about that engine was the way it...
+076:13:08 Stafford (onboard): It looks like we've got some pretty phenomenal hardware.
+076:13:12 Cernan (onboard): God dang, that thing looks [garble].
+076:13:14 Young (onboard): It's smooth as silk.
+076:13:17 Cernan (onboard): I wonder what our nominal percentage is down there on the [garble].
+076:13:21 Young (onboard): Enough to [garble] you back.
+076:13:23 Cernan (onboard): I've got 39 per cent.
+The propellant quantities were recorded at LOI cut-off for Cernan to read to MCC-H as part of the burn status report. The figures recorded were fuel 37.7 percent, oxidizer 39.5 percent. MCC-H need to know this to calculate the spacecraft weight and assess the propellant margins for the remainder of the mission.
+076:13:24 Young (onboard): That's alright.
+076:13:25 Cernan (onboard): I thought we were looking at 47 per cent in the sims all the time. We've got another burn to make, yet.
+076:13:32 Stafford (onboard): Yes. 40 per cent.
+076:13:38 Cernan (onboard): I thought we were used to looking at 47 percent?
+076:13:42 Stafford (onboard): Okay, John, we got to go through - We're coming along like this. Okay, we have a [garble]; right, babe?
+076:13:50 Young (onboard): Yes.
+076:13:51 Stafford (onboard): Okay. Pitch down to 315 ORDEAL.
+076:13:57 Young (onboard): Okay. But that's all slipped 11 minutes because of this time lag.
+076:14:01 Stafford (onboard): Yes. That's 76:27. 13 minutes [garble].
+076:14:08 Cernan (onboard): I'm on the middle of the [garble].
+076:14:15 Unidentified crew member (onboard): (Sigh)
+076:14:21 Young (onboard): Pitch down to where? Okay, that's...
+076:14:23 Cernan (onboard): 70 degrees.
+076:14:36 Young (onboard): Okay, what am I pitching to?
+076:14:38 Stafford (onboard): We need to pitch down to 315 inersh [inertial] for ORDEAL.
+The Flight Plan dictates that the crew should pitch down the combined spacecraft to 315° inertial and then set the ORDEAL to orb-rate at GET 076:17 plus the 11-minute slippage in the schedule mentioned by Young, i.e. GET 076:27
+076:14:44 Young (onboard): [Garble] inertial [garble].
+076:14:47 Stafford (onboard): [Garble] need to pitch down.
+076:14:50 Young (onboard): Okay.
+076:15:05 Cernan (onboard): Got the right what?
+076:15:08 Stafford (onboard): So we're going to be upside down coming around the...
+076:15:10 Cernan (onboard): Disagrees - This is 37 percent at this temperature and - and pressure, so the helium pressure in the...
+076:15:17 Stafford (onboard): So, we've rolled 180, right?
+076:15:18 Young (onboard): Yes.
+076:15:19 Stafford (onboard): Then we will swing down through the straight vertical; right, babe?
+076:15:23 Cernan (onboard): Yes.
+076:15:24 Stafford (onboard): Then we'll come over like that.
+076:15:25 Cernan (onboard): Yes.
+076:15:26 Stafford (onboard): Until we come into that [garble].
+076:15:27 Cernan (onboard): Yes.
+076:15:28 Stafford (onboard): Alright?
+076:15:29 Cernan (onboard): Yes.
+076:15:30 Young (onboard): Get some pictures of this, while we're pitching over; we'll probably never do this again.
+076:15:33 Cernan (onboard): Yes, okay. Want to try that other lens or do you want to use this one entirely?
+076:15:42 Young (onboard): Oh, boy!
+076:15:43 Stafford (onboard): Black skies - Let's see, and we'll acquire at 20 minutes.
+076:15:49 Young (onboard): It's the weirdest thing I ever saw in my life. This is worth the price, boy.
+076:16:07 Cernan (onboard): Isn't it? I'll tell you - 60 miles looks like you're awful close to me.
+076:16:15 Stafford (onboard): Do you recognize any stuff I got you?
+076:16:17 Young (onboard): Yes. There's the Tallahatchie Bridge.
+076:16:21 Cernan (onboard): Did you find it?
+076:16:22 Young (onboard): Yes. That's my big basin. It is a big basin! Look at those sides!
+076:16:28 Cernan (onboard): Where you looking, on the...
+076:16:29 Young (onboard): Right up there.
+076:16:30 Stafford (onboard): Oh, that whole thing?
+076:16:31 Young (onboard): Yes, that whole great big thing.
+076:16:33 Cernan (onboard): What latitude is that at, babe?
+076:16:35 Young (onboard): I don't know; I have no idea where we're at.
+076:16:39 Cernan (onboard): I should have - I - I should get my lunar - lunar chart. I've got it marked a little bit more. This is - this is - this is where the target of opportunity.
+076:16:47 Young (onboard): When we have to be there?
+076:16:53 Cernan (onboard): Would you believe where we are, guys?
+076:16:54 Stafford (onboard): Huh? Yes, [garble] at.
+076:16:56 Cernan (onboard): Would you believe where the hell we are?
+076:16:58 Stafford (onboard): We've got a lot of work to do, too.
+076:17:00 Cernan (onboard): I agree with you.
+076:17:03 Stafford (onboard): Old Jack will flip just over that one volcano.
+Jack is scientist-astronaut, Harrison (Jack) Schmitt who, as a field geologist, helped train the crews in lunar geology.
+076:17:07 Cernan (onboard): That had to be a...
+076:17:08 Stafford (onboard): Oh, yes. You could see the flows coming out of the top, and [garble]...
+076:17:10 Cernan (onboard): Tom, get that one right there. It was sure black, wasn't it? We're going backwards. Let me see what the hell we're looking at? I wish...
+076:17:18 Young (onboard): At least take some of that in color, so it shows up in color.
+076:17:21 Cernan (onboard): Yes.
+076:17:22 Young (onboard): That what-you-call-it.
+076:17:24 Cernan (onboard): We come back around just the same.
+076:17:34 Stafford (onboard): We need that 250?
+076:17:39 Young (onboard): How's the water boiler doing there, Gene-o, babe?
+076:17:43 Cernan (onboard): The water boiler's not boiling yet, because we still got good temperatures.
+Coolant in the primary loop absorbs heat from the CM and is transported to the radiators in the SM where a portion of this heat is rejected to space. When the temperature of the coolant from the SM radiators entering the evaporator (water boiler) rises to 48.0 to 50.5° F, the radiators are not rejecting enough heat to space and the evaporator mode of cooling is initiated to supplement the cooling. The glycol temperature control (Glycol Evap-Steam Press switch, Auto position on panel 2) opens the steam pressure valve allowing the water in the evaporator wicks to evaporate, using some of the heat contained in the coolant for the heat of vaporization.
+Glycol Evap-Steam Press switch - Panel 2.
+076:17:46 Stafford (onboard): Wonder what the temperatures are. Hey, there's another little one for Jack to look at. We're going to keep him busy for years.
+076:17:52 Cernan (onboard): Oh, give me - give me this one. This has got a - this has got a raw - it looks like a rocky basin in it. On this crater here, Tom. Where is 315 ORDEAL, Tom?
+076:18:02 Stafford (onboard): Let me check it. Right around here.
+076:18:04 Young (onboard): We should be up to 70 - 3, Enter. You got that set up on ORDEAL?
+076:18:13 Stafford (onboard): Yes.
+076:18:14 Young (onboard): Why's this one here doing it, too?
+076:18:16 Stafford (onboard): Number 2's Inertial; Power's - Auto; is EMS, Off? EMS - I mean ORDEAL? I got the power to it - in Lunar.
+Stafford is setting up the ORDEAL to drive FDAI number 2.
+076:18:27 Cernan (onboard): Why, those sides don't look - look rocky, you can see the bottom of that.
+076:18:31 Stafford (onboard): It could be.
+076:18:34 Young (onboard): Hey, what's going on there?
+076:18:36 Stafford/Cernan (onboard): 263.
+076:18:39 Stafford (onboard): You see Inertial is about equal to orb-rate there, babe.
+076:18:43 Cernan (onboard): I'm coming backwards, so this stuff's got to be...
+076:18:46 Stafford (onboard): That's right. Look at...
+076:18:47 Cernan (onboard): ...over here.
+076:18:48 Stafford (onboard): Okay.
+076:18:49 Cernan (onboard): Okay?
+076:18:50 Stafford (onboard): Yes.
+076:18:51 Young (onboard): That had me a little worried.
+076:18:52 Stafford (onboard): Yes, I understand. You guys - You see, we're going to be going upside down; we're now going straight down over the subsolar point.
+076:19:01 Cernan (onboard): We certainly in hell ought to be able to pick out - Tom, you know that lunar map we got in that case? If you could reach up and grab that for me, that's a - then we'd each have one, and that's - our LM lunar map. I don't mean our strip chart, but I mean the...
+076:19:12 Young (onboard): Give me - give me - give me a - give me a - give me a - a thing.
+076:19:16 Cernan (onboard): That?
+076:19:17 Stafford (onboard): The camera, Go.
+076:19:20 Cernan (onboard): Then - then I could follow that other chart which I've got marked a lot better. I'd like to find Neper when we come around on...
+076:19:25 Young (onboard): I'll get it, Tom. Where is that thing? In here somewhere?
+076:19:27 Stafford (onboard): Yes, it's right in there. I want to see this one.
+076:19:40 Young (onboard): That's black...
+076:19:41 Stafford (onboard): There's stuff in there.
+076:19:42 Cernan (onboard): That's black stuff, I can see it from here.
+076:19:43 Young (onboard): That black...
+076:19:45 Stafford (onboard): I've got another one - Hold it, John. I got a good one for Gene - Hold that. Yes, it's black as hell in some of that stuff.
+076:20:06 Cernan (onboard): Ever see anything like this in your life?
+076:20:08 Young (onboard): (Laughter) Obviously not!
+076:20:11 Stafford (onboard): We're coming up to the subsolar point. Okay.
+076:20:17 Cernan (onboard): Okay.
+076:20:18 Young (onboard): That damn thing right there is nothing but a big hill that it looks like damn...
+076:20:24 Stafford (onboard): Oh, look at that!
+076:20:25 Young (onboard): ...it looks like one of the volcanoes in Arizona!
+076:20:26 Stafford (onboard): That one over there.
+076:20:28 Cernan (onboard): There's another fresh one, Tom. Let me get this fresh one over here with this...
+076:20:30 Stafford (onboard): Yes, I've got one now.
+076:20:33 Young (onboard): Watch for the horizon, babe.
+076:20:34 Stafford (onboard): I don't even have the horizon...
+076:20:35 Cernan (onboard): What happens if you get the horizon in?
+076:20:37 Young (onboard): They take off points.
+076:20:38 Cernan (onboard): Well, here's a rim crater on a rim crater. This is the one I want to track, yes.
+076:20:45 Young (onboard): When does Houston supposed to come into view?
+076:20:47 Stafford (onboard): Oh, look at that! What's that big crater over there?
+076:20:49 Young (onboard): Well, when's AOS, you guys? (Laughter)
+076:20:51 Stafford/Cernan (onboard): At 22.
+076:20:52 Stafford (onboard): I think the best thing to say - [garble] Houston, tell the Earth we have arrived. Don't go into the rest of it.
+076:21:02 Cernan (onboard): Here, you want this? I'm going to try and find out - We're at the subsolar point. God dang, you can't really see much! Look at! Get that one straight down, Tom, at subsolar. Can you see that little white one?
+076:21:11 Stafford (onboard): I've got it.
+076:21:14 Cernan (onboard): John, where would you say subsolar is on there? In longitude?
+076:21:19 Young (onboard): Babe, now, don't - don't be asking me things like that, I can't - -
+076:21:22 Cernan (onboard): It must be about 90 degrees, huh?
+076:21:24 Stafford (onboard): Yes. What do we have - We're in PGNS to reacquire?
+Verb 64 starts the S-Band antenna routine R05. This routine computes and displays the yaw and pitch gimbal angles to point the antenna at the centre of the Earth. The crew set the angles accordingly, having taken into account whether these angles and the present spacecraft attitude, give an unobstructed line of sight view of the Earth. If they are in the attitude dictated in the Flight Plan they should have no issue with the LM obstructing the antenna's view of Earth.
+076:21:30 Cernan (onboard): Okay.
+076:21:31 Stafford (onboard): Let's stand by to give them the burn (report). And also, to tell them that we have arrived.
+076:21:37 Cernan (onboard): Where's the Flight Plan, so I can give them all that jazz? You say when. Give me the Flight Plan, John. You got it in here? You keep the nav, I'll take the flight.
+076:21:46 Stafford (onboard): Okay, you can stop them pretty soon, John.
+076:21:48 Young (onboard): Okay.
+076:21:50 Stafford (onboard): Keep it upside down. And we should be going right down the Apollo Zone.
+076:21:53 Young (onboard): Okay.
+076:21:55 Stafford (onboard): Okay.
+076:21:56 Cernan (onboard): We ought to be looking coming - We're still going backwards.
+076:21:58 Young (onboard): You got your tick-tock going there? Do you know what time it is from when we started 150 west?
+076:22:05 Cernan (onboard): No, I didn't time it, babe, but - I know the time. I know that the time's on the chart at 53 - is at 75:53. I marked it on there.
+076:22:15 Stafford (onboard): 75:53; and at 23, it will be 30 minutes after that, right?
+076:22:20 Cernan (onboard): Yes.
+076:22:21 Stafford (onboard): Where do we start? There's 10 minutes, 20 minutes; okay, here's where we should be coming up to right now. 30 minutes, right here. Okay. Of course, we are coming - we're upside down, right? Going forwards.
+076:22:34 Young (onboard): Yes. Look at that planet, look at that thing there?
+076:22:36 Cernan (onboard): Yes.
+076:22:38 Young (onboard): Hey, that's something isn't it?
+076:22:39 Stafford (onboard): Here's another volcano for - for Jack to look at. There's no doubt that there's a...
+076:22:43 Cernan (onboard): There's two of them. See them together?
+076:22:44 Stafford (onboard): We got...
+076:22:45 Young (onboard): Oh, no, that doesn't - that's not - that little white one, Tom?
+076:22:49 Stafford (onboard): Yes, I was wondering...
+076:22:50 Cernan (onboard): That - that with all those rays; that's got to be an impact crater or something like that, I'll bet.
+076:22:52 Stafford (onboard): But why is it going up high?
+076:22:54 Young (onboard): Well, I can't tell that it is, looking down at the subsolar.
+076:23:00 Stafford (onboard): Okay, stop it, José.
+076:23:02 Young (onboard): Yes. We're stopped.
+076:23:04 Cernan (onboard): Hey, John? You ought to be able to see a big, big Neper on your left somewhere.
+Day 3, part 12a: Lunar encounter - Approach
+Journal Home Page
+Day 4, part 13: Acclimatising in lunar orbit

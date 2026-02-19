@@ -1,0 +1,355 @@
+Apollo 12 Flight Journal - Day 1, part 4: LM Inspection
+Day 1, part 3: Transposition, Docking and Extraction
+Journal Home Page
+Day 1, part 5: PTC and back over to the LM
+Apollo 12
+Day 1, part 4: LM Inspection
+Corrected Transcript and Commentary Copyright © 2004-2025 by W. David Woods, Johannes Kemppanen and Lennox J. Waugh. All rights reserved.
+Last updated 2025-02-22
+This is Apollo Control at 5 hours and 7 minutes. We're back live now with air/ground. Apollo 12 is 19,645 nautical miles [36,383 km] from Earth. Velocity, 13,443 feet per second [4,097 m/s].
+This is Apollo Control. The word 'Aux' that you've heard in the last few transmissions is A-U-X, stands for Auxiliary.
+Very long comm break.
+005:21:48 Carr: Apollo 12, Houston.
+005:21:51 Gordon: Go ahead, Houston.
+005:21:53 Carr: Roger. If you'll give us P00 and Accept, we'll fire up some - a new REFSMMAT, a zero trunnion bias, and a CMC clock update. Over.
+005:22:03 Gordon: Roger. It's all yours.
+005:22:05 Carr: Roger. [Long pause.]
+Long comm break.
+This is Apollo Control at 5 hours, 23 minutes. Apollo 12's distance from Earth is 21,475 nautical miles [39,772 km]. Velocity, 12,883 feet per second [3,927 m/s].
+005:25:34 Gordon: Hey, Houston, 12.
+005:25:35 Carr: Go ahead, 12.
+005:25:38 Gordon: Roger. Doing the P23 at 6 hours. You gave me this attitude after we left that S-IVB, but the Flight Plan has star 15 for the optics cal, 204, 262, 0. Are you going to change that?
+005:26:01 Carr: Dick, you'll have a new REFSMMAT at that time, and your inertial attitude ought to be - be that now. Once you put in your new REFSMMAT, you ought to be in good shape.
+005:26:13 Gordon: Oh, very good, very good. I understand. I was just behind you, I guess.
+005:26:16 Carr: That's the maneuver we were trying to save you.
+005:26:21 Gordon: Thank you.
+005:26:25 Carr: 12, Houston. The computer is yours.
+005:26:30 Gordon: Okay.
+005:26:32 Carr: And if you can find the time in your busy social schedule, I got a P37 PAD for you.
+005:26:43 Gordon: Okay, just stand by. We'll find the book.
+005:26:46 Carr: Okay, this an LO plus 15, lift-off plus 15.
+Comm break.
+005:28:51 Bean: Go ahead with that P37, Houston.
+005:28:56 Carr: Roger, 12. This is just a four liner. Lift-off plus 15, GET is 015:00, 4714, minus 168, 050:06. Over.
+005:29:23 Bean: Roger. 015:00, 4714, minus 168, 050:06.
+005:29:31 Carr: Roger, Al.
+Comm break.
+The P37 PAD is interpreted as follows:
+Purpose:This is an emergency return to Earth that would take place some 15 hours into the mission. It would be performed using the large SPS engine, primary computer guidance, and would require jettisoning the LM.
+Time of ignition, GETI: 15 hours, 00 minutes, 00 seconds.
+Delta-VT: 4,714 fps (1,437 m/s). This represents the total velocity change of the maneuver.
+Longitude (LONG): -168°. This is the estimated longitude for the Earth landing point for reentry, stated in degrees.
+Predicted GET of 0.05g event (GET 400K): Expected at 50 hours, 6 minutes GET. This is when it is expected that the EMS and P64 will be triggered.
+That was information that would be needed by the crew for an abort at 15 hours after lift-off.
+005:31:57 Carr: Apollo 12, Houston.
+005:32:00 Conrad: Go ahead, Jer.
+005:32:01 Carr: Roger. What do you say we break the simulation down and debrief it now, and the backup crew's ready to get in.
+005:32:09 Conrad: Yes, I imagine they are ready to get in now. [Pause.] You can tell SimSup that's a new one to work on.
+005:32:21 Carr: Roger.
+005:32:27 Bean: It's a good thing we've never seen it before because we sure didn't know what to do about it.
+005:32:34 Carr: Oh, you did pretty good.
+005:32:38 Bean: That's right, absolutely nothing.
+Long comm break.
+SimSup is the simulation supervisor.
+005:36:39 Gordon: Houston, Apollo 12.
+005:36:42 Carr: Go ahead, 12.
+005:36:44 Gordon: Rog. You do have the PTC REFSMMAT in now. Is that correct?
+005:36:52 Carr: That's affirmative. On that last one, Dick, we sent you a PTC REFSMMAT, a zero trunnion bias, and a CMC clock update.
+005:37:03 Gordon: Okay.
+Long comm break.
+005:45:31 Gordon: Hey, Houston, this is 12.
+005:45:40 Carr: 12, Houston. Go ahead.
+005:45:42 Gordon: Roger, Jerry. The reason I'm having trouble with this alignment - first star was Canopus. I got that okay in the sextant. The second star in Picapar is Procyon, and I don't have anything in the sextant.
+005:46:00 Carr: Right. Stand by, Dick.
+Comm break.
+Astronaut Ed Gibson is the CapCom now.
+005:47:16 Conrad: Houston, CDR. How do you read?
+005:47:21 Gibson: We read you loud and clear, 12. Go ahead.
+005:47:22 Conrad: Okay. No, this is CDR. I'm on the lightweight headset now. Just checking.
+005:47:32 Bean: He just couldn't see it.
+Comm break.
+005:48:42 Gibson: 12, Houston.
+005:48:47 Gordon: Go ahead.
+005:48:49 Gibson: We're observing a weak signal down here. We'd like you to go ahead and track - check the position of the track mode switch and also the beam width.
+005:48:58 Gordon: Okay. We've been operating on Omni's. Do you want us to go to high gain now?
+005:49:05 Gibson: That is negative, 12.
+005:49:16 Gordon: Roger. We are presently in Omni A.
+Comm break.
+At 5 hours, 15 [50] minutes Elapsed Time, Apollo 12's distance from Earth is 24,561 nautical miles [45,487 km], velocity is 12,062 feet per second [3,676 m/s].
+005:51:55 Gibson: 12, Houston.
+005:51:59 Gordon: Go ahead.
+005:52:00 Gibson: We recommend that you use star 12 or star 15 for your second star.
+005:52:06 Gordon: Okay. [Long pause.]
+005:52:54 Conrad: Houston, are you looking at the DSKY?
+005:52:59 Gibson: Affirmative, 12.
+005:53:07 Conrad: Houston, you are looking at the torquing angles?
+005:53:12 Gibson: We have them, 12.
+005:53:14 Conrad: Roger. Torquing at this time.
+005:53:16 Conrad: Mark.
+Comm break.
+Dick has completed the third realignment of the guidance platform on this mission, and the first beyond low Earth orbit. Using P52, he sighted on star 14 (Canopus, Alpha Carinae) and star 16 (Procyon, Alpha Canis Minoris). As a result of these sightings, the computer determined that the platform had to be rotated, or 'torqued' by +0.764° in X, +0.576° in Y and -1.187° in Z. As a check of his accuracy in sighting the two stars, the computer compared the known angle between them to the measured angle. If the two are the same, five zeros would be displayed when he calls up Noun 05, known as 'all balls'. In this case, he has achieved a difference of 0.01°; still a very good value.
+005:56:14 Gordon: Hello, Houston, 12.
+005:56:17 Gibson: 12, go ahead.
+005:56:20 Gordon: Roger. How does the Flight Plan look for this first set of P23s? Okay?
+005:56:26 Gibson: Stand by, Dick.
+005:56:37 Gibson: 12, go ahead. There are no changes so far.
+005:56:41 Gordon: Okay. We are going to do the Verb - first maneuver Verb 49 to get the boresight star.
+005:56:48 Gibson: Roger.
+Very long comm break.
+This is Apollo Control at 5 hours, 58 minutes. We are having a shift change in the Mission Control Center at this time. We are estimating the Change of Shift News Conference to begin in approximately 15 minute. Change of Shift News Conference in approximately 15 minutes.
+This is Apollo Control, Houston at 6 hours, 8 minutes now into the flight of Apollo 12. In Mission Control Center, Houston, we have just completed a hand-over, change of shift. At this time, Flight Director Pete Frank and his Orange Team of flight controllers now aboard. As we sit here surveying the room, the Apollo 12 spacecraft, the Command Module Yankee Clipper, the Lunar Module Intrepid, currently 26,534 nautical miles [49,141 km] above the Earth. We now read a velocity of 11,602 feet per second [3,536 m/s]. Spacecraft weight at this time, 97,157 pounds [44,070 kg]. The atmosphere of the control center somewhat quieter than perhaps it was earlier in the day. Flight Director Pete Frank at this time talking specifically to his EECOM who has just come aboard. And as was recorded earlier, Ed Gibson has replaced Jerry Carr in our CapCom position. No conversation from the spacecraft for the past few minutes but we'll standby and continue to monitor. At 6 hours and 9 minutes into the flight; this is Apollo Control, Houston.
+This is Apollo Control, Houston; at 6 hours, 13 minutes now into the flight of Apollo 12. The Apollo 12 spacecraft's altitude at this time, 27,043.8 nautical miles [50,085.1 km] above the Earth. Current velocity now reading 11,485 feet per second [3,501 m/s]. We understand the Change of Shift News Conference will start momentarily in the News Center, therefore we will take down the release line from Mission Control for the duration of that conference. At 6 hours, 14 minutes into the flight; this is Apollo Control, Houston signing off for now.
+006:19:58 Gordon: Houston, 12.
+006:20:02 Gibson: 12, go ahead.
+006:20:04 Gordon: Roger. Are you copying this P23 data?
+006:20:08 Gibson: That's affirmative, Dick.
+006:20:10 Gordon: Okay. I was just wondering. You haven't been hollering at me, yet.
+006:20:17 Gibson: It's looking good.
+Long comm break.
+006:29:36 Gibson: 12, Houston.
+006:29:39 Conrad: Go ahead, Houston.
+006:29:41 Gibson: 12, we've been thinking about the LM check-out procedures. We'd like your thoughts on whether you want to go in there as soon as you finish up with the P23.
+006:29:54 Conrad: Okay. We can do that. We could get into PTC and then go on in there. What do you got in mind?
+006:30:08 Conrad: I guess what I'm asking is what do you people think may have happened? Do you think we might have blown some breakers out or something?
+006:30:21 Gibson: Pete, that's affirmative. We'd like to go ahead and check the position of several breakers just to make sure that we are getting the heaters coming off and on on all of the systems as we should be.
+006:30:36 Conrad: Okay. If you think that's a good idea, and we'll get ready to do that now. I think, what we'd like to do here is - Al is - I've gotten all the way out of my suit, but I still have to stow it. Al is working his way out of his right now while Dick's doing the P23, so we want to get Dick unsuited. We want to get everybody cleaned up here and get this spacecraft stowed. And then we'd like to go in the LM, I think; we've got plenty of time. Do you agree with that?
+006:31:26 Gibson: 12, that's affirmative. It sounds good. We would like to get into the LM before 8 hours GET.
+006:31:34 Conrad: Okay. Well, we'll give her a go. What's your reason for wanting to get in so quick?
+006:31:43 Gibson: Stand by, Pete.
+006:31:47 Conrad: Old curious Pete. You got to give me a reason. [Pause.]
+006:32:10 Gibson: 12, Houston.
+006:32:12 Conrad: Go.
+006:32:13 Gibson: Pete, one of the reasons we want to get in there early is there is a possibility that the ASA heater is not cycling the way it should be. In which case, 8 hours is the limit, and we ought to get a look at it before that time.
+006:32:36 Conrad: Go ahead, Houston. Standing by.
+006:32:41 Gibson: Pete, I repeat. The reason we'd like to get in there before 8 hours GET is that the ASA heater may not be cycling, and the thermal limit then is about 8 hours, so we'd like to get in there before 8 hours and check the position of that circuit breaker to make sure it hasn't pooped and look at the status of the system.
+006:33:04 Conrad: Okay. We'll - we'll - we - we'll - we'll hustle.
+006:33:10 Gibson: Okay, and Pete, we also have the LM check-out procedure that you'll be following for the - going through the activation checklist, and we're ready to read that up to you any time.
+006:33:24 SC: [Garble.]
+006:33:25 Conrad: You're going to have to hold it for a minute, Houston.
+006:33:28 Gordon: Hey, Houston. This is 12, and I'd like to continue this last set of 23's without doing another trunnion bias. Just a half hour, right now.
+006:33:38 Gibson: Roger, Dick.
+Long comm break.
+This is Apollo Control, Houston at 6 hours 37 minutes now into the flight of Apollo 12. The Apollo 12 spacecraft at the present time has a velocity reading of 10,980 feet per second [3,347 m/s]. We currently register now an altitude of 29,549 nautical miles [54,725 km]...
+006:38:44 Conrad: Okay, Houston. We are done with the P23's - and - I guess we're going to get ready to maneuver to PTC attitude then.
+006:39:02 Gibson: Pete, repeat after "I've finished with the P23." You're breaking up.
+006:39:10 Conrad: Okay, we're getting ready to go into a PTC, or do you want us to hold the attitude we have right now as we go into the LM?
+006:39:24 Gibson: Stand by on that, Pete. [Long pause.]
+006:39:43 Gibson: Pete, if you'll hold your present attitude, we'll get an answer up to you in about 3 or 4 minutes.
+006:39:50 Conrad: Okay. We're not going anywhere. [Pause.]
+006:40:07 Gibson: 12, Houston. Would you go over and try Omni Bravo?
+006:40:13 Bean: Going to Omni Bravo.
+Long comm break.
+This is Apollo Control, Houston. As you heard in that exchange between CapCom Ed Gibson and Commander Pete Conrad, we are considering having commander Conrad and Alan Bean, the Lunar Module pilot, go into the Lunar Module some time prior to 8 hours Ground Elapsed Time. The ASA or ASA heater referred to there - ASA is an acronym for Abort Sensor Assembly - a part of the Abort Guidance System of the gyros. So this would be the heaters associated with that system. At 6 hours, 43 minutes into the flight; we'll continue to monitor the air-to-ground between capsule communicator Ed Gibson and the Apollo 12 crew. Standing by; this is Apollo Control, Houston.
+006:44:25 Gordon: Hello, Houston; Apollo 12.
+006:44:29 Gibson: 12, Houston. Go ahead.
+006:44:32 Gordon: Roger. Are you going to fix up our state vector?
+006:44:38 Gibson: Stand by, Dick. [Long pause.]
+006:44:55 Gibson: 12, we'll have one ready for you at about 10 hours.
+006:45:05 Gordon: Okay.
+Long comm break.
+006:49:25 Gibson: 12, Houston.
+006:49:29 Bean: Go ahead, Houston.
+006:49:31 Gibson: 12, you can go ahead and hold off on the PTC and enter the LM with your present attitude. We would like you to first, before you go in, check the Delta-P, LM/CM Delta-P, give us a reading on that and then we have a series of switch and circuit breaker configuration checks, then check the TM and the LGC. We have an abbreviation, or abbreviated procedures taken out of the activation checklist, and we're ready to read that up to you when you're ready to copy.
+006:51:31 Gibson: 12, Houston.
+006:51:35 Gordon: Go ahead, Houston.
+006:51:38 Gibson: Did you get our last transmission, and would you give us a call when you're ready to copy the LM check-out steps?
+006:51:46 Gordon: Roger. You're going to have to give us a few minutes. We're still reconfiguring getting out of suits up here yet.
+006:51:52 Gibson: Okay. Thanks, Dick.
+Long comm break.
+That was Dick Gordon, identifying to Capsule Communicator Ed Gibson that the 12 crew is now getting out of their spacesuits. At the present time we read a velocity of 10,701 feet per second [3,262 m/s], an altitude of 31,013.4 nautical miles [57,436.8 km]. At 6 hours, 52 minutes into the mission of Apollo 12, we will continue to monitor the air-to-ground loop.
+006:56:57 Conrad: Houston, Apollo 12.
+006:57:00 Gibson: 12, Houston.
+006:57:02 Conrad: Roger. We're ready to copy those instructions you've got about the activities you want us to perform in the LM.
+006:57:10 Gibson: Roger. I only follow. First, before you go in we'd like you to read us down the Delta-P from the LM Command Module, and then the abbreviated procedures to go through on the Activation Checklist are as follows: the activation l, steps l, 2, 3; activation 2, step 2. And activation 3 through activation 9, perform all. On activation 10, steps through 18, activation 11, steps l, 2, 3; activation 12, through step 4. The comm configuration is as follows: PM, Prime, Prime, Off; PCM, Off/Reset, Off, High.
+006:58:15 MS: [Garble]...
+006:58:20 Gibson: ...on 11, - circuit breaker Panel 11, LGC/DSKY Closed. On activation 27, perform CDR steps 3 through 6; activation 28, through step 7. Then if you'll give us a Verb 74 Enter; take a look at the E-Mod. Verb 37, Enter; 06, Enter; and a Pro; you'll get a Standby light on. Panel 11, circuit breaker LGC/DSKY, Open. And then continue shutting it down with activation 15, steps 2, 3, 4, 5; and activation 16, perform all. That completes it.
+006:59:21 Bean: Okay. Let me see if I got it right. First thing you want us to do is read CM/LM Delta-P before we go in. Then we start with activation l, steps l, 2, 3. Activation 2, step 2. Activation 3, all. And that's activation 3, 4, 5, 6, 7, 8, 9, all of those. Step - correction - activation 10, steps 1 through 18. Activation 11, 1 through 3. 12, 1 through 4. Comm configuration should be - and I may have missed one here -PM Prime, Prime, Off, Prime - correction - PCM, Off/Reset, and High.
+007:00:07 Gibson: Al, Houston. [Long pause.]
+007:00:25 Gibson: 12, Houston.
+007:00:26 Bean: Yes, Pete. Go ahead.
+007:00:28 Gibson: We just had a brief cut-out while we handed over to Goldstone. You did miss one on the Comm configuration. The - after Off/Reset, it's Off, and then High. And then continue with your read-back.
+007:00:43 Bean: Okay. That'd be Off/Reset, and then Off, and then High. Then CB(11) LGC/DSKY, Close that, and then perform activation 27, commander steps 3 through 6. Then activation 28, steps 1 through 7 to a Verb 7, Enter, and a Verb 37, Enter, 06 Enter, Pro, Standby. Light will come on, of course. Panel 11; then LGC/DSKY, Open, and then do activation15, steps 2, 3, 4, and 5, and all of activation 16.
+007:01:15 Gibson: That's correct, Al.
+007:01:17 Bean: Okey-doke.
+Comm break.
+That was Al Bean going through the Lunar Module check-out procedures with the ground. At 7 hours, 1 minute Ground Elapsed Time; we'll continue to monitor. We presently show the spacecraft velocity reading at 10,537 feet per second [3,212 m/s]. Our current altitude reading, 31,966 nautical miles [59,201 km]. This is Apollo Control, Houston; standing by.
+007:03:43 Conrad: Hello, Houston; 12.
+007:03:46 Gibson: 12, go ahead.
+007:03:48 Conrad: Okay. Our Delta-P has fallen off to plus 0.4, and the zero reading is actually 0.1, so it ought to be - It's fallen off about 0.3. And I'm getting ready to Repress the LM now.
+007:04:08 Gibson: Roger, Pete. We copy. 0.4 and 0.1, fall off of 0.3.
+Long comm break.
+007:08:31 Gibson: 12, Houston.
+007:08:33 Bean: Go ahead.
+007:08:35 Gibson: We'd like to precede that LM check-out step with one step from TLC 1. That is, on TLC 1, step 4, carry out the last two lines. Suit Isolation, both to Suit Flow. Suit Isolation, both to Actuate Overdrive.
+007:08:59 Bean: All right. We understand; we'll do it.
+Long comm break.
+This is Apollo Control, Houston; 7 hours, 15 minutes now into the flight of Apollo 12. We've had no conversation with the Apollo 12 crew in recent minutes but we thought we would update our altitude and velocity reading from our digital displays. Currently we show an altitude of 33,282 nautical miles [61,638 km]; velocity reading in feet per second, that's 10,309.4 feet per second [3,142.3 m/s]. At 7 hours, 15 minutes of continuing to monitor of; this is Apollo Control, Houston.
+007:18:18 Conrad: Hello, Houston. We've got the hatch out and the probe out, and we're in the process of stowing that, and I'm going into the Drogue right now.
+007:18:31 Gibson: Roger, Pete. We copy.
+Comm break.
+That report from Pete Conrad. The hatch is out and the probe is out. We'll stand by continuing to monitor at 7 hours, 18 minutes into the flight.
+007:20:25 Conrad: Okay, Houston. The CDR's in the LM.
+007:20:32 Gibson: Roger, 12. We copy.
+007:20:38 Gibson: And Pete, if you find any circuit breakers which are out of configuration, would you hold up until we get TM before you change them?
+007:20:48 Conrad: Sure will. I'm not going to touch anything. I'm going to let Al come in here and do the activation - portion. He's got the checklist here, and he's tying the probe and the drogue down now.
+007:20:58 Gibson: Roger. [Long pause.]
+Comm break.
+That report, commander Pete Conrad now in the Lunar Module. We're at 7 hours, 21 minutes Ground Elapsed Time. We're now showing an altitude of 33,836 nautical miles [62,664 km]. A velocity of 10,215 feet per second [3,114 m/s]. This is Apollo Control, Houston; standing by.
+007:22:39 Conrad: Okay, Houston. Al and I are both in the LM now, and we are getting ready to do your checklist.
+007:22:48 Gibson: Roger, Pete.
+007:22:56 Conrad: Okay. We put both Suit Isolations to Suit Flow, and now we are going to turn them to Suit Disconnect.
+Comm break.
+007:24:50 Conrad: Okay, Houston. We are checking the breakers now. The ASA Stab/Control panel 16 CB is in.
+007:25:03 Gibson: Roger, Pete. We copy.
+007:25:24 Bean: Things 1ook real tidy - things look real tidy up here, Houston.
+007:25:33 Gibson: Roger, Al. Are you home?
+007:25:36 Bean: Pretty nice.
+007:25:38 Gordon: Hey, he's not going to be at home for at least 2 days.
+007:25:42 Conrad: Okay, Houston. I found in Row 3 one circuit breaker that's out of configuration. Under lighting, utility is out and, according to my book, it should be in.
+007:25:57 Gibson: Roger. We copy that, Pete. [Long pause.]
+007:26:25 Conrad: Okay, Houston. That one circuit breaker out of Panel 11 and all circuit breakers on Panel 16 are in the proper configuration.
+007:26:35 Gibson: Roger.
+This is Apollo Control in Houston. Al Bean is also in the Lunar Module at this time. That was Al who reported things look real tidy.
+007:26:47 Gibson: Pete, would you hold up on activating the S-band until we can get the IU turned off down here?
+007:26:55 Conrad: Okay.
+Long comm break.
+007:30:45 Gibson: Pete, Houston. An explanation on that utility circuit breaker: at lift-off that circuit breaker was out, and that is the way it was configured at the Cape. The change did not get into the checklist, so there was no change during flight, and we'd like you to go ahead and leave that circuit breaker out until we can get power on the LM.
+007:31:08 Conrad: Okay. Very good. And we're in the middle of step 11 on act 7 right now.
+007:31:16 Gibson: Roger.
+Long comm break.
+This is Apollo Control, Houston; 7 hours, and 31 minutes into the flight of Apollo 12. Commander Pete Conrad and Alan Bean continuing with their check-out procedures in the Lunar Module. Presently, we show a velocity of 10,055 feet per second [3,065 m/s] for spacecraft Apollo 12 and an altitude of 34,855 nautical miles [64,551 km] above the Earth. At 7 hours, and 32 minutes continuing to monitor, this is Apollo Control, Houston.
+007:36:08 Conrad: Hey [garble] Okay, Houston, we're going over on LM power at whatever GET it is right now. [Pause.]
+007:36:23 Gibson: Roger, Pete. Copy. You're going over. [Long pause.]
+We presently read a GET of 7 hours, 36 minutes. That was Commander Conrad identifying he's going over on LM power.
+TELMU confirms that we're presently on LM power.
+007:37:04 Gordon: Okay. Houston, Apollo 12.
+007:37:06 Gibson: 12, go ahead.
+007:37:08 Gordon: Hi. Roger. Are you people looking at quad B? It's up there - a pretty good temperature, 170 degrees now.
+007:37:20 Gibson: Roger, Dick. We'll look at it...
+007:37:22 Gordon: ...And - Okay. And if there's no reason why we can't start PTC, unless you want to get this Comm stuff, I'll just hold here.
+007:37:31 Gibson: Right. Stand by on that, Dick. [Long pause.]
+007:38:28 Bean: Okay, Houston. We're checking the voltages on the batteries now. We got - on Battery 1, we got 34 Volts; Battery 2, 34.2; Battery 3, 34.2; Battery 4, 30 - 34.2; Battery 5 is 37; Battery 6 is 37.
+007:38:59 Gibson: Roger, Al. We copy. 34, 34.2, 34.2, 34.2, and 37 on 5 and 6.
+007:39:07 Bean: Roger. You probably ought give 34.2 to that first one, too.
+007:39:11 Gibson: Roger.
+Comm break.
+That was Al Bean reading off battery voltages to Capsule Communicator Ed Gibson. We're at 7 hours, and 39 minutes now Ground Elapsed Time. We presently show velocity of 9,948 feet per second [3,032 m/s]. Altitude now reads 35,564 nautical miles [65,865 km]. This Apollo Control, Houston; continuing to monitor.
+007:40:20 Conrad: Houston, do you now want us to put ourselves in the Comm configuration you requested?
+007:40:31 Gibson: Pete, that's affirmative.
+007:40:34 Conrad: Okay. Going on now. [Long pause.]
+007:40:51 Conrad: Okay. We're set.
+007:40:57 Gibson: Roger.
+007:41:04 Conrad: Do you want us to put in the LGC/DSKY circuit breaker now, Houston? Or do you want to wait until you get some good Comm, with us?
+007:41:14 Gibson: 12, let's hold up on that right until we see what we have. And when you put the LGC to sleep, we'd like you to skip Program 06 and just pull the LGC circuit breaker. That way you'll be in the same configuration you were at launch, and the activation that you'll take up subsequently should work out.
+007:41:36 Conrad: Okay, then. We'll just sit tight right now; and for your information, we're on VHF antenna Aft and S-band Aft.
+007:41:47 Gibson: Roger.
+Comm break.
+007:44:00 Bean: We're looking out our AOT, Houston, and it really looks nice.
+007:44:03 Conrad: Houston, are you getting any data from Intrepid, yet?
+007:44:09 Gibson: 12, that's negative. We're still reconfiguring to pick up that data.
+007:44:13 Gibson: Oh, okay. We're standing by to come up with the DSKY. And we'll hold until you get our data.
+007:44:21 Gibson: Okay, Pete.
+Comm break.
+007:45:46 Conrad: Hey, Houston. I was going to report that I had another person in sight, - but it - looking out the AOT - but it turns out that the left rear descent looks right in Dick's rendezvous window, and he's looking right back at us.
+007:46:00 Gibson: Roger, Pete. We copy.
+Comm break.
+007:47:07 Conrad: Say, Houston. How soon you going to be reconfigured? We hate to use these batteries up.
+007:47:21 Gibson: Pete, we've got about another minute or two, and if we can't make it by then, we'll not go on with it.
+007:47:28 Gordon: What seems to be the problem, Houston?
+007:47:33 Gibson: We're reconfiguring in order to get that data.
+007:47:38 Gordon: Yes. We've been planning to do this for quite a while.
+Comm break.
+007:49:31 Gibson: 12, Houston. We're picking up some data from the LM now. Stand by. We're looking at it.
+007:49:36 Conrad: Okay, Houston. Very good; and say, we've got a special [laughter] - We've got a favor to ask you for our entertainment tonight.
+007:49:45 Gibson: Roger. Go ahead.
+007:49:47 Conrad: You get the DSE tapes, don't you, of the launch?
+007:49:57 Gibson: That's affirmative. We have it.
+007:50:00 Conrad: Well, [laughter] we want you to play it for us tonight before we go to bed. We're still up here laughing over it, trying to remember all the things that we said and did. So we want to hear it tonight before we go to bed.
+007:50:13 Gibson: You want to relive that twice in one day?
+007:50:17 Conrad: Yes [laughter]. You better believe it.
+Comm break.
+That was Pete Conrad asking the ground if they could replay the tape from this morning's launch to relive that moment. 7 hours, 50 minutes continuing to monitor; this is Apollo Control, Houston.
+007:51:55 Conrad: Hey, Houston. Are you ready for us for the LC - LGC/DSKY breaker?
+007:52:10 Gibson: 12, that's affirmative. We're ready to go. [Long pause.]
+007:52:40 Gibson: Houston, you want us to bring up the IMU also, huh?
+007:52:49 Gibson: 12, that's negative. We've...
+007:52:51 Conrad: That's step 2 on page Activation 27.
+007:52:54 Gibson: That's affirm. That was - On Activation 27, we had steps 3 through 6.?
+007:53:00 Conrad: Roger.
+Comm break.
+007:54:24 Conrad: And, Houston, there's self-test coming at you.
+007:54:35 Gibson: Pete, we're not copying any computer data yet.
+007:54:39 Conrad: Okay. Well, it's doing self-check just fine, Houston.
+007:54:46 Gibson: Roger. Copy your self-check looked good.
+007:54:50 Conrad: Okay. It's not complete yet, but it's - it's in the self-check. We've got a two and a one, and we've been running for about 50 seconds.
+007:55:00 Gibson: Roger. [Long pause.]
+007:55:44 Conrad: Okay, Houston. We've just completed the self-test satisfactorily. We're going to terminate the self-test.
+007:55:54 Gibson: Roger. We've picked up and been copying your DSKY. And, Al, we've been showing a high quad 4 temperature. We would like for you to go ahead and check the position of two circuit breakers on panel 11. Heaters RCS System A/B.1, Quad 4; and on panel 16, Heaters RCS System A/B.2, Quad 4.
+007:56:27 Bean: Roger. All the circuit breakers are out. I guess it's because we haven't gone to PTC yet.
+007:56:35 Gibson: Roger, Al.
+007:56:40 Bean: You ready for Verb 74?
+007:56:49 Gibson: Al, could you hold off on Verb 74? We're trying to pick it up on another site.
+007:56:54 Bean: Roger. We're standing by ready to give you Verb 74.
+Comm break.
+007:58:02 Gibson: Al, go ahead with the Verb 74.
+007:58:12 Bean: Coming at you.
+Comm break.
+007:59:19 Gibson: Al, we've got the E-Mod.
+007:59:25 Bean: Okay. Understand you got that. And that's the end. We are going to pull the DSKY breaker now and power down.
+007:59:32 Gibson: Roger, Al. [Long pause.]
+008:00:02 Bean: Okay, Houston, we're powering her back down now.
+008:00:06 Gibson: Roger. We copy. You're powering down.
+Long comm break.
+That is Al Bean reporting they are powering down now. Every indication from the check are Lunar Module, Intrepid, looks good. Eight hours into the flight. Standing by, this is...
+This is Apollo Control, Houston; 8 hours, and 2 minutes into the flight. We currently show Apollo 12 with a velocity of 9,634 feet per second [2,936 m/s], an altitude of 37,666 nautical miles [69,757 km]. 8 hours and 2 minutes into the flight, this is Apollo Control, Houston; standing by.
+008:04:01 Bean: Houston, we're getting ready to transfer to CSM power right now.
+008:04:06 Gibson: Roger, Al.
+Comm break.
+008:05:54 Conrad: Houston, have you got anything else for us before we close up the LM?
+008:06:05 Gibson: Stand by on that, Pete.
+008:06:17 Gibson: Pete, go ahead and button it up.
+Comm break.
+008:08:53 Conrad: Houston, just checked the index angle on the docking here, and it's minus 0.3. Dick's COAS must have been in error.
+008:09:06 Gibson: Copy minus 0.3. Well done.
+008:09:12 Conrad: Come on, Ed. Smile. You sound too serious down there today.
+008:09:18 Gibson: Still thinking about your morning.
+008:09:21 Conrad: We're doing our best to forget it [laughter].
+Comm break.
+This is Apollo Control, Houston. 8 hours and nine minutes now into the flight. Apollo 12 now shows an altitude reading of 38,311 nautical miles [70,952 km] and a velocity reading of 9,541.6 feet per second [2,908.3 m/s]. Continuing to monitor, this is Apollo Control Houston.
+008:11:19 Conrad: Okay, Houston. The LM hatch is closed.
+008:11:23 Gibson: Pete, copy you got it closed. And we've got a few things for you to pick up on the time line when you're ready.
+008:11:31 Conrad: Okay. Give us about 10 here until we - we're still getting Dick out of his gear, and we've got to reconfigure - Let's get the Probe and Drogue back in.
+008:11:44 Gibson: Roger. Will do.
+Long comm break.
+You heard that report from Commander Pete Conrad reporting that the LM hatch is closed. Conrad and Bean have returned to the Command Module at this time. 8 hours, 12 minutes continuing to monitor; this is Apollo Control, Houston.
+008:15:57 Conrad: Okay, Houston. We got the drogue in and probe's on its way up this time. We'll be done in about 5 minutes.
+008:16:05 Gibson: Roger.
+Long comm break.
+008:22:43 Conrad: Okay, Houston. We have the tunnel all in, and everything's taken care of.
+008:22:53 Gibson: Roger, Pete. Copy. You got it all buttoned up.
+008:23:01 Bean: Hey, we're looking at you down there, Houston, and now you're about the size of a volleyball.
+008:23:11 Gibson: Al, how far away is that volleyball?
+008:23:14 Bean: I'd say that volleyball's about 2 feet away.
+008:23:20 Gibson: Good eye, Al.
+008:23:22 Bean: I can't see any landmass at all. All I can see is water with lots of clouds, and I can see sort of a glare point on the Earth. I think that must be the zero phase point to us. Other than that, it's very, very bright. And another interesting thing is, on the dark side, you cannot see where the Earth stops and space begins. It's unlike the Moon at night on in the daytime where you can see it in earthshine. You just can't see anything.
+008:23:57 Gibson: Roger, Al. How come the old heads aren't giving us the same description?
+008:24:03 Bean: They're still worried about this morning.
+008:24:05 Gordon: He won't let us near the window.
+008:24:10 Conrad: We've got a couple of interesting things here, too, Houston. I've now started picking up ice on my inner - inside portion of the outside panel on window 1. Don't ask me why.
+008:24:27 Gibson: Okay, Pete. Let's hear that one again. The - You're picking up ice on the inside of the out-side of the panel.
+008:24:34 Conrad: No, on the window number 1, the outside window has ice trickles on the inside of it. In other words, between it and the inner window.
+008:24:45 Gibson: Roger, Pete. We got it.
+008:24:52 Conrad: And they weren't there earlier. I don't know when they arrived, but I just noticed them a little while ago. [Long pause.]
+That was Pete Conrad reporting the ice between the window panes. Window number 1. Earlier you heard a description from Al Bean as he viewed the Earth from Apollo 12's present altitude of 39,687 nautical miles [73,500 km]. We now show a velocity of...
+008:25:29 Gibson: Pete, would you verify that you left the circuit breakers in the LM according to the configuration on activation 3 and 4 except - for that utility circuit breaker?
+008:25:40 Conrad: That's affirmative.
+008:25:44 Bean: Does the systems test-meter look okay to you? Why'd you ask, Houston? [Pause.]
+8 hours, 26 minutes into the flight at this time. This is Apollo Control, Houston.
+008:26:04 Gibson: Stand by, Al [Long pause.]
+008:26:39 Gibson: Pete, we show that the current going over to the LM is oscillating as before, but it's about 1 Amp higher on me.
+008:26:47 Conrad: Okay. What's that mean?
+008:26:55 Gibson: Give us another long pause, Pete, and we'll be back up to you.
+Comm break.
+Day 1, part 3: Transposition, Docking and Extraction
+Journal Home Page
+Day 1, part 5: PTC and back over to the LM

@@ -1,0 +1,509 @@
+Apollo 10 Flight Journal - Day 5, part 22: Snoopy and Charlie Brown are hugging each other
+Day 5, part 21: Snoopy chases Charlie Brown
+Journal Home Page
+Day 5, part 23: 'Snoop went some place'
+Apollo 10
+Day 5, part 22: Snoopy and Charlie Brown are hugging each other
+Corrected Transcript and Commentary Copyright © 2015-2025 by W. David Woods, Robin Wheeler and Ian Roberts. All rights reserved.
+Last updated 2025-02-21
+The LM DSEA was not recording whilst the LM was behind the Moon and out of MSFN contact, so no onboard voice recording exists during the final minutes of the rendezvous or the docking.
+Flight Plan page 3-63.
+CSM solo operations detailed Flight Plan
+Planned spacecraft attitude from CDH (Constant Delta Height) to docking.
+Terminal phase events.
+The second midcourse correction was carried out at 105:52:56 (RCS) X, -0.8; Y, +1.5; Z, +1.7; total, +1.84 (all fps: X, -0.24; Y, +0.46; Z, +0.52; total, +0.56 m/s)
+The second midcourse correction fine-tuned the final approach between the LM Snoopy and the CSM Charlie Brown.
+The crew commented on the second midcourse correction during the post mission debrief.
+Cernan, from the 1969 Technical debrief: "For the second (midcourse correction) one, we got plus 0.8, out-of-plane was plus 1.4, and minus 0.8 (all fps) (X, +0.24; Y, +0.43; Z, -0.24 m/s). The first midcourse gave us minus 0.4 (fps, 0.12 m/s). The second midcourse gave us plus 1.4 (fps, 0.43 m/s), and then, when we were coming into the final braking, we saw some resultant out-of-plane coming into the final braking. But I don't think there's anything else to say about the midcourse, except that the backup solutions were made. They agreed fairly closely with the PGNS. The CSM agreed, and we burned them. The CSM agreed almost number for number in most cases with the LGC. We plotted right up the pike; we were plotting the proper ranges and the proper range rates, and the elevation angle was within a pencil width right up the nominal track up to braking."
+The LM then entered the Terminal Phase Final phase of the rendezvous, which consists of a series of 4 small braking gate RCS burns. They nominally occur at:
+6,000 feet (1,829 m) reduction in range rate 30 fps (9.1 m/s)
+3,000 feet (914 m) reduction in range rate 20 fps (6.1 m/s)
+1,500 feet (457 m) reduction in range rate 10 fps (3.0 m/s)
+500 feet (152 m) reduction in range rate 5 fps (1.5 m/s)
+The braking was completed at 106:05:49 with a combined Delta-V of X, +18.5; Y, -2.6; Z, +25.5; total, +36.6 (all fps: X, +5.6; Y, -0.8; Z, +7.8; total, +11.2 m/s)
+The rendezvous radar is used to monitor the LM closing rates, which are then adjusted at the braking gates, to eventually match exactly the CSM orbit. The crew use P47 to monitor the changes in velocity at the braking gates and also display the range and range rate to the CSM. At the conclusion of these braking manoeuvres, the LM was station keeping with the CSM, the LM leading the CSM in its orbit.
+During the braking manoeuvres, the CMP uses P79 to make the Automaneuver to alignment between the two spacecraft in preparation for docking. Once the spacecraft are aligned, P79 displays the range, range rate and angular difference between the CSM's X-axis and the LM.
+The handling characteristics of the lightweight LM during the braking were slightly more sensitive than those experienced in the simulator. Oscillations were evident, and thruster firings were noticeably more frequent than during the simulations.
+Following a few minutes of station keeping, for photography of each spacecraft, the LM pitched down to present the docking drogue and target to the CSM. The LM was now placed in AGS Att Hold and Min Deadband. The CSM now became the active vehicle for the final docking. The CMP thrusted forward at approximately 1.0 fps (0.3 m/s) initially to close in on the LM. He slowed the closing rate so that it eventually was only a small fraction of a foot per second. Using the COAS he aligned the CSM with the docking target on the LM. This also aligned the docking probe with the docking drogue on the LM. The extended docking probe finally made its initial soft contact between the two spacecraft and the three capture latches in the tip of the probe engaged in the hole at the bottom of the conical drogue. Pneumatic shock absorbers in the probe dampened the motion between the two spacecraft. The CMP observed a talkback indicator in the CSM signalling capture of the LM. Once any attitude excursions between the two spacecraft had been damped out by the CMP, he used the probe retract switch on panel 2 to electronically retract the probe and bring the two spacecraft together so that the twelve docking latches could engage and make a hard dock.
+The crew commented on the terminal braking during the post mission debrief.
+Stafford, from the 1969 Technical debrief: "As we approached 1 nautical mile (1.85 km), we had approximately 32 fps (range rate, 10.7 m/s). Our braking gate calls for 30 fps (9.1 m/s) at 1 nautical mile (1.85 km). I could not see braking just for 2 fps (0.61 m/s) at that time, particular since our angular rates were zero. We continued on in. The range rate was reduced according to our braking gates at 3,000 feet (900 m). The minor out-of-plane was corrected at approximately 8,000 feet (2,400 m)."
+Young, from the 1969 Technical debrief: "The Command Module was maneuvered to X-axis track, and it arrived there with the Lunar Module at about 3.5 miles (6.5 km) in the center of the COAS, between the width of the lines. It was absolutely incredible. It was about 2.5 degrees high, and it continued to drift up a little, just like it's supposed to. It was beautiful all the way."
+Stafford, from the 1969 Technical debrief: "The total radar performance was fantastic. The calibration curves we obtained from the contractor for the AGC strength versus range match exactly, like the small card I had in front of us, which gave us a total correlation of the regime we were operating in and the indication that it would not be locked on a side lobe. The inertial angle needles followed prescribed nominal approach. At about 27 minutes, Alpha-dot went to zero. We did have one small out-of-plane when thrusting was made, and the inertial and the vertical needle went to zero and from there we continued in. At ½ mile (0.9 km), the range rate was reduced to 19 fps (5.8 m/s). At ¼ mile, we reduced further on down, and finally we arrived at 500 feet (152 m) with 4 to 5 fps (1.2 to 1.5 m/s). During this time, we continually made comparisons between the VHF ranging and the radar ranging on the Lunar Module. It was apparent that they were in close agreement in every case. In the final part, we were able to call ranges in the Command Module down to 300 feet (91 m), 180 feet (55 m), and get precise comparisons with the Lunar Module. It appeared that the equipment was working most satisfactorily."
+Flight Plan page 3-64.
+AS10-34-5101 - LM Snoopy ascent stage ascending towards the CSM. (LM is barely more than a dot slightly lower right of centre.) - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5101 above.
+AS10-34-5102 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5102 above.
+AS10-34-5103 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5103 above.
+AS10-34-5104 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5104 above.
+AS10-34-5105 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5105 above.
+AS10-34-5106 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5106 above.
+AS10-34-5107 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5107 above.
+AS10-34-5108 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5108 above.
+AS10-34-5109 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5109 above.
+AS10-34-5110 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5110 above.
+AS10-34-5111 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5111 above.
+AS10-34-5112 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+Photomap showing location of AS10-34-5112 above.
+AS10-34-5113 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+AS10-34-5114 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+AS10-34-5115 - LM Snoopy ascent stage ascending towards the CSM. - Image by NASA/Johnson Space Center.
+AS10-34-5116 - LM Snoopy ascent stage during station keeping with the CSM. - Image by NASA/Johnson Space Center.
+AS10-34-5117 - LM Snoopy ascent stage pitching down to present the docking drogue to the CSM - Image by NASA/Johnson Space Center.
+16-mm sequence camera view of the CSM from the LM during the braking phase.
+H.264 MOV video file.
+16-mm sequence camera view of the LM from the CSM during the final station keeping and positioning for docking.
+H.264 MOV video file.
+Your browser does not support the audio element. Download Air-to-ground MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 106 hours, 18 minutes into the mission. We're about a minute away from acquisition of Charlie Brown. Snoopy acquisition to come 15, 16 seconds after that of Charlie Brown. The two spacecraft should be station keeping as we acquire them. On the sixteenth revolution here, we have the capability on both this revolution number 16 and on revolution number 17 to receive television. Television is scheduled for the 17 revolution during the Ascent Propulsion System burn depletion. However, the capability does exist to receive it, and it's possible we might have an unscheduled transmission. We're not sure. We should have AOS now on Charlie Brown any second.
+106:19:06 Stafford (in Snoopy): Okay. Do you want it to come back to you?
+106:19:13 Engle: Snoopy, this is Houston. How do you read me?
+106:19:15 Stafford (in Snoopy): So far it looks good.
+106:19:19 Cernan (in Snoopy): Hey, Joe. We're about ready to dock. Stand by.
+106:19:21 Engle: Very good.
+106:19:22 Stafford (in Snoopy): Don't call us. We'll call you.
+106:19:23 Engle: Roger that.
+106:20:14 Stafford (in Snoopy): Okay, John. You're in to about 5 feet, babe. Looking beautiful.
+106:20:49 Young: How far?
+106:20:56 Young: [Garble] feet.
+106:21:11 Cernan (in Snoopy): Got a capture?
+106:21:12 Young: Yes. Thrusters are Off.
+106:21:14 Cernan (in Snoopy): We got a capture, John. Fire when you're ready.
+106:21:20 Young: Everything looks good in here Tom.
+106:21:25 Stafford (in Snoopy): Okay, babe? Ullage looks good.
+106:21:38 Cernan (in Snoopy): Solid as a rock in the cabin, babe.
+Following capture there was no significant attitude changes, the two spacecraft stayed very stable in relation to each other.
+106:21:45 Stafford (in Snoopy): All right, babe. I can see you moving over. Hit it.
+Stafford is encouraging Young to move the Docking Probe Extd/Rel switch on panel 2 to the Retract position, to command the docking probe to electronically retract to bring the two spacecraft solidly together, in a hard dock.
+106:22:09 Stafford (in Snoopy): Oh, we got them. Right on the ball.
+106:22:10 Cernan (in Snoopy): [Garble] We got them, John. We heard them in there.
+The ripple fire of the twelve docking latches around the circumference of the docking ring, can be heard very loudly in both spacecraft as hard dock is achieved.
+106:22:12 Stafford (in Snoopy): Hello, Houston. Snoopy and Charlie Brown are hugging each other.
+106:22:17 Engle: Roger that. We heard them down here.
+The crew commented on the station keeping and docking during the post mission debrief.
+Stafford, from the 1969 Technical debrief: "We reached a relative position of zero R-dot at approximately 25 feet (7.6 m). At that time, we decided since we were out in daylight to go right ahead to the docking phase and not waste any time. I used Pulse, pitched over 90 degrees, had the Command and Service Module in the overhead window, then rolled to an attitude that I approximated from there on, the Command Module directed the Lunar Module exactly what attitudes to go to. Then I went to AGS Attitude Hold with a tight deadband, and noted the rate error needles were off of zero deflection. We were closing within 10 feet (3 m) when we had acquisition and MSFN. I directed MSFN to stand by, that we were 10 feet (3 m) closing."
+Young, from the 1969 Technical debrief: "I was trying to save a little gas, so I was trying to maneuver in pitch, roll, and yaw to line up, just holding station out there, and trying to direct Tom to the line-up on the crossbar. It worked pretty good. I got in about 2 or 3 feet (0.6 to 0.9 m) of having the crossbar all lined up. Unfortunately, every maneuver I'd make after that just seemed to make things worse. So, I finally gave up and went on in to dock."
+Stafford, from the 1969 Technical debrief: "Docking was the same as before. It appeared to be no problem, although it was evident that the Lunar Module was a little more sporty as far as holding attitude. But, it seemed to hold attitude very well, and it was no problem to line the crossbar and go on in and dock. I used AGS Attitude Hold, Minimum Deadband."
+Young, from the 1969 Technical debrief: "Right at contact, I gave the word and Tom thrusted forward (plus-X upward); we got a capture."
+Stafford, from the 1969 Technical debrief: "John hit the drogue right in the dead center. There was never a mark on that whole drogue."
+Cernan, from the 1969 Technical debrief: "Capture from the LM was very evident. Retraction was not, but when those latches went, it was extremely evident."
+Young, from the 1969 Technical debrief: "It really was loud. It was a lot louder than the one that we did from the Command Module."
+Cernan, from the 1969 Technical debrief: "Maybe it's because we had a pressurized LM this time."
+Stafford, from the 1969 Technical debrief: "It was a lot louder the second time."
+Cernan, from the 1969 Technical debrief: "Of course, we had our helmets off."
+Stafford, from the 1969 Technical debrief: "No, I had my helmet on."
+Cernan, from the 1969 Technical debrief: "We had them on, babe. You had a big hatch there, but you were punching holes in our drogue and we were not about to leave our helmets off."
+Stafford, from the 1969 Technical debrief: "Our procedure - as soon as capture occurred there were a couple of minor thrustings until we killed both attitude control systems."
+Cernan, from the 1969 Technical debrief: "We were just partying."
+Stafford, from the 1969 Technical debrief: "Then John damped the maneuver. A loud ripple bang was heard as the latches latched."
+Young, from the 1969 Technical debrief: "A sigh of relief was given by all."
+From the Apollo 10 Mission Report: "Docking was performed with the Command Module in autopilot control, and minimal thruster firing was required. The alignment sight reticle washed out because of reflected sunlight from the Lunar Module at distances between 25 and 10 feet. Docking could be done using only the plus-X thrusters of the Lunar Module to ensure capture. There were no significant post-contact dynamics and no apparent interface attitude changes. Completion of the retraction sequence was characterized by the reassuring sound of the automatic latches retracting."
+106:22:20 Cernan (in Snoopy): Okay. Let's stay - let's stay in our helmets, babe, until we get this thing squared away.
+106:22:26 Stafford (in Snoopy): Okay, John. That was beautiful. Just beautiful, babe.
+106:22:31 Stafford (in Snoopy): Okay. Now, John, let me ask you one thing. Do you want me to pressurize that LM tunnel through our hatch to save you from blowing that Mylar out again?
+Again, the tunnel could not be vented; therefore, the Command Module was pressurized with the repressurization tank to approximately 5.4 psia to ensure tunnel-hatch pressure integrity.
+106:22:45 Stafford (in Snoopy): Okay. Do you want us to pressurize the tunnel?
+106:23:06 Cernan (in Snoopy): Man, we is back home. Almost.
+106:23:13 Stafford (in Snoopy): Okay.
+106:23:20 Cernan (in Snoopy): Okay, I'll get started, and you can start helping him go through the hatch.
+106:23:37 Cernan (in Snoopy): Houston, were you calling?
+106:23:39 Engle: Negative, Gene. We're standing by until you got some time.
+106:23:45 Cernan (in Snoopy): Okay, Joe. It's nominal that the rendezvous was the best one we've ever had. Right up the pike all the way. We'll talk about it later. I'm going start going through the tail end of the activation checklist for the APS burn and depletion, and Tom and John will start on the tunnel.
+106:24:01 Engle: Roger that.
+106:24:12 Engle: Snoopy, this is Houston. One thing we would like for you to do is go to secondary on the CO2 canister. We'd like to monitor that one while you're getting cleaned up there.
+106:24:24 Stafford (in Snoopy): You're right, Jose. It's been a long day.
+106:24:28 Cernan (in Snoopy): Say again, Joe.
+106:24:30 Engle: Roger, Gene-o. We'd like for you to go to secondary on CO2 canister. We want to monitor that canister while you're getting cleaned up and back in the Command Module.
+106:24:37 Stafford (in Snoopy): Yes.
+106:24:45 Cernan (in Snoopy): Stand by, Joe. I can't - Wait a minute.
+Cernan is struggling to hear MCC-H due to the activities Stafford and Young are carrying out, pressurizing the docking tunnel, testing the pressure integrity of the seal between the two spacecraft, opening the LM overhead and CSM forward hatches. The onboard communication between these crew members (not recorded) is disturbing Cernan.
+106:24:54 Cernan (in Snoopy): Okay. Now go ahead, Houston. Say again your last.
+106:24:57 Engle: Roger. Go secondary on CO2 canister.
+106:25:04 Cernan (in Snoopy): Okay. We're secondary on CO2 canister now.
+The LM Lithium Hydroxide (LiOH) canister was used to scrub carbon dioxide from the cabin atmosphere and suit loop.
+Two aspects of the indicated carbon dioxide level measured were considered anomalous. First, the rate of carbon dioxide increase from 97 to 101 hours GET exceeded the predicted levels by a factor of approximately 8. Secondly, the level remained constant for the next 5 hours.
+Post flight tests of the flight cartridge showed some indications exist that the flight cartridge was not reacting chemically as uniformly as a sample test cartridge. This was probably because of variations in moisture content.
+106:25:07 Engle: Roger. Thank you.
+106:25:16 Stafford (in Snoopy): Okay, John. How do you want to work the tunnel? Do you want to pressurize it or do you want me to? Okay. We got plenty of pressure. Okay. That's better. Okay. Go ahead. You pressurize it.
+106:26:02 Stafford (in Snoopy): Hello, Houston, this is Snoopy. One thing, Charlie Brown is getting ready to pressurize the tunnel, and we want to make sure we're in the right attitude and everything for the next maneuver as far as the next thing that he needs to know are the angles. Over.
+106:26:19 Engle: Okay. We'll get them for you, Snoopy.
+106:26:27 Engle: Okay. Charlie Brown, Snoopy, this is Houston. Your CSM gimbal angles are: roll, 300; pitch, 021; and yaw, 000. We're standing by for your readback.
+106:26:44 Cernan (in Snoopy): Okay. I got those for Charlie Brown. Roll, 300; pitch, 071; and yaw, 000.
+106:26:29 Engle: Roger that.
+106:26:57 Cernan (in Snoopy): Do you have an update on the LM weight?
+106:27:07 Engle: Charlie Brown, this is Houston - No. Snoopy, this is Houston.
+106:27:14 Cernan (in Snoopy): Go ahead. Do you have an update on the LM weight?
+106:27:16 Engle: I've got that through, Gene-o, but we want you to load in your DAP 10010 for system A.
+106:27:43 Cernan (in Snoopy): You want 10 - Say again what you want.
+106:27:48 Engle: Okay. I want 10011. That'll be system A. That's in for your DAP; and, also, your LM weight for burn is 7 - 07544.
+106:28:08 Cernan (in Snoopy): Roger. LM weight is 7544.
+106:28:28 Cernan (in Snoopy): That's what I thought, I didn't enter that.
+106:28:35 Cernan (in Snoopy): Hey, Joe, give me that once more and I'll get it straight.
+106:28:38 Engle: Okay, Gene-o. Your LM weight is 7544 and in your DAP we want 10011. This is instead of 11011.
+The LM DAP code is entered in to the PGNS via routine 03. The code is only entered in register 1 as values corresponding to the ABCDE values in the matrix below.
+Value
+A: LM stages
+B: RCS translation
+C: ACA scale
+D: ATT dead-band
+E: KALCMANU
+0
+N/A
+2 Jet system A
+4°/sec
+0.3°
+0.2°/sec
+1
+Ascent only
+2 Jet system B
+20°/sec
+1.0°
+0.5°/sec
+2
+Ascent and Descent
+4 Jet system A
+N/A
+5.0°
+2.0°/sec
+3
+Ascent, Descent and CSM
+4 Jet system B
+N/A
+N/A
+10.0°/sec
+MCC-H need to change the pre-planned DAP for the APS burn to depletion manoeuvre.
+Now require a DAP set to 10011, which translates as, 1 = LM Ascent stage only, 0 = 2-jet translation RCS system A, 0 = Fine scaling ACA (4°/sec), 1 = Attitude deadband 1.0°, 1 = KALCMANU rate 0.5°/sec.
+The only change is the RCS translation is now using 2 jets on system A rather than system B.
+106:29:02 Engle: Very good. We copy, Gene-o.
+106:30:10 Cernan (in Snoopy): Tom, is your stop button reset Auto for this? I am going to wait on a couple of these things while I verify that that tunnel is clear.
+106:30:22 Engle: Snoopy, this is Houston.
+106:30:23 Stafford (in Snoopy): Charlie Brown, Snoop. Let me know [garble] PAD.
+106:30:29 Engle: Roger, Snoopy. Whenever you are ready, we can uplink your LM state vector to you.
+106:30:38 Cernan (in Snoopy): Okay. We're reader right now. As soon as I get into P00 again. Got everything.
+106:30:46 Engle: Okay. Thank you.
+106:30:55 Stafford (in Snoopy): Hello, Charlie Brown, this is Snoopy. Let me know how the tunnel is coming.
+106:31:03 Stafford (in Snoopy): Yes. We're holding it.
+106:31:42 Cernan (in Snoopy): Let me get my gloves off, babe.
+106:32:02 Stafford (in Snoopy): Good show, Tunnel all Tunnel all pressurized and everything looks good. Okay.
+106:33:02 Stafford (in Snoopy): Okay.
+106:33:15 Cernan (in Snoopy): [Garble] put our bags? Do you remember? Bags asked for these?
+106:34:02 Stafford (in Snoopy): Roger, John. We haven't moved at all. Okay. And Gene got the angles for that Auto maneuver.
+The Automaneuver angles Stafford is referring to are for the CSM to go to the APS burn to depletion attitude, in which the two spacecraft will separate.
+106:34:25 Young: Yes. Most all of it is.
+Young is busy now removing the docking probe once the docking tunnel had been pressurized and the pressure integrity verified. The docking probe and drogue were also removed without any problems. The probe head and the upper damping arm structures were quite warm to the touch when removed (estimated to be 110° to 120° F, 43° to 49° C).The docking probe will be transferred to LM prior to jettison. Once the probe is out, Stafford opens the LM overhead hatch and removes the docking drogue. Meanwhile, Young powers down the CSM rendezvous radar transponder, its work now completed.
+106:34:33 Cernan (in Snoopy): Ours is the bag that I brought my helmet over in.
+Your browser does not support the audio element. Download Air-to-ground MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+106:35:39 Engle: Snoopy, this is Houston. The computer is yours when you want it. Now we've got the load in.
+106:35:51 Cernan (in Snoopy): Okay. Roger. Thank you.
+106:35:53 Engle: And are you fellows in the transfer mode right now?
+106:36:05 Cernan (in Snoopy): Just about.
+106:36:07 Engle: Okay. I've got some PADs for you [garble]...
+106:36:08 Cernan (in Snoopy): ...have not opened the hatch yet.
+106:36:10 Engle: Okay. I've got some PADs for you, Gene, whenever you're ready to copy and give me a call when you're ready. Okay?
+106:36:18 Cernan (in Snoopy): Okay, Joe. I'll call you when I'm ready.
+106:36:20 Engle: Roger that. And you're aware of where your tool kit is. Is that affirmative?
+106:36:30 Cernan (in Snoopy): Yes. Affirmative.
+106:36:40 Stafford (in Snoopy): Okay. Do you have a LM Delta-P there?
+106:37:53 Stafford (in Snoopy): Okay, Joe. We're going to open the hatch.
+106:37:56 Engle: Roger, Tom.
+Comm break.
+106:41:35 Engle: Snoopy, this is Houston. We have three additional items that we want brought back. We want both the cameras brought back and would you believe, we also want the primary canister brought back, the lithium hydroxide canister brought back from the LM. Over.
+106:41:53 Stafford (in Snoopy): Where do you plan for us to stow that, Houston?
+106:41:59 Engle: Roger. We kind of anticipated that, and we're thinking about that right now. Make that the last item you transfer back, Tom.
+106:42:11 Stafford (in Snoopy): All right.
+Comm break.
+106:47:22 Engle: Snoopy, this is Houston. We'd like to go to a forward Omni on the High Gain Antenna. We're just about against the stop now.
+106:47:41 Cernan (in Snoopy): Roger. We are forward Omni.
+106:47:43 Engle: Okay. Thank you a lot. Gene-o.
+106:49:45 Cernan (in Snoopy): Hello, Houston. Go ahead and give me the update, would you please?
+106:49:48 Engle: Roger that, Gene-o. Coming to you with APS depletion burn. Okay for Noun 33: 108:50:31.00; plus 45576, plus five balls, minus 06231; 46000, 4:07; three balls, 251. Plus 45981, minus five balls, plus 01339. And all else is NA. I'm standing by for your readback.
+106:51:01 Cernan (in Snoopy): Okay, Joe. APS burn depletion is 108:50:31.00, plus 45576, plus all balls, minus 06231 46000 407. By the way, who's going to be in here to watch the burn time? Roll is all zero. Pitch is 251 986. Who is going load? Okay. Noun 86, plus 45981, and minus all balls, and plus 01339. And the COAS are NA.
+The details of this PAD are:
+Purpose: (Unmanned) APS burn to depletion.
+Time of ignition, TIG(Noun 33):108:50:31.00
+Change in velocity (Noun 81), fps (m/s):X, +4,557.6 (+1,389.2); Y, +000.0 (0.0); Z, -623.1 (-189.9). The change in velocity is resolved into three components expressed relative to the Local Vertical frame of reference.
+Total required change in velocity, Delta-VR, fps (m/s): 4,600.0 (1,402.0)
+Burn duration, BT (min:sec):4:07
+Attitude angles that should be displayed on the FDAI eight ball in the Inertial mode:Roll, 000°; Pitch, 251°.
+Change in velocity values used to target the AGS (Noun 86), fps (m/s):X + 4598.1 (+ 1401.5), Y -000.0 (0.0), Z + 133.9 (+ 40.8). These velocities are expressed relative to the Local Vertical frame of reference.
+106:51:34 Engle: Roger that. I've got one more change for you, Gene, in your checklist under activation 69, just prior to step 5, we want you to load in 404 plus all zeros.
+106:51:52 Cernan (in Snoopy): I will do.
+Your browser does not support the audio element. Download Air-to-ground MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+106:52:43 Cernan (in Snoopy): Charlie, does the DAP and everything look good to you right now? I won't go through that again.
+106:52:51 Engle: Snoopy, this is Houston. Were you calling?
+106:52:56 Cernan (in Snoopy): Yes. Does the DAP look good to you right now? I won't go through that again right at the moment. I'm starting over and running through this real quick.
+106:53:02 Engle: Roger. That's good.
+106:53:09 Engle: And Snoopy, this is Houston. On the LiOH canister, looks like under the left-hand couch in the sleeping bag is going to be the best place to stow that. And we really would like to have it come back. We got a rise in CO2 in the LM, and we'd like to take a look at that can.
+106:53:28 Cernan (in Snoopy): Okay. I'll try and get it out. You don't want a new one in do you?
+106:53:31 Engle: Negative that.
+This is Apollo Control. We've completed our shift change in Mission Control. Flight Director Milton Windler has relieved Flight Director Glynn Lunney, We anticipate the change of shift briefing will begin in about 15 minutes at about 11 pm Central Daylight Time.
+Comm break.
+106:57:54 Young: Snoopy, this is Charlie Brown. Over.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+106:58:20 Cernan (in Snoopy): What do you want, John. I'm up to my earballs, here.
+106:59:01 Young: Hey, Gene-o, are you on the horn? Gene-o?
+106:59:07 Cernan (in Snoopy): What, John?
+106:59:08 Young: Are you on the horn with [garble]?
+106:59:10 Cernan (in Snoopy): I don't know, babe. I - Wait a minute.
+107:01:17 Cernan (in Snoopy): Now who's calling? Houston, are you calling me?
+107:01:20 Engle: Negative, Snoopy. We're just standing by.
+107:01:25 Young: Hey, boy! This is old Charlie Brown! Glad to be aboard! Where have you been? On leave?
+107:01:34 Cernan (in Snoopy): Hey, John, are you in burn attitude?
+107:01:37 Young: [Garble] burn attitude [garble] deadband? What do you think? Should we go to tight deadband?
+107:01:49 Young: Houston, Charlie Brown. Over.
+107:01:52 Engle: Charlie Brown, this is Houston. Go ahead.
+107:01:57 Young: Roger. Should we be in tight deadband when we are in burn attitude? Over.
+107:02:01 Engle: Stand by. I'll find out.
+107:02:09 Young: [Garble] both my congratulations.
+107:02:12 Engle: Charlie Brown, this is Houston. That's affirmative on tight deadband.
+107:02:24 Young: Say again, Joe?
+107:02:26 Engle: That's affirmative for Charlie Brown. Tight deadband on your burn.
+107:02:37 Young: [Garble] tight deadband [garble] do you have a requirement to lock on this thing or don't you?
+107:02:47 Engle: Charlie Brown, this is Houston. I'm sorry, John, you're cutting out pretty bad. If you could understand we will want you on tight deadband and if there's anything else, would you relay it through Snoopy?
+107:03:04 Young: Roger.
+107:03:18 Young: Hey, Joe, I'm down to the point where I've configured the S-band, so if I've missed anything - you got high bit rate - let me know. The only thing I haven't done is turn the voice off to you.
+107:03:25 Engle: Okay, Snoopy. One thing that we'll want now is the settings on your control knob there for your High Gain for pitch and yaw.
+107:03:37 Cernan (in Snoopy): Okay. I'm looking at about 182 and minus oh [garble].
+107:03:54 Young: Houston, Charlie Brown, now how do you read?
+107:03:57 Engle: Charlie Brown, this is Houston. Go ahead.
+107:04:04 Young: Roger. While we're waiting for this thing to separate from us, should we be in tight deadband or is 5 degrees okay?
+107:04:20 Engle: Negative, Charlie Brown. We want narrow deadband and we want you to configure your DAP as per your checklist. Over.
+Page 3-64 from the Apollo 10 Flight Plan.
+The DAP register 1 and 2 settings for the CSM with the pre-flight estimated vehicle weights are highlighted.
+CapCom Engle is instructing Young to use the DAP as specified in the Flight Plan, i.e. register 1, 61112; register 2, 11001. The pre-mission estimated vehicle weights are also given in the Flight Plan.
+Register 1 code breaks down as shown in the table below.
+Configuration
+X translation using quads A&C
+X translation using quads B&D
+Deadband for att hold and auto maneuvers
+KALCMANU Rate
+0-No DAP
+0-Do not use AC
+0-Do not use BD
+0- ±0.5°
+0- ±0.05°
+1-CSM only
+1-Use AC
+1-Use BD
+1- ±5.0°
+1- ±0.2°
+2-CSM & LM
+N/A
+N/A
+N/A
+2- ±0.5°
+3-S-IVB, CSM & LM (S-IVB control)
+N/A
+N/A
+N/A
+3- ±4.0°
+6-CSM & LM (ascent stage only)
+N/A
+N/A
+N/A
+N/A
+Register 2 code breaks down as shown in the table below.
+AC roll
+Quad A
+Quad B
+Quad C
+Quad D
+1-Use AC roll
+1-Quad operational
+1-Quad operational
+1-Quad operational
+1-Quad operational
+0-Use BD roll
+0-Quad as failed
+0-Quad as failed
+0-Quad as failed
+0-Quad as failed
+The Flight Plan code breaks down to:
+Register 1-CSM & LM (ascent stage only), use quads A&C for X translation, use quads B&D for X translation, ±5.0° deadband, ±0.5° KALCMANU rate.
+Register 2-Use quads A&C for roll control, quad A operational, quad B as failed, quad C as failed, quad D operational.
+At 107:02:26 MCC-H confirmed Young's enquiry about whether the CSM should be in a tight ±0.5° deadband. This is contrary to the DAP settings detailed above.
+107:04:24 Young: Roger.
+107:04:36 Engle: And, Snoopy, this s Houston. We copied 182, what was the yaw setting on that control knob?
+107:04:45 Cernan (in Snoopy): Yaw setting is minus 5 and I'm going through the DSKY slow, so if you see something, tell me.
+107:04:51 Engle: Okay. We'll monitor. Thank you.
+107:04:57 Cernan (in Snoopy): You mean the checklist in the Flight Plan there, Joe?
+107:05:02 Engle: That's affirmative.
+107:05:37 Cernan (in Snoopy): Man, with those numbers in there, I'm not so - I'm glad I'm getting out.
+Cernan, understandably, is not keen to stay in the LM Snoopy when it performs the APS burn to depletion manoeuvre, which will place it into solar orbit.
+107:05:43 Engle: (Laughter) Roger.
+107:05:48 Cernan (in Snoopy): And just for the record, Joe, you're a fink.
+107:05:52 Engle: Copy, fink.
+107:05:56 Young: Okay, Joe. The checklist I got shows for the active docking, you have 61112.
+107:06:10 Engle: That's affirmative, John.
+107:06:11 Young: Wide deadband?
+107:06:15 Engle: Okay. Stand by. I'll check that out, John.
+Young is querying the conflict between the deadband setting he has in his Flight Plan and the advice he has been given by MCC-H for the DAP.
+107:06:25 Young: And this morning they told me that AC roll - didn't want to use it, and this afternoon. Okay.
+During the undocking prior to solo operations, Young was advised not to use AC roll. This was due to the problem with the apparent slippage in CM roll (LM Yaw) about the docking interface.
+107:06:41 Cernan (in Snoopy): This thing calls me to set your timer, John, but we're well over an hour away, so forget about it.
+107:06:56 Cernan (in Snoopy): Houston, on step 4 on activation 69 where I proceed, do I have to do anything with that four balls 2?
+107:07:07 Engle: That's a negative, Snoopy.
+107:07:17 Young: Okay. Now what'd you want me to put there for the LM weight, there, Joe?
+107:07:25 Engle: Okay. I'm getting that, Charlie Brown.
+107:08:00 Engle: Okay, Charlie Brown. This is Houston.
+107:08:01 Young: I just want to express a heartfelt thanks.
+107:08:05 Engle: Charlie Brown, this is Houston. For your LM weight we want to set in 07544; and, John, we're satisfied with your 61112 setup.
+107:08:27 Young: Okay. LM will stay the same because we're going to get rid of that thing,
+107:08:32 Engle: That's affirmative.
+Air-to-ground audio
+107:08:41 Cernan (in Snoopy): Joe, 267 out of the AGS reads 4600.
+The AGS DEDA readout 267 displays the magnitude of the LM velocity to be gained in fps in the upcoming APS burn to depletion manoeuvre.
+107:08:48 Engle: Roger. Copy 4600. That looks good, and Snoopy, it looks like you're going to have to slew from Max signal again, and we'll need those knobs - control knobs settings after you do it.
+107:09:03 Cernan (in Snoopy): All right.
+107:09:05 Young: Houston, this is Charlie Brown.
+107:09:07 Engle: Go ahead, Charlie Brown. Houston.
+107:09:11 Young: Roger. I just wanted to say I sure do thank everybody that worked on that probe and made it work the way it did.
+107:09:19 Engle: Roger. We copy that, John.
+107:09:20 Young: Sure is a - sure worked good.
+107:09:23 Engle: That's what we like to hear.
+107:09:25 Young: Can't tell you how pleased I am.
+107:09:30 Engle: Now will you autograph a picture for me?
+107:09:35 Young: Of the probe, yes.
+107:09:38 Cernan (in Snoopy): No - you're a fink, I told you.
+107:09:48 Young: The fink sure is sending a man out to do a boy's job, though.
+107:09:53 Engle: Roger that.
+Flight Plan
+107:10:37 Cernan (in Snoopy): Hey, Joe. There's slew for a Max signal. I brought it up a little bit but all I did was move the numbers and they're reading the same thing: 182 and minus 5.
+107:10:46 Engle: Okay. We copy, Gene-o. 182 and minus 5. And, as you're coming through the tunnel you might take a look at the docking angle there and see how close it is.
+107:11:16 Cernan (in Snoopy): Make that 182 and minus 10.
+107:11:20 Engle: Roger. 182 and minus 10.
+107:12:10 Engle: Charlie Brown, Houston.
+107:12:15 Young: Go ahead. Over.
+107:12:16 Engle: Roger, John. We got our tail between our legs, here. We'll need for you to load in your DAP 61102, and you get an "atta boy" for that.
+MCC-H eventually agree with the error in the DAP deadband setting, published in the Flight Plan, and confirm to Young that he should use 61102 to set the deadband at 0.5°.
+107:12:31 Young: Alrighty.
+107:12:33 Engle: And Snoopy, once he gets that set up, in the narrow deadband, I'm afraid we're going to have to ask you to slew for Max signal again.
+107:14:07 Engle: Snoopy, Houston.
+107:14:12 Cernan (in Snoopy): Go ahead. Over.
+107:14:14 Engle: Roger, Snoopy. When we were...
+107:14:15 Young: [Garble] should be the other compartment.
+107:14:18 Engle: Monitoring your activation 69, the last two steps. We'd like for you to verify that you've put 616 to zeros and 411 to plus 1.
+107:14:38 Engle: Snoopy, this is Houston. What we copied down here on the last step was 611 instead of 411.
+107:14:48 Cernan (in Snoopy): Yes. I put 411, I'll check it for you.
+The AGS DEDA address 616 defines whether the LM RCS ullage counter limit is set or not. The required value for the APS burn to depletion manoeuvre is 0 to prevent any ullage. AGS DEDA address 411 defines which LM engine will perform the upcoming manoeuvre. In this case 411 is set to +10000 signifying it is an APS manoeuvre.
+107:14:50 Engle: Okay. Thank you Gene-o.
+107:14:55 Cernan (in Snoopy): There you go.
+107:15:09 Cernan (in Snoopy): Okay?
+107:15:11 Engle: Okay, Snoopy. We got it. Thank you very much, and we'll need no ascent feed on this, Snoop.
+MCC-H advise that there will be no need to use the LM APS propellant interconnect to the RCS systems.
+107:15:20 Cernan (in Snoopy): Okey doke. I only forgot the PCM switch High one time when I went to update, how's that?
+Cernan is referring to the Telemetry PCM switch on panel 12, which at lunar distance has to be set to the Hi position whenever an update is being uplinked to the LM.
+107:15:28 Engle: That's better than the average bear.
+107:16:30 Engle: Snoopy, Houston.
+107:16:35 Cernan (in Snoopy): Go ahead, Joe.
+107:16:36 Engle: Okay, Gene-o. Referring back to activation 64 on step 2, we'd like pressure Regs A and B to Egress, please.
+107:16:51 Cernan (in Snoopy): Thank you sir. That one happened in a big fast rush.
+107:16:55 Engle: You bet you. Copy that. Thank you very much Gene-o.
+Engle is checking each step Cernan is carrying out in his preparations for the separation of the LM Snoopy, to ensure nothing gets missed. He has noticed that the step to place the Pressure Regulator valves A & B in the Egress position has been missed. This is the usual position during egress or when the cabin is unpressurized.
+107:17:03 Engle: And Charlie Brown, this is Houston. I've got a maneuver PAD for you, John, when youre ready to copy.
+107:17:11 Young: Have a what, sir?
+107:17:14 Engle: I have a maneuver PAD, TEI-22.
+107:17:20 Young: Roger. Wait one.
+107:17:21 Engle: Roger. Let me know when youre ready.
+107:17:28 Cernan (in Snoopy): What's your LOS time, Joe?
+107:17:32 Engle: Say again, please.
+107:17:53 Cernan (in Snoopy): Joe, that's about as high as I can tweak those things and it's 182 and minus 5. (High Gain Antenna angles)
+107:17:58 Engle: Okay. I copy, 182 and minus 5 and our LOS time is 107:31. We've got about 13 minutes, yet.
+107:18:12 Young: Okay. Now you're going to give me the TEI PAD, huh?
+107:18:15 Engle: If you're ready to copy, John.
+107:18:18 Young: Go to it. Over.
+107:18:19 Engle: Roger that. SPS, G&N coming up. Okay you're Noun 47: 37100, minus 060, plus 079, 119;41;28.85; plus 29472, plus 00558, minus 00165; NA; 071; all else is NA. And stand by for the readback, Charlie.
+107:19:14 Young: Okay. What is the 071, the pitch angle? Right?
+107:19:17 Engle: Thats pitch angle, and before you read it back, Snoopy, I'd like for you to double-check on this activation 69: 616 to all balls and 411 to plus 1. Those are the last two steps.
+107:19:35 Young: Say again?
+107:19:42 Engle: Okay, Snoopy. This is Houston. Do you copy?
+107:19:51 Cernan (in Snoopy): Yes. I copy, but I didn't hear what you said.
+107:19:53 Engle: Okay. We need for you to go 616 to all zeros. This is still activation 69. This is the last 2 steps: 616 to all zeros and 411 to plus 1.
+107:20:11 Cernan (in Snoopy): Babe, I just read it out and it is all zeros.
+107:20:13 Engle: Okay. Thank you much.
+107:20:15 Cernan (in Snoopy): I'll do it again.
+107:20:19 Engle: Okay. We'll appreciate it if you'll give it one more try.
+107:20:25 Cernan (in Snoopy): That's what I'm doing.
+Your browser does not support the audio element. Download Air-to-ground MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+107:20:43 Cernan (in Snoopy): I'm reading in address 500 158.2, it bounces around 142.2, 134.3...
+The AGS DEDA address 500, displays the velocity to be gained in the X-body axis, in fps.
+107:20:56 Engle: Okay. Those sound good Snoopy.
+107:21:04 Engle: And Snoopy/Charlie Brown, this is Houston. We've got about 10 more minutes until LOS and Charlie Brown, when you're ready to read back, I'm standing by for your readback on that maneuver PAD.
+107:21:17 Young: Roger. SPS, G&N; 37100; minus 060, plus 079; 119:41;28.85; plus 29472, plus two balls 558, two balls 165; pitch 071.
+The PAD is interpreted as follows:
+Purpose:The PAD is a revised version for an emergency burn to return to Earth at the end of Rev 22.
+Systems:The burn would be made using the SPS engine, under the control of the Guidance and Navigation system.
+Pitch and yaw trim (Noun 48):-0.60° and +0.79°.
+Time of ignition (Noun 33) (hr:min:sec):119:41:28.85.
+Change in velocity (Noun 81), fps (m/s):X, +2,947.2 (+898.3); Y, +55.8 (+17.0); Z, -16.5 (-5.0). The large positive number in the X direction implies a large prograde component, essentially adding to their orbital velocity, exactly what would be expected from an escape manoeuvre.
+Spacecraft attitude:Roll, NA; Pitch, 71°.
+All the subsequent items on the form are not applicable to this manoeuvre.
+107:21:37 Engle: Readback is correct, John.
+107:23:23 Engle: Hello, Snoopy. This is Houston.
+107:23:40 Engle: Hello, Snoopy, Houston.
+107:23:45 Cernan (in Snoopy): Go ahead.
+107:23:47 Engle: Roger, Snoopy. We keep losing signal on this High Gain Antenna. What I'd like for you to do, Gene-o, just before you leave the LM, I'd like for you to slew a Max signal again and give us those settings one more time. We keep dropping a signal out and rather than going back and trying to slew it, just before you get ready to leave, slew it up again for Max signal, if you would.
+107:24:38 Stafford (in Snoopy): When are you going to have the debriefing in this one, Joe?
+107:24:46 Engle: Glynn [Lunney] said in a couple of days.
+107:24:55 Engle: How soon can you shower and be ready?
+107:24:57 Stafford (in Snoopy): That's the first nominal run - That's the first nominal run we ever had.
+107:25:03 Cernan (in Snoopy): You should see those Meds they have up here.
+107:25:48 Young: Hey, Houston. Have you been watching this package A temperature? We never have got it to go down much all day.
+107:26:02 Engle: We'll be with you on that. Just a minute there, Charlie Brown.
+107:26:09 Cernan (in Snoopy): Okay. I guess we've gone this long. We can go another week or so.
+107:27:03 Young: Snoopy wants to know if he should go into P42. Over.
+107:27:07 Engle: Say again Charlie Brown. I missed part of that.
+107:27:12 Young: Snoopy would like to know if he should go into P42. Over.
+P42 is the APS thrusting program. MCC-H will take remote control of the LGC and command P42 when it is required.
+107:27:16 Engle: Okay. Stand by. I'll find out.
+107:27:32 Engle: Charlie Brown, this is Houston.
+107:27:33 Young: Houston, do you read Snoopy?
+107:27:35 Engle: Negative, Snoopy. Leave it in P00.
+107:27:41 Cernan (in Snoopy): Okay, just let me verify my guidance control switches for you. Okay?
+107:27:44 Engle: Roger. Go.
+107:27:48 Cernan (in Snoopy): Okay. Guidance control is PNGS. AGS S-band is Max. Attitude control is Mode Control on roll, pitch, and yaw and mode control switches both PNGS and AGS are in Auto. Is that correct?
+Following on from the issues with the switch settings for the LM staging, which led to the rapid unplanned attitude excursions, Cernan is getting an independent check that he has made the correct settings for the upcoming unmanned APS burn to depletion.
+During the post mission crew debriefing, Cernan mentioned the activities immediately following docking and the preparation for the crew leaving the LM.
+Cernan, from the 1969 Technical debrief: "LM stowage for jettison went as planned, with the addition that we loaded some very lightweight but large-volume waste gear from the Command Module on the empty LM pilot's side of the cockpit. This caused no problems at all. We transferred the film and the cameras and what have you back to the Command Module and went through the LM closeout procedures as prescribed. We verified, just before going back, with MSFN that all switches were in order."
+107:28:03 Engle: That's correct, Snoopy. You got them all right.
+107:28:09 Cernan (in Snoopy): And you wanted the DSKY left in P00.
+107:28:11 Engle: That's affirmative. Leave her in P00.
+107:28:15 Cernan (in Snoopy): And the updata link switch is On.
+107:28:19 Engle: Okay. We copy. And did you copy? We want you to slew that S-band for Max signal one more time and give us a reading just before you leave.
+107:28:34 Cernan (in Snoopy): Okay. I've got one more thing to stow here and then I'll do it. How much time have I got here yet?
+107:28:39 Engle: Okay, We've got about 2 minutes and 30 seconds until LOS.
+107:28:45 Cernan (in Snoopy): Let me do it now, and I'll take the canister on my way out. Let me slew this thing.
+107:28:49 Engle: That sounds great, Gene-o.
+107:29:37 Cernan (in Snoopy): Hey, Joe, would you believe I've got all the circuit breakers pulled? And I can't tell, I don't know where MAX signal strength is anymore. Let me see.
+107:29:48 Engle: Okay. That's good right there, Gene-O, the way you've got it.
+107:30:00 Engle: Snoopy, Houston TELCOMM says you got her right there. That's a good shot in the blind.
+107:30:09 Cernan (in Snoopy): Okay. Same numbers I gave you before. I'm going off the air.
+107:30:12 Engle: Roger that. See you back in Charlie Brown. Good show, Gene-o.
+And we've had Loss Of Signal. We'll reacquire Apollo 10 in about 46 minutes as the spacecraft comes back around the - onto the front side of the Moon, on its 17th revolution, and during that revolution we'll have the APS burn to depletion and we also have television scheduled, which we hope will give us good coverage of that LM ascent stage maneuver. The change of shift briefing, we now estimate will be in about 10 minutes. The participants will be leaving shortly. At 107 hours, 31 minutes; this is Apollo Control.
+Following LOS, firstly Stafford, then Cernan transferred back to the CM. They transferred with them the following items for return to Earth:
+Radiation survey meter
+16-mm film (6 mags 1 bag)
+70-mm film (3 mags 1 bag)
+Monocular
+Flight data file items
+Personal preference kits (3)
+DSEA recorder
+In addition. MCC-H requested the crew bring back the Hasselblad and Maurer cameras, plus the primary LiOH canister.
+The crew described the last activities in the LM and the closeout of the docking tunnel, during the post mission crew debriefing.
+Cernan, from the 1969 Technical debrief: "Then we came back, closed out the LM, and left the tunnel vent valve because we went back to check it in Auto. So that was it."
+Young, from the 1969 Technical debrief: "We closed the tunnel, wiped down the seal of the tunnel, put all our gear in the Command Module hatch bag, and shoved it in there. It took away about 7 or 8 pounds, I guess. We wiped down both the seal on the spacecraft and the seal around the hatch, and they were both pretty clean. I expected to get some stuff in there, but we didn't have any way to verify that we had a good pressurization seal. So we used a Repress system and then we brought the cabin back up to about 5.7 (psia). We measured the LM Delta-P there for a while. The CSM/LM Delta-P looked pretty darn good."
+The probe and drogue were easily stowed with restraining cables in the left-hand side of the crew station. The debris, such as used food containers and other disposable items, that had collected in the Command Module over the previous 4 days, was stowed in the hatch stowage bag and secured in the Lunar Module at the right-hand crew station.
+The CSM COAS is stowed and the CSM docking target is taken down and transferred to the LM. A routine fuel cell O2 purge is carried out and the CSM VHF is powered down. Finally, once the CSM forward hatch is reinstalled by the CDR and LMP, the CSM cabin pressure integrity checks are completed.
+107:45:-- BEGIN LUNAR REV 17
+Day 5, part 21: Snoopy chases Charlie Brown
+Journal Home Page
+Day 5, part 23: 'Snoop went some place'

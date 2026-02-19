@@ -1,0 +1,296 @@
+A14FJ - Day 4, part 3: Checking the LM EPS
+Day 4, part 2: Midcourse Correction 4
+Journal Home Page
+Day 4, part 4: Apollo 14 Swings Behind the Moon
+Apollo 14
+Day 4, part 3: Checking the LM EPS
+Corrected Transcript and Commentary Copyright © 2020-2025 by W. David Woods, Ben Feist, Ronald Hansen and Johannes Kemppanen. All rights reserved.
+Last updated 2025-04-21
+These are busy times for the crew of Apollo 14, performing numerous tasks that require to be cleared before their final approach to the ever-closing Moon. A previously unscheduled battery test on the Lunar Module will make this period somewhat more hectic than anticipated.
+Editor's note: All transcript times are presented according to the GET update at 054:53:36 that saw the mission timer moved forward 40 minutes, 2.90 seconds.
+077:49:44 Shepard: Houston, 14. The LM/Command Module Delta-P is zero. We're starting to remove the tunnel hardware.
+077:49:51 Haise: Roger, Al. [Long pause.]
+077:50:04 Haise: And are both Al and Ed on the headsets now?
+077:50:11 Shepard: That's affirm.
+077:50:13 Haise: Okay. Looking at ...
+077:50:14 Mitchell: Yes, we're all on, Freddo.
+077:50:17 Haise: Okay. Looking at the procedure here for the business in the LM, looks like the better way to handle it, rather than have you write it all down, is for me to just give it to you on a step-by-step basis after you're in the LM and set up and ready to go. And I'll just have somebody, Joe here, checking me off as we do it. [Long pause.]
+077:50:49 Shepard: Okay. We'll let you know when we're in there, and we'll keep Command Module comm in there.
+077:50:54 Haise: Roger, Al.
+Comm break.
+077:52:23 Mitchell: Houston, 14.
+077:52:27 Haise: Go ahead, Ed.
+077:52:30 Mitchell: Just a quick comment in passing. The Moon is out my rendezvous window right now, and it seems to be growing noticeably in size. We've reached that point where the - we're running downhill very rapidly toward it.
+077:52:46 Haise: Roger, Ed. Showing you about - oh, it looks like about 205,000 out, now.
+077:52:56 Mitchell: Roger.
+Comm break.
+077:54:52 Roosa: Hey, Fred, old boy, this Moon-view attitude is just what it says. It's got her framed right in the hatch window.
+077:55:02 Haise: Incredible.
+077:55:06 Roosa: Yes, that's just like everything else. You all do good work.
+Very long comm break.
+This is Apollo Control at 77 hours 55 minutes GET time. There will not be a change of shift briefing with the Maroon team flight director, Milton Windler, in as much as he plans to stay in the control center during this checkout of the Lunar Module battery system. The next change of shift press briefing will be following the end of the Gold team shift. This is Apollo Control still live on air-to-ground in the mission of Apollo 14.
+Flight Plan page 3-074
+078:06:23 Mitchell: Houston, Apollo 14.
+078:06:25 Haise: Go ahead, 14.
+078:06:30 Mitchell: Okay, Freddo. I'm through the tunnel and ingressing the LM at this point. What's about the first thing you want me to head for?
+078:06:40 Haise: Okay, I'll let Joe talk to you here and kind of give you a few words on the big picture. And then we'll start in.
+078:06:50 Mitchell: Okay.
+078:06:52 Engle: Okay, Ed. What this is going to amount to is an abbreviated - a very abbreviated powerup, and we will transfer to LM power; so, Stu, you can stand by, and we'll get our own times on that. Now, Ed, if we have a comm problem any time during this - and we are out of configuration - just get the activation checklist and go to page 1-17 and complete the deactivation from that point on. [Long pause.]
+078:07:41 Engle: And, Ed, if you're ready to go now, we'll start through here.
+078:07:50 Mitchell: Okay, Joe. How about giving me a quick overall picture of the problem as you saw it from the ground. I didn't see much of anything here that was indicative of a problem.
+078:07:59 Engle: Okay. Just a second here. [Long pause.]
+078:08:14 Engle: Okay, Ed. I wanted to get the values correct here. TM picked up about 3/10ths of a voltage - of a volt low on battery 5, which gave some concern, and, primarily, we just want to verify that perhaps we're not - we don't have a gauge that's giving us that much of a difference, rather than the battery itself. [Long pause.]
+Mission Control really does run a tight ship. Being 0.3 volts short of 37 volts means only a very small loss in capacity for a battery that is more than big enough to do the job, and that has more than enough backup in case it should fail prematurely. However, 37 volts was the expected value and 36.7 volts is out of tolerance. They treat all problems in vital systems as potential safety issues until they can convince themselves that it is indeed only a minor problem and not an early indication of something more serious.
+078:08:40 Mitchell: 3/10ths of a volt?
+078:08:42 Engle: Yes. That's affirmative. That's open-circuit voltage, Ed.
+078:08:47 Mitchell: As I recall, we read - Roger. As I recall, we read them off a half a volt different, 36 and a half to 37. Is that right?
+078:08:57 Engle: Roger, Ed. That was half a volt onboard, and the telemetry showed the 3/10ths down here.
+078:09:07 Mitchell: Okay.
+078:09:08 Engle: Okay. And essentially, Ed, what we're going to do is put the - put both batteries on an open bus to read out both bus and battery voltages. And, if we're not satisfied with the readings at that point, we'll go ahead and load up the LMP bus and - put a load on it rather - and then check the battery performance both by itself and sharing a load on the LMP bus.
+078:09:29 Mitchell: Okay. I understand what you're going to do.
+078:09:41 Engle: Okay. Let's press on, and I'll read the items off in checklist fashion. And I'll read one or two items at a time, Ed, depending on if they're in the same proximity, and wait for your verification. [Long pause.]
+078:10:01 Mitchell: Okay. I'm ready.
+078:10:02 Engle: Okay. Up front, let's turn the Floodlights to All.
+078:10:10 Mitchell: Floodlights are at All.
+078:10:11 Engle: Okay. Window shades, down.
+078:10:19 Mitchell: That's in work. [Long pause.]
+078:10:54 Mitchell: Okay. Window shades are down.
+078:10:55 Engle: Okay. And back on ECS panel now. The Descent Water and Descent Oxygen, both Open. [Long pause.]
+078:11:12 Mitchell: Water and O2 are Open.
+078:11:14 Engle: Cabin Repress to Auto.
+078:11:20 Mitchell: Cabin Repress going to Auto.
+078:11:23 Engle: And on panel 16, Cabin Repress circuit breaker, closed.
+078:11:30 Mitchell: Repress breaker, closed.
+078:11:32 Engle: Okay. And, Kitty Hawk, we're ready to transfer to LM power now, and if you'll give us the mark, we'll get the time.
+078:11:46 Roosa: Okay, Joe, on my mark; 3, 2, 1
+078:11:52 Roosa: Mark.
+078:11:56 Mitchell: I have power.
+078:11:58 Engle: Okay, Ed. We've got it. And now on panel 11 and 16. The Translunar Bus Tie breakers, both closed. [Long pause.]
+078:12:16 Mitchell: Translunar Bus Ties are closed.
+078:12:18 Engle: Okay. On panel 11, Signal Conditioner 1, closed.
+078:12:29 Mitchell: Conditioner 1's closed.
+078:12:31 Engle: Over on the other side on 16, Signal Conditioner 2, closed.
+078:12:39 Mitchell: Closed.
+078:12:41 Engle: Okay. Under EPS, the Displays and the Descent ECA control, both closed.
+078:12:53 Mitchell: Okay. EPS Displays and DECA - Descent ECA control, closed.
+Ed makes a tiny slip of the tongue here. DECA is short for Descent Engine Control Assembly, not for the Descent Stage Electronics Control Assembly. He is quick to correct himself.
+078:12:58 Engle: Okay. Now verify the Descent Batteries, all four talkbacks are on Low and the Descent Battery talkback is gray.
+078:13:06 Mitchell: That's verified. That's verified.
+078:13:09 Engle: Okay. On panel 16, under Comm, Primary S-Band, both breakers, closed, and the PMP, closed.
+078:13:23 Mitchell: Okay. Comm, Primary S-Band power amp Transmitter/ Receiver and PMP, closed.
+078:13:30 Engle: Okay. And while we're doing this, you can keep your eye on that bus voltage - whether or not we need to go to high taps.
+078:13:39 Mitchell: Okay.
+078:13:40 Engle: Okay. Still on 16, the PCM/TE breaker, closed.
+078:13:50 Mitchell: PCM/TE, closed.
+078:13:52 Engle: Okay. And on 16, Ascent ECA and Ascent ECA Control, both closed.
+078:14:01 Mitchell: Okay, Ascent ECA, Control, closed.
+078:14:12 Engle: Okay, Ed. Now, on your audio panel on the LMP side, S-Band T/R to T/R.
+078:14:23 Mitchell: S-Band T/R, T/R.
+078:14:25 Engle: And under Comm, under the S-Band, PM, Prime, Prime, Off, PCM. [Long pause.]
+078:14:39 Mitchell: Okay, PM, Prime, Prime, Off, PCM.
+078:14:41 Engle: Okay. And then Off/Reset on your Range.
+078:14:44 Mitchell: [Garble] Okay. Off/Reset, then 27 volts. Let's switch to high taps.
+078:14:50 Engle: Okay. Very good. [Long pause.]
+078:15:05 Mitchell: Okay, I'm on high taps.
+078:15:08 Engle: Okay. Very good. Now on your Telemetry, Ed, we'll want Off and Hi.
+078:15:20 Mitchell: And Off and Hi. You have it.
+078:15:24 Engle: Okeydoke. Now, on the S-Band Antennas, you might take a quick check and see which is your best Omni there. [Long pause.]
+078:15:43 Mitchell: Well, since we don't have those meters powered up, I don't have anything to tell by.
+078:15:50 Engle: Okay. We've got data now, Ed. Thank you.
+078:15:56 Mitchell: Okay. I'm on Aft.
+078:15:58 Engle: Okay, now stand by 1; we'll see if we're ready to press on here. [Long pause.]
+078:16:18 Engle: Okay, Ed. We're ready to press on, and, for your information on telemetry here, we're still showing that Ascent about 3/10ths of a volt low, ascent 5. Okay, Ed. We're ready to pick up now on panel 11. EPS Cross Tie Balance Loads, open. [Long pause.]
+078:16:43 Mitchell: Okay. EPS Cross Tie Balance Loads, panel 11.
+078:16:49 Engle: That's affirmative.
+078:16:50 Mitchell: Is open. That makes them both open, now.
+078:16:53 Engle: Okay. Now we're going to turn off Batteries 3 and 4, so Battery 3 and 4 Hi Voltage to Off/ Reset. And you may get a DC feeder-fault light here.
+078:17:08 Mitchell: Bat 3 and 4, you want the Off/Reset. I have bos - both Balance Loads and Bus - Cross Tie Bus, open. In other words, you want to dump the Commander's Bus. Is that correct?
+078:17:21 Engle: That's affirmative.
+078:17:24 Mitchell: Okay. Here they go. And I have a feeder fault.
+078:17:33 Engle: Okay. You do have a feeder fault?
+078:17:38 Mitchell: I have a feeder-fault light.
+078:17:40 Engle: Yes, that's what I mean. Okay. Very good. Now on panel 11, Ed, they want to open all the circuit breakers on panel 11, except Signal Conditioner 1, the DC Bus Volt, and both Bat Feed Tie breakers.
+078:17:57 Mitchell: Okay. I want them all open except Signal Conditioner l, the DC Bus Volt. Is that affirm?
+078:18:04 Engle: That's affirmative.
+078:18:09 Mitchell: Okay. It's open. We never got it closed. I'm closing it now. [Long pause.]
+078:18:31 Mitchell: Okay, Joe, I'm - Say again the ones you want closed.
+078:18:36 Engle: Okay, Ed. We have four that we want closed. They are the Signal Conditioner - Signal Conditioner 1, Bat Bus Volts, and both Bat Feed Tie breakers. [Long pause.]
+078:18:55 Mitchell: Say, you're breaking up. Give me the last three again. I have the Signal Conditioner, but I still don't get the last three.
+078:19:01 Engle: Okay. The DC Bus Volts and both Bat Feed Tie breakers.
+078:19:12 Mitchell: Okay. Both Bat Feed Ties, DC Bus Volts, and the Signal Conditioner. I'm now pulling the Rendezvous Radar Heater, the Standby breaker, the Landing Radar Heater breaker, Annunciating/ Docking/Component lighting breaker, IMU Standby, Descent ECA, Translunar Bus Tie. I now have four bus - four circuit breakers closed, the remainder open. [Long pause.]
+078:19:50 Engle: Okay. And you have the IMU Standby breaker open. Is that affirm?
+078:19:55 Mitchell: That's affirm.
+078:20:02 Engle: Okay, Ed. Our next step now. We'd like to bring Battery 5 Back Up, On.
+078:20:14 Mitchell: Okay, Battery 5 Back Up Commander Feed is On.
+078:20:17 Engle: Okay, very good. And onboard there, if you'd compare both your battery and bus voltages and give us a readout, please.
+078:20:28 Mitchell: Okay, Battery 5 is reading about 35.8, and the Commander's Bus is reading 35.8. [Long pause.]
+078:20:46 Engle: Okay, Ed. Bat 5 Back Up, Off.
+078:20:53 Mitchell: Bat 5 Backup, Off.
+078:20:59 Engle: Okay, Ed. Battery 6 Normal, On.
+078:21:06 Mitchell: Battery 6 Normal is On.
+078:21:10 Engle: Very good, now give us battery and bus voltages, please.
+078:21:15 Mitchell: Okay, I read 36 on the bus, 36 on the battery.
+078:21:27 Engle: Okay, Ed. Now, Battery 5 Backup to On, and when you do it, see if Battery 6 pulls any of Battery 5 load.
+078:21:39 Mitchell: Okay, stand by. [Long pause.]
+078:21:52 Mitchell: Battery 6 Back Up, On now. And, looks like the volt on - the voltage on 6 rose just a little bit, and I see no change in current. It appears that it's sharing the load; they're both at 36 plus. [Long pause.]
+078:22:15 Engle: Okay. Now let me verify, Ed. You do have Battery 5 on Back Up and Battery 6 on Normal.
+078:22:22 Mitchell: That's affirm.
+078:22:24 Engle: Okay. Stand by 1 now, and let us look at the stuff here.
+078:22:33 Mitchell: With your concurrence, I was looking at 6 when I brought 5 Back Up, On. Let me shift it - my Temp Monitor - Power/Temp Monitor - and watch 5 and cycle them, if that's okay. [Long pause.]
+078:22:56 Engle: Okay, Ed. First could you verify Ascent ECA Control breaker is closed, please.
+078:23:05 Mitchell: That's affirm, Ascent ECA Control is closed.
+078:23:10 Engle: Okay. And the Ascent ECA breaker, also.
+078:23:16 Mitchell: That's negative.
+078:23:21 Engle: Okay. We'd like Ascent ECA closed on 16, Ed.
+078:23:29 Mitchell: Okay. You've got it.
+078:23:36 Engle: Okay, Ed. Now we'll take - we'd like you to take Battery 6 to Off momentarily and then back to Normal power, and you can watch Battery 5 voltage there on your monitor.
+078:23:49 Mitchell: Okay, Battery 6 coming Off.
+078:24:00 Mitchell: Now when I cycle Battery 6, the Battery 5 voltage comes up when Battery 6 is brought on the line. It drops down when Battery 6 is off the line. However, by watching 6, I do not see any current drain.
+078:24:17 Engle: Yes, we concur. We're seeing the same thing here, Ed. And stand by just a moment in this configuration now. [Long pause.]
+078:24:43 Engle: Okay, Ed, next function. Let's take Battery 5 Back Up - correction - Battery 6 Normal Feed, Off.
+078:24:53 Mitchell: Battery 6 Normal is Off.
+078:24:58 Engle: And Battery 5 Back Up, Off.
+078:25:02 Mitchell: Battery 5 Back Up, Off.
+078:25:12 Engle: Okay, Ed. We can turn Battery 3 Hi Volt and Battery 4 Hi Volt back On now?
+078:25:24 Mitchell: Okay, Battery 3 Hi Volt is On. Battery 4 Hi Volt is On.
+078:25:35 Engle: Okay, Ed ...
+078:25:37 Mitchell: [Garble] 5 Volts.
+078:25:40 Engle: Okay, very good. Okay, Ed. If you have your activation - Do you have your activation checklist there with you?
+078:25:51 Mitchell: That's affirmative.
+078:25:52 Engle: Okay, go ahead and configure panel 11 now as per page 1-3, and I'll have four changes when you - when you get the breakers configured there. [Long pause.]
+078:26:19 Mitchell: Okay. Configuring panel 11 as per 1-3.
+078:26:24 Engle: Okay, very good.
+Comm break.
+078:28:17 Engle: Okay, Ed. And give me a call when you get panel 11 configured there. [Long pause.]
+078:28:33 Mitchell: Okay, Joe. It's complete.
+078:28:35 Engle: Okay, very good. Now I've got four breakers I'd like for you to change on 11. The Cross Tie Balance Load breaker, open. [Long pause.]
+078:28:56 Mitchell: Okay. Cross Tie Balance Loads is open.
+078:28:58 Engle: Translunar Bus Tie, closed.
+078:29:08 Mitchell: Translunar Bus Tie, closed.
+078:29:10 Engle: Signal Conditioner 1, closed. [Long pause.]
+078:29:27 Mitchell: Okay. Signal Conditioner 1, closed.
+078:29:29 Engle: Okay. And Glycol Pump 2, closed. [Long pause.]
+078:29:53 Mitchell: Okay. I've closed the following circuit breakers, in addition to 13: Signal Conditioner 1, Glycol Pump 2, Translunar Bus Tie, and I've opened the Cross Tie Balance Loads.
+078:30:06 Engle: Okay, very good, Ed. What we want to do, now, is put some loads on the LMP Bus for the load test. Now you can go over to panel 16, Ed. And on panel 16, I'd like the - under Instrumentation - the Signal Sensor, closed. [Long pause.]
+078:30:39 Mitchell: Okay. It's closed.
+078:30:40 Engle: Okay. Under ECS, Displays, closed.
+078:30:48 Mitchell: ECS Displays, closed.
+078:30:50 Engle: And under Heaters, the RCS System A and B, all four heaters - circuit breakers, closed.
+078:31:04 Mitchell: Okay. Under Heaters, RCS System A/B-2 Quads 1, 2, 3, 4 are closed.
+078:31:10 Engle: Okay, very good. Now back on panel 11 we have AC Bus A and B, Bus Tie Inverter breakers, all four of them, closed. [Long pause.]
+078:31:26 Mitchell: Okay. AC Bus A and B, I've closed the four Bus Tie Inverter breakers.
+078:31:31 Engle: Okay. Under AC Bus A, the AC Bus Volts, closed.
+078:31:40 Mitchell: AC Bus Volts, closed.
+078:31:43 Engle: Okay. Under AC B, the System Engineer Window Heater, closed. [Long pause.]
+System Engineer is the Grumman term for the Lunar Module Pilot, reflecting his role as someone who monitors the onboard equipment during LM operations.
+078:31:57 Mitchell: Okay. SE Window Heater's closed.
+078:31:59 Engle: And under AC Bus A, the Commander's Window Heater, closed.
+078:32:08 Mitchell: Okay. Commander's Window Heater, closed.
+078:32:12 Engle: Okay, now if you'd scurry back over to the other side under 16, we have EPS Inverter 2, closed.
+078:32:26 Mitchell: EPS Inverter 2, closed.
+078:32:30 Engle: Okay, Ed. Now if you'll check the AC Bus and turn on Inverter 2 - turn Inverter switch to number 2.
+078:32:44 Mitchell: Okay, Joe. And I'm reading right at the high end of the green band. Just under 38 volts indicated.
+078:32:51 Engle: Okay, very good. Now, turn your Monitor to Battery 1, and we'd like the RCS System A/B-2 Quad Heaters, all four, to the Manual position, Ed. [Long pause.]
+078:33:13 Mitchell: Okay. They're in Manual.
+078:33:16 Engle: Okay. Now let's bring Battery 5 Normal switch On.
+078:33:24 Mitchell: Okay, stand by. Battery 5 Normal is coming On. [Long pause.]
+078:33:40 Engle: Okay, very good.
+078:33:42 Mitchell: And Battery 5 seemed to have picked up - picked up about 12 amps indicated.
+078:33:49 Engle: Okay.
+078:33:55 Mitchell: And is sharing the load with 1 and 2, apparently.
+078:34:00 Engle: Okay, looks good. And standby just a few more seconds, Ed. [Long pause.]
+078:34:27 Engle: Okay, Ed. Now let's start bringing - taking the descent batteries off. First of all, we'd like Battery 1 to Off/Reset.
+078:34:40 Mitchell: Battery 1, Off/Reset.
+078:34:43 Engle: Okay. And let's remain in this configuration for a few seconds here. [Long pause.]
+078:35:33 Engle: Okay, Ed, now bring Battery 2, Off/Reset. [Long pause.]
+078:35:47 Mitchell: Okay. Battery 2 is Off, and Bat 5 is carrying the whole load at 30 amps.
+078:35:53 Engle: Yes. Looks good here.
+078:36:00 Mitchell: Looks good to me.
+078:36:03 Engle: Okay. Give us about a minute here, Ed, and we'll press on to the next step.
+078:36:10 Mitchell: Okay. Sure have a good - Moon view out the Commander's window here. [Long pause.]
+This appears to be the first of series of remarks that Mitchell makes to indicate that he would rather start preparing for the rapidilly approaching LOI burn then to continue to work a missing 0.3 volt problem.
+078:37:05 Engle: Okay, Ed. We're ready to press on now. Let's turn Battery 6 Back-Up, On.
+078:37:15 Mitchell: Okay. Battery 6 Back-Up is On.
+078:37:21 Engle: Okay. We'll remain here for a few seconds and take a look at her ...
+078:37:24 Mitchell: [Garble] Okay. 5 and 6 seem to be sharing the load.
+Comm break.
+078:39:14 Engle: Okay, Ed. Now Battery 6 Back Up, Off.
+078:39:22 Mitchell: Okay. It's Off.
+078:39:25 Engle: Very good. Now, let's take Batteries 1 and 2 Hi Volt to On. [Long pause.]
+078:39:40 Mitchell: Okay. 1 and 2 Hi Volts are On.
+078:39:42 Engle: Okay. Battery 5 Normal, Off/Reset.
+078:39:47 Mitchell: 5, Off/Reset.
+078:39:49 Engle: Okay. Now on the circuit breakers over there, the RCS System A/B-2 Quads, all four breakers, open. [Long pause.]
+078:40:05 Mitchell: All four, open.
+078:40:08 Engle: Okay. You can turn all four heater switches to the Off position.
+078:40:16 Mitchell: That's completed.
+078:40:18 Engle: Okay. Now turn the Inverter switch, Off.
+078:40:28 Mitchell: Okay. It's Off.
+078:40:30 Engle: Okay and Inverter 2 breaker, open.
+078:40:34 Mitchell: That's completed.
+078:40:37 Engle: Okay, Ed. Now let's finish deactivating here - that wasn't - that looks like a good check. Can - on your audio panel, you can turn your S-Band T/R, Off.
+078:40:54 Mitchell: It's Off.
+078:41:02 Engle: Okay. And I guess we want to stand by here just a moment, Ed.
+078:41:14 Mitchell: Okay. [Long pause.]
+078:41:48 Engle: What we're doing right now, Ed, is just watching the open circuit voltage on that TM here for a few minutes to make sure it's stable.
+078:41:58 Mitchell: Okay.
+078:42:06 Mitchell: And using up good juice as well.
+Mitchell is worried that they are making a minor shortfall in battery capacity worse by burning up so much power during these checks.
+078:42:09 Engle: (Laughter) Yes.
+Comm break.
+078:45:01 Mitchell: Houston, 14. Can we press on and get powerdown? We're using juice.
+078:45:06 Engle: Yes. We're just about ready to press on, Ed. Okay, Ed. We're going now with the intercomms, S-Band PM, Off, Off, Off. [Long pause.]
+078:45:22 Mitchell: Okay.
+078:45:27 Engle: And your Ranging to Off/Reset.
+078:45:28 Mitchell: Okay. You have PM, Off, Off, Off, Off, Off/Reset.
+078:45:34 Engle: Okay. And Telemetry, Off, and LO.
+078:45:38 Mitchell: Okay. You have Off and LO.
+078:45:40 Engle: Okay, on 16 circuit breakers, Ed. Under EPS, Cross Tie Balance Loads, open.
+078:45:50 Mitchell: Okay. Cross Tie Balance Loads are open.
+078:45:53 Engle: Okay, and you can select low taps on batteries. [Long pause.]
+078:46:07 Mitchell: Okay. Low taps on the batteries.
+078:46:08 Engle: Okay, Ed. Now you can go back to that activation checklist and configure the - both circuit breaker panels as per page 1-3 and 1-4 and I'll stand by. And if you will, give me a call when you're finished with that.
+078:46:27 Mitchell: Okay.
+Comm break.
+078:47:43 Mitchell: Panel 11's configured.
+078:47:45 Engle: Very good, Ed. Okay, Stu. If you're ready, you can transfer back to CSM power now, and we'll get the time, if you'll give us a mark.
+078:47:57 Mitchell: Hold it just a second. I still haven't got 16 configured yet, Joe.
+078:48:04 Engle: Oh, okay. Stand by, Stu.
+Comm break.
+078:49:19 Mitchell: Okay, Joe; it's completed. Stu's transferring power.
+078:49:22 Roosa: Okay, Joe. Here it comes back to the CSM. 3, 2, 1 -
+078:49:29 Roosa: Mark.
+By flipping a switch on the Main Display Console, Stu has sent a signal to the LM's Electric Power System that disconnects the Descent batteries and instead stars drawing power via the umbilical connectors using power from Command Module Main Bus B.
+078:49:33 Engle: Okay, Stu. We've got it. Thank you very much. Okay, Ed, now on your ECS panel, you can close the Descent Water and Oxygen. [Long pause.]
+078:49:53 Mitchell: Completed.
+078:49:54 Engle: Okay. Cabin Repress closed.
+078:50:05 Mitchell: The Cabin Repress is closed.
+078:50:07 Engle: On panel 11, on your circuit breakers the EPS, DC Bus Volt, open.
+078:50:18 Mitchell: It's open.
+078:50:20 Engle: And on panel 16 under ECS, Cabin Repress, open.
+078:50:27 Mitchell: It's open.
+078:50:28 Engle: Okay. You can roll the window shades back up now, Ed. [Long pause.]
+078:50:46 Mitchell: Okay. The window shades are going up, and the old Moon is sure getting big in the Commander's - Commander's window at this point.
+078:50:54 Engle: Okay. Very good. You're not very far from there, on the chart up here, that's for sure. Okay, Ed, on panel 3, Floodlight, Off.
+078:51:03 Mitchell: Growing noticeably in the last hour.
+078:51:08 Engle: Okay. We copy that. And on panel 3 now, Floodlight, Off. [Long pause.]
+078:51:21 Mitchell: Okay. It's Off.
+078:51:25 Engle: Okay, Ed, the Cabin Relief and Dump Overhead to open. [Long pause.]
+078:51:53 Mitchell: Verify, it's open.
+078:51:55 Engle: Okay. Now you can IVT back to the Command Module, and close the hatch behind you. And we thank you very much.
+078:52:05 Mitchell: Okay. Is everybody satisfied with the checkout, Joe? Are we Go?
+078:52:08 Engle: Yes. It looks good, Ed.
+Comm break.
+078:53:39 Mitchell: Okay. The LM hatch is secured.
+078:53:44 Engle: Okay. Very good, Ed. [Long pause.]
+078:54:00 Engle: And, Ed, we'll have some more elaborate words for you on those batteries. The battery 5 holds the load real good. It stands up under the load real good. I think they want to evaluate a few more parameters here, and so far it looks like there's nothing to worry about.
+078:54:21 Mitchell: Okay, Joe. Thank you.
+078:54:31 Shepard: Houston, 14. Shall we put the hardware back in the tunnel?
+078:54:36 Engle: Okay. Stand by, Al. [Long pause.]
+078:54:56 Engle: Apollo 14, this is Houston. Roger, Al, you can go ahead, and put the hardware back in and get back into normal configuration.
+078:55:06 Roosa: Okay. That's in work.
+078:55:07 Shepard: Okay. Will do.
+Very long comm break.
+Day 4, part 2: Midcourse Correction 4
+Journal Home Page
+Day 4, part 4: Apollo 14 Swings Behind the Moon

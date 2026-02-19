@@ -1,0 +1,1085 @@
+Apollo 13 Flight Journal - Day 1, part 2: Earth Orbit and Translunar Injection
+Day 1, part 1: Launch and Reaching Earth Orbit
+Journal Home Page
+Day 1, part 3: Transposition, Docking and Extraction
+Apollo 13
+Day 1, part 2: Earth Orbit and Translunar Injection
+Corrected Transcript and Commentary Copyright ©2014-2025 by W. David Woods, Johannes Kemppanen, Alexander Turhanov and Lennox J. Waugh. All rights reserved.
+Last updated 2025-02-22
+NASA artist's concept of the Apollo 8 S-IVB/Apollo stack soon after Translunar Injection. This work gives a good idea of what the stack looked like with the first and second stages gone.
+It is fifteen minutes into the mission of Apollo 13. The spacecraft launched on time from Kennedy Space Center in Florida, in an ascent that was textbook but for the sudden premature shutdown of the center engine on the second stage. Thanks to the guidance system's ability to adapt their trajectory despite this and the reserve capacity of the other engines and stages, they have just made it to orbit. Everything is still looking good for a nominal lunar mission to follow in a couple hours' time when they burn their S-IVB stage again during the Translunar Injection.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop.
+000:14:57 Kerwin: Apollo 13, Houston. Your preliminary orbit down here is 102.5 times 100.3 [nautical miles, 189.8 by 185.8 km], and everything is looking good.
+000:15:06 Lovell: Roger, Houston. And it looks good to be up here again.
+000:15:10 Kerwin: I'll bet. [Long pause.]
+Jim Lovell is now the the world's most experienced spaceman, not only in the hours spent in space, but currently starting his unprecedented fourth space mission. He is also the first astronaut to fly on the Saturn V for the second time, and the first person to make a second journey to the Moon. His record would last until 1981, when John Young's first shuttle mission was his fifth spaceflight.
+Others who flew Saturn V twice are David Scott (Apollo 9 and Apollo 15), John Young (Apollo 10, Apollo 16) and Eugene Cernan (Apollo 10, Apollo 17). Lovell, Young and Cernan are the only three men to have made the lunar trip twice, since Scott's first mission was to Earth orbit.
+Their next action is to go through a very long 31-step Insertion and System Checks Checklist. This will take them to around 01:50 GET, up to the preparation for the Translunar Injection.
+Step 1 of the post-insertion checklist.
+The procedures in the first step of the checklist mostly consist of securing the cabin pressurization in the Command Module, and powering off the launch-related equipment such as the EDS and the sequential systems.
+The final part of Step 1 gives the indications on how to determine the safety of the S-IVB fuel tanks. Should the values be outside the safe range, they are to perform an emergency separation from the launch vehicle, abandoning the Lunar Module as well.
+000:15:34 Kerwin: Apollo 13, Houston. I have your Z torqueing angle. You ready? [Pause.]
+000:15:42 Lovell: Jack is ready to copy, Joe.
+Step 4 - the Z Torquing Angle Update
+The Z torquing angle update is done right after orbital insertion to ensure that the inertial platform is still valid. The hardships of the powered ascent to space could have caused its careful alignment to drift off the perfect value set while still on the launch pad.
+000:15:44 Kerwin: Okay. It's plus decimal 26. Over. [Pause.]
+000:15:52 Swigert: Okay, Joe. Plus 0.26.
+000:15:55 Kerwin: That's Roger.
+Long comm break.
+Apollo 13 ground track during its two Earth parking orbits.
+Their boost - with its surprises notwithstanding - has put them on a nearly circular orbit, with a duration of 88.2 minutes.
+Click to show a colored and animated globe version of the above ground track map.
+This is Mission Control at 17 minutes. We've had Loss Of Signal with the spacecraft. We'll be reacquiring shortly through the Canary Island Tracking Station. The total burn duration on the third stage was about 45 seconds longer than planned; we would not expect at this point that this would have any serious effect on the Translunar Injection, the fact that we did consume a bit more propellant out of the third stage than was originally planned. We are standing by now for Acquisition Of Signal through the Canary Island Station. We should be reacquiring radio contact with the spacecraft shortly.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop.
+This is Apollo Control; we're still standing by for any conversation with the spacecraft over Canary Islands. The booster systems engineer reports that at this point he has no explanation for the early shutdown of the S-II - Saturn second stage - center engine.
+000:21:39 Kerwin: Apollo 13, Houston.
+000:21:42 Lovell: Go ahead, Houston.
+000:21:44 Kerwin: Okay. Couple minutes to LOS, Jim. Everything is looking real good. Your AOS time at Carnarvon will be 52:36, and we don't have too much of a handle on why the inboard cut off early except that it apparently was an engine problem and not a switch select function. But we're certain that you'll be able to make TLI based on what we're looking at now.
+000:22:11 Lovell: Roger. There's nothing like an interesting launch.
+000:22:14 Kerwin: That's right. [Long pause.]
+000:23:14 Kerwin: Apollo 13, Houston. Canary LOS in 30 seconds. Request Command Reset, please.
+000:23:21 Lovell: Roger. Command Reset coming on.
+000:23:24 Kerwin: Thank you. [Long pause.]
+The Command Reset switch resets any remote commands Mission Control might have sent to the spacecraft. They are most often used to operate the onboard tape recorder. Original scan via heroicrelics.org
+000:23:25 Swigert (onboard): Hey, you guys, are you ready? I've done my other item there; I'm ready to give you - [garble].
+000:23:30 Lovell (onboard): Well, all right, fine. Let's just get this one done first.
+000:23:33 Swigert (onboard): Okay.
+000:23:34 Lovell (onboard): What else do you have to do here?
+000:23:35 Haise (onboard): Okay. Going Bit Rate.
+000:23:40 Kerwin: Apollo 13, Houston. Request Low Bit Rate, please. Over.
+000:23:44 Lovell: Low Bit Rate.
+PCM BIT RATE selection switch on the bottom of Panel 3. Original scan via heroicrelics.org.
+Telemetry gathered from onboard sensors is encoded digitally (contemporary name being Pulse Code Modulation) into a data stream that can be radioed to Mission Control using either the high rate of 51,200 bits per second or Low rate of 1,600 bits per second.
+Very long comm break.
+000:23:46 Unidentifiable crewmember (onboard): Okay.
+000:23:47 Lovell (onboard): Okay. The pressure's okay?
+000:23:49 Haise (onboard): Yes. Let's see now, Jim, there's one more reading there; you gave me the - you gave me the helium pressure, 4100. What's the manifold pressure on that one?
+000:23:59 Lovell (onboard): The manifold pressure is reading about 80.
+000:24:05 Haise (onboard): Eighty? Okay, give me the number 1, then.
+00:24:07 Lovell (onboard): Okay, number 1. And helium temperature is 80, helium pressure is 4100, and the manifold pressure is about 100.
+000:24:18 Haise (onboard): Manifold's about 100. Okay.
+Step 6 - CM RCS Monitoring Check
+Lovell and Haise are performing a quick check of the Command Module's own Reaction Control System. These are only meant to be used during reentry to control their attitude. The checkup here is an important one, should the need develop to return to Earth while in Earth orbit or immediately after the burn to send them to the Moon. Otherwise, they will wait to be used until the very end of their mission.
+000:24:19 Swigert (onboard): Okay, Freddo. Have a look - the cabin and suit doing? Before we...
+000:24:22 Haise (onboard): They're both pretty equal, now, at about 5/5.
+000:24:25 Swigert/Lovell (onboard): Okay.
+Step 9
+Haise sits in front of the displays for the life support system, and would be giving them a confirmation just about now for it to be safe to take off their helmets and gloves. This will improve their dexterity and comfort considerably. Should the need arise to get back into pressurized suits, they can don their gloves and helmets quickly.
+Environmental Control System displays. Scan via heroicrelics.org
+The ECS displays have gauges for the pressure and temperature readings from the space suits, the spacecraft cabin, as well as many elements of the cooling and thermal control system.
+000:24:26 Lovell (onboard): Well, let's - We'll break the [garble]
+000:24:27 Swigert (onboard): Okay, let's do it. Freddo, here's your bag.
+000:24:32 Haise (onboard): Okay. Jim.
+This is Apollo Control. We've had Loss Of Signal now with the spacecraft at the Canary Island Tracking Station; we won't reacquire again until the spacecraft reaches the tracking station at Carnarvon, Australia. That will be at a Ground Elapsed Time of 52 minutes, 36 seconds. Recapping at the time we lost contact with the spacecraft through Canary Islands, we looked to be in very good shape for the Translunar Injection burn, with the Saturn third stage. The second stage center engine shut down about 2 minutes early; the total overburn time on the third stage was about 10 seconds. We don't expect that this would have any effect on the Translunar Injection. At 25 minutes, 20 seconds; this is Mission Control, Houston.
+000:24:39 Haise (onboard): Okay, for that item, those two I can check off. You got the Z-torquing angle?
+000:24:43 Swigert (onboard): Yes.
+000:24:44 Haise (onboard): I've checked the caution and warning; you've done that. We're up - we're up to item 9.
+Step 7 illuminates all the caution and warning lights and ensures that they are working properly.
+000:24:49 Swigert (onboard): How we doing time line?
+000:24:51 Haise (onboard): We're a little behind, but it's the kind of stuff that we can catch up lickety-split with.
+000:24:57 Swigert (onboard): Okay.
+000:25:04 Haise (onboard) : Okay. Let me get - make sure I got this item. I want A, Simplex. Hell, it was already there. B to Off. No, it wasn't. It's just a hard switch again. They really fake you out, these switches...
+Step 13
+They do a few selections on the radio configuration here, and power up the drinking water heater.
+000:25:18 Swigert (onboard): Yes. I've noticed...
+000:25:19 Haise (onboard): ...they move so hard.
+000:25:20 Swigert (onboard): I've noticed that, Fred.
+000:25:21 Haise (onboard): Compared with the simulator. Okay, let me check item 13 off; I've completed that one. Let's see.
+The two rookies are noting that the switches and controls in their console are stiff. This of course is due to the fact that these switches have not been operated more than a few times, unlike the well-worn out equipment in their simulators.
+000:25:30 Swigert (onboard): Yes. I've got...
+000:25:37 Lovell (onboard): Jack, be careful in your movements now.
+000:25:39 Swigert (onboard): Yes. I'm not having any problems so far.
+000:25:41 Lovell (onboard): Okay.
+Lovell is warning Swigert to keep himself steady now that he is about to move inside the spacecraft for the first time while in microgravity. Sudden and rapid head movements may trigger space sickness, which they want to avoid by being careful during the first hours and days of the mission.
+Step 8
+As can be understood from the dialogue, Jack Swigert is getting up and about, per the checklist step 8. He is the first to leave his seat and slip under the crew couches to prepare for testing parts of the life support system, and to fetch equipment needed.
+A cutaway of the Command Module, seen from port and starboard angles.
+The Command Module's pressurized interior can be considered to be divided into two distinct spaces, the upper crew area with the couches and the Main Display Console, and then the Lower Equipment Bay below them. This area, besides allowing access to some less used controls, is used to stow much of the gear they need for their trip to the Moon and back. It is also where the navigational optics are located, on their own workstation.
+000:25:43 Haise (onboard): PCM Bit Rate is Low. I did the Command Reset in Normal. I'll do it again, just to make sure. I have an A, Simplex, and B, Off. That's great. Jack, could you hand me one thing?
+000:25:58 Swigert (onboard): What - what would you like?
+000:25:59 Haise (onboard): One of those spring jobbers, there, I can...
+000:26:00 Swigert (onboard): Yes.
+000:26:01 Haise (onboard): ...flip across...
+000:26:02 Swigert (onboard): I was going to ask you, if you wanted one of those, Fred.
+000:26:03 Haise (onboard): Yes. Okay. Now that'll take care of my checklist for me.
+000:26:15 Swigert (onboard): A springy jobber coming up.
+000:26:17 Haise (onboard): Thank you. No, no; you got one of the other ones with the hook?
+000:26:24 Swigert (onboard): I got the wrong kind?
+000:26:25 Haise (onboard): Yes. It's a little longer one with the hook.
+000:26:28 Swigert (onboard): Are they in the same - They in the same - [garble]?
+000:26:35 Haise (onboard): Now that's a good question.
+000:26:37 Swigert (onboard): Well, I'll tell you - Let me - I don't see them down here, now.
+000:26:41 Haise (onboard): Sure enough. It really is zero g.
+000:26:47 Lovell (onboard): Well, gentlemen, I'll break out my two gold pens.
+000:26:50 Haise (onboard): The longest Napierian trajectory in the world.
+000:26:56 Swigert (onboard): Yes. We had - I had a long boost ride, didn't we?
+000:26:59 Haise (onboard): Man!
+000:27:00 Lovell (onboard): Twelve minutes and 30 some seconds.
+Their powered flight lasted approximately a minute longer than that of their direct predecessor, Apollo 12. Their burn lasted approx. 44 seconds longer than predicted for their own mission. Either way, the Apollo ascent is a very leisurely ride compared to the 338 seconds (five minutes, 38 seconds) it took for the two-stage Gemini-Titan launch vehicle to insert the previous American spacecraft into a similar orbit.
+000:27:01 Haise (onboard): I'll tell you, gang, I was a little worried for a pinch or two.
+000:27:04 Lovell (onboard): When I called, 'Inboard,' I was - It was natural; then I looked at the time...
+000:27:07 Swigert (onboard): Yes...
+000:27:08 Lovell (onboard): ...and I said, 'That's not natural.'
+000:27:09 Swigert (onboard): We were 2 minutes early. Five minutes and 32 seconds, if you want to write that down.
+000:27:12 Lovell (onboard): Okay, good. Okay, my helmet coming off.
+000:27:15 Haise (onboard): Shoot, if they recorded that...
+000:27:16 Swigert (onboard): ...(Laughter) Yes...
+000:27:17 Haise (onboard): ...it'd be heck.
+000:27:18 Swigert (onboard): (Laughter) I know it.
+000:27:24 Swigert (onboard): Well, you know, I think I'll just - I'll just let this thing pull right up to the top.
+000:27:29 Haise (onboard): You haven't found that other one, yet, have you?
+000:27:30 Swigert (onboard): No, Fred; I haven't...
+000:27:32 Lovell (onboard): What are you looking for?
+000:27:33 Haise (onboard): A clamp. Oh...
+000:27:35 Swigert (onboard): I think those are down - those are in one of the lower...
+000:27:38 Haise (onboard): Okay. You want to give me that other one back here, I'll see if I - Trouble is, I got no hooks that are the right length apart for my goddamn [garble]. Fiddle with it. I'll just hang on to it tight and [garble].
+000:27:55 Swigert (onboard): By golly! Guys!
+000:28:03 Swigert (onboard): Hey, that's - All that stuff about the helmets being hard to get into the bag is the truth.
+000:28:15 Lovell (onboard): Okay, let's see. At [garble] 52:36, we're going to pick them up over Canaries.
+000:28:20 Haise (onboard): Great...
+000:28:21 Lovell (onboard): And, gentlemen, you are now passing the beautiful Atlantic Ocean.
+They are moving on a south-eastern trajectory across the Atlantic Ocean and towards the African continent.
+000:28:30 Haise (onboard): I'm glad we checked PGNCS.
+000:28:37 Lovell (onboard): Say, I never thought - You guys want to take a look - look at - Excuse me a second. I'm going to turn out those floodlights. I wanted to show [garble] - When I turn out all the lights in just a second, you can see thunder and lightning on the horizon.
+000:28:55 Swigert (onboard): Sure as hell can.
+000:28:56 Lovell (onboard): And also, you might be able, if your eyes become accustomed to it - you might be able to see the - the airglow. There, you can. You can see the airglow.
+000:29:05 Swigert (onboard): Yes. I sure can.
+000:29:06 Lovell (onboard): See that airglow?
+000:29:07 Swigert (onboard): I can see that lightning, too.
+000:29:09 Haise (onboard): Oh, I - I won't be able to see [garble]
+000:29:10 Swigert (onboard): Hey, that's...
+000:29:12 Haise (onboard): El Scorpio, isn't it?
+000:29:13 Lovell (onboard): Yes, but see the - Antares is in the airglow layer.
+000:29:16 Swigert (onboard): Yes, it is. Right in it.
+000:29:18 Lovell (onboard): And then right below that, way - about a half a degree, that's...
+000:29:20 Swigert (onboard): The next star down there?
+000:29:21 Lovell (onboard): Yes.
+000:29:22 Haise (onboard): Yes.
+000:29:23 Lovell (onboard): So, if you lift the lights, we'll see again.
+000:29:27 Swigert (onboard): Okay, I'm ready for the main Reg check, Fred, if you're ready.
+000:29:30 Haise (onboard): Okay. Go ahead. I'll tell you when. [Garble] just call it on.
+Step 10
+Panel 351, Environmental Control System
+Jack, down in the LEB, is now performing a check of the main regulators, which supply the oxygen from their tanks into the cabin at the rate it is needed. Many of the controls he has to manipulate are in the form of a socket in the panel, to be cranked with a small tool he took out earlier. This saves a lot of room, not having to use large manual knobs.
+000:29:35 Swigert (onboard): Okay. Main Reg B going closed. Emergency Cabin Pressure selector 1, Push To Test.
+000:29:45 Haise (onboard): Did you Push To Test?
+000:29:46 Swigert (onboard): Yes. There it is.
+000:29:47 Haise (onboard): Good.
+000:29:48 Swigert (onboard): Okay.
+000:29:49 Haise (onboard): Good.
+000:29:50 Swigert (onboard): Main Reg B valve, Open; A going closed.
+000:29:54 Haise (onboard): Closed. Next step?
+000:29:55 Swigert (onboard): Cabin - Cabin Pressure selector 2, Push To Test.
+000:30:00 Haise (onboard): Okay, that's good.
+000:30:02 Swigert (onboard): Main Reg valve B ... or A, Open, and Emergency Cabin Pressure selector, closed. Okay, Jim. I got to get to ... to those [garble] here.
+000:30:14 Lovell (onboard): Okay.
+000:30:23 Lovell (onboard): Okay.
+000:30:24 Swigert (onboard): [garble] down there?
+000:30:27 Haise (onboard): Up in L-2, Jack.
+000:30:28 Swigert (onboard): Yes, that's where I'm looking.
+000:30:32 Haise (onboard): You're kidding. I thought you said the helmet was tough to get in this bag. Piece of cake. Have you got - have you got one of those big helmets?
+000:30:41 Swigert (onboard): Yes - No, I don't think - unless I got a bigger head.
+000:30:44 Haise (onboard): You don't have a Borman special, do you?
+000:30:46 Swigert (onboard): No.
+000:30:47 Lovell (onboard): We all have Borman specials.
+000:30:48 Swigert (onboard): Really?
+000:30:49 Lovell (onboard): Yes.
+It is implied that they all have the larger model of the spacesuit helmet, named after astronaut Frank Borman.
+000:30:50 Swigert (onboard): Maybe your damn bag won't fit anymore with that one [garble] have to slip it in this one.
+000:30:54 Haise (onboard): Yes. [garble] a little bit. I got a [garble]
+000:31:06 Lovell (onboard): Okay. Got a [garble]?
+000:31:09 Swigert (onboard): Yes.
+000:31:12 Lovell (onboard): Well, is there anything else we can be doing right now? Like COAS?
+000:31:14 Haise (onboard): Yes.
+000:31:15 Swigert (onboard): You can...
+000:31:16 Lovell (onboard): Yes.
+000:31:17 Swigert (onboard): ...you can get out the ORDEAL box, if you could...
+000:31:18 Lovell (onboard): Yes...
+000:31:19 Swigert (onboard): ...could you do that, Jim?
+000:31:20 Lovell (onboard): I'm going to try it right now.
+000:31:21 Swigert (onboard): That would save me a trip down under there.
+000:31:22 Lovell (onboard): Okay, that's right.
+000:31:25 Swigert (onboard): Okay. Okay...
+000:31:28 Lovell (onboard): You got to watch the time right now for...
+000:31:29 Swigert (onboard): Yes.
+000:31:30 Lovell (onboard): Okay.
+000:31:35 Swigert (onboard): I don't - I got to go stow my water wings. You guys got your water wings on?
+000:31:40 Haise (onboard): No. I don't think I'm going to fiddle with that right now, Jack. They're not in my way.
+000:31:45 Swigert (onboard): Yes. I'll trade. We can get that later.
+000:31:46 Haise (onboard): Hell, yes.
+000:31:48 Lovell (onboard): Well, I'll tell you what - I blew mine on 8.
+000:31:52 Swigert (onboard): Did you?
+000:31:53 Haise (onboard): Yes. But you were the guy that - Jack should take his off. He's the guy moving around.
+000:31:57 Lovell (onboard): You're right.
+000:31:58 Swigert (onboard): Okay. I'll take mine off.
+Jim Lovell infamously inflated his life belt while serving as the CMP on Apollo 8. He most likely tugged accidentally on their release while moving to the Lower Equipment Bay to perform some of the chores Jack is doing about now.
+000:32:00 Lovell (onboard): [Garble] really want [garble].
+000:32:05 Haise (onboard): Man, I'll tell you, that first stage...
+000:32:08 Swigert (onboard): [Garble.]
+000:32:09 Haise (onboard): When that shut down, man, I thought I was going through the instrument panel. I'll tell you, that was - I was so surprised [garble] I had heard about it.
+000:32:20 Lovell (onboard): I should have warned you.
+000:32:22 Haise (onboard): [Laughter.]
+000:32:23 Swigert (onboard): Yes, well. Something else...
+000:32:24 Haise (onboard): Well...
+000:32:26 Swigert (onboard): ...you got to get into.
+000:32:27 Lovell (onboard): [Garble] right in [garble].
+During the S-IC's powered flight, the engines compress the entire length of the vehicle as they place a 4-g load on it. When the engines cut out, the vehicle rebounds, throwing the crew forward for a moment.
+000:32:28 Haise (onboard): Okay, let's see. Confirm normal, we've done that. We've stowed the water wings. Now it's the TSB is the only item left outstanding there.
+Step 9
+TSBs aka Temporary Stowage Bags are used by the crew to reduce clutter in the cabin, by having somewhere to put frequently used items into.
+000:32:36 Lovell (onboard): Okay, I have the ORDEAL in place. Now, do you want the camera bracket?
+Steps 19 and 20
+Jim is setting up the ORDEAL (Orbital Rate Display, Earth And Lunar) - an electronics box that will allow them to modify the input into the 8-ball displays to show their orbital rate. In other words, rather than showing their attitude with respect to the stars (their inertial attitude), it will show their attitude relative to the ground below.
+000:32:44 Swigert (onboard): Yes, you better leave that camera bracket up there.
+000:32:50 Haise (onboard): Yes. Yes, I can feel a little bit of the zero-g effect, a little flushing in the face.
+000:32:54 Swigert (onboard): Yes.
+000:32:55 Lovell (onboard): Yes, that's that - Your blood rushes to your head because your heart doesn't have anything to pump against.
+000:33:02 Swigert (onboard): Yes, I can feel that, too.
+Lovell, from 1970 Technical debrief: "My feelings were as I've had previously. When we first get subjected to zero g, I feel I'm upside down, my head is full, and blood is rushing to my head; this lasts several hours. I think this sensation lasted approximately 6 hours. But basically that's the only sensation I felt in zero g. After that, it went away."
+Swigert, from 1970 Technical debrief: "I think Fred and I felt the same fullness of the head."
+Haise, from 1970 Technical debrief: "We both mentioned it about the same time. I don't know who mentioned it first. We both had it go away about the same time. Offhand, I don't remember how many hours had elapsed."
+Swigert, from 1970 Technical debrief: "It was around 8 hours;we both mentioned that the fullness of the head was gone."
+000:33:05 Lovell (onboard): Okay, I have the camera bracket.
+000:33:08 Swigert (onboard): Okay, have you got the - the ORDEAL mounted? I have...
+000:33:10 Lovell (onboard): The ORDEAL is mounted.
+000:33:11 Swigert (onboard): ...[Garble]...
+000:33:12 Haise (onboard): Okay, Jim. Are you ready to get busy on getting the RADs on the line?
+000:33:16 Lovell (onboard): I sure am.
+Step 12
+They are performing tests on the system that circulates water-glycol mixture inside the spacecraft to transfer excess heat away from the electrics to radiators that form part of the skin of the Service Module.
+000:33:17 Haise (onboard): Glycol Reservoir Bypass valve, Open.
+000:33:19 Lovell (onboard): Okay, Glycol Reservoir Bypass valve to Open.
+000:33:25 Haise (onboard): Okay, Out valve, Close.
+000:33:27 Lovell (onboard): Out valve, Close.
+000:33:29 Haise (onboard): The In valve, Close.
+000:33:31 Lovell (onboard): The In valve going Close.
+000:33:34 Haise (onboard): Okay, now we need a little bit of quantity in the Accum - not the Accum, but we need the fuel valve on for about 5 percent on down to 45 percent. That's about what it was in the [garble], too.
+000:33:46 Lovell (onboard): Okay, what I'm going to do is...
+000:33:47 Haise (onboard): CapCom said they wanted 50.
+000:33:48 Lovell (onboard): ...[Garble] the ORDEAL, then. The number 1 ball. Did you check the Verb 82?
+000:33:57 Swigert (onboard): Yes, I did. I wrote it down.
+000:33:59 Lovell (onboard): Okay.
+000:34:00 Swigert (onboard): I did that whole thing.
+000:34:01 Haise (onboard): And we got the secondary RAD leak check to go. We got 'Unstow and mount TSB.'
+Step 11
+Step 11 is a check of the backup radiator system that would be brought online if the primary system fails.
+000:34:07 Swigert (onboard): Yes. I [garble] done that, too.
+000:34:10 Haise (onboard): And I got water wings in my lap here. That's it on that item - that page; it's done. So we're hanging up here. Let me proceed ahead and see what I can. I can do a purge. There are not any left for another 12 minutes or so.
+000:34:28 Swigert (onboard): Let me get the...
+000:34:29 Haise (onboard): [Garble.]
+000:34:30 Swigert (onboard): I got to get...
+000:34:31 Haise (onboard): EPS monitor check, I can do [garble] I've been looking ahead to see what Jim can do. It says a GDC align somewhere in this thing.
+000:34:36 Lovell (onboard): Okay, I'm setting the ORDEAL right now.
+ORDEAL box diagram.
+The Apollo spacecraft's navigational instrumentation was designed for displaying their attitude in terms of spacecraft orientation in the deep space between Earth and the Moon. However, it was realized that it would be beneficial to have the capacity to also display their attitude in relation to a body being orbited, the Earth or the Moon. Due to the late conception - and budgetary reasons, apparently - the electronics were incorporated into a separate box stowed in the Command Module.
+Apollo 13's FDAI 8-ball photographed inside the CM.
+Turning the appropriate switches in the ORDEAL box allows them to slave the FDAI ball to display their orbital attitude, where signals from the ORDEAL electronics rotate the FDAI ball accordingly.
+Notice the glare from the G force gauge to the left of the 8-ball - this instrument was so prone to reflecting sunlight that a cover was Velcroed onto it immediately after orbit insertion and the instrument was not used until reentry.
+000:34:40 Haise (onboard): Okay, well, that's the next thing you can do is a GDC align. Okay, you may - you may get some Master Alarms here, gang. I'm going to be doing a purge check. I'll just do the...
+Step 14
+The fuel cells that produce their power and water via reacting oxygen and hydrogen are extremely sensitive to any impurities in the gases. Although filtered to be ultra-pure, even the most minute impurities will cause the fuel cell function to fall. By flowing oxygen and hydrogen through the fuel cells at a high rate, these impurities can be flushed out.
+000:34:55 Swigert (onboard): Fredo.
+000:34:56 Haise (onboard): Yes.
+000:34:57 Swigert (onboard): Look what I got.
+000:34:58 Haise (onboard): What have you got?
+000:34:59 Swigert (onboard): One with a hook on the end of it.
+000:35:01 Haise (onboard): Beautiful.
+000:35:02 Swigert (onboard): Spring jobber-do.
+000:35:03 Haise (onboard): Thank you.
+000:35:09 Lovell (onboard): Now, is there anything I can be doing?
+000:35:10 Swigert (onboard): I am giving you the sequence camera here, Jim.
+000:35:13 Lovell (onboard): Okay.
+000:35:14 Swigert (onboard): I tell you, I haven't checked the setting.
+000:35:16 Lovell (onboard): How about your optics?
+000:35:17 Swigert (onboard): I've got them unstowed. Now. [garble] that'd be 32.
+000:35:32 Swigert (onboard): [Garble] camera. Here's the power cable.
+000:35:36 Lovell (onboard): Thank you. Okay, 18 millimeter, f:8, and 250th.
+000:35:47 Swigert (onboard): Now, let's see. Let me give you a - it's f:8, 250th, 7 feet, 12 frames per second.
+000:35:54 Lovell (onboard): Okay. Go.
+000:35:55 Swigert (onboard): Magazine A.
+000:35:56 Lovell (onboard): Magazine A is on.
+000:35:58 Haise (onboard): Hey, Jack, where'd you find these?
+000:36:00 Swigert (onboard): I found it right down in - Fred, in this stowage...
+000:36:03 Haise (onboard): Do you have any longer ones?
+000:36:04 Swigert (onboard): No.
+000:36:05 Haise (onboard): (Laughter)
+000:36:06 Swigert (onboard): No. It...
+000:36:07 Haise (onboard): But that wasn't quite that long.
+000:36:08 Swigert (onboard): Yes, I know they do. And I'll tell you where it is; it's down in...
+000:36:10 Haise (onboard): Okay.
+000:36:11 Swigert (onboard): ...A-8. Can you make do with that for a minute?
+000:36:13 Haise (onboard): Yes. I [garble].
+000:36:14 Swigert (onboard): Until I get - Okay, have you got ORDEAL - You got ORDEAL mounted?
+000:36:22 Lovell (onboard): I - I have ORDEAL mounted.
+000:36:24 Swigert (onboard): There we go.
+000:36:25 Haise (onboard): Okay...
+000:36:26 Swigert (onboard): I got to get...
+000:36:27 Haise (onboard): ...right after - When did we insert, gang? Twelve something?
+000:36:31 Lovell (onboard): 12:32 [garble]
+000:36:33 Haise (onboard): Okay. I'm looking for where I put the first line heater on, so it was roughly about 14 minutes. We've been - we've been 20 minutes. Yes. [garble] Okay [garble].
+000:36:43 Lovell (onboard): Don't forget I still got the radiators bypassed here.
+000:36:45 Haise (onboard): Yes. Okay, what I need though, Jim, is to - We got to pump up the - You want to - Let's finish that item. I need to pump up the accumulator a little bit. I mean use the accumulator to - Yes - to get it up to 50 percent.
+000:36:58 Lovell (onboard): Okay, you tell me what you want me to do here and I'll...
+000:37:01 Haise (onboard): Can you reach the Prim Accum Fill valve, right there on your left?
+000:37:05 Lovell (onboard): I'll try.
+000:37:07 Haise (onboard): Yes, that's the Primary. How are you doing, Jack?
+000:37:11 Swigert (onboard): Okay.
+000:37:12 Haise (onboard): My countdown under way already?
+000:37:13 Swigert (onboard): Yes. But, you want to have a few [garble]?
+000:37:19 Haise (onboard): Yes.
+000:37:32 Lovell (onboard): Okay, I'm putting the cable for you.
+000:37:39 Haise (onboard): Excuse me a second; I want to [garble] the O2 flow. Okay. Looks good. But if we get a Master Alarm, it'll come on with the H2. Okay? Fuel cell 2. O2 flow.
+Step 15
+This step makes a thorough check of the cryogenic oxygen and hydrogen supply as well as the fuel cells and the power storage and distribution equipment onboard the Command Service Module.
+000:37:56 Unidentifiable crewmember (onboard): [Garble.]
+000:37:57 Haise (onboard): When it comes up flow, the H2 banks up there like crazy. Looks like the simulator. The O2 isn't like the simulator. Yes, it gets up there real slow. That old H2 - Stand by for another Master Alarm. It banked up there like nothing flat. Okay. They're all back down to...
+000:38:20 Swigert (onboard): Before I get the...
+000:38:21 Haise (onboard): ...normal.
+000:38:22 Swigert (onboard): ...TSBs out, can I get P52 [garble] program start?
+000:38:27 Lovell (onboard): Yes. Go ahead.
+000:38:28 Haise (onboard): Yes.
+000:38:29 Lovell (onboard): Get it to cover one that that doesn't.
+000:38:31 Swigert (onboard): Yes. I'll [garble].
+000:38:34 Multiple speakers (onboard): [Garble.]
+000:38:35 Lovell (onboard): That's the fourth, Jack. Better do that.
+000:38:37 Haise (onboard): Okay. It's all optic tracking. I've done that. Zero [garble] G&N Power Optics, on, up. Optics Mode, Manual. [Garble] Direct [garble] High. OHC, Max right.
+The external hull apertures for the optics are covered for the launch. They jettison the covers here so that the instruments can now look out into space.
+000:39:01 Lovell (onboard): Okay, do I have a tool there someplace? Can I use an E tool?
+000:39:09 Haise (onboard): [Garble.]
+000:39:11 Lovell (onboard): You got it uncovered?
+000:39:13 Haise (onboard): Got tool E?
+000:39:14 Lovell (onboard): Yes, until I get that up for a fit.
+000:39:15 Haise (onboard): Okay [garble].
+The multipurpose Tool E.
+000:39:17 Lovell (onboard): Now, Fred, what do you want me to do?
+000:39:19 Haise (onboard): Okay, next - next thing is to - [garble] back - page - I need to find the [garble] fuel valve on. You can't take your eye off it. I got him out the window. Is that it? I got the airglow there.
+000:39:43 Lovell (onboard): Okay.
+000:39:52 Haise (onboard): Make sure you get the right one, Jim. Primary Accum...
+000:39:54 Lovell (onboard): Yes. I got it - I got - I got my - If I can get my hand down there, I got it made.
+000:40:01 Swigert (onboard): Let me know when you turn them on. I only need about 5 percent; I don't need much.
+000:40:13 Lovell (onboard): Okay. Coming On.
+000:40:17 Swigert (onboard): Good. That's good. [garble] Off.
+000:40:19 Lovell (onboard): Off.
+000:40:20 Swigert (onboard): Okay, let me look a minute, here; I have to stabilize.
+000:40:23 Haise (onboard): [Garble] up there.
+000:40:25 Swigert (onboard): Okay. About one more shot.
+000:40:27 Lovell (onboard): [Garble.]
+000:40:31 Swigert (onboard): [Garble] slowly, that really [garble].
+000:40:32 Lovell (onboard): Okay, how's that?
+000:40:33 Swigert (onboard): That's good. Off.
+000:40:35 Haise (onboard): [Garble] back down there [garble] go to Off.
+000:40:38 Swigert (onboard): It's right at 50, though; the hell with it, that's good.
+000:40:40 Lovell (onboard): Is it good?
+000:40:41 Swigert (onboard): Yes; that's about 49.9.
+000:40:45 Lovell (onboard): Okay.
+000:40:46 Swigert (onboard): It is definitely Off, right?
+000:40:47 Lovell (onboard): Yes.
+000:40:49 Swigert (onboard): ECS RAD Control; let me go to Power. Okay, PRIM Glycol To RADs out, Jim; Normal, push - Normal, push in.
+000:40:59 Lovell (onboard): Okay.
+000:41:03 Swigert (onboard): Oh, I know - Hey, how about giving me - Do I have G&N Power at 8:21?
+000:41:07 Haise (onboard): Yes, sir.
+000:41:08 Swigert (onboard): Okay.
+000:41:09 Haise (onboard): You got it.
+000:41:10 Swigert (onboard): Okay.
+GNC workstation in the Lower Equipment Bay.
+After powering up the optics, Jack will now proceed to perform the first realignment of their navigational platform. To do so, he will use program 52, hence this exercise is often called a P52. Essentially, by telling the computer where two identified stars are, the computer comes to know the orientation of the universe around the spacecraft and can therefore realign the orientation of the platform to suit. He will seek the chosen stars, line them up in his sextant, and use a button on his GNC console to mark their position. As a final check, the computer will then compare the angle between them and the expected angle stored in its memory.
+000:41:12 Haise (onboard): I'll get it ready for you [garble] stars out there.
+000:41:20 Swigert (onboard): I've got a star in the...
+000:41:22 Lovell (onboard): Sextant?
+000:41:23 Swigert (onboard): ...sextant, but I have nothing in the...
+000:41:26 Lovell (onboard): Well, it might take a while to do it with the scanning telescope, because your eyes have to get accustomed to it. It might not be where there are stars.
+000:41:36 Swigert (onboard): Well, I've got one in the - I've got one in the...
+000:41:40 Lovell (onboard): What star did you pick?
+000:41:43 Swigert (onboard): 24.
+000:41:44 Lovell (onboard): 24, that's - Gienah. Is it right on in the sextant?
+000:41:52 Swigert (onboard): [Garble.]
+000:41:54 Haise (onboard): Okay, while you got the tool and you're over there, Jim, do you think you could get the secondary Rad loop check done?
+Step 21
+This is a further check of the secondary cooling system.
+000:41:59 Lovell (onboard): Yes.
+000:42:00 Haise (onboard): That's the guy way down there, the very...
+000:42:04 Swigert (onboard): [Garble]...
+000:42:05 Lovell (onboard): We'll run through it, Jack, if you could...
+000:42:10 Swigert (onboard): [Garble.]
+000:42:14 Lovell (onboard): Mark it [garble] Okay, Glycol To Radiator, Secondary?
+000:42:18 Swigert (onboard): [Garble.]
+000:42:19 Haise (onboard): Yes, but it's to - RAD Normal. Let me know when. I'll start my watch.
+000:42:28 Swigert (onboard): Hey, there - there we go. Now I got stars. I don't think they [garble] until just now.
+000:42:34 Lovell (onboard): Okay, I'm going to take her to Normal now.
+000:42:36 Swigert (onboard): Beautiful, gang.
+000:42:37 Haise (onboard): All right.
+000:42:39 Lovell (onboard): Oh, I don't know if I did it or not.
+000:42:41 Haise (onboard): You - you turned it?
+000:42:42 Lovell (onboard): I don't think so, I think [garble] right in there.
+000:42:44 Swigert (onboard): Spica's right in there, you guys.
+000:42:48 Haise (onboard): Okay.
+000:42:50 Lovell (onboard): I - You know, I can get down there good, but I'm always on...
+000:42:54 Haise (onboard): Well, you'd know if you got the screw in the slot.
+000:42:59 Lovell (onboard): Okay, now.
+000:43:01 Haise (onboard): Okay. Starting my watch. It's on Secondary.
+000:43:03 Lovell (onboard): No, it's Normal now.
+000:43:04 Haise (onboard): Okay, you've got to leave it there for 30 seconds.
+000:43:06 Lovell (onboard): Okay. Could you tell?
+000:43:11 Haise (onboard): What's that?
+000:43:12 Lovell (onboard): Could you tell?
+000:43:13 Haise (onboard): Tell what?
+000:43:14 Lovell (onboard): That I'm in Normal?
+000:43:15 Haise (onboard): Yes.
+000:43:26 Swigert (onboard): [Garble.] Good old Antares.
+000:43:33 Haise (onboard): Okay, that's it; put it back to close or off or wherever it...
+000:43:36 Lovell (onboard): Bypass.
+000:43:37 Haise (onboard): Bypass. Good. [Garble] Bypass?
+000:43:40 Lovell (onboard): [Garble] Bypass.
+000:43:41 Swigert (onboard): Well, he didn't show anything [garble]...
+000:43:43 Lovell (onboard): Okay, how is it? Okay?
+000:43:44 Swigert (onboard): Yes. Looks good.
+000:43:46 Haise (onboard): Okay, I'm on page 2-14; coming up to EPS monitor check...
+EPS Monitoring Check
+Haise is about to perform a quick but thorough survey of the Electric Power System, or EPS. He will get readouts from the various cryogenic hydrogen and oxygen tanks, check the fuel cells and the amperage and the voltage of the power distribution system.
+000:43:50 Lovell (onboard): Okay, just be sure you...
+000:43:51 Haise (onboard): ...EPS. Checking them off.
+000:43:53 Lovell (onboard): Check them all off, and [garble]...
+000:43:56 Haise (onboard): You got to do a GDC align...
+000:43:58 Lovell (onboard): I'll do that right now.
+000:43:59 Haise (onboard): You've got the sequence camera bracket and the ORDEAL, right?
+000:44:02 Lovell (onboard): And those are all mounted, and we're all running on...
+000:44:04 Haise (onboard): Okay, ORDEAL...
+000:44:05 Swigert (onboard): Hey, guys? Sorry.
+000:44:07 Haise (onboard): [Garble.]
+000:44:08 Lovell (onboard): Yes. Okay, better record this down [garble]...
+000:44:10 Swigert (onboard): I ain't got - I ain't going to let that pass, man...
+000:44:13 Lovell (onboard): No?
+000:44:14 Swigert (onboard): ...[garble] triangle bigger than hell.
+000:44:15 Lovell (onboard): I'll give you a gold - gold star.
+000:44:19 Haise (onboard): [Garble] got all that in your book, Jack?
+000:44:21 Swigert (onboard): Yes. I'm going to write it on a [garble] here.
+000:44:22 Haise (onboard): Okay.
+000:44:23 Lovell (onboard): I'll do a GDC align now, Fred.
+000:44:25 Haise (onboard): Okay. Now I'm here, I'm going to go ahead and [garble] the secondary loop. Okay, Secondary Loop is coming on line, gang; AC-1...
+000:44:37 Swigert (onboard): Okay. Do we have to wait for MSFN to torque this?
+MSFN is the Manned Spaceflight Network and used here in references to radio contact in general, since they are outside radio signal reach for the moment. MSFN is pronounced 'misfin' by the crew.
+000:44:40 Haise (onboard): That's that little extra whining you hear, and it's the Secondary Loop.
+000:44:43 Lovell (onboard): Okay.
+000:44:46 Haise (onboard): Okay. [Garble] go to the [garble].
+000:44:49 Lovell (onboard): I can see the sludges in the [garble] burn.
+000:44:53 Haise (onboard): Yes.
+000:44:56 Swigert (onboard): Damn! Sort of lost him.
+000:45:01 Haise (onboard): Okay. So that one is done, done...
+000:45:04 Swigert (onboard): Okay...
+000:45:05 Haise (onboard): ...done, done, done to there...
+000:45:06 Swigert (onboard): Jim?
+000:45:07 Lovell (onboard): Stand by.
+000:45:08 Swigert (onboard): Do I need a - to get MSFN? I don't need them to torque here, do I?
+000:45:13 Lovell (onboard): I don't think so - Wait - Where are the torquing angles [garble]?
+000:45:16 Swigert (onboard): I've got the torqueing angles; let's see - [garble] - and it's 0.162 which is quite a bit less than - [garbled]
+000:45:40 Haise (onboard): Okay, Jack, did you ever get my Main B breaker in down there?
+000:45:44 Swigert (onboard): Yes, I did, in your COAS?
+000:45:45 Haise (onboard): Yes.
+000:45:46 Swigert (onboard): Main B? I did.
+000:45:47 Haise (onboard): Yes. That's right.
+000:45:48 Swigert (onboard): That's done.
+000:45:49 Haise (onboard): And - let me verify that the RADs and REACS CB sticks are out, and - off.
+000:45:53 Swigert (onboard): Okay. [Garble.]
+000:45:56 Haise (onboard): Okay. I'll verify the Main Bus Ties are Off...
+000:45:59 Lovell (onboard): GDC's aligned. 46 now. How we doing on the time line, Fred?
+000:46:06 Haise (onboard): Let's see, we're not - we're coming up 6 minutes - What we got to do is get the cameras ... get the TV camera out next. We're about fixed.
+000:46:18 Lovell (onboard): Okay.
+000:46:19 Haise (onboard): 01:05 is when I got to start playing with the TV.
+000:46:22 Lovell (onboard): Okay.
+000:46:23 Haise (onboard): After we get our HSK LOS.
+000:46:26 Swigert (onboard): [Garble.]
+000:46:28 Lovell (onboard): If you have time, I would suggest that you adjust your straps and strap it in again for TLI ... just to make sure you got them okay.
+000:46:40 Haise (onboard): Okay. Still pressing on in here, and Jack's got to do that [garble]; I'll circle it.
+000:46:47 Swigert (onboard): Okay, what do you have to do?
+000:46:48 Haise (onboard): The RADs and REAC breakers, six of them, out [garble].
+000:46:55 Swigert (onboard): Rad, Reac, Reac, Reac - Okay, I can verify three Rads and three Reacs out.
+000:47:03 Haise (onboard): Okay, good show.
+000:47:17 Haise (onboard): Main A-1 - Main A-2...
+000:47:34 Haise (onboard): Okay. Bus voltage [garble].
+000:47:43 Lovell (onboard): And, Jack, you want to put tool E down there on the handhold - toward the handhold?
+000:47:47 Haise (onboard): Yes. I haven't got [garble].
+000:47:50 Swigert (onboard): Yes. I think I can get closer than that and [garble].
+000:47:53 Lovell (onboard): Yes, that's right [garble].
+000:47:56 Haise (onboard): Okay.
+000:47:59 Lovell (onboard): Okay, I've got the horizon out there and I've got the airglow layer [garble].
+000:48:12 Haise (onboard): Okay, and we got the relay bus selected [garble] - I got to get this TSB [garble]. Okay, item 15's done. And that makes one outstanding item, and I've got a couple from a few pages back.
+000:48:31 Lovell (onboard): Okay.
+000:48:32 Haise (onboard): Right there. Unstow and mount TSBs - they're in A-1. [Garble] down below. Hey, where do these - these guys go? They go right in the pocket of this L-shaped bag, don't they?
+000:48:47 Swigert (onboard): [Garble] water wings.
+000:48:51 Lovell (onboard): I thought they went right behind you.
+000:48:53 Haise (onboard): Right there - Yes.
+000:48:54 Lovell (onboard): Oh, yes. [Garble] pockets.
+000:48:59 Haise (onboard): Okay. I'm up the [garble] monitor - [garble] look good - H2 flow - [garble].
+000:49:20 Lovell (onboard): I got it.
+000:49:26 Lovell (onboard): Okay, I ought to be getting down there - [garble]. How you doing, Jack?
+000:49:34 Swigert (onboard): Good. Hey, how about that - Do you need - that Secondary RAD valve?
+000:49:42 Swigert (onboard): You got it already; okay.
+000:49:43 Lovell (onboard): We got the secondary - we made the secondary check; the filters finally came out a little bit...
+000:49:46 Haise (onboard): You did the [garble].
+000:49:48 Lovell (onboard): ...and the ORDEAL's already out; the COAS is...
+000:49:50 Swigert (onboard): You got it running?
+000:49:51 Lovell (onboard): ...[garble] little COAS [garble].
+000:49:55 Swigert (onboard): Hey, Freddo? [Garble] that TSB. Okay?
+000:49:58 Haise (onboard): [Garble.] We're going to need it.
+000:50:02 Lovell (onboard): [Garble] a big one. Let's see; where did we stow TSBs? We want to [garble]
+000:50:11 Haise (onboard): Here it is.
+000:50:17 Lovell (onboard): Jack, whenever you get time, if you - want to slow down a little bit, well, just come back and we'll take these lifevests off and get this stowed out of the way.
+000:50:26 Swigert (onboard): Okay. I'll be ready to do it whenever you...
+000:50:46 Lovell (onboard): Once you get one of them in...
+000:50:53 Haise (onboard): How you doing, Jack? [Garble] all right down there?
+000:50:56 Swigert (onboard): Oh, yes. No problems yet. [Garble] kind of worried [garble] 12.1 down [garble].
+000:50:00 Swigert (onboard): Jim, do you need a TSB?
+000:51:07 Lovell (onboard): Well, I wouldn't worry about it now. [Garble] go down yet. You're not getting those breakers; that's what you're forgetting.
+000:51:16 Haise (onboard): The - Okay, now where - those - you want those where?
+000:51:20 Swigert (onboard): In front of the L-shaped bag, isn't it?
+000:51:21 Lovell (onboard): In front of the L-shaped bag is - Why don't you go down there and help him?
+000:51:25 Haise (onboard): Wait a minute, Jack; you don't go - I don't think you go that way to get through.
+000:51:28 Lovell (onboard): I think you come right down here, Jack, but - Yes, there is - there's a [garble]...
+000:51:31 Swigert (onboard): Yes, but that's a long, long way to go.
+000:51:32 Lovell (onboard): ...there's a [garble].
+000:51:34 Haise (onboard): Okay, you do that - and I'm going to get the Hasselblad out for - this.
+000:51:38 Lovell (onboard): Okay, now, if my - my hand controller is locked and yours is locked - I'll tell you what, if you can help me scootch over here a second...
+000:51:45 Haise (onboard): Yes.
+000:51:47 Lovell (onboard): ...I'll try and...
+000:51:49 Haise (onboard): Okay, I'll put my [garble], Jim.
+000:51:51 Lovell (onboard): Okay. Okay.
+000:51:54 Swigert (onboard): Okay, I want to go back and see what - I've got to get the TV camera and the Hasselblad out, and...
+Steps 22 and 23 of the Checklist.
+To prepare to capture their upcoming docking maneuver as well as anything else they might find interesting, they are to take out three cameras. These are the 16mm Maurer 'DAC' movie camera, the 80mm Hasselblad Electric still camera, as well as the TV camera. DAC stands for Data Acquisition Camera, a telling acronym that suggests at the pure engineering mentality of NASA. They weren't taking movies for fun. This was to help engineers study aspects of the mission. Nevertheless, the films they took are often wonderful cinematic experiences and have gone down in history.
+000:52:00 Haise (onboard): I think we ought to be having AOS, gang; we've got...
+000:52:02 Lovell (onboard): 56 seconds.
+000:52:04 Haise (onboard): Okay. I - Let me call them.
+000:52:11 Haise (onboard): Look at me, Jack; I show gain.
+000:52:13 Swigert (onboard): You show gain?
+000:52:14 Haise (onboard): Yes.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop.
+This is Mission Control, Houston at 52 minutes. We're standing by now for Acquisition Of Signal and our Network controller reports we've just reacquired the spacecraft over the Carnarvon station.
+Carnarvon station is on the western side of Australia.
+000:52:16 Swigert: Houston, how do you read 13?
+000:52:20 Kerwin: 13, Houston. Loud and clear.
+000:52:23 Swigert: Okay, Joe. Everything is going good. We're proceeding on the time line in good fashion. I've got a P52 done. I can give you the torqueing angles.
+000:52:33 Kerwin: I'm ready for them, Jack.
+000:52:35 Swigert: Okay. Used Noun 26 - stars 26 and 33. The star angle difference was all balls. Noun 93: minus 067, minus all balls, plus 0.162. The time of torqueing was 45 minutes, 35 seconds.
+000:52:59 Kerwin: Ah, well, that sounds marginally acceptable.
+000:53:04 Swigert: For a new CMP, it ain't too bad.
+000:53:05 Kerwin: Yeah. Okay, 13. We've got nothing for you at the moment. Everything's looking good. We're looking at your data now.
+Long comm break.
+Diagram view of the Inertial Measurement Unit
+The heart of the guidance system is the Inertial Measurement Unit. Three gyroscopes detect any change in their attitude, while associated accelerometers detect changes in velocity. The computer can use this information to calculate their position in space with great accuracy provided it has a known starting point. Control electronics are used to translate the attitude data for display at the 8-ball FDAIs on the Main Display Console (MDC).
+Of course, for the IMU to be of any use, its attitude data has to be referenced to something - otherwise none of its information will make any sense. Although the guidance system is based on the use of a defined three-dimensional coordinate system, this is of little use for the practical handling of the spacecraft. What they need is for the IMU to measure their attitude relative to some useful reference frame, and for the moment this is the orientation of the launch site in Florida at the moment of launch. Other references will be used as required throughout the mission. These references - or REFSMMATs - will be elaborated on later once the time comes to change the one being used.
+This is Jack's first realignment of the guidance platform in the flight. As a reference, he sighted on star 26 Spica (Alpha Virginis) and star 33 Antares (Alpha Scorpii). As a check of his sighting accuracy, the computer compared the measured angle between these stars and the actual angle. The difference between them showed '00000' or 'all balls' on the display, indicating he had marked on them very accurately - hence the gentle ribbing from Kerwin. Finally, the computer displayed Noun 93, the angles by which the gimbals would be rotated or 'torqued' to restore perfect alignment. These were -0.067° in X, 0° in Y and +0.162° in Z. The platform was torqued at 000:45:35.
+A P52 box from the Flight Plan, annotated with data for the first realignment.
+The Flight Plan has a pre-printed P52 box for each of the normally scheduled IMU realignments. It serves both as a useful scratch pad for the CMP to write the information in, as well as for notekeeping for reading up to Mission Control and for post-mission debriefing.
+000:54:35 Haise (onboard): How you doing?
+000:54:36 Lovell (onboard): I got [garble]. You got to get it when you're going by.
+000:54:39 Haise (onboard): Okay.
+000:54:40 Swigert (onboard): Yes, I've got - got it in my helmet bag right now.
+000:54:43 Lovell (onboard): Oh, okay, good.
+000:54:49 Swigert (onboard): Boy, I'll tell you, that really bothers me [garble].
+000:54:54 Lovell (onboard): Does it [garble]? Did you put it over far enough?
+000:54:57 Swigert (onboard): Yes, that's where it went - when [garble] It's looking good [garble], and I don't think they jettison until [garble].
+000:55:05 Lovell (onboard): Oh.
+000:55:08 Swigert (onboard): Okay. Now I've got to get the TV camera [garble], Freddo...
+000:55:11 Lovell (onboard): Okay.
+000:55:12 Swigert (onboard): ...[garble].
+000:55:13 Lovell (onboard): You want to hand me that book, and I'll take a look in it.
+000:55:15 Swigert (onboard): Yes. And also see if I've - all the things that I've done, [garble], because I haven't checked them off a couple of places.
+000:55:29 Swigert (onboard): Hey, Fred, what do you want first, TV camera?
+000:55:32 Haise (onboard): Yes. Just one more - Let me get through one more - system.
+000:55:39 Swigert (onboard): That's off. That [garble] right down [garble] on the bulkhead.
+000:55:43 Haise (onboard): You get done, you're hooking up the cable. You got to do that part, though. We can't [garble] right there.
+000:55:48 Swigert (onboard): All right. And I'll verify the CB power is off...
+000:55:50 Haise (onboard): [Garble] off.
+000:55:53 Lovell (onboard): I'm going to go back into the - [garble], Jack; and look at [garble].
+000:55:59 Swigert (onboard): Okay.
+000:56:00 Lovell (onboard): [Garble.]
+000:56:02 Swigert (onboard): Freddo, you - How about a bracket?
+000:56:04 Haise (onboard): Well.
+000:56:11 Swigert (onboard): Okay, that's [garble].
+Your browser does not support the audio element. Download MP3 audio file. PAO loop.
+This is Mission Control at 57 minutes, 15 seconds. Not much conversation with the crew on this pass over the Carnarvon tracking station. Jack Swigert reported that the platform had been aligned as called for in the Flight Plan. There's not a great deal of activity scheduled in the Flight Plan at this time. Flight Director Milton Windler has checked the status with his flight controllers and CapCom Joe Kerwin will be passing that up to the crew shortly.
+000:58:10 Kerwin: Apollo 13, Houston. LOS Carnarvon in about 30 seconds. Honeysuckle on the hour, and verify your S-band is up for Honeysuckle. Over.
+000:58:21 Haise: That's verified.
+000:58:23 Kerwin: Roger.
+000:58:24 Lovell: And, Houston, we're beginning to see a beautiful sunrise here.
+000:58:29 Kerwin: Roger that, Jim.
+Comm break.
+We've had Loss Of Signal now with the spacecraft through Carnarvon. Apollo 13 will be coming within range of the tracking antennas at the Honeysuckle Creek, Australia station in less then a minute. We'll stand by for reacquiring.
+And at 1 hour, 10 minutes into the flight of Apollo 13, we should be reacquiring radio contact with the spacecraft through Honeysuckle Creek momentarily. Recapping briefly the situation during the launch: We had a normal first stage burn. The second stage ignition was normal up through 5 minutes and 30 seconds at which time the inboard engine, engine No.5 shut down early. The center engine had been scheduled to shut down at about 7 minutes, 44 seconds Ground Elapsed Time. The cut-off on the second stage was at about 9 minutes, 48 seconds - about 30 seconds early, and the total excess burn time on the third stage was about 10 seconds. CapCom Joe Kerwin has just put in a call to the crew. We've had Acquisition Of Signal. We'll stand by for conversation with the spacecraft.
+Honeysuckle station is on the eastern side of Australia. It is also one of the Deep Space Network stations that will be used to maintain contact throughout the mission.
+001:00:51 Kerwin: 13, Houston through Honeysuckle. [Long pause.]
+001:01:10 Kerwin: Apollo 13, Houston through Honeysuckle.
+001:01:15 Lovell: Roger, Houston; 13 here. Reading you loud and clear.
+001:01:19 Kerwin: Okay. S-band sounds good, Jim.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop.
+001:03:21 Haise: [Very weak.] Ah, Houston, 13.
+001:03:24 Kerwin: Go ahead, 13.
+001:03:26 Haise: Would it be okay if I crank up the FM [garble]?
+001:03:37 Kerwin: You're coming in weak. I didn't quite copy it.
+001:03:42 Haise: Would it be okay, Joe, if we crank up the FM after we leave Honeysuckle here?
+FM refers to frequency modulation, the manner of transmitting the television signal.
+001:03:47 Kerwin: Oh. Stand by on that one. [Long pause.]
+001:04:43 Kerwin: 13, Houston.
+001:04:46 Lovell: Go ahead, Houston.
+001:04:48 Kerwin: What TV was that? [Pause.] Okay, 13...
+001:04:55 Haise: Okay, Joe. I just wanted to put on the TV switch at Honeysuckle to tune her up there.
+001:05:01 Kerwin: Roger. I'm being prompted, and you've got a Go for that. You can turn it on, go to TV, and we'll see you that way over the States.
+001:05:10 Haise: Okay. [Long pause.]
+001:05:18 Lovell (onboard): Fred, I'll read the PADs, or you read the PADs, or somebody read the PADs.
+001:05:22 Swigert (onboard): Hey, can I get a - a TV [garble]?
+001:05:29 Haise (onboard): Oh, yes, Jack. LOS Carnarvon.
+001:05:35 Lovell (onboard): Okay. 1:45, 75 [garble] LOS at - [garble].
+001:05:36 Kerwin: Okay. 13, Houston. LOS Honeysuckle in about 30 seconds, and we'll see you over the States at 1 plus 28 plus 43. [Long pause.]
+001:05:51 Lovell (onboard): Okay, coming up. [garble].
+001:05:57 Kerwin: 13, Houston. Did you copy your AOS time?
+They slip past the coverage of the Honeysuckle station. There is no comm coverage on the Pacific for this orbit.
+Very long comm break.
+001:06:07 Lovell (onboard): Fred, I'll get them when we get all relaxed. I'll do that [garble].
+001:06:14 Swigert (onboard): [Garble.]
+001:06:20 Lovell (onboard): Hey, Jack, [garble].
+001:06:25 Haise (onboard): [Garble.]
+001:06:33 Swigert (onboard): Yes, I can - yes, I can do it, Freddo. [garble].
+We've had Loss Of Signal now from the spacecraft. At last look, everything appeared to be normal with the spacecraft and the launch vehicle. We currently show an orbit of 103.2 nautical miles - actually, a correction on that, 102.6 by 106.3 [nautical miles, 190.0 by 196.9 km] and our current altitude is 103.2 [191.1 km]. We'll be reacquiring the spacecraft over the United States at a Ground Elapsed Time of 1 minute, 28 seconds, 43 - 28 minutes, 43 seconds at which time you heard the crew advise that they will be configured for the TV transmission, which is scheduled to occur at about 1 minute - 1 hour, 36 minutes over the MILA station. The Post Launch Press Conference is scheduled to begin shortly at Cape Kennedy. At 1 hour, 7 minutes; this is Mission Control, Houston.
+Your browser does not support the audio element. Download MP3 audio file. Post launch press conference.
+Chair: Okay, we're back here at Kennedy Space Center now, and I guess we're ready to proceed. We're going to atttempt to conduct this post launch conference between communications with the spacecraft. This gives us approximately some 20 minutes. We'll do our best to try and get as many questions in in that time, but I'll be standing by for a signal also so we can go back to air-ground at the proper time so you can keep up with every phase of the mission. At this point, I'd like to introduce Mr. Walter Kapryan, Director of Launch Operations for the Kennedy Space Center and Launch Director for Apollo missions.
+Kapryan: Good afternoon ladies and gentlemen. It's a pleasure to see you on a clear day for a change. I guess there really isn't too much to report to you as far as the countdown itself is concerned. It was perfectly nominal. We had no problems whatsoever with the spacecraft, with one exception and that was in that we do have a lock to safe our pyro bus and it takes a key to remove that lock and we broke the darn key off in the lock and it took us a little while to get it out. We did have a spare key and we took that off. And that's the soil and substance of our problems with the spacecraft. At approximately 1 hour and 50 minutes before launch, we did run into a little difficulty with a LOX vent valve on the S-IC stage which we were attempting to cycle; open and close as required for the venting process, and it stuck on us in the full-open position, and we ran through a repeated number of cycles attempting to free it and for some time were unsuccessful in doing so. It caused us concern in that if we had not been able to close the vent valve, we would not have been able to pressurise the LOX tank at T minus 72 seconds. However, we did run some nitrogen gas through the system and we were able to sufficiently raise the temperature such that we were able to close the valve and we proceeded the rest of the way with that vent valve in a closed position at all times and we do have a second vent valve in the stage that we relied on to give us the correct conditions at time of stage pressurisation at T minus 72 seconds. Those two items were the soil and substance of the problems that we encountered during the entire countdown. As most of you know by this time, the first stage burn was perfectly nominal. You may have noticed that it seemed almost like an eternity before the vehicle cleared the tower. That, of course, was because this is the heaviest vehicle that we've flown. It was approximately 26,000 pounds heavier at lift-off than Apollo 12 and the S-IC engines, though they were perfectly within specification, were rated at about 100,000 pounds total thrust less than those that we had on the Apollo 12 vehicle. This made the time about one half to three quarters of a second longer in clearing the tower. All of the first stage burn, as I mentioned earlier, was perfectly nominal. The second stage burn was nominal up until the time that the S-II inboard engine cut off. That engine is normally cut off by switch selector command approximately 90 seconds before the outboard engines are cut off. For some reeason that we have not been able to determine at this time, the engine did cut itself off approximately 2 minutes earlier than planned. Now, as a result of that having happened, the outboard engines of course burned approximately a half a second [means minute] longer; they burned to fuel depletion and made up some of the energy that was lost by virtue of the inboard engine having cut off early, and when we burned the S-IVB, it burned approximately half a minute longer than originally planned in order to make up the deficiency and at the end of the first burn of the S-IVB, the deficiency was made up. Now, we had approximately 2,200-pound payload margin for this mission. We used up a little but of that margin by the fact that the engine did cut off early but we did not use up enough to - to lose any confidence in our ability to perform the TLI manoeuvre. We do still have a 3-sigma capability. So, we have no reason to suspect that we will not have a good TLI burn and fly a perfectly nominal mission from this point on. I guess that's all I have in the way of general comments. Feel free to ask any questions if you choose to.
+Chair: Hey, Dick, right down here.
+Newsman: Why did we nominally have main stage engines lower rated in thrust, if I understood you correctly?
+Kapryan: They weren't - they weren't - Well, you know, the vendor guarantees engine performance to within cer - to a certain specification. These engines did meet that specification. It just so happens they weren't quite as hot as the ones we flew on Apollo 12. There's nothing wrong with them. I don't - I don't mean to imply that. I'm just explaining to you why it took a little longer to clear the tower than it had taken on previous missions.
+Chair: Up there. Go ahead.
+Newsman: Does the longer time for the S-IVB burn affect the time lines, or...?
+Kapryan: I don't think it affects us significantly. I think we're going to be within seconds. Certainly not more than a minute or two.
+Chair: Question Anderson.
+Newsman: Do you have that total lift-off weight, since it was the heaviest, other than 26,000 more than the others?
+Kapryan: No, I don't. It was - if you recall what Apollo 12 was, add 25,600 pounds to it.
+Chair: That was about 6.4 [million pounds] but we'll check that figure for you. Al, up there. Go ahead. Okay. Go ahead. Go ahead, Reg.
+Turnill: You told us there was a 22,000-pound payload margin...
+Kapryan: 2,200-pound.
+Turnill: ...200, thanks. How much of that margin has been consumed, please?
+Kapryan: Best we can determine, we used up a significant proportion of that margin. Now, beyond that margin, we still have what we call a 3-sigma capability, so we have the full 3-sigma capability plus somewhat of a margin. Now, at the time I left the firing room, we did not have all of the numbers in yet, telling us exactly how much we had but we did - were able to establish that we still had - we did have the full 3-sigma margin. The 2,200 pounds was something that was a little bit of gravy that we had in addition to that.
+Turnill: And is it a fact that you've just got enough for TLI now?
+Kapryan: Yes. For a 3-sigma condition. In other words, for a worst-case condition. If you put all of your 3-sigma errors together, which is the basis on which we plan our missions, we have enough reserves to handle that.
+Turnill: Thank you.
+Unknown speaker: We use - we still have margin. We still do have - we have all the margin we wanted to have. We've not used up all our margin or even come close to using it up.
+Kapryan: We have our full 3-sigma margin.
+Chair: [Garble].
+Newsman: On that - on that weight again, what - where are you getting the extra 22,000 pounds? Is that fuel, and if so, located where?
+Kapryan: The - as far as the margin itself was concerned, well, we flew - we flew with some extra propellants aboard this vehicle. Part of it for the reason of flying this missions and part of it to just get a little bit of added knowledge in - as a preliminary to flying the 'J' missions which are going to be missions where we fly with heavier payloads than we've been flying to this time. So we loaded the tanks up more than was required to fly the mission.
+Chair: Go ahead, [garble].
+Newsman interjection: Does that include...
+Newsman: Do you have enough fuel left for the - to guide the S-IVB for the lunar impact?
+Kapryan: I asked that question when I left the firing room. The best answer I could get at that time was that we should not affect our capability of flying the nominal lunar impact with the S-IVB. In other words, we expect to impact the S-IVB where we planned to.
+Chair: Ed. Over here.
+Newsman: Why that's the same question I wanted to ask.
+Chair: Have any over here? Okay, any more hands? Okay, we'll take two over here and then we'll wrap it up.
+Newsman: [Garble], Mattingly was in the control room. Was there no concern about his being infectious with German Measles?
+Speaker: He was in the control room in Houston.
+Kapryan: Mattingly left the cape last night.
+Chair: I think we'd have to - We'll try to find that out for you, Ben, but I don't think we have any details. Ken Mattingly observed the launch from the Mission Control Center in Houston, not here. If you have a question, Andy, go ahead.
+Newsman: Could you give us the figures again for the additional burn of the S-II and the S-IVB?
+Kapryan: Yes, the S-II inboard engine, the center engine cut off 2 minutes and 7 seconds earlier than it was supposed to. As a result of that, the outboard engines burned 33.96, roughly 34 seconds longer than they would have had the inboard engine burned for its proper time. As far as the S-IVB is concerned, the delta in time was about the same; 33.97, roughly 34 seconds longer.
+Chair: Okay, we'll take one here.
+Newsman: One last thing about this extra fuel, Walt. Did you have extra fuel in the S-IVB by any chance, as a result of running this weight up and did that give you a little more leeway?
+Kapryan: Yes, we had some extra fuel in all three stages. We had about the same amount of LOX that we flew on Pete Conrad's mission. We had approximately 9,500 pounds more RP-1 than we had on Apollo 12, and we had more LOX and hydrogen on both the other stages. I knew those figures but I've forgotten them. I can't give them to you.
+Newsman: Did that make any difference in the 3-sigma?
+Kapryan: Well, it helped us out.
+Newsman: Okay.
+Chair: All right, we'll take one final one up here.
+Newsman: Can we have exact lift-off time please?
+Kapryan: Let me check here. Here it is. It was 600 milliseconds late. 2:13.00.6
+Chair: Okay, thank you very much. That completes the conference. We should be coming back up on acquisition in about 10 minutes.
+Kapryan: [Mumbling to PAO.] There's one thing I said that I'm not sure I knew [garble] what it does to the time line...
+Your browser does not support the audio element. Download MP3 audio file. PAO loop.
+This is Apollo Control at 1 hour, 28 minutes. We'll be re-establishing radio communications with Apollo 13 in about 40 seconds as the spaceship comes within range of the Guaymas, Mexico tracking station. During the launch phase, the medic reports the following heart rates. These are maximum heart rates for the three crewmen. Commander Jim Lovell had a maximum heart rate during the launch of 116; the Command Module Pilot Jack Swigert had a maximum heart rate of 102; and the Lunar Module Pilot Fred Haise also had a maximum heart rate of 102.
+001:28:40 Kerwin: Apollo 13, Houston through Guaymas. Over. [No Answer.]
+CapCom Joe Kerwin has just put in a call to the crew through Guaymas. We'll stand by.
+Guaymas station is in Mexico.
+001:29:31 Kerwin: Apollo 13, Houston through Guaymas. Over. [No Answer.]
+001:29:55 Kerwin: Apollo 13, Houston. [No Answer.]
+001:30:28 Kerwin: Apollo 13, Houston. Over. [No Answer.]
+001:30:48 Kerwin: Apollo 13, Houston. Over. [No Answer.]
+001:31:07 Kerwin: Apollo 13, Houston. Over.
+001:31:09 Swigert: Go ahead.
+001:31:10 Kerwin: Hello there. We thought you were still up there.
+001:31:13 Swigert: And we're just coming up on Baja, and I've got the TV on. Do you want it?
+They are above California and Baja California now.
+001:31:18 Kerwin: I don't think we require it just yet, Jack, but we'll command it when we're ready. I believe they are dumping the tape now. The booster looks good. The spacecraft looks good on the few minutes' data we've had.
+The onboard tape recorder - or DSE - can be remotely controlled by the ground to have its stored data transmitted to Mission Control. Right now they want to do so to check the readings from the onboard telemetry from the time they've spent outside instantaneous radio contact.
+001:31:31 Swigert: That sounds good.
+001:31:40 Swigert: Jim finally let me look out.
+001:31:41 Kerwin: (Laughter) How do you like it? [Pause.]
+001:31:52 Swigert: Chained me to the LEB down there stowing things and unstowing things, and I finally got a chance to look out and see the world. [Long pause.]
+That was Jack Swigert reporting, apparently his first view out the windows.
+001:32:16 Kerwin: Apollo 13, Houston. I have the TLI plus 90, and lift-off plus 8 PADs whenever you're ready. [Long pause.]
+What Kerwin is about to read to the crew is a list of numbers known as Pre-Advisory Data, or just a PAD. The intention is to pass on important data that may be required in the future and to so in a slow and deliberate manner. Kerwin reads from a piece of paper that has been pre-formatted and the crew write the numbers onto forms laid out in an identical fashion. Once complete, the data is read back to Mission Control so that multiple flight controllers can check that the information has been accurately passed on. It is a very low tech way to transfer critical information and it illustrates an interesting aspect of an Apollo flight. While it would have been possible to have arranged a digital uplink for this data, the design of Apollo's systems was just too early for such technology to have been implemented well. However, it is not important that the data is relayed digitally, just that it is relayed accurately. In this era of analogue aviation, pilots were accustomed to using voice to pass data. For a programme developed at speed during the 1960s, Apollo didn't have to be high tech, it just had to work.
+Pre-prepared table for filling in the TLI plus 90 PAD, from Launch Checklist.
+001:32:35 Swigert: Okay. Go ahead with the TLI PAD, Joe.
+001:32:41 Kerwin: Okay. This is the TLI plus 90 PAD. SPS/G&N, 63825, minus 1.54, plus 1.32, 004:06:45.53, minus 0491.7, plus 0000.1, plus 6634.0, 180, 228, 001; HA is N/A; HP is plus 0017.9; 6652.2, 7:37, 6626.5, 26, 155.4, 15.7. Boresight star is Zeta Sagittarii; up, 08.0; right, 2.1; minus 22.81, minus 025.00, 1140.7, 34087, 013:32:14. Set stars; Arcturus, Denebola; roll, 044; pitch, 012; yaw, 025; no ullage. Over.
+The PAD is interpreted as follows:
+Purpose: This PAD provides the details of a long burn of the SPS engine that would occur about 90 minutes after TLI in case Apollo 13 needs to make an emergency return to Earth soon after heading for the Moon.
+Systems: The burn would be made using the large SPS engine at the rear of the Service Module, under the control of the Primary Guidance and Navigation System.
+CSM Weight (Noun 47): 63,825 pounds (28,951 kg).
+Pitch and yaw trim (Noun 48): -1.54° and +1.32°. These angles represent an initial direction for the gimbal-mounted engine. As the burn progresses, the nozzle will be slowly steered to track shifts in the stack's centre of mass.
+Time of ignition (Noun 33): 4 hours, 6 minutes, 45.53 seconds.
+Change in velocity (Noun 81), fps (m/s): x, -491.7 (-149.9); y, +0.1 (+0.03); z, +6,634.0 (+2,022.0). The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).
+Spacecraft attitude: Roll, 180°; Pitch, 228°; Yaw, 1°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable.
+HP, expected perigee of resulting orbit (Noun 44): 17.9 nautical miles (33.2 km). The perigee distance is so low, it intersects Earth's atmosphere. What this really means is that the spacecraft will re-enter.
+Delta-VT: 6,652.2 fps (2,027.6 m/s). This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 7 minutes, 37 seconds.
+Delta-VC: 6,626.5 fps (2,019.8 m/s). Using its ability to independently measure acceleration, the EMS can shut down the engine in case the G&N system fails to do so. This figure, Delta-VC, is slightly lower than Delta-VT because the EMS does not take account of the engine's tail-off thrust.
+Sextant star: Star 26 (Spica, Alpha Virginis) visible in sextant when shaft and trunnion angles are 155.4° and 15.7° respectively. This is part of an attitude check.
+Boresight star: Zeta Sagittarii is visible through the COAS (Crew Optical Alignment Sight) when the instrument is mounted in a window at an angle of 8.0° up and 2.1° right. This is a second attitude check.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined somewhat arbitarily as being 400,000 feet (121.92 km) altitude. Another important point is when atmospheric drag on the spacecraft imparts a deceleration of 0.05g.
+Expected splashdown point (Noun 61): 22.81° south, 25.0° west; in the South Atlantic Ocean.
+Range to go at the 0.05 g event: 1,140.7 nautical miles (2,112.6 km). To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel after reaching a deceleration of 0.05g. This would be decremented later based on the deceleration sensed by the EMS' own accelerometer.
+Expected velocity at the 0.05 g event: 34,087 fps (10,390 m/s). This is their inertial velocity when the EMS is started by the 0.05 g event. Both the Range-to-go and this velocity are entered into the EMS digital displays as a starting point.
+Time of of 0.05 g event: 13 hours, 32 minutes, 14 seconds GET. This is the predicted time at which the computer would begin to run the re-entry software, triggered by reaching 0.05 g.
+GDC Align stars: The stars to be used for GDC Align purposes are Arcturus and Denebola. When these two stars are viewed through the telescope in the correct manner, the spacecraft's attitude will be: roll, 44°; pitch, 12°; yaw, 25°.
+The one additional note in the PAD is that there would be no need to perform an ullage burn to settle the contents of the SPS tanks because they are full.
+Translunar abort geometry.
+001:34:41 Swigert: Joe, we had a dropout of signal there about midway or about a fifth of the start of your PAD, and Fred didn't get it. We'd like you to start over again. Could you please?
+001:34:52 Kerwin: Sure thing. You want the whole thing?
+001:34:54 Swigert: Yes, I think you'd better.
+001:34:56 Kerwin: Okay. TLI plus 90: SPS/G&N, 63825, minus 1.54, plus 1.32, 004:06:45.53, minus 0491.7, plus 0000.1, plus 6634.0, 180, 228, 001; N/A; plus 0017.9, 6652.2, 7:37, 6626.5, 26, 155.4, 15.7; Zeta Sagittarii; up, 08.0; right 2.1; minus 22.81, minus 025.00, 1140.7, 34087, 013:32:14. Set stars: Arcturus, Denebola; roll, 044; pitch, 012; yaw, 025; no ullage. Over.
+001:36:47 Haise: Okay, Joe. That's 63825, minus 1.54, plus 1.32, 004:06:45.53...
+001:37:02 Kerwin: Fred, Houston. Stand by 1.
+001:37:04 Haise: ...minus 0491.7, plus 0000.1, plus 6634.0.
+001:37:12 Kerwin: Fred, Houston. Over.
+001:37:13 Haise: Go ahead.
+001:37:15 Kerwin: That's correct. We'd like you to go the S-Band Aux TV switch to TV, please.
+001:37:22 Haise: Okay. It's set to TV.
+001:37:23 Kerwin: Okay. We're not getting a signal.
+001:37:25 Swigert: Okay. I'll go to Transmit, Joe.
+001:37:26 Kerwin: Okay. You can continue reading back.
+001:37:31 Haise: Okay. Roll, 180; pitch, 228; yaw, 001; N/A; plus 0017.9, 6652.2, 7:37, 6626.5 and I missed sextant shaft; - trunnion - trunnion, 15.7, Zeta Sagittarius, up, 08.0; roll 2.1; minus 22.81, minus 00 - correction, minus 025.00, 1140.7, 34087, 013:32:14. Set stars: Arcturus and Denebola; roll align, 044; pitch, 012; yaw, 025; no ullage.
+001:38:31 Kerwin: Roger, Fred. Readback correct. The sextant star is 26, and the shaft is 15.54. Over.
+001:38:42 Haise: Okay. Sextant star 26 and 15.54.
+First TV image from Apollo 13 orbiting the Earth.
+Lovell, from 1970 Technical debrief: "I noticed no communications problems. Did you?"
+Swigert, from 1970 Technical debrief: "None."
+Haise, from 1970 Technical debrief: "Under that heading, I guess, our proposed TV show was a complete bust. The whole Gulf Coast was cloudy and what we had hoped to show was the nice coastline and there wasn't any to be seen."
+001:38:46 Kerwin: Roger. And we have a picture now; however, it's moving around quite a bit, if you could hold the camera a little steadier. And I have your...
+001:38:54 Haise: ...Okay, Joe. There's nothing but clouds outside, and when we get some land down there coming up, I'll switch back to the window, I thought I'd just show you Jim here, to make sure he's still here.
+001:39:08 Kerwin: Okay; real fine. We had a good picture of Jim there for a minute. I have the Lift-off plus 8 PAD, Fred. If you're ready.
+001:39:17 Haise: Go ahead, Joe.
+001:39:18 Kerwin: Okay. GETI, 008:00; Delta-VT, 7835; longitude, minus 165; GET 400K, 022:36. Over.
+001:39:41 Haise: Okay. 008:00, 7835, minus 165, 022:36.
+The Lift-off + 8 PAD carries data for P37, a program in the Command Module Computer that will calculate the details of a burn that will return the crew to Earth. An important condition for P37 is that the spacecraft must still be in Earth's sphere of influence, thus simplifying the calculations. The program takes the four values from the PAD; the specified time for ignition of the engine, a specified maximum change in velocity (or Delta-V), the longitude of the splashdown and the GET for the start of re-entry. These act as a set of constraints with which it calculates the desired trajectory and the details of the burn to achieve it.
+Time of ignition: 8 hours, 00 minutes.
+Delta-V: 7,835 feet per second (2,388 metres/second). This is a maximum specified value.
+Longitude of splashdown: 165° west;
+Time of Entry Interface: 22 hours, 36 minutes GET.
+001:39:49 Kerwin: Okay, then. And I have TLI PAD for you.
+001:39:54 Haise: Okay. I'm ready.
+001:39:55 Kerwin: TLI: 2:26:05, 179, 108, 000, 5:47, 10416.9, 35587, 358, 139, 320, 302, 319, 040. Ejection time, 4 plus 01 plus 00. Over. [Pause.]
+This PAD data is structurally different to other burn PADs because the maneuver is controlled by the IU on the launch vehicle and not the computer in the CM.
+The timings for events relating to the launch vehicle are controlled by a set of time bases, computer-controlled sequences, each of which is tied to a particular event. This allows complete sequences to be timed, not to the mission time but to critical events. The restart sequence for the S-IVB's single J-2 engine is part of time base 6, which itself is tied to the calculated time to head for the Moon. This itself is determined by the mechanics of their current orbit. When TB-6 begins, all subsequent events to restart the engine such as tank repressurisation, engine chilldown, ullage, etc., follow on, leading to the engine start command 9 minutes, 30 seconds later, and ignition 8 seconds after that.
+The crew also have tasks to perform in the minutes around the TLI burn and so to help coordinate everything, they will use their event timer. TB-6 will begin very near to the predicted time of 002:26:05, and this will be indicated by both the 'Uplink Activity' and 'S-II Sep' lamps coming on. The former is illuminated for ten seconds, the latter for 38 seconds. At 9 minutes to ignition, the 'S-II Sep' lamp will be extinguished and Jim will use this as a cue to start the event timer counting up, having previously set it to 51:00. This will give a visual count up to and beyond ignition to aid the crew in sequencing their final tasks before and during TLI. Items in the checklist are therefore shown with times from 51:00, through (1:)00:00 and upwards.
+TLI PAD from the Launch Checklist.
+The PAD is interpreted as follows.
+TB-6 predict light: This comes on at 002:26:05 to indicate the start of TB-6. This implies that TIG (time of ignition) will be at 002:35:43, 9 minutes and 38 seconds later. In the event, TB-6 will begin at 002:26:08.1 and ignition (the moment when the J-2's start tank is discharged) will occur at 002:35:46.4, both events a few seconds later than expected.
+Attitude for TLI: 179°, 108°, 0° in roll, pitch and yaw respectively. This attitude is stated with respect to the orientation that the guidance platform has held since launch.
+Duration of burn: 5 minutes, 47 seconds.
+Delta-VC': 10,416.9 fps will be entered into the EMS to allow the crew to monitor the velocity that remains to be added. This will be measured by the accelerometer in the EMS as it monitors the effect of the S-IVB's burn. Therefore, the crew will observe this number decrement towards zero.
+VI: Indicated velocity at engine cut-off is 35,587 fps (10,847 m/s) This they would read off the computer's numeric display.
+Separation attitude: The correct attitude for separation of the CSM from the launch vehicle is 358°, 139°, 320° in roll, pitch and yaw respectively with respect to the local vertical/local horizontal. Among the criteria for adopting this attitude is solar illumination of the LM to assist the docking procedure.
+Extraction attitude: The correct attitude for extraction of the LM from the S-IVB is 302°, 319°, 40° in roll, pitch and yaw respectively.
+Ejection time: 004:01:00, the time that the CSM and LM should be ejected from the S-IVB.
+001:40:44 Haise: Okay. TLI: 2 plus 26 plus 05, 179, 108, 000, 5 plus 47, 10416.9, 35587, 358, 139, 320, 302, 319, 040, and ejection time, 4 plus 01 plus 00.
+The purpose of the translunar injection is to perform something akin to what is known as a Hohmann transfer to get to the Moon. What this means is that they will fire the S-IVB stage in order to gain more velocity, and doing so, to raise the apogee of their orbit. The apogee is the highest point of the orbit around the Earth, while the perigee is the lowest point. Currently they are in an essentially circular orbit where both the perigee and the apogee points are close to 100 nautical miles. The point in their orbit where they burn the engine will become their perigee, and the rise in velocity will also cause their apogee to rise.
+Apollo 13's planned trajectory.
+In the case of a TLI, this engine burn to raise the apogee will turn their circular orbit into a highly elliptic one, with the new apogee beyond the orbit of the Moon. The maneuver is aimed to be in the vicinity of the Moon in approximately three days time. The Moon is currently about 40° further back in its orbit. As they close in on the Moon, the gravity of our natural satellite will influence the trajectory of the spacecraft and to pull it around the lunar far side. Should the crew do nothing, they will be thrown back towards the Earth on the so-called free return trajectory.
+001:41:18 Kerwin: Roger, Fred. Readback correct, and we're getting a nice color TV picture now. If you have any commentary to go with it. [Pause.]
+001:41:31 Swigert: Okay, Joe. I'll tell you, I'm just trying to figure out where we are here.
+001:41:40 Kerwin: That's your job, not mine.
+001:41:43 Swigert: [Garble]. You know, I've just been up out of the LEB for a short time here, and I'm trying to find out which country we're over.
+001:41:52 Lovell: I have to keep telling Jack that the blue stuff down there is water.
+001:41:56 Kerwin: I'll give you a hint. You're in the western hemisphere. [Long pause.]
+001:42:10 Swigert: Okay, Joe. It appears like that we've crossed out into the Gulf of Mexico here, and I've got a peninsula or an island that's down there. I don't know whether you can see it. [Long pause.]
+001:42:34 Kerwin: Roger, Jack. We see that. Of course, there's a lot of cloud cover and you see it more clearly than we do, but it does look like the Earth, not the Moon. [Long pause.]
+001:42:58 Kerwin: Apollo 13, Houston. We've had LOS MILA now. Thank you very much. [Long pause.]
+Off the southern coast of the United States, but we'll stay with it and perhaps we'll get a picture in a moment or so.
+001:43:48 Kerwin: Apollo 13, Houston. Request P00 and Accept for a state vector. Over.
+001:43:53 Lovell: Roger, Houston. We're in P00 and Accept.
+001:43:56 Kerwin: Okay.
+Long comm break.
+UP TLM switches on the Main Display Console. Scan via heroicrelics.org
+They need to enable Up Telemetry by choosing Accept so that Mission Control can upload new data into the computer.
+The state vector is central to the spacecraft's navigation. It is six values, all of which are pertinent to a moment in time, and they state the spacecraft's position in three-dimensional coordinates, and its velocity along the three axes of the current coordinate system. An area of the computer's memory is set aside to store the current state vector and if given access, Mission Control can upload an up-to-date version of the vector, based on the latest radio tracking results.
+Final steps of the Insertion and Systems Checklist.
+They are approaching the end of the initial checklist. Step 31 remains.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop.
+001:48:08 Kerwin: Apollo 13, Houston.
+001:48:10 Lovell: Go ahead, Houston.
+001:48:11 Kerwin: Okay. The computer is yours, Jim.
+001:48:14 Lovell: Thank you, [garble].
+001:48:16 Kerwin: And you are Go for TLI. Huntsville reports that you have a 6-second propellant pad which is 3 seconds more than a 3-sigma case; so you're good on consumables. The IU is so good that we're not going to update it. The only change we have for you is in the TLI checklist. At 57 minutes, where you slew the FDAI to 18 degrees, we recommend 20 degrees there, and we recommend that you look for 8 degrees instead of 6 degrees at ignition. The S-IVB is riding on the top of its deadband.
+Apollo 11 CMP Mike Collins wrote in his superb autobiography "Carrying the Fire" that, during his flight on Apollo 11, he felt this call to the spacecraft for TLI (Translunar Injection) was about as dramatic as asking for a second lump of sugar, that there ought to be more to this "umbilical snipping ceremony". Working as the CapCom during Apollo 8, Mike Collins was the first person to give such a clearance to Go. This is Jim Lovell's second TLI.
+Huntsville, Alabama is the location of the Marshall Space Flight Center. This is where Wernher von Braun and his team designed the Saturn V rocket, and would be the obvious source of calculations on the status of the S-IVB.
+3-sigma comes from statistics. Sigma is shorthand for standard deviation, a measure of the spread of a normal distribution, the distinctive bell-shaped curve that is typical when probabilities are measured. 1 sigma on either side of the centre of the curve encompasses about 70 per cent of all outcomes while 2 sigma accounts for 95 per cent. Plus and minus 3 sigma is right on the edge of the curve and encompasses 99.6 per cent of the total probability. 3 sigma is treated as a worst case if all the uncertainties (e.g. propellant load, engine performance, mass estimations) go against them and Kerwin is informing the crew that they have enough propellant to cope with that unlikely event.
+001:48:56 Lovell: Understand; and just out of curiosity, was that engine-out to use up more S-IVB fuel?
+001:49:03 Kerwin: The engine-out did cause you to use more S-IVB fuel - about a 10-second-longer burn; but you're still Go.
+001:49:12 Lovell: Okay. Thank you. [Pause.]
+001:49:21 Kerwin: And, 13, Houston. We're ready to support pyro arm and docking probe extension whenever you're ready. [Pause.]
+001:49:36 Lovell: Okay, Houston. Docking probe has been extended and all indications are nominal. We're down to Pyro Arm now and we're getting ready.
+Step 28 - Docking Probe Extend
+A diagram view of the Docking Probe
+The probe is a contraption that sits inside the docking tunnel at the nose of the spacecraft. Placing the switch to Extend pushes the tip of the probe forward. Latches on the bulbous tip will fit into a hole at the centre of a conical drogue in the recipient side on the Lunar Module. The probe will provide initial capture between two spacecraft, giving safety separation so that they won't simply bump onto each other, and the probes mechanism will also be used to pull them together and align the docking ring system for the 'hard' docking with mechanical latches.
+001:49:47 Kerwin: Okay, Jim. [Pause.]
+001:49:58 Lovell: Okay, Houston. My circuit breaker's armed - or closed; Sequential Logic, two, on and up and we're standing by [garble].
+001:50:06 Kerwin: Okay, 13. You're Go for pyro arm. [Long pause.]
+We've Loss Of Signal now with the spacecraft through the Vanguard Tracking Ship; we'll be reacquiring at Canary Islands in just a few minutes.
+001:50:40 Lovell: And, Houston, 13. Were you reading us?
+001:50:43 Kerwin: Roger, 13. Go ahead.
+001:50:47 Lovell: Roger. We have our Sequential Arm circuit breakers in and our Sequential Logic, two, on and up and we are just standing by for your confirmation for a Go.
+001:50:56 Kerwin: Sorry, 13. You didn't copy. You are Go for pyro arm. Over.
+001:51:00 Lovell: Okay; fine. Thank you.
+This is step 31 of the Insertion and Systems Checklist, and the very final entry on it. From now on, they will go to the TLI Preparation Checklist for their procedures.
+Sequential Events Control System switches on the left hand panel in the CM. Scan via heroicrelics.org
+For practically every crucial part of the mission, some of the onboard functions are commanded automatically by a set of electronics boxes which form the Sequential Events Control System, or SECS. These events are those of utmost critical nature such as the firing of pyrotechnic devices. These sequential events often contain many things that must happen at once or in a strict order, and hence an electronic control system handles them to allow for maximum level of success. Before any of these events take place, however, the Seq Logic and Pyro Arm switches must be set to On position and their power supplies enabled from the associated circuit breakers.
+Locations of the various SECS electronics boxes in the Command Module.
+Comm break.
+001:53:21 Kerwin: Apollo 13, Houston.
+001:53:24 Lovell: Go ahead, Houston.
+001:53:26 Kerwin: About 2½ minutes to LOS, Jim, and your AOS at Carnarvon will be 2 plus 25 plus 50. Over. [Pause.]
+001:53:41 Lovell: Roger. AOS at Carnarvon 2 plus 25 plus 50.
+001:53:45 Kerwin: That's affirm.
+Comm break.
+001:55:57 Kerwin: Apollo 13, Houston. LOS in about 1 minute. At LOS we'd like Command Reset and then Normal.
+001:55:06 Lovell: Roger.
+Very long comm break.
+We've lost contact now with the spacecraft through the Canary Islands Tracking Station. We'll be reacquiring in a little less than 30 minutes, at a Ground Elapsed Time of 2 hours, 26 minutes; when the spacecraft comes within range of the tracking antennas at Carnarvon Australia. During the pass over the United States, and out over the Atlantic, CapCom Joe Kerwin gave the crew a preliminary go ahead for Translunar Injection. We have adequate propellant margins on the Saturn third stage, and despite the some 10 seconds of additional burn in getting into orbit due to the early shutdown of the second stage center engine. It is not expected that the somewhat later injection time will have any significant effect on the Flight Plan; the preliminary time for the beginning of the Translunar Injection burn is 2 hours, 35 minutes, 27 seconds. The Flight Dynamics Officer is in the process now of updating that time but we don't expect a significant change. At 1 hour, 57 minutes, 55 seconds; this is Mission Control, Houston.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop.
+This is Apollo Control at 2 hours, 25 minutes. Apollo 13 is now about 10 minutes away from the scheduled ignition of the S-IVB engine to start the spacecraft on its way to the Moon. The Flight Dynamics Officer advises that the planned time for the beginning of that burn will be 2 hours and 35 minutes, 44 seconds Ground Elapsed Time. Our network controller reports that we've just had Acquisition Of Signal with the spacecraft from Carnarvon and during this pass, flight controllers will be looking at the spacecraft and the launch vehicle - the S-IVB - one last time before Translunar Injection.
+002:25:38 Kerwin: Apollo 13, Houston through Carnarvon.
+002:25:41 Swigert: Okay, Joe. Read you loud and clear. We're sitting here monitoring time base 6. You can see countdown; we're 20 seconds away.
+002:25:49 Kerwin: Okay. We're just starting to get data, and everything still looks good to us.
+002:25:53 Swigert: Hey, Joe. At 2 hours and 12 minutes, the O2 Flow High light came on, and it's been pegged high ever since, so it's been on about 14 minutes now.
+002:26:04 Kerwin: Roger, 13. We're looking at it.
+002:26:09 Lovell: Time base 6.
+002:26:12 Kerwin: Copy. Time base 6. [Long pause.]
+The beginning of time base 6 means the start of the automatic sequence to prepare the S-IVB stage for its second burn, the Translunar Injection. The burn will take place 9 minutes, 38 seconds after the initiation of time base 6.
+Both the 'Uplink Activity' and 'S-II Sep' lamps have come on, giving a visual indication of the start of time base 6.
+To start the procedure for re-firing the stage, the H2 venting is terminated. The automatic sequence will also start up a small H2/O2 burner located on the bottom of the rocket stage, which will draw the two propellants from the main tanks. It will combust oxygen and hydrogen in a small reaction chamber, and the resulting hot gas is let out through a nozzle, which appears like a tiny rocket engine. The burner produces an insignificant amount of thrust with this gas flow, but what it produces is a lot of heat. Helium from the onboard storage sphere tanks is piped into tubing around this nozzle to heat it up, and then directed into the hydrogen and oxygen tanks to begin pressurizing them for the upcoming second engine burn.
+002:26:52 Kerwin: Okay. Apollo 13, Houston. You have a Go for all systems, and the O2 Flow High check is nominal with the Waste Tank Vent open at this time, and it's no sweat.
+002:27:05 Swigert: Okay. Just wanted you all to check it for me.
+002:27:08 Kerwin: Okay. We did.
+002:27:11 Swigert: Thank you.
+Long comm break.
+The S-IVB chilldown begins, continuing the preparations for the system to commit the engine burn that will send them to the Moon.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop.
+The crew is rather quiet at this time, preparing for that Translunar Injection burn. The burn again scheduled to begin at 2 hours, 35 minutes, 44 seconds. The predicted duration of the burn is 5 minutes, 47 seconds and we expect that the spacecraft and S-IVB will accelerate some 10,417 feet per second [3,175 m/s] as a result of that maneuver. We will not get data from the burn and we'll be out of acquisition with the spacecraft at the time the maneuver occurs. Three ARIA aircraft, Apollo Range Instrumented Aircraft, are stationed in the ground track off the coast of Australia underneath the point on Earth where the Translunar Injection burn will be occurring. They'll be recording data from it which we could play back somewhat later if necessary. The booster engineer's just reported that the S-IVB chilldown in preparation for the burn has begun.
+002:31:22 Kerwin: Apollo 13, Houston. We'll be losing data from Carnarvon in about 1 minute. We'll probably have voice through ARIA. Everything is hunky-dory, and we'll be listening for you to tell us how the burn goes.
+002:31:34 Lovell: Okay, this is 13. We're standing by, too.
+Comm break.
+We've had Loss Of Signal now through Carnarvon. And CapCom Joe Kerwin has just put on a call through one of the ARIA aircraft.
+002:33:14 Kerwin: Apollo 13, Houston through ARIA. Just a comm check. Over.
+002:33:20 Lovell: Reading you clear [garble].
+002:33:26 Kerwin: Okay, Jim. It's not the best, but we're reading you.
+002:33:30 Lovell: Roger.
+ARIA aircraft.
+The Translunar Injection burn will be performed over the Pacific Ocean. No ground tracking stations are available at the area, which would mean that the spacecraft would perform this crucial maneuver outside radio contact with Mission Control. For this purpose, aircraft flying from Australia will act as mobile radio stations to maintain contact with Apollo 13.
+Map of the land track of the Translunar Injection, from pre-mission Saturn V flight manual.
+The land track of the TLI burn is over Australia, The Coral Sea, and east of the Solomon Islands.
+Comm break.
+We expect communications will continue to be somewhat noisy during the time that conversation from the spacecraft is being relayed through the ARIA aircraft. As mentioned before, we will not see the telemetry data on the burn. We do hope to get voice reports on the progress of the maneuver from the crew. We are now just a little more than one minute away from the scheduled beginning of that burn.
+The APS thrusters on the S-IVB stage begin the ullage burn to settle the propellants for the burn.
+002:34:28 Swigert (onboard): [Garble] now?
+The O2/H2 burner is turned off. Pressurization of the propellant tanks is continued from the supply of ambient temperature helium from storage spheres on the thrust structure at the very bottom of the S-IVB stage. This ensures that the liquid oxygen and hydrogen tanks are up to nominal pressure once the burn begins.
+The placement of the ambient helium spheres at the base of the S-IVB.
+002:34:30 Haise (onboard): [Garble.]
+002:34:32 Swigert (onboard): [Garble] 59 - [garble].
+002:34:49 Lovell (onboard): What was this [garble]?
+002:34:52 Haise (onboard): [Garble.]
+002:34:58 Swigert (onboard): [Garble] and what are your FDAI angles [garble]?
+002:35:01 Lovell (onboard): [Garble.]
+002:35:03 Swigert (onboard): Okay, 59 ...[garble]?
+002:35:05 Lovell (onboard): [Garble.]
+002:35:11 Swigert (onboard): Okay, I've got 59 and 30. How's that? Okay?
+002:35:27 Swigert (onboard): [Garble] the burn, [garble].
+002:35:29 Lovell (onboard): [Garble.]
+002:35:34 Swigert (onboard): Okay. [Garble] burning, Jim.
+002:35:37 Lovell (onboard): Okay. Here, I'll get out the [garble].
+002:35:40 Swigert (onboard): [Garble.]
+The engine chilldown is terminated around this point. The supercooled propellants are allowed to run into the combustion chamber walls. The start tank of hydrogen is discharged into the turbines to spin up the turbopumps in a restart of the engine. Pressure bled from the engine assembly is routed into the oxygen and hydrogen tanks to continue pressurization.
+002:35:45 Haise (onboard): [Garble.]
+002:35:46 Swigert (onboard): Burning!
+002:35:48 Lovell (onboard): Okay. Watch that...
+002:35:51 Lovell: Ignition, Houston.
+002:35:53 Kerwin: Copy that, Jim. Good deal.
+Comm break.
+002:35:56 Swigert (onboard): Okay. [Garble] pitching her down a little bit, right here.
+Jim Lovell reports that we have ignition.
+002:36:00 Lovell (onboard): [Garble.] There you go.
+002:36:04 Swigert (onboard): [Garble.] Is that all right?
+002:36:05 Lovell (onboard): Okay, you watch the - trajectory thrust?
+002:36:09 Swigert (onboard): Yes.
+Translunar Injection Burn Monitoring Card
+As for the ascent, there is a data card for the crew to interpret the data on their DSKY display for the TLI burn as well.
+Lovell's report would indicate we had a very close to on-time ignition. A total burn duration should be about 5 minutes, 47 seconds.
+002:36:25 Swigert (onboard): [Garble] burned 14-second velocity VI and [garble].
+002:36:46 Lovell (onboard): [Garble]?
+002:36:47 Swigert (onboard): It's right on VI; we're right on VI.
+002:36:55 Lovell (onboard): Got both [garble] up?
+002:36:58 Haise (onboard): We got to leave these open.
+002:37:06 Swigert (onboard): Okay, 01:30. Three minutes and...
+002:37:07 Haise (onboard): 0.75.
+002:37:09 Swigert (onboard): [garble].
+002:37:17 Swigert (onboard): Right on - right on; [garble] little bit higher [garble].
+002:37:30 Lovell (onboard): [Garble.]
+002:37:35 Swigert (onboard): [Garble.]
+002:37:37 Lovell (onboard): Watch the [garble].
+002:37:44 Haise (onboard): Okay, Jim, it's 2 minutes [garble].
+002:37:52 Lovell: Everything's okay so far.
+002:37:56 Kerwin: Houston; Roger. [Long pause.]
+002:38:06 Swigert (onboard): Okay; we got 02:30 coming [garble], Jim?
+Jim Lovell just reported that everything looks good with that burn. We're still about 7 minutes away from reacquiring the spacecraft through the station in Hawaii at which time we'll get our first good look at the trajectory as a result of this burn.
+002:38:17 Swigert (onboard): Right on [garble]. Right on H-dot; we're right on 8.
+002:38:27 Lovell: They are off - at 38.
+Comm break.
+002:38:31 Swigert (onboard): Three minutes...
+002:38:47 Swigert (onboard): [Garble.]
+002:38:48 Lovell (onboard): All right.
+002:39:02 Swigert (onboard): 3:30, Jim. 3.4.
+002:39:06 Lovell (onboard): 3.4. Okay.
+We're now 3½ minutes into the Translunar Injection burn. Some 2 minutes, 17 seconds remaining in the maneuver which will start Apollo 13 en route to the Moon.
+002:39:17 Swigert (onboard): Okay. We're right on.
+002:39:19 Lovell (onboard): Okay. [Garble].
+002:39:27 Swigert (onboard): Okay, at 4 minutes. [Garble].
+002:39:36 Haise (onboard): [Garble]?
+002:39:38 Lovell (onboard): Okay.
+002:39:42 Lovell (onboard): Okay, we'll hold this down; we've got a little vibration.
+002:39:45 Haise (onboard): [Garble].
+002:39:47 Lovell (onboard): Yes.
+002:39:57 Lovell (onboard): No, [garble] thousand, 200 [garble].
+002:40:06 Multiple speakers (onboard): [Garble].
+002:40:07 Swigert (onboard): We're looking at 4 point [garble]...
+002:40:09 Lovell (onboard): 4 point [garble], okay.
+002:40:16 Swigert (onboard): Right on at 30. A little bit high.
+002:40:26 Lovell: And, Houston, we're noticing a little vibration during this burn.
+002:40:28 Kerwin: Houston; Roger.
+Comm break.
+002:40:37 Haise (onboard): Five minutes [garble] 4.6.
+002:40:41 Lovell (onboard): Okay.
+002:40:46 Swigert (onboard): [Garble] a hundred [garble].
+002:40:50 Lovell (onboard): Okay.
+002:40:51 Swigert (onboard): H-dot is a little high [garble].
+002:40:54 Lovell (onboard): Okay.
+002:40:59 Haise (onboard): 5:30 - 5 point - [garble] the same countdown, Jack, and then start counting up.
+002:41:06 Swigert (onboard): Okay.
+002:41:07 Haise (onboard): [Garble.]
+002:41:08 Swigert (onboard): [Garble] VI [garble].
+Now about 20 seconds away from the scheduled shutdown time. Jim Lovell reported a few moments ago that that they're experiencing a bit of vibration on the S-IVB. Previous crews have also reported similar experience toward the end of the burn.
+002:41:11 Lovell (onboard): [Garble.]
+002:41:15 Haise (onboard): Five seconds.
+002:41:16 Swigert (onboard): Five [garble], okay.
+002:41:19 Lovell (onboard): Better get [garble].
+002:41:22 Swigert (onboard): 5.0. [Garble.]
+002:41:28 Lovell (onboard): 5...
+002:41:29 Haise (onboard): 4, 3, 2, 1 - 1, 2, 3, 4...
+002:41:34 Haise (onboard): Okay.
+002:41:38 Lovell (onboard): Engine Off. [Garble].
+002:41:39 Haise (onboard): [Garble] is three-quarter overburn.
+002:41:40 Lovell: It's off. Engine off.
+002:41:42 Kerwin: Houston. Copy. Engine off. [Long pause.]
+002:41:44 Haise (onboard): Freeze the DSKY.
+002:41:45 Swigert (onboard): I did.
+The DSKY display is frozen by hitting the Verb button. This retains the latest displayed information on it. This is the first part of the post-burn checklist.
+The DSKY photographed onboard the Odyssey.
+Note how some of the writing on the most heavily used keys has worn off!
+Post-TLI checklist
+Their immediate actions after the TLI burn are mostly to record the burn information and to secure the Sequential Events Control System and the hand controllers.
+002:41:46 Haise (onboard): Okay, and now we'll [garble].
+002:41:49 Haise (onboard): Okay, Jim, it's SCS TVC Servo Power 1, Off.
+002:41:52 Lovell (onboard): It's Off.
+002:41:53 Haise (onboard): PCM Bit Rate, I got Low. EMS Mode - Wait, let Jack get it. Minus 3.0.
+The Entry Monitoring System's own display for their velocity shows they are three feet per second short.
+002:41:57 Swigert (onboard): Boy, beautiful.
+002:41:58 Haise (onboard): You got that, Jack?
+002:41:59 Swigert (onboard): Yes.
+002:42:00 Haise (onboard): EMS Mode to Standby?
+002:42:01 Swigert (onboard): [Garble.]
+002:42:03 Lovell (onboard): EMS Mode to Standby.
+002:42:04 Haise (onboard): Standby. Function, Off.
+002:42:06 Lovell (onboard): Function, Off.
+002:42:07 Haise (onboard): Sequence Pyro Arm, two, Safe.
+002:42:08 Lovell (onboard): Sequence Pyro Arm, two, Safe.
+002:42:09 Swigert (onboard): That's a [garble], too.
+002:42:12 Lovell (onboard): Okay.
+002:42:13 Haise (onboard): Okay. Sequence - FDAI 1, Inertial.
+002:42:18 Lovell (onboard): FDAI 1 going Inertial.
+Lovell turns a switch in the ORDEAL box from Orb Rate position to Inertial, hence restoring the 8-ball to display their position in relation to the inertial platform, instead of the orbital rate that they used during their orbit and the subsequent TLI burn.
+002:42:20 Haise (onboard): And lock your hand controller.
+002:42:22 Lovell (onboard): Hand controller is locked.
+They turn off the hand controllers to make sure they won't make accidental maneuvers by bumping on them.
+002:42:24 Haise (onboard): Okay, Jack, you clean up the DSKY and eventually get the P00.
+Lovell's report of engine-on came about five or six seconds after the preplanned time.
+002:42:27 Kerwin: 13, Houston. We'll have you through Hawaii in 3 minutes.
+002:42:31 Lovell: Roger. Through Hawaii in 3 minutes.
+Comm break.
+002:42:33 Haise (onboard): Okay.
+002:42:34 Swigert (onboard): Okay...
+002:42:35 Haise (onboard): So we're standing by until Jack gets through that - jazz...
+002:42:38 Lovell (onboard): How does that look, Jack?
+002:42:40 Swigert (onboard): Looks good.
+002:42:45 Haise (onboard): Okay, it's a Verb 66 Enter, Jack, after you get - after you get the P00. Wait until you get that.
+Second half of the post-TLI checklist
+Verb 66 Enter copies the Command Module's navigational state vector into a section of the erasable memory used for storing the Lunar Module's state vector. For now, they use it as space for a spare copy. They will also close the Waste Stowage Vent to secure cabin pressurization, and start setting up the High Gain Antenna they will soon need for their upcoming TV broadcast of the docking procedures.
+Our communications continuing to come to us relayed through the ARIA aircraft. CapCom Joe Kerwin advised Lovell and the Apollo 13 crew that we'll be reacquiring a little less than three minutes from now through Hawaii at which time we should get good solid S-band communications and also our first look at the trajectory of Apollo 13 following the burn.
+002:42:52 Swigert (onboard): [Garble.]
+002:42:57 Haise (onboard): Okay, now you all switch - En route, Jack, you got to do a couple of things.
+002:43:07 Lovell (onboard): In Hawaii, we'll get their [garble]...
+002:43:12 Swigert (onboard): Okay. You - let me put this - put this up under here...
+002:43:17 Haise (onboard): Okay.
+002:43:18 Lovell (onboard): And we'll have to switch comm carriers so I can take this suit stuff off.
+002:43:20 Haise (onboard): Yes. We'll have to take the suit power off.
+002:43:23 Lovell (onboard): Yes. And we'll...
+002:43:24 Haise (onboard): And what would be nice for you to do, Jack, if you can...
+002:43:27 Swigert (onboard): Okay. What do you want me to do?
+002:43:28 Haise (onboard): ... is, first of all, Waste Stowage Vent valve, Closed.
+002:43:30 Swigert (onboard): Okay. I'll do that right now.
+002:43:38 Haise (onboard): I've got the High Gain Power, Off, and I'm getting - I've got those two breakers in on 225. Waste Stowage Vent valve is Closed.
+002:43:44 Swigert (onboard): Closed.
+002:43:45 Haise (onboard): Now, get the TV camera out from under there, will you?
+002:43:47 Swigert (onboard): Okay.
+002:43:48 Haise (onboard): And I'll be dickering with that...
+002:43:51 Swigert (onboard): [Garble]...
+002:43:52 Haise (onboard): [Garble.]
+002:43:54 Swigert (onboard): TV camera's...
+002:43:57 Haise (onboard): Thank you. May as well get me the monitor and all that jazz.
+002:44:00 Swigert (onboard): I'll go do that now.
+002:44:02 Haise (onboard): And the bracket. I'll be fiddling and getting this baby ready.
+002:44:06 Swigert (onboard): One bracket.
+002:44:08 Haise (onboard): Thank you.
+Our communications is getting quite noisy at this point through the ARIA relay. Lovell's reports of ignition and engine shutdown would indicate that the burn went at least fairly close to nominal. He reported engine shutdown about six seconds following the time that the engine was scheduled to shut down. And we'll be reacquiring at Hawaii in about 45 seconds.
+We have had Acquisition Of Signal at Hawaii, we'll stand by for a call to the crew.
+002:44:27 Swigert (onboard): Okay, Freddo, now here's the monitor.
+002:44:37 Haise (onboard): Okay. Got a - Thank you. Okay. [Garble.]
+002:44:53 Haise (onboard): Okay. Okay. The [garble] are off - done.
+002:45:14 Lovell (onboard): Stand by. [Garble].
+002:45:21 Swigert (onboard): It's funny.
+002:45:25 Lovell (onboard): Okay, my Suit Power's going Off...
+002:45:29 Lovell (onboard): ...[Garble] you got comm...
+002:45:30 Kerwin: Apollo 13, Houston through Hawaii. Over.
+002:45:32 Lovell (onboard): Roger, Houston.
+002:45:34 Lovell: 13 through Hawaii. How do you read?
+002:45:38 Kerwin: 13, Houston. You're weak but clear; it'll probably get better in a second. We're standing by for the burn report.
+002:45:42 Lovell: Roger. [Long pause.]
+002:45:43 Lovell (onboard): Jack, we need the burn report just briefly.
+002:45:45 Swigert (onboard): Okay.
+002:45:46 Haise (onboard): Here, I'll get it.
+002:46:01 Kerwin: And 13, Houston. The Booster reports that everything looks good with the S-IV.
+002:46:08 Lovell: Sounds good, Houston. The ride was very nominal. We a little vibration, though, during most of the run.
+002:46:15 Kerwin: Okay. We copied your call on that, Jim.
+002:46:19 Haise: Okay, Joe. The DSKY read 35560, plus 04445, plus 01769, and Delta-VC was minus 3.0.
+Fred Haise now reads the values that were frozen on the display earlier on. Their velocity is 35,560 feet per second or 10,838.68 metres per second. The EMS counter is used to display the residual velocity that was either left to be gained, or was overshot. In this case, it was overshot by a mere 3 fps, or 1 m/s.
+Their Delta-VC displayed on the EMS' digital counter.
+002:46:37 Kerwin: Roger. You can't ask for much better than that. How about the burn time? Did you notice?
+002:46:42 Haise: Okay. On my trusty watch, I had about 3¾ seconds long.
+002:46:49 Kerwin: Okay. Copy that.
+Comm break.
+Day 1, part 1: Launch and Reaching Earth Orbit
+Journal Home Page
+Day 1, part 3: Transposition, Docking and Extraction

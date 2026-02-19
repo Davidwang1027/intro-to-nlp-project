@@ -1,0 +1,521 @@
+Apollo 11 Flight Journal - Day 4, part 4: Lunar Orbit Circularisation
+Day 4, part 3: TV from Orbit
+Journal Home Page
+Day 4, part 5: Checking Out Eagle
+Apollo 11
+Day 4, part 4: Lunar Orbit Circularisation
+Corrected Transcript and Commentary Copyright © 2009-2025 by W. David Woods, Kenneth D. MacTaggart and Frank O'Brien. All rights reserved.
+Last updated 2025-02-22
+Index to events
+Ignition for LOI-2 burn
+080:11:37 GET
+Acquisition of signal on rev-3
+080:34:38 GET
+In this chapter, Apollo 11 passes around the far side of the Moon. Midway through that pass, the SPS engine burns for 17 seconds to circularise its orbit, two revolutions after their first insertion burn.
+We pick up the flight at LOS as they approach the start of their third revolution around the Moon. The crew are going through the attitude checks to make sure that their engine is pointed in the right direction. This is achieved by sighting through their optical systems at stars.
+079:49:21 Collins (onboard): We is there.
+079:49:27 Armstrong (onboard): Okay, I think I got Denebola in sight. Let me look at the - Sure enough, I do. And it's good enough in the telescope. Let me check it through the sextant. It's even in the sextant.
+079:49:41 Collins (onboard): Beautiful! Fantastic!
+079:49:44 Aldrin (onboard): Let's burn.
+079:49:45 Armstrong (onboard): That's Manual and Zero - Zero and Manual.
+079:49:51 Collins (onboard): We done paid our debt to society. We done made a star check. 79:50...
+079:49:58 Armstrong (onboard): It used to be that you couldn't get control on LOI-2; that any burn, any attitude you made was safer than the regular attitude, but that isn't true any more.
+079:50:07 Aldrin (onboard): Yes.
+079:50:09 Collins (onboard): Okay, we got the Optics, Zero?
+079:50:14 Aldrin (onboard): Yes, I'm sure it is.
+079:50:16 Collins (onboard): And we're not going to do any Verb 41, Noun 91, any of that stuff...?
+Verb 41 means 'coarse align Coupling Data Units'. These are the interfaces between the optics and the rest of the guidance system. In short, they keep track of the angles to which the optics are aimed. Noun 91 yields the current angles for the optics.
+079:50:20 Aldrin (onboard): No [garble].
+079:50:21 Collins (onboard): ...so you can - enter on this one.
+079:50:26 Armstrong (onboard): Okay. Optics, Zero, Zero, huh?
+079:50:29 Collins (onboard): No!
+079:50:31 Armstrong (onboard): Supposed to be 0.7.
+079:50:32 Collins (onboard): Oh.
+079:50:33 Armstrong (onboard): Okay?
+079:50:35 Collins (onboard): Verb 37, Enter. 40, Enter.
+Verb 37 Noun 40 calls on the computer to run P40, the SPS thrusting program.
+079:50:46 Collins (onboard): How does that look?
+079:50:48 Armstrong (onboard): Looks beautiful. You enter on it, huh?
+079:50:51 Collins (onboard): No. Leave it there.
+079:50:52 Armstrong (onboard): Alright.
+The crew are at the top of page F5-3 of the Operations Checklist.
+079:50:56 Collins (onboard): Align spacecraft roll, GDC Align.
+There are two systems on board the spacecraft that keep track of its attitude. The primary system is the IMU or Inertial Measurement Unit. This is a gyroscopically stabilised platform and the angles of its supporting gimbals yields the current attitude. The secondary system consists of Body Mounted Attitude Gyros (BMAGs) which, rather than being mounted on gimbals, are directly fixed to the spacecraft's structure. These determine attitude by measuring the force on their mounts caused by any attitude change. As long as there is a valid starting point, they can keep track of changes through this mechanism. However, the measurement from the BMAGs is much more prone to drift than that from the IMU. A quick way to give the BMAGs and their associated electronics (the Gyro Display Couplers or GDCs) a good starting point is to send the attitude information from the IMU to the GDCs. This is achieved with the GDC Align button.
+079:51:06 Armstrong (onboard): Yes, here we go - [garble] doesn't look bad.
+079:51:10 Collins (onboard): No, I just got through aligning it a little while ago.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control, Houston; at 79 hours, 51 minutes now into the flight of Apollo 11. We're some 20 minutes away, at this time, for our time of ignition for Lunar Orbit Insertion burn number 2. This the fine-tune second burn in the series of two as we have inserted into lunar orbit. For LOI-2, the Apollo 11 will be heads down. The burn will be initiated near perilune as the spacecraft passes over the far side of the Moon. Retrograde, like LOI-1, but unlike Apollo's 8 and 10, the burn will not be targeted to place a spacecraft into a precise circular orbit. Taking what was learned on Apollo 10, this LOI-2 burn is designed to take into account predicted perturbations and gradually circularize itself. The numbers that we're looking at for LOI-2, that would be time of ignition; 80 hours, 11 minutes, 36 seconds; which should change our orbital parameters, giving us an apolune of 65.7 nautical miles [121.7 km] and a perilune of 53.7 nautical miles [99.5 km]. The Delta-V intended for this burn; 159.2 feet per second [48.5 m/s]. Burn duration; anticipated 17 seconds. That's a burn of short duration, but certainly important in that it establishes the proper orbital parameters for the events that lie ahead. As you heard in earlier conversation between our capsule communicator, Bruce McCandless and crewmembers aboard the spacecraft, we're Go for LOI-2. During this burn, we'll utilize only the Bank-A ball valve. The bank referred to here, which there are two, are mechanisms that drive the ball valves open and shut, causing fuel and oxidizer to mix for ignition. At the present time in Mission Control Center, the last reference you heard from our capsule communicator reflects that they, on their own peculiar shift schedule, are having a change of shift. Astronaut Charles Duke has arrived on the scene and we can assume will take over the responsibilities of the conversational flow with the Apollo 11 spacecraft, once we reacquire. At 79 hours, 55 minutes into the flight of Apollo 11; this is Apollo Control, Houston.
+The crew continue with the checklist for an SPS burn, using a challenge and response technique.
+079:51:42 Collins (onboard): Okay, GDC's aligned.
+079:51:46 Armstrong (onboard): Okay.
+079:51:48 Aldrin (onboard): Check the circuit breakers.
+079:51:50 Collins (onboard): Alright. I got...
+079:51:54 Aldrin (onboard): SCS circuit breakers.
+079:51:56 Collins (onboard): SCS; they're all in.
+Panel 8 is to the left of the Main Display console and populated mostly with circuit breakers. Though there are two rows of breakers for the SCS (Stabilisation and Control System), the checklist line is referring to a single breaker at the top left.
+079:51:58 Aldrin (onboard): SPS, 12, closed.
+079:52:00 Collins (onboard): SPS, 12 of them.
+These twelve SPS circuit breakers are also on panel 8, second row from the bottom. They feed power to the gauging system, the helium pressurisation valve, the engine gimbal motors and the two pilot valves that control the flow of propellant to the engine.
+079:52:02 Aldrin (onboard): Att Deadband, Minimum.
+079:52:04 Collins (onboard): Minimum.
+Deadband refers to the range of attitudes around the ideal that the spacecraft can drift through before active steps are taken to correct it. There are two settings for this: maximum is ±5° and minimum is ±0.5°. For the next series of checklist lines, Mike deals with switches on Panel 1 of the Main Display Console.
+079:52:05 Aldrin (onboard): Rate, Low?
+079:52:06 Collins (onboard): Rate, Low.
+When the RCS system does need to correct the attitude of the spacecraft, it can be set to do so at a high (7° per second) or low (0.7° per second) rate.
+079:52:07 Aldrin (onboard): Limit Cycle, On?
+079:52:08 Collins (onboard): On.
+The Limit Cycle switch enables a subtle aspect of automatic attitude control. With the switch set to On, then during active attitude correction, when the spacecraft approaches the deadband, the RCS jets are made to pulse on and off quickly rather than making long firings. This helps to reduce the overshoot effects of liquids sloshing about in the tanks.
+079:52:11 Aldrin (onboard): Man Att, three, to Rate Command.
+079:52:14 Collins (onboard): Okay, Manual Attitude, three, Rate Command. And - sunrise.
+079:52:23 Aldrin (onboard): Sunrise's going to be 52:10 - and I missed [garble].
+079:52:31 Aldrin (onboard): Man Att, three, to Rate Command, you got that?
+079:52:33 Collins (onboard): Three, Rate Command.
+Three switches, one each for roll, pitch and yaw, set the mode that the spacecraft's attitude is controlled in. The Rate Command position gives control to the SCS and allows rotation rates that are proportional to the deflection of the rotational controller.
+079:52:34 Aldrin (onboard): BMAG Mode, three of them, to Rate 2.
+079:52:35 Collins (onboard): Three to Rate 2.
+This refers to another three switches, one each for roll, pitch and yaw, which set how two sets of gyro assemblies with BMAGs control the two FDAIs (Flight Director Attitude Indicators). In this configuration the gyro assemblies will supply rate of change of attitude information.
+079:52:36 Aldrin (onboard): Rot Control Power, Direct, two of them, Off.
+079:52:38 Collins (onboard): Off - Off.
+The rotational hand controllers have two modes of operation. In Normal, they operate via the computer so that commands can be interpreted into different ways of firing the RCS thrusters. In Direct mode, the controllers directly signal the thrusters to fire. This is a mode that must be used carefully as it can cause prodigious amounts of manoeuvring fuel to be consumed.
+079:52:41 Aldrin (onboard): SCS TVC, two, to Rate Command.
+079:52:44 Collins (onboard): Two to Rate Command.
+Thrust vector control is normally handled by the Guidance and Navigation system. As a backup, Mike can fly the engine manually. In case he has to resort to it, this switch setting readies the manual control system in a rate-damped mode which is the easiest way to control the engine.
+079:52:45 Aldrin (onboard): TVC Gimbal Drive, Pitch and Yaw, Auto.
+079:52:49 Collins (onboard): Pitch and Yaw, Auto.
+At the bottom of Panel 1, two switches set how the pitch and yaw gimbals that move the engine bell are controlled. In auto, the control is automatic. However, control signals can be sent to the primary (1) or secondary (2) gimbal system.
+079:52:52 Aldrin (onboard): Okay, what time do you have?
+079:52:54 Collins (onboard): Okay, we've got - 18 minutes, roughly.
+079:53:04 Aldrin (onboard): That TVC gimbal drive's taking up the power?
+079:53:09 Collins (onboard): TVC...
+079:53:10 Aldrin (onboard): Putting out?
+079:53:11 Collins (onboard): ...Servo Power?
+079:53:12 Aldrin (onboard): No. The TVC Gimbal Drive, Pitch and Yaw, to Auto. That didn't do anything, did it?
+079:53:19 Collins (onboard): No. No, that didn't do a thing. Servo power's what takes it.
+079:53:28 Armstrong (onboard): You know not to leave them on too long.
+079:53:42 Aldrin (onboard): 19 seconds to ullage; two jets.
+079:53:45 Collins (onboard): Okay, 19 seconds, two jets.
+079:53:50 Aldrin (onboard): A valves only.
+079:53:52 Collins (onboard): Okay.
+079:54:06 Aldrin (onboard): What did you get out of P30 as far as HA and HP?
+079:54:10 Armstrong (onboard): I got the right numbers.
+079:54:12 Aldrin (onboard): 65.7, 53.7?
+079:54:16 Armstrong (onboard): You got these?
+079:54:23 Aldrin (onboard): Yes. 65.6, 54.6. [Garble] should get those up.
+079:56:21 Aldrin (onboard): Now, let's see, we can take off the 16-millimeter magazines and the 70-millimeter magazines.
+079:56:44 Collins (onboard): I've got your stopwatch.
+079:57:46 Armstrong (onboard): Okay, burn time is...
+079:57:49 Collins (onboard): Light the motor.
+079:57:50 Armstrong (onboard): ...17 and 1 second overburn, almost [garble] minutes.
+079:57:57 Collins (onboard): Do it right here.
+079:58:07 Aldrin (onboard): When's TIG?
+079:58:09 Collins (onboard): 11.
+079:58:10 Armstrong (onboard): 80:11:36.
+079:58:22 Collins (onboard): 17 seconds - 17 plus 1, huh?
+079:58:49 Aldrin (onboard): Those little - fluorescent things on there must be from the heat and transfer.
+079:58:54 Armstrong (onboard): Where are they? On the Command Module?
+079:58:56 Aldrin (onboard): No.
+079:58:57 Armstrong (onboard): On the LM?
+079:58:58 Aldrin (onboard): No.
+079:58:59 Armstrong (onboard): I don't know, but the Command Module's got about [garble].
+079:59:01 Aldrin (onboard): Little fluorescent - circles?
+079:59:04 Armstrong (onboard): There's one of them.
+079:59:07 Aldrin (onboard): There's some in a lot of failures.
+079:59:10 Collins (onboard): The only thing is all the engineering that went into those damn things, too. There's a lot of time and money down the pipe.
+079:59:15 Aldrin (onboard): I mean, this big monstrosity out here, it fails...
+079:59:17 Armstrong (onboard): Hey, we're coming up - You can see the horizon...
+079:59:38 Collins (onboard): See if that looks pretty good - through the sextant and see if that doesn't come up.
+079:59:47 Collins (onboard): Zap.
+079:59:56 Aldrin (onboard): Sure has been [garble] back here.
+080:00:05 Collins (onboard): Poor old LM is contaminated. It's got urine particles all over it. And, the way the light's shining here, they look yellow. You know, those little - I guess it probably is a little - solid now, the - everything else has boiled off and it's left a little solid.
+Flight Plan, page 3-51.
+080:00:23 Armstrong (onboard): [Garble], huh?
+080:00:26 Aldrin (onboard): [garble] solid urine particles are [garble].
+080:00:29 Armstrong (onboard): I guess.
+080:00:34 Aldrin (onboard): Wait until the back contam - forward contamination people hear about that.
+080:00:38 Armstrong (onboard): Yes.
+080:00:41 Aldrin (onboard): No more urine dumps on the way to the Moon. Put it all in a nice little bag and...
+080:00:58 Collins (onboard): You're not - you've got plenty of black and white film, don't you?
+080:01:01 Armstrong (onboard): Yes, plenty of black and white film.
+080:01:04 Aldrin (onboard): [Garble] terminator, 4.
+080:01:07 Collins (onboard): Use as much as you want of anything you want. 80 millimeter, 250, it's all good.
+080:01:20 Collins (onboard): We got 20 minutes until TIG. Oh, excuse me, 10 minutes - 10 minutes until TIG, excuse me. A little over 10. 80:11...
+080:01:31 Aldrin (onboard): Give me a call at about 7 minutes to go.
+080:01:35 Collins (onboard): Okay, right now...
+080:01:36 Collins (onboard): Mark it.
+080:01:41 Aldrin (onboard): Yes, siree! That there is rough - rough terrain.
+080:01:54 Aldrin (onboard): I've got kind of an idea that I'm going to be getting a picture of that - [garble].
+080:02:44 Aldrin (onboard): [Garble] all those characters back there.
+080:03:16 Collins (onboard): 8 minutes until TIG.
+080:03:48 Aldrin (onboard): Boy, there's a crater right in the side of the wall.
+080:03:54 Collins (onboard): It's a much bigger crater, and I'll be damned if it doesn't look like it just went in sideways.
+080:04:02 Armstrong (onboard): Okay, 7 minutes. Okay?
+080:04:13 Aldrin (onboard): [Garble] going to do it...
+080:04:18 Collins (onboard): Buzz, you want to read us that checklist? We'll use my panel chart. Which checklist would you like?
+080:04:32 Aldrin (onboard): Alright, Main Bus Ties coming On.
+080:04:34 Collins (onboard): Okay. 7 minutes...
+080:04:37 Collins (onboard): Mark.
+080:04:40 Collins (onboard): AC's On - DC's On.
+080:04:46 Aldrin (onboard): TVC Servo Power, number 1, AC 1.
+080:04:48 Collins (onboard): AC 1.
+080:04:50 Aldrin (onboard): TVC 2, AC 2.
+080:04:51 Collins (onboard): AC 2.
+Power has now been fed to the servos that operate the engine gimbals. The primary servos are fed from the primary AC bus, while the secondary servos are powered from the secondary AC bus.
+080:04:52 Aldrin (onboard): Trans Control Power, On.
+080:04:54 Collins (onboard): Translation Control Power.
+080:04:56 Aldrin (onboard): Rotation Control Power, Normal, number 2, to AC.
+080:04:58 Collins (onboard): AC.
+080:04:59 Aldrin (onboard): Rotational Hand Controller, number 2, Armed.
+080:05:01 Collins (onboard): Number 2, Armed.
+Two hand controllers need to be operational for this manoeuvre. If the automatic control of the engine gimbals fails, then Mike would use the rotational hand controller to hold the spacecraft's attitude. Also, prior to SPS ignition, a ullage burn will be carried out which is essentially a plus-X translation manoeuvre, requiring the use of the translational hand controller.
+080:05:16 Aldrin (onboard): Oh, I see those current - current [garble] went down on the fuel cells. [Garble] right down here.
+080:05:24 Collins (onboard): The batteries are carrying the...
+080:05:34 Armstrong (onboard): 6 minutes.
+The following sequence checks that the Thrust Vector Control is properly configured.
+080:05:52 Collins (onboard): About ready for a gimbal motor or two?
+080:05:55 Aldrin (onboard): Alright. Let's try - Pitch l, Yaw 1.
+080:05:58 Collins (onboard): Here comes Pitch 1...
+080:05:59 Collins (onboard): Mark it.
+080:06:00 Aldrin (onboard): Got it.
+080:06:01 Collins (onboard): Yaw 1...
+080:06:02 Collins (onboard): Mark it.
+080:06:03 Aldrin (onboard): Got it.
+080:06:04 Collins (onboard): Okay.
+Momentary switches on panel 1 activate relays that send power to the primary gimbal motors on the SPS.
+080:06:05 Aldrin (onboard): Translation Controller, clockwise.
+080:06:06 Collins (onboard): Clockwise.
+080:06:07 Aldrin (onboard): Verify no MTVC.
+080:06:11 Collins (onboard): Verified.
+With the primary gimbal motors powered, Mike turns the THC clockwise to try to control the engine's aim. If their configuration is correct, the engine should not respond to his commands as the primary gimbals are to be controlled by the G&C system and any manual control is to be via the rotational controller. Next he checks the secondary gimbal motors.
+080:06:12 Aldrin (onboard): Alright.
+080:06:14 Collins (onboard): Gimbal Motors, Pitch 2 and Yaw 2, On. Pitch 2...
+080:06:17 Collins (onboard): Mark it.
+080:06:18 Aldrin (onboard): Got it.
+080:06:19 Collins (onboard): Yaw 2...
+080:06:20 Collins (onboard): Mark it.
+080:06:21 Aldrin (onboard): Got it.
+080:06:23 Collins (onboard): Set GPI trim.
+080:06:26 Collins (onboard): Okay, what numbers do we use?
+080:06:31 Armstrong (onboard): 166 - and let me see - and minus 0.81.
+080:06:43 Collins (onboard): Plus 166 and minus 0.81?
+080:06:47 Armstrong (onboard): Yes.
+GPI is Gimbal Position Indicator, a set of dual-use gauges on panel 1. During ascent from Earth, they showed the tank pressures in the launch vehicle using the 0 to 50 scales. Now they will show the angles to which the SPS engine is being aimed using the scales that run from +4.5, through zero to -4.5.
+GPI meters and GPI trim thumbwheels aboard the Apollo 13 Command Module Odyssey.
+This photograph shows the GPI meters and the two GPI trim thumbwheels on board the Apollo 13 Command Module. The crew are setting the trim angles on the thumbwheels. These only have relevance when the crew have to manually aim the engine, which they do so for the start of the burn. This Manual TVC Mode is being tested now. The secondary motors are controlled by the Rotational Hand Controller. Mike tries moving the controller and confirms that the engine moves by watching the needles on the GPI.
+080:06:48 Collins (onboard): Verify MTVC. Okay, there's trim set...
+080:06:53 Armstrong (onboard): See if we nulled residuals and all that. [Garble]...
+080:06:55 Collins (onboard): MTVC is verified.
+080:06:58 Armstrong (onboard): ...[garble] time on it - what? Okay.
+080:07:01 Aldrin (onboard): Alright, Translation Controller, Neutral.
+080:07:04 Collins (onboard): Neutral.
+The THC was previously turned clockwise to enable the secondary TVC mode. Now that the check is complete, the THC is returned to normal.
+080:07:06 Aldrin (onboard): Verify GPI returns to zero, zero.
+080:07:08 Collins (onboard): Verified.
+They are at the top of page F5-4 in the Ops Checklist. The GPI meters should return to zero if they have the primary system under control of the G&N system, otherwise, if the SCS is in control, the trim angles would be displayed.
+080:07:09 Aldrin (onboard): ROT Control Power, number 2 - ROT Control Power, Normal, number 2, to AC/DC.
+080:07:14 Collins (onboard): AC/DC.
+080:07:15 Aldrin (onboard): Spacecraft Control, CMC, verify.
+080:07:17 Collins (onboard): CMC verified. How are the needles, Buzz? Showing up good?
+080:07:21 Aldrin (onboard): No, we don't need it yet. Alright, BMAG Mode, three of them, to Att 1/Rate 2.
+080:07:24 Collins (onboard): Att 1/Rate 2.
+080:07:26 Aldrin (onboard): Enter.
+080:07:28 Collins (onboard): Enter.
+Both sets of gyro assemblies are switched to provide attitude and rate data to the FDAIs.
+080:07:29 Aldrin (onboard): You got a 204?
+080:07:30 Collins (onboard): Yes.
+080:07:31 Aldrin (onboard): Spacecraft Control, CMC and Auto, huh?
+080:07:33 Collins (onboard): Yes.
+They verify that the spacecraft attitude is still under the control of the CMC (Command Module Computer).
+080:07:34 Aldrin (onboard): Alright.
+080:07:35 Collins (onboard): And we got 4 minutes until TIG.
+080:07:38 Armstrong (onboard): Okay, go. Up - down - zero. It really shakes. Up - down - zero.
+This is the SPS engine gimbals being tested. As the engine bell sways, the spacecraft reacts in the opposite direction.
+080:07:48 Collins (onboard): Which way's it shaking, can you tell? Pitch and yaw?
+080:07:54 Armstrong (onboard): I don't know; it goes up more on the yaw needle than the pitch needle, but I'm not sure that's indicative of anything except needle sensitivity.
+080:08:01 Collins (onboard): Okay, did it go to [garble]?
+080:08:02 Armstrong (onboard): Yes, it did. [Garble] Off and the [garble] Off.
+080:08:12 Aldrin (onboard): Rotation Control Power, Direct, two of them, to Main A/Main B.
+080:08:17 Collins (onboard): Main A/Main B.
+Power for the rotational hand controller is switched to come from both main DC power busses.
+080:08:20 Aldrin (onboard): SPS Helium Valves, verified Auto. Limit Cycle, Off.
+080:08:26 Collins (onboard): Limit Cycle, Off.
+With the helium valve in auto, helium is only allowed into the propellant tanks when the engine valves are energised. The Limit Cycle switch was set On during the TVC check.
+080:08:27 Aldrin (onboard): FDAI Scale, 50/15.
+080:08:28 Collins (onboard): Okay.
+Around the edge of the FDAI are three displays that show the rate of rotation of the spacecraft.
+Photograph of the Flight Director/Attitude Indicator (FDAI) on board the Apollo 13 Command Module Odyssey.
+The FDAI Scale switch allows the crew to select what is meant by the full scale deflection of these needles. Its positions are ±1° per second, ±5° per second and a "50/10" position that means ±10° per second in pitch and yaw, and ±50° per second in roll.
+The same switch also selects the full scale deflection for the attitude error needles (the yellow needles within the ball display).The first two positions of the switch represent ±5° error while the bottom position selects ±15° in pitch and yaw, and ±50° in roll. The crew have therefore selected the position that has the coarsest resolution for the error and rate displays.
+080:08:30 Aldrin (onboard): At 2 minutes, A is coming on - Delta-V Thrust, A.
+080:08:33 Collins (onboard): Okay. And that's - all we use is A. 3 minutes to go.
+080:08:46 Aldrin (onboard): I like the neat way he's got his - safety belt on - [garble] should be about in the right place.
+080:09:05 Armstrong (onboard): [Garble] belt for transposition and docking [garble].
+080:09:11 Collins (onboard): Okay, coming up on 2 minutes. I'll get Delta-V Thrust, Normal, A, On, and that's the only bank we'll use.
+080:09:38 Collins (onboard): Delta-V Thrust, Normal, A, is On.
+080:09:41 Aldrin (onboard): Translation Control.
+080:09:42 Collins (onboard): Armed.
+080:09:44 Aldrin (onboard): Rotation Control, Armed?
+080:09:45 Collins (onboard): Armed.
+080:09:48 Aldrin (onboard): Tape Recorder - Command Reset.
+080:10:01 Aldrin (onboard): ...Bit Rate, Forward.
+080:10:05 Collins (onboard): Okay, 19 seconds ullage this time.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+Mark. 1 minute until planned time of ignition for LOI-2. Mike Collins will be at the controls for the Lunar Orbit Insertion-2 burn just as he was for LOI-1. The burn is of short duration as we have indicated earlier; some 17 seconds of burn time anticipated. We're standing by in Mission Control Center. Relatively quiet.
+080:10:55 Collins (onboard): Okay, stand by for...
+Mark. 30 seconds. Continuing to monitor - or read those displays that gave us our final readout prior to our passage to the backside of the Moon.
+080:11:07 Unidentified speaker (onboard): [Garble].
+080:11:07 Aldrin (onboard): EMS Mode to Normal?
+080:11:08 Collins (onboard): EMS Mode, Normal. Stand by for ullage. [Garble].
+080:11:17 Aldrin (onboard): 20, 19...
+080:11:19 Collins (onboard): Ullage.
+080:11:21 Aldrin (onboard): You got the ullage?
+080:11:22 Collins (onboard): Yes.
+080:11:23 Aldrin (onboard): Okay. [Garble]?
+Mark. 10 seconds.
+080:11:27 Collins (onboard): Yes. Whoops...
+080:11:29 Aldrin (onboard): You want this [garble]? Alright.
+Mark. 5 seconds. We won't know for sure how the burn comes out until we reacquire.
+080:11:32 Collins (onboard): [Garble] and Thrust B.
+Flight Plan, page 3-50a.
+Mark. Planned time for ignition. At 80 hours, 12 minutes now into the flight of Apollo 11, this is Apollo Control, Houston.
+080:11:37 Aldrin (onboard): A?
+080:11:39 Collins (onboard): A, open.
+Pressure from the A nitrogen tank is routed to actuate propellant valves on the A bank.
+080:11:44 Armstrong (onboard): She's holding - she's holding - [garble] looks good.
+080:11:50 Collins (onboard): She's all over.
+080:11:51 Armstrong (onboard): Okay, stand by for shutdown...
+080:11:53 Armstrong (onboard): Shutdown!
+080:11:54 Aldrin (onboard): Shutdown, two valves, closed; two, barber pole.
+080:11:56 Armstrong (onboard): Okay, Delta-V Thrust, Normal, A, is Off. Stand by for the Gimbal Motors, Off.
+080:12:00 Collins (onboard): Pitch 1, Off...
+080:12:01 Collins (onboard): Mark.
+080:12:02 Aldrin (onboard): Got it.
+080:12:03 Collins (onboard): Yaw 1, Off...
+080:12:04 Collins (onboard): Mark.
+080:12:05 Aldrin (onboard): Got it.
+080:12:06 Collins (onboard): Pitch 2, Off...
+080:12:07 Collins (onboard): Mark.
+080:12:08 Aldrin (onboard): Got it.
+080:12:09 Collins (onboard): Yaw 2, Off...
+080:12:10 Collins (onboard): Mark.
+080:12:11 Aldrin (onboard): Got it.
+080:12:12 Collins (onboard): Four Gimbal Motors, Off.
+080:12:13 Collins/Aldrin (onboard): TVC Servo Power, Off.
+080:12:14 Collins (onboard): Both Off.
+080:12:15 Armstrong (onboard): Main Bus Ties: AC, Off; DC, Off.
+080:12:18 Aldrin (onboard): Verified.
+080:12:20 Collins (onboard): Proceed - and look at these...
+080:12:28 Armstrong (onboard): [Garble]?
+080:12:29 Aldrin (onboard): No, we don't need that.
+080:12:33 Armstrong (onboard): Pretty nice-looking engine. [Garble].
+080:12:40 Collins (onboard): 0.3 zero, and zero is [garble].
+080:12:43 Aldrin (onboard): Alright. Get the EMS Function, Off - How about going Att Deadband, Max?
+080:12:47 Collins (onboard): Okay, we're - we're in DAP control.
+080:12:52 Aldrin (onboard): Alright, EMS Function, Off. You got the Delta-VC?.
+080:12:55 Armstrong (onboard): Yes - [garble].
+080:12:56 Aldrin (onboard): EMS Mode, Stand by.
+080:12:57 Collins (onboard): Okay.
+080:12:58 Aldrin (onboard): BMAG Mode, three, to Rate 2.
+080:12:59 Collins (onboard): Three to Rate 2.
+080:13:00 Aldrin (onboard): Att Deadband, Max.
+080:13:01 Collins (onboard): Max.
+080:13:02 Aldrin (onboard): PCM Bit Rate going to Low. ROT Control Power, Direct, two of them, Off.
+080:13:04 Collins (onboard): Off.
+080:13:05 Aldrin (onboard): Circuit breakers, Pitch 1, Yaw 1, Pitch 2, Yaw 2, Open? Proceed and go to Verb 82. No!
+080:13:21 Collins (onboard): Why not?
+080:13:22 Aldrin (onboard): That isn't what it says. It says [garble] and go to P00 [garble].
+080:13:25 Armstrong (onboard): You get this...
+080:13:28 Aldrin (onboard): ...I want to get the circuit breakers...
+080:13:32 Collins (onboard): Up to [garble], and I want to get Average g off, there we go, it's in P00 - Verb 82.
+080:13:42 Aldrin (onboard): All those listening to the tape, please report that - we need a change in the checklist.
+Although no-one other than his crewmates can currently hear this, Buzz is leaving a message to those who will review the DSE recording after it has been radioed to Earth.
+080:13:47 Armstrong (onboard): 66.1 by 54.4; now you can't beat that.
+080:13:51 Aldrin (onboard): No, this is about...
+080:13:52 Collins (onboard): That's right downtown.
+080:13:55 Aldrin (onboard): ...this is 65.7...
+080:13:57 Collins (onboard): By 54 point...
+080:14:00 Aldrin (onboard): We're more elliptic now, huh?
+080:14:05 Collins (onboard): That's about as close as you're going to get.
+080:14:07 Aldrin (onboard): Yes, I bet we never get circular.
+The reason they have been placed in an elliptic orbit is to attempt to compensate for the perturbation of the orbit by the lunar mascons. Previous missions, including Apollos 8 and 10 as well as the Lunar Orbiter probes, had shown that parts of the Moon's surface have a higher gravitational attraction. These tend to make orbits around the Moon slowly change shape so that an originally circular orbit will gradually become more elliptical until the perilune hits the surface. If the orbit is made elliptical in the opposite sense, then the hope is that it will eventually circularise itself, but Buzz is sceptical.
+080:14:10 Armstrong (onboard): Hey, have you got any more circuit breakers - I mean any more switches for me?
+080:14:14 Aldrin (onboard): No. When everybody likes this one, why don't you try Verb 83 or a Verb 66 or a - suit yourself. See how much [garble] you put in.
+Verb 83 displays parameters relating to rendezvous: Range, Range-rate and Theta, on the DSKY. Since they are not currently rendezvousing with anything, it is most likely that it would be called up to yield Theta.
+Diagram explaining the angle Theta.
+Theta represents the angle between the spacecraft's plus-X axis and the local horizontal. It is likely they would use it in this context to initialise the ORDEAL correctly.
+Verb 66 makes a copy of the CSM's state vector in the memory slots set aside for the LM's state vector.
+080:14:33 Collins (onboard): 158.
+080:14:36 Aldrin (onboard): 15.8, huh?
+080:14:37 Armstrong (onboard): 158.
+080:14:40 Aldrin (onboard): Or 158, that's about right. Okay.
+080:14:43 Collins (onboard): Everybody happy with that?
+080:14:44 Aldrin (onboard): That's reasonable.
+080:14:46 Collins (onboard): Verb 66; want to have a vote on Verb 66?
+080:14:49 Armstrong (onboard): No!
+080:14:50 Collins (onboard): Everybody in favor of Verb 66 raise their right arm.
+080:14:51 Aldrin (onboard): Yes, yes.
+080:14:57 Aldrin (onboard): Okay, check it again. [Garble]. Well, let's see. We didn't gain any on the old PUGS that time. We're still 0.2 behind.
+PUGS is the Propellant utilization Gauging System, part of the SPS propellant delivery system that allows the crew to monitor and control the balance of fuel and oxidiser being fed to the combustion chamber.
+080:15:14 Armstrong (onboard): Oh, I suspect you're right. We probably never will.
+080:15:17 Aldrin (onboard): No. We should have wrapped that thing up during...
+080:15:24 Armstrong (onboard): Check the increase that time?
+080:15:26 Aldrin (onboard): Huh?
+080:15:27 Armstrong (onboard): Did you check the increase that time?
+080:15:29 Aldrin (onboard): If it increased, it's going to stay increased from now on.
+080:15:33 Armstrong (onboard): Okay.
+080:15:34 Aldrin (onboard): But I waited for it to start an upward trend on the first burn.
+080:15:37 Armstrong (onboard): Understand; that's alright.
+080:15:41 Collins (onboard): Alright - back to the Flight Plan.
+080:15:45 Armstrong (onboard): [Garble] 33, as I remember it - the right number...
+080:15:52 Aldrin (onboard): [Garble].
+080:15:56 Collins (onboard): Yes, roll 180, pitch down 81, Orb-rate. God damn, here comes the draft again.
+080:16:11 Armstrong (onboard): Okay, we're supposed to start charging Battery A.
+080:16:18 Collins (onboard): Charge Battery A, huh?
+080:16:22 Armstrong (onboard): Let's see what we have; SPS monitor check...
+080:16:30 Collins (onboard): Two breakers out there; two breakers out there - Batt B, Batt B. Batt A, you say - Neil?
+At times of engine burns, the demand on the spacecraft's electrical system is high so the output of the fuel cells is augmented by the CM batteries. After the burn, the battery's charge would be topped up.
+080:16:42 Armstrong (onboard): Batt A, yes - if you please. Charging Batt A, then on to...
+080:16:48 Aldrin (onboard): Then roll 180, and then we'll talk about this pitchdown. Alright?
+080:16:52 Armstrong (onboard): Then you might as well go to your - 293 Inertial, I guess.
+080:17:05 Collins (onboard): Man, that's a gas waster. Soon as I get around here, I'll start it. We'll pass through orb-rate at some point. Takes forever and a day to get around here.
+080:17:31 Aldrin (onboard): It's going to be a long time before that battery gets back up to 39½ volts.
+080:17:45 Aldrin (onboard): We done plumb tuckered that one out.
+080:17:49 Armstrong (onboard): LOI-1 could've got to it, I imagine.
+080:17:52 Collins (onboard): Yes.
+080:18:14 Aldrin (onboard): Are you going to maintain Orb-rate?
+080:18:17 Collins (onboard): Yes, I guess so. It's going to be sort of a pass through Orb-rate kind of thing because, see if I whip - do it in a hurry, why I got to pitch down 80 degrees, stop the pitch, or stop almost all of it, except for the Orb rate amount. That's going to waste a hell of a lot of gas.
+080:18:32 Aldrin (onboard): Do we have to do anything - to the O2 to pressurize the LM?
+080:18:39 Armstrong (onboard): No, we haven't - small enough - Delta-P...
+080:18:46 Aldrin (onboard): That's 0.9.
+080:18:48 Armstrong (onboard): 0.9?
+080:18:49 Aldrin (onboard): Yes.
+At this stage of the mission, the normal way to pressurise the LM cabin is to bleed CM cabin air through the tunnel via valves in the two hatches on either side. The reading of 0.9 psi will only be valid if the Tunnel Vent Valve is set to its 'LM/CM Delta-P' position whereby a pressure gauge is connected between both sides of the CM forward hatch. If this is the case then whatever the CM pressure is, the tunnel pressure (and hence the LM pressure) will be 0.9 psi less.
+080:18:50 Collins (onboard): Yes, we have to build up pressure a little bit.
+080:18:55 Armstrong (onboard): Build up that cabin pressure just a little bit, and I'll start the Direct O2 valve, Open.
+080:18:57 Aldrin (onboard): It says observe the lunar surface.
+080:19:02 Collins (onboard): That's what it says you ought to - supposed to be doing.
+080:19:14 Aldrin (onboard): It's brown, it's brown.
+080:19:17 Collins (onboard): Brown all around. There's no doubt which way that - little crater hit.
+080:19:42 Aldrin (onboard): Here's that same one going by again, Neil, remember? That bright job?
+080:19:51 Armstrong (onboard): Yes.
+080:20:03 Aldrin (onboard): Man, there's white stuff all over - and it's black right around the rim.
+080:20:10 Collins (onboard): Hey, well, I'm - while this thing's rolling over, I'm going to take a pee. I'm going to go pee.
+080:20:16 Armstrong (onboard): 180, if you don't mind.
+080:20:18 Aldrin (onboard): That's a spectacular crater.
+080:20:23 Armstrong (onboard): Did you shoot some pictures while you were over there?
+080:20:25 Collins (onboard): No, it's just going by - we'd better get it later; there will be better times. If the damn antenna isn't in the way.
+080:20:42 Collins (onboard): Boy, there must be nothing more desolate than to be inside some of these small craters, these conical ones.
+080:20:50 Armstrong (onboard): People that live in there probably never get out.
+080:20:54 Collins (onboard): Yes, I think you're right. Boy, you can really see the slumping, though. Most of the - You can see where it's all gathered down in the bottom in the corner; you know, on the edge - where a lot of the white stuff has dribbled on down - and evidently it gets covered over after a while with a - a darker layer. There's always a certain amount of the white stuff right in the edges. Pretty characteristic of all of these - white conical ones.
+080:21:50 Collins (onboard): Yes, you know, you can change the color of what you're looking at by moving your head to a different spot in the window - and looking in a different direction.
+080:22:25 Aldrin (onboard): And that must be big... right down there.
+080:22:45 Collins (onboard): I haven't heard any woo-woo's.
+080:22:49 Armstrong (onboard): Is there something we should be woo-wooing about?
+080:22:56 Collins (onboard): Wait until we get the VHF on, then we'll hear the woo-wooing.
+080:22:59 Armstrong (onboard): Okay.
+Once they become separate spacecraft, communication between the CM and LM will be achieved using VHF frequencies. However, there is also a ranging function that also uses VHF. When the Apollo 10 crew tested their LM in lunar orbit, they heard various whistling sounds in their ears due to this ranging function. See 102:17:58 in the Apollo 10 Flight Journal.
+080:23:18 Aldrin (onboard): Man, I sure hate to say it based on looking through this monocular, but there's a white spot that's just like a crater - looks like an awful lot under these small fresh ones in the bottom of this rather old crater, but right in the center of it, it looks like instead of there being a crater, looks like it's a rock. [Garble] my eyes deceiving me.
+080:23:51 Collins (onboard): How's our roll doing, Neil?
+080:23:53 Armstrong (onboard): Oh, you got about 30 degrees to go.
+080:23:55 Collins (onboard): Oh, boy!
+080:23:56 Armstrong (onboard): Okay.
+080:23:58 Aldrin (onboard): How far you going to roll?
+080:24:00 Collins (onboard): Over and over.
+080:24:30 Armstrong (onboard): Got that Direct O2 [garble], didn't you?
+080:24:33 Collins (onboard): Yes, just a tiny bit.
+080:24:34 Armstrong (onboard): Okay.
+080:24:42 Collins (onboard): It'd be kind of interesting to see some of this dump go on straight from polar orbit. Wonder how long it's going to take before it impacts?
+080:24:53 Armstrong (onboard): It obviously - is not really in polar orbit if it's going off - going off that way. Yes, it's inclined to the small angle.
+Having urinated, Mike appears to have sent the waste liquid through the urine dump nozzle on the outside of the spacecraft.
+080:25:03 Collins (onboard): Sure looks like it.
+080:25:04 Armstrong (onboard): It's going straight out there through. That's real funny.
+080:25:13 Aldrin (onboard): Son of a gun, that one's got a little - little curve on it.
+080:25:23 Collins (onboard): Would you believe that, Neil? One went out and curved around like that. Can you explain that?
+080:25:32 Armstrong (onboard): I guess it just glanced off another particle or something.
+080:25:35 Collins (onboard): Oh, no, no, no, no; if it's curved.
+080:25:40 Armstrong (onboard): It had a little bubble in it that came to the surface and went kapoom and...
+080:25:43 Aldrin (onboard): No...
+080:25:44 Collins (onboard): There's atmospheric drag up here.
+080:25:47 Armstrong (onboard): ...departed it with a little Delta-V.
+080:25:49 Aldrin (onboard): I think what's really happening is - we're rolling and - it's changing the angle that I'm looking out the window.
+080:25:55 Collins (onboard): Let's see, I want to pitch down 80 degrees to... [garble] 293, down 293, I believe that, I wonder what rate would be reasonable...
+080:26:10 Armstrong (onboard): Okay, it's about 7 minutes until AOS.
+080:26:17 Collins (onboard): Down 80 degrees in 7 minutes, that's - let's see, about 10 degrees per minute, 10 degrees per minute is...
+080:26:31 Armstrong (onboard): [Garble] floating up here...
+080:26:33 Collins (onboard): 61 [garble].
+080:26:38 Aldrin (onboard): Well, Mike probably let him out.
+080:26:45 Collins (onboard): Okay, that ought to almost get it there and, damn, I don't want to see any more than that.
+080:26:58 Aldrin (onboard): You can open the battery [garble] pad.
+080:27:11 Collins (onboard): That ought to be enough.
+080:27:31 Aldrin (onboard): [Garble].
+080:28:02 Collins (onboard): Alright, where are we? We're pitching down. Gee, it's too bad we can't stop right here and observe the Earth come up. You know, we ought to get that picture one time.
+080:28:20 Armstrong (onboard): We probably can do it. You could stop it right here if you wanted to spend the gas.
+080:28:25 Collins (onboard): Yes. That's the only trouble, the doggone gas. What are you on?
+080:28:42 Collins (onboard): A picture looking out over the LM as well.
+080:28:45 Armstrong (onboard): Yes.
+080:28:46 Aldrin (onboard): Shouldn't be a bad picture. Why don't we stop it?
+080:28:48 Collins (onboard): Okay.
+080:28:56 Armstrong (onboard): We ought to be able to get High Gain from this attitude, shouldn't we?
+080:29:10 Armstrong (onboard): Think we ought to get the long lens on, Mike?
+080:29:12 Collins (onboard): Yes, we ought to get the 250 - we ought to do it at 250.
+080:29:14 Armstrong (onboard): You've got 4 minutes; that's plenty. Now, we're going to want to...
+080:29:22 Collins (onboard): Are we at a good enough attitude? I hope so. We are out this window, babe, but we're not out that one. If the Earth is right there, that's where it's coming up, huh? Better be.
+080:29:34 Armstrong (onboard): You want color?
+080:29:35 Collins (onboard): Ah...
+080:29:37 Armstrong (onboard): We better have color.
+080:29:38 Collins (onboard): Yes, we want color.
+080:29:49 Aldrin (onboard): I got a clean window over here so don't sweat that one too much.
+080:29:53 Collins (onboard): 250 - hand me your camera, Neil, and I'll change it.
+080:29:59 Armstrong (onboard): Who's got the Hasselblad?
+080:30:07 Aldrin (onboard): Probably over there on the shelf.
+080:30:09 Armstrong (onboard): We got it. First quad is in - back is...
+080:30:14 Aldrin (onboard): That wall of that crater looks pasty through the sextant. Great big chunks of white stuff that just slumped down.
+080:30:29 Armstrong (onboard): Did you get - [garble]? If you get too far over here, we may have to watch our pitch angle. We're good right now.
+080:30:40 Aldrin (onboard): [Garble].
+080:30:41 Armstrong (onboard): Orb-rate...
+080:30:45 Collins (onboard): No, we're not Orb-rate.
+080:30:48 Armstrong (onboard): The Earth's going to be coming Orb-rate at us.
+080:30:53 Collins (onboard): [Garble].
+080:31:01 Armstrong (onboard): Okay. Let's see, I've got to pitch up a tad then [garble].
+080:31:06 Collins (onboard): Okay, I've still got f:8 and [garble].
+080:31:10 Armstrong (onboard): 250th at f:8, I think we can do it, and infinity.
+080:31:16 Collins (onboard): I don't know. What's the matter with where you had it?
+080:31:19 Armstrong (onboard): Oh, son of a gun! [Laughter.] We're going backwards. Oh, well.
+080:31:28 Aldrin (onboard): Oh dear. Dummkopf!
+080:31:32 Collins (onboard): That's it, I think, there, Neil - so pitch down.
+080:31:36 Aldrin (onboard): Prior planning prevents poor performance.
+080:31:38 Armstrong (onboard): Thank you. Is that right, Buzz?
+080:31:40 Collins (onboard): All that - Where'd you ever hear that one, Buzz?
+080:31:45 Aldrin (onboard): I can't think.
+080:32:12 Aldrin (onboard): Oh, that's a bright one. I got to get that one [garble].
+080:32:16 Collins (onboard): No lie!
+080:32:25 Armstrong (onboard): 150 - you don't want to take too many on this.
+080:32:30 Collins (onboard): No. Might as well put the other one back on.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+Mark. 2 minutes from time of predicted acquisition of the Apollo 11 spacecraft. During this upcoming pass, we'll have our second excursion on the part of the Apollo 11 crew into - into the Lunar Module. The LM is to be pressurized by a valve in the tunnel hatch and, as a point of interest, will remain pressurized following this period of activation and after the members of the Apollo 11 crew return to the Command Module. For this period of activation, it's definitely planned that Buzz will go into the LM and there is a distinct possibility that Commander Neil Armstrong could - could exercise his option and go into the LM. Our station to acquire as we come around the far side of the Moon will be Goldstone. Mark. 1 minute from predicted time of acquisition and we're standing by.
+080:32:35 Armstrong (onboard): Well, you might save that for some Earth shots.
+080:32:49 Aldrin (onboard): Wow!
+080:32:53 Armstrong (onboard): [Garble].
+080:32:55 Collins (onboard): You got it, huh?
+Mark. 30 seconds.
+080:33:04 Aldrin (onboard): I think it focused the second one a little bit better. I think it's beautiful. Just fabulous. Not really sure what you're looking at - but there's some mighty big fresh rocks down in that crater.
+Mark. 10 seconds from predicted time of acquisition.
+080:33:37 Aldrin (onboard): The walls actually look pock-marked. Sure enough, and they're not filled in. Pock-marked, and it looks like somebody's painted white paint vertically down the edges and then it's been eaten away.
+080:34:15 Aldrin (onboard): [Garble] that one [garble] into the LM.
+080:34:38 Collins (onboard): Here is the Earth. Hey, I got the view over here.
+Goldstone has acquired Apollo 11.
+080:34:44 Aldrin (onboard): I guess I'd better get the High Gain off, hadn't I?
+080:34:49 Armstrong (onboard): Did it just come up?
+080:34:50 Collins (onboard): Yes.
+080:34:53 Aldrin (onboard): We need that [garble].
+080:34:56 Collins (onboard): Do we still got High Gain?
+080:34:58 Armstrong (onboard): Yes.
+This is Apollo Control, Houston, standing by at this time at 80 hours, 35 minutes.
+080:35:01 Collins (onboard): It's says minus 67 and zero.
+080:35:06 Aldrin (onboard): Minus 67 and zero.
+080:35:09 Collins (onboard): And zero.
+080:35:10 Aldrin (onboard): Okay, Manual - and - Auto - medium. There we go. Can't make up his mind between zero and - 360. Okay, we got them.
+080:35:30 Armstrong (onboard): Okay.
+Now successfully in the correct lunar orbit for tomorrow's departure of the Lunar Module, Apollo 11 is about to emerge from behind the Moon and resume radio contact with Mission Control.
+Day 4, part 3: TV from Orbit
+Journal Home Page
+Day 4, part 5: Checking Out Eagle

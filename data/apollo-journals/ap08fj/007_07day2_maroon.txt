@@ -1,0 +1,1167 @@
+A8FJ - Day 2: The Maroon Team
+Day 2: The Green Team
+Journal Home Page
+Day 2: The Black Team
+Apollo 8
+Day 2: The Maroon Team
+Corrected Transcript and Commentary Copyright © 2002-2025 by W. David Woods, Frank O'Brien and William Smeaton. All rights reserved.
+Last updated 2025-02-21
+It is quarter past one in the afternoon (19:15 GMT) in Houston on Sunday, 22 December 1968. Apollo 8 is well past the halfway point in its journey to Luna and is gradually slowing down as Earth's gravity exerts a force still greater than that from the Moon.
+The Maroon Team of flight controllers have just taken over in the Mission Operations Control Room (known throughout this journal as simply Mission Control). The main team members are:
+Flight Director:
+Milton L. Windler
+Flight Analysis Officer (FAO):
+Charles L. Stough
+Operations & Procedures (O&P):
+Axel M. Larsen
+Flight Dynamics Officer (FIDO):
+Philip C. Shaffer
+Guidance Officer (GUIDO):
+Granville E. Paules
+Retrofire Officer (RETRO):
+John S. Llewellyn
+Guidance, Navigation & Control (GNC):
+Briggs N. Willoughby
+Electrical & Environmental Control Systems Officer. (EECOM):
+William C. Burton
+Charles L. Dumis
+Thomas K. (Ken) Mattingly is at the CapCom position.
+Though the Flight Plan had mission commander Frank Borman scheduled to begin a sleep period at 29 hours, he has not. Instead, the crew will try taking more frequent naps as they deal with always having someone awake minding the systems.
+This erratic sleep pattern would be the bane of the crew. As Apollo 8 was a significant test of the not yet mature Apollo spacecraft, continuous monitoring of the systems was an accepted reality. The argument being, of course, that any problems could be detected and corrected early, and well before it became a significant issue.
+The spacecraft layout required the crew to sleep in the couches, which could be reconfigured to lay flat, or in hammocks "slung" under the couches. While a vast improvement over Gemini and Mercury, sleeping crewmembers were often interrupted by the activities of their working crewmates. This, combined with the difficulties of learning to sleep in weightlessness, usually resulted in very poor sleep quality for the crew. To aid their falling asleep (and staying asleep), the crew will occasionally take Seconal (brand name for secobarbital), a fast acting barbiturate.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+030:22:29 Borman: Houston, this is Apollo 8.
+030:22:33 Mattingly: Go ahead, Apollo 8.
+030:22:37 Borman: Oh, hi, Ken. How're you doing?
+030:22:39 Mattingly: Oh, just fine. How you?
+030:22:41 Borman: That Jerry?
+030:22:42 Mattingly: This is Ken.
+030:22:44 Borman: Hey, listen, we still have this TV coming up here - let's see - 31:20?
+030:22:52 Mattingly: Affirmative. [Pause.]
+030:23:00 Borman: We're about in the right position for High Gain; we wondered if you wanted to take a trial run and see if it will work. Or do you just want to wait and try it when they're supposed to go on the air with it? [Pause.]
+030:23:18 Mattingly: Okay. Stand by on that.
+030:23:23 Borman: Okay.
+Long comm break.
+The spacecraft is slowly turning in the PTC (Passive Thermal Control) rotation, taking one hour to go around once. For about half of that rotation, the High Gain antenna is unfavourably positioned to communicate with Earth. Communication is maintained with the omni-directional antennae around the Command Module but these do not provide a clear enough signal strength for the television signal. This is the first TV session to be linked from an Apollo spacecraft at these sort of distances and Frank is suggesting they check it out an hour early while the antenna is aimed at Earth. Unfortunately, they never respond to this request soon enough to be acted on.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+030:30:25 Anders: Houston, Apollo 8. Over.
+030:30:27 Mattingly: Go ahead, Apollo 8. [Pause.]
+030:30:33 Anders: Roger. Could you ask the GNC to give us an update on our prop[ellant] quantity, please?
+030:30:41 Mattingly: Wilco. You're referring to RCS?
+030:30:46 Anders: Roger. [Pause.]
+030:30:53 Anders: If you'll give it to me kinda slow, I'll plot it.
+030:30:56 Mattingly: Rog. It's coming now.
+Long comm break.
+The Reaction Control System (RCS) is considered a critical system on the spacecraft. (Along with many others. Lose it and you lose the ability to aim your main engine or adjust your course.) In the Service Module, there are four independent units, one for each of four clusters of jets around the circumference, each with its own primary and secondary propellant tanks. As their main use is to control the attitude of the spacecraft - an essentially constant requirement - Mission Control and the crew take very careful note of their use of RCS propellant.
+Beside page S-22 in the Systems section of the crew's checklists, there is a graph which plots the expected usage of the RCS propellant. Additionally, Bill's version of the checklist includes separate graphs for each of the four clusters, reflecting his responsibility for the CSM systems. Though they have quantity read-outs onboard, determinations of quantity by the ground are more accurate and Bill wants to plot their findings on his graph so he can compare actual usage with what was predicted.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+030:35:13 Mattingly: Apollo 8, Houston.
+030:35:19 Borman: Go ahead, Houston. Apollo 8.
+030:35:20 Mattingly: Okay. In reference [to] the early TV, we're losing the High Gain Antenna now, and it looks like the only way we would have gotten the early TV pass in anyhow was to send it to [a] remote site and look at it there. So we're going to scrub that idea and we'll just pick up with the scheduled TV. The comm checks that are remaining are the High Gain dependent type, and we'll put those off until the TV session is completed, and we're working on the fuel propellant curve for you now.
+030:35:53 Borman: Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+030:41:50 Mattingly: Apollo 8, Houston.
+030:41:53 Lovell: Go ahead, Houston. Apollo 8.
+030:41:54 Mattingly: Okay, Apollo 8. What we're going to do on the TV is to go ahead and let you crank it up as soon as we get back on the High Gain Antenna, and it looks like - our guess is that this will be about 31:07, and we'll just use this to - as long as we have the coverage there. I have an update to your TLI plus 35 PAD. We have to correct a couple of times on there. So when you get that out, let me know and I'll read it to you. [Pause.]
+030:42:38 Borman: Go ahead.
+030:42:40 Mattingly: Okay. On the TLI plus 35 PAD, the update I want to give you is the last three lines in the block: the EMS range to go, 1308.4, 35985, 098:42:17. Over.
+Mission Control sent up a PAD (Pre-Advisory Data) at 25 hours GET which gave the crew the information they would need to fire their big engine at about 38 hours GET to get home early if something were to go wrong. The last three lines of that PAD referred to their re-entry into Earth's atmosphere and these are the lines that Ken Mattingly is updating for the crew now. An important milestone for these is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g as it re-enters. This update is interpreted as follows:
+Range to go at the 0.05 g event: 1,308.4 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05 g event: 35,985 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+GET of 0.05 g event: 98 hours, 42 minutes and 17 seconds GET. This is when it is expected that the EMS will be triggered.
+That completes the PAD update.
+030:43:11 Borman: Understand. Range to go 1308.4, 35985, 098:42:17.
+030:43:21 Mattingly: That's affirmative.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+030:44:54 Mattingly: Apollo 8, Houston. We're about to have a handover to Goldstone, and our downlink should improve then. I don't know if you'll notice any difference in the uplink or not. [Long pause.]
+030:45:52 Mattingly: Apollo 8, Houston. [No answer.]
+030:46:44 Mattingly: Apollo 8, Houston.
+030:46:48 Borman: Go ahead, Houston. You are loud and clear.
+030:46:51 Mattingly: Okay. We've switched sites over to Goldstone now. I don't know if you can tell any difference in our uplink.
+030:47:01 Borman: Negative. You're about the same.
+030:47:03 Mattingly: Okay. You have cleared up quite a bit. Sounds a lot better to us.
+030:47:08 Borman: Okay.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+030:49:35 Mattingly: Apollo 8, Houston.
+030:49:38 Borman: Go ahead, Houston. Apollo 8.
+030:49:40 Mattingly: Okay. I've got some RCS quantity data for you. And we are all set up to receive the TV whenever you get the High Gain [Antenna] looking at us. [Expected to be in about 16 minutes.]
+030:49:51 Borman: Okay. Let me get the [RCS Propellant usage] chart out here. [Long pause.]
+030:50:20 Borman: Go ahead with the quad propellant quantities, please.
+030:50:25 Mattingly: Okay, Apollo 8, Alpha, I have 225 pounds, 74 percent; Bravo, 240...
+030:50:41 Borman: Slower, please.
+030:50:42 Mattingly: Rog. I'll repeat, Alpha, 225, 74 percent; Bravo, 240 pounds, 79 percent; Charlie 236, 78 percent; Delta, 238, 79 percent. Like to remind you on the TV that we need the narrow beamwidth when you get on the High Gain. Over.
+030:51:45 Borman: Roger. Understand.
+Very long comm break.
+The following graph is based on that printed in Bill's checklist:
+Chart showing predicted RCS propellant usage throughout the flight, and actual usage at nearly 31 hours GET.
+There are two major points to note from this graph. The first is that the mission has been planned such that only half of the available RCS propellant will be used if everything goes smoothly. This leaves a sizeable reserve to cope with contingencies. Second, they have already used substantially more propellant than intended. This was due to additional manoeuvres to separate from the S-IVB launch vehicle. The post-flight mission report shows that from now on, consumption will be reduced such that by the end of the flight, they will have as much propellant remaining as was predicted.
+Two pieces of evidence strongly suggest that two photographs are taken at this time. Careful measurement of the image of Earth's disc yields a distance of approximately 217,000 kilometres. Using the Celestia application to compare with the rotation of Earth as seen in the photo suggests that it was taken around 31 hours GET.
+AS08-16-2602 - Earth at approximately 217,000 km (based on photo analysis) using the 80-mm lens. South is to the right and the image favours South America.
+AS08-16-2603 - Earth at approximately 217,000 km (based on photo analysis) using the 80-mm lens. South is to the right and the image favours South America.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 31 hours, 5 minutes into the mission. We're standing by at this time to receive the first television transmission from the spacecraft. Now there is a certain element of uncertainty just as to when that signal will be received at the station at Goldstone and transmitted to Houston. Now the spacecraft at the present time is in a slow roll as part of the Passive Thermal Control program to maintain temperatures, and as soon as the High Gain Antenna is in the proper position, we expect to begin getting pictures. So we'll stand by and pick up the picture as soon as we have any solid video lock on.
+At this time our estimate is that it will be about one minute before we pick up our TV transmission.
+When we begin this television transmission, the spacecraft will be at a range from Earth of about 120,623 nautical miles [223,393 km], and will be traveling at a velocity of about 4,668 feet per second [1,423 m/s]. We're still standing by to receive the first indications that a picture is about to come through. We now estimate about 15 more seconds. As I've said before, there could be some variation in that depending on the position of the High Gain Antenna.
+The TV camera is a simple black-and-white unit that weighs just over two kilograms. Two lenses have been included; a very wide-angle (160°) lens for use in the cabin and a narrow-angle (9°) lens which is meant for out-of-the-window imaging. Once the camera is plugged into one of the spacecraft's power and signal receptacles and given enough time to warm up, its signal can be routed to Earth on the auxiliary channel of the S-band system. Normally, this channel is used to dump the contents of the data recorder but it is given over to the TV by a switch on panel three of the Main Display Console.
+And we've gotten a call from the crew. We'll pick that up and then stand by for pictures.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+031:07:18 Borman: Houston, how do you read? Apollo 8.
+031:07:20 Mattingly: Loud and clear, Apollo 8.
+031:07:24 Borman: Okay. Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+That sounded like Bill Anders putting in a call to the Control Center here. We still do not have pictures. We'll continue to monitor.
+We are getting a good signal through from Goldstone, but we still have not received any video from the spacecraft. We'll continue to monitor and also to monitor the audio loops for any conversations from the crew.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+031:09:57 Borman: Houston, Apollo 8. How do you read?
+031:09:59 Mattingly: Apollo 8. Loud and clear and standing by.
+031:10:04 Borman: Say again.
+031:10:05 Mattingly: We read you loud and clear, and we're standing by.
+031:10:09 Borman: Okay. [Long pause.]
+Television transmission from the Apollo 8 Command Module. This version, courtesy of Mark Gray, includes the Flight Director's loop in the MOCR along with the air/ground audio.
+H.264 MP4 video file.
+031:10:23 Borman: Are you receiving television now? [Long pause.]
+031:10:36 Mattingly: Apollo 8, Houston. We just got it.
+031:10:43 Borman: You are getting it? [Pause.]
+The camera is facing Frank who is sitting in the left couch facing the Main Display Console. Frank's right hand is at the Rotational Hand Controller as he is bringing the spacecraft around to give the viewers a view of Earth. The centre couch is in the foreground and Jim's back is to the right of the image as he is currently in the Lower Equipment Bay.
+031:10:52 Mattingly: Okay, Apollo 8. We have a good picture.
+031:10:54 Borman: We're rolling a...
+031:10:57 Borman: Okay. We're rolling around to a good view of the Earth, and as soon as we get to the good view of the Earth, we'll stop and let you look out the window at the scene we see. Jim Lovell's down in Lower Equipment Bay preparing lunch, and Bill is holding a camera here for us both. [Pause.]
+031:11:29 Borman: Bill's going to take the camera down to the Lower Equipment deck with Jim:
+031:11:34 Mattingly: Rog.
+031:11:37 Mattingly: Okay. We're getting a pretty good picture, but if you'd move it a little slower - every time you move it around, why, it breaks up on the scan.
+031:11:47 Borman: We gotcha.
+031:11:49 Mattingly: [Laughter.]
+The camera has a "vidicon" imaging tube. This type of tube exhibited pronounced image lag in that any moving component of the image would tend to smear. Though static images were quite well rendered, these tubes were also prone to burn-in, where, if an image was held static for any length of time, a ghostly remnant of the image would remain on the tube face for a while, interfering with subsequent images. These imaging errors would define the first TV pictures from the Moon as a similar camera was taken to the lunar surface on Apollo 11.
+Another problem exhibited by early TV cameras is their narrow sensitivity. Any highlights in the scene completely lose their image detail, and instead display blooming and, when the camera is moved, excessive "comet-tailing".
+Bill moves the camera to below the MDC to show an upside-down Jim Lovell.
+031:11:54 Lovell: This is known as preparing lunch and doing P23 at the same time. [Long pause.]
+While Jim Lovell's feat of multitasking between lunch and cislunar navigation sounds superhuman, there is actually a secret to this important skill. Of course, most of the food aboard was dehydrated, and needed to be reconstituted with hot or cold water before being eaten. However, this is more than simply snipping off the ends of a food bag, and squirting water in. Many meals required that the food sit for a while after the water was added to properly rehydrate. Mashing the food bag to aid the mixing was a possibility, but usually resulted in a mush that was more like baby food than an adult meal. So, Jim would pull the meals from the pantry, start the rehydration process, take a few star sightings, and voila! Bon Appetit!
+031:12:18 Mattingly: You've got everybody standing on their heads down here.
+031:12:23 Borman: How go - Has he got it turned upside down? You've got the wrong REFSMMAT.
+This is rather subtle Apollo humour, depending on the recipient knowing that a REFSMMAT is a reference orientation (a definition of which way is up). Frank is suggesting that it appears upside down to Mission Control because they just don't know which way is up. Bill then brings the image the right way up.
+031:12:31 Mattingly: Well, we all have our problems. [Pause.]
+031:12:44 Borman: How's the picture now, Houston?
+031:12:46 Mattingly: That's really good. [Pause.]
+031:12:52 Borman: Okay. Now we're coming up on the view that we really want you to see. That's the view of the Earth, and if you'll break for just a minute, Bill's going to put on the large lens. So we will be right back with you.
+031:13:03 Mattingly: Okay. Thank you. [Long pause.]
+For a short while, Frank takes the camera and we see Bill preparing to change the lens.
+The current lens has such a huge viewing angle of 160° that Earth, now just a little over three degrees across, would appear as a small blob in it. Their 100-mm telephoto lens has a viewing angle of only 9° so Earth should occupy about a third of its width. However, a lens with such a narrow angle is difficult to aim accurately and keep stable, as Frank is about to find out. The task is made even more difficult by the fact that they do not have a monitor to allow whoever is acting as the cameraman to see what the camera is seeing.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And we momentarily lose our picture while this lens change is in progress. We'll stand by for that shot of Earth.
+031:13:54 Borman: Houston, we're now showing you a view of the Earth through the telephoto lens.
+The TV line to Houston is showing only a stepped gray-scale, likely generated at the current ground station while they are getting no image from the spacecraft.
+031:14:00 Mattingly: Okay. We're not receiving a picture right now. [Pause.]
+031:14:08 Borman: How about now? [Pause.]
+031:14:14 Mattingly: Okay. We don't have a picture yet. [Pause.]
+031:14:27 Borman: You seeing anything at all, Houston? [Pause.]
+031:14:36 Mattingly: Okay, Apollo 8. We don't have a picture yet.
+031:14:46 Borman: Alright. We'll put the other lens back on, and we will show you that.
+031:14:50 Mattingly: Apollo 8, how about standing by on that for just a minute. Let's check our ground link. [Pause.]
+In the meantime, Bill replaces the wide-angle lens and an image of Frank in the left couch is restored.
+031:15:06 Mattingly: Apollo 8, we have a picture now.
+031:15:10 Borman: Okay. Let's try that other lens again then, once again.
+031:15:13 Mattingly: Okay. Thank you. [Long pause.]
+The image returns to the grey step pattern.
+031:15:30 Borman: Do you have a picture now?
+031:15:31 Mattingly: That's negative. [Long pause.]
+031:15:45 Mattingly: Apollo 8 - belay that.
+031:15:54 Borman: Okay, now, do you have anything. Houston? We have it on the Earth.
+031:15:58 Mattingly: We're having no joy.
+031:16:02 Mattingly: Okay. Stand by.
+031:16:08 Borman: Okay. How about now, Houston?
+031:16:10 Mattingly: Still no joy. [Pause.]
+031:16:18 Mattingly: You don't have a lens cover on there, do you?
+031:16:22 Borman: No, we checked that, as a matter of fact. [Pause.]
+031:16:30 Borman: Anything?
+031:16:32 Mattingly: Still no joy. [Long pause.]
+The EECOM flight controller reports to the Flight Director that the Goldstone ground station is receiving an "extreme light level ... white.".
+031:16:56 Borman: How about now?
+031:16:57 Mattingly: Still no joy.
+The image from the wide angle lens is restored with an image of Bill.
+Anders, from 1969 Technical debrief: "The TV camera operated well, but we did not have the proper filters for the lenses. The TV camera should have a lens with a stop setting on it very similar to camera 1 so that we can take a spotmeter reading of the light and set the lens accordingly. [At 55 hours] we were able to salvage the outside pictures by taking lenses [means filters] that were designed for the [still] cameras and taping them onto the TV lenses. I am a little bit surprised that we were not aware before launch that this light situation might be bad. Perhaps, now that we have discovered this, the future TV's will have the proper lenses on them. Other than that, the TV operated very well, and from what we understand, the quality of the pictures was good."
+Anders (continued): "The TV camera bugeye lens inside the spacecraft was most satisfactory and easy to operate. Picture quality was good, but an effort should be made by future crews to hold the camera more steady in one position for longer times due to the slow scan rate of this camera. The telephoto lens was most unsatisfactory in that it was difficult to point. A sight must be provided on the camera if this lens is intended for further use. A lens of the 'eyeball' caliber, that is, one that will see on the screen about what the eye sees, should be provided for out-the-window views. Also, some sort of AGC or filter arrangement to cut down saturation from bright surfaces must be provided."
+Mattingly (continued): There is a picture. [Pause.]
+Frank swings the camera around to window 1 where a bright blob is visible. This is Earth.
+Mattingly (continued): We have a picture. Okay. It is a little difficult to see what we have.
+031:17:17 Borman: That's the Earth, but it is not the telephoto lens, unfortunately. It is just a regular inside lens.
+031:17:23 Mattingly: Okay. It's coming in as a real blight - a real bright blob on the screen. It is hard to tell what we're looking at.
+031:17:31 Borman: You are looking through some haze on the window too, unfortunately.
+031:17:37 Lovell: And the Earth is very bright, besides.
+Streaks are seen to cross the image, moving fast at first then appearing to slow.
+031:17:41 Mattingly: Okay. We've got the Earth in about the center of the screen and a little bit low, and it looked like there were some objects that moved across it - the screen at the same time. Do you have any comment on those?
+031:17:54 Borman: That's some water - some water ice coming off the vent nozzle.
+031:17:59 Mattingly: Roger. [Pause.]
+031:18:05 Borman: How does it look now?
+031:18:06 Mattingly: Still the same thing; it is - the target is extremely bright, and it is very difficult to make out what we're looking at.
+031:18:16 Borman: It is unfortunate that we don't have - we can't make the other lens work here. I don't know what the problem is.
+Frank returns the view to inside the cabin. As he leaves the image of Earth, a substantial trail is left on the imaging tube, raising an exchange in Mission Control about the danger of permanent damage to the photosensitive surface. The wide angle lens also has a wide aperture as it is meant for low-light photography within the cabin. In comparison, Earth is a very bright light source.
+031:18:24 Mattingly: Okay. Apollo 8, would you verify that the ALC is on?
+ALC is the Automatic Light Control, a system within the camera that adjusts the exposure based on the brightness of the viewed scene.
+The view is of Jim working at the optics station. Bill is beyond.
+031:18:33 Borman: We've tried it both ways.
+031:18:35 Mattingly: Okay; thank you. What we are getting now is a good picture.
+031:18:39 Borman: Say again. [Pause.]
+031:18:44 Mattingly: Okay. That's a - that's a real good picture. That's the best one that we've had. And how about just going and leaving your pictures inside until we can think some more of what we can do to adjust for that light?
+031:18:58 Borman: Roger. Jim, what are you doing here? Jim is fixing dessert. He's making up a bag of chocolate pudding. You can see it come floating by. Bill's coming up from the Lower Equipment Bay. [Pause.]
+Frank aims the camera along the main display console where Bill is handling the cable leading to the TV camera.
+Borman (continued): It is unfortunate that this telephoto lens doesn't work. Show them the lens that's the culprit here, Jim. This lens doesn't seem to be working; I can't understand why we're not - perhaps it's a problem of the light transmission through it. [Pause.]
+Bill is holding the telephoto lens up for the camera to view it.
+031:19:56 Borman: This transmission is coming to you approximately halfway between the Moon and the Earth. We've been 31 hours and about 20 minutes into flight. We have about less than 40 hours left to go to the Moon. You can see Bill's got his toothbrush here. He's been brushing his teeth regularly. To demonstrate how things float around in zero g. It looks like he plays for the Astros, the way he tries to catch that thing. [Pause.] I certainly wish that we could show you the Earth. It's a beautiful, beautiful view, with predominantly blue background and just huge covers of white clouds, particularly one very strong vortex up near the terminator. Very, very beautiful. Perhaps we'll get some assistance from the people on the ground and be able to deter - to determine why this other lens is not transmitting properly. [Pause.]
+031:21:11 Anders: Houston, did you get any light at all coming through that telephoto lens?
+031:21:18 Mattingly: Apollo 8, we were getting what you're showing us on your normal lens, and I don't think we got anything on the telephoto. We're working on this now. One of the problems seems to be that it's a low light level lens; we're afraid that you may burn it out pointing it at something that's too bright.
+A little confusion develops as Mattingly implies the telephoto is a low light level lens - which it is not. Mission Control don't want them to use the wide angle lens to look at Earth too much as it may damage the imaging tube.
+031:21:40 Borman: Well, the Earth is very, very bright. There's nothing in the lens you can burn out. The camera still seems to be working. We can give you a lumens reading of the Earth right now if you'd like. [Pause.]
+031:21:54 Mattingly: Hey, Frank, how about a couple of words on your health for the wide world.
+Bill fishes out a light meter, checks it, then exchanges it for the TV camera so Frank can try to measure the brightness of Earth. The TV view now looks across to Frank.
+031:22:03 Borman: Well, we are all in very good shape. Jim is busy working preparing lunch. Bill is playing cameraman right now, and I'm about to take a light reading on the Earth. We all feel fine. It was a very exciting ride on that big Saturn, but it worked perfectly, and we're looking forward now, of course, to the day after tomorrow when we will be just 60 miles away from the Moon.
+031:22:33 Mattingly: Rog. You all look great on candid TV [Pause.]
+031:22:44 Borman: Okay. I just got a reading on the Earth, Houston. It's 320. The Earth is showing 320 lumens now. [Pause.]
+Frank is using an onboard light meter, the Minolta Space Meter to measure the brightness of Earth. This meter is really a spot meter, having a field of view of only one degree. The unit shown in the photograph from this link is believed to have flown on Apollo 11 and a similar unit (maybe even this one) flew on Apollo 8.
+Jim moves up from the LEB, allowing Bill to manoeuvre the camera towards the optics station.
+Borman (continued): Hey, get a close-up of Jim Lovell, Bill. You can let everybody see he's already outdistanced us in the beard race. Jim has got quite a beard going already. [Pause.]
+Bill gives us a very good view of the optics station on the spacecraft. Within a rounded frame, the eyepiece for the sextant is on the left while that for the scanning telescope is on the right. Below are the switches and controls for the optics subsystem. Bill brings the camera back to the Main Display Console and a close up view of Jim.
+031:23:28 Lovell: Happy birthday, Mother. [Long pause.]
+Today, 22 December is Blanche Lovell's 73rd birthday.
+The Flight Director, Milt Windler, is asking EECOM how long they have before the spacecraft's rotation takes the HGA (High Gain Antenna) away from Earth. However, at the start of the TV transmission, Frank was manoeuvring to get a good view of Earth and is now holding attitude for that.
+031:23:49 Borman: Okay. Jim's going to take a shot of us from the Lower Equipment Bay, and then we have to get back to our Passive Thermal Control in the barbecue mode so that we don't get one side of the spacecraft too hot for too long at a time. So we will be signing off here, and looking forward to seeing you all again shortly.
+031:24:10 Mattingly: Roger.
+031:24:13 Borman: Goodbye from Apollo 8.
+031:24:17 Mattingly: Thank you. That's a good show.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And we've had our picture cut off now after that television transmission. Total duration of some 20 minutes. And during that TV transmission, we got some very enthusiastic comments from the crew on the view from some 120,000 miles [220,000 km] from Earth. Borman described the Earth as very beautiful, looking blue, covered with white clouds, and he also reported that all three crewmen at this point are in very good shape and all feel fine. At 31 hours, 24 minutes into the mission; this is Apollo Control.
+031:24:24 Borman: I hope we get that other lens fixed or some reading on it.
+031:24:31 Mattingly: Rog. We're going to work on that one then. The one that is sensitive to light is the lens you are just using, so you want to be careful about pointing that at some bright object.
+031:24:43 Borman: Rog. We're starting PTC again.
+031:24:45 Anders: I believe that's only if it hasn't been used for quite a while, Ken.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 31 hours, 39 minutes into the mission. At the present time we've completed the shift change here in Mission Control. Flight Director Milton Windler has relieved Clifford Charlseworth and our Capsule Communicator is astronaut Ken Mattingly. This is a relatively quite period in the Flight Plan. It's a sleep period for Commander Frank Borman, and we do not have any significant activities listed for the other two crewmen until some 33 hours, 30 minutes into the mission. Just about two hours before any significant crew activies are scheduled in the Flight Plan. We have some accumulated tape of conversations that occurred prior to the press conference and during the change of shift press conference. We'll play that back for you now and then pick up with whatever conversation is going on with the crew at the time.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+031:40:04 Mattingly: Apollo 8, Houston.
+031:40:08 Borman: Go ahead Houston, Apollo 8.
+031:40:10 Mattingly: Okay, I've got a few items for you I'd like to clear up and then we'll let you alone for a while. The first thing is we'd like for you to confirm that your spotmeter had an ASA setting of 100.
+031:40:27 Borman: That's confirmed.
+031:40:30 Mattingly: Okay, thank you. That was one of the first questions that came to mind. We're ready for a cryo fan cycle at any time and use your normal procedures.
+Each of the four cryogenic tanks will be stirred for two minutes each.
+031:40:47 Borman: Okay.
+031:40:49 Mattingly: Alright. You can anticipate a fuel cell purge at 35 hours, and we ought to be through with battery A charging somewhere after 34 hours; and looks like you'll have just about a full battery there. And we'll give you a call on the exact time to cut it off. We'd like to get some confirmation from you on the chlorine procedures. Did you get some in last night or not? And just a quick summary of how much sleep you got on Lovell and Anders?
+031:41:26 Borman: Okay. We got the chlorine in and the water has been chlorinated and, just a minute I will check with them on their sleep. [Pause.]
+031:41:40 Mattingly: I'm sorry, I didn't copy that sleep.
+031:41:44 Borman: Say again, Ken.
+031:41:46 Mattingly: I'm sorry I didn't copy your last, Frank.
+031:41:50 Borman: I was asking you to say to say what you said. Jim had about 4 hours sleep, and Bill had about 3 hours sleep.
+031:42:07 Mattingly: Okay. Thank you very much.
+031:42:12 Borman: We feel pretty good today. We'd like to see, in looking over the Flight Plan, perhaps we ought to put the rest periods a little bit shorter and more frequent. It seems it might work out better. We got all out of kilter on it yesterday, and we're sort of trying to get back in a normal cycle.
+The adjustment to sleeping in space is certainly leaving everyone aboard tired. Frank wants to adjust the Flight Plan to essentially squeeze out more productive sleep.
+031:42:32 Mattingly: Okay. We'll look into that. [Pause.]
+031:42:44 Borman: Y'all are doing good work. Keep it up.
+031:42:46 Mattingly: Okay. Thank you. Looks like the only other thing we've got left over is a comm check and if we can work that in without interrupting your present schedule, we'd like to.
+031:42:58 Borman: Okay. Right now we're stopping for a break, but we'll go ahead and do that. What does it involve?
+031:43:06 Mattingly: Okay. We'll need the High Gain Antenna, and there should be no comm loss during this mode. [Pause.]
+031:43:22 Borman: Okay. Ken. I think we're going to lose the High Gain here shortly. Why don't we pick it up next time it comes around?
+031:43:27 Mattingly: Real fine.
+031:43:31 Borman: Remember, the most important part of the trip occurs in two days when we start back. So you all get better rested too.
+031:43:40 Mattingly: We'll do that.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+031:52:41 Borman: Houston, we're starting the H2 fans now. [Pause.]
+031:52:51 Mattingly: Roger, thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+031:54:48 Borman: Houston, you just wanted 2 minutes cycling on those fans don't you? Two minutes each? [Pause.]
+031:55:04 Mattingly: That's affirmative, Apollo 8.
+031:55:08 Borman: Roger.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+That brings up to date with the communications with the spacecraft at present. At this time, it is quiet. We've had no further communications with the crew. We expect that it will remain quiet probably for the next hour or two. At the present time, Apollo 8 is at an altitude of 123,768 nautical miles [229,218 km], and our current velocity reading here in Mission Control is 4,568 feet per second [1,392 m/s]. I believe this is in conflict with a figure given earlier on the velocity in our previous announcement. I recall the velocity as being reported at about 4,400 feet per second. I would like to point that the spacecraft is continuing to decelerate and the reference to 4,400 feet per second in a previous announcement would be incorrect. The current reading, as I said, 4,568 feet per second on the velocity. At 31 hours, 57 minutes into the mission; this is Apollo Control.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+032:11:00 Mattingly: Apollo 8, Houston. [No answer.]
+032:11:26 Mattingly: Apollo 8, Houston.
+032:11:31 Borman: Go ahead Houston, Apollo 8.
+032:11:33 Mattingly: Okay. Apollo 8. Looks like we're going to have to put this comm test off because of some tracking requirements. We can do it in about an hour if this will not interfere with your present operations too much. It'll take maybe 15 to 20 minutes, and it will involve some conversation on the part of the people on board the spacecraft. So if that's going to interfere with your sleeping and all, why go ahead and we'll defer to that and we'll pick these requirements up at another time. And, I've got a score here, looks like Baltimore 21 to nothing.
+032:12:16 Borman: Who were they playing? [Pause.]
+032:12:26 Mattingly: How about Minnesota.
+032:12:30 Borman: That's from that other league.
+032:12:33 Lovell: How did last year's Army-Navy game come out?
+Very long comm break.
+Mission Control does not reply to Jim's attempt to remind them of an earlier Army-Navy game in light of the recent Navy defeat.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 32 hours, 14 minutes into the flight now. Apollo 8 is currently at an altitude of 124,506 nautical miles [230,585 km], traveling at a speed of 4,546 feet per second [1,386 m/s]. And we are in touch with the spacecraft at this time. We'll pick up communication and follow it along as it develops.
+This is Apollo Control, we don't appear to have any more conversations developing with the spacecraft. A check with the Flight Dynamics Officer here in Mission Control Center indicates that the spacecraft will continue to decelerate until about 55 hours, 38 minutes Ground Elapsed Time. At that point, our estimate is that it will come into the Moon's sphere of influence or perhaps more accurately the Moon's gravitational attraction will become the dominant force acting on the spacecraft, and the spacecraft will begin to accelerate again. At this point its altitude will be about 176,000 nautical miles [326,000 km]. It would be about 30,000 nautical miles [56,000 km] from the Moon. At 32 hours, 20 minutes into the flight; this is Apollo Control.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+032:22:47 Anders: Houston, Apollo 8. Over.
+032:22:49 Mattingly: Go ahead, Apollo 8.
+032:22:53 Anders: Roger. We've stirred up all the cryos. Could you give me your quantities, please?
+032:23:00 Mattingly: Okay. Stand by.
+032:23:04 Anders: Roger. Be advised the CMP just hit the hay for a while, and the LMP will go down in a little while.
+The planned wake/sleep cycles have essentially been dispensed with. Jim and Bill were not supposed to be taking a rest period for another 3½ hours. Frank, who is still awake, was supposed to begin his 3½ hours ago. It is no surprise that Jim and Bill are heading to bed earlier than scheduled. With 4 and 3 hours of sleep, respectively, they are certainly bone tired.
+032:23:12 Mattingly: Okay. And our guys down here are watching [the] High Gain Antenna pointing program, so anytime you're not using the DSKY for anything else, they'd like to watch it for a couple of cycles, so if you would leave that Noun 51 on the display, why, it'll help a lot down here.
+Mission Control can see whatever values are displayed on the DSKY (Display and Keyboard). By having the crew call up Noun 51 onto this display, two numbers are shown which refer to the pitch and yaw angles that the HGA (High Gain Antenna) is adopting as it automatically aims at Earth. As the spacecraft turns, it will eventually lose lock and ground controllers want to watch what it does when this happens.
+032:23:31 Anders: Okay. Why don't you give us Reacq[uire] angles, and we'll try that for the next time. [Pause.]
+032:23:44 Mattingly: Okay. [Long pause.]
+The HGA can be thought of being like a torch which shines a beam of energy into the void. It can, of course, receive energy down a similar beam. The width of this beam can be relatively narrow and it is important to keep the beam aimed squarely at Earth. Being mounted on a spacecraft that may be oriented in many ways means that there must be some way of having the antenna track Earth.
+Photo of HGA controls on panel 2 of the Apollo 13 Command Module Odyssey.
+This photograph shows the area at the bottom left of panel 2 where the HGA controls are located. To the top left of the image are two switches, one of which is labelled 'Track' which allows the crew to select one of three tracking methods.
+Manual: The HGA points to the angles set into pitch and yaw controls.
+Auto: Once the HGA has acquired a signal from Earth, Auto causes the antenna to lock onto its direction. Even as the spacecraft rotates, the HGA will continue to be pointed at Earth until it reaches the limits of its articulation. However, it makes no effort to reacquire Earth once the planet returns to the HGA's slewing range.
+Reacquire: This mode is specifically intended for those periods when the spacecraft's motions are repeated and predictable. The antenna will track Earth as far as it can. Then, as the spacecraft or the Moon takes the antenna outside the limits of its articulation or away from Earth, it will align itself to the angles set in the pitch and yaw controls. If these angles have been properly calculated, Earth should come back into the antenna's beam, whereupon it will resume automatic tracking.
+In a typical lunar Apollo mission, there are two contexts where 'Reacq' is a suitable mode for operating the HGA. The first is the PTC mode during the coast to and from the Moon where the spacecraft is rotating around its long axis. Assuming the spin is stable and the axis is not coning too much, the antenna can be set to go to an angle where it will pick up Earth after the spacecraft takes it around the side facing away from the planet. The other situation is lunar orbit. Usually the spacecraft orbits the Moon in a known attitude. Normally this is an orb-rate attitude where one side of the spacecraft is constantly facing the surface. When the spacecraft goes around the far side of the Moon, all communication is lost and the HGA can no longer track Earth. However, in Reacq mode, appropriate angles can be dialled in to set the HGA at a suitable angle so that when the spacecraft reappears on the opposite side of the Moon, the antenna will find Earth and lock onto it. Apollo 8 is the first opportunity to try the Reacq mode in the environment for which it was designed.
+Other features to note in the photograph are the two knobs that allow the HGA angles to be manually set, the two dials that feed back to the crew the actual position of the antenna, a signal strength meter that helps the crew establish that a good signal strength is being received from Earth, and a switch for the antenna's beam width.
+032:24:37 Mattingly: Apollo 8, are you ready to copy some cryo quantities?
+032:24:45 Anders: I'm ready. How about O2 first.
+032:24:47 Mattingly: Okay. O2 tank 1, I show 88.1 percent.
+032:24:55 Anders: Okay. Could you give it to me in pounds, please?
+032:25:02 Mattingly: Okay. You'll have to stand by while we convert that.
+032:25:05 Anders: Thank you. [Pause.]
+Graphs for expected oxygen and hydrogen consumption are given in Bill's checklist at the end of the Systems section. Each graph has three scales for quantity; total weight remaining, usable weight remaining after measurement error and unusable quantities are taken into account, percentage usable remaining. The last two have a higher zero point than the first scale and by quoting percentage, Mattingly implies that he is referring to usable quantity. If he quotes in pounds, he must define whether he is referring to total or usable quantity.
+032:25:15 Anders: That's okay, Ken. Go ahead, I'll take percent.
+032:25:19 Mattingly: Okay. We'll try and get the pounds for you, too, Bill. Tank 1, oxygen 88.1.
+032:25:29 Anders: What time is it for?
+032:25:30 Mattingly: This is present.
+032:25:34 Anders: 32:30, okay.
+032:25:38 Mattingly: Okay, I've got 32:25. And O2...
+032:25:45 Anders: In weight, not percentage.
+The conversions to pounds aren't quite ready yet, so Ken is relaying percentages.
+032:25:46 Mattingly: Okay, O2 tank 1, 88.1; O2 tank 2, 87.37.
+032:26:14 Anders: Is that 0.37 or 0.36?
+032:26:17 Mattingly: 0.37.
+032:26:22 Anders: Roger. Got it.
+According to Bill's graph, they should be at about 85 percent usable oxygen remaining so their consumption is less than expected.
+032:26:23 Mattingly: Okay, H2 tank 1, 75.97. Tank 2, 78.06. Over.
+032:26:50 Anders: Okay, thank you very much. It looks good.
+032:26:52 Mattingly: Okay, thank you.
+Very long comm break.
+By the hydrogen graph in Bill's checklist, they were expected to be at about 82 percent usable H2 remaining. They are slightly below this but well within red line values. For a nominal mission, they are expected to have 40 percent hydrogen remaining by the end of the mission, a substantial reserve.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 32 hours, 28 minutes. We're in communication with the spacecraft at this time. We'll bring you up to date with a tape recording on the earlier portion of the conversation and then pick it up live.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+032:40:03 Mattingly: Apollo 8, Houston.
+032:40:07 Borman: Go ahead, Houston, Apollo 8.
+032:40:10 Mattingly: Okay. I've got a couple of things we need from you. I'd like to get a battery C voltage. I'd like to check a battery manifold pressure. Your High Gain...
+032:40:25 Borman: Battery C is 37 volts.
+032:40:28 Mattingly: Understand 37 volts on battery C. Is that affirm?
+032:40:32 Borman: 3, 7.
+032:40:34 Mattingly: Okay, thank you. And if you can get to the battery manifold pressure, like to read that one.
+032:40:42 Borman: 0.6 volts
+At first glance, it seems odd to be expressing a measurement of pressure using volts. In the Apollo era, pounds per square inch was the normal unit for pressure (Pascals being used in the SI arrangement). However, all measurements from transducers around the spacecraft are translated into voltages within standardised ranges in preparation for being transmitted to Earth as numbers. Frank gets a reading for the pressure build-up in the battery compartment by calling up the appropriate voltage on the Systems Test Meter. In this case, 0.6 volts for the battery manifold pressure translates to 2.16 psia.
+032:40:44 Mattingly: Alright understand 0.6 volts. The angles you asked for on the High Gain Antenna are pitch, minus 45; and yaw, 90. [Long pause.]
+032:41:43 Borman: Okay. Houston, this is Apollo 8. I'm going to just go into High Gain now. We're about ready to pick you up. We'll get this thing works on Reacq.
+Frank is going to try out the High Gain Antenna's reacquire mode. He will dial in these angles for the antenna and throw the Track switch to Reacq. When the spacecraft's rotation causes the antenna to lose lock on Earth, it will slew to these angles. If they have been correctly calculated, the HGA should regain lock with Earth as it comes around the other side of the spacecraft.
+032:41:50 Mattingly: Okay, and I have a scanning telescope star visibility item for you to pick up, when you're ready to copy that.
+032:42:06 Borman: Roger, we'll get that on High Gain when we get back to you.
+032:42:10 Mattingly: Okay, thank you.
+032:42:11 Borman: We'll come back on High Gain.
+032:42:12 Mattingly: Roger. [Pause.]
+032:42:23 Borman: That's not fair, we're there already.
+An interpretation of this exchange is that they believed the antenna was around the back of the spacecraft when the angles were read up. It seems the antenna had already come around to the front when the Reacq mode was selected and that it managed to lock onto Earth immediately.
+032:42:28 Mattingly: That's pretty good acquisition, huh?
+032:42:34 Borman: You guys are reading the DSKY. Go ahead Houston.
+032:42:40 Mattingly: Okay, Apollo 8. Maybe we ought to try that one again next time, and the scanning telescope star visibility is scheduled for 34:10 in the Flight Plan, and it'll be star number 31. The angles are roll, 184.7; pitch, 23.4; yaw, 14.3; shaft and trunnion zero. Over.
+As part of continuing tests of the spacecraft's optical system, Jim is to check the visibility of star 31, Arcturus, the fourth brightest star in the sky. This should appear in the centre of the scanning telescope when the spacecraft attitude is set to the given angles and the shaft and trunnion angles of the optical system are set to zero.
+032:43:28 Borman: Understand; star 31; roll, 184.7; pitch, 23.4; yaw, 14.3; and star shaft and trunnion, zero.
+032:43:38 Mattingly: That's affirm, and that's copy star 31.
+032:43:45 Borman: That's Roger, 31.
+032:43:47 Mattingly: Okay, thank you. [Long pause.]
+032:44:18 Anders: Houston, Apollo 8.
+032:44:20 Mattingly: Go ahead.
+032:44:24 Anders: The LMP would like to take a Seconal and hit the hay. [Pause.]
+032:44:36 Mattingly: Okay. That's a Go.
+032:44:41 Anders: Okay, thank you. [Pause.]
+032:44:45 Anders: And that whole...
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 40 - rather 32 hours, 45 minutes. At the present time the spacecraft is at an altitude of 125,723 nautical miles [232,838 km], traveling at a speed now of 4,509 feet per second [1,374 m/s]. We've been in coversation with the crew for the last couple of minutes. At the present time Lunar Module Pilot Bill Anders and Command Module Pilot Jim Lovell are attempting to get a little bit of sleep. Anders requested a few moments ago that he be given a go ahead to take a Seconal tablet. This is one of the short acting sleeping pills carried aboard the spacecraft, And the medics have given him the go ahead to take the Seconal tablet. We'll play back that tape for you now, and then stand by for further conversation with the crew.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+032:50:06 Mattingly: Apollo 8, Houston.
+032:50:10 Borman: Go ahead, Houston.
+032:50:12 Mattingly: Okay. We'd like to go ahead and get in this comm check now here, on the last of this High Gain period. If you're ready to go on it, I'll read you some switches.
+While the HGA is to the side of the spacecraft facing Earth, Mission Control want to complete a series of communication tests they began nearly three hours ago.
+032:50:27 Borman: Stand by. We're ready. Go ahead.
+032:50:29 Mattingly: Okay. Number 1. S-band Normal, Mode, Voice, to Voice.
+032:50:43 Borman: Go ahead - keep going.
+032:50:44 Mattingly: Uptelemetry, Data to Data. [Long pause.]
+032:50:57 Borman: Just read them - Just read them all up [garble]. [Pause.]
+032:51:08 Borman: Normal, Mode, Voice, to Voice; and Uptelemetry Data, to Data.
+032:51:12 Mattingly: Okay, Uptelemetry Command, to Normal.
+032:51:17 Borman: Normal.
+032:51:18 Mattingly: High Gain Antenna, Track, Auto. [Pause.]
+032:51:25 Borman: Roger. Going Auto.
+032:51:27 Mattingly: High Gain Antenna, Beamwidth, to Narrow.
+032:51:30 Borman: Beamwidth, Narrow.
+032:51:33 Mattingly: Okay, this will be our baseline data check. This will be a full uplink voice with ranging and full downlink.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+032:57:53 Mattingly: Apollo 8, Houston. We're going to have to belay the comm check again.
+Long comm break.
+The HGA will go out of sight of Earth at 033:06 as the spacecraft rotates in the PTC mode. If it had just become visible at 032:42:23 then it is taking 24 minutes or so to get around from one side to the other, implying a rotation period of around three quarters of an hour or maybe slightly more. This is somewhat faster than the one-hour period originally planned.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:01:09 Borman: Houston, Apollo 8. How do you read?
+033:01:13 Mattingly: Apollo 8, Houston. Did you call?
+033:01:18 Borman: Roger. We lost you for a while there. Are you reading us now?
+033:01:20 Mattingly: Loud and clear now.
+033:01:24 Borman: Okay. Thank you. So are we. [Pause.]
+033:01:36 Mattingly: Okay, Apollo 8. Do you want to try that Auto, Reacq? 33 plus 24 looks like the good time and the angles are the same. And the late ball score is 24 to 14.
+The scores are for a game between Baltimore Colts and the Minnesota Vikings.
+Mission Control reckon that the HGA will regain its line of sight to Earth at 033:24. This will be about 40 minutes from the last time they tried the Reacq mode, implying that something over 40 minutes is the current rotation period.
+033:01:48 Borman: [Garble.]
+033:01:51 Mattingly: Alright.
+033:01:53 Borman: Say it again.
+033:01:54 Mattingly: I say a late ball score there is...
+033:01:55 Borman: [Garble] the ball score?
+033:01:56 Mattingly: 2, 4 to 1, 4.
+033:02:02 Borman: Baltimore over the Vikings?
+033:02:05 Mattingly: Affirm.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:05:56 Borman: Houston, Apollo 8.
+033:05:58 Mattingly: Go ahead, Apollo 8.
+033:06:02 Borman: We've reached the scan limit on the High Gain. What do you want us to do about it now? [Long pause.]
+033:06:39 Mattingly: Apollo 8, what we'd like to do with these angles is to set it in Auto Reacq over on panel 2, and it's under the Tracking for the High Gain Antenna, and it'll - the lower position will say Reacq, and on the position dials, we'd like to set pitch to minus 45 and the yaw to 90.
+033:07:08 Borman: Pitch, minus 45; yaw, 90.
+033:07:10 Mattingly: Okay. Stand by one.
+033:07:15 Borman: Roger. If we could leave it in Reacq if you want to use the High Gain, it would keep from waking us up every rev.
+This is the intended purpose of the Reacq mode. The HGA looks after itself while the crew gets on with other things. It has not been determined why they don't always leave it in Reacq all the time? Our speculation is that as this is a test flight, they will not use it until it has been tested out according to the Flight Plan.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:10:32 Mattingly: Apollo 8, Houston. I think we may have gotten off on a tangent. These pitch and yaw angles that we called up to you for the High Gain Antenna were in response to Bill's request to know what positions we could put on there for a - for the Auto Reacq position. The constraint still remains if we don't want to be on an Omni antenna at the same time. We're in the Auto Reacq position; we should be in one or the other. So you can use that information if you want to try it out. Otherwise, the procedures you've been using all along will work just fine. Over.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 33 hours, 13 minutes. At the present time, we're involved in one of a series of communications checks with the spacecraft. We'll pick that up for you at the beginning and continue to monitor live.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:15:41 Mattingly: Apollo 8, Houston. I'm transmitting in the blind right now. Our downlink isn't working so well; I'm just going ahead on an uplink.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 33 hours, 17 minutes. At the present time, the spacecraft is at an altitude of 126,969 nautical miles from Earth, traveling at a speed of 4,471 feet per second. We have no further communication with the crew at this time - we'll take the circuit down and stand by to come up again when next we are in touch with the spacecraft. This is Apollo Control at 33 hours, 18 minutes.
+AS08-16-2604 - Earth at approximately 226,000 km (based on photo analysis) at about 033:20 GET, and using the 80-mm lens. South is to the lower left and the Americas run up the terminator. The planet was evidently imaged through one of the fogged windows.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:20:00 Borman: Houston, do you read? Apollo 8.
+033:20:03 Mattingly: Apollo 8, read you weak but clear now.
+033:20:08 Borman: Roger. Thank you.
+033:20:10 Mattingly: Okay. Looks like we had a ground problem there.
+033:20:18 Borman: Roger.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:33:31 Mattingly: Apollo 8, Houston.
+033:33:34 Borman: Go ahead.
+033:33:38 Mattingly: Okay. Looks like we're...
+033:33:39 Borman: Go ahead, Houston. Apollo 8.
+033:33:40 Mattingly: ...Looks like we're in a good attitude to try this High Gain Antenna on the comm check one more time. I believe you're still on an Omni. Is that correct?
+033:33:52 Borman: Roger.
+033:33:55 Mattingly: Okay. If we could try the High Gain and maybe we can get started on this comm check. Also like to verify that you've got the LMP and the CMP trying to get some sleep here, and we could use an oral temp from you, too.
+033:34:16 Borman: Rog. My temperature is 97.5 [degrees Fahrenheit].
+033:34:20 Mattingly: Okay. Thank you.
+033:34:24 Borman: That's what it was this morning when I felt badly.
+033:34:26 Mattingly: Alright; thank you. [Long pause.]
+033:35:24 Borman: Do you want me to go to Omni now, Ken?
+033:35:26 Mattingly: I'd like for you to go to High Gain.
+033:35:28 Borman: High Gain?
+033:35:29 Mattingly: Yes, sir.
+033:35:33 Borman: High Gain. [Pause.]
+033:35:40 Borman: This is Apollo 8 on the High Gain.
+033:35:44 Mattingly: Rog. Reading you kind of weak now. We're taking a look at it. [Long pause.]
+033:36:24 Borman: Houston, Apollo 8 on the High Gain.
+033:36:27 Mattingly: Okay. I'm reading you loud with just a little background noise.
+033:36:33 Borman: Roger.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 33 hours, 38 minutes. Spacecraft, at this time, is 128,179 nautical miles [237,387 km] from Earth and our velocity is 4,434 feet per second [1,351 m/s]. We're still involved from time to time with the communications checks with the spacecraft. One of those is in progress at this time and we'll pick up with the beginning and continue to follow it along.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:39:24 Mattingly: Apollo 8, Houston. We're not getting a good lock. I wonder if we could try making sure that we're in Auto on the track, and that we're in narrow beamwidth?
+033:39:39 Borman: Standby. [Long pause.]
+033:40:00 Borman: How's that, Houston?
+033:40:04 Mattingly: Okay. That works real good.
+Comm break.
+Apparently, Frank has used one of Ken's suggestions to improve communications quality.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:42:07 Mattingly: Apollo 8, this is Houston. What we're doing right now is collecting baseline data, and we'll be in this mode for another couple of minutes and then we'll be moving on to the second sequence.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:43:55 Mattingly: Apollo 8, Houston. How do you read? [No answer.]
+033:44:22 Mattingly: Apollo 8, Houston.
+033:44:27 Borman: Houston, Apollo 8. Read you five-by.
+033:44:30 Mattingly: Okay. We are [garble] we have some ground problems, and we're reading you weak but clear. We're ready to start into our test. We're going to be changing our modes so you'll probably hear a burst of noise as we make the change. This will be a noise that sounds like an S-band unlock. However, your AGC leader will not drop off. This is due to the loss of modulation on the uplink. There will be about 2 minutes, and during this time, you may hear one burst of noise. [Long pause.]
+033:45:39 Mattingly: Apollo 8, Houston. Voice check. Over. [No answer.]
+033:45:57 Mattingly: Apollo 8, Houston. Ready to check. [No answer.]
+033:46:20 Mattingly: Apollo 8, Houston. [No answer.]
+033:46:38 Mattingly: Apollo 8, Houston.
+033:46:43 Anders: Go ahead, Houston.
+033:46:48 Mattingly: Apollo 8, this is Houston. Do you read?
+033:46:53 Anders: That's affirmative.
+033:46:54 Mattingly: Okay. Thank you. Were you reading all along? We just - This is the first time we've heard you call back.
+033:47:02 Anders: We've been reading you; we're trying to hold the noise down so we can get some sleep.
+033:47:09 Mattingly: Rog. We'll be through with this in just a minute, I think.
+033:47:13 Anders: Roger. I'll answer you, but I'll try to do it quietly.
+033:47:18 Mattingly: Okay, Bill. [Long pause.]
+Bill took a sleeping pill about an hour ago but is evidently still awake despite this.
+033:47:45 Mattingly: Okay, Apollo 8. The next portion of our test is like we did yesterday. We'll be changing the uplink modes to uplink command and ranging with no upvoice. We'll be in this mode for approximately 2½ minutes and send two test messages. During this time, we will not have uplink. We are going to this mode at time 33:48:30, and we'll be back in this configuration at 33:50. Over.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+033:50:59 Mattingly: Apollo 8, Houston. Radio check.
+033:51:05 Anders: Loud and clear, Houston.
+033:51:07 Mattingly: Okay, fine. How about telemetry inputs PCM [Pulse Code Modulation] switch to Low [bit rate], please? [Pause.]
+033:51:17 Anders: They're in Low [bit rate], Houston. [Pause.]
+033:51:24 Mattingly: Roger.
+Comm break.
+033:52:53 Mattingly: Apollo 8, we've completed the third test; we're going into the final test now. PCM switch to High, please. [Long pause.]
+033:54:01 Mattingly: Apollo 8, Houston. We're going to switch uplink to the upvoice backup for about 2 minutes, and may take a few seconds to link the transition. And we'll be back up at 33:56 in our normal mode to place the Uptelemetry Data switch to Upvoice Backup at this time. Over.
+033:54:28 Anders: Roger.
+Comm break.
+033:55:54 Mattingly: Apollo 8, Houston on backup voice.
+033:56:00 Anders: Loud and clear, Houston.
+033:56:02 Mattingly: Okay, fine; thank you. [Long pause.]
+033:56:21 Mattingly: Apollo 8, let's go back to Uptelemetry Data switch to Data. [Long pause.]
+033:57:12 Mattingly: Apollo 8, Houston. [No answer.]
+033:57:29 Mattingly: Apollo 8, Houston. [No answer.]
+Comm break.
+033:58:56 MCC: Stand by; guess we've got 85-foot site voice back now; the noise went away.
+033:59:02 Mattingly: Apollo 8, Houston. [Pause.]
+033:59:10 Anders: Go ahead, Houston. [No answer.]
+033:59:17 Anders: Go ahead, Houston.
+033:59:19 Mattingly: Okay, Apollo 8. That completes our comm test. Thanks for your cooperation. And I've got a change here to Nav sightings that come up at 34:20. And we want to change your star a little bit there. Are you ready to copy?
+033:59:38 Anders: Ready to copy.
+033:59:40 Mattingly: Okay.
+033:59:41 Anders: Ready to copy.
+033:59:43 Mattingly: Okay, Apollo 8. We'd like to change the Nav sighting as follows: we'd like to use star 26, that's, two-six; we'd like to make it Earth-near horizon for two sets, two sets. Then we'd like to take star 16 Earth-far horizon, one set. If star 26 Earth-near horizon is not possible, star 16 Earth-far horizon, one set, and star 22 Earth-far horizon, one set. Over.
+034:00:36 Borman: Roger, Houston. Be advised the CMP is asleep. Wonder if we could put those off for a while.
+034:00:45 Mattingly: Okay. Stand by. [Long pause.]
+034:01:34 Mattingly: Apollo 8, okay; we can put this off. What we will probably need from you is some kind of an estimate of when you think somebody will be available to work on it, and we're working on how much lead time we need now. [Pause.]
+034:01:56 Anders: Stand by [garble].
+034:01:58 Mattingly: Roger. [Pause.]
+034:02:08 Borman: Houston, why don't you figure the CMP will sleep another couple of hours, then the LMP, and then the CDR up to about 43 hours equally. Over.
+034:02:20 Mattingly: Okay.
+034:02:25 Borman: Then we'll start off with the CMP again at about 44.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+034:06:58 Mattingly: Apollo 8, Houston.
+034:07:03 Borman: Go ahead, Houston.
+034:07:05 Mattingly: Okay. We can put off this Nav sighting. It was scheduled here at 34:20, and we can put it off, judging from your comments about sleeping, we would like to get it as soon as we can, and right now, our plans are to slide it 2 hours. We'll do the P52 by sliding it back to the same thing since it is associated with the P23. So if that's a convenient time for you, why, we will plan on that.
+Before any cislunar navigation exercise (or P23 as it is known because of the computer program used to carry it out), the guidance platform should be realigned (using P52 in the computer). Once Jim is awake, which he will be at 035:48, he can start on the latter before proceeding with the former.
+034:07:38 Borman: We're doing the P52 now. Do you want us to continue?
+034:07:43 Mattingly: Well, as far as we are concerned, that isn't going to help us any. We will have to do it over again anyhow.
+Either Frank or Bill has begun the P52 platform realignment that was due at 033:50. Since this realignment was part of the preparation for the navigation exercise, it isn't really needed as Jim will do another anyway. They proceed with it and it is noted in the Mission Report. Interestingly, the writers of that report attribute this P52 to Jim but this is not the case.
+The report records that stars 15 (Sirius) and 6 (Acamar) are used for the realignment. Frank's sightings on these two are accurate to 0.01°, a very good result, and the three gimbals surrounding the platform had to be rotated or torqued by -0.136° in X, -0.013° in Y and +0.192° in Z to bring it into proper alignment.
+034:07:54 Borman: Okay. And what time do you want to do it?
+034:07:57 Mattingly: Well, if you think Jim's going to be up in a couple of hours, why, that will slide us 2 hours to 36:20.
+034:08:08 Borman: Okay. We'll go ahead and make another one there and pick it up then if that's okay.
+034:08:12 Mattingly: Okay. That will be real fine. Thank you.
+034:08:17 Borman: What we're going to try to do is get back on the sleep cycle to those sleep periods just prior to LOI [Lunar Orbit Insertion] by taking shorter cycles for each man.
+034:08:29 Mattingly: Real fine.
+Long comm break.
+The essence of Frank's problem is that the whole crew need to be awake for the Lunar Orbit Insertion engine burn and the succeeding few hours. Staggered rest periods are scheduled during the 20 hours the crew are in lunar orbit but no one has accounted for the effect just being in orbit around the Moon and the intense work that accompanies it will have on the crew's fatigue. In their favour is the fact that being is space is inherently less tiring than being on Earth and crews generally find they need less sleep than normal.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 34 hours, 10 minutes. As you heard in that conversation with Commander Frank Borman, we will be rescheduling part of the Flight Plan activity in order to allow Jim Lovell to continue sleeping. That is the mid-course navigation activity scheduled to occur between 34 and 35 hours in the Flight Plan. Current plans are to move that back about 2 hours, and do it after Lovell has had a chance to get some rest. Borman also advised that following Lovell's sleep period, Anders would attempt to get a few hours of rest and then he himself would try to get some rest. At 34 hours, 11 minutes into the flight, this is Apollo Control.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+034:13:52 Borman: Houston, Apollo 8.
+034:13:57 Mattingly: Apollo 8, go ahead.
+034:14:01 Borman: How about giving us some Reacq angles, and we'll stay in Reacq.
+034:14:05 Mattingly: Say again, please.
+034:14:11 Borman: Could you give us some Reacq angles?
+034:14:14 Mattingly: Wilco. [Pause.]
+034:14:24 Borman: Say again. [Pause.]
+034:14:29 Mattingly: Apollo 8, this is Houston. I hadn't said anything at that time. We're digging some angles out for you now. In reference to your earlier question about the sleep cycle juggling and so forth: we agree with your comment. We would like to get back on the Flight Plan as far as the sleep cycles and so forth are concerned by the time we get into lunar orbit. So we'd like for you to use your own judgment about the most efficient way to accommodate the sleep cycles and proportion it up amonst yourselves. We would like to have you keep us informed of who's doing what and what your plans are. We have the one P23 that we had slipped 2 hours. We'd like to get the other one in. We can also adjust the time for the other P23, if it's going to conflict - I guess that's two more P23s. We can adjust the time for those if you'll let us know what your forecast is for when Jim will be available to take some sightings. So the big message is that we'd like to work around whatever your desires are. If you'll let us know, why, we'll pick some stars and some angles and have them ready for you.
+034:15:44 Borman: Okay, Houston. The CMP will be up at 36 hours. The LMP's going to sleep now, and he'll sleep through 'til 40 and then I'll stagger that in and try to go to sleep around 30 to 37 so that by the time we get to day 3 we'll all be back on the same direct sleep cycle.
+034:16:12 Mattingly: Okay, real fine. Thank you. [Long pause.]
+034:16:28 Mattingly: Apollo 8, Houston. Reacq angles look like minus 45 in pitch, plus 90 in yaw, and 34:23 for the time.
+034:16:41 Borman: Roger. Copy. This is - we'll use this Reacq because it keeps the Caution and Warning from going off again.
+Evidently, if the HGA loses lock in Auto mode, it sets the alarm off. If it loses lock in Reacq mode, the alarm stays quiet as the antenna waits to reacquire Earth.
+034:16:48 Mattingly: Roger. I understand that. Are you leaving the High Gain Antenna on after it swings over to the reset position?
+034:17:04 Borman: Do you have any reason for us to use the High Gain Antenna?
+In the MOCR (Mission Operations Control Room) there are many audio loops available for flight controllers to plug into and listen or take part in. At this point in the air/ground transcript, one half of a discussion taking place on another loop breaks into the air/ground loop and we hear two utterances from the Flight Director, Milt Windler, as he queries his EECOM, William Burton, about whether he needs data from the spacecraft at high bit rate. It transpires that at their current distance, they can still receive high-bit-rate data from the omni-directional antennae and therefore don't actually need to use the HGA just now.
+034:17:10 Flight: EECOM, do we need that, really, very much.
+034:17:13 Mattingly: Stand by.
+034:17:15 Flight: Why, why can we just not use the High Gain Antenna for a while? [Pause.] Getting high bit rate on the Omnis. Okay, let's tell them that we'll just not worry about the Omni for a while. [Pause.] FIDO, you going to do... [Long pause.]
+AS08-16-2605 - Earth at approximately 237,000 km (based on photo analysis) at about 034:20 GET, and using the 80-mm lens. South is to the lower left and the Americas run up the terminator. Baja California is visible at the top right.
+034:18:30 Anders: Houston, this is the LMP. Before I hit the sack, could you give me a rundown on our systems the way you see them?
+034:18:37 Mattingly: Okay, we'll put that together for you and we were just talking about the redundant ECS components check and we were going to put that off until everybody's had a chance to get some sleep. Trying to keep you from having to go under the left-hand couch.
+034:18:54 Anders: Oh, that would be nice. I sent Lovell under the couch, though. [Long pause.] I've got one man sleeping under the left couch here - right couch and one man sleeping on our right couch.
+034:19:33 Mattingly: Okay. I understand you've got one under and one on the right couch.
+034:19:39 Anders: Roger. That's affirm.
+034:19:41 Mattingly: Okay. And in reference to the Omni versus the High Gain, it looks like we can live with the Omni antennas here for several more hours, if you would like to delete the use of the High Gain. [Long pause.]
+034:20:10 Anders: Okay. Goodnight, Houston.
+They will be able to receive high-bit-rate data from the omni-directional antennae until they are nearly 300,000 km from Earth, another 60,000 km away.
+034:20:16 Mattingly: Okay. Before you pitch your eyeballs there, we'd like to terminate the battery charge.
+034:20:25 Anders: I knew you guys would get me.
+034:20:27 Mattingly: Gotcha. [Pause.]
+034:20:35 Anders: Okay. The battery A charge is terminated at 37.3 volts.
+Battery A has been charging for over 13 hours now.
+034:20:41 Mattingly: Okay. Thank you. [Long pause.]
+034:20:54 Anders: Standing by for your systems status.
+034:20:56 Mattingly: Okay. We're pulling that together now.
+034:21:01 Anders: How are the PU (Propellant Utilization) valve and SPS (Service Propulsion System) line temps looking?
+034:21:05 Mattingly: Okay, I'll check that.
+034:21:06 Anders: We just had [garble] I understand.
+Long comm break.
+Bill has particular responsibility for the spacecraft systems so he is diligent in keeping track of how they fare in this new environment of cislunar space. He is asking about the temperatures in the piping that leads fuel and oxidiser from the propellant tanks to the SPS engine. He also asks about the temperature of a valve that sits in the oxidiser line. These components are mounted at the rear of the Service Module outside the main structural shell and although covered by the insulation of a heat shield, they have never yet endured the thermal conditions of space away from the heating effects of Earth.
+This valve is part of the Propellant Utilisation and Gauging System or PUGS. Weight margins on a full-up Apollo mission are very tight and propellant in the Service Module is a major part of that weight. PUGS was conceived as the lightest, simplest way to ensure that the balance between fuel and oxidiser is optimised during an engine burn so that there would be no excess of either were the tanks to be run to empty. Quantities are measured during a long burn by capacitance probes and point sensors. Depletion of fuel and oxidiser is compared and the result fed to a gauge mounted where the LMP can see it. It is labelled in such a way that tells him what the imbalance between the two is and whether to increase or decrease the flow of oxidiser. This he does with a switch next to the gauge that operates the PU valve which opens or closes slightly to adjust the oxidiser flow.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 34 hours, 23 minutes. In the past few minutes, we've been in conversation with the spacecraft, Frank Borman and Lunar Module Pilot Bill Anders. Bill advised that he was preparing to join Jim Lovell in getting a little bit of sleep, and Frank Borman advised that when one of the two wakes up a little later on, he'll try and get a few hours of rest, also. We'll play back the tape of that conversation and then continue to follow any conversation live.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+034:25:53 Anders: Systems look okay to you, Houston? [Long pause.]
+034:26:09 Mattingly: Okay, Apollo 8. All the systems - giving a quick look around the room - look real fine. You've gotten an RCS quad update on the quantity, so you have that information. The SPS oxidizer feed line temperature and the fuel temperature are both at 73 degrees. The cryo profile is running right on the line: Battery A - our calculations have 39.63 amp hours. Battery B, 37.94, and battery Charlie, 38.46. The comm continues to be running ahead of predictions in quality and circuit margins. Everything else looks like it's real fine.
+034:27:06 Anders: Rog. Do you expect to have a low bit rate voice on the DSE off the Omnis at lunar distances? [Pause.]
+With the better-than-expected quality from the communications system, Bill is wondering whether it would be possible to replay the voice track as well as low-bit-rate data from the DSE (Data Storage Equipment) using just the omni antennae when they are at the Moon. The expectation is that the HGA will be needed for any communication beyond the most basic.
+034:27:23 Mattingly: That's negative on DSE of the Omnis. Not looking forward to that much improvement.
+034:27:32 Anders: Roger. We need about a 30-foot dish, I figure, here for that [pause] on the spacecraft.
+034:27:47 Mattingly: Rog. It runs up the fuel required for PTC, though, Bill.
+034:27:56 Anders: Rog.
+In jest, Bill suggests adding a 30-foot dish antenna to the spacecraft, itself only 13 feet in diameter. Ken Mattingly's riposte is that such a huge appendage would make the PTC rotation difficult to maintain, requiring lots of RCS fuel.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. There are no further communications with the spacecraft at this point, so we'll take the circuit down and stand by. At the present time, Apollo 8 is at an altitude of 130,368 nautical miles [241,441 km], and our velocity is 4,370 feet per second [1,332 m/s]. This is Apollo Control at 34 hours, 33 minutes into the mission.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+034:39:36 Mattingly: Apollo 8, Houston.
+034:39:40 Borman: Go ahead, Houston, Apollo 8.
+034:39:42 Mattingly: Okay. I know you're trying to be quiet, so I'll just read up some information to you. One of the things that we just turned up that might give you some confidence, is if you lose [one] oxygen cryo tank now: you have 80 pounds remaining now at CM/SM sep. The limiting factor on single tank operation right now is the hydrogen tank which has a positive margin at CM/SM sep, assuming our standard profile gives you about 143 hours. So it looks like you're over the hill on those.
+The feed from each pair of tanks is manifolded together before being fed to the fuel cells. Should one tank fail, check valves in its line ensure the reactant in the other tank do not feed the leak. Apollo 8 is past a point where if one tank fails the mission is in jeopardy. They have enough in single tanks to see them through to the end.
+Mattingly (continued): Notice that you're flying in the Rate 2 position for your BMAGs which is fine. Only make sure that you still were maintaining a PTC attitude. Looks like you're pretty close to it.
+There are two gyro assemblies containing three fixed gyros each. The switches for them are currently set so that assembly number 2 is providing rate-of-rotation information to the FDAIs (Flight Director Attitude Indicators or "8-balls"). Therefore they are not being used to provide attitude information and Frank cannot monitor where the spacecraft's X-axis is aimed. He cannot tell whether the PTC rotation is beginning to drift from the simple roll they started with.
+034:40:41 Borman: Roger. We are flying PTC, and I was wondering why it was going out of the deadband; now I know. Thank you.
+034:40:47 Mattingly: Okay. Thank you.
+034:40:51 Borman: That's what happens when you let Anders fly. [Long pause.] He's asleep so he can't defend himself.
+034:41:12 Mattingly: Rog. We've got it on tape though.
+034:41:17 Borman: Good. [Pause.] They're both conked out; how about just filling me in on some news, and I'll keep quiet just to give me some words on what's going on in the world.
+034:41:34 Mattingly: Okay. Give me a few minutes to collect some data, and we'll do that.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+034:56:55 Borman: Houston, Apollo 8. How do you read?.
+034:56:58 Mattingly: Loud and clear, Apollo 8. We haven't forgotten you, it's just, uh ...
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 34 hours, 57 minutes into the flight of Apollo 8. Here in Mission Control Center, Flight Director Milton Windler has just held what he termed a midshift briefing, bringing all of the flight controllers here in the center up to date on the lastest developments as they stand with respect to the overall performance of the spacecraft and the status of the crew. In general, Flight Director Windler noted that the crew feels much better and they have been advised to set their own pace as you've probably heard in the air-to-ground commentary between the ground and the crew. Lovell is currently sleeping. He went to sleep at about 34 hours and plans to sleep through until about 36 hours GET. Bill Anders went to sleep about 20 minutes later, and we expect that he will be sleeping until about 40 hours Ground Elapsed Time. Frank Borman advised that he would like to try to get some sleep at about 37 hours Ground Elapsed Time, about 2 hours from now. And we expect that he will probably sleep 4 or 5 hours. All of the spacecraft systems look good at this time. We've also gotten a preliminary evaluation of the onboard TV performance this afternoon. And perhaps an explanation on the problems that the crew experienced with the telephoto lens. The feeling at this time is that perhaps the automatic light control device on the camera was, in effect, fooled by the bright disk of the Earth in a dark background [of space], overcompensating and washing out the picture. We're running some tests to determine if this, in fact, was in fact was the case and it may be possible to correct this on future TV transmission with the use of proper filters. We do have a bit of brief communication with the spacecraft - with Frank Borman. We'll play that back for you now and then stand by for any live conversations that develop in the meantime.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We'll continue to stand by for any conversation with Frank Borman aboard the spacecraft. In the meantime, we'd also like to perhaps clarify some figures we gave earlier concerning the point at which the spacecraft comes under the dominant influence of the Moon's gravity and begins accelerating toward the Moon. That figure we gave you was a time of - a Ground Elapsed Time of 55 hours, 38 minutes. At that point, the spacecraft velocity, this is inertial velocity with respect to the Earth - is about 3,261 feet per second, and this occurs at an altitude from the Earth of 176,271 nautical miles [326,453 km]. At this point, the point at which the spacecraft passes into the lunar sphere of influence, gravitational influence, here in Mission Control Center, we'll shift our reference point for measuring spacecraft velocity and we'll no longer be measuring it with respect to the Earth, but will begin measuring it with respect to the Moon. At this point; 55 hours, 38 minutes Ground Elapsed Time; the Earth-referenced velocity will be 3,261 feet per second [994 m/s], and by comparison in reference to the Moon it will be 3,980 [1,213 m/s] feet per second. To give you some indication of what continues to happen to the velocity then as we progress toward the Moon, the speed of the spacecraft with respect to the Earth will reach a minimum point some 65 hours into the flight when we're about 11,000 nautical miles [20,000 km] above the Moon. At this point, the velocity will be 3,083 feet per second [940 m/s] with respect to the - to the Earth. With respect to the Moon, and this will be the figure that we'll be using in Mission Control Center, the velocity at that point, 65 hours into the flight or 11,000 nautical miles from the Moon, the spacecraft velocity is projected to be about 4,350 feet per second [1,326 m/s] - 4,350 - and it will accelerate rapidly from that point for the next 4 hours until we reach the point of Lunar Orbit Insertion. That, nominally, is set to occur at this time at about 69 hours, 11 minutes. And for that 4-hour period of time, the velocity will increase from 4,350 feet per second to about 8,420 feet per second [2,566 m/s]. Then as we go into orbit about the Moon, we'll reduce the velocity by slightly under 3,000 feet per second [900 m/s], taking it down to about 5,300 feet per second [1,600 m/s]. Coming back [to Earth] again, the same thing will apply in reverse. We'll follow the spacecraft velocity with respect to the Moon until the Earth becomes the dominant force - gravitational force acting upon the spacecraft, and at that point we'll transfer back to an Earth-referenced system. At the present time, Apollo 8 is at an altitude of 131,843 nautical miles [244,173 km], and we're traveling at a velocity of 4,327 feet per second [1,319 m/s]. At 35 hours, 5 minutes into the flight, this is Apollo Control.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+035:09:20 Borman: Houston, Apollo 8. How do you read?
+035:09:22 Mattingly: Loud and clear, Apollo 8.
+As well as the radio link between the Earth station and the spacecraft, Houston can only communicate with Apollo 8 when there is a good two-way link between Houston and the station. This is a complex affair as the station is as likely to be on the opposite side of Earth from Mission Control and keeps changing as Earth turns to present a different face to the spacecraft.
+Although Mattingly has heard Frank's call, a circuit problem between Houston and the current ground station in Hawaii means that Frank will not hear his reply.
+035:09:28 Mattingly: I'm going to have a maneuver PAD and...
+035:09:32 Borman: Houston, Apollo 8. How do you read?
+035:09:35 Mattingly: I read you loud and clear, Apollo. 8. How me? [No answer.]
+035:09:45 Mattingly: Apollo 8. Houston. [Pause.]
+035:09:53 Borman: Hello, Houston. Apollo 8. Houston, Apollo 8. How do you read?
+035:09:58 Mattingly: Apollo 8, loud and clear.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+035:12:20 Borman: Hello, Houston. Apollo 8. Go ahead.
+035:12:24 Mattingly: Apollo 8, Houston. I believe we've lost our uplink. I'm transmitting in the blind. Read you loud and clear. [Long pause.]
+035:13:30 Borman: Houston, Apollo 8. Houston, Apollo 8. How do you read?
+035:13:38 Mattingly: Apollo 8, Houston. Read you loud and clear. We may have some uplink problems; transmitting in the blind, at this time. Over.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+035:15:30 Mattingly: Apollo 8, Houston. [No answer.]
+035:15:38 Mattingly: Apollo 8, Houston. [No answer.]
+035:16:10 Mattingly: Apollo 8, Houston. [No answer.]
+035:16:23 Comm Tech: Hawaii Network GOSS Conference. How do you read?
+An engineer in Hawaii is checking communications from Hawaii to Houston. GOSS is Ground Operation Support System.
+035:16:32 Borman: Houston, How do you read? Apollo 8.
+035:16:34 Mattingly: Apollo 8, I read you loud and clear. How me? [Long pause.]
+035:17:31 Borman: Houston, Apollo 8. How do you read?
+035:17:35 Mattingly: Apollo 8, Houston. Over. [Long pause.]
+The engineer in Hawaii now tries speaking with the spacecraft. Though Frank can hear Hawaii, he still cannot hear Houston.
+035:18:20 Borman: Go ahead, Hawaii M&O. This is the Apollo 8. How do you read?
+035:18:25 Mattingly: [Unheard by spacecraft] Apollo 8, Houston. Read you loud and clear.
+035:18:37 Borman: Okay. Thank you, Hawaii. How do you read?
+Comm break.
+035:21:15 Network: Hawaii, Houston Network. Voice check on GOSS Conference.
+The Network controller in the MOCR in Houston, George E. Egan, is trying to talk to Hawaii to establish the circuit from him to the mid-Pacific station.
+035:21:24 Mattingly: Apollo 8, Houston. [Long pause.]
+035:21:53 Network: Hawaii, Houston. GOSS Conference. How do you read? [Long pause.]
+035:22:07 Comm Tech: Network voice. Stand by. Okay.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 35 hours, 22 minutes into the flight. At the present time, Apollo 8 is 132,542 nautical miles [245,467 km] from Earth, and our velocity is 4,307 feet per second [1,313 m/s]. At this time here in Mission Control Center, we're working on a minor communications problem. We seem to have trouble getting the communications from the Control Center to Hawaii. We are reading the spacecraft loud and clear. No problem with communications across the 132,000 some odd miles between the spacecraft and Earth. The problem appears to be between Houston and Hawaii. Hawaii has been in touch with Frank Borman on the spacecraft and advised him that we're working on the problem at the present time and we, as I said, do read the spacecraft loud and clear here in Houston. We're in the process at this time of switching to some of the back up routes that we have and checking those out. We expect to have communications restored shortly. This problem first appeared at about 35 hours, 10 minutes Ground Elapsed Time. And as I say, we do expect to have it resolved shortly. We'll continue to stand by and monitor and we'll come back up as soon as we have reestablished communications.
+035:23:50 Network: Hawaii, Houston on GOSS Conference. [Pause.]
+035:23:59 Network: Hawaii, Houston Network. GOSS Conference. [Pause.]
+035:24:11 Hawaii: Houston Network, Hawaii Net 2.
+035:24:15 Network: Hawaii, Houston on GOSS Conference. How do you read? [Pause.]
+035:24:28 Hawaii: Houston Network, Hawaii.
+035:24:30 Network: Houston, Hawaii, this is Houston. Am I on - Am I on your GOSS Conference now?
+035:24:37 Hawaii: I'm reading you on our Net 2 line.
+035:24:39 Network: Okay. That's - that's good. At the present time, Net 2 is being utilized for GOSS Conference [garble].
+035:24:47 Hawaii: [Garble.] [Long pause.]
+035:25:05 Network: Hawaii, Houston. GOSS - Net 2. [Pause.]
+035:25:13 Network: Hawaii, Houston. Net 2.
+035:25:17 Hawaii: Houston, Hawaii. Net 2.
+035:25:19 Network: Hawaii, take your carrier down.
+035:25:23 Hawaii: Roger. [Long pause.]
+035:25:47 Hawaii: Hawaii unable to command carrier down. [Pause.]
+035:25:56 Network: Hawaii, Network.
+035:25:58 Hawaii: Network, Hawaii.
+035:26:00 Network: Roger. Leave your carrier up.
+035:26:05 Hawaii: Roger. We'll have to bring it up again.
+035:26:07 Network: Okay. [Long pause.]
+035:26:20 Hawaii: Hawaii, AOS.
+035:26:24 Hawaii: Hawaii, go for command, CSM. [Pause.]
+035:26:07 Network: Hawaii, do you have your Net 2 patched in to key the Quindars?
+035:26:38 Hawaii: Roger.
+035:26:39 Network: Okay.
+035:26:41 Hawaii: Hawaii, LOS [Loss of Signal]. Unable to command. [Long pause.]
+035:27:07 Mattingly: Apollo 8, Houston. [No answer.]
+035:27:14 Mattingly: Apollo 8, Houston. [No answer.]
+035:27:56 Mattingly: Hawaii, this is Houston CapCom. Over. [Long pause.]
+035:28:11 Hawaii: Houston CapCom, Hawaii.
+035:28:15 Mattingly: Hawaii, Houston CapCom. I'd like to have a voice check.
+035:28:19 Hawaii: Roger. I read you loud and clear.
+Communications between Houston and Hawaii have been re-established.
+035:28:21 Mattingly: Okay. I'm reading you loud and clear. Understand you have contact with the spacecraft. Is that affirm?
+035:28:27 Hawaii: Ah, I have uplink voice to the spacecraft; the downlink is too low in the mud.
+035:28:34 Mattingly: Okay. Understand that you have good uplink, but your downlink is in the mud. You don't have any way of copying it either, is that correct?
+035:28:40 Borman: Houston, Apollo 8. [Garbled] again. How do you read?
+035:28:41 Hawaii: That is affirmative.
+035:28:45 Mattingly: Okay, Hawaii, we can hear Apollo 8, calling down. Would you answer and tell them that we did copy that?
+035:28:54 Hawaii: Roger.
+035:28:57 Hawaii: Apollo 8, Hawaii M&O. Houston reports they copied your last.
+035:29:03 Borman: Okay. Thank you.
+035:29:08 Mattingly: Apollo 8, Houston. Over. [No answer.]
+035:29:30 Network: Hawaii, Houston Network, GOSS Conference. [Pause.]
+035:29:37 Network: Hawaii, Houston Network, GOSS Conference. You're Net 2.
+035:29:41 Hawaii: Houston Network, Hawaii.
+035:29:43 Network: Roger. Do you copy the CapCom?
+035:29:46 Hawaii: Affirm. We copied the CapCom.
+035:29:49 Network: Is he - is he keying the transmitters out there? [Pause.]
+Each time CapCom speaks, he presses a switch that generates a short tone. This goes down the line to the remote station where it temporarily switches (or keys) his voice onto the radio uplink. When he lets go, another tone of a slightly different frequency switches it out. These tones are called Quindar tones.
+035:29:58 Hawaii: He did key it one time, Network.
+035:30:01 Network: Okay. I'm going to ask him to call the spacecraft again, and I would like for you to give me a report if he does not key the transmitters.
+035:30:11 Hawaii: Roger. Network is our - Net 1 now conferenced up as our...
+035:30:15 Mattingly: Your Net - your Net 2 is conferenced to our GOSS Conference here.
+035:30:21 Hawaii: Roger. How about our GOSS Conference loop? Is it the [garble].
+035:30:23 Mattingly: Your GOSS Conference loop - your GOSS Conference loop is dead.
+035:30:26 Hawaii: Roger. We are Go for command. We were unable to pass up before.
+035:30:31 Mattingly: Understand.
+035:30:32 Hawaii: We transmitted to the spacecraft as per CapCom and they acknowledged our transmission.
+035:30:39 Mattingly: Apollo 8. Houston.
+035:30:43 Borman: Go ahead, Houston. Apollo 8.
+035:30:45 Mattingly: Okay. We got back together again. You're loud and clear. We've been reading you. We have a problem down here on the ground getting our signal from MCC out to the remote site. [Pause.]
+035:31:01 Borman: Roger. Understand. [Long pause.]
+035:31:52 Mattingly: Apollo 8. Houston. I've got a ball score for you. It was Oakland 41, Kansas City 6 is the final score. That's 41 to 6, Oakland. We're trying to get some news releases over for you. I suspect we're going to find that the staged TV show was probably the biggest news of the day.
+These American football teams are the Oakland Raiders of California, and the Kansas City Chiefs of Missouri.
+035:31:20 Borman: I'm sorry that that TV - TV lens broke down.
+035:31:26 Mattingly: Well, we - we're working on that some more. I'm not sure that the whole thing is lost yet. It appears that our problem is one where the light intensity that's sensed by our light meter in there is picking up an average field which is much larger than the Earth, and so it's sensing a great deal of the deep space environment, which is dark, and we're suspicious that this is probably opening up the lens aperture as wide as it'll go, and then when you point the camera at the Earth, why, the Earth is only filling about 3 degrees of cone angle, whereas lens takes in 9. So it looks like you're probably just saturating the tube. Now we're playing around now with some...
+035:33:14 Borman: We just lost you again, Houston.
+035:33:16 Mattingly: Say again.
+035:33:20 Borman: I just lost your last transmission; you were clipped.
+035:33:24 Mattingly: Okay. Did you get any of my comments about the TV tube?
+035:33:33 Borman: Roger. Got them.
+035:33:35 Mattingly: Okay. What I - what we've got in mind here is that we're looking at some of the lenses you have on board for cameras, and we're going to see if one of them can possibly be used to attenuate some of this light so that you'll be able to take one of these pictures, and we are running some tests now, and we'll let you know about those. I also have a maneuver PAD that I need to read up to you whenever it's convenient.
+This manoeuvre PAD is another in the continuing series of contingency manoeuvres that are regularly read to the crew. These ensure that if communication is ever lost, the crew have the most up-to-date information written down and ready to use to get back home again. Everyone hopes this information will never be used.
+035:34:04 Borman: Let me get a pencil. Be fine right now.
+035:34:07 Mattingly: Okay. [Long pause.]
+035:34:19 Borman: Go ahead, Houston.
+035:34:23 Mattingly: Okay. The first one I'll give you is a TLI plus 44 maneuver PAD. [Pause.] I'll start reading down the left-hand column. TLI plus 44; SPS/G&N; 62970; minus 1.62, plus 1.29; 046:56:04.31; plus 0019.7, plus all zeros, plus 6070.1; 180, 133, 001; November Alpha, plus 0020.3; 6070.1, 7:04, 60451; 12, 137.5, 34.9. Boresight star is Earth, down 03.7, right 2.2; plus 10.68, minus 165.00; 1285.6, 36118, 098:27:17. The GDC alignment stars: the primary star is Sirius, secondary Rigel; 010, 294, 320; no ullage, fast return P37 Delta-V, 8750. This goes to the Indian Ocean and requires a high-speed procedure, that is minus Mike Alpha, and that will refer to your checklist page November Charlie 1. Over. [Pause.]
+The PAD is interpreted as follows:
+Purpose: This PAD contains the information to get the spacecraft back to Earth should the communication systems fail. It has an ignition time of 47 hours GET, approximately 44 hours after TLI.
+Systems: The burn would be made using the large SPS (Service Propulsion System) engine at the rear of the Service Module, under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 62,970 pounds (28,563 kg).
+Pitch and yaw trim (Noun 48): -1.62° and +1.29°. These are the angles the SPS engine would be aimed to ensure its thrust acts through the spacecraft's centre of gravity.
+Time of ignition (Noun 33): 46 hours, 56 minutes, 04.31 seconds. This is about 44 hours after TLI.
+Change in velocity (Noun 81), fps (m/s): X, +19.7 (+6.0); Y, 0; Z, +6,070.1 (+1,850.2). These velocities are expressed with respect to the Local Vertical.
+Spacecraft attitude: Roll, 180°; Pitch, 133°; Yaw, 1°. The attitude is given relative to the launch pad REFSMMAT.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable. If this abort burn were to be made, the apogee of the resulting orbit would be over 9999.9 nautical miles, beyond the limit of the computer's display.
+HP, expected perigee of resulting orbit (Noun 44): 20.3 nautical miles (37.6 km). The perigee distance is so low, it intersects Earth's atmosphere. In other words, the spacecraft will re-enter.
+Delta-VT: 6,070.1 fps (1,850.2 m/s). This is the total change in velocity the spacecraft would experience. (It is a vector sum of the three components given above.)
+Burn duration or burn time: 7 minutes, 4 seconds.
+Delta-VC: 6,045.1 fps. The crew enter this Delta-V figure into their EMS (Entry Monitor System) display panel for backup control of the SPS engine.
+Sextant star: Star 12 (Rigel, in Orion) visible in sextant when shaft and trunnion angles are 137.5° and 34.9° respectively. This is part of an attitude check.
+Boresight star: Earth. (In the Apollo star list, this is number 47.) This is a second attitude check which is made by sighting on another celestial object with the COAS.
+COAS Pitch Angle: Down 3.7°.
+COAS X Position Angle: Right 2.2°.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.
+Expected splashdown point (Noun 61): 10.68° north, 165° west; in the mid-Pacific.
+Range to go at the 0.05 g event 1,285.6 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05 g event: 36,118 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+GET of 0.05 g event: 98 hours, 27 minutes and 17 seconds GET. This is when it is expected that the EMS will be triggered.
+GDC Align stars: Stars to be used for GDC Align purposes are Sirius and Rigel.
+GDC Align angles: Roll, 10°; pitch, 294°; yaw, 320°.
+Final notes are that the SPS propellant tanks are full, so there would be no need to perform an ullage burn to settle their contents. If the crew need to get to Earth faster for any reason, they can hurry things up by adding 875 feet per second (267 m/s) to their forward velocity which will bring them to a landing in the Indian Ocean.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 35 hours, 37 minutes. We have reestablished our communications from the ground up to the spacecraft directly from Houston, and a preliminary assessment of the problem is that it originated at the Goddard Space Flight Center where all of our communication lines are routed through en route to Houston. Apparently we blew a fuse at Goddard and our communications circuit between Goddard and Hawaii was down. We were able to receive the spacecraft communications loud and clear here in Houston, and we were able to relay information through the station at Hawaii through the maintenance and operations people at Hawaii to the spacecraft. The link between Houston and Hawaii was restored after about 20 minutes and we're now in conversation with the spacecraft. We'll pick up that conversation for you and then follow it as it occurs.
+As is customary, Frank reads back the PAD so that the flight controllers can check he has copied it down correctly.
+035:38:14 Borman: Okay, Houston. How do you read?
+035:38:16 Mattingly: Loud and clear.
+035:38:23 Borman: TLI plus 44, SPS/G&N; 62970; minus 1.62, plus 1.29; 046:56:04.31; plus 0019.7, plus all zeros, plus 6070.1; 180, 133, 001; [HA omitted] plus 0020.3; plus 6070.1, 7:04, 60451; 12, 137.5, 34.9; Earth, down 03.7, right 2.2; plus 10.68, minus 165; 1285.6, 36118, 098:27:17; Sirius and Rigel. [Pause.] Hello, Houston. How do you read now?
+035:40:13 Mattingly: Loud and clear.
+035:40:17 Borman: Sirius and Rigel; 010, 294, 320; no ullage, fast return P37 Delta-V 8750, Indian Ocean minus MA, checklist NC 1.
+035:40:36 Mattingly: That's affirmative, Apollo 8. And I have a flyby PAD for you, also. [Pause.]
+035:40:46 Borman: Go ahead.
+035:40:48 Mattingly: Okay. This flyby PAD is an update to one that we gave you yesterday so you might want to note that this is the second one. And it'll be a flyby; SPS/G&N; 62970; minus 1.62, plus 1.29; 060:59:48.07; plus 0096.6, plus 0055.2, minus 0207.9; Roll, pitch, and yaw are all zeros; November Alpha, perigee height plus 0020.2; 0235.8, 0:22, 0228.1; 03, 040.7, 31.7; 013, up 04.7, right 3.9; plus 14.18, minus 165.05; 1290.4, 36160, 146:29:12. Primary star Sirius, secondary Rigel; 136, 310, 340; no ullage; requires realignment to preferred REFSMMAT. This burn will raise perilune to 550 miles. Over. [Long pause.]
+The PAD is interpreted as follows:
+Purpose: This PAD would take Apollo 8 to the Moon but not into lunar orbit. It is another abort contingency which returns the spacecraft to Earth by flying around the Moon.
+Systems: The burn would be made using the SPS (Service Propulsion System) engine under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 62,970 pounds (28,563 kg).
+Pitch and yaw trim (Noun 48): -1.62° and +1.29°.
+Time of ignition (Noun 33): 60 hours, 59 minutes, 48.07 seconds.
+Change in velocity (Noun 81), fps (m/s): X, +96.6 (+29.4); Y, +55.2 (+16.8); Z, -207.9 (-63.4).
+Spacecraft attitude: 0° in all three axes of roll, pitch and yaw.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable. If this abort burn were to be made, the spacecraft would loop around the Moon so the apogee figure is meaningless.
+HP, expected perigee of resulting orbit (Noun 44): 20.2 nautical miles (37.4 km). The perigee distance is so low, it intersects Earth's atmosphere. In other words, the spacecraft will re-enter.
+Delta-VT: 235.8 fps (71.9 m/s). This is the total change in velocity the spacecraft would experience. (It is a vector sum of the three components given above.)
+Burn duration or burn time: 22 seconds.
+Delta-VC: 228.1 fps. The crew enter this Delta-V into their EMS display panel to allow backup control of their engine.
+Sextant star: Star 3 (Navi, in Cassiopeia) visible in sextant when shaft and trunnion angles are 40.7° and 31.7° respectively. This is part of an attitude check.
+Boresight star: Star 13 (Capella, in Auriga) This is a second attitude check which is made by sighting on another celestial object with the COAS.
+COAS Pitch Angle: Up 4.7°.
+COAS X Position Angle: Right 3.9°.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.
+Expected splashdown point (Noun 61): 14.18° north, 165.05° west; in the mid-Pacific.
+Range to go at the 0.05 g event: 1,290.4 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05 g event: 36,160 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+GET of 0.05 g event: 146 hours, 29 minutes and 12 seconds GET. This is when it is expected that the EMS will be triggered.
+GDC Align stars: Stars to be used for GDC Align purposes are Sirius and Rigel.
+GDC Align angles: Roll, 136°; pitch, 310°; yaw, 340°.
+Final notes indicate that the SPS propellant tanks are essentially full, so there is no need to perform an ullage burn to settle their contents.
+The reason that the attitude angles are all zero is that if this burn needed to be made, Jim would first realign their guidance platform to match the desired attitude of the spacecraft during the burn. This is a "preferred REFSMMAT." In this mode, the FDAI displays would show zero during the burn, making monitoring their attitude easier, more accurate and less prone to error. This is for safety reasons as the burn would be taking place very near the Moon and if there were a gross attitude error, the crew could find themselves flying uncomfortably close to the lunar surface before tracking from Earth could measure the problem and calculate a solution.
+Another effect of this burn would be to raise the altitude of their closest approach, or pericynthion to 550 nautical miles (1,019 km).
+035:44:11 Borman: Okay. Houston. The second flyby SPS/G&N. Are you with me?
+035:44:15 Mattingly: Yes sir. [Pause.]
+035:44:21 Borman: 62970; minus 1.62, plus 1.29; 060:59:48.07; plus 0096.6, plus 0055.2, minus 0207.9. Next three are all zeros; N/A, plus 0020.2; 0235.8, 0:22, 0228.1; 03, 040.70, 31.7; 013, up 04.7, right 3.9; plus 14.18, minus 165.05; plus 1290.4, plus 36160, 146:29:12. Sirius, Rigel; 136, 310, 340; none, requires realignment to preferred REFSMMAT. Pericynthion to 550 miles.
+035:45:47 Mattingly: That's correct, Apollo 8.
+035:45:52 Borman: Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+035:48:26 Borman: Houston, Apollo 8.
+035:48:29 Mattingly: Go ahead, Apollo 8.
+035:48:32 Borman: Okay. The CMP is now up. We'll proceed with the 52 option and start on the - the cislunar navigation.
+035:48:43 Mattingly: Okay. Thank you, and we'll start looking for some star data.
+Long comm break.
+Jim can now begin the navigation exercise that was postponed from 34 hours. Prior to that he must complete a realignment of the guidance platform using P52 in the computer.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+035:53:58 Mattingly: Apollo 8, Houston.
+035:54:02 Borman: Go ahead, Houston. Apollo 8.
+035:54:05 Mattingly: Okay. When you pick up your activities, I have a preferred alignment here that I want you to be in when you do your P52. And I'll have about four items to change on your timelines, so if you give me a call when you're ready for it.
+035:54:23 Borman: We're ready right now. We were doing the P52. You want us to hold off and go to a particular alignment, is that right?
+035:54:32 Mattingly: Affirmative.
+What Mattingly really means is that he wants the crew to go to a preferred 'attitude'. The term 'preferred alignment' specifically refers to a preferred alignment of the guidance platform. Mission Control simply want the spacecraft manoeuvred to a specific attitude so that a visibility test through the scanning telescope can be carried out.
+035:54:33 Borman: Alright. I'm ready.
+035:54:35 Mattingly: Okay. The attitude is pitch, 23.4; roll, 184.7; yaw, 14.3. And the reason we're doing the alignment in this attitude is, the next thing we'll be coming up with is the scanning telescope visibility test and that will be 70 degrees, Sun from Arcturus, with a shaft and trunnion of zero. And then we can go ahead with the P52 and then a trunnion bias followed by P23 with the same stars that we read to you before.
+035:55:24 Borman: Okay.
+Long comm break.
+Mattingly has given the crew the same attitude he read to them just over two hours ago. At this attitude, and with the optics angles set to zero, Arcturus should appear in the centre of the scanning telescope.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+036:00:32 Borman: Houston, Apollo 8. We're maneuvering to the angles you - the angles you gave us.
+036:00:35 Mattingly: Alright. Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We don't appear to have any more communication developing between the ground and the spacecraft at this time. During that previous conversation, part of the information that was passed up to the crew from the ground were routine updates to the backup information that is carried onboard the spacecraft to allow the crew to return to Earth at various points in the flight should it become necessary, and should at that point not be able to get updated information from the ground. This includes returns at 25 hours after, rather 35 hours after Translunar Injection, another point at which we pass up the so called block data. That's for 44 hours after Translunar Injection. And the crew has also been updated with the information that they would need if they elected not to go into orbit around the Moon, but rather to do a flyby. This type of information passed up routinely at certain specified periods during flight. At 36 hours, 4 minutes into the mission, Apollo 8 is now at an altitude of 134,264 nautical miles [248,656 km] from Earth, and the velocity is 4,258 feet per second [1,298 m/s].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+036:09:45 Borman: Houston, we've reached the preferred attitude, and we're proceeding with the P52.
+036:09:49 Mattingly: Okay. Real fine, and I'll pass up some advice from your friendly Flight Surgeon. He says you're supposed to take one more Lomotil. [Pause.]
+036:10:03 Borman: Okay. Everybody, or just me?
+036:10:07 Mattingly: Just Frank.
+036:10:10 Borman: Thank you.
+Long comm break.
+The Flight Surgeon feels that another dose of Lomotil (an anti-diarrhea drug) would be a good idea for Frank, to ensure that his earlier symptoms don't recur.
+Jim sights on star 26 (Spica, Alpha Virginis) and 27 (Alkaid, Eta Ursae Majoris) for this seventh realignment of the mission, and does so with a very acceptable accuracy of 0.01°.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+036:13:20 Borman: Houston, the P52 is completed. We're ready for your other data.
+036:13:28 Mattingly: Okay. Understand that you've done the P52. The next item on the Flight Plan should be a scanning telescope visibility test, and this is the same one that was on your Flight Plan previously at 34 hours and about 12 minutes, and we'll be checking that 70 degree Sun on Arcturus. Following that, we need to make a trunnion bias check, and then we'll go into a P23, and I can read you those star numbers and sets if you don't have them from the last time I read them up.
+Throughout the flight, Jim has been making regular checks on the visibility of stars through the scanning telescope. The Sun is about 70° from Arcturus just now. This will test the visibility of the star when sunlight is impinging on the periphery of the instrument. Just as a camera lens on Earth will display flare and forward-scattering effects if aimed too near the Sun, so will the complex optics of the telescope.
+036:14:13 Borman: Okay. Standby. [Pause.]
+036:14:20 Lovell: Houston, Apollo 8.
+036:14:22 Mattingly: Go ahead.
+036:14:26 Lovell: Roger. With such good visibility - or such good communications, let me just give you a verbal description without seeing the scanning telescope right now. Your angles for maneuver to Arcturus were quite good. I've got Arcturus centered in the scanning telescope. At this Sun angle, there is a shaft of light directly across the center of the scanning telescope and - yeah, band of light. It precludes seeing a lot of - a lot of stars around us, and although I kept my eye glued to the telescope now for some time, it's very difficult to see any star patterns or anything. I couldn't recognize that with Arcturus unless I - the optics just drove me there. Now, because I'm near zero shaft and zero trunnion, I'm getting quite a bit of shaft movement. Every time the shaft moves, more particles leave the optics, and they're just as bright as the surrounding stars. And they mingle in the stars, and you can't tell star patterns or constellations. With this particular attitude, the shaft of light precludes any identification of constellations or individual stars.
+The Command Module's optical system had a small design flaw whereby if the operator tried to move the line of sight when the trunnion angle was near zero, the movement would require large changes in shaft angle.
+Imagine a small telescope on a simple alt-azimuth mounting; the basic type of mount often seen on cheap telescopes that allow pan and tilt movements. The axes of the spacecraft optics are comparable in that the telescope's vertical axis is analogous to the shaft while the tilt axis is like the trunnion. Now imagine a high-flying aircraft which flies well to one side so it never rises far above the horizon as it passes. Following it with our telescope is straightforward. At first, we start with a slow pan and tilt, then as the aircraft passes, the tilt reaches a maximum while the pan continues gently.
+Imagine now that the aircraft's path takes it nearly overhead. At first, most of the motion is in the tilt axis and the pan hardly moves. It stays this way almost to the zenith where the situation suddenly changes. Now the telescope has to pan around very quickly to keep up. In a similar fashion, if a star is nearly coincident to the shaft axis, causing the trunnion angle to be nearly zero, then trying to adjust the view to get it in the centre causes large rotations of the shaft axis and therefore of the exterior disc. Jim is finding that rotation of the exterior disc is loosening a lot of particles which confuse the view of the stars.
+036:15:47 Mattingly: Okay. I copy that. Can you tell us something about the orientation of this band? You mentioned that last night also - that you also had a band about 10 degrees wide that ran across. Is there an orientation that we can tie that to?
+036:16:05 Lovell: I believe so, Ken. This band is parallel to the M-line [a horizontal line in the reticle], and I think it has something to do with the design of the optics, where we have that shaft or the rectangular entrance of the optics from the outside. At this particular Sun angle, it cuts right across. Now I noticed that both the Earth and the Sun do this to the scanning telescope. In the sextant, the same light band is there, although it covers the entire sextant's field of view. However, the magnification brings out the stars quite well, and it's possible to mark on them. But it's the identification of stars with the scanning telescope that makes it very difficult. Now the attitude I found that the optics are best at are the attitudes which give the constellations Canis Major and Orion in the scanning telescope. At this, this particular attitude of the spacecraft, the band is gone; we're in a position whereby the Sun is behind us, and I can see quite a few stars. Now yesterday I could also, after getting dark-adapted, see quite a few stars around the constellation Cassiopeia which at first I couldn't. But right now this band precludes you see anything at all except Arcturus which, of course, I know we're aiming at right now.
+036:17:34 Mattingly: Okay. Thank you very much. [Long pause.]
+036:18:08 Borman: Ken, what stars did you want to use [for the navigation exercise]? Do you want to read them off?
+036:18:12 Mattingly: Okay. First star will be 26 [Spica, Alpha Virginis], and we'll be making two sets of measurements, Earth near-horizon using star 26. Then we would like to have one set - we'd like to have one set on star 16 [Procyon, Alpha Canis Minoris], that's 16, using the Earth far-horizon. If it turns out that star 26, Earth near-horizon is not possible, then we'd like to have star 16 on the Earth far-horizon for one set, and star 22 [Alpha Leonis], Earth far-horizon, one set. Over.
+036:19:04 Borman: You want star 26, Earth near-horizon, two sets; star 16, Earth far-horizon, one set; and star 22, Earth far-horizon, one set.
+036:19:18 Mattingly: Okay. The star 22 is only in the event that 26 on the Earth's near horizon is not possible? Over.
+036:19:27 Borman: We won't even do star 22 then unless we can't get 26 on the near horizon.
+036:19:31 Mattingly: That's affirmative. [Long pause.]
+036:20:25 Anders: Comm sure is good all of a sudden, isn't it?
+036:20:28 Mattingly: Yeah, this is outstanding.
+Very long comm break.
+Around this time, as part of Bill's continuing photography plan, frames AS08-16-2604 and 2605 are taken on magazine A.
+AS08-16-2604 - Earth - Image by NASA/Johnson Space Center.
+AS08-16-2605 - Earth - Image by NASA/Johnson Space Center.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 36 hours, 23 minutes into the flight. Apollo 8, at this time, is at a distance from the Earth of 134 - rather 135,042 nautical miles [250,097 km], and our current velocity is 4,236 feet per second [1,291 m/s]. Jim Lovell, who had been asleep for what appears to have been about 2 hours, is now up and we've heard from him aboard the spacecraft. At the present time, Lovell is involved in some midcourse navigation using the onboard Guidance and Navigation system. We have some of his comments made during the past few minutes in conversation with the ground on tape, which we'll play back for you now, and then we'll standby for any live communication with the spacecraft that follows.
+Jim successfully accomplished the six sightings on Spica and three on Procyon, taking 20 minutes to complete the task.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. It appears we'll have no further communications with the crew for the moment anyway. Shortly we would expect that Frank Borman would attempt to get a few hours rest. He indicated earlier that as soon as either Lovell or Anders awoke that he would attempt to get several hours of sleep. At the present time, Apollo 8 is at an altitude of 135,442 nautical miles [250,838 km] and our velocity is 4,225 feet per second [1,288 m/s]. This is Apollo Control at 36 hours, 33 minutes into the flight.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+036:50:52 Borman: Houston, Apollo 8.
+036:50:54 Mattingly: Go ahead, Apollo 8.
+036:50:57 Borman: Okay, we've completed two sets on 26 and one set on 16.
+036:51:02 Mattingly: Rog. You're getting pretty speedy there.
+036:51:08 Borman: Yeah, Jim - Jim is getting to know the optics.
+036:51:11 Lovell: Are you receiving the data, Houston?
+As Jim worked on the DSKY, Mission Control could monitor the displays and note the results.
+036:51:13 Mattingly: That's affirmative.
+036:51:16 Lovell: Okay.
+036:51:19 Mattingly: Keeping you honest.
+036:51:23 Lovell: Right. [Long pause.]
+036:51:40 Mattingly: Okay, Apollo 8. They looked at the data and it looks good and they feel like you can go back to PTC attitude anytime you're ready to. And if you can [interruption from spacecraft] - go ahead.
+036:51:56 Borman: What attitude do you want to use? The same one?
+036:52:00 Mattingly: That's affirmative.
+036:52:04 Borman: Thank you.
+036:52:05 Mattingly: Okay, if you can reach over Bill there and get to panel 3, I believe we'd like to cycle the oxygen fans. And also like to get the Biomed switch over to CMP.
+036:52:24 Borman: Okay.
+036:52:27 Mattingly: If you have to bother Bill to do that, why, we can hold off on the cryo fans.
+036:52:31 Borman: No, he moved. We already chased him under the seat. Okay, now you want just the oxygen fans on?
+036:52:38 Mattingly: That's affirm. One of it - turn one on for about 2 minutes and when we turn it off, then we will turn the next one on. We don't want to turn them on simultaneously though.
+036:52:49 Borman: Yeah, I know that. I mean you don't want hydrogen though?
+036:52:53 Mattingly: That's affirmative. Just the oxygen.
+Comm break.
+036:54:12 Lovell: Houston, Apollo 8.
+036:54:16 Mattingly: Go ahead.
+036:54:20 Lovell: Ken, just to recap a little explanation here on your maneuver PAD, something which I'm really not knowledgeable about, the way it was presented to us, you mentioned fast return P37 Delta-V of 8750, just briefly clarify that, will you please?
+036:54:42 Mattingly: Okay, stand by.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 36 hours, 55 minutes into the flight of Apollo 8. At the present time, we're in communication with the spacecraft. Jim Lovell is the only one of the three crewmen who is awake at the present time. Our indication at this time are that both Frank Borman and Bill Anders are resting. And here in Mission Control Center as well as onboard the spacecraft, activities have slowed down somewhat and it has become quite quiet here. At the present time, Lovell has just finished a series of star sightings for onboard navigation. And we're in the process of passing up some PAD data to the crew. We'll pick up with the first part of this conversation recorded and when we catch up, we'll continue on live.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+036:57:43 Borman: Ken, can you give us a little report on how our trajectory looks and the tracking's going and things like that?
+036:57:50 Mattingly: Okay, sure will. I'll put a summary together here.
+036:57:55 Borman: And the pericynthion sign.
+Frank's interest in the sign of the pericynthion value is probably rhetorical. It seems to display his abiding insistence on making sure the people on the ground do their job right. Whether the value for pericynthion, their closest approach to the Moon on their current trajectory, has a plus or a minus sign attached to it is the difference between life and death. A plus sign, and Apollo 8 will arrive above the Moon perfectly placed to enter orbit; a minus sign, and it will impact the lunar soil at high speed as it tries to reach a mathematical construct that lies below the surface.
+Preparation for spaceflight means having to deal with the possibility that a very small error in a system may have catastrophic consequences. There are two famous examples in the annals of spaceflight that illustrate this. One was the failure to spot a lack of conversion between English and metric measurement units that led to the loss of the Mars Climate Orbiter probe in 1999. Another was the lack of a 'bar' expression (meaning a smoothed parameter) in the software controlling an Atlas booster trying to lift Mariner 1 to Venus. The result was erroneous control signals that led to the Range Safety Officer blowing the rocket up and sending the probe into the Atlantic Ocean. Frank does not want a failure to recognise the correct polarity of a pericynthion value to put his crew's lives at stake.
+036:57:57 Mattingly: Rog, we'll get all that together for you in just a few minutes.
+036:58:01 Borman: And we never did get the news.
+036:58:05 Mattingly: You are the news.
+036:58:09 Borman: Come off it, come off it. [Long pause.]
+036:58:41 Borman: Okay, the fans have been cycled 2 minutes each and they're back off.
+036:58:45 Mattingly: Okay, thank you very much.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+037:06:07 Borman: Houston, Apollo 8 is back in the PTC attitude, reads the MHPTC.
+037:06:12 Mattingly: Okay, thank you. And in reference to your question about the P37 Delta-V, 8750, that's the number that goes into the option at P37 for your minimum-time return. That gives you a target for the Indian Ocean. And in this case, we're going to have to use the high-speed procedures that were worked out for you to use the minus number for the major axis.
+037:06:47 Lovell: Roger. Understand. I'm going to give that a try, Ken, in a run through. I tried it yesterday, I wasn't getting too much in the way of results. I'll give it a try today.
+037:07:02 Mattingly: Okay. And on the - your tracking that we have now, it still looks like the time we gave you last night for a time of pericynthion is still good, 69 plus 10 and right now your flyby pericynthion altitude - 65.8 [nautical miles, 121.9 km]. Looks like the midcourse number 3 is going to be something less than 1 foot-per-second. And all trajectory parameters are just holding real fine.
+037:07:36 Borman: That's the things we'd like to hear. We'd like to keep those holding very fine.
+037:07:45 Mattingly: Rog.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. There appears to be no further conversation with the crew at this time, so we'll take the circuit down for the time being. At the present, the mission appears to be going very well. Right on the Flight Plan, in most cases, and our crewmen reported earlier that they were feeling much better. A short while ago, the medics advised Frank Borman to take one additional Lomotil tablet. This is a pill to reduce bowel activity. We've heard no word from the crewmen of any physical problems they're having and the feeling here on the ground is that their condition is improving. We're at a very quiet period in the Flight Plan. Frank Borman had indicated earlier that he planned to get some sleep beginning at about 37 hours Ground Elapsed Time. We heard from him at the beginning of the last transmission and deduced from that that he still had not, at that time, gone to sleep. However, it has been quiet now for some time and perhaps he's getting some rest, at this - at this point. At the present time, Apollo 8 is 137,127 nautical miles [253,959 km] from Earth and is traveling at a speed of 4,178 feet per second [1,273 m/s]. At 37 hours, 14 minutes into the flight, this is Apollo Control.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+037:21:00 Borman: Houston, Apollo 8.
+037:21:04 Mattingly: Go ahead.
+037:21:08 Borman: Roger. We're getting near - we're going to need to dump some urine overboard here. I wonder if that's going to foul your trajectory up. Or can we go ahead and do it?
+037:21:18 Mattingly: No, that's okay. Something that's kind of interesting though is that last time you had your water dump, they noticed a change in the trajectory tracking at the same time and when they got through correlating it, they found some fellow that thought he knew the characteristics of a nozzle and how much water you're dumping and his estimates of the effect on the trajectory seemed to coincide with the tracked results. So I guess you have to stay honest on those things.
+037:21:51 Borman: Rog. Okay, we'll go ahead and dump some, [garble].
+037:21:55 Mattingly: Okay.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+037:23:29 Lovell: Houston, Apollo 8.
+037:23:31 Mattingly: Rog. Go ahead.
+037:23:35 Lovell: You planning on using our computer any time in the near future, I thought I'd do a little P37.
+Comm break.
+P37 is a computer program that works out the details of a trajectory that will bring the crew back to Earth in an emergency situation. In the event a burn is required to achieve this, the information is passed to one of the two programs that will compute the burn details, one for the SPS and one for the RCS.
+037:24:50 Mattingly: Apollo 8, Houston. You can go ahead and run that 37 and we're going to kind of watch that from the ground, too, and see how it works out. A couple of items that are just of general interest in the trajectory world. Looks like the uncertainty in position is about 12 miles. Your uncertainty in velocity is about a quarter of a foot per second. And the perigee [means pericynthion] altitude uncertainty is 5 miles.
+Mattingly is referring to the state vector, seven numbers that define the spacecraft's position and velocity at a given time. He is mentioning the error range, or the uncertainty they have in those numbers. Additionally, he mentions the degree of uncertainty in the pericynthion, the closest point to the Moon. Note that there are usually two state vectors kept in the computer's memory; one calculated by the trajectory folk on the ground and the other generated by planet/star sightings from the spacecraft.
+037:25:26 Lovell: Rog. Understand. Just for information, perhaps you read it out on the ground. I ran our pericynthion altitude determination using first of all, P21 with our state vector that we navigated with, we have plus 84.7-[nautical] mile altitude. Then we ran out your state vector that you updated with us the last time. We got 64.2 and then I ran P30, using our state vector and got 82.6 nautical miles. These are all plus.
+037:26:06 Mattingly: That's good. [Long Pause.]
+One of the final tasks Jim has each time he carries out an exercise in celestial navigation is to use his new state vector as a starting point for calculating his trajectory forward and seeing how close it takes him to the Moon. This he does with P21, the ground track determination program. When he did this he got a miss distance of 84.7 nautical miles [156.9 km]. He repeated the task using the ground's state vector and got an answer of 64.2 nautical miles [118.9 km], an answer nearer the ideal.
+Finally he used P30, another program capable of giving a pericynthion distance, to give him a value based on his own state vector
+037:26:17 Lovell: What I'm going to attempt to do on P37 is to input your Delta-V on your TLI plus 44 and use that 44 burn time. I notice that the entry velocity is a little high. I think we might not be able to do a normal P37, but I'll give it a try
+P37 requires Jim to specify three numbers; a maximum change in velocity for which Jim is going to use the value given to him by the recent TLI plus 44 PAD, an ignition time which Jim is also going to take from the PAD, and a re-entry angle which is normally taken to be 6.5°. From these three items, six parameters are calculated:-
+The time from ignition of the burn to re-entry
+Spacecraft velocity at the point of Entry Interface
+Actual re-entry angle
+Latitude of splashdown
+Longitude of splashdown
+Actual change in velocity (Delta-V)
+There are additional steps that would be taken if the program were to be used for an actual burn. The Checklist includes two version of the program, labelled "with -MA" and "without -MA". The authors have yet to ascertain the relevance of these terms.
+037:26:35 Mattingly: Roger.
+Comm break.
+037:27:36 Lovell: Houston. One more question then before I start. Did you notice on this last update PAD, this minus MA, NC-1. Was that referring to the P37 fast return or the nominal maneuver which you gave me?
+037:27:52 Mattingly: Apollo 8, that's referring to the fast return procedures.
+037:27:58 Lovell: Okay. Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+037:31:55 Lovell: Houston, Apollo 8.
+037:31:57 Mattingly: Go ahead.
+037:32:00 Lovell: Are you following my procedures [That is, are they watching the DSKY displays as Jim is running P37]?
+037:32:02 Mattingly: That's affirmative.
+037:32:06 Lovell: Okay. This happened yesterday, too. I'm trying to load the Delta-V you gave us in the maneuver TLI plus 44 in P37, but I keep getting an operator error every time I try to load zeros for the termination of the middle and corner [R2]. Do you know what I'm doing wrong in my procedure?
+037:32:31 Mattingly: Okay. Stand by.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+037:35:24 Mattingly: Apollo 8, Houston.
+037:35:28 Lovell: Okay, go ahead. I can take it.
+Jim knows he is doing something wrong and as a type, Apollo crews do not like being wrong. However, Jim approaches the discovery of his error with humour - very typical of him.
+037:35:31 Mattingly: Okay, looks like the decimal point in R2 under Noun 60 is on the extreme right-hand side so the proper load will be 06070. Over.
+Jim had to specify three numbers into P37; time of ignition, Delta-V, re-entry angle. He took the Delta-V figure from a previous PAD which was given as 60701, meaning 6,070.1 feet per second. However, the Apollo computer does not accept the input of a decimal point. Rather, the position of the point is fixed by the people who programmed it and the crew must always remember where it should be and put the correct number of figures after it. What Jim has missed is that when he enters a figure for Delta-V, the decimal point is on the extreme right of the field. Instead of inputting 60701, he should have put 06070. In essence, he gave the computer a Delta-V of over 60,000 feet per second and the computer is recognising the out-of-range value.
+037:35:46 Lovell: Ah, so. Okay, fine. Thank you. [Pause.] I'll update my checklist. Don't know what I want to update it for. I can't read.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 37 hours, 42 minutes into the flight of Apollo 8. At this time, the spacecraft is 138,226 nautical miles [255,994 km] from the Earth and traveling at a speed of 4,148 feet per second [1,264 m/s]. It's continued to be relatively quiet here in Mission Control. The Flight Plan also shows relatively little activity onboard the spacecraft for the crewmen. Both Frank Borman and Bill Anders are scheduled to be sleeping at this time. The crew is following the ground advice that was passed up earlier today from Mission Control Center that they pace themselves and set their own work/sleep cycle to fit in with their own feelings and they appear to be following that advice. We do have some communication with the spacecraft over the past 15 or 20 minutes. We'll play that back for you now and then stand by for any live conversation with the spacecraft.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+037:54:24 Mattingly: Apollo 8, Houston. We're about to hand over to another site so you may lose lock momentarily.
+Communication has been handled via a tracking station in Hawaii for the last few hours. Now it is passed over to the Honeysuckle Station in Australia.
+037:54:36 Lovell: Roger, Houston. Did you receive the results of the P37?
+037:54:40 Mattingly: Sure did. Looks pretty good here.
+037:54:45 Lovell: I concur.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+037:57:14 Mattingly: Apollo 8; Houston through Honeysuckle. The [ground station] switch is completed.
+037:57:19 Borman: You're loud and clear.
+037:57:21 Mattingly: Roger.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+037:58:23 Lovell: Houston. Apollo 8.
+037:58:25 Mattingly: Go ahead.
+037:58:28 Lovell: Another comment on the optics. We're in PTC right now. We're passing the - we have the - a roll of about 182; we're about in 226 pitch and 18 in yaw. I can rotate the shaft all the way around at this particular attitude, and I get this band of light at about 10 degrees either side of the M-line. It - it varies in intensity with the shaft position. However, it's there at this particular attitude.
+Given the current spacecraft attitude, engineers will be able to reconstruct the angle of the Sun with respect to the optics' objective lens and may be able to determine the cause of the band of light.
+037:59:06 Mattingly: Okay. Thank you. [Long pause.]
+037:59:32 Mattingly: Jim, they've just been looking at your marks with respect to accuracy and they figure they're within a couple of thousandths of a degree of the theoretical optimum. And I guess the integrator seems to bear that out.
+These are excellent results.
+037:59:53 Lovell: Well, I hope they're enough to get us home if we have to use them.
+037:59:57 Mattingly: Well, I am getting a lot of confidence in your ability to run that mystery show now.
+038:00:06 Anders: Hey, Jim [means Ken]. We have to spend four more days up here with him. Will you take it easy. [Pause.] He's already talking about going back to MIT as a professor.
+038:00:08 Mattingly: [Laughter].
+Very long comm break.
+The Apollo guidance system was conceived and designed by staff of the Instrumentation Laboratory at the Massachusetts Institute of Technology, headed by Charles Stark Draper. When NASA expressed doubts about their system's ability to navigate to the Moon, Draper wrote a letter to NASA's top management saying he "would like to volunteer for service as a crew member on the Apollo mission to the Moon.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 38 hours, 6 minutes into the flight of Apollo 8. At the present time, the spacecraft is 139,151 nautical miles [257,707 km] from Earth and traveling at a speed of 4,122 feet per second [1,256 m/s]. In the last few minutes we had a conversation with Jim Lovell aboard the spacecraft. Lovell gave us another of the periodic updates that he's been passing down on the optics system used in conjunction with the onboard guidance and navigation equipment. Lovell again noted, as he has in the past, that he is getting a band of light through the field of view of his scanning telescope. This is a multiple use device. One of the uses that the crew would make of it is to locate and identify a particular constellation that they would be looking at through the sextant which is a 28-power device, giving them much greater magnification, and the sextant would be pointing at a particular sta - particular star in a constellation. The use of the scanning telescope is to identify the constellation that the sextant star is located in and confirm that they are in fact on the proper star. It's been our observation here on the ground that the crew has been able to carry out the required sighting maneuvers, but Lovell has on occasions remarked that there appears to be some light scattering back into the field of view of the scanning telescope and obscuring part of his visibility. We'll play back the tape of his comments on that particular situation and then stand by for any live communication with the spacecraft.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 38 hours, 41 minutes into the flight of Apollo 8. We have had no communications with the crew in the past 20 minutes since our previous announcement. At the present time, Apollo 8 is at an altitude of 140,600 nautical miles [260,400 km], traveling at a speed of 4,083 feet per second [1,244 m/s]. We continue through a very quiet period, both here in Mission Control Center and on the Flight Plan. We've just gotten a call from the spacecraft and we will pick that up now.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+038:41:37 Borman: Hello, Houston. How do you read Apollo 8?
+038:41:40 Mattingly: Oh, loud and clear. [Pause.]
+Frank cannot hear Mattingly in Mission Control. There is a problem getting voice from Houston to the spacecraft through Honeysuckle.
+038:41:45 Mattingly: You sure do sound wide awake. [Long pause.]
+Ken is surprised that Frank is awake, as he was expected to be asleep for several more hours.
+038:42:34 Borman: Hello, Houston, Apollo 8. How do you read?
+038:42:36 Mattingly: Apollo 8, Houston. Read you loud and clear. How me? [No answer.]
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+038:44:05 Network: Honeysuckle, Network, GOSS Conference. How do you read?
+038:44:07 Borman: Houston, this is Apollo 8. How do you read?
+038:44:11 Mattingly: Loud and clear, Apollo 8. [Long pause.]
+Frank still cannot hear Mission Control. However, he does manage to strike up a conversation with Mike Dinn at the Honeysuckle Tracking Station.
+Mike Dinn, from 2002 correspondence: "Of course you can't hear me but you can hear Apollo 8's reponses to me. The problem was connecting the incoming line 'GOSS Net 1' to the transmitter modulator. There was no problem with the downlink getting to Houston. Of course John Saxon [Mike's colleague at Honeysuckle] insists I had the wrong buttons pushed, not being 100% familiar with the config. It's possible.
+Mike fills in for us what he thinks his side of the conversation was.
+Dinn (presumed comm): Apollo 8, Honeysuckle.
+038:44:53 Borman: Go ahead Honeysuckle. How do you read?
+Dinn (presumed comm): Loud and clear. We have comm problems to Houston at the moment.
+038:45:02 Borman: Well, I say hello to all of you in Australia. How's everything down there?
+Dinn (presumed comm): Fine, and how's everything up there?
+038:45:10 Borman: Pretty good so far.
+038:45:17 Borman: Thank you. [Pause.]
+This exchange and an earlier one from Hawaii seem to have made an impression on Frank as he later suggests (at 038:47:21) that the Communications people at the remote stations inform the crew if there are problems with the lines.
+John Saxon, from 2002 correspondence: "I guess there are two possible failure scenarios. 1. The incoming (MCC-H to HSK) voice circuit had a short failure, but outgoing (HSK to MCC-H) was OK. This was not unknown as the lines were 4-wire full duplex. 2. There was a dodgy device called a 'Quindar Switch' - I have a feeling that Quindar is a company name. This switch looked for the Beep/beep tones you hear on many recordings. The first frequency was detected and switched the incoming line to the transmitter circuit, and the second disconnected it. This was done to avoid the crew being constantly bombarded by noise from the ground circuits and the link to the spacecraft (much less noise than the ground circuits). The tones were normally generated by the MCC-H CapCom's 'push-to-talk' switch.
+Each Quindar tone lasted 250 milliseconds (a quarter of a second). A frequency of 2.525 kHz connected Houston to the uplink. A burst of 2.475 kHz removed Houston from the uplink.
+Saxon (continued): "Guesswork on my part but I feel that the second option is the most likely. It only needed a couple of these failures for Mike to feel that there was a problem and reply to the voice from the crew. The button on 'my' console to talk to the crew bypassed the Quindar system.
+Saxon (continued): "As a matter of interest the Quindar device was unreliable for two reasons - incoming noise could trigger it, and also the long ground voice lines of the day had many problems with phase and frequency shifts. We had a standard contingency procedure where we constantly monitored the uplink voice verification (from a receiver in the antenna system 'after' the transmitter) and if we saw that the transmitter was not 'keyed' by the Quindar, we activated our own by-pass uplink and keyed the CapCom by our intercom push to talk switch. Of course on those occasions (which was a contingency often pulled by Simulation teams) 'my' position would have a 'live' microphone to the spacecraft. I did this 'in anger' on several occasions and remember that the person on the other position of the two-man console was not aware of the situation and was trying to talk to me over the 'air loop'. So he was also going up to the crew! Trying to concentrate on the keying and trying to block my microphone plus trying to stop the other person talking must have looked pretty funny."
+Very soon the PAO announcer will place the problem with a relay in a "control monitor panel" at Honeysuckle.
+038:45:26 Network: Honeysuckle, Houston Network on GOSS Conference. How do you read?
+038:45:34 Honeysuckle: Houston Network, this is Honeysuckle reading at 5, 5.
+038:45:37 Network: Roger. [Pause.]
+038:45:44 Mattingly: Apollo 8, Houston. [No answer.]
+038:45:52 Mattingly: Apollo 8, Houston. [No answer.]
+038:46:17 Mattingly: Apollo 8, Houston. Over. [No answer.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We're apparently having some problems with direct communication from Houston to the spacecraft. We're reading them loud and clear. But at the present time we are having to relay information through the Honeysuckle maintenance and operations personnel to the spacecraft and we're checking into the lines between - connections between here and Honeysuckle, Australia to determine just where the problem lays.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+038:47:16 Mattingly: Apollo 8, Houston.
+038:47:21 Borman: Roger, just checking with you. Hey, if you all start having ground switching problems, how about having some site that has comm come in and tell us about it. Will you please?
+038:47:35 Mattingly: Roger. Apollo 8. That's what we have been trying to do. Some of our problem seems to be getting from here to that site.
+038:47:42 Borman: Houston. Apollo 8. How do you read?
+038:47:45 Mattingly: Apollo 8, Houston. Loud and clear. How me? [Long pause.]
+038:47:59 Borman: Houston, Apollo 8.
+038:48:03 Mattingly: Apollo 8, Houston. Read you loud and clear. [Long pause.]
+038:48:36 Mattingly: Apollo 8, Houston.
+038:48:40 Borman: Roger. Go ahead Houston. Apollo 8.
+038:48:43 Mattingly: Rog. We read you loud and clear and copy your remarks about having our remote site talk to you. Some of our problem has been in going from MCC to the remote site. We will attempt to do that anytime we can.
+038:49:01 Borman: That's right. Just tell them you are having problems.
+038:49:04 Mattingly: Rog.
+Very long comm break.
+Based upon the appearance of Australia around Earth's limb, and by comparison with the solar system simulator Celestia, image AS08-16-2606 is taken of Earth at about this time. Measurement of the size of Earth's disc on the film yields a very approximate distance of 244,000 km. As the distance of Earth increases, this means of determining its range becomes ever more inaccurate but the figure is in reasonable agreement with the simulation.
+AS08-16-2606 - Earth at 244,000 km (a very approximate figure based on photo analysis) taken using the 80-mm lens. Comparison with Celestia indicates a time of exposure of approximately 39 hours GET. South is to the top and Australia has appeared around the limb on the right. The planet was imaged through one of the fogged windows.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. Having reestablished two-way communication with the spacecraft, it appears that we won't hear any more from the crew at least for the time being. We did hear from Frank Borman that time that indicates that he is no longer resting, or at least is not asleep. Frank had indicated earlier that he would attempt to get some rest beginning at about 37 hours Ground Elapsed Time, and we heard from him there at about 38 hours, 45 minutes into the flight. We do not have a - an evaluation as to what the problem was with the uplink. The problem appeared to lie between Houston and the site at Honeysuckle. We were able to relay messages from Honeysuckle to the spacecraft, but we were not able to talk directly with the spacecraft from Houston. That problem, as we timed it here, began 38 hours, 42 minutes, and we had calm reestablished at about 38 hours, 48 minutes - about 6 minutes after the call was first put in. At the present time, Apollo 8 is at an altitude of 141,197 nautical miles [261,496 km], and its velocity is 4,067 feet per second [1,240 m/s]. I believe CapCom Ken Mattingly is preparing to put in another call to the crew. We'll stand by briefly for that.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 39 hours, 10 minutes into the flight of Apollo 8. We've had no further communications with the crew since our previous report. We do have a preliminary report on the cause of our communications problem through Honeysuckle. And it appears that the problem was with a control monitor panel at the Honeysuckle, Australia site. The exact nature of the problem with this piece of electronic equipment is not known at this time. It is associated with the unified S-band system at Honeysuckle. The problem, as we said, occurred at about 38 hours, 42 minutes Ground Elapsed Time and was corrected some 6 minutes later. And its effect was to prevent direct communications from Houston to the spacecraft; it did not affect communications from the spacecraft to Houston. And we were able to relay information to the crew through the maintenance and operations people at Honeysuckle. At the present time here in Mission Control, we are going through a change of shift. Flight Director Glynn Lunney and his Black Team of flight controllers are coming to replace Milton Windler. Gerald Carr will be the astronaut Capsule Communicator replacing astronaut Tom Mattingly. And at the present time, the shift going off is briefing the oncoming shift on activities during the shift that is concluding at this time. At the present time, Apollo 8 is at an altitude of 141,777 nautical miles [262,570 km], and the velocity is continuing to drop down slowly, now down to 4,052 feet per second [1,235 m/s]. At 39 hours, 12 minutes into the flight; this is Apollo Control.
+Day 2: The Green Team
+Journal Home Page
+Day 2: The Black Team

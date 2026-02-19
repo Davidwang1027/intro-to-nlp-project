@@ -1,0 +1,475 @@
+Apollo 10 Flight Journal - Day 1, part 5: LM extraction and S-IVB separation
+Day 1, part 4: Translunar Injection & Docking
+Journal Home Page
+Day 1, part 6: Housekeeping and TV transmission
+Apollo 10
+Day 1, part 5: LM extraction and S-IVB separation
+Corrected Transcript and Commentary Copyright © 2009-2025 by W. David Woods, Robin Wheeler and Ian Roberts. All rights reserved.
+Last updated 2025-02-21
+This is Apollo Control. Gene Cernan indicates he's going to have the camera off for about 10 minutes while they do some work. We'll continue to stay up in case we get any communications.
+003:28:58 Cernan: Charlie, go ahead. I'll take the evasive maneuver.
+003:29:01 Duke: Roger. If you're ready to copy, we have a P30 PAD evasive maneuver, SPS/G&N: 63556, plus 0.91, minus 0.21; 004:39:09.00; Noun 81 is plus 3 balls 51, plus 5 balls, plus 0019.0. How do you copy?
+003:29:45 Cernan: I'm still with you. That's just the right speed; I got gloves on yet.
+003:29:50 Duke: Okay. Want me to slow down?
+003:29:53 Cernan: No. Just go the way you are.
+003:29:55 Duke: Roger. 061, 255, 358. Apogee and perigee are NA, 0019.7, 0:03, 0015.0. The rest of the pad is NA, and no ullage.
+003:30:26 Cernan: Roger. Charlie. Repeat roll, pitch, and yaw.
+003:30:28 Duke: Roger. 061, 255, 358. Did you copy?
+003:30:58 Duke: Apollo 10, Houston. Do you read?
+003:31:37 Cernan: Hello, Houston. This is 10.
+003:31:40 Duke: Roger, 10. We read you now. We had a handover to Goldstone and lost you for a while. How do you read me?
+003:31:45 Cernan: Okay. I've got you on omni, and I'll copy the rest of the pad on omni and get High Gain back again. I got roll of 061, pitch of 255, and give me Yaw.
+003:31:54 Duke: Roger. Yaw 358.
+003:31:59 Cernan: Okay. Purpose is evasive. SPS/G&N: 63556, plus 0.91, minus 0.21; 004:39:09.00. Noun 81 - and plus 0005.1, plus all balls, plus 0019.0; roll 061, 255, 358; Delta-VT is 0019.7, burn time is 0:03, and Delta-VC is 0015.0.
+The evasive PAD details are as follows:
+Purpose: The PAD is for a short burn that takes the Apollo stack away from the S-IVB. It also acts as a short test of the SPS engine, important given its critical function in returning the crew to Earth.
+Systems: The burn would be made using the SPS engine under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 63,556 pounds (28,829 kg).
+Pitch and yaw trim (Noun 48): +0.91° and -0.21°.
+Time of ignition (Noun 33): 4 hours, 39 minutes, 9.00 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +5.1 (+1.6); y, 0; z, +19.0 (5.8). These are with respect to the Local Vertical/Local Horizontal.
+Spacecraft attitude: Roll, 61°; Pitch, 255°; Yaw, 358°. This attitude is with respect to the launch pad REFSMMAT.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable.
+HP, expected perigee of resulting orbit (Noun 44): Not applicable.
+Delta-VT, the total velocity change resulting from the burn: 19.7 fps (6 m/s).
+Burn duration or burn time: 3 seconds.
+Delta-VC: 15.0 fps (4.6 m/s). This figure, when entered into the EMS velocity display, can be used as a backup method of shutting down the engine.
+No ullage will be required as the SM propellant tanks are full.
+003:32:31 Duke: Roger. Good readback, Gene.
+003:32:58 Duke: Hello, Apollo 10. Houston. The S-IVB's getting ready to do an auxiliary hydraulic pump cycling which you may feel, and we will have a non propulsive vent in a few minutes, also.
+003:33:09 Young: Okay. Roger. I would reckon that possibly 10, latches 10, 3 - 3, and 4 are probably going to be one shot in progress from the position of the bungee, but they all are automatically made.
+Young, from the 1969 Technical debrief: "All the latches were engaged solidly. I felt around the edge, over on the bungees and springs. Springs 3, 4, and 10 were still partially compressed. In other words, they weren't all the way up to the top of the bungee, and that indicated they'd be one shot to cock and they were."
+003:33:22 Duke: Roger. We copy, John.
+003:33:27 Cernan: And it looks just like - just like downtown up here.
+003:33:31 Duke: Okay. You have seen it before.
+003:37:07 Cernan: Houston, this is Charlie Brown. How do you read me? High Gain?
+003:37:10 Duke: Roger. Five-by, Gene.
+003:37:14 Cernan: Okay. We're just getting the hatch area squared away at this time.
+003:37:20 Duke: Roger. Get the umbilicals connected?
+003:37:25 Cernan: Yes. We just - just now completed that.
+Young, from the 1969 Technical debrief: "I took my helmet and gloves off to attach the 1M umbilical. The umbilical configured normally and we applied power, and that was normal. We were suited from pre-TLI through latch verification. We installed the umbilicals, vented the probe, and reinstalled the hatch."
+003:37:28 Duke: Roger.
+003:37:52 Cernan: Okay, Houston. We're reading 2 volts on system test meter 4D, and it just bounced back to four-tenths of a volt, so I guess the heaters are cycling or something in the LM.
+003:38:07 Duke: Roger.
+003:38:39 Duke: Hello, 10. Houston. TELCOM see's the LM current; it looks nominal.
+003:38:41 Young: Okay. Thank you.
+003:40:40 Stafford: Hello, Houston. Apollo 10.
+003:40:42 Duke: Go ahead, Tom.
+003:40:46 Stafford: Okay,. When we pressurized the LM, the Mylar all blew out of the tunnel hatch there, and we have got a spacecraft that has beaucoup insulation in it here. It looks like it didn't leave a big enough hole. Just like the same way when the LM forward tunnel insulation used to blow out.
+Young, from the 1969 Technical debrief: "When we opened the hatch and pulled it down into the spacecraft it was obvious that the Mylar, bonded insulation, had broken loose and we had fiberglass insulation all over the inside of the spacecraft. We shoved the hatch in the bag and crawled back over in the tunnel to check the latches."
+From the Apollo 10 Mission Report: "When the Lunar Module cabin was first pressurized, the thermal coating on the Command Module hatch came off in pieces. The insulation blanket vent holes were plugged, producing the damage. One possibility is that the preflight baking of the hatch at 900°F for 15 hours weakened the insulation to the extent that internal pieces of insulation broke loose and plugged the holes during tunnel depressurization. Another possibility is that the vent holes were inadvertently sealed when the insulation blanket was potted with RTV or when the H-film tape was installed on the hatch surface."
+003:41:09 Duke: Roger. Copy. You lost every bit of the Mylar in the back side of the hatch?
+003:41:12 Stafford: Not every bit, but a whole bunch of it.
+003:41:14 Young: Oh, just a little of it, Charlie.
+003:41:16 Duke: Okay.
+003:41:17 Young: But, of course, they do away with it on 107 and subs.
+John Young is making the point that the Mylar insulation will not be installed on CM-107 (Apollo 11) and all subsequent CMs.
+003:41:19 Duke: Okay.
+003:41:25 Duke: You got lots of pieces floating around?
+003:41:28 Stafford: A few.
+003:41:29 Duke: Okay.
+003:41:32 Cernan: Just a little snow.
+This is Apollo Control at 3 hours, 54 minutes. We have 2 to 3 minutes of tape at this conference at the Cape. We'll play that for you now.
+003:48:17 Duke: Hello, Apollo 10. Houston. We still show the EDS power, On, and the EDS breakers, Closed. Would you turn the power off and open the breakers, if you've got a second?
+003:48:28 Stafford: Okay. Power coming off.
+003:50:59 Young: Hello, Houston. This is 10. We've got the logic On, and we're standing by for your Go for Pyro Arm.
+The pyrotechnic devices that will separate the LM from the S-IVB are about to be armed.
+003:51:04 Duke: Roger. Stand by. You have our Go for Pyro Arm, 10.
+003:51:11 Young: Okay. Pyros coming up and on.
+003:51:13 Duke: Roger.
+003:51:43 Duke: 10, Houston. The S-IVB is still venting non-propulsively.
+003:51:48 Young: Roger.
+003:51:49 Stafford: Roger. We're going to separate in just a minute.
+003:51:52 Duke: Roger.
+003:51:53 Duke: And, 10. We'd like you to stand by until that vent's over in about 2 minutes.
+003:51:58 Stafford: Okay.
+003:52:00 Stafford: We're standing by for your Go for Sep.
+003:52:03 Duke: Roger, Tom.
+003:54:29 Duke: 10, Houston. The vent's over; we're Go for Sep.
+003:54:32 Stafford: Roger. Understand that we are Go for Sep.
+003:54:44 Cernan: Houston, I'll turn the TV on, on this one.
+003:54:46 Duke: Roger.
+003:56:13 Stafford: Okay. I'm going to count down to Sep.
+003:56:15 Duke: Roger. Standing by.
+003:56:23 Stafford: 3, 2, 1
+003:56:25 Stafford: Go.
+LM separation system
+We have TV coming up again right now. The Command Module Service Module and the LM have just separated from the S-IVB.
+003:56:27 Stafford: Snoopy's coming out of the doghouse.
+003:56:29 Duke: Roger.
+003:56:36 Duke: And we got the TV.
+H.264 MP4 video file.
+Your browser does not support the audio element. Download MP3 audio file.
+Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+003:56:48 Cernan: Houston, we have Cryo pressure light; O2 tank 1 and 2 are reading about 800 [psia].
+Both O2 cryogenic storage tanks are indicating that their pressure has dropped below the normal minimum of 865 psia. Tank pressures and quantities are monitored on meters located on MDC 2 (Main Display Console 2). The caution and warning system (Cryo Press) will alarm when oxygen pressure in either tank exceeds 950 psia or falls below 800 psia. The hydrogen system alarms above 270 psia and below 220 psia. Since a common lamp is provided, reference must be made to the individual pressure and quantity meters (MDC 2) to determine the malfunctioning tank. Tank pressures, quantities, and reactant temperatures of each tank are telemetered to MSFN. The manual mode of operation bypasses the pressure switches, and supplies power directly to the heaters and/or fans through the individual control switches. It can be used in case of automatic control failure, heater failure, or fan failure. Two parallel dc heaters in each tank supply the heat necessary to maintain design pressures. Two parallel 3-phase ac circulating fans circulate the fluid over the heating elements to maintain a uniform density and decrease the probability of stratification.
+Cryo Pressure warning light
+003:56:55 Duke: Roger.
+003:57:05 Duke: 10, we'd like to have you turn the fans on.
+003:57:12 Cernan: They're on.
+003:58:38 Cernan: Houston, we're maneuvering around right now, acquired the S-IVB, going into SEP attitude.
+003:58:41 Duke: Roger.
+003:59:15 Cernan: Houston, that was fans in Auto or Off on the O2?
+003:59:20 Duke: On, Gene; On.
+003:59:24 Cernan: They're On; On.
+003:59:26 Duke: Roger.
+004:00:29 Stafford: Okay, Houston. We can see the S-IVB now.
+004:00:32 Duke: Roger. Out of which window, Tom?
+004:00:35 Stafford: John's looking at it out the hatch window.
+004:00:37 Duke: Roger.
+004:02:01 Cernan: Houston, it's the S-IVB in the TV right now.
+004:02:06 Duke: Roger. We got it right over the quad - thrusters there, Gene.
+004:02:10 Cernan: That's it. I'll see if I can bring it into you.
+004:02:12 Duke: Roger. Thanks.
+004:02:35 Duke: 10, that TV is really fantastic.
+004:02:41 Stafford: It looks like the dome there of the S-IVB is gold.
+004:02:45 Duke: Roger.
+004:02:49 Stafford: It looks like we got good separation, distance and no problems.
+004:02:53 Duke: Roger. It looks like about the size of a quarter to us here, Tom. What do you estimate your range?
+004:03:06 Stafford: I'd say at least 300 feet, now.
+004:03:08 Duke: Roger.
+004:03:22 Cernan: Are you getting anything, Charlie?
+004:03:23 Duke: Roger, Gene. That zoom was real good. We have the S-IVB; the Sun's real bright on it.
+004:03:28 Cernan: How's the focus?
+004:03:29 Duke: Looks real good.
+004:03:35 Duke: That LM antenna is showing up real bright.
+004:03:57 Stafford: Hello, Houston. Apollo 10.
+004:03:59 Duke: Go ahead, 10.
+004:04:01 Stafford: Roger. I wish you'd tell Dr. Von Braun, Lee James, Kurt Debus, and Rocco Petrone thanks a lot for all the people who worked on the great ride.
+004:04:10 Duke: Roger. We're going out to the networks now, I think. They probably heard it; we'll pass it on, though.
+004:04:15 Stafford: A few thousand people worked on that machine, and we sure appreciate it.
+004:04:20 Duke: Roger. It looked beautiful from here
+004:04:26 Duke: Did you move the camera, Gene?
+004:04:29 Cernan: Say again.
+004:04:30 Duke: Did you move the camera?
+004:04:31 Cernan: It's out the hatch window; John's got it now.
+004:04:34 Duke: Okay.
+004:04:37 Stafford: In fact, you can see the S-IVB's attitude, thrusters firing, now.
+004:04:41 Duke: We haven't been able to pick that up yet; S-IVB's really good.
+004:04:45 Stafford: Yes.
+004:04:52 Stafford: I'd estimate now that we're a good 300 to 400 feet away.
+004:04:57 Duke: Roger.
+004:04:58 Stafford: And we're slowly going away. We're starting to see one side of it.
+004:05:01 Duke: Roger.
+004:05:18 Duke: And 10, Houston. "Eagle-Eyes" Cooper said he can see your thrusters firing up there on the S-IVB.
+004:05:27 Stafford: Good show.
+004:05:33 Cernan: I can't even see them from here. He must be about 2,500 miles away.
+004:05:37 Duke: [Laughter.] Roger.
+004:05:43 Cooper: You're looking out the wrong window.
+004:05:44 Cernan: I'm sure going to like Snoopy, because that's all I'm going to see.
+Distance from the Earth now 13,531 miles, velocity 16,063 feet per second.
+004:06:58 Stafford: Okay. I've got the S-IVB out my window now.
+004:07:53 Stafford: Okay, Houston. This is CDR. I've got the S-IVB out of my window, here.
+004:07:59 Duke: Roger, Tom. It's looking great. It's a pretty bright network. We'd like you to keep the camera moving around so we don't burn anything.
+004:08:49 Stafford: Houston, this is 10. Can you see all the particles around us?
+004:08:52 Duke: Negative, Tom. All we got in the S-IVB, and it's a real bright blob.
+004:09:01 Stafford: Yes. Okay. Looks like...
+004:09:04 Duke: Is your ALC [Automatic Light Compensation] switch on Inside or Exterior/Interior?
+004:09:10 Stafford: On Interior. You want to go Exterior?
+004:09:11 Duke: Let's try that.
+004:09:17 Stafford: That better?
+004:09:19 Duke: On the black and white it is. Stand by on the color. We got that delay. Hey, yes. That's a lot better. It took all that washout out. Looks good.
+004:09:41 Cernan: Charlie, we're looking for the Earth right now. We'd like to show it too, but we can't Find it.
+004:09:45 Duke: Roger. It's down there somewhere.
+004:09:49 Young: That's a smart comment.
+004:09:52 Duke: Ask the navigator. He should know.
+004:09:57 Young: He's the housekeeper right now.
+004:10:05 Stafford: Okay, Houston. Now, this is Apollo 10. We want to get ahead and get some other things done. We're going to go ahead and turn off the TV for a while.
+004:10:11 Duke: Roger. Copy.
+This to Apollo Control at 4 hours, 10 minutes. Tom Stafford indicates that's all of the television for a while. We're sure he'll give us-enough notice when he wants to come back up with it. We're 28 minutes away from the nominal evasive maneuver time, however, both the ground and the spacecraft are GO for this maneuver and at crew option they could perform it early. This will be a 19.7 feet per second burn with the service propulsion system, the big engine in the service module, retrograde burn. It will put the S-IVB out ahead of the Apollo 10 spacecraft, the dock configuration. Then shortly after the burn the remaining propellants in the S-IVB will be vented through the engine, be a propulsive vent.
+004:12:00 Stafford: Houston, Apollo 10. We're still slowly moving away from the S-IVB, but that rascal is boresighted right at us.
+004:12:06 Duke: Roger, Tom.
+There will be enough energy in this propulsive vent to put the S-IVB on a trajectory that will go around the trailing edge of the moon and then into solar orbit. This is the sling shot maneuver. Distance from earth now 14,449 miles, Apollo 10's velocity now 15,635 feet per second.
+This is Apollo Control at 4 hours, 14 minutes. We still have about 3 minutes worth of tape left that accumulated during the news conference at the Kennedy Space Center. We'll turn that tape over to the transcript typist, and we'll continue to stay up alive through this evasive maneuver.
+Apollo 10 is now 15,023 miles away from the Earth. The velocity is 15,364 feet per second.
+004:22:12 Duke: Apollo 10, Houston. Me would like you to verify that the suit circuit return value is Open.
+004:22:22 Young: Thank you, Charlie. We got it.
+004:22:24 Duke: Roger.
+004:25:13 Stafford: Hello, Houston. Apollo 10.
+004:25:15 Duke: Go ahead, 10.
+004:25:17 Stafford: Okay. Estimate now that we are out a good 1,000 - 800 to 1,000 feet from the S-IVB and it moved out laterally - oh, maybe 400 feet.
+004:25:28 Duke: Roger.
+004:25:30 Stafford: It looks like out of the burn direction that we will be in will put us in the right direction, if we keep moving laterally.
+004:25:35 Duke: Roger. Copy.
+004:26:32 Stafford: Houston, Apollo 10. We are in burn attitude at this time.
+004:26:37 Duke: Roger. We copy.
+004:30:18 Duke: Apollo 10, Houston. We'd like for you to turn off the O2 CRYO fan.
+MCC is requesting that the crew cease the O2 cryogenic stir now that the pressure has returned to desired level.
+004:30:24 Young: O2 Cryo fan. Roger.
+004:32:23 Young: Houston, this is Apollo 10. We are back on OMNI. We were getting a bad squeal on our S-band.
+Communications have been switched from the High Gain Antenna to the CM omni antenna, due to interference over the High Gain.
+004:32:29 Duke: Roger. Copy.
+004:32:32 Young: Is that okay, or do you want to look at this one on High Gain.
+004:32:36 Duke: Stand by. It looks good on the omni, if you can stay where we are.
+004:33:57 Stafford: Okay, Houston. Apollo 10 coming up to 5 minutes. We are going to start our gimbal drive check.
+The SPS gimbal motors are powered up at this time to provide SPS control during the S-IVB evasive manoeuvre. See gimbal motor details at GET 00:05:58.
+004:43:03 Duke: Roger. Copy.
+004:34:12 Stafford: Pitch 1 coming On. Yaw 1 On.
+004:34:16 Duke: Roger.
+004:34:27 Stafford: Pitch 2 coming On.
+004:34:28 Duke: Roger.
+004:34:29 Stafford: Yaw 2 coming On.
+This is Apollo Control. Tom Stafford running some gimbal checks on the SPS engine prior to this evasive maneuver. We are about 3 minutes, 57 seconds away from that maneuver which will occur at 4 hours, 39 minutes, 9 seconds. Duration of the burn, 2.8 seconds; delta-V, 19.7 feet per second. Apollo 10 is 17,529 nautical miles away from the Earth; its velocity, 14,368 feet per second. The weight of the combined vehicles; 94,271 pounds.
+004:34:31 Duke: Roger.
+004:37:10 Stafford: Okay, Houston. Coming up on 2 minutes. Delta-V thrust A normal [panel 1].
+Delta-V Thrust A switch, Panel 1
+The SPS injector prevalves are two positive solenoid-operated valves, one for each pneumatic control system, and are identified as A and B. The valve is energized open and spring-loaded closed. The injector prevalves are controlled by the Delta-V Thrust Normal switches on MDC-1 (Main Display Console 1). When switch A is placed to Normal, injector prevalve A is energized open. If switch B is placed to Normal, injector prevalve B is energized open. The injector prevalves, when energized open, allow GN2 supply tank pressure to be directed through an orifice, into a regulator, relief valve, and to a pair of solenoid control valves. The solenoid control valves are controlled by the SPS thrust On-Off commands. The Off position of the Delta-V Thrust switches de-energizes the injector prevalves and springloads closed.
+004:37:14 Duke: Roger.
+004:38:11 Stafford: Mark. 1 minute to the burn.
+004:38:12 Duke: Roger.
+004:38:44 Stafford: 30 seconds.
+004:38:45 Duke: Roger.
+004:38:52 Stafford: 20 seconds.
+004:39:12 Stafford: Burn.
+004:39:14 Duke: Roger.
+004:39:15 Stafford: SPS shows 90 psi.
+004:39:16 Duke: Roger.
+004:39:17 Stafford: Switches off.
+004:39:20 Duke: Looks like a good burn to us.
+004:39:44 Cernan: Okay. We have - You see the residuals, plus one, two-tenths, and five-tenths.
+004:39:49 Duke: We copy.
+004:40:35 Duke: 10, Houston. That burn looked real good to us. I think the SPS is Go.
+004:40:40 Stafford: Roger. And we're leaving S-IVB way behind.
+004:40:43 Duke: Roger.
+004:41:01 Stafford: Houston, Apollo 10. All the postburn items are cleaned up.
+004:41:07 Duke: Roger, Tom. We copy. Stand by.
+004:41:15 Stafford: Roger. Could you give us a - before we pick up the PTC at 12 hours, could you give us an angle so we can look at the Earth out of one of the windows?
+004:41:22 Duke: Roger. We're going to have an update on that Flight Plan maneuver for you. Stand by.
+004:42:09 Duke: 10, Houston. We're about 95 percent sure that we're going to skip midcourse number 1. Give us some time to look at the data, and we'll get back and confirm that with you definitely.
+004:42:23 Stafford: Okay.
+004:42:30 Duke: And, 10, Houston. When you doff your suits, we'd like each one of you to read - give us a reading on your suit radiation dosimeters, please.
+004:42:41 Stafford: Roger.
+004:42:46 Cernan: Houston, this is 10. You want to go ahead and start charging Batt A?
+A constant voltage, solid-state battery charger, located in the CM lower equipment bay, is incorporated into the EPS. The Battery Charge selector switch [MDC-3] controls power input to the charger, as well as connecting the charger output to the selected battery. When the Battery Charge selector switch is positioned to entry battery A, B, or C, a relay (Kl) is activated completing circuits from ac and dc power sources to the battery charger. Battery charger output is also connected to the selected battery to be charged through contacts of the Main Bus Tie motor switch. Positioning the Main Bus Tie switch (A/C or B/C) [panel 5] to Off for battery A or B, and both switches to Off for battery C will disconnect main bus loads from the respective batteries and also complete the circuit from the charger to the battery.
+Battery Charge
+Main Bus Tie Switch
+004:42:51 Duke: Stand by.
+004:42:58 Duke: That's affirmative, Gene. Go ahead. You can start the Batt A charge.
+004:43:02 Young: Okay.
+004:43:42 Duke: Apollo 10, Houston. When somebody is down in the LEB, we'd like a readout of the LM/CM Delta-P [panel 12].
+The LM/CM Delta-P reading gave the pressure differential between the two modules, so that the crew could confirm the pressure of the LM tunnel prior to opening the CM forward hatch. A reading of zero psid would indicate that the pressure was the same in the CM and the LM tunnel.
+004:43:48 Stafford: Roger. John's able to get it for you.
+004:43:51 Duke: Roger.
+004:43:54 Young: Roger. We're reading eight-tenths right now.
+004:43:58 Duke: Roger. Copy. Eight-tenths.
+004:44:01 Young: Make that 8500.
+004:44:03 Duke: Okay.
+004:44:41 Duke: Apollo 10, Houston. In about 3 minutes, we're going to have a short LOX dump on the Saturn.
+004:44:48 Stafford: Okay. We can't see it. It's just long gone from us.
+004:44:51 Duke: Okay.
+004:46:08 Young: Hello, Houston. This is 10.
+004:46:09 Duke: Go ahead.
+004:46:11 Young: Okay. I'm reading 100.5 percent oxidizer and 101.2 percent fuel. My unbalance went from on that short burn - from a minus 50 to a minus 200.
+004:46:28 Duke: Roger. We copy.
+004:47:07 Duke: 10, we'll have that attitude for you for the righthand hatch window for the Earth in a couple of seconds.
+004:47:15 Stafford: Okay.
+004:47:16 Duke: 10, this is Charlie.
+004:47:18 Duke: Is that okay, or do you want the hatch window?
+004:47:20 Young: Right hand's alright.
+004:47:21 Duke: Okay.
+004:47:22 Stafford: With the right hand, we could use the mount, then.
+004:47:25 Duke: Okay.
+004:47:32 Stafford: The last time I saw it, it started to look - The last time I saw it, it started to look like a medicine ball.
+004:47:38 Duke: Roger.
+004:47:46 Young: Okay.
+004:48:10 Duke: Apollo 10, Houston. We have an update for your P23 attitudes and stars if you care to copy at this time.
+P23 (program 23) is used for midcourse navigation by taking star/Earth or star/Moon optical measurements, to enable onboard determination of the present state vector. By combining the angle measured between the planet and the star at a particular point in time, the Apollo Guidance Computer (AGC) can calculate the current state vector, using P23.
+004:48:24 Cernan: Okay. Go ahead.
+004:48:25 Duke: Roger, Gene. At 5 hours, this attitude for the P23 as listed in the Flight Plan is incorrect. We'd like you to have a roll of 180, pitch of 167, a yaw of zero.
+004:48:45 Cernan: 180, 167, 000 at 5 hours for P23.
+004:48:49 Duke: That's affirmative, and we've got an update to your stars also on page 3-9 [of the Flight Plan] if you're ready to copy.
+004:48:56 Cernan: Yes, go ahead.
+004:49:00 Duke: You ready?
+004:49:02 Young: All set.
+004:49:03 Duke: Okay. Roger. Set 1 is now Nunki, number 37, and it's near side. Set 2 is Peacock, number 42, I and it's near horizon. Set 3 is also Peacock 42, near horizon. And the last two sets, 4 and 5, are Antares, far horizon.
+004:49:45 Young: Did you say Peacock set 3 was far horizon?
+004:49:50 Duke: Negative. Near horizon for both sets 2 and 3 on Peacock.
+004:49:54 Young: Okay.
+004:49:56 Duke: Okay. The reason for the update, we forgot we had Snoop [LM] out there.
+004:50:03 Young: Okay.
+004:53:06 Duke: Hello, Charlie Brown. This is Houston. We've got that attitude for the Earth out the right-hand window. It's a roll of 277, pitch 187, yaw 15.
+004:54:43 Duke: Apollo 10, Houston.
+004:55:09 Duke: Hello, 10. Houston. Over.
+This is Apollo Control. Apollo 10 just passed the 20,000 mile mark. Now, 20,007 miles from Earth; velocity is 13,508 feet per second, weight 94,096 and one-half pounds.
+004:56:28 Duke: Hello, Apollo 10. Houston. Do you read me?
+004:56:41 Duke: Apollo 10, Houston. In the blind. If...
+004:57:10 Duke: Hello, Charlie Brown. Houston. Over.
+004:57:19 Duke: Hello, Charlie Brown. Houston. Over.
+004:58:49 Duke: Hello, Apollo 10. Houston. Over.
+004:59:23 Duke: Hello, Charlie Brown. This is Houston. Do you read? Over.
+This is Apollo Control. We are receiving data from Apollo 10.
+004:59:43 Duke: Hello, Charlie Brown. This is Houston. Over.
+Having some difficulty with the voice communications. The communication officer says it looks like Apollo 10 may be trying to lock on with the High Gain Antenna now.
+005:00:00 Stafford: Hello, Houston. This is Apollo 10.
+005:00:02 Duke: Roger. Go ahead, Tom. We are reading you now.
+005:00:16 Duke: 10, Houston. We are reading you intermittent.
+005:00:58 Cernan: Hello, Houston. Houston, how you read?
+005:01:02 Duke: Roger. Five - five, Gene. How me?
+005:01:07 Stafford: Houston, Apollo 10. How do you read?
+005:01:10 Duke: Reading you five-by. How me?
+005:01:15 Duke: Apollo 10, Apollo 10, this is Houston. How do you read? Over.
+005:03:17 Duke: 10, Houston. Do you read?
+005:03:26 Cernan: Hello, Houston, Houston. This is 10. How do you read?
+005:03:28 Duke: Roger. Reading you five-by, Gene-o. How me?
+005:03:31 Cernan: Reading you all right now. I've been having a lot of trouble with the omnis, and the High Gain borrows. We get about three-fourths signal strength, and the noise gets so bad, and apparently you're not hearing us.
+005:03:41 Duke: That's affirmative. We've been hearing the same thing. We think you're going from omni to omni a little bit too fast and not giving us a chance to get locked up real good. Are you with - I guess we're on the omnis now, and we're hearing you five-by.
+005:03:57 Cernan: Okay. I'm on omni C right now. We've got the Earth here, and we'd like to be able to go high gain and show it to you, if you can figure it.
+005:04:06 Duke: Stand by.
+005:04:14 Duke: We've configured network's ready to go. You can go High Gain.
+005:04:16 Cernan: Okay.
+This is Apollo Control; 5 hours, 4 minutes. Apollo 10 is going to try to bring up another live color TV show, showing the Earth. We'll stand by for this transmission. Apollo 10's distance from the Earth now 21,119 nautical miles. Velocity; 13,170 feet per second.
+005:05:27 Cernan: Charlie, if you see this, it's going to be out of this world, literally.
+005:05:30 Duke: Roger. Standing by, Gene
+005:05:32 Stafford: Okay. We can see exactly all of...
+005:05:39 Duke: You're cutting out, Tom.
+005:05:42 Stafford: Are you getting any signal now?
+005:05:51 Stafford: I'm looking right at the good old U.S. of A. there.
+005:05:54 Duke: Roger.
+005:06:04 Duke: 10, Houston. We're looking for the TV. How does the High Gain signal strength look to you?
+005:06:11 Young: It's loud and clear.
+005:06:13 Duke: Roger.
+005:06:33 Cernan: Still nothing, Charlie?
+Picture coming up shortly.
+005:06:35 Duke: We got you on the black and white. Stand by about 12 seconds. It looks great on the black and white.
+Your browser does not support the audio element. Download MP3 audio file.
+005:06:54 Stafford: I figure right there you should be able to see the United States, Mexico, Baja California -
+005:06:57 Duke: Hey, it's really beautiful, Tom. It's coming in great.
+005:07:01 Stafford: You ought to see it up here, Charlie.
+005:07:03 Young: We've got the whole globe there.
+005:07:05 Stafford: Yes, you're looking right at the United States there.
+005:07:07 Duke: Roger.
+005:07:08 Stafford: See the Rocky Mountains sticking out? Baja California? Can't tell whether you have any smog in LA or not, but Alaska is pretty much socked in.
+005:07:20 Duke: Roger.
+005:07:25 Duke: It's really a beautiful picture.
+005:07:32 Stafford: We'll just let it go here for a couple of minutes.
+005:07:34 Duke: Okay. Thanks. Hey, Gene-o, on your monitor, which way is the North Pole to you? We've got it up at the northeast corner?
+005:07:46 Stafford: That's right, Charlie. The northeast corner is the North Pole.
+005:07:50 Duke: Okay.
+005:07:51 Stafford: You can see cloud - covers the northern part of Alaska, and it comes down and cloudcovers over the northeastern part of Canada, and I can see out into the New England area. We've got a low pressure area out there.
+005:08:01 Duke: Roger.
+005:08:07 Duke: The color is fantastic. It really is.
+005:08:10 Stafford: Okay. And it looks like the Rocky Mountains are orange colored to me. The rest of U.S., Baja California, that really stands out as all brownish, and the oceans are blue; but there are so many clouds out to the northeast of the United States, you can't believe it. Covers the Far East over to Europe as far as you can see.
+005:08:26 Duke: Roger. We see all that. We've got a brownish spot that's pretty hard to pick out just exactly what we're looking at, but we do see the brown and the clouds out over the ocean about the center of the globe.
+005:08:37 Stafford: Yes. Okay. The brown spot is the Rocky Mountains. It runs down around into New Mexico, up into Colorado.
+005:08:49 Duke: Roger.
+005:08:54 Duke: This resolution is fantastic. The LM, you can count the rivets on it, and yet the Earth and the colors are really beautiful.
+005:09:02 Stafford: Okay. Well, I can zoom in a bit on a certain part of the Earth here; I'll try to zoom in on the Rocky Mountains and California.
+005:09:07 Duke: Roger. Standing by, Tom.
+005:09:20 Stafford: How's that, Charlie? Better?
+005:09:22 Duke: We're looking at it on the black and white. It looks great. Stand by. Here he comes in on the color now.
+005:09:29 Duke: Hey, boy! That is really fantastic. We can pick out Baja and the smog over LA and we see Mexico and we go off to the east, in our picture, and come into the Rockies area. The Baja California and the Gulf, they really stand out beautiful.
+005:09:46 Stafford: Okay. We'll move it around.
+005:09:49 Duke: Looks like we've got some cloud down over New Orleans and down in that way.
+005:09:55 Stafford: Yes. Okay. Charlie. That's full zoom.
+005:10:05 Duke: Okay, this has got to be the greatest sight ever.
+005:10:08 Stafford: You ought to see it up here.
+005:10:11 Duke: Hey, Tom. Boy, it is really fantastic. Could you get Baja in a little bit? We're showing this deal to the Pacific now.
+005:10:27 Duke: Okay. We've got the Baja now on the right-hand side of our screen, and it's right in the center now, and we can see Mexico and the clouds up over the Rockies. It's really a fantastic sight, almost see the freeways in LA.
+005:10:48 Stafford: Right. Okay, I'm going to move down. You can take a look down by the Gulf of Mexico now.
+005:10:53 Duke: Roger.
+005:10:57 Cernan: Charlie, this is - It's so hard to describe. You can go right up past Alaska, and you can see the polar caps. It's incredible.
+005:11:08 Duke: We see it all here, Gene. The colors are really beautiful.
+005:11:12 Cernan: That's great. And the blackest black that you ever could conceive is the setting for all this.
+005:11:19 Duke: Roger.
+005:11:22 Stafford: Looks like the people of New York have a little bit of cloud cover today. It goes all the way down, in fact, down back by the Cape.
+005:11:29 Duke: Roger.
+005:11:36 Duke: You guys are really giving us a great show. This is fantastic.
+005:11:40 Stafford: We just want to thank all the peop1e who helped get us up here, Charlie.
+005:11:43 Duke: Roger. I know.
+005:11:49 Stafford: That includes the taxpayers, too.
+005:11:50 Duke: [Laughter.] Roger.
+005:11:53 Cernan: Charlie, you know, you blink your eyes and you look out there and you know it's three dimensional, but it is just sitting out there in the middle of nowhere and it's unbelievable.
+005:12:07 Duke: We copy, Gene. We are getting a real idea now, for the first time, of what you are really seeing up there. The colors on the oceans are just as blue as they can be and real white clouds all over, and the land is a real deep brown, Almost a reddish brown.
+005:12:26 Cernan: And the North Pole, the Arctic area, is just solidly, whitely, snow-covered.
+005:12:31 Duke: Roger.
+005:12:33 Stafford: It's a brown around in the Rocky Mountains and orange down into New Mexico and becomes a little more of a purplish orange...
+005:12:40 Duke: Roger. We see all - I cut you off there, Tom. We see all that, and it is looking good.
+005:12:47 Cernan: You can actually pick out what I think is the San Joaquin Valley down there, just on the west side of the hills.
+005:12:54 Duke: Roger.
+005:13:00 Stafford: Okay, I am going to open the zoom and bring it back in the other way.
+005:13:04 Duke: Roger, 10. Would you check your TV servo power. We show it On.
+005:13:18 Stafford: Sorry. I must have knocked it on there when I was wrestling around here.
+005:13:21 Duke: Roger.
+005:13:28 Duke: Boy, we are looking at a black background now.
+005:13:46 Stafford: There, you have the whole Earth.
+005:13:49 Duke: Roger. We - It is really beautiful. Tom, we can even pick up the little tip of the northern part of South America down below Baja.
+005:14:00 Cernan: Yes, it's coming in now.
+005:14:04 Duke: It's really blue, you guys.
+005:14:07 Stafford: That's for sure.
+005:14:09 Cernan: We are looking right at you. Looks like you may have a few clouds there right now in Houston.
+005:14:13 Duke: It's sort of a constant overcast here in the MOCR but we have never been...
+005:14:23 Cernan: You are right on the edge of what might be some clouds, but certainly to the northeast of that area, it's clobbered.
+005:14:29 Duke: Roger.
+005:14:33 Stafford: Okay. John is going ahead through P52 [IMU realignment] here.
+005:14:36 Duke: Roger.
+005:14:37 Cernan: I think I can see all the way up into the Newfoundland area now, up along the eastern coast that is not covered.
+005:14:45 Duke: Right, Gene-o. It looks to us that it is just completely clouded up over that way.
+005:14:58 Stafford: You might say we have moved out in the last couple of hours.
+005:15:00 Duke: Boy, I'll say. We got you at about 26,000 miles here - or a little bit more.
+005:15:12 Stafford: Okay. I am going to put the zoom on 55, which will give you the exact resolution we have.
+005:15:16 Duke: Roger.
+005:15:18 Cernan: And, just for the record, it looks to me like a pretty nice place to live.
+005:15:22 Duke: Roger. And we see you at P52.
+005:15:28 Stafford: Okay. 55 on the zoom, and that is about exactly the same thing we are seeing now.
+005:15:33 Duke: Well, that is really fantastic.
+005:15:46 Duke: 10, can you see the Hawaiian Islands?
+005:15:54 Stafford: Negative. Too much cloud coverage.
+005:15:56 Duke: Okay.
+005:16:02 Young: 10. Houston, this is 10. Those Gyro torquing angles look okay to you?
+005:16:06 Duke: Stand by.
+005:16:11 Duke: Roger. They look okay to us, John.
+005:16:15 Young: Okay. You can't verify these stars with this LM on right now.
+005:16:21 Duke: Roger. Are these your P23 stars?
+005:16:29 Young: Negative. These are P52 stars.
+005:16:32 Duke: Okay.
+005:16:42 Duke: 10, Houston. How do the stars look in this attitude?
+005:16:54 Young: Houston, in the telescope, I have difficulty telling the stars from the particles, right now.
+005:17:03 Duke: Roger.
+005:17:05 Young: There are some that look like stars but I have not been able to stop long enough to really see if they are or not.
+005:17:11 Duke: Okay. Through the sextant they are okay?
+005:17:15 Young: Affirmative.
+005:17:16 Duke: Okay.
+005:17:22 Cernan: The Earth is just starting now to take on - a little bit of the terminator is coming across and we are losing the roundness on the bottom side.
+005:17:33 Duke: Roger.
+005:17:34 Cernan: I should say on the eastern side.
+005:17:36 Duke: Roger. We are seeing that now - coming in.
+005:17:40 Cernan: I hope the colors are as good down there as they are up here.
+005:17:43 Duke: Absolutely fantastic. That is the only way I can describe it. It's really beautiful.
+005:17:51 Stafford: Houston, I have a question. Does that picture fill up your whole screen now? I want to correlate it with the monitor.
+005:17:57 Duke: Negative. We got about - quite a ways to go before we fill up our screen, Tom. It looks about the size of a basketball, sort of. It's pretty hard, you are zooming in now and we are just about to fill up the whole picture.
+005:18:20 Stafford: Okay. The monitor has a little different aspect ratio than the standard view.
+005:18:24 Duke: Right.
+005:18:29 Duke: Okay.
+005:18:40 Duke: Apollo 10, Houston. We are ready for the P27 [AGC update] update, if you can give us P00 and Accept.
+005:18:47 Stafford: Okay. We want to get busy here. We are going to kill the TV for a while.
+005:18:50 Duke: Roger. Thanks a lot for a good show, 10. It was beautiful. Right about now, from top to bottom, we have the whole Earth, and we still have some on the side.
+005:18:59 Stafford: Roger. It looks beautiful from here.
+005:19:28 Cernan: We'll go off the air now, Charlie, for a while. But, doggone, I'm glad that came through to you. It's just phenomenal.
+005:19:35 Duke: Roger. We copy. Thanks a lot again for the show.
+The distance is 22,781 miles.
+005:19:40 Stafford: Guess we know somebody that's crying in his beer.
+005:19:43 Cernan: Yes - No, I think he is happy, too.
+005:19:44 Duke: I am kidding,
+005:20:26 Duke: Hello. Apollo 10, Houston. We'd like for you to put the S-band squelch switch Off [panel 180 LEB] and when you're changing omnis, to pause 30 seconds in each position so we can get a good lockup.
+The S-band Squelch circuit removes unwanted noise from the S-band up-link signal. This switch and circuit was only fitted on CM-106 (Apollo 10) & CM-107 (Apollo 11).
+005:20:43 Cernan: S-band squelch is Off.
+005:20:45 Duke: Roger.
+This is Apollo Control at 5 hours, 21 minutes. Tom Stafford has indicated they are going to close up shop for a little while as far as communications are concerned. Apollo 10 is 23,059 miles away from the Earth. its velocity 12,646 feet per second. We'll come back up if there is any more air to ground. This is Mission Control, Houston.
+005:22:33 Cernan: Houston, this is 10. How are you reading our omni?
+005:22:36 Duke: 10, this is Houston, And we're reading you loud and clear. We had a little noise there a minute or so ago. It sounded like the S-band was getting weak.
+005:22:49 Cernan: Okay. We're in now and I believe we're on the omni D right now.
+005:22:54 Duke: Roger, omni Delta.
+005:24:06 Duke: Apollo 10, this is Houston, Over.
+005:24:09 Stafford: Go ahead, Houston. Apollo 10.
+005:24:11 Duke: Roger. We're through with the uplink. You can have the computer back and Up Telemetry to Block and on your primary evaporator we'd like you to secure the H2O flow. That is H2O flow to Off. We recommend not attempting to service the system until after LOI. Over.
+CapCom Duke is referring back to the problem encountered during launch with the primary evaporator drying out. The evaporator system will be reserviced with water just prior to LOI.
+005:24:30 Cernan: Roger.
+005:31:30 Cernan: Hello, Houston. This is Apollo 10.
+005:31:34 Duke: Apollo 10, this is Houston. Over.
+005:31:36 Cernan: Okay. Just for information, I don't know how far away, it's far away, but we can tell that there is still a SLA panel out there just spinning around slowly and reflecting sunlight.
+005:31:50 Duke: Roger. Do you have any more information on apparent size, range, or anything like this on it?
+005:31:55 Cernan: No, it's the size of Venus but it's obviously a SLA panel because you can see it rotating slowly in reflected light.
+005:32:05 Duke: This is Houston. Roger. Out.
+Day 1, part 4: Translunar Injection & Docking
+Journal Home Page
+Day 1, part 6: Housekeeping and TV transmission

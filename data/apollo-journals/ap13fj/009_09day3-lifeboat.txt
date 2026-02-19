@@ -1,0 +1,843 @@
+﻿
+Apollo 13 Flight Journal - Day 3, part 3: Aquarius Becomes a Lifeboat
+Day 3, part 2: 'Houston, we've had a problem'
+Journal Home Page
+Day 3, part 4: Free Return
+Apollo 13
+Day 3, part 3: Aquarius Becomes a Lifeboat
+Corrected Transcript and Commentary Copyright ©2019-2025 by W. David Woods, Johannes Kemppanen, Frank O'Brien, Alexander Turhanov and Lennox J. Waugh. All rights reserved.
+Last updated 2025-02-22
+Ninety minutes ago, one of the oxygen tanks on board Apollo 13's Service Module exploded after a fire began inside. The crew and Mission Control are furiously getting a handle on what has occurred, how it affects the mission, and now, how they are going to effect a safe return to Earth in a crippled, dying spacecraft.
+What they know so far is that two of their three fuel cells, numbers 1 and 3, are dead with all power for the CSM coming from fuel cell 2. Oxygen tank 2 appears to be empty and from window 1, they can see gas spewing from the SM at the same time that the meter for oxygen tank 1 is showing decreasing pressure. The escaping gas is acting like a thruster, affecting their attitude and causing excessive activity by their RCS thrusters to correct it.
+Flight Controllers working the problem at their stations.
+057:23:54 Swigert: Okay, Jack. It looks like O2 tank 1 pressure is just a hair over 200.
+057:24:02 Lousma: We confirm that here and the temperature also confirms it.
+It has been five minutes since the crew closed the oxygen and hydrogen reactant flow into fuel cell 1 with the hope that this would plug the leak that is depriving them of their oxygen supply. Their thinking is that the fuel cell is the source of the leak. Yet the onboard gauge indicates that the pressure in the remaining oxygen tank continues to drop, which means that it is still leaking. Pressure has fallen from 300 psia to 200 psia in just 10 minutes. The lowest acceptable normal operational limit of the oxygen tank system is determined to be 150 psia. Below this, they cannot ensure fuel cell operation. Further system specifications suggest that once the pressure hits 100 psia - which EECOM thinks is only 40 minutes away now - the oxygen pressure in the remaining fuel cell will be too low to sustain any operation and they will be without power.
+057:24:09 Swigert: Okay. Does it look like it's still going down?
+057:24:12 Lousma: It's slowly going to zero, and we're starting to think about the LM lifeboat.
+Jack Lousma’s words are damning in regards to the fate of the Odyssey Command Module. With the sole remaining oxygen tank losing pressure, there will soon be no oxygen for either power production or for breathing by the crew.
+057:24:20 Swigert: Yes. That's what we're thinking about, too. You want me to do a quick P52? It kind of looks like - We've been talking it over, and it kind of looks like we'd probably align our plats - LM platform with our platform and then power down the CM, and keep the LM powered up doing a DPS - whatever DPS burns you give us? [Pause.]
+057:24:54 Lousma: 13, we're not going to concern ourselves at the moment with a DPS burn. It's going to be some time before we'd get to that; but we're working on other procedures to give you, which will allow us to use the LM systems. Over.
+057:25:12 Swigert: Okay. Real fine.
+Comm break.
+By the book, the Lunar Module’s usual start-up sequence takes several hours and covers 59 pages of procedures for the two LM crewmembers to perform before they can separate from the Command Module and proceed with the landing mission.
+This is an important moment to consider. The CSM Odyssey will soon be unable to support the crew in deep space, but the Command Module is hardly useless. It is their only means to get through Earth's atmosphere and return alive thanks to the thick heatshield that covers its skin. They have already secured the oxygen they'll need to the re-entry by isolating two small tanks in the CM; the repress package and the surge tank. They will also need to secure battery power for that re-entry, but people both on Earth and onboard Apollo are aware that an unknown amount has already been spent earlier on as they worked to stabilize the power supply.
+Both the crew and Mission Control have come to realise that the Lunar Module Aquarius will have to be used as a lifeboat. It has untapped supplies of oxygen, water and electric power to support the crew, and there are two powerful engines, the most useful of which is the Descent Propulsion System (DPS, pronounced 'dips'). Well-developed plans exist for using the DPS engine to perform an abort burn once they pass the Moon to get them back home - but using the LM for extended life support is something they will have to figure out.
+With regard to guidance, the IMU in the CSM has a valid orientation whereas the LM is unpowered and its own IMU and computer are not currently functioning. Jack is suggesting that he realigns the CSM's platform with the Program 52 routine of the Command Module Computer (CMC) to make it as accurate as possible and then transfer that alignment data to the LM in order to avoid having to align it from scratch. Although a good suggestion, it is not something they desperately need to do under the circumstances. It takes at least 5 minutes even under optimal conditions, and for the moment, whatever inertial alignment data they have is better than not having any at all, which would be the case if the Command Module Computer and IMU lose power.
+057:26:40 Lousma: Apollo 13, Houston. We'd like to charge battery A now.
+057:26:46 Lovell: Charge battery A. Roger. [Long pause.]
+It may seem odd to be recharging batteries when the ship’s power supply is rapidly dwindling. Yet this is seen as a crucial maneuver. The Command Module, while performing the Earth landing, is powered by three batteries, A through C. These batteries are recharged from the spare capacity of the fuel cells. With the main power supply gone, the batteries cannot be charged and hence it is possible that they would run out of charge during reentry. The battery charge is not a quick process and hence they can't expect to put much power back into battery A, but for the moment, anything they can put into the reserve power will improve their future power margins.
+057:27:13 Lousma: And, Jack, in regards to your question about the P52 and LM platform, it's - There's no need to worry about that now. We wouldn't be using the LM platform for - until about 79 hours, so let's go as is on the platform for now. Over.
+The time of 79 hours mentioned here coincides with the PC+2, aka Pericynthion plus 2 [hours] burn, a well-developed abort procedure where the engine is fired two hours after closest approach to the surface of the Moon to send them home on a faster trajectory targeted at their desired splashdown point. Any of these maneuvers are so far away in time that worrying about the exact alignment of the guidance platform is not necessary.
+057:27:30 Lovell: Okay. We understand.
+057:27:37 Swigert: Okay, Jack.
+Long comm break.
+Although the decision to initiate preparations to power up the Lunar Module as a lifeboat has been made and passed to the crew, nobody is sure yet on just how quickly this has to be accomplished. Glynn Lunney is about to find out.
+057:28:36 Burton (EECOM): FLIGHT, we're not going to have anything in about 40 minutes here.
+Long pause with no reply. Clint Burton sounded worried earlier.
+057:28:49 Burton (EECOM): FLIGHT, EECOM.
+057:28:56 Burton (EECOM): FLIGHT, EECOM.
+057:28:58 Lunney (FLIGHT): Go ahead.
+057:28:59 Burton (EECOM): Okay, we’ve got an update on the time. Looks like we’ve got about 18 minutes until we get down to 100 psi, and that’s the cutoff point.
+057:29:05 Lunney (FLIGHT): Alright, but we’re charging Battery A.
+057:29:07 Burton (EECOM): Well, that doesn’t mean much in 18 minutes, though. But we’re doing all we can do.
+057:29:10 Lunney (FLIGHT): Alright.
+What Burton is saying is that in 18 minutes, there won't be power for anything left.
+Flight Director Glynn Lunney photographed at his position in Mission Control.
+057:30:13 Swigert: And, Jack, we've turned off the waste dump heater. If you're going to consider dumping any more waste water, we probably ought to do it while the duct is warm there.
+057:30:30 Lousma: Roger. Stand by, Jack.
+057:30:34 Swigert: Okay.
+057:30:38 Lousma: Okay, Jack. Let's keep the water; no need for a dump right now.
+057:30:44 Swigert: All right.
+Comm break.
+The waste dump does not deal with crew-produced liquid waste products, but is used to discharge excess water generated by the fuel cells or removed as unwanted moisture from the cabin air. Although the water produced in the oxygen-hydrogen reaction is chemically pristine and used for drinking, washing and food preparation by the crew as well as to cool the spacecraft, the fuel cells produce much more than is required by all these functions. Hence the extra water is periodically released overboard. With the fuel cells soon to be lost, there will also not be any more waste water, and hence a dump now would be superfluous in any case.
+In Mission Control, Glynn Lunney proposes one more try to salvage the remaining resources on the Odyssey.
+057:32:04 Lunney (FLIGHT): EECOM, FLIGHT.
+057:32:05 Burton (EECOM): 'head, FLIGHT.
+057:32:06 Lunney (FLIGHT): Let me try one more time. Is it possible that if we got power to Main B that we could get, uh, Tank 2 powered up, and up in pressure?
+057:32:17 Burton (EECOM): We don't feel like that’s a possibility, FLIGHT. We might conceivably get power to B but we don't feel like we can get anything out of Tank 2.
+057:32:24 Lunney (FLIGHT): Okay now why is that? Tell me why. I'm just working the situation.
+057:32:27 Burton (EECOM): It's because the numbers we are looking at indicate that it’s essentially, uh, uh, ambient.
+057:32:35 Lunney (FLIGHT): Okay.
+Burton's words are grim. The tank has vented completely out into space.
+057:32:15 Lousma: 13, Houston. We see the Prop Isol valve on RCS quad Charlie closed, so we'd like to also disable Auto RCS feature in quad Charlie.
+057:32:30 Lovell: You want to isolate the Auto RCS features in quad Charlie ?
+057:32:33 Lousma: Affirmative. [Pause.]
+057:32:44 Lovell: Okay, Jack. I didn't plan to reset that quad Charlie Prop Isol valve. Do you want me to do that? Okay. We just tried it and quad Alpha and Charlie barber poles are showing.
+Despite the attempt at cycling the RCS valves, the display indicates that they are still closed.
+Lunney (FLIGHT): Aaah... EECOM, FLIGHT.
+Burton (EECOM): Go, FLIGHT.
+Lunney (FLIGHT): How long we got now in the cell?
+Burton (EECOM): Last account we had 18 minutes - let me get an update.
+Lunney (FLIGHT): Okay, TELMU, what have we got to do to power up to get some comm on the LM?
+Merritt (TELMU): Okay, FLIGHT. We've got a procedure here that gets power up first on the LM.
+Lunney (FLIGHT): Yeah.
+057:33:01 Lousma: Stand by, Jim.
+057:33:03 Swigert: Okay, Jack. That's the sec - secondary propellant barber poles on Alpha and Charlie.
+Comm break.
+057:34:47 Lousma: 13, Houston. It won't do any good to try to power the propellant valves on A and C, so we want you to disable the Auto on RCS Charlie. And we have a procedure for getting power from the LM we'd like you to copy down.
+057:35:08 Swigert: Okay.
+The propellant isolation valves on quads A and C are powered by Main Bus B. They are some of the several systems connected to that Bus that cannot be switched over to Main Bus A. Hence, without power to Main Bus B available, the valves cannot be operated and it is more economical to turn off the troublesome quads altogether.
+Diagram of the LM Electric Power System. From the Apollo Lunar Module Operations Handbook, Vol 1. Colored for AFJ.
+The LM's electric power system is relatively complex. It consists of four main batteries in the descent stage, each with 400 amp-hour capacity. Two 296-amp-hour batteries are located in the ascent stage and power it for the few hours after launching from the lunar surface. Each stage has two Electrical Control Assembly units (ECA) that govern the power output into the spacecraft's two 28-volt direct current power buses. These are called Commander's Bus and System Engineer's Bus. Alternating current (AC) power at 115 volts is produced by two inverters. Two electronic control boxes, the Relay Junction Box and the Deadface Relay Box connect the electrical systems in the Descent Stage and the Ascent stage. The former also contains the relays that need to be energized by the special power procedure earlier on to be able to tap into the Descent stage batteries.
+Colored and modified from the original Apollo Lunar Module Operations Handbook, Vol 1.
+Above diagram shows the flow of the power transfer from the Command Module into the Lunar Module. Switching logic operated by the LM Power selector in the Command Module sends commands to the control unit in the LM to turn internal LM battery power on and off. Relays K3 and K4 govern this transfer. The LM Power switch allows the crew in the Command Module to select between the CM-supplied power, which disengages the internal LM power, or low voltage feed from the LM's descent batteries.
+Due to the design of the Lunar Module's power system, getting their electrics up and running is not as simple as throwing a single switch. In normal LM operation, when the crew enters the spacecraft to begin the power-up, the Command Module is supplying the LM power from Main Bus B through the LM umbilicals. This power not only keeps the onboard equipment heaters operational during the translunar coast, but also provides power for the switching logic system in the LM. The sudden loss of external power has opened the K3 and K4 relays that govern the power selection system, leaving the spacecraft powerless.
+The LM's power system needs to be reset before they can turn it on. Although TELMU initially requested EECOM to provide them with external power by powering up Main Bus B momentarily, they decide to use a special procedure to 'hack' the LM's power system and get them on internal power without the help of the feed from the Command Module.
+057:35:09 Lovell: Stand by, Jack.
+057:35:11 Swigert: That sounds like good news. [Long pause.]
+057:36:05 Haise: Okay, Jack. About how long is it?
+057:36:12 Lousma: It's not a very long procedure, Fred. We figure we've got about 15 minutes worth of power left in the Command Module, so we want you to start getting over in the LM and getting some power on that. And, you ready to copy your procedure?
+It is less than two hours since the accident. This is the first time an actual deadline is proposed to the crew on the lifetime left for the Odyssey under fuel cell power. The batteries can sustain for a little while longer, but it is not desirable to spend all of the battery power.
+057:36:27 Haise: Okay.
+057:36:29 Lousma: Okay. In the CSM.
+057:36:30 Haise: Stand by. [Pause.]
+057:36:40 Haise: Go ahead.
+057:36:41 Lousma: Okay. In the CSM on panel 5, circuit breakers LM Power 1 and 2, Open. Then LM Power switch, reset and release. In the LM, on panel 11 and panel 16, Translunar Bus Tie. Both circuit breakers Close. On panel 16, circuit breaker Ascent ECA Control, Close. On 16, Descent ECA Control, Close. On panel 14, put your Bat 5 Normal feed On. BATs 1, 2, 3, and 4 Low Voltage taps, On. Bat 5 Normal feed, Off. Ascent ECA Control, Open. You copy?
+057:38:08 Haise: Stand by one. [Long pause.]
+057:38:24 Haise: Okay. In the CSM, on panel 5, we want CB LM Power 1 and 2, Open. Then the LM Power switch to reset, release. In the LM, panels 11 and 16, X Lunar Bus Tie breakers closed. On panel 16, the Ascent ECA Control closed; the Descent ECA Control closed. On panel 14, Bat 5 Normal feed On, followed by BATS 1, 2, 3, and 4 Low Voltage taps On. Then Bat 5 Normal feed Off. Then Ascent ECA Control breaker Open.
+057:38:58 Lousma: That's a good readback, Fred. [Pause.]
+LM Electric Power System control circuits. Click image for a larger view.
+After opening the circuit breakers that govern the power feed into the LM inside the CSM, the procedure moves into the LM. Fred closes circuit breakers on the XLunar Bus Tie, which connects the LM's two electric distribution buses together. He also closes two more breakers, Ascent ECA Cont and Descent ECA Cont to enable power into the electric relay controllers that supply battery power throughout the ship.
+LM Ascent Battery controls. Scan via heroicrelics.org
+In order to get power to the Descent Stage's battery control system, Fred is told to select Normal SE Feed on Bat 5. Putting this switch to the On position connects one of the two Ascent Stage batteries into the power distribution system. Thanks to the previously closed XLunar Bus Tie, this feeds power also to the Descent Stage control electronics, which are normally tapped to the Commander's Bus and should at this point get their power via the LM umbilicals, from the CSM's Main Bus B. In the case of 13, this power is not available and they need to supply the power from the LM's own batteries.
+LM Descent Battery controls. Scan via heroicrelics.org
+Fred's next step, with the Descent ECA power available, is to connect the Descent Stage batteries into the power bus. He does this by flipping each of the Low Voltage switches to the On position. This enables them to draw power from the LM's main electric power supply in the Descent Stage.
+Once done, Fred removes power from the Ascent ECA box, which he no longer needs now that the Descent Stage is taking over. Fred can now proceed with the power-up.
+057:39:13 Ground technician: No.
+057:39:14 Lousma: And, 13, Houston. As a final effort here, we would like you to turn on the fans in tank 2. Over.
+057:39:23 Lovell: Roger. Understand. Turn on the fans in tank 2. [Pause.]
+057:39:34 Lovell: You want the O2 fans in tank 2, Jack?
+057:39:38 Lousma: That's affirmative, Jim.
+057:39:39 Ground technician: Understand.
+057:39:45 Lovell: O2 tanks - fans in tank 2 are on.
+057:39:48 Lousma: Roger.
+Comm break.
+In what Glynn Lunney called 'a last ditch effort' on the Flight Director's loop, Mission Control is asking the crew to turn on the fans in tank 2 in the hopes that they might be stirring up some oxygen from the tank and keep the pressure high enough to keep the fuel cell running. They are fairly sure that the contents are gone, but unaware that the actual tank has physically been torn into pieces.
+057:41:31 Lousma: 13, Houston. We'd like you to start making your way over to the LM now.
+Glynn Lunney has essentially given the order to tell the crew to abandon ship - for now. His most immediate concern is to get life support running in the LM as well as the preservation of the navigation data in the Command Module Computer. The normal data transfer procedure should take approximately 20 minutes, time they probably don't have left to spend. To make the time pressure even worse, Apollo 10 veteran Tom Stafford, still present in Mission Control, has told the controllers that trying to align the LM platform using the LM AOT only is a challenging task - one they don't want to undertake lightly.
+057:41:38 Swigert: Fred and Jim are in the LM.
+057:41:42 Lousma: Okay, Jack. Thank you.
+057:41:47 Haise: And, Jack, I got LM power on.
+Comm break.
+The 'hack' provided earlier has worked, and they can now proceed with the systems activation. Fred's circuit breaker and switch-punching has allowed them to reset the power control boxes to draw electric power from the LM's own batteries.
+Schematic diagram of the LM cockpit, facing forward.
+Lovell and Haise have used the docking tunnel to dive back into the Lunar Module to turn on its life support and power. This is a view looking forward towards the controls and the windows of the spacecraft. The central display console contains the most crucial flight instruments, but there are control panels everywhere in the very small cabin. Two large circuit breaker panels flank the two crew positions on either side, with control panels underneath. Hand controllers for manual flight control input are provided for each crewmember. Equipment stowage takes most of the remaining space.
+057:42:50 Swigert: Okay. You still with us, Houston? [Pause.]
+057:43:03 Swigert: Okay, Houston. You read 13?
+057:43:06 Lousma: Reading you loud and clear, Jack. I've got a procedure for...
+057:43:10 Swigert: Okay.
+057:43:11 Lousma: ...the guys in the LM.
+057:43:15 Swigert: You got another one?
+057:43:17 Lousma: I have an activation procedure. I'd like you to copy it down. [Pause.]
+057:43:25 Haise: How long is it, Jack?
+057:43:27 Lousma: It's just four lines. Go to Activation 1, do step 3. Go to Activation 11, omit step 1. Do Activation 12, and then go to Activation 13 and do step 1. Do you copy?
+Jack Lousma reads up advice on how to cut corners in the Lunar Module start-up sequence in their onboard Lunar Module Activation Checklist. Since the Lunar Module does not have an active communications system yet, as Jim and Fred had to disconnect their comm cables to enter the LM, hence Jack Swigert has to act as their scribe and pass along the information by shouting it down the hatch.
+057:43:54 Lovell: Okay. Is that Activation 1? Do step 3. Is that correct?
+057:43:59 Lousma: That's affirmative, Jim.
+Activation 1
+Activation 1 is the very first procedure in the start-up. Step 3 opens the LM Descent Stage water tank valve to provide cooling water, and they also open the O2 tanks and power up the cabin repress system to ration the flow of breathable oxygen into the cockpit. This is not a full start-up of the life support system, but it will do until they move on to turning on more of the system.
+057:44:03 Lovell: Activation 11, omit step 1, do the rest. Is that correct?
+057:44:06 Lousma: That's affirmative.
+Activation 11
+Activation 11 has two parts, step one being omitted for they've already covered it with the previously read up special procedure. Step 2 activates the VHF communications systems as well the Commander's Audio panel in the cockpit. There are also procedures for enabling power to the telemetry system's Signal Conditioner and to glycol pump 2. The latter will start to circulate coolant inside the Environmental Control System's network of piping and cold plates used for absorbing excess heat from within the LM.
+057:44:12 Lovell: Do Activation 12 and Activation 13, step 1.
+057:44:14 Lousma: That's all correct. [Pause.]
+Activation 12
+Activation 12 concerns mostly with getting the LM's Electric Power System running. They are to close further telemetry and communications circuit breakers and also to provide power to the onboard displays so that they can monitor their newly powered-on systems. Step 3 is the procedure to turn on the batteries that supply the LM's power and connect them to the electric buses.
+Activation 13
+Activation 13 sets up the Lunar Module's own telecommunications systems. Step 1 configures the S-Band radio for operation. The steps they skip are mostly procedures on testing the various transceivers and frequencies by calling Mission Control.
+057:44:25 Swigert: Okay, Jack. Pressure in tank 1 is approaching 100 psi. What's going to be the symptoms of this fuel cell starting to drop off? [Long pause.]
+057:44:51 Lousma: Stand by, Jack. We'll get the word on that.
+057:44:56 Swigert: Okay. [Pause.]
+Jack wants to know the warning signs to the impending loss of the oxygen pressure in the fuel cell. Jack poses the question because he has reached the previous deadline for the fuel cell failure and wants to be ready to react.
+057:45:06 Lousma: And, Jim, when you get to the end of that procedure, we'd also like to have you put the Demand Regs to Cabin.
+057:45:15 Lovell: Demand Regs to Cabin. Roger. [Long pause.]
+Oxygen system control panel on the aft section of the Lunar Module cabin.
+Two redundant demand regulators pressurize the Lunar Module by providing oxygen from the LM O2 tanks and into the cabin at a steady rate. Since the normal procedure for entering the LM would've had them hook up to the suit circuit, they must now instead direct oxygen into the cabin. This will also provide oxygen for the Command Module through the tunnel.
+Diagram of the control panel as seen in the photo above.
+The demand regulator valves are on the right side of the panel, labeled Press Reg A and B. So far they've also selected Cabin Repress - Auto to have the system maintain the cabin pressure at a constant rate automatically, plus opened the Des O2 to draw oxygen from the Descent Stage tank.
+057:45:31 Lovell: Jack, was that Activation 1, step 3 only, or all of Activation 1?
+057:45:38 Lousma: That's go all the way down to step 3, Jim.
+057:45:44 Lovell: Activation 1 to step 3. Roger.
+Comm break.
+This is Apollo Control at 57 hours, 46 minutes Ground Elapsed Time. The Black team of flight controllers is now stationed in Mission Control Center looking at possible alternate missions. As we have an apparent serious oxygen leak in the cyrogenic oxygen in the Service Module. And now in the process of powering down the Command Module in less than 15 minutes remaining of electrical power to the CSM. The Command Module surge tank has been charged with oxygen for entry.
+057:46:48 Lovell: Houston, Apollo 13. Never mind.
+057:46:54 Lousma: 13, say again, please.
+057:46:58 Lovell: Oh, we were curious about Activation 11 on the VHF.
+057:47:04 Lousma: Omit the VHF.
+057:47:05 Haise: ...[Garble] Jack. It's got - Okay.
+Comm break.
+Mission Control is telling Lovell not to bother starting the VHF radio that is normally used for communicating at the short range between the Lunar Module and the Command module while in lunar orbit. The system does not have enough power to transmit back to Earth and hence it is not seen as useful for the moment. Jim knows this well enough - his Apollo 8 flight included testing to see just how far out they could get from Earth and still use the VHF as a backup to the main communication system. Maximum usable VHF range was determined at somewhere around 34,000 nautical miles or 63,000 km.
+In this scheme of going across to the Lunar Module, still connected with the open tunnel, the Lunar Module would serve as a sort of lifeboat for the crew of Apollo 13. Sometime later in the mission it is expected that they would return to the free return trajectory, which they left yesterday in the midcourse burn number 2. At the pericynthion near the Moon they would use the Descent Propulsion System of the Lunar Module for Trans-Earth Injection burn at about 79 hours, 30 minutes Ground Elapsed Time. This would produce a day early entry at about 142 hours. That is a day earlier than a nominal free return entry. We're continuing to monitor the situation and still live on air-ground.
+The PAO makes a slip here. The PC+2 burn is mistakenly described as taking place 'near' their pericynthion, the point of closest approach to the Moon. However, the burn will occur 2 hours afterwards, well off the pericynthion that is behind the Moon. A Trans-Earth Injection burn would only take place if the spacecraft is on lunar orbit, hence the PAO using this terminology for the the PC+2 burn is also inaccurate.
+057:48:17 Lousma: Jack, this is Houston. We want you to keep the IMU up and keep the lights on so you can see in there, and leave battery off - battery A off and, at the appropriate time, we'll put it on Main A. And we're going to keep the IMU up so as we can get a coarse align in the LM.
+At this point it is imperative that the Command Module’s navigational data remains useful, and hence the associated systems must remain powered in the CM. They need to use the battery to make sure that the Command Module Computer and the associated Inertial Measurement Unit are powered so that the data stored in the computer is preserved.
+Despite their insistence on keeping the navigational data, it is pertinent to comment that even with their computers and IMU's going offline, this would not have meant that they are lost in space. The LM navigational and inertial sensing equipment could be powered up and used to generate a useful inertial reference for any upcoming maneuvers. Nevertheless, it saves them a lot of time at this point to be doing the navigational data transfer now.
+057:48:38 Swigert: All right. Real good. Right now, we're charging battery A. Do you want to discontinue that?
+057:48:46 Lousma: Discontinue the charge on battery A, Jack. [Long pause.]
+057:49:22 Swigert: Okay, Jack. I discontinued charge on battery A. You give me the call and I'll turn Bus Tie AC on.
+057:49:32 Lousma: Roger. And we want you to keep the lights up and the IMU on.
+057:49:38 Swigert: Okay. [Pause.]
+057:49:48 Lousma: And, Jack, we'd like you to leave the comm configuration as is until we get Comm with the LM.
+057:49:57 Swigert: Okay.
+Comm break.
+It appears that Jack Lousma is reminding Jack not to power down the Odyssey's communication system yet. That would leave them without a way to talk to the crew.
+057:51:08 Lousma: And, 13, this is Houston. I've got another procedure for the LM. A short one.
+057:51:15 Lovell: Okay. Ready to copy, Jack.
+057:51:17 Lousma: Okay. On panel 11, we'd like you to close the LGC DSKY circuit breaker. Then we want you to go to Activation 25; do steps 1, 2, and 3. Then go to Activation 30, and that will give us a docked IMU coarse align. Over.
+To start with the computer activation, Jack tells them to close the circuit breaker 'LGC DSKY' which will power the Lunar Guidance Computer, the associated DSKY, as well as those parts of the inertial reference system that convert signals from the IMU into the digital data read by the computer. Normally this would be done as part of Activation 22, where a large number of systems are powered. Mission Control only wants to turn on the most crucial systems for now.
+Activation 25 procedure in the Lunar Module Activation Checklist.
+Activation 25 powers up the LM computer and the IMU. Step 2 has the operator key in Verb 35 (Test Lights) followed by pressing Enter. This command simply tests the computer’s various status lights and the seven-segment display of numbers, and checks the computer itself very briefly. After closing the IMU Opr circuit breaker to get power to the Inertial Measurement Unit, the crewman keys in Verb 37 (Change Program) Enter 00 (LGC Idle) Enter, to put the computer into waiting mode. The IMU has to warm up for at least 90 seconds before they start issuing commands for it.
+Activation 30 procedure in the Lunar Module Activation Checklist.
+Activation 30 is used to set up navigation in the LM by transferring navigation data from the Command Module into the LM’s computer. In Step 1, they make sure that the Command Module is maintaining the spacecraft stack in as steady attitude as possible. They then input the known values of the CM gimbal angles onto the checklist page, and perform the necessary calculations to get the equivalent values in the Lunar Module’s own attitude reference system. On Step 3 they key in Verb 41 Noun 20 Enter (Coarse Align GDUs - ICDU Angles) to start inputting the values into the Lunar Module computer. We will be looking at these in detail momentarily when the crew performs this procedure.
+057:51:41 Lovell: Roger. Panel 11, close LGC circuit breaker. Activation 25, do steps 1, 2, 3, and then do complete Activation 30. Is that correct?
+057:51:50 Lousma: That's affirmative. On panel 11, LGC DSKY circuit breaker closed.
+Comm break.
+The Lunar Guidance Computer Display and Keyboard (DSKY) in the LM. Panel scan via heroicrelics.org
+Nestled between the two crew stations is the DSKY user interface for the Lunar Module’s own computer, the LGC or the LM Guidance Computer. Like its counterpart in the Command Module, the LGC is used to control the spacecraft’s attitude via RCS firings, control the Descent and Ascent Engines, and to help determining their position. The LGC has additional programming to operate equipment not found in the CSM, such as the landing and rendezvous radars and, as would be expected, it has software to control all aspects of the lunar landing. Although the Lunar Module was constructed by Grumman Corporation as opposed to North American Rockwell, both spacecraft contained a nearly identical Raytheon-made DSKY and AGC as well as the General Motors-built IMU and its associated electronics.
+The switches on either side of the control panel are for enabling the hand controllers on either the Commander or the Lunar Module Pilot’s side.
+What is to be attempted is much like what Jack suggested earlier. They will power up the guidance system in the LM, get the gimbal angles from the CSM's DSKY, adjust them to compensate for the different orientation of the LM's coordinate system and use them to orient the platform in the LM's IMU. This is normal procedure when activating the LM and because there is room for small errors, for example, taking into account the docking angle between the two spacecraft, it isn't accurate to hundredths of a degree. Hence it is named a 'coarse' align.
+This is Apollo Control. We have confirmation now that two of the Apollo 13 crewmen are indeed in the Lunar Module.
+057:53:15 Lousma: And in the LM, let's go to panel 11 and close the Suit Fan circuit breaker and get suit fan 1 cranked up.
+057:53:26 Lovell: Okay. Panel 11, close Suit Fan circuit breaker, and we'll get the suit fan cranked up.
+057:53:30 Lousma: That's affirm. [Long pause.]
+The ARS or Atmospheric Revitalization Section of the LM Environmental Control System.
+The suit fans are part of the Lunar Module’s life support system. By turning one of them on, they are starting to circulate the atmosphere within the Lunar Module. Although they opened the O2 valves earlier, this only provides oxygen from a storage tank into the module. By turning on the fan, the air is circulated through the life support system equipment to replenish it and remove carbon dioxide.
+057:53:47 Lousma: And, Jack, in the CSM, go to Bypass on the radiators and turn your Glycol Pump off.
+057:53:56 Swigert: Okay. Pull the Bypass; Glycol Pump going off.
+The manual handle for the radiator bypass. Photographed onboard the Odyssey
+Mission Control is asking Swigert to deactivate part of the Environmental Control System here. The radiators are composed of several rows of tubes brazed to the skin of the Service Module. Glycol coolant is pumped through the tubing and heat is hence radiated off the ship and into space.
+057:54:04 Lousma: Roger.
+Comm break.
+057:55:42 Lousma: And, 13, in the CSM, we want to verify that all the fuel cell pumps are off, and we want to have you turn off the O2 fans in the tank 2.
+057:55:56 Swigert: Okay. Tank 2 fans going off. Okay. That leaves me with tank 1 fans on the tank 1 heaters on.
+The fans have not brought any oxygen out of tank 2 and are turned off. They are keeping the fans and heaters in tank 1 running to try to maintain the pressure as long as possible.
+057:56:08 Ground technician: That's affirm.
+057:56:10 Swigert: Fuel cell 2 pump going off now. [Pause.]
+The fuel cell pumps were still operating on the still working fuel cell. Temperature problems will not be of concern for them for the brief time they have left on that cell working.
+057:56:21 Lousma:And Jack, leave them both on in tank 1.
+057:56:26 Swigert: Okay.
+Comm break.
+057:57:28 Haise: Jim [Garble] Verb 37 Enter...Activation 30...[Garble]
+Fred has reached Step 3 of Activation 25 and input Verb 37 00 Enter to put the Lunar Guidance Computer on standby. He wants to go on to Activation 30 and start the guidance transfer.
+057:57:55 Lousma: 13, Houston. We've got AOS on the LM here.
+057:58:01 Swigert: Okay.
+Comm break.
+AOS means 'Acquisition Of Signal' and signifies that the LM radio signal has been picked up by the MSFN. They can now communicate directly with the LM.
+This is Apollo Control at 57 hours, 58 minutes Ground Elapsed Time. To recap briefly the situation here in Mission Control Center; we have an apparently serious problem with a leak in the cryogenic oxygen in the Service Module, which provides the electrical power system coming out of the fuel cells, and also, breathing oxygen for the crew. Now in the process of manning the Lunar Module. Standby.
+057:59:23 Lousma: And, 13, this is Houston. In the LM, we'd like to have 12, step 3, which is get the batteries on high taps. Over.
+Jack means Activation 12, step 3 here.
+057:59:34 Haise: Okay.
+Diagram of a Descent Stage battery.
+Each LM Descent Stage battery consists of twenty silver-zinc cells connected in series to provide a nominal output of 30 volts. When they are freshly charged and are being loaded only lightly, their output voltage is somewhat higher than desired. To overcome this effect, each battery includes a feed from the 17th cell which will provide a low voltage output for the initial period of its use. This extra low-voltage output is called a low 'tap'. In normal use, once the battery output has fallen by about 10 per cent, the crew would switch to taking power from across the entire battery to achieve a higher voltage output where it would remain for the rest of the mission.
+057:59:41 Haise: How you going there? Activation 12, step 3. [Long pause.]
+Descent Battery controls in the LM. Scan via heroicrelics.org
+Fred has gone through step 3 by flipping the Hi Voltage switches to get the full power output from the Descent Stage batteries.
+Under this alternate mission, the Lunar Module would serve as a lifeboat to bring the Apollo 13 crew back to Earth. That is its consumables, oxygen, electrical power...
+The PAO is still desperately trying to butt in to get the by now surely nervous audience up to date with the events of the suddenly very much an exciting mission.
+058:00:18 Haise: Okay. And, Jack, how do you read from Aquarius?
+058:00:23 Lousma: Aquarius, Houston. Say again, please.
+058:00:28 Haise: Okay. I was just making a Comm check here. I'm on high voltage taps.
+058:00:32 Lousma: Roger. We see them, Fred, and I'm reading you loud and clear.
+Jack in Mission Control notes that they can 'see them', which refers to the fact that the crew must’ve turned on the telemetry sensors earlier on, so that Mission Control can monitor their systems over the S-band radio link.
+058:00:39 Haise: Okay. Didn't think I'd be back (in) this soon. [Pause.]
+Fred and Jim checked out the Lunar Module earlier, and also visited it during the live TV broadcast to show off the lander to their audience. He is now lamenting that they’re back onboard much sooner than expected should the flight have proceeded normally to the lunar orbit. The actor, the late Bill Paxton delivered the line to perfection in the Ron Howard movie.
+058:00:51 Haise: Okay. What next, James? Coarse align?
+058:00:57 Haise: Do it right. Take your time. [Long pause.]
+The current thinking is to use the Lunar Module Descent Propulsion System, a big engine of the LM to propel the entire spacecraft stack to a higher velocity as they go around behind the Moon to come back to Earth a day earlier than a normal free return trajectory would return the spacecraft.
+The PAO seems to imply here that they plan to do a burn while behind the Moon. This is not correct, since the most likely abort burn, PC+2, is performed once they have swung around the Moon and are moving away from the Moon again. They are currently also not in a free return trajectory, having burned the SPS engine during Midcourse Correction opportunity 2 on the second day of the mission to put them on a non-free return trajectory in order to reach Fra Mauro.
+058:01:32 Lousma: And, Aquarius, Houston. We'd like you to, on your alignment, can you continue right on through the fine align Activation 31? Go right on through step 7. Over.
+058:01:45 Haise: Okay. You want to go on 31 through step number 7, Jack.
+058:01:50 Lousma: That's affirmative. And, Odyssey, we've got another configuration for you. All 16 RCS Auto Select Off. All RCS heaters off. Over.
+RCS Auto SELECT switches on Panel 8, Commander's left hand panel.
+They are now turning off the automatic control functions for the Service Module RCS jets. This will prevent them from firing once the LM takes over attitude control. The still running Command Module Computer could interpret this as an unwanted movement and try to correct their attitude automatically. Turning off the RCS heaters of course will save the ever dwindling power in the Command Module.
+Activation 31, in the Lunar Module Activation Checklist
+Activation 31 proceeds down the IMU alignment procedure. After they have entered the initial values for the gimbal angles into the computer, the next steps on page 31 tell the computer that an attitude reference is now available, and a further check is performed to compare the sensed attitude angles in the Command Module and the Lunar Module inertial guidance systems.
+058:02:06 Swigert: Okay. I can verify all heaters off. Jack, I've got to keep a fairly minimum deadband until I get through this coarse align.
+058:02:15 Lousma: Roger. [Pause.]
+Dead band refers to the amount of drift the spacecraft is allowed to have from an established attitude. The autopilot can be programmed to maintain either a narrow or a more broad dead band. Right now Jack is keeping things carefully in check manually to make sure that the guys in the Lunar Module can input their attitude data into the computer. Any motion of the docked spacecraft between the time the gimbal readings are taken in the CM and the update in the LM will make the IMU alignment less accurate.
+058:02:26 Haise: Okay. Verb 41, Noun 20. Okay. You want plus? Plus or minus? Plus 302.43? Is that right? [Long pause.]
+058:03:12 Haise: Okay. Let me enter it. Okay. What's the next one? Plus 347.78. 347.78. Okay. 08.13. Is that right? Enter. Okay. [Long pause.]
+Fred and Jim have reached step 3 of the Coarse Align and are now inputting the values for the LM IMU angles they have calculated based on the values read up from the Command Module's DSKY.
+058:03:53 Lousma: Odyssey, Houston ...
+Just as Jack is about to remind Swigert about the imminent need to turn on Bat A onboard the spacecraft, things move forward in Mission Control.
+Burton (EECOM): Flight, EECOM.
+Lunney (FLIGHT): Go ahead.
+Burton (EECOM): O2 to N2 delta P is dropping. Let’s turn Battery A on.
+Lunney (FLIGHT): CAPCOM, Battery A on. [Pause.]
+Lunney (FLIGHT): Tell him to hurry.
+The telemetry indicates that the difference in the oxygen pressure and nitrogen pressure inside the remaining fuel is decreasing. Since the two pressures should be very similar, he has interpreted this as a sign that the fuel cell has finally reached the end of the line. They need to get the battery into the Main Bus to ensure that they will not suddenly lose power.
+058:03:54 Lovell: Houston, [Garble.]
+058:03:55 Lousma: ... your battery A on.
+058:03:59 Swigert: Battery A on now.
+Glynn Lunney’s reaction to the news of the battery going online was a paternal 'He got it. Good boy,' despite being five years younger than Swigert!
+058:04:01 Lousma: Go ahead, Aquarius.
+058:04:03 Lovell: Houston. Okay. I want you to double check my arithmetic to make sure we got a good coarse align. The Roll Cal angle was minus 2 degrees. The Command Module angles were 355.57, 167.78, 351.87. [Pause.]
+This stage in the LM activation process was dramatised in the Apollo 13 movie. Jim has the three gimbal angles from the CSM's IMU which are relevant to the CSM spacecraft coordinate system. He has to do some arithmetic on them to adapt them for the LM spacecraft coordinate system. Those sums include taking account of the 2-degree docking index angle. Given the stress of the situation the crew are in, it is wise of Jim to ask the minds in Mission Control to check what is otherwise simple arithmetic. The actual procedures seen in the movie, with the astronauts writing down numbers on paper and doing the calculations by hand were not exaggarated for the film's purposes - this was the standard procedure, albeit performed in a hurry due to the soon approaching demise of the Command Module computer. Shots of harrowed engineers using slide rules to check the calculations were added for extra dramatic effect in the scene. Slide rules are used for multiplication, not addition.
+The Coarse Align sheet annotated
+ACT-30 page of the LM Activation Checklist contains the procedure for transferring Command Module inertial guidance information into the Lunar Module's identical unit. Their different physical orientation requires calculations to take place to adjust the values to fit into the Lunar Module's reference system. The crew is offered space to write down both the CM values and the LM values.
+The Coarse Align sheet with the values and the calculations annotated.
+No matter what Hollywood says, the mathematical operations are very simple. Inner and Middle gimbal values are derived via a single calculation each, respectively. An extra calculation in modulo arithmetic is required for the Outer Gimbal value, to come to a positive value. No slide rules were needed nor harmed in the exercise.
+058:04:36 Lousma: Okay, Jim. We copy the roll CAL at minus 2.0. The Command Module is 355.57, 167.78, 351.87. [Long pause.]
+058:05:19 Haise: Okay. Verb 41, we've done that. Okay.
+Fred is looking through the Coarse Align checklist still, at Step 3. Verb 41 coarse aligns the Inertial Coupling Data Unit, which converts the analog signals from the Inertial Measurement Unit into digital data that the computer then processes.
+058:05:27 Lousma: Aquarius, Houston. Request high bit rate, please.
+058:05:36 Haise: You want high bit rate?
+058:05:38 Lousma: That's affirmative, Fred. Won't cost us anything. [Long pause.]
+The telemetry system can transmit digitally encoded data on either high - 51,200 bps - or low bit rate of 1,600 bps per second. The High rate allows them to send more telemetry data to the ground.
+058:06:22 Lousma: Odyssey, Houston. We'd like you to, on your Comm configuration, go to Primary Power Amp Off, Low Bit Rate, and Down Voice Backup. Over.
+058:06:42 Lousma: And, Aquarius, we need your Suit Gas Diverter to Cabin. [Pause.]
+058:06:55 Haise: All right. You got it.
+Since they are not wearing space suits inside the Lunar Module, the air flow is directed into the cabin instead of the suit circulation.
+058:07:02 Swigert: Houston. I've gone to Primary Power Amplifier, Off, Low Bit Rate, Down Voice Backup.
+To save power, they turn off the Odyssey's S-Band radio power amplifier. By going to Down Voice Backup at the same time, they try to improve the voice quality of the now low power transmission. Down Voice Backup directly phase modulates the S-band carrier whereas normal voice is frequency modulated onto a 1.25 MHz subcarrier that itself is phase modulated onto the main carrier. At low power, Down Voice Backup should result in better clarity.
+058:07:11 Lousma: Okay, Jack. Thank you. And, Aquarius, your arithmetic looks good on the coarse align, there.
+058:07:20 Lovell: Okay. Okay stand by for an Enter.
+058:07:26 Lovell: Three... [Pause.]
+058:07:39 Swigert: Get the GET; we need the GET. What is it? What's that? 58? 58:07? [Long pause.]
+058:08:15 Swigert: 58 what?
+Comm break.
+Checking the GET is part of Step 7 of the Coarse Align.
+This is Apollo Control. Apollo 13 crewmen Jim Lovell and Fred Haise are just completed...
+058:09:16 Lovell: Houston, Aquarius.
+058:09:18 Lousma: Go ahead, Aquarius.
+058:09:23 Lovell: Here are the gimbal angles. Command module, 356.69, 163.42, 346.67. Aquarius is 302.26, 345.92, 011.79. Over.
+058:09:47 Lousma: Okay, Jim. I got Command Module 356.65, 163.42, 346.67. Aquarius, 302.26, 345.92, 011.78.
+058:10:07 Lovell: That's 011.79.
+058:10:11 Lousma: Say again, please.
+058:10:17 Lovell: The LM middle gimbal is 011.79.
+058:10:22 Lousma: 011.79. Got it.
+Comm break.
+This is the end of the coarse align, with step 8 ready. The LM now has an inertial reference running. Since these numbers are slightly different from the ones given before by Lovell to Mission Control, it appears that the spacecraft has drifted during the time it took them to set up the LM IMU.
+Those angles being read back from Aquarius and from Odyssey were from the coarse alignment of the Lunar Module guidance system platform. Returning to the alternate mission now being considered, the Descent Propulsion System Trans-Earth Injection burn would take place at about 79 hours, 30 minutes Ground Elapsed Time. Producing an entry at about 142 hours. At this point in the translunar coast, it is cheaper and swifter to coast on around the Moon and come back to Earth than it is to do a deep space abort. Continuing to monitor air-ground from Apollo 13, this is Apollo Control.
+The PAO is now giving the time for what will be the PC+2 burn, but they still have the rest of the terminology wrong. They also mention a deep space abort as being one of the options considered. This would mean a very large burn that will basically cause them to start to fall towards the Earth again. This would not be a possibility in the docked configuration. The abort options being considered at this point will be looked at momentarily.
+058:12:10 Swigert: Houston. [Garble.] flashing.
+058:12:19 Lousma: Odyssey, Houston. We need a command reset on your - on your Comm, and then we'd like you to power down to CMC, power down the IMU, heaters off on the IMU, but leave the battery A on.
+058:12:43 Swigert: Yeah. [Long pause.]
+Jack Lousma is telling the Jack onboard Odyssey to perform three procedures. The first is Command Reset which basically resets any possible remote commands Mission Control might have sent to their systems. Next steps will be turning off the computer and the IMU.
+Although the Apollo spacecraft is entirely independent, Mission Control can use the radio and the Up Telemetry circuitry to remotely control two systems onboard the spacecraft - the tape recorder, and the Master Alarm systems, to alert the crew in an emergency, or to get their attention if they are asleep and not wearing their headphones.
+058:12:58 Lousma: Odyssey, Houston. [Pause.]
+058:13:07 Swigert: Ask him if he's - Are you reading?
+058:13:10 Lovell: Yes.
+058:13:11 Swigert: Are you reading, Houston?
+058:13:12 Lovell: Yes.
+058:13:13 Lovell: Houston, this is Odyssey. Go ahead.
+058:13:16 Lousma: Okay, Jim...
+058:13:18 Swigert: Copy it down.
+058:13:20 Lousma: Okay, Jim. I think I'm reading Jack, now. But what we want him to do is to give us a command reset. And then power down the CMC, power down the IMU, turn the IMU heater off, leave battery A on. Over. [Long pause.]
+058:14:19 Haise: That's just about 80 - in fact, 82 hours out of the two primary cartridges. That's two guys. 24 is what LTA got. That would be 88 hours. We got a secondary. You're right. We're listening.
+Fred is already referring to an issue that will crop up later during the mission. The Lunar Module has been designed to give life support for 2 people, but now has to provide for 3. While oxygen is not an immediately concerning issue due to them having an ample supply, there are other issues. The cartridges Fred is referring to are the lithium hydroxide canisters that are used to absorb the carbon dioxide exhaled by the crew. His concern is warranted, considering that an increase in the amount of the gas would kill them. Another issue that they are probably already aware of is the fact that the cartridges in the Command Module, and those for the Lunar Module were not designed to be used in the other spacecraft. It doesn’t help that the Lunar Module's spare canisters are contained in the Modular Equipment Stowage Assembly, or MESA, a compartment on the descent stage of the Lunar Module that can only be accessed from outside. A duct tape and plastic bag solution will later be produced to adapt the rectangular Command Module canisters to the round receptacles in the Lunar Module. Further extra hours could also be had by using the PLSS backpack lithium hydroxide canisters which fit into the secondary slot in the LM's life support system.
+058:14:41 Lousma: Odyssey, Houston.
+058:14:43 Swigert: They can stand it - Go ahead?
+058:14:47 Lousma: Yeah, Jack. Did you copy down about the CMC IMU?
+058:14:52 Swigert: Yes, Jack. I read it back twice to you. Command reset, which I've done. I'm about to power down the IMU, power down the CMC, turn the IMU heaters off, leave Bat A on.
+058:15:07 Lousma: That's affirm. Thank you.
+Turning off the IMU heaters is a momentous decision for everyone involved. Initially, Mission Control hoped to keep the electric heater on to maintain the IMU’s temperature within operational range. Yet it was soon realized that by keeping the heater on using battery power, they would drain all of their remaining power supply needed for the landing. (The discussion over whether the heaters could be used or not was called 'academic' by Glynn Lunney on the Flight Director loop.) Hence the decision has been made to turn off the heater protecting this delicate instrument, with the hope that it can be restored to full working order later on. Uncertainty existed so as to whether the IMU could handle being powered down to the low temperature to be expected without environmental control. An anecdote told at least in 'Lost Moon' by Lovell and Kluger and also in the Apollo computer programmer Don Eyles' autobiography 'Starburst and Luminary' suggests that the evidence to the IMU's cold tolerance was based on an IMU being left in a car overnight during winter, and it still worked once it thawed. The Mission Control people were probably not aware of this at the time, however, and had to resort to the most conservative thinking in terms of preserving the IMU.
+058:15:11 Swigert: Okay. I just got a Master Alarm and Main Bus A Undervolt. And I'm starting to power down, now...
+EECOM telemetry in Mission Control shows that the last functioning fuel cell has finally given up due to the loss of oxygen pressure. It has managed to work for much longer than anticipated despite the pressure dropping way below the expected minimum operational limits. From now on they are drawing power solely from battery A.
+The Command Module Computer (CMC) and Inertial Measurement Unit (IMU) emergency power-down procedure
+Jack has to input several commands into the computer to put it into an idle mode and then power it down.
+Attitude control selection switches on the MDC. Original scan via heroicrelics.org
+CMC Mode switch on the Master Display Console removes the computer from the attitude control duties.
+058:15:21 Haise: We've lost - The only advantage to doing it early; if we can power back - the LM back down. The only advantage doing it early is you can do a big burn now and a midcourse and then power the LM down. Otherwise, we got to keep the LM powered up clear until we get around the Moon. Plus it would be inside on the burn. I just hope the G&N hangs up on ... hangs in on this one - I'd sure hate to do that one manually.
+Fred is being premonitive again, by speaking aloud issues that will harrow the mission planners as they try to figure out how to make the Lunar Module’s power, oxygen and water supplies to last until they are back to Earth. Fred’s comment shows that the astronauts’ extensive training and preparations for emergencies means that even under these stressing circumstances, they know what to do. Fred Haise was also assigned to the development and testing of the Lunar Module and its systems, hence he is likely to be one of the most well-informed individuals in the whole of the Astronaut Corps when it comes to the LM and its performance.
+058:16:05 Lovell: Oh boy.
+058:16:06 Lousma: Odyssey, Houston. Couple circuit breakers for you. On panel 276, on our Instrumentation Power Control, open CB number 3 and number 4. [Pause.]
+These circuit breakers provide power to various sensors in the Service Module to monitor its systems and produce telemetry data. The systems under these breakers have stopped working already and are hence not needed by Mission Control.
+058:16:33 Swigert: Okay, Houston. Panel 276, Instrumentation out and reset...
+058:16:39 Swigert: ...a lot of light.
+058:16:40 Haise: ...CB-3 and CB-4 are open.
+058:16:45 Swigert: What?
+058:16:47 Lousma: That's affirmative, Odyssey. and also get your SCS electronics package and power off, and your FDAI Power/GPI off, and your Auto JET SELECT, all 16 off.
+058:17:07 Swigert: Okay. Well, wait a second. Let me - Let me get the CMC power down.
+With so many orders coming in, Swigert has to ask the CapCom to hold off for a moment so that he can get himself sorted out. Right now they want him to shut down the Stabilization Control System, the 8-Ball FDAIs, and the RCS automatics.
+058:17:13 Lousma: Roger, Jack.
+058:17:16 Haise: I wonder how much that's going to bring this up, here.
+058:17:23 Lovell: Jack, while he's doing that, copy down what you just said again. I want to write it down. [Pause.]
+058:17:36 Lousma: Aquarius, we need to get your sublimator powered up, Activation page 20 and Activation page 21, step 3. Over.
+058:17:52 Lovell: Roger. Activation page 20 and Activation page 21, step 3, sublimator.
+058:17:58 Lousma: Roger.
+A diagram of the Ascent Stage of the LM with the various coolant pipes and tubing indicated. The primary and secondary sublimator are highlighted.
+The sublimator is the LM's chief means of cooling its systems and the cabin. It is so named because it uses the sublimation of water ice to a vapour as its mechanism for losing heat. Water is fed through a set of plates which are porous. On the other side is the vacuum of space. Initial evaporation of the water is enough to turn the remaining water in the plates to ice. This ice then continues to be lost to space, not by evaporation but by sublimation whereby the solid phase turns directly to a gas and carries the waste heat away with it. This keeps the plates in a cold state. Warmed coolant from the spacecraft is fed through separate, closed passages within the plates where it is cooled by the continued sublimation of ice. The outgassing of water vapour from the sublimator creates a very small but not insignificant thrust. In terms of normal LM operations around the Moon, this is not a huge issue. However, by operating the sublimator during a long coast between the Moon and Earth, its tiny effect will have a measurable effect on their trajectory.
+They need to have the sublimator started soon. The glycol pumps they have started circulate the coolant through the piping that runs from a series of cold plates that absorb heat from the onboard electronics, the cabin heater and the sublimator. The electronics are not meant to be operated without cooling, and will suffer degrading performance and potentially break down within hours.
+The LM's capacity to operate without cooling was actually tested under real flight conditions at the end of the LM's mission during Apollo 11. After Neil Armstrong and Buzz Aldrin transferred into the Command Module, the Ascent stage of the Eagle was jettisoned and left in lunar orbit with her electronics running and the cooling system turned off. Telemetry was transmitted to Mission Control until the systems started to fail, some 8 hours later.
+058:18:00 Swigert: That's Activation, page 20? Okay, Jack. Now I have to power down IMU. I have no control at all. I'm going to turn my 16 jets off. Say again the other things you wanted?
+Having two communications systems running, all three crewmembers taking turns speaking to Mission Control and two time-critical procedures running side by side is starting to take its toll here. Jack is turning off all of the Command Module attitude control systems, and is preoccupied, making another request.
+058:18:24 Ground technician: That's that O2 tank 1 heaters and fans.
+058:18:28 Lousma: Okay, Jack. We'd like you to turn off your O2 tank 2 heaters and fans.
+058:18:31 Ground technician: One, one.
+058:18:34 Lousma: Correction - tank 1. Turn the fans and heaters off.
+058:18:41 Lovell: Okay. And, Jack, can we turn on the FDAI circuit breakers so we could have a ball to see if we go to gimbal lock or not?
+This is a rather confused sequence and appears to hint at the dangers of trying to do things too fast. Jack has powered down the guidance system in Odyssey which means there is nothing to feed the FDAI with meaningful information. It's likely Jack Lousma in Mission Control meant to ask the LM crew to power their FDAIs so that the LM's attitude could be watched. The ball in the FDAI is marked with red areas to warn when their attitude is nearing gimbal lock.
+058:18:49 Lousma: Stand by.
+058:18:53 Swigert: Houston, he's going to give a 16 Noun 20, Jack. And, okay, I've got O2 heaters and fans off in tank 1. [Long pause.]
+Verb 16, Noun 20 allows the current gimbal angles to be displayed on the LM's DSKY, and thereby be monitored from Earth via telemetry.
+058:19:15 Lovell: And, Jack, let me know if you get close to gimbal lock, would you? [Pause.]
+058:19:25 Lousma: Jim, we don't want you to power down the ball in the LM. We wanted you to power down the ball in the CSM.
+058:19:39 Swigert: Jack, they haven't powered down...
+058:19:42 Haise: Jack, we don't have the balls powered up in the LM.
+058:19:45 Swigert: I have the CMC and IMU in the Command Module is powered down. The heaters are out.
+The Command Module's attitude control and sensing systems are now offline. He still has the Stabilization Control System running, but the BMAGs that could supply backup attitude information have been turned off early on to save power. He has also been told to power down the entire SCS as well.
+058:19:56 Haise: And the EVAP flow valve, that's open now, and I've undone my suit hoses here and opened up the suit flow valves; so, we got air flowing in the LM now.
+Fred has removed the spacesuit oxygen hoses and now air flows from the life support system into the cabin and out of it through the CO2 scrubbers, known as the Atmospheric Rejuvenation Section.
+058:20:11 Swigert: Okay, Jack. Will you say again the SCS items you wanted me to power down? [Long pause.]
+The SCS is the Stabilisation and Control System, essentially a set of gyros and associated equipment that allows the spacecraft's attitude to be controlled separately from the primary guidance system, either manually, or semi-automatically without the computer.
+058:20:45 Swigert: Okay, Houston. Do you read Odyssey? [Pause.]
+058:20:55 Lovell: Hello, Houston, Odyssey. How do you read?
+058:21:01 Haise: His gimbal lock and ours are different, Jim.
+The guidance platforms in both spacecraft were co-aligned, roughly speaking, per the current REFSMMAT. However, because of the different orientations of the ships, their attitude with respect to their platforms would be different and therefore the attitude at which gimbal lock would occur would be different. Fred is thinking out loud and realising that Lousma's request doesn't make sense.
+058:21:09 Lousma: Apollo 13, Houston. Say again, please. You were cut out.
+058:21:15 Swigert: Okay, Jack. Do you want me to proceed by the SCS power-down checklist? I did not copy the SCS items you wanted me to power down.
+058:21:32 Lousma: Okay, Odyssey. We want to go SCS Electronics Power, Off.
+Although a complete powerdown checklist is onboard, they are doing a more straightforward procedure here. First step is to turn off power to the SCS control electronics boxes.
+058:21:39 Swigert: Okay. It's done.
+058:21:41 Lousma: FDAI Power/GPI, Off. Auto jet Select, 16...
+The FDAI/GPI Power dial is used to turn off the 8-balls and the GPI used to display the SPS engine gimbal angles.
+058:21:47 Swigert: That's done.
+SCS Electronics Power and FDAI Power dials on Panel 7.
+058:21:48 Lousma: ...Off. And all your Rotational Control Power, Off.
+058:21:52 Swigert: It's done. Rotation Control Power, Direct, and Auto [garble], Off.
+These switches turn off the power supply to the automatic and Direct manual control modes in the RCS thrusters. With this move, Jack has powered down the remaining attitude control systems in the Command Module.
+058:21:59 Lovell: Okay, Jack. Tell me there. We need to know when we're getting close to gimbal lock in the LM. We have no balls right now.
+058:22:06 Lousma: Okay. We want you to power up your eight-ball. We want you to get your RCS heaters on. Pressurize the RCS and open up the Main SOVs. Over. [Pause.]
+058:22:23 Haise: Okay, Jack. I got two Commander FDAI breakers in, AC and DC, and the two GASTA breakers in AC and DC and next you'll want the RCS heaters all on with the - pressurize the RCS and then the Main SOVs open. And I think they're already open.
+Fred has proceeded with the start-up of the 8-ball by closing the breakers for the FDAI's power supply as well as the GASTA, which is an electronics package that translates the attitude information from the computer or the AGS - Abort Guidance System - for display on the FDAI. Both require DC and AC power.
+058:22:40 Lousma: Roger. And, Freddo, get the TCA breakers in last. Please. [Pause.]
+058:23:00 Haise: Roger, Jim. I'm holding open those until you give me a further word anyway. I'm just going to pressurize right now.
+Lunar Module Reaction Control System diagram.
+The four RCS quads on the LM are similar to the system installed on the Service Module, but designed especially for the lunar operations and adapted for installation on the boxy LM instead of the cylinder-shaped Service Module. There are two fuel systems, A and B, and associated Helium tanks that are used to pressurize the fuel.
+058:23:08 Lovell: Jack (Lousma), are you reading LM gimbal angles? [Long pause.]
+058:23:38 Swigert: ...[Garble] power off, come down here and [garble] the audio [garble]. [Long pause.]
+058:24:16 Lousma: Okay, Aquarius. I have some gyro torqueing angles and the Odyssey is powered down, attitude-control-wise, so LM's got attitude control now. [Long pause.]
+The problem is, the LM still does not have a properly working attitude control system. The displays are not up, and while the gyro platform appears to be alright, the actual thrusters used to control their attitude are still not started up.
+058:25:13 Lousma: Aquarius, Houston. [Pause.]
+058:25:21 Haise: Go ahead, Jack.
+058:25:24 Lousma: Okay. We want you to know that we got some gyro torqueing angles for you. And we want you to tell us when you got attitude control in the LM.
+058:25:38 Haise: Okay. We're still working on the pressurization. I'm getting Jim on the horn here so he can help out, there.
+058:25:43 Lousma: Roger. [Long pause.]
+058:26:09 Swigert: Wonder why.
+058:26:14 Haise: We got to get this pressurized. [Long pause.]
+Mission Control notes that they are again moving towards the gimbal lock.
+058:26:55 Lovell: Houston, Aquarius.
+058:26:58 Lousma: Stand by one, Aquarius, Odyssey. We'd like you to go Direct RCS and hold your present attitude out the window until the LM gets RCS powered up. Go ahead, Jim.
+Odyssey’s remaining attitude control systems were powered down five minutes previously, and since then the whole spacecraft stack has been without any active attitude control. Right now they are asking Jack to re-power the hand controllers and use the Service Module RCS thrusters in the manually fired Direct mode until the Lunar Module can take over attitude control.
+Later on, Flight Director Gene Kranz would admit that this was one of the few blatant operational errors committed by the Mission Control crew during this rapidly evolving part of the mission. Flight Director Glynn Lunney, in charge at the time this happened, described it as a 'low point in morale' when the realization of their mistake came to them.
+058:27:12 Lovell: Well, that's my question. We're not - Our 16 20 doesn't match our eight-ball here. We went to FDAIs On, and we don't have our balls completely powered up. There may be a [garble] and our angles don't look the same and we don't want to go into gimbal lock.
+Verb 16, Noun 20 gives Jim a readout of the gimbal angles, a numerical representation of their attitude with respect to the platform. If the FDAIs are working properly, the 8-balls should show the same attitude because it is their role to give a graphical representation of those gimbal angles. He can see that the two don't match to the degree he would expect them to, and concludes that currently, the FDAIs are not reliable indicators of gimbal lock.
+058:27:28 Lousma: Roger. How far are you from RCS power up - RCS pressurization? [Pause.]
+058:27:45 Haise: Okay, Jack. I'm right up to where it's Master Arm, On; RCS, Fire;...
+Master Arm is a switch that has to be selected into the On position anytime they want to use one of the spacecraft’s pyrotechnic devices. Fred appears to be at step 4 of the procedure to activate the thrusters, which calls for him to open the explosive isolation valves in the RCS Helium system.
+058:27:49 Multiple speakers: [Garble.]
+058:27:50 Haise: ...both Logic Powers out [garble] goes into normal circuit-breaker [garble]. Do you want A in and then I'll fire them?
+058:27:59 Lousma: Okay, 13. You're both talking at once. One at a time, please. [Pause.]
+Jack Lousma is realizing that things are happening too fast and disorderly. He resorts to giving out turns.
+058:28:10 Swigert: Okay. Who's first?
+058:28:11 Lousma: Close Logic Power A and B, Fred, and pressurize RCS.
+Logic Power provides electric power to the pyrotechnic devices and their control electronics. There are two circuit breakers they have to put in first to enable the power to the system.
+058:28:17 Haise: Okay. [Pause.]
+The Explosive Devices panel in the LM. Scan via heroicrelics.org
+There is a panel labeled 'Explosive Devices' on the Lunar Module control console, and the name is no joke. Propellant lines are closed against the rigours of the launch from Earth with valves that can only be opened with a small explosive device. This little bang, known as a squib - opens the valves which release extremely high pressure helium gas that will drive the propellant and oxidizer from their tankage into the actual thrusters.
+058:28:24 Lousma: Go ahead, Odyssey.
+058:28:29 Swigert: Okay. I'm going to try to do the best I can. I've got a one-attitude reference I'm going to fly according to the lunar terminator.
+058:28:37 Lousma: Roger, Jack. Just maintain attitude. [Long pause.]
+With the control systems still either powered down or in the process of being powered and set up, Jack is resorting to controlling their attitude by looking out of the window and hoping for the best.
+058:29:04 Swigert: What am I doing? I can't do that, anyway. Let's see, cross feed. Nope. Now, and... [Pause.]
+It sounds like Jack is having a lot of trouble keeping them steady on this manual control mode.
+058:29:25 Lousma: Aquarius, Houston. We'll have to get some AC up so you can get a ball reading. Close your Bus Tie Inverter circuit breakers, all four of them on panel 11. Close your AC Bus Volt circuit breaker on panel 11. On panel 16, Inverter 2, Close. Select inverter 2. Over.
+In their hurry, and following the instructions coming from the ground, the Apollo crew hasn't turned on the inverter that produces the AC power required by the FDAI and the GASTA. The instructions given will allow them to get Inverter 2 on the line.
+058:29:50 Lovell: That's been completed, Jack. [Pause.]
+It is a moment of relief for the flight controllers to see the AC coming up. They are getting closer to having a spacecraft under proper crew control again.
+058:29:58 Haise: Okay. The RCS is pressurized now. [Long pause.]
+058:30:39 Haise: Okay, Jack. Do you want us to proceed right on down the line with the RCS check-out and Activation 37 now?
+058:30:51 Lousma: Stand by, Fred. [Pause.]
+058:31:03 Haise: Hell, is he still firing up there? [Pause.]
+An annoyed Fred Haise seems to think that the Command Module is still issuing commands to the Service Module RCS systems. Their own RCS is not yet working and once they have it started up, it is possible that the two spacecraft could end up fighting each other for control if both of them fire thrusters at once.
+058:31:15 Lousma: Okay, Fred. Negative on the activation on page 37. Go on to your RCS pressurize and then get your TCA breakers in and go to PGNS attitude hold. [Long pause.]
+PGNS Attitude Hold will allow the Lunar Module computer to maintain a fixed attitude.
+PGNS is pronounced 'pings' by everyone involved. It should not be confused with the near-identical acronym PGNCS, which is the Command Module's primary guidance system. That too is pronounced 'pings'.
+058:31:53 Lovell: Okay, Jack. How do you read?
+058:31:56 Lousma: Okay, Jim. This is Houston. We want you to load the DAP with 30120.
+058:32:06 Lovell: Load the DAP with 30120. Complete.
+The Digital AutoPilot (DAP) was essentially a forerunner of modern digital fly-by-wire systems. Also known as Routine 03 within the computer, it automatically fires the RCS thrusters in such a way as to maintain a desired attitude. It had a range of possible operating modes depending on whether the spacecraft was docked, which thrusters were to be used and the size of the deadband, amongst others. These were configured by entering numbers into a register via Noun 46.
+Associated page from the LM Activation Checklist that shows the Digital Autopilot startup.
+The original plan is to use the "32022" setup on the DAP upon activation, but Mission Control wants them to use "30120" instead.
+DAP configuration checklist from the LM Guidance and Navigation Dictionary.
+The DAP configuration is performed by inputting a 5-digit number sequence into the computer. Each digit corresponds to one possible configuration choice in the program. The crew was provided with a checklist that contained all the options possible. The starting digit '3' for example tells the computer to use the DAP in the 'docked' configuration, with the CSM and the LM together. The other digits were used to select the RCS thrusters, the desired speed of the motions commanded by the Digital Autopilot, and the tolerance around the ideal that is considered acceptable.
+The code 30120 translates to Ascent and Descent stage docked with CSM, two-jet translation (System A), Normal Scaling (ACA 20 degrees/sec), 5 Degree Dead band, 0.2 degrees/sec automatic maneuvering.
+058:32:16 Haise: Okay. We need to change that CSM weight.
+Fred brings up an issue that Mission Control is about to handle almost immediately.
+058:32:25 Lousma: Okay, Aquarius. Your CSM weight is 63400. [Long pause.]
+The DAP program needs to know the weight (or more accurately, the mass) of each of the involved spacecraft so that the computer can calculate the thrust required to accomplish their desired maneuvers. Verb 6 Noun 47 is used to input the weights of the Command Service Module and the Lunar Module to the DAP. Although the LM's mass is close to the nominal value in the Activation Checklist, they need to input the mass of a much heavier CSM into the DAP. Their SPS propellant tanks are almost full - only 240 pounds were consumed during the midcourse correction, meaning that they are hauling 40,529 pounds [18,384 kg] of the propellant with them, much of which would be expected to be used for the Lunar Orbit Insertion maneuver, before the nominal LM Activation.
+058:32:51 Lovell: And Jack's alive to take control the LM to stay away from gimbal lock. Over.
+058:32:58 Lousma: Affirmative. Take control of the LM. PGNS Attitude Hold.
+LM Stabilization/Control switches on the control console. Scan via heroicrelics.org
+The Stab/Cont panel has switches for selecting manual, automatic, and semi-automatic attitude control modes for the Lunar Module. Currently they want each of the three axes of motion to be in Mode Control which allows the computer to control their attitude. the Mode Control switches below them have two options, either PGNS or AGS. PGNS is the primary guidance system. AGS stands for Abort Guidance System and it is the backup system. Normally it will serve to take over from the PGNS should the primary system fail.
+058:33:06 Haise: We are.
+058:33:08 Lousma: And, Odyssey, request you coordinate with Aquarius on attitude control.
+058:33:16 Swigert: Okay.
+058:33:17 Lovell: Roger.
+058:33:19 Lovell: Okay. I don't see where you're firing these things [garble].
+058:33:22 Lovell: Oh?
+058:33:27 Lovell: Are you firing anything?
+058:33:28 Swigert: I don't think so. [Long pause.]
+058:33:54 Lovell: Okay. I got Direct. [Pause.]
+Jim has placed RCS thrusters in their Direct mode. This bypasses the computer control - whenever he moves the hand controllers, a firing signal is sent to the thrusters via alternative wiring to operate them manually.
+058:34:04 Lousma: And, Aquarius, check you ATCA (PGNS) breaker on panel 11 in.
+058:34:13 Lovell: Say again.
+058:34:15 Lousma: Close, on panel 11, circuit breaker ATCA (PGNS).
+The Lunar Module Primary Guidance, Navigation and Control System, flowchart. Click image for larger view.
+Their startup sequence has gotten the Lunar Module computer running, the IMU coarse aligned and the RCS thrusters operational, but they forgot to close the circuit breaker that supplies the ATCA. This stands for the Attitude and Translation Control Assembly, an electronics package that produces the RCS jet firing commands either under orders from the guidance computer or crewman input via the hand controllers. They can't got to automatic Attitude Hold without the ATCA powered up.
+058:34:21 Lovell: ATCA (PGNS). Come on. Let's take it easy now.
+058:34:30 Lovell: Okay. We've got ATCA (PGNS) closed.
+This is another of the breakers that would normally go in along with most of the circuit breakers during a regular start-up sequence, but for now they are only putting them in as needed.
+058:34:31 Haise: Yeah.
+058:34:32 Lovell: Is that okay?
+058:34:34 Haise: Yeah.
+058:34:35 Lovell: Okay. Now I'm looking.
+058:34:37 Haise: [Garble] okay [garble]. [Pause.]
+058:34:46 Swigert: How about plus?
+058:34:48 Haise: No [garble].
+058:34:49 Lovell: Okay. It's already open.
+058:34:53 Lovell: Okay. Slow down.
+058:34:58 Haise: Okay, Jack. We got it. [Long pause.]
+058:35:16 Lovell: Yes.
+058:35:21 Lousma: Okay, Jim. How's the attitude control?
+058:35:27 Lovell: Okay, Jack. We've got attitude control now in the LM. We're going to try to rotate up through the bellyband.
+058:35:34 Lousma: Roger.
+058:35:38 Lovell: I like that sound like I got back there. [Long pause.]
+058:35:59 Lousma: Odyssey, Houston. I've got a procedure for you.
+058:36:05 Swigert: Okay, Jack. I'm [garble].
+058:36:09 Lovell: I want to go up this way to get away from that - the radios are powered, huh?
+058:36:16 Swigert: Yes. [Long pause.]
+058:36:33 Lovell: Check your antenna?
+058:36:37 Swigert: Okay, Jack. Odyssey is ready to copy.
+058:36:40 Lousma: Okay, Jack. What we want you to do is close the reactants valve on fuel cell 2. Power down your inverters. Power down your battery relay bus. Battery ties, off, and pull your entry circuit breakers, entry battery circuit breakers A, B, and C. [Pause.]
+Mission Control wants to stop the CM batteries being used further. This quick set of instructions will fully power down the CM.
+058:37:15 Lovell: Check the control, and make sure we don't go to gimbal lock, Fred.
+Jim's voice is heard faintly, caught in the voice-activated radio without him intending to be heard in the comm loop. His tone is rather strained.
+058:37:21 Swigert: Okay, Jack; understand. Close Reac valve circuit breakers in fuel cell 2. Power down inverters. Power down Bat relay bus. Bat TIES, Off. Power entry and both running circuit breakers A, B, and C. All off.
+058:37:41 Lousma: That's affirmative, Jack. And close the reactant valve on fuel cell 2, there.
+058:37:50 Swigert: Okay. I'll do that, and Jack'll do that other.
+058:38:02 Lousma: Okay, Jack; on fuel cell 2, open circuit it. [Long pause.]
+058:38:18 Swigert: Okay. Fuel cell 2 is open circuited. Do you want me to go through the standard shutdown procedure for the Reac valves and... [Long pause.]
+058:38:37 Lousma: Odyssey, Houston. All you have to do is close the Reacs valve on fuel cell 2.
+058:38:42 Swigert: Okay. CB Reacs and vent Reac valves all closed. [Long pause.]
+058:39:24 Swigert: Yes. [Long pause.]
+058:39:55 Lovell: Yes.
+058:39:58 Haise: [Garble] an hour and a half.
+058:40:01 Lovell: Okay.
+058:40:06 Lovell: Houston, Aquarius.
+058:40:09 Lousma: Go ahead, Aquarius.
+058:40:12 Lovell: Okay. Odyssey is completely powered down, according to the procedure that you read to Jack.
+058:40:22 Lousma: Roger; we copy. That's where we want to be, Jim. [Pause.]
+Swigert, from 1970 Technical debrief: "The emergency powerdown was a very simple six-step procedure. The CM power was completely killed. We pulled all the circuit breakers on panel 250 except the sequence circuit breaker. The CM was like a tomb."
+Panel 250, Circuit Breakers
+Jack's final act in the Command Module has been to open the circuit breakers that connect the batteries into the power system. This cuts all remaining power in the CSM.
+The accident happened at 055:54:53 GET. It is now 058:40. Two hours and forty five minutes after the explosion, Command Module Odyssey has been shut down. Although the loss of the Service Module resources has rendered the Odyssey unable to support its three-man crew in a lunar landing mission, the crucial systems needed for returning to Earth - the parachutes, the heat shield, the computer, thrusters, radios, batteries - are still good to go. The challenge ahead of them is to stretch everything they can from Aquarius, up until the moment comes to revive the hibernating Odyssey.
+058:40:36 Haise: And, Jack, have you all got good LM data down there now? [Pause.]
+058:40:47 Lousma: That's affirmative, Fred. We're getting good LM data.
+Although they report that the telemetry is working properly, INCO reports a problem with their tracking signal.
+058:40:53 Haise: Okay. In that case, I think I'll pull out some display breakers and just let you all keep an eye on things.
+Even this early on into this emergency phase of their mission, Fred is conscious of their limited supplies. He wants to turn off the internal lighting on the Lunar Module control panels to save the trickle of power used by the displays. Running their internal lights for 50 hours could consume just enough power to cut their full life support time by the 1 extra hour needed to get safely to Earth.
+058:41:02 Lousma: Roger.
+058:41:04 Lovell: He's turning his lights off now, too.
+058:41:06 Lousma: Stand by one on that, Fred. [Pause.]
+058:41:18 Haise: Okay.
+058:41:21 Lovell: What about these lights up here?
+058:41:30 Haise: I've got it.
+058:41:32 Lovell: Okay.
+058:41:34 Haise: Where would you like [garble]?
+058:41:37 Lovell: [Garble] [Pause.]
+058:41:47 Haise: Oh. [Long pause.]
+While the crew is getting settled in the Lunar Module, now their lifeboat, Glynn Lunney issues a new mission statement to his Mission Control team back in Houston. With the immediate emergency of the oxygen tank failure gone, and the crew in safe quarters for the moment, it is time to look at the very precarious future they are facing.
+A serious Glynn Lunney in Mission Control. NASA film capture. NARA.
+Lunney (FLIGHT): Okay, everybody, look. We've got a number of long-range problems right now. We have the burn to do, which is at about 79 hours: 28 hours from now. And that's one business. We have to get the track up as we need it to take care of that burn. Hopefully we won't need to do too much with that, although I don't know how many amps that's going to take. However, right now, I want to be sure that we get the whole situation stabilized with the LM and the CSM. We've got to start bringing the LM power down some, and get any non-required stuff off the line so we don't use up any of these amp-hours that we don't need to give away. And I want you to pay attention to the configuration we're currently in and get the people offline working on the longer-range problems, especially the lifeboat problems now associated with the LM. You know, LiOH, etc. Let's get all that configured. But right now I want the guys who are in the room to concentrate on keeping this thing right now going along all right, and watching it... Alright.
+058:42:41 Lovell: We don't want to lose Comm with him.
+058:42:45 Haise: I'm watching it.
+Comm break.
+058:43:52 Lousma: Aquarius, Houston. Stand by on opening your circuit breakers for displays. We're going to let you know what they are, and I have some gyro torqueing angles for you. [Pause.]
+Jack first brought up the gyro torqueing at 058:24:14 GET. It's taken the crew 20 minutes to get both the LM and the CSM sorted out.
+058:44:10 Lovell: Okay. What page is that there gyro torqueing?
+058:44:12 Haise: Okay. What page is the, do we write the gyro torqueing angles on there, Jack?
+058:44:17 Lousma: Stand by.
+058:44:18 Haise: Okay. We're there now, Jim. Jim's got it. Go ahead with the gyro torqueing angles.
+058:44:24 Lousma: Okay. We'd like you to proceed with the fine align and your gyro torquing angles are X plus 003.30, Y plus 024.80, Z minus 015.10. Over. [Pause.]
+058:44:48 Lovell: Okay. I read your gyro torqueing angles as plus 003.30, Y is plus 023, I only have four numbers for Y; you'll have to give that one to me again, and Z is minus 015.10. Read Y again, please.
+058:45:06 Lousma: Okay, Jim. X and Z are correct and Y is plus 024.80. [Pause.]
+058:45:19 Lovell: Okay. We read Y as plus 024.80. We'll proceed on Activation 40 to fine align the platform.
+058:45:28 Lousma: Roger. Okay, Aquarius, proceed as on page 40 with IMU fine align.
+Long comm break.
+Fine Align procedure in the LM Activation Checklist, page ACT-40.
+Their next action is to use the numbers read up by Lousma to torque the platform. The small electric motors in the IMU drive the gimbals into their desired position to get the most accurate alignment possible.
+The procedure makes many entries into the newly started LGC. First step is Verb 76 Enter (Set Minimum Impulse Mode In DAP) which will ensure that the spacecraft will not make large motions while the gyro torqueing takes place. Verb 42 Enter (Fine Align IMU) starts the process of torqueing the platform. Verb 21 Noun 93 (Load Component 1 In R1 - Delta Gyro Torqueing Angles X,Y,Z) allows them to input the numeric data into the computer. Verb 21 initially displays to prompt the crewmember to load the X axis value into Register 1. After Enter is pressed, the Verb changes to Verb 22, for loading the Y component into R2, and finally, Verb 23 to load the final, Z component into R3. Once the loading of the torqueing angles is complete, Verb 42 is entered again to actually drive the gimbals to their new orientation. Afterwards Verb 16 Noun 93 lets them monitor the aforementioned alignment process. Once the computer DSKY shows only zeros - ie no difference exists between the desired and the present orientation, the gyroscopic platform has reached the alignment they want.
+The Apollo IMU gimbal platform.
+The LM's Inertial Measurement Unit is identical to the one in the Command Module.
+"This is Apollo Control; 58 hours, 46 minutes Ground Elapsed Time. Lovell and Haise still powering up the Lunar Module, getting attitude control, aligning the platform, in preparation for what turns out to be an alternate mission in which no lunar landing will be possible. However, the spacecraft will fly around the Moon. At this point in translunar coast, it is more economical in propellant and time to continue to coast on around the Moon and come back to Earth interception trajectory. In about 20 minutes in the Houston News Center there will be a press conference in the small briefing room. Stand by.
+058:47:41 Lousma: Aquarius, Houston. Can you see any stars out the LM window? [Pause.]
+058:47:53 Haise: We'll have to wipe them off, Jack. They're coated with water right now.
+058:47:59 Lovell: Can I get a towel?
+058:48:00 Haise: Yes.
+058:48:01 Lousma: Roger. As soon as you get a chance to - on your position - to take a look, we'd like to know if you can see stars for alignment purposes.
+Jack wants to know whether the crew can recognize constellations while looking out of the spacecraft windows. Bright stars in familiar constellations are used as navigational reference points which are used to determine the ship’s position at any given time.
+058:48:16 Haise: Okay. Jim's going to be in trouble in our present attitude out his side. The Sun's there.
+058:48:25 Lovell: Wait 1.
+058:48:29 Haise: What have you got? How much you got left in battery A? Okay. I wish I knew what the hell they were thinking right now [garble]...
+058:48:51 Lovell: They're talking about powering down and doing a P51 here?
+Program 51 is a complete alignment of the platform from scratch with no coarse alignment to get them in the ball park first. Program 52 is a realignment of the platform, on the basis that it is already coarsely aligned, either by having drifted away from its fine alignment or, in this case, having been coarsely aligned by reference to the CSM's alignment before it was powered down.
+058:48:57 Haise: No. They were just thinking about P52...
+058:49:00 Lousma: Aquarius, Houston. Negative on the P51. We want to stay just like we are, but we'd like to be able to correlate what you're doing with some simulator work we're going to crank up. And so if you can give us information as to what stars you can see out the window, we can make that correlation.
+058:49:22 Lovell: Would you say one more time? Give me the top two. The top two. [Pause.]
+058:49:33 Lousma: Jim, what we want you to do is go with your current fine align and disregard the P51. What we're attempting to do is to crank up some LMS simulations to correlate what we can get out your window with what we can get out the LMS window to see if that will help us any. So when you can see some stars, if you can, you think you can recognize them and recognize constellations, please let us know.
+058:50:02 Lovell: Okay. We'll check. Stand by. [Pause.]
+Mission Control wants to use the Lunar Module Simulator to recreate the visual conditions onboard the spacecraft in order to determine how to perform navigation under the present circumstances.
+The Lunar Module Simulator facility.
+Besides the mock-up of the spacecraft interior, that simulator has a main control console as well as cabinets of computer equipment used to drive the simulator systems. Albeit stationary and unable to provide motion feedback, every onboard control system and display is simulated to maximum fidelity. A video system can simulate the lunar surface as well as the field of stars around them or the Sun.
+Participants in the forthcoming press conference within the next 15 minutes or so will be Manned Spacecraft Center, Deputy Director Christopher C. Craft, Jr., Apollo Spacecraft Program Office Manager James A. McDivitt, and MSC Director of Flight Operations, Sigurd Sjoberg. This will be in the small briefing room in the Houston News Center. We'll be isolated from the air-ground which will be continually fed in real time to the News Center.
+Christopher C. Kraft, James McDivitt and Sigurd Sjoberg at the news conference. NASA film capture. NARA.
+The trio of managers received concerned questions from the press, who inquired on whether the LM had enough consumables to get the crew back home. The managers were confident in that this was the case, and already implied that the Command Module lithium hydroxide canisters could be used, and power transferred from the LM batteries into the Command Module.
+McDivitt was asked to compare this crisis to that of Gemini 8, where a malfunctioning maneuvering thruster caused the mission to be aborted and sent its astronauts Neil Armstrong and David Scott into an emergency landing. McDivitt noted that the biggest difference was that the Gemini mission was able to return to Earth in 20 minutes, while Apollo 13 has many hours to go.
+Chris Kraft was asked how the situation of Apollo 13 compared to all the previous problems experienced by NASA mission. He was blunt enough in his assessment. "This is as serious situation as we've ever had in manned spaceflight."
+058:50:16 Lovell: Okay. Watch the... [Long pause.]
+058:50:45 Swigert: I'm just glad [garble]. [Long pause.]
+058:51:25 Lovell: Okay, stand by. [Long pause.]
+058:51:40 Lovell: Okay. Here, unplug this. [Long pause.]
+058:52:13 Lousma: Aquarius, Houston. We notice that the O2 pressure in the Ascent Tank O2 is a little high, so we want to use some of it. So close Descent O2 and open Ascent O2, tank 2. Over. [Long pause.]
+058:52:45 Haise: Okay, Jack. Switch now on Ascent number 2 O2 tank, Descent O2 is closed.
+058:52:53 Lousma: Roger, Fred. [Long pause.]
+Ascent O2 tank valve and internal structure.
+As if they didn’t have enough malfunctions, now there appears to be an imbalance in the oxygen supply in the Lunar Module as well - described as "a little problem" by LM controller TELMU at the time. The ascent oxygen tank pressure is up to 901 psi while the normal pressure is 830 psi. Later investigation determined that the ascent tank valve had developed a reverse leak with oxygen from the already open Descent Stage tank forcing itself the wrong way through, causing the rise in pressure. A mistake in the paper trail detailing the design tolerances for O-ring seals meant that these airtight seals could become damaged and cause such a leak.
+058:53:39 Lovell: [Garble] that? [Long pause.]
+058:54:01 Lovell: Okay, Houston; Aquarius. How do you read?
+058:54:05 Lousma: Reading you 5 square, Jim. Go ahead.
+058:54:09 Lovell: Okay. I'm looking out of Fred's window. I see a lot of particles out there, but a lot of that stuff is still drifting away from us, so a lot of it is flashing in the local vicinity, and I don't recognize any constellations right now, in this particular attitude. [Pause.]
+The leaking of gas from the Command Module and the debris from the explosion surround the spacecraft. Since every part of the ship was moving at the same speed at the time of the accident, being separated from the spacecraft body does not suddenly leave them behind, but they continue at the same speed, and hence surround the ship as a mobile field of debris consisting of leaked fluids, gas and broken off pieces of the Service Module. This means that the crew is now struggling to begin the fine alignment of the IMU via star sightings using the AOT in the LM.
+058:54:34 Lousma: Okay, Jim. If that status changes, please let us know.
+058:54:41 Lovell: Roger. We're continuing to drift. Okay, get your TTCAs to roll.
+058:54:54 Haise: TTCA [garble]. [Pause.]
+Pre-closeout picture of the Apollo 12 LM showing the Commander's ACA and the Lunar Module Pilot's TTCA hand controller.
+Diagram of the Attitude Control Assembly.
+The crew has two manual control sticks at their disposal. The ACA (Attitude Control Assembly) allows them to change the attitude of the ship, i.e. make it rotate on all the three axes of motion without applying acceleration to any direction. It is the LM equivalent of the Rotational Hand Controller, or RHC, in the Command Module.
+Diagram of the Translation and Thrust Control Assembly.
+The TTCA or the Translation and Throttle Control Assembly is the second manual controller. It can be used to generate manual firing commands to apply thrust to any direction, hence moving the ship to that direction. The TTCA can also be used to manually throttle the Descent Engine during the lunar landing. It is the LM equivalent of the Translation Hand Controller or THC in the Command Module.
+058:55:08 Lousma: And, Aquarius; Houston. I've got some circuit breakers you can open to power down displays. In addition, I have a P30 maneuver PAD. Over.
+058:55:20 Lovell: Roger. Stand by, Houston. Get the CS ... get the PAD book.
+058:55:28 Haise: Get the LM data - get the LM book.
+058:55:32 Lovell: And, say - We're getting the PAD book now, Jack - and say the boost on powered up?
+058:55:38 Lousma: Okay. I have some circuit breakers that you can open up in order to power down displays.
+058:55:45 Haise: Okay. Stand by one, Jack. I'm going to get my comm carrier on you can open to power down
+058:55:54 Lovell: All right, I'll tell you what. Get all the LM stuff. Give me the LM stuff right now. Jack, give me all the LM stuff. [Long pause.]
+058:56:45 Lovell: Why? [Long pause.]
+058:57:06 Lovell: All right, Jack. Hey, what do you need out of here ?
+058:57:13 Swigert: [Garble] status.
+058:57:19 Lovell: Here. [Long pause.]
+058:58:12 Lovell: Now is there any way they can control this thing with the LM on? Freddo?
+058:58:20 Haise: What's that?
+058:58:21 Lovell: Looks like I'm cross-coupling here. I might as well...
+058:58:23 Haise: Yes, you are. TTCA will give you the best controlling warning.
+058:58:30 Lovell: Yes, and I want to get out of this roll. What if I go to... [Pause.]
+058:58:42 Haise: It doesn't matter where the hell you are [garble]. Gimbal lock [garble] my flashlight or any flashlight. [Long pause.]
+058:59:16 Haise: [Garble] down and power down [garble]. [Long pause.]
+058:59:34 Lovell: Well, I'm not doing any good here.
+058:59:38 Haise: Okay, how do you read now, Jack?
+058:59:44 Lovell: Omni.
+058:59:46 Haise: Yes, we're on.
+058:59:51 Lovell: Hello, Houston; Aquarius.
+058:59:54 Swigert: Back on? Yes. [Pause.]
+059:00:04 Lousma: Aquarius, Houston. You're watching the middle gimbal there, aren't you? Go ahead, Aquarius.
+059:00:12 Haise: Okay. Go ahead with the breakers first, Jack.
+059:00:15 Lousma: Okay. You watching your middle gimbal there?
+059:00:20 Lovell: Tell them we are.
+059:00:24 Haise: Your attitude is just straight pitch down, Jim. Okay, you're moving away. [Long pause.]
+059:00:48 Lousma: Okay, Fred, I've got six circuit breakers for you.
+059:00:54 Haise: Okay. Go ahead.
+059:00:56 Lousma: Okay, they're all on panel 11. Row 1 under AC Bus B, open Helium PQGS for Propellant Display.
+This turns off the Propellant Quantity Gauging System display, used to measure the remaining fuel in the LM's engines.
+059:01:07 Lovell: It's Open.
+059:01:08 Haise: Open.
+059:01:09 Lousma: On row 2, Flight Displays, open Thrust, open Mission Timer, open Range/Range Rate, Altitude/Altitude Rate, and open the AC Bus A Range Rate, Altitude/Altitude Rate.
+These displays are used for the onboard time as well as showing information only needed during the lunar landing.
+059:01:25 Lovell: They're Open.
+059:01:26 Haise: Okay. They're all Open.
+059:01:27 Lousma: Okay. On row 4, PGNS, Signal Strength Display. [Pause.]
+059:01:38 Lovell: It's Open.
+059:01:39 Haise: It's Open.
+059:01:42 Lousma: Okay. That concludes the power-down of displays. And I have a P30 PAD for you. [Pause.]
+059:01:53 Haise: Okay. Go ahead.
+Jim is working to control their attitude from the LM end of the stack while Fred follows instructions to reduce their power usage by turning off any LM displays and other systems that are not needed. Meanwhile, Jack Lousma is about to read up a maneuver PAD that will hasten their return home once they swing behind the Moon. Mission Control want to get it to the crew as soon as possible, in case they should suddenly lose communications.
+One of the flight control stations is named RETRO, short for Retrofire. Their duty during the outward part of the mission is to come up with engine burns that will send the crew back home should it become necessary to abort the flight. The crew has been receiving PAD updates onboard since the beginning of the mission for the unlikely need for this information. Right now, RETRO's job has become all too pertinent for the safe return of the crew.
+Trajectory options calculated for the return of Apollo 13 immediately post-accident. The option read up the crew is underlined.
+RETRO produced several options for a return trajectory very soon after the accident. The first option they looked at was the direct abort, in which they would make a very large burn to negate their forward velocity and begin the fall back to Earth. With ignition time around 60 hours GET, such a large burn would have required the use of the SPS engine in the Service Module and separation from the Lunar Module to be able to produce the sufficient delta-V. These options soon became obviously untenable due to the loss of life support capacity in the CSM, let alone the questionable status of the SPS engine.
+The next option was a calculation of PC+2 burn, where an engine would be fired 2 hours after closest approach to the surface of the Moon to hasten their return to Earth. These solutions would make the burn from the non-free return trajectory. The solution chosen to be read up to the crew was one that would result in a landing at the backup landing zone in the Atlantic Ocean This option was given to the crew as soon as possible in case of loss of communications.
+Further selection of firing solutions gave other options for the PC+2 burn, with various delta-V requirements and hence varying return speeds. These were calculated with the presumption that an earlier midcourse correction would be performed sometime before the approach to the Moon to alter their trajectory to the free return trajectory.
+Spheres of influence in the Earth-Moon system.
+The direct abort mode requires them to be in Earth's sphere of influence. This implies that the gravitional pull of Earth exerted on the Apollo spacecraft is higher than that of the Moon. Around 61 hours GET, they will enter the Moon's sphere of influence and from that moment on, a flyby maneuver going behind the Moon on a slingshot is the only viable option.
+Mission Control has not made up this procedure on the spot. The so-called PC+2 abort is a known modality that could be undertaken should the Apollo spacecraft be unable to enter lunar orbit.
+This simple diagram shows the PC+2 DPS maneuver in the August 1968.
+059:01:57 Lousma: Okay. The purpose is a pericynthion plus 2 hours DPS abort. Noun 33: 079:25:26.48; plus 1633.0, minus 0014.5, minus 0751.5; apogee not applicable, perigee is plus 0020.5; 1797.7, 8:35, 268, 264, plus 16410, minus 00145, minus 07338. COAS is NA. And I have two gimbal trim angles for you which will be updated. Right now, however, we want you to go with pitch 5.86, roll 6.75. Over.
+059:03:37 Haise: What was that for?
+059:03:40 Lovell: Pitch and yaw, maybe, huh?
+059:03:42 Haise: Okay, what was the last two things you gave me, a pitch and roll angle for what?
+059:03:47 Lousma: That's for your DPS trim.
+059:03:48 Lovell: Those were gimbal angles for - pitch and yaw.
+059:03:54 Haise: Oh, Roger. GDAs.
+059:03:56 Lousma: Yes, that's what I mean. Sorry.
+The Descent Engine.
+Gimbal Drive Actuator. Electric motors run a screw mechanism that moves the engine nozzle on two axes of freedom.
+GDA refers to the Gimbal Drive Actuators, the mechanisms that move the LM's gimbal-mounted descent engine so that its thrust can be aligned with the spacecraft's centre of mass. The two angles given by Lousma are preset values which will place the thrust axis near where Mission Control believe the centre of mass is.
+A difference between the LM and CSM is that the CSM's SPS engine axis is parallel to the CSM's roll axis and so gimballing that engine allows adjustment in pitch and yaw. The DPS engine axis is parallel to the LM's yaw axis and its gimbals therefore allow control in pitch and roll. However, the crew, and probably Lousma who is just reading from a sheet, are caught out by the reference to roll.
+059:03:58 Haise: Pericynthion plus 2 - Okay, DPS pericynthion plus 2, at 079:25:026.48; plus 1633.0, minus 0014.5, minus 0751.5; HA N slash A, HP plus 0020.5; 1797.7, 8:35, 268, 264, plus 16410, minus 00145, minus 07338...
+059:04:43 Lovell: Did we lose the water in the...
+059:04:44 Haise: ...N slash A in the COAS, and you gave me GDA angles of pitch 5.86, and you want roll 6.75.
+059:04:56 Lousma: Good readback, Fred.
+The PAD is interpreted as follows:
+Purpose: This PAD is for a burn to be carried out two hours after their closest approach to the Moon. Since the point of closest approach to the Moon of a body arriving from outside its sphere of influence is known as pericynthion, then this burn is termed 'pericynthion plus 2 hours' or 'PC+2'. It is a relatively large burn that will set them on a trajectory that returns them to Earth as fast as possible to land in the Atlantic Ocean. In the event, it is not used due to a change in the plan.
+Systems: The burn would be made using the Descent Propulsion System engine in the LM's descent stage, the engine that was supposed to land them on the Moon.
+Time of ignition (Noun 33): 79 hours, 25 minutes, 26.48 seconds; just over 20 hours from now.
+Change in velocity (Noun 81), fps (m/s): x, +1,633.0 (+497.7); y, -14.5 (-4.4); z, -751.5 (-229.1). The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).
+HA, expected apogee of resulting orbit (Noun 44): Not applicable. The apogee of the resulting orbit would be over 9999.9 nautical miles, beyond the limit of the computer's display.
+HP, expected perigee of resulting orbit (Noun 44): 20.5 nautical miles (38.0 km). The perigee distance is so low, it intersects Earth's atmosphere. In other words, the spacecraft will re-enter.
+Delta-VR: 1,797.7 fps (547.9 m/s). This is the resultant total change in velocity the stack would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 8 minutes, 35 seconds.
+Spacecraft attitude: Roll, 268°; Pitch, 264°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform. Note that yaw is not quoted. This is because the engine is roughly aligned along the yaw axis and, in LM operations, the yaw angle is at the discretion of the crew and Mission Control.
+Change in velocity (Noun 86) for the AGS, fps (m/s): x, +1,641.0 (+500.2); y, -14.5 (-4.4); z, -733.8 (-223.7). As the AGS is a much simpler computer, its knowledge of how the DPS reacts is limited. These adjusted values can be used by the AGS in case it needs to carry out the burn.
+Pitch and roll trim: 5.86° and 6.75°. These angles represent an initial pointing direction for the gimbal-mounted engine. Note that the DPS gimbals are specified to allow ±6° movement and the roll trim is greater than that.
+This burn would have expended almost all of the available delta-V capacity of the Descent Propulsion Engine. This would have made it difficult for them to perform midcourse corrections should they need to. This is a genuine concern because of the uncertainties with the IMU alignment.
+059:05:00 Lovell: Yes, lose - get all the little bags you can with water.
+059:05:06 Lousma: Aquarius, Houston. Say again, please.
+059:05:13 Haise: Okay. We didn't answer back there, Jack. Check to see if you're on VOX.
+059:05:19 Lovell: No.
+059:05:22 Haise: Neither am I, okay. Why the hell are we maneuvering at all now? Are we still venting?
+059:05:34 Lovell: Well, we're at Att Hold for one thing - I mean, we're at Minimum Impulse.
+059:05:38 Haise: No, I mean why can't you null them out, somewhere?
+059:05:41 Lovell: Every time I try to - I can't take that doggone roll out. I got to wait until they get around to the bellyband.
+059:05:50 Haise: Wait a minute. Do you - you fight roll by using the TTCA left right. That's what you need to play with.
+059:06:04 Lovell: Okay. We'll try that. Let me get around though. Let's roll. Let it roll all the way.
+The LM axes of motion
+The LM like the CSM, has three axes of motion, known as roll, pitch and yaw. The Roll axis (or Z) occupies an imaginary line that goes through the forward hatch of the spacecraft. Movements on this axis are akin to the Lunar Module rotating upside down and then back upright again. The pitch axis (or Y) can be visualized as the LM making a somersault, either forward or backwards. The yaw axis (or the X) goes through the Descent Engine bell and the top hatch. Movements on this axis are akin to the Lunar Module rotating around in place, like a ballerina doing a pirouette.
+059:06:12 Haise: Yes, you can't let it roll all the way.
+059:06:13 Lovell: I know. I know. But I mean...
+059:06:16 Haise: Okay. Then until it's upside down at least, huh?
+059:06:18 Lovell: Yes.
+059:06:19 Haise: Okay. Well, should I ask him what the return time on that one is? Or are you interested?
+059:06:31 Lovell: Let's get the first things first. [Pause.]
+059:06:43 Haise: Oh, you don't want to hear. Let me figure some times out here. That's at 79, and what are we at now? About - do we - do we - do we even know any better computer time, do we?
+059:06:57 Lovell: No.
+059:07:00 Haise: Hey, Jack. Do you still have a mission timer? You don't? Okay.
+059:07:07 Lovell: I'll tell you what. Let's ask - let's ask Houston to give us a mission timer, computer time. They can up link it to us. Okay, hold it.
+059:07:18 Haise: Go ahead.
+059:07:20 Lovell: Houston, Aquarius.
+059:07:21 Lousma: Go ahead, Aquarius.
+059:07:25 Lovell: You know, we don't have a - I don't think we have a computer clock going, and why don't you up link that stuff to us?
+059:07:31 Lousma: Roger. [Pause.]
+059:07:40 Lousma: And, Freddo, I got some fast circuit breakers on panel 16 for you.
+059:07:49 Haise: Okay. Go ahead.
+059:07:51 Lousma: Okay. On row 1 under Flight Displays, Systems Engineer's Crosspointer, Open. Under RCS B...
+The Crosspointer shows their velocities in the lateral and forward axes, and is also indeed only useful for lunar landing.
+059:08:00 Haise: It's Open.
+059:08:01 Lousma: Open the Temp/Press Display-Flags and PQGS/Displays.
+Since the Descent Engine is not being used at the moment, they do not need displays for its propellant pressures and temperatures either.
+059:08:10 Haise: Okay. They're both Open.
+059:08:12 Lousma: Okay, Fred. On row 3 under Comm, open Displays and under ECS, open Displays. [Pause.]
+This turns off the displays for the Communications and the Environmental Control Systems.
+059:08:25 Haise: Okay. Comm Displays, ECS Displays, both Open.
+059:08:28 Lousma: Okay. And two more. In row 4 under Heaters, open Displays and under EPS, open Displays.
+This turns off the heater and Electric Power System displays.
+059:08:40 Haise: Okay. Heaters Display, EPS Display Open. And I've long since had all the lights off, floods, et cetera. [Pause.]
+059:08:55 Lovell: Where are those bags? Where are those bags for weighing water in the PLSS?
+PLSS stands for Portable Life Support System, the backpacks used during the moonwalks. PLSS is pronounced ‘pliss’ by the crew. They contain breathing oxygen and cooling water supplies for surviving out in the vacuum. The water can be drained from the PLSS backpack after an EVA to measure how much water is left inside it. They have bags and a spring scale calibrated to lunar 1/6th G gravity for this purpose. Jim appears to want to use those bags for storing water.
+059:09:02 Haise: Why?
+059:09:03 Lovell: We're going to fill up Command Module water. We'll [garble].
+059:09:09 Haise: Hell, do you need a QD [clipped] Jim. No way to get ours in there. I don't think. [Long pause.]
+QD refers to quick disconnect, a connector that can be used for transferring water from the onboard supply tanks to a temporary container, generally a plastic bag.
+Mission Control is ruminating on how to update the clock onboard the Lunar Module - not a simple task due to the communication troubles. Glynn Lunney has also noticed another comms-related issue in the air to ground loop.
+Lunney (FLIGHT): Why don’t you give them a GET hack though, eh? And let them know we hear that VOX.
+A 'hack' suggests that they should act like a speaking clock, where the CapCom would tell the astronaut 'the time is X in five seconds from now' and this is then input by the crew.
+Lunney thinks that Lousma should tell the crew that their radio is on Voice Activated or 'VOX' mode.
+059:09:37 Haise: Hey, Jim. [Pause.]
+059:09:44 Lovell: I wonder if one of our water [garble] jet is. Okay, let's control - What else can we fill up there?
+059:10:00 Lousma: Aquarius, Houston.
+059:10:02 Haise: We're not - we're not going to...
+059:10:03 Lousma: We're not going to be able to up link your time because of the IU, and we have a frequency problem there. But what I'd like to do is give you a time to set up on your mission timer and give you a mark and then you can put it into the DSKY from there. Over.
+059:10:25 Lovell: Okay. Stand by.
+A strange and unprecedented situation has developed that is hampering the communications with the Lunar Module. The spent third stage of the Saturn V booster, the S-IVB, is pursuing a secondary mission of its own after delivering the crew on their translunar trajectory.
+At the top of the S-IVB stage is the IU or Instrument Unit that controlled the operation of the Saturn V launch vehicle. It is still in communication with Earth and, unfortunately, is on the same frequency as the LM as well as being in roughly the same line of sight. It had been expected that both vehicles would be operating at different phases of the mission. Eventually, this clash will be cured when engineers at the ground stations use a large narrow-beam antenna to carefully detune the LM's unified S-band radio system, pulling its frequency far enough away from that of the S-IVB's IU. This state of affairs only needs to last until the S-IVB impacts the lunar surface.
+Mission Control plans to deliberately crash the spent rocket stage to the Moon in order to trip the seismograph set up by the Apollo 12 crew as part of the lunar surface science instruments package. They want to capture this artificial moonquake in order to learn more about the interior of the Moon by studying how seismic energy passes through it.
+AS13-60-8585 - Apollo 13's spent S-IVB stage drifting away after separation. Color correction by David Woods. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+059:10:27 Haise: Wait a minute. Why do we need a mission timer right now, anyway? I mean, that bad, they'd tell us.
+059:10:32 Lovell: Well, I'd rather have a timer going so that we - what are we going to put in the DSKY? Should we shut down the mission timer?
+059:10:37 Haise: Is that what you want to do?
+059:10:38 Lovell: Yes. Hey, Omni.
+059:10:43 Haise: Great.
+059:10:47 Lovell: Switch them. Okay. Let's fire on the mission timer. [Pause.]
+059:10:59 Lousma: Aquarius, we need Forward Omni.
+059:11:05 Lovell: Forward Omni.
+059:11:07 Haise: Say again, Jack.
+059:11:09 Lovell: Forward Omni.
+059:11:11 Haise: I am. Okay, Houston. If that call was an Omni switch, I'm in Forward now.
+Lunar Module communications antenna locations.
+The LM has two omnidirectional S-Band antennas (as well as a steerable high gain dish S-Band antenna). They are located fore and aft. As their orientation in relation to Earth changes, they have to keep switching between the antennas, just like on the Command Module.
+059:11:28 Lovell: Okay, Freddo, how do I get the mission timer up? I got the mission timer cranked in.
+059:11:34 Haise: You got it on?
+059:11:35 Lovell: I got the mission timer circuit breaker in.
+059:11:38 Haise: Okay. We're going to probably need Numerics Lighting. There you go. You got it.
+059:11:47 Lousma: Aquarius, Houston. I think we've got a better way of getting your mission time up.
+059:11:56 Lovell: Go ahead with it.
+059:11:59 Lousma: Okay. We can do a Verb 55, Enter, and then put an R1, minus 00088. In R2, minus 00059; R3 minus 03274.
+Verb 55 (increment LGC time) gives Mission Control access to the computer's internal clock.
+059:12:28 Haise: Watch the crapping attitude.
+059:12:31 Lovell: We're okay.
+059:12:36 Haise: God damn. I wish you'd get to something I know.
+059:12:41 Lovell: Well, as soon as we get over here, we'll stop it with the TTCA.
+059:12:43 Haise: Okay.
+059:12:46 Lousma: And, Aquarius; Houston. We've got you both on VOX.
+Jack Lousma is gently reminding the crew that they have the ‘VOX’ mode selected on their radios. VOX stands for Voice Activated, and means that their microphones are set to transmit whenever they speak. Besides Glynn Lunney's earlier suggestion, it is likely prompted by their cussing on the radio.
+059:12:54 Haise: Like to go what?
+059:12:56 Lovell: You want us on VOX, Jack?
+059:12:58 Lousma: We have you on VOX. We're reading you loud and clear and the clock took good. [Long pause.]
+059:13:17 Haise: Okay. Looks like we're on the FDA route there, Jack. [Long pause.]
+059:13:39 Haise: Okay, Jack. How do you read me on Normal Voice now?
+059:13:42 Lousma: Reading you 5 square, Fred.
+5 by 5 is radio jargon for perfect reception. They've gone to the PTT or Push to Talk mode, where they have to press a button to open the communications line.
+059:13:46 Haise: Okay. [Long pause.]
+Astronauts knew that the air to ground feed was monitored and usually transmitted live to the public as well, hence the push to talk button was their way to maintain a semblance of privacy onboard the spacecraft. The tape recorder did include a function to record the onboard conversations, however, for further safekeeping. These private unaired discussions often contained colorful expletives that have later been uncovered to the delight of the space community.
+Sadly only limited number of onboard recordings survive from Apollo 13 and they are of the pre-accident period. Turning off the tape recorder was a necessity for saving precious battery power. On previous and upcoming Apollo flights, many intimate and rude conversations were captured ranging from the difficulties with space defecation to a more vocal enjoyment of zero G flight.
+059:14:12 Lousma: And, Aquarius, we're ready for a Verb 74 when you can give it to us. [Pause.]
+059:14:23 Haise: You got it.
+Verb 74 begins a dump to Earth of the contents of the computer's 2K-word erasable memory.
+059:14:25 Lousma: Okay. And one other thing we noticed. When you pressurized the RCS, we got an increase in pressure in the ascent tanks, and so we want to have you verify that the ascent feeds are closed. In order to do that, on panel 11, close the Ascent Feed 1 and 2 circuit breakers on - and cycle the Parker valves, and then open the Ascent Feed circuit breakers on panel 11. [Pause.]
+A crossfeed allows the RCS system to draw fuel and oxidizer from the Ascent Engine tanks, to save up on consumables in the dedicated RCS propellant tanks. It appears now that some pressure from the RCS system has backed up into the Ascent Engine's propellant system, which is not desirable at the moment. The crew gets instructions to close the circuit breakers to provide power to the electrically oprated valves, which they will then quickly open and close to alleviate the issue.
+The valves are called such because they were supplied by the Parker Corporation.
+059:15:08 Lovell: Completed, Houston.
+059:15:10 Lousma: Okay, Jim. Thank you.
+Long comm break.
+059:17:53 Haise: And, Jack, Aquarius. What kind of return time is this maneuver given?
+059:18:02 Lousma: That puts you back in the water at 133 hours.
+059:18:11 Haise: 133, hey.
+059:18:13 Lousma: Affirm. [Pause.]
+059:18:24 Lousma: And that's an Atlantic landing site.
+059:18:31 Haise: Atlantic landing?
+They’re mostly likely not too happy to hear about hurtling down to the Atlantic Ocean. It is not their designated landing area and hence the support system is more limited.
+059:18:36 Lousma: Affirmative. That's the PAD that we've given you, but we may change our mind later on. We want you to have this info for now. And that's a minimum...
+059:18:47 Haise: Okay.
+059:18:48 Lousma: ...minimun time return.
+Comm break.
+059:20:09 Lousma: Aquarius, Houston. We've got to change the REFSMMAT to the one to which you're aligned. So we'd like to have P00 and DATA and we'll ship that up to you.
+When they hurriedly aligned the LM's guidance platform, they did so based on the CSM's platform, which itself was aligned per the PTC REFSMMAT that was stored within the CM's computer that was in use at the time. Now that the CM has been powered down, the LM's computer, the LGC, does not contain the numbers relating to the PTC REFSMMAT. Mission Control can uplink the relevant data as soon as the crew allows it. It is needed if the crew are to realign the LM's platform. Unfortunately, again due to the hurried nature of the LM's activation, the breaker that sends power to the relevant electronics, the Digital Uplink Assembly (DUA) is open and must be closed.
+059:20:21 Lovell: Roger. [Pause.]
+059:20:30 Haise: Okay, you got it, Jack.
+059:20:34 Lousma: Roger. Coming up. [Long pause.]
+059:21:22 Lousma: Aquarius, could you give us DATA please? [Pause.]
+059:21:32 Lovell: Okay, Jack, you got it.
+059:21:33 Haise: ...the updata link, the DUA breaker may not be in, Jack.
+059:21:44 Lousma: Okay, Fred, and close the DUA breaker.
+059:21:51 Haise: It's in now, Jack.
+059:21:54 Lousma: Okay, Jim, and it's coming up now. Thank you.
+Very long comm break.
+059:28:03 Lousma: Aquarius, Houston. We're finished with the uplink. The computer is yours. We'd like to power down the DUA, so pull the DUA circuit breaker please.
+The downlink system uses only a small amount of power, but still they don’t want it to remain powered.
+059:28:14 Haise: Okay. Updata link breaker is coming Open.
+Very long comm break.
+Day 3, part 2: 'Houston, we've had a problem'
+Journal Home Page
+Day 3, part 4: Free Return

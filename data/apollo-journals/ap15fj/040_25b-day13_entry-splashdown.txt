@@ -1,0 +1,743 @@
+Apollo 15 Flight Journal - Day 13, part 2: Entry & Splashdown
+Day 13, part 1: Approaching Earth
+Journal Home Page
+Apollo 15
+Day 13, part 2: Entry & Splashdown
+Corrected Transcript and Commentary Copyright © 2000-2025 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2025-11-25
+Index to events
+Entry PAD
+293:55:20 GET
+Command Module thruster test
+294:10:58 GET
+VHF check
+294:26:49 GET
+CM/SM separation
+294:44:55 GET
+Entry Interface
+294:58:55 GET
+Program 67 (below orbital speed)
+295:01:11 GET
+Drogue chute deployment
+295:06:39 GET
+Main chute deployment
+295:07:38 GET
+First report of streaming chute
+295:09:54 GET
+Splashdown
+295:11:53 GET
+This section covers final hour of the Apollo 15 mission on 7 August 1971. Its crew of Dave Scott, Al Worden and Jim Irwin in Endeavour are rapidly accelerating as they freefall towards Earth. Their approach path is aimed to be pulled around the planet in such a way that, as it approaches Earth, the path will form an angle of 6.51° to the horizontal when it reaches an altitude of 400,000 feet (121.92km, 65.83 nautical miles).
+As they approach their plunge into the atmosphere at 11 kilometres per second, they must first jettison the Service Module. They will then monitor their re-entry, ready to take over if the computer fails to control their trajectory. It will be a busy hour.
+The first task in this chapter is for Jim to carry out his usual role as copy secretary for the final time. Robert Parker, the CapCom in Houston, is about the read up the final version of the entry PAD which gives the crew and the computer the details of their re-entry.
+293:55:09 Parker: Apollo 15, Houston. We have another entry PAD for you if you're ready to copy.
+293:55:16 Irwin: Okay. Go ahead, Bob.
+293:55:20 Parker: Roger, Jim. It's still mid-Pacific; 000, 153, 000; 294:41:54; 267; plus 26.13, minus 158.13; 06.2; 36096, 6.51; 1084.9, 36178; 294:58:54; 00:29; Noun 59s are NA; 4.00, 02:12; 00:18, 03:37, 07:44. Boresight and sextant stars are NA, since you've done them; lift vector is up. Comments, 1, use non-exit EMS pattern; 2, RET of 90K, 6 plus 06; mains, 8 plus 32; landing, 13 plus 29; constant g is roll right; moonset, 294:56:37. Over.
+Now that the corridor correction burn has been successfully performed, tracking stations have generated more accurate times and detail for the upcoming entry. The updated PAD is little different from the one at 290:35:02, but is more authoritative.
+The data passed up for the Entry PAD is interpreted as follows:
+Purpose: Entry.
+Landing target: The landing target is in the Mid-Pacific.
+IMU gimbal angles required for trim at 0.05g: Roll, 000°; pitch, 153°; yaw, 000°.
+Time of the horizon check: 294 hours, 41 minutes, 54 seconds.
+Spacecraft pitch at horizon check: 267°. This is 17 minutes before time of Entry Interface.
+Splashdown point: 26.13° north latitude, 158.13° west longitude.
+Maximum number of g's during entry: 6.2.
+Velocity at Entry Interface (400,000 feet altitude): 36,096 feet/second (11,002 meters/second).
+Entry flight path angle at Entry Interface: 6.51°.
+Range to go to splashdown point from 0.05g event: 1084.9 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Predicted inertial velocity at 0.05g event: 36,178 feet per second. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+Time of Entry Interface: 294 hours, 58 minutes, 54 seconds GET.
+Time from Entry Interface to the 0.05g event: 0:29 (seconds)
+Planned drag level (deceleration or g-force) during the constant g phase: 4.00g.
+Time from Entry Interface when velocity will have reduced sufficiently to allow a circular orbit around the Earth: 2:12.
+Time from Entry Interface that the communications blackout begins: 0:18.
+Time from Entry Interface that the communications blackout ends: 3:37.
+Time from Entry Interface that the drogue parachutes will deploy: 7:44.
+Lift vector at Entry Interface: Up.
+The additional comments included with the PAD begin with a note that the non-exit EMS pattern is to be used, that is, the entry is not expected to skip off the atmosphere and re-enter. This is followed by further predictions for the times os events:
+Time at 90,000 feet (27.4 km): 6:06 after Entry Interface. This is the time that the steam pressure meter is expected to come off the pag due to rising atmospheric pressure.
+Time of main parachute deployment: 8:32 after Entry Interface.
+Time of landing: 13:29 after Entry Interface.
+Additional notes tell the crew that when maneuvering to ensure a constant g force (done after the max-g portion of the entry to assure a constant deceleration), the crew is to roll right, and that they should expect to see the Moon set out of their windows at 294:56:37.
+293:57:29 Irwin: Okay. The readback on the entry PAD, Bob, it's mid-Pac; 000, 153, 000; 294:41:54; 267; plus 26.13, minus 158.13; 06.2; 36096, 6.51; 1084.9, 36178; 294:58:54; 00:29; 4.00, 02:12; 00:18, 03:37, 07:44; lift vector, up; use non-exit EMS pattern; RET for 90, 6 plus 06; mains at 8 plus 32; landing, 13 plus 29; constant g will be roll right; moonset, 294 plus 56 plus 37.
+293:58:28 Parker: Roger, Jim. Good readback. And I have some information on landing area and weather and recovery forces, if you're ready to copy that.
+293:58:40 Irwin: Roger. Go ahead.
+293:58:41 Parker: Roger. Conditions in the recovery area continue to be good. Two thousand scattered, high scattered, visibility 10 miles. Winds are 10 knots, out of the east, and wave heights have come down to 3 feet. Altimeter at 3006. The recovery forces: the aircraft carrier is Okinawa. We have 3 helos: Swim 2, Swim 1, and Recovery. And Swim 2 is estimating to be on station, after splashdown, within 5 minutes. The two '130s in the area will be Hawaii Rescue 1 and Hawaii Rescue 2. Over.
+Bob Parker is reading a standard aviation weather forecast to the crew, and the conditions have changed little over the last four hours. By all standards, the weather is ideal; the winds have reduced to 10 knots from 15 and have changed direction only slightly (to east from east-northeast), and the waves have lowered by a foot. The altimeter setting he refers to is the barometric pressure at the surface, in this case 30.06 inches of mercury (1018 millibars in modern aircraft parlance, 101.8 kPa). Aircraft altimeters are wonderfully simple devices in principle, which operate by comparing the difference between the outside air pressure against that of a sealed, expanding bellows. Altitude is determined by the amount the sealed bellows expands as it reacts to outside air pressure changes, and is displayed on a clock-like instrument.
+The "'130s" refer to Lockheed C-130 transports. The C-130 is arguably one of the most enduring aircraft of all time. In the decades since it first flew in 1954, it has served in many of the world's air forces, and several civilian versions are in production.
+293:59:32 Irwin: Okay. Understand the weather is generally good. It's 2,000 scattered; 10; 10 knots from the east; 3 foot waves; altimeter, 3006. The Okinawa's there. The helos are Swim 2, 1 and Recovery; C-130's are Hawaii Rescue 1 and 2.
+293:59:49 Parker: Roger, Jim. That's right. And noting on the altimeter, that means your Delta-H is minus 128.
+293:59:57 Irwin: Roger.
+Long comm break.
+Flight Plan page 3-408.
+This is Apollo Control at 294 hours, 3 minutes. We've sent up the final entry PAD now. Those numbers did not change very much from the preliminary PAD. Entry Interface at 294 hours, 58 minutes, 54 seconds. The aim point - or the landing point remains the same: 26 degrees, 8 minutes north; 158 degrees, 8 minutes west. Maximum G load, 6.2. Velocity at entry on the atmosphere, 36,096 feet per second. Range to go at [entry] time 1,084.9 nautical miles. And the elapsed time for events from Entry Interface; begin blackout, 18 seconds; in blackout, 3 minutes, 37 seconds; drogue chutes at 7 minutes, 44 seconds; main chutes, 8 minutes, 32 seconds; and landing, 13 minutes, 29 seconds.
+The crew are at the top of page 1-5 of the Entry Checklist, dealing with the final stowage of items in the cabin. One of the interesting lines in this list is for the crew to check for water in the tunnel area. This is one part of the CM's external skin which is not covered by the heatshield - the forward hatch being the only barrier between the cabin and space - the actual tunnel having been jettisoned with the Lunar Module in lunar orbit. This area may be cold from exposure to deep space (the Sun being off to the side during the PTC barbecue roll).
+After a check of the batteries that will power the detonation of the various pyrotechnic devices, the crew are ready to power up and arm the SECS, then pressurise the Command Module's RCS system.
+294:06:27 Worden: Houston, 15.
+294:06:30 Parker: Roger, 15. Go.
+294:06:32 Worden: Rog. We're getting ready to activate Command Module RCS and turning Logic and Arms on.
+294:06:41 Parker: And, 15, we're ready to watch that.
+294:06:44 Worden: Okay. Logic 1 coming on now. Logic 2 on - now.
+294:06:55 Parker: Roger. Your Go for Pyro Arm.
+294:06:58 Worden: Roger. Go for Pyro Arm. Okay.
+Comm break.
+294:08:03 Parker: 15 your CM RCS press[ure] looks good to us.
+294:08:08 Scott: Roger, Houston.
+The Command Module RCS system has been completely inert during the mission, and now must be pressurized to become operational. Pyrotechnic squibs fire, opening up valves from helium tanks to the CM fuel and oxidizer tanks. Two independent sets of thrusters, fuel, oxidizer and helium tanks comprise the RCS system. After the valves on the helium tanks are opened, regulators maintain a pressure between 1,000 and 1,400 kPa (150 and 205 psi) on the fuel and oxidizer tanks.
+Like the RCS systems on the Service Module and Lunar Module, the tanks are not pressurized by simply pumping high pressure gas into the tank. This might work on Earth, with the gas filling the upper half of the tank, while the liquid is expelled through a drain tube at the bottom. However, in a weightless environment, blobs of liquid simply float in the tank, often uncovering the outlet to the feed lines. Obviously, there is the need to assure that the fuel and oxidizer is expelled from the tank in a predictable manner.
+By isolating the pressurizing helium outside a Teflon bladder within the tank, and containing the propellant within the bladder, there are no floating blobs of propellant and gas. The bladder exerts pressure on the tanks contents, which is then forced through the feed lines to the individual thrusters.
+Comm break.
+This is Apollo Control at 294 hours, 8 minutes. Apollo 15 is 8,018 nautical miles [14,849 km] from Earth and velocity; 19,685 feet per second [6,000 m/s]. Endeavour is 50 minutes away from the Earth's atmosphere, 1 hour, 3½ minutes away from landing. Command Module/Service Module separation is still scheduled at 294 hours, 43 minutes.
+The crew moves on to page 2-1 of the Entry Checklist with the setting of the Digital Event Timer to count down to the time of Entry Interface (294:58:54 GET). The EMS is set up making it ready to be initialised by P61 and start operating once 0.05g is sensed by P63. At the bottom-left corner of the EMS panel is the RSI (Roll Stability Indicator), an uncalibrated dial which serves to graphically show the direction of the lift vector generated by the flying characteristics of the CM's shape. By rolling the spacecraft during entry, the direction of lift can be altered, giving a degree of steering to the control systems. The RSI is aligned at this stage. Note that at top and bottom of this dial are two lights which help Al verify that he is in the correct corridor. The upper or lower lights tell him whether there is a need for the lift vector to be up or down to regain the correct entry corridor.
+The final items on page 2-1 in the checklist are to test the CM RCS thrusters.
+294:10:58 Worden: Houston, 15. Testing Command Module thrusters.
+294:11:03 Parker: Roger. We're watching. [Long pause.]
+294:11:46 Worden: Okay, Houston; 15. Ring 1, test now.
+294:11:50 Parker: Roger. Ring 2 looks good. [Long pause.]
+294:12:37 Parker: And, 15, ring 1 looks good to us also.
+294:12:41 Scott: Roger, Houston.
+294:12:45 Worden: Houston, 15.
+294:12:46 Parker: Go.
+294:12:47 Worden: Can you see the solenoids operating down there? We can't hear them up here.
+294:12:57 Parker: Roger, 15. That's what we're watching. And we verified them all.
+294:13:01 Scott: Okay; thank you, sir.
+294:13:03 Parker: You're welcome.
+Journal reader, Brett Buck explains why they may not be able to hear the thrusters firing.
+Brett Buck: "I am almost certain that this phenomena is the result of the "priming" effect. The system had been evacuated to some degree before propellant loading, the propellant induced, and then the system had remained unpressurized and unfired until shortly before the test described above. The result is that there is residual trapped gas (very small amount) in the lines, and then no propellant between the two thruster valves in each side (fuel and oxidizer). A few minimum-impulse-bit firings are required to fill up the free space with propellant before the thrusters actually fire.
+"Typically, on the first few pulses sent to these thrusters, nothing happens in the way of thrust, and no reaction is seen in the gyros. After some amount of on-time (in the hundred milliseconds range), the valves and lines are "primed" and the thrusters begin providing thrust and associated rate change and vibration. I can confirm that the actuation of the valves without firing on the Apollo thrusters makes a bit of a sound all by itself (sounds like BBs being dropped into an empty coffee can, sort of a sharp metallic "tink" sound), but it's not really very loud, compared to the actual firing (which you can hear even in a vacuum chamber from vibration transmitted through the test stand)."
+Scott, from the 1971 Technical debrief: "We went through the CM RCS check, and when Al did the minimum impulse on the hand controller, none of us heard anything. We heard the propellant run through the lines as expected. As I had remembered on Apollo 9, we could hear very positive minimum impulses in the CM RCS. I was very surprised when Al ran around the [attitude control] stick, we didn't hear anything. We quizzed the ground, and they confirmed they could see the solenoids. Then I realized that they had second thoughts about it, and decided that they couldn't really verify that we had RCS. We were thinking along the same lines, too. 'We ought to do something else here before we go 'Separate' to confirm we've got CM RCS.' So, we had transferred SM, transferred back to CM RCS, and the ground suggested that we try 'Acceleration Command' - we were about to reach the same conclusion - to get some good rates. [To Worden] You put in an 'Accel Command' and checked both rings and got some good solid rates. We could see the flashes then. Then after that, particularly after we separated, we could hear the minimum impulse, and there was no question. We had good solid bursts on minimum impulse."
+Worden, from the 1971 Technical debrief: "That's right. I think we were all surprised at the noise level when we first checked those. It was quite different from what we heard in the simulator."
+Scott, from the 1971 Technical debrief: "Yes. The simulator is much too loud. Except after we got separated and you were pulsing around the entry attitude, then you could hear them."
+Worden, from the 1971 Technical debrief: "That's right."
+Scott, from the 1971 Technical debrief: "They were very positive and very sharp."
+Long comm break.
+This is Apollo Control. Congressman Bob Casey is in the viewing room now. His district includes the Manned Spacecraft Center.
+294:18:01 Parker: Apollo 15, Houston. Over.
+294:18:05 Worden: Houston, 15. Go ahead.
+294:18:07 Parker: Roger. We were unable to monitor rates down here because we weren't set up for it. And we'd like to suggest that you might go back and repeat that check again. We suggest Accel[eration] Command in SCS; and you might try to monitor rates on board, and we'll try to monitor them down here. What we're looking at is only the solenoids down here and I guess, if you really push, that isn't a verification.
+294:18:33 Worden: Okay. We'll do that. [Long pause.]
+294:19:07 Worden: Okay, Houston; 15. We're ready to test them now.
+294:19:13 Parker: All right. We're ready to watch. [Pause.]
+294:19:26 Worden: Okay. They're loud and clear up here.
+294:19:28 Parker: 15, we're monitoring good rates. [Long pause.]
+294:19:54 Parker: 15, Houston. You copy? We monitor good rates down here also.
+294:19:58 Worden: Okay, Houston. We copied, and we're testing ring 1 thrusters now.
+294:20:46 Parker: And, 15, ring 1 looks okay to us again.
+294:20:50 Scott: Okay, Houston. Thank you.
+Long comm break.
+Journal reader Brett Buck: "I believe the 'priming' explanation is perfectly consistent with the observations. They fired a few min bits, heard prop run through the lines, but no apparent firing. After a few tries, the thruster started firing audibly and visually."
+Distance: 5,933 nautical miles [10,988 km]. Velocity: 21,865 feet per second [6,664 m/s].
+The crew is beginning to work through the checklist at the top of page 2-2 for the separation of the SM and CM. Next, they go to P61 on the computer to prepare the spacecraft's instrumentation for entry. Data from the entry PAD is entered in: the latitude and longitude of the landing and whether they fly heads up or down; their expected velocity, entry angle at EI and predicted maximum g force; and finally, their velocity and range to go at 0.05g, as well as the time between EI and 0.05g.
+Once P61 has accepted the last of these, it moves the computer on to P62, which looks after the separation of the CM and SM as well as the maneuvering of the CM prior to re-entry.
+Mission Control take the opportunity to have the crew check that their VHF communications are working.
+294:25:05 Parker: Apollo 15, Houston. We can try a VHF check now, if you will. [No answer.]
+294:26:06 Parker: Apollo 15, Houston. Over. [No answer.]
+294:26:44 Parker: Apollo 15, Houston. Over.
+294:26:47 Scott: Go ahead, Houston.
+294:26:49 Parker: Roger. We're ready to try a VHF check if you will. We'd like you to go to VHF Antenna, Left, and all of you turn off your S-bands and turn on your VHF T/Rs [Transmit/Receivers].
+294:27:03 Irwin: Okay.
+294:27:05 Parker: 15...
+294:27:06 Irwin: Did that once... [Pause.]
+294:27:18 Irwin: Did that once, Bob. And I read you loud and clear, but apparently you were not reading us.
+294:27:23 Parker: That's apparently the case. And, Jim, I guess all we need is one of you to go to VHF T/R and S-band T/R, Off.
+294:27:32 Irwin: Okay, I'll do that. [Pause.]
+294:27:42 Irwin: Houston, this is Apollo 15 on Simplex A.
+294:27:45 Parker: Roger. 15 on Simplex A; read you 5 by.
+294:27:49 Irwin: Roger. I read you the same.
+294:27:51 Parker: Okay. And I guess that finishes it.
+Very long comm break.
+At 294:41:54, seventeen minutes prior to EI, Al is due to carry out the horizon check, a quick and simple test of the Guidance and Navigation System. If this system is doing its job right, then from his couch position on the left, Al should see the Earth's horizon through the windows aligned to an inscribed mark at 31.7°, ±5°.
+CM window markings.
+Dave Scott's debriefing later indicates that this check occurred after CM/SM Sep.
+Now, as part of the CM/SM Separation checklist at the bottom of page 2-3 of the Entry Checklist, the spacecraft is yawed 45° to the left (to 315°) so it is not perpendicular with the entry flight path. This orientation assures that, after separation, the two modules will not collide during entry. As the Command Module is equipped with only rotational thrusters (there is no need for translational manoeuvres during entry) the task of ensuring a sufficient separation distance is left to the SM. After the manoeuvre, the CM will be yawed back in line with their trajectory (to 0°).
+Jettisoning the Service Module is an intricate task, intended to safely sever the CM-SM interface and also to ensure the Service Module is moved away from the Command Module. As the Service Module is primary source of power, oxygen and cooling, inadvertently separating the two modules would have disastrous consequences for the crew (to say the least!). As with most other events that occur once and demand the highest reliability, a carefully timed series of pyrotechnic devices are used. Orchestrated by the SECS (Sequential Event Control System), the tasks of umbilical deadfacing, CM-SM separation, and SM evasive manoeuvring is performed in just a few seconds.
+Beginning the process, the CM pilot Al Worden earlier applied power to the logic circuits of the SECS and also armed the pyrotechnic system which connects the pyrotechnic batteries to their control circuits. After the arming sequence is completed, the actual separation is started by simply flipping the CM-SM Sep switch - it goes without saying that this switch is protected by a metal cover to ensure it doesn't get moved accidentally! The SECS takes over at this point, immediately starting the process of deadfacing the electrical, gaseous and fluid connections between the Command and Service Modules.
+The first step is to send a command to the Service Module Jettison Controller located in the Service Module. Once the command is received, the controller starts a timer that will trigger the RCS jets on the SM to move the discarded hardware away from the CM. Many of the systems onboard the SM are left active to perform the separation. The fuel cells in particular continue to operate, for if there were to be a delay in the separation, the CM would not be dependent on the limited capacity of its re-entry batteries. Electrical power is also needed onboard the Service Module after separation to power the jettison controller and the RCS solenoids (for moving the SM away), and to fire the pyros needed to sever the tie-down connections holding the CM and SM together.
+Simply cutting the electrical connections at this point is ill advised, as the cables are still carrying power and signals between the two modules. Severing these connections with the pyro-powered guillotine would surely result in the shorting and arcing which would likely damage the CM systems. To eliminate this possibility, all electrical connections from the SM terminate deep inside the CM as familiar cannon-style plug and socket connectors. As the separation sequence begins, a small pyrotechnic charge fires, moving a series of cams and levers to, quite literally, "unplug" the SM electrical connections from the CM. Reflecting the "one-shot" nature of this permanent disconnection, the plugs and sockets are then locked in place to prevent any possibility of recontacting each other.
+Once the electrical connections are deadfaced within the CM, the hinged cover protecting the cabling between the CM and SM pivots away so as not to interfere with the CM as it separates. Pyrotechnic charges fire again, propelling guillotine blades through the cable bundles and plumbing that run between the two modules. Now isolated from the Command Module, the Service Module event controller fires three sets of two pyros, each set which is attached to one of the three tension ties which hold the Command Module securely to the Service Module. The Command Module rests on six support pads, which distribute the weight of the CM across the heat shield. Three of these supports contain the tension ties which pass through the base of the heat shield and connect to the CM internal structure. Once the tension ties are severed, springs underneath each of the support pads push the two modules apart.
+The final event occurs moments after the separation sequence is initiated. Simultaneously, the minus-X thrusters fire, moving the Command and Service Modules apart, and the SM roll thrusters fire for 7.5 seconds to stabilize the SM as it moves away. The minus-X thrusters will continue firing until either the fuel depletes or the fuel cells give up.
+Early Apollo missions (Apollo 7 through 12) revealed an unexpected problem with this technique. At first glance, firing the translational thrusters to back the SM away, and using the roll thrusters to stabilize it would seen to be a perfectly adequate solution for this manoeuvre. Imagine the surprise then, when the crews of the earlier missions looked out the window and saw that the SM had somehow "boomeranged" around and was tumbling alongside the Command Module! After extensive analysis, engineers discovered that the residual fuel and oxidizer in the Service Module sump tanks acted as a sort of "spring", taking the energy imparted onto them from the RCS jets, and releasing it against the tank walls as it sloshed about.
+In a paper (Prediction of Apollo Service Module Motion after Jettison [J. Spacecraft and Rocket, June 1971]), a chart implies that any minus-X burn longer than about 200 seconds will result in the SM changing direction. Now, the direction reversal is not due simply to propellant sloshing. Because the SM's mass is not symmetrical over it's axis, any translational/rotational firing will start it tumbling. Since it is still tumbling while the minus-X thrusters are firing, eventually it orients itself to where the minus-X thrusters now have a posigrade (towards the CM) component. This, combined with the propellant slosh, was sufficient to cause the SM to reverse direction and head in the direction of the CM.
+Remember that the propellants are just floating "loose" in the tank, which of course, is the reason for ullage before most burns. Let's try a simple scenario, where the minus-X thrusters fire for a short time, say 1 second. When the minus-X thrusters fire, the fuel essentially "stands still", and the SM accelerates around it. Now, you have inside the tank, a mass with some velocity. Eventually, the fuel smacks into a tank upper dome, and imparts its kinetic energy to the SM structure.
+Remember that these are the RCS jets, not the SPS, and they are not capable of any serious acceleration. Longer minus-X burns will eventually force the propellants down to the top of the tank, but not as much as you might think. Ullage before burns was enough to settle some of the fuel, but not enough to "pin" it down at the bottom of the tank with any certainty. There is lots of propellant still in the lines to the engine, enough to get a good engine start, which in turn, would provide enough acceleration to ensure that the propellants were always at the bottom end of the tank.
+The problem with the SM jettison was twofold - First, the RCS jets created insufficient acceleration to eliminate the bouncing back and forth of the propellants. Second, The offset centre of mass of the SM, along with the roll burn, caused tumbling which worked against any effort to settle the propellants at the "bottom" of the tank.
+Distance, 4,727 nautical miles [8,754 km]. Velocity; 23,437 feet per second [7,144 m/s]. Flight Dynamics reports the latest update on tracking shows the Apollo 15 right in the middle of the corridor. Distance, now 3,211 nautical miles [5,947 km]. Velocity; 26,047 feet per second [7,939 m/s]. This is Apollo Control. We are about 2½ minutes away from Command Module/Service Module separation. Apollo 15 yawing now for that maneuver. Endeavour's in separation attitude now. We show separation. Recovery reports all forces on station ready to support.
+294:44:55 Parker: Apollo 15, Houston. Comm check. Over.
+294:45:00 Worden: Houston, 15. Loud and clear.
+294:45:02 Parker: Roger; same with you.
+294:45:06 Worden: And, Houston; 15. We got a good sep[aration].
+294:45:09 Parker: Roger. Looks good down here. Thank you.
+Comm break.
+Scott, from the 1971 Technical debrief: "We got the separation and that went very cleanly, another big bang. All the transfers were automatic. You maneuvered around to the entry attitude. We just waited for the time of the Entry Interface, followed procedures per the checklist, and everything ran very smoothly. The timing worked out. The earliest check I could get on the G&N was about 11 minutes prior to EI, and it was tracking the 29 seconds we had on the pad for the RRT [the time between EI and the 0.05g indication]. So, all the times agreed, and all the guidance systems looked like they were in good shape."
+Velocity now 30,280 feet per second [9,229 m/s].
+294:47:05 Scott: Okay, Houston. The horizon check was good, and the CMC guidance needles look good.
+294:47:14 Parker: 15, Houston. Say again.
+294:47:17 Scott: Roger. The horizon check was good and the CMC guidance needles look good.
+294:47:22 Parker: Roger; copy. Very good.
+Long comm break.
+Worden, from the 1971 Technical debrief: "We had a dark horizon. One of the things that I was curious about, one of the things I checked very carefully, was to see if there was a horizon out there; and there was, in fact, a horizon. It was very clear. We turned the lights in the spacecraft down a little bit to help. The horizon was very clear. When I first saw it, it was about 7 or 8 minutes out from Entry Interface. It was about 5° above the 31.5° line in the window. As we got closer to Entry Interface, it was obvious that it was progressing right down to the proper point at Entry Interface. It was very easy to track, and it was a good indication of attitude."
+294:50:17 Irwin (onboard): Okay, Tape Recorder's on High Bit Rate, Record, and Forward.
+294:50:25 Scott (onboard): Here, my friend, is a lunar rock.
+294:50:28 Worden (onboard): Yes. Floating around in the space of our spacecraft.
+294:50:33 Scott (onboard): Yes. Wonder [laughter] - The sequence of panels we go through is somewhat inane.
+294:50:41 Worden (onboard): Oh, it really is, isn't it? God!
+294:51:13 Worden (onboard): About 8 minutes.
+294:51:17 Scott (onboard): This is the most leisurely entry we've ever done.
+294:51:19 Irwin (onboard): Yes, I don't understand how - why we have so much time.
+294:51:21 Worden (onboard): Stand by. [Garble] fast.
+294:51:23 Scott (onboard): It'll go fast.
+294:51:25 Worden (onboard): That's because we started 4 hours earlier...
+294:51:27 SC (onboard): [Laughter.]
+294:51:28 Worden (onboard): ...than we normally do.
+294:51:29 Scott (onboard): [Laughter.] That's true. This is our normal reset burn, right here.
+Ten minutes from entry.
+294:51:40 Parker: Apollo 15, Houston. You're looking good, about a minute and a half till handover to ARIA.
+294:51:46 Scott: Roger.
+Comm break.
+As Apollo nears the Earth's surface, it will go out of range of MSFN (Manned Space Flight Network, whose modern form is the Deep Space Network or DSN). Therefore, flying in the vicinity of the recovery area is a KC-135 (Boeing 707 derivative) aircraft which is fitted out with equipment to provide the necessary link for continued communications with Houston.
+And ARIA is an Apollo Range Instrument Aircraft. We'll be handling communications through these aircraft.
+294:54:28 Parker: Apollo 15, Houston through ARIA 2. How do you read? [No answer.]
+Comm break.
+294:52:00 Scott (onboard): Separation really unloosened a bunch of stuff.
+294:52:04 Worden (onboard): Yes.
+294:52:05 Irwin (onboard): See my nut come flying by yet?
+294:52:07 Scott (onboard): No [laughter]. Nor your screw [laughter].
+294:52:11 Irwin (onboard): Listen, man, I've got my screw right here.
+294:52:59 Scott (onboard): Got your camera all ready, Jim?
+294:53:01 Irwin (onboard): Ready.
+294:53:02 Worden (onboard): Don't forget it.
+294:53:03 Irwin (onboard): I think I'll turn it on at - probably - Oh, look out the window, and you see iona - ionization.
+294:53:09 Scott (onboard): Yes.
+294:53:15 Irwin (onboard): Probably be just before blackout, I guess. Blackout at PT. Yes. Before zero phase.
+294:53:55 Worden (onboard): Looks like 5 minutes.
+294:53:56 Scott (onboard): Right on. Time is right on.
+294:53:58 Worden (onboard): Great.
+294:54:00 Scott (onboard): Can't argue with that.
+294:54:04 Worden (onboard): My dynamics - or trajectory's changing somewhere, because that light's coming from a different place now.
+We're at 3½ minutes away from Entry Interface. Communications through the ARIA will be noisy. We do not have a display up at the moment showing velocity or distance.
+294:54:52 SC (onboard): [Sneeze.]
+294:55:15 Worden (onboard): Oh, that's the Earth down there, baby.
+294:55:18 Irwin (onboard): Can you see it?
+294:55:19 Scott (onboard): Sure as hell can. Yes, siree, I hope to tell you.
+294:55:23 Irwin (onboard): Are we going backwards?
+294:55:25 Scott (onboard): It's big and real.
+294:55:26 Irwin (onboard): Yes. I can see it. Just barely see it out of my window.
+294:55:29 Worden (onboard): Yes, we're going backwards.
+294:55:30 Scott (onboard): Encouraging.
+294:55:35 Worden (onboard): Just check the needle on the peg here; 51 and a couple of minutes until we're down.
+294:55:40 Irwin (onboard): Is that pausing from minimum impulse?
+294:55:45 Scott (onboard): It sure is. Man, that's just bang, bang. That's really neat.
+294:55:51 Worden (onboard): I keep thinking that, if I hit the stick quick, that minimum impulse will be less [laughter]. Did you ever get that feeling?
+294:55:56 Scott (onboard): Yes.
+294:55:57 Worden (onboard): There's just a little bit you want to go...
+294:55:58 Scott (onboard): It's right then.
+294:55:59 Worden (onboard): ...and you try to get it and you can't quite get there. Yes.
+294:56:09 Worden (onboard): Oh, yes. Hey - Oh, man, are we moving, too! Son of a gun! Sheeoo!
+294:56:21 Scott (onboard): Yes, indeedy. You ought to be able to see it out the - out the hatch window.
+294:56:25 Worden (onboard): Oh my, I sure can. Sure a lot of mountains down there. How about that!
+294:56:36 Irwin (onboard): Shit, I think that's Alaska out there. That would be right, wouldn't it?
+294:56:47 Worden (onboard): Yes. Keep an eye out for the Moon.
+294:56:49 Scott (onboard): Yes, keep an eye out for the Moon.
+294:56:50 Worden (onboard): We've done it. Oh, we've missed it.
+294:56:53 Scott (onboard): 56:37. Oh, Al...
+294:56:54 Worden (onboard): We were too busy watching the Earth.
+294:56:55 Scott (onboard): ...why don't you pay attention to what you're doing there.
+294:56:57 Worden (onboard): Too busy watching the Earth.
+294:57:05 Scott (onboard): I'm not sure there's much you could do about it any - any - to correct it anyway.
+294:57:09 Worden (onboard): Not at this point. Here comes the needle off the peg. There it goes. Now let me get to 5. Yes, 55.
+294:57:17 Scott (onboard): Okay.
+294:57:33 Scott (onboard): Neat.
+294:57:34 Worden (onboard): Yes.
+294:57:35 Irwin (onboard): We just passed south of Alaska.
+294:57:37 Scott (onboard): Did we?
+294:57:38 Irwin (onboard): Yes.
+294:57:41 Scott (onboard): Little earlier than usual.
+Velocity, 35,710 feet per second [10,884 m/s]; range to splash, 1,725 nautical miles [3,195 km].
+294:57:41 Parker: Apollo 15, Houston, thru ARIA 2. You're - We're getting good data. You look Go.
+Long comm break.
+294:57:48 Worden (onboard): Houston, 15; go ahead.
+294:58:05 Scott (onboard): Okay, the needle's off the peg.
+294:58:12 Worden (onboard): About right.
+294:58:28 Irwin (onboard): What a view! Whew!
+294:58:37 Worden (onboard): Okay, we've got about 10 - 20 seconds to Entry Interface.
+294:58:41 Irwin (onboard): More than that. Oh, EI, yes. [Garble] I don't think I'm going to like it.
+294:58:55 Irwin (onboard): There's RRT.
+294:58:57 Scott (onboard): Okay.
+Velocity, 35,910 feet per second [10,945 m/s]; range to go, 1,507 nautical miles [2,791 km]. 35 seconds to entry. 36,053 feet per second [10,989 m/s]; range, 1,307 nautical miles [2,421 km]. Should be at Entry Interface.
+In the spacecraft, they mark the time of Entry Interface within a second at 294:58:55.
+We're in blackout now and no data.
+Jim has mounted a 16-mm Maurer movie camera in window 4, the right-hand rendezvous window to capture the view looking back into their ionisation trail. The camera is mounted off to the side and views the scene via a 45° mirror. Thus the image is reversed and this has been rectified in the following presentation. The film clearly shows the light display but also shows how the spacecraft steers itself by rolling around, making Earth's horizon rotate.
+H.264 MP4 video file.
+294:59:06 Irwin (onboard): Getting the ionization?
+294:59:08 Scott (onboard): Yes, man.
+294:59:09 Worden (onboard): Put your...
+294:59:10 Scott (onboard): Yes, look at it. Good.
+294:59:11 Worden (onboard): Yes.
+294:59:13 Scott (onboard): Ionization?
+294:59:14 Irwin (onboard): Everything looks good.
+294:59:15 Scott (onboard): Boy, I guess.
+294:59:16 Worden (onboard): .01, .02, 4...
+294:59:25 Worden (onboard): .05g light.
+On the EMS display, the 0.05g light comes on at 294:59:25 - within a second or two of when Mission Control predicted.
+During entry, the crew's attention is focused primarily on three displays: The FDAI (Flight Director Attitude Indicator, or more commonly known as the "8-ball"), the DSKY, where entry data such as range-to-go, deceleration and velocity are displayed, and the Entry Monitor System (EMS).
+Diagram of the Entry Monitor System (EMS) panel.
+The EMS is not a single display, rather, it is a specialized guidance and display system to present critical entry parameters to the crew. Surprisingly, the EMS does not generate guidance or trajectory information for the spacecraft computer, nor can it actively control the spacecraft during entry. Its function is only to display the most relevant data to the crew as they plunge through the atmosphere. Three displays on the EMS provide the situational data necessary to evaluate the progress of the entry: A scrolling display showing velocity vs. deceleration, the RSI (Roll Stability Indicator), and a digital velocity indicator.
+Most attention is focused on the velocity vs. deceleration display, a 9-cm window behind which is a scrolling Mylar tape marked with the acceptable velocity and G-force boundaries. The tape moves from right to left, and an illuminated index, or "bug", traces the current velocity-acceleration profile onto it. Of course, keeping the Command Module within the narrow entry corridor requires manoeuvrability within the atmosphere. A modest amount of lift is generated by the Command Module which can be vectored in any direction by rolling the spacecraft. The RSI shows the desired lift vector (up or down) by two lights, and a pointer that displays the current lift vector, which is used to confirm it is within the entry corridor. Finally, a digital velocity meter provides an additional source of velocity data to the crew.
+Prior to entry, the CM is in a heads-down/lift vector up attitude with the heat shield forward. Program 63 (Entry Initialization) begins executing on the computer. P63 determines and displays entry parameters such as range-to-splashdown, maximum expected G-force, and bank angle. It holds the CM in the correct attitude and senses the point that a deceleration of 0.05g has been reached. Once the program is running, there is little to do but wait for the 0.05g light on the EMS to illuminate, indicating that the first tenuous layers of the atmosphere are exerting their decelerating force on the spacecraft. At this point, P63 automatically runs Program 64 (Post 0.05g) This is an important milestone, reached about 29 seconds after the Command Module passes the Entry Interface, and marks where The EMS scroll begins to run. There is no fixed altitude at which this occurs as it depends completely on spacecraft shape, velocity, and the local atmospheric conditions. Once this boundary is reached, the hard work of entry begins.
+Program 63, which had been monitoring the entry up to this point, terminates and Program 64 (Entry - Post 0.05G) is started. The DSKY displays the bank (roll) angle commanded by the guidance computer, velocity and acceleration. It is no coincidence that these values are duplicated on the EMS; both systems operate independently, and if one fails, the other can be used to complete the return to Earth. The scroll on the EMS window begins to move to the left in proportion to velocity, registering velocity on a scale at the bottom of the Mylar tape. The scroll "bug" moves downward as g forces build up on the spacecraft, and leaves a tracing on an emulsion on the back of the tape, giving essential information on the progress of the entry. The boundary lines pre-printed on the scroll tape describe the limits of velocity and G-load (deceleration) that ensure the CM is within the entry corridor. If the spacecraft is descending too steeply with respect to the corridor, its progress will become apparent on the scroll. At the same time, the roll stability indicator will flash a light (the corridor control light) indicating that upwards lift is necessary to shallow out the entry trajectory.
+In the movie 'Apollo 13', the character that portrays Jack Swigert (played by Kevin Bacon) is shown in the simulator performing an entry exercise. The simulator supervisor introduces an anomaly, a "corridor light", which he misinterprets and flunks the simulation.
+Diagram describing the limits of velocity and G-load.
+The error the character made was not to cross-check the "malfunctioning" Roll Stability Indicator against the DSKY display and the entry scroll display. Of course, in reality Jack Swigert handled the procedure expertly.
+294:59:26 Scott (onboard): Okay, Go. EMS scroll...
+294:59:28 Irwin (onboard): .05g switch...
+294:59:29 Scott (onboard): EMS good.
+294:59:32 Irwin (onboard): .05g switch, on; EMS Roll, on.
+294:59:34 Scott (onboard): They're both on.
+294:59:35 Irwin (onboard): Okay.
+294:59:36 Scott (onboard): Okay. Okay, .39.
+294:59:42 Worden (onboard): Okay.
+294:59:43 Scott (onboard): .5, .1.
+294:59:44 Irwin (onboard): .6.
+294:59:46 Scott (onboard): .8, 1, 1.3, 2g's, 2g's...
+294:59:53 Worden (onboard): Accelerometer and the DSKY.
+294:59:56 Scott (onboard): Okay.
+294:59:57 Worden (onboard): Scroll look good?
+294:59:58 Scott/Worden (onboard): 3g's.
+In the CM, the crew reach 3g at 294:59:58, which rises to 6g within 10 seconds.
+Slowing the spacecraft to the point where it can no longer escape the Earth's gravity, about 8,200 m/s (27,000 fps), is the primary domain of Program 64. After an initial 6-g deceleration, P64 concentrates on slowing the spacecraft to below escape velocity by maintaining a constant 4-g's. Once the CM has slowed to below orbital velocity, the computer switches to Program 67 (Entry Final Phase) to manage steering and targeting for the final part of the entry. Now, instead of maintaining a constant g level, the deceleration rate will be changed to correct for any undershoot or overshoot to the target. If the entry needs to be "stretched", the computer will calculate a lower rate of deceleration. At a lower rate of deceleration, the Command Module will travel further downrange.
+295:00:01 Scott (onboard): Three and a half.
+295:00:03 Worden (onboard): 4.
+295:00:04 Scott (onboard): There's 4.
+295:00:05 Worden (onboard): 5.
+295:00:07 Scott (onboard): There's 5, 6...
+295:00:13 Worden (onboard): Scroll looks good.
+295:00:14 Scott (onboard): There's 6, 6, 6 there, 6.2. Don't see anything on master alarm.
+295:00:22 Worden (onboard): Want the master alarm?
+295:00:24 Scott (onboard): Nothing.
+295:00:25 Worden (onboard): Huh?
+295:00:26 Scott (onboard): Nothing.
+295:00:27 Worden (onboard): Okay.
+295:00:28 Scott (onboard): 5.6. We roll 180. 5, 4.7...
+295:00:37 Worden (onboard): Looking good.
+295:00:38 Scott (onboard): 180 roll, 4, 4.4, 4.2, 4.1. Rolling to 150, 117, 092...
+295:00:52 Worden (onboard): Okay, looking good.
+295:00:54 Scott (onboard): Plus 69, plus 51.
+295:00:57 Worden (onboard): Looking good.
+295:00:58 Scott (onboard): Plus 49.
+295:00:59 Worden (onboard): Okay.
+295:01:00 Scott (onboard): 4g's, you're right on.
+295:01:02 Worden (onboard): 4g's.
+295:01:03 Scott (onboard): Eighty-five, plus 101. Holding 4g's. Lift vector, up.
+295:01:10 Worden (onboard): Going up.
+295:01:11 Scott (onboard): We're in P67.
+295:01:12 Worden (onboard): Good.
+Program 67 remains in control of targeting until the CM reaches about 300 m/s (1,000 fps), which occurs nominally at about 20,000 metres (65,000 feet) altitude.
+Scott, from the 1971 Technical debrief: "The re-entry went as planned. The g levels agreed all the way into 6 g's and back out. The G&N was given control after we had a good g time. I compared the G&N and the EMS range to go and they looked close all the way, within about 20 miles. [To Worden.] You were watching the scribe and it looked very smooth and nominal all the way in."
+Worden, from the 1971 Technical debrief: "Because of the AC problem we had in the circuit breaker, we didn't have any backlighting in the EMS. There was some concern that we might not be able to see the scribe; but, it was very clear the whole time through entry. One other comment about the EMS was that you called 0.05g and just as you called it, the .05g light came on the EMS. It was very clear. There was no problem seeing it as soon as it came on."
+Scott, from the 1971 Technical debrief: "All automatic."
+295:01:18 Scott (onboard): Okay. Minus 51.
+295:01:21 Worden (onboard): Okay.
+295:01:23 Scott (onboard): And at 4g's. Minus 110.
+295:01:31 Worden (onboard): Okay, we're going in.
+295:01:34 Scott (onboard): Minus 116.
+295:01:35 Worden (onboard): Okay, 450 miles and that's...
+295:01:36 Scott (onboard): Okay.
+295:01:37 Worden (onboard): ...right where we are on the scroll.
+295:01:49 Scott (onboard): Okay, at 399, we're...
+295:01:51 Worden (onboard): Okay, we're off the [garble].
+295:01:52 Scott (onboard): ...almost 3g's. Boy, EMS has missed here within about 5 miles.
+295:01:55 Worden (onboard): Yes, we're looking good.
+295:01:58 Scott (onboard): Seventy-one, minus 70.
+295:02:02 Comm tech: 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2.
+295:02:00 Worden (onboard): EMS is...
+295:02:04 Scott (onboard): Minus 70.
+295:02:19 Worden (onboard): Pretty good.
+295:02:20 Scott (onboard): Yes.
+295:02:23 Worden (onboard): Minus 70...
+295:02:24 Scott (onboard): 0kay, there's 3g's.
+295:02:26 Worden (onboard): And the scroll shows us right on the range to go.
+295:02:30 Scott (onboard): Okay.
+295:02:34 Worden (onboard): Couldn't be better.
+Should be coming out of blackout now.
+295:02:38 Comm tech: 1, 2, 1, 2, 1, 2, 1, 2.
+295:02:43 Parker: Apollo 15, Houston. How do you read? [Garbled.
+295:02:45 Scott (onboard): Houston, Apollo 15. We're in P67. The EMS and the G&N agree within 15 miles, and everybody's in good shape.
+295:02:51 Scott (onboard): Okay, plus 52.
+295:02:52 Worden (onboard): Roger. That's where we are. Still pulling 3g's.
+295:03:01 Scott (onboard): Okay, stand by.
+295:03:04 Worden (onboard): And we're coming right straight down that scroll. Beautiful.
+295:03:11 Parker: [Has not heard Scott's transmission clearly.] Apollo 15, Houston. How do you read?
+295:03:13 Scott: Good. Houston, 15. EMS and G&N agree within about 10 miles, and everybody's in fine shape.
+295:03:22 Parker: Very good, Dave. Good to hear you again.
+Comm break.
+295:03:28 Worden (onboard): There they are.
+295:03:30 Scott (onboard): Okay, 32 degrees [garble].
+295:03:40 Worden (onboard): Okay, 98, Noun 18; boy, that's slick.
+295:03:43 Scott (onboard): 10,000 feet per second.
+295:03:50 Worden (onboard): My eyes were cocked; 100 miles to go. I'm about 4 miles off; so - Looks like even the scroll's working great.
+295:03:59 Scott (onboard): Yes. Great. Hey, now I know why you got to check the tunnel for water.
+295:04:07 Irwin (onboard): Yes, boy, I guess. Did you get wet?
+295:04:09 Scott (onboard): Yes, man. [Garble].
+295:04:13 Irwin (onboard): Yes, it really comes barreling out of there, doesn't it? (Laughter)
+295:04:19 Scott (onboard): Okay. [Garble]...
+295:04:20 Worden (onboard): Sixty miles to go. Okay, up.
+295:04:24 Scott (onboard): [Garble]? 33 and 46. Boy, they really agree. 6,000 [garble]...
+295:04:37 Worden (onboard): Getting our cross range right now.
+Recovery ship has radar contact showing range about 100 miles.
+295:04:44 Scott: Houston, 15; in the blind [i.e. he is getting no response]. EMS and G&N agree within about 10 miles.
+295:04:53 Parker: Roger, 15; this is Houston. Read you loud and clear, and copy. [Long pause.]
+295:04:52 Worden (onboard): Gee, what makes you feel - sound so hollow?
+295:04:55 Irwin (onboard): Sounds like ... is about to make a low pass on us.
+295:04:58 Worden (onboard): Yes.
+295:04:59 Scott (onboard): We're coming up to 38. Watch your steam pressure, Jim.
+295:05:01 Irwin (onboard): Standing by.
+295:05:17 Worden (onboard): It's 3,000.
+295:05:18 Scott (onboard): No steam pressure yet?
+295:05:19 Irwin (onboard): It's going up now.
+295:05:20 Scott (onboard): Okay.
+295:05:21 Irwin (onboard): Okay, steam pressure's pegged.
+295:05:24 Worden (onboard): Okay, we should get - 50K in about another 600 feet. Got 9 miles to go on EMS.
+295:05:34 Scott (onboard): Okay. Should be getting a Noun 67 here directly.
+295:05:47 Scott: Okay, Houston; 15 in the blind. Latitude, plus 26.12; longitude, minus 158.17.
+295:05:54 Worden (onboard): Okay, we're off the peg.
+295:05:55 Scott: And about a 2.2 off the peg.
+295:05:56 Irwin (onboard): Okay, Cabin Pressure to Boost/Entry.
+295:05:59 Parker: Roger, Dave; we copy. Very good. [Long pause.]
+295:06:00 Worden (onboard): Boost/Entry.
+The Cabin Pressure Relief valve is set to its Boost/Entry position so that when the outside pressure rises above the cabin pressure, outside air will be admitted.
+295:06:01 Irwin (onboard): Sequence Pyro, two, to Arm.
+295:06:04 Worden (onboard): Pyro to Arm.
+The final pyrotechnic charges, for deploying the apex cover and the chutes, are armed.
+295:06:07 Irwin (onboard): Standing by for 30.
+295:06:09 Scott/Worden (onboard): Okay.
+295:06:11 Worden (onboard): We're out of 40.
+295:06:17 Scott (onboard): Okay, Houston; 15. Out of 40K [40,000 feet, 12,200 metres] and we're showing about a .7, .2, this business now. Everybody's in good shape. [Long pause.]
+295:06:27 Irwin (onboard): How's the altitude, Al?
+295:06:29 Worden (onboard): Coming up on 30.
+295:06:30 Scott (onboard): Okay...
+295:06:31 Worden (onboard): Okay, 30K.
+The time is coming up for the ELS (Earth Landing System) to come into play. The SECS (Sequential Events Control System) orchestrates all the events using timers and barometric switches. The system is highly redundant because, like so many systems aboard a spacecraft, the crew's lives depend on it.
+295:06:32 Irwin (onboard): Okay, ELS Logic, on.
+295:06:33 Worden (onboard): ELS Logic, on.
+295:06:35 Irwin (onboard): ELS, Auto.
+295:06:36 Worden (onboard): Auto, on.
+295:06:38 Scott (onboard): Okay. Stand by for...
+At 7,300 metres (24,000 feet) the RCS is disabled and the forward heatshield jettisoned.
+Diagram of the forward heatshield.
+Also known as the apex cover, this part of the heatshield wraps around the CM forward compartment where the parachutes and their mortars are mounted. Once jettisoned, a small parachute attached to it slows it down to take it away from the descending Command Module. 1.5 seconds later, two drogue parachutes are deployed to stabilise the CM's attitude and slow it from 500 km/h to 280 km/h.
+Scott, from the 1971 Technical debrief: "I gave a call right after blackout. We ended blackout at 3:37 [minutes after Entry Interface] and I called about 3:45 or so [calling out] with our delta [difference] between the EMS and G&N and everything was in good shape. I got no response. I probably made four calls on the way down. I gave the Noun 67 values [which give the range to the splashdown target, the latitude and longitude] when they first came up, and then later on I called them. We heard the Recovery forces radio, but I don't think we ever had two-way radio contact with anybody until we got in the water. I think they heard us in MCC, but we couldn't hear them. We could hear the Recovery forces and apparently they couldn't hear us."
+Worden, from the 1971 Technical debrief: "That was my impression too. I don't recall any conversation with anyone. There was a terrific amount of radio chatter going on. I don't recall having two-way radio communications with anyone."
+295:06:39 Irwin (onboard): Standing by for drogues at 24. There go the - there goes the apex. There are the drogues.
+295:06:50 Worden (onboard): Good drogue.
+Should be on the drogue chute now.
+The spacecraft is entering the region of the atmosphere where the outside air pressure rises above that of the cabin, so the cabin pressure is being allowed to rise also, via the Cabin Pressure Relief valve.
+295:06:52 Irwin (onboard): Okay, cabin pressure's increasing.
+295:06:55 Worden (onboard): All right.
+295:06:58 Irwin (onboard): Standing by for mains - at 10.
+295:07:01 Recovery (probably the Photo helicopter): This is [garble, probably Photo]. [I] have visual contact. Bearing 120 from the ship, sir.
+295:07:02 Worden (onboard): Okay, we're out of 18.
+295:07:11 Okinawa: Contact. [Long pause.]
+295:07:15 Scott (onboard): Give us a call when you get to 10.
+295:07:17 Worden (onboard): Well, coming out of 14, 13, out of 12, 11,000.
+295:07:29 Photo: Photo, I lost contact. [Long pause.]
+295:07:34 Irwin (onboard): Okay.
+295:07:37 SC (onboard): [Sigh.]
+At 295:07:35, pilot chutes are deployed which in turn pull the three large main parachutes out. These slow the CM to its final velocity and suspend the Command Module at an angle of 27.5° to the horizontal. This will cause the hull to hit the water "toe first", entering in such a way as to spread the final deceleration over the longest possible time.
+295:07:38 Irwin (onboard): Okay, the mains are up there.
+295:07:40 Worden (onboard): And the mains are out, three.
+295:07:42 Scott (onboard): Okay...
+295:07:43 Worden (onboard): Okay.
+295:07:44 Scott (onboard): ...Apollo 15 has good mains.
+295:07:45 Worden (onboard): The mains are opening.
+And he should be on the mains now.
+295:07:46 Irwin (onboard): Surge Tank O2, off, Al.
+295:07:48 Worden (onboard): Surge Tank O2 coming off.
+295:07:51 Irwin (onboard): Repress Package, Off.
+295:07:53 Scott (onboard): Let's go, Al.
+295:07:54 Worden (onboard): Repress, Off.
+295:07:54 Photo: This is Photo, I have visual contact again. I have 140 from the ship, one half mile. Bearing is 130 to - Three main chutes. I have visual contact [on] three main chutes.
+295:07:57 Irwin (onboard): Direct O2, Open.
+295:07:58 Worden (onboard): Direct O2, Open.
+295:08:08 Worden (onboard): ...8,000.
+295:08:10 Okinawa: Okinawa, Roger.
+295:08:10 Irwin (onboard): ...Pressure Relief, two, Closed.
+295:08:11 Worden (onboard): Closed.
+295:08:13 Irwin (onboard): CM RCS Logic, on, up.
+295:08:14 Scott: [Garble], Apollo 15. We're showing about a minus .6...
+295:08:16 Worden (onboard): RCS Logic, on.
+295:08:17 Scott:...on the miss distance, and...
+295:08:18 Irwin (onboard): CM Propellant to Dump.
+295:08:19 Scott: ...everybody's in good shape.
+The propellant tanks for the RCS thrusters still contain a fair quantity of the highly noxious fuel and oxidiser, hydrazine and nitrogen tetroxide. Indeed, one complete set of thrusters - the backup RCS ring - has full tanks. This is very hazardous material to have on board after splashdown so the excess propellant is dumped by firing all the thrusters to depletion as the CM sails down on its three main parachutes.
+Events about to occur will bring a lot of scrutiny to the propellant dump as all is not well with one of Endeavour's parachutes.
+295:08:22 Parker: Roger, 15. We got a visual on you on the screen in here.
+295:08:29 Okinawa: Okinawa, Recovery has a recovery beacon contact. Bearing 175 magnetic. [We are] on station.
+295:08:35 Okinawa: Okinawa here.
+295:08:38 Swim 2: Okinawa, this is Swim 2. I have a visual contact. The bearing is 010, at approximately one mile. My position, 134; Okinawa 8.5 miles. Altitude is about 6,000 feet [1,830 metres] for the Command Module.
+295:08:53 Okinawa: Okinawa, Roger. Out. [Pause.]
+295:08:59 Swim 1: Okinawa, this is Swim 1. I have recovery beacon, 115 degrees magnetic, at 270, 12 miles, at time 47. Over.
+295:09:12 Okinawa: Okinawa, Roger. Out. [Pause.]
+295:09:16 Worden (onboard): Pick out the place.
+295:09:19 Scott (onboard): Okay?
+295:09:20 Worden (onboard): Okay...
+295:09:22 Photo: This is Photo. I have - some - something's falling besides the Command Module, I could not tell - tell what it was, though.
+This is probably the forward heatshield.
+295:09:31 Irwin (onboard): Strut locks, four, unlocked.
+295:09:34 Recovery: Apollo 15, Apollo 15, this is Recovery. Over.
+295:09:39 Scott: Recovery, Apollo 15. Everybody's in good shape, and we're looking at about 3,500 feet.
+295:09:44 Recovery: This is Recovery, I have a visual of 165 from me, about 8 miles.
+295:09:47 Irwin (onboard): Ten seconds to release.
+With the RCS propellant gone, the RCS plumbing is purged with helium to clear the final traces from the spacecraft.
+295:09:51 Scott (onboard): Go ahead, Jim.
+295:09:52 Irwin (onboard): Stand by for purge dump.
+295:09:54 Photo: This is Photo. It appears that one of your main chutes is streaming. I can only see two main chutes, and one appears to be streaming.
+295:10:02 Okinawa: Yes. - two chutes concurred.
+295:10:05 Photo: They have one streaming chute.
+295:10:06 Irwin (onboard): Do we have three, Al?
+295:10:07 Worden (onboard): We got two.
+295:10:08 Scott (onboard): No, we're at 3000...
+295:10:09 Irwin (onboard): Stand by for [garble]...
+The Command Module passes 1,000 metres (3,000 feet).
+295:10:12 Photo 1: Okinawa this Photo 1. The extra fuel has been jettisoned and burned off.
+295:10:12 Irwin (onboard): ...[garble]
+295:10:13 Worden (onboard): Okay.
+295:10:17 Scott (onboard): Cinch up, gang.
+295:10:18 Worden (onboard): Cinch up, gang.
+295:10:20 Recovery: Apollo 15, Apollo 15, this is Recovery. Over. [Long pause.]
+Worden, from the 1971 Technical debrief: "The main chutes came out at 10,000 [feet, about 3,050 meters]; the drogue chutes released just a few seconds before that. The main chutes came out at 10,000 and at about 8,000 [feet, about 2,500 meters] we got the cabin configured and started the fuel dump."
+Scott, from the 1971 Technical debrief: "[To Worden.] When you say the mains come out, you saw three chutes. Is that right?"
+Worden, from the 1971 Technical debrief: "That's right. I saw the three chutes, come out, reef, then disreefed, and I had three full chutes in view. When we started the fuel dump, my view of the main chutes was obscured by a cloud of fuel that was going by the window."
+Scott, from the 1971 Technical debrief: "A big red cloud."
+Worden, from the 1971 Technical debrief: "A big red cloud going by the window. When we finished the fuel dump and the view cleared, I could see that one of the chutes as not fully inflated anymore."
+Scott, from the 1971 Technical debrief: "I think that was about the time we got the call from Recovery that we had a streamer."
+Worden, from the 1971 Technical debrief: "That was just about the same time."
+The Cabin Pressure Relief valve is set to Dump, allowing full equalisation between the outside and inside air pressures. They pass 600 metres (2,000 feet) at 295:10:43.
+295:10:23 Scott (onboard): Got your VHF beacon on?
+295:10:24 Worden (onboard): 3,000...
+295:10:25 Irwin (onboard): Yes, it's...
+295:10:26 Worden (onboard): ...Jim.
+295:10:27 Scott (onboard): 3,000, Jim.
+295:10:28 Irwin (onboard): Okay, CM RCS Propellant, two, Off.
+295:10:29 Worden (onboard): Off.
+295:10:30 Scott (onboard): Okay.
+295:10:31 Worden (onboard): Two, off.
+295:10:32 Irwin (onboard): Cabin Pressure Relief Valve to Dump.
+295:10:34 Worden (onboard): All right, coming to Dump.
+295:10:36 Irwin (onboard): Floods to Postlanding.
+295:10:43 Worden (onboard): Coming up on 2,000.
+295:10:45 Scott (onboard): How many chutes we got, Al?
+295:10:46 Worden (onboard): We got two.
+295:10:47 Irwin (onboard): Two.
+295:10:48 Worden (onboard): We got a streamer on one.
+295:10:49 Irwin (onboard): Floods to Postlanding.
+295:10:51 Worden (onboard): Floods to Postlanding.
+295:10:52 Irwin (onboard): Stand by for 800.
+295:10:55 Photo: This is Photo. Lost contact due to cloud cover.
+295:10:58 Recovery: Apollo 15, Apollo 15, this is Recovery. Over.
+295:11:03 Scott: Rog, Recovery; 15. You're five square. Everybody's in good shape.
+295:11:04 Worden (onboard): Okay, we're out at 1,500, Jim.
+295:11:05 Irwin (onboard): Okay.
+295:11:06 Recovery: Roger, Apollo 15. If you hear, all units have you in sight, and we are inbound now.
+295:11:12 Scott: Roger. [Pause.]
+295:11:11 Scott (onboard): Roger.
+295:11:13 Worden (onboard): 1,000 feet, Jim.
+295:11:14 Irwin (onboard): Okay...
+295:11:15 Scott (onboard): [Garble] dump.
+295:11:16 Irwin (onboard): Cabin Pressure Relief to Close.
+As Endeavour passes 300 metres (1,000 feet), the Cabin Pressure Relief valve is closed to prevent the ingress of water after landing. When the spacecraft hits the water, it is temporarily submerged and, if they are unlucky, is likely to be pointing apex down for a time.
+295:11:18 Worden (onboard): Closed.
+295:11:18 Okinawa: Apollo 15, this is Okinawa. Request your splashdown read-out. Over.
+295:11:21 Irwin (onboard): Okay, you ready for Main Bus ties to come Off.
+295:11:24 Worden: Main Bus ties coming off.
+295:11:25 Scott: Roger. Plus 26.13 minus 158.12.
+295:11:26 Worden (onboard): Ready for Bus Ties.
+295:11:30 Worden (onboard): Okay.
+295:11:28 Recovery: This is Recovery. I have a visual [garble] dead ahead.
+295:11:36 Okinawa: Apollo 15, this is Okinawa. You have a streamed chute. Stand by for a hard impact. Okinawa, over.
+The state of the three chutes is well shown in S71-41999, an excellent photograph of the returning spacecraft.
+S71-41999 - Apollo 15's Command Module just before splashdown, with one damaged parachute - Image by NASA/Johnson Space Center.
+From the Apollo 15 Mission Report: "One of the three main parachutes was deflated to approximately one fifth of its full diameter at about 6,000 feet [about 1,800 meters] altitude. The Command Module descended in this configuration to landing. All three parachutes were disconnected and one good main parachute was recovered. Photographs of the descending spacecraft indicate that two or three of the six riser legs on the failed parachute were missing.
+Three areas that were considered as possible causes are:
+The forward heat shield, which was in close proximity to the spacecraft flight path.
+A broken riser/suspension line connector link which was found on the recovered parachute.
+The Command Module Reaction Control System propellant firing and fuel dump.
+Onboard and photographic data indicate that the forward heat shield - was about 720 feet (220 metres) below the spacecraft at the time of the failure. The failed link on the recovered parachute implies the possibility of a similar occurrence on the failed parachute. Based on parachute tow tests, however, more than one link would have had to fail to duplicate the flight problem. The two possible causes have been identified as hydrogen embrittlement or stress corrosion."
+Mission Report (continued): "The Command Module Reaction Control System depletion firing was considered as a possible candidate because of the known susceptibility of the parachute material (nylon) to damage from the oxidizer. Also because the oxidizer depletion occurred about 3 seconds prior to the anomaly, and fuel was being expelled at the time the anomaly occurred. Further, the orientation of the main parachutes over the command module placed the failed parachute in close proximity to the Reaction Control System roll engines. Testing of a Command Module Reaction Control System engine simulating the fuel (monomethyl hydrazine) dump mode through a hot engine resulted in the fuel burning profusely; therefore, the fuel dump is considered to be the most likely cause of the anomaly."
+Mission Report (continued): "In order to eliminate critical processing operations from manufacture of the connector links, the material was changed from 4130 to Inconel 718."
+Mission Report (continued): "Based on the low probability of contact and the minimum damage anticipated should contact occur, no corrective action will be implemented for the forward heat shield. Corrective actions for the Reaction Control System include landing with the propellants onboard for a normal landing, and biasing the propellant load to provide a slight excess of oxidizer. Thus, for low altitude abort land landing case, burning the propellants while on the parachutes will subject the parachutes to some acceptable oxidizer damage but, will eliminate the dangerous fuel burning condition. In addition, the time delay which inhibits the rapid propellant dump may be changed from 42 to 61 seconds. This could provide more assurance that the propellant will not have to be burned through the Reaction Control System engines in the event of a land landing."
+A later report, now contained within Apollo Experience Report: Earth Landing System, studied three possible causes for the parachute failure. These were;
+The burning of the RCS propellant.
+The failure of riser links, perhaps through hydrogen embrittlement.
+Possible damage through the contacy of the forward heatshield with the parachute risers.
+The report's conclusion was that RCS burning was the most likely cause of the failure.
+295:11:43 Scott: Roger. [Pause.]
+295:11:53 Scott: Splashdown. Mark splashdown.
+The moment of the Command Module's impact with the water.
+To help them withstand the rigours of impact with the water, the crew are well strapped in using the restraint system that goes with the couches. However, these restraints have not been without their problems on the flight.
+Irwin, from the 1971 Technical debrief: "The screws on the restraint system came loose."
+Worden, from the 1971 Technical debrief: "Yes. That was during the lunar orbit, but that's a good thing to mention so that we don't forget it."
+Irwin, from the 1971 Technical debrief: "It's surprising in that it came out of the center seat and the right seat, both on the right side."
+Worden, from the 1971 Technical debrief: "On the right side, yes. The lower lap belt restraint attach point on the center seat and on the right seat came loose. The small bolts that hold them to the attach point and the nuts all came loose and just floated around. The lap belts came loose. I thought it was kind of funny in lunar orbit. When I took the center couch out, I noticed the attach point on the center couch was gone. And that strap was floating free. I looked around for the little bolt that goes in there, the little screw and the nut that goes in there, and I couldn't find it. I thought to myself at the time, well, I'll just sit and wait and sooner or later it will float by. Sure enough, all four pieces to that thing floated by: Two washers, a bolt and a nut. I just grabbed them as they went by and stuck them on a piece of tape. I kept the tape in one place and then put it all back together again. But I was really surprised that those little things came loose."
+Scott, from the 1971 Technical debrief: "I think it's a good idea to have restraint straps, especially if you're going to make a two-chute landing."
+Worden, from the 1971 Technical debrief: "Yes."
+Irwin, from the 1971 Technical debrief: "We were able to repair the one in the center couch because we got all the parts. On my couch, we never did find the nut for it."
+Worden, from the 1971 Technical debrief: "That's right."
+Irwin, from the 1971 Technical debrief: "So we ended up just taping this good one up. And it withstood that two-chute impact."
+Worden, from the 1971 Technical debrief: "That little piece of grey tape."
+Scott, from the 1971 Technical debrief: "Yes. Take lots of grey tape."
+Worden, from the 1971 Technical debrief: "Best invention yet."
+MPEG video file.
+This video has excellent coverage from the point the spacecraft comes through the clouds to splashdown, the latter being a very close-up look at the CM entering the water. Note the plumes of smoke or vapour that seem to emanate from the area of the windows or the pitch jets. The cause of these is unknown at the time of writing.
+This MP4 video file, taken from NASA's documentary about Apollo 15, includes the splashdown and footage taken from a post-mission press conference.
+Subsequent communication in this journal is taken from the PAO transcript. This document is reputed to be replete with transcription errors.
+Landing velocity on 2 chutes is 28 feet per second, or 32 feet per second, versus 28 feet on 3 chutes.
+Woods, from 2004 mission review: "Could you see water coming up over the windows?"
+Scott, from 2004 mission review: "Yeah, I think we did. Yeah."
+Recovery: [Garble.] It is in stable 1 position. 3 main chutes are in the water, all visible around the spacecraft. One main chute appears to be still attached to the Command Module. Over.
+Okinawa: Hello, this is Okinawa. Mark on top. Over.
+Recovery: This is [garble] Roger [garble].
+Recovery: Apollo 15, this is Recovery. Over.
+Scott: Recovery, Apollo 15, everybody's in good shape.
+Scott, from the 1971 Technical debrief: "We came down expecting to have a rather solid impact, which we had. I had the feeling we hit pretty flat. There was no apparent roll to the spacecraft at all. I could see water up over the windows after we hit. You all got the main [parachute] release and the circuit breakers, and we ended up in a very stable 1 [upright] condition with no rocking or anything."
+Worden, from the 1971 Technical debrief: "That was surprising that we went straight down and straight back up, and there wasn't any motion at all, hardly, except for the sea swell."
+Photo: This is Photo, mark 130, 7 miles.
+Okinawa: Okinawa read that.
+Swim 2: Okinawa, this is Swim 2 on station. Be advised I dropped a smoke on the apex cover bearing approximately 010 to the Command Module at 150.
+Scott: Okinawa, [garble] requests permission to drop our main chutes.
+Okinawa: This is Okinawa, permission granted.
+Release of the parachutes is the first item in the post-landing section of the checklist, at the bottom of page 3-2. Then, with the craft in the upright, stable I position, the post-landing ventilation system is brought into play.
+Scott, from the 1971 Technical debrief: "Went through the postlanding checklist, and stood by for the collar and the swimmers. I thought the cabin atmosphere was just fine. Nobody had a tendency, I think, to get seasick."
+Worden, from the 1971 Technical debrief: "One thing we commented on is that, when I first turned the postlanding vent on, Dave got a face full of water."
+Scott, from the 1971 Technical debrief: "Yes, but it didn't get me any wetter than I already was because when we started into reentry, all the water in the tunnel came down on me. So I got bathed from top to bottom."
+Worden, from the 1971 Technical debrief: "When I turned the postlanding vent on, you got a face full."
+Scott, from the 1971 Technical debrief: "That's something you might think about in the future, making sure you mop the tunnel up. There's an item on the checklist that says 'check the tunnel for water,' but it doesn't say what to do about it. We had a little moisture up in the tunnel, but I was very surprised that so much water came up in that tunnel on the way in. Just like a bucketfull. Wasn't any problem."
+Recovery: [Garble] we're standing clear.
+Recovery: Apollo 15, this is Recovery. Roger your [garble] on 243.0.
+Scott: Recovery, 15. We're in good shape.
+Recovery: [Garble] we in contact. ARIA 1 copying you loud and clear, go ahead.
+During our 2004 review of the mission with Dave, we showed him footage of the re-entry and recovery on DVD from Spacecraftfilms.
+Woods, from 2004 mission review: "How long ago since you last saw that footage or have you ever had a chance to watch the footage of re-entry?"
+Scott, from 2004 mission review: "First time I've seen it. We may have seen part of it after the flight. I don't recall. But again, when it's over, it's over. Shoo. Away you go."
+At this point in the film, we see the first of the divers jumping into the water.
+Scott, from 2004 mission review: "There goes Fred Schmidt. His hobby was shark hunting. Lovely guy. There you go. Yeah, those guys were really good."
+Woods, from 2004 mission review: "What's going on inside the CM at this point?"
+Scott, from 2004 mission review: "We're just cleaning up the switches and powering down. In the checklist, you know, shut everything off, keep the radio on, get out the life preservers."
+Woods, from 2004 mission review: "Was there much chat among yourselves, congratulations and all that sort of stuff?"
+Scott, from 2004 mission review: "Not much. Pretty much getting ready to get picked up. I mean, it's not over till it's over, you know?"
+Woods, from 2004 mission review: "Because there would be a popular thought derived from the 'Apollo 13' film where they show the end of the mission as being where Tom Hanks shakes hands with the rest of his crew and that's now the image that will go forward in history. But actually, you guys are busy."
+Scott, from 2004 mission review: "Probably did something like that, you know."
+Recovery: [Garble].
+Recovery: We're in contact. We're in contact.
+Recovery: [Garble] copying you loud and clear, [garble]. Okay, ARIA 1.
+Photo: The Command Module is still riding very well. The one main chute is still attached [garble] Command Module. The heat shield appears to have burned very evenly around the base of the Command Module. There is no real evidence of it streaming up the sides. [garble] is approaching the spacecraft. The swimmer appears to be taking a good look at the Command Module before he goes in. Swim 2 may be preparing to grapple for one of the main chutes.
+Recovery: [Garble] Recover chutes if at all possible. Over.
+ARIA: ARIA [garble].
+Recovery reports the swimmers will be going in shortly. One parachute still attached to Command Module. We would like to recover those parachutes.
+Recovery: [Garble]. The Command Module, swimmers leaving the helicopter, 2 swimmers in the water.
+ARIA: [Garble].
+Recovery: Two swimmers in the water are swimming towards the Command Module.
+Recovery: Okay, two swimmers are cautiously approaching the Command Module. One swimmer is swimming around the Command Module at this time. The swimmers have their [garble] Command Module [garble] the Command Module now.
+Recovery: The swimmers now are connecting the sea anchor. Swimmers deployed the sea anchor.
+Swimmers deploying the sea anchor now.
+Recovery: [Garble] the sea anchors [garble].
+Recovery: It's a beautiful day out here, the sea state is almost a zero sea state, it's very calm, almost like a lake. The cloud cover is scattered cumulus. Got about [garble].
+Recovery: The swimmers cut all the drag lines attached to the Command Module.
+Recovery: The other swimmer there is attaching another raft to the main parachute, and the lead swimmer is now deploying the sea anchor. Command Module at the present time is oriented down wind.
+Splash time 295 hours, 11 minutes, 58 seconds.
+Recovery: Swimmers now moving in the flotation collar [garble] swimmer [garble] recovery thumbs up from the swimmer. He is okay and the collar is now at the Command Module.
+Spacecraft: [Garble].
+Swimmers attaching the flotation collar now.
+Recovery: [Garble] the Command Module is pointing directly at the Photo Helicopter now.
+Spacecraft: [Garble].
+A preliminary look at the splash point shows it to be 158 degrees, 4 and one half minutes west, 26 degrees, 4 minutes north. Based on these preliminary numbers, that would be a miss distance of 5 and one half miles.
+Recovery: [Garble].
+Spacecraft: [Garble].
+Recovery: [Garble]. Over.
+Recovery: All right. [Garble].
+Recovery: [Garble] Swimmers are now pulling the floatation collar around the Command Module. Both the VHF antennas appear to be resting on the Command Module. The flashing light is erected but it is not working, has not been turned on.
+Recovery: This is Recovery [garble].
+Recovery reports the Okinawa now 3½ miles from the Command Module.
+Spacecraft: MARK [garble], Houston.
+Recovery: The swimmers have the flotation collar almost completely around the Command Module.
+Recovery: [Garble] Now the swimmers now have the [garble].
+The ship now reports correction on that 6 1/2 miles from the Command Module.
+Recovery: The swimmers now have the flotation collar around the Command Module and it is afloat. The flotation collar is completely inflated.
+Recovery reports flotation collar completely inflated.
+Recovery: The swimmer [garble] flotation collar and request [garble] flotation collar to the [garble]. One swimmer is proceeding around to the window of the spacecraft and he's looking in at the astronauts. We have a contact with the swimmer he has visual communications with the Astronauts in the Command Module. The swimmers now crawling into [garble] to deliver the recovery raft. The swimmer is taking his [garble] recovery raft around in the doorway. The swimmer is approaching the Command Module.
+Helicopter moving in to drop another raft now.
+Recovery: The recovery raft is being inflated. Recovery raft is inflated. It is being positioned along side of the Command Module next to the flotation collar.
+Recovery: The swimmers are taking the recovery raft to the flotation collar. One swimmer managed to inflate the recovery platform. I can see Swim 1 in the distance. He is putting the swimmer in the water to attach the raft to the apex cover. The swimmers now have the recovery raft attached. One swimmer is getting into the recovery raft as he tried to remove the [garble] where they can move more freely.
+Recovery: [Garble] to recovery 001 to [garble] bring the astronaut's flotation equipment out.
+Recovery: Recovery is approaching the Command Module. They have [garble] approaching the water. The [garble] is approaching the water, and is touching the water with [garble]. The Command Module is moving around on the surface of the water is usually [garble] 001. The swimmer now has the recovery net on the raft platform and he is removing the equipment back up to the recovery helicopter. Recovery is now moving away.
+The ship reports that the helicopter has now delivered some life vests to the swimmer, and he will pass those into the crew and they will don them before being hoisted into the helicopter. We have heard from the crew since the landing they report their in good shape.
+Recovery: [Garble] we see the waves from the helicopter, And cannot tell exactly what the swimmer is doing. It appears he is climbing up on the Command Module and securing the raft to the hatch side.
+Recovery: The hatch to the Command Module is now open.
+Hatch is open now.
+Scott, from the 1971 Technical debrief: "We gave the swimmer thumbs up, which he relayed. I guess by then they had heard us and that everybody was in good shape. We cleaned up the cabin as per checklist. We powered down, egressed, got picked up, and I thought that all went very smoothly. Just exactly as we had trained in the Gulf. The same Scuba team leader was there, and he did the same thing. The only anomaly there was that the swimmer couldn't get the hatch closed all the way. That left me with a rather uneasy feeling leaving the spacecraft - even though the seas were calm - with an open hatch. That just didn't make me too warm. I don't know why he couldn't get it closed. It looked like the dogs [the lugs around the periphery of the door that hold it closed] were all the way backed off, and I saw him vent the counterbalance. It was open about 3 inches."
+Worden, from the 1971 Technical debrief: "It was open more than that. It was open a good 6 inches at the open end."
+Scott, from the 1971 Technical debrief: "I don't know why it didn't get closed. That's something that we ought to make sure that the swimmers are maybe briefed on - malfunction procedures with that hatch. It would be a shame to have it sink."
+Recovery: [Garble] the astronauts are passing their flotation equipment in to them.
+Handing in the life vests.
+Scott, from 2004 mission review: "See the guy on the right in the water? He got a great picture. He took a picture of Fred Schmidt reaching in and shaking my hand."
+The nearest image we have to the one Dave talks about is AP15-71-H-1242, seen here courtesy of the Apollo Archive Image Gallery.
+AP15-71-H-1242 - David Scott greets one of the swimmers from within Endeavour's hatch - Image by NASA/Johnson Space Center.
+Recovery: The swimmers talking to the astronauts. We are now trying to close the hatch again. Seems to be having some minor difficulty in regards to the cords. As we told you [garble]. We're waiting now for the astronauts to start their equipment, equipment prior to egressing the Command Module. [Garble] my captain here says at the moment the swimmers are preparing to [garble] the hatch and get ready for the astronauts to affirm that they are ready to leave the Command Module. The swimmers are [garble] to clear it up [garble].
+The ship reports it's about a half mile away from the Command Module now.
+Recovery: [Garble] the swimmers now opening the hatch again.
+The swimmer is reopening the hatch now.
+Recovery: [Garbled] The first astronaut is climbing out of the Command Module. He is the second astronaut in the doorway of the spacecraft. He is on the recovery raft. The first astronaut is in the recovery raft. He is climbing out of the Command Module. [Garbled] The second astronaut is now in the recovery raft. The third astronaut is now out of the Command Module and all three are in the recovery raft. The swimmer is taking [garble] preparations for closing the Command Module hatch. The swimmers' closing the hatch.
+Speaker: Roger. The swimmers again are closing the hatch.
+Recovery swimmers are moving around [garble] the hatch helicopter moving in now.
+Speaker: And Recovery [garble] the Command Module.
+The ship reports that the wind is very light in the recovery area, makes it more difficult for the helicopters to hover. They prefer to have just a little bit more wind.
+If a helicopter tries to hover close to the surface in still air, its own downwash begins to return to the rotors, creating a great torus of unstable recycling air around the aircraft. The pilot has to use more power to maintain lift within the down-draft. A little wind blows the downwash away, keeping this torus from forming.
+The crew are winched aboard the helicopter using a little basket sent down by the winchman.
+O'Brien, from 2004 mission review: "That doesn't look like the most glorious way to get on."
+Scott, from 2004 mission review: "No. That's not bad It's quick and it's safe and they know what they're doing. That's a Billy Pugh net."
+Woods, from 2004 mission review: "The reason for the name, 'Billy Pugh net'. Do you know where it comes from?"
+Scott, from 2004 mission review: "Yeah, it's the guy who invented it. His name was Billy Pugh. I think it came out of someplace in Texas, in the Gulf of Mexico, some guy came up with the idea long before we showed up. But I don't remember exactly. It's a nice name."
+Speaker: The C [garble].
+Spacecraft: [Garble].
+Speaker: The first astronaut is in the helicopter.
+Speaker: [garble] the Command Module. The swimmer has the recovery [garble].
+The Okinawa reports, the first crewman into the helicopter is the commander, Dave Scott.
+Speaker: [Garble].
+Speaker: [Garble]. The astronaut is approaching the helicopter.
+Speaker: [Garble]. The second astronaut is in the helicopter.
+The second astronaut in the helicopter was Jim Irwin.
+Speaker: The Recovery is headed [garble].
+Recovery: The Recovery net is now in the [garble] platform. The third astronaut is getting into the net. They are now set for hoisting. He has cleared the Command Module in the water. The third astronaut is on his way up to the recovery helicopter.
+Al Worden now on his way up to the helicopter.
+Recovery: [Garble] the third astronaut is in the helicopter. [Garble].
+Recovery: Astronaut Alfred Worden is in the aircraft [Garble].
+Recovery: Okinawa this is Recovery [Garble].
+Okinawa: Okinawa, Robert?
+Recovery: Okinawa, Swim 2 is on [garble].
+Recovery: Okinawa [garble].
+Recovery: Okinawa tower [garble].
+Photo: Photo to Okinawa tower [garble].
+Okinawa: Roger this is Okinawa Tower.
+Photo: Photo, Roger.
+Cigars now being passed out in the control center.
+Okinawa: [Garble] Roger, Photo.
+Okinawa: Roger, Photo. Your winds are calm [garble].
+Photo: Photo, Roger.
+Okinawa: [Garble].
+The cigars are poised but not yet lit. They won't be lit until the crew is safely on deck. And the American flags are being broken out in the Control Center now. Each of the controllers with a small American flag.
+Recovery: Okinawa, this is [garble].
+Recovery: Okinawa [garble].
+Okinawa: Recovery [garble] about 8 knots.
+Okinawa: Recovery, this is...
+And the flight controllers are readying a plaque of the Apollo 15 crew patch which will be hung on the wall of the Control Center right after the crew touches down on the carrier, to join the crew patches of all the other Gemini and Apollo missions.
+Music: [Air Force hymn.]
+Captain Huff: Colonel Scott, Colonel Irwin, Major Worden. It is indeed a pleasure to welcome you back from your historic mission. We were here to see you depart with your TLI burn, and it's even a greater pleasure to be here today. Chaplain Peters would you ask an invocation please.
+Chaplain: May we pray. Our Father we are grateful for the success of this mission, for the work accomplished by Astronaut Scott, Irwin and Worden. As we learn of your Universe, may we also learn of your purpose for mankind to live in peace. Amen.
+Hayward: Well gentlemen, what can we say on the recovery force, but how great it is to have these three magnificent astronauts back here on the primary recovery ship. We had an exciting moment there, and it turned out just great. To these three astronauts, I say, as the commander of the recovery forces, that it's a great privilege for me to represent all of them in saying to them, how proud we are, and how great an accomplishment we think they have pulled off here, and how professionally they have executed this lunar mission from Canaveral to the Moon and back here in the Pacific, back to USS Okinawa. Fellows, there's no group any place that has more pride in what you've done than this recovery force, and I say that not just as recovery force people, but as Americans we are mighty proud of you. We have here today, to represent the US Air Force, and I must say, to all of us, who are pretty well aware that this Apollo 15 crew is an all Air Force contingent, and we're honored to have with us, 2 of the Air Force's finest General officers, Brigadier General Pete Everest, who commands the aerospace rescue and recovery forces, and also General Clay, who has just taken over as Commander in Chief of [garble] the United States Air Force, Pacific, and I know General Clay has some welcoming remarks he'd like to make. General.
+Clay: Colonel Scott, Major Worden, and Colonel Irwin, certainly, I'd want to offer my congratulations and welcome you home. I think particularly also, you well realize the tremendous pride our nation takes in your accomplishment. And I would be somewhat less than truthful if I didn't state also, there's a peculiar glow that the Air Force feels as a result of your mission. More importantly, however, it seems to me that this mission represents - the successful mission, Apollo 15 represents a culmination of a superb team effort on part of so many elements of our national life, the executive department, the congress, scientists, and engineers, and I'm sure they all share with you the pride in the accomplishment. It's a pleasure for me to say it's a tremendous thrill for me to be here to extend my congratulations. It's certainly been a wonderful and historic mission, and I can't help but also complement you on your superb selection of music. Thank you, Colonel Scott.
+Scott: Thank you General Clay, and thank you, crew of the Okinawa. The crew of the Endeavour is glad to be aboard. We appreciate the fine pick up, and it's been my experience, the Navy always makes a fine pick up, whether we land 6 miles from the carrier, or 6,000, They're always there right on the spot, and we certainly appreciate it. It's great to be back. We had a great time on the trip. I think we accomplished a lot. We had a lot of support from a lot of people, and I'd just like to say that we appreciate every bit of it, and we could not have done the mission, we couldn't have gone one step without the support of the many, many thousands of people involved. Thank you very much.
+Worden: Not that I'm shaky, it's just that I don't have my sea legs yet, you lucky stiff, you've been out here for a while. We just finished, probably the most fantastic 12 days I've ever had in my life, and I guess only one thing surpasses the excitement, and the intense feeling I had on the flight, and that was sort of the feeling I had when I saw you all today. It sure is nice to be back, and it sure is good to see you all. Thanks a bunch for the pick up.
+Irwin: This is a very proud moment for me. It's proud to be part of this great team that could send us to the Moon and bring us back. The recovery was just, just excellent. Of course, I feel very happy to be aboard a more sea-worthy craft than we just got off of. Also, I'd like to say, that I hope all of you, all around the world enjoyed our voyage to the Moon as much as we did, on the flight. Thank you all.
+Music: [Anchors Aweigh.]
+This is Apollo Control. ... We are securing this line now.
+This concludes the Apollo 15 Flight Journal.
+Day 13, part 1: Approaching Earth
+Journal Home Page

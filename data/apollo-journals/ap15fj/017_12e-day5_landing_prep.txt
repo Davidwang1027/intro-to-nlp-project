@@ -1,0 +1,545 @@
+A15FJ - Day 5, part 6: Preparations for Landing
+Day 5, part 5: CSM Circularisation
+Journal Home Page
+Landing at Hadley (ALSJ)
+Day 5, part 7: Solo Orbital Operations - 1
+Apollo 15
+Day 5, part 6: Preparations for Landing
+Corrected Transcript and Commentary Copyright © 1998-2026 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2026-01-25
+Index to events
+P24 landmark tracking PAD
+102:14:47 GET
+Landing Radar checkout
+102:21:07 GET
+PDI-1 Abort PADs E to H
+102:25:17 GET
+PDI-1 PAD I and Abort PADs J to N
+102:27:58 GET
+CSM landmark tracking exercise
+102:42:07 GET
+Update to PDI PAD I
+104:08:45 GET
+LM Flight Plan page 3-120.
+CSM Flight Plan page 3-121.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 102 hours, 8 minutes and we're about 2 minutes from reacquiring the Command Module Endeavour, assuming that the circularization burn was performed on time. Endeavour should be behind but above the Lunar Module Falcon. The higher orbit that the Command Module would be in, would cause it to pop around the corner so to speak sooner, [to] come into view of radio antennas about 2 minutes prior to the time we'll acquire the signal from the Lunar Module. Just a few minutes ago, Flight Director Glynn Lunney again reviewed the status of the mission with each of his flight controllers, and pointed out that the major activity on this revolution, the last - last revolution prior to the powered descent, will be the landmark tracking, which Al Worden will be performing in the Command Module. Al Worden will be taking marks through the scanning telescope in the Command Module on a 1,000-foot [300-metre] diameter crater, called Index Crater, which is in the landing ellipse - the marks that he takes on this crater are telemetered to ground where we feed them into the computers in Mission Control, and from that compute new orbits for both the Command Module and the Lunar Module, and also compute these orbits with respect to the precise location of the landing site. This information is then fed into the Lunar Module Guidance System - the Guidance Computer on the LM, just prior to the powered descent. Should we not get the landmark tracking on this revolution, the preference would be to wait for 1 revolution to do the lunar landing - slip the landing 1 revolution and attempt to get the landmark tracking on the 14th revolution. At this point we would see no reason for not accomplishing successfully, the landmark tracking on this revolution. And we have had Acquisition Of Signal from the Command Module, which indicates that we did get the circularization burn.
+At the present time our radio signal strength from the Command Module is still too weak to permit voice communications. We are starting to get some telemetry data. And we're about 40 seconds away from reacquiring the Lunar Module, Falcon.
+INCO says we appear to have lost contact. Madrid reported we had a momentary acquisition of signal, which has since dropped out.
+102:12:24 Mitchell: Endeavour, Houston. Standing by for your burn status. [Long pause.]
+102:12:44 Mitchell: Endeavour, Houston. Standing by for burn status.
+102:12:51 Worden: Hello, Houston. Endeavour. Rog. Stand by one.
+102:12:55 Mitchell: Roger. Roger, Al.
+102:13:00 Worden: Okay, Houston. The burn got off on time. Burn time, 4 seconds; VGX, minus 0000.9 [fps]; and I trimmed that to 0 at - roll of 0 [degrees], pitch of 107, and yaw of 358. VGX was plus all zero's, VGY was plus all zero's, VGZ was minus 0000.5. Delta-VC was minus 11.2 [fps]; fuel was 29.25 [per cent]; oxidizer, 29.15 [per cent]; and unbalance meter was decreased 50. And I've got me in a 65.2 by 54.8 [nautical mile orbit, 120.7 by 101.4 km].
+VG represents the velocity to be gained and Al is expressing it in each of the three axes. After the burn, these values are known as the residual velocities. Note that although Al said during the debriefing that the burn did not require trimming, he did, in fact, trim 0.9 fps out of the X-axis residual.
+102:13:44 Mitchell: Okay, Al. We got everything except the item after the burn time. [Pause.]
+102:13:54 Worden: Roger. The VGX at shutdown was minus .9. [repeat] 0.9.
+102:14:03 Mitchell: Okay. We copy. [Long pause.]
+102:14:19 Mitchell: And, Al. I'm ready to give you a P24 PAD, when you're ready to copy. [Long pause.]
+102:14:45 Worden: Okay, Ed. Go ahead.
+102:14:47 Mitchell: Rog. 15-1; T-1, 102:37:27; T-2, 42:17; TCA, 43:57; T-3, 44:45. The attitude is nominal, and you'll be off track 3 miles to the north.
+102:15:21 Worden: Roger. I understand. [P]24 landmark tracking PAD, tracking 15-1; T-1, 102:37:27; 42:17; 43:57; 44:45. Nominal attitude is off track north 3 miles.
+102:15:42 Mitchell: Good readback.
+102:15:46 Worden: Rog. [Pause.]
+The numbers just read up are times of the various points in the P24 tracking profile. In this profile, the CSM will keep a 22° pitched down attitude, with respect to the local vertical, throughout the entire tracking pass. To achieve this, the spacecraft will make a slow pitch-down rotation with respect to its stellar inertial frame of reference, throughout the entire period. This will keep Index crater within the range of the sextant, even as it passes rather quickly below:
+T-1: 102:37:27 GET. This is the time when the landmark, in this case Index crater, will be on the horizon. It is not the time it will be visible through the sextant optics.
+T-2: 102:42:17 GET. This is the time when the target can be acquired in the sextant and is when the CSM begins to pitch down.
+TCA: 102:43:57 GET. This is when the CSM will be closest to the target.
+T-3: 102:44:45 GET. This is the time when the target will fall out of the sextant's field of view.
+Note that at the time of the closest approach, Endeavour will not be directly overhead of Index crater, but will be 3 miles to the north. Also note that a value for the longitude-over-2 has not been given. Al will point this out at 102:34:32 but is told to use the value in the Flight Plan.
+102:15:54 Irwin: Ed, I have some AGS Cal numbers for you.
+102:15:57 Mitchell: Okay, Falcon. Ready to copy.
+102:16:02 Irwin: Roger. The initial values: plus 02, minus 04, plus 03, plus 02, plus 90, minus 07. Cal values: plus 02, minus 04, plus 02, plus 21, plus 81, and minus 15.
+102:16:26 Mitchell: Copied all of them. [Pause.] Those numbers look good, Falcon.
+102:16:36 Scott: And, Houston; Falcon. We're ready to go with the DPS.
+102:16:41 Scott: Okay. And we're ready to go with the DPS pressure checkout any time you are.
+Two helium tanks, one storing gas at an ambient temperature, the other storing supercritical helium (SHe) at high pressure and cryogenic temperatures, provide a source of pressure to the four propellant tanks of the LM descent stage. This pressure forces their contents into the propellant lines leading to the engine. The supercritical helium is extremely cold when it leaves its storage tank but it will be heated by warmth from the fuel as both flow through a heat exchanger. This technique depends on a constant flow of fuel through the heat exchanger to avoid the fuel freezing within it. That flow is missing in the early stages of the burn. Therefore, the SHe will not be used for pressurisation until after the DPS engine has been ignited and fuel flow is established. Instead, initial pressurisation of the propellant tanks is provided by the contents of the ambient tank. Three valves are explosively opened by command from the crew; one to allow ambient helium, via a regulator, into the pressurising lines to the tanks. The other two open the lines to the tanks, having been kept closed to prevent propellant contaminating the lines for long periods before the engine is required.
+The DPS pressure checkout consists of verifying the ambient helium has pressurized the tanks correctly and that the temperatures are within range. Much of this checkout is done in Mission Control, since lots of telemetered data can be seen there, but not in the LM cockpit. Therefore, the LM's steerable antenna must be in use to carry all the required high-bit-rate data.
+Later, when the DPS engine is ignited and the descent to the Moon has begun, another explosively operated valve will be opened automatically, releasing the SHe to the propellant tanks. The SHe will travel via redundant regulators through the heat exchanger.
+102:16:44 Mitchell: Okay. We're ready. Press on.
+102:16:49 Scott: Roger.
+102:16:54 Mitchell: Endeavour, Houston. Give us Narrow please on your High Gain [Antenna].
+102:17:02 Worden: Rog.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:18:26 Scott: Okay, Houston; Falcon. We've done the descent start. The ambient pressure is down to 450 but the manifold pressure hasn't moved. [Pause.]
+102:18:39 Mitchell: Stand by. [Pause.] Okay, Falcon. We believe you turned your PQM [Propellant Quantity Monitor] Off, and - and that's your PQGS [Propellant Quantity Gauging System] Off, and - probably your problem - your hed - Helium Monitor. I think you got it inadvertently. [Pause.] And, Endeavour, we'll take P00 and Accept. [Pause.]
+102:19:23 Worden: Roger. You got it.
+Mission Control is uplinking a state vector to the CSM in preparation for Al doing the landmark tracking.
+102:19:27 Mitchell: And Falcon...
+102:19:28 Unidentified voice: Oh, yeah, Ed. Thank you.
+102:19:30 Mitchell: Rog. DPS looks good from down here.
+102:19:36 Scott: Okay. [Long pause.]
+The Descent Propulsion System on the Lunar Module is pressurized and looks good at this time.
+102:20:05 Mitchell: And, Falcon; Houston. A couple of items. Dave do you have a warm feel for the LPD decal.
+102:20:14 Scott: Rog, Ed. It was right on.
+Dave Scott was to check the alignment of the Landing Point Designator, a set of colored lines on the two panes of his forward window. The LPD is used during the approach phase of the landing. When Dave looks through his window from the correct position, the outer and inner grid will line up. Via Jim, the computer will supply angles which will indicate a position on the LPD and as Dave sees the LPD against the lunar surface, this will indicate where the computer thinks it is going to land the LM. If Dave wants to alter this point, left, right, downrange or uprange, he only has to "blip" the hand controller in the appropriate direction and the computer would maneuver the vehicle by fixed increments to achieve this change.
+102:20:16 Mitchell: Good enough. And we'd like for you to take your Propellant Temp/Press Monitor to Ascent and give us an Ox[idizer] tank read-out, please.
+102:20:28 Scott: Oxidizer is 100.
+102:20:31 Mitchell: We copy. Thank you. And, Dave, be advised, there will be no gyro bias updates - or gyro drift updates.
+102:20:44 Scott: Okay; very good. [Long pause.]
+102:21:07 Scott: Houston, Falcon. Going into landing radar checkout now.
+102:21:13 Mitchell: Roger, Roger, Falcon. [Long pause.]
+The landing radar antenna is an assembly mounted on the underside of the descent stage. Four microwave beams at a frequency of around 10GHz provide information about the current altitude (using radar techniques) and the rate of change of altitude (using Doppler techniques) as the LM flies in for a landing. The computer has a simplified model of the terrain profile as part of its programming to compensate for the mountainous landscape which will pass below Falcon during the approach to Hadley. The computer also compensates for whatever angle the antenna may be pointing away from the local vertical. The information coming from the landing radar is fed to the LM computer and also drives the tapemeter display.
+The antenna has two positions depending on whether the LM is approaching the landing site on its side or hovering in a vertical attitude above it. Throughout most of the descent, it is angled 24° from the LM's vertical (X-axis). At "pitch-over", when the LM enters its hover mode, the antenna is rotated to aim in a direction parallel to the LM's X-axis and therefore pointing straight down.
+Dave and Jim are testing the landing radar by having it apply simulated Doppler and radar signals to its processing electronics.
+102:21:50 Scott: Altitude Transmitter is 3.6. Velocity Transmitter, 3.8. [Long pause.]
+102:22:16 Mitchell: Okay, Endeavour; Houston. Computer is yours, and you can start your maneuver. [Long pause.]
+102:22:35 Mitchell: Endeavour, Houston. The computer is yours. You can start your maneuver.
+102:22:43 Worden: Roger, Houston; Endeavour. Thank you. [Pause.]
+102:22:53 Mitchell: Endeavour, Houston. We're recommending a half a degree per second for your maneuver. You've got quite aways to go.
+102:23:02 Worden: Rog, Ed. [Pause.]
+The maneuver is to put the CSM in the correct attitude in roll for the upcoming P24 landmark tracking exercise over the landing site.
+102:23:10 Scott: And, Houston; Falcon. The Landing Radar looks good up here.
+102:23:14 Mitchell: Roger. It looks good here. [Pause.]
+102:23:25 Scott: Rog.
+Comm break.
+102:24:48 Mitchell: Falcon, Houston. If you'll let us have P00 and Data, we have uplink for you.
+102:24:55 Irwin: Roger.
+102:24:58 Mitchell: And I have PADs for Endeavour and Falcon, when you're both ready. [Pause.]
+102:25:11 Irwin: Falcon's ready.
+102:25:14 Worden: Endeavour's ready.
+102:25:17 Mitchell: Okay. Here we go. With Echo, 104:42:30.00; Foxtrot, plus 0108.2, plus all zeros, minus 0050.0; 0144.9, plus 0008.6, 0119.2; 0:36, 000, 270; 0282.5; plus 0108.5, plus all zeros, minus 0049.3; Golf, 107:37:30.00; Hotel, 109:18:45.00. Readback. [Pause.]
+There are 4 individual updates in the NO PDI+12 Abort PAD, E through H: Interpreting the PAD:
+PDI-1 Abort PAD E (Echo):
+Ground Elapsed Time of the burn (a Noun 33 entry): 104:42:30.00.
+PDI-1 Abort PAD F (Foxtrot):
+Change in velocity, with respect to the local vertical, fps (m/s): X, +108.2 (+33.0); Y, 0; Z, -50.0 (-15.2).
+Height of apocynthion: 144.9 nautical miles (268.4 km).
+Height of pericynthion: 8.6 nautical miles (15.9 km).
+Delta-V (Overall change in velocity): 119.2 fps (36.3 m/s).
+Burn Time: 0 minutes, 36 seconds.
+FDAI (Flight Director Attitude Indicator - the "eight ball") angles: Roll, 000°; Pitch, 270°.
+An entry made into the AGS, at address 373, is the minutes until the next burn: 02825.
+AGS Delta VX (Noun 86): +108.5 fps (+33.1 m/s).
+AGS Delta VY (Noun 86): 0 fps.
+AGS Delta VZ (Noun 86): -49.3 fps (-15.0 m/s).
+PDI-1 Abort Pad G (Golf):
+Time of Ignition: 107:37:30.00. This is the time of ignition of the Coelliptic Sequence Initiation (CSI) maneuver, a Noun 11 entry. This maneuver is essentially a plane change, and brings the LM into the same orbital plane as the CSM.
+PDI-1 Abort Pad H (Hotel):
+Time of Ignition: 109:18:45.00. This is the time of ignition of the Terminal Phase Initiation (TPI) maneuver, a Noun 37 entry. This maneuver targets the LM for its final approach to the CSM, ensuring proper distance and closing rates.
+This completes the PAD interpretation.
+102:26:31 Irwin: Okay. Falcon with the readback on no PDI plus 12. 104:42:30.00; plus 0108.2, plus all zips, minus 0050.0; 0144.9, plus 0008.6, 0119.2; 0:36, 000, 270; 0282.5; plus 0108.5, plus all zips, minus 0049.3; 107:37:30.00; and 109:18:45.00.
+102:27:20 Mitchell: Okay. You got cut out there. Your AGS Delta-VZ, confirm it's a negative [sign] and [the GET for] Hotel [is] 109:18:45.00. [Pause.]
+102:27:36 Irwin: That's confirmed, Ed.
+102:27:38 Mitchell: Okay. Endeavour, give us Omni Charlie, please. [Pause.]
+102:27:48 Worden: Endeavour on Omni Charlie.
+102:27:50 Mitchell: Roger. And did you get the readbacks, Al?
+102:27:55 Worden: Endeavour copied them - copied the PADs. Rog.
+102:27:58 Mitchell: Okay. Here we go with India PDI PAD: 104:30:10.94; 11:03, plus 0002.9; 002, 110, 310; plus 56922; Juliet: 109:18:45.00; Kilo: 107:27:30.00; Lima: 104:50:49.67; Meco: 109:18:45.00; T-2 is at PDI plus 20:39; Nectar: 106:41:20.05. Readback. [Pause.]
+These are the third through seventh PDI PADs, and they provide the parameters for PDI, the Powered Descent Initiation, also known as PDI P63 Braking Phase, and for the various aborts through to T-3, the third launch opportunity after landing. PAD India is the only one that is not providing abort parameters. The name for PAD India originates from the first program of the Powered Descent, known as P63.
+PDI Juliet is for aborts occurring during the first 6 minutes of the Powered Descent. Kilo is for any abort from 6 minutes from the start of PDI through touchdown, and prior to T-2, the second opportunity to launch after landing. T-2 aborts use PADs Lima and Mike, and the T-3 PAD uses November. Note that both the crew and CapCom are rather casual about using the official phonetic alphabet in their transmissions. In particular, "Meco" is the usual acronym for "Main Engine Cut-Off" but Ed is using it for the letter "M". Interpreting the five PADs:
+PDI-1 (P63) India.
+TIG for PDI (Noun 33): 104:30:10.94.
+"Time to go": 11 minutes, 3 seconds. This is the duration of the powered descent.
+Crossrange: 2.9 nautical miles. This is how far out-of-plane (to the left or right) their approach path is compared to the landing site.
+LM attitude at PDI (Noun 18): Roll: 002°, Pitch: 110°, Yaw: 310°.
+PDI-1 (up to 6 mins into PDI) Abort PAD Juliet.
+Time of Ignition for the Transfer Phase Initiation (TPI): 109:18:45.00.
+PDI-1 (from 6 mins to touchdown) Abort PAD Kilo (also a T-1 PAD).
+Time of Ignition for the Transfer Phase Initiation (TPI): 107:27:30.00.
+T-2 (PDI + 20:39) Abort PAD Lima.
+Time of Ignition (from the surface): 104:50:49.67.
+Time of Ignition for the Transfer Phase Initiation (TPI): 109:18:45.00.
+T-3 (1 revolution) Abort PAD November
+Time of ignition (from the surface): 106:41:20.05.
+This completes the PAD interpretation.
+102:29:18 Irwin: Okay. Falcon, with the readback. PDI-1: 104:30:10.94; 11:03, plus 0002.9; 002, 110, 310; plus 56922; Juliet: 109:18:45.00; Kilo: 107:27:30.00; Lima: 104:50:49.67; 109:18:45.00; T-2 at PDI: plus 23:39; and Nan is 106:41:20.05.
+LM Flight Plan page 3-122.
+CSM Flight Plan page 3-123.
+102:30:05 Mitchell: Okay. The T-2 time is at 20:39. [Pause.]
+102:30:16 Irwin: Roger. 20:39.
+102:30:19 Mitchell: Let's try it again - 20:39.
+102:30:25 Irwin: 20:39; thank you, Ed.
+102:30:26 Mitchell: Good readback. [Pause.] Falcon, computer's yours.
+Long comm break.
+While Jim has been copying numbers from Houston, Dave has been preparing to photograph the landing site with the Hasselblad and magazine KK (160 ASA colour transparency film). At around this time, he takes a photo of an area to the west of the crater Macrobius.
+AS15-87-11700 - Area west of the crater Macrobius, The distinct rayed crater is at 20.7°N, 43.3°E - Image by NASA/Johnson Space Center.
+The unusual pattern of the rays of this crater, in particular the 'excluded zone' to the lower right, indicate that the object which formed this feature came in from the lower right at a shallow angle.
+The Flight Activities Officer [FAO] reports that Al Worden in Endeavour is nearly in the proper attitude for the landmark tracking. That's scheduled to begin in about 8 or 9 minutes from now. The landmark will first come into view over the horizon at 102 hours, 37 minutes, 27 seconds. And it will be about 4 or 5 minutes after that before Worden actually begins taking marks on the landmark.
+Reviewing our status briefly, we've nearly completed the systems checkouts on the Lunar Module. Everything appears to be in order at the moment both with the LM and the Command Module for the powered descent, which will occur on the next revolution, 14th revolution. And we're standing by now for the landmark tracking which Al Worden will perform from the Command Module Endeavour.
+102:34:24 Worden: Houston, Endeavour.
+102:34:27 Mitchell: Go ahead, Endeavour.
+102:34:32 Worden: Roger, Ed. Just checking over this P24 PAD again. And you didn't update the longitude over 2 on this one. Did you want to do that?
+102:34:41 Mitchell: Stand by. [Pause.] Negative, Al. Go with the one in the Flight Plan.
+102:34:46 Worden: ...and low altitude. Okay.
+Comm break.
+Dave continues the photography with three photos of a distinctive crater pair between Crisium and Serenitatis. These craters were formerly called Macrobius A and B. Now they are Carmichael and Hill respectively.
+AS15-87-11701 - View looking southwest with crater Hill in the foreground, and beyond Carmichael - Image by NASA/Johnson Space Center.
+AS15-87-11702 - View looking southwest with crater Hill in the foreground, and beyond Carmichael - Image by NASA/Johnson Space Center.
+AS15-87-11703 - View looking southwest with crater Hill in the foreground, and beyond Carmichael - Image by NASA/Johnson Space Center.
+102:36:14 Mitchell: Falcon, Houston. Over.
+102:36:19 Scott: Houston, Falcon. Go.
+102:36:21 Mitchell: Roger. Check your CO2 Sensor circuit breaker. We're showing off-scale low.
+Once again, the fact that the reading from the sensor is off-scale-low does not mean that the partial pressure of CO2 is low. It just means that it cannot be measured - in this case because it is not being supplied with power.
+102:36:29 Scott: Okay.
+102:36:32 Irwin: Circuit breaker's closed, Ed.
+102:36:34 Mitchell: Roger. [Long pause.]
+102:36:52 Mitchell: Endeavour, standby for T-1 minus 30 seconds.
+102:36:57 Mitchell: Mark.
+102:36:59 Worden: Rog. [Long pause.]
+Long comm break.
+T-1 is the time at which the landing site landmark will first appear on the horizon.
+Index Crater is at the spacecraft's theoretical horizon at 102:37:27 GET.
+Al is preparing for the P24 landmark tracking task, the results from which will refine the flight control team's knowledge of where the landing site is and the targeting of the LM.
+Dave continues photography from the LM as he and Jim approach the eastern shore of Mare Serenitatis
+AS15-87-11704 - View southwest towards the crater Littrow and the massifs of the Taurus Mountains. These surround what will become the Apollo 17 landing site - Image by NASA/Johnson Space Center.
+AS15-87-11705 - View southwest towards the crater Littrow and the massifs of the Taurus Mountains. These surround what will become the Apollo 17 landing site - Image by NASA/Johnson Space Center.
+AS15-87-11706 - View straight down into the 11-km crater Brewster (formerly Römer L) - Image by NASA/Johnson Space Center.
+AS15-87-11707 - View southwest across the southeastern shore of Mare Serenitatis. Crater Clerke is near the centre of the image - Image by NASA/Johnson Space Center.
+AS15-87-11708 - View southwest across the southeastern shore of Mare Serenitatis. Crater Clerke is left of centre - Image by NASA/Johnson Space Center.
+AS15-87-11709 - The bowl-shaped Clerke, and an unusual light-toned patch within the system of rilles around the edge of Serenitatis - Image by NASA/Johnson Space Center.
+The following photos show examples of the linear features that run parallel to the shore of Mare Serenitatis. Some are extensional features, caused by the great weight of basalt that fills the Serenitatis Basin. This opens up grabens near the shore like those seen here. At the same time, compression features called wrinkle ridges are formed within the mare.
+AS15-87-11710 - A series of extensional rilles on the eastern side of Mare Serenitatis surrounded by a triplet of simple craters, each probably only a couple of kilometres in diameter. Centre of photo is located at 23.6°N, 29.1°E - Image by NASA/Johnson Space Center.
+AS15-87-11711 - A series of extensional rilles on the eastern side of Mare Serenitatis surrounded by a triplet of simple craters, each probably only a couple of kilometres in diameter. Centre of photo is located at 23.6°N, 29.1°E - Image by NASA/Johnson Space Center.
+The next three in the series show the wrinkle ridge, Dorsum Androvandi. It is easy to make the mistake of seeing this ridge as a sunken feature rather than the raised feature it really is, and it might help to be reminded that the Sun is shining from the left.
+AS15-87-11712 - Dorsum Androvandi on the eastern side of Mare Serenitatis. Centre of photo is located at 23.6°N, 28.8°E - Image by NASA/Johnson Space Center.
+AS15-87-11713 - Dorsum Androvandi on the eastern side of Mare Serenitatis. Centre of photo is located at 23.6°N, 28.7°E - Image by NASA/Johnson Space Center.
+AS15-87-11714 - Dorsum Androvandi on the eastern side of Mare Serenitatis. Centre of photo is located at 23.6°N, 28.7°E - Image by NASA/Johnson Space Center.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:41:19 Mitchell: Mark. One minute; T-2 minus 1.
+102:41:24 Worden: Rog. [Long pause.]
+102:41:45 Mitchell: Standby for 30 seconds.
+102:41:47 Mitchell: Mark.
+102:42:04 Mitchell: 10 seconds.
+102:42:07 Mitchell: Mark.
+Comm break.
+Dave is still taking picures of the approach to Hadley. This next image gives an impression of how how low the LM is coasting as the peaks of the Apennine Mountains rise above the horizon.
+AS15-87-11715 - View WSW across Mare Serenitatis towards Montes Apenninus and the Apollo 15 landing site - Image by NASA/Johnson Space Center.
+CapCom Ed Mitchell is giving Al audio cues leading up to the pitch down portion of the landmark tracking sequence, beginning at 102:42:17, when the spacecraft is made to slowly pitch down so as to keep Index Crater in range of the sextant. At 102:43:57, Endeavour will be closest to Index and by 102:44:45, Al will lose sight of the crater.
+Flight Activities Officer [FAO] reports that Worden has begun taking marks and we're seeing those here on our data displays here in the Control Center. We'll get a qualitative assessment from Worden following the landmark tracking.
+102:44:54 Worden: Okay, Houston. It's out of sight.
+102:44:56 Mitchell: Roger, Endeavour. How did you feel about them, Al?
+102:45:03 Worden: Oh, I felt good about them, Ed. Right on.
+102:45:05 Mitchell: Very good. Thank you.
+102:45:08 Worden: No question about the landmark. And every mark, I had the - the crater centered, Crater Index.
+102:45:17 Mitchell: Very, very good. Thank you. And I have an update to the PDI abort PAD, when Endeavour and Falcon are ready. [Long pause.]
+102:45:37 Irwin: The Falcon's ready. [Pause.]
+102:45:46 Worden: Endeavour's ready.
+102:45:47 Mitchell: Okay. It's item Kilo. Should be 107:20:30.00. [Pause.]
+102:46:02 Irwin: Okay. Falcon copied Kilo as 107:20:30.00.
+This update is for the T1 Abort PAD, which is effective for the first six minutes of Powered Descent. The Time of Ignition for the Transfer Phase Initiation Maneuver is being updated to 107:20:30.00. (The previous time was 102:27:30.00.)
+102:46:02 Mitchell: Good readback.
+102:46:08 Worden: Endeavour copies.
+Long comm break.
+At about this time, the LM is coasting low over the landing site and Dave takes a sequence of six photographs which show it and and the plain on the opposite side of Hadley Rille. These are spectacular images of the bay which they will begin to explore in a couple of hours time.
+AS15-87-11716 - Hadley Rille and the Apollo 15 landing site. Mount Hadley Delta is on the left - Image by NASA/Johnson Space Center.
+AS15-87-11717 - Hadley Rille and the Apollo 15 landing site. Mount Hadley Delta is on the left - Image by NASA/Johnson Space Center.
+AS15-87-11718 - Hadley Rille and the Apollo 15 landing site. Mount Hadley Delta is on the left - Image by NASA/Johnson Space Center.
+AS15-87-11718b - A labelled version of 11718 to show the primary features of the site - Image by NASA/Johnson Space Center.
+AS15-87-11719 - Hadley Rille and the Apollo 15 landing site. Mount Hadley Delta is on the lower left - Image by NASA/Johnson Space Center.
+AS15-87-11720 - Hadley Rille at the Apollo 15 landing site. The landing site is at the lower right and Mount Hadley Delta is on the lower left - Image by NASA/Johnson Space Center.
+AS15-87-11721 - Hadley Rille and the area of Palus Putredinus west of the Rille - Image by NASA/Johnson Space Center.
+102:50:51 Mitchell: Endeavour, Houston. Omni Delta.
+Long comm break.
+In Falcon, Dave is carrying out his second realignment of the LM's guidance platform to the landing site REFSMMAT As the spacecraft is now in free flight rather than attached to the CSM, Dave will use P52 rather than P57. This technique requires Dave to manoeuvre the LM to make his chosen star move across the X and Y lines in the AOT's reticle, taking marks when it coincides with each line. A fuller description of the use of the AOT can be found in the commentary after 098:46:54. Note that the Flight Plan does not define who should carry out these realignments.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+The Flight Dynamics Officer [FIDO] has confirmed Al Worden's assessment of the landmark tracking. He reports that we appear to have gotten sufficient information from the landmark tracking to update the location of the landing site, and this would appear to clear the way for carrying out the landing on the planned revolution on the next rev. We'll be giving a Go for the powered descent on reacquiring at the beginning of the 14th revolution. The Command Module, Endeavour, now in a more or less circular orbit. Al Worden reported that the onboard computations of the orbit following the circularization burn were 65.2 by 54.8 [nautical miles, 120.8 by 101.5 km], which is very close to what we had anticipated and we'll be getting a ground computation of that orbit before too much longer. But it would appear from the information passed - passed down to the ground by Worden that the circularization maneuver was almost precisely as planned. Both crews, Irwin and Scott aboard the Lunar Module, and Worden aboard the Command Module, are presently involved in making the final alignments of their guidance system platforms prior to the powered descent.
+Al is also carrying out a P52 platform realignment to the landing site REFSMMAT.
+102:56:44 Mitchell: Falcon, Houston. [Pause.]
+102:56:50 Irwin: Alright. Go ahead, Ed.
+102:56:51 Mitchell: Let's see if you can reach Endeavour and ask him to bring the High Gain [Antenna] up. Flight Plan angles, please. Minus 69 and 114. [Pause.]
+102:57:05 Irwin: Roger. Endeavour, this is Falcon. How do you read? [Pause.] Roger. Houston would like you to bring up the High Gain [Antenna] to a minus 69 and a 114.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+102:59:24 Scott: Houston, Falcon. Do you have the torquing angles?
+102:59:26 Mitchell: That's affirm. We have [garble], Falcon.
+Dave has the three angles by which the LM IMU must be moved to bring it back into realignment up on his DSKY, from where Mission Control can read then via telemetry. Dave used stars 41 (Dabih, Beta Capricorni) and 01 (Alpheratz, Alpha Andromedae) and the angles through which the IMU platform had to be torqued were: X, -0.01°; Y, +0.023°; Z, -0.34°. The star angle difference, a check of Dave's sighting accuracy, was 0.01°, a good result.
+102:59:33 Scott: Rog. Torque to 30.
+102:59:36 Mitchell: Copy.
+102:59:41 Worden: Houston, Endeavour's up on High Gain.
+102:59:44 Mitchell: Roger, Endeavour. [Long pause.]
+103:00:12 Mitchell: And, Endeavour, we copy your Noun 93s.
+Mission Control has read Endeavour's torquing angles, via telemetry, off Al's DSKY. Noun 93 is the operand used to bring these values up on the DSKY. Al used stars 01 (Alpheratz, Alpha Andromedae) and 44 (Enif, Epsilon Pegasi) and the angles through which the IMU platform had to be torqued were: X, +0.023°; Y, -0.005°; Z, +0.009°. The star angle difference, a check of Dave's sighting accuracy, was 0.00°, an excellent result.
+LM Flight Plan page 3-124.
+CSM Flight Plan page 3-125.
+103:00:17 Worden: Okay, Ed. And I'll torque them out on the minute.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:07:23 Mitchell: Endeavour, Houston. Recommending monitor 92, Noun 92.
+103:07:32 Worden: Roger.
+Comm break.
+Al is calibrating the COAS (Crew Optical Alignment Sight) by using it to sight on the star Dabih in Capricorn. As part of that procedure, he is to monitor Noun 92 which gives the angles of Endeavour's optical system.
+The documentation available to me at the time didn't cover this operation and I asked Dave Scott what he could tell me about it.
+Scott, from 1999 correspondence: "COAS calibration - orient the spacecraft relative to one set of stars such that the plus-X axis points to some other known star; whereby the spacecraft orientation is based on a combination of both spacecraft attitude and optics angles. Then look through the COAS and the known star should be centered in the reticle. If not, the bias can be determined (e.g., one tic up and one tic right), and that will always be plus-X.
+Scott (continued): "One brief comment related to the COAS calibration. It should be remembered that, fundamentally, the CSM (and LM) procedures were designed to enable the crew to operate the spacecraft without MCC in Houston - primarily for communications loss. The MCC capability was then incorporated as additional capability within most procedures. Therefore, when evaluating, describing or outlining a flight 'procedure' (CSM or LM), if the procedure works when you take MCC out of the loop (if MCC is in the loop), then the procedure is correct. There may be some exceptions to this basic philosophy, but I can't think of any offhand - even the lunar landing procedures did not require MCC involvement to be successful. However, 'Mission Techniques' (Data Priority/Tindall) and 'Mission' Rules are another matter. Therefore, the COAS calibration procedure had to be independent of Houston, although, as a check or to simplify or verify, Houston could have been involved. The COAS was important for many piloting and independent CSM operations, such as spacecraft orientation, rendezvous, docking, etc. - e.g., if the IMU and communications with MCC both failed while in lunar orbit, the COAS could be used to align the BMAGs/GDC/SCS and then align the CSM for any particular maneuver or operations; e.g., TEI (Trans-Earth Injection)."
+Dave mentions Bill Tindall here who was famed within Apollo, not only for the important work he did in coordinating the development of mission techniques (i.e. How do we go to the Moon?), but also for his unique, chatty style of memo writing. Tindall's memos are an important resource to those studying the mechanics of the Apollo missions. The following memo, dated 11 November 1967, specifically dealt with the calibration of the COAS.
+Bill Tindall, from memo, dated 11 November 1967: "...the Command Module computer program - COLOSSUS - is being developed to permit use of the [COAS] as a backup reference source for aligning the IMU and for rendezvous navigation. This is to guard against some failure of the sextant and telescope as well as providing the capability to make line of sight measurements as might be helpful in a one man rendezvous situation. Since precise COAS alignment cannot be established prior to launch, a provision has been made in the spacecraft program to accept and utilize its alignment as determined inflight and specified with reference to the sextant. However, it is necessary that the ground supply so-called 'equivalent sextant' shaft and trunnion angles. ...
+Tindall memo (continued): "The inflight procedure is as follows. The IMU is aligned using the sextant. The spacecraft is then maneuvered in attitude such that the COAS is centered precisely on a known star and the Mark button is pushed to get the platform gimbal angles on telemetry to the ground. With this information, the ground is able to determine the 'equivalent sextant' shaft and trunnion angles. These are the angles which the sextant would have to assume to be centered on that star given that spacecraft orientation. Of course, it is impossible for the sextant to view the star with that spacecraft orientation since it would be located approximately on the spacecraft X-axis which is outside the field of view of the sextant. It is the equivalent sextant shaft and trunnion angles which must be relayed by voice to the crew.
+Tindall memo (continued): "When the crew later specifies to the computer that they are using the COAS, it displays these parameters which, if not correct, must be input. It then uses the optical observation obtained with the COAS just as if it were a sextant mark obtained with those shaft and trunnion angles..."
+Tindall's memo predates Apollo 15 by nearly 4 years and the detail of the procedure is bound to have been refined in the meantime. During our review in 2004, Dave talked further about Bill Tindall and the pivotal role he played in making a horrendously complex system come together.
+David Woods, from 2004 mission review: "I've heard a lot about the Tindallgrams but I'm interested to learn more about how the meetings operated."
+Frank O'Brien, from 2004 mission review: "Were these particularly large meetings? Were they lively, rowdy?"
+Scott, from 2004 mission review: "They weren't rowdy but there were some strong debates. And Tindall would control the debates in terms of giving people the opportunity to talk, and then mix and match and make the trades. And then he would make a decision and say, 'I'm gonna recommend this to management. Anybody have any really strong objections?' And the guy who lost the debate may say, 'Yeah, it won't work!' And Tindall would say, 'OK, fine. We'll go this way and if it won't work, we'll come back and re-address it, but we'll make a decision today.' And the beauty of Tindall's meetings was he made decisions on the spot. And the people who attended had the authority to make a commitment on behalf of their subsystem or whatever. So if they made a commitment, and they went back to their management and their management didn't like it, then the guy shouldn't be given the authority to make the commitment. And people were also very well qualified in their disciplines. The electrical guys or comm guys or whatever were very, very good. Tindall forced them into making commitments. Forced them. He said, 'OK. What are you gonna do? You gonna put two batteries on or one battery?' Guy says, 'I don't know.' Tindall would say, 'OK. We put one. Right?' 'Well, OK.' 'Done. Now, next subject.' That kind of thing where he kept it moving.
+Scott (continued): "They were good debates and anybody could stand up and debate the issue. But he kept it moving. He didn't get bogged down because he himself was a brilliant engineer. I think Tindall was a real key to the success of Apollo because of how he brought people together and had them communicate in very complex issues. I mean really big complicated trades."
+O'Brien, from 2004 mission review: "That must have been an incredibly difficult job for him because, okay, you have an EECOM guy, you have a GNC guy, you have a propulsion guy and their all experts in their fields and he has to know their job."
+Scott, from 2004 mission review: "Pretty much. Yeah. He was very good at it. If he didn't, he'd have them explain it. And in front of all their peers. If somebody found a hole in the explanation, they'd say, 'Hey, wait a minute, John. No, no, no. That's not the way it works. Remember it does this or that.' So this openness and discussion, but again, Tindall made decisions and he kept it moving. And his decisions were really recommendations to management."
+Woods, from 2004 mission review: " Tindall was mainly responsible for issues regarding the spacecraft. Was there a similar process to do with the launch vehicle at Kennedy?"
+Scott, from 2004 mission review: "Tindall was not just spacecraft. His data priority meant Mission Techniques. He was concerned with the whole operational part of the mission including the hardware and the software and how all that traded. So his domain, if you will, encompassed the whole mission. The launch vehicle had launch, 12 minutes or whatever. Tindall had the whole thing including launch. Launch aborts and things like that. So often a Tindall decision would affect the launch vehicle. Like the S-IVB. When do you vent the S-IVB and when do you do this and that with the S-IVB because it affected so much more of the mission."
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+103:09:38 Scott: Okay, Houston; Falcon. How's the P63 look?
+103:09:42 Mitchell: Okay, Dave. It looks very good. Time's okay. And be advised, both Endeavour and Falcon, that the P24 looked good. There will be an update, but we feel very confident about it. [Pause.]
+103:10:00 Scott: Okay, Falcon here. Very good.
+Earlier, Dave Scott started Program 63, which calculates the time of ignition, TIG, based on its own information and data uplinked up from Mission Control, and performs the first part of the powered descent burn, the braking phase. Houston is happy with the TIG solution it has arrived at. Around now, he will maneuver Falcon to the correct attitude for PDI while Jim is using the alignment of the PGNS to align the AGS.
+103:10:04 Mitchell: And, Falcon, we'd like to see a Verb 47 down to the AGS, please. And be advised that your platform, both gyros and PIPA [Pulsed Integrating Pendulous Accelerometers]'s, are [in] good shape. No updates to them.
+103:10:19 Scott: Very good. [Long pause.]
+Verb 47 initialized the AGS with the attitude and acceleration information from the PGNS. The AGS used gyros that are "strapped down", that is, fixed to the body of the LM, as opposed to the PGNS, whose gyros maintained a fixed attitude in space. Realignments of the AGS gyros using star sightings were not necessary, and being fixed, did not have to be "torqued" into proper alignment. As a result, a simple update from the PGNS was necessary to tell the AGS, essentially, "which way was up". This is very similar to the way that the BMAGs or Body Mounted Attitude Gyros in the CSM are aligned to the IMU with the GDC Align pushbutton.
+103:10:26 Scott: Houston, Falcon. While that's running through there, we're going back through notes, checking over the activation. And one thing we missed there was, just before undocking, we ran the suit pressure integrity check, and the first time around, we got a greater than 3/10ths decrease in one minute. So we cycled through both regulators, did that test, and came back and ran the suit integrity check again, and it was just fine. It was about 1/10th in a minute.
+Dave and Jim discussed this anomaly during the crew's technical debriefing which is reproduced after 099:29:40.
+103:11:38 Mitchell: Okay, Falcon. We copy that. Thank you.
+103:11:44 Scott: Okay.
+Long comm break.
+With Endeavour's orbit set for the next three days and the landmark tracking completed, Al puts the CSM into an attitude for gathering science data. The SIM bay is made to face the lunar surface while the plus-X axis points in the direction of travel, or "pointy-end-forward." This is an "orb rate" attitude in which the spacecraft keeps a constant attitude with respect to the ground below, but is slowly rotating with respect to the stars at a rate which matches the orbital period. P20 and option 5 sets and maintains this attitude. The deadband for holding the desired position is ±5°.
+103:12:56 Mitchell: Falcon, Houston.
+103:13:01 Scott: Houston, Falcon. Go.
+103:13:03 Mitchell: Rog, Dave. Talk about reviewing notes, we did so, also, and we found one we'd like to pass to you before LOS.
+103:13:12 Scott: Okay.
+103:13:14 Mitchell: Dave, we - working out a procedure down here that we simmed [that is, ran in the simulator], and it's in the event of a low thrusting DPS during PDI. We're prepared to call to you - an RCS thrust augmentation for one minute, at about one minute or a minute and a half into the burn. And recommend doing it on the LMP's TTCA [Thrust/Translational Control Assembly], if we have to do it at all. What do you think?
+103:13:47 Scott: That's fine. We'll try that if we need it.
+103:13:50 Mitchell: Okay, the procedures are very simple. We'll call it to you as we've measured the thrust.
+103:13:57 Scott: Okay. And I guess you'll call "On" and call "Off" with the TTCA, is that correct?
+103:14:03 Mitchell: We can. That'll just be a one minute - a one minute burst.
+103:14:11 Scott: Okay, fine. And by the way, when we went by PD - PDI-0, we took a couple of hacks at the altitude. It showed 10 [nautical] miles even.
+103:14:20 Mitchell: Very good.
+Comm break.
+The PDI-0 abort PAD was read to the crew during the previous near-side pass. It included a TIG for the abort at 102:39:35 which was one orbit before PDI is due to occur. When Falcon reached that point, Dave interrogated the DSKY, probably requesting the values given by Noun 43, the third item of which displays current height.
+Woods, from 1999 correspondence with Scott: "I'm interested to know why you felt it was useful to take this reading. It isn't mentioned in the Flight Plan and I wonder if it was prompted by some preflight discussion."
+Scott, from 1999 correspondence: "As you note, TIG occurs at the same physical point as PDI in the orbit - therefore, we knew that we would be starting PDI at 10 nm altitude - just where it is supposed to be. If we were low or high, we would have been able to start thinking about post-PDI guidance corrections, or that maybe we were not set up properly for PDI. It was basically a nice comfort factor that things were as they should have been. However, also note that the PDI-0 point was not at the same physical location over the surface as PDI, since the surface (and target point) would move under the orbit between PDI-0 and PDI."
+We're about three minutes away now from loss of radio contact with the Lunar Module. However we won't be losing contact with the Command Module due to its higher orbit for about 7 minutes - 7½ minutes. The contingency procedure which Ed Mitchell passed up to Dave Scott related to the use of the Reaction Control System thrusters on the Lunar Module in the unlikely event that the LM descent engine is significantly below normal in thrust. Normally that engine should produce about 9,900 pounds of thrust. If the thrust level should be about 260 pounds low or more, it would be possible to make up the difference by turning on the Reaction Control System thrusters, firing the 4 thrusters in the plus-X direction, adding to the thrust of [the] descent engine. These 4 thrusters each provide about 100 lbs of thrust and we found by simulating this technique, if the thrusters are applied early enough in the powered descent, a normal landing can be carried out.
+103:15:53 Mitchell: Falcon, Houston. You're about a minute and 40 seconds from LOS. We'd like to see your 400 plus 30000 before LOS.
+The AGS entry, 400 +30000 is used to align the AGS using the Primary Guidance System. Houston would like to have the alignment performed before loss of signal so that they have a chance to evaluate AGS performance.
+103:16:06 Irwin: Rog. In work.
+Long comm break.
+Al is scheduled to begin his meal period now.
+We're about 1 minute now from Loss Of Signal with the Lunar Module. And would like to reemphasize that that technique for using the Reaction Control System thrusters is a backup technique. The normal procedure would be to use only the Descent Propulsion System for the braking required for the landing. The Reaction Control System thrusters would be used solely for attitude control. And in the unlikely event that we have a low thrust engine once we turn on the Descent Propulsion System, then we'll have up the sleeve the possibility of using the Reaction Control System thrusters.
+103:17:19 Mitchell: Falcon, Houston. LOS in 30 seconds.
+103:17:24 Scott: Roger, Houston; Falcon. All set.
+103:17:40 Worden: Omni Delta...
+103:17:47 Worden: Endeavour; Rog. [Long pause.]
+103:17:59 Worden: Okay.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+We've had Loss Of Signal with the Lunar Module, Falcon. We're getting weak signal strength from the Command Module, although we do have about 3 minutes left before we lose radio contact with Endeavour. And as Falcon went around the corner behind the Moon, we were showing the Lunar Module in an orbit, 60.6 [nautical miles, 112.2 km] at its high point; 60.6 nautical miles, and with a low point of 8.5 nautical miles [15.7 km] above the lunar surface.
+103:21:30 Mitchell: Endeavour, Houston.
+103:21:36 Worden: Houston, Endeavour. Go ahead.
+103:21:37 Mitchell: Rog, Al. Your a minute from LOS. We recommend, on the next pass, check your S-Band Squelch Switch, Off.
+103:21:50 Worden: Ah, Rog. [Laughing.]
+103:21:52 Mitchell: Thank you.
+103:21:53 Worden: Thank you. It was On.
+While Al is settling into his meal, Dave and Jim are making final preparations for the powered descent to the Moon's surface. As they begin the 14th orbit, they are putting on their helmets and gloves, checking out the Environmental Control System (ECS) and making sure that the appropriate switches are set for PDI. Biomedical data is switched to Left meaning from Dave who is occupying the left side of the cockpit.
+At some point before they go around to the far side, one of the LM crew snaps two shots of Earth. The following scans of these two images are from the March to the Moon website from Arizona State University. Their scans of the Apollo Hasselblad collection were made at 200 pixels per millimetre, resulting in very large arrays, around 11,000 pixels to a side. Therefore, as well as full versions, a crop of Earth is included for each shot.
+AS15-87-11722 - Earth - Image by NASA/ASU.
+AS15-87-11722 - Earth, cropped from full image - Image by NASA/ASU.
+AS15-87-11723 - Earth - Image by NASA/ASU.
+AS15-87-11723 - Earth, cropped from full image - Image by NASA/ASU.
+And, we've had Loss Of Signal now with the Command Module. When next we reacquire the Lunar Module, Falcon, will be about 25 minutes away from the scheduled time of the powered descent, the beginning of the powered descent to the lunar surface. And as both spacecraft went around the corner, everything appeared to be normal. At this point we see nothing that would interfere with a normal landing. We'll be getting the - taking a final look at the status of the trajectory in both spacecraft on reacquiring, and at that time a decision for the powered decent will be made. However, as we say at the present time we see nothing that would stand in - stand in the way of a normal landing on the 14th revolution. At 103 hours, 24 minutes; this is Apollo Control, Houston.
+LM Flight Plan page 3-126.
+CSM Flight Plan page 3-127.
+Rev 14 begins at about 103:43.
+Midway through this far-side pass, soon after they come back into sunlight, Dave manages to take some photography from his window.
+AS15-87-11724 - Mare Ingenii, caught just before the Sun sets on it. The flooded ring which dominates this south-facing photograph is the crater Thompson which forms part of the mare - Image by NASA/Johnson Space Center.
+AS15-87-11725 - Mare Ingenii - Image by NASA/Johnson Space Center.
+At about 103:58, Dave takes four photos of Tsiolkovsky, a spectacular dark-floored crater on the lunar far side.
+AS15-87-11726 - Crater Tsiolkovsky - Image by NASA/Johnson Space Center.
+AS15-87-11727 - Crater Tsiolkovsky - Image by NASA/Johnson Space Center.
+AS15-87-11728 - Crater Tsiolkovsky - Image by NASA/Johnson Space Center.
+AS15-87-11729 - Crater Tsiolkovsky - Image by NASA/Johnson Space Center.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We're now about 4 minutes from reacquiring the Lunar Module Falcon, now on its 14th revolution of the Moon. On reacquisition of the Lunar Module, the crew will be in final preparations for the powered descent. The Flight Dynamics Officer [FIDO] reported that results of the landmark tracking were all satisfactory. And we're, as far as the trajectory is concerned, in good shape for the powered descent. We will have to steer out about 3.3 miles - nautical miles of cross-range error and this will be taken into account in the targeting for the powered descent. I would like to run over the major sequence of events which will occur in the powered descent. At about 3 minutes prior to the initiation of the maneuver, Scott and Irwin will yaw 50 degrees left; this is to clear the Lunar Module antennas so that we have good lock-on, good communications during the early portions of the powered descent when the LM body tends to block the antennas without the yaw maneuver. Initiation of the powered descent is scheduled to occur at 104 hours, 30 minutes and 11 seconds Ground Elapsed Time; and the nominal burn time would be about 12 minutes to the landing. For the first 26 seconds of the burn on the Descent Propulsion System engine, the throttle will be at Minimum; this is to allow the engine gimbal to trim up, get everything going in the right direction before full - full thrust is applied. At about 26 seconds, the guidance system throttles the engine to full thrust which is about 9,900 pounds of thrust and is also the thrust level that is maintained throughout a good portion of the braking phase. After 3 minutes of burn time, the crew will yaw face up which is the normal attitude for landing radar acquisition. At this time, they will be in a position facing upward with their feet, so to speak, in the direction of travel and the LM will be gradually pitching into a more upright position throughout the powered descent maneuver. At about 4 minutes into the burn, we can expect to get landing radar data. This landing radar updates will begin feeding into the guidance system, improving its knowledge of how far above the lunar surface the Lunar Module is. And at about 7½ minutes into the burn, Lunar Module Falcon will pass over the Apennine Front, clearing the mountains at a height of about 10,000 feet, passing about 10,000 feet above the mountains which at that point have an altitude of about 12,000 feet above the landing site. And at about 9 minutes, 24 seconds; we would reach the point designated "High gate," at which the Lunar Module pitches forward to give the crew their first visibility of the landing site. And at this point, they will be switching to Program 64 in the guidance logic which will carry them from an altitude of 7,000 feet down to the altitude of about four or five hundred where they'll switch to Program 66 for the final descent. At this point, Dave Scott will most likely be flying with Automatic Attitude Control and he will be controlling the rate of descent manually from probably about 4 to 500 feet vertically down to touchdown. Because of the nature of this landing site, there are several opportunities during the powered descent to update the guidance system's knowledge of where it is with respect to the landing site. We have had Acquisition of Signal with the Lunar Module. We'll stand by for a call to the crew.
+104:05:42 Mitchell: Falcon, Houston. [No answer.]
+104:06:00 Mitchell: Falcon, Houston.
+104:06:05 Scott: Houston, Falcon. Go.
+104:06:08 Mitchell: Roger, Falcon. We're ready for your Ascent Bat On time and your ED Bat report. [Pause.]
+104:06:18 Irwin: Roger, Ed. The Ascent Bats were On at 103:50:45, and I'll check the ED Bats now. [Long pause.]
+104:06:53 Irwin: And, Houston, this is Falcon. ED batteries both check at 37 volts.
+Batteries in the ascent stage of the LM were brought online while Falcon was behind the Moon. The ED batteries are for detonating the Explosive Devices which separate the ascent stage from the descent stage in the event of an abort during the descent, or when the time comes for lunar lift-off when these pyrotechnic devices must work if the crew is to leave the surface.
+104:06:53 Mitchell: Copy; 37 volts. And I have an update to your PDI PAD. [Pause.]
+104:07:06 Irwin: Roger. Go ahead.
+104:07:08 Mitchell: And, Falcon, give us P00 and Data, and we'll give you an uplink. [Pause.]
+Mission Control are going to uplink their most recent calculation of the LM's state vector, probably based on Al's landmark tracking exercise.
+104:07:20 Scott: P00 and Data. Go ahead with the PAD.
+104:07:22 Mitchell: Roger. India: 104:30:08.54.
+104:07:32 Irwin (onboard): Yes? Okay.
+Mitchell (continued): Noun 61 crossrange, plus 0003.3 and your DEDA's 231 entry, plus 56943.
+The PDI-1 PAD was read up at 102:27:58. CapCom Ed Mitchell is giving them two updates to this PAD:
+Revised time of ignition for PDI: 104:30:08.54, 2.4 seconds earlier than before.
+The LM will have to steer 3.3 nautical miles (6.1 km) north during the descent to compensate for the their orbit being slightly out of the ideal plane.
+Mitchell also gives them a value to be entered at address 231 in the AGS computer which Jim punches in using the DEDA (Data Entry and Display Assembly), the equivalent to the DSKY. The value possibly represents the RLS (Radius of Landing Site or the distance of the landing site from the Moon's centre) in terms understood by the simple logic of the AGS.
+104:07:57 Irwin: Ed, if you're reading us, you ought to call us after the - the uplink. We cannot read you.
+104:08:13 Scott (onboard): Locked up yet?
+104:08:14 Irwin (onboard): No.
+104:08:18 Scott (onboard): Here it comes; don't change it. It's coming in.
+104:08:33 Irwin (onboard): Throttle control, Auto.
+104:08:35 Scott (onboard): Auto.
+104:08:36 Mitchell: Falcon, Houston. How do you read now?
+104:08:42 Irwin: Read you loud and clear, Ed. I'm ready for that update now.
+104:08:45 Mitchell: Roger. India: 104:30:08.54; Noun 61 crossrange, plus 0003.3; DEDA 231, plus 56943. [Pause.]
+104:09:14 Irwin: Roger. 104:30:08.54; crossrange, plus 0003.3; DEDA 231, plus 56943.
+104:09:26 Mitchell: Readback is correct, and be advised that crossrange number means you're going from south to north. You'll probably see some roll during the PDI.
+104:09:39 Irwin: Roger.
+Comm break.
+104:09:40 Irwin (onboard): Okay, your T - your Throttle in min? Okay. Throttle, min.
+104:09:48 Scott (onboard): Okay.
+104:09:49 Irwin (onboard): Throttle, soft stop.
+104:09:51 Scott (onboard): Okay.
+104:09:52 Irwin (onboard): Rate Scale, 25 Degrees Per Second.
+104:09:54 Scott (onboard): 25.
+104:09:55 Irwin (onboard): Attitude/Translation, 4 Jet.
+104:09:56 Scott (onboard): 4.
+104:09:57 Irwin (onboard): Check DPS, APS, RCS, ECS, EPS. Okay?
+104:10:03 Scott (onboard): Looks all right.
+We're coming up now on 20 minutes until ignition for the powered descent. The landing point for Apollo 15, in a plains area boxed in by mountains on one side, actually on two sides and a rille on the third side. We'll put Falcon down about 1 mile from the Hadley Rille. They'll be coming in about 2 miles to the south, rather to the north of the point where Hadley Delta begins to rise abruptly to an altitude of about 13,000 feet above the landing site, and approximately 6 miles behind their approach path, about 6 miles from the touch down point to the east, the Apennine Front itself begins to rise up to about 12,000 feet, with the highest peaks in that Front about 15,000.
+And here in Mission Control, we've switched over from the large display of the lunar surface that we've had up on our front plot board since going into lunar orbit. We now have the analog displays which will tell the Flight Dynamics Officer [FIDO] how well the descent trajectory is progressing and includes abort lines that will tell him if any of the parameters or the characteristics of the trajectory are approaching unsafe limits.
+Endeavour's orbit is, on average, higher than Falcon's and it is therefore slower. Al has only now reached AOS and he has relatively little to do while Mission Control concentrate on working with Dave and Jim leading up to the descent and through to a safe landing.
+104:10:18 Scott (onboard): Did you check the RCS? Okay. ECS look all right?
+104:10:27 Irwin (onboard): Yes.
+104:10:52 Irwin (onboard): If we should be up-linked, Dave, I'll need a - Verb 47.
+Verb 47 is to initialise the AGS. The DEDA (the keyboard and display for the AGS) is on Jim's side of the cabin.
+104:10:57 Scott (onboard): Okay.
+104:11:42 Mitchell: Endeavour, Houston. Standing by. [Long pause.]
+And our Instrumentation and Communications Engineer reports that we should have lock on now with Endeavour. Al Worden in the Command Module.
+104:12:01 Irwin (onboard): ... computer, because...
+104:12:04 Mitchell: Falcon, Houston. Computer's yours.
+Mission Control have completed their uplink to Falcon's computer and control of it is restored to the crew.
+104:12:09 Scott: Roger. Thank you.
+104:12:12 Scott (onboard): Thirty-nine point - How's that?
+104:12:13 SC (Tone)
+104:12:13 Mitchell: Endeavour, Houston. [No answer.]
+104:12:20 Scott (onboard): (Laughter) Enter.
+104:12:48 Scott (onboard): Okay. Looks like I just screwed. Okay.
+104:12:50 Mitchell: Endeavour, Houston. [No answer.]
+104:13:11 Mitchell: Endeavour, Houston. How do you read? [No answer.]
+104:13:19 Mitchell: Endeavour, Houston. You're on the scan limit. Go to Reacq when you're at the angles. [No answer.]
+Comm break.
+The Flight Plan includes appropriate angles for Al to set the HGA (High Gain Antenna) to.
+104:13:38 Irwin (onboard): Okay. That's good.
+104:14:30 Irwin (onboard): Get - I think we Enable on the - S-Band?
+104:14:34 Scott (onboard): Okay. Houston, how do you read Falcon?
+104:14:41 Mitchell: Endeavour, Houston. How do you read?
+104:14:46 Worden: Houston, Endeavour. Loud and clear.
+104:14:48 Mitchell: Roger, Endeavour. I have an update for the PDI PAD, India. [Pause.]
+104:15:03 Worden: Okay, Houston. Go ahead.
+104:15:05 Mitchell: It's 104:30:08.54, Al. [Pause.]
+104:15:17 Worden: Understand. PDI is 104:30:08.54.
+Mitchell is essentially informaing Al when the LM's descent will begin.
+104:15:23 Mitchell: Good readback.
+Comm break.
+104:16:32 Mitchell: Endeavour, Houston. We're ready for Auto on the High Gain [Antenna] please.
+104:16:41 Worden: Rog. Auto.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+104:18:42 Mitchell: Falcon, Houston.
+104:18:47 Scott: Houston, Falcon. Go.
+104:18:49 Mitchell: Roger. We did not see the 231 load go in. Can you verify that, please? [Pause.]
+104:19:02 Scott: In work. [Pause.]
+231 is the AGS entry which was requested at 104:08:45. The value, +56943, represents RLS, the radius of the landing site in hundreds of feet. It is essentially a line drawn from the centre of the Moon to the landing site. To better appreciate its value, multiply by 100 to get 5,694,300 feet. Convert to metres by multiplying by 0.3048 to get 1,735,623 metres or 1,735.6 kilometres. Jim needs to enter on the DEDA, 231 (the address where the value will be stored) then +56943.
+104:19:10 Irwin: There's the readout. I didn't put the 231 in. You want that also, Ed?
+104:19:15 Mitchell: That is affirmative, Falcon. [Long pause.]
+104:19:46 Mitchell: Okay, Falcon. Thank you. [Long pause.]
+We're coming up now on 10 minutes until the beginning of this 12-minute powered burn to the lunar surface. At the initiation of this maneuver, the Command Module Endeavour will be about 350 nautical miles [650 km] behind the Lunar Module. The Command Module will pass overhead at just about the time the Lunar Module is touching down. Aboard the Lunar Module Falcon the crew has completed updating their backup guidance system with the same information that has been loaded into the Primary Guidance [and Navigation] System.
+104:20:37 Scott: Hey, Houston, Falcon on Vox. How do you read?
+Dave and Jim switch their communications to Vox. Rather than having to press a button to talk to Earth, voice-operated switches will transmit every time they speak, allowing Mission Control to monitor the crew's exchanges during the descent.
+104:20:40 Mitchell: Loud and clear, Dave.
+104:20:44 Scott: Okay.
+104:20:47 Scott: [Garble] off. [Long pause.]
+And the crew has now switched on the guidance program - program 63 which will guide the Lunar Module during the initial portion of the power descent, the principal braking phase.
+104:21:19 Irwin: Okay. Propellant Quantity Monitors, Descent 1.
+The descent stage contains four tanks, two each for fuel and oxidiser. All four have systems for measuring the quantity of propellant contained within but the crew can only monitor one set of tanks (one fuel and one oxidiser) at a time. By default, Jim selects set 1. During powered descent, Mission Control will discuss which set is giving a more conservative reading before deciding a couple of minutes before landing to stay with set 1.
+104:21:21 Scott: [Garble].
+104:21:23 Irwin: Okay; you ready for the DPS configuration card?
+104:21:26 Scott: Rog.
+Since the crew are using the Vox mode of communication, this is one of the few occasions where we get to hear how they operate. Dave and Jim both have an intensive aviation background and are used to the strict protocols of challenge and response used in checklists used in every good pilot's routine prior to flight.
+Jim has cue card F16 in front of him and reads each line to Dave who confirms that the action required in each has been carried out.
+DPS Burn cue card
+104:21:27 Irwin: Okay; CBs on 11. DECA Gimbal AC, Closed.
+104:21:31 Scott: DECA Gimbal AC is Closed.
+The DECA (Descent Engine Control Assembly) package is mounted in the descent stage and translates all the signals from the crew's controls or from the computer to the appropriate gimbal actuators on the descent engine. The circuit breaker call is to route power to those actuators. They adjust the engine's direction of thrust, ensuring the thrust axis passes through the LM's centre of mass.
+104:21:33 Irwin: Command Override logic is Closed. Att Control circuit breakers, all Closed, except AEA, Open.
+104:21:39 Scott: Roger, verified.
+Command Override is a shorthand for "Descent Engine Command Override", which will allow either pilot to assume control of the descent engine's thrust using the Thrust/Translational Hand Controllers, if required.
+Jim then refers to a number of circuit breakers for Stabilization and Control that are located on both his and Dave Scott's panels, which control vital systems such as the hand controllers, the engine controller and engine arming and starting.
+Most of these are critical systems, and are powered by two independent electrical busses referred to as simply the Commander's and LMP's busses. As a result, there is a set of circuit breakers for these systems on both the Commander's and the LMP's panels. By closing the breakers for a particular system on both panels, that piece of equipment will have a source of power if one bus fails. The Abort Electronics Assembly (AEA), which includes the Abort Guidance Computer, consumes a nontrivial amount of power, and is left off the Commander's bus to better balance the load on the busses.
+104:21:41 Irwin: Rate Scale, 25 degrees per second.
+104:21:43 Scott: 25.
+This switch sets the sensitivity of the attitude error needles and the rotational rate indicators (small arrows on a scale at the periphery of the LM's two FDAIs.)
+104:21:44 Irwin: Thrust Control, Auto, CDR.
+104:21:45 Scott: Auto, CDR.
+The engine thrust controls are being set to allow the computer to control automatically, as opposed to manually by the crew. If manual control were to be selected (as it was in Apollo 13), another switch directs the engine to take its commands from the Commander's Thrust/Translational Hand Controller.
+104:21:46 Irwin: Attitude/Translation, 4 Jets.
+104:21:47 Scott: 4 Jets.
+As with the CSM, attitude control can be done using all four of the quad jet assemblies around the LM, or just two of them. In the LM, the sixteen jets are arranged in two redundant sets, each of which fully capable of maneuvering the vehicle. When four RCS jets are used, both RCS systems are used adding redundancy if one system should fail. Additionally, using four jets for maneuvering gives more authority to control commands when the full descent stage is still attached.
+104:21:48 Irwin: Balance Couple, On.
+104:21:49 Scott: On.
+Balance Coupling is a function specific to the AGS, in which balanced sets of thrusters are selected for attitude maneuvering. The RCS system is designed as two independent systems, and each system controls half of the thrusters and is capable of handling the attitude control functions of the LM. The AGS doesn't have a sophisticated Digital AutoPilot (DAP) as the PGNS does (remember, the DAP is a software entity, not hardware) and the balance coupling provides the RCS jet selection logic necessary to perform a maneuver.
+104:21:50 Irwin: Engine Gimbal, Enable.
+104:21:51 Scott: Enable.
+The actuators for the engine gimballing system not only have power (from a previous step) but can now accept control commands.
+104:21:52 Irwin: [Descent Engine] Command Override, Off.
+104:21:53 Scott: Off.
+Descent Engine Command Override allows the crew to override the engine thrust commanded by the computer. We believe it really only works "in one direction", that is, to add thrust by manipulating the Thrust/Translational Hand Controller. This is contrasted to the manual engine control, where the computer is no longer controlling the engine, and all thrust changes are made through the hand controller.
+104:21:54 Irwin: Abort, Abort Stage, Reset.
+104:21:55 Scott: Reset.
+This resets the Abort and Abort Stage 'discretes', essentially the representative bits in the computer. This is done, of course, to make sure that there aren't any stray bits that might cause an unexpected abort when the computer starts the powered descent program.
+104:21:56 Irwin: Deadband, Min.
+104:21:57 Scott: Min.
+As with the Command Module, there are two commonly used settings for the attitude control deadband. The or Max(imum) deadband is 5° while Min is ½°.
+104:21:58 Irwin: Attitude Control, 3, to Mode Control.
+104:21:59 Scott: Mode Control.
+This gives control over Roll, Pitch and Yaw rotations to the computer.
+104:22:00 Irwin: PGNS, AGS to Auto.
+104:22:01 Scott: Auto, Auto.
+The mode control switch has two settings (other than 'off'); Auto and Attitude Hold. In the Auto mode, the computer has full control of the vehicles attitude, and can command it to whatever attitude the currently running program requires. Of course, the crew can stop any maneuver through a suitably assertive motion on the attitude hand controller.
+Attitude Hold is a quasi-manual mode, where the computer attempts to hold the spacecraft at the current attitude. If a crewmember wishes to maneuver the vehicle, the computer will let him. When the desired attitude is reached, the crewmember will null the rotational rates, and once below a certain deadband value, the computer will again hold that attitude.
+Attitude hold is particularly useful when there is lots of movement inside the spacecraft, such as crewmembers moving about or the motions of fuel sloshing in the tanks.
+Additionally, Attitude Hold imparts an element of stability and ease of control to the LM. Without the computer's intervention, it would be almost impossible to maneuver the LM and then hold it steady at the desired attitude.
+104:22:02 Irwin: Stop pushbutton, both reset.
+104:22:03 Scott: Both reset.
+As with the Abort Stage discrete, this is simply resetting the 'Stop Engine' discrete, so that it doesn't accidentally shut down.
+104:22:05 Irwin: Okay. The throttle, Yours to Min and mine to Soft Stop.
+104:22:09 Scott: Soft stop. And you're - you're clipping a little bit on the first part, Jim.
+104:22:17 Irwin: Okay. [Long Pause.]
+When the powered descent begins, the descent engine will start at 10 per cent of full thrust while the control system senses the direction of the thrust and adjusts the gimbal actuators to align it with the LM's centre of gravity. In case Dave has to assume manual thrust control early in the descent, his TTHC is preset to its Minimum (10 per cent) position, and in case his control lever fails during the descent, they can switch over to Jim's which has been preset to the "soft stop" position.
+The sensitivity of the VOX switch for Jim's mike is set too low and doesn't operate until he is well into his utterance.
+104:22:29 Irwin: We're down here where I can take a Verb 40, Noun 20.
+104:22:32 Scott: Okay. Go. [Long pause.]
+Verb 40 zeros the CDUs (Coupling Data Units). Noun 20 displays the ICDU angles for the three gimbals.
+104:23:06 Irwin: [Garble] On.
+104:23:07 Scott: Say again.
+104:23:08 Irwin: AGS steering is in.
+104:23:10 Scott: Okay. [Pause.]
+Guidance Mode Select has been switched to AGS from PGNS as a final check of the Abort system. If there are any problems with the AGS in maintaining attitude control, it will become apparent now. Guidance Mode Control will be switched back to PGNS at about PDI minus 2 minutes.
+104:23:18 Irwin: Stand by for 5 minutes [to PDI ignition].
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+A last look at the Lunar Module orbit showed it to be in an orbit with a high point of 60.6 nautical miles [112.2 km] and a low point of about 8.1 nautical miles [15.0 km]. The Command Module Endeavour, that was in an orbit of 64.6 by 53.8 [nautical miles, 119.6 by 99.6 km]. And we're now coming up on about 6 minutes prior to the beginning of the powered descent. Everything continuing to progress very smoothly, and rather quietly here in Mission Control at the moment.
+104:25:11 Irwin: Five minutes.
+104:25:12 Scott: Okay. [Garble].
+104:25:13 Irwin: [Garble, may be landing radar] breaker is in. Altitude transmitter.
+104:25:18 Scott: Altitude transmitter is 3.7; velocity's 3.8.
+The altitude transmitter call is a request to Dave to verify the signal strength of the radar. There are two transmitters in the landing radar, one for altitude and one for velocity.
+104:25:23 Irwin: Stand by for 4 minutes for [garble]. [Pause.]
+104:25:36 Irwin: Reading me any better, now?
+104:25:37 Scott: Yep. [Long pause.]
+Flight Director Glynn Lunney, at this moment getting a final status for powered descent.
+104:26:09 Scott: Okay. Go for the final trim.
+This is the final attitude trim before PDI. If the LM has drifted from it's PDI attitude, this is the opportunity to correct it.
+104:26:11 Mitchell: And, Falcon, you are Go for PDI.
+104:26:19 Scott: Roger. Go for PDI.
+LM Flight Plan page 3-128.
+CSM Flight Plan page 3-129.
+Readers can follow the progress of Falcon through landing, the surface activities and return to orbit by following the link to the Apollo Lunar Surface Journal by Eric Jones. All the pages from the Flight Plan, including those for the surface activities are available by going to the Flight Plan index page.
+Day 5, part 5: CSM Circularisation
+Journal Home Page
+Landing at Hadley (ALSJ)
+Day 5, part 7: Solo Orbital Operations - 1

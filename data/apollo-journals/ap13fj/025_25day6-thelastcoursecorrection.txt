@@ -1,0 +1,657 @@
+Apollo 13 Flight Journal - Day 6, part 4: The Last Course Correction
+Day 6, part 3: Worn Out Crew
+Journal Home Page
+Day 6, part 5: Service Module Separation
+Apollo 13
+Day 6, part 4: The Last Course Correction
+Corrected Transcript and Commentary Copyright ©2020-2025 by W. David Woods, Johannes Kemppanen, Alexander Turhanov and Lennox J. Waugh. All rights reserved.
+Last updated 2025-09-21
+Only 10 hours remain to the splashdown of Apollo 13. The crew has received all the instructions needed to reawaken their Command Module Odyssey, plus instructions on Lunar Module separation, required to be ejected before the crew's return to Earth in the heatshield-protected Command Module. Although the LM still serves fine as their shelter, the crew is starting to show signs of the extreme fatigue caused by their situation. Everyone is trying to catch some rest now, before the stress of the reentry.
+This is Apollo Control at 131 hours, 47 minutes. Apollo 13 now 66,596 nautical miles from the Earth travelling at a speed of almost 7,500 feet per second at the present time, and we're some 10 hours, 53 minutes from reentry. 5 hours, 53 minutes from the scheduled mid-course correction maneuver, mid-course correction 7, which is targeted to put Apollo 13 in the center of the reentry corridor. Our last communications with the spacecraft was at 129 hours, 39 minutes when we completed passing up the Lunar Module preentry checklist to Fred Haise, and we presume that all three of the crewmen have been resting or at least relaxing since that time. At 128 hours, 17 minutes or about 3½ hours ago Fred Haise and - rather Jack Swigert and Jim Lovell were scheduled to begin a rest period. Although, we did hear from Jim Lovell once or twice, after that time, we have not heard from Jack Swigert since the rest period began. At 131 hours, 49 minutes; this is Mission Control, standing by.
+Distance to go, 123,336 km, velocity, 2,286 m/s.
+This is Apollo Control at 132 hours, 29 minutes...
+132:28:45 Lousma: Fred, are you sleeping. [Pause.]
+132:28:54 Haise: Go ahead. [Pause.]
+Undiscussed on the air to ground radio loop, Fred is feeling worse for wear. He has developed a urinary tract infection as a result of insufficient water intake.
+Lovell, from 1970 Technical debrief: "Fred woke up with chills before we did midcourse correction 7."
+Haise, from 1970 Technical debrief: "Yes. I wasn't sure what gave me the chills. I was back in the CM at about that time, and I had to go to the bathroom. I stripped naked in the 42 degree temperature ricocheted around touching bare metal, and it just chilled me to the bone every time I'd touch anything. You can't help but bounce all around in there. I was really cold for the next 4 hours. From that time on, it sort of began to catch up with me. I began to feel tired. Before that, I really didn't feel much effect at all."
+132:28:59 Lousma: Fred, in a couple of minutes we're going to hand over the Honeysuckle, so there'll be - Our uplink will be terminated. We'll contact you when we get it back. [Pause.]
+132:29:15 Haise: Okay. [Long pause.]
+They are passing the MSFN duty from the station in Goldstone, California to Honeysuckle in Australia, leading to a momentary break in communications.
+132:29:35 Lousma: After that, I've got a couple minutes of work for you. [Pause.]
+132:29:45 Haise: All right. Go ahead.
+132:29:51 Lousma: Let's wait until after the handover. [Long pause.]
+132:30:21 Haise: Are you there, Jack?
+132:30:23 Lousma: Yes, I'm hearing you loud and clear. How me, Fred?
+132:30:28 Haise: [Garble.]
+132:30:30 Lousma: Okay. We want to get some ranging data on you for about 15 minutes. So close the Power Amplifier circuit breaker and go to Normal Voice, please.
+Once again, the radio system is reconfigured to support the ranging function.
+132:30:40 Haise: Okay. [Long pause.]
+132:31:02 Haise: Okay. You ought to have it now, Jack. [Pause.]
+132:31:09 Lousma: Okay. You're coming through good now, Fred. I've got three Deltas to the checklist. They're minor changes. I'd like to pass them along now. One of them is to the CSM checklist. So if you'll pick that up, I'll give it to you.
+132:31:25 Haise: Okay. Which one?
+132:31:29 Lousma: Okay. Stand by 1.
+132:31:33 Haise: Is it the one Jack wrote them all in? The big long readout? He also wrote something in the G&N book.
+132:31:41 Lousma: It's in the big, long one he wrote out at about EI minus 02:30. EMS entry check.
+132:31:51 Haise: Okay. He's coming back down with it. [Long pause.]
+132:32:37 Lousma: Meanwhile, Fred, I've got two for you on the LM Prep checklist.
+132:32:44 Haise: Okay. Jack's here now. I'll hand it to him. [Long pause.]
+132:33:28 Swigert: Okay, Houston; Aquarius.
+132:33:32 Lousma: Hello, Aquarius. I've got a couple of changes for you on your CSM checklist. [Pause.]
+132:33:44 Swigert: Okay. Stand by 1. [Pause.]
+132:33:56 Swigert: Okay. Go ahead.
+132:34:00 Lousma: Okay, Jack. The time line between EI minus 02:30 and 1 hour is real crowded, so you're really going to have to hustle, and we've decided to delete the EMS entry check at minus 02:30. That'll give you a little more time in there. What we've decided to do with it is wait until after EI minus 1, just before you initialize the EMS. If you have time, and only if you have time, do the EMS entry check. Otherwise, forget it and go right on into EMS initialization. You understand?
+132:34:49 Swigert: Okay. You're going to delete between 2 hours and 30 minutes and 02:15 there, and you're going to add it, if there is time, only if there is time, at EI minus 1 hour where the EMS initialization occurs.
+132:35:11 Lousma: That's right. You got it correctly. Okay, Jack. One other item. Just before EI minus 2 hours and 15 minutes, we need an E-memory dump Verb 74 Enter. Over. [Pause.]
+132:35:40 Swigert: Okay. Stand by 1, would you, please? [Long pause.]
+132:36:24 Swigert: Okay. Right before 2 hours and 15 minutes, I assume that's before MSFN gives their P27 update, I do a Verb 74. Right?
+132:36:34 Lousma: That's affirmative, Jack. [Long pause.]
+Mission Control wants a look at the erasable memory before the computer update, and will require a Verb 74 to downlink its contents.
+132:36:54 Lousma: How much sleep did you get, Jack? [Pause.]
+132:37:01 Swigert: Oh, I guess - Stand by. I guess maybe 2 or 3 hours. It was awful cold, and it wasn't very good sleep.
+132:37:15 Lousma: Roger. You plan to try to get any more?
+132:37:20 Swigert: What GET do you have?
+132:37:24 Lousma: We got 132:37. [Long pause.]
+132:37:40 Swigert: Well, if I - If I get everything done, I'll try, but I tell you, it's almost impossible to sleep. [Pause.]
+132:37:59 Swigert: All of us have that same problem. It's just too cold to sleep.
+132:38:07 Lousma: Roger. The way we're looking at it, looks like you ought to have a couple free hours here before you have to really get with it. [Pause.]
+132:38:19 Swigert: We'll - we'll take it easy, but I - and we'll try to sleep, but it's just awful cold. [Pause.]
+132:38:33 Lousma: Present data indicates that your entry angle is minus 6.03 degrees. Your Delta-V at the midcourse is going to 2.8 feet a second.
+132:38:45 Swigert: Okay. Copy. [Pause.]
+132:38:54 Lovell: Jack, this is. Jim. I understand this is going to be an RCS burn.
+132:39:01 Lousma: That's affirmative, Jim. It's going to be an RCS burn.
+132:39:05 Lovell: Okay.
+The final midcourse correction will be so small that using the RCS jets will be the best way to achieve it, rather than the DPS.
+132:39:10 Lousma: And we need the Suit Circuit Relief valve back to Auto. Correction, back to Close. [Pause.]
+Suit circuit and LiOH canister selection levers. It appears that they have once again bumped at the valve or at the oxygen hoses, causing the valve to go out of place.
+132:39:24 Swigert: Hey, Jack, that's in work. And one thing, comparing Jim's checklist with my own, I find one difference there at EI minus 02:30. His checklist has me changing a - opening a EPS Sensor Signal circuit breaker right prior to turning off LM power. Is - I'd like to find out which checklist is correct.
+Comm break.
+132:41:05 Slayton: Hey, Jack. The LM checklist is just for information to Jim. It's just to tell him that - that you're changing back to Command Module power. Your checklist is correct. Over.
+132:41:20 Swigert: Okay. And when do you figure that you'll be sending up the PADs that you have?
+Long comm break.
+132:44:02 Lousma: Aquarius, all of your PADs will be coming up in about 3½ hours, at EI minus 06:30. And one thing we want to remind you of, when you remove power from the Command Module LM umbilical, is to be sure that you open the LM Power Main B circuit breakers, both of them, before you start throwing switches and circuit breakers in the LM. Do it as we've outlined it in the procedure, in that order. Over.
+132:44:33 Haise: Okay. That's the way we planned on it. We'll let Jack do his three and then he'll tell us when we're Go from there. What pages are those changes on? [Pause.]
+132:44:48 Lousma: Okay, Fred. The one I've got for you is at the end of power removal from the Command Module LM umbilical. And just for your information, after you go through that entire procedure and about the time you're ready to transfer to the Command Module, at that time, power will be removed from the umbilical, and it's okay to disconnect it. That is, after you've thrown the switches in the LM. Is that clear?
+132:45:21 Haise: Roger. That's where I've got a remark here to check with you to see if it's all right to proceed.
+132:45:28 Lousma: Roger. And that would be just after, on panel 16, you opening Ascent ECA Control breakers. [Pause.]
+132:45:42 Haise: Which step number is that? [Long pause.]
+132:46:03 Haise: The confusing thing is, Jack, where they told me to wait for MSFN Go before proceeding was that Bat 2 Low Volts Off/Reset, then On.
+132:46:12 Lousma: Okay. That's still affirmative. We'll give you a go after waiting 5 seconds, and then down from there just a few steps, after you have opened the Ascent ECA Control breakers on panel 16, at that point, the umbilical is not powered, and it's okay to disconnect them should you care to do so.
+132:46:35 Haise: Okay. After the last step then, I'm free to disconnect.
+132:46:39 Lousma: Right. And one other change we have is, shortly after that, where we're configuring for jettison, we have closed both the Forward Dump valve and the Overhead Dump valve. And we don't want to get in a locked up position like that, so one way to get around it is to - After we close the Forward Dump valve, turn the Descent Oxygen valve off. Over.
+132:47:17 Haise: Okay. After the Forward Dump valve, add a step in that says the Descent Ox valve, off. [Pause.]
+What Lousma is probably saying here is that without the dump valves active, the cabin pressure might rise unexpectedly due to no longer having the capacity to automatically vent excess pressure.
+132:47:31 Lousma: Okay, Fred. That concludes the Deltas. And perhaps you heard that our Gammas are still minus 6.03 and our Delta-V will be a 2.8 foot per second RCS burn.
+132:47:46 Haise: Roger. [Long pause.]
+132:48:23 Lousma: Freddo, we've got one more change we'd like to give you to clarify a question that Jack asked earlier. At EI minus 02:30 ...
+132:48:35 Haise: Okay. Hold on a minute, Jack. I meant to call Jack back down. I'm not familiar with the previous discussion.
+132:48:42 Lousma: Negative. This is on your checklist.
+132:48:47 Haise: Okay. Go ahead.
+132:48:49 Lousma: At E mi - EI minus 02:30, during power removal from the umbilical, first thing we do is two steps with the CSM. We open the Main B, the LM Power to Main B circuit breakers, and then there's a third step which says "Circuit breaker EPS Sensor Signal, Main B, open." Just delete that step. Over.
+132:49:18 Haise: Okay. Delete the third step.
+Comm break.
+The confusing order to disable the EPS telemetry monitoring is removed.
+132:50:38 Lousma: And, Aquarius, for your information, as far as our water supply is concerned, including our plans for powerup, we have an additional 18 hours of water remaining from this point.
+132:51:01 Haise: Okay. Eighteen hours of water remaining from this point, Jack. [Long pause.]
+132:51:26 Lovell: Hello, Houston; Aquarius.
+132:51:29 Lousma: Hello, Aquarius. Go ahead.
+132:51:32 Lovell: Okay, Jack. This is Jim. I just want to make sure that you're filtering the changes to the checklist that come up to make sure that they're absolutely essential. When we learn our procedures, we can only do it one time, and we can't make changes at the last minute. We'd like to do the best, the safest way possible, but unless the changes are really essential, don't bother sending them up.
+Jim has returned to the airwaves with a further demand that their workload has to be managed, and not cluttered with last minute changes.
+132:51:57 Lousma: Roger. We won't. The chairman of the CPCB is still active, and one thing we're trying to do is to save you all the time we can between EI minus 02:30 and 1 hour.
+132:52:10 Lovell: That's affirm. That's a real important time.
+132:52:14 Slayton: Yes. For your information, Jim, I don't know whether you heard that originally, but that time from 2½ to 1 in there has been run about three times, and it's pretty tight, so we've tried to weed out what we could, which isn't much, but I think the other message you might impress on Jack when you get around to aligning that platform, don't try to get it down too neat. It doesn't have to be all that good. Just do a nice quick and dirty one, and that's going to be good enough anyway.
+132:52:43 Lovell: I concur. I think for reentry we don't have to have a real accurate platform, but I haven't told Jack that.
+Deke's suggestion of not working too hard on the platform alignment might be an offer to reduce their workload, but might not be what the perfectionist crewmembers want to hear, even under the current circumstances. On the other hand, the re-entry attitude isn't critical as it is only setting up the CM in approximately the correct attitude which the aerodynamic forces will take it to anyway.
+132:52:50 Slayton: Roger. Hey, Jim, while you're up and things are nice and quiet, let me give you a couple of other things to think about. One specifically. I know none of you are sleeping worth a damn because it's so cold, and you might want to dig out the medical kit there around 01:35 or in that ballpark, and pull out a couple of Dexedrines apiece and try one about then, and another around 01:39 to 01:40.
+It is well known to Mission Control that the crew has not been sleeping properly ever since the accident. It is a great concern to them that they might be getting too exhausted to properly work through the improvised reentry procedures. Hence comes the suggestion via Deke that they should take some of the dextroamphetamine stimulant tablets stored in the medical kit.
+132:53:15 Lovell: Well, I hadn't brought that up. We might - We might consider it.
+132:53:17 Slayton: Okay. [Long pause.]
+That was Donald K. Slayton, Director of Flight Crew Operations interjecting some comments to the crew from a CapCom console. Also...
+132:53:39 Slayton: Wish we could figure a way to get a hot cup of coffee up to you. It'd probably taste pretty good about now, wouldn't it?
+132:53:46 Lovell: Yes, it sure would. You don't realize how cold this thing becomes when it's in a PTC mode that's slowing down, and I just clocked the cycles on my [garble] And it's about 11 to 12 minutes now, and the Sun is directly overhead, so it's shining on the engine bell of the Service Module and not getting down to the spacecraft at all. [Pause.]
+Dehydrated coffee would have been carried, but when made with the cold water they have available, it surely would not have the morale-raising effect of the hot beverage suggested by Deke Slayton.
+132:54:16 Lousma: Hang in there. It won't be long now.
+132:54:19 Lovell: Yes. That's right. As a matter of fact, doing this alignment on the Earth this time will be like making a landing with a fogged-up windshield.
+Very long comm break.
+This is Apollo Control at 133 hours, 11 minutes. At 132 hours, 28 minutes; CapCom Jack Lousma put in a call to the crew. Fred Haise responded and we had him turn on the power amplifier which addition to greatly improving the quality of voice communications we get, also gives us ranging data which the Flight Dynamics Officer's using for making final computations of the midcourse correction to be performed in about 4½ hours. Jack Swigert reported that he received - gotten about 2 to 3 hours sleep which he said was not very good sleep due to the cold in the Command Module. Swigert said it is almost impossible to sleep because of the cold and Donald K. Slayton, Director of Flight Crew Operations, and who has been at the CapCom console a good part of the evening and into this morning, came on the circuit and advised Jim Lovell to consider taking Dexedrine tablets for each of the crewmen. This is a stimulant contained in the medical kit. Lovell said that they had considered that and would think about it. At the present time, Apollo 13 is 60,249 nautical miles from the Earth. The spacecraft velocity is up to 7,900 feet per second and we're some 9 hours, 27 minutes until reentry. We'll continue to stand by for any further communications with the crew. We don't have any plan to pass up to them in the next few minutes or so. One of the things under discussion, however, at the present time in Mission Control are procedures which might possibly be used to increase the temperature in the Lunar Module and the LM environmental and electrical systems engineer's looking into the power status right now. As far as consumables are concerned, with the possibility in mind that perhaps bringing some additional equipment on line in the LM to bring the temperature up there.
+Distance to go is 111,581 km, their velocity is up to 2,408 m/s. In the hour and 7 minutes since the last PAO update, they have travelled 12,000 km and accelerated a further 122 m/s.
+We're presently showing the cabin temperature in the Lunar Module at about 54 degrees, and we although do not have a measurement on the Command Module we presume that it is lower than that, and we'll continue to keep you advised on the status of the discussion going on at present in Mission Control on the advisability of powering up the LM more fully to bring up the temperature.
+LM temperature is around 12 degrees Celsius.
+133:21:53 Lousma: Aquarius, Houston. [Long pause.]
+133:22:06 Lovell: Go ahead, Houston.
+133:22:08 Lousma: Okay, Skipper. We figured out a way for you to keep warm. We decided to start powering you up now, and what we want you to do - what we want you to do is take your entry LM Prep checklist and start at the top where it says "Bat 5 Normal FEED on," and then jump over as it says to your 30-minute activation, and do all of the 30-minute activation up to, but not including, the burn. You copy?
+133:22:52 Lovell: Okay. If I understand you correctly, then that gives me leeway to maneuver when we get up to activation complete, and we can be in position for the burn, but we will not burn. We don't have a PAD anyway. [Long pause.]
+133:23:15 Lousma: That's affirm, Jim. You could maneuver to burn attitude, or you could maneuver to an attitude which should put the Sun in the windows to warm the place up.
+133:23:23 Lovell: Sounds good, and you're sure we have plenty of electrical power to do this?
+133:23:29 Lousma: That's affirmative. We've got plenty of power to do it. I can get you a number, though.
+133:23:37 Slayton: Jim, you've got about 100-per cent margins on everything from here on in.
+133:23:45 Lovell: That sounds encouraging.
+133:23:46 Slayton: Roger. That's in the LM. We're not talking about the CSM right now.
+133:23:52 Lovell: I understand.
+Very long comm break.
+To relieve the crew's miserable conditions, the Go has been given to start up the LM early. Having active equipment will warm up the cabin and give the crew a couple more comfortable hours before reentry.
+133:30:36 Haise: Houston, Aquarius.
+133:30:39 Lousma: Go ahead, Aquarius.
+133:30:43 Haise: Okay. Question. This short turn on step 3 on page 24 has us only turning on the RCS System A/B, two quads, and the breakers are still out on panel 11. Did you want those in, too, or are we just going to use one set of heaters?
+133:31:02 Lousma: Stand by. [Long pause.]
+133:31:32 Lousma: Aquarius, Houston. Go as the checklist recommends for now. When you get into the circuit breaker panel configuration, you're going to get the number 1 set of heaters on anyway.
+133:31:44 Haise: Okay.
+Long comm break.
+This is Apollo Control at 133 hours, 34 minutes. We're following the progress of the crew as they power up the Lunar Module, according to the checklist, and at the present time we show the total average current...
+133:34:14 Haise: Okay, Houston. We'd like to get a hack to set our mission timer here, Jack.
+133:34:21 Lousma: Okay, Freddo. Set it at 133:35 straight up. You've got about 30 seconds to set it. [Long pause.]
+133:34:49 Haise: Okay. Standing by.
+133:34:52 Lousma: Okay. I'll give you the 2-second delay in there. Stand by to start.
+133:34:59 Lousma: Start.
+133:35:03 Haise: Okay. We've got it.
+133:35:05 Lousma: Okay. I'm counting 133:35:10.
+133:35:11 Haise: Right on. [Long pause.]
+We're showing about 34-35 amps total current now.
+The crew has proceeded with their power-up and tripled their power usage.
+133:35:41 Lousma: Aquarius, Houston. One other way to warm things up in a hurry in there is when you get your AC on to turn on the window heaters. [Long pause.]
+133:35:58 Haise: Okay. I guess the only question I have is what it's liable to do to us with the - looks like almost a frost on it now. [Long pause.]
+133:36:25 Haise: Understand this, Jack. I'd like to let it maybe warm up just a little bit more before hitting it with the heat load.
+133:36:33 Lousma: Not a bad idea.
+Comm break.
+The double paned LM windows have an electric heater installed into them. They consume a lot of power and as a result would produce plentiful heat as well. The crew does not dare to turn them on, however, due to the glass being very cold. The sudden change in temperature might crack the pane.
+133:38:26 Haise: And, as you can see, Houston, at turn-on we got our old friend downlink 2 back. [Pause.]
+'Downlink 2' refers to their present communications configuration, which includes the ranging on as present.
+133:38:37 Lousma: Roger. We're seeing it, Fred.
+Long comm break.
+133:41:08 Lousma: Aquarius, Houston. It looks like you're proceeding toward the gimbal lock there. We'd like you to check that, please. [Pause.]
+133:41:20 Lovell: Roger. Not much we can do about it. We can't use the thrusters, Houston.
+133:41:32 Lousma: Okay. Forget it now; we'll get it later.
+Long comm break.
+Without the RCS thrusters powered, they won't be able to rectify their drift towards a possible gimbal lock situation.
+133:44:44 Haise: And, Houston, Aquarius. I guess the next thing for the PGNS will be a coarse align 000, but I guess we ought to hold up now until we get enough time on the RCS thrusters.
+133:44:56 Lousma: Roger. We're looking at them. We'll give you the Go on them. Okay, Aquarius. Your quads are 120 to 133 now, so you're cleared for - Cleared for thrusters.
+Long comm break.
+The RCS thruster quads measure from 48 to 56 degrees Celsius.
+133:47:48 Lousma: Aquarius, Houston.
+133:47:52 Lovell: Go ahead.
+133:47:53 Lousma: Roger. Did you get my Go for RCS?
+133:47:56 Lovell: That's affirm. We're Go. What we're doing now, Jack, is letting the spacecraft drift in this mode to pick up the Earth again.
+133:48:00 Lousma: Okay.
+133:48:07 Lovell: I don't want to just go blasting around the sky and get high rates, because I don't have anything to null the rates on until the Earth comes back up again. And - Once I get the Earth in sight, we have no strain on nulling rates. That part of the Earth, that is.
+Very long comm break.
+Jim is probably referring to them having no inertial reference going.
+133:53:50 Lovell: It's going to be interesting today, Jack. The Earth's a lot bigger; the crescent is a lot more pronounced than it was yesterday. [Pause.]
+133:54:04 Lousma: Well, you're going in the right direction.
+133:54:10 Lovell: That's right.
+Comm break.
+This is Apollo Control at 133 hour, 55 minutes. Jim Lovell has stabilized the spacecraft at this point using the LM Reaction Control System thrusters. We're showing a power level on the Lunar Module right now ranging between 45 and 50 amps. The power-up procedure followed by the crew will have another effect in addition to warming up the LM, and that is they're beginning a portion of the preentry checklist that had been scheduled for 6 hours prior to Entry Interface, and that was begun at about 9 hours. So, they'll be getting a bit of a leg up on that portion of the time line. At the present time, Apollo 13 is...
+133:55:27 Haise: And, Jack, I guess we haven't changed our angle much with respect to the Sun 93 million miles away, so it ought to be in about the same place in the AOT, isn't that Charlie? [Long pause.]
+133:55:50 Lousma: Hold 1 on that, Fred. I'll get an answer for you.
+133:55:54 Haise: Okay.
+Comm break.
+'Charlie' is not a person but military lingo for 'clear' or 'confirmed'.
+133:57:20 Lousma: Aquarius, your ASA is warmed up now. You can activate the AGS.
+133:57:26 Haise: Okay.
+Long comm break.
+The Abort Guidance System (AGS) gyroscopes and accelerometers in the ASA (Abort Sensor Assembly) have reached operational temperature.
+134:00:46 Lousma: Aquarius, Houston. When you look out a detent 2 in the proper burn attitude, what you ought to see is the Sun at 12 o'clock, about halfway between the top of the AOT and the center of the pipper. And you ought to see the Earth...
+134:01:03 Haise: Okay.
+134:01:04 Lousma: ...at 6 o'clock.
+134:01:07 Haise: Okay. [Long pause.]
+View through the AOT reticle.
+134:01:41 Lovell: And, it's getting a little warmer in here now. Thank you. [Long pause.]
+134:01:58 Slayton: Duck blinds are always warmer, Jim, when the birds are flying.
+134:02:06 Lovell: Right. [Long pause.]
+134:02:47 Lovell: Jack, I've gotten so used to flying attitude with the TTCA, I won't be able to do it normally.
+134:02:56 Lousma: Say again, Jim.
+134:02:59 Lovell: I said I gotten so used to flying attitude with the translational control, I won't be able to do with the ACA.
+Long comm break.
+Their unusual configuration resulted in Jim and Fred having to learn a new way to fly the spacecraft stack, and soon he will have to try to revert to the normal way of going at it once the Service Module is gone.
+134:06:06 Lousma: Aquarius, we see your glycol temperature getting up there. If you want to make it a little warmer, or you can try putting your Suit Temp valve to High, if you haven't already got it there. [Pause.]
+134:06:25 Haise: Okay.
+Long comm break.
+Their Suit Temp has been sitting on Cold for quite some time, to try and make the cabin warmer by having the cooling system remove less heat from the spacecraft. Now that they are powering up the systems, the system is working in a more normal manner and they ought to adjust the temperature control to its usual position to raise the temperature.
+134:10:45 Lousma: Aquarius, something we're thinking about right now is, if we can do it without using a lot of RCS, it would be to our advantage timewise to try to get an alignment. [Pause.]
+134:11:00 Lovell: Okay. You mean a P52?
+134:11:05 Lousma: We're...
+134:11:06 Lovell: I'll [garble] around.
+134:11:07 Lousma: A combination of 51 and 52. [Pause.]
+134:11:15 Lovell: I'll see what we can do, Jack.
+134:11:18 Lousma: Okay. And we'd planned to use the Moon and the Sun for that.
+Long comm break.
+Although Mission Control had not planned to bring up the LM's computer up again, the opportunity has presented itself. By taking sightings of the Moon and the Sun, they can coarse align the IMU to a known inertial orientation (in a Program 51 alignment) and then proceed to a 52 for the fine alignment.
+134:14:46 Lousma: Aquarius, Houston. On panel 16, we'd like for you to close the Cross Tie Bal Loads breaker, please.
+134:14:57 Haise: Okay. it's closed. [Pause.]
+134:15:04 Lousma: And it looks like we could support a - an alignment in a few minutes, if you'd be willing to go ahead with that.
+134:15:13 Lovell: Jack, it sounds good. I think from our position here, we know where the Sun and Moon are and it's strictly going to be a pitch maneuver. But I think we can save some gas. I'll see what we can do.
+134:15:24 Lousma: Roger.
+Very long comm break.
+The LM's RCS propellant supply is growing limited, and a careful budget was planned for the remainer of the mission. This is another reason why Jack Lousma keeps repeatedly commenting about saving gas.
+134:22:58 Lovell: Houston, Aquarius.
+134:23:00 Lousma: Go ahead, Aquarius.
+134:23:02 Lovell: We're all set to go. Are you going to ship us up a REFSMMAT?
+134:23:06 Lousma: Yes, we are. Stand by 1.
+134:23:09 Lovell: Okay. [Long pause.]
+134:23:25 Lovell: The Sun feels wonderful. It's shining in the rendezvous window. [Pause.]
+134:23:32 Lousma: And, Aquarius, before we can ship you a load, we'll have to have, on panel 11, under Comm, the Updata Link circuit breaker closed.
+134:23:54 Lovell: It's closed.
+The familiar updata power supply has to be turned on before they can receive the computer update.
+134:24:00 Lousma: Roger. It'll be a few...
+134:24:01 Lovell: [Garble] closed [garble].
+134:24:02 Lousma: Okay. And it'll be a few minutes yet, Jim. We're still cranking it up. [Pause.]
+134:24:10 Haise: Okay. Stay with it, Jack, and I'll go back to data.
+134:24:15 Lousma: Roger. [Long pause.]
+134:25:02 Haise: I got Bat in about 33⅓ per cent on that uplink. Too fast alarm. [Pause.]
+134:25:13 Lousma: Say again on that, Fred.
+134:25:20 Haise: I just got another uplink too fast when I took the Data switch back off - It's happening, I guess, about a third of the time.
+134:25:25 Lousma: Roger.
+Very long comm break.
+134:28:11 Lousma: Aquarius, Houston. We're ready with your load if you'll give us Data please.
+134:28:16 Lovell: Going to Data. You got it.
+Very long comm break.
+They are hitting the switch to allow Mission Control to upload data into their newly restarted LGC.
+134:34:42 Lousma: Aquarius, Houston. After the uplink, you'll have to set the drift and the REFSMMAT flag as on page 8 of the contingency book, steps 5 and 6.
+134:34:55 Lovell: Page 8, steps 5 and 6. Roger.
+Long comm break.
+Steps 5 and 6 on the LM Contingency Activation Checklist, page 8. The 2-hour activation. The REFSMMAT and drift flags are set as valid to tell the computer they know the attitude of the IMU, and that they have applied the drift compensation to the gyroscopes.
+134:37:21 Haise: Okay. Are you done with the computer now, Jack?
+134:37:24 Lousma: Negative. We'll give you the word.
+134:37:27 Slayton: Roger. Aquarius, we're through with it, it's your computer.
+134:37:32 Lovell: Thank you.
+Comm break.
+134:39:32 Lousma: And, Aquarius, Houston; take option 1 on a P52 when you get to it. And I've got some ball angles for a Sun and Moon.
+134:39:46 Haise: Okay. We want an option 1 and you've got some ball angles for Sun and Moon. And right now, Jim has the Sun pretty well squared away right in the middle of AOT.
+Long comm break.
+Option 1 is the 'Preferred' alignment option and will take their then-present attitude and use it as an attitude reference. Taking sightings of the Sun and the Moon will help them to refine the alignment.
+This is Apollo Control at 134 hours, 42 minutes. The crew began powering up the Lunar Module at about 133 hours, 29 minutes. A little over an hour ago, we've since seen the currents in the Lunar Module come up from about 10 to 12 amps to their present level of about 40 amps. These currents actually went to a high of about 70 amps before stabilizing out at the lower level as the heaters came on line and brought the equipment up to a proper temperature and then dropped off-line. The crew reported it is getting somewhat warmer within the Lunar Module at this time. The cabin temperature reading that we have on the ground is based on the temperature of the glycol and water boiler, which is related to the amount of heat being transferred into the water boiler, and is about the best indication we have of cabin temperature. And that shows that the cabin temperature now has come up from about 54 degrees to about 56 degrees. This temperature, however, does show some lag and we would expect the cabin temperature has come up probably a bit more than is indicated by the temperature we're showing on the ground.
+The cabin temperature is from 12.2 to 13.3 degrees Celsius, and just a little more comfortable than earlier.
+134:43:19 Haise: And have you got some plan in vectors for us, Jack? [Long pause.]
+134:43:37 Lousma: Okay, Freddo. For the Sun, I've got 246; for the Moon I've got 250. [Pause.]
+134:43:55 Haise: Are you talking about ball theta angles?
+134:43:59 Lousma: Negative. I was - I was reporting the code for Noun 70.
+134:44:07 Ground personnel: They're in the computer, Fred.
+134:44:10 Haise: Oh, Okay.
+Long comm break.
+P52 IMU Realign, Step 7. To tell the computer that they are using the Sun and the Moon for navigational sightings, Jack is giving Fred the codes used for Verb 01 Noun 70 on Step 7. The first digit - 2- implies the position of the AOT, this time pointing forward. The last two digits are the code from the Apollo star list. The sun's code is 46 and the Moon is 50.
+134:49:06 Lovell: Okay, Houston. We have the Sun marks and I'll start up at pitch now to go over and pick up the Moon.
+134:49:14 Lousma: Roger.
+Long comm break.
+134:53:22 Lovell: Houston, Aquarius.
+134:53:24 Lousma: Go ahead.
+134:53:27 Lovell: Just as a note of interest, in this dock configurations for P52s, the Command Module docking probe is right down the middle of - the docking light, rather, is right down the middle of the detent. And when the Sun flashes on, it really makes it difficult.
+134:53:48 Lousma: Roger.
+Very long comm break.
+This is Apollo Control at 134 hours, 56 minutes. In Mission Control at this time, we're in the process of handing over shifts. Flight Director Gene Kranz is taking over from Flight Director Milton Windler. We will not have a change of shift briefing. The Flight Director plans to remain in the Control Center through splashdown, and we therefore, as I said, will not have a change of shift briefing - news briefing for this shift. In summarizing briefly the events during the past 8 hours, from about 127 hours until about 130 hours, we passed up the Command Module and Lunar Module preentry checklists to the crew. Following this, the crew was advised to attempt to get some rest. Fred Haise remained on watch, but we limited the number of calls to the spacecraft to allow Fred also to get some rest, and about 128 hour, 17 minutes, Jim Lovell and Jack Swigert indicated that they were going to begin a rest period. Fred Haise began a rest period at about 129 hours, 39 minutes. At 132 hours, 28 minutes, we put in the first call to the crew after Haise began his rest period. All three crewmen responded shortly thereafter, and Jack Swigert reported that they had gotten about 2 or 3 hours of sleep. They said that it was not very good sleep, that it had been quite cold, and almost impossible to sleep. Deke Slayton, Director of Flight Crew Operations who has been in the Control Center during the night and early morning advised Lovell at that point to consider taking dexedrine tablet. This is a stimulant carried in the medical kit. Lovell said he would consider it. We've heard no report from the crew at this time as to whether they have or not taken any medication. In response to the crew comments on the cold, we began looking at some methods of bringing the LM temperatures up. It was decided that we had adequate power margins in the LM batteries and also adequate water margins to power up the LM early, and this had been planned to occur at 6 hours prior to reentry, and we began the procedure about 3 hours earlier than that. Beginning to power up at about 9 hours prior to Entry Interface. At 133 hours, 29 minutes; the crew began the checklist procedures to power up the LM and the current levels in the LM came up from about 10 to 12 amps, which is the normal power down, current level to about 70 amps, and then as heaters brought equipment up to temperature, and the heaters began to drop off-line, the temperature stabilized out at about 40 amps, and the crew reported the temperature is coming up within the LM and we've seen a corresponding rise in temperature on our displays here. The temperature we were reading in the cabin prior to the power up was about 54 degrees since the equipment has been turned on, we've seen the temperature come up about 2 to 3 degrees. At the present time, we're 7 hours, 40 minutes, 54 seconds from Entry Interface, and 2 hours, 40 minutes, 51 seconds from the mid-course correction, Correction number 7, which is planned to occur 5 hours prior to reentry. The Flight Dynamics Officer is computing final maneuver PAD for this mid-course correction. The preliminary information on it was that it would be about 2.8 feet per second using the LM ascent stage - actually the LM Reaction Control System thrusters, and burning them for about 21 seconds duration. We expect that we will get an update to this when the Flight Dynamics Officer completes the final computations for the maneuver. We will also have some preliminary numbers for the entry. We suspect that these will change once the mid-course correction is completed. These are the same numbers which were passed out at the previous change of shift briefing. They are as follows: We are predicting Entry Interface at a point in which the spacecraft reaches the 400,000 foot level to occur at 142 hours, 40 minutes, 40 seconds. The drogue chutes would deploy at 142 hours, 48 minutes, 53 seconds, and the main chutes, the main parachutes would come out at 142 hours, 49 minutes, 43 seconds with splashdown at 142 hours, 54 minutes, 40 seconds. As I said, we expect these times will shift somewhat when the mid-course correction has been completed. We also have the times for the beginning of blackout and the end of blackout.
+135:02:10 Lovell: Just like the simulator.
+135:02:15 Lousma: Yes. It was good training. [Long pause.]
+The time we show for the beginning of blackout is 142 hours, 40 minutes, 58 seconds; and time for ending of blackout is 142 hours, 44 minutes, 3 seconds.
+135:02:35 Lovell: Well, Jack, that's what it says the torqueing angles are.
+135:02:39 Lousma: We haven't got them yet. [Pause.]
+135:02:51 Lousma: Aquarius, hold on to torqueing angles, Please.
+135:02:55 Lovell: We're doing that. [Long pause.]
+135:03:18 Lousma: Jim, the reason for the delay is that we're not seeing the data yet. We're having to check a point here; and as soon as they come up, we'll let you know what to do with them.
+135:03:30 Lovell: Okay. We had a large Noun 05 of - what - 112, and our torqueing angles, Jack, are minus 01713, minus 03278, minus 01395. [Pause.]
+135:03:53 Lousma: Roger. Minus 01713, and we see them now. [Long pause.]
+135:04:17 Lousma: Aquarius, torque them.
+135:04:20 Lovell: Okay. [Pause.]
+135:04:28 Lovell: At 35:04:25.
+Comm break.
+Noun 05 displays the angular differences, or the degree that the gimbals have to be torqued to get the IMU to the best possible alignment.
+135:06:10 Lousma: Aquarius, do you have a star close by there you could check? [Pause.]
+135:06:18 Lovell: I'll...I'll look around, Jack. I was just trying to get a check on the Moon, again, to see if those angles were indeed true, and we got the Moon back again and centered.
+135:06:27 Lousma: Roger.
+Long comm break.
+135:10:09 Lovell: Okay, Jack. What you're reading now the angles? We had the Moon centered, and it's pretty close to what we have on the 8 ball, I guess. Close enough for any entry that we'd like to do.
+135:10:20 Lousma: Roger. And I'm told that Denubla - Denebola and Regulus are nearby if you wanted to make a star check. [Pause.]
+135:10:35 Lovell: Okay. I'm going to start pitching around again, and I'll see if I can pick them up. I have Orion out here to my left a little bit, but it's pretty close to the - oh, here. I've got Sirius. That's a nice one. How about that? [Pause.]
+135:10:55 Lousma: Sounds good here.
+Long comm break.
+Jim proceeds to use star sightings to check the accuracy of their alignment. By having the computer try to point them at the stars in question, they will find out if the platform is good.
+Apollo Control, Houston; 135 hours, 11 minutes now into the flight of Apollo 13. That was Apollo 13 Commander Jim Lovell talking with capsule communicator Jack Lousma. While 13 - Apollo 13 is aligning the platform in the Lunar Module, our digital displays now show Apollo 13 at 50,905 nautical miles away from Earth. The spacecraft velocity reads 8,670 feet per second. We're at 135 hours, 12 minutes continuing to monitor; this is Apollo Control, Houston.
+Distance, 94,276 km, velocity 2,643 m/s.
+135:14:44 Lousma: Aquarius, is Jack sitting on the rumble seat there?
+135:14:48 Haise: He was. He just headed upstairs to take another look around.
+135:14:53 Lousma: Okay. I got a minor addition to the entry checklist for him. This time it's in the...
+135:14:58 Haise: Okay. Stand...
+135:15:00 Lousma: ...entry book.
+135:15:02 Haise: Okay. Stand by 1. He has that in his pocket. [Long pause.]
+135:15:54 Lovell: What I'm doing, Jack, is just - I'm pitching over now. I'm going to pick up another star. Sirius was just too far off. I thought I was going to use too much gas getting there.
+135:16:05 Lousma: Roger.
+135:16:08 Lovell: By the time I get aligned in the - in the AOT - be nice if we didn't, have Odyssey attached, we could just Auto - Auto maneuver over to these things. [Long pause.]
+135:16:28 Lousma: Looks to us like you've got her aligned, Jim, so I wouldn't worry about it too much.
+135:16:33 Lovell: Yeah. I'm pretty confident that the platform's fairly decent.
+Comm break.
+135:17:38 Lousma: Aquarius, Houston. We need an E Mod Verb 74, when you've got a chance, please.
+135:17:43 Lovell: Okay. Coming to you.
+Long comm break.
+Verb 74 performs the erasable memory dump, to allow Mission Control to read the contents of the LGC's memory.
+135:22:23 Swigert: Okay, Jack. Go ahead.
+135:22:35 Lousma: Okay, Jack. On your entry checklist, on page 2-5. Down there on step 9, where it says 152 degrees pitch at .05g, adjacent to that, so that Recovery can see you better on the way down, we want you to turn your S-Band, Power Amplifier to High. Over. [Long pause.]
+135:23:25 Swigert: Okay. Turn S-Band, Power AMP to High at .05g time.
+135:23:37 Lousma: That's affirmative. [Pause.]
+135:23:49 Swigert: Okay. Is that it?
+135:23:52 Lousma: That's it, Jack.
+Very long comm break.
+Switching the power amplifier to High will attempt to maintain radio signal with recovery forces for as long as possible.
+Apollo Control, Houston; 135 hours, 27 minutes now into the mission. We're 2 minutes - 2 hours, 12 minutes away from scheduled time of ignition for MCC-7. And our space digital design show 13 - Apollo 13 - at a distance of 49,577 nautical miles out from Earth, travelling at a speed of 8,790 feet per second. This is Apollo Control, Houston.
+Distance, 91,816 km, velocity, 2,679 m/s.
+135:32:42 Lousma: Aquarius, Houston. We're considering doing the midcourse with PGNS, unless you'd rather do it in AGS.
+135:32:52 Lovell: No. PGNS is fine with me. I just align myself up with the old ball again. So I've got you foresighted again, but any way you want to do it.
+135:33:02 Lousma: Like you say, you might as well go first class.
+135:33:07 Lovell: I guess you're right. [Pause.]
+135:33:14 Haise: Now wait a minute, Jack. [Pause.]
+135:33:22 Lousma: I just lost a lot of friends there.
+Long comm break.
+The crew has been joking that using the primary guidance system means 'going first class'. Since they unexpectedly have PGNS running, they can use primary guidance for attitude control.
+135:35:20 Haise: And, Jack, you can tell Owen Morris that the RCS System A/B 2 Quad 1 breaker is still nicely in.
+135:35:52 Lousma: Roger. We'll pass the word.
+Comm break.
+One of RCS breakers was broken before launch. The permanently closed circuit breaker is still, indeed, closed.
+This is Apollo Control, Houston. That was Fred Haise talking to Jack Lousma. Owen Morris referred to in that conservation, is the deputy manager for the Lunar Module in the Apollo Spacecraft Program Office, here at the Manned Spacecraft Center. We now show Apollo 13 at 48,822 nautical miles away from Earth, and at a velocity of 8,861 feet per second. At 135 hours, 37 minutes; this is Apollo Control, Houston.
+Distance to go, 90, 418 km. Velocity, 2,701 m/s.
+135:38:21 Lousma: Aquarius, Houston. We think we've figured out a way to save you some time at a very critical - very full schedule. And that's by doing a docked coarse align, since we got the LM up now. That would save you a maneuver or two.
+Comm break.
+135:39:38 Lovell: Houston, Aquarius. It seemed to me a docked coarse align might be quicker for - for Jack.
+135:39:45 Lousma: Yes. We think it would be, and it'd save quite a bit of time at a place where you're going to be pretty busy. Also save you some petrol.
+135:39:56 Swigert: Affirm. [Long pause.]
+135:40:13 Lousma: Okay, Jim. We're looking at doing this in the Service Module Sep attitude, and the optics will be pointed away from the Sun. So it should be a good attitude for a P52. [Pause.]
+135:40:34 Lovell: Okay. So, we'll be going to the Service Module Sep attitude, at which time we'll do a docked coarse align, and... [Pause.]
+135:40:54 Lovell: Then you want - You want Jack then to do a P52? [Long pause.]
+135:41:20 Lousma: The way we'll do that in our time line Jim, is to go ahead and do the Service Module Jett and then we'll just stay in that attitude and when it comes time in our time line as we've outlined, to bring the platform up, we'll proceed with the P52 - coarse align, and then the P52.
+135:41:40 Lovell: Okay. Are we going to use the same techniques that we normally do for LM activation? In other words, I try to maintain an attitude, and give him some angles and then - Are you going to give him the angles? Then he does the 52.
+135:41:57 Lousma: Basically, it's the same procedure just reversed, Jim.
+135:42:01 Lovell: Okay.
+135:42:02 Lousma: Another nice thing about this, is it's one we've done before. [Long pause.]
+The sudden availability of the LM's guidance computer and the IMU has given them the opportunity to reverse the standard procedure of docked IMU alignment, where the Command Module supplies the LM's initial IMU alignment. Nothing prevents them from doing the same procedure the other way around, although the calculations will be somewhat different. As they say, this would be faster than doing the earlier alignment idea.
+135:42:40 Lousma: And, Aquarius. One thing, however, that we do not plan to do is to proceed with the Command Module power-up prematurely.
+135:42:51 Swigert: Roger.
+135:42:57 Lovell: Understand.
+Long comm break.
+135:45:27 Swigert: Okay, Houston. This is Jack.
+135:45:32 Lousma: Go ahead, Jack.
+135:45:33 Swigert: Okay. I just wanted to talk over with you, it looks like we've had some changes in the Flight Plan here, due to Jim's P52. Do you have - Can you talk over with me what your plans are?
+135:45:50 Lousma: Roger, Jack. Since we've got the PGNS up, we plan to use that information to give the CMC a dock coarse align, and then we're in the Service Module jettison attitude, we'll wait until it comes time to power up the CMC, and we'll get the CMC a dock coarse align, and we'll pick some good stars to give you a fine align with, and it looks like we can pick some stars that are looking away from the Sun in which you can find in that Service Module jettison attitude; so, we'll save you quite a bit of gas, and save you some time in a very busy time.
+135:46:36 Swigert: Hey, that sounds good. Really fine.
+135:46:40 Lousma: Keeping warm?
+Both the crew and Mission Control are enthusiastic about their new faster way of aligning the Command Module's platform for reentry.
+135:46:43 Swigert: Hey, it's warmed up here now. It's almost comfortable. [Pause.]
+135:46:52 Lovell: I'm looking out the window now, Jack, and that Earth is whistling in like a high-speed freight train. [Long pause.]
+That's Command Module Pilot Jack Swigert describing the temperature and Apollo 13, as you copied. The comfort level is going up.
+135:47:13 Lousma: We're clocking you at 48,000 miles and coming in at about 9,000.
+They're 88,900 km away and their velocity has climbed up to 2,743 m/s. About 7 hours to go.
+135:47:21 Lovell: I don't think there's many LMs that have seen it like this. I'm still looking for Fra Mauro and Cone Crater. [Pause.]
+135:47:38 Slayton: You're going the wrong way, son. [Long pause.]
+That was Donald K. Slayton who came on the CapCom line to point out to Jim Lovell that they're headed the wrong way for Fra Mauro and Cone Crater. Our displays now show Apollo 13 at 47,858 nautical miles out from Earth. Velocity reading 8,956 feet per second. We're at 135 hours, 48 minutes now into the flight of Apollo 13. This is Apollo Control Houston.
+Distance, 88,633 km, velocity 2,730 m/s. The crew's improved mood can even be heard in the little jokes.
+135:48:29 Swigert: Okay, Jack. It looks - Just looking over what I may expect here, it looks like I'm just going to get three angles to do a Verb 41 Noun 20, right? [Pause.]
+135:48:45 Lousma: That's what it looks like from here, Jack. It's pretty much the opposite of the LM activation procedure where we do the dock coarse align.
+135:49:05 Swigert: Yes, except in a way we did a lot of Verb 06 Noun 20, Enters, simultaneously, and then you all shipped him up post-torque values. You're not going to do anything like that are you? [Pause.]
+135:49:20 Lousma: Say again, please, Jack.
+135:49:23 Swigert: Okay. During the activation part, we do a lot of Verb 06 Noun 20, Enters simultaneously, reading you out the difference in the angles, and then MSFN furnishes the post-torqueing angles, in order to get the platform fine aligned. Do you plan something like that or just three coarse align angles. [Pause.]
+135:49:53 Lousma: Jack, we're going to give you three coarse align angles, and then you can go right to your checklist as we're giving it, and start in with the Verb 40 Noun 20.
+135:50:07 Swigert: Okay. Real fine.
+Long comm break.
+Rapid IMU Realign procedure on page 7-1 on the G&C checklist.
+The procedure on page 7-1 would normally be used to realign the IMU using attitude information derived via the Gyro Display Coupler (or GDC) from the two BMAGs in the Command Module. The way they are planning to use it here, however, is to input values based on the alignment of the LM's IMU, which are then converted by Mission Control to be useful in the Command Module's different orientation. As noted by the crew, it is the reverse of the procedure to transfer guidance information from the CM to the LM, which was done during the entry into the lifeboat Aquarius.
+Apollo Control, Houston; now 135 hours, 52 minutes now into the mission. Our displays in Mission Control indicate the Lunar Module cabin temperature now getting up to around 60 degrees. The spacecraft currently running around 40 amps. This is as compared to 10 to 12 amps when 13 was in a powered down state. As you recall, we brought the Lunar Module...
+135:52:45 Haise: And, Jack, how do you read?
+135:52:48 Lousma: Five square.
+As you recall, we brought the lunar...
+135:52:54 Haise: Okay, I was around shooting pictures of all the debris inside here, before we left, and I inadvertently changed the settings on the DC Command Module Reseau camera that we need for the Service Module pictures. I wonder if FAO can dig them out again - what we need, f-stop and speed.
+135:53:18 Lousma: Okay, Fred. Stand by.
+Comm break.
+We brought the Lunar Module power up about 3 hours early this morning, because Apollo 13 now has the luxury of margins in both power and water. This does give an added bonus. It puts the 13 crew a step ahead in what could be considered a very busy time line. We're now at 135 hours, 54 minutes into the flight. We show Apollo 13 at 47,312 nautical miles away from Earth, velocity now reading 9,010 feet per second. This is Apollo Control Houston.
+Distance to go, 87,622, velocity, 2,736 m/s.
+135:54:55 Lousma: Fred, in regards to the camera settings, for black-and-white 3400 film, the settings were f:5.6 at 1/250th. Over.
+135:55:09 Haise: Okay. I'd guessed right after all, but thank you.
+Very long comm break.
+136:04:59 Kerwin: Aquarius, Houston. Over.
+136:05:03 Lovell: Go ahead, Houston.
+136:05:04 Kerwin: Okay, Jim. I got MCC-7 PAD when you're ready to copy. Over.
+136:05:09 Lovell: Okay. Stand by. [Long pause.]
+Apollo Control, Houston. We're standing by for...
+136:05:35 Haise: Okay. We're in luck, I got one PAD left.
+136:05:38 Kerwin: Okay. We'll take care not to change this one. Ready to go?
+136:05:45 Haise: Go ahead, Joe.
+136:05:46 Kerwin: MCC-7: 137:39:48.39, minus 0003.1, plus all zeros, plus 00001, N/A, plus 0020.5, 0003.1, 0:23, 008, 359; the rest is N/A. Remarks: plus-X, four jets, RCS; and your weights for the DAP load: LM weight, 25181; CSM weight, 62468. Over. [Pause.]
+136:07:02 Haise: Okay, Joe. MCC-7: 137:39:48.39, minus 0003.1, plus all balls, plus 0000.1, N/A, plus 0020.5, plus 0003.1, 0:23, 008, 359; the rest of pad N/A. Remarks: plus-X, four jets, RCS, ullage; the LM weight, 25181; CSM weight, 62468. Over.
+With the PGNS back in action for this burn, the PAD information returns to the original format used for LM crew maneuvers.
+The PAD is interpreted as follows:
+Purpose: A midcourse correction to improve their entry corridor angle.
+Time of ignition (Noun 33): 137 hours, 39 minutes, 48.39 seconds.
+Change in velocity, fps (m/s) (Noun 81): x, -3.1 (-0.95 m/s); y, 0.0 (0 m/s); z, +0.1 (0.03 m/s). The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).
+HA and HP Apogee is not applicable, since this is a reentry trajectory. Perigee is 20.5 nautical miles or 38.0 km. This brings the closest point of approach to the surface of the Earth within the atmosphere, which means that the spacecraft will reenter.
+Delta-VR: 3.1 fps (-0.94 m/s). This is the total resultant change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 23 seconds.
+Spacecraft attitude: Roll, 0008°; Pitch, 359°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform and is therefore set using the FDAI display in its inertial mode. Unlike a CSM PAD, yaw is not stated for the LM. Procedures for a lunar landing allowed the spacecraft to yaw around the thrust axis as required for operational reasons.
+Other notes include that this burn will be performed using the LM RCS plus-X thrusters, a four-jet ullage, and DAP with the weights of the docked spacecraft specified. Guidance will be on PGNS and the IMU with AGS backup.
+136:07:51 Kerwin: Okay. Readback correct. [Long pause.]
+136:08:22 Kerwin: And, Aquarius; Houston. I have a Service Module Sep PAD if you want to copy that, now. Over.
+136:08:32 Haise: Say again, Joe.
+136:08:34 Kerwin: Roger, Fred. I have a Service Module Sep PAD with the attitudes. You don't need a PAD sheet for it; just any old blank sheet will do.
+136:08:49 Haise: Okay. I was going to say I don't - We don't hardly carry a Service Module Sep PAD.
+136:08:56 Kerwin: Yes, we'll have to change that.
+136:09:02 Haise: Okay. I'm using a P27 here. Go ahead.
+136:09:06 Kerwin: Okay. The PAD reads as follows and then I'll repeat the angles for you so you can copy them. The following MCC-7, maneuver the LM to the following FDAI attitudes: roll, 000; pitch, 91.3; yaw, 000. Now do you want those attitudes repeated, Fred? [Pause.]
+136:09:40 Haise: Okay. Following MCC-7 we're to maneuver to the following attitudes: roll, 000; pitch, 091.3; yaw, 000.
+136:09:54 Kerwin: Okay. That's correct. And the last part of the PAD is at GET 138:10:00, which is EI minus 4.5 hours, execute a push of 0.5 feet per second, four jet, plus-X; perform SM Sep; then execute pull, 0.5 feet per second, four jet, minus-X. Over. [Pause.]
+This is the push-pull maneuver, which will change their velocity briefly and put a little bit of distance between the two components.
+136:10:45 Lovell: Houston, Aquarius. Jack's entering the Command Module, now.
+136:10:48 Kerwin: Okay, Jim. [Long pause.]
+This understated exchange signifies an important mark - Swigert has moved into the Odyssey to start the power up according to the reentry checklist. His first duty will be to configure part of the power system and start the RCS thruster heating.
+136:11:14 Haise: Okay. That last Joe was execute at the GET at 138:10:00 which is EI minus 4½ hours; execute a push of 0.5 feet per second, four-jet ullage; then execute SM Sep followed by a pull of 0.5 feet per second, with respect to a nomenclature on the TTCA; I think we really need an up of 0.5 and then a down of 0.5.
+136:11:47 Kerwin: That's correct, Fred. [Long pause.]
+136:12:02 Kerwin: Okay, Aquarius. The last PAD I had for you right now is the LM jettison PAD. Similar to the - Stand by 1, Aquarius. [Long pause.]
+136:12:22 Kerwin: Okay, Aquarius; Houston. Request P00 and Data for a data load. Over.
+136:12:28 Haise: You got it.
+136:12:30 Kerwin: Okay. And I was about to say the LM jettison PAD is similar to the SM Sep PAD, Fred, when you're ready to copy. [Pause.]
+136:12:42 Haise: Just about the same number of lines?
+136:12:44 Kerwin: Yes. [Long pause.]
+136:13:09 Haise: Okay. Go ahead, Joe.
+136:13:11 Kerwin: Okay, Fred. Prior to 141:40:00, which is EI minus 1 hour, maneuver the LM to the following FDAI angles: roll, 130; pitch, 125; yaw, 012.4. The corresponding CSM gimbal angles will be roll, 291; pitch, 196; yaw, 045, and that's the PAD. Over. And the computer is yours, Aquarius.
+136:14:14 Lovell: Thank you. [Pause.]
+136:14:23 Haise: Okay. A LM Sep PAD prior to 141:40:00, EI minus 1 hour, maneuver to following attitudes: roll, 130; pitch, 125; yaw, 012.4. The corresponding CSM gimbal angles are roll, 291; pitch, 196; yaw, 045.
+It is important to know the Command Module's gimbal angles, since their platform will be functional at the time of the separation, and risks gimbal lock if the middle gimbal angle goes past 90 degrees.
+136:14:49 Kerwin: Readback correct.
+Comm break.
+Apollo Control, Houston; now 136 hours, 15 minutes now into the flight. That maneuver PAD for midcourse 7 it was passed up. Shows that the time of ignition of 137 hours, 39 minutes, 48.39 seconds; with a Delta-V of 3.1 feet per second and a burn duration of 23 seconds. Jim Lovell reported Jack Swigert entering the Command Module, and we copied that time.
+136:15:57 Kerwin: Aquarius, Houston.
+136:16:01 Haise: Go ahead, Joe.
+136:16:02 Kerwin: Okay. We're so efficient down here that we got an entry PAD ready, Fred. Do you want to copy that for Jack? Over.
+136:16:10 Haise: Stand by. I'll have to try to borrow his book from him.
+136:16:14 Kerwin: Roger.
+Jack Swigert holding the Entry Checklist. A 16mm film capture from the mission. NASA/JSC
+136:16:17 Lovell: Can we hold off on that a little bit, Joe?
+136:16:19 Kerwin: Oh, absolutely, Jim. We're well ahead. I just wanted to let you know that we had it.
+136:16:25 Lovell: Okay. I hope that when you send up all those uplinks to Jack that you could get them up to him quickly.
+136:16:33 Kerwin: We're shooting for less than 5 minutes.
+136:16:38 Lovell: Sounds good.
+We copied Jack Swigert...
+136:16:43 Haise: And are you still using the computer?
+136:16:46 Kerwin: That's a negative, Fred. The computer is yours. [Pause.]
+We copied Swigert entering the Command Module at 136 hours, 10 minutes, 49 seconds...
+136:16:58 Kerwin: And, Fred, the computer has your target load in.
+136:17:04 Haise: Okay.
+Comm break.
+Joe Kerwin, by the way, is taking over the position as capsule communicator in the Mission Control Center. Well, in the Command Module Swigert will be warming up some of the systems. Throwing the circuit breakers and main bus B and some of the heaters for equipment onboard the Command Module. Almost at the same time as Swigert entered the Command Module, Ken Mattingly came in the control center still in an apparently spotless condition. We're at 136 hours, 18 minutes into the flight. We show Apollo 13 at an altitude of 45,255 nautical miles, traveling at a speed of ninety-two hundred, two hundred and twenty two [likely means 9,222] feet per second. This is Apollo Control, Houston.
+Distance, 83,812 km, velocity, 2,811 m/s.
+136:18:56 Lovell: Houston, Aquarius.
+136:18:59 Kerwin: Go ahead, Aquarius.
+136:19:01 Lovell: Okay. I just want to clarify one thing on the LM Sep PAD. It appears to me that in my configuration, I could probably use a Verb 49 loading in 622, yaw, pitch, and roll, in that order; and then being able to fly out at 5018 in roll, pitch, and yaw. Is that correct?
+Jim refers to using the automatic maneuver to get to the separation attitude.
+136:19:24 Kerwin: Stand by; I'll verify it, Jim.
+136:19:29 Swigert: Okay, Joe. And while you're doing that I've got a question about the Command Module checklist
+.
+136:19:32 Kerwin: Okay, Jack. Go ahead with your question.
+136:19:37 Swigert: Okay. Either I copied the circuit breaker wrong, or - I can't read it. Comes down just about the - oh, about the 20th one down, after panel 276, where it says CB Instrumentation Power Control 3 and 4, open. The next circuit breaker on panel 5 - I - Would you give that to me again?
+136:20:03 Kerwin: Roger. That's CB Essential Instrumentation Power, Main B. Over. And it's, closed.
+136:20:16 Swigert: Okay. I just can't, right - I just can't read my writing, Essential Instrumentation Power Main B, closed.
+136:20:20 Kerwin: That's affirmative.
+Comm break.
+Jack is powering up the onboard sensor equipment, but is having trouble with his own penmanship.
+136:21:39 Kerwin: Aquarius, Houston.
+136:21:45 Haise: Go ahead, Joe.
+136:21:46 Kerwin: Roger. The word we have is that you can't make a Verb 49 maneuver to the LM jettison attitude because those are FDAI angles we gave you, they don't correspond to the gimbal angles for the load; it'll have to be a manual maneuver. Over.
+136:22:05 Haise: Okay.
+136:22:06 Kerwin: And mind out for gimbal lock.
+136:22:12 Haise: We will.
+Very long comm break.
+Apollo Control, Houston at 136 hours, 26 minutes now into the flight. Our clock in Mission Control shows the time of ignition for the midcourse burn at 1 hour, 14 minutes from this time. 30 minutes after the midcourse, or 4½ hours prior to time Entry Interface, the Service Module is scheduled to be jettisoned. At that time Jack Swigert will be in the Command Module. Jim Lovell and Fred Haise in the Lunar Module. Lovell will fire the Lunar Module thrust to push the Service Module about ½ foot per second. Swigert, then, activates the pyros with a switch in the Command Module. After separation, Apollo 13 will back off with the Lunar Module Reaction Control System at ½ foot per second providing a separation Delta velocity of 1 foot per second. All three crewmen will be trying to take pictures of the Service Module at that time. Swigert out of window number 5 in the Command Module. Lovell and Haise out of the Lunar Module. For separation, Apollo 13 will pitch about 90 degrees along the radial axis. That would be 90 degrees off the flight path angle. And at time of Entry Interface, or entry into the Earth's atmosphere, the Command Module and Service Module should be more than 16,000 feet apart. We're at 136 hour, 28 minutes into the flight. We show Apollo 13 at a distance of 44,395 nautical miles, and a velocity of 9,312 feet per second. This is Apollo Control, Houston.
+Distance, 82,220 km, velocity, 2,838 m/s.
+136:42:01 Kerwin: Aquarius, Houston.
+136:42:05 Lovell: Go ahead, Houston.
+136:42:07 Kerwin: Roger. We're looking at LM current, to see if Jack has started his preheat, and we haven't seen it yet. Is he doing okay down there? [Long pause.]
+136:42:24 Lovell: Houston, Jack said he's already started it, and he said that in 1 more minute, he'll be up to 20 minutes.
+136:42:31 Kerwin: Oh. Roger that. [Pause.]
+136:42:42 Kerwin: Jim, Houston. Have him let us know what his test meter reads when he's done. [Pause.]
+136:42:51 Lovell: He says that he had a Battery A voltage drop of 2 volts, and he'll try to look at the test meter for you right now.
+Because only one half of the thrusters can be heated using power from the LM umbilical, the rest are heated using power from Battery A.
+136:42:55 Kerwin: Okay.
+136:42:58 Lovell: He's been looking at, them, but they haven't been coming up, so far.
+136:43:02 Kerwin: We copy. [Long pause.]
+136:43:23 Lovell: Do you see a current now, Houston?
+136:43:28 Kerwin: Stand by 1 on that, Jim. That's affirmative, Jim; it looks like we are seeing one now.
+136:43:43 Lovell: Okay. And thanks for keeping us on it.
+136:43:51 Kerwin: Okay.
+Long comm break.
+136:46:43 Kerwin: Aquarius, Houston.
+136:46:46 Lovell: Go ahead.
+136:46:47 Kerwin: Roger. Reminder P41 for the RCS burn.
+136:46:54 Lovell: Thanks for keeping us honest.
+136:46:57 Kerwin: We got to protect our jobs, Jim. [Pause.]
+136:47:09 Lovell: We've been DPS-ing so long here.
+136:47:12 Kerwin: Yes.
+Very long comm break.
+Joe is reminding the crew to use Program 41 in the Lunar Module computer, which is the RCS Burn program. Their previous PGNS-controlled DPS burns were performed using Program 40.
+Apollo Control, Houston; 136 hours, 47 minutes. The flight control team here in Mission Control monitoring the display noted that Jim Lovell had punched his onboard computer into program 40 which is the thrusting program for the Descent Propulsion System. Then came the reminder to go to program 41 for a Reaction Control System of mid-course burn. We show that we're 51 minutes, 50 seconds from time of ignition with Apollo 13 at a distance of 42,599 nautical miles away from Earth with a velocity of 9,515 feet per second. That's 51 minutes, 30 seconds now from time of ignition for mid-course - for the mid-course burn. This is Apollo Control, Houston at 136 hours, 49 minutes now into the flight.
+Distance, 78,893 km, velocity, 2,900 m/s.
+136:54:30 Lovell: Okay, Houston. I finished up the maneuvers, the Auto maneuver in 41; but my roll and yaw needles seem to be offset. Pitch is okay.
+136:54:41 Kerwin: Okay, Jim. We copy. Stand by.
+136:54:?? Kerwin: Aquarius, Houston. We recommend PGNS Mode Control to Att Hold. Save a little gas and stand by on the error needles.
+136:55:01 Lovell: Okay.
+Very long comm break.
+137:04:39 Haise: Houston, Aquarius. [Long pause.]
+137:04:53 Kerwin: Aquarius, Houston. Did you call?
+137:04:57 Haise: Roger, Joe. Figured, if we're going to do this burn in PGNS now, I ought to give you an update on the contingency book pages 32, 33, and 34, because the last time we went through this portion, we were burning it in AGS.
+137:05:22 Kerwin: Okay, Fred. Stand by. We've been talking about possibly having you do it in AGS. We recommend at this time that you do an AGS to PGNS align, the 400 plus 3 procedure only. Over. [Pause.]
+Inputting 400 + 3000 into the DEDA will have the AGS align its own inertial reference to the IMU.
+137:05:44 Haise: Okay. [Long pause.]
+137:06:19 Kerwin: And, Aquarius, Houston
+137:06:23 Lovell: Go ahead, Houston.
+137:06:24 Kerwin: Roger. We recommend that you perform this burn in AGS, as you did the last midcourse maneuver; we think it will save gas. Over. [Pause.]
+137:06:36 Lovell: Okay. Joe, do you want me to line up the same way we did the last one, too?
+137:06:42 Kerwin: Stand by on that. [Long pause.]
+That was capsule communicator Joe Kerwin, passing along to Jim Lovell the recommendation to perform the midcourse burn with the Abort Guidance System.
+137:06:57 Haise: And, Joe, Jack just handed me some injector temperatures, if you want to read these on [garble] so I can plug them in.
+137:07:05 Kerwin: Roger. Go ahead with those.
+137:07:07 Haise: Okay. 5 Charlie, 4.0; 5 Dogs, 3.7; 6 Able, 3.5; 6 Bravo, 4.1; 6 Charlie, 4.2; 6 Delta, 3.8.
+The temperatures are read from the Systems Test Meter, and they range from + 22°F to +34°F, or -5.5 °C to 1.1 °C.
+137:07:21 Kerwin: Okay. Copy those, Fred.
+Comm break.
+137:09:09 Kerwin: Aquarius, Houston.
+137:09:11 Lovell: Go ahead, Houston.
+137:09:13 Kerwin: Okay, Jim. Our recommendation on this burn is that you maneuver to the burn attitude, in PGNS Min Impulse, then do a body-axis align, 400 plus 5, followed by 400 plus 0, and then do the burn in AGS. Over.
+Inputting 400 +50000 into the DEDA aligns the AGS' inertial reference to the body axes of the LM. Inputting 400 +00000 sets up the AGS attitude hold.
+137:09:34 Lovell: Okay. Now we're spinning it with the PGNS, what you gave us for a PGNS attitude. Is this the wrong one? Do you want me to just to align up the Earth as I did before in the last midcourse?
+137:09:46 Kerwin: No. We don't want you to do that. Read me your FDAI angles, and let's compare them with what we have down here.
+137:09:55 Lovell: Okay. You're looking at them in the DSKY. I've got roll of 8.47; pitch of about 0.51; and yaw looking at about 3.750. [Pause.]
+137:10:18 Kerwin: Okay, Jim. Those are very close - I guess all you need to do is trim them up a bit.
+137:10:26 Lovell: I plan to do a final trim - Auto trim, and then a four-jet translation. [Long pause.]
+137:10:40 Kerwin: Okay, Jim. For fuel conservation, we'd prefer you to trim it up Min Impulse, and there's really very little trim required; and then go ahead and do it AGS. We're on the expected fuel usage, but we're just being old ladies about it.
+137:10:58 Lovell: Okay. Understand. My only question, Joe, is the fact that both the roll and the yaw needles did not go to null when I did an Auto maneuver. I'd tried to go manually to the attitude; and then went to Auto, but the roll and the yaw do not come in at all.
+137:11:14 Kerwin: Roger. I haven't got an answer on that yet, but your attitude looks very close.
+137:11:20 Lovell: Okay. I can take it on [garble].
+Comm break.
+137:12:45 Lovell: And, Houston, Aquarius. I'm not sure that if I follow and null the needles, that will be the proper attitude. [Long pause.]
+137:13:02 Kerwin: Okay. Stand by 1, Jim. We're talking about it. It's going to be very close; in any event, close enough.
+137:13:10 Lovell: Okay.
+137:13:16 Kerwin: And, Jim, just for your information, I have the entry PAD. I have the landing area weather summary, which you probably don't even have to copy, but which I'll read up to you when you're ready; and some stars for Jack that I'm holding for him for later on.
+137:13:31 Lovell: Okay. [Pause.]
+137:13:42 Haise: And, Joe, Jack says all the injector temperatures, he just checked them again, and they're all over 3.9...
+137:13:49 Unknown MCC Speaker: ...If he knows the needles...
+137:13:50 Kerwin: Understand, that they're all over 3.9 now. Thanks a lot. [Pause.]
+137:13:58 Kerwin: You can tell him that it's looking good to us. They were even happy with the previous ones.
+137:14:05 Haise: Okay. [Long pause.]
+This is Apollo Control, Houston; 137 hours, 15 minutes now into the flight. We show a time of ignition of - for the midcourse burn a little over 25 minutes away now. This will be a burn with a Delta V of 3.1 feet per second. Duration of the burn, 23 seconds. It will be done retrograde. It's a relatively long duration on the burn...
+137:15:02 Lovell: And, my only question, Houston, is do you want me to null the PGNS needle manually?
+137:15:08 Kerwin: Okay. Stand by 1 more minute, Jim.
+Comm break.
+...relatively long duration on the burn because of the large spacecraft weight at this time. We show the spacecraft weight at 87,649 pounds at the present. Again the midcourse burn will be done retrograde. We're at 137 hours, 16 minutes into the flight. We show Apollo 13 at 40,081 nautical miles away from the Earth and travelling at a speed of 9,814 feet per second. This is Apollo Control, Houston.
+Distance, 74.230 km; velocity, 2,991 m/s.
+137:16:47 Haise: Houston, Aquarius.
+137:16:49 Kerwin: Go ahead, Aquarius.
+137:16:51 Haise: Yes. I guess the basic question is comparing the balls here and out the window it doesn't look too unreasonable, and I guess Jim says the COAS is yawed and roll slightly off from what he might eyeball; but yet, the FDAI air needles for PGNS are showing a full scale left in roll and full scale left in yaw. [Garble]...
+137:17:17 Kerwin: Okay. Go ahead.
+137:17:23 Haise: Yes. It appears if we track those we, obviously, aren't going to be on the attitude that we burned the last midcourse.
+137:17:30 Kerwin: Okay. Well, this attitude we passed you is not quite aligned to the terminator, and stand by on this. [Pause.]
+137:17:39 Flight: It should be off about 8 degrees, Flight.
+Long comm break.
+This is Apollo Control, Houston; 137 hours, 20 minutes into the flight. A goodly gathering of the astronaut corp in the Mission Control Center now, Donald K. Slayton is here, as is Tom Stafford, Chief of the Astronaut Office. Charlie Duke is here, Ken Mattingly, Gene Cernan in addition to Joe Kerwin, immediately around the CapCom console. On the first row is Ron Evans and Tony England. Meanwhile, in the back is Jim McDivitt, manning one of the positions at the management console. Jim McDivitt, as you recall, is the manager of the Apollo Spacecraft Program Office at present. We're at a distance now of 39,635 nautical miles away from Earth.
+Distance, 73,404 km.
+Astronauts monitoring the mission. Although taken earlier, it shows most of the same crowd that had gathered for the moment as well.
+Ronald Evans joined NASA in Astronaut Group 5 in 1966. He had so far worked in the support crew for Apollo 7 and Apollo 11 and as a CapCom for Apollos 7, 9 and 11. He was the backup CMP for Apollo 14. He would be the CMP for Apollo 17 in 1972.
+137:20:34 Lovell: How you doing, there, Houston?
+137:20:37 Kerwin: Oh, we're getting there, Jim. We're - we're all agreed that you're almost, but not quite, in the proper attitude, and we're just trying to get you one firm recommendation on how to proceed from here.
+137:20:48 Lovell: Okay. I have nulled the null - roll needle and the pitch needle now and I'm yawed - rolled left now. I'm rolled left about 9 degrees.
+137:20:59 Kerwin: Okay. Understand the needles are nulled
+137:21:03 Lovell: The yaw isn't, but the pitch and roll are.
+137:21:07 Kerwin: Roger that.
+Long comm break.
+137:23:50 Kerwin: Aquarius, Houston.
+137:23:52 Lovell: Go ahead.
+137:23:53 Kerwin: Okay. Here's the big story. Your attitude really looks quite good except in roll, and we'd like you to do the following. In Min Impulse PGNS, we'd like you to trim to zero pitch, which is about where you are now; to 008 degrees in roll, which is about 16 degrees from your present roll attitude; and to zero degrees in yaw, which is about where you are now. Then we'd like you to do the body-axis align 400 plus 5, 400 plus 0. Pitch and Roll to Pulse, select AGS, do the burn in AGS. How does that sound? Over.
+137:24:33 Lovell: Okay. I'm rolled the wrong way; that is what you're saying, right?
+137:24:37 Kerwin: That's right. [Pause.]
+Apollo Control at Houston. We're 15 minutes away now...
+137:24:49 Lovell: And you know I can't roll in minimum impulse. I've got to use TTCAs.
+137:24:56 Kerwin: That's right, Jim. Sorry.
+Comm break.
+Less than 15 minutes away now from the scheduled time of the midcourse burn. 137 hours, 25 minutes into the flight and Apollo 13 now 39,206 nautical miles away from Earth with a speed of 9,927 feet per second.
+Distance, 72,610 km, speed, 3,026 m/s.
+137:26:26 Lovell: And you don't want me to automatically trim 5018, I take it. [Long pause.]
+137:26:42 Kerwin: That's affirm, Jim. Don't trim 5018.
+137:26:46 Lovell: Okay. [Pause.]
+137:26:53 Kerwin: We just want you to cycle on through P41 to get the Average G and burn it out.
+137:27:00 Lovell: Okay. [Long pause.]
+Average G is a routine in the computer which calculates the state vector during powered flight, updating it every two seconds based on the acceleration being measured.
+137:27:51 Kerwin: Aquarius, Houston.
+137:27:53 Lovell: Go ahead.
+137:27:54 Kerwin: Just for your information, we see 3.0 in register 1. We read you up 3.1 on the PAD. The actual Delta-V was 3.05, and they warned me that it might come out 3.0.
+137:28:11 Lovell: Okay. That's a little burn.
+137:28:13 Kerwin: Right.
+Comm break.
+137:29:36 Kerwin: Aquarius, Houston. Your attitude looks real good. We will give you a mark at 10 minutes to the burn, which is in 28 seconds.
+137:29:46 Lovell: Okay. We'll burn it in AGS and use the AGS ball. [Pause.]
+Despite planning the maneuver using PGNS computer guidance, the crew has elected to use the AGS instead.
+Lovell, from 1970 Technical debrief: "We finally got our rough alignment for midcourse correction 7. Houston called up and asked if we would like to do a PGNS burn, and we said 'Fine.' That's where I really got confused. I guess Dr. Berry thought I was tired. Well, maybe I was tired."
+Lovell, from 1970 Technical debrief: "I really preferred to do the old AGS burn again, because we had done it one time and I knew that it worked. But, this burn was okay. We burned RCS this time."
+Haise, from 1970 Technical debrief: "That ended up being an AGS burn, Jim."
+Lovell, from 1970 Technical debrief: "Yes, Houston finally told us to go to the AGS."
+137:29:54 Kerwin: Right. I was looking at the wrong clock, and we're a little under 10 minutes now. I'll give you a mark at 9 minutes. Okay?
+137:30:05 Lovell: That's fine. [Long pause.]
+Apollo Control. That was Joe Kerwin confirming to Jim Lovell, spacecraft commander, that spacecraft attitude for the burn does look good. We're at 137 hours, 30 minutes into the flight. Now showing Apollo 13 at 38,700 nautical miles away from Earth, current speed 9,990 feet per second.
+Their distance is 71,672 km; velocity, 3,045 m/s.
+137:30:36 Kerwin: Aquarius, Houston. We have 10 seconds until 9 minutes to the burn. 3, 2, 1...
+137:30:49 Kerwin: Mark.
+137:30:50 Kerwin: Nine minutes.
+137:30:53 Lovell: Very well. That agrees with our event timer.
+137:30:56 Kerwin: Okay.
+Very long comm break.
+Apollo Control coming up on 6 minutes to time of the midcourse burn. This burn performed will be a backup guiding system aboard Aquarius. The burn retrograde will provide a delta velocity of 3 feet per second and with a predicted burn duration of 21 seconds. We're at 137 hours, 34 minutes into the flight, and this is Apollo Control, Houston. One correction. That burn duration is 23 seconds, not 21 seconds. We're at 137 hours, 35 minutes into the flight. We show Apollo 13 at 38,303 nautical miles away from Earth, and with a velocity of 10,045 feet per second. Less than 5 minutes now away from scheduled time of ignition.
+Distance, 70,937 km; velocity, 3,062 m/s.
+137:36:57 Lovell: Okay, Houston. About 3 minutes to go, and we're all squared away. [Long pause.]
+137:37:14 Kerwin: And, Aquarius; Houston. Roger that. And we're standing by for your body-axis align and your zeroing 404, 405, 406, going to 470.
+These set up the AGS to monitor their acceleration for the burn, and then display it on the DEDA.
+137:37:27 Haise: Okay. You'd asked - you'd asked me before, Joe, to go 400 plus 3, which I did. I assume you've changed the script again. [Long pause.]
+Less than 2 minutes away now from scheduled time of ignition. We're at 137 hours, 38 minutes in the flight.
+137:38:08 Kerwin: Okay, Fred. We did tell you to do that awhile ago, and it doesn't matter; you're looking good.
+137:38:15 Haise: Okay.
+Comm break.
+One minute away now.
+Ten seconds away now.
+137:39:50 Haise: Yes. It looks like we had a minus 0.2 bias at 470. We're burning.
+137:39:54 Kerwin: Copy that, Fred. [Long pause.]
+Fred Haise reporting that the burn is underway. We're at 137 hours, 40 minutes into the flight.
+We've shut down.
+137:40:24 Kerwin: Good show, Aquarius.
+137:40:29 Lovell: We're tweaking now, Joe.
+137:40:31 Kerwin: Roger. Aquarius, Houston. You're good right where you are.
+137:40:40 Lovell: Okay. That's it. [Pause.]
+Day 6, part 3: Worn Out Crew
+Journal Home Page
+Day 6, part 5: Service Module Separation

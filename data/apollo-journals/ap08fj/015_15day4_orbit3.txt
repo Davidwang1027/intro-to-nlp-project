@@ -1,0 +1,582 @@
+A8FJ - Day 4: Lunar Orbit 3
+Day 4: Lunar Orbit 2
+Journal Home Page
+Day 4: Lunar Orbit 4
+Apollo 8
+Day 4: Lunar Orbit 3
+Corrected Transcript and Commentary Copyright © 2003-2025 by W. David Woods, Frank O'Brien and William Smeaton. All rights reserved.
+Last updated 2025-02-21
+Having gone around the limb again, the crew of Apollo 8 prepare to perform the second Lunar Orbit Insertion burn (DOI-2). This burn, much shorter than the first, will circularise their orbit to about 60 nautical miles or 111 kilometres.
+There is only a small amount of dialogue from this far-side pass that has reached us through the transcripts. When recording at low bit rate, the slow speed of the DSE tape is rendering the voice track reproduction unintelligible. We pick up the DSE recording of the crew when the data switch is placed in the High Bit-Rate position and there is less than a minute remaining to the DOI-2 burn.
+073:34:25 Lovell (onboard): 42 seconds. 42.
+073:34:28 Anders (onboard): Give me a call when the DSKY blanks.
+073:34:30 Borman (onboard): Blank!
+073:34:31 Anders (onboard): Blank DSKY.
+The computer is now working on the calculations of "average-g", ready for the thrust produced by the burn.
+073:34:32 Anders (onboard): Okay. Average g is On; Flight Recorder to Record; EMS to Auto.
+073:34:38 Borman (onboard): Auto.
+073:34:41 Anders (onboard): Check PIPA bias.
+073:34:43 Lovell (onboard): Okay.
+073:34:44 Anders (onboard): Ullage as required.
+073:34:46 Lovell (onboard): No ullage.
+The PAD for this burn stated that there was to be no ullage burn, even though the tanks are not completely full.
+073:34:47 Anders (onboard): Okay.
+073:35:01 Lovell (onboard): Enabled.
+The DSKY is flashing "99" and is awaiting the Proceed button being pressed, which will allow it to continue with the burn.
+073:35:06 Anders (onboard): 1, 2...
+073:35:08 Anders (onboard): 3, 4, 5, 6, 7, 8, 9, 10, 11...
+073:35:17 Borman (onboard): Okay?
+073:35:18 Anders (onboard): Okay!
+073:35:20 Borman (onboard): Cut-off.
+073:35:21 Lovell (onboard): Okay, cut-off.
+073:35:22 Anders (onboard): SPS light, Off; okay, Delta-V Thrust A, Off.
+With the 9.6-second burn complete, the crew set about ensuring the SPS engine cannot fire inadvertently. Note that the burn was performed using a single bank of valves to the SPS engine. Because of the short duration of the burn, and the desire to minimize even small variations in thrust, the second set of propellant valves were not used.
+073:35:26 Borman (onboard): Off.
+073:35:27 Anders (onboard): Helium valves are Closed.
+073:35:28 Anders (onboard): Okay, barber pole; SPS Gimbal Motors, four, Off, slowly.
+073:35:34 Borman (onboard): 1, Off.
+073:35:35 Anders (onboard): Got it.
+073:35:36 Borman (onboard): 2, Off.
+073:35:37 Anders (onboard): Got it. Not quite so fast.
+The motors are switched off separately so as not to apply a large change of demand on the power busses.
+073:35:40 Borman (onboard): Okay. 3, Off.
+073:35:41 Anders (onboard): Got it.
+073:35:42 Borman (onboard): 4, Off.
+073:35:41 Anders (onboard): Got it. Okay, TVC Servo Power, 1 and 2, Off.
+073:35:44 Borman (onboard): Off...
+073:36:01 Anders (onboard): Proceed. Null residuals and record final residuals. Okay? You got it? [Garble.]
+The DSKY is showing the amount of velocity yet to be gained in its three register displays. Engine thrust tail-off is an inexact science, and so some small errors in velocity will remain. Frank will use the translational hand controller to add or subtract small amounts of velocity to fine tune the burn. Usually, if such a burn were made during the coasts to and from the Moon, these residuals would be left alone, measured, then compensated for by future burns. In this case, being so near the lunar surface, they would like to get the required Delta-V spot on.
+073:36:25 Anders (onboard): Okay. EMS Function, Off.
+073:36:29 Borman (onboard): Off.
+073:36:31 Anders (onboard): EMS Mode, Standby.
+The EMS's task of monitoring the burn is complete and it can be placed in standby mode.
+073:36:33 Anders (onboard): BMAG [Body-Mounted Attitude Gyro] Mode, three, Rate 2.
+Gyro assembly 2 will provide rate-of-turn information for all three axes for the SCS (Stabilization and Control System).
+073:36:37 Anders (onboard): Deadband, Max.
+073:36:40 Anders (onboard): Okay, NonEssential - is Off.
+073:36:47 Anders (onboard): Trans Control Power, Off.
+073:36:59 Anders (onboard): Rot Control Power Direct, Off.
+073:36:03 Anders (onboard): SPS, Pitch and Yaw circuit breakers, Open.
+073:37:08 Anders (onboard): Are they Open? Then Close them.
+We suspect a transcription error here. The checklist calls for these circuit breakers to be opened and with the burn over, there is no reason for them to be closed.
+073:37:09 Anders (onboard): Okay, proceed.
+073:37:13 Anders (onboard): Turn to Verb 82 and Enter.
+073:37:44 Anders (onboard): Verb 82. Proceed.
+Verb 82 displays the details of their new orbit so they can note it down.
+073:38:08 Anders (onboard): Got it? 00, Enter.
+073:38:12 Anders (onboard): Proceed, and then line 37: 00, Enter.
+Having noted their orbital parameters, they change to program 00.
+073:38:24 Anders (onboard): Enter Verb 66.
+Verb 66 passes the spacecraft's state vector to spare slots in the computer's erasable memory.
+As the spacecraft is being tidied up after the burn, Jim is scheduled to begin a two-hour rest period. His relative lack of presence on the transcript shows that he at least took a back seat for much of that time. Bill will perform the next platform realignment at 074:30 instead.
+073:39:14 Anders (onboard): Okay, SPS [garble].
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; at 73 hours, 40 minutes into the flight. Our present orbital data, at the last time I gave you, still carries a perigee [means perilune] of 60.8 nautical miles [112.6 km], that perigee occurring at 8 degrees north by 89 degrees west. An apogee (means apolune), an estimated apogee this would be, of 60.4 [111.9 km], this would be after circularization. The Flight Plan at this point is very busy. All three pilots have considerable tasks to do, as opposed to the last several days when their columns were virtual blanks. For instance, at 73 hours, 40 minutes, right along about now, Frank Borman is busy doing a platform align to a specific - to a specific number. Then he's called upon to roll right 180 degrees into a 2-second [per] degree pitch down and so forth. At the same time, Jim Lovell is doing a number of vectors. He's working on the RCS monitors in sharing the values in the tanks there and then shortly, he is to start a rest period in about 10 minutes, a 2-hour rest period and at the same time Bill Anders is busy with a battery charger. He's doing an SPS monitor check and he is to put a program in to acquire the High Gain Antenna via the Manned Space Flight Network at a specific time. During all this, he will be - the biomedical switch will be on him, so we'll be following his heart action. All in all, a very busy period onboard. We're due to reacquire the spacecraft at - in about 6 minutes. At 73 hours, 43 minutes into the flight, this is Houston.
+Note that Jim carried out a platform alignment over an hour ago. What the PAO announcer seems to have been confused by is the GDC Align operation in the Flight Plan directly after the LOI-2 burn. This is to align the spacecraft's secondary attitude reference to match that of the platform so that both systems have an identical notion of which way up the spacecraft is. The GDCs get their attitude information from the BMAGs and that system has a much larger rate of drift than the platform in the IMU.
+Before they re-emerge from around the Moon, Bill uses the DSE to leave some voice notes to help the photo analysts keep track of what he has been doing so far with the cameras.
+073:46:36 Anders (onboard): Okay, let's do the - on this DSE again.
+073:46:48 Anders (onboard): Now, I think we - I told you earlier what I thought I'd do [garble] and I discovered that [garble] I ended up with the high-speed film, in one of the cameras - I believe it was the second rev. And it's my feeling that the - target 12 was accomplished. And I believe that targets 10, 14, 16, and 19, and possibly 20 and 21 were taken with high-speed film. What is important is you should know between which craters I changed to the other camera. I believe that [garble] and possibly Taruntius were taken with the proper film. Also [garble] probably 31 and 40. Terminator photography was taken at the end of the first rev, properly configured, as indicated previously, [garble].
+073:48:49 Lovell (onboard): One was at 26.
+073:48:56 Anders (onboard): Okay, terminator photography was accomplished at the morning far-side terminator, [garble] and I believe we had the high-speed camera. We used the 16-millimeter camera [garble] with the proper f-stop. It's been rather difficult to - to keep [garble] on rev 2. [Garble.]
+Bill has discovered that he has used the wrong film for some of his photography. Soon he will tell Mission Control of the problem directly.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston. We expect to acquire just momentarily. The first call has gone out. We have acquired; we're reading good tank pressures, and here goes the first call.
+Your browser does not support the audio element.
+[Download MP3 audio file Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+073:49:25 Carr: Apollo 8, Houston. Over. [No answer.]
+073:49:40 Carr: Apollo 8, Houston. Over. [No answer.]
+073:49:53 Carr: Apollo 8, Houston. Over. [No answer.]
+073:49:53 Anders (onboard): Magazine U, I have 47 exposures used, and high speed on 40 of them. We are now set up for magazine K for the - training photography, and magazine U, 70 millimeter, [garble].
+073:50:17 Carr: Apollo 8, Houston. Over.
+073:50:27 Anders: Houston, Apollo 8. Over.
+073:50:28 Carr: Apollo 8, Houston. Loud and clear. How me? [Pause.]
+073:50:40 Anders: Houston, Apollo 8. Over.
+073:50:42 Carr: Apollo 8, Houston. Loud and clear. How me?
+073:50:49 Anders: Roger. Reading you loud and clear, and ready for the burn status report.
+073:50:53 Carr: Roger. Ready to copy.
+073:50:55 Borman: Houston. Roger. The burn was on time, 11 seconds, 0.2 with a VGX. [Long pause.], 1.8; VGY - that's minus 1.8; minus 0.2, VGZ; Delta VC was minus 9.4. Verb 82 gives us an apogee [means apolune] of 62 and a perigee [means perilune] of 60.8. [Pause.]
+To interpret, when the 11-second burn was over, the spacecraft was 0.2 foot per second (0.06 metres/second) short of the velocity it wanted in the X direction (parallel to its motion), it had overshot its required velocity in the Y direction (perpendicular to its motion) by 1.8 fps (0.55 m/s) and it was 0.2 fps (0.06 m/s) short in the Z direction, which is parallel to the local vertical. The display of their velocity change on the EMS overshot by 9.4 fps which would be expected as it does not account for the tail-off thrust that comes from the engine after shutdown. Finally, the onboard computer's determination of their orbit is that their apolune is 62 nautical miles (114.8 km) and their perilune is 60.8 nautical miles (112.6 km). With the spacecraft acquired by the stations on Earth, an independent determination of their orbit will be made.
+073:51:42 Carr: Apollo 8, this is Houston. Roger. Your burn was on time, 11 seconds; VGX was plus 0.2, VGY was minus 1.8, VGZ minus 0.2, Delta-VC minus 9.4, apogee 62, perigee, 60.8. Over.
+073:52:16 Borman: Roger.
+Long comm break.
+073:52:21 Lovell (onboard): Hey, Bill.
+073:52:22 Anders (onboard): Yes.
+073:52:23 Lovell (onboard): Are you looking for one of those [garble]?
+073:52:54 Lovell (onboard): [Garble] if that's where you put it.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control here. That circuit's noisier than we can recall on the last two passes, but we have heard the crewmember, I think Borman, confirm an apogee of 62 miles, a perigee of 60.8, a virtually perfect second burn, giving us a circular orbit. We'll continue to leave the line open.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control again. Apogee on this, the third rev around the Moon will occur at 80 degrees west longitude, 9 degrees, 30 minutes north latitude. Those are lunar coordinates of course. The perigee on this rev will occur at 9 degrees, 29 minutes south latitude and 99 degrees, 28 minutes east longitude. That'll be on the back side of the Moon. And our numbers now show an apogee of 60.9 [nautical miles, 112.8 km] versus of perigee of 60.5 [nautical miles, 112.0 km], compared to 62-[nautical] mile apogee and a 60.8-[nautical] mile apogee [means perilune] from the crew. Excellent agreement.
+Already, an Earth-based determination of their orbit has been made which is in good agreement with the figure computed aboard the spacecraft. The circularisation of their orbit has made the positions of apolune and perilune irrelevant but for what it is worth, these points have rotated nearly ninety degrees around the Moon, a sign that the burn was stopped when the orbit had become about as circular as it was going to get.
+Photography continues on magazine E as Bill photographs Target of Opportunity 58.
+AS08-13-2262 - A fresh, light-walled crater on the northwest rim of Sklodowska that is the subject of this target. The crater resulted from an oblique impact as shown by the characteristic excluded zone where the rays are missing - Image by NASA/Johnson Space Center.
+In the foreground of 2262 is Ritz B with the eastern rim of Ritz itself visible down the right-hand side of the image.
+AS08-13-2263 - Landscape between the crater Ritz and the spacecraft - Image by NASA/Johnson Space Center.
+AS08-13-2264 - The 51-km Ritz - Image by NASA/Johnson Space Center.
+AS08-13-2265 - Crater Ritz is cut off to the left - Image by NASA/Johnson Space Center.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+The press corps should be advised that we're planning a press conference to begin in about 45 minutes in the MSC Auditorium, 9:30 Houston time [that is, 9:30am on December 24].
+073:57:30 Anders (onboard): [Garble] number 58, magazine - C.
+Bill is still recording notes on the DSE as well as continuing the photography.
+AS08-13-2266 - View south across the east rim of the 94-km crater Ansgarius - Image by NASA/Johnson Space Center.
+AS08-13-2267 - View south across Ansgarius - Image by NASA/Johnson Space Center.
+AS08-13-2268 - View south across Ansgarius - Image by NASA/Johnson Space Center.
+The slumped walls of this crater are well shown and it is interesting to note the relatively puny size of the central peak. This is a very old feature and one interpretation for its flat floor and small central peak is that the interior was filled aeons ago by ejecta from the impact formation of the great near-side basins, partially burying the original peak. The small crater in the foreground just outside the rim of Ansgarius is Ansgarius M.
+AS08-13-2269 - View south to the 55-km crater Behaim. The southwest rim of Ansgarius is in the foreground - Image by NASA/Johnson Space Center.
+A very different looking central peak stands within Behaim, south of Ansgarius. This is Target of Opportunity 63. It's smooth contours may again be explained by a blanket of ejecta covering the original central mountain.
+Your browser does not support the audio element.
+[Download MP3 audio file Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+073:59:06 Anders: Houston, how do you read? This is Apollo 8.
+073:59:09 Carr: Apollo 8, Houston. Weak but clear.
+073:59:15 Anders: You're loud and clear.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:00:49 Borman: Houston, Apollo 8. We're on High Gain now if you want to get the high-speed data to look at that burn.
+074:00:56 Carr: Apollo 8, this is Houston. Roger. [Pause.]
+074:01:01 Borman (onboard, may be Anders): Okay, I think I've made a mistake, on the last DSE [garble] I've gotten confused here.
+074:01:04 Carr: Apollo 8, this is Houston. We are taking the DSE.
+074:01:11 Borman: Thank you. Can you hold it for about 5 seconds - or about one minute?
+074:01:17 Carr: Roger. Holding.
+074:01:30 Borman: Okay. [Pause.]
+074:01:31 Lovell (onboard): Wait just a second; 58 is not around - starting on frame 61.
+074:01:39 Borman: Okay. You can dump the data now.
+074:01:42 Carr: Apollo 8, Houston. Roger. We're taking the DSE for dump.
+074:01:51 Borman (onboard): Did you get it?
+074:01:55 Borman: We've updated the LM state vector with a Verb 66, Houston.
+074:02:01 Carr: Houston. Roger.
+AS08-13-2270 - View south to Target of Opportunity 65; crater Kapteyn, 49 kilometres in diameter - Image by NASA/Johnson Space Center.
+Around now, Bill and Frank are scheduled to begin a session of training photography. Seven minutes before flying over a landmark in Mare Tranquillitatis, Bill begins photographing it, even though it is nearly on the horizon. He is using the 16-mm camera and the Hasselblad using magazine E, taking a shot every 20 seconds.
+AS08-13-2271 - Mare Tranquillitatis - First frame of photo training exercise - Image by NASA/Johnson Space Center.
+The result of the Hasselblad photography is a remarkable series of images from AS08-13-2271 that, when looked at sequentially, form a movie of the passing landmark.
+The 16mm movie photography is taken using magazine K.
+H.264 MOV video file.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+We got an exceptionally quiet pass across here. We're reading a pitch attitude of 192 degrees; it's down, and yaw, 356 degrees; a 177-degree roll attitude - a very steady attitude and I believe they are in orbital rate; that is a rate calculated to hold their windows in a specific position and move them in - as they move across the face of the Moon. Lovell should be in a rest period, 2 hours duration now. Perhaps that's why they are keeping quiet. Bill Anders is extremely busy taking pictures. 70-millimeter and 16-millimeters - 70-millimeter stills - 16-millimeter movies.
+074:06:43 Anders (onboard): Houston, Apollo 8. [Garble] meal 4, day - day 4, meal [garble].
+This is Apollo Control, Houston. We are 52 minutes from Loss of Signal on this pass and let's look over our ECS, Environmental Control Systems summary table. The cabin pressure, 4.9 [psi, 33.8 kPa] and holding very nicely. The cabin temperature, 77 degrees [Fahrenheit, 25°C]. I think that's up a few degrees from yesterday. I don't recall exactly. In general we can expect to see, we should be seeing a slight rise in temperature. This was predicted by the thermal people, a rise particularly, in the outside temperature, the outside skin temperature of the spacecraft, a rise of something like 10 to 12 degrees [Fahrenheit, 6 to 7°C]. This was based on estimates from the [spacecraft number] 101, the Apollo 7 flight and the experience to date in deep space. The point to be made is that it's - the spacecraft is slightly colder as it traverses from Earth to Moon, than it is while in orbit about either body, slightly colder on the outside. The inside remains relatively stable. A very quiet period and so we'll just take the line down, if something occurs we will come back up immediately. At 74 hours, 10 minutes into the flight; this is Apollo Control, Houston.
+Apollo Control Houston here, 74 hours, 12 minutes. After a long quiet period there, Mike Collins put in a call and he is getting some conversation from Frank Borman, be it ever so brief. Let's hear it now, and we'll catch up and go into the live situation.
+Your browser does not support the audio element.
+[Download MP3 audio file Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:11:38 Collins: Apollo 8, this is Houston. Over.
+074:11:42 Borman: Hello, Michael.
+The Green Team under the leadership of Flight Director Cliff Charlesworth has taken over the consoles at Mission Control.
+074:11:44 Collins: Hey, good morning, Frank. We've been tracking you for about 18 minutes now, and we show your orbit 61 by 60½. Over.
+074:11:54 Borman: Thank you. [Pause.]
+074:12:02 Collins: Apollo 8, Houston. Your SPS engine looked good on LOI number 2 burn.
+074:12:11 Borman Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:16:24 Collins: Apollo 8, Houston.
+074:16:29 Borman: Go ahead.
+074:16:30 Collins: Bill has got the tape recorder now; we're evaluating the dump. The data is good, and we're evaluating the voice quality here shortly.
+074:16:41 Borman: Thank you.
+Your browser does not support the audio element.
+[Download MP3 audio file Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:19:06 Collins: Apollo 8, this is Houston. Over.
+074:19:11 Borman: Go ahead, Houston. Apollo 8.
+074:19:13 Collins: I've got a few jolly updates for you when you're ready to copy.
+074:19:18 Borman: Stand by.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston, over all this noise. We will take the line down at this point; try to figure out where the source of all of our noise is. Fortunately it's an extremely quiet pass; but if there is any further conversation, we'll come back up and play it for you. It's 74 hours, 21 minutes into the flight. This is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:21:33 Borman: Go ahead, Houston, with your updates.
+074:21:36 Collins: Roger. Apollo 8, Houston. I have a TEI-3, TEI-4 and map update for revs 3 and 4 to read to you. Actually, the TEI-3 update which you have onboard is still valid, so we will not update that one. Which do you want first, the TEI-4 or the map update?
+074:22:03 Borman: TEI-4.
+074:22:05 Collins: All right. This is the TEI-4 update: SPS/G&N; 45695; minus 0.53, plus 1.41. Are you with me so far? Over.
+074:22:34 Borman: So far.
+074:22:36 Collins: Very good. 077:21:27.58; plus 3062.7, minus 0062.5, plus 0057.7; 180, 018, 001; not applicable, plus 0018.8; 3063.9, 2:56, 3045.2. Are you with me so far? Over.
+074:23:50 Borman: So far seems [garble]. Hold it a minute though, will you? [Long pause.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control here, we'll break it off at this point so the news conference can be picked up. One other pertinent comment that did not play out on that tape exchange. Frank Borman said we're getting - we had noted, that his - the voice quality of Bill Anders was not quite what it should be on the data record system and which is being dumped here each on each rev back to Houston. This was noted and Bill said they were all so busy right now he would do what he could, make notes on the Flight Plan and that sort of thing, but he - we just have to understand. So at this time let's break over to the auditorium and pick up the news conference.
+The full audio of the press conference which follows is in the link below. For the most part, members of the press are seeking clarification of various technical aspects of the flight, all of which are discussed in this journal as they occur. At one point, NASA is asked to comment on the level of excitement that prevailed in Mission Control at the first moment of acquisition in lunar orbit, and the dour NASA spokesmen do their best to downplay it all as a perfectly nominal event. This press conference lasted well into the crew's next back side pass, overlapping all the other events taking place during this time.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:24:11 Borman: Okay. Go ahead.
+074:24:13 Collins: Okay, the last number I gave was Delta-VC, picking up at the sextant star; 40, 273.0, 39.6; 033, down 03.0, left 1.9. Are you with me? Over.
+074:24:52 Borman: Roger.
+074:24:53 Collins: Okay. Plus 08.58, minus 165.00; 1296.0, 36195, 146:37:21. Comment: north set of stars Sirius and Rigel; roll, 129; pitch, 155; yaw, 010; ullage, 2 quads, 20 seconds, 2 0 seconds from quads Bravo and Delta. Horizon on 2-degree line at time of ignition minus 3 minutes. Over.
+The PAD is interpreted as follows:
+Purpose: This PAD would be used for an abort at the TEI-4 opportunity.
+Systems: The burn would be made using the SPS (Service Propulsion System) engine under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 45,695 pounds (20,727 kg).
+Pitch and yaw trim (Noun 48): -0.53° and +1.41°.
+Time of ignition, TIG (Noun 33): 77 hours, 21 minutes, 27.58 seconds.
+Change in velocity (Noun 81), fps (m/s): X, +3,062.7 (+933.5); Y, -62.5 (-19.1); Z, +57.7 (+17.6). These velocities are expressed with respect to the Local Vertical reference.
+Spacecraft attitude: Roll, 180°; Pitch, 18°; Yaw, 1°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform which itself has been aligned per the LOI-2 REFSMMAT.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable. If this abort burn were to be made, the spacecraft would be on a trajectory coming from the Moon so any apogee figure would be meaningless.
+HP, expected perigee of resulting orbit (Noun 44): +18.8 nautical miles (+34.8 km). The perigee distance is so low, it intersects Earth's atmosphere. In other words, the spacecraft will re-enter.
+Delta-VT: 3,063.9 fps (933.9 m/s). This is the total change in velocity the spacecraft would experience. (It is a vector sum of the three components given above.)
+Burn duration or burn time: 2 minutes, 56 seconds.
+Delta-VC: 3,045.2 fps. This value is entered in the Delta-V display of the EMS to provide a backup method for shutting down the engine.
+Sextant star: Star 40 (Altair, or Alpha Aquilae) visible in sextant when shaft and trunnion angles are 273.0° and 39.6° respectively. This is part of an attitude check.
+Boresight star: Star 33 (Antares, or Alpha Scorpii) visible in the COAS as a second attitude check.
+COAS Pitch Angle: Down 3.0°.
+COAS X Position Angle: Left 1.9°.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.
+Expected splashdown point (Noun 61): 8.58° north, 165° west; in the mid-Pacific.
+Range to go at the 0.05 g event: 1,296.0 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05 g event: 36,195 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+GET of 0.05 g event: 146 hours, 37 minutes and 21 seconds GET. This is the predicted time that the EMS will be triggered by a deceleration of 0.05 g.
+GDC Align stars: Stars to be used for GDC Align purposes are Sirius and Rigel.
+GDC Align angles: Roll, 129°; pitch, 155°; yaw, 10°.
+There are two comments appended to the PAD. The first is that the ullage burn to settle the contents of the propellant tanks would use RCS jets B and D for twenty seconds. Also, if they are at the correct attitude for the abort burn at three minutes to ignition, they should expect the Moon's horizon to line up with the 2° marks on the left rendezvous window.
+074:26:15 Borman: Roger, Houston. We got a TEI-4; SPS/G&N; 45695; minus 0.53, plus 1.41; 077:21:27.58; plus 3062.7, minus 0062.5, plus 0057.7; 180, 018, 001; N/A, plus 0018.8; 3063.9, 2:56, 3045.2; 40, 273.0, 39.6; 033, down 03.0, left 1.9; plus 08.58, minus 165.00; plus 1296.0, plus 36195, 146:37:21. Sirius, Rigel, 129, 155, 010; 2 quads, 20 seconds, B and D. Horizon 2 degrees at TIG minus 3 (minutes).
+074:27:26 Collins: That's about the size of it, Frank, and a map update for revs 3/4 when you're ready. [Pause.]
+074:27:38 Borman: Ready.
+074:27:40 Collins: Revs 3/4, LOS, 75:01:23; Sunrise, 75:10:16; Prime meridian, 75:17:16; AOS, 75:47:18; Sunset, 76:23:11; Remarks: Subsolar point, 75:46:55; IP-1 acquisition, 76:11:17; IP-2 acquisition, 76:12:30. For IP-1 and 2 those ACQ(uisition) times are for shaft and trunnion angles equals zero. Over.
+This map update refers to events and landmarks that will be encountered during the third and fourth revolutions around the Moon. It is interpreted as follows:
+Loss of Signal (LOS) before start of rev 4: 075:01:23.
+Spacecraft sunrise in orbit: 075:10:16. (The time the spacecraft comes back into sunlight around the far side.)
+Passing over Prime Meridian of 150°W: 075:17:16. (At this time, they will be passing over the 150°W line of longitude.)
+Acquisition Of Signal (AOS): 075:47:18.
+Spacecraft sunset in orbit: 076:23:11. (The time the spacecraft passes from lunar daytime into the lunar night over the near side.)
+Subsolar point: 075:46:55. (At this time, the spacecraft will be directly between the Sun and the Moon. In other words, this is when they pass the point where the Sun is highest over the lunar surface.)
+As they approach the pseudo landing site, they use two initial points to help them with spotting the landing site, one on the western shore of Mare Fecunditatis, the second being the mountain that Jim has newly named, Mount Marilyn.
+Acquisition Of Initial Point 1: 076:11:17.
+Acquisition Of Initial Point 2: 076:12:30.
+Timings for both have been given based on when they become visible in the sextant when set to its zero position.
+074:27:53 Borman: Roger. Thank you. 75:01:23, 75:10:16, 75:17:16, 75:47:18, 76:23:11; Subsolar, 75:46:55; IP-1, 76:11:17; IP-2, 76:12:30; and at shaft and trunnion at zero.
+074:29:16 Collins: That's affirmative, Frank.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:32:53 Collins: Apollo 8, Houston.
+074:32:57 Borman: Go ahead, Houston.
+074:32:58 Collins: Roger. When Bill gets a minute, we'd like to get battery B started charging. Over.
+074:33:07 Borman: Roger. Thank you. He'll take a minute right now.
+Comm break.
+While Jim has a scheduled rest period, Bill performs a P52 platform realignment. For this, he sights on star 16 (Procyon, Alpha Canis Minoris) and 23 (Denebola, Beta Leonis). The alignment is performed admirably with the star angle error (a comparison of the angle measured by Bill between the two stars and the actual angle between them) being only 0.01°. Frank has stopped the orb-rate rotation of the spacecraft and "gone inertial" which simply means that the spacecraft's attitude is now fixed with respect to the stars.
+This is Apollo Control, Houston; 74 hours, 35 minutes into the flight. And in the last 10 or 15 minutes we've had a couple of brief exchanges with the crew, who still seem to be in a rather resting mode, but here are those exchanges, primarily numbers updates. We have the tapes.
+074:36:01 Collins: Apollo 8, Houston.
+074:36:07 Borman: Go.
+074:36:08 Collins: Roger. For Bill - the voice quality on the backside DSE is extremely poor. We consider it unusable, and we recommend that all pertinent comments be hand recorded so we don't lose them. We should not count on using the tape at low bit rate for voice.
+The available recording has only caught the last part of the current conversation.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:36:32 Anders: Okay, Houston. We're getting so busy that we are having a hard time trying to do a neat job of logging. I'll try to do it on the Flight Plan; and if I make any visual observations, we'll put them on the DSE and I'll try to scribble some notes here and there.
+074:36:49 Collins: Roger. Understand. Now high bit-rate is working great.
+The only part of the last pass that has survived is the section that was recorded in high bit-rate.
+074:36:59 Anders: Roger.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:38:27 Borman: Hey, Houston, Apollo 8.
+074:38:30 Collins: Apollo 8, Houston. Over.
+074:38:35 Borman: How about giving us the TV times for the ninth rev, will you please?
+074:38:38 Collins: Oh, we sure will, Frank. Stand by.
+Comm break.
+When it comes, this will be the fourth TV transmission of the flight and, as it will turn out, by far the most historic.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:40:36 Collins: Apollo 8, Houston.
+074:40:40 Borman: Go ahead.
+074:40:42 Collins: Roger. We're checking into precise start and stop time for the TV, and you are Go for the next rev. Over.
+074:40:51 Borman: Understand; Go for the next rev. Mike, we'd like to, if we could, time the TV to a passing over the terminator. We would like to track the terminator with the TV; think that's the most impressive thing we've seen, and that might be the best thing rather than trying to acquire the Earth.
+074:41:07 Collins: Okay, Frank. That's one of the things we're looking at. Right now, we have you ending at about 86 hours and we're looking at extending that few minutes to include that terminator view. Over.
+074:41:23 Borman: Okay, I don't want us to run into rev 10 very much at all, though.
+074:41:28 Collins: Roger. Understand.
+Rev 10 will be their last full orbit around the Moon. In view of the lack of sleep his crew have had and the importance of alertness for the engine burn to return to Earth, Frank wants to keep the time after the TV transmission clear to give everyone a rest. However, he is very keen that the terminator be shown on the TV. The TV system has a poor signal to noise ratio and does not show the bland features of the noonday lunar surface well. The stark light and dark of the terminator scenery will be much more suitable, especially for the show Frank has planned.
+074:41:30 Anders: Houston, Apollo 8.
+074:41:31 Collins: Go ahead, Apollo 8.
+074:41:36 Collins: Apollo 8, Houston.
+074:41:37 Anders: ...since the DSE qual's not so good. How do you read, Mike?
+074:41:43 Collins: I read you loud and clear. You were cut out about the DSE. Say again.
+074:41:50 Anders: Roger. Since the qual[ity] is...n't so good, let me give you a quick rundown of the status of photo targets. You ready to copy?
+074:41:59 Collins: Ready to copy.
+074:42:05 Anders: Okay. At rev 1, we got photo target 90 and terminator photography south for near-side terminator. Starting on rev 2, we've got target 12 and target 10, 14, 16, 19, 20, 21 and 23. Unfortunately, we got into a high - I got into the high-speed film there somewhere, and I think those 250-mm targets were on high speed. We did change film, and starting out in Tex - Crater Texas, with target 28, 31, 40, 36, plus several targets of opportunity that were recorded on the DSE, but apparently lost. Have you been able to copy?
+Bill's admission that he has grossly overexposed the high speed type-2485 film by inadvertently having magazine G on the camera will lead to careful measures being taken at the photo laboratory, as explained in the post-flight mission report.
+From the 1969 Mission Report: "The film was not used for the dim light astronomical experiments, as planned, but for general lunar surface photography, and a film speed of 80 was erroneously assumed, rather than the actual 2000. This difference is about a six-stop overexposure and far beyond the latitude of the film. A special chemistry and processing technique was formulated to preserve the recorded data, but it was discovered that the chemistry could not be changed fast enough to prevent the image from chemically destroying itself. A procedure was developed to use special film reels in a large tank. The process was accomplished at 68°F [20°C], including a bleach step to remove the effect of the vastly overexposed silver and produce a more normal negative. The technique proved highly successful and satisfactory images were obtained. The wide-latitude processing could significantly reduce workload on future flight crews by permitting more nearly constant exposure settings."
+Only the first 17 images from magazine G are taken from lunar orbit, most likely at the start of the second revolution. The subsequent 64 frames will be taken after TEI as the Moon recedes.
+074:43:13 Collins: Yeah, I'm with you, Bill. Keep going.
+074:43:18 Anders: Okay. I might be calling up too fast. Okay. On the third rev, we got target 58 and 63 and 65. The training photography was accomplished, and it was done on magazine D, which now has [pause] correction, that's magazine E which now shows 95 exposures. Magazine D is fresh. Magazine K was also used for training photography, and it's showing 0.51. [Long pause.]
+Magazine K is a 16-mm film.
+074:44:22 Collins: Rog, we copy all that, Bill. [Long pause.]
+074:44:36 Collins: Apollo 8, Houston.
+074:44:37 Borman: ...Mike, this is Frank again.
+074:44:38 Collins: Go ahead, Frank.
+074:44:40 Borman: Go ahead.
+074:44:41 Collins: Rog for Bill.
+074:44:42 Borman: ...around.
+074:44:46 Collins: Apollo 8, Houston standing by.
+074:44:51 Borman: I say is Rod Rose around?
+074:44:54 Collins: Stand by one, Frank; we'll look for him, and while we're doing that, for Bill the DSE voice quality on high bit rate is very good, so if he wants to use the DSE in high bit rate for a limited amount of time to record important things, we suggest that he do that. We'd like him to wait 20 seconds after turning it on prior to talking. Over.
+074:45:28 Anders: Roger. Copy.
+074:45:30 Collins: Thank you, Bill. [Pause.]
+074:45:38 Collins: Apollo 8, Houston.
+074:45:43 Borman: Go ahead.
+074:45:44 Collins: Rod Rose is sitting up in the viewing room; he can hear what you say.
+074:45:50 Borman: I wonder if he is ready for experiment P-1?
+074:45:56 Collins: He says thumbs up on P-1. [Pause.]
+Rod Rose is a fellow member with Frank at St. Christopher's Episcopal Church near Seabrook, Texas, as well as being an engineer at Mission Control. Of course, "Experiment P-1" is a codeword for a pre-arranged reading for Frank's church.
+074:46:04 Anders: Houston, with reference to the DSE on high bit rate, what I'd like to do then is, if you got the last pass, I'd like to play it - run it back and start at AOS on low bit rate and then go to high when we need it. How would that be? [Pause.]
+074:46:27 Collins: John Aaron buys it.
+074:46:32 Borman: Okay, Mike. This is Frank again.
+074:46:36 Collins: Go.
+074:46:40 Borman: Roger. Rod and I got together, and I was going to record a little - saying a little prayer for the church service tonight. And I wonder - I guess that's what we are ready on?
+074:46:56 Collins: Stand by one, Frank.
+074:47:00 Borman: All right.
+Comm break.
+Author, Bob Zimmerman expands on this episode in his book Genesis: The Story of Apollo 8. Frank had wanted to participate as a lay-reader in the Christmas service at his church but the flight of Apollo 8 precluded that. His fellow parishioner, Rod Rose, suggested that Frank read a prayer from the Moon which could be replayed during the service. Frank is about to make that reading.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:49:41 Borman: Houston, Apollo 8. Are you still there?
+074:49:43 Collins: You're still loud and clear, Frank. [Long pause.]
+074:50:01 Collins: Apollo 8, Houston. Go ahead, Frank, with your message.
+074:50:07 Borman: Okay. This is to Rod Rose and the people at St. Christopher's, actually to people everywhere. Give us, O God, the vision which can see thy love in the world in spite of human failure. Give us the faith to trust the goodness in spite of our ignorance and weakness. Give us the knowledge that we may continue to pray with understanding hearts, and show us what each one of us can do to set forth the coming of the day of universal peace. Amen.
+074:50:35 Collins: Amen.
+074:50:36 Borman: I was supposed to lay-read tonight, and I couldn't quite make it.
+074:50:42 Collins: Rog. I think they understand.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:51:57 Borman: Houston, how do you read? Apollo 8.
+074:52:02 Collins: Apollo 8, Houston. Over.
+074:52:07 Borman: Roger. Go ahead.
+074:52:09 Collins: Roger. Frank, we'd like to know about the water chlorination. Have you - when was the last time you chlorinated the water? Over.
+074:52:16 Borman: About an hour and a half ago; we've already done it.
+074:52:22 Collins: Roger. We copy an hour and a half ago. Affirmative?
+074:52:28 Borman: Roger. You know we wouldn't forget that.
+074:52:36 Collins: Roger.
+074:52:40 Borman: Jim spilled a little, and it smelled like a bucket of Clorox about an hour ago.
+074:52:51 Collins: Apollo 8, Houston. Say again.
+074:52:57 Borman: I said Jim inadvertently spilled some of that chlorine, and it smelled like a bucket of Clorox in here a little while.
+074:53:06 Collins: Roger. Understand.
+Long comm break.
+The spacecraft's water system has a small, rubber-membrane port through which an ampule of chlorine can be injected. This is intended to kill bacteria that may build up in the drinking water supply.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+074:58:40 Collins: Apollo 8, Houston. Over.
+074:58:50 Borman: Go ahead, Houston. Apollo 8.
+074:58:52 Collins: Roger. We have two and a half minutes to LOS, and all systems are looking good. Everything's looking just fine down here, Frank.
+074:59:02 Borman: Thank you.
+074:59:06 Collins: We'll have some more information on the TV on the next rev. We don't - we're not planning any big change in the time, just to extend them a little bit, I think, closer to the terminator.
+074:59:21 Borman: Just give us the time, will you, because we just want to know when it is. I'd like to get the terminator if we could, and we've got a little message, and that's it.
+074:59:29 Collins: Roger. We'll do that the next time you come around.
+074:59:32 Borman: Thank you. Okay. And have the EECOM guys keep a sharp watch on our systems. Old Anders is so busy fooling around with these pictures that - not much else is getting done.
+074:59:47 Collins: Rog. The EECOM is doing that.
+Very long comm break.
+Bill Anders has two roles in this mission. He has been charged with keeping a close eye on the spacecraft's systems, essentially acting as an onboard EECOM. In lunar orbit, he takes care of the mission's photographic task. Frank, ever careful of ensuring a safe return to Earth, points out that what with Bill's two roles being somewhat incompatible, EECOM on Earth ought to keep an especially sharp eye on the systems.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+075:13:28 Borman (onboard): Man, that's a charm.
+075:13:35 Anders (onboard): Magazine E, showing 95 exposures, will be used for far-side terminator south photography for rev 4 and target 10 and 20 series which we believe were shot by the high-speed film on rev 1. We're using magazine I and magazine D to do the vertical stereo. Both of those show zero.
+The Flight Plan indicates that Bill ought to be starting a 45-minute period of vertical stereo photography at 075:15 using a camera mounted in a bracket aimed through one of the rendezvous windows. The Photo Index shows that a total of 136 frames are taken with black and white magazine D on Rev 4. An intervalometer attachment for the Hasselblad takes the photographs automatically at preset intervals, freeing Bill to take occasional frames with a second Hasselblad of targets of opportunity as he finds them. These are also imaged on black and white film, in this case using magazine E, starting at around 075:20 with a series of shots of the far-side terminator.
+AS08-13-2310 to 2316 - a montage of seven frames from magazine E looking south along the eastern rim of Galois. The main features visible are the satellite craters of Galois and the heavily shadowed Mechnikov U - Image by NASA/Johnson Space Center.
+AS08-13-2317 - Crater Doppler B on the northeast rim of Doppler. This crater seems to be the one Bill will refer to as having a ridge down the middle. Image centre is approximately at 11.57°S, 159.44°W - Image by NASA/Johnson Space Center.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+A version of this file with noise reduction applied is included.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio with noise reduction applied. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+075:22:18 Anders (onboard): Okay. Frame number 104 was taken into von Braun...
+075:22:39 Anders (onboard): ...which showed an interesting little ridge down the middle of it in one of the turtleback stills in one - in the little side crat - in the crater to the east.
+AS08-13-2318 - A crater apparently called von Braun by the crew but currently named Crookes - Image by NASA/Johnson Space Center.
+Two photos, AS08-13-2319 and 2320 are taken looking towards the southeastern horizon. The hills on the horizon are part of a ridge that runs south of crater Wisling and north of Plummer and may be part of the rim of the South Pole-Aitken Basin, the largest basin on the Moon. In 2319, the left peak is sited at approximately 22.5°S, 156.1°W. The crater slightly right of centre is Mohorovicic D and the larger crater to the lower right is Mohorovicic A. In the foreground is a line of small secondary craters which are part of the ejecta system coming from Crookes.
+AS08-13-2319 - Part of a ridge that runs south of crater Wisling and north of Plummer. The left peak is sited at approximately 22.5°S, 156.1°W - Image by NASA/Johnson Space Center.
+AS08-13-2320 shows the same ridge of hills but from a viewpoint substantially further east. The right-hand end of the line of hills seen in 2319 now dominate the centre of the horizon. The western rim of crater McKellar is to the lower right with that crater's central peaks visible on the edge of the photo.
+AS08-13-2320 - Eastern end of a ridge southeast of crater Mohorovicic - Image by NASA/Johnson Space Center.
+AS08-13-2321 - View along the northeastern rim of the crater Aitken. The rim of Aitken A is just visible at the bottom of the frame - Image by NASA/Johnson Space Center.
+075:23:06 Anders (onboard): The next exposure was taken at 75:23:06.
+075:23:32 Anders (onboard): Target 19.
+075:23:39 Anders (onboard): Exposure 116.
+Three frames are taken of target 19 that show the north rim of Aitken including Aitken Z.The specific subject of this target seem to be a series of bulbous hills within crater rims on Aitken's mare floor. Bill's sequence misses them but they are seen to the right of Aitken's interior in Lunar Orbiter II photo II-033-H3.
+AS08-13-2322 - Aitken Z - Image by NASA/Johnson Space Center.
+AS08-13-2323 - Northwestern rim of Aitken - Image by NASA/Johnson Space Center.
+AS08-13-2324 - Western rim of Aitken - Image by NASA/Johnson Space Center.
+075:23:51 Anders (onboard): That was taken at 1/60th of a second at 5.6 with the terminator. We'll do it at 250th - that's good enough.
+075:24:13 Anders (onboard): Spotmeter readings vertically are recorded on the map for lumens...
+075:24:27 Anders (onboard): And they're all reading between 160 and 320.
+075:24:36 Anders (onboard): Oblique: about 4 in the - between 460 and 320.
+075:25:39 Anders (onboard): What time have you got, Frank?
+075:25:42 Borman (onboard): [Garbled.]
+075:25:45 Anders (onboard): Okay, going for target number 14, magazine E, frame 116.
+075:26:22 Anders (onboard): 116 will be a target-of-opportunity photo showing some mountains on the horizon.
+Judging from the photographic record, it is possible that Bill is referring to frame 106, which is AS08-13-2320, mentioned above.
+Bill is about to change the aperture of the camera with which he is taking the vertical stereo images. Over the terminator, the Sun's light is not so strong so a large aperture is used to bring out the detail in the landforms betrayed by the low angle sunlight.
+075:27:08 Anders (onboard): Camera number - vertical stereo camera was put to 5.6 from 2.8 at 75:27.
+As well as presenting each individual image from the vertical stereo sequence, we have compiled strips from sections of the entire pass using index photographs.
+Composite of AS08-12-2044 to AS08-12-2075, from 143°W to 180°. Korolev Crater - Source images by NASA/Johnson Space Center.
+Immediately west of the terminator, this composite image covers a narrow strip that runs across the diameter of the walled plain, Korolev, and the terrain out to the west. Note the keyhole-shaped crater within Korolev. A small craterlet on the north side of Keyhole is a control point for Jim's landmark sighting exercises.
+AS08-12-2044 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2045 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2046 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2047 - South is up. The large crater cut off at bottom right is Korolev F - Image by NASA/Johnson Space Center.
+AS08-12-2048 - South is up. The large crater cut off at bottom of frame is Korolev F - Image by NASA/Johnson Space Center.
+AS08-12-2049 - South is up. The largest crater in the triplet upper left of centre is Korolev G - Image by NASA/Johnson Space Center.
+AS08-12-2050 - South is up. Mountain feature is part of Korolev's inner ring - Image by NASA/Johnson Space Center.
+AS08-12-2051 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2052 - South is up. The large crater is Korolev L and Keyhole crater is the distinctive feature at the upper right - Image by NASA/Johnson Space Center.
+AS08-12-2053 - South is up. Keyhole crater is the distinctive feature at the top of frame - Image by NASA/Johnson Space Center.
+AS08-12-2054 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2055 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2056 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2057 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2058 - South is up. The highly degraded western rim of Korolev runs vertically through the right side of the image - Image by NASA/Johnson Space Center.
+AS08-12-2059 - South is up. The highly degraded western rim of Korolev runs vertically through the image - Image by NASA/Johnson Space Center.
+AS08-12-2060 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2061 - South is up. Large crater cut-off to the right is Crookes X - Image by NASA/Johnson Space Center.
+AS08-12-2062 - South is up. Large crater below centre is Crookes X - Image by NASA/Johnson Space Center.
+AS08-12-2063 - South is up. Large crater lower left of centre is Crookes X - Image by NASA/Johnson Space Center.
+AS08-12-2064 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2065 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2066 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2067 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2068 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2069 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2070 - South is up. Large crater top of frame is Amici T - Image by NASA/Johnson Space Center.
+AS08-12-2071 - South is up. Large crater top of frame is Amici T - Image by NASA/Johnson Space Center.
+AS08-12-2072 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2073 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2074 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2075 - South is up - Image by NASA/Johnson Space Center.
+075:28:02 Anders (onboard): Huh?
+075:28:42 Anders (onboard): What time have you got, Frank?
+075:28:46 Borman (onboard): 75:28.
+075:29:33 Anders (onboard): Okay...
+075:29:39 Anders (onboard): What's the time?
+075:29:40 Borman (onboard): 12:23.
+075:29:41 Anders (onboard): Starting at 12:23 on the event timer, we're going across what I think is - is Washington, though it's very hard to tell.
+075:30:04 Anders (onboard): Target 19 was taken with mag E, about frame 107; series of three.
+075:30:41 Anders (onboard): Make it a series of four.
+075:31:04 Anders (onboard): Okay, we finished - target 19; four exposures on frame 111.
+075:31:26 Anders (onboard): What's your time, Frank?
+075:31:30 Borman (onboard): 14:05 [garble].
+075:31:52 Anders (onboard): We should have put this over in your window. How about - Can you take this in your window?
+075:32:01 Borman (onboard): Now, you want it while it's running?
+075:32:03 Anders (onboard): Yeah, go ahead. It's getting in the way of this other one.
+075:32:07 Anders (onboard): I'll count out the exposures for you.
+075:32:12 Anders (onboard): Yes.
+075:32:20 Anders (onboard): Call out your time, Frank, please?
+075:32:22 Borman (onboard): 15 minutes.
+075:32:23 Anders (onboard): 14?
+075:32:24 Borman (onboard): 15.
+075:32:37 Anders (onboard): Okay, target number 23; 15 minutes; frame 112.
+By our count, Bill is talking about AS08-13-2325.
+AS08-13-2325 - Zwicky N, a polygonal crater that sits in the middle of the highly degraded Zwicky - Image by NASA/Johnson Space Center.
+Composite of AS08-12-2076 to AS08-12-2105, between the lines of longitude 178°W and 150°E - Source images by NASA/Johnson Space Center.
+This composite image is constructed from frames AS08-12-2076 to 2105. The image runs between the lines of longitude 178°W and 150°E and cuts through the craters Keeler and Heaviside. Note how the shadows become virtually nonexistent as the spacecraft moves from right to left.
+AS08-12-2076 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2077 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2078 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2079 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2080 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2081 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2082 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2083 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2084 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2085 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2086 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2087 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2088 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2089 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2090 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2091 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2092 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2093 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2094 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2095 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2096 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2097 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2098 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2099 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2100 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2101 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2102 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2103 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2104 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2105 - South is up - Image by NASA/Johnson Space Center.
+075:33:06 Anders (onboard): [Cough.]
+075:33:37 Borman (onboard): I've got to use that [yawn] - I've got to roll right.
+075:34:08 Anders (onboard): Time, Frank?
+075:34:11 Borman (onboard): 16:55.
+075:34:16 Anders (onboard): Turn it to f/8 if you haven't got it there already.
+075:34:20 Borman (onboard): That's where it was when you handed it to me.
+075:34:21 Anders (onboard): Good.
+075:35:10 Borman (onboard): 17:15.
+075:35:11 Anders (onboard): Okay.
+075:35:45 Anders (onboard): Fresh impact crater: Mag E, frame 117, about 18 minutes.
+We believe this is AS08-13-2331.
+AS08-13-2331 - Image by NASA/Johnson Space Center.
+Composite of AS08-12-2106 to AS08-12-2123. The image runs through the southern half of crater Chauvenet. Its centreline runs along the 12°S line of latitude between the lines of longitude 152°E on the right and 133°E on the left.
+Continuing Bill's vertical stereo sequence, this image is a composite of frames AS08-12-2106 to 2123 with crater Chauvenet being the main feature. The high-angle lighting, however, renders the crater almost invisible with the smaller, fresher craters dominating the landscape. The image centreline runs along the 12°S line of latitude between the lines of longitude 152°E on the right and 133°E on the left.
+AS08-12-2106 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2107 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2108 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2109 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2110 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2111 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2112 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2113 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2114 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2115 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2116 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2117 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2118 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2119 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2120 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2121 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2122 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2123 - South is up - Image by NASA/Johnson Space Center.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 75 hours, 37 minutes into the flight. Before we lost signal with the spacecraft, some half hour ago, I suppose, 20 minutes ago, Frank Borman came up on the line and said he would like to dedicate a prayer to the people of St. John's [means St. Christopher's] church, his church here in Seabrook and he added to all the people of the world. Here is that prayer.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. That was Frank Borman reading a prayer, he mentioned the name to Rod Rose and the people of St. John's [means St. Christopher's, see below]. Rod Rose is an assistant to Chris Kraft, the Flight Operations Director. He is a member of the same church. And we'll see to it that St. John's receives a high fidelity quality copy of that tape for an evening service tonight which Frank Borman regrets that he could not make. There is - there was other conversation, primarily updates on contingency type events. Those events and that tape will be passed directly to the transcriptionist end of the pool. At 75 hours, 39 minutes into the flight, this is Apollo Control, we're about 8 minutes from acquisition on our upcoming rev across the face of the Moon. This is Apollo Control, Houston.
+Frank actually dedicated the prayer to the people of St. Christopher's church. The PAO has mistakenly named Jim Lovell's church, St. John's. He will correct this in a later announcement.
+075:38:14 Anders (onboard): Will you give me a Verb 64, Frank?
+Verb 64 provides the crew with S-band High Gain Antenna angles, necessary for pointing the antenna at Earth.
+075:38:21 Anders (onboard): I've got a bunch of scarps here - they're to be shot - would you give me the end tape...
+075:38:24 Borman (onboard): [Garbled.]
+075:38:30 Anders (onboard): Okay.
+075:38:34 Anders (onboard): Okay.
+075:39:17 Anders (onboard): Okay, frame - hope I'm not losing count here.
+075:39:27 Anders (onboard): Okay, definitely frame 114, target of opportunity, extremely fresh impact crater.
+We count this as frame 113 in magazine E. However, it is now catalogued as AS08-13-2327.
+AS08-13-2327 - Ray pattern from a simple, near vertical impact - Image by NASA/Johnson Space Center.
+This image dramatically shows the ray pattern from a simple, near vertical impact. Close to the crater, the ejecta blanket is continuous. Two crater diameters out, the blanket becomes discontinuous.
+075:39:46 Anders (onboard): Time: 75:39:30.
+075:40:51 Borman (onboard): You going to rotate in 6 minutes, Bill?
+075:40:56 Anders (onboard): Not now, I'm checking here.
+075:41:00 Anders (onboard): Frame 115, another extremely fresh impact crater taken at 75:41. If the window was a little more clear, I - Looks like it might be up on the top of the hill.
+AS08-13-2328 - Fresh crater from a low-angle impact - Image by NASA/Johnson Space Center.
+Frame AS08-13-2328 shows the difference in the ray pattern when the impact comes from a meteorite strike at a low angle. In particular, there is an excluded zone around the crater about 120° wide in which there is little sign of ejecta. This indicates that the incoming projectile came in from the top left of the photograph. Within the excluded zone is Denning V, mainly distinguishable by its dark floor.
+075:41:32 Anders (onboard): What time you got, Frank? Is it 20?
+075:41:36 Borman (onboard): 25 almost. 24:19 now.
+075:41:37 Anders (onboard): Okay, let's go.
+075:41:42 Anders (onboard): Did they give you a time to rotate?
+075:41:47 Borman (onboard): What?
+075:41:48 Anders (onboard): Did they give you a time to rotate?
+075:41:51 Borman (onboard): [Garble] wants me to rotate 75:46.
+075:41:54 Anders (onboard): Yes, we've got a - ways to go yet.
+075:41:57 Borman (onboard): 3 minutes - No, it's 5 minutes.
+075:42:31 Anders (onboard): Okay, let's go - f/11.
+Bill is continuing the vertical stereo sequence.
+Composite of AS08-12-2124 to AS08-12-2135. The image runs between the lines of longitude 134°E on the right and 120°E on the left.
+Composited image of frames AS08-12-2124 to 2135. There is essentially no visible relief and in our compositing work, we have tried to dodge around the zero-phase bright spots that each individual image exhibited. Craters Danjon and Shirakatsi, though large and important in this region, are difficult to spot.
+AS08-12-2124 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2125 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2126 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2127 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2128 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2129 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2130 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2131 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2132 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2133 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2134 - South is up - Image by NASA/Johnson Space Center.
+AS08-12-2135 - South is up - Image by NASA/Johnson Space Center.
+Day 4: Lunar Orbit 2
+Journal Home Page
+Day 4: Lunar Orbit 4

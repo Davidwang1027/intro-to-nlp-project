@@ -1,0 +1,562 @@
+A15FJ - Day 10, part 5: Subsatellite Launch
+Day 10, part 4: Orbital Science, Rev 72
+Journal Home Page
+Day 10, part 6: Trans-Earth Injection
+Apollo 15
+Day 10, part 5: Subsatellite Launch
+Corrected Transcript and Commentary Copyright © 2000-2026 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2026-01-25
+Index to events
+Preliminary TEI-74 manoeuvre PAD
+220:27:18 GET
+Orbit shape manoeuvre PAD
+220:34:55 GET
+Map update, Rev-75
+222:19:32 GET
+Subsatellite launch
+222:39:20 GET
+Continuing the tenth day in the Apollo 15 mission, Endeavour has just gone behind the Moon towards the end of its 72nd orbit. Orbit 73 begins at about 219:55 GET and they have only two further orbits before they light the engine of the SPS (Service Propulsion System) for about 2 minutes, 20 seconds and send the spacecraft on a trajectory for Earth. Before that, they have two major tasks to perform. The second will be to launch a subsatellite out of the SIM bay, but before they do that, they must change the shape of their current path around the Moon in order to give the satellite a reasonably long lifetime.
+The lunar photography part of the mission is essentially complete because later activities will preclude maintaining the attitude necessary to aim the cameras. As the principal targets have all been imaged, the crew is being asked to simply run the Panoramic Camera and photograph whatever passes below to use up the camera's remaining film. Although the camera would probably capture areas that have low scientific interest, it would be a larger crime to let the film go unused. However, when Mission Control review the camera's telemetry, they do not see the characteristics they expect from film depletion and begin to analyse what the problem might be, fearing that, in some way, depletion of the film has not gone smoothly. No further Panoramic Camera photography is shown in either the SIM photo index or the Apollo Image Archive at Arizona State University.
+Several activities will occupy the crew's attention in the last three hours of lunar orbit. First, a small burn will be performed to place the CSM into a somewhat higher orbit. Raising the orbit is necessary to extend the lifetime of a small "subsatellite", a 35.6-kg craft released from the aft end of SIM bay. This subsatellite will investigate the various particles and fields in the lunar environment. "Particles and fields" is an expression for the types of science that the subsatellite performs, work that continued in the late 1990s by the Lunar Prospector probe, where, rather than imaging a planetary body, the force fields, molecules and radiations which surround and interact with it are measured. Releasing the subsatellite will be the crew's final activity in lunar orbit, occurring only an hour before the burn to take them home.
+Trans-Earth Injection, certainly the most critical manoeuvre asked of the spacecraft's big engine, is a burn that will last 2 minutes and 18 seconds and occur over the far side of the Moon. It is scheduled for ignition at 223:46:06. The news media of the time, always on the look-out for a gripping story, revelled in the apparent dependence of the crew's lives on a single engine. In reality however, just about the only stand-alone component of the SPS engine is the rather passive combustion chamber and its nozzle extending out the rear of the Service Module. With the importance of the TEI burn in mind, the Service Propulsion System was designed with redundancy in its plumbing, control electronics, valves and propellant injectors. Its hypergolic, pressure-fed strategy virtually ensures operation and, as the problem with the shorted SPS switch showed earlier in the mission, sometimes great care had to be taken keep the engine from igniting at undesirable times.
+219:31:31 Worden (onboard): Boy, that puts that star smack in the middle. Beautiful. Okay. Are we in P20, Jim?
+219:31:45 Irwin (onboard): Yes, P20's coming up. Option...
+219:31:46 Worden (onboard): We...
+219:31:47 Irwin (onboard): ...option 5.
+219:31:48 Worden (onboard): We were in it before, weren't we?
+219:31:50 Irwin (onboard): Yes.
+219:31:51 Worden (onboard): Okay. Okay, we got it for TEI ascent. No, wait a minute.
+219:32:00 Irwin (onboard): Okay. It calls for GDC Align. Yes, you went back in P20; I'll go CMC Mode, Auto, huh?
+219:32:08 Worden (onboard): Yes, go Auto.
+219:32:10 Irwin (onboard): Okay, then GDC Align.
+219:32:14 Worden (onboard): That has to be done from your couch there.
+219:32:16 Irwin (onboard): Yes.
+219:32:18 Worden (onboard): Can you do it?
+219:32:20 Irwin (onboard): I can do one. I'll - probably use the checklist. It's been a long time since I've gone through one.
+219:32:33 Irwin (onboard): Minus 5 and 25.
+219:32:43 Scott (onboard): [Garble] burn, Al? Get all your [garble] all set? No, you're [garble] open.
+219:32:48 Worden (onboard): Yes, I guess it would [garble].
+219:32:50 Scott (onboard): [Garble] TEI?
+219:32:52 Worden (onboard): Put the optics away. [Garble].
+219:32:56 Irwin (onboard): Well, we might as well get in our regular couches then, huh?
+219:32:59 Scott (onboard): What?
+219:33:00 Irwin (onboard): Do you want me to switch around to regular couches there?
+219:33:02 Scott (onboard): Yes. [Garble].
+219:33:07 Irwin (onboard): A GDC Align is required. And then a P20. I think we need to - change the deadpan [sic] - dead band.
+219:33:25 Irwin (onboard): And when we come - come around, we get the maneuver pad.
+219:33:28 Worden (onboard): How long until the shaping burn?
+219:33:29 Irwin (onboard): Two hours.
+219:33:31 Scott (onboard): No. [Garble].
+219:33:33 Worden (onboard): Well, we ought to start getting cleaned up then for it. Let's see. Yes, yes. We don't have a sheet. Okay.
+219:33:55 Irwin (onboard): [Garble] G&C Checklist, I guess that - Where's that in the G&C Checklist? Let's see what we're doing here.
+219:34:02 Scott (onboard): [Garble]?
+219:34:06 Irwin (onboard): Okay. Let's see what I've got here now. I'll do the - do a GDC Align, huh?
+219:37:10 Scott (onboard): Did you [garble] the jett bag, Al?
+219:37:12 Worden (onboard): Yes. [Garble] got it here in B-1.
+219:37:26 Irwin (onboard): Hey, Al. We want to change the dead band in P20 here...
+219:37:29 Worden (onboard): Yes.
+219:37:30 Irwin (onboard): ...5 degrees.
+219:37:31 Worden (onboard): Okay. Do a Verb 22, Noun 79.
+219:37:40 Irwin (onboard): Oh, I see that. Is that all you have to do? You don't have to - while we're in a...
+219:37:42 Worden (onboard): That's all you have to do.
+219:37:48 Irwin (onboard): Just put in this entry bit, huh?
+219:37:49 Worden (onboard): Yes.
+219:37:50 Irwin (onboard): Plus 005 00?
+219:37:51 Worden (onboard): Yes.
+219:37:58 Irwin (onboard): Okay. That's entered.
+219:38:07 Worden (onboard): Okay. That should do it then.
+219:38:35 Irwin (onboard): Need any help, Al?
+219:38:36 Worden (onboard): No, I can get it ali right, Jim.
+219:39:43 Irwin (onboard): Let's see, did we decide to throw those two urine bags and the jett bag? I don't have to - transfer those?
+219:39:48 Worden (onboard): Don't dump those yet. We're going to Jettison them.
+219:39:52 Scott (onboard): Yes, we can just jettison them.
+219:39:53 Worden (onboard): Yes.
+219:39:54 Scott (onboard): When is the next dump period?
+219:39:58 Irwin (onboard): Coming up in about 2 hours.
+219:39:59 Scott (onboard): Before the burn, I guess.
+219:40:09 Irwin (onboard): Harem. After the burn.
+219:40:23 Irwin (onboard): Just after the burn is the dump.
+219:40:25 Scott (onboard): Oh, really?
+219:40:26 Irwin (onboard): Yes.
+219:41:54 Worden (onboard): We're in pretty good shape, Dave, except I don't know what to do with LEVA bags for the burn.
+219:41:58 Scott (onboard): With the what?
+219:41:59 Worden (onboard): With the LEVA bags.
+219:42:00 Scott (onboard): You got straps for them, to clamp - to clamp them down. No. There are three straps down on the EVA tunnel [garble]...
+219:42:08 Worden (onboard): Hmm.
+219:42:09 Scott (onboard): And strap down those - and I'd suggest that somebody reach up and strap - and strap them down.
+219:42:13 Worden (onboard): Could be we better do that.
+219:42:15 Scott (onboard): You got them?
+219:42:16 Worden (onboard): Yes. They ought to put the utility straps in the...
+219:42:17 Scott (onboard): We better get these other cameras tucked away, too. Where would you suggest putting...
+219:42:21 Worden (onboard): Hey!
+219:42:22 Scott (onboard): ...these cameras we got?
+219:42:23 Worden (onboard): Why not put them all in B-1? We could stuff that JETT bag around them so they won't get banged up too much. They'd probably all fit in there.
+219:42:35 Irwin (onboard): Or you could just put them in the JETT bag?
+219:42:39 Worden (onboard): Well, we might want to use them again.
+219:42:41 Irwin (onboard): Well, we know where they are. Yes.
+219:43:01 Worden (onboard): What's this bag here?
+219:43:03 Scott (onboard): What?
+219:43:04 Irwin (onboard): That's your tether kit.
+219:43:06 Worden (onboard): Oh. Okay.
+219:43:13 Scott (onboard): You're going to need it.
+219:43:14 Worden (onboard): That's good. That's good.
+219:43:17 Scott (onboard): [Garble].
+219:43:18 Irwin (onboard): Everything except the PPK.
+219:43:20 Worden (onboard): Yes. What's - what was in that PPK, by the way?
+219:43:35 Scott (onboard): I don't see how you can get used to it with all these bags, huh?
+219:43:37 Worden (onboard): Yes.
+219:44:05 Irwin (onboard): [Garble].
+219:44:07 Worden (onboard): [Garble].
+219:45:39 Worden (onboard): Um.
+219:46:04 Worden (onboard): Um. Um-huh...
+219:46:10 Scott (onboard): What?
+219:46:11 Worden (onboard): ...Very interesting. I don't know. I'll let you know in a minute. Oh, there we are. Christ, I thought they were - I thought somebody'd blown it.
+219:46:20 Scott (onboard): Huh?
+219:46:21 Worden (onboard): I thought somebody'd blown it. The OPS straps weren't in the OPS strap pouch.
+219:46:26 Scott (onboard): You don't think...
+219:46:27 Worden (onboard): Yes (laughter). Huh?
+219:46:29 Scott (onboard): You don't think that [garble].
+219:46:30 Worden (onboard): Yes, who'd do something like that?
+219:46:32 Scott (onboard): [Garble].
+219:46:33 Worden (onboard): [Laughter.] Yes.
+219:47:01 Worden (onboard): Okay.
+219:47:37 Scott (onboard): You know, I think we better dump - we better dump those out. We better not put them in the jett bag.
+219:47:44 Worden (onboard): Huh?
+219:47:45 Scott (onboard): Probably [garble].
+219:47:46 Worden (onboard): Yes, they're apt to break.
+219:47:53 Scott (onboard): You don't have to dump. Jim will help you.
+219:47:56 Worden (onboard): (Laughter) Yes. Okay, how about gathering up as many of the utility straps as you can around. Let's see if we can get enough here to put these LEVAs down.
+219:48:13 Scott (onboard): There's some up here in [garble] I can't disagree with gathering them up.
+219:48:54 Worden (onboard): These won't work on here.
+219:49:01 Scott (onboard): Pull on it here. Pull those out just a little.
+219:49:08 Worden (onboard): Here, Jim. I think this is yours.
+219:49:12 Irwin (onboard): Mm. It's anybody's [garble].
+219:49:20 Scott (onboard): Huh?
+219:49:21 Irwin (onboard): [Garble].
+219:49:22 Scott (onboard): In here?
+219:49:38 Irwin (onboard): [Garble].
+219:49:40 Worden (onboard): Which? Oh, yes.
+219:49:43 Irwin (onboard): [Garble].
+219:49:46 Worden (onboard): Yes, that one - I cleaned it out. And that - we're going to have to use that tomorrow.
+219:49:51 Irwin (onboard): [Garble].
+219:49:53 Scott (onboard): So you want to put that into B-1.
+219:49:57 Irwin (onboard): [Garble].
+219:49:58 Worden (onboard): Yes.
+219:50:22 Scott (onboard): Hey, Al? [Garble] Gamma-ray and Alpha ray and ... all that stuff [garble].
+219:50:31 Worden (onboard): Not supposed to, Dave. They don't - they don't like it.
+219:50:35 Scott (onboard): [Garble] they give us 2 minutes to dump.
+219:50:37 Worden (onboard): Two minutes?
+219:50:39 Scott (onboard): Yes, 2 minutes between dumping and turning on all that gamma, X-ray, and alpha ray stuff.
+219:50:43 Worden (onboard): Well, the gamma - We'll turn it on.
+219:50:46 Scott (onboard): What?
+219:50:47 Worden (onboard): We'll turn it on.
+219:50:49 Scott (onboard): It'll screw it up, won't it?
+219:50:50 Worden (onboard): Well, it ain't going to screw up the experiment. It'll screw up their data. And they'll go back to the Flight Plan and look, and they'll say, "Yes, sure, they're dumping."
+219:51:24 Worden (onboard): Where's the other needle there, Jim?
+219:51:26 Irwin (onboard): We aren't even counting [garble].
+219:51:27 Worden (onboard): We don't care about that. Dave, if you can reach around there on the back of you, on that LEVA that I put on the - on the - on A-8 back there, there's another stop towards the head end - If you want, go ahead and snap it.
+219:51:40 Scott (onboard): Over this one...
+219:51:41 Worden (onboard): Yes, I already put a strap on it, but I couldn't reach it.
+219:51:47 Scott (onboard): [Garble].
+219:51:50 Worden (onboard): [Laughter.] Yes.
+219:52:01 Scott (onboard): [Garble].
+219:52:02 Worden (onboard): Huh?
+219:52:03 Scott (onboard): You may not believe it, but there's no snap...
+219:52:05 Worden (onboard): Oh, there's no snap up there? Oh, shitl Can we tie it to something up there?
+219:52:16 Scott (onboard): Yes.
+219:52:17 Worden (onboard): Actually, it'll be all right with one strap probably. It won't...
+219:52:20 Scott (onboard): [Garble].
+219:52:27 Worden (onboard): No, it's not going to go anywhere.
+219:52:38 Worden (onboard): In fact, these other snaps don't really cinch things down tightly; they just kind of hold them in place.
+219:53:28 Scott (onboard): [Garble].
+219:54:06 Scott (onboard): Gee, we're running out of snaps.
+219:54:08 Worden (onboard): Hey, I bet you we can put a couple of bags and a couple - helmets in the top of the PGA bag.
+219:55:00 Scott (onboard): [Garble] if you use these [garble].
+219:55:04 Worden (onboard): Okay. Yes, we'll be using it on the way home. But we can put it away for now. It's probably just as well.
+219:55:11 Scott (onboard): Yes.
+Apollo 15's 73rd orbit around the Moon begins at about 219:55. Although a period of terminator photography is due by the Flight Plan, this does not seem to have taken place.
+219:55:14 Irwin (onboard): It's hot in here. You want to undo it?
+219:55:15 Worden (onboard): Yes. That's an easy one.
+219:55:22 Scott (onboard): [Garble].
+219:55:23 Worden (onboard): By the UVs and goes into A-8, though.
+219:55:25 Scott (onboard): What?
+219:55:26 Worden (onboard): Goddam U thing - UV thing goes in the A-8, and that's underneath all the LEVAs and everything else.
+219:55:33 Irwin (onboard): [Garble]. somewhere else [garble].
+219:55:38 Worden (onboard): Excuse me, Jim.
+219:56:15 Irwin (onboard): [Garble].
+219:56:17 Worden (onboard): Yes, they go down here.
+219:56:37 Worden (onboard): What else have we got?
+219:56:39 Scott (onboard): Pardon?
+219:56:40 Worden (onboard): [Laughter.] Before - before I go tearing into those lockers again, what else have we got?
+219:56:43 Scott (onboard): [Garble].
+219:57:08 Worden (onboard): Yes. Where's mag R?
+219:57:16 Irwin (onboard): Ah, I think it's [garble] there.
+219:57:18 Worden (onboard): Is it used up yet?
+219:57:19 Irwin (onboard): Yes, it is. Didn't we do it...
+219:57:21 Worden (onboard): All right. Stash it away here then.
+219:57:26 Irwin (onboard): Here's R. Does it belong there with all that stuff?
+219:57:29 Scott (onboard): I don't think [Garble].
+219:57:31 Worden (onboard): I got three hands full. How about the dark slides for our...
+219:57:46 Scott (onboard): [Garble].
+219:57:47 Worden (onboard): Huh?
+219:57:53 Scott (onboard): [Garble] use one of those?
+219:57:55 Worden (onboard): No.
+219:57:56 Scott (onboard): Huh?
+219:57:57 Worden (onboard): Uh-huh.
+219:57:58 Scott (onboard): What about the [garble]?
+219:57:59 Worden (onboard): Have to pull it on. The N-pack, too.
+219:58:04 Scott (onboard): [Garble].
+219:58:05 Irwin (onboard): [Garble].
+219:58:25 Worden (onboard): Get me that cinch. I must be getting weak.
+Flight Plan page 3-332.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control at 220 hours, 17 minutes. We're about to acquire Endeavour on its seventy-third lunar revolution. We'll stand by for air to ground.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+220:22:06 Allen: Endeavour. This is Houston. [Pause.]
+220:22:12 Worden: Go ahead, Houston. Endeavour.
+220:22:14 Allen: Roger. Could you tell us, please, the status of the Pan Camera switch? [Pause.]
+220:22:23 Worden: Roger. Right now, it's in Standby and Power and it's been barber pole.
+A change in the Flight Plan, read up during the last orbit, asked that the Panoramic Camera be run until the film in it is depleted. To show this condition, an indicator for the camera on the SIM bay control panel would show a "barber pole" (stripes), upon which, Al Worden was to switch the camera to Standby. This is the start of efforts to characterise the telemetry seen to come from the camera.
+220:22:31 Allen: Okay, we copy that, Endeavour. You can go ahead and power it down. We've run through to the last of the Pan Camera film.
+220:22:41 Worden: Roger. [Long pause.]
+220:23:03 Allen: And, 15. We've powered up the drugstore to receive the film when you get home.
+220:23:12 Worden: Roger. Better get a couple. [Long pause.]
+With over 1,500 photographs from the Panoramic Camera alone, each over a metre in length, there are two kilometres of film to be processed, once Al has retrieved the magazine containing the film and brought it back to Earth in the Command Module.
+220:23:32 Allen: Endeavour, a last request on that Pan Camera. Requesting Power, On and Operate, please.
+220:23:43 Worden: Roger. Power, On and Operate. [Long pause.]
+Mission Control are continuing their analysis of film depletion in the Panoramic Camera.
+The crew are due to switch off the discrimination shield on the Gamma-ray Spectrometer for about 10 minutes to help calibrate the discrimination process.
+220:23:55 Allen: Endeavour, requesting Accept for your new state vector and a shaping target load.
+220:24:04 Worden: Rog. You've got it.
+220:24:06 Allen: Thank you. [Long pause.]
+Al gives Mission Control access to the computer's erasable memory so they can upload essential navigation data into it. The state vector consists of seven values which define the spacecraft's position and velocity in three axes at a particular time. The Shaping target load is the velocity change (Delta-V) and time-of-ignition (TIG) required for the upcoming orbit shaping burn.
+220:25:03 Allen: Endeavour, this is Houston. We've reverified that your Pan Camera is out of film, and you can power it down for us, please, for the final - final time. Over. [Pause.]
+220:25:21 Irwin: Joe, you'll have to give us that transmission again. We were off [garble] temporarily.
+220:25:28 Allen: Roger, Jim. Just said that we've reverified that the Pan Camera is out of film and you can power it down for the final time at your convenience.
+220:25:43 Irwin: Understand.[Long pause.]
+220:26:33 Allen: Endeavour, we have a preliminary TEI-74 PAD, if you're ready to copy. [Pause.]
+220:26:45 Irwin: Stand by one, Joe.
+220:26:47 Allen: Roger, Jim. No hurry. [Long pause.]
+220:27:15 Irwin: Okay, Joe. Ready to copy.
+While all three crewmembers are in the spacecraft, one of Jim Irwin's tasks is to copy down information read up by the CapCom. In the case of this TEI-PAD, there are standard forms which have boxes for each digit to help minimise errors.
+220:27:18 Allen: Roger. TEI-74 preliminary, SPS/G&N; 35852; plus 0.62, plus 0.96; 223:48:43.63; plus 2945.0, minus 0769.6, minus 0152.8; 000, 000, 000; NA, plus 0022.3; 3047.7, 2:22, 3029.4; 37, 224.3, 30.5; NA, NA, NA; plus 26.12, minus 157.98; 1083.8, 36179; 294:58:40. GDC Align, Vega and Deneb; Roll align, 102; 178; 028. Ullage: 4 jet, 12 seconds. Standing by for readback. Over. And the computer's yours, Endeavour. [Pause.]
+Interpretation of the preliminary TEI-74 PAD is as follows:
+Purpose: This is the first of two TEI-74 PADs, the second of which will be the final details of their burn to bring them home. The PAD contains the best information available at this time, and will certainly be able to get them home in the event communications are lost as it includes data on their re-entry in three days time. If used, the burn would occur towards the end of rev 74.
+System: The manoeuvre will use the SPS (Service Propulsion System), and the primary Guidance and Navigation system.
+CSM Weight (Noun 47): 35,852 pounds (16,259 kilograms).
+Pitch and yaw trim (Noun 48): 0.62° and 0.96°. These are the angles to which the SPS engine should be aimed to place the thrust vector through the spacecraft's centre of mass.
+Time of ignition, TIG (Noun 33): 223 hours, 48 minutes, 43.63 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +2,945.0 (+897.6); y, -769.6 (-234.6); z, -152.8 (-46.6). These velocities are expressed with respect to the local vertical. The large positive x component shows the prograde nature of the burn and there is a sizeable out-of-plane or y component to match the plane of the Moon's orbit around Earth.
+Spacecraft attitude at TIG: Spacecraft attitude will be zero for all axes because the alignment of the guidance platform matches the required spacecraft attitude for the burn.
+The next two items in the list define the Earth-based orbit that the burn will place them into.
+HA, expected apogee of resulting orbit: N/A
+HP, expected perigee of resulting orbit: 22.3 nautical miles (41.3 kilometres). This figure for perigee is purely theoretical. Its low value is well within the outer regions of Earth's atmosphere and shows that this trajectory will bring the spacecraft in for a normal re-entry.
+Delta-VT (Noun 81): 3047.7 fps (928.9 m/s).
+Burn duration or burn time: 2:22
+Delta-VC: 3029.4 fps (923.4 m/s). This figure is entered into the EMS Delta-V counter to allow backup control of the SPS engine. It is lower to account for the tail-off characteristics of the engine.
+Sextant star: 37 (Nunki, or Sigma Sagittarii) visible in sextant when shaft and trunnion angles are 224.3° and 30.5° respectively.
+Boresight Star: N/A. This is a star that would be viewed out of one of the CM windows using the COAS as a redundant attitude check. However, with the Moon in the way at the time of ignition, no stars will be visible and so the subsequent COAS angles are also not applicable.
+COAS Pitch Angle: N/A
+COAS X Position Angle: N/A
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.
+Expected splashdown point (Noun 61): 26.12° North, 157.98° West.
+Range to go at the 0.05 g event: 1,083.8 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05 g event: 36,179 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+Predicted GET of 0.05 g event: 294 hours, 58 minutes, 40 seconds GET.
+GDC Align stars: Stars 36, Vega (in Lyra) and 43, Deneb (in Cygnus) are to be used to align the gyro assemblies if it is not possible to use the guidance platform for this purpose.
+GDC Align angles: x, 102°; y, 178°; z, 28°.
+The only additional note to the PAD is that the SPS propellants are settled in their tanks by firing the plus-X thrusters on all four of the Service Module RCS quads for 12 seconds.
+220:29:36 Irwin: Roger, Joe. Would you start with Delta-VT, again? I missed that.
+220:29:44 Allen: Rog. Delta-VT is 3047.7; BT, 2:22; and Delta-VC, 3029.4. Over. [Pause.]
+220:30:06 Irwin: Roger. Read on down the rest of that PAD, from there on down.
+220:30:10 Allen: Oh, okay; coming at you, Jim. The sextant is 37, 224.3, 30.5; NA, NA, NA; latitude, plus 26.12; longitude, minus 157.98; 1083.8, 36179; and GET 294:58:40. Vega and Deneb; 102; 178; 028; 4 jet, 12 seconds. Over.
+220:31:21 Irwin: Okay, Joe. Readback for TEI-74 preliminary. SPS/G&N; 35852; plus 0.62, plus 0.96; 223:48:43.63; plus 2945.0, minus 0769.6, minus 0152.8; zero for roll, pitch and yaw; Delta-VT 3047.7, 2:22, 3029.4, 37, 224.3, 30.5; latitude, plus 26.12, minus 157.98; 1083.8, 36179; 294:58:40. Vega and Deneb; 102; 178; 028; 4 jet for 12 seconds. [Pause.]
+220:32:36 Allen: That's correct, Jim, and your Noun 44 is NA and plus 0022.3 and readback's correct.
+220:32:40 Irwin: Roger; copied. HP is plus 0022.3. [Long pause.]
+220:33:06 Allen: And Jim; this is Houston. Could you adjust your S-band volume for us, please? You have a side tone squeal when you transmit and the - the volume is - is fairly weak for us. Give us a count before you do it and after you do it. And, would you reverify the Delta-VY for us? Over. [Pause.]
+220:33:33 Irwin: Okay, Delta-VY was minus 0769.6. [Pause.]
+220:33:44 Allen: Okay, Jim. Thank you. And the volume is better. Thank you. [Pause.]
+220:33:54 Scott: And, Houston; Endeavour. We're just finishing up final stowage right now, and we'll be with you in a couple of minutes on the procedures.
+220:34:03 Allen: Okay, we're standing by. [Long pause.]
+220:34:33 Allen: Endeavour, at your convenience, Gain Step switch to center, please. And I have the shape SPS/G&N PAD, when you're ready for that. [Pause.]
+By placing the Gain Step switch to its centre position, they switch on the discrimination shield on the Gamma-ray Spectrometer which was switched off ten minutes ago.
+220:34:50 Irwin: Okay, Joe. Gain Step is center, and I'm ready on the shape PAD.
+220:34:55 Allen: Roger, Jim. Shape, SPS/G&N; weight, 36171; plus 0.63, plus 0.98; 221:20:47.23; plus 0017.0; minus all zips, minus 0064.2; 355, 198, 010; 0076.1, plus 0054.3; and, Jim, why don't you readback from there, and I'll pick up again. Over. [Pause.]
+220:36:23 Irwin: Okay. It's shape, SPS/G&N; 36171; plus 0.63, plus 0.98; 221:20:47.23; plus 0017.0; minus all zips, minus 0064.2; 355, 198, 010; 0076.1, plus 0054.3.
+220:36:51 Allen: Right on, Jim. Delta-VT is 0066.4, 0:03, 0054.8; [pause] sextant, 13, 164.3, 12.6; 001, down 09.1, left 4.6. The rest is NA. GDC Align, Vega and Deneb; roll align, 102; 178; 028. Four jet, 12 seconds. Other is subsat launch, GET 222 plus 39 plus 27; roll, 266; pitch, 141; yaw, 038. High Gain [Antenna angle]: pitch, minus 70; yaw, plus 113. Standing by for readback starting with Delta-VT. Over.
+220:38:54 Irwin: Okay, Joe. 0066.4, 0:03, 0054.8; 13, 164.3, 12.6; 001, down 09.1, left 4.6; Vega and Deneb; 102; 178; 028. Four jet for 12 seconds; subsatellite launch, GET 222:39:27; roll, 266; pitch, 141; yaw, 038. High Gain is pitch, minus 70; yaw, plus 113. Over.
+220:39:40 Allen: Right on the money. Thank you, sir. [Pause.]
+Interpretation of the shape burn PAD is as follows:
+Purpose: The shape burn is a short maneuver, intended to raise the orbit of the CSM from its current 65.4- by 52.2-nautical mile (121.1- by 96.7-km) orbit to a nominal orbit of 76.1 by 54.3 nautical miles (140.9 by 100.6 km). The perturbations of lunar orbits are such that if this maneuver was not performed, the subsatellite would have an orbital lifetime of only a few months. After a successful burn, scientists can expect a full year out of the subsatellite.
+System: The maneuver will use the Service Propulsion System, and the primary Guidance and Navigation system.
+CSM Weight (Noun 47): 36,171 pounds (16,404 kilograms).
+Pitch and yaw trim (Noun 48): 0.63° and 0.98°.
+Time of ignition, TIG (Noun 33): 221 hours, 20 minutes, 47.23 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +17.0 (+5.2); y, 0; z, -64.2 (-19.6). These velocities are all with respect to the Moon and the local vertical that the spacecraft makes with that body.
+Spacecraft attitude: Roll, 355°; Pitch, 198°; Yaw, 010°. This is with respect to the attitude of the guidance platform, itself aligned to the landing site REFSMMAT.
+HA, expected apocynthion of resulting orbit (Noun 44): 76.1 nautical miles (140.9 kilometres).
+HP, expected pericynthion of resulting orbit (Noun 44): 54.3 nautical miles (100.6 kilometres).
+Delta-VT (total velocity change): 66.4 fps (20.2 m/s).
+Burn duration or burn time: 0:03
+Delta-VC: 54.8 fps (16.7 m/s).
+Sextant star: Star 13 (Capella, or Alpha Aurigae) visible in sextant when shaft and trunnion angles are 164.3° and 12.6° respectively.
+Boresight star: Star 1 (Alpheratz, in Andromeda) This is a second attitude check which is made by sighting on another celestial object with the COAS (Crew Optical Alignment Sight).
+COAS Pitch Angle: down, 9.1°.
+COAS X Position Angle: left, 4.6°.
+GDC Align stars: Stars to be used for GDC Align purposes are Vega and Deneb. This would be used in the event that the IMU could not be used for aligning the gyro assemblies. The spacecraft would be manoeuvred so that these two stars could be viewed in the scanning telescope in a certain configuration. On achieving this, the spacecraft would be in a known attitude, the same one given below.
+GDC Align angles: Roll, 102°; pitch, 178°; yaw, 28°.
+An additional note is that the SPS propellants are settled in their tanks by firing the plus-X thrusters on all four of the Service Module RCS quads for 12 seconds.
+Also read up at this time are the details of the launch of the subsatellite.
+Subsatellite launch time: 222 hours, 39 minutes, 27 seconds.
+Spacecraft attitude at launch: Roll, 266°; Pitch, 141°; Yaw, 38°.
+HGA angles: Pitch, -70°; yaw, +113°.
+As Allen is about to point out, the angles given for the HGA (High Gain Antenna) are meant to be used during the shaping burn.
+220:39:48 Allen: And, Jim, I guess those High Gain angles are to be applied to the shaping maneuver, not the subsat launch. [Pause.]
+220:40:02 Irwin: Okay. [Pause.]
+220:40:09 Scott: And, Houston, we're ready to talk over the procedures any time you are now.
+220:40:14 Allen: Okay, Endeavour, I guess we're ready to start. I want to put one final note on the subsat launch. We'd like for you to reverify for us the talkbacks on the RCS after the launch. [Pause.]
+220:40:38 Scott: Okay. Understand. Check the RCS talkbacks after the launch. We'll do that.
+220:40:46 Allen: Okay, Dave; and I guess you might cast an eye up at the - the few - fuel cell - talkbacks as well. Over. [Pause.]
+Joe Allen is requesting that the crew monitor the 'talkback' indicators for the RCS and fuel cell systems during the subsatellite launch. The talkbacks Joe refers to indicate the position (open/closed) of various valves for fuel and oxidizer in the Reaction Control System, and the hydrogen and oxygen reactant valves for the fuel cells. On previous Apollo flights, sudden jolts to the spacecraft would inadvertently close the valves. Earlier events, such as extraction of the LM from the S-IVB launch vehicle stage and the jettison of the door covering the SIM bay, had caused the RCS valves to close and Houston feels it prudent to monitor any changes to valve position. While easy to cycle and reopen, it could cause a great deal of confusion if a valve closure went unnoticed.
+220:41:01 Scott: Roger. [Long pause.]
+220:41:16 Allen: Endeavour, this is Houston. Ready to tag up with you on the TEI procedures. And, Dave, I guess we're standing by for your recommendation. Do you want to read through the additions you now have in your P40 SPS Thrusting Checklist, or do you want us to go through the changes we want you to have there? It looks pretty much exactly like your TLI maneuver. There are just two changes; there are two difference from that, I guess. Over.
+These differences arise from a short circuit within one of the switches of the primary (or A) SPS control circuit. Note that when Allen mentions TLI, he likely means LOI. The SPS was not used for the TLI manoeuvre as it was carried out by the S-IVB stage of the Saturn launch vehicle.
+220:41:53 Scott: Okay, why don't you give us the two differences, and then we'll read it all back to you to make sure we've got it straight.
+220:41:59 Allen: Okay, Dave. That sounds like a good way. Turn to page G5-4. And right down at the bottom of the page...
+220:42:12 Scott: 5-4. Go.
+220:42:13 Allen: Roger. Right at the bottom of the page after the two lines, "SPS Fuel/Oxidize Pressure" and "PUGS balanced", add the step "Cut-off minus 10 seconds, circuit breaker SPS Pilot Valve, Main A to Open." [Pause.]
+220:42:44 Scott: Okay: bottom line on page 5-4. Cut-off minus 10 seconds, "Circuit Breaker SPS Pilot Valve, Main A, Open."
+220:42:54 Allen: That's correct. And turning over a page to 5-5, you have an addition underneath the normal step which reads, "Circuit Breaker SPS Pitch 1 and yaw 1 to Open". Your addition reads, "Circuit Breaker SPS Pilot Valve, Main B, Open." And we have still another step to add in there, which is, "Circuit Breaker EMS, two of them, Main A and Main B, to Open." And, also, we would like to delete, one step below that, the three lines, "Map Camera, On, to Off," "Pan Camera Power to Off," and "SM/AC Power to Off." Over.
+220:43:50 Scott: Okay; on page 5-5, beneath the addition of "CB/SP - S - SPS Pilot Valve, Main B, Open," add "CB EMS, two, Open," and them delete the three lines on Map Camera, Pan Camera, and SM/AC power below that.
+220:44:07 Allen: That's correct, Dave, and we're standing by for the other additions you've made, now.
+220:44:16 Scott: Okay, we'll go back to the beginning, here. [Pause.] Okay; our initial configuration has the addition of both Pilot Valve Circuit Breakers Open, and to verify that both EPS Group 5 circuit breakers are Closed, and also on page 5-1, beneath the caution/warning test, EMS Function, Off, to verify, and the CB EMS A&B both Closed. That's what we have on 5-1.
+220:44:53 Allen: Okay; that's good. Turn the page.
+220:44:59 Scott: Okay, on 5-2, under "TVC Check and Prep", second line, "CB SPS (10), closed". That's all on 5-2.
+220:45:07 Allen: Roger.
+220:45:11 Scott: Page 5-3, at minus 2 minutes, "CB SPS Pilot Valve, Main B, Closed", instead of Delta-3 - "Delta-V Thrust A and B, Normal".
+220:45:22 Allen: That is correct.
+220:45:22 Scott: Okay. And on page 5-4, at 5 minutes prior to ignition when we get - 5 seconds prior to ignition when we get the flashing 99, we Delta-V Thrust A and B to Normal after the Pro. And then, on down at ignition, if we have a flashing 97, the SPS thrust fail, "CB SPS Pilot Valve A, Closed". And, if everything goes according to Hoyle, why, at 5 seconds, we'll close the C - CB SPS Pilot Valve Mi - Main A. And then, of course, the step you just answered - just added - at the bottom of the page, at cut-off minus 10 seconds, to close the Pilot Valve - or to open the Pilot Valve Main A.
+220:46:21 Allen: Okay, Dave. That's right on the money.
+220:46:26 Scott: Okay. And then on 5-5, we just discussed those two, which were a "CB SPS Pilot Valve, Main B, Open", and the "EMS circuit breakers, Open".
+220:46:36 Allen: Roger, Dave. That sounds good to us.
+220:46:44 Scott: Okay; and I think we've practised one of those once before. I think we'll be able to handle that. [Long pause.]
+The procedure changes are a continuation of the troubleshooting necessary from the intermittent short in the Direct Thrust switch that was discovered early in the flight. The A bank cannot be reliably controlled by the computer as it is highly liable to ignite the engine just by arming the circuit Essentially, the TEI burn will be accomplished starting with the good bank of valves, Bank B, under computer control. Upon ignition, the suspect bank, Bank A's valves will be opened, and will stay open until 10 seconds prior to cut-off when they are closed. The concern is that if the switch should short again, the engine would continue firing past the time of engine shutdown. By removing power from the Bank A valves, thus closing them, and relying on automatic control of Bank B, they have eliminated the possibility of any undesired engine operation.
+220:47:05 Allen: Dave, just out of curiosity, we know you or Al...
+220:47:08 Scott: Yes.
+220:47:09 Allen: ...marked up the cue card for the plane change maneuver, and we wonder if you're going to use that marked-up card for the shape burn. Over.
+220:47:20 Scott: No, no. We'll use the checklist straight through on the rest of the burns. [Pause.]
+220:47:29 Allen: Okay, Dave. That's fine with us as we know you're aware it's a single bank B burn, which has been marked correctly onto that cue card. [Pause.]
+220:47:43 Scott: Rog. Yeah, I guess all - all our burns in orbit are just a straight single bank B.
+The SPS engine not only has redundant control circuitry and plumbing, it even has independent injectors introducing the propellants into the combustion chamber. However, the rated thrust of the engine is not achieved using just one system. Due to the problems with the valves in SPS Bank A, all the in-orbit burns are performed using only a single bank, Bank B. Only a little performance or capability is lost in this configuration, and all these burns are so short, that there would be no time to open the Bank A valves and close them in the short amount of time the burn would be performed. The last major use of the SPS engine, for the Trans-Earth Injection, will be the only time where both sets of valves will be used.
+220:47:49 Allen: Right on. Thank you. [Long pause.]
+220:48:06 Scott: And, coming out, we'll have all the ball valves open and all the eyeballs watching. [Pause.]
+220:48:15 Allen: Sounds like a good idea.
+Long comm break.
+This is Apollo Control at 220 hours, 48 minutes. We're about 32 minutes away from that shaping burn. This burn is required to give a proper lifetime for this subsatellite. We'd like at least a years lifetime for that subsatellite. In the present orbit of 65.4 by 52.2 nautical miles [121.1 by 96.7 kilometres], the subsatellite would have a lifetime of approximately 80 days. Going into this changed orbit will give it a lifetime of at least a year. We've passed up the PAD for that maneuver; ignition time at 221 hours, 20 minutes, 47.23 seconds; delta-V of 66.4 feet per second [20.2 m/s], a burn time of 3 seconds, resultant orbit 76.1 by 54.3 nautical miles [140.9 by 100.6 km]. We've also passed up the PAD for the jettison. Time for that 222 hours, 39 minutes, 27 seconds. And we've passed up a preliminary Trans-Earth Injection PAD. A final PAD will be passed up later. This preliminary PAD shows TEI ignition at 223 hours, 48 minutes, 43.63 seconds; delta-V of 3047.7 feet per second [928.9 m/s]. Duration of the burn: two poin - 2 minutes, 22 seconds.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control at 220 hours, 51 minutes. This shaping burn will be performed about 10 minutes prior to Loss of Signal on this 73rd revolution. The sub-satellite jettison will be performed while we have acquisition of Endeavour on the 74th revolution.
+In preparation for the activities to come, the particles experiments in the SIM bay are switched off. The Gamma-ray boom and the Mapping Camera are both retracted and covers are closed.
+220:52:10 Scott: And, Houston; Endeavour. [Pause.]
+220:52:15 Allen: Go ahead. [Pause.]
+220:52:20 Scott: We were just getting the hoses set up here for the burn and noticed that there's a little bit of water coming out of the - the blue hose in the suit loop. Thought you might be interested. [Long pause.]
+220:52:40 Allen: Okay, Dave. We copy that. Thank you.
+220:52:46 Scott: Roger. [Pause.]
+220:52:54 Scott: Not much. It's just, if you put your hand around the nozzle there, why, you can get some water on it.
+220:53:03 Allen: Okay; we copy that. We think it's probably normal, but we'll look into it real closely. Sounds to me like the Endeavour has a few plumbers aboard as well as experts in other things.
+220:53:24 Scott: Well, by the time this is over, I guess we will be plumbers.
+220:53:29 Allen: We'll all be plumbers, Davy.
+Very long comm break.
+Joe Allen's reference, is of course, to the quick fix that was needed to stop a water leak during the translunar coast.
+From the Apollo 15 Mission Report: "Droplets of water came from two of the three blue [supply] hoses when they were relocated for the Trans-Earth Injection firing. Since cabin humidity continued to be normal and no recurrence of the problem was observed, most likely the condensation was an effect of the large primary coolant loop temperature transient on the suit heat exchanger during lunar orbit."
+Flight Plan page 3-333.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control at 221 hours, 4 minutes. Endeavour is maneuvering to the burn attitude now. We're 16½ minutes away from ignition.
+At ten minutes to go before ignition, the Digital Event Timer is started from 50:00. It will therefore count up to the time of the burn and help the crew pace their checklist properly.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+Five minutes from ignition.
+221:15:52 Allen: Endeavour, you're looking good. You are Go for the shaping burn.
+221:15:59 Scott: Rog. Go for the shape.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+1 minute.
+Ignition. Cut off.
+221:21:52 Scott: Okay, Houston. Endeavour with a burn status report.
+221:21:56 Allen: Go ahead, Endeavour. [Pause.]
+221:22:07 Scott: Okay. Burn was on time, and it was a 3-second burn. We had about 1.0 or 1.1 residual, and that was trimmed to 0.1, minus 0.2, minus 0.2. Delta-VC was minus 11.0; fuel, 26.40; oxidizer, 26.25. [Pause.]
+221:22:32 Allen: Rog, Dave. We copy that. [Pause.]
+221:22:40 Scott: And it has us in an orbit, 76.0 by 54.3 [nautical miles, 140.8 by 100.6 km].
+221:22:48 Allen: Sounds just right. [Pause.]
+Interpretation of the burn status report is as follows: The burn was on time, at 221:20:42, and lasted for the expected 3 seconds. The resulting orbit was 76.0 by 54.3 nautical miles (140.8 by 100.6 km), almost exactly the desired 76.1 by 54.3 nautical miles (140.9 by 100.6 km). At the end of the burn, the total velocity error was about 1.0 to 1.1 fps (0.3 m/s). This needed to be trimmed to no more than 0.2 fps (0.06 m/s) in all three axis using the RCS, and they did so to 0.1, 0.2 and 0.2 feet/second in the X, Y and Z-axes, respectively. Delta-VC is a measure of velocity change as determined by the accelerometer within the EMS, and was -11.0 fps (3.4 m/s). The imbalance between the two propellants consumed was ¼ pound more fuel than oxidizer.
+221:22:54 Scott: And very smooth burn.
+221:22:56 Allen: Okay, Dave. Great. And you just gained about 240 more days for our subsatellite, something like that.
+221:23:08 Scott: Very good.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+221:25:37 Allen: Endeavour, this is Houston. You're looking good at LOS minus 5. And I have a reminder on your water dump. We'd like you to monitor it down to 10 percent. And we'll see you on the other side. Over.
+221:25:54 Scott: Rog. Understand. Will do.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+221:28:04 Allen: Endeavour, this is Houston. And we've copied your torquing angles.
+221:28:12 Scott: Roger. Thank you, Houston.
+Very long comm break.
+Apparently, Al Worden has jumped immediately into the Lower Equipment Bay after the burn to perform a platform alignment, using the TEI REFSMMAT as an orientation, that was not due until after LOS. Because the ground can see the same computer entries and displays as the crew, it isn't necessary to read them off. This saves a few minutes of time, which is in short supply immediately before LOS. Using P52, Al sighted on star 03 (Navi, Gamma Cassiopeiae) and star 11 (Aldebaran, Alpha Tauri). As a result of these sightings, the computer determined that the platform had to be rotated, or 'torqued' by +0.021° in X, +0.004° in Y and +0.024° in Z. The star angle difference reading is 0.01°, this being a comparison of the actual angle and the measured angle between the two stars. While not a perfect score, it is still a very good value.
+Flight Plan page 3-334.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control at 221 hours, 30 minutes. We've had Loss of Signal on the 73rd revolution. The shaping burn performed a few minutes ago has achieved the desired results giving the sub - will give the subsatellite at least a year's lifetime in lunar orbit. The onboard orbital reading after that burn: 76 by 54.3 nautical miles [140.8 by 100.6 km]. The next event will occur while we are in acquisition on the 74th revolution. That will be the jettisoning of the subsatellite at 222 hours, 39 minutes, 27 seconds. We'll join the orbital science briefing on this line now.
+The recording of the orbital science briefing, as exists on the PAO archive, is presented here.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+Housekeeping duties during LOS includes purging the fuel cells with their hydrogen and oxygen reactants to remove contamination, and a dump of urine and waste water, the latter being excess water produced by the fuel cells. The Gamma-ray and Alpha Particle Spectrometers are started for an extra hour of data gathering though the boom is not extended.
+221:46:28 Irwin (onboard): ... it in the SIM bay, huh?
+221:46:31 Scott (onboard): Yes.
+221:46:44 Scott (onboard): Okay. Waste water's down to about 20.
+221:46:57 Irwin (onboard): Okay, we'll purge. Are you going to time her?
+221:47:01 Scott (onboard): Uh-huh.
+221:47:38 Scott (onboard): Fifty.
+221:47:48 Worden (onboard): Up to Relief, huh?
+221:47:49 Irwin (onboard): Yes.
+221:47:50 Scott (onboard): Uh-huh. Up to Relief, right?
+221:48:03 Irwin (onboard): Eighty degrees.
+221:48:07 Scott (onboard): ... to do that on the front-side pass?
+221:48:09 Irwin (onboard): Yes.
+221:48:12 Worden (onboard): Think we'll be okay once we get out in the...
+221:49:05 Scott (onboard): H2 Purge Line Heaters, Off.
+221:49:08 Worden (onboard): All you got to do is look after the purge, huh?
+221:49:09 Scott (onboard): Yes.
+221:49:11 Irwin (onboard): I'm going to purge.
+221:49:30 Scott (onboard): We got this great big filter floating around. Why is that floating around?
+221:49:34 Irwin (onboard): I'm sorry, Dave. I'll throw it in the diaper bag.
+221:49:36 Scott (onboard): Gee, Jim, we got to make another burn.
+221:49:39 Irwin (onboard): Yes.
+221:49:44 Worden (onboard): I didn't realize we were so close to another burn. ... close.
+221:49:47 Scott (onboard): No, I didn't either.
+221:49:52 Worden (onboard): ...
+221:49:55 Scott (onboard): Yes.
+The seventy fourth and final orbit of Endeavour begins at about 221:50 GET. Then before AOS, the spacecraft is maneuvered into the correct attitude for launching the subsatellite. The Flight Plan includes angles to which the HGA can be set for good communication with Earth.
+Flight Plan page 3-335.
+221:50:09 Scott (onboard): Where'd you put the second garbage can?
+221:50:10 Worden (onboard): ...
+221:50:22 Scott (onboard): Al, wait. Stick it up here. No, wait.
+221:50:58 Scott (onboard): Did you have any tissues down here when you did your thing, Jim?
+221:51:01 Irwin (onboard): No, I didn't have any, Dave.
+221:51:03 Scott (onboard): How did you get by?
+221:51:05 Irwin (onboard): How'd I get by? I used the...
+221:51:06 Scott (onboard): Yes.
+221:51:07 Irwin (onboard): ...UCTA. I used the UCTA. So I had to dump it anyway.
+221:51:15 Scott (onboard): Yes. Right over there with the camera is, we got to configure the DAC anyway. Open it up. You got to put the DAC together anyway for photographing the subs at.
+221:51:42 Scott (onboard): What? Yes. Didn't think about that.
+221:59:01 Irwin (onboard): ... in the way.
+221:59:04 Worden (onboard): I'll get it...
+221:59:05 Scott (onboard): Okay, I got it.
+221:59:06 Worden (onboard): Okay.
+221:59:12 Scott (onboard): There. ...
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control at 222 hours, 15 minutes. We're about to acquire Endeavour on the 74th revolution. During this pass the subsatellite jettison is scheduled, and on this 74th revolution, after Endeavour goes behind the Moon, the Trans-Earth Injection burn will be performed. We will not be in contact at that time. The subsatellite will be jettisoned at the time the spacecraft is crossing the lunar equator on its way to apolune. [It] will be jettisoned to the north so that the spin axis will be perpendicular to the Sun's line of sight and allow maximum sunlight on the solar cells. The spring ejection mechanism will give the subsatellite a Delta-V of 4 feet per second [1.2 m/s] relative to the spacecraft. And the initial spin rate on the subsatellite will be 140 revolutions per minute. That's expected to stabilize out at 12 revolutions per minute when the booms are extended. We'll stand by for air/ground.
+222:17:54 Irwin (onboard): Clear.
+222:18:00 Worden (onboard): Oh, my. Look at this. That's a good picture.
+222:18:05 Allen: Hello, Endeavour. This is Houston. [Pause.]
+222:18:11 Scott: Houston, Endeavour. Go.
+222:18:14 Allen: Roger, Endeavour. We're requesting you verify your systems - Data Systems, On, and the S-band Aux switch to Science, please. [Long pause.]
+This is to carry science data from the SIM bay on the auxiliary S-band data channel.
+222:18:21 Worden (onboard): Yes.
+222:18:22 Scott (onboard): Right here it is.
+222:18:24 Worden (onboard): Huh!
+222:18:25 Scott (onboard): Yes. That's verified, isn't it?
+222:18:28 Worden (onboard): No, Data Systems isn't On.
+222:18:30 Scott (onboard): Well, it wasn't in here then.
+222:18:35 Worden (onboard): It sure was and I missed it. I'm sorry.
+222:18:42 Scott: Okay; that's verified now, the data systems are on now.
+222:18:46 Worden (onboard): Shoot!
+222:18:48 Scott (onboard): They're easy to overlook, aren't they?
+222:18:48 Allen: Okay, Dave; we copy that. I've got a map update, rev 75, when you're ready to copy. And I have a message for Al from the King [Farouk El-Baz], when he's ready to copy. [Pause.]
+222:19:05 Worden: Go ahead, Joe.
+222:19:07 Allen: Roger, Al. The message to you is to stand by to copy your final exam grade in orbital science and observation. It's an alpha-plus, with a subnote of "Well done." Over. [Pause.]
+222:19:23 Worden: Tell the King, thank you very much, Joe.
+222:19:25 Allen: Rog, Al. And I've got the map update...
+222:19:27 Worden: And I expect to see him back in Houston soon.
+222:19:29 Allen: Oh! Oh, no - no problem there.
+222:19:31 Irwin: Go ahead, Joe.
+222:19:32 Allen: Rog. The map update, rev 75. Copy at 223 plus 20. [Pause.] And it is: LOS, 223 plus 29 plus 45; 180, 223 plus 52 plus 57; AOS with TEI, 224 plus 03 plus 03; AOS without TEI, 224 plus 15 plus 30. Over.
+The map update is yet another "defence in depth" strategy to handle problems if they arise during the preparations for the TEI burn. Interpretation of the map PAD is as follows:
+Purpose: These are timings that define what the crew should expect whether or not the TEI burn is successful.
+LOS on the final pass around the Moon: 223:29:45.
+Passing over the 180 degree longitude meridian of the Moon: 223:52:57.
+AOS, if the TEI was successful: 224:03:03.
+AOS, without the TEI and going into rev 75: 224:15:30.
+Although it could be considered far-fetched, if there was a problem with the clocks onboard the spacecraft, the TEI burn could be timed from the Loss Of Signal time, occurring almost exactly 19 minutes after the spacecraft passes behind the Moon.
+It is also interesting to note just how nominal the Apollo 15 mission has been thus far, at least as far as flight dynamics are concerned. Despite all the maneuvers, including thrusting burns, major and minor, the time of LOS is only about 4 minutes different from the values calculated and marked in the Flight Plan long before the flight ever launched from Earth.
+222:20:30 Irwin: Okay, the map update readback for rev 75: 223:29:45, 223:52:57, 224:03:03 and 224:15:30.
+222:20:46 Allen: Readback's correct, Jim; thank you.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control at 222 hours, 23 minutes. That message with the grades and the congratulations for Al Worden was from Farouk El-Baz, one of the crew's instructors in Geology.
+With less than 20 minutes to jettison of the subsatellite, preparations begin for the event and for recording it. A DAC (Data Acquisition Camera, actually a Maurer 16-mm movie camera) is mounted in the main hatch window. One of the crew will also elect to take photographs on one of the Hasselblad cameras.
+The next task is to stabilise the spacecraft so the subsatellite's trajectory will be true. The RCS jets are configured to use only those thrusters that do not impinge upon the SIM bay (a common requirement for orbital activities) and to use only pairs of thrusters for fine control. Then the spacecraft's attitude is allowed to settle.
+Having ensured that the switch to release the subsatellite is off, circuits to enable the firing of pyrotechnic bolts are powered. Mission Control verify it even as Dave Scott asks for verification.
+Flight Plan page 3-336.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+222:31:28 Allen: Endeavour. We verify your SIM pyro bus...
+222:31:30 Scott: This is Endeavour. Can you verify the...
+222:31:31 Allen: ...arm, and - your rates look good to us down here. Over.
+222:31:41 Scott: Okay. You had us all figured out. We'll go Free.
+The reference to "going Free" is to the type of control the Command Module Computer will maintain over the spacecraft. Placing the switch in the "Free" mode, essentially disengages the CMC's autopilot, allowing the spacecraft to drift, and no correcting maneuvers from the thrusters will be performed. This is the desired mode for releasing the subsatellite. When the satellite is sprung out from its storage area at the aft end of the SIM bay, Newton's laws of "equal and opposite actions" will displace the CSM from it.
+222:31:45 Allen: Rog, Dave. [Long pause.]
+222:31:59 Allen: And we know one of you will be watching out the window. We're particularly interested if the spin of the satellite is sweeping out a cone or if it seems to be a fairly flat spin as it comes out. Over.
+222:32:15 Scott: Roger.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+222:33:55 Allen: Endeavour, we're requesting you go back to Auto and do another Verb 49, please. We see you've drifted off about a degree.
+222:34:06 Worden: In work.
+Comm break.
+As the CSM is simply drifting with no active control holding its attitude, even small motions by the crew inside the Command Module or the slosh of fuel in the propellant tanks are enough to cause the spacecraft to wander. Joe Allen is requesting that the crew invoke Verb 49 to have the computer adjust the spacecraft's attitude. Included in this request is the need to change the CMC mode to "Auto" from "Free". Once the orientation is corrected, the CSM will be allowed to drift again.
+We're 5 minutes away from subsatellite jettison.
+222:35:22 Allen: Okay, Endeavour. We're recommending that you go back to Free at launch minus one minute.
+222:35:32 Irwin: Okay; Free at launch minus one minute.
+Comm break.
+222:36:39 Allen: Endeavour, we've got a new update to the last instructions. Go Free at launch, please. [Pause.]
+222:36:50 Scott: Rog; Free at launch.
+Comm break.
+To ensure the spacecraft will not continue to drift from its desired attitude again in the minutes before the subsatellite launch, Joe Allen is relaying a request to have the computer actively maintain attitude up until the moment of launch. Part of the deployment sequence will now include disabling attitude control at the moment of launch. Once the subsatellite is well clear of the spacecraft, attitude control will be re-established.
+Spacecraft rates look good at one minute.
+Thirty seconds.
+222:39:17 Scott: Three, two, one...
+One end of the subsatellite sits on a deployment mechanism with a spring preloaded against it to provide thrust for launch. When the "Launch" switch is turned on, a motor begins moving the deployment mechanism and the subsatellite along a track, opening a door of the housing in the process. When it reaches the end of the track, it engages a switch that fire the pyrotechnics to sever two bolts, freeing the subsatellite and allowing the spring to force it away from the spacecraft. A pin engages in a curving groove in a cylinder as the two spacecraft part, imparting a rotation to the subsatellite that will help stabilise it in its orbit. After launch, the deployment mechanism is retracted.
+222:39:20 Scott: ...Launch. We have a barber pole. [Pause.]
+222:39:31 Scott: And a gray.
+222:39:35 Allen: We confirm that. [Pause.]
+222:39:43 Scott: Tally Ho! [Long pause.]
+222:40:05 Allen: Okay, Dave; copied that. Sounds great. [Pause.]
+222:40:15 Allen: Can you see much? [Long pause.]
+222:40:28 Scott: Oh, looks like it might be oscillating maybe 10 degrees at the most. [Long pause.]
+222:40:47 Allen: Roger, Dave; copy. [Long pause.]
+As the subsatellite departs, it is filmed by the DAC.
+H.264 MP4 video file.
+At the same time, eleven photographs are taken on a Hasselblad camera using magazine Q and a 250-mm lens. Two shots miss the subsatellite. Since the subsatellite is quite small in the image, then in the following presentations, the browse-quality images focus on it if it is in the picture. Clicking on the picture will link to the full-size image.
+AS15-96-13067 - Subsatellite after deployment - Image by NASA/Johnson Space Center.
+AS15-96-13068 - Subsatellite after deployment - Image by NASA/Johnson Space Center.
+AS15-96-13069 - Subsatellite after deployment - Image by NASA/Johnson Space Center.
+AS15-96-13070 - Subsatellite after deployment - Image by NASA/Johnson Space Center.
+AS15-96-13071 - Subsatellite after deployment - Image by NASA/Johnson Space Center.
+AS15-96-13072 - Subsatellite after deployment - Image by NASA/Johnson Space Center.
+AS15-96-13073 - Edge of CM window (failed attempt to photograph subsatellite) - Image by NASA/Johnson Space Center.
+AS15-96-13074 - Edge of CM window (failed attempt to photograph subsatellite) - Image by NASA/Johnson Space Center.
+AS15-96-13075 - Subsatellite after deployment - Image by NASA/Johnson Space Center.
+AS15-96-13076 - Subsatellite after deployment - Image by NASA/Johnson Space Center.
+AS15-96-13077 - Subsatellite after deployment - Image by NASA/Johnson Space Center.
+With the subsatellite deployed, the crew can concentrate on their final task in lunar orbit, the burn of their SPS engine to return to Earth.
+Day 10, part 4: Orbital Science, Rev 72
+Journal Home Page
+Day 10, part 6: Trans-Earth Injection

@@ -1,0 +1,1260 @@
+Apollo 12 Flight Journal - Day 1, part 2: Earth Orbit and Translunar Injection
+Day 1, part 1: Launch and Reaching Earth Orbit
+Journal Home Page
+Day 1, part 3: Transposition, Docking and Extraction
+Apollo 12
+Day 1, part 2: Earth Orbit and Translunar Injection
+Corrected Transcript and Commentary Copyright © 2004-2025 by W. David Woods, Johannes Kemppanen and Lennox J. Waugh. All rights reserved.
+Last updated 2025-02-22
+After a traumatic launch and ascent to orbit, during which the Apollo 12 vehicle was twice struck by lightning, they have reached the relative safely of their intended orbit. The crew of Pete Conrad, Dick Gordon and Al Bean have just over one-and-half revolutions of Earth to satisfy themselves and the flight controllers in Mission Control that their spacecraft is sound and ready to continue the mission to land on the Moon. In particular, their inertial guidance platform has completely lost its orientation and will need to be fully realigned from scratch. If everyone is satisfied that it is safe to do so, the S-IVB stage will be reignited over the Pacific Ocean to perform the Translunar Injection burn that will send them on their way to the Moon.
+000:13:55 Conrad: Houston, be advised that I am resetting on the stabilization and control system logic bus A 3 dash 4 Baker, which was out, for some reason.
+This circuit breaker governs power supplied to some elements of the Stabilization Control System. No cause could be found for why the circuit breaker was open, and post-mission analysis determined that the most likely cause was that someone had simply forgotten to push the circuit breaker into the closed position before the launch. There were no indications that electrical overload from the lightning strike would have caused this circuit breaker to open.
+000:14:09 Carr: Roger, Pete. We copy. Also on your IMU main A and B breakers, let's leave them out for at least 3 minutes.
+These two circuit breakers on Panel 5 (the LMP's right hand panel) supply the power to the Inertial Measurement Unit. Currently, their plan for recovering the IMU is to remove all power to it and let it come to a physical stop.
+000:14:17 Conrad: Okay. And then what do you want us to do, reset them and then come up with a P51 when we get in the darkness?
+000:14:23 Carr: That looks like the right plan, Pete. We are still talking; we'll give you a final on it.
+000:14:27 Conrad: Okay. What do you all figure? - I think we got hit by lightning. [Pause.]
+000:14:44 Carr: 12, Houston. We are about 45 seconds from LOS; we'll pick you up Canaries about 16.
+000:14:49 Conrad: Roger. Roger. [Long pause.]
+000:15:17 Carr: 12, Houston. Can you go to P00?
+P51 is a computer program for orientation"
+000:15:20 Conrad: Roger. We'll go to P00.
+000:15:21 Carr: Thank you.
+000:15:25 Conrad: We were going into P00 and P00. Now, can we reset the breakers?
+000:15:32 Carr: That's affirmative. Go ahead. [Long pause.]
+P00 is program zero zero, the idleing position for the computer. We've had loss of signal from the tracking ship Vanguard. We'll pick up Apollo 12 at the Canaries very shortly. We're showing an orbit of 102.5 by 100 nautical miles, a good orbit. Showing weight in orbit 300,253 pounds and an orbital period of 1 hour 28 minutes 14 seconds. Canaries have acquired now.
+It may come as a surprise that the Apollo spacecraft would slip out of communications range during such a critical phase of the mission, so soon after launch, but this is down to the nature of the communications system in place at the time.
+000:16:29 Carr: Apollo 12, Houston through Canaries, How do you read, babe? [Pause.]
+000:16:45 Carr: Apollo 12, Houston through Canaries. How do you read?
+000:16:48 Conrad: I read you loud and clear.
+000:16:51 Carr: Roger. You are pretty garbled.
+000:16:54 Conrad: Okay. How's that?
+000:16:55 Carr: Much better, Pete.
+000:16:58 Conrad: Alrighty. I've got a little note for you. I've got a lot of ice on the outside of my number 1 window. I think there was a fair amount of water underneath the BPC that hasn't sublimated yet.
+000:17:14 Carr: Roger.
+000:17:16 Conrad: And we're working on the REG check, and we have the IMU breakers back in, and we're looking at a 000 on the IMU.
+000:17:26 Carr: Roger. [Long pause.]
+000:17:38 Carr: Apollo 12, Houston. Over.
+000:17:39 Conrad: Go ahead.
+000:17:41 Carr: Roger. We've looked at your REFSMMAT; it's looking good, Pete. You can press with P51 and 2.
+P52 is the realignment for the inertial platform.
+Since the IMU has been essentially reset first by the lightning strike and then the deliberate turning off of the power, the crew will now have to set it up again.
+000:17:47 Conrad: Okay.
+Comm break.
+REFSMMAT is one of those delicious acronyms that pepper Apollo dialogue and make it somewhat opaque for the casual reader. But like many other seemingly complex ideas in Apollo, once we look into the underlying concept, we will be able to grasp its meaning. REFSMMAT stands for 'Reference to Stable Member Matrix'. This definition certainly does little to increase our understanding of what it truly means, and hence we shall have to dwell deeper into the premises of Apollo inertial guidance.
+The Inertial Measurement Unit gyroscopic platform, or the stable member.
+The heart of the guidance system is the Inertial Measurement Unit, and at its core sits the stable member. Three gyroscopes for attitude determination and three accelerometers for velocity change determination sit on a platform that is stabilized on three gimbals. These gimbals allow the spacecraft to rotate around the platform while the stable member remains technically immobile, and hence maintains a known orientation in a selected coordinate system. With careful knowledge of the accelerations experienced on each direction, the spacecraft can be located in space.
+The Basic Reference Coordinate System defines mathematical space in the Earth-sun system. The REFSMMAT defines the spacecraft's position in relation to this System.
+For the inertial measurements to have any true value in terms of navigation and guidance, they have to be put into a proper context. For Apollo, this is accomplished with a system of navigational reference that is called the Basic Reference Coordinate System, or BRCS. The BRCS is defined by the relationship between the Earth-Moon system with the Sun, using their relative positions on January 1st, 1969, as the starting position. The X axis points towards the Sun on the ecliptic plane ,while the Z axis is formed into the direction of the Earth North pole. The Y axis is formed to a right angle of the X axis. Hence we now have a three-dimensional reference system, which can answer the two most important questions a space traveler requires - which way is up, and which way am I going to.
+The Flight Director/Attitude Indicator photographed onboard the Apollo 13 Command Module Odyssey
+But here our beautiful Basic Reference Coordinate System becomes problematic. While it is a useful mathematical model for the onboard computer to calculate position and direction, it is less than practical in terms of actual spaceflight. For starters, the definition of 'up' is very much different in various parts of the mission. When the Saturn V sits on the launch pad, 'up' is certainly away from the surface of the Earth, as it is also on Earth orbit. But while in the cislunar space between the Earth and the Moon, up becomes much less important in terms of practical spacekeeping. And what about on lunar orbit? 'Up' is now pointing away from the Moon. Once the Lunar Module is standing on the lunar surface, the crew certainly desires 'up' to be somewhere in the opposite direction to the dusty landscape below them.
+The mathematical definition of REFSMMAT. From User's Guide to Apollo GNCS Major Modes and Routines. July 1 1970 revision.
+The REFSMMAT comes to rescue here, both as a concept and a practical aid for the astronaut. By adding a mathematical 'filter', or a transformation matrix, between the values generated by the inertial platform in the reference coordinate space, and our desired spatial orientation, the IMU can supply the onboard instrumentation with the correct information. With the right REFSMMAT loaded into the computer for each phase of the mission, the FDAI indicators and the computer are able to display their attitude in relation to the Earth and the Moon in what is the most useful manner for each part of the mission.
+The Apollo Inertial Measurement Unit gimbals diagram.
+Another important reason for the use of the REFSMMAT is to allow the crew to get around a serious mechanical limitation of the guidance system. The IMU platform is stabilized with three gimbals, and in certain attitudes, an undesired condition may develop where these gimbals line up on the same plane. When this happens, the gimbal motors will become unable to maintain the free motion of the platform, and a situation known as the gimbal lock develops. As the platform stops moving freely, it loses its ability to measure attitude changes and hence becomes unavailable as an attitude reference. The gimbal lock can be avoided with relative ease by avoiding certain attitudes during the mission. The REFSMMAT scheme assists in keeping the platform out of the gimbal lock by allowing the crew to change the reference point and hence allows the spacecraft assume attitudes that would otherwise drive the IMU into the gimbal lock.
+000:19:37 Carr: Apollo 12, Houston.
+000:19:40 Conrad: Go ahead, Houston.
+000:19:42 Carr: Roger. When you do your P51, you're going to wipe out your REFSMMAT. If you'll go P00 and Accept, we've got 4 minutes left; we'd like to get you a new up-link of your REFSMMAT.
+000:19:51 Conrad: Okay. There's P00 and accept right there.
+000:19:53 Carr: Okay, Pete. It's on its way.
+000:20:01 Carr: Pete, your P52 should be in Option 1; just a reminder.
+000:20:07 Conrad: P52 should be in Option 1. Roger. You're going to give us a - the PAD REFSMMAT back, is that right?
+000:20:13 Carr: That's affirmative, Pete. [Long pause.]
+PAD REFSMMAT refers to the initial orientation of the IMU, and is based on the location of the start of their voyage to the Moon, on their launch pad in Florida. It is officially defined as a REFSMMAT that "places the IMU X-axis along the launch azimuth at the pad and the Z-axis along the negative radius vector. The FDAI at launch, will display roll 162° (launch azimuth +90°), pitch 90° and yaw 0°.
+REFSMMAT is a reference matrix for the platform. The flight dynamics says the Canary Station confirms a good orbit with its tracking.
+000:21:15 Carr: 12, Houston. The load's coming up now.
+000:21:19 Conrad: Okay. We're standing by. There's a helmet over here. [Long pause.]
+000:21:49 Conrad: Houston, I may have screwed you up there. I hit the Reset button.
+000:21:56 Carr: No, it's okay, Pete. We're still going.
+000:22:00 Conrad: Okey-dokey. [Long pause.]
+000:22:24 Conrad: Hey, Houston. The LMP is no longer a rookie, and you can tell SimSup he gave him a heck of a one to break in on. We're still laughing. [Pause.]
+000:22:37 Carr: Roger, Pete. We'll tell him. Pete, we're about due to lose you; LOS here. AOS at Carnarvon will be at 52:15, and we hope to have some word for you by then on what the plan is. [Pause.]
+000:22:50 Conrad: Okay. We got a - We'll try and have you a good platform by then.
+000:22:55 Carr: Computer's yours, 12.
+000:23:03 Carr: 12, Houston. The computer's yours. [Long pause.]
+000:23:25 Carr: Apollo 12, Houston. We'll see you at 52.
+000:23:29 Conrad: Roger. See you at 52, Houston.
+Very long comm break.
+This is Apollo Control at 24 minutes into the mission. We have had loss of signals at the Canary Island station now. Next station to acquire will be Carnarvon. Tananarive station is no longer in the network. Carnarvon is due to acquire at 52:15 seconds. During this launch, Apollo 12 lost its electrical distribution system, that's AC Bus 1 and 2, - speculated due to lightning. We don't have a reason - a definite reason, however, right now. That loss - loss of that threw the fuel cells off the line and this system also powers the inertial measuring unit, the platform. That was lost. We still had the backup guidance system, the stablization control system, which is powered by batteries and not by the fuel cells. The electrical distribution system is now back in operation. The fuel cells are back on the line and on the dark side of this orbit the crew will realign the platform, using the sextant to take star measurement and get the platform back in the proper shape as a reference point.
+This is Apollo Control at 26 minutes, 31 seconds. We have a voice operated relay recording of the lift-off air to ground. It will not be in real time, but we will play that for you now.
+This is Apollo Control at 33 minutes, 59 seconds. That's the end of the tape on the liftoff. We'll stand by now on this line for remarks from President Nixon, who is in the firing room at the Kennedy Space Center [garble].
+This is Apollo Launch Control. We're here in firing room 2. The President of the United States and Mrs. Nixon have arrived in the firing room. The President has come right down the middle line, basically right in the middle of firing room 2 mostly at the consoles where the first and second stage personnel are located. The President is walking slowly across the main isle of the firing room shaking hands with all the console operators as he comes by. He has now covered the course of firing room 2. As expected shortly, he'll come up to the rear of the firing room where a microphone is waiting. Accompanying the President and Mrs. Nixon is the Administrator of NASA Thomas Paine. Miss Julie Nixon is in the firing room watching from an observation area to the rear. The President now coming up the steps going to the rear of the firing room. We expect he will be back up on the back row here shortly. We have most of the pilots for the Apollo 13 and 14 missions here. The commanders of those two flights, the Apollo 13 Astronaut Jim Lovell, and Apollo 14 Astronaut Alan Shepard are here in the firing room. The President now coming back up to the rear on management row with Dr. Paine. We expect shortly he will be coming up to the mike. We'll stand by here in the control center. The President is now up on the back row and meeting some of the project officials here. This is Launch Control.
+President Nixon's daughter Julie is referred to as "Miss Nixon" by the PAO, although she was already married at the time to Mr. David Eisenhower, the grandson of former President of the United States Dwight "Ike" Eisenhower (1980-1969.) NASA was formed during Eisenhower's term in 1958.
+The next two astronauts in line to command lunar landing missions, Jim Lovell, and Al Shepard Jr. got to see the dramatic launch of Apollo 12 from the best spot, from the Launch Control facility.
+This is Mission Control, Houston at 51 minutes, 5 seconds. We're just about to acquire at Garnarvon. Acquisition there at 52 minutes, 15 seconds. We'll stand by for conversation through that site. And data is coming through on Apollo 12 from Carnarvon now. No voice contact yet, but we are getting telemetry data Jerry Carr getting ready to put in a call now.
+Your browser does not support the audio element. Download MP3 audio file.
+000:52:39 Conrad: Hello, Houston. Do you read Apollo 12 through Carnarvon?
+000:52:43 Carr: Hello, Stormy. We're reading you loud and clear.
+000:52:46 Conrad: Roger. Read you the same. We just finished a P51 with a four balls 1 star angle difference. Dick just did a P52 on stars 14 and 15 with another star angle difference of 1. The torquing angles were plus 00755, plus 00941, minus 00366; the time 52 plus 29; and things are back to normal.
+000:53:17 Carr: Roger, Pete. We copy your data. Your torquing angles : plus 00755, plus 00941, minus 00366 at 52:29.
+000:53:31 Conrad: That's affirmative. And we're getting on with our TLI checks.
+000:53:35 Carr: Roger, Pete. Would you turn your tape recorder off and set your bit rate at High. We don't have a command - computer at Carnarvon. So you'll have to do it for us.
+The onboard tape recorder (aka the DSE) can be remotely controlled from Houston via commands sent over the radio. During the next comms coverage, supplied by the Carnarvon station in Australia, this function is not available. Mission Control must hence request the crew to do it manually by operating the appropriate switches on the Main Display Console.
+000:53:45 Conrad: Okay. We just got a Program Alarm 20430, whatever that is?
+The computer checklist determines Alarm 20430 as "Orbital integration has been terminated to avoid possible infinite loop.". It also tells the crew to report this to Houston, which they have.
+000:53:53 Carr: Roger, Pete. We'll check it out. 12, Houston. Can you give us a Verb 96, Enter, to stop your integration? And we'd like you to do an E-MOD dump. Give us a 3, 2, 1, Mark when you do your Verb 74; and if we get it done now, we should have an answer for you on your Erasable Memory by the time you get to Guaymas.
+000:54:12 Conrad: Okay. Verb 74 coming at you. 1...
+000:54:19 Carr: Do a Verb 96 first. [Long pause.]
+VERB 96 is defined as "Terminate integration and go to P00" in the manual.
+000:54:42 Carr: 12, Houston. Your Program Alarm was an integration problem.
+000:54:57 Conrad: I saw some illumination out the window; I'd almost be positive that we got hit by lightning some place.
+000:55:04 Carr: Roger, Pete. I don't think we got all of that transmission.
+000:55:09 Conrad: Okay. I'm just saying - in thinking back to when we had our big glitch, I remember seeing it get light outside the window. We were in the clouds; I'm pretty sure we got hit by lightning.
+000:55:21 Carr: Roger. Copy. Pete, here's our plan. When you finish your E-Mod dump, then we want to get you up on Honeysuckle - and make sure, by the way, that you get your S-band volume up for Honeysuckle - We want to up-link you a state vector at Honeysuckle, and then the next dark pass, we want you to do a P52 Option 3.Over.
+000:55:42 Conrad: Okay. We'll do a P52 Option 3 on the next dark pass, and that'll give you a drift check. Is that right?
+000:55:49 Carr: That's affirmative, Pete. All the memory we can see so far looks okay, and we should have a real verdict for you at Guaymas after this E-MOD dump.
+000:55:58 Conrad: Okay. [Pause.]
+000:56:13 Carr: 12, Houston.
+000:56:16 Conrad: Go ahead, Houston.
+000:56:17 Carr: We're going to be passing you up some data later on in your checklist, little pieces that you can take out and go through in order to exercise some of your electrical system to give us a chance to see how it all looks.
+000:56:33 Conrad: Okay. Of course, we - we're on the time line, and we've exercised fuel cell purges and things like that, and all that seems to be functioning okay.
+000:56:45 Carr: Okay, Pete. It looks down here like the reason for your IMU problem was strictly a power supply problem.
+000:56:51 Conrad: Yes. We understand that. The voltage on the main buses went down to 24 volts.
+000:56:56 Carr: Yes.
+000:56:58 Conrad: And when we got the fuel cells back on the line, then - all three fuel cells just flat fell off the line.
+000:57:05 Carr: Roger. Pete. We're going to lose you here in about 30 seconds; we'll pick you up on Honeysuckle, S-band only, at 59:33.
+000:57:14 Conrad: Okay. We got the - we got the S-band up for Honeysuckle and - I was wrong. We're completing the fuel cell purges at this time; you can see some Master Alarms.
+000:57:23 Carr: Roger.
+000:57:31 Carr: 12, Houston. We got your E-Mod dump.
+000:57:34 Conrad: Roger.
+000:57:36 Carr: Pete, when you hit Honeysuckle, give us P00 and Accept.
+000:57:40 Conrad: Roger.
+Long comm break.
+This is Apollo Control at 58 minutes, Carnarvon has had LOS. The Honeysuckle Station in Australia will acquire within a couple of minutes. During the Carnarvon pass, Apollo 12 did dump their Erasable Memory in the computer to the ground; it will be checked here and verified, and we should know by the time Apollo 12 is in acquisition at the Guaymas, Mexico station whether that computer memory is good or not. Over Honeysuckle we will pass them up a new state vector: their position and velocity. We should be picking up at Honeysuckle within a few seconds now. We'll continue to stand by.
+The Honeysuckle has acquired Apollo12."
+Your browser does not support the audio element. Download MP3 audio file.
+001:00:51 Carr: Apollo 12, Houston through Honeysuckle. How do you read?
+001:00:58 Conrad: Hello, Houston. Read you loud and clear on the S-band. The computer is P00 and Accept, and I see another Program Alarm. I guess it went back into P00 again.
+001:01:06 Carr: Roger, Pete.
+001:01:09 Conrad: He just gave it a Verb 96; let me look at the alarm. Yes, it's 20430 again. I just - you're - in P00 and Accept right now, and you can go ahead and take it.
+001:01:20 Carr: Roger, Pete. We got it.
+001:01:22 Conrad: Okay. I had just recalled P00, and I started integration again. My fault.
+001:02:12 Carr: 12, Houston. After we get the state vector up, we'll give you your 66 and your 45. [Long pause.]
+001:02:23 Conrad: Roger-Roger. [Long pause.]
+001:03:10 Conrad: Houston, 12.
+001:03:12 Carr: 12, Houston. Go.
+001:03:14 Conrad: We had a normal Docking-Probe Extension.
+001:03:18 Carr: Roger. [Long pause.]
+001:03:51 Carr: Apollo 12, Houston. We're about 20 seconds from LOS on Honeysuckle. You're going to have to put your bit rate back down to Low and tape recorder to Forward, and we'll be picking you up on Guaymas at 01:20, correction 01:28:21.
+001:04:08 Conrad: 01:28:21. Roger-Roger. And is the computer mine?
+001:04:13 Carr: Roger. The computer is yours.
+Very long comm break.
+This is Apollo Control at 1 hour, 5 minutes into the mission. Apollo 12 has moved out of range of the Honeysuckle station now, passing out over the Pacific Ocean. Next station to acquire will be Guaymas, Mexico at an elapsed time of 1 hour, 28 minutes, 21 seconds. Here in the Mission Control Center flight controllers are planning extra checks of the Electrical system on Apollo 12. We'll be conducting those over the United States to make sure there has been no damage to the electrical system. We have also examining the erasable memory of the computer. Should have word on that for the crew by the time they get to the States. The Apollo 12 orbit changing slightly now as the third stage of the booster, the S-IVB, vents and as the auxiliary propulsion system of that stage provides attitude control. Showing an orbit now of 106 by 102 nautical miles, an orbital period of 1 hour, 28 minutes, 22 seconds, and our weight in orbit is down to 298,999 pounds. At 1 hour, 7 minutes, this is Mission Control Houston.
+This is Apollo Control at 1 hour 10 minutes. We have the crew's heart rates now from Dr. Charles Berry. At lift-off all three crewmen had heart rates of 120. Prior to liftoff they had been running between 80 and 90. Peak heart rates during the powered phase of the flight occurred during that high period of activity and ran between 130 and 140 for all three crewmen. This is Mission Control Houston.
+This is Apollo Control at 1 hour, 27 minutes. We're about 30 seconds away from acquisition at the Guaymas, Mexico station. Preliminary review of data indicates that problem occurred about 45 seconds after lift-off. Two of the Apollo 11 astronauts were in the Mission Control Center viewing room during lift-off, Neil Armstrong and Buzz Aldrin. We'll stand by now. We have data on the booster coming in from Guaymas. We'll stand by for a call.
+001:28:48 Carr: Apollo 12, Houston. How do you read?
+001:28:51 Conrad: Loud and clear. How me?
+001:28:52 Carr: Roger. Read you loud and clear. We've got a few words for you if you'll stand by for a minute.
+001:28:55 Conrad: Okay. I imagine you have. [Long pause.]
+001:29:48 Conrad: Are you guys going to be ready for the Service Module RCS hot fire down there, Houston?
+001:29:53 Carr: We sure will, Pete. We've got some words for you now. Your E-Mod dump is still in work. We'll have some answers for you shortly on that. Got a couple of tests we'd like you to run while you're here over the States. Are you ready to copy? [Pause.]
+001:30:25 Carr: Apollo 12, Houston. Are you ready to copy?
+001:30:27 Conrad: Yes. We're ready to copy. Fire away.
+001:30:30 Carr: Okay. First thing we'd like to have you do, Pete, is a CMC self-check. Go into your operations checklist at page Foxtrot 2-2 and run that little dude, which is a four-stepper, and on step number 3, do a Verb 21 Noun 27 Enter, and then do a 10 Enter rather than a 4 or a 5 Enter. Over.
+001:31:02 Conrad: A CMC self-check on page F-20 - 2-2; step 3, Verb 21, Noun 27, and do a 10 Enter.
+001:31:10 Carr: That's affirmative, Pete, and when you finish that one, then we thought we ought to take a look at MTVC check. And your best bet for that is to follow your checklist, page Foxtrot 5-3, and begin where it says "TVC check and Prep."
+001:31:33 Conrad: Okay. We just decided that was a good idea ourselves.
+001:31:37 Carr: Okay. And then go through that until you get to page 5-4 and terminate your test at "Rot Control Power Norm, two, AC/DC." Over.
+001:31:56 Conrad: Okay. Copy.
+001:31:57 Carr: Okay. And then, to turn your motors off and clean it up, you want to skip to Foxtrot 5-6; and, on step number 18 there, go down to gimbal motors, four, Off, and finish off the checklist there.
+001:32:19 Conrad: Okay. We copied that, and it's all in work right now. While they're getting those books out and getting ready to do that, let me give you the Service Module RCS hot fire; and just - let me ask you a question, Jerry. The Service Module thrusters wouldn't show up with water and, even if they did, it would be long gone; and I've still got a big block of ice sitting outside my window here, so I hope they all fire right.
+001:32:43 Carr: So do we, Pete.
+001:32:51 Carr: Pete, I also have a TLI plus 90 maneuver PAD. Whenever you're ready to copy, give me a holler. [Long pause.]
+001:33:23 Carr: Apollo 12, Houston.? [Pause.]
+001:33:34 Carr: Apollo 12, Houston.
+001:33:44 Conrad: Okay. Houston, you ready for the fire down there?
+001:33:48 Carr: Roger, 12. Also, your Verb 96 flag is still set. If you will re-select P00, we can reset that dude.
+001:33:58 Conrad: Okay. We're coming at you with the hot fire.
+001:34:01 Carr: Roger. Standing by. [Long pause.]
+001:34:27 Conrad: I don't think they're firing, Houston.
+001:34:38 Carr: Apollo 12, Apollo 12, Houston. We saw all the events on telemetry. Over.
+001:34:44 Conrad: You say they're firing? We didn't hear a thing.
+001:34:52 Carr: Apollo 12, Apollo 12, Houston. Affirmative. We saw the events go; but, of course, we didn't hear anything either.
+What "event" refers to here is the indication on the incoming telemetry from each of the RCS jets firing.
+001:35:02 Conrad: Are you telling me they fired?
+001:35:09 Carr: Apollo 12, Apollo 12, Houston. Best try it again, Pete. We have no telemetry on your TCP's. All we have is the electrical indication. [Long pause.]
+TCP refers to "Thrust Chamber Pressure", that is, pressure inside the small RCS rocket jets. Carr reporting on the lack of such information is not due to any damage caused by the lightning strike, but simply a limitation of the system. Such data was not gathered by the telemetry system.
+001:35:53 Conrad: Okay. That worked out pretty good.
+001:35:56 Carr: Apollo 12, Apollo 12, Houston. Roger. We saw your manifold pressures change a little bit, so it does look like they fired. Also, Neil's here, and he says he didn't hear his go on Min Impulse either.
+Neil would be no other than Neil Armstrong, the Apollo 11 Commander. He certainly would have a lot of experience about the behavior of the RCS jets during real-life conditions in space, including the sounds they might make.
+001:36:07 Conrad: Okay. But we can see them firing. We're getting some flashes now.
+001:36:12 Carr: Roger. [Pause.]
+001:36:22 Carr: Apollo 12, Apollo 12, Houston. Are you ready for the TLI plus 90 PAD?
+001:36:32 Conrad: Roger. Ready to copy. Go ahead.
+Carr is now going to read a list of numbers known as Pre-Advisory Data, or just a PAD. The intention is to pass on important data that may be required in the future and to so in a slow and deliberate manner. Carr reads from a piece of paper that has been pre-formatted and the crew, usually Al, will write the numbers onto forms laid out in an identical fashion. Once complete, the data is read back to Mission Control so that multiple flight controllers can check that the information has been accurately passed on. It is a very low tech way to transfer critical information and it illustrates an interesting aspect of an Apollo flight. While it would have been possible to have arranged a digital uplink for this data, the design of Apollo's systems was just too early for such technology to have been implemented well. However, it is not important that the data is relayed digitally, just that it is relayed accurately. In this era of analogue aviation, pilots were accustomed to using voice to pass data. For a programme developed at speed during the 1960s, Apollo didn't have to be high tech, it just had to work.
+001:36:39 Carr: Apollo 12, Houston. TLI plus 90 PAD follows. SPS/G&N: Noun 47 is 63573; Noun 48, minus 1.55, plus 1.29; Noun 33, 004:16:35.77; Noun 81, minus 0438.1, plus 0000.1, plus 5046.7. Roll, Pitch, and Yaw is 179, 182, 359. Noun 44 is NA. The Delta-VT: 5065.6, 6:16, 5043.9. Sextant: 12, 078.2, 24.1; Boresight, 021; up, 09.1; right, 3.3. Noun 61, plus 03.50, minus 027.81. EMS, 1142.4, 34409. GET of 0.05g is 016:46:09. The ullage is none - negative. You are undocked. P37 for lift-off plus 8. GET is 008:00, 6243, plus 166, 025.43. Over.
+Comm break.
+Carr has read up two PADs, both of which are for abort contingencies and so will hopefully never be used. The first is a full P30 PAD with all the details of the required burn having been calculated by Mission Control. The second is a shorter PAD, intended for use in program 37.
+The PAD is interpreted as follows:
+Purpose:This PAD provides information on how to perform a long burn of the SPS engine some 90 minutes after the translunar injection in the case that Apollo 12 needs to make an emergency return to Earth soon after heading for the Moon.
+Propulsion/guidance (PROP/GUID):This burn is performed using the Service Propulsion System and under the control of the Primary Guidance, Navigation and Control System.
+CSM weight (Noun 47): 63,573 pounds (28,836 kg).
+Pitch and yaw trim (Noun 48): -1.55° and +1.29°. These are the angles away from the longitudinal axis the SPS engine bell will be set to for the burn.
+Time of ignition, TIG (Noun 33): 4 hours, 16 minutes, 35.77 seconds.
+Change in velocity (Noun 81), fps (m/s): x, -438.1 (-133.5); y, +0.1 (+0.03); z, +5,046.7 (+1,538.2). These velocity components are expressed with respect to the local vertical.
+Spacecraft attitude: Roll, 179°; Pitch, 182°; Yaw, 359°. The attitude figure is with respect to the IMU orientation at the time of the burn.
+HA, expected apocynthion of resulting orbit (Noun 44): (Not applicable)
+HP, expected pericynthion of resulting orbit (Noun 44): Not applicable. Normally for this PAD, the perigee distance is given so it is unclear why it has been omitted in this case. The usual idea is that it so low, it intersects Earth's atmosphere, thereby ensuring re-entry.
+Delta-VT: 5,065.6 fps (1,544.0 m/s). This is essentially a vector sum of the above velocities and as such represents the total velocity change.
+Burn duration or burn time: 6 minutes, 16 seconds.
+Delta-VC: 5,043.9 fps (1,537.4 m/s). This is the fps value that will be entered into the EMS to give it backup control of the burn. The value is smaller than Delta-VT because the EMS cannot compensate for the tail-off impulse generated by the engine after the cut-off command. By entering a lower number, (and should the G&N system fail to shut the engine down) the burn would be stopped early enough by the EMS, that the extra thrust from the tail-off would bring the final Delta-V to the required value.
+Sextant star: Star 12 (Rigel, Beta Orionis) should be visible in the sextant when shaft and trunnion angles are 78.2° and 24.1° respectively. This is one of the attitude checks the crew will make prior to the burn.
+Boresight star: Star 21 (Alphard, Alpha Hydrae). This refers to a star that will be visible in the Crew Optical Alignment Sight, a portable monocular telescope, when mounted onto the Commander's window in a prescribed angle. This is an additional attitude check independent of the Inertial Measurement Unit-calculated attitude.
+Boresight Star pitch angle on COAS: 9.1° up.
+Boresight Star X position on COAS: 3.3° right.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.
+Expected splashdown point (Noun 61): 3.50° north , 27.81° west; in the South Atlantic Ocean.
+Range to go at the 0.05 g event: 1,142.1 nautical miles. (km) To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05g event: 34,409 fps. (m/s) This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+Predicted GET of 0.05g event: Expected at 16 hours, 46 minutes and 9 seconds GET. This is when it is expected that the EMS and P64 will be triggered.
+Usually at this point in a TLI+90 PAD, there are numbers associated with a backup procedure for determining the spacecraft's attitude reference, should the primary system fail. It has been omitted from this PAD. The two additional notes are that there would be no need to perform an ullage burn to settle the contents of the SPS tanks because they are full, and the burn assumes that they have jettisoned the LM prior to making the burn.
+The Lift-off + 8 PAD carries data for P37, a program in the computer that will calculate the details of a burn that will return the crew to Earth. An important condition for P37 is that the spacecraft must still be in Earth's sphere of influence, thus simplifying the calculations. The program takes the four values from the PAD; the specified time for ignition of the engine, a specified maximum change in velocity (or Delta-V), the longitude of the splashdown and the GET for the start of re-entry. These act as a set of constraints with which it calculates the desired trajectory and the details of the burn to achieve it.The P37 Lift-off plus 8 PAD is interpreted as follows:
+Purpose:This is an emergency return to Earth using the SPS engine and the Primary Guidance and Control System, employing Program 37 in the computer. This would be performed if trouble arises onboard the spacecraft between the TLI+90 abort opportunity and GET+8 hours.
+Time of ignition, GETI : 8 hours, 00 minutes, 00 seconds.
+Delta-VT: 6,243 fps (1,902.3 m/s). This represents the total velocity change of the maneuver.
+Longitude (LONG): -166° west . This is the estimated longitude for the Earth landing point for reentry, stated in degrees. This would splash them down in the Pacific Ocean.
+Predicted GET of 0.05g event (GET 400K): Expected at 25 hours, 43 minutes and GET. This is when it is expected that the EMS and P64 will be triggered.
+001:39:43 Conrad: Houston, we're doing a self-check on the CMC, and we'll soon complete that; and our 2 is 4, our 3 is 2. Can we terminate that Noun? Do you need a Noun 8? [Pause.]
+001:40:09 Conrad: Houston, 12. Over.
+001:40:11 Carr: Roger, 12. Houston. Stand by on that a sec.
+001:40:15 Conrad: Okay, Houston. And while you're at it, I would to like to bring on the SECS logics for you to get a Go for Pyro Arm, please, sir.
+001:40:24 Carr: Roger. You're Go.
+001:40:30 Conrad: And SECS logics 1 and 2 are up and on.
+001:40:34 Carr: Roger, Pete. And you don't need a Noun 8; just terminate Verb 27, Noun - correction, Verb 21, Noun 27 Enter, Zero Enter.
+001:40:44 Bean: Are you ready for a read-back, Houston?
+001:40:47 Carr: Roger. Go ahead.
+001:40:49 Bean: Roger. SPS/G&N: 6357.3, minus 1.55, plus 1.29, 004:16:35.77, minus 0438.1, plus 0000.1, plus 5046.7, 179, 182, 359; NA, NA; 5065.6, 6:16, 5043.9, 12, 078.2, 24.1, 021, up 09.1, right 3.3, plus 03.50, minus 027.81, ll42.4, 34409; 0.05g is 016:46:09; no ullage; undocked; 008:00, 6243, plus 166, 025.43. Over. [Long pause.]
+001:42:00 Carr: Apollo 12, Houston. We sent you a wrong one on the P37 for lift-off plus 8. Your longitude should be minus 166 rather than plus. [Pause.]
+001:42:14 Bean: Roger. Copied minus 166 on the longitude.
+This shows another level of double-checking in the PAD system, the crew reading back the numbers they have written down, and Houston confirming if they are correct or not. In this case, it was Mission Control who did a small slip up that was promptly corrected.
+001:42:18 Carr: Roger, 12. And if you'll give us P00 and Accept, we'll run your state vector up.
+001:42:27 Bean: Okay. You got it, Houston.
+001:42:29 Carr: Roger.?
+That was Al Bean with that read-back.
+001:42:36 Gordon: Houston, this is 12. We're going to run through this gimbal check if you want to look at it right now.
+And that's Dick Gordon.
+001:42:42 Carr: 12, Houston. Let us get the state vector in first.
+001:42:45 Gordon: Okay. You want us to wait for you?
+001:42:47 Conrad: All right, we'll hold it, Houston.
+001:42:49 Carr: Okay, thanks. [Long pause.]
+001:43:09 Carr: Apollo 12, Houston. You can run that TVC check. [Long pause.]
+001:43:39 Carr: Apollo 12, Houston. Did you read my last?
+001:43:43 Conrad: No. What was that?
+001:43:48 Carr: You're go on the MTVC check.
+001:43:52 Conrad: We're in process right now.
+001:43:53 Carr: Okay.
+001:43:54 Conrad: Here come your gimbal motors, Houston.
+Comm break.
+Apollo 12 now checking the thrust vector control, the system for steering during engine burns. They have also done a self check on the Command Module computer, and have hot fired the service module reaction control systems.
+The erasable memory in the Command Module computer has been verified and it is good.
+The TLI plus 90 minutes pad ...
+001:45:20 Carr: Apollo 12, Houston. The computer's yours.
+001:45:25 Conrad: Roger.
+001:45:35 Carr: Apollo 12, Houston. We've checked your E-Mod; it's go.
+001:45:41 Conrad: Okay. The gimbal motor check looked pretty good; we're coming back to AC/DC, and going over to step 18 on F5-6.
+001:45:51 Carr: Roger, Pete. I've got your TLI PAD, if you're ready to copy.
+001:45:57 Conrad: Hey, just - let's - let us get the gimbal motors off. [Long pause.]
+001:46:36 Conrad: Okay. The bus ties are off, Houston, and we are ready to copy the TLI PAD.
+001:46:41 Carr: Roger, Pete. We're about 2 minutes from LOS, so I'm going to copy - or read up the TLI PAD, and you can read it back when we get to AOS at Canaries. TLI PAD follows. Timebase 6, 2:37:43; TLI, 179, 059, 001; burn time, 5:44, 10515.4, 35420; separation attitude, 356, 092, 332; extraction, 300, 272, 028. Over. [Long pause.]
+001:47:56 Conrad: Okay. You want me to read it to you? It's 2:37:43, 179, 059, 001; burn time is 5 plus 44, 1051.54, 35420, 356, 092, 332, 300, 272, 028.
+001:48:22 Carr: Roger, Pete. Your read-back's correct. You're about 1 minute from LOS, and you're go for Pyro Arm.
+The TLI - Translunar Injection - PAD is interpreted as follows:
+TB-6 predict light: 002:37:43 GET. This is predicted start of time base 6. It implies that TIG (time of ignition) will be later, at 002:47:21, or 9 minutes, 38 seconds after.
+Attitude for TLI: 179°, 059°, 001° in roll, pitch and yaw respectively. This attitude is stated with respect to the orientation that the guidance platform has held since launch, using the launch pad as its basis.
+Duration of burn: 5 minutes, 44 seconds.
+Delta-VC': 1,051.54 fps (320.51 m/s). This figure will be entered into the EMS to allow the crew to monitor the remaining velocity that is still to be added. This should be at zero when the burn comes to an end.
+VI: 35,320 fps (10,766 m/s). Nominal inertial velocity at engine cut-off. This will be viewed at the DSKY at shutdown.
+Separation attitude: The correct attitude for separation of the CSM from the launch vehicle is 356 °, 092°, 332° in roll, pitch and yaw respectively, again with respect to the orientation of the guidance platform. Among the criteria for adopting this attitude is solar illumination of the LM to assist the docking procedure.
+Extraction attitude: The correct attitude for extraction of the LM from the S-IVB is 300°, 272°, 028° in roll, pitch and yaw respectively.
+This PAD data is structurally different to other burn PADs because the maneuver is controlled by the IU on the launch vehicle and not the computer in the CM. Emergency capacity does exist in the Command Module for them to perform the burn without the guidance computer in the Saturn S-IVB IU.
+001:48:29 Conrad: Roger. Understand. Go for Pyro Arm, and we're waiting for those golden words "Go for TLI."
+001:48:36 Carr: Roger. We'll give them to you at Carnarvon. You can expect to pick up the Canaries at 01:50:11.
+001:48:45 Conrad: Roger.
+Comm break.
+This is Apollo Control at 1 hour, 49 minutes. Vanguard has had loss of signal. Canary will acquire within a minute or so. The TLI plus 90 pad that was passed up a short while ago is abort information should an abort of this mission become necessary after the Translunar Injection burn. We've also passed up the information for the Translunar Injection burn. The second burn of the S-IVB, the third stage of the booster, ignition time 2 hours, 37 minutes, 43 seconds. Duration of the burn 5 minutes, 44 seconds and a Delta V or added velocity of 1,515 feet per second. We've had acquisition at Canary now. We'll continue to standby.
+001:50:46 Carr: Apollo 12, Houston through Canaries. how do you read?
+001:50:49 Conrad: Loud and clear.
+001:50:51 Carr: Roger. Your PIPA Bias and IRIG drift down here look real good based on the data that we have right now. Also, the - your theory and your idea that it was probably lightning that did it, that looks like about the best - best theory right now. With that in mind, the sequence of events is real explainable. We've got a pretty good idea why it happened. Everything is looking good here, and we see no reason why you can't just press.
+The PIPAs - Pulsed Integrated Pendulous Accelerometers - and the IRIGs - Inertial Rate Integrating Gyros - are components of the Inertial Measurement Unit. They provide the guidance computer with information on changes with the spacecraft acceleration and attitude. These are very sensitive instruments and
+001:51:23 Conrad: We concur. I guess the other thing that we were thinking about, maybe not lightning so much, as just unstable air. We were a pretty big piece of static electricity 'buildering-upper' going through there. We might have just discharged ourselves.
+001:51:41 Carr: Pete, that - that's exactly the theory that people are thinking here.
+001:51:46 Conrad: Yes. We sort of glowed all over there when all the lights came on, I think. I just - I'm still trying to search my memory because, of course, when all the lights came on I kept my attention in the cockpit.
+001:52:08 Carr: Pete, Dave wants to know why you're not watching what's going on outside.
+001:52:14 Conrad: I - I had a pair of eyeballs that were moving pretty fast about then, in and out.
+001:52:22 Carr: You had your scan in high bit rate, huh?
+001:52:27 Conrad: You better believe it.
+001:52:36 Gordon: Jerry, you could have come over and said that booster was right down the pike a little faster, boy.
+001:52:43 Carr: I wasn't sure soon enough.
+001:52:46 Conrad: Yes, you said it; he didn't hear it.
+Comm break.
+001:54:33 Carr: Apollo 12, Houston. We're 1 minute from LOS. We'll be looking for you at Carnarvon 2 minutes late. It'll be 1 - correction 02:25:27. [Pause.]
+001:54:48 Conrad: Roger. And we're - As soon as we get into darkness, we'll give you the other P52, sir.
+001:54:53 Carr: Roger. Don't forget Option 3, Pete.
+001:54:58 Conrad: Roger - Roger. Option 3. [Long pause.]
+001:54:XX Bean (onboard): Okay. My mistake is putting all this junk in this pocket, but this is the obvious pocket to put the goody.
+001:55:08 Gordon (onboard): Well, you did take a long time.
+001:55:10 Bean (onboard): Give me a paper [garble] ...
+001:55:11 Conrad (onboard): [Garble] the EMS?
+001:55:12 Gordon (onboard): Good boy.
+001:55:13 Bean (onboard): Down in that right-hand lower pocket of mine. Put this there, too - and this.
+001:55:20 Gordon (onboard): [Garble] right-hand lower pocket?
+001:55:22 Conrad (onboard): Right ...
+001:55:23 Gordon (onboard): How come you got that pocket over there? This one, huh?
+001:55:26 Conrad (onboard): GDC Align. All right, I'll do that, right now. Bye-bye, see you at Carnarvon. Here's a couple of more data for this.
+001:55:30 Carr: So long, 12.
+001:55:34 Conrad: [Garble] Carnarvon.
+Very long comm break.
+This is Apollo Control at 1 hour, 55 minutes into the mission. Apollo 12 is over Africa now in its second revolution out of range of the Canary Island station. We have a correction on the ignition time for Translunar Insertion burn. The time we gave you earlier 2 hours, 37 minutes, 43 seconds is the time for initiation of Timebase 6 in the instrument unit of the S-IVB, that's the Timebase for the Translunar Injection burn. S-IVB is now in Timebase 5 which is the orbital Timebase for the instrument unit. Ignition will come 9 minutes, 38 seconds after the start of Timebase 6, so that would put the time for ignition of the TLI burn at 2 hours, 47 minutes, 21 seconds. Carnarvon will acquire Apollo 12 at 2 hours, 25 minutes, 27 seconds. This is Mission Control, Houston.
+001:55:36 Bean (onboard): Lower your foot if you can.
+001:55:38 Conrad (onboard): Okay.
+001:55:39 Bean (onboard): There you go. That's a boy. You got a book over here, too, you know.
+001:55:42 Conrad (onboard): Yes. I got to get that out of there.
+001:55:44 Gordon (onboard): Didn't you want it?
+001:55:45 Conrad (onboard): Yes.
+001:55:46 Gordon (onboard): Huh?
+001:55:47 Conrad (onboard): Let me take this book out.
+001:55:49 Gordon (onboard): Okay.
+001:55:50 Conrad (onboard): [Garble] all the other stuff in.
+001:55:51 Gordon (onboard): [Garble] had a book in there.
+001:55:53 Conrad (onboard): I bet old baby [garble] and guys almost fell off their consoles.
+001:55:57 Bean (onboard): Bet they did.
+001:55:58 Gordon (onboard): They weren't the only ones that almost fell off their consoles.
+001:56:01 Conrad (onboard): Okay, got to align the GDC.
+001:56:03 Bean (onboard): Why bother? Why do you want to do another alignment?
+001:56:06 Gordon (onboard): It's the time - it's the time you said you wanted, Pete.
+001:56:10 Conrad (onboard): [Laughter] I was kidding, [garble]; I was kidding. Verb 48, Enter.
+001:56:17 Bean (onboard): What are you doing with the DSKY, now?
+001:56:19 Conrad (onboard): I'm loading it. 31102, all balls, zero, Pro[ceed]; 63479, 32563, Pro[ceed]. Gimbal angles are minus 5.4, plus 1.33. Good. Set ORDEAL. Verb 83, Enter; Verb 83, Enter. At Canary LOS, we're supposed to do this, and I'm supposed to bring the pyro's up and on, translational control Power up and on.
+001:56:49 Gordon (onboard): After you put all that in the DSKY, I'll do my align ...
+001:56:51 Conrad (onboard): Wait, wait. Let me finish.
+001:56:53 Gordon (onboard): I will. I will.
+001:56:55 Conrad (onboard): You're not all the way in darkness yet anyhow.
+001:56:57 Gordon (onboard): Yes, but I got stars ...
+001:57:01 Conrad (onboard): Got them in the ...
+001:57:02 Gordon (onboard): I can't make out ...
+001:57:03 Conrad (onboard): ...telescope?
+001:57:04 Gordon (onboard): ...I got two, I got two stars in the telescope.
+001:57:06 Conrad (onboard): Boy, it's taking a long time to do Verb 83. No, that's all right, that's better. That baby's doing a little bit better, now - 1.37. I'll bet my wife, your wife, and [garble] fainted dead away.
+001:57:16 Bean (onboard): Right, they don't know enough to [garble] much better.
+001:57:20 Gordon (onboard): I'll bet they did when you started calling out about 18 lights.
+001:57:23 Conrad (onboard): [Laughter]
+001:57:24 Bean (onboard): [Laughter] That platform ...
+001:57:25 Conrad (onboard): All right, Dick Gordon, the computer is yours, and I'm arming the pyro's, gang. Be advised the pyro's are armed. Now, [garble] Trans Control Power is coming up and on; Rot Control Power is going to AC/DC; Rot Control Power, Direct, to Main A Main B; Launch Vehicle Indicator GPI, S-II/S-IVB, verify; it is; Launch Vehicle Guidance should be IU, verify.
+001:57:56 Bean (onboard): [Garble].
+001:57:58 Conrad (onboard): Circuit breakers [clears throat] - No, wait a minute; I'm right at the place where I got to stop, right now. All right, no Direct Ullage breakers yet. Stop right there. Pick it up again after Dick Gordon gets done his namby-pamby ...
+001:58:14 Gordon (onboard): Well, there's P52 [garble], and I don't see a single star.
+001:58:18 Conrad (onboard): [Garble] right over. Got it in the sextant?
+001:58:21 Gordon (onboard): Yes, sure have.
+001:58:22 Conrad (onboard): Isn't that interesting! Why don't you look back in the telescope?
+001:58:25 Gordon (onboard): I have. It's not in the telescope, Pete.
+001:58:27 Conrad (onboard): Well, you got a lot of daylight on you, still, out there, Dick.
+001:58:29 Gordon (onboard): I couldn't see a damn thing in the telescope, and I don't see any star right now.
+001:58:33 Conrad (onboard): Okay, [garble] ...
+001:58:34 Gordon (onboard): That thing's right smack - great big one - right smack in front of [garble].
+001:58:40 Conrad (onboard): Okay.
+001:58:42 Gordon (onboard): What's that - hitting me in the shoulder?
+001:58:45 Bean (onboard): Which shoulder?
+001:58:47 Gordon (onboard): Right.
+001:58:48 Conrad (onboard): Hey, Al Bean?
+001:58:49 Bean (onboard): Yes, sir.
+001:58:50 Conrad (onboard): ...our cabin heat's down, isn't it? It's 5.4.
+001:58:52 Bean (onboard): Yes, it's okay. I was checking it a minute ago; it looks okay.
+001:59:00 Conrad (onboard): I've got my [garble] pencils ready to go, here.
+001:59:02 Bean (onboard): [Garble].
+001:59:04 Gordon (onboard): 12½ - two stars [garble] 45 ...
+001:59:09 Bean (onboard): That's okay [garble]
+001:59:10 Gordon (onboard): ... should be Fomalhaut.
+001:59:12 Conrad (onboard): All that stuff is in there just perfect. All connected. This camera looks like it's ready to ...
+001:59:18 Gordon (onboard): Pete, I used star number 1 ...
+001:59:19 Conrad (onboard): All right, just a minute. Let me write all this good stuff down.
+001:59:22 Gordon (onboard):...which is Aipheratz and star number 45 which is Fomalhaut.
+001:59:26 Conrad (onboard): Star number 1 and star number 45. Yes?
+001:59:29 Gordon (onboard): Okay, and he's in the middle of this sextant.
+001:59:32 Conrad (onboard): That's beautiful. That's beautiful.
+001:59:34 Gordon (onboard): But he's sure not [garble].
+001:59:36 Bean (onboard): That's [garble].
+001:59:39 Gordon (onboard): Right in the center of the sextant.
+001:59:50 Gordon (onboard): Should be getting something out of this - It's the best look I got and I can't get any [garble] too much of a ...
+001:59:55 Conrad (onboard): There you go. All balls. Now, you're learning, Dick Gordon.
+001:59:58 Gordon (onboard): [Laughter] I appreciate that.
+002:00:02 Conrad (onboard): Look at the torquing angles.
+002:00:03 Gordon (onboard): Okay, there you go.
+002:00:04 Conrad (onboard): Oh, ho, ho, ho, is that beautiful. Minus three balls 14, minus three balls 28.
+002:00:14 Gordon (onboard): Plus three balls 18.
+002:00:16 Conrad (onboard): Plus three balls 18.
+002:00:18 Gordon (onboard): Two hours and 20 seconds ...
+002:00:20 Gordon (onboard): Mark.
+002:00:21 Conrad (onboard): Two plus 20 - plus 20.
+002:00:23 Gordon (onboard): And I'll do a star check.
+002:00:24 Conrad (onboard): All right, and I'm going to go ahead and do the GDC align - while you're doing all that good stuff.
+002:00:31 Gordon (onboard): Uh-oh. Well, that's all right.
+002:00:34 Conrad (onboard): Yes.
+002:00:35 Gordon (onboard): 405. No stars available ...
+002:00:37 Conrad (onboard): Available, yes.
+002:00:39 Gordon (onboard): How do you do a Verb 307 I always get stopped by [garble].
+002:00:41 Bean (onboard): That's done.
+002:00:43 Conrad (onboard): Well, there ought to be a star out there ...
+002:00:44 Gordon (onboard): No, we just [garble], there's not much ...
+002:00:46 Conrad (onboard): There's not any stars since we [garble].
+002:00:48 Conrad (onboard): That's not a pair; see. I'm just going start [garble] now ...
+002:00:55 Conrad (onboard): All right. Now ...
+002:00:56 Gordon (onboard): Proceed and Enter ...
+002:00:58 Conrad (onboard): No. Enter. Enter.
+002:00:59 Gordon (onboard): Why?
+002:01:00 Conrad (onboard): Well, you could call up a star.
+002:01:01 Gordon (onboard): I don't want to use the same one I'm doing; see.
+002:01:03 Conrad (onboard): Oh, isn't there another star that's in that area?
+002:01:05 Gordon (onboard): No. Alpheratz and Fomalhaut ...
+002:01:06 Conrad (onboard): [Garble] make a pair?
+002:01:07 Gordon (onboard): How about - I wonder if Enif would be there? That's on the other side of - Well, let's see if Enif would ...
+002:01:14 Conrad (onboard): You could Enter and load Enif.
+002:01:17 Gordon (onboard): Now, let's see, here. Enif - I think we could do that. 44 is Enif. Shaft is - is 18; trunnion is 45. I don't - 181 and 45 - I don't know if I'll make that or not. We will shortly, though. No, it's going out - Yes, there it is. Right in the middle of the crosshairs.
+002:01:48 Conrad (onboard): We got - yaw drift.
+002:01:50 Bean (onboard): Who has?
+002:01:52 Conrad (onboard): Dick does ...
+002:01:53 Bean (onboard): [Garble].
+002:01:54 Conrad (onboard): Yes. It's ...
+002:01:55 Gordon (onboard): And that little old star Enif is right in the middle of the sextant.
+002:01:58 Conrad (onboard): You must have wanted it quite - quite extensively.
+002:02:01 Gordon (onboard): That sextant is gorgeous. In the middle of the sextant. but I sure don't have anything in the tele - No wonder I had a hard time the first time around.
+002:02:12 Conrad (onboard): Yes, if you look out in the daytime, you see what you see.
+002:02:15 Gordon (onboard): Huh?
+002:02:16 Conrad (onboard): Look out that thing in the daytime, you [garble] see [garble] terrible.
+002:02:20 Conrad (onboard): Man, I'm telling you there isn't anything in the telescope. And that star is as bright as it can be in that sextant.
+002:02:29 Conrad (onboard): Well, be glad it's that way and not the other way. Program alarm again.
+002:02:36 Gordon (onboard): It's going out past 50 degrees, that's all right [garble] go to Zero Optics. Little hot.
+002:02:46 Conrad (onboard): Yes, but now I'm cooling off a little.
+002:02:51 Gordon (onboard): Cabin Temp in Auto. I'm going to put this thing in ...
+002:03:00 Conrad (onboard): Cabin Temp in Auto?
+002:03:01 Gordon (onboard): ... back to P00 in this, and I'm going to stow these optics for this ...
+002:03:04 Conrad (onboard): Dick Gordon, should I put the Cabin Temp in Auto?
+002:03:06 Gordon (onboard): Yes. You going to cool it off?
+002:03:07 Conrad (onboard): Yes.
+002:03:08 Gordon (onboard): Huh?
+002:03:11 Conrad (onboard): [Garble] bag.
+002:03:13 Bean (onboard): [Garble] There you go.
+002:03:20 Conrad (onboard): Hey, the way to do - is to learn to housekeep in this thing. Hey, Dick Gordon?
+002:03:26 Gordon (onboard): Yes, sir.
+002:03:27 Conrad (onboard): When we trade seats, we're going to have to [garble].
+002:03:31 Gordon (onboard): Yes, sir.
+002:03:32 Conrad (onboard): All right [garble] lot of space.
+002:03:42 Gordon (onboard):[Garble].
+002:03:43 Conrad (onboard): Yes, [garble] that's really something else.
+002:03:48 Gordon (onboard): That's was what - I was really enjoying that ride. It was a very comfortable one.
+002:03:52 Conrad (onboard): I loved that first [garble] ...
+002:03:53 Gordon (onboard): Oh ...
+002:03:54 Conrad (onboard): ...for 45 seconds.
+002:03:55 Bean (onboard): Yes.
+002:03:58 Gordon (onboard): I couldn't even believe that.
+002:04:00 Conrad (onboard): I couldn't either. I thought they were kidding me [laughter].
+002:04:04 Gordon (onboard): I thought ...
+002:04:05 Conrad (onboard): The best part of all was Al Bean kept saying, back there this little voice kept saying, "I have power on my buses; I have power on my buses" [laughter].
+002:04:11 Bean (onboard): [Laughter].
+002:04:12 Conrad (onboard): And I kept looking at all those lights and [garble] ...
+002:04:15 Gordon (onboard): No wonder the shaft and trunnion [garble].
+002:04:18 Conrad (onboard): Huh?
+002:04:19 Gordon (onboard): I had the shaft and trunnion [garble].
+002:04:25 Conrad (onboard): You zero the optics? Is it in CMC or in Manual?
+002:04:30 Gordon (onboard): All right, Optics, Zero.
+002:04:39 Bean (onboard): Funny how slow you think up here.
+002:04:41 Conrad (onboard): There they go.
+002:04:42 Gordon (onboard): [Garble].
+002:04:50 Conrad (onboard): It just takes you a while to get going, that's all.
+002:04:52 Bean (onboard): It does.
+002:04:54 Conrad (onboard): [Garble].
+002:05:00 Gordon (onboard): It's not a natural environment, my friend. You haven't been here before. Neither has anybody else, for very long. Get that freaker in there somehow or another, where it's going to stay - until somebody [garble] it ...
+002:05:13 Conrad (onboard): You're not going to leave it there for TLI, are you?
+002:05:15 Bean (onboard): Oh, no, I just want to set it there, now. I want - I got to figure out what I got to do, so I'll be ready.
+002:05:21 Conrad (onboard): [Garble], how about radiators, water [garble] and all those ...
+002:05:25 Bean (onboard): I'll check - I'll check them again. Put that in there.
+002:05:34 Conrad (onboard): Hey, you got some room to put some goodies up in your place? How about putting this lunar landmark map up - up there in the stowage place?
+002:05:41 Gordon (onboard): Yes, that's a good idea [garble].
+002:05:43 Conrad (onboard): Get all that in [garble] in the overhead right now [garble] check the ...
+002:05:46 Gordon (onboard): Put that up there.
+002:05:47 Conrad (onboard): EDS Power; Translunar Inject. EDS Power is On.
+002:05:52 Bean (onboard): Here's a couple more.
+002:05:53 Conrad (onboard): Yes, all right.
+002:05:54 Bean (onboard): If you want to get out the card book, I'll get out the proper card.
+002:05:58 Conrad (onboard): For what?
+002:06:00 Bean (onboard): For TV and stuff.
+002:06:02 Gordon (onboard): What cards are that? Do you have cards for TV?
+002:06:04 Bean (onboard): For that camera and stuff. You've got to start taking pictures.
+002:06:07 Gordon (onboard): Okay.
+002:06:13 Bean (onboard):[Garble].
+002:06:16 Conrad (onboard): [Garble] bright [garble] and I'm at the same place on that card as I am in this book.
+002:06:25 Bean (onboard): See if we got any other place [garble].
+002:06:28 Gordon (onboard): You want any other [garble] - here it is.
+002:06:30 Bean (onboard): [Garble] that card? Yes. Let me have the - the burn card.
+002:06:36 Gordon (onboard): What burn card?
+002:06:37 Bean (onboard): SPS burn.
+002:06:38 Gordon (onboard): Here, you play with this.
+002:06:39 Bean (onboard): All right, I will, but I'll hand it back to you.
+002:06:44 Gordon (onboard): All right, what's the cabin stabilizing at?
+002:06:46 Bean (onboard): The third light ...
+002:06:47 Conrad (onboard): It's down to 553, now.
+002:06:50 Gordon (onboard): I know what it looks like.
+002:06:51 Bean (onboard): What did we say we're going to stabilize at?
+002:06:54 Conrad (onboard): 4.9 or something?
+002:06:55 Gordon (onboard): Had a rate valve that was high.
+002:06:58 Bean (onboard): Boy, I heard that [garble].
+002:07:01 Conrad (onboard): That was the last thing I heard.
+002:07:03 Bean (onboard): That was the last thing I heard, too, because that was about the time all the lights came on. I was saying to myself at the time, "Bean, you're sure cool to notice that." Right on schedule, I was watching it at 25 seconds.
+002:07:14 Gordon (onboard): You were really proud of yourself, huh?
+002:07:15 Bean (onboard): Oh, it was great up to there [laughter]. I got to go back ...
+002:07:20 Conrad (onboard): Well, we got everything back, gang.
+002:07:21 Bean (onboard): ...I got to go back for a second ride just to see oops again [laughter].
+002:07:27 Gordon (onboard): If there's one like that again, I don't think you'll really want to go back, do you?
+002:07:31 Bean (onboard):[Laughter] It didn't bother me that badly.
+002:07:34 Conrad (onboard): There was nothing you could do; you were just a [garble] I told you I was [garble] at the time. What else do you need, Al?
+002:07:41 Bean (onboard): That's it, I ...
+002:07:42 Gordon (onboard): You can throw that bag away then, pal. Get rid of it.
+002:07:43 Bean (onboard): Make sure that's all of it.
+002:07:45 Conrad (onboard): I knew we were going in - I don't even think - Dick Gordon said something about that tower, and I was still watching.
+002:07:51 Gordon (onboard): You see that tower go up, that's ...
+002:07:52 Conrad (onboard): Yes. Yes, I kind of glanced up and saw that disappear.
+002:07:56 Bean (onboard): I looked out some on the launch to see it.
+002:07:58 Gordon (onboard): I didn't know where we were, what we were doing; I just knew that 3:18 was time to get rid of the tower [laughter].
+002:08:09 Gordon (onboard): Listen, I hope I got everything locked up, gang. I won't vouch for it.
+002:08:15 Conrad (onboard): That'll make it - [Laughter] That'll give them something to write about tonight [laughter].
+002:08:19 Bean (onboard): Boy, there's a lot of it.
+002:08:20 Gordon (onboard): Yes.
+002:08:21 Bean (onboard):[Garble] starch.
+002:08:24 Conrad (onboard): Hey, where did all that come from?
+002:08:25 Bean (onboard): What's that?
+002:08:27 Conrad (onboard): Well, you just bent over and some real nice cold air - is it coming out of your suit? Yes. Oh, man, is that nice!
+002:08:32 Bean (onboard): You like that, huh?
+002:08:33 Conrad (onboard): Yes.
+002:08:36 Bean (onboard): When - when do we do TLI?
+002:08:39 Conrad (onboard): TLI comes - Timebase 6 comes ...
+002:08:42 Bean (onboard): I'm going to leave this chair flat.
+002:08:44 Gordon (onboard): Shoot; 2 hours and 6 minutes ago, you'd have been satisfied with a safe abort. Now, you want to do TLI.
+002:08:49 Bean (onboard): The what abort?
+002:08:51 Gordon (onboard): [Laughter] Safe abort.
+002:08:52 Bean (onboard): Oh, safe abort.
+002:08:53 Conrad (onboard): Timebase 6 starts at 02:37:42.
+002:08:56 Gordon (onboard): Hey, we're almost there now. You want to use this handy-dandy little program in the computer?
+002:09:01 Conrad (onboard): Might as well.
+002:09:02 Gordon (onboard): And get all good things done?
+002:09:03 Conrad (onboard): I'm down at - I'm down at Carnarvon AOS 02:25, where I push in the Direct Ullage breakers; I got the event timer set to 51, and then the [garble] ...
+002:09:12 Bean (onboard): [Garble] stay up there or what?
+002:09:13 Conrad (onboard): No.
+002:09:14 Gordon (onboard): Al, baby, you put that in Block.
+002:09:15 Bean (onboard): I can't - I can, now that I've cleaned out some of that junk.
+002:09:18 Gordon (onboard): [Garble] back to 296.
+002:09:21 Bean (onboard): Light flash, what's all that junk, [garble].
+002:09:27 Conrad (onboard): You sure don't hear those service module engines, but you ...
+002:09:29 Bean (onboard): I see - you see those RCS flash; there's another one.
+002:09:32 Conrad (onboard): That's got to be the S-IVB.
+002:09:34 Conrad (onboard): Yes. Everybody said they saw them.
+002:09:37 Gordon (onboard): I got a bunch of stars out my window, now. Let me see. Anybody I recognize? Upside down, looking out ...
+002:09:45 Conrad (onboard): That's the problem. I don't know what attitude I was in.
+002:09:48 Conrad (onboard): Looking south.
+002:09:49 Gordon (onboard): I couldn't believe all that [garble] looking - looking [garble].
+002:09:56 Bean (onboard): Why don't we get some string [garble]?
+002:09:59 Gordon (onboard): You want some - you want some string?
+002:10:01 Conrad (onboard): I want [garble].
+002:10:04 Gordon (onboard): Yes. Wait until after we get on the ...
+002:10:05 Gordon (onboard): ...just kidding, of course, right this minute, but ...
+002:10:07 Gordon (onboard): ...get on to the - to the LM.
+002:10:08 Bean (onboard):...get this out.
+002:10:09 Conrad (onboard): Hey, you know, this is neat. Oh, boy! That was a big one.
+002:10:11 Gordon (onboard): What was that? Lightning flashing on the ground?
+002:10:12 Conrad (onboard): No. It's - it's the APS.
+002:10:14 Gordon (onboard): Oh, the APS.
+002:10:16 Conrad (onboard): It looks funny, because you - Does look like you're horizontal, doesn't it? There's Capella.
+002:10:26 Bean (onboard): [Garble].
+002:10:36 Conrad (onboard): Hope the camera's ready .... launch with that eightball.
+002:10:42 Bean (onboard): Yes.
+002:10:44 Gordon (onboard): And all those lights on.
+002:10:45 Conrad (onboard): [Laughter].
+002:10:46 Gordon (onboard): I couldn't believe it.
+002:10:47 Bean (onboard): Yes.
+002:10:48 Gordon (onboard): I couldn't even read the pan - the panels. Hell, I said everything's on, Al ...
+002:10:50 Bean (onboard): You know one of my first ...
+002:10:51 Conrad (onboard): ...I said you got everything.
+002:10:53 Bean (onboard): I figured what had happened is that the Command Module had separated from the service module electrically. Something like that, I mean, you could [garble].
+002:11:02 Gordon (onboard): We're off a little.
+002:11:04 Conrad (onboard): Yes, I wandered off in yaw just a little.
+002:11:07 Bean (onboard): I wonder why they never gave us that one before.
+002:11:09 Gordon (onboard): Yes. SimSup never gave us that, at all.
+002:11:11 Conrad (onboard): I don't think they ever expected [garble] ...
+002:11:14 Gordon (onboard): They never imagined, [garble].
+002:11:16 Bean (onboard): The batteries didn't go, my circuits ...
+002:11:18 Conrad (onboard): I'll bet - I'll bet they ...
+002:11:19 Gordon (onboard): I didn't give you your PAD for that thing, did I, Al?
+002:11:22 Bean (onboard): What PAD, Dick?
+002:11:23 Gordon (onboard): Your PAD.
+002:11:24 Bean (onboard): Yes. I didn't take it, because I was trying to get some other things done.
+002:11:26 Gordon (onboard): Yes, mine was [garble].
+002:11:28 Bean (onboard): We're supposed to - How far are we from TLI?
+002:11:30 Gordon (onboard): An hour and 20 minutes.
+002:11:32 Conrad (onboard): No. We got longer than that. We're in 6, Timebase 6.
+002:11:35 Bean (onboard): Okay. I'm going to take time to look over these circuit breakers a little bit.
+002:11:38 Gordon (onboard): Hey, guys, I need a PAD because ...
+002:11:40 Conrad (onboard): What do you need?
+002:11:41 Gordon (onboard): Well, I want to use that - use that thing for my [garble].
+002:11:46 Bean (onboard): Okay. You want a countdown on this?
+002:11:47 Gordon (onboard): Well, let me read it to you. Where is it?
+002:11:50 Bean (onboard): Let me give you the PAD, right here.
+002:11:51 Gordon (onboard): There's that tuning fork again.
+002:11:53 Bean (onboard): Let me turn to the proper page, here.
+002:11:54 Conrad (onboard): I wish somebody could check down in that LEB [garble] before [garble].
+002:11:58 Bean (onboard): I'll go down there ...
+002:12:00 Conrad (onboard): No. No, you don't have to do that.
+002:12:01 Gordon (onboard): Why don't you stick around, here ...
+002:12:02 Conrad (onboard): Wait until after the TLI.
+002:12:05 Gordon (onboard): Hey, wait a minute. Hang on. Get back here. You got your belts all messed up, you got your [garble] Here you go.
+002:12:12 Gordon (onboard): What you got these pamphlets here for?
+002:12:14 Bean (onboard): I don't know.
+002:12:15 Conrad (onboard): What do you need on the PAD, Dick? Timebase 6 ...
+002:12:18 Gordon (onboard): I need ...
+002:12:19 Conrad (onboard):...starts at 2 hours 37 minutes and 43 seconds.
+002:12:22 Gordon (onboard): 37. Boy, we're coming [garble], now.
+002:12:25 Bean (onboard): Okay. Things look good here, gang. I need that, now. Look at that a little bit.
+002:12:35 Conrad (onboard): [Yawn] [garble].
+002:12:36 Bean (onboard): What [garble].
+002:12:37 Conrad (onboard): [Garble] any more stumbling blocks, today.
+002:12:38 Bean (onboard): TLI and get the LM out.
+002:12:40 Conrad (onboard): [Laughter].
+002:12:45 Gordon (onboard): And we got a couple of P22's to worry about, too.
+002:12:53 Bean (onboard): Oh, you got a problem. Got to Keep this Auto optics running. If you don't ...
+002:12:59 Gordon (onboard): I don't - I hope we don't dump the platform any more.
+002:13:02 Bean (onboard): Yes. Let's concentrate on that.
+002:13:08 Bean (onboard): What are you doing down there, Dick?
+002:13:11 Gordon (onboard): [Garble].
+002:13:13 Conrad (onboard): Hey, Dick Gordon.
+002:13:14 Gordon (onboard): What?
+002:13:15 Conrad (onboard): What do you want to do, start this COAS, Dick?
+002:13:19 Gordon (onboard): No, no - in that - in that and the optics [garble], I want to look at this [garble] get the whole field of view [garble]. There he is, the belt was right up the very edge of it.
+002:13:28 Conrad (onboard): Okay.
+002:13:29 Gordon (onboard): And the [garble] goes down here, and then [garble].
+002:13:35 Conrad (onboard): [Garble] down in the center of [garble].
+002:13:36 Gordon (onboard): Yes.
+002:13:37 Conrad (onboard): You hate to look at in the daytime.
+002:13:40 Conrad (onboard): Dick, you want - you want to start this program, now?
+002:13:41 Gordon (onboard): Not - not - not particularly. No.
+002:13:43 Bean (onboard): You want to take this - Did you all take off the [garble]?
+002:13:46 Conrad (onboard): No. Hell, just leave everything where it is. We can clean up this whole thing when we get the LM out and get on our way.
+002:13:52 Bean (onboard): That's a good idea.
+002:13:53 Conrad (onboard): We got until 5 o'clock tomorrow morning.
+002:13:56 Bean (onboard): Here, take the Flight Plan. Let me put that up.
+002:14:00 Conrad (onboard): Is that in the right place?
+002:14:02 Bean (onboard): I don't know.
+002:14:07 Gordon (onboard): I wonder if that erasable program got wiped out?
+002:14:14 Bean (onboard): I wonder why it took the fuel cells.
+002:14:17 Gordon (onboard): Just disconnected them, that's all it did.
+002:14:19 Bean (onboard): But why and nothing else?
+002:14:21 Gordon (onboard): I don't understand that either.
+002:14:22 Conrad (onboard): We must have gotten some horrendous spike on some [garble].
+002:14:25 Bean (onboard): That must have been what done it. They're both spiking simultaneously. Because you know, if you spike one up, it takes the fuel cell off the other.
+002:14:33 Conrad (onboard): Yes, and if you spike both of them, you got the whole shooting match. I think we just gave off a big static electrical discharge that just drained the spacecraft for about 2 seconds' worth of power, you know, and then it just fell off.
+002:14:49 Gordon (onboard): That must have been it.
+002:14:51 Conrad (onboard): I imagine they can sort it out on their telemetry, Dick.
+002:14:54 Gordon (onboard): Sure they can.
+002:14:55 Conrad (onboard): They'll see what - They'll know when those things came off.
+002:15:01 Gordon (onboard): I don't like this strap in the way up here, Al.
+002:15:02 Bean (onboard): Well, let's move it.
+002:15:03 Gordon (onboard): How about getting locked in for TLI?
+002:15:06 Bean (onboard): I thought we had an hour or something or more.
+002:15:08 Gordon (onboard): Would you believe that TLI is at - at 2 - Timebase 6 is what? 02:36?
+002:15:15 Conrad (onboard): Seven.
+002:15:16 Gordon (onboard): 02:37, so mine [garble] about 02:47.
+002:15:19 Bean (onboard): When are we going to start - when do we start burning? Nine minutes later?
+002:15:23 Conrad (onboard): Nine minutes after 02:37. 02:46.
+002:15:28 Bean (onboard): Do we have ground at [garble]?
+002:15:32 Conrad (onboard): We got to; we never got a Go.
+002:15:34 Gordon (onboard): Did you copy the ...
+002:15:35 Conrad (onboard): Carnarvon at 2 plus 25.
+002:15:38 Gordon (onboard): Did you copy these - the torquing angles anywhere?
+002:15:40 Conrad (onboard): I have them ready to give to the ground, right here.
+002:15:42 Gordon (onboard): Okay.
+002:15:44 Conrad (onboard): I think we roll first.
+002:15:46 Gordon (onboard): Oh, no, you're right. I'm sorry; I didn't see them [garble].
+002:15:50 Bean (onboard): Hey, Dick, let me look at your book a minute, please.
+002:15:54 Gordon (onboard): [Garble].
+002:15:55 Bean (onboard): Okay, Dick [garble] you look at yours, and I'll just make sure I got all these things put away.
+002:16:01 Gordon (onboard):[Garble] settling back in your couch, get your chair the way you want it.
+002:16:06 Bean (onboard): That's what I'm doing right this second.
+002:16:08 Conrad (onboard): You want this card up here any more?
+002:16:10 Gordon (onboard): No.
+002:16:11 Conrad (onboard): I even glanced at that baby. I said, "I can't believe that card's up there and that AC Bus 1 light's on" [laughter].
+002:16:20 Bean (onboard): What a way to start.
+002:16:23 Conrad (onboard): There's a better way.
+002:16:24 Bean (onboard): Yes.
+002:16:26 Conrad (onboard): Let's hope nothing's wrong with the LM or anything, [garble] that baby protected ...
+002:16:31 Bean (onboard): Protected, yes.
+002:16:32 Conrad (onboard): ...it has no power on it whatsoever, now.
+002:16:34 Gordon (onboard): Why?
+002:16:35 Conrad (onboard): Well, the umbilical drops out; and, when the umbilical drops out, it - it - it - it just goes dead on power until we get in.
+002:16:40 Gordon (onboard): Yes.
+002:16:41 Conrad (onboard): Yes - It doesn't have - it doesn't get battery power from the S-IVB. I thought it did, but it doesn't. Right, Bean-o?
+002:16:48 Bean (onboard): That's exactly right; it doesn't.
+002:16:50 Gordon (onboard): It's running on internal batteries right now, on low voltage.
+002:16:52 Conrad (onboard): Yes, it's running on internal batteries.
+002:16:55 Conrad (onboard): Uh-oh.
+002:16:56 Gordon (onboard): What's the matter?
+002:16:58 Conrad (onboard): [Garble] falling off the line [garble] battery.
+002:17:01 Bean (onboard): Yes, they can. They get in that automatic disconnect ...
+002:17:04 Conrad (onboard): Hey, they've got automatic disconnect just like those fuel cells. It's not like - it's not like this thing, here. We got those [garble] controls and everything.
+002:17:11 Gordon (onboard): [Garble] circuit breakers out of there [garble].
+002:17:14 Conrad (onboard): What would that mean?
+002:17:16 Bean (onboard): That would mean that your IMU wouldn't be as good as you thought, but I guess we've ...
+002:17:21 Conrad (onboard): I mean when we put power back on, we'll get power back on even if those ECAs dropped out, wouldn't we?
+002:17:26 Bean (onboard): Yes [garble] haven't thought of it yet.
+002:17:35 Conrad (onboard): When we undocked here, I guess we need to look at that to make sure that all these things are right for undocking. Nobody's been separating that stuff.
+002:17:47 Bean (onboard): [Garble] don't know.
+002:17:55 Gordon (onboard): TV camera's ready to go.
+002:17:57 Conrad (onboard): Okay, I can eat my sandwich.
+002:18:05 Gordon (onboard): High Gain antenna angles are [garble] verify operation [garble] - right after we turn around.
+002:18:16 Bean (onboard): Our RCS looks all right.
+002:18:18 Conrad (onboard): Look at that EL; it's pink.
+002:18:21 Bean (onboard): I'm going to look out the window and [garble].
+002:18:25 Conrad (onboard): Turned everything out? Okay.
+002:18:26 Gordon (onboard): Turned everything down.
+002:18:27 Bean (onboard): Everything looks good to me.
+002:18:30 Conrad (onboard): [garble] [Long pause].
+002:18:50 Bean (onboard): [Garble] out there.
+002:18:52 Gordon (onboard): Have you checked the COAS, Pete?
+002:18:54 Conrad (onboard): I didn't check that it works, but I'll turn it on right now and give - yes, zap, does it work! Whew [garble] down. Super. There you go.
+002:19:03 Bean (onboard): Is that on zero? Set it on zero [garble].
+002:19:09 Conrad (onboard): It's set on zero, and I presume I got it in the right detent.
+002:19:16 Gordon (onboard): [Garble].
+002:19:19 Conrad (onboard): Coas Power, Off. Boy, these struts are really loose in here, look at them.
+002:19:25 Gordon (onboard): Yes.
+002:19:26 Conrad (onboard): [Garble] no way [garble].
+002:19:32 Bean (onboard): Boy, there's no doubt in your mind when that thing lifts off. That bitch hauls out.
+002:19:36 Conrad (onboard): That's what it's supposed to do.
+002:19:38 Bean (onboard): It does. God!
+002:19:39 Conrad (onboard): It seems like it took them a year to say "Tower's clear," though.
+002:19:42 Bean (onboard): You were counting the seconds; I was watching the clock.
+002:19:45 Conrad (onboard): Yes, they called it way late.
+002:19:47 Gordon (onboard): Yes, about 12, 13 seconds ...
+002:19:48 Conrad (onboard): Roll program didn't begin until 32 seconds, either.
+002:19:52 Bean (onboard): Man alive, but it ...
+002:19:53 Gordon (onboard): Yes, it [garble].
+002:19:54 Conrad (onboard): [Garble] I looked at my clock; it said 43 minutes 15 seconds, and it was stopped. Big deal.
+002:20:00 Gordon (onboard): This one was still running [garble] rolling right along. We took it at 2 [garble].
+002:20:08 Conrad (onboard): I'd sure like to have somebody standing down there in the LEB and see whether it says it on that other clock. It'd make me feel a lot happier.
+002:20:15 Gordon (onboard): [Garble] check it [garble].
+002:20:23 Conrad (onboard): I'm going to have to force myself to get back to my old habits and relax.
+002:20:27 Gordon (onboard): Yes.
+002:20:28 Bean (onboard): Hand me that book a minute; I'll give it back to you.
+002:20:31 Conrad (onboard): Doing that, Al?
+002:20:32 Bean (onboard): Not yet.
+002:20:33 Conrad (onboard): Just relax your - turn loose. You can go to wherever your normal park position is.
+002:20:40 Bean (onboard): Yes, you do, you've got a different place [garble] over my head.
+002:20:50 Bean (onboard): Get that S-IVB broke in.
+002:20:52 Conrad (onboard): Glad your IU didn't glitch with it.
+002:20:55 Bean (onboard): That would have been something.
+002:20:57 Gordon (onboard): [Garble] PAD.
+002:20:59 Conrad (onboard): You know, an interesting thing - What's our oxygen? 60/40?
+002:21:04 Gordon (onboard): Yes.
+002:21:05 Conrad (onboard): That the way we lifted off?
+002:21:06 Gordon (onboard): Yes.
+002:21:07 Conrad (onboard): Well, you know that thing happened right around the time for Cabin Relief.
+002:21:11 Bean (onboard): [Garble].
+002:21:14 Gordon (onboard): How come that?
+002:21:15 Conrad (onboard): I don't know, Was that a water [garble]?
+002:21:17 Gordon (onboard): [Garble] supposed to do that.
+002:21:19 Conrad (onboard): What's the cabin?
+002:21:21 Gordon (onboard): [Garble] 15 seconds ...
+002:21:22 Bean (onboard): Hey, we're venting the cabin, aren't we?
+002:21:24 Conrad (onboard): We're venting the cabin. The vents are open.
+002:21:27 Bean (onboard): Yes, but we shouldn't be doing that, should we?
+002:21:28 Conrad (onboard): Yes, because it's now fallen down to where the - the ...
+002:21:32 Bean (onboard): We'll make it up ...
+002:21:33 Gordon (onboard): [Garble] starting to pick up the Reg now, isn't it?
+002:21:35 Conrad (onboard): Yes, your Waste Vent's open and - and that's normal to get the O2 High Flow in flight ...
+002:21:39 Gordon (onboard): Yes. Yes. You [garble] ...
+002:21:45 Conrad (onboard): You've got the Waste Vent open down there, and this is how we're purging the cabin. Okay?
+002:21:49 Gordon (onboard): Yes.
+002:21:50 Conrad (onboard): It happens to everybody.
+002:21:51 Gordon (onboard): Yes.
+002:21:53 Conrad (onboard): Except we can record that it happened at 02:21:30. Dick, did we ...
+002:22:01 Gordon (onboard): Here, reading the oxygen at - that come out before, we still bleeding off.
+002:22:04 Conrad (onboard): Yes. It's bleeding off.
+002:22:08 Gordon (onboard): [Garble] regulate right at the 5 - 5 point ...
+002:22:12 Conrad (onboard): Somewhere after TLI, I know I get down there and turn that baby - that Waste Vent off.
+002:22:16 Gordon (onboard): And I'll get them off [garble] - I'll get them off with the circuit breakers and you get over on ...
+002:22:32 Gordon (onboard): Yes, you close it after we get out of - do TLI.
+002:22:38 Conrad (onboard): Man, I recognize - Oh, there's my old buddies, Alpha and Beta Centaurus - Southern Cross. There's the Magellanic Cloud [garble].
+002:22:52 Gordon (onboard): There you go. Did you align the GDC after I ...
+002:22:58 Conrad (onboard): Yes. After the platform.
+002:23:04 Bean (onboard): [Garble] read out my ...
+002:23:06 Gordon (onboard): All right. I'm going to wait until we get Carnarvon; see if they want to do anything to the DSKY before I put the erasable figures in there.
+002:23:11 Bean (onboard): Okay.
+002:23:12 Conrad (onboard): You want the lights on, now?
+002:23:13 Gordon (onboard): No. Wait until [garble].
+002:23:23 Conrad (onboard): Man, those thrusters are bright.
+002:23:25 Gordon (onboard): That the APS?
+002:23:26 Conrad (onboard): [Garble].
+002:23:27 Bean (onboard): I thought it was the APS [garble] RCS check.
+002:23:31 Conrad (onboard): No.
+002:23:33 Gordon (onboard): Here, Al Bean [garble] getting [garble].
+002:23:51 Conrad (onboard): Okay, and the other thing is, I got to remember to get hot on those propellant valves.
+002:23:55 Gordon (onboard): Yes [garble].
+002:24:03 Gordon (onboard): Why don't we have - I thought - we want those [garble]?
+002:24:07 Conrad (onboard): No. You want the lights up? You want them up?
+002:24:08 Gordon (onboard): Yes. Sure ...
+002:24:09 Bean (onboard): Then let's have them up.
+002:24:11 Gordon (onboard): Check those after we get off [garble].
+002:24:15 Conrad (onboard): Okay. There we go; we got S-band signal [garble] lock these fellows in [garble].
+002:24:26 Gordon (onboard): You did align the GDC?
+002:24:27 Conrad (onboard): Yes. I'm going to Direct Ullage breakers in, right now.
+002:24:32 Gordon (onboard): [garble].
+002:24:33 Conrad (onboard): One.
+002:24:34 Gordon (onboard): [garble].
+002:24:35 Conrad (onboard): Two.
+002:24:36 Gordon (onboard): [Garble].
+002:24:37 Conrad (onboard): The event timer's still set at 51, and I'm beginning to get monitoring for Timebase 6. CMP to the couch. I'm waiting for all this good stuff to start.
+This is Apollo Control, and we are in contact with Apollo 12 through Carnarvon. Just a few minutes ago - here's the start of that pass.
+Your browser does not support the audio element. Download MP3 audio file.
+002:24:48 Conrad: Hello, Houston. Apollo 12 over Carnarvon.
+002:24:52 Carr: Apollo 12, Houston. Loud and clear.
+002:24:53 Conrad: Roger. I got some torquing angles for you.
+002:24:57 Carr: Roger. Would you do some more work for us? Tape recorder off and High Bit Rate.
+002:25:01 Conrad: Tape recorder off; High Bit Rate. We used star 01 star 45. Mr. Gordon is getting better. He had five balls, and we have a minus 0001.4 minus 0002[8]. and a plus 0001.8. And the time is 2 plus 20 plus 20 -And we had the O2 High Flow light come On, as advertised, at about 2 plus 21.
+002:25:05 Gordon: Try again, Al, now [Long pause.]
+002:25:06 Conrad (onboard): [Garble] Okay, gang, [garble] ...
+002:25:33 Gordon: That time on that torquing was 2 hours 00 minutes 20 seconds.
+002:25:37 Conrad: Yes, and excuse me. Got that one wrong.
+002:25:41 Gordon: And Houston, if you're not going to use the computer, I'd like to go ahead and put in the Timebase 6 program that we have in our erasable, just to watch it.
+002:25:49 Carr: Roger. The computer's all yours, and we copy your torquing angles: minus 0001.4, minus 0002.8, plus 0001.8. Done at 2 plus 00 plus 20, and copy your O2 high.
+Comm break.
+We are back live now."
+002:28:15 Carr: Apollo 12, Houston. The good word is you're Go for TLI.
+002:28:20 Conrad: Hoop-ee-doo! We're ready! We didn't expect anything else.
+002:28:29 Carr: We didn't train for anything else, Pete.
+002:28:32 Conrad: You better believe it.
+002:28:37 Gordon: I'll tell you, Jer, we were just wondering if we'd trained for that launch, either.
+Comm break.
+That was Dick Gordon."
+We have about 2 and a half minutes left in this pass at Carnarvon. We will not acquire Honeysuckle this time, but there are 2 Apollo range intrumented aircraft, acronym ARIA, between Australia and Hawaii; we will have voice communication with Apollo 12 through these aircraft however we will not have telemetry or tracking data at the start of the TLI burn, which will take place between Australia and Hawaii. The ARIA aircraft will be recording the data; they do not have the equipment to transmit in real time back to Houston; we'll pick up telemetry and tracking at Hawaii acquisition about half way through the Translunar Insertion burn. Ignition time for that burn, 2 hours, 47 minutes, 21 seconds, cut-off at 2 hours, 53 minutes, 5 seconds.
+002:31:15 Carr: Apollo 12, Houston.
+002:31:17 Conrad: CDR Go, Houston.
+002:31:19 Carr: Roger. We're going to be getting LOS shortly here now; you're going to have to go back to Low Bit Rate and put your tape recorder Forward. We got our old buddies Aria Bravo and Aria Alpha waiting for you, and you'll be getting them at 02:44:11, and they'll cover you for 6 minutes until we get Hawaii, and Hawaii A0S is 2 plus 50 plus 22.
+002:31:46 Conrad: 2 plus 50 plus 22. And that's during the burn, right?
+002:31:50 Carr: Roger.
+002:31:52 Conrad: Okey-dokey.
+Very long comm break.
+002:34:40 Conrad (onboard): Doesn't that make you nervous?
+002:34:44 Bean (onboard): Oh, I see; I was upside down.
+002:34:47 Gordon (onboard): Yes. Everybody's upside down ...
+002:34:48 Conrad (onboard): We're - we're upside down. We're going around the world upside down.
+002:34:52 Bean (onboard): Yes. The block's on the top, that's all.
+002:34:55 Conrad (onboard): What happened, Dick, is beyond my comprehension.
+002:34:57 Gordon (onboard): It's going to be fantastic.
+002:34:59 Conrad (onboard): We're all on our own. Okay. How's your - Hey, I've got my - Repress shows Off. That's what it's supposed to be. Service module ...
+002:35:09 Bean (onboard): It looks to me like the radiators and everything are working real well, Pete.
+002:35:14 Conrad (onboard): Glad something's working.
+002:35:19 Gordon (onboard): Really got to be careful you don't move the wrong switch [garble] switch [garble].
+002:35:22 Bean (onboard): [Garble] Yes, sir.
+002:35:24 Gordon (onboard): I want to get comfortable for a one-g [garble].
+002:35:29 Conrad (onboard): No, it takes a while to get to one g, Dick.
+002:35:32 Gordon (onboard): Huh?
+002:35:33 Conrad (onboard): Start out about three-quarters of a g. You get settled when you get ullage on.
+002:35:37 Gordon (onboard): Yes. I was just trying to see where my head was going to go.
+002:35:40 Conrad (onboard): Okay, 2 minutes 30 seconds. I'm surprised that the Sun is as far out on my left as it is.
+002:35:52 Bean (onboard): I am, too [garble].
+002:35:54 Gordon (onboard): You got the - you got the EMS all set, huh? [garble] ...
+002:35:57 Bean (onboard): You bet. The EMS is all set.
+002:35:59 Conrad (onboard): I can't hardly read it.
+002:36:00 Bean (onboard): I know it.
+002:36:01 Conrad (onboard): I got it up full bright. We got that lower shield around anywhere?
+002:36:04 Bean (onboard): Yes, we just put it away.
+002:36:06 Conrad (onboard): Well, forget it. Hey, where are we now - where - where - exactly where are we?
+002:36:13 Gordon (onboard): [Garble] Well, we're waiting for those lights to come on.
+002:36:16 Bean (onboard): We're - we're waiting [garble].
+002:36:17 Conrad (onboard): [Garble] Verb 24? We just passed Australia.
+002:36:19 Gordon (onboard): Oh, [garble] I missed Australia.
+002:36:22 Conrad (onboard): All right. We got 1 minute ...
+002:36:23 Bean (onboard): [Garble] not far enough [garble].
+002:36:25 Conrad (onboard): ...we got 1 minute and 20 seconds, here, to S-II light on. I got to get ready to start on this. Up, start, even, even, 51. Okay.
+002:36:35 Gordon (onboard): You don't start until you get [garble].
+002:36:37 Conrad (onboard): Light off.
+002:36:39 Gordon (onboard): Light off.
+002:36:44 Conrad (onboard): Lights are going to come on at 58 - Hey, it's going to be interesting to see whose pulse peaked out the most on that one. Man, I wouldn't - I wouldn't vote for mine at all. It probably hit 230 at ...
+002:36:56 Bean (onboard): Mine - They're all that high.
+002:36:57 Gordon (onboard): Mine - mine was probably right up there.
+002:36:59 Bean (onboard): I'll bet it was because you looked up there ...
+002:37:00 Gordon (onboard): Oh, I couldn't believe that.
+002:37:01 Bean (onboard): Nobody even read them. They were so ...
+002:37:02 Conrad (onboard): I said, "Al, they're all on.
+002:37:04 Bean (onboard): [Laughter] You know it's funny; all the simulating we've done, and they don't give us what we got up here.
+002:37:11 Conrad (onboard): They got to quit doing that [laughter].
+002:37:13 Gordon (onboard): They didn't give us that, either. They didn't miss [garble].
+002:37:17 Bean (onboard): Not my - Wasn't our fault. It wasn't my fault they missed it.
+002:37:20 Conrad (onboard): [Garble] I got - I got to hear those voice tapes off the DSE ...
+002:37:23 Bean (onboard): That's got a ...
+002:37:24 Conrad (onboard): ...they got to be spectacular because ... they'll be half voltage. [Laughter.] [garble].
+002:37:30 Bean (onboard): We got voltage on the buses [garble] ...
+002:37:32 Conrad (onboard): Quite [laughter].
+002:37:33 Bean (onboard): I didn't want to touch anything.
+002:37:34 Conrad (onboard): I know you didn't.
+002:37:35 Bean (onboard): Man, I was - I wanted to get up and - I was trying to keep [garble].
+002:37:38 Conrad (onboard): [Garble] Don't make it move because we're still flying.
+002:37:43 Gordon (onboard): Here we go.
+002:37:45 Conrad (onboard): Light on.
+002:37:47 Gordon (onboard):10 seconds, that light should go out [garble] got Timebase 6 [garble].
+002:37:53 Bean (onboard): Okay.
+002:37:56 Conrad (onboard): Okay, I'll get the clock running.
+002:38:00 Gordon (onboard): [Garble] light on.
+002:38:02 Conrad (onboard): Yes.
+002:38:06 Gordon (onboard): Okay.
+002:38:12 Conrad (onboard): [garble].
+002:38:20 Bean (onboard): That's got it [garble].
+002:38:24 Conrad (onboard): All right.
+002:38:25 Gordon (onboard): Okay.
+002:38:26 Conrad (onboard): Timebase 6, 51; start DET; Spacecraft. Control, check, SCS ...
+002:38:29 Gordon (onboard): Hey, Pete. Let me read this to you.
+002:38:31 Conrad (onboard): Yes, well, I'll read it with you; go ahead.
+002:38:34 Gordon (onboard): SCS, monitor the tanks. Delta-P, 36, 26, and watch your DSKY.
+002:38:39 Conrad (onboard): Okay, they're 36, 26 ...
+002:38:41 Gordon (onboard): That what you're talking about?
+002:38:42 Conrad (onboard): Yes.
+002:38:44 Gordon (onboard): Up Telemetry, Block, the Command Module; and Up, Block, the IU.
+002:38:49 Conrad (onboard): Okay.
+002:38:50 Gordon (onboard): ORDEAL, 300 Lunar.
+002:38:51 Conrad (onboard): Okay.
+002:38:52 Bean (onboard): Hey, we're in Translunar Inject, aren't we?
+002:38:54 Conrad (onboard): Yes.
+002:38:55 Bean (onboard): Okay.
+002:38:56 Conrad (onboard): Yes. 300 and it's Lunar.
+002:39:00 Gordon (onboard): Sure it's Lunar? Double sure?
+002:39:01 Conrad (onboard): Yes, yes.
+002:39:02 Gordon (onboard): Better make sure it's Lunar [garble].
+002:39:04 Conrad (onboard): Yes. 300.
+002:39:06 Gordon (onboard): Okay, and ball 1 is Orb Rate and ball 2 is ...
+002:39:09 Conrad (onboard): Orb Rate Inertial. Okay, now what do you want to do?
+002:39:14 Gordon (onboard): [Garble] 57.
+002:39:16 Bean (onboard): Slew FDAI?
+002:39:17 Conrad (onboard): No. I got to get a whole PAD, first.
+002:39:22 Bean (onboard): You ought to look out the window.
+002:39:24 Conrad (onboard): Yes, you better, you ain't going to see it again for a while. Start climbing away from it, here. Hey, it's great. They got little holes on about the ninth - eighth day. Quiet, isn't it?
+002:39:42 Gordon (onboard): Yes. You move fast.
+002:39:43 Bean (onboard): A lot faster than I thought.
+002:39:44 Conrad (onboard): Yes.
+002:39:45 Gordon (onboard): Really whistling along. Times goes [garble].
+002:39:55 Conrad (onboard): All right.
+002:39:59 Bean (onboard): You feel okay in your stomach and everywhere?
+002:40:00 Conrad (onboard): Who, me?
+002:40:01 Bean (onboard): Yes.
+002:40:02 Conrad (onboard): I'm hungry.
+002:40:03 Gordon (onboard): I am, too.
+002:40:04 Conrad (onboard): I'm starving to death.
+002:40:05 Gordon (onboard): I'm thirsty.
+002:40:06 Conrad (onboard): I just - I want - I want to take it easy. Wait until we get in that LM. We got all the rest of the day to chow down, get out of our suits ...
+002:40:15 Bean (onboard): Put all that stuff in the right place.
+002:40:16 Conrad (onboard): ...set up PTC.
+002:40:18 Bean (onboard): Sure [garble].
+002:40:21 Conrad (onboard): 353. Seven minutes until TLI.
+002:40:25 Gordon (onboard): The GDC off that far?
+002:40:27 Conrad (onboard): Yes, it's really bad in yaw. Am I aligning here, anywhere?
+002:40:34 Bean (onboard): No, I don't see those, Pete.
+002:40:35 Conrad (onboard): It really jerks in yaw, Dick. Look at that son of a gun, huh? I'm about a half degree out in yaw, here, and that thing's about 3 degrees off in yaw.
+002:40:44 Gordon (onboard): We can get it after your [garble] ...
+002:40:45 Bean (onboard): You know, it's funny; we've been sitting in here and not looking out, I feel like I'm kind of halfway upside down.
+002:40:49 Gordon (onboard): Yes. Your head's full. You feel like you've been on your feet all day.
+002:40:52 Bean (onboard): That's what I feel like; I feel like I'm kind of ...
+002:40:53 Conrad (onboard): Well, that's because you're never - never - in zero g in the airplane long enough that you - your ...
+002:40:59 Bean (onboard): Blood can [garble].
+002:41:00 Conrad (onboard): ...your heart's pumping ...
+002:41:01 Bean (onboard): Yes.
+002:41:02 Conrad (onboard): ...blood to your head at a - you know - at a ...
+002:41:03 Bean (onboard): Higher pressure.
+002:41:04 Conrad (onboard): ...higher pressure than it could normally do it, see, and you get - you'll - you'll get rid of that about tomorrow.
+002:41:10 Gordon (onboard): It'll come back ... Where are we on the clock?
+002:41:17 Conrad (onboard): 53:58.
+002:41:19 Gordon (onboard): Better get my hand over here where I can - you can see about as well on the - I'll get that pulled down a little bit.
+002:41:27 Bean (onboard): I'm kind of floating - on a new astronaut, that's pretty hard.
+002:41:32 Gordon (onboard): That's bad.
+002:41:34 Conrad (onboard): Yes.
+002:41:39 Bean (onboard): Okay.
+002:41:40 Conrad (onboard): There's an island down there.
+002:41:42 Bean (onboard): Yes? Where?
+002:41:43 Conrad (onboard): Right - right - We're going to pass over it in just a second. You can probably see it out Dick's window. Two of them: three of them.
+002:41:49 Bean (onboard): Oh, yes. Yes, yes. Beautiful.
+002:41:53 Conrad (onboard): Probably passing over the Fiji's.
+002:41:55 Gordon (onboard): Yes, I wouldn't be surprised ...
+002:41:57 Bean (onboard): [Garble] on one of those.
+002:41:59 Gordon (onboard): Somewhere down in there.
+002:42:02 Conrad (onboard): Black; isn't that sky black?
+002:42:04 Bean (onboard): Yes, it's black.
+002:42:17 Conrad (onboard): Okay. 50 - 54, 55 - 55 minutes ...
+002:42:30 Gordon (onboard): And you slew to 15.
+002:42:33 Conrad (onboard): Yes, I'm going to slew to 15, right now. Hold fast, loop - I just want to slew up a little bit, and see what I can get in the ballpark, here.
+002:42:55 Conrad (onboard): We go - Where do we go FDAI, Orb Rate?
+002:42:58 Gordon (onboard): Right there at first.
+002:42:59 Bean (onboard): Gee, it's 2 o'clock already.
+002:43:00 Gordon (onboard): Right at ignition.
+002:43:01 Bean (onboard): Huh?
+002:43:02 Conrad (onboard): Doesn't say anything about that in here.
+002:43:04 Gordon (onboard): Orb Rate. 59:59.
+002:43:08 Bean (onboard): I didn't get that.
+002:43:09 Conrad (onboard): Let me know when it's 59.
+002:43:12 Gordon (onboard): Right there, [garble], it's right there. Right at burn. 59:59, start ORDEAL torquing.
+002:43:19 Conrad (onboard): Let me know when it's 59, would you, Dick?
+002:43:21 Gordon (onboard): Yes.
+002:43:22 Conrad (onboard): It's 56.
+002:43:23 Gordon (onboard): 56. Yes. Okay.
+002:43:25 ARIA: Apollo 12 [garble].
+002:43:26 Gordon (onboard): It's ARIA.
+002:43:26 Carr: Apollo 12, Houston through Aria Bravo. How do you read?
+002:43:32 Conrad: [Garble] Apollo 12. How do you read, Houston?
+002:43:33 Bean (onboard): Your gain's down. They haven't locked on, yet, Pete. There, it's coming in.
+002:43:35 Carr: Read you loud and clear, Pete. [Long pause.]
+002:43:39 Conrad (onboard): Poor guy's out in the middle of nowhere, isn't he?
+002:43:40 Gordon (onboard): Yes.
+002:43:42 Bean (onboard): At 58, I'm supposed to go High Bit Rate and all that. What time is it now?
+002:43:45 Gordon (onboard): 56:20.
+002:43:46 Bean (onboard): Okay.
+002:43:48 Gordon (onboard): I'll read them out to you, Al.
+002:43:50 Bean (onboard): Okay [garble].
+002:43:55 Carr: Apollo 12, Houston through Aria. Over. [Long pause.]
+002:44:01 Conrad (onboard): You Entered, didn't you ...
+002:44:02 Bean (onboard): No. No. just standing by to Enter, Pete. Exactly 57.
+002:44:19 Conrad (onboard): [Laughter.] I can't [garble]. Every time I close my eyes, all I see are all these lights go on.
+002:44:26 Bean (onboard): Go ahead, Enter.
+002:44:27 Gordon (onboard): 57:15, [garble] reading on the ball.
+002:44:29 Bean (onboard): Check bias at 15 degrees; it is on the ball. I don't have to do a thing.
+002:44:30 Carr: Apollo 12, Houston through Aria. Over. [Long pause.]
+002:44:34 Conrad (onboard): Okay. At 58, we want a Noun 62 an SCS/TVC Servo Power to 1, AC 1 Main A, and 2, Off. And, Al Bean, you give me a Tape Recorder? High Bit Rate, Record, Forward, and a Command Reset.
+002:44:49 Bean (onboard): Okay. Standing by.
+002:44:52 Conrad (onboard): Okay.
+002:44:53 Gordon (onboard): I'm standing by, too. I'm going to pitch my ...
+002:44:55 Conrad (onboard): EMS, On. The - the S-IVB is pressurized.
+002:45:01 Gordon (onboard): The S-IVB is coming up [garble].
+002:45:02 Bean (onboard): Our PIPA bias looks okay. Good.
+002:45:08 Gordon (onboard): Is that 110, 110 ...
+002:45:10 Bean (onboard): Everything looks good, huh?
+002:45:11 Gordon (onboard): Not in too bad a shape.
+002:45:14 Bean (onboard): That - that - that booster did it, though.
+002:45:16 Carr: Apollo 12, Houston through Aria. How do you read?
+002:45:22 Conrad: Don't read you too well, Houston. How do you I read us?
+002:45:23 Conrad (onboard): Okay.
+002:45:24 Gordon (onboard): Our bias is good.
+002:45:24 Carr: Roger. I've got you now, Pete. You're kind of broken, though.
+Long comm break.
+002:45:25 Conrad (onboard): TVC Servo Power, AC 1, is on AC 1, Main A; and at 8 - 58:20, I'm going to EMS Mode, Normal.
+002:45:34 Bean (onboard): How about SCS/TVC Servo Power number 2?
+002:45:35 Conrad (onboard): I got to go to Operate ...
+002:45:37 Gordon (onboard): How about - monitor VI at ECO, okay.
+002:45:41 Conrad (onboard): Okay, Al, you got your ...
+002:45:42 Gordon (onboard): Servo Power, AC 1, Main A?
+002:45:44 Conrad (onboard): ...Tape Recorder, High Bit Rate, Record, Forward, Command Reset? EMS Mode is Normal.
+002:45:57 Conrad (onboard): ...Mode. Sep light's on at 36. Okay, S-IVB ullage starts right now. Anybody feeling the ullage?
+002:46:05 Bean (onboard): Not yet. Okay, 38, ullage.
+002:46:09 Gordon (onboard): Are you feeling the ullage?
+002:46:10 Bean (onboard): Yes.
+002:46:11 Conrad (onboard): Pitch should be 7 degrees at the roll - not quite.
+002:46:14 Bean (onboard): Okay.
+002:46:17 Conrad (onboard): Not 7 degrees yet, but it will be at 59.
+002:46:21 Gordon (onboard): [Garble] 59, gang.
+002:46:23 Gordon (onboard): Mark. 59.
+002:46:24 Bean (onboard): I don't feel any ullage.
+002:46:25 Gordon (onboard): Sep. Don't worry about it. S-II Sep light out. Not supposed to feel any ullage.
+002:46:34 Bean (onboard): Is that right?
+002:46:35 Gordon (onboard): I don't think we've [garble] yet.
+002:46:39 Conrad (onboard): Counting the other way. Why is that counting up? It's counting up instead of down there. Probably got a - wait a minute. 59 - should be 42, Sep light out; 55, S-IVB ullage ...
+002:46:50 Gordon (onboard): [Garble] we got a foot per second in there [garble] ...
+002:46:52 Conrad (onboard): Okay.
+002:46:53 Gordon (onboard): ...[garble].
+002:46:55 Conrad (onboard): 59:33.
+002:46:58 Gordon (onboard): Okay.
+002:46:59 Conrad (onboard): Sep light out at 42.
+002:47:01 Gordon (onboard): 59:55, FDAI pitch, 3 degrees.
+002:47:05 Conrad (onboard): Yes, at 55? Got Sep lights out at 42.
+002:47:09 Gordon (onboard): Okay. That's it, we're on our way.
+002:47:12 Conrad (onboard): Okay. 59, ullage, and 55, ullage stop - and my engine 1 light on.
+002:47:19 Gordon (onboard): Pitch is going to be 3 degrees.
+002:47:21 Conrad (onboard): Engine 1 light's On.
+002:47:22 Gordon (onboard): There it is.
+002:47:23 Bean (onboard): There it goes.
+002:47:24 Conrad (onboard): There you go.
+002:47:25 Gordon (onboard): Okay, settle down.
+002:47:26 Conrad (onboard): I got the switch in ...
+002:47:27 Gordon (onboard): [Garble].
+002:47:28 Bean (onboard): How do pressures look?
+002:47:30 Gordon (onboard): Pressures look beautiful. Listen to that baby.
+002:47:33 Conrad (onboard): Yes. Now, it's steering out to the right just like it always does.
+002:47:37 Gordon (onboard): You ought to look at it turn [garble].
+002:47:38 Bean (onboard): That's - that's fine.
+002:47:40 Gordon (onboard): Well, it's around.
+002:47:41 Conrad (onboard): Steering right back in.
+002:47:42 Gordon (onboard): Right back in. Yaw should be zero at 1 minute.
+002:47:47 Conrad (onboard): Yaw should be zero in 1 minute? Okay.
+002:47:48 Gordon (onboard): What's the g, about three-quarters?
+002:47:49 Conrad (onboard): It's reading about three-quarters, yes.
+002:47:53 Gordon (onboard): And ...
+002:47:56 Conrad (onboard): Okay.
+002:47:58 Gordon (onboard): Let's see. One minute, we should have zero degrees yaw - velocity looks good.
+002:48:05 Conrad (onboard): Did you ever key the Verb 62 to time?
+002:48:07 Gordon (onboard): Oh, okay. I'm sorry [garble].
+002:48:09 Bean (onboard): Not very much you can do, now.
+002:48:11 Gordon (onboard): I'm sorry [garble].
+002:48:13 Bean (onboard): My velocity [garble] ...
+002:48:14 Conrad (onboard): Stand by for my mark, and we'll be at zero yaw.
+002:48:17 Gordon (onboard): Okay [clears throat].
+002:48:18 Conrad (onboard): Mark.
+002:48:19 Gordon (onboard): Okay.
+002:48:20 Conrad (onboard): Zero yaw.
+002:48:21 Gordon (onboard): Fifty six seconds.
+002:48:22 Conrad (onboard): And there's 1 minute, and it's sliding out to the left, now. Just going along peachy-keeno. Tank pressures are beautiful.
+002:48:31 Gordon (onboard): [Garble].
+002:48:32 Bean (onboard): [Garble].
+002:48:34 Conrad (onboard): Al Bean, you're on you way to the Moon.
+002:48:37 Bean (onboard): Yes, you all can come along if you like.
+002:48:40 Gordon (onboard): All right.
+002:48:41 Conrad (onboard): [Garble] , but that's because I'm ...
+002:48:43 Bean (onboard): [Garble] Noun 62.
+002:48:45 Conrad (onboard): All right, what are our shutdown rules?
+002:48:47 Gordon (onboard): Six seconds, and it's late.
+002:48:49 Conrad (onboard): [Garble] 40 on the EMS, is that right?
+002:48:51 Gordon (onboard): No, no. Six seconds, the FDAI is changed.
+002:48:53 Conrad (onboard): FDAI is changed.
+002:48:54 Gordon (onboard): [Garble] reset [garble].
+002:48:57 Conrad (onboard): All right. Now, you tell me what the VI is.
+002:48:58 Gordon (onboard): 35.
+002:48:59 Bean (onboard): 35.
+002:49:00 Gordon (onboard): 420. Okay.
+002:49:03 Conrad (onboard): On a previous shutdown ...
+002:49:09 Gordon (onboard): Should have 87.
+002:49:10 Bean (onboard): That's it.
+002:49:12 Conrad (onboard): Plus 48.
+002:49:13 Gordon (onboard): [Garble].
+002:49:15 Conrad (onboard): Yawing out.
+002:49:16 Gordon (onboard): It's going to go a long ways out.
+002:49:18 Conrad (onboard): Yes.
+002:49:19 Gordon (onboard): [Garble] seconds and ...
+002:49:20 Conrad (onboard): We're at 2 minutes Dick.
+002:49:21 Gordon (onboard): Okay.
+002:49:22 Conrad (onboard): We should - we have about 3-1/2 degrees?
+002:49:23 Gordon (onboard): Got.
+002:49:25 Gordon (onboard): H-dot's good; altitude is good - a little high.
+002:49:28 Conrad (onboard): Okay.
+002:49:29 Gordon (onboard): Three minutes; we got 2 [garble], we're on our way.
+002:49:34 Conrad (onboard): Coming up towards a g.
+002:49:37 Bean (onboard): Looking good.
+002:49:38 Conrad (onboard): About 5 degrees. Now, I'll give you a hack at 02 plus 30.
+002:49:41 Gordon (onboard): Okay.
+002:49:43 Conrad (onboard): And, Al, you can watch the S-band. We ought to lock up over Hawaii here at ...
+002:49:46 Bean (onboard): I'm watching it right now.
+002:49:48 Gordon (onboard): ...[garble] is coming up.
+002:49:49 Conrad (onboard): Yes, I hear them, right now.
+002:49:51 Bean (onboard): What g's are we pulling?
+002:49:52 Gordon (onboard): One pitching over, about ...
+002:49:53 Bean (onboard): I feel like I'm pulling 50.
+002:49:55 Conrad (onboard): Oh, one g [garble] about 9 - 9.5.
+002:49:58 Gordon (onboard): Okay, hang on; here we go. Pete, [garble] give me 02:30.
+002:50:00 Conrad (onboard): Oh, I'm sorry; we've passed it [garble] ...
+002:50:01 Gordon (onboard): Okay, that's good [garble].
+002:50:03 Conrad (onboard): 02:40. I'll give you a 3-minute mark.
+002:50:04 Gordon (onboard): We're okay. I'll go - I'll go Orb Rate.
+002:50:08 Conrad (onboard): [Garble] high - a little bit high on the ball - up about 1 degree.
+002:50:10 Gordon (onboard): Yes. That's good, that's good enough. Supposed to do it for the ...
+002:50:13 Conrad (onboard): Yes.
+002:50:14 Gordon (onboard): It'll be high; it'll come across.
+002:50:15 Conrad (onboard): Yes, I know. Looks great. Here comes 3 minutes.
+002:50:18 Gordon (onboard): Okay ...
+002:50:19 Conrad (onboard): On my mark ...
+002:50:21 Conrad (onboard): Mark.
+002:50:22 Gordon (onboard): We're right on velocity; we're right on it; we're right on H-dot; we're right on altitude.
+002:50:25 Bean (onboard): [garble] kind of rattling the tops of this [garble].
+002:50:28 Gordon (onboard): Yes.
+002:50:29 Conrad (onboard): That's what it's supposed to do. Okay, we're almost out to 10 degrees in yaw.
+002:50:33 Carr: Apollo 12, Houston through Hawaii. How do you read?
+002:50:38 Conrad: Roger; loud and clear. It's steaming right down the pike.
+We have data and thrust is Go. Burn looks good."
+002:50:45 Conrad (onboard): Okay. Mark at 03:30.
+002:50:46 Gordon (onboard): Okay.
+002:50:51 Conrad (onboard): Mark.
+002:50:52 Gordon (onboard): That's right on the money.
+002:50:53 Conrad (onboard): Ten degrees.
+002:50:54 Carr: Apollo 12, Houston in the blind. Your trajectory and the S-IV[B] both look good.
+002:50:59 Conrad: Roger. They look good here.
+002:51:00 Carr: Roger. We're reading you weak but clear now, Pete.
+002:51:03 Conrad: Okay. Everything's sticky-poo.
+002:51:06 Carr: Good show.
+Flight dynamics says we're right on. Telemetry data shows velocity 31,195 feet per second climbing rapidly. Altitude now 130 nautical miles. We're getting tracking data now in addition to telemetry. Predicted cut off looks nominal guidance reports. Velocity 32,700.
+002:51:09 Gordon (onboard): Okay what's the time? Four minutes, please.
+002:51:12 Conrad (onboard): Okay. I'll give you a 4-minute hack. 5 seconds. What's the [garble] ...
+002:51:20 Gordon (onboard): Everything's okay.
+002:51:21 Conrad (onboard): Mark.
+002:51:22 Conrad (onboard): Four minutes.
+002:51:23 Gordon (onboard): Okay. Right on, right on, right on.
+002:51:25 Gordon (onboard): ...[garble], it's gorgeous.
+002:51:26 Bean (onboard): We're about 3 miles higher in altitude.
+002:51:28 Conrad (onboard): Okay. We're at one g, now, Al.
+002:51:35 Gordon (onboard): Okay, here we go.
+002:51:37 Conrad (onboard): Hey, that was an absolutely nominal burn time.
+002:51:41 Gordon (onboard): Five plus 44. I didn't notice that - that [garble].
+002:51:46 Conrad (onboard): Huh? Okay, I'll give you a 4 plus 30 mark.
+002:51:49 Gordon (onboard): Okay. I'll be glad to hear that [garble].
+002:51:51 Conrad (onboard): Mark.
+002:51:52 Conrad (onboard): Four plus 30.
+002:51:53 Gordon (onboard): Okay. Velocity's good; H-dot's good; altitude's good.
+002:51:59 Conrad: And Houston, 4 plus 30, everything's Go in here.
+002:52:03 Carr: Roger, Pete. Your cut-off looks nominal.
+33,000 feet per second. Altitude 153 nautical miles.
+002:52:06 Conrad: Looks good here. [Pause.]
+002:52:07 Bean (onboard): [Garble].
+002:52:08 Conrad (onboard): That's all right. That's all right. Watch you don't bang it.
+002:52:11 Gordon (onboard): Watch that - watch that handle.
+002:52:12 Conrad (onboard): Yes. That's - they're all right. Okay, I'll give you a 5-minute mark? We're up at 15 degrees...
+002:52:16 Carr: You're right smack on the line, Pete.
+002:52:18 Conrad: Okay, sir. [Long pause.]
+002:52:18 Gordon (onboard): Five degrees, 5 minutes, Pete.
+002:52:20 Conrad (onboard): Okay.
+002:52:21 Conrad (onboard): Mark.
+002:52:22 Conrad (onboard): Five minutes.
+002:52:23 Gordon (onboard): 833, 739; we're just a little hot - a little hot.
+002:52:32 Bean (onboard): That's good.
+002:52:37 Conrad (onboard): More pitch there. Pitch is way down.
+002:52:38 Gordon (onboard): That's good. It'll do that; then it'll come back.
+002:52:41 Conrad (onboard): Okay. All right.
+002:52:42 Gordon (onboard): That's the way it's supposed to go.
+002:52:43 Conrad (onboard): All right.
+002:52:44 Conrad (onboard): Pitched down about 3 degrees ...
+002:52:45 Gordon (onboard): Yes, it'll come back.
+002:52:46 Conrad (onboard): All right.
+002:52:47 Gordon (onboard): [Garble].
+002:52:48 Conrad (onboard): I'll give you a 5 plus 30.
+002:52:50 Gordon (onboard): Okay.
+002:52:51 Conrad (onboard): Mark.
+002:52:52 Conrad (onboard): Five plus 30.
+002:52:53 Gordon (onboard): We're okay. We're right on it.
+002:52:55 Conrad (onboard): We only got about 400 feet to go.
+002:52:57 Gordon (onboard): Yes. 35 [garble] ...
+002:52:59 Conrad (onboard): 37, 38, 39, 40, 41 ...
+002:53:03 Gordon (onboard): ...should be shutdown.
+002:53:04 Conrad (onboard): Boom.
+002:53:05 Conrad (onboard): Shutdown.
+002:53:06 Gordon (onboard): [Garble].
+002:53:07 Conrad (onboard): Okay. All right. Stand by 1 minute.
+002:53:08 Gordon (onboard): Okay, [garble] ...
+We lost the approaching 30."
+4,000 feet per second now, and altitude 70 nautical miles. This burn continuing to go extremely well. 35,000 feet per second altitude 187 nautical miles, cut-off.
+002:53:09 Conrad: Okay, we have shutdown. The EMS reads plus 10.2; the DSKY reads 35413, plus 05003, plus 01917.
+002:53:26 Carr: Roger, Pete. Copy 10.2 on your EMS. DSKY is 35413, plus 05003, and plus 01917.
+002:53:39 Conrad: Roger. [Long pause.]
+We were predicting a cut-off velocity of 35,420 feet per second. The onboard reading shows 35,413 per second. We showed cut-off altitude onboard as 191.7 nautical miles. We had predicted 195 altitude is now 203 nautical miles. Velocity will start to drop of now while altitude continues to climb very rapidly.
+002:55:22 Carr: Apollo 12, Houston.
+002:55:24 Conrad: Go ahead, Houston.
+002:55:26 Carr: Roger. Would you give us IU UPTLM to Accept? We want to close down a valve on your - lox valve on your O2 H2 burner.
+002:55:34 Conrad: Okay. It's in Accept. [Long pause.]
+Altitude now 403 nautical miles. Velocity is down to 34,426 feet per second.
+002:56:16 Carr: Apollo 12, Houston. You can go back to Block; we've got your valve closed.
+002:56:20 Conrad: Okay.
+002:56:24 Carr: And we're talking at you through Goldstone.
+002:56:27 Conrad: Roger. [long pause.]
+And the weight now down to 138,000.
+002:56:57 Carr: Apollo 12, Houston. Your cut-off looked real good. We'll spend a little time now evaluating your midcourse for you.
+002:57:05 Bean: Okay. Earth is starting to get nice and round now; can't see it all, but we can see a lot of it
+That sounded like Al Bean.
+002:57:14 Carr: Roger. [Long pause.]
+002:58:00 Carr: Apollo 12, Houston. Your attitude maneuver time is 03:08:04, and it'll be finished at 03 plus 12 plus 04; and we're looking at a separation time of 03 plus 18 plus 04.
+002:58:19 Conrad: Copy.
+Altitude now 781 nautical miles, velocity down to 32,824 feet per second. Getting rid of all that propellant in the S-IVB has brought the weight down to 138,389 pounds. That's total vehicle weight. We are at 3 hours into the mission now; we passed up a separation time to the crew when they separate from the S-IVB at 3 hours, 18 minutes, 4 seconds. Altitude now 1,023 nautical miles, velocity 31,900 feet per second. This is Apollo Control at 3 hours, 6 minutes into the mission. We will continue to stay up live through these next activities, separation coming up in about 12 minutes; crew busy getting ready for that, followed by turn around and the Command and Service Module docking with the Lunar Module; this activity should be on TV. The Flight Plan calls for the crew to activate the TV camera at an elapsed time of 3 hours, 28 minutes, with about an hours TV pass there during and after the docking maneuver to the Lunar Module and extracting it from the spacecraft Lunar Module adapter attached to the S-IVB Stage. We'll continue to stand by for any conversation between the crew and the ground. Altitude now is 1,987 nautical miles, velocity 28,872 feet per second. The booster engineer reports the S-IVB has started maneuvering toward the separation attitude. Apollo 12 is 2,222 nautical miles from the Earth now; velocity 28,253 feet per second.
+Day 1, part 1: Launch and Reaching Earth Orbit
+Journal Home Page
+Day 1, part 3: Transposition, Docking and Extraction

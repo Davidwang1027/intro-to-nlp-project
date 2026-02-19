@@ -1,0 +1,371 @@
+Apollo 15 Flight Journal - Day 10, part 6: Trans-Earth Injection
+Day 10, part 5: Subsatellite Launch
+Journal Home Page
+Day 10, part 7: Settling down for the Journey Home
+Apollo 15
+Day 10, part 6: Trans-Earth Injection
+Corrected Transcript and Commentary Copyright © 2000-2025 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2025-02-22
+Index to events
+TEI-74 manoeuvre PAD
+222:42:54 GET
+Preliminary TEI-75 contingency manoeuvre PAD
+222:47:13 GET
+Map Camera photo PAD
+222:49:49 GET
+Ignition, Trans-Earth Injection manoeuvre
+223:48:45 GET
+Shutdown, Trans-Earth Injection manoeuvre
+223:51:07 GET
+The crew of Apollo 15 are on their penultimate orbit around the Moon and have just released a small subsatellite into lunar orbit. It will to continue gathering data on the particles and fields around the Moon for the coming year. Their next task is to prepare for Trans-Earth Injection (TEI).
+Seen from the vantage of the Moon, this 2-minute, 20-second burn of the SPS engine will add about 3,000 feet per second, or about 1 kilometre per second, to their speed around the Moon, enough to put them on an escape trajectory that will also happen to bring them to Earth. It is then interesting to view Trans-Earth Injection from an Earth-based perspective. It so happens that the Moon orbits Earth at about 1 kilometre per second. Therefore, from Earth's point of view, what TEI does is to bring Endeavour to a near halt. The Moon then continues on its path around Earth and slides out from underneath the spacecraft, which then begins to fall towards Earth.
+The CapCom on the current shift in Mission Control is Joe Allen who is about to read up the final details of the TEI burn.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+222:41:02 Allen: And, Endeavour, when you're ready, I've got a coming-home PAD to read to you. [Pause.]
+222:41:10 Irwin: Stand by one, Joe.
+222:41:11 Allen: Okay, Jim. And we would like Accept, please, on the computer. [Pause.]
+222:41:21 Irwin: Stand by one.
+Comm break.
+Mission Control want to upload a revised state vector and a target (TIG and Delta-V) for the upcoming TEI manoeuvre.
+222:42:25 Scott: A very pretty satellite out there. We get about two flashes per rev off each boom, and it seems to be rotating quite well. Very stable.
+222:42:37 Allen: Very good, Dave. Thank you. [Long pause.]
+222:42:50 Irwin: And, Joe, I'm ready to copy that coming-home PAD.
+222:42:54 Allen: Okay, Jim. I'm ready to read it to you. It's TEI-74, SPS/G&N. The weight, 35768; plus 0.57, plus 0.88; 223:48:45.05; plus 2945.2, minus 0761.3, minus 0171.4; all zips on roll, pitch and yaw; [Pause.] Noun 44 is NA, and plus 0022.1; 3046.8, 2:21, 3028.5; 37; 224.3, 30.5; 053, down 10.3, right 3.1; plus 26.11, minus 157.97; 1084.1, 36179; and the GET, 294:58:34. GDC Align, Vega and Deneb; 102; 178; 028. Four jets, 12-second ullage. And, we'd like Accept, please. And I'm standing by for the readback. Over.
+Interpretation of the TEI-74 PAD is as follows:
+Purpose: This is the second and final of two TEI-74 PAD's. It incorporates the latest tracking data, the results from the shape burn, and the reduction of weight from the subsatellite deployment. Most of the values have changed, but only in very small amounts.
+System: The manoeuvre will use the Service Propulsion System, and the primary Guidance and Navigation system.
+CSM Weight (Noun 47): 35,768 pounds (16,221 kilograms).
+Pitch and yaw trim (Noun 48): +0.57° and +0.88°. This is an initial pointing direction for the SPS nozzle so that the engine's thrust will act through the calculated centre of mass of the spacecraft. Once the burn is established, automatic control of the engine's gimbals will maintain the optimum thrust direction to minimised unwanted rotation due to misalignment of the thrust vector with the spacecraft's centre of mass.
+Time of ignition, TIG (Noun 33): 223 hours, 48 minutes, 45.05 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +2,945.2 (+897.7); y, -761.3 (-232.0); z, -171.4 (-52.2). The large positive x component shows that this burn would be prograde, i.e. with their orbital motion, increasing their velocity so that they escape the gravitational pull of the Moon. The y component indicates that the plane of their orbit would be changed, as would be expected to take them away from their highly inclined orbital plane to one that includes Earth.
+Spacecraft attitude: Spacecraft attitude will be zero for all axes because the alignment of the guidance platform matches the required spacecraft attitude for the burn.
+HA, expected apogee of resulting orbit: N/A. The trajectory is a path between two worlds so there is no meaningful apogee.
+HP, expected perigee of resulting orbit: 22.1 nautical miles (40.9 km). A trajectory that passes over Earth at such a low altitude must enter the atmosphere.
+Delta-VT: 3046.8 fps (928.7 m/s). This is the total velocity change imparted by the burn.
+Burn duration or burn time: 2:21.
+Delta-VC: 3028.5 fps. This figure is entered into the EMS Delta-V counter to allow backup control of the SPS engine. It is lower to account for the tail-off characteristics of the engine.
+Sextant star: 37 (Nunki, or Sigma Sagittarii) visible in sextant when shaft and trunnion angles are 224.3° and 30.5° respectively.
+Boresight Star: 53. The boresight star gives the crew an additional attitude check by use of the COAS (Crew Optical Alignment Sight) mounted in one of the spacecraft windows. Note that this star is not one of the stars in the usual star list.
+COAS Pitch Angle: Down, 10.3°.
+COAS X Position Angle: Right, 3.1°.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.
+Expected splashdown point (Noun 61): 26.11° North, 157.97° West.
+Range to go at the 0.05 g event: 1,084.1 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05 g event: 36,171 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+Predicted GET of 0.05 g event: 294 hours, 58 minutes, 34 seconds.
+GDC Align stars: Stars 36, Vega (in Lyra) and 43, Deneb (in Cygnus) are to be used to align the gyro assemblies if it is not possible to use the guidance platform for this purpose.
+GDC Align angles: x, 102°; y, 178°; z, 28°.
+SPS propellants are settled in their tanks by firing the plus-X thrusters on all four of the Service Module RCS quads for 12 seconds.
+222:45:44 Irwin: Okay; you have Accept, and here's the readback, Joe. TEI-74, SPS/G&N; 35768; plus 0.57, plus 0.88; 223:48:45.05; plus 2945.2, minus 0761.3, minus 0171.4; all zips for roll, pitch and yaw; HP, plus 0022.1; 3046.8, 2:21, 3028.5; 37, 224.3, 30.5; 053, down 10.3, right 3.1; plus 26.11, minus 157.97; 1084.1, 36179; 294:58:34. Vega and Deneb; 102; 178; 028. Four jet for 12 seconds.
+222:46:54 Allen: Okay, Jim. The readback is right on. I've got a TEI-75 preliminary PAD and a Flight Plan update PAD, when your ready. [Pause.]
+222:47:11 Irwin: Okay, I'll take TEI-75.
+222:47:13 Allen: Okay. SPS/G&N, TEI-75; 35768; plus 0.57, plus 0.88; 225:48:44.08; plus 2981.4, minus 0807.2, minus 0145.1; 000, 002, 001; all the rest, NA. Ullage, four jet, 12 seconds. Over. [Pause.]
+This TEI-75 PAD is interpreted as follows:
+Purpose: In the event the crew does not perform the Trans-Earth Injection during this pass, another attempt can be made on the next orbit.
+System: The manoeuvre will use the Service Propulsion System and the primary Guidance and Navigation system.
+CSM Weight (Noun 47): 35,768 pounds (16,221 kilograms).
+Pitch and yaw trim (Noun 48): +0.57° and +0.88°.
+Time of ignition, TIG (Noun 33): 225 hours, 48 minutes, 44.08 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +2,981.4 (+908.7); y, -807.2 (-246.0); z, -143.1 (-43.6). The velocity components are expressed with respect to the local vertical frame of reference.
+Spacecraft attitude: Roll, 000°; Pitch, 002°; Yaw, 001°.
+The slight change in attitude reflects the fact that the Moon has gone further around in its orbit, taking the spacecraft with it.
+222:48:20 Irwin: Roger. TEI-75, SPS/G&N; 35768; plus 0.57, plus 0.88; 225:48:44.08; plus 2981.4, minus 0807.2, minus 0145.1; 000, 002, 001. Four jets for 12 seconds.
+222:48:47 Allen: Sounds good, Jim. Thank you. And I'm standing by for your call for the Flight Plan update.
+222:48:56 Irwin: Go ahead, Joe; I'll take that.
+222:48:58 Allen: Okay, Jim. And it's your computer [i.e. the upload of a state vector and target have been completed and the crew can take control of the computer again]. The Flight Plan update begins at 223 plus 51. And change the "Verb 49 maneuver" from the numbers listed to the numbers "127, 270, 030." Over. [Pause.]
+222:49:35 Irwin: Read you. For the Verb 49 that occurs at 223:51, change the numbers to "127, 270 and 030."
+The Verb 49 that Joe Allen refers to is to manoeuvre the spacecraft to an attitude appropriate for photographing the lunar surface. The reference to "it's your computer" is that the update to the computer for the TEI-74 burn had been completed. This update included both an updated state vector and the TIG and velocity vectors for the TEI burn.
+Once the crew is heading home after the TEI burn, they are to turn the spacecraft around and photograph the receding Moon. Performed only minutes after the TEI burn, and only a few minutes before the spacecraft emerges from the Moon's shadow, this will give the crew an excellent vantage for their last closeup views of the surface.
+222:49:49 Allen: That's correct. And the next entry is at 224 plus 00. Change the line "Omni Delta" to read "Omni Charlie."
+When the spacecraft comes into view of Earth, communication will be via one of the omni-directional antennae mounted around the periphery of the Command Module. However, their revised attitude after TEI means that instead of using antenna D, they should use C as it will be more favourably positioned.
+Allen (continued): And I have a Map Camera photo PAD to be copied at 224 plus 10. The T-start, 224 plus 03 plus 00. T-stop, MSFN cue. The next entry is listed at 224 plus 15. And change the Map Camera, Image Motion requirement to read talk - "Talkback to barber pole plus two steps/Off." And then I have three deletions. At 224 plus 21, delete the "Verb 49." At 224 plus 23, delete "Map Camera Track, Retract." And 224 plus 27, delete "Map Camera/Laser Experiment covers, Closed." And the last item is an addition. At 224 plus 40, add "Verb 49 maneuver, 127, 295, and yaw is 030, and the High Gain Antenna angles, pitch, 23; yaw, 229." Over.
+222:52:17 Irwin: Okay, Joe. Going back to 224:00, that'll be "Omni Charlie" instead of "Omni Dog." Then, on that Map Camera photo PAD, its 224:03:00 and stop on MSFN cue. Then down to 224:15, on the "Map Camera, Image Motion" will - it'll be "barber pole plus two" instead of "three". At 224:21, we'll delete the "Verb 49 maneuver." At 224:23, we'll delete the "Map Camera track." At 224:27, delete "Map Camera/Laser Experiment Covers, Closed." And at 224:40, do a "Verb 49 maneuver to 127, 295, 030; High Gain, pitch, 23; yaw, 229."
+222:53:08 Allen: Right on, Jim. Thank you.
+Long comm break.
+Among the various requests for Mapping Camera configurations, a change is being made to manoeuvre the spacecraft to another attitude, perhaps to keep the quickly-receding Moon in view.
+As TEI approaches, a series of checks are begun to ensure the burn occurs without a hitch. Guided by page 1-16 of the CSM Systems Checklist, some contamination control is carried out by rigging up the vacuum cleaner and going around the cabin interior to remove residual dust and dirt left over from Dave and Jim's return from the lunar surface. Special attention is paid to those compartments that hold items returned from the Moon, and any dead pockets of air that would not be stirred by the normal motion of cabin air and where dirt might collect.
+The Caution and Warning system is checked as per page 1-17. Two positions of the Lamp Test switch on panel 2 of the Main Display Console allow lamps behind the Master Alarm and all the other C&W indicators above panel 2 to be tested.
+Next, checks are made of the monitored status of both the Service Module and the Command Module RCS (Reaction Control System) packages, according to the steps on the bottom of page 1-1. Talkback indicators are checked to be gray. For each SM RCS quad, temperatures are taken of the package itself and the helium tank that pressurises it. The pressures of that tank and of the manifold that feeds it to the propellant tanks are also noted, as are the indicated propellant quantities. Checks of the CM RSC are simpler, being concerned with only the helium temperature and pressures of its twin, redundant systems.
+The last system check called for at this time in the Flight Plan is of the all-important SPS as per the top of page 1-1 of the CSM Systems Checklist. The temperatures of the propellant tanks are monitored and if the reading is outside limits, appropriate heaters are switched on or off. The pressures of three tanks that are crucial to the operation of the SPS are noted. A helium tank pressurises the propellant tanks (source pressure: 27.9 MPa or 3,900 psia) and two tanks of nitrogen activate the valves that feed propellant to the engine (source pressure: 20 MPa or 2,900 psia). The pressures within the propellant tanks themselves are checked to read within 170 to 195 psia (1.17 to 1.34 MPa). Valve and switch positions are checked and the propellant quantities are noted along with the "unbalance" quantity, a measure of oxidiser consumption with respect to fuel.
+This is Apollo Control at 222 hours, 53 minutes. We've passed up the final maneuver PAD for the Trans-Earth Injection burn behind the Moon on this revolution to bring Endeavour and its crew home. Ignition time: 223 hours, 48 minutes, 45.05 seconds. Delta-V, change in velocity of 3,046.8 feet per second [928.7 m/s]; duration of the burn: 2 minutes, 21 seconds.
+This is Apollo Control. Acquisition time, given a good TEI burn, will be 224 hours, 3 minutes, 3 seconds. Acquisition time if there is not a burn will be 224 hours, 15 minutes, 30 seconds.
+This is Apollo Control at 222 hours, 56 minutes. The Canary Island tracking station reports it has acquired the satellite that was ejected by the Endeavour.
+As occurred with the Lunar Orbit Insertion (LOI) burn, the precise time of AOS gives a very good indication of the quality of the burn. If TEI does not occur, the spacecraft will remain in orbit 110 km above the surface and AOS will occur 45 minutes after LOS, as usual. The TEI burn will accelerate the spacecraft, but not only this, it will cause its altitude to quickly rise as it begins its coast to Earth. Therefore, AOS will occur much earlier (12 minutes, 27 seconds earlier to be exact if the burn runs to its full extent). Intermediate burns will give intermediate times which would result in highly undesirable trajectories so Mission Control will be looking for AOS to occur exactly at the earlier time, and if not then, not until the later time.
+222:56:47 Allen: Good ship, Endeavour, be advised that our tracking stations have acquired the satellite.
+222:56:54 Scott: Oh, very good.
+Long comm break.
+Flight Plan page 3-337.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+223:01:02 Allen: Apollo 15, Houston.
+223:01:07 Irwin: Go ahead.
+223:01:09 Allen: Roger. Jim, this is a comment for you. When I was reading the Flight Plan update to you, we noticed that you might be coming up on something not too clear in the Flight Plan and it involves the long list of steps between 224 plus 00 and 224 plus about 15. And there are a number of steps in there that have to be accomplished before the T-start time on the Map Camera photo PAD. It may be, you - be you'll want to start on a few of them, I guess, a little early. Over.
+223:01:51 Irwin: Okay, thank you, Joe. [Long pause.]
+Since the T-start time is at 224:03, they need to get the mentioned steps between 224:00 and 224:15 completed earlier than planned.
+The crew is now running the first of two computer programs necessary for their TEI burn. Program 30 (titled, "External Delta V") is used to verify or modify the "target" parameters for an upcoming thrusting manoeuvre. The "target" is simply the time of ignition, and the required velocity change in the X, Y and Z axis. Normally, the ground uplinks this information, and did so during the TEI-74 PAD at 222:44. This uplink saves the crew the task of manually updating the data, certainly very useful during the busy moments before a burn.
+Parameters for many manoeuvres, such as midcourse corrections, LOI and TEI are calculated on the ground, and not onboard the spacecraft. Using computer processing capabilities far exceeding the Command Module Computer, an optimal solution is calculated from many possible ones. From these calculations, only the time of ignition and velocity change along the X-axis of the CSM need to be relayed to the onboard computer.
+Program 30 takes these two parameters and uses them to compute the necessary initial conditions for the burn, and the resulting orbital parameters from the burn (admittedly a nonsensical thing when leaving lunar orbit). Subsequently, having manoeuvred to the required attitude and checked the alignment of the spacecraft by sighting on a star with the sextant, they will run P40 which will orchestrate the Guidance, Navigation and Control System throughout the execution of the TEI burn itself.
+223:02:29 Allen: Endeavour, this is Houston. We'll be requesting Omni Delta when you lose the uplink.
+223:02:42 Irwin: Rog; Omni Delta [garble].
+Very long comm break.
+And Endeavour is maneuvering to the burn attitude now.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+223:16:53 Allen: Hello, Endeavour; this is Houston. [Pause.]
+223:16:59 Irwin: Houston, Endeavour. Go.
+223:17:05 Allen: Roger, Endeavour. I have three requests for you. The first, the Optics is in the CMC Mode, and we've noticed it's drifting off. We'd like you to drive it manually back to a value less than 10 degrees in Trunnion and then zero it. We're also waiting for a DAP load and a P40. And I have a guaranteed last correction to your Flight Plan, when you're ready.
+223:17:40 Scott: Okay, number 1, we've still got to make the star check. We'll take care of that, and I hope - I hope you've already seen the DAP load and the P40, but we'll take a look at it again for you. [Long pause.]
+223:18:12 Irwin: Okay, Joe. We - I'm ready to take that last change to the Flight Plan.
+223:18:16 Allen: Okay, Jim; stand by one. [Long pause.]
+223:18:31 Allen: Okay, Jimmy, this is an easy one. At 224 plus 14, we want you to delete the line that reads "Map Camera, Image Motion to On, talkback barber pole in three to five seconds, then gray." Delete that line, please. Over.
+223:18:55 Irwin: Okay, that's an easy one. I'll delete that line that says "Map Camera, Image Motion, On, talkback barber pole in three to five seconds, then gray."
+223:19:03 Allen: Rog, Jim. Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+223:23:05 Allen: Hello, Endeavour; this is Houston.
+223:23:12 Scott: Okay, Houston, Endeavour. Go.
+223:23:14 Allen: Roger. Dave, Al and Jim, be advised you are Go for Trans-Earth Injection. Set your sails for home. We're predicting good weather, a strong tail wind, and we'll be waiting on the docks. Over.
+223:23:32 Scott: Okay. Thank you very much, Houston. We'll see you around the corner.
+223:23:37 Allen: Rog. We'll be watching.
+Very long comm break.
+This is Apollo Control at 223 hours, 24 minutes. We're 5 minutes away from Loss Of Signal. 23 minutes, 53 seconds from ignition on TEI.
+Just before Loss of Signal, The crew set up the computer for the TEI burn. This program, used anytime the Service Propulsion System is fired, is known as Program 40 (titled, "SPS Thrusting"). Taking its target values from an earlier execution of Program 30 or one of the backup rendezvous programs, the necessary attitude is computed, using the latest IMU orientation as a reference. When started, P40 manoeuvres the spacecraft to the attitude required for the burn. Next, the crew aligns the Stabilization and Control System (SCS) to the IMU as a backup reference, and performs checks on the engine gimbal systems.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control at 223 hours, 29 minutes. We've had Loss of Signal. Endeavour is 18 minutes, 48 seconds away from Trans-Earth Injection. The entire backup crew is at the CapCom console here in the control center as is the Director of Flight Crew Operations, Donald K. Slayton and his deputy, Colonel Tom Stafford. We'll come back up several minutes prior to acquisition time. At 223 hours, 30 minutes; this is Mission Control, Houston.
+Flight Plan page 3-338.
+Certainly the most important burn of the mission is about to be performed, and no reminder is necessary that if the engine fails to fire, there is no way for the crew to return home. The criticality of the manoeuvre is evident when reviewing the mission rules for the burn. In other, less critical, firings of the SPS, any problem with the engine, attitude control or guidance system, the burn is terminated. As with the insertion into lunar orbit, if there are problems with the spacecraft, the goal is to attempt to complete the burn. Even if the trajectory home may be imperfect because of attitude problems, or if the engine prematurely shuts down and needs to be restarted, these errors are usually correctable during the scheduled midcourse corrections. If, however, the burn was allowed to be terminated early, for example, the spacecraft could be placed in a high lunar orbit, or on a path that will not intersect with Earth.
+As the time of ignition approaches, P40 counts down the time on the DSKY, and five seconds prior to ignition, flashes Verb 99, requesting the crew's approval to continue. By pressing "Pro" on the DSKY, approval is granted, and the engine is allowed to fire at the scheduled time using only the secondary (B) control system, with the primary (A) being brought online soon after to take the engine to its rated thrust.
+During the burn, the time remaining is displayed on the DSKY, as well as the velocity to go (counting down to zero), and the accumulated velocity (counting up to the initial value of velocity to be gained). Ten seconds before the planned shutdown, the A control system is taken offline in case the electrical short in it causes the engine to over-burn. When the computer has determined that the required Delta-V has been reached, the burn is complete and the engine's B control system is automatically shut down. The crew brings up a display of velocity errors remaining and manually trims them using the translational hand controller. Exact accuracy not always required in all axis, indeed, for the TEI burn, velocity in the X and Z axes need only be accurate to plus or minus 0.2 feet per second (0.06 m/s), and the Y axis need not be trimmed at all. In reality, these are surprisingly small tolerances; from an approximately 3,000 fps burn, an error of 0.2 fps is less than 0.001 per cent!
+Flight Plan page 3-339.
+223:47:33 Worden (onboard): You get the other ones. Thrust A and B to Normal after the Pro.
+223:47:37 Scott (onboard): Roger.
+223:47:45 Worden (onboard): One minute.
+223:48:11 Scott (onboard): And there's the average g coming up. Twenty nine seconds.
+223:48:18 Worden (onboard): EMS Mode, Normal...
+223:48:19 Scott (onboard): Normal.
+223:48:22 Worden (onboard): Twelve seconds ullage.
+223:48:33 Worden (onboard): Ullage.
+223:48:37 Scott (onboard): Ready for the Pro?
+223:48:38 Worden (onboard): Ready for the Pro.
+223:48:39 Scott (onboard): Okay, 99 Proing.
+223:48:45 Irwin (onboard): B valves.
+223:48:46 Scott (onboard): There it goes.
+223:48:48 Worden (onboard): Oop! Steady.
+223:48:49 Irwin (onboard): ...4, 5, 6...
+223:48:50 Worden (onboard): A's on.
+223:48:51 Irwin (onboard): A valves.
+223:48:53 Worden (onboard): Looks good.
+223:48:57 Scott (onboard): EMS and G&N agree.
+223:48:59 Worden (onboard): Good.
+223:49:04 Scott (onboard): Tracking 217 now. GDC looks good.
+223:49:11 Worden (onboard): Man alive! Watch them push.
+223:49:13 Scott (onboard): Powering down now. Okay, we trim here in about - just short of 100.
+223:49:18 Worden (onboard): Okay. DSKY and EMS look good, at about 50.
+223:49:24 Scott (onboard): On the dead band?
+223:49:26 Worden (onboard): Roger.
+223:49:34 Worden (onboard): DSKY and EMS are running about 35.
+223:49:45 Scott (onboard): GDC looks good.
+223:49:46 Irwin (onboard): One minute ....
+223:49:56 Scott (onboard): Tracking 219.
+223:50:01 Irwin (onboard): Are we going to decrease on the - flow valve, Al?
+223:50:06 Scott (onboard): Okay, EMS and DSKY are about 50. You got &bout a minute to go.
+223:50:11 Worden (onboard): Roger.
+223:50:16 Scott (onboard): Tracking 220. EMS and DSKY look good.
+223:50:37 Scott (onboard): Tracking 221. Looks very good.
+223:50:40 Worden (onboard): Okay.
+223:50:41 Scott (onboard): Twenty-five seconds to go.
+223:50:43 Worden (onboard): Roger.
+223:50:46 Scott (onboard): Twenty seconds to go.
+223:50:52 Irwin (onboard): Okay, here comes the count. 10, 9...
+223:50:59 Scott (onboard): ..., Al?
+223:51:00 Irwin (onboard): ...8, 7, 6, 5, 4, 3, 2, l, 0...
+223:51:07 Worden (onboard): Thrust, Off; automatic.
+223:51:11 Scott (onboard): Okay, babe, your trim's to .2. Forget the Y.
+223:51:15 Worden (onboard): Wait. Forget the Y?
+223:51:16 Scott (onboard): No, you - X and Z, forget the Y.
+223:51:18 Worden (onboard): Okay. We'll let .2 ... again. Okay, Jim.
+223:51:25 Irwin (onboard): Okay. I'm ready, 1, 2, 3, 4 - TVC Servo Power 1 and 2, Off.
+223:51:33 Worden (onboard): Off.
+223:51:34 Irwin (onboard): Main Bus Ties coming Off.
+223:51:55 Scott (onboard): Right on 221. Right down the tube.
+223:51:58 Worden (onboard): Yes. Good act.
+223:52:02 Scott (onboard): Yes...
+223:52:04 Worden (onboard): I'd swear ...
+223:52:05 Scott (onboard): ...
+223:52:06 Irwin (onboard): Okay, Al, EMS Function, Off.
+223:52:08 Worden (onboard): Off.
+223:52:09 Irwin (onboard): EMS Mode, Standby.
+223:52:10 Worden (onboard): Standby.
+223:52:11 Irwin (onboard): RHC and THC, locked.
+223:52:12 Scott (onboard): Locked.
+223:52:13 Irwin (onboard): Dead band, Max.
+223:52:14 Worden (onboard): Max.
+223:52:15 Irwin (onboard): Translation Control Power, Off.
+223:52:16 Worden (onboard): Off.
+223:52:17 Irwin (onboard): ROT Control Poewr, Direct, two, Off.
+223:52:18 Worden (onboard): Direct, Off.
+223:52:19 Irwin (onboard): BMAG Mode, three, Rate 2.
+223:52:20 Worden (onboard): Rate 2.
+223:52:21 Irwin (onboard): CB Direct Ullage, two, open.
+223:52:22 Scott (onboard): Open.
+223:52:23 Irwin (onboard): CB SPS, Pitch 1 and Yaw 1, open.
+223:52:26 Worden (onboard): Yaw l, open.
+223:52:27 Irwin (onboard): CB SPS Pilot Valves, Main B, open.
+223:52:30 Scott (onboard): B...
+223:52:31 Worden (onboard): Main A and Main B, both open.
+223:52:33 Irwin (onboard): Okay, CB EMS, two, open.
+223:52:34 Scott (onboard): They're open.
+223:52:35 Irwin (onboard): Okay. PCM Bit Rate going Low.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control at 224 hours, 1 minute. We're now about 2 minutes away from reacquiring radio contact with Endeavour, assuming the Trans-Earth Injection burn went as planned. That 2-minute and 21-second burn with the Service Propulsion System engine was targeted to increase the spacecraft's velocity by 3,046.8 feet per second [928.7 m/s] and would give us a splashdown in the Pacific Ocean about 285 [nautical] miles [528 km] north of Hawaii at 295 hours, 11 minutes, 35 seconds. We're about 1 minute now from a scheduled acquisition time.
+We're about 30 seconds from our expected acquisition time and the spacecraft velocity at this point should be about 7,500 feet per second [2,300 m/s]. We do expect that the communications will be noisy, when we do regain radio contact, the spacecraft will be using the small Omni antennas and it'll be about 30 minutes before we have the High Gain Antenna up, which will give us the stronger signal strength. And we do have Acquisition of Signal.
+224:04:05 Parker: Apollo 15, Houston. Over.
+224:04:08 Scott: Hello, Houston. Endeavour's on the way home with a burn status report for you.
+224:04:15 Parker: Roger. Sounds good. Standing by.
+224:04:20 Scott: Roger. Ignition was on time. Burn time was 2 plus 21. No trim. Our residuals were minus 0.2, plus 0.6, and plus 0.2. Delta-VC was minus 16.7; fuel, 2.35; oxidizer, 2.2; the unbalance was about minus 25. And what a smooth burn that one was.
+Interpretation of the burn status report is as follows:
+The burn was on time, at 223:48:45, and lasted for the expected 2 minutes, 21 seconds. At the end of the burn, the total velocity error was about -0.2, +0.6 and +0.2 fps (-0.06, +0.18 and +0.06 m/s) in the X, Y and Z axis, respectively. Rules for the burn require that the X and Z components be accurate to 0.2 fps (0.06 m/s), and that errors in the Y-axis need not be trimmed. Delta-VC is a measure of the velocity to be changed as displayed by the EMS. Since that system does not take into account the tail-off thrust from the engine and had a lower Delta-V entered into it, a figure of -16.7 fps (5.1 m/s) is to be expected. Based on propellant readouts on panel 3 of the Main Display Console, the remaining fuel and oxidiser amounts to 2.35% and 2.2% respectively. The Propellant Utilization Gauging System, or the PUGS, tells Jim that the engine burned 25 pounds of oxidiser less than would be required to maintain a mixture ration of 1.6.
+224:04:49 Parker: Roger. Sounds very good to us, Dave. [Pause.]
+224:05:01 Scott: Just can't beat these rocket engines for traveling.
+224:05:05 Parker: Should hope not.
+Very long comm break.
+That was Dave Scott passing the burn report back to CapCom Bob Parker and Scott reporting the burn almost precisely as planned. Burn time; 2 minutes, 21 seconds and other residuals so low that he did not even have to trim them.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control. As a result of what appeared to be a near perfect Trans-Earth Injection burn, we predict that the impact point and splashdown time will be as predicted. Again, the splashdown location is about 285 [nautical] miles [528 km] north of Hawaii, the targeted coordinates are 157 degrees, 58 minutes west, 26 degrees, 7 minutes north and the predicted splashdown time is 295 hours, 11 minutes, 35 seconds. There will be several opportunities for mid-course corrections en route home. Those will be primarily for corridor control, to put the spacecraft in the proper entry corridor. Changing the flight path angle is required to get that proper entry angle. There will be a change of shift press briefing. It will be in the briefing room, the MSC News Center Briefing Room, and we expect that that will begin in about 15 minutes at about 5 pm Houston Time.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+This is Apollo Control. Now 27 minutes after performing that trans-Earth burn. Apollo 15 is about 940 nautical miles [1,741 km] above the Moon, And the spacecraft velocity dropping off rapidly, we're down now to 6,500 feet per second [2,000 m/s] from the approximately 8,500 feet per second [2,600 m/s] velocity after the burn was performed. The Flight Activities Officer reported that the crew should have a good view of the Moon out of their spacecraft windows and we recall from the television transmission that we got during this portion of the flight, I believe it was on Apollo 10, they should have a very spectacular view of the lunar surface receding rapidly below them.
+Tom Stafford, the commander of Apollo 10, was very keen on the use of television cameras on Apollo and made special efforts to get a colour camera into his spacecraft as he relates on pages 121 to 122 of his biography 'We Have Capture'. Soon after 'Charlie Brown' had emerged from behind the eastern limb, Stafford began to beam images of the receding Moon. The geometry of their trajectory even allowed them to send live images of the far-side crater Tsiolkovsky (128°E).
+Scott, from the 1971 Technical debrief: "We turned around to take a look at the Moon, and that was one of the nicest views we had the whole trip - knowing that we were on the way home, and getting to see all the terminators from the Moon. We made a number of comments, that we recorded, on what we saw. It was quite obvious that we were going straight up. You could see the results of the burn immediately. There was no question that we had a significant change in our velocity."
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+224:20:10 Parker: Apollo 15, Houston. Over. [Pause.]
+224:20:17 Scott: Houston, 15. Go.
+224:20:18 Parker: Roger. Two questions. One, we notice you have A/C roll jets selected. I guess we aren't sure whether you have B - A/C roll jets selected on DAP, we aren't sure whether you have A/C or B/D selected on the panel. [Pause.]
+224:20:41 Worden: Okay. Al's checking them over now. [Long pause.] Okay, A/C, you're selected.
+224:20:57 Parker: Okay, and could we pry out of you guys any comments on the Moon as you leave?
+224:21:06 Scott: Well, we're almost speechless looking at this thing. It's amazing. Looks like we're going straight up; and we're leaving, there's no doubt about that. And we're right on the terminator. It shows very distinctly all the topography - all the topographic highs and lows. And we can see some major rilles. And we noticed one large lava filling within a depression, with domes very prominent within the lava fill. [Pause.] Oh, it's just really pretty spectacular. We have one crater almost below us that has a flat floor with radial rilles and circumferential rilles extending from the central peaks. I think we saw that as we flew over.
+224:22:05 Parker: Roger; copy. Sounds beautiful.
+Scott, from 2004 mission review: "You get pretty familiar with it, comfortable with it, and when you leave it, it's sort of like, oh my, we're leaving. Going home. That's the good news. But it's the same thing as being on the surface. You sort of hate to leave. Sort of like going to a holiday, and the holiday's over and you gotta leave, and you've been in the warm sunshine in, you know, Morocco or Spain or somewhere or France or whatever. You're leaving a holiday. You gotta go home. You get to go home so, it was an old friend."
+Woods, from 2004 mission review: "And was it good for the soul, going there."
+Scott, from 2004 mission review: "Mmm, it's a esoteric kind of thing. That's a much longer, esoteric, if you will, discussion. Who knows?"
+During Endeavour's 110-km orbit, a typical Mapping Camera session between passing the sunset and sunrise terminators would typically take 145 frames. This works out at 25 seconds between shots. With Endeavour now rising away from the Moon, the spacecraft is orientated so that the Mapping Camera can photograph the receding Moon. The following movie has been produced by sequencing 375 of these shots. By replaying the Mapping Camera images at 24 frames per second, an apparent speed increase of 600-times is achieved. The video represents 2.6 hours of time.
+H.264 MP4 video file.
+In this video, north is to the bottom right and we are viewing the Moon's eastern hemisphere. One of the images from this sequence was scanned for the book 'Full Moon' by artist Michael Light who has kindly donated a version to the journal. This has much better detail than the scans from the Arizona State university site.
+Metric Camera image, perhaps AS15-M-2776, as scanned and manipulated by Michael Light for the book 'Full Moon' - Image donated to the Journal by Michael Light.
+This photograph encompasses an entire hemisphere and the major visible features include the crater Humboldt in the centre. Note the dark patches on either side of its floor. Mare Smythii (Smyth's Sea) is the dominant dark feature near the top of the image. This formation is barely visible from Earth as it straddles the equator and the 90°E meridian. It's appearance to the top of this image indicates the southerly extent of Endeavour's trajectory away from the Moon.
+224:22:10 Scott: It's really spectacular. The elevation - the topography on the ridge line is quite clear, and, of course, all the features near the terminator stand out quite well because of the shadows. And we're busily taking pictures so maybe we can bring some of it back for you to see.
+224:22:29 Parker: Be looking for it in three or four days.
+224:22:35 Scott: Rog. It's really spectacular though, and there's no question that we're leaving. As a matter of fact, the first glimpse we got, it was quite obvious that we're on the way. [Pause.]
+As they depart, they are snapping photographs with the Hasselblads on four magazines (TT, S, RR and Q) using four different lenses (60, 80, 250 and 500mm). This photography will continue in bursts until about 225:50.
+With a little bit of mathematics and some knowledge of real-world measurements, it is possible to determine the approximate distance from the Moon that some of these photos were taken. Known values are the radius of the Moon (1737.1 km), the dimensions of the film gate for a Hasselblad camera (55.5 mm with no Réseau plate and 52.55 with), and the focal lengths of the lenses used, based on information in the photo index. The number of pixels across a scanned frame can be measured to yield the dimensions of a single pixel and therefore the diameter of the Moon's image on the film can be determined. This then allows the distance to the Moon to be determined. For images that only show part of the Moon's limb, the full circle can be extrapolated to give an approximate diameter for those images also.
+The initial images are on magazine TT with a 60mm lens fitted. Apollo 15 was about 750 to 850 nautical miles (1,400 to 1,580 km) at this time. The bluish artefacts are reflections of the spacecraft's folded fluorescent lights in the window.
+AS15-88-12007 - View towards lunar south pole. Crater Jenner is the distinctive crater with a central peak lower right and Vallis Schrödinger left of centre - Image by NASA/Johnson Space Center.
+AS15-88-12008 - View towards lunar south pole. Crater Jenner is the distinctive crater with a central peak lower centre, and Vallis Schrödinger is left of centre - Image by NASA/Johnson Space Center.
+AS15-88-12009 - View towards lunar south pole. Crater Jenner is the distinctive crater with a central peak lower centre, and Vallis Schrödinger is left of centre - Image by NASA/Johnson Space Center.
+Endeavour has reached 1,000 nautical miles [1,850 km] from the Moon at 224:15. Another image is taken on magazine TT and then there is a flurry of photography on magazines Q and S. All of these appear to be from the same altitude.
+AS15-88-12010 - View towards lunar south pole. Crater Jenner is the distinctive crater with a central peak below centre, crater Humboldt is bottom right and Vallis Schrödinger is on the terminator left of centre - Image by NASA/Johnson Space Center.
+The next seven images shown here are from magazine Q using an 80-mm (normal angle) lens. These are heavily masked by the CM hull implying that the photographer is having difficulty getting a good view of the scenery. In this view looking south, Vallis Schrödinger is visible right on the terminator as it cuts across Sikorsky. The mare-filled craters that make up Mare Australe are seen to the lower right.
+AS15-96-13078 - View towards lunar south pole including Vallis Schrödinger near the terminator - Image by NASA/Johnson Space Center.
+AS15-96-13079 - View towards lunar south pole including Vallis Schrödinger near the terminator - Image by NASA/Johnson Space Center.
+AS15-96-13080 - View towards lunar south pole including Vallis Schrödinger near the terminator - Image by NASA/Johnson Space Center.
+AS15-96-13081 - View towards lunar south pole including Vallis Schrödinger near the terminator - Image by NASA/Johnson Space Center.
+AS15-96-13082 - View towards lunar south pole including Vallis Schrödinger near the terminator - Image by NASA/Johnson Space Center.
+AS15-96-13083 - View towards lunar south pole including Vallis Schrödinger near the terminator - Image by NASA/Johnson Space Center.
+AS15-96-13084 - View towards lunar south pole including Vallis Schrödinger near the terminator - Image by NASA/Johnson Space Center.
+Fourteen images are also taken around this time (224:15) on magazine S using an 80mm lens. These photographs look more towards the slowly revealing near side.
+AS15-94-12849 - View towards lunar near side including the prominent ray crater Tycho - Image by NASA/Johnson Space Center.
+AS15-94-12850 - View towards lunar near side including Maria Crisium, Fecunditatis, Nectaris, Tranquillitatis and Serenitatis - Image by NASA/Johnson Space Center.
+AS15-94-12851 - View towards lunar near side including Maria Crisium, Fecunditatis, Tranquillitatis and Serenitatis - Image by NASA/Johnson Space Center.
+AS15-94-12852 - View towards lunar north pole including Maria Crisium, Fecunditatis, Smythii and Marginis - Image by NASA/Johnson Space Center.
+AS15-94-12853 - View towards eastern limb including Mare Smythii and Mare Marginis - Image by NASA/Johnson Space Center.
+AS15-94-12854 - View towards eastern limb including Mare Smythii and crater Humboldt - Image by NASA/Johnson Space Center.
+AS15-94-12855 - View towards lunar south pole including Mare Australe - Image by NASA/Johnson Space Center.
+AS15-94-12856 - View towards eastern limb including Maria Tranquillitatis, Nectaris, Fecunditatis and Smythii - Image by NASA/Johnson Space Center.
+AS15-94-12857 - View towards lunar near side including Maria Crisium, Fecunditatis, Nectaris, Tranquillitatis and Serenitatis - Image by NASA/Johnson Space Center.
+AS15-94-12858 - View towards lunar north pole including Maria Crisium, Fecunditatis, Smythii and Marginis - Image by NASA/Johnson Space Center.
+AS15-94-12859 - View towards lunar north pole including Maria Crisium, Fecunditatis, Smythii and Marginis - Image by NASA/Johnson Space Center.
+AS15-94-12860 - View towards eastern limb including Maria Crisium, Fecunditatis, Smythii and Marginis - Image by NASA/Johnson Space Center.
+AS15-94-12861 - View towards eastern limb including Maria Crisium, Fecunditatis, Smythii and Marginis - Image by NASA/Johnson Space Center.
+AS15-94-12862 - View towards eastern limb including Mare Smythii and Mare Marginis - Image by NASA/Johnson Space Center.
+224:22:51 Gordon: That's a pretty good view after all those days of going around and around, isn't it Dave?
+Dick Gordon, the backup Commander and someone who knows about orbiting the Moon on Apollo 12 has come on the loop.
+224:22:57 Worden: Yeah, boy.
+224:23:02 Worden: Looks like you're going straight out, Dick.
+224:23:04 Gordon: Yep. Reminiscing for me. Thank you.
+224:23:10 Scott: Although, I'll tell you, we never got to see half of what we passed over, I'm sure. There's just so much up there. [Pause.]
+224:23:21 Gordon: Well, I'll tell you, Dave, I'm not so sure you guys didn't get at least your share, or maybe a little more. Spectacular.
+224:23:28 Scott: Rog. [Long pause.]
+That was Dick Gordon reminiscing with Dave Scott there. Gordon was backup commander for Apollo 15 and also was..."
+224:23:57 Scott: Well, I guess our orbital geologist up here just figured out which way we were. I guess we were sort of momentarily disoriented there, because south is up, and we're looking right up and down the terminator. So I guess we're upside down looking at new territory that we haven't seen during the flight. [Long pause.]
+224:24:49 Scott: Jim just said "Gee, maybe I ought to look out my window." and, by golly, on his window he's looking up - he's looking up to the north. As a matter of fact, out window number 5 now, you can get a full half - half Moon view. [Pause.] And you can see it all in one big gulp, and boy, what a gulp. [Long pause.]
+Endeavour's 1,300 [nautical] miles [2,400 km] from the Moon now.
+Four images are taken on magazine Q using the 80mm lens, before the lens is exchanged for the 250mm. The view is better than the previous efforts looking towards the south pole and the bluish patches in the photos are caused by reflections of the spacecraft's fluorescent lights on the window glass. Mare Australe is better shown and Humboldt is the large crater dominating the lower centre of the images.
+AS15-96-13085 - View towards lunar south pole including Vallis Schrödinger near the terminator, crater Humboldt and Mare Australe - Image by NASA/Johnson Space Center.
+AS15-96-13086 - View towards lunar south pole including Vallis Schrödinger near the terminator and Mare Australe - Image by NASA/Johnson Space Center.
+AS15-96-13087 - View towards lunar south pole including Vallis Schrödinger near the terminator and Mare Australe - Image by NASA/Johnson Space Center.
+AS15-96-13088 - View of eastern limb including Mare Australe and crater Humboldt - Image by NASA/Johnson Space Center.
+The boom carrying the Mass Spectrometer is deployed about now to sample the particles in the vicinity of the spacecraft. The instrument will be left to outgas for four hours, to be switched on when the crew settle for their rest period.
+224:25:34 Parker: We'll look at Tycho, now, before too long. [Pause.]
+224:25:44 Scott: That's a good point; we can't see it yet. [Long pause.]
+224:26:27 Worden: Houston, 15.
+224:26:29 Parker: Go ahead, 15.
+224:26:33 Worden: Okay, Bob, I'm looking from Humboldt straight south now, and, in fact, you can draw a line between Humboldt and the - and a great ditch or scarp to the south [Vallis Schrödinger]. And there's quite a change in the - in the light level or the intensity of the albedo in - between those two areas. And it looks like there's some - you know - fairly smooth fresh lava flows throughout that area. And, in fact, we noticed that while we were in orbit also, that in several of those areas around Humboldt there, and to the north of Humboldt, and to the east of Humboldt, that the flows in some of the craters there - (And they're quite distinct flows, you can see where they've lapped up against the sides, and you can also see where they've come - where they've spilled down over the sides, sort of reminiscent of the Coso Hills flow) - You can - we looked at these flows and realized that they looked fresh. And yet they had a lot more - the crater count was a lot higher on them than it was on the surrounding terrain. And this flow that we're - kind of looking at now looks - it's a very large area, and it looks like it's just filled - seeped into some craters down there, some of the large craters. It looks much fresher in color. It hasn't - it doesn't look like it has been worked up as much. The craters that pit the lava flow are much sharper than they are, say further to the east. But the count seems to be much higher; the crater count seems to be much higher, even here.
+224:28:17 Parker: Copy Al. Very interesting.
+Comm break.
+Two photographs are taken on magazine TT using a 60mm lens; the first at a distance of about 1,400 nautical miles [2,600 km] and the second at about 1,700 nautical miles [3,150 km].
+AS15-88-12011 - View towards lunar south pole including Mare Australe and crater Humboldt - Image by NASA/Johnson Space Center.
+AS15-88-12012 - View towards lunar south pole including Mare Australe and crater Humboldt - Image by NASA/Johnson Space Center.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+224:30:47 Scott: And, Houston; 15. As we leave and look back, why, I guess we still have the impression the Moon is mostly gray. However, when you're up-Sun, as we were just prior to TEI - when you're looking up-Sun, it does definitely take on a chocolate brown color. We came around prior to TPI on the day side - or TEI on the day side, looking backwards into the Sun across Schröter's Valley, and that was a pretty spectacular sight. And it did start turning a chocolate brown, but now everything is a variation of gray, very light to a gun-metal gray near the terminator.
+224:31:28 Parker: Well, is that a unanimous vote in the spacecraft, Dave? [Pause.]
+224:31:35 Scott: Rog. I got three ayes on that one.
+224:31:44 Parker: Rog. We'll add that, and continue to keep the score. [Pause.]
+224:31:51 Worden: Good.
+224:31:53 Parker: Someday I'll get up there.
+224:31:54 Scott: Hey, Bob, we don't report to you the other kind.
+224:31:58 Parker: Some day I'll get up there and make my report.
+224:32:03 Scott: I hope so. [Long pause.]
+224:32:20 Scott: We can see a point on the terminator now where we mentioned we saw a lava filling and some domes in a depression which is not the circular crater-like depression; it's a big cavity. And now, I guess, as the Sun angle has changed some, we can see where the lava has apparently spilled over a scarp into a deeper cavity, which is in - in shadow. And it's very clearly a filling of the cavity with two levels.
+224:32:50 Parker: Roger, Dave. We call that a polye, don't we? [Pause.]
+224:32:59 Scott: Well, I guess if we were in Hawaii.
+224:33:05 Parker: You guys don't see any motion of that stuff, do you?
+224:33:12 Scott: Stand by. We'll watch it.
+Comm break.
+224:34:31 Scott: And, Houston; 15. We got another unanimous vote up here. That was really a great trip.
+224:34:41 Parker: Roger. I think that's unanimous on everyone, isn't it?
+224:34:46 Scott: Rog.
+Long comm break.
+Having fitted the 250mm telephoto lens, the photographer returns to the southern region and five photos are taken on magazine Q, AS15-96-13089 to 13093. Endeavour is about 1,900 nautical miles from the Moon. These images show Vallis Schrödinger, Lyot and the other constituents of Mare Australe. At the bottom of 13089, the distinct crater with a central peak is the 71-km Jenner.
+AS15-96-13089 - View towards lunar south pole including Vallis Schrödinger near the terminator and craters Jenner and Lyot - Image by NASA/Johnson Space Center.
+AS15-96-13090 - View towards lunar south pole including Vallis Schrödinger near the terminator and craters Jenner and Lyot - Image by NASA/Johnson Space Center.
+Petavius (lower centre) and Stevinus (centre) are the subjects of AS15-96-13091.
+AS15-96-13091 - View towards lunar near side including craters Petavius, Stevinus and Rheita - Image by NASA/Johnson Space Center.
+The ubiquitous Humboldt is centred in AS15-96-13092.
+AS15-96-13092 - Craters Humboldt, Hecataeus, Gibbs and Ansgarius - Image by NASA/Johnson Space Center.
+AS15-96-13093 - View towards lunar south pole including Vallis Schrödinger near the terminator and craters Jenner and Lyot - Image by NASA/Johnson Space Center.
+Four frames, AS15-96-13094 to 13097, show the north pole of the Moon. Three mare are visible. Mare Crisium is partly visible to the bottom right. At upper right is the roughly circular outline of Mare Smythii, and left of it is the irregular outline of Mare Marginis (The Border Sea) with Neper and Jansky sandwiched between them. Goddard punctuates the northern (left) edge of Marginis.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+224:39:10 Parker: And, 15, if you'll give us Accept, we'll uplink a REFSMMAT for desired orientation PTC.
+224:39:22 Scott: Roger. You've got it.
+Comm break.
+During the coast between Earth and Moon, the spacecraft is kept slowly rotating to distribute the Sun's heat across the Command Module's heatshield. This PTC, or Passive Thermal Control rotation is started once the spacecraft's guidance platform has been realigned to an orientation which is appropriate to the manoeuvre, the so-called PTC REFSMMAT which was also used during the coast to the Moon. First, Mission Control must send the details of the orientation for this REFSMMAT up to the spacecraft.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+224:41:11 Parker: And, 15, it's your computer again.
+224:41:17 Worden: Roger, Houston.
+Long comm break.
+This is Apollo Control. Most of that vivid description of the lunar surface came from Dave Scott. Al Worden also interjected some comments about what appeared to be distinct fresh lava flows near the crater Humboldt. During the description, the spacecraft was at an altitude that began at about 1,200 [nautical] miles [2,200 km] from the Moon and when most of the description was finished, they were about 1,700 [nautical] miles [3,150 km] from the Moon. Our change of shift press briefing is ready to begin at this time in the MSC News Center Briefing Room. During the briefing, we'll record any conversations with the astronauts for playback immediately following the briefing. At 224 hours, 42 minutes; this is Apollo Control.
+The available recording from the Public Affairs Office includes the change of shift press briefing, which is presented here.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy National Archives and Records Administration.]
+Day 10, part 5: Subsatellite Launch
+Journal Home Page
+Day 10, part 7: Settling down for the Journey Home

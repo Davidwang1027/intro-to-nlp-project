@@ -1,0 +1,678 @@
+Apollo 7 Flight Journal - Day 1, part 2: CSM/S-IVB Orbital Operations
+Day 1, part 1: Launch and Ascent to Earth Orbit
+Journal Home Page
+Day 1, part 3: S-IVB Takeover Demonstration, Separation, and First Phasing Maneuver
+Apollo 7
+Day 1, part 2: CSM/S-IVB Orbital Operations
+Corrected Transcript and Commentary Copyright © 2010-2025 by W. David Woods and Robert McCray. All rights reserved.
+Last updated 2025-02-11
+000:10:30 Schirra: Walter, I'll get the [SPS] gimbals Off.
+000:10:34 Eisele: Pitch 1, Off; Yaw 1, Off; Pitch 2, Off; Yaw 2, Off.
+000:10:40 Schirra: All four Off.
+000:10:42 Cunningham: Beautiful.
+Donn Eisele reads off the post insertion checklist steps as the crew begins to configure the spacecraft for orbital operations. Wally Schirra switches the SPS Gimbal Motors off in sequence while Walt Cunningham confirms the DC Amps reading drops with each switch throw. The drop in DC current confirms the motors are no longer operating.
+000:10:46 Eisele: Roger. Confirm DSKY readouts are velocity 25553; H-dot is minus four balls 1; and altitude is 122.3. [Pause.]
+The values Eisele reads off were computed by the guidance computer running in Program 11. The computer shows them traveling at 25,553 feet per second [7,789 m/s], descending at one foot per second [-0.3 m/s], at an altitude of 123.3 nautical miles [228.4 km]. These serve as a confirmation of good booster performance.
+000:10:59 Swigert: Roger. Copy, Apollo 7. We have you Go for orbit, Go for orbit. [Pause.]
+000:11:15 [Unknown]: Go ahead, babe. [Pause.]
+000:11:25 Swigert: Apollo 7, your S-IVB has been safed. [Pause.]
+And the Control Center has relayed word here, we show you Go for orbit. For the first six revolutions around the Earth, it will be a revolution by revolution consideration, but these cut-off parameters were just nearly as perfect as they could be from the looks of our plot boards. 11 minutes, 30 seconds and the crew has been advised that the S-IVB systems have been safed. The electrical circuits are shut down and the booster is considered in a - a quite safe configuration. Some residual liquid hydrogen and liquid oxygen remaining aboard, that will be vented as we move through this first revolution.
+Initial safing of the S-IVB stage started at engine cut-off. The liquid hydrogen (LH2) tank passivation valve opened and a non-propulsive LH2 vent was started. About 30 seconds later, a short liquid oxygen (LOX) vent was performed. These vents served to keep the LH2 and LOX tank pressures within acceptable limits until a final propellant dump near the end of the first orbit.
+000:11:32 Swigert: Apollo 7, Houston. Are you reading? [Pause.]
+000:11:41 Swigert: Apollo 7, Houston.
+000:11:47 Eisele: Let me read these off: apogee 146.4, perigee 122.3 off the DSKY.
+000:11:57 Swigert: Apollo 7, Houston. We copy your perigee and apogee.
+Eisele has keyed Verb 82 into the DSKY and reads off the perigee and apogee calculated by the onboard computer. The computer shows them in an elliptical orbit with a low point of 122.3 nautical miles [226.5 km] and highest point of 146.4 nautical miles [271.1 km]. The orbit computed just after insertion of usually off somewhat from the actual orbit. A more accurate calculation is being made on the ground and will be relayed up to the crew.
+000:12:04 Swigert: How are you reading Houston? [Long Pause.]
+000:12:21 Swigert: Apollo 7, Houston. Omni Delta, omni Delta. [Long Pause.]
+000:12:39 Swigert: Apollo 7, Houston. How are you reading?
+000:12:42 Crewman: Read you loud and clear, Houston. How are we?
+000:12:45 Swigert: You're five-by now, 7. Your S-IVB has been safed. Stand by for your orbit.
+000:12:50 Schirra: Very good, sir.
+000:12:55 Swigert: Apollo 7, Houston. We have you in a 122 by 151 orbit.
+This orbit of 122 nautical miles [226 km] by 151 nautical miles [280 km] was computed using data from the Bermuda tracking station. A later compilation of all available data would show the actual orbit at insertion as 123.3 by 153.7 nautical miles [228.4 by 284.7 km]. This is only slightly higher than the planned orbit of 123 by 151.5 nautical miles [227.8 by 280.6 km].
+This is Apollo Control in Houston at 13 minutes into the flight. We are still getting excellent communications from Apollo 7 which is now in the middle of the Atlantic Ocean. The quality of the voice comm is not that what it was in the first few seconds, but it - the first few minutes - but it is still quite readable.
+000:13:01 Schirra: That's very good.
+000:13:03 Swigert: Not bad shooting, right?
+000:13:05 Schirra: That's great.
+Comm break.
+000:14:34 Swigert: Apollo 7, Houston. [Long Pause.]
+000:15:32 Swigert: Apollo 7, Houston. [Long Pause.]
+000:15:55 Swigert: Apollo 7, Houston. [Long Pause.]
+000:16:25 Swigert: Apollo 7, Houston.
+000:16:28 [Unknown]: Going to vent it?
+000:16:31 Swigert: Okay. I'll give you a GET [Ground Elapsed Time] time hack at 17 minutes in about 20 seconds.
+This is one of many time hacks given throughout the mission. These are used to ensure the timers used by the crew and the ground are in sync or to start a countdown to a critical event. In this case, Jack Swigert counts down to 17 minutes elapsed time using the timer in Mission Control. Wally Schirra verifies that the timer onboard the spacecraft reads 17 minutes when Jack says "Mark."
+000:16:55 Swigert: Five, four, three, two, one.
+000:17:00 Swigert: Mark. 17 minutes GET.
+000:17:03 Schirra: Roger. [Garbled]
+000:17:06 Swigert: Roger. You won't need a CMC lift-off update. You're okay there.
+A CMC (Command Module Computer) lift-off time update could be uplinked to the onboard computer from the ground if any discrepancy existed between the computer's timer and timers on the ground. A close synchronization between the two was necessary to allow accurate execution of time sensitive computer tasks such as control of SPS burns, or anywhere the task starts at a specific time after lift-off. Any discrepancy between the time used on the ground to make the computations and the time used onboard to execute the task would lead to inaccuracies.
+000:17:11 Schirra: Roger. [Garble].
+000:17:20:Swigert: Apollo 7, say again.
+000:17:22 Schirra: Roger. How are we transmitting?
+000:17:25 Swigert: Okay. We're reading you about two-by; we're really trying to do some reconfiguring here to get good comm with you.
+000:17:33 Schirra: [Garble].
+000:17:40 Swigert: I can't make it out, Wally. Stand by.
+000:17:43 Schirra: Roger. [Long Pause.]
+000:18:42 Swigert: Apollo 7, Houston. How are you reading now?
+000:18:52 Schirra: [Garble].
+000:18:55 Swigert: Okay. You're loud, but very garbled, Wally.
+000:19:03 Schirra: Roger. [Pause.]
+000:19:08 Swigert: All your systems look real good down here.
+000:19:12 Schirra: Roger. [Garble].
+000:19:17 Swigert: I couldn't make it out. Do you want to select Simplex A? [Long Pause.]
+Communications would clear up with selection of the Simplex A VHF mode by the crew. The Canary Islands tracking station is being used at this point in the orbit. This station had similar problems with the VHF receiver equipment as those experienced by the Bermuda station.]
+000:19:39 Schirra: That's land out there, little island down there that way. Can you see it? Walt can, I guess.
+000:19:48 Swigert: Okay. Apollo 7, Houston. How do you read now?
+000:19:55 Schirra: Houston, Apollo 7. How do you read on Simplex A?
+000:19:58 Swigert: You're real fine now, real fine, Wally, and we've got you coming through on intercom.
+000:20:04 Schirra: That's clever.
+000:20:05 Swigert: Okay.
+000:20:07 Schirra: No, we're broadcasting to you.
+000:20:09 Swigert: Oh, okay. I was just wondering. I couldn't see what you were describing there.
+000:20:11 Schirra: We're looking at the Canary Islands.
+000:20:15 Swigert: Oh, you're making me jealous.
+000:20:20 Schirra: Roger. We've completed the insertion checklist with the exception of the four circuit breakers on panels 277 and 278.
+Panel 277 and 278 are behind and to the right of Walt Cunningham in the LMP seat. These will not be in reach until the crew unstraps and can move around more freely.
+000:20:27 Swigert: Roger. We copy.
+000:20:29 Schirra: He hasn't posted this yet.
+000:20:33 Cunningham: It's loud and clear over here, Jack; good weather report.
+000:20:37 Swigert: Roger. You're five-by also.
+000:20:44 Schirra: Just deserts.
+This is Apollo Control in Houston, 21 minutes into the flight. The ground and the crew finally got to the right antenna with the spacecraft over the Canary Islands and until that point, the comm from approximately mid-Atlantic on into the Canary area was pretty rocky - pretty rough and they went to one of the antennas which apparently was pointed in the proper direction and the comm cleared up markedly as you will be able to observe as we play this voice tape. I've checked with the Flight Director; he tells me that Schirra's heart rate at lift-off was 87 beats per minute - 87 beats per minute at lift-off. And at staging, when the first stage burned out and the second stage ignited, it hit its high point during the entire mission of 100 beats per minute. One hundred beats at staging, 87 at lift-off; which is, I can never recall a lift-off heart rate in the 80s, I can recall some in the 90s and I think they were Wally's.
+000:22 50 Swigert: Apollo 7, Houston. You have about 2 minutes to LOS [Loss Of Signal], and your Saturn tanks look perfectly nominal.
+Loss Of Signal (LOS) occurs when the tracking station providing communication coverage passes under the horizon as seen from the spacecraft. The stations are spread out around the world and only provide partial coverage as the spacecraft passes overhead. The blank spaces in coverage are filled by recording onboard voice and systems data on an onboard tape and downlinking the recording to stations configured to receive the data.
+000:22:57 Schirra: Very good; they feel good.
+000:22:59 Swigert: Roger, Boss. [Long Pause.]
+000:23:40 Swigert: Apollo 7, Houston. Can you give us an onboard reading of the S-IVB tank pressures?
+000:23:45 Schirra: Roger. Oxidizer is at 21[psi]; fuel is about 7[psi].
+000:23:59 Swigert: Roger. We confirm that, Wally. Looks about the same here.
+000:24:03 Schirra: Roger.
+Very Long Comm Break.
+S-IVB tank pressure meters
+The S-IVB tank pressures are read on the spacecraft off a panel on the left forward console. The ground also has the capability to monitor the pressures through telemetry data. Tank pressures of less than 50 psi were considered acceptable at this point in the mission.
+The onboard voice recording picks up again at this point. The crew, aware that their conversations are being recorded, will use this capability to describe certain events and record readings from certain meters without having to write all the information down.
+000:24:15 Eisele (onboard): [Garble] but while you're there, let's get the pyro breakers off.
+000:24:23 Schirra (onboard): Guys, we had a good second stage a few seconds after count and reached 2g before SECO.
+000:24:29 Schirra (onboard): If we got information, by the way, on Mode 4, I didn't hear it. Did anybody else copy it?
+000:24:34 Cunningham (onboard): I didn't hear it either, and in spite of the g-load, though, I had no trouble reaching all the switches and operating the time-code meter throughout.
+000:24:45 Schirra (onboard): Just at the last part, after 2 minutes, it started to read about 4g.
+000:24:49 Eisele (onboard): Okay, let's continue with the ECS [environmental control system] post-insertion configuration here.
+000:24:55 Eisele (onboard): You want to try that little peep on our suits if I hold it?
+This is Apollo Control in Houston with 25 minutes into the flight. The crew, after a very brief 20-minute flight across the Atlantic Ocean, is now going across the African Continent. We've lost touch with them as they move across Africa. The official launch time was 15:02:45 Zulu time or Greenwich Mean Time, 15:02:45. Our present orbital parameters are 122 by 151, 122 nautical miles by 151 nautical miles [226 by 280 km]; and we now begin to settle down to look at the business of the Flight Plan and one of the first events after leaving the Canary zone is to close the liquid hydrogen vent and it should be closed very shortly. At Tananarive, the spacecraft will go into it's first sunset. We will be talking to them through Tananarive. The Tananarive station should acquire along about 36 minutes into the flight. We're presently 26 minutes into the flight. This is Apollo Control Houston.
+000:25:00 Eisele (onboard): What we need to get here, Wally, is that reservoir. Can you get at it?
+000:25:06 Cunningham (onboard): I'd like to loosen up on my shoulder harness here, and I can get at a couple of circuit breakers, too."
+000:25:17 Schirra (onboard): Okay, let's go ahead.
+000:25:19 Eisele (onboard): Okay, the next one's the hard one. We've got to get the Glycol Reservoir Bypass Valve Open with the inlet and outlet valves Closed.
+000:25:28 Eisele (onboard): Not the radiator but the glycol [garble]. It's awfully hard to reach, Walt.
+000:25:32 Cunningham (onboard): Yes, I am going to loosen up my shoulder harness if you think it is okay, so far. Okay, not unplug it, just loosen it, huh? What do you think, Wally?"
+000:25:42 Schirra (onboard): I don't think - Oh hell, we can't get shot down. Are there any systems that you are worried about?"
+000:25:47 Cunningham (onboard): Not a thing.
+000:25:51 Schirra (onboard): Donn, why don't you let me - oh, are you already going? Go ahead.
+000:25:56 Schirra (onboard): Did you unstrap awhile ago?
+000:25:57 Eisele (onboard): Oh, I just want to get my shoulder harness unhooked.
+000:26:03 Cunningham (onboard): One big question mark: we still have to work on the system to see if the radiator is flowing right?
+000:26:08 Eisele (onboard): Yes, I'm just loosening my belt a little - the strap's a little long. [Pause.]
+000:26:25 Cunningham (onboard): That was a lot easier than any simulation we've had though, wasn't it?
+000:26:30 Eisele (onboard): Yes, we didn't have [garble] trying to get in our knickers.
+000:26:38 Schirra (onboard): Yes, I want to go to - let's go to hot mikes and see how it is.
+000:26:43 Cunningham (onboard): I can't stand my seat belts [garble].
+000:26:46 Eisele (onboard): Boy, I've got a couple of problem circuit breakers over here myself, Walt. [Pause.]
+000:27:01 Schirra (onboard): I'll guard the hand controls while you guys wrestle with your belts. I can't make it up [garble]. Okay. [Garble] lock it out here.
+000:27:19 Schirra (onboard): Never did get that swizzle stick, did we?
+000:27:22 Cunningham (onboard): No.
+A "swizzle stick" refers to either an extension attached to a switch to make it easier to reach or, in this case, a stick that could be held by the crew to provide additional reach.
+000:27:24 Schirra (onboard): Okay, give me those Do's again.
+000:27:27 Cunningham (onboard): Okay, let's see. Bypass to Open, first - the bypass valve Open first, and then the reservoir outlet valve Closed, and last, the inlet valve Closed.
+Walt is reading from the ECS Post-insertion checklist while Wally and Donn perform the steps.
+000:27:43 Schirra (onboard): Okay, that's done.
+000:27:45 Schirra (onboard): Now about that, have you ever been [garble] over here.
+000:27:52 Cunningham (onboard): Well, let's see, we are about 27 minutes into the flight. We might try to flow our radiators. Let's go ECS radiator flow control to Power, Donn.
+Walt is referring to starting the water/glycol fluid flow to the radiators as part of the ECS post-insertion configuration. This would need to be done no earlier than 22 minutes into the flight but no later than 55 minutes into the flight.
+000:28:03 Eisele (onboard): Power.
+000:28:04 Cunningham (onboard): Okay, Glycol to Radiator Primary Valves, push, Wally.
+000:28:09 Cunningham (onboard): Look at him go. (Laughter)
+000:28:14 Cunningham (onboard): This is our first [garble]. (Laughter)
+000:28:19 Cunningham (onboard): Oh well. [Garble, laughter]
+000:28:23 Schirra (onboard): What's going on. I can't see what you're doing.
+000:28:26 Schirra (onboard): I can't understand moving around and can't get back. (Laughter) I grabbed the valve and start doing "boom"...
+000:28:34 Schirra (onboard): First time had so much room up here. It's a real ball. [Garble.] Easy back there.
+Although Wally Schirra was a veteran of two previous space flights, it is his first experience with moving around unrestrained on zero-g.
+000:28:44 Schirra (onboard): This is going to be a real expedition to get back in these beauties [referring to the couches]. (Laughter)
+000:28:53 Schirra (onboard): I still have - I've still got two circuit breakers I haven't gotten.
+000:28:57 Cunningham (onboard): Okay, I'm going to [garble] - I'm going to put Steam/Urine Dump Heaters [circuit breaker] in, switch should be On. Verify that switch is On down there if you can see it, Donn.
+000:29:04 Eisele (onboard): Yes. It's On, Walt.
+000:29:05 Schirra (onboard): Do you want to move the couch back up yet, or do you need to?
+000:29:08 Cunningham (onboard): Really, I don't think I need to; I'm up here.
+000:29:10 Eisele (onboard): I think we - yes, I think we ought to leave it where it is. I've got a - when we...
+000:29:16 Schirra (onboard): Yes.
+000:29:17 Eisele (onboard): ...unstow down there, I have to have it in this position to start with.
+000:29:21 Eisele (onboard): Hey, I found a good place for the pens, gang.
+000:29:24 Cunningham (onboard): For the what?
+000:29:25 Eisele (onboard): Pen, like this, see?
+000:29:27 Eisele (onboard): Oh, that's cute. That ought to take care of our pencil jazz.
+000:29:31 Schirra (onboard): Okay, let's see if we've got any other good things to do here.
+000:29:34 Eisele (onboard): Did you get completely unpacked, Wally?
+000:29:36 Schirra (onboard): I had to. Whenever [garble] I pulled that handle I just started doing a 180. I had to get another hand out.
+000:29:43 Cunningham (onboard): Okay, we want to check - we want to monitor pretty close for the [ECS primary] outlet temperature, Donn, to be less than the inlet. It looks like it is already doing that.
+000:29:53 Eisele (onboard): It's coming down. It's down to [garble] so far.
+000:29:56 Cunningham (onboard): Yes.
+000:30:00 Schirra (onboard): You notice all the stars you see out there on the right? (Laughter)
+000:30:06 Cunningham (onboard): Yes, 8 billion stars out there.
+000:30:08 Schirra (onboard): There's sure a lot of dirt on those side windows; look how dusty they are.
+000:30:13 Cunningham (onboard): Yes.
+000:30:14 Eisele (onboard): You know, I haven't even hardly looked out yet. That's only the second time I've looked out.
+000:30:18 Schirra (onboard): Okay, why don't you take a minute and look out. It's much fun.
+000:30:21 Cunningham (onboard): Okay, ECS radiator talk-back is gray. Looks like the radiators - watch that pretty close...
+A "talk-back" is referring to an indicator that will either be grey or barber-poled (striped) depending on the configuration of the system it is monitoring.
+000:30:27 Eisele (onboard): Yes, I'll keep an eye on them for you, Walt, 'cause we...
+000:30:29 Cunningham (onboard): ...'Cause we've got to go back and bypass them again if it's not.
+000:30:33 Schirra (onboard): Yes, we're out of communication. We'll pick up Tananarive at 36 minutes. Are you done with it?
+000:30:40 Cunningham (onboard): Okay, I can finish by then. Yes.
+000:30:41 Eisele (onboard): I think it's coming down, Walt. This scale is drifting, it's a little hard to tell.
+000:30:45 Cunningham (onboard): Okay, ECS radiator heater to Primary 1.
+000:30:49 Eisele (onboard): Roger, heater to Prim 1.
+000:30:50 Cunningham (onboard): The talk-back should be gray on those radiators.
+000:30:53 Eisele (onboard): Right, it's gray.
+000:30:54 Cunningham (onboard): Okay, Glycol Evap Temp primary inlet to Auto, Donn.
+000:30:58 Eisele (onboard): Glycol Evap, right there to Auto.
+000:31:02 Cunningham (onboard): Roger, Auto. The Steam/Urine Duct Heaters circuit breakers are both closed.
+000:31:09 Eisele (onboard): Okay. Primary and secondary quantities.
+000:31:12 Schirra (onboard): Okay, the LH2 vents should close at 31 minutes. Let's listen and see if we hear anything. I'm not sure what's going to happen. (Laughter)
+000:31:22 Schirra (onboard): Hey, don't we have to keep - I'm a little warm, how about you?
+000:31:30 Cunningham (onboard): I'm a little warm too, and the suit - but the suit inlet temp is still holding about the same, 47 degrees, but I am coming up in temperature. I don't know whether it's the work, or what.
+000:31:40 Eisele (onboard): Well, we've got a much lower flow I expect than when we [garble] to the gas.
+000:31:43 Schirra (onboard): Yes.
+000:31:44 Eisele (onboard): I'm at that same temperature. It's colder than hell.
+000:31:48 Cunningham (onboard): [Garble] wait, Donn. I figured you wouldn't mind.
+000:31:51 Eisele (onboard): What?
+000:31:52 Cunningham (onboard): I figured you wouldn't mind waiting...
+000:31:53 Eisele (onboard): What's that?
+000:31:54 Cunningham (onboard): ...getting warm. It happens that way.
+000:31:57 Eisele (onboard): Oh yes, I figured - if it's a good chill-down for you.
+000:32:01 Cunningham (onboard): Okay, Wally?
+000:32:02 Schirra (onboard): Yes?
+000:32:03 Cunningham (onboard): Looks like the radiators are flowing okay. I'd like to leave them there, and we've got - as far as we can go 'til Donn gets out of the couch.
+000:32:11 Schirra (onboard): Okay, how about that casual burn?
+000:32:13 Eisele (onboard): It looks like we have got 73 degrees going in and about 60 degrees coming out of the radiator turn.
+000:32:18 Cunningham (onboard): Yes, they are all beginning to work.
+000:32:20 Schirra (onboard): I want you guys to make note of the approaching night now, which is going to occur at about 36 minutes. Look for things like the terminator, cloud layers - I hope you have no doubt in your mind what yaw is, do you?
+000:32:34 Cunningham (onboard): No, but I am not sure just how accurately I could pin it down either, without trying a couple of times.
+000:32:39 Schirra (onboard): You need a couple of lines. Donn has the good lines, I've got - I think I'll put the COAS up there.
+000:32:46 Schirra (onboard): This one is almost perfect for your yaw and roll. It's the pitch that's not too good.
+000:32:52 Cunningham (onboard): By the horizon, we could get some roll.
+000:32:55 Schirra (onboard): Okay.
+000:33:01 Schirra (onboard): Boy, it gets easy to work in here with that zero-g stuff, huh?
+000:33:06 Cunningham (onboard): Yes, it sure is, isn't it? All the difference in the world.
+000:33:09 Schirra (onboard): Kind of handy.
+000:33:12 Schirra (onboard): [Garble] bump my butt [garble] like that... (Laughter)
+000:33:18 Schirra (onboard): Okay, let's see if that beauty works now.
+000:33:20 Cunningham (onboard): Okay, Donn,- I was trying to tell you on the pad there, we haven't had that stupid thing working in the simulator, the propellant tank temperature.
+000:33:31 Eisele (onboard): The light bulb works [garble], gang.
+000:33:33 Cunningham (onboard): It does. It's an open-loop manual control, 55 to 75. I thought the first time we got down I'd see if heater A hacks it - if not we'll try it with both heaters. It is a 24-hour job on about a 7-hour cycle, I think.
+000:33:49 Eisele (onboard): Okay, Walt, you just told me - that is something to keep an eye on now and then.
+000:33:58 Schirra (onboard): Oh man, is this COAS beautiful for yaw. God damn. See, it rotated - See what I'm doing? Let me scoot over here, the flag is down. See, I rotate it in pitch - I rotate the thing in roll axis with the pitch pulses.
+000:34:16 Eisele (onboard): Just put it where I want it, and man, I've got a point to pick right down it. Look at that night coming up on us.
+000:34:23 Schirra (onboard): Everybody's talking about SEF. As you go into [garble] you see the fuzzy - there is no horizon any more. You can't define it. Look at it, Walt.
+000:34:31 Cunningham (onboard): Yes.
+000:34:32 Schirra (onboard): There is no way to tell where the hell the horizon is.
+000:34:34 Eisele (onboard): Oh man, that is terrible, just a big blur.
+000:34:38 Cunningham (onboard): Yes, yes, there's no way to tell.
+000:34:39 Schirra (onboard): Well, I can see it on your side better, though.
+000:34:41 Cunningham (onboard): Let me read...
+000:34:42 Schirra (onboard): Yes, as you go off the edges, you can.
+000:34:43 Cunningham (onboard): ...Let me read Cryo tanks onto the tape here, and we will be pretty much caught up. Okay?
+000:34:48 Cunningham (onboard): Okay, we have hydrogen pressure is sitting about - it looks like 230 on tank 1 and about 245 on tank 2.
+000:34:58 Cunningham (onboard): O2 tank 1 pressure is 870, tank 2 is about 860 - make that tank 1 about 880, and the third tank 870, and tank 2, 860; and the cycle on the oxygen tank, on our gauge at least, seems to be between about 850 to 900 instead of the greenline areas. The hydrogen quantity - we lifted off with about 95 on the left and 93 on the right. Oxygen quantity is 100 percent.
+000:35:31 Schirra (onboard): Very good. Ho hum.
+000:35:39 Eisele (onboard): I'd like to point out that hydrogen pressure number 1 was out of the green. Before lift-off, it was about 220.
+000:35:46 Schirra (onboard): It was low?
+000:35:47 Cunningham (onboard): Yes, I think you called my attention to it just before it started cycling. That gauge is not too good.
+000:35:51 Eisele (onboard): That reminds me, I was watching that Delta-V counter that first set. We had 90000 on there, and I reset it. (Laughter)
+000:36:00 Eisele (onboard): It looks good now.
+This is Apollo Control in Houston at 36 minutes into the flight. In the last minute or two we have reviewed the g data recorded on this flight and the curve is a very gentle one on the first stage, and it peaked right at about 4 g's, and of course it falls back to zero g for a short time and then it begins a gentle climb again and at the second stage shut down, some 10 minutes and 20 seconds into the flight, it was peaked out on the second stage at about 2½ g's. We heard the crew remark at least once, perhaps several times, about what a gentle ride it was. Glynn Lunney, our Flight Director, has gone around the room console by console. He opened that session with these words. "Okay, everybody, lets - we've got a long way to go. Let's sit down and look at what we've got." He then went through each system and questioned each man about his particular specialty area during the launch phase and he got no surprises. We have tagged up with the crew now over Tananarive. We've put in a call, and at this point we've not heard from them, but Schirra should be installing an alignment sight in his window. This will help him - it is something like a boresight - it will help him do a number of tasks and he will use it to look at all sorts of objects during the flight. Very shortly we should open the liquid hydrogen vent valve and thin out some of the residual fuel in there in the liquid hydrogen tank, and over - that will take place over Carnarvon some 54 minutes into the flight. They say the call went in by the Tananarive station about two minutes ago. We've not heard from the crew. We are getting a rather steady carrier noise on the line. We'll standby and come up with that communication as it develops.
+000:36:02 Eisele (onboard): How about turning that Delta-V Off when you come back up here. I need a [garble] Okay, I'll go Off and go to network.
+000:36:11 Schirra (onboard): Okay. Off and Auto.
+000:36:15 Eisele (onboard): Okay now, we need to bring some lights up here to see, even. Do you want to try an integral light up a little bit here to see if it works - the integral?
+000:36:22 Schirra (onboard): I'm taking the floods down, just out of curiosity.
+000:36:27 Schirra (onboard): It's still not night yet.
+000:36:29 Schirra (onboard): See if we can find any stars out there. This is our first go-around.
+000:36:37 Cunningham (onboard): This Velcro is not too good, you know it?
+000:36:39 Eisele (onboard): No, even in [garble].
+000:36:40 Schirra (onboard): What I'm doing with this thing, Walt, I'm clipping the thing, see? I've used the -took, the ring apart and put it around the wicket.
+000:36:47 Cunningham (onboard): Okay, very good.
+000:36:52 Eisele (onboard): I hope this stuff dumps. We'll have a lot of good data. (Laughter)
+000:36:55 Cunningham (onboard): Yes, I hope so too.
+000:36:57 Schirra (onboard): If it doesn't, it's all off.
+000:36:59 Schirra (onboard): You don't need this part anymore, Donn, you can save that for posterior...
+000:37:02 Eisele (onboard): Yes, I am putting all this stuff...
+000:37:04 Schirra (onboard): ...and that for posterior, and all this is posterior. This is still good.
+000:37:10 Cunningham (onboard): Oh, you can tear all that off if you want.
+000:37:11 Schirra (onboard): Yes, that's okay with me.
+000:37:13 Eisele (onboard): Okay.
+000:37:14 Schirra (onboard): Well, we'll leave it up there for now, just so we can get this other garbage.
+000:37:17 Cunningham (onboard): When we finally put this stuff away, I am going to put all...
+000:37:19 Eisele (onboard): Hey, I got a star in sight.
+000:37:21 Cunningham (onboard): I'm going to put all my cards away, Donn.
+000:37:22 Eisele (onboard): God damn, he's moving fast. How can we do that?
+000:37:26 Cunningham (onboard): We're moving.
+000:37:28 Eisele (onboard): No, no, no, no, no [garble]. They don't move.
+000:37:31 Cunningham (onboard): Do you ever get the...
+000:37:33 Eisele (onboard): Oh, wait, we're in Orb Rate, I guess.
+000:37:35 Cunningham (onboard): Yes, but do you ever get the impression that we're deorbiting?
+000:37:37 Schirra (onboard): Oh, man, wait 'til you see us pointing straight down sometime. You feel you're doing a split S. You know, I did that one time and I wanted to pull out. (Laughter)
+000:37:48 Schirra (onboard): You can back your lights down a little...
+000:37:50 Eisele (onboard): Okay.
+000:37:51 Schirra (onboard): ...and take a look and see what the world's doing.
+000:37:52 Eisele (onboard): I'm taking six [garble].
+000:37:53 Schirra (onboard): You know, I'm getting a little venting here. Look at this, Donn. I put up the Delta-V Auto...
+000:37:58 Eisele (onboard): Posigrade, huh?
+000:37:59 Schirra (onboard): ...which shows you're not getting it in [garble] maybe.
+000:38:07 Eisele (onboard): Sunlight.
+000:38:13 Eisele (onboard): There she goes. Be sure we - well, they're going to give us a call from the ground. I want to get P47 on there when they do the big dump over the next pass.
+000:38:26 Schirra (onboard): Well, when we get our next vent, we want to get a new state vector, don't we? Or, are we going to just update it?
+000:38:34 Cunningham (onboard): Yes, but I say when the booster vents, the big LOX dump...
+000:38:38 Schirra (onboard): We want to get that in.
+000:38:39 Eisele (onboard): Be sure that's in P47, so it gets in. Course, they'll give us a state vector anyway, but...
+000:38:46 Eisele (onboard): God damn, isn't that delightful?
+000:38:50 Schirra (onboard): That's really great for the old S-IVB for the rendezvous.
+000:38:53 Cunningham (onboard): Oh, gosh darn it! I just released my shoulder harness, it might - really, you all, it's going to he a bear getting back into this thing.
+000:38:58 Eisele (onboard): Yes. (Coughing)
+000:39:03 Schirra (onboard): How about that for S-IVB attitude? Man, that is a doozy.
+000:39:09 Cunningham (onboard): I'm afraid once you get hack in there - (Laughter)
+000:39:11 Schirra (onboard): It feels like you can't get into there because the suit is still inflated, Walt.
+000:39:14 Cunningham (onboard): Yes.
+000:39:16 Schirra (onboard): You're in sort of a bubble.
+000:39:19 Schirra (onboard): Yes, that is something else, Donn, I meant to note, and I didn't see it until - See that strap by your right foot? I was going to worry about it not being clipped, but it isn't.
+000:39:29 Eisele (onboard): Okay.
+000:39:30 Schirra (onboard): Details!
+000:39:31 Cunningham (onboard): Hey, I think I am going to take and kind of wrap this shoulder harness around the...
+000:39:36 Eisele (onboard): Hey, I see fires.
+000:39:37 Cunningham (onboard): Oh, that is beautiful.
+000:39:38 Schirra (onboard): Yes, you can.
+000:39:39 Cunningham (onboard): Do you see some on the ground?
+000:39:41 Eisele (onboard): Yes - See something that's orange down there - orange spots.
+000:39:44 Cunningham (onboard): That's pretty.
+000:39:45 Eisele (onboard): There's something else weird. I looked out here, and I see what looks like stars if I were looking at a simulator star ball...
+000:39:52 Schirra (onboard): That's lightning.
+000:39:53 Eisele (onboard): Except I can't see stars because I'm looking at the ground, and they're not moving which they should be, because we're in orb-rate. I don't know what it is. It must be some little...
+000:40:00 Schirra (onboard): Here's your - here's your attitude.
+000:40:01 Eisele (onboard): ... [garble] or something out there.
+000:40:02 Cunningham (onboard): Look how much light is coming in from my side over here. It's hitting the edge of the window. I thought maybe that's what it is.
+000:40:09 Eisele (onboard): Yes.
+000:40:10 Cunningham (onboard): Maybe little spots - little sunspots on the window.
+000:40:11 Eisele (onboard): Hey, how about...
+000:40:12 Cunningham (onboard): Yes, they are getting darker.
+000:40:13 Eisele (onboard): What about going to - well, if we went to boost, we got our heads jammed up there, don't we? I mean...
+000:40:18 Cunningham (onboard): Yes.
+000:40:19 Eisele (onboard): I think we're better off here until we need to go to boost.
+000:40:20 Cunningham (onboard): Okay.
+000:40:21 Schirra (onboard): You mean dock?
+000:40:22 Schirra (onboard): Dock, yes.
+000:40:24 Cunningham (onboard): I'm going to bring some light up here.
+000:40:25 Eisele (onboard): Were we supposed to pick somebody up at 36? It's 40 now.
+000:40:27 Schirra (onboard): Yes, we're at 40.
+000:40:28 Stafford: Hello.
+000:40:29 Schirra (onboard): Houston Capcom, Apollo 7. We're S-band over Tananarive.
+000:40:33 Stafford: Apollo 7, Houston. How do you read?
+000:40:37 Schirra (onboard): You got to lock up one.
+000:40:39 Cunningham (onboard): I don't think we've got S-band. We have to lock up on the right antenna.
+000:40:42 Schirra: Houston Capcom, Apollo 7 over Tananarive. Do you read?
+000:40:45 Swigert: Roger, Wally. We're reading you loud and clear. How do you read me?
+Very long comm break.
+000:40:46 Eisele (onboard): Say something else, [garble].
+000:40:49 Cunningham (onboard): Something else. We never did get this in because of the status of that simulator. Is the VHF antenna - we've always been able to ignore it.
+000:40:56 Cunningham (onboard): Yes.
+000:40:57 Schirra (onboard): I tell you what you want to do, anytime we can. Now, I've got my COAS up. We'll try to stay ahead of this beauty all the time.
+000:41:03 Cunningham (onboard): Yes.
+000:41:04 Schirra (onboard): It's a real nice feeling that...
+000:41:06 Cunningham (onboard): You are going to have to kind of feed it to us.
+000:41:08 Schirra (onboard): That's why I got it out.
+000:41:09 Eisele (onboard): Well, all we have to do now is just coast at nighttime, look for stars. Well, the COAS, that's the first event.
+000:41:17 Cunningham (onboard): How about Donn maybe starting to - the next thing he has to do is get out and start unstowing, isn't it? Is there any reason why we - yes, I guess we have to wait for a Go, don't we?
+000:41:23 Schirra (onboard): We get a Go/No-Go, yes, I'd rather not...
+000:41:26 Cunningham (onboard): Yes.
+000:41:27 Schirra (onboard): ...get too far off. I'm sure we're Go, but - let's play honest.
+000:41:32 Cunningham (onboard): Look at this, Donn.
+000:41:33 Schirra (onboard): We've got 53 minutes 'til we pick up Carnarvon.
+000:41:36 Eisele (onboard): (Laughter) Look at this damn strap.
+000:41:41 Schirra (onboard): I'm telling you something guys - (laughter) let's enjoy these few minutes. We've got 10 minutes to go before we pick up Carnarvon.
+000:41:45 Eisele (onboard): Hey, Wally, look at this damn strap flying around.
+000:41:47 Schirra (onboard): Yes, isn't that wild?
+000:41:49 Eisele (onboard): (Laughter)
+000:41:58 Eisele (onboard): If that's that little peep, I spent about 2 minutes trying to get a hold of that thing. Beating it over there. Beating it back and forth.
+Apollo Control here at 42 minutes into the flight. Tom Stafford, one of our capsule communicators, has been running an HF voice communication check. We heard from Apollo 7 loud and clear, but they apparently can not hear us, and we're going to continue this voice check by HF, which is the hard way, of course, and let's listen now as Stafford tries to contact the spacecraft.
+000:42:05 Schirra (onboard): I wondered what you were playing with.
+000:42:07 Eisele (onboard): Yes. I got it trapped and then I lost it.
+000:42:10 Schirra (onboard): There's a little nut that you want to look for, a hex nut, about the diameter of my finger.
+000:42:15 Cunningham (onboard): Oh, yes?
+000:42:16 Schirra (onboard): It came off the Pyro Battery terminal. Of course, they lost it, they put another one on. It's a silvery gold color. [Pause.]
+000:42:32 Schirra (onboard): It's tracking in here nice.
+000:42:36 Schirra (onboard): Let's take a look for the stars. They've all blacked out.
+000:42:38 Cunningham (onboard): Oooooooooh! I'll tell you. It's a good thing the boost was exciting or I would have been damn disappointed. It's been such a quiet day. (Laughter)
+000:42:47 Eisele (onboard): I'll tell you, man, [garble]. There is no doubt about it.
+000:42:52 Cunningham (onboard): Look at the stars out there, Wally, on your left.
+000:42:55 Schirra (onboard): Oh, beautiful!
+000:42:56 Eisele (onboard): [Garble].
+000:42:57 Eisele (onboard): Hey, I only see a couple of stars.
+000:43:00 Schirra (onboard): It's pretty clear, but...
+000:43:04 Cunningham (onboard): Oh, beautiful sky over here, yes.
+000:43:07 Eisele (onboard): I just got a - I don't know what it was, lost the COAS.
+000:43:13 Cunningham (onboard): You know it's hard as hell to imagine that this could be Navi over here. My whole frame of reference is rotated up - I don't know how it's rotated. (Laughter) Now I can see the horizon at night.
+000:43:29 Eisele (onboard): Yes, you should be looking at Navi on that side, Walt.
+000:43:31 Cunningham (onboard): Is that right? Well, I...
+000:43:33 Eisele (onboard): Now you can see the horizon, look at the air-glow. See it, Walt?
+000:43:39 Cunningham (onboard): Yes, beautiful...
+000:43:40 Eisele (onboard): ...horizon there, Walt?
+000:43:42 Cunningham (onboard): Oh yes, beautiful.
+000:43:43 Eisele (onboard): See out here?
+000:43:45 Eisele (onboard): Let's see. I thought that...
+000:43:46 Cunningham (onboard): I can't see it from here.
+000:43:47 Cunningham (onboard): What's the flashes that I see.
+000:43:51 Eisele (onboard): Did you see some flashes? I did too, Walt.
+000:43:53 Cunningham (onboard): I did [garble].
+000:43:54 Eisele (onboard): [Garble], huh?
+000:43:55 Schirra (onboard): I wonder if that's that hydrogen venting? It's not thrusters, I hope.
+000:43:59 Eisele (onboard): I hope not there.
+Apollo Control here again. We're still attempting to establish HF communications. We want to emphasize that there is nothing wrong at all with our VHF channel via the other means of communication, but we are exploring just how good the HF system is at this extraordinarily long range. Apparently the communicator at the Tananarive station may be hearing something from the spacecraft we are not. It is just a shake down test of the total communications capability that we have, and we'll leave the carrier up, although it looks like they are moving out of the range of Tananarive. We'll leave it up another minute or two. At 44 minutes into the flight, the crew getting its first look at the Indian Ocean after departing the African continent. This is Apollo Control, Houston.
+000:44:00 Cunningham (onboard): Well, you know it could be. That's probably the S-IVB attitude...
+000:44:01 Schirra (onboard): Probably the attitude thrusters...
+000:44:04 Eisele (onboard): It's the attitude thrusters.
+000:44:05 Schirra (onboard): I'll bet that's the S-IVB - I saw one too. That's why I wondered.
+000:44:08 Eisele (onboard): Yes.
+000:44:09 Schirra (onboard): I bet that's it. Okay, we've got that one logged, I assume.
+000:44:12 Cunningham (onboard): Yes, the tape's running. Look at - Incidentally, the thing we're going to have to watch on that tape is, when we get over a station now, they're going to dump it, and for that period of time we've lost it.
+000:44:22 Eisele (onboard): Oh, that's weird. I see two points of light on the ground. Looks like the stars are going through the Earth again.
+000:44:29 Schirra (onboard): Yes, I see it. (Laughter)
+000:44:30 Cunningham (onboard): Yes, I see it too.
+000:44:31 Schirra (onboard): It's a trick of that simulator.
+000:44:39 Cunningham (onboard): (Laughter) Oh, it's a piece of cake up here, isn't it?
+000:44:41 Eisele (onboard): Oh, it's a good feeling.
+000:44:46 Cunningham (onboard): You know, I have the feeling that I'm upside-down.
+000:44:48 Schirra (onboard): That's good, 'cause you are. (Laughter)
+000:44:50 Schirra (onboard): You'll notice the curvature of the Earth is a little bit flatter than what we saw in the simulator.
+000:44:53 Cunningham (onboard): Yes.
+000:44:55 Eisele (onboard): Just a little.
+000:44:56 Schirra (onboard): Did you see that flash then down there?
+000:44:57 Eisele (onboard): I sure did.
+000:44:58 Cunningham (onboard): Hey, I'll tell you something. The stars are clearer here, Donn, than I've seen them on the ground. I can point out Pleiades very nicely.
+000:45:04 Schirra (onboard): Have you got the Pleiades?
+000:45:05 Cunningham (onboard): Yes.
+000:45:06 Eisele (onboard): Man, I hope they stay that way.
+000:45:07 Cunningham (onboard): 1, 2, 3. I can see six of them. There's supposed to be seven. I could see seven, I'll bet, but we've got that dread LEB [lower equipment bay] light wiping me out.
+000:45:15 Eisele (onboard): Yes.
+000:45:20 Schirra (onboard): That's a good testimonial for the windows.
+000:45:23 Cunningham (onboard): Yes, but of course, it could possibly get worse, you know, as the flight goes on, though. That's kind of...
+000:45:27 Eisele (onboard): Well, what I'm thrilled about is the fact that they're not occluded by that damn tower.
+000:45:32 Eisele (onboard): Yes.
+000:45:33 Cunningham (onboard): Hey, that's spastic! Did you put anything on tape on that? That thing takes off like a scalded eagle!
+000:45:37 Schirra (onboard): Yes sir! No, that goes off like the - that's the jettison motor, isn't it?
+000:45:41 Cunningham (onboard): Yes. That's just a jettison motor, yes.
+000:45:44 Eisele (onboard): Yes.
+000:45:45 Eisele (onboard): I didn't see much out there out through the center window. I saw a little orange flame and some little pieces go by.
+000:45:49 Schirra (onboard): Well, that's something else I want to get on the tape during boost. Just before 2 minutes, I saw a wisp of smoke between the boost protective cover and my number 2 rendezvous window here.
+000:46:01 Cunningham (onboard): Huh!
+000:46:02 Schirra (onboard): Like something was cooking. It really drew my attention. I'm just naturally conscious of something like that.
+000:46:07 Cunningham (onboard): I'll be darned!
+000:46:08 Schirra (onboard): It was outside of the spacecraft, but between the spacecraft and the boost protective cover. Well, Walt...
+000:46:14 Cunningham (onboard): Yes?
+000:46:15 Schirra (onboard): You know how the airglow is. You can see stars at 12 o'clock, below us.
+000:46:20 Cunningham (onboard): 12 o'clock, you said?
+000:46:21 Schirra (onboard): See that big white star?
+000:46:23 Cunningham (onboard): Yes. Oh, yes.
+000:46:24 Schirra (onboard): Well, that airglow is way up there. It's a good 2 or 3 degrees.
+000:46:27 Cunningham (onboard): But what bothers me - is that a star?
+000:46:29 Schirra (onboard): That's a star you see there - watch it come up through. See that bright star right there?
+000:46:33 Cunningham (onboard): It's very bright.
+000:46:37 Schirra (onboard): [Garble]. It's coming up through the airglow, and now it's right on the edge of it.
+000:46:41 Eisele (onboard): You know what that might be? It might be down around where Sirius could be.
+000:46:42 Schirra (onboard): Yes, and I think it is.
+000:46:44 Eisele (onboard): Yes.
+000:46:45 Schirra (onboard): See, now it's out of the airglow.
+000:46:47 Cunningham (onboard): I see a couple of meteorites. That's what those lights are moving.
+000:46:49 Eisele (onboard): Very likely.
+000:46:50 Cunningham (onboard): Yes, I saw some meteorites burning themselves in.
+000:46:54 Eisele (onboard): That's fun to see, Walt.
+000:46:58 Schirra (onboard): At last Walt has a window to play with.
+000:46:59 Cunningham (onboard): Yes. (Laughter)
+000:47:01 Cunningham (onboard): That's why I noticed the tower going somewhere. It was the first time I could see out.
+000:47:04 Schirra (onboard): Yes.
+000:47:06 Cunningham (onboard): But look, I've got - that is Sirius coming up very nicely. You can see it through the airglow for a long way.
+000:47:11 Eisele (onboard): Yes, I saw it about 2 or 3 degrees below the airglow.
+000:47:14 Cunningham (onboard): All I can say is the target'll be easier to find here, Donn.
+000:47:17 Eisele (onboard): Yes, I hope they work through the optics, too. (Laughter)
+000:47:20 Schirra (onboard): [Garble]. (Laughter)
+000:47:23 Schirra (onboard): Okay, we have about 6 minutes to go to Carnarvon. Let's - What do we need over Carnarvon?
+000:47:29 Eisele (onboard): Turn your - turn the flood out a second, Wally.
+000:47:31 Schirra (onboard): Do what?
+000:47:32 Eisele (onboard): Is that the Southern Cross you got out there?
+000:47:34 Eisele (onboard): We're due over Carnarvon at 53:40.
+000:47:37 Cunningham (onboard): Yes, what are we supposed to have done by then?
+000:47:40 Schirra (onboard): Yes, that's what that is, isn't it?
+000:47:42 Cunningham (onboard): Oh, that's pretty.
+000:47:46 Schirra (onboard): That's right, you haven't seen that before, have you?
+000:47:49 Cunningham (onboard): No, I didn't think it would look that big.
+000:47:50 Schirra (onboard): Yes.
+000:47:53 Cunningham (onboard): I'll tell you one thing, I'm going to have - no, maybe it won't make it up. I should have Orion over here. Yes, I'll bet Orion is over here in this blind spot, Wally.
+000:48:05 Schirra (onboard): Oh.
+000:48:06 Cunningham (onboard): Isn't that nice?
+000:48:09 Schirra (onboard): We're pretty far south, you know.
+000:48:11 Cunningham (onboard): Yes, hut I've got Taurus out here and what is it - Aldebaran?
+000:48:17 Schirra (onboard): Yes, you know what you're looking at, Walt, that bright star was Betelgeuse.
+000:48:21 Cunningham (onboard): Over here?
+000:48:22 Schirra (onboard): No, Orion's belt has come up through the airglow...
+000:48:23 Cunningham (onboard): Yes, I know.
+000:48:25 Schirra (onboard): That was Bellatrix there. Wait a minute.
+000:48:28 Cunningham (onboard): That's Sirius.
+000:48:29 Schirra (onboard): No, no, no, no, it isn't; no, no, that bright star at 12 o'clock...
+000:48:32 Cunningham (onboard): Oh, Rigel you're talking about.
+000:48:34 Schirra (onboard): Rigel. You can see the...
+000:48:36 Cunningham (onboard): Wally, you're right.
+000:48:37 Schirra (onboard): There's the belt...
+000:48:40 Cunningham (onboard): Yes, you're right. That's Rigel. Yes, I was looking at part of...
+000:48:43 Cunningham (onboard): We ought to see another - hard star to find down underneath.
+000:48:46 Schirra (onboard): Sirius isn't coming up yet. We could use Sirius as a mark.
+000:48:49 Cunningham (onboard): Well, Sirius is coming up now. I think you can see it dead ahead of you.
+000:48:53 Schirra (onboard): It should be just in there, right between...
+000:48:55 Cunningham (onboard): It's just at the top of the airglow now. See it, just breaking out.
+000:49:03 Schirra (onboard): I don't think so. That's not bright enough.
+000:49:05 Cunningham (onboard): No, it might not be. It might be the bottom of the belt...
+000:49:08 Schirra (onboard): No, it'd be down in the belt a little more, coming up.
+000:49:12 Cunningham (onboard): We're going to have Orion nicely, though.
+000:49:l4 Schirra (onboard): Yes.
+000:49:16 Cunningham (onboard): We may be able to hack it. (Laughter)
+000:49:23 Cunningham (onboard): And what is that other star that we got down there, Donn, that's just below Orion, the hard one to find?
+000:49:33 Eisele (onboard): Gavavalon? No, that would be in the wrong place.
+000:49:34 Schirra (onboard): No [garble].
+000:49:35 Cunningham (onboard): No [garble] around Sirius.
+000:49:36 Schirra (onboard): Do you see Sirius now?
+000:49:38 Eisele (onboard): Yes.
+000:49:40 Schirra (onboard): It's bright and it...
+000:49:41 Schirra (onboard): That's what amazes me. Now that's 2 degrees by the COAS and 2.2 degrees right, below the airglow.
+000:49:47 Eisele (onboard): Okay.
+000:49:48 Schirra (onboard): Okay, let's get an elapsed time of 49:47.
+000:49:53 Cunningham (onboard): How do you - where do you draw your line at that airglow in row? Up top of center?
+000:49:57 Eisele (onboard): I'm using the COAS. When I saw Sirius, I measured the angle which should act within the COAS.
+000:50:03 Schirra (onboard): Okay, now that Sun looks like it's...
+000:50:06 Cunningham (onboard): I...
+000:50:07 Eisele (onboard): I'll give you a mark when I've got Sirius on the surface.
+000:50:09 Cunningham (onboard): Okay.
+000:50:12 Eisele (onboard): 10, 9, [garble].
+000:50:14 Cunningham (onboard): Yes.
+000:50:16 Eisele (onboard): Mark.
+000:50:17 Cunningham (onboard): Yes.
+000:50:18 Eisele (onboard): 50:14, 50:15.
+000:50:19 Cunningham (onboard): Yes.
+000:50:20 Eisele (onboard): That's quite a spread in time.
+000:50:22 Cunningham (onboard): Yes, it is.
+000:50:24 Eisele (onboard): And there's two definite layers. I see a layer right next to Earth. I see a star. There's one coming up...
+000:50:28 Schirra (onboard): That is beautiful.
+000:50:30 Eisele: There it is. There it is now about halfway between the two layers.
+000:50:33 Cunningham (onboard): Right.
+000:50:34 Schirra (onboard): There's a low, low, low layer. See?
+000:50:35 Cunningham (onboard): Yes.
+000:50:37 Eisele (onboard): You know that's a [garble] If we only had a tool to do it [garble]. Wow! That's almost - It thins out at 4.
+000:50:43 Cunningham (onboard): You know, if you'll look out the side, Wally, it seems to be more evident.
+000:50:47 Schirra (onboard): Well, dead ahead at 12 o'clock, it's 3 degrees on my COAS.
+000:50:52 Eisele (onboard): Look at this little window-shade tab going around.
+000:50:57 Schirra (onboard): Oh, really?
+000:50:59 SC (onboard): Yes, [garble]. (Laughter.)
+000:51:00 Cunningham (onboard): Why don't we take a peek at that Flight Plan, and see what we've got to come up with at Carnarvon. Anything?
+000:51:05 Schirra (onboard): Just my COAS.
+000:51:06 Eisele (onboard): Quite a few...
+000:51:07 Cunningham (onboard): It looks like it's trying to lock on, gang.
+000:51:10 Eisele (onboard): At Carnarvon?
+000:51:11 Schirra (onboard): Over some place. I don't know what else it could be.
+000:51:16 Eisele (onboard): Okay, at Carnarvon. Install COAS, lithium hydroxide, I mean hydrogen, vent Open. We have a report from MCC, Go/No-Go, S-IVB passivisation,...
+000:51:26 Cunningham (onboard): You ready to get out when you get a Go/No-Go, Donn?
+000:51:28 Eisele (onboard): ...Yeah, boy. CMP to LEB, finish insertion checklist. Stow LMP, CMP, and CDR gloves and lifevests...
+000:51:35 Cunningham (onboard): First thing we can pick up is complete ECS insertion checklist, huh?
+000:51:42 Cunningham (onboard): We can forget about that one for a while.
+000:51:56 Schirra (onboard): We'll be at Carnarvon in about another minute.
+000:52:01 Eisele (onboard): It's too bad that everybody can't see this.
+000:52:06 Cunningham (onboard): Yes, it's a shame.
+000:52:09 Schirra (onboard): Few nice guys like me want to hang around and go again. (Laughter)
+000:52:14 Cunningham (onboard): You got that now, huh? (Laughter)
+000:52:19 Schirra (onboard): It's kind of hard to get rid of it.
+000:52:20 Cunningham (onboard): I noticed you weren't terribly excited about that Red down there, but I...
+000:52:25 Schirra (onboard): No, I told you I get Go fever. (Laughter)
+000:52:30 Cunningham (onboard): I can't think anything more natural.
+000:52:31 Schirra (onboard): Yes.
+000:52:36 Eisele (onboard): COAS off. Hey look, I've got a lockup, gang.
+000:52:41 Cunningham (onboard): Okay, let's see what they have to say. Let's try - If you want, I can turn S-band up. Let me have the chart.
+And this is Apollo Control Houston at 52 minutes into the flight. In a very few seconds, we will put in a call to the crew by the Carnarvon station on the west coast of Australia. I just got a call that Carnarvon had acquired - the acquisition aid had locked up. The discussion over the Australian pass is always an interesting one and here comes the comm now. Tom Stafford from here.
+000:52:47 Schirra: Houston CapCom, Apollo 7 over Carnarvon.
+000:52:51 Stafford: Roger, Apollo 7, this is Houston. Reading you loud and clear.
+000:52:54 Cunningham: Roger, read you same. We're having a ball.
+000:52:56 Stafford: Roger. We read you loud and clear over Tananarive, Wally, but evidently you could not read us.
+000:53:02 Schirra: Fine, Tom.
+000:53:03 Stafford: Okay. We have new time for your LOX dump. The LOX dump...
+000:53:06 SC (onboard): [Garble] record launch vehicle [garble] S-IVB passivation. I guess I could get that now.
+000:53:08 Schirra: Wait a minute. Okay. Go ahead, Tom.
+000:53:12 Stafford: Roger. The S-IVB dump will occur at 1 plus 34 plus 27, estimated Delta-V of 32 feet per second [10 m/s]. [Long Pause]
+000:53:21 Unknown (onboard): Yes, I don't know if it means immediately before or not. Hey, the tape is running again, so can't we [garble].
+000:53:24 Unknown (onboard): Yes.
+000:53:25 Schirra: Did you get that, Walt?
+000:53:27 Cunningham: Roger. 1 plus 34 plus 27, 32 feet per second.
+000:53:32 Stafford: Roger.
+000:53:35 Schirra: Do you read?
+000:53:36 Stafford: Roger. We got them.
+000:XX:XX Unknown (onboard): Okay, recording the - the launch vehicle...
+000:XX:XX Unknown (onboard): [Garble] oxidizer A is 22.0 and B is 22.0.
+000:53:38 Schirra: Okay. We've completed the post-insertion checklist down to where the CMP has to get out of the couch. Standing by for your Go/No-Go.
+000:53:45 Stafford: Roger.
+000:53:47 Schirra: I'd like to give you a little fast report on what we get here.
+000:53:51 Stafford: Go.
+000:53:53 Schirra: The windows appear to be almost crystal clear - which is good news for all of us - and we have very good visibility out of all five windows. And in that center hatch one, there is a drain for monitoring boost.
+000:54:08 Unknown (onboard): You know what I hear? I bet it is [garble] heard [garble] it from.
+000:54:09 Stafford: Roger.
+000:54:11 Schirra: We've noted the airglow here and made some data on it. It looks like it's about 3 degrees thick as we approached Carnarvon - at night, of course. We measured that with a COAS.
+000:54:26 Stafford: Roger.
+000:54:27 Schirra: [Garbled] POUs are still at 12 o'clock, [garble] arrived at 12 o'clock this trip.
+000:54:35 Stafford: You've seen me before.
+000:54:37 Schirra: (Laughter) Roger. [Garble] came into view 3 degrees before the top of the airglow, where that was the surface of the Earth.
+000:54:47 Stafford: Okay.
+000:54:49 Schirra: I'll see if Donn and Walt have anything to pass on.
+000:54:52 Stafford: Okay. Stand by. May want to get you a Nav load right now for the Go/No-Go. Stand by.
+000:54:57 Schirra: Okay. [Long Pause.]
+000:55:33 Swigert: Apollo 7, Houston.
+000:55:37 Schirra: Go ahead.
+000:55:39 Swigert: Roger. You have a Go, and guidance would like to send you an update.
+000:55:46 Schirra: Roger. Stand by.
+000:55:52 Schirra: Roger. We're in Block; will go to Accept on your call.
+000:55:55 Swigert: Roger. Go to Accept.
+000:55:58 Schirra: We are in Accept, Understand we're Go for two one.
+000:56:01 Swigert: Affirmative.
+000:56:02 Schirra: Roger. Jack, I'm observing your rewinded tape dump. We would like to get a good reading on Go/No-Go on the DSE as soon as you can.
+This is Apollo Control Houston. The platform in the guidance component of the spacecraft checked out very nicely. It's within less than a half of a degree in all respects, precisely where it should be. The angles have all been taken into consideration now. As we move across Australia, we would anticipate from the crew that they had begun to remove things, like gloves and their lifevests, and probably their helmets. The Lunar Module Pilot Walt Cunningham, should be finishing up his insertion checklist, his extensive list.
+000:56:11 Swigert: Okay.
+000:56:16 Schirra: Total of LOX dump was 1 plus 31 plus 27, 33 feet per second.
+000:56:22 Swigert: Roger. We copy. Okay. It's coming up. [Long Pause.]
+000:57:41 Swigert: Apollo 7, Houston. The load is in, has been verified; the computer is yours.
+000:57:48 Schirra: Very good. [Long Pause.]
+000:59:47 Swigert: Apollo 7, Houston. One minute LOS Carnarvon; we pick you up Honeysuckle S-band almost immediately.
+000:59:56 Schirra: Okay. Jack, Donn is taking off his suit now; Walt's and mine are still on. We get an O2 Flow Hi when Donn opens up the suit, and we analyze that as the suit rate trying to catch up to the cabin, so we are Go.
+001:00:12 Swigert: Okay. We copy.
+001:00:15 Schirra: Okay. Jack, we're got the suit flow valve off now, and the O2 flow is dropping down.
+001:00:22 Swigert: Okay. We copy.
+001:00:25 Schirra: No problem; it's just that we haven't seemed to be able to stop at the right thing.
+001:00:30 Cunningham: Hey, Jack, are they going to be able to get the tape recorder rewound before we get LOS?
+001:00:35 Swigert: Stand by.
+001:00:38 Schirra: [Garble] for 6 minutes.
+001:00:43 Swigert: Okay. Apollo 7, Houston. We got the tape recorder rewound over the Canaries. We will do a dump over MILA.
+001:00:55 Schirra: Roger. [Pause.]
+001:01:04 Cunningham: We would like to have a reading of just what you got on that tape, because we were talking on it continuously. ...
+001:01:12 Swigert: Okay. Will do. We'll do that over the stateside pass, Walt.
+Very long comm break.
+001:XX:XX Unknown (onboard): Walt, do you want me to get some of those pyro breakers on [garble]?
+001:XX:XX Unknown (onboard): Okay, Donn.
+001:XX:XX Eisele (onboard): Yes.
+000:XX:XX Unknown (onboard): [Garble.]
+001:XX:XX Eisele (onboard): Okay, we can continue with this now. It's - we've got the drinking water supply valve to come - well, while you're there, let's get the pyro breakers.
+001:06:36 Schirra (onboard): Okay, I'll get them, that's what I was asking about. They're coming Off now.
+001:06:40 Cunningham (onboard): No, we want to leave them On until after S-IVB. That's right.
+001:06:42 Eisele (onboard): Okay, they're in, then.
+001:06:43 Cunningham (onboard): Okay.
+001:06:44 Schirra (onboard): That's what I was asking. Did you want them in?
+001:06:45 Cunningham (onboard): Yes.
+001:06:46 Eisele (onboard): Fine and dandy. Verify they're in.
+001:06:50 Cunningham (onboard): Okay, we want to go ahead and - Drinking Water Supply valve, On.
+001:06:54 Schirra (onboard): Okay.
+001:06:56 Eisele (onboard): What is CNB? We're over that.
+001:07:00 Cunningham (onboard): What?
+001:07:01 Eisele (onboard): That's Huntsville, isn't it?
+001:07:03 Cunningham (onboard): CNB?
+001:07:04 Schirra (onboard): Now I wonder what that could mean.
+001:07:05 Eisele (onboard): Carnarv..., Carnarv...
+001:07:06 Schirra (onboard): Carnarv..., Canberra!
+001:07:08 Cunningham (onboard): Canberra, yes. That's Honeysuckle, I guess they call it.
+001:07:16 Cunningham (onboard): That noise is the tape recorder kind of going kk, kk, kk, kk.
+001:07:18 Schirra (onboard): It's terrible.
+001:07:19 Cunningham (onboard): Yes, I think that drinking water's On. My checklist says it's a valve.
+001:07:21 Schirra (onboard): Okay.
+001:07:22 Eisele (onboard): If that's the case, we're hearing it through here, by the way.
+001:07:25 Eisele (onboard): It sounds like it's on its last leg. (laughter) - It's loud as hell down there (laughter).
+001:07:28 Cunningham (onboard): Okay, Donn...
+This is Apollo Control Houston. We have lost signal via the Honeysuckle Creek outside of Canberra, Australia. It is a new station to join our network, and we should not hear from the crew again until the ship Huntsville, parked half way between Hawaii and the coast of California, picks them up at 1 hour and 24 minutes into the flight. We are 1 hour and 7 minutes into the flight right now and that was not a particularly communicative pass. We had a little comm in the early part. Apparently the crew going through their initial stowage of such things as the helmets and gloves. They're getting out pieces of equipment and getting squared away for the early revs of the flight. The stowage list called for the Command Pilot to stow various temperature devices, flight data files, install a urine filter, and adjust the couch position. They will be also unstowing and assembling some cameras, and loading them with film as they fly in a northerly direction up across the Atlantic, excuse me, the Pacific. A reminder; we are flying at 32 degrees north and south of the equator on this flight as opposed to the 28 degrees we flew throughout the Gemini program. We flew 32 degrees in Mercury and we are back at that altitude, at that longitude. At 1 hour and 8 minutes into the flight, this is Apollo Control in Houston.
+The PAO announcer it getting somewhat tongue-tied with his explanations. Apollo 7's orbit is inclined 32° to the equator. In other words, the most northerly and southerly latitude of the spacecraft's ground track will be at 32° north and south respectively.
+001:07:31 Eisele (onboard): Yes?
+001:07:32 Cunningham (onboard): Do you want to check the Systems Test Meter 4A to see what the battery manifold pressure is?
+001:07:36 Eisele (onboard): Okay, 4 it is.
+001:07:42 Cunningham (onboard): What are you reading?
+001:07:43 Eisele (onboard): I'm reading 3.7 volts.
+Panel 101 - System Test Meter
+Often in instrumentation, the output of a particular sensor is a voltage which bears some sort of relationship with the phenomenon that is being measured. The Apollo spacecraft is festooned with sensors, each producing a voltage with varying ranges. An electronics unit takes all these voltage ranges and changes them all to fit within the range 0V to 5V. This has two advantages. First, by standardising the range, it is easier to telemeter the signals to Earth as the five-volt range can be represented in a simple digital range, say from binary 00000000 to binary 11111111 (0 to 255 decimal). Second, instead of filling an already cramped spacecraft with more meters and gauges, a single meter can be used for the less critical readings. Some simple switching can then permit a large number of sensor outputs to be read on this single meter. This is the System Test Meter.
+There are two knobs and they act as a simple matrix which allows access to up to 28 different readings. The crew or Mission Control can translate the voltage reading to a calibrated measurement of, in this case, the pressure of gas inside the compartment where the CM's batteries are installed.
+It is possible for the batteries to outgas under abnormal conditions and this gas enters a common manifold from where it can be manually vented into space. However, after launch, this manifold is still pressurised with sea-level atmosphere so it is a standard procedure soon after insertion to vent this. Walt is a Lunar Module Pilot without a Lunar Module, but in the CSM, he is tasked with keeping a close eye on the health of the spacecraft's various systems. Though Donn is going to operate the vent valve, Walt is guiding him based on his specialist knowledge.
+001:07:46 Cunningham (onboard): Roger. We are reading 3.7 volts. We're going to go ahead and now vent the battery manifold. We want to verify the Waste Storage Vent valve is Closed. You can pull my feetpads - footpads - down out of the way if you want to. It will give you a little more room there.
+001:08:03 Eisele (onboard): Feetpads, okay, that's a good idea. Footpads down. Now, say again there...
+001:08:08 Cunningham (onboard): Waste Storage Vent valves. You've got to verify that one is Closed.
+001:08:12 Eisele (onboard): Waste Storage Vent valve is Closed...
+001:08:15 Cunningham (onboard): ...and the Waste Management Overboard Drain valve, Closed.
+001:08:19 Eisele (onboard): Okay, the Overboard Drain is going to Off. Okay, now...
+001:08:22 Cunningham (onboard): Now, vent the battery for 5 seconds.
+001:08:29 Eisele (onboard): Alright, going to Vent for 5 seconds.
+001:08:31 Cunningham: And I'll watch the meter go right on down there - 1, 2. You can let it go a little longer. I can see the meter is still moving.
+001:08:37 Eisele (onboard): Okay.
+001:08:39 Cunningham (onboard): Okay, that looks like it has stopped, Donn.
+001:08:41 Eisele (onboard): Want me to close it?
+001:08:42 Cunningham (onboard): Yes.
+001:08:43 Eisele (onboard): Alright, Closed.
+001:08:44 Cunningham (onboard): Now we want to put the Waste Management Overboard Drain valve back to Dump.
+001:08:49 Eisele (onboard): Okay, back to Dump.
+001:08:52 Cunningham (onboard): And we can read onto the tape what the battery manifold pressure reads...
+001:08:57 Eisele (onboard): What do you want with this Waste Storage Vent? Do you want that in Off or Vent?
+001:09:00 Cunningham (onboard): The Waste Management Overboard Drain valve...
+001:09:02 Eisele (onboard): Yes, that one's in Dump...
+001:09:07 Cunningham (onboard): ...to Dump.
+001:09:08 Eisele (onboard): The Waste Storage Vent, isn't that Open?
+001:09 11 Cunningham (onboard): No, we would leave that one Closed, but...
+001:09:13 Eisele (onboard): We do, huh? Okay, how about the...
+001:09:18:Cunningham (onboard): We have to have one of those...
+001:09:20:Eisele (onboard): Something's got to be open.
+001:09:22 Cunningham (onboard): That's right, and - would you believe I've got the same valve called out twice in the checklist three lines apart?
+001:09:29 Eisele (onboard): Oh, is that what it is?
+Day 1, part 1: Launch and Ascent to Earth Orbit
+Journal Home Page
+Day 1, part 3: S-IVB Takeover Demonstration, Separation, and First Phasing Maneuver

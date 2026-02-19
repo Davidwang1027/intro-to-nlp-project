@@ -1,0 +1,742 @@
+A15FJ - Day 4, part 2: Lunar Orbits 1 & 2
+Day 4, part 1: Lunar Encounter
+Journal Home Page
+Day 4, part 3: The Descent Orbit
+Apollo 15
+Day 4, part 2: Lunar Orbits 1 & 2
+Corrected Transcript and Commentary Copyright © 1998-2026 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2026-01-25
+Index to events
+Rev 1, Loss of signal
+080:17:42 GET
+Rev 2, Acquisition of signal
+081:11:31 GET
+Descent Orbit Insertion (DOI) PAD
+081:31:14 GET
+TEI-4 contingency manoeuvre PAD
+081:34:19 GET
+Rev 2, Loss of signal
+082:28:16 GET
+Flight Plan page 3-84.
+As the crew begin their first meal in lunar orbit, the S-band auxiliary channel, which can be set to transmit science data from the SIM (Scientific Instrument Module) bay or TV from the onboard TV camera, is switched to Science. The Gamma-ray Spectrometer and the Alpha Particle experiment are switched on to begin the sequence of orbital science. Both of these instruments can collect data from the Moon from either the day or night sides. Other instruments, such as the cameras and the X-ray Spectrometer, rely on sunlight to work.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 79 hours, 3 minutes. Very early look at the orbit shows the parameters 170.1 by 57.8 nautical miles [315 by 107 km]. This is a very early rough look and will be refined.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We'll explain the clocks on the moni - TV monitors in the News Center. The top clock is counting to Loss Of Signal time on the spacecraft; 1 hour, 13 minutes, 5 seconds from now. The bottom clock, identified with the initials ET, is counting down to S-IVB impact; 17 minutes, 24 seconds from now.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. The Apollo 15 crew will not be able to see the S-IVB impact. The impact point is in darkness and it is too far away from the spacecraft location.
+Mission Control have been replaying the DSE (Data Storage Equipment), an onboard tape recorder for storing digital data and cabin voice. It had been recording telemetry from the spacecraft, including the big engine, while the LOI (Lunar Orbit Insertion) burn was taking place over the far side of the Moon. With communications with Earth restored, Mission Control can replay the tape and see how the systems have performed.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+079:13:31 Henize: 15, Houston.
+079:13:35 Scott: Houston, 15.
+079:13:37 Henize: We've just got through with the [DSE] playback, and we've got excellent burn data down here. And, if you'll give us Accept we'll send up a REFSMMAT.
+079:13:47 Scott: Okay; you've got P00 and Accept.
+079:13:52 Henize: Thank you.
+By asking the crew to select Program 00 (POO in the shorthand of Apollo) and the Accept mode on the computer, Mission Control are able to uplink data directly into it. In this case, they are sending up a new REFSMMAT.
+Apollo 15's guidance platform is currently aligned according to the LOI REFSMMAT, matching the orientation of the spacecraft during the LOI burn. Soon, Al will change it to the landing site REFSMMAT which is just now being uplinked to the spacecraft. This new orientation is defined as the orientation of the landing site, with respect to the stars, at the time of landing; and is chosen so that the FDAI or "8-ball" in the LM will display 0° in all three axes at the ideal time and place of landing, assuming it lands in a fully upright attitude. Note that this ideal landing attitude is never achieved in real landings because of the relentlessly undulating nature of the lunar surface.
+To change to this new platform alignment, Al will carry out the P52 realignment process twice; once to the LOI REFSMMAT, so that the drift of the platform since the last P52 can be measured and eliminated, and a second time to swing it around to the landing site REFSMMAT.
+079:13:57 Scott: And Houston. We're over Mare Crisium at the present time, and the sights are really striking. I guess some of the interesting things we've noted is the variation in albedo from white to dark gray with many variations of gray in between. And many times, this albedo change appears without any significant change in topography, other than perhaps a - a mountain ridge or a chain or a wrinkle ridge or something, but there are many vari - variations in the albedo all over the surface. I guess our general consensus is that it's gray. We haven't noticed any brown yet.
+079:14:49 Henize: Excellent. If I'm not mistaken, this is probably the first time men have been over Crisium. [Pause.]
+079:14:59 Scott: I guess that's probably right. [Pause.]
+As seen from Earth, the landing site is 26° north of the centre of the lunar disk and Apollo 15 has entered an inclined orbit to take it over the site. As previous missions had landing sites located near the lunar equator, none had orbited at such an inclination. Having reappeared around the eastern limb, and travelling roughly WNW, the crew are flying over new territory and have a close up view of Mare Crisium, a small but distinctive and isolated mare which is easily visible from Earth by the naked eye as a dark blotch, well to the right of the Moon as seen from the northern hemisphere. None ever reached the 11° to 24° latitude required to fly over Mare Crisium.
+079:15:09 Scott: We have everything from the very old subdued craters that are almost completely washed out to the very bright fresh ones which have interior walls of almost pure white. [Pause.]
+The Sun is high in the sky at Mare Crisium (Sea of Crises) and there are virtually no shadows to indicate relief. Variations in the landscape's reflectivity, or albedo, provide the dominant cues and betray the intrinsic hue of the various basalts and overlaying ejecta rays that come in from nearby impacts. Within the darker colour of the mare, fresh impact craters appear white from the intense shock sustained by the rocks, whose structure is riddled with countless tiny fractures which reflect and scatter sunlight.
+079:15:24 Henize: We're lapping it up down here. Keep talking if you feel like it. [Pause.]
+079:15:37 Scott: Another interesting fact that - that we've all noticed is that it - it looks like a great desert across which we've had a number of dust storms. And, in many places, you can see the - the tracks or the swirls across the surface which looks like the - a great dust storm has been blowing across the surface - primarily indicated by the albedo change. But all over Crisium, you can see the streaks, which obviously are from impact at some point or another, but the impression we get is that the [swirls are the] result of a dust storm.
+079:16:12 Henize: Very interesting. [Pause.] 15. The computer is yours.
+079:16:27 Scott: Say again.
+079:16:29 Henize: The computer is yours.
+079:16:33 Scott: Okay. [Pause.]
+Now that Mission Control have uplinked the new REFSMMAT, the crew can place the Up Telemetry switch, next to the DSKY (Display and Keyboard), to Block (meaning to inhibit the passage of data) and begin using the computer again. This new orientation, one which is based on the orientation of the landing site, will be relevant until near the time the LM returns from the surface and will be first brought into play when the IMU platform is realigned in just over half an hour's time.
+079:16:43 Worden: Karl, this is Al. I'd have to say pretty much what Dave's been saying. You might be interested to know that we're coming up over Peirce right now, and just about to hit the west rim of Mare Crisium, and kind of looking forward to taking a look at Proclus as we get up a little bit closer here. There are a couple of craters just to the north - northeast corner, and we'll pin point those a little better for you later. A very, very small crater that looks like it's had some dark material slide down into the crater, the eastern wall of the inside of the crater has some very dark material in it, and at - at this Sun angle, it doesn't appear that it's shadow.
+Early in the mission, the PAO announcer sounded almost grumpy at how quiet the Apollo 15 crew were on the air/ground. Having reached their quarry, they are quiet no more.
+Isolated in the western half of Mare Crisium, Peirce, an 18.5 km diameter crater, is named after an American mathematician and astronomer and it provides a good initial example of one of the most powerful methods of understanding the history of the Moon - its stratigraphy. By observing which lunar features obscure which, a relative timeline of lunar history can be deduced. Subsequently, when the age of rocks from a particular feature is measured, part of the stratigraphic timeline can be tied to an absolute date, helping to narrow the range of possibilities for features related to it.
+Mare Crisium is one of the simplest mare type formations on the Moon. It was formed when lava welled up from the Moon's interior to fill a primordial basin that had been carved out of the crust by the impact of a large meteoroid hundreds of millions of years previously. Sometime after the lava solidified, another smaller impact formed the crater Peirce, as we can see today by its shape with respect to the mare. In August 1976, the Soviet probe, Luna 24, landed on Mare Crisium, extracted a 1.6 metre core and returned it to Earth. From this sample, we know that the lavas which form this mare cooled 3.3 billion years ago and we can deduce that the impact event which formed the Crisium basin occurred before this, while Peirce must have been blasted into the mare after this date.
+Note that just because a crater exists within a mare, it does not necessarily mean that it is younger than the surrounding basalt. Some craters, Archimedes in Mare Imbrium is an example, predate the lavas which flowed up to and around their rims.
+079:17:32 Henize: Okay; we copy. [Pause.]
+That was Al Worden.
+079:17:39 Scott: And, you know, as we look at all this after the many months we've been studying the Moon, and learning all the technical features and names and everything, why - when you get it all at once, it's just absolutely overwhelming. There are so many different things down there, and such a great variety of land forms and stratigraphy and albedo, that's it's hard for the mental computer to sort it all out and give it back to you. I hope over the next few days we can sort of get our minds organized and get a little more precise on what we're seeing. But I'll tell you; this is absolutely mind-boggling up here.
+079:18:15 Henize: Gentlemen, I can well imagine that a foreign planet must be a weird thing to see.
+That was Dave Scott.
+079:18:25 Scott: And we've got Proclus in view right now.
+Proclus, named after an Athenian philosopher and mathematician, 410 - 485 A.D., is a 28 km diameter rayed crater beyond the western shore of Mare Crisium.
+Image C1760 from the Consolidated Lunar Atlas showing Earth-based view of Proclus and its immediate surroundings.
+This is an Earth-based view of Proclus. Its rim is polygonal rather than circular and its remarkable ray system displays a 120° excluded zone to the west bounded by two prominent rays. A notch in the crater's rim at the apex of the excluded zone is opposed by another dominant ray sweeping across Mare Crisium.
+Proclus and its context between Mare Crisium and northeast Mare Tranquillitatis. The excluded zone is called Palus Somni
+Lunar Reconnaissance Orbiter image of Proclus - Image by LROC/ASU.
+The cause of this striking layout and symmetry is believed to be due to the impactor striking at a relatively low angle to the surface. However, at the time of Apollo 15, this theory had not been adopted. Al is scheduled to observe Proclus as part of his visual observation program during his solo flight in the CSM at 128 hours GET. In the light of his observations, a temporary theory is developed suggesting the exclusion zone is due to the effects of the surrounding landforms and geological faulting on the pattern of material ejection by the impact.
+079:18:28 Henize: Excellent. Tell us about it if you have a chance. [Pause.]
+079:18:37 Scott: Well, the - the rays extending from Proclus are very light in color for about [pause] they're very light color for about - oh, 240 to 260 degrees around, and then there's a region of dark mare or albedo. And our - our orientation presently with the spacecraft is such that we have - we're having a tough time figuring out north and south; and, once we get on an orbit track, we'll be able to give you direction a little bit better. But the inner walls of Proclus are very light in color, almost white. The outer walls - the outer ring has a somewhat light gray appearance and the difference in the - the rays is really between a light and a dark gray as distinguished from the inner walls which are quite white. The - the walls exhibit some debris on the upper slopes, maybe the upper 30 percent. I can see, on one side of the - the crater, some large blocks. On another side, I can see what appears to be a large slump block or a large slumping of the wall that goes about halfway down and takes about - oh, 15 degrees of the rim of the crater with it. The floor is very irregular and rough, almost a constant gray - medium gray color, somewhat darker than the light gray on the outside rays and somewhat lighter than the dark gray on the - the surface, which does not seem to be covered with a ray pattern. There are a few ridges on the floor, arcuous ridges, and some domes which are quite prominent. And I'm sure when Al comes back over here later on and has a chance to study it carefully, he can give you a - a good accurate picture.
+079:20:55 Henize: Beautiful. [Long pause.]
+This is Apollo Control. Science commentary on the S-IVB impact will be available in the News Center briefing room. The commentator will be Dave Strangway from the MSC science directorate.
+The crew are due to use Program 20 to maneuver the spacecraft to an attitude which will permit photography of the lunar surface.
+P20 accepts values from the crew to allow the computer to keep one side of the spacecraft facing a particular direction or object, in this case the centre of the Moon. Three of these values (Noun 78) represent the attitude the spacecraft is to hold, relative to whatever it is tracking. A fourth value (Noun 79) defines the accuracy to which the required attitude should be held (described as the deadband, the range of attitudes from the ideal for which there will be no corrective thruster activity). ±5° is punched in for this. Finally, the object to be tracked is defined in Noun 70 by entering its octal "starcode". Not all the objects which have starcodes are stars, as Earth and the Moon are also in this list with numbers 47 and 50 respectively. Since they wish the spacecraft to track the Moon, they enter 50 into Noun 70.
+With all the values entered, the computer begins flashing "50" in the Verb display and "18" in the Noun display of the DSKY which essentially asks the crew if they would like to perform the auto-maneuver to the requested attitude. When the "Proceed" button is pressed, the computer fires the appropriate thrusters, causing the spacecraft to point the windows at the lunar surface and allowing photographs to be taken. The photography is not scheduled to begin until the beginning of the second revolution, midway around the far-side. The spacecraft will be crossing the terminator around this time where the low Sun angle will enhance the topography of the surface.
+079:21:36 Henize: 15, we would like to have Track to Auto on the High Gain [Antenna]. And, for your information, the Saturn IVB impact is going to take place in just a few minutes. It's going to be a - in a...
+079:21:51 Scott: Okay; very good. I wish we were in a...
+079:21:54 Henize: Right. It's [in] 2 minutes, 40 seconds, but it's going to be out of your visual range, somewhere around the center area of the Moon. [Pause.]
+079:22:07 Scott: Rog. It's too bad we won't get to see it. We'd already taken a look at the map to see if we'd have a chance, but I guess we'll miss that one. [Long pause.]
+Woods, from 2004 mission review: "To what extent did your preparation in looking at photographs and looking at maps help you when you got into lunar orbit and looking out the window. Did you find it very easy to find your way about. Know what you're looking at."
+Scott, from 2004 mission review: "Yeah. Pretty much. You know where your orbit is. You've studied the features below your orbit. It's pretty familiar. Yeah. Comfortable kind of feeling because you know pretty much what's there."
+Woods, from 2004 mission review: "All the way across from one side to the other?"
+Scott, from 2004 mission review: "Yeah. We studied, you know, the general, larger features. Al, of course, knew a lot more detail."
+Although photography is not scheduled for another hour and twenty minutes, a crew member has begun taking pictures of the landscape below using the Hasselblad camera, a 250-mm lens and film magazine M.
+Between Mare Crisium and Mare Serenitatis (Sea of Serenity) lies a large, heavily battered region which is currently north of the spacecraft's position. AS15-91-12351 to 12360 show various landmarks in this area. As the Sun is high in the sky over these areas, there is little relief shown in these photographs.
+AS15-91-12351 - Lunar surface - Image by NASA/Johnson Space Center.
+AS15-91-12352 - Lunar surface - Image by NASA/Johnson Space Center.
+AS15-91-12353 - Lunar surface including Newcomb, named after Simon Newcomb, 1835 - 1909, an American astronomer, with its sharply defined 39 km wall and a highly irregular outline, perhaps reflecting pre-existing faults in the terrain - Image by NASA/Johnson Space Center.
+AS15-91-12354 - Lunar surface - Image by NASA/Johnson Space Center.
+AS15-91-12355 - Lunar surface - Image by NASA/Johnson Space Center.
+AS15-91-12356 - Lunar surface - Image by NASA/Johnson Space Center.
+AS15-91-12357 - Lunar surface including Krichoff, seen at the bottom, a distinct but highly eroded 25 km crater which carries the name of the German physicist, 1824 - 1887, who is well known for his work on spectroscopic analysis. - Image by NASA/Johnson Space Center.
+AS15-91-12358 - Lunar surface - Image by NASA/Johnson Space Center.
+AS15-91-12359 - Lunar surface - Image by NASA/Johnson Space Center.
+AS15-91-12360 - Lunar surface, dimly showing a system of graben rilles, dropped floor valleys caused by extensional forces, which lead to the fractured pair of craters, Chacornac and Posidonius at the eastern shore of Mare Serenitatis. These rilles are arcuate, lying roughly parallel to the rim of the Serenitatis basin. - Image by NASA/Johnson Space Center.
+This is Apollo Control. The seismometer recorders on the monitors in the News Center are giving you a display of the Apollo 14 seismometer - the seismometer on the Apollo 14 ALSEP pack.
+The NASA PAO people are showing the news media the Apollo 14 seismometer chart in readiness for the impact of Apollo 15's S-IVB booster stage.
+079:23:11 Scott: Houston, 15, we're coming up to Serenitatis, and it really looks like an ocean. The landforms, as we approach, are very rugged, very highly cratered, rounded, and we get to the shoreline and we see a few wrinkle ridges that have smoothed out. And we can see, on the far side, on the horizon, the mountains which pick up again on the western side of Serenitatis.
+079:23:43 Henize: Roger 15.
+Apollo 15's current elliptical orbit has its low point over the Moon's far-side. Therefore, as they come towards their 315-km high point, or apocynthion, they can view across the entire width of Mare Serenitatis in one eyeful. Below them are the Montes Taurus which form the eastern rim of the Serenitatis basin while looking to the west, they can see Montes Haemus, the southwest range, and Montes Caucasus, the northwest range.
+As they come up to the eastern shore of Mare Serenitatis, they take photographs AS15-91-12361 to 12364, looking north towards Chacornac, and the southern rim of Posidonius.
+AS15-91-12361 - At the top of the image, a graben rille can be seen to cross the left wall of the degraded, Chacornac. The southern wall of Posidonius is to the right of this image. - Image by NASA/Johnson Space Center.
+Chacornac and Posidonius are like a matched pair in that they both have flat interiors, various rilles etch their surfaces, and they each sport a small, fresher, bowl-shaped crater slightly west of their centres. However, Posidonius, at 95 km diameter, has much more prominent walls than the disintegrated rim of 51-km diameter Chacornac and displays both of the major types of rille, the graben or dropped-floor rille and the sinuous rille, believed to have been formed by running lava. Posidonius, 135 - 51 B.C.E., was a Greek intellectual and Jean Chacornac, 1823 - 1873, was a French astronomer.
+AS15-91-12362 - Chacornac and, to the right, Posidonius - Image by NASA/Johnson Space Center.
+AS15-91-12363 - Chacornac and, to the right, Posidonius - Image by NASA/Johnson Space Center.
+AS15-91-12364 - Chacornac and, to the right, Posidonius - Image by NASA/Johnson Space Center.
+The camera's view is changed.
+AS15-91-12365 - a triplet of craters to the north of Posidonius extending north into Lacus Somniorum. Beyond them is Daniell, an oval crater, 30 by 23 km, named for John Frederick Daniell, 1790 - 1843, the English inventor of the hygrometer - Image by NASA/Johnson Space Center.
+The camera returns to Posidonius for a sequence, AS15-91-12366 to 12370, that allows the spacecraft's motion to move the point of view westward, starting at the western rim of Posidonius and moving out into Mare Serenitatis.
+AS15-91-12366 - Western rim of Posidonius and Mare Serenitatis - Image by NASA/Johnson Space Center.
+AS15-91-12367 - Western rim of Posidonius and Mare Serenitatis - Image by NASA/Johnson Space Center.
+AS15-91-12368 - Western rim of Posidonius and Mare Serenitatis - Image by NASA/Johnson Space Center.
+The final pair show the Gamma Prominence at the north end of Dorsa Smirnov, part of the complex of wrinkle ridges which snake over the mare. Dorsa Smirnov is, perhaps, the most prominent ridge on Mare Serenitatis. It is named after Sergei Smirnov, 1895 - 1947, a naturalist from the then Soviet Union.
+AS15-91-12369 - A small, fresh crater with a light halo of ejecta on Dorsa Smirnov - Image by NASA/Johnson Space Center.
+AS15-91-12370 - A small, fresh crater with a light halo of ejecta on Dorsa Smirnov - Image by NASA/Johnson Space Center.
+As the spacecraft nears the terminator, the shadows are becoming longer and the subtle relief of the mare is now distinct.
+079:23:46 Worden: Okay, Karl. We're coming up over Serenitatis now. We're almost over le Monnier and we can see the Littrow area just out in front of us. And it is, in fact, about three different shades. You can see the - in the upland area, and particularly what looks like down in the valleys, a darker color, and it does look like it's a light powdering - or dusting-over of the entire area. And then, as you get out further into Mare Serenitatis, there's another layering which is a little bit lighter in color. And that - out at the last edge of the wrinkle ridge, out beyond that is the last layer, and the rest of Serenitatis looks fairly - fairly light in color. So I'd say that the - the - centeral - central part of Serenitatis is light, out beyond the first wrinkle ridge is a darker layering, and we're not up close enough to see what it is yet, and then as you get up into the highlands around le Monnier and Littrow area itself, there's what - what appears to be a - a light dusting of dark material, and it certainly looks volcanic from here. Off to - to the left of that, to the south, we can pick up Sulpicius Gallus pretty clearly right now.
+Mare Serenitatis is visible from Earth as one of the eyes of the Man in the Moon - the right eye as we see it. The basalt which forms its surface is slightly darker in patches towards the shoreline, particularly in the east and southwest. This "dark mantling" was of considerable interest to the geologists involved in deciding where Apollo missions should land. They believed that it may be an indication of dark, volcanic material being spread over a older, slightly lighter surface. In effect, Al's training has cued him up to interpret the dark mantling as the result of relatively recent volcanism. It will take a proper study of the region by the crew of Apollo 17 to change the interpretation of the dark mantling. Prior to the Apollo 13 abort, and the subsequent decision to send Apollo 14 to its predecessor's landing site at Fra Mauro, NASA were planning to send 14 to some wrinkle ridges within the dark mantling near the eastern shore of Serenitatis.
+Le Monnier, named after an 18th century French astronomer, is a 61-km crater flooded with the lavas from the mare to form a bay on its eastern shore. The area to the south is part of Montes Taurus and includes the 31-km crater Littrow with its flat floor and degraded rim. Johann von Littrow, 1781 - 1840, was an Austrian astronomer. Close by lies a valley which would become the landing site for Apollo 17 in seventeen months time, due in part to Al Worden's up-coming observations from orbit and the geologists desire to find evidence of lunar volcanism. See also 122:18:17 and, especially 128:12:46.
+AS15-91-12371 - The southwest corner of Mare Serenitatis and the terminator between the lunar day and night. The illuminated rim of Sulpicius Gallus is visible lying in front of the lit peaks of Montes Haemus - Image by NASA/Johnson Space Center.
+At 079:24:42, while Worden was describing the landscape in and around Mare Serenitatis, the S-IVB stage impacted the Moon at 1.2902°S, 11.8245°W, 36 kilometres east of the east rim of crater Turner, 185.4 km northeast of the Apollo 14 landing site and 355.3 km ENE of the Apollo 12 landing site.
+LROC image of the 30-metre crater formed by the impact of the Apollo 15 S-IVB. Crater position is 1.2902°S, 11.8245°W - Image by LROC/ASU
+079:25:08 Henize: Roger, Al. Sounds like you're seeing a marvelous amount of detail up there. [Pause.]
+079:25:18 Worden: Well, after - after the King's training, it's almost like I've been here before.
+The person Al is referring to as "the King" is Farouk El-Baz, an important member of a team from Bellcomm that extensively studied the Moon's landforms with a view to landing site selection and which prepared the crews, especially Al, for their role as visual observers of the lunar surface. It is believed that Al is using this as a specific nickname for Farouk, rather than using it as an idiom of the period meaning "the best".
+Scott, from 2004 mission review: "I believe it was unique to Farouk as an individual, and not a generic term used by Al - it could have been related to Farouk's [Egyptian] origin; but it probably also had to do with their very close relationship, and perhaps some event that occurred during training."
+Journal contributor Brian Lawrence: "King Farouk I was king of Egypt from 1937 to 1952, when he was deposed in a coup by General Neguib. He was exiled in Italy from 1952-59 when he became a resident of Monaco. In exile he was a flamboyant, larger-than-life figure, with an extravagant playboy image and lifestyle. Since he was so well known, anyone named Farouk, who also happened to be Egyptian was bound to be called 'the King'."
+Worden, from 1998 correspondence: "[Brian is] absolutely right about why we called Farouk 'The King'. In fact I guess I probably started it. I don't know if you are aware of his history, but he defected from Egypt because they would not recognize his marriage to Pat, a wonderful Boston Irish red head. So, Farouk left the country, came to the US, where he had gone to college, and eventually joined the team that helped us with training. Now he is a distinguished visitor, consultant, lecturer and tour guide for the Egyptian government. Strange how things can turn around, given enough time."
+Bellcomm was a subsidiary of the huge AT&T telephone and communications company. Formed to meet NASA's needs in analysing many aspects of the Apollo program in 1962, it merged with Bell Laboratories ten years later, its involvement with Apollo completed.
+Scott, from 2004 mission review: "Another thing NASA did right in those days was to form Bellcomm. Bellcomm was superior, excellent, really good people. And they had the werewithall and the capability to go sit in any mission, any time and report to headquarters - report - tell headquarters what they're learning and advise headquarters on certain things."
+David Woods, from 2004 mission review: "Was part of the value of that, that they were not of NASA. That they could stand back and see a bigger picture."
+Scott, from 2004 mission review: "Yeah. Definitely. They were independent. Bob Seamans formed that early on to get an independent headquarters assessment of what was going on and evaluation. And, you know, Bellcomm is one of the few government agencies that, after it completed its mission, dissolved itself and went away. When Apollo was over, it went away. Pretty good."
+Frank O'Brien, from 2004 mission review: "Why was Bellcomm deemed as a necessary thing? Why wasn't that kind of function brought into the MSC at the time?"
+Scott, from 2004 mission review: "In the very early stages, the talent wasn't around to go to the Moon. So Webb and Seamans, as I recall, thought, 'We should go hire some outside talent that advises us. We're the managers. We have to make decisions. We need some very good people from the outside to watch how our people make decisions, and see if we're going in the right direction. So we'll go hire some people.' They started out with just a few. Went to Bell Labs and then it built up to whatever it built up to. You know, checks and balances. Reporting to the boss. It's always good. Bellcomm didn't have any real authority, but they went to the boss at headquarters and said we recommend this or suggest that or whatever. And it gave the bosses an independent assessment."
+Woods, from 2004 mission review: "Did they actually take part in the planning process?"
+Scott, from 2004 mission review: "Oh yeah, they did. They were heavily involved, as I recall, in MPAD [Mission Planning and Analysis Division] because they looked at other kinds of things. But they didn't get within, other than attending meetings and writing memos, they were not in the chain of command. They were not in the management process at that level."
+Woods, from 2004 mission review: "They also seemed to be heavily involved in landing site selection. Was that to try and cut through the NASA bureaucracy of trying to find one?"
+Scott, from 2004 mission review: "Expert advice. That's why they were hired; as experts, so expert advice. And they did a lot on 15 too. In fact, Jim Head wrote a great memo on Hadley. The reasons for and attributes for, because he was a geologist, an expert geologist. NASA had expert geologists too but not at that level."
+The seismic waves from the S-IVB impact reach the Apollo 14 seismometer at 079:25:19, 37 seconds after the event. Their speed through the lunar crust is therefore 5.08 km/second.
+079:25:23 Henize: You can't help yourself, can you.
+079:25:28 Scott: And, Karl. We're approaching the Apennine Mountains, and that is indeed a spectacular view.
+079:25:34 Henize: Roger...
+079:25:35 Worden: Sure is, Karl. No question about those mountains being there and where we're at with them.
+Apollo 12's seismometer is now reacting to the S-IVB impact, which it first picks up at 079:25:38, 55 seconds after the event. This time, the seismic tremors have travelled at the greater speed of 6.45 km/sec.
+079:25:41 Henize: They stand up on your horizon, do they? [Pause.]
+079:25:52 Irwin: Yeah; tremendous relief as we approach the mountains, Karl.
+AS15-91-12372 - View northwest at the western shore of Mare Serenitatis and the southern hills of the Montes Caucasus range - Image by NASA/Johnson Space Center.
+AS15-91-12373 - View northwest at the western shore of Mare Serenitatis and the southern hills of the Montes Caucasus range - Image by NASA/Johnson Space Center.
+These two photos show where the mare lavas form numerous embayments with the foothills of Montes Caucasus. The lighting is very oblique in this pair of images as, just beyond the peaks on the western side of the image, Mare Imbrium (Sea of Rains) is still in lunar night. They are about to pass over the landing site at Hadley, 300 km below them, but will not see it as it is also in darkness in a bay shadowed by the Montes Apenninus, a mountain chain which runs continuous from the southern end of the Caucasus chain and which forms the southeastern rim of the Imbrium basin.
+When discussing lunar geology, it is important to make a distinction between the mare, which are the large areas of basalt responsible for the dark markings over the lunar surface, and the basins, which often provide the supporting structure for the layers of mare basalt. Viewed in this light, the Apennine mountains are an exposed part of the rim of the Imbrium Basin, a huge impact-formed structure. Mare Imbruim consists of the layers of basalt which solidified from vast quantities of lava that poured out from the Moon's interior to fill the Imbrium Basin. Half a billion years separates the formation of the basin in a catastrophic event 3.84 billion years ago and its subsequent filling with mare basalts.
+079:25:58 Henize: Roger. And, for your information, gentlemen, we're getting a good seismic signal from the impact of the Saturn IVB. [Long pause.]
+079:26:50 Henize: 15, this is Houston. There is no update required on your T - on your TEI-4 PAD.
+The TEI-4 PAD was read up to the crew at 076:42:48. Mission Control are happy that it is still valid even after the LOI burn,
+079:26:59 Scott: Okay, Houston; understand. Houston, as we cross out of Serenitatis into the Apennines, why, it's just - unreal. You know, those are very poor descriptive terms, but the - mountains jut up out of the 'ocean' here in great relief. I'm sure the guys who've been here before can probably sit down over a cup of coffee and tell you. But the relief is really pervasive.
+In 1651, Giovanni Riccioli drew up a map of the Moon which established much of the lunar nomenclature we see today and, mistakenly, used the word "mare" for the prominent dark markings, invoking the metaphor of the sea. Yet despite Riccioli's "mistake", Dave is driven to invoke the maritime analogy again to describe Mare Serenitatis' similarity to a great ocean lapping at the mountains around its edge.
+079:27:35 Henize: You're the first man to fly over this mountain range, Dave. I guess pretty soon you're going to be over the - over the landing site, aren't you?
+079:27:48 Scott: Rog, but I'm afraid it'll be dark today.
+079:27:51 Henize: That's right. [Pause.]
+When Falcon lands in the lunar morning, the Sun will have risen 12° above the local horizon. There is still a day to go before the landing and in that time, the Sun will move through 12° of lunar sky. Therefore, if the Moon were a smooth sphere, the Sun would just now be rising over Hadley. However, the site is shadowed by the Apennines and the crew will not get a chance to look at it until after their rest period.
+The 12° Sun angle is much steeper than the 5° of previous missions. However, Apollo 15 is the first flight to approach the landing site at a 25° approach angle (12 to 14° had been used previously) to give the LM clearance over the peaks to the east of Hadley. The rule of thumb used by mission planners is that the elevation of the Sun behind the LM should be roughly half the approach angle to make the shadows of any craters and boulders visible to the crew. Yet, if the launch from Earth had been delayed by a day or so, the planners deemed that up to 24° would be acceptable.
+079:27:57 Worden: Karl, this is Al again. Looking down into Sulpicius Gallus area, looking at some of the wrinkle ridges and some of the rilles - the arcuate rilles down there, I can make out some distinct color patterns that seem to run parallel to the arcuate rilles - and along the wrinkle ridges, and there is a very subtle darker color, again almost as if it was - some kind of cinder fallout along the ridges and along some of the rilles.
+The 12.2-km crater, Sulpicius Gallus, lies near the south western edge of Mare Serenitatis in another in-shore area which displays dark mantling and, like the Littrow area, had been thought to be possibly volcanic. Al is continuing with this interpretation, based on his tutoring from Farouk El-Baz. Sulpicius Gallus was named after a Roman consul and scholar (c. 168 B.C.E.) who is honoured for predicting a lunar eclipse on the eve of a battle at Pydna, Macedonia.
+079:28:38 Henize: Roger, Al. [Long pause.]
+079:29:00 Scott: And Houston; we're coming up here on the terminator and the area, I guess we call Crackled Hills really looks like crackled hills. If you distinguish between the mountains, which are very prominent and smooth, the surface between the first small mountain range and the - what is now the terminator, is relatively flat with a very rough texture - very irregular, lower, crackled hills.
+Dave appears to be describing the "intra-massif." The true mountains are huge faulted blocks or massifs which form the highest summits along the rim of the Imbrium impact basin and which Dave describes as prominent and smooth. Further out from the centre of the basin, beyond the massifs, is the hummocky intra-massif which Dave is calling the "Crackled Hills" and which is nowadays known as the Alpes Formation. This is believed to be material from the impact event which formed the basin and which was deposited moments later just outside the rim, not having enough energy to travel further. Experiments with artificial impacts under laboratory conditions suggested that this may be the deepest material excavated by the impact, though lunar geologists are less certain of this nowadays and are unsure of its origin.
+Woods, from 1998 correspondence with Scott: "Can you remember what area of lunar surface you were referring to as the Crackled Hills? Was it an unofficial name among yourselves and the geologists on the ground?"
+Scott, from 1998 correspondence: "It probably was an unofficial name based on preflight discussions. As you are probably aware, prior to the mission, we covered many, many topics, areas, concepts, hypotheses, and other forms of geological discussions with the most prolific professors and teachers who existed at the time. And many (most) of these discussions, especially those after dinner in the crew quarters, were great fun, as well as the source of names, anecdotes, and other 'inside information' among the team who were preparing us for this unique expedition. During our planning (and learning) of lunar orbit, the amount of time even Jim and I would have in lunar orbit was remarkable, especially at the high inclination and over new 'ground.' Thus we had many, many 'inside' comments to make as we cruised along the lunar trails (tracks)!"
+079:29:35 Henize: We copy, Dave. [Pause.]
+079:29:47 Scott: Jim's - Jim calls it a gun-metal gray, and that's a - a very good term, I think, for the color that we're seeing now. [Pause.] And as we approach the terminator, of course, the relief stands out even more. The shadows are getting much longer, and the peaks of the mountains, as they're silhouetted against the - the Crackled Hills, seem to have a - a diffuse shadow at the top. The shadow, as it goes from the base of the mountain to it's peak, is very sharp. And around the top of the mountain, it becomes more diffuse, not - not quite as sharp and begins to blend in with the - the surface on which it's being cast.
+Dave's description of the change in the nature of the shadow implies that the mountains he is looking down upon have very rounded summits. Before the era of spaceflight, many artists, even those informed by astronomy, had depicted the Moon's topography to be very rough and craggy, almost jagged. They had not reckoned with the great antiquity of the lunar surface and the slow, relentless wearing-down of the rocks by aeons of bombardment from space by the constant rain of micrometeorites. David Harland, author of "Exploring the Moon: The Apollo Expeditions" and who reviewed this journal, points out how remarkably clear the mountains are of craters.
+Journal contributor David Harland: "The mountains are blocks of crust that were thrust up through the overburden of rubble from all of the earlier impacts (in the case of the Apennines, the Imbrium impactor shoved blocks up through ejecta from the earlier Serenitatis forming event), and much of this overburden slumped down off the block to form a thick talus in the 'valleys' between. The slopes of the massifs are so thick with this talus that slumping tends to erode away craters (meteorites are just as likely to hit a hill as a plain) rapidly, at least compared to a crater out on the plain. There is, therefore, very little 'rough terrain' on a mountain slope, and this helps create the impression of smoothness. Another point is that impacts preferentially toss stuff downslope, so a process of 'mass-wastage' tends to clear the summit of thick overburden and, as Apollo 15 found, there is knobby terrain on top, where the outcrops show through. Compared to the scale of the peak though, this relief is fine detail."
+079:30:41 Henize: Roger, Dave. Sounds very interesting.
+Comm break.
+079:32:34 Scott: Houston, we're trying to get oriented here so we can perhaps pick out some of the features near the landing site. There's quite a bit of shadow now, but we have Aristillus and Autolycus very clearly. And with the low sun angle, the surface between those two large craters and the rim of Imbrium - the eastern rim of Imbrium is very rough, quite a bit of debris, and it looks like it probably came out of the two craters. I believe we can see Hadley C, just barely in the shadows.
+The southeastern shore of Mare Imbrium is conventionally thought to be bordered by the great arc of Montes Apenninus, huge mountain-sized, up-thrusted blocks which are remnants of the landscape's near-instantaneous alteration by the asteroid impact that created the Imbrium basin. The landscape of this area is, however, complicated by a number of formations. After the basin was formed, flows of light-coloured lavas created the Apennine Bench Formation, a light patch seen to extend from the centre of the Apennine Front halfway to the centre of Mare Imbrium.
+The Apennine Bench Formation is visible from Earth with the naked eye. Photo courtesy of Rob Gendler.
+A large meteor struck this patch, leaving the 83-km crater Archimedes and covering the Bench with ejecta. When the mare-filling epoch began on the Moon, the lavas which formed Mare Imbrium also flooded Archimedes but did not inundate the Bench. Subsequently, two more strikes added the craters Aristillus and Autolycus, like Archimedes, named after prominent figures from Greek science and making up the distinctive trio of craters we see today. These two younger members of the trio display well formed ejecta blankets over the mare surface which show they were formed after the mare. Dave is describing this barely lit ejecta blanket which appears particularly rough in the very early morning light. Autolycus is the smallest at 39 km while the 55-km Aristillus displays a triple central peak.
+Separate to the lava flows of Mare Imbrium, an outpouring of lava deposited mare basalt across the Apennine Bench Formation between the Apennine Front and Archimedes from a vent named Bela within the Apennine Front, 60 km southwest of the landing site. This dark area is called Palus Putredinus (March of Decay). The lava flowed along a sinuous channel which remains as Hadley Rille and which snakes roughly parallel to the Apennine Front and slightly offshore, leaving a strip of mare between the rille and the mountains. Falcon will land within an embayment in the Apennine's convoluted shoreline along this strip, flanked by two major mountains; Hadley to the northeast and Hadley Delta to the southwest. Hadley C is a small crater on the mare on the opposite side of Hadley Rille and 30 km southwest of the landing site. The features in this area were named after John Hadley, 1682-1743, an Englishman who pioneered optical instruments, especially the development of the reflecting telescope.
+079:33:21 Henize: Roger, 15. We copy that. Did I understand that the rim of Autolycus is standing up in the sunlight?
+079:33:31 Scott: Yes, that's true. Aristillus and Autolycus both have their eastern rims exposed to the sunlight and we get a pretty good look at the elevation on the rim. And Autolycus, to it's north eastern side, seems to have a - a saddle or somewhat depressed rim. And as you come around to the west - or the eastern side of Aristillus, it seems to be relatively level or horizontal, with a few subtle saddles and depressions. Autolycus appears to have a - a relatively horizontal or - or even rim all the way around, and we can see sunlight on the northwestern side of Autolycus, on the rim, just barely a tick of it. [Pause.]
+079:34:28 Henize: Roger. It sounds like a fantastic view. [Pause.]
+079:34:35 Worden: It really is. [Pause.]
+079:34:42 Gordon: [Do] you guys have enough to keep you busy for a few days then?
+079:34:48 Scott: Hey, Dick, we've got enough to keep us busy for months, and months, and months, as you well know. [Long pause.]
+Dick Gordon, Commander of the backup crew has joined the conversation and, as CMP (Command Module Pilot) on Apollo 12, has already witnessed the spectacle of the lunar surface from orbit.
+079:35:05 Scott: The outer rims of Aristillus and Autolycus seem to be quite heavily cratered and rough; and Aristillus, on it's east-northeastern side, seems to have a couple of benches on the outer rim as it goes down to the surface, and their - the shadows are - are exposed quite well. [Pause.]
+When small meteorite impacts excavate through the Moon's blanket of ground-up debris, known as the regolith, and on into bedrock, the resulting crater walls often exhibit a "bench" where the bedrock is exposed. However, the "benches" Dave is describing are "terraces" caused by slumping of the walls of large craters over geologic time due to deep, steeply-dipping faults in the walls.
+079:35:34 Gordon: Roger, Dave. [Long pause.]
+079:36:11 Scott: Houston, just north of Conon, there's a - a great depression in the mountains - a low part of the mountains. In the - The western side of the mountains is exposed to the sunlight, and this reflects back in to the shadowed part of the mountains which - the base - basin, just north of Conon there, is really shadowed by the eastern mountain range; but the reflectivity back from the - the mountains exposed to the sunlight illuminates the - the shadowed area to [the point] where we can pick out craters and ridges and various other topographic features [in the dark]. It's - its really quite interesting. As a matter of fact, just to the - The inner walls or the inner basin of Conon itself is illuminated by its own reflectivity on its western wall.
+Conon is named after a Greek mathematician and astronomer, c. 260 B.C.E., and lies about 120 km south of the landing site amongst the disturbed landscape which forms the radial 'sculpture' behind the chain of massifs of the Apennine Front. This landscape is similar to Dave's "Crackled Hills" and originated as the ejecta blanket that swept over the early lunar surface a moment after the impact that formed the Imbrium basin. The dominance of the Imbrium event can be seen by similar landforms across one half of the Moon which all point to the Imbrium Basin.
+Midway between Conon and the landing site there is indeed a lower section of the Apennine mountain range which includes the arcuate cleft Bela. Measuring 11 by 3 km, Bela appears to have been the source of the lavas which ran through Hadley Rille.
+079:37:14 Henize: Roger. That sounds like a fascinating illumination. Do you - do you have any inclination that you're going to be able to see the dark side of Moon with Earthlight on it? [Pause.]
+079:37:30 Scott: Well, we can just barely see subtle features now, I think. We can see the horizon quite clearly. [Pause.]
+079:37:43 Henize: Roger. When you get dark-adapted, it may be that things will come through pretty well.
+079:37:51 Scott: Rog.
+Very long comm break.
+Although the western half of the Moon's near-side is not being illuminated from the Sun, it does receive a significant amount of light from Earth, an illumination visible even from the home planet. Earth not only presents a disk four times larger than the familiar lunar disk, it also reflects about 4 times as much light, due mainly to its clouds.
+As part of the calibration of the Gamma-ray Spectrometer, the Gain Step Shield, a section of the instrument which discriminates between true detection of gamma-rays and the detection of cosmic-ray particles, is switched off for ten minutes.
+There are two expected sources of gamma-rays that this instrument is designed to detect. The nuclei of some elements in the lunar surface, particularly iron, will react to cosmic-rays and emit gamma-rays of a precise energy. Other elements, especially Potassium, Thorium and Uranium, emit gamma-rays in the process of radioactive decay and these emissions are also of a well known energy. In association with data from the other instruments, a picture of the composition of the Moon along the ground track can be built up.
+The Gamma-ray Spectrometer is a scintillation device that detects radiation in the energy range of 1 MeV to 10 MeV. A cylinder of doped sodium iodide reacts to a coincident gamma-ray by converting some of its energy to light which is detected by a photomultiplier tube. Around this cylinder is a light shield, then a plastic shield which detects charged particles but not gamma-rays by means of another photomultiplier tube. The instrument is deployed on the end of a 7.6 metre boom to remove it from contaminating sources around the spacecraft. Apollo 15 is the first mission to carry this instrument. As well as its lunar tasks, it will also be used, during the trans-Earth coast, to monitor the gamma-ray flux coming from sources outside the Solar System.
+This is Apollo Control. The Flight Dynamics Officer [FIDO], Bill Boone, reports that after tracking from Acquisition Of Signal, the orbital parameters are 169 [over the near-side] by 59 nautical miles [over the far-side] [313 by 109.3 km].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+079:48:27 Henize: 15, this is Houston.
+079:48:32 Irwin: Roger. Houston, 15. Go.
+079:48:35 Henize: Jim, the people down here would appreciate it if you could give them something of a description of the operation of the PU valve during the LOI burn. [Pause.]
+079:48:51 Irwin: Roger, Karl. There was no operation of the - the PU valve at all until crossover. And then at crossover, it required a - a Decrease, and then at about - about 5 minutes and a half into the burn, it started to increase, and I went to the - the Increase position at that time. All the operation of the PUGS manual operation occurred after crossover.
+079:49:26 Henize: Okay; we copy. [Long pause.]
+079:49:40 Irwin: And, as I mentioned, about 5 and a half, I went to - 5 and a half minutes, I went - went to neutral and then the - it looked like the Unbalance was going to go - it was rapidly departing the zero region, and that was about the time we went through 6 minutes, and I put it into minimum at that time - into the Decrease position.
+079:50:19 Henize: Okay, Jim. That answered our next question. [Long pause.]
+The PU (Propellant Utilization) valve was manually controlled by Jim during the LOI burn. He monitored a meter driven by the PUGS (Propellant Utilization Gauging System) and could adjust the flow of oxidiser to the SPS engine to ensure that both propellants were consumed at a ratio of 1.6.
+079:50:58 Henize: And, 15, the people down here were very much turned on by your description of the swirls on the floor of Crisium. We trust you got some good photography of that; and, if you didn't, they'd very much appreciate having some next time around.
+079:51:16 Scott: Okay. We were discussing our photography, and we're going to try and stay as close to the preplanned photos as we can and not over extend ourselves into what's already planned for the six days. But we will use our spare - spare film judiciously for the kind of things you hear us talk about that you'd like pictures of.
+079:51:37 Henize: Sounds very good.
+Long comm break.
+Flight Plan page 3-85.
+The IMU is being realigned for the first time since entering lunar orbit. This requires two realignments as they are changing their platform's frame of reference from the LOI REFSMMAT to that for the landing site. The first realignment is to the LOI REFSMMAT so that any drift of the platform since the last realignment can be measured and eliminated. Subsequently, another P52 is performed to realign to the landing site REFSMMAT. This latter frame of reference is defined as being the orientation of the landing site, with respect to the stars, at the predicted time of landing. The IMU X-axis is parallel to the landing site's vertical at that time, and points away from the centre of the Moon. The Z-axis is in the direction of flight. This frame of reference is chosen so that after it is transferred to the LM, that vehicle's FDAI display should show 0° in all axes if it lands at the planned time and place and fully upright.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+080:01:32 Henize: 15, this is Houston. Joe just came up from below to tell us that Farouk and company are ecstatic about what you've told them so far and that all of the SIM bay experiments are looking to be in excellent shape.
+080:01:50 Scott: Okay. Thank you, Karl. That's good news.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 80 hours, 4 minutes.
+080:04:05 Henize: 15. We have your torquing angles.
+080:04:12 Scott: Roger. Torqued on the minute.
+Very long comm break.
+Worden, from the 1971 Technical debrief: "Navigation [in lunar orbit] was about as it was on translunar coast. The guidance system was very tight. I never had any problem getting a star pair. Whether I was doing a slow orb-rate maneuver or whether I was inertial [i.e. in an attitude held with respect to the stars]. P52s worked very well."
+Worden (continued): "I still had the problem with the sextant. Even on the back side of the double umbra [where neither the Earth or Sun light the Moon], the sextant was very difficult to use - to identify constellations and to identify the stars. The attenuation in the sextant was really much more than I had anticipated. I could look out a window and see the star field very clearly. In fact, it was much brighter than I expected it to be. There were so many stars in the field of view out the window that, in a way, it was a little difficult to find a constellation and to find the navigation stars. But through the sextant, only the very brightest stars came through. I was able to identify the stars after a while, after I was used to the star pattern, and I did the alignments just about the same place every time."
+From the 1971 Mission Report: "The flight anomaly [in the optics] was reproduced in the laboratory by placing the optical unit assembly, the removable eyepiece, and the optics panel in a chamber, wherein the environmental conditions that existed in the cabin during flight were duplicated. Condensation on the eyepiece window and, to a lesser extent on the prisms in the removable eyepiece caused the transmittance to decrease to about 4 per cent."
+Worden, from the 1971 Technical debrief: "Even with the light attenuation through the telescope, the guidance system was so tight that every time I did a P52, I could look through the telescope and grossly identify where I was in the sky. Then when I looked in the sextant, there would be a star right in the middle of the sextant every time. It maintained its orientation beautifully the whole time. The drift rates were very low.
+Worden (continued): "The only thing, I guess, that I'd want to comment on concerning navigation, and that in regards the Flight Plan, is that, when we did an Option 1 reorientation, for example, to the plane change attitude, there was no place in the Flight Plan to write the gyro torquing angles for the second P52. Of course, each of these is done with an Option 3 realignment for drift reasons, and those gyro torquing angles are recorded. But then, when you do the Option 1 to go to the new orientation, there's no place in the Flight Plan to record those. I guess there may not be any valid reason to keep those gyro torquing angles. Possibly the ground doesn't need them, but I was in the habit of writing down the gyro torquing angles, and when I got to the Option 1, I did just this. I recorded them in a blank place in the Flight Plan. I feel that we might consider putting those in the Flight Plan, because they are some indication as to how the coarse align works.
+Worden (continued): "This reminds me that, on each of the reorientations, I used a coarse-align option in P52, and in each case, the coarse align was good enough to put the star in the sextant, except for one instance on the way back home when we went to entry orientation. The star was just outside the field of view of the sextant, and I had to look for it a little bit. However, the coarse align worked very well. In almost every case, it put the star within half a degree of the center of the sextant."
+This is Apollo Control. In the transmission a few minutes ago the - the 'Joe' referred to is Dr. Joe Allen, a scientist-astronaut, who is the Mission Scientist for the Apollo 15 crew on this mission. The Farouk to whom Karl Henize made reference is Farouk El-Baz, a geologist who has had a great deal to do with the training of the crew. And we're 15 minutes away from Loss Of Signal on this first revolution of the Moon.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 80 hours, 8 minutes. We show Apollo 15's present altitude as 92 nautical miles, velocity 5,316 feet per second.
+080:13:49 Scott (onboard): ...says it's just [garble] - He got word from the back room that Farouk and his boys are ecstatic. And the SIM bay stuff is all working very well.
+080:14:06 Scott (onboard): [Laughter.] Good old SIM bay working up in there and he's jumping up and down. Well, the tape motion is going as planned. Even a little early. Okay.
+080:14:36 Scott (onboard): [Garble]? No, I don't think we have time then [garble] have to get that [garble] in. [Garble]. ? You'll spoil the eat period by messing with the...
+080:14:54 Scott (onboard): Okay, 10 minutes before the dump, Jim.
+080:15:14 Scott (onboard): Man, is that full.
+080:15:20 Irwin (onboard): [Garble] DOI.
+080:15:37 Worden (onboard): Hopefully, DOI is just going to be a bank B burn. Is that right?
+080:15:41 Irwin (onboard): [Garble].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+080:16:07 Henize: Apollo 15, This is Houston. [Pause.]
+080:16:13 Scott: Houston, Apollo 15. Go.
+080:16:17 Henize: Just to firm up our interest in those swirls on the floor of Crisium, the words we'd like to send up is that it'd be nice to get a 3-photo convergent stereo sequence on it, and if you'd like settings, we recommend...
+080:16:33 Scott: Okay; 3 photo; go.
+080:16:36 Scott (onboard): You son of a [garble] bitch! He always stops.
+080:16:38 Henize: Roger. And if you'd like settings, we recommend f/8 at 1/250th with a 250 millimeter lens. [Long pause.]
+080:16:56 Scott (onboard): I'm going to give Karl about 6 seconds every time, before I answer.
+080:17:00 Scott: Okay, Houston; understand. Swirls on Crisium, 3-photo convergent stereo, f/8 1/250th with the 250.
+080:17:09 Henize: Roger. And Al, you wanted us to remind you about your helmet and gloves when you take shots of Ingenuity this time around. [Pause.]
+080:17:24 Scott: Okay; we'll tell him.
+080:17:27 Scott (onboard): You wanted to be reminded about helmets and gloves as you take your shots of Ingenuity on this time. What the hell does that mean?
+080:17:31 Henize: And, otherwise, we have nothing more down here. Everything's looking in great shape, and have fun on the back side.
+080:17:42 Scott: Okay. Thank you, Karl. We will.
+Very long comm break.
+Scott (onboard): Huh? See around what [garble] problem? Oh.
+As will be normal prior to LOS, the DSE is checked for proper operation. It will record spacecraft telemetry so that on AOS, Mission Control can view the spacecraft's performance during the loss of communication. It will also record the crew's conversations and observations.
+The spacecraft's orbits about the Moon are counted from the LOI burn and so the spacecraft will begin its second orbit, or "rev 2" while behind the Moon.
+During this pass over the far-side and the early stage of the next front side pass, the Flight Plan calls for the crew to take photographs as part of the mission's orbital science brief. The targets are Mare Ingenii (Sea of Ingenuity, 33 frames), Keyhole (5 frames), The Bright One (12 frames), Ibn Yunis (14 frames) and Posidonius (21 frames) using the onboard Hasselblad camera with a 250 mm lens and the colour daylight film in magazine M. This is a total of 85 frames being requested.
+080:17:54 Scott (onboard): Rather than the glasses? Yes.
+080:18:29 Scott (onboard): [Garble] we going to start running our clock [garble] then at the 180-degree point, too, don't we?
+080:18:45 Scott (onboard): Yes.
+080:19:42 Irwin (onboard): [Garble] much time is up [garble].
+080:19:46 Scott (onboard): No. Not yet.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 80 hours, 20 minutes. We've had Loss Of Signal as Apollo 15 goes behind the Moon. We'll take the line down and come back up just before acquisition on the second revolution. At 80 hours, 20 minutes this is Mission Control, Houston.
+080:20:00 Scott (onboard): These 250's I guess you take with the brackets, huh? Yes? Out of which window? Center window?
+080:20:17 Scott (onboard): You got a bunch of other ones here. This one's a 33 frames at 15-second intervals. All - all this 250 stuff is...
+080:20:29 Scott (onboard): Yes. Okay. That's right. That's right. You asked why you brought that bracket along once, didn't you?
+080:21:08 Worden (onboard): Just push that button underneath it, Dave.
+080:21:11 Scott (onboard): Oh. There's a [garble]. Look at that.
+080:21:23 Worden (onboard): [Garble].
+080:21:25 Irwin (onboard): Anyone else have a Jumney [?] bag they want dumped?
+080:21:31 Scott (onboard): No.
+080:21:49 Scott (onboard): 1/250th.
+080:21:53 Worden (onboard): 250's already rolling.
+080:22:23 Worden (onboard): You guys want anything to eat?
+080:22:39 Scott (onboard): What?
+080:22:40 Worden (onboard): [Garble].
+080:22:42 Scott (onboard): Yes. Eighty-five pictures, Mag M, frame number 30 which would be frame number 43.
+080:22:57 Irwin (onboard): Hey, I think I shorted someone a lemon pudding. A lemon pudding.
+080:23:02 Scott (onboard): I've got one.
+080:23:03 Irwin (onboard): I don't think Al has. I've got one over here opened - that Al can have.
+080:23:10 Scott (onboard): I've - I've got one in my pocket I'm going to eat. You want this one?
+080:23:11 Irwin (onboard): [Garble].
+080:23:13 Scott (onboard): [Garble]. And let's don't be hanging stuff up now because we've got another burn coming.
+080:23:23 Irwin (onboard): Yes.
+080:23:24 Scott (onboard): Let's get it all taken care of.
+080:23:31 Irwin (onboard): Huh? I ate mine.
+080:23:34 Scott (onboard): Then you opened another one, huh?
+080:23:37 Irwin (onboard): I thought I had the - the fruit cocktail. Here, throw that in the bag. Thank you.
+080:23:49 Scott (onboard): Well, can we get the - we got to - when we get through all that stuff this evening, let's get all the garbage and take it down to the food locker.
+080:24:00 Irwin (onboard): Yes. It's time to dump, isn't it?
+080:24:03 Scott (onboard): Yes. I expect it is. That's all right, we'll close.
+080:24:09 Irwin (onboard): Can I dump?
+080:24:11 Scott (onboard): Yes.
+080:24:13 Irwin (onboard): Okay.
+080:24:17 Scott (onboard): Dump the waste, too.
+080:24:31 Irwin (onboard): Dumped that [garble] dead band.
+080:24:34 Scott (onboard): The dump?
+080:24:56 Scott (onboard): [Garble] [laughter].
+080:25:17 Scott (onboard): Hey, you got coming up - Sea of Ingenuity, Crisium, Keyhole Crater, The Bright One, and Ibn Yunus - [garble].
+Exact correlation of the Apollo 15 photograph collection with the timeline is impossible. However, it is probable that a number of images were taken during this far-side pass because by tomorrow, many features will have gone into lunar night. AS15-91-12374 to 12379 look obliquely southwest while the spacecraft is approximately over the unusual dumbbell shaped crater, Van de Graff.
+AS15-91-12374 - A close view at the rim of the Mare Ingenii basin and a meandering rille which snakes along the mare's shoreline. - Image by NASA/Johnson Space Center.
+AS15-91-12375 - An oblique shot of Mare Ingenii, its huge internal filled crater, Thompson, and the fresher crater, Zelinskij, that obscures its northwest rim - Image by NASA/Johnson Space Center.
+AS15-91-12376 - View along the northwest rim of Mare Ingenii and a very oblique angle of O'Day, 80 km in diameter with a central peak and three younger craters puncturing its rim. These are the only photographs taken of this mare during the mission - Image by NASA/Johnson Space Center.
+AS15-91-12377 - Mare Ingenii. A reflection off the window from inside the spacecraft partially degrades the view - Image by NASA/Johnson Space Center.
+AS15-91-12378 - View along the northwest rim of Mare Ingenii and a very oblique angle of O'Day - Image by NASA/Johnson Space Center.
+AS15-91-12379 - Crater O'Day with reflection off the CM window - Image by NASA/Johnson Space Center.
+As Endeavour continues its coast around the Moon, the view shifts to the right to look southwest.
+AS15-91-12380 - Taken from directly over the large far-side crater, Gagarin, this image looks to the southwest horizon at Pavlov and, on the right-hand edge of the picture, Levi-Civita - Image by NASA/Johnson Space Center.
+080:25:47 Scott (onboard): That's - Oh, yes. There's a possibility of 10. And - then you do the realign. You got a lot of pictures to take. Wh - where do you want to take them?
+080:26:03 Scott (onboard): Okay. Why don't you just tell us, you know, which window, and we'll go to wherever...
+080:26:15 Scott (onboard): Oh, okay.
+080:26:27 Scott (onboard): [Garble] five.
+080:28:01 Worden (onboard): Dave, did you say you're doing a waste water dump now?
+080:28:03 Scott (onboard): Yes.
+080:28:20 Worden (onboard): No, I've got another [garble] for that.
+080:28:23 Scott (onboard): I thought there was one here.
+080:28:28 Worden (onboard): I think you was going to put it on the Flight Plan. Okay. There's one here, Dave.
+080:29:25 Scott (onboard): [Garble] that waste water's something that's got to go. Certainly have a lot of it.
+080:29:34 Irwin (onboard): It's probably done.
+080:29:35 Scott (onboard): Huh?
+080:29:36 Irwin (onboard): It's probably done.
+080:29:37 Scott (onboard): What...
+080:29:38 Irwin (onboard): How can you tell?
+080:29:39 Scott (onboard): It's slow.
+080:29:40 Irwin (onboard): Oh, I see. The waste water dump.
+080:29:41 Scott (onboard): Yes.
+080:30:03 Scott (onboard): [Garble] a small [garble].
+080:30:40 Scott (onboard): Got a lots of things to dump?
+080:30:46 Irwin (onboard): Here, I'll put that in the bag, Al.
+080:31:00 Worden (onboard): There it is. You got it?
+080:31:48 Irwin (onboard): Okay, the urine dump's complete.
+080:31:50 Scott (onboard): Oh, really? All that stuff?
+080:31:55 Irwin (onboard): [Garble]. Yes.
+080:32:59 Worden (onboard): Okay.
+080:33:04 Irwin (onboard): What'd you have the timer set up for, Dave?
+080:33:07 Scott (onboard): Waste water dump. To make sure I checked it when it went off.
+080:33:12 Irwin (onboard): You dumping down to 15?
+080:33:14 Scott (onboard): Yes. You might just watch it if you're there. [Garble] Al's moving over.
+080:33:29 Irwin (onboard): He's [garble] of you.
+080:33:32 Scott (onboard): Yes. Time to look for more. [Garble].
+080:34:01 Scott (onboard): Jim, you see my scissors up there?
+080:34:03 Irwin (onboard): Yes.
+080:34:06 Scott (onboard): Thank you.
+080:34:16 Scott (onboard): That looks good.
+080:34:19 Irwin (onboard): We got sunrise. Coming up on sunrise. Yes. Oh, gee. That's bright.
+080:34:32 Worden (onboard): See, you can just barely see the horizon.
+080:35:14 Irwin (onboard): See the horizon out there, see it?
+080:35:15 Scott (onboard): Oh, look at that. Isn't that something! Hey, you got to take a picture of that.
+080:35:24 Scott (onboard): Huh? Isn't that something? Oh, boy.
+080:35:37 Scott (onboard): Golly!
+080:35:50 Irwin (onboard): Okay. Believe that waste water dump's done. I'll go down and get it.
+080:35:53 Scott (onboard): I'll get it. I'm right here.
+080:35:54 Irwin (onboard): Okay. [Garble] down to 20.
+080:35:56 Scott (onboard): Okay. Yes.
+080:36:06 Irwin (onboard): Yes. It looks like a snow-covered prairie. And doesn't that look like a brown to you?
+080:36:14 Scott (onboard): Now it does. Yes. Hey, that's - Just got to have a picture of that.
+080:36:25 Irwin (onboard): Okay.
+080:36:32 Irwin (onboard): Wouldn't that make a great Christmas card?
+080:36:34 Scott (onboard): Hey, wouldn't it, though?
+080:36:35 Irwin (onboard): Yes, that view right from this window. Look at that.
+080:36:40 Scott (onboard): Yes, it's almost the same over here. Huh? Where's - I can't hear you, Al.
+080:36:49 Irwin (onboard): Ring sight.
+080:36:50 Scott (onboard): Yes, there's one - the only one I know of right now - I can get you one. I know where there's one. There' s a ridge here, Jim. A prominent ridge - we're coming across. That's just absolutely striking. I don't believe it. Ring sight. Yes.
+080:37:40 Scott (onboard): No, I can't get to it now, Al. Buried. Too much junk. Hey, Al, use the - edge - the - the corner of the camera. Let me show you. Let me show you how to aim that thing so you hit. See this thing? See? Right along this edge here. Line that up. Just take all the parallax out and line that up and it's a straight shot.
+080:38:23 Scott (onboard): Hey, Jim, is the waste water stopped?
+080:38:26 Irwin (onboard): Yes, I turned the dump off.
+080:38:28 Scott (onboard): You did?
+080:38:29 Irwin (onboard): Yes.
+080:38:30 Scott (onboard): So did I. How could you have turned...
+080:38:34 Irwin (onboard): No. Oh, I'm sorry. The urine dump.
+080:38:36 Scott (onboard): You - you're not lis...
+080:38:37 Irwin (onboard): Oh - Oh, okay. Waste water...
+080:38:39 Scott (onboard): Yes. You're not paying attention to me again, Jim.
+080:38:41 Irwin (onboard): ...25 percent.
+080:38:44 Scott (onboard): Okay.
+080:38:46 Irwin (onboard): He closed it.
+080:38:47 Scott (onboard): You're right. Yes.
+080:38:48 Irwin (onboard): You wanted me to confirm that it had been closed.
+080:38:49 Scott (onboard): Yes, right.
+080:38:50 Irwin (onboard): I don't see a drop anymore.
+080:38:52 Scott (onboard): [Garble].
+080:38:53 Irwin (onboard): Okay. [Garble].
+080:39:02 Scott (onboard): Huh?
+080:39:04 Irwin (onboard): Can't see that ridge you were talking about, Dave.
+080:39:06 Scott (onboard): You're going across it. Right where the terminator comes out. No, that's the horizon. Okay. I'm [Garble]. Yes.
+080:39:30 Irwin (onboard): Isn't that a good boy, Al?
+Rev 2 begins at about 080:41.
+080:41:16 Scott (onboard): Hey, Jim, here's this little vent.
+080:41:19 Irwin (onboard): Okay.
+080:42:46 Scott (onboard): Yes.
+080:43:06 Worden (onboard): Jim, I don't see [garble].
+080:43:44 Worden (onboard): I see. That's - Ingenuity over there on the...
+080:43:58 Scott (onboard): Hey, Jim, what did you do with those tissues that were over here? Remember?
+080:44:03 Irwin (onboard): I didn't use any of them, Dave.
+080:44:05 Scott (onboard): No, but - there wasn't any of those little...
+080:44:08 Irwin (onboard): Those medium [garble]?
+080:44:29 Scott (onboard): What?
+080:44:44 Scott (onboard): The very subdued rille that runs aro - perpendicular to the mountain? Oh, I see what you mean. Along the edge of the - Is that on the edge of [garble]? Of Ingenuity, huh?
+080:45:22 Scott (onboard): I can keep you posted here about - You take - you take photos until about 49 here.
+080:46:00 Irwin (onboard): This must be Gagarin coming up.
+080:46:05 Scott (onboard): Yes.
+080:46:08 Irwin (onboard): Think I have better luck holding the map backwards.
+080:48:41 Irwin (onboard): That's Gagarin we're over, huh?
+080:48:57 Scott (onboard): Do you know what Keyhole looks like? Geeze. That's the kind of thing that would be good to explore.
+080:49:17 Scott (onboard): There's that neat one with the very white ejecta pattern - out at 1 o'clock.
+080:49:54 Irwin (onboard): Do you want to [garble] the window?
+080:50:07 Irwin (onboard): Yes.
+080:50:11 Irwin (onboard): I think we better get this - all the windows down.
+080:50:14 Scott (onboard): Yes. I think we better leave. You know you don't have to get them all, Al. [Garble].
+080:51:21 Scott (onboard): Oh, yes.
+080:51:54 Irwin (onboard): [Garble] might be Auto.
+080:52:25 Scott (onboard): Hey, Jim?
+080:52:26 Irwin (onboard): Yes.
+080:52:27 Scott (onboard): You got your sunglasses?
+080:52:36 Irwin (onboard): Not quite, Al. Did you just pass me some sunglasses, Dave?
+080:52:45 Scott (onboard): Yes.
+080:52:47 Irwin (onboard): Okay.
+080:52:48 Scott (onboard): I think they're yours. Aren't they?
+080:52:50 Irwin (onboard): Yes.
+080:53:47 Irwin (onboard): You can see that - see the canyons on it?
+080:54:10 Scott (onboard): Find Keyhole, Al? Good.
+080:54:18 Irwin (onboard): What's distinctive about Keyhole?
+080:54:29 Irwin (onboard): Oh, really?
+080:55:43 Irwin (onboard): I can sure see a lot - lot of blocks around this one coming up. A lot of blocks on the rim. And a slump on the - the west side of it.
+080:56:39 Irwin (onboard): Okay, the next one is target number 7, Al. It's The Bright One.
+080:56:50 Irwin (onboard): That's...
+080:57:03 Irwin (onboard): The one with slump blocks in the center of it?
+080:57:18 Irwin (onboard): The one we're just coming up on, huh?
+080:57:21 Worden (onboard): Yes. That's it. Yes, that's Dooze [?]. Bright One. Yes, that's the one we want to get a - complete - We want two pictures of the ejecta pattern all the way along through there.
+080:57:57 (Camera click)
+080:58:12 Scott (onboard): Yes, there's King over there.
+080:58:32 Scott (onboard): Hey, Jim?
+080:58:33 Irwin (onboard): Yes.
+080:58:35 Scott (onboard): Hey, Jim, [garble] take care of that little map. That's the only one we got - you and I.
+080:58:38 Irwin (onboard): Yes, I understand.
+080:58:40 Scott (onboard): Take good care of it.
+080:58:45 Irwin (onboard): No, we have another set - Well, the only one of the little ones. Yes, you're right. Don't ask for [garble], huh?
+080:58:51 Worden (onboard): By golly, old Bright Crater is a bright one, too. It's got good ray pattern. Glass all over.
+080:59:00 (Camera click)
+080:59:17 (Camera click)
+080:59:22 (Camera click)
+080:59:25 (Camera click)
+080:59:50 Irwin (onboard): Geesh.
+080:59:52 (Camera click)
+080:59:57 (Camera click)
+081:00:11 (Camera click)
+081:00:18 Irwin (onboard): O2 Flow High.
+081:00:37 (Camera click)
+081:00:40 (Camera click)
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. Dr. Gary Latham, the principal investigator on the Passive Seismic Experiments on the lunar surface will hold a news conference in the Apollo News Center briefing room in about 5 minutes to discuss the S-IVB impact seismic signals received a short while ago. To repeat, Dr. Gary Latham will hold a news conference in the Apollo News Center briefing room in about 5 minutes to discuss the seismic signals received from the Apollo 15 S-IVB impact.
+081:02:00 Worden (onboard): Okay, let's see. Let's try to get this Rooster Tail.
+081:02:07 Irwin (onboard): The next target you have is Ibn Yunus.
+081:02:10 Worden (onboard): Yes, but I'm going to try and see if I can get a shot of the Rooster Tail here if I can.
+081:02:20 Worden (onboard): That won't go anywhere.
+081:02:51 Scott (onboard): [Garble].
+081:03:05 Worden (onboard): You what, Jim?
+081:03:07 Irwin (onboard): [Garble] Ibn Yunus ought to be coming up on the left side here shortly.
+081:03:12 Worden (onboard): Yes. Should be.
+081:03:15 Irwin (onboard): Oh, look at the Earth come up - Earthrise. [Garble] all day, we ought to look at that [garble].
+081:03:20 Scott (onboard): Oh, yes.
+081:03:27 Worden (onboard): [Garble] you don't [garble].
+081:03:29 Scott (onboard): Yes.
+081:03:32 Irwin (onboard): Golly.
+081:03:33 Worden (onboard): That ought to be good for a picture, huh?
+081:03:35 Scott (onboard): Oh, yes. Be better when you're [garble].
+081:03:38 Worden (onboard): Yes. I got part of the LM in the way there.
+081:03:54 Worden (onboard): Let me see here - let me - Yell if you see the Rooster Tail.
+081:04:00 Irwin (onboard): I'm not sure what the Rooster Tail looks like, Al.
+081:04:02 Worden (onboard): That's that little secluded - dome on a - on a ca - on a small crater that Farouk was showing us the other day.
+081:04:14 Irwin (onboard): Yes, I think there's one...
+081:04:15 Worden (onboard): That a...
+081:04:16 Irwin (onboard): ...coming up here - that...
+081:04:18 Worden (onboard): It should be quite obvious if you see it.
+081:04:21 Irwin (onboard): Well, there's kind of an occluded area to the west.
+081:04:22 Worden (onboard): It looks - it looks very much like a rooster tail.
+081:04:28 Scott (onboard): [Garble].
+081:04:30 Worden (onboard): Yes.
+081:04:32 Irwin (onboard): See the one coming up, Dave, ... in the occluded area - to the west?
+081:04:38 Scott (onboard): Is that the one [garble].
+081:04:41 Worden (onboard): Yes, I think it's very fresh.
+081:04:49 Irwin (onboard): Should it be right on track?
+081:04:52 Worden (onboard): Yes. Right underneath.
+081:04:56 Irwin (onboard): [Garble]. There's one underneath us. Big rille and [garble].
+081:05:14 Scott (onboard): Could that be it - the one we're just coming up on, Al?
+081:05:22 Worden (onboard): Yes. That's it. Must be it.
+081:05:39 Worden (onboard): [Garble] a shot of it here.
+081:05:49 Worden (onboard): Yes.
+081:06:06 Worden (onboard): There's Babcock out there.
+081:06:08 Scott (onboard): Hey, Al, can I do a Verb 62 in this P20 or will it kick it back out?
+081:06:12 Worden (onboard): No. It'll keep it in.
+081:06:14 Scott (onboard): Maybe I ought to get up there and do one ...
+081:06:17 Worden (onboard): Yes. It should. It should work.
+081:06:21 Scott (onboard): [Garble].
+081:06:24 Worden (onboard): Fifteen and 12.
+081:06:25 Scott (onboard): Fifteen and 12?
+081:06:27 Worden (onboard): Uh-huh.
+Just prior to AOS, the crew will begin a 30 minute exercise period.
+Flight Plan page 3-086.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 81 hours, 2 minutes. We're a minute away from Acquisition Of Signal time for Apollo 15 on its second revolution of the Moon. We'll stand by live now for first words on this rev.
+We do have a signal, we'll wait until we have good antenna strength to attempt to talk to the crew.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+081:11:31 Henize: 15, This is Houston. [Pause.]
+081:11:39 Scott: Rog, Houston. Looks like we're getting locked up now.
+081:11:42 Henize: Roger. That looks better now.
+Long comm break.
+The HGA (High Gain Antenna) is being repointed at Earth. This is achieved by setting it to a wide beamwidth and manually adjusting its direction for maximum signal. Then, on switching the antenna to "Reacquire", the control electronics will begin homing in on Earth. With a good lock achieved, the beamwidth is narrowed to improve the received signal strength.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+081:15:15 Worden: Okay, Houston, 15.
+081:15:19 Henize: Go ahead, 15. [Pause.]
+081:15:28 Worden: Okay, Karl. While I got a minute here waiting on Crisium to show up, I'll give you a run down on what we've done so far.
+081:15:36 Henize: Go ahead.
+081:15:41 Worden: Okay; we got the strips of photos of the Sea of Ingenuity - or Ingenii - and took a look at the light colored swirls in the bottom of the mare. I couldn't tell - no elevation associated with those light-colored swirls, and they're very distinct when you look at them at this angle. Also - looked at the - at the area just adjacent to Ingenii; there is a very definite valley that cuts through the edge of the wall there, and with what looks like a rille in the bottom [AS15-91-12374], what's been described as Vallis Alpha Reed - I guess it is kind of unique; it's the only one we've seen on the back side so far. We took some pictures of the rim deposits and then took a couple of shots going on out to Dumbbell. After that we got set up for a Keyhole, took some convergent stereo on Keyhole, and got a couple of shots of The Bright One, along with some - some general pictures to show the ejecta pattern, although I'm afraid that ejecta pattern on The Bright One is not going to show up too well. It's - it's very bright but it's - it's also such a large area that it's kind of indistinct as to definition. And then - took a couple of what I hope will be convergent stereos of the - of the rooster tail along by Tangor and then got on to Ibn Yunus/Al-Biruni/Goddard complex and took some convergent stereo of the swirls to the - to the west of Ibn Yunus and to north and west of Goddard. And now we're looking for the ones in Mare Crisium.
+I asked Dave if he could help identify some of the features mentioned in this transmission in light of the crew's practise of using informal names.
+Scott, from 1998 correspondence: "I would need to review the whole scene - its been a long time! And its sorta like asking about the slope and shape of the 7th mountain peak in Tibet....! Also, here again, Al may be the best source for this, and this transmission may actually have been his? A comment tho' - that first far-side pass is a mindblower - hard to do much but just stare in awe! Another more technical comment here - the readers may not realize that the Hasselblads did not provide time tags as even the least expensive cameras do today - thus an amplification the remark '...correlation of.....with the timeline is impossible."
+081:17:32 Henize: Roger, sounds like you did it up brown.
+081:17:39 Worden: Well, it does look - sometimes brown, sometimes gray, Karl. But we'll see when we get back.
+081:17:47 Henize: Hey, let's keep those colors straight, fellows.
+Comm break.
+The photographs of the Ibn Yunus/Al-Biruni/Goddard complex cannot currently be located in the Apollo 15 collection.
+Dave has reported seeing swirls on both Mare Crisium and Mare Ingenii. Subsequent to the Apollo 15 mission, many theories have been put forward to account for them but the favoured hypothesis relates them to variations in the magnetic fields of local rocks interacting with the solar wind. It has also been noted that the major concentrations of swirls occur at the antipodal (opposite) points on the Moon from major impacts such as the Imbrium event. Paul Spudis is a geologist at the Lunar and Planetary Institute.
+Paul Spudis, from 1999 correspondence: "This is the favored Lon Hood explanation, but it is lacking in many respects. First, the biggest swirl (Reiner Gamma) is not antipodal to any basin. Second, the swirls do not have a composition different from their surrounding basalts, so whatever they are, they are not a deposit on something else. The swirls remain mysterious in many respects."
+081:19:18 Henize: 15, we can take High Gain [Antenna] to Auto now.
+Comm break.
+The HGA is articulated and, driven by its control electronics, can point anywhere within a hemisphere around one side of the SM (Service Module). In Auto mode, it will attempt to track Earth as the spacecraft's attitude changes.
+081:21:17 Henize: 15, we need to go back to Reacq - on the High Gain. [Pause.]
+081:21:28 Scott: Rog. Reacq.
+Comm break.
+In Reacq(uire) mode, the HGA will also attempt to track Earth. However, should it lose lock on its target, it will slew to angles which have been preset on the Main Display Console.
+081:22:46 Worden: Houston, 15.
+081:22:49 Henize: 15, go ahead.
+081:22:54 Worden: Okay, Karl. Just a couple of general observations on Crisium while we're coming up on it. Proclus coming up from the east is really spectacular. You can very distinctly see the - the difference in the - in the color or the albedo in the excluded zone of Proclus, and as you are coming up across Crisium with Proclus ahead, you can see the ray pattern very distinct - extending out across Crisium - and follow the ray patterns almost as far as you like. And the excluded zone in the - in the ray pattern is just very distinct at this point.
+081:23:34 Henize: Excellent. [Long pause.]
+081:24:03 Scott: And, Houston, from this angle looking at Proclus about a crater diameter out to maybe a diameter and a half or so, you can see many small bright fresh craters, which appear to be in the general direction of a ray, like part of the ejecta blanket.
+081:24:25 Henize: Roger, Dave. You mean to say that these small bright craters seem to be clearly related to the ejecta blanket. Is that correct?
+081:24:36 Scott: That's the impression I get. They occur within a diameter to a diameter and a half of Proclus and - they're about the same brightness as the inner walls of Proclus and they're small - just small craters. I don't see any - Yes, I do see one which you might call a loop, which would suggest secondaries. They just seem to lie in the general direction of the rays of the ejecta from Proclus.
+Beginning with studies by Eugene Shoemaker of the crater Copernicus, which became a model for theories of ejecta dynamics, it was noticed that many of the smaller craters on the Moon were the result of impacts of material that had been ejected from larger impact events. As you would expect, these were called secondary craters. Beyond the rimside ejecta blanket, many chains of secondary craters would be found, often forming distinctive loops.
+081:25:10 Henize: We copy.
+081:25:16 Irwin: They're sort of localized to one area which is - probably - yeah, on the - on the western side of Proclus, northwest side.
+081:25:32 Henize: We copy that. [Long pause.]
+081:25:58 Henize: Do you - do these small, bright craters have more or less a uniform size or do they come in varied sizes? [Pause.]
+081:26:10 Irwin: I'd say - Karl, this is Jim - I'd say they're various sizes.
+081:26:17 Henize: Okay.
+081:26:22 Scott: It is - I - I guess it depends, Karl, on - what do you mean by sizes. There are various sizes within a certain sorting. They - they seem to be fairly well sorted within one range, but within that range, there is a distribution. And they're all much, much smaller than Proclus.
+081:26:44 Henize: Okay, we copy.
+Comm break.
+081:28:03 Henize: 15, this is Houston. If you'll give us Accept, we'll send up a - a state vector and a target load. [Pause.]
+081:28:15 Irwin: Roger. You have it.
+081:28:18 Henize: And, 15, we don't require a PIPA bias check at this time. And I have a terminator photo PAD when you're ready to copy.
+Changes in velocity due to powered flight (as opposed to changes in velocity due to free fall in a gravity field) are measured within the spacecraft with a type of accelerometer called a PIPA (Pulse Integrating Pendulous Accelerometer). Under free fall conditions the output from the device is not precisely stable but drifts slightly, biasing the overall calculated velocity of the spacecraft. Regular checks are made to ensure this bias is compensated for. Much of the drift in the accelerometers was established before launch, using data collected during pre-flight qualification and acceptance tests. This drift rate is incorporated into the data that the PIPAs are sending to the computer. After launch, small variations in this pre-determined rate are usually observed, and as a result, the expected drift rate is updated.
+081:28:29 Irwin: Okay. Stand by one. [Long pause.]
+081:28:52 Irwin: And I'm ready for the terminator photo PAD, Karl.
+081:28:52 Henize: Roger. The T start is 81:44:10, and there's a note here that the PCM cable may not reach to window 3. And if it doesn't, go ahead and run on the intervalometer alone. And this pertains to all future photography in window 3. [Pause.]
+Window 3 is the central, circular window which is mounted in the Command Module's main hatch.
+The lack of a PCM (Pulse Coded Modulation) cable long enough to reach from one of the outlets on the wall to the middle window was first discussed at 032:14:19 when the crew tried in vain to find one to carry out a test of photography through the sextant.
+081:29:21 Irwin: Roger. We understand. [Long pause.]
+081:29:43 Henize: 15, we'd like to go to Auto again [on the High Gain Antenna], and go directly from Reacq to Auto without a pause.
+"Reacq" and "Auto" are at either end of the HGA Track switch, with "Manual" in the middle. It may be that by pausing in the middle, the control electronics temporarily lose lock on Earth.
+081:29:52 Scott: You're in Auto. [Long pause.]
+081:30:07 Henize: The High Gain looks good this time; thank you.
+081:30:13 Scott: Roger. [Long pause.]
+081:30:46 Henize: 15, Houston. When you can copy, I have both a DOI [Descent Orbit Insertion] PAD and a TEI-5.
+The TEI-5 PAD will come later. It is an abort PAD for an early return to Earth at the end of Apollo 15's fifth revolution around the Moon.
+081:30:59 Irwin: Stand by one, Karl.
+081:31:08 Irwin: Okay. I'm ready to copy the PAD.
+081:31:14 Henize: Roger. DOI; SPS/G&N; 39800, plus 1.68, minus 0.55; 082:39:48.29; minus 0208.4, minus 0048.0, plus 0002.0; 000, 283, 347; 0058.4, plus 0009.2; 0213.9, 0:24.5, Delta-VC is 0208.4; 33, 144.2, 35.7; the rest is NA. Set stars, Vega and Deneb; 288, 340, 346. Ullage is 4 quads, 15 seconds - 15 seconds.
+081:33:02 Henize: And the computer is yours. [Pause.]
+081:33:09 Irwin: Okay, Karl, if you're ready, here's the readback for the DOI PAD. SPS/G&N; 39800, plus 1.68, minus 0.55; 082:39:48.29; minus 0208.4, minus 0048.0, plus 0002.0; 000, 283, 347; 0058.4, plus 0009.2; 0213.9, 0:24.5, 0208.4; 33, 144.2, 35.7; Vega and Deneb; 288, 340, 346; 4 quads, 15 seconds.
+On the early Apollo landing missions, the DOI maneuver was carried out by the Lunar Module's Descent Propulsion System (DPS - pronounced 'dips'). From Apollo 14 onwards, the SPS engine was used for the task, conserving LM propellant and allowing greater landing weight and hover time, if required. With experience, Apollo planners became more aware of SPS propellant usage and were able to refine the margins to facilitate the DOI maneuver.
+An interpretation of the PAD is as follows:
+Purpose: The purpose of the PAD is to put the spacecraft into the descent orbit. With a low point of 17 km near the landing site, this is the orbit the LM will begin its descent from.
+System: The burn will be made using the SPS engine under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 39,800 pounds (18,053 kg). Note that since the LM weight hasn't really changed much (nothing much has been consumed), a previously used value is assumed for it. When the LOI PAD was read up at 074:51:56 and 077:31:04, the weight of the LM was given as 36,258 pounds (16,446 kg). Note also that the NASA documentation listing the nouns available in the computer describes Noun 47 as being the weight of the spacecraft. Strictly speaking, the value relates to the vehicle's mass. Weight is the force applied by a mass in a gravity field. Your weight changes depending on which planet you are standing. Your mass, and therefore your inertia does not.
+Pitch and yaw trim angles (Noun 48): +1.68° -0.55°. The thrust axis of the big engine will be set to these angles so that it acts through the calculated centre of mass of the combined spacecraft.
+Time of ignition, Tig (Noun 33): 82 hours, 39 minutes, 48.29 seconds.
+Change in velocity (Noun 81), fps (m/s): x, -208.4 (-63.5); y, -48.0 (-14.6); z, +2.0 (+0.6). These velocity components are measured with respect to the local vertical. The large negative value of the x component shows that the burn is retrograde, i.e. against their orbital motion. It will slow them down and have the effect of lowering the altitude of their orbit at a point on the other side of the Moon from where the burn takes place. The relatively substantial y component shows that they are changing the orbit's inclination slightly to ensure they will be brought over the landing site at the right time and in the right place. At 085:16:03, Henize explains that there had been a slight error in their state vector when they entered lunar orbit and this out-of-plane component is to compensate for that.
+Spacecraft attitude at TIG: Roll, 0°; Pitch, 283°; Yaw, 347°. These attitude angles are with respect to the orientation of the guidance platform, itself oriented to the landing site REFSMMAT.
+HA, expected apocynthion of resulting orbit: 58.4 nautical miles. (108.2 km)
+HP, expected pericynthion of resulting orbit: 9.2 nautical miles. (17 km)
+Delta-VT: 213.9 fps (65.2 m/s). This is the total velocity change experienced by the spacecraft.
+Burn duration or burn time: 24.5 seconds.
+Delta-VC: 208.4 fps. This value is entered into the EMS to allow it to have backup control of the engine.
+Sextant star: Star 33 (Antares, in Scorpio) visible in sextant when shaft and trunnion angles are 144.2° and 35.7° respectively.
+GDC (Gyro Display Coupler) Align stars: Stars Deneb (starcode 43, in the constellation of Cygnus) and Vega (starcode 36, in Lyra) to be used for GDC Align in case the IMU is unavailable for this task.
+GDC Align angles: Roll, 288°; pitch, 340°; yaw, 346°.
+SPS propellants are settled in their tanks by firing the plus-X thrusters on all four quads around the Service Module for 15 seconds.
+081:34:06 Henize: That's all correct. And your next is a TEI-5 PAD. [Pause.]
+081:34:17 Irwin: All right, go ahead.
+081:34:19 Henize: TEI-5, SPS/G&N; 38206; plus 0.58, plus 1.01; 088:25:47.09; plus 2864.3, minus 1227.7, minus 0317.0; 180, 091, 338; the rest is NA. Set stars, Vega and Deneb; 288, 340, 346. 4 jets, 12 seconds. This - Comments are that the burn is undocked and it assumes DOI [has taken place]. [Pause.]
+081:34:19 Irwin: Okay. TEI-5 readback. SPS/G&N; 38206; plus 0.58, plus 1.01; 088:25:47.09; plus 2864.3, minus 1227.7, minus 0317.0; 180, 091, 338; Vega and Deneb; 288, 340, 346; 4 jet, 12 seconds. Undocked and assumes DOI.
+081:36:16 Henize: That's all correct. [Long pause.]
+This is Apollo Control at 81 hours, 37 minutes. CapCom Karl Henize has just read up the information on the Descent Orbit Insertion burn to the crew.
+The PAO announcer is a bit behind events as Karl Henize has just read up the TEI (Trans-Earth Injection)-5 PAD.
+An interpretation of the PAD follows:
+Purpose: This PAD is for an early return to Earth at the end of the fifth lunar orbit in case an abort situation develops.
+System: The burn would be under the control of the Guidance and Navigation System.
+CSM Weight (Noun 47): 38,206 pounds (17,330 kg). Note that compared to the DOI PAD just read up, this value is smaller to take account of the estimated propellant used during DOI.
+Pitch and yaw trim (Noun 48): +0.58° +1.01°.
+Time of ignition, TIG (Noun 33): 88 hours, 25 minutes, 47.09 seconds GET. As with all the TEI PADs, the burn is timed for when the spacecraft is over the far-side.
+Change in velocity (Noun 81), fps (m/s): x, +2,864.3 (+873.0); y, -1,227.7 (-374.2), z: -317.0 (-96.6). The large positive x component shows that this burn would be prograde, i.e. with their orbital motion, increasing their velocity so that they escape the gravitational pull of the Moon. The y component indicates that the plane of their orbit would be changed, as would be expected to take them away from their highly inclined orbit to one which includes Earth.
+Spacecraft attitude: Roll, 180°; Pitch, 91°; Yaw, 338°. This would be with respect to the Landing site REFSMMAT.
+Other items, such as the size of the orbit, on the standard form are not applicable (NA) to this PAD or will be taken from previous versions.
+GDC Align stars: Stars Deneb (starcode 43, in Cygnus) and Vega (starcode 36, in Lyra) to be used for backup GDC alignment in case the IMU is not available.
+GDC Align angles: Roll, 288°; pitch, 340°; yaw, 346°.
+SPS propellants are settled in their tanks by firing the plus-X thrusters on all four quads around the Service Module for 12 seconds. All these values assume the CSM is no longer carrying the weight of the LM and that they would be aborting the mission from the descent orbit.
+081:37:17 Scott: Apollo 15.
+081:37:23 Henize: 15, go ahead.
+081:37:29 Scott: Okay, as a quick review here, DOI is a single bank burn on B, with nominal procedures, with the exception of having the A Pilot Valve open. [Pause.]
+081:37:48 Henize: That's affirmative, and if we have no ignition, we'll postpone the burn [for) a rev.
+They will use just one of the two available SPS control systems (B) for the DOI burn due to the suspected short-circuit in the other one (A). In the very unlikely event of the SPS failing to ignite, they can wait for another orbit and try again with both banks.
+081:37:55 Scott: Roger; understand.
+Long comm break.
+This is Apollo Control. Ignition time for the DOI burn; 82 hours, 39 minutes, 48 seconds; Delta-V, 213.9 feet per second; duration of the burn, 24.5 seconds. The resulting orbit targeted for 58.4 by 9.2 nautical miles [108.2 by 17.0 km]. Again, this burn will be done behind the Moon while we're not in contact, as was the Lunar Orbit Insertion burn. We'll continue to stand by live to monitor air and ground.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+081:41:00 Henize: 15, this is Houston. We're showing a low voltage on the battery relay bus down here. We think it's just a matter of instrumentation, but there's a couple of procedures we'd like to run through here to check it out. [Long pause.]
+081:41:27 Scott: Go ahead, Karl.
+081:41:29 Henize: Okay; first of all, we'd like read - have an onboard read-out of the battery relay bus voltage, which is B-5 on the test meter.
+081:41:43 Irwin: Okay. That's 5-B.
+081:41:47 Henize: Roger.
+081:41:50 Irwin: It's reading 2.4 - No, I'm sorry, 1.4 - 1.5. [Pause.]
+081:42:08 Henize: Roger that reading.
+081:42:09 Irwin: Okay, Dave moved the - stand by. Dave wiggled the selector to the right - That's on B and the position that backs the B position and now we're reading 3.5.
+This is a reading from the system test meter which is located in the lower equipment bay, next to the optics panel. Essentially, it is a multifunction meter that displays information from many of the spacecraft's sensors. Most of this information is not so critical as to warrant a dedicated display on the main instrument console.
+The signals from all the spacecraft's sensors are conditioned so that the desired measurement range is expressed within the voltage range of 0V to 5V. As well as being suitable for the telemetry system to handle, this arrangement allows a single device, the system test meter, to be used for displaying a wide range of sensor readings.
+Panel 101, System test meter
+The meter's panel, number 101, has two rotary switches, one marked from A-D, and the other marked numerically from 1-7, plus a transponder setting (XPNDR). A specific test is selected through the two switches, in this case the setting was 5 and B, and the result is displayed on the adjacent voltmeter which has a full scale deflection of 5 volts.
+081:42:29 Henize: Roger. And we just recovered our read-out of - We got a good voltage reading down here now.
+081:42:37 Irwin: Good. [Long pause.]
+081:42:55 Henize: Okay; thank you. We'll think on that for a while and everything looks - everything looks fairly normal.
+081:43:04 Irwin: Roger.
+Comm break.
+081:44:34 Henize: 15, we have only one more question on that problem. And can you tell us what position you were in before you went to 5-B on the test meter.
+081:44:45 Irwin: B was selected, Karl, but Dave moved the selector out of - just barely out of B and back into the B position to obtain the higher reading.
+081:44:55 Henize: Roger. And what about the numerical side; was it in 5?
+081:45:01 Irwin: Yes it was.
+As always, when a minor problem appears, the engineers on the ground strive to understand it as completely as possible rather than jump to conclusions. It is likely that a thin layer of oxidation has formed on the switch contacts, adding some resistance to the circuit and just moving the knob has cleaned it off.
+081:45:06 Henize: We copy. Thank you.
+Comm break.
+The crew is taking a sequence of photographs at the terminator. These are useful because the lighting angle from the Sun is very low, causing shadows to form on even gentle relief and making the terrain's topography much easier to see. They are using magazine R, which contains very high-speed black and white film, to try and extract as much topographical detail from the images as possible. AS15-98-13300 to 13302 show the terminator in Mare Vaporum (Sea of Vapours).
+AS15-98-13300 - Terminator in Mare Vaporum - Image from National Archives.
+AS15-98-13301 - Terminator in Mare Vaporum - Image from National Archives.
+AS15-98-13302 - Terminator in Mare Vaporum - Image from National Archives.
+Relief, especially craters and hills, appears jagged and extreme, suggesting that excessive study of the terminator from Earth-based telescopes is responsible for the mistaken, pre-Apollo notion that the Moon would be a very rough place to explore.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+081:47:39 Henize: 15, this is Houston. And I have a map update for rev 3. [Long pause.]
+081:47:59 Scott: Stand by one, Karl. [Long pause.]
+081:48:23 Scott: Okay; go with the map update for rev 3.
+081:48:28 Henize: Roger. LOS: 82:28:16, 180 [degrees] is 82:48:42, AOS is 83:14:54. [Pause.]
+081:48:56 Scott: Okay; understand. LOS: 82:28:16; 180 degrees, 82:48:42; AOS, 83:14:54.
+These are the GET (Ground Elapsed Time) timings for Loss Of Signal, passing over the 180° longitude meridian on the far-side, and Acquisition Of Signal. A box is provided in the Flight Plan on page 3-89 for the times to be written in. They can be used to provide a reference for when they will be flying over various terrain.
+081:49:07 Henize: Roger. And while you're on that page [of the Flight Plan], I have information for the landmark J-1 observation.
+081:49:16 Scott: Okay; go ahead.
+081:49:18 Henize: T-Hor [time when J-1 is on the spacecraft's horizon] is 8 - 83:39:33; TCA [Time of Closest Approach] minus 20 [seconds], 83:41:25. [Pause.]
+081:49:39 Scott: Okay, understand. T-Horizon at 83:39:33; TCA minus 20, 83:41:25.
+081:49:49 Henize: That's correct.
+Long comm break.
+On the next pass over Mare Serenitatis, Al will use the Sextant to view a landmark, designated "J-1" whose position has been firmly established and whose elevation on the lunar surface has been deemed to be the same as the mean lunar radius (1738.0865 km).
+Pinpoint landings are very important to the later Apollo missions. While Apollo 11 gave a safe landing a higher priority than an accurate one, subsequent missions wished to explore specific sites. Exploration planning is greatly simplified if the LM can land on target. The location of the target must be well defined with respect to the spacecraft's orbit. As part of this objective, the geometry of the Moon and the spacecraft's orbit will be the subject of close scrutiny leading up to the landing tomorrow.
+Al will use P24 to control the spacecraft's attitude such that the optics point to where the computer thinks the J-1 landmark is, and if he wishes, he can mark it though he is not required to do so on this attempt. In preparation for this, Karl Henize has just read up the GET of when the crew can expect J-1 to appear on the horizon, and of a time 20 seconds before the spacecraft's closest approach to the landmark.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+081:55:20 Henize: 15, this is Houston.
+081:55:26 Worden: Houston, 15. Go ahead.
+081:55:29 Henize: It's our understanding that we'd agreed that you'd send down magazine numbers and final frame numbers on each pass on this photography, and if you're in agreement with that, we'd like to have the magazine and frame number on the orbital photography and also on the terminator photography.
+081:55:55 Worden: That - that's all in an agreement that I've got with Spencer, Karl. I think right now, we're too busy to do that, and after we get the landing out of the way, we'll go back and recap all the film and start from scratch.
+081:56:07 Henize: Very good.
+Very long comm break.
+Scott, from 1998 correspondence: "Spencer Gardner (I think), who was in charge of the lunar orbit photo ops, tall fellow, heavy-set, red hair, wore glasses, as I recall - worked on the Flight Crew Support Team."
+Flight Plan page 3-87.
+Apollo 15 is flying over the night time (western) side of the Moon's near-side hemisphere and the crew is involved in routine system checks of the Caution & Warning system, the SPS, the Service Module and Command Module RCS, and the Environmental Control System (ECS). Next, they realign the IMU platform using P52 on option 3. Option 3 is, once again the REFSMMAT option and they use the landing site REFSMMAT as the orientation to which they align the platform.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+082:03:33 Henize: 15, we have your torquing angles.
+082:03:39 Worden: Rog. Torqued on the minute.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+082:07:48 Henize: 15, this is Houston.
+082:07:53 Scott: Houston, 15.
+082:07:55 Henize: One more comment on the battery relay bus voltage. From all indications, it is indeed an instrumentation problem, but we have one more question and that is to confirm that the Main A - Main Bus A and Main Bus B Fuel Cell talkbacks are normal and - and have been normal during this period.
+082:08:22 Irwin: Yes, that's affirmative, Karl. They have been normal.
+082:08:27 Henize: Thank you. And, at the present time, all the systems, otherwise, are looking fine, and you're Go for DOI.
+082:08:37 Scott: Okay; understand. Go for DOI.
+Long comm break.
+The SPS engine burn for Descent Orbit Insertion (DOI) is scheduled 082:39:48. P30 has been executed with all the details of the burn and the spacecraft is being maneuvered to the correct attitude. The Flight Plan calls for VHF omnidirectional antenna C to be used but Karl will ask them to use D for now.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+082:16:31 Henize: 15, this is Houston. We'd like to verify, over on panel 226, that the O2 Tank 50 Watt Heater circuit breakers, 1 Main B and 2 Main A are open. And, if they're not open, let's open them. [Pause.]
+082:16:50 Irwin: Stand by. [Long pause.]
+Panel 226 carries circuit breakers associated with the Electrical Power System.
+082:17:03 Irwin: Okay. The two circuit breakers that are open are O2 Tank Heaters, 50 Watts, 1 Main B, and 2 Main A.
+082:17:12 Henize: Roger. I understand they have been open. Is that correct?
+082:17:19 Irwin: That's correct.
+082:17:22 Henize: Okay. The reason we ask is that the temperatures weren't quite as we expected. Thank you. [Long pause.]
+The three cryogenic oxygen tanks in the SM contain heaters which, if required, can be used to compensate for the drop in pressure and temperature experienced by the tank as it empties.
+082:17:41 Henize: Apollo 15. Omni - Omni Delta please, and we'll go to Charlie a little bit later.
+082:17:52 Irwin: Roger. Omni Delta.
+Long comm break.
+In preparation for the DOI burn, the two experiments running in the SIM bay, the Gamma-ray Spectrometer and the Alpha Particle Spectrometer, have been switched off for now. The Mapping Camera is verified to be in Standby and the Panoramic Camera is switched to Boost, essentially a standby setting. The crew will verify that the DSE recorder is operating before Mission Control lose the data link with the spacecraft. It must record the performance of the SPS engine under single bank control while the DOI burn occurs out of touch of Earth.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+082:25:58 Henize: 15, this is Houston. As you go around the corner, we'd like to verify that all systems are in good shape. And that the data you have in the Flight Plan for bail-out burn all stand as recorded. The no-burn AOS, you may be interested in, is 83:11:14. [Pause.]
+082:26:29 Irwin: Roger; understand. And we ran all the systems checks up here, and everything looked good, and I copied the AOS time.
+082:26:36 Henize: Excellent.
+Very long comm break.
+Flight Plan page 3-88.
+The spacecraft will commence its third orbit around the Moon half way through this far-side pass, around the time that Apollo 15 enters the descent orbit.
+082:27:20 Scott (onboard): Okay. We were up to [garble].
+082:27:26 Irwin (onboard): [Garble] do that. [Garble].
+082:27:34 Irwin (onboard): Getting hungry, Al?
+082:27:36 Worden (onboard): Huh?
+082:27:38 Irwin (onboard): [Garble] seemed like the day was getting along.
+082:27:42 Worden (onboard): We've only got 12 minutes to the burn.
+082:27:45 Irwin (onboard): Okay. [Garble].
+082:27:49 Scott (onboard): Okay, that's right. We're at 12 minutes.
+082:28:03 Irwin (onboard): [Garble].
+This is Apollo Control at 82 hours, 28 minutes. We've had Loss Of Signal on Apollo 15's second lunar revolution. We'll acquire Apollo 15 on it's third revolution after the descent orbit burn at 83 hours, 14 minutes, 54 seconds. If there is no burn, acquisition time will be 83 hours, 11 minutes, 14 seconds. At 82 hours, 29 minutes; this is Mission Control, Houston.
+As with the LOI burn, the time of reacquisition of the spacecraft is greatly influenced by the burn, giving controllers a quick, accurate check of how it progressed. Anything but a nominal burn profoundly affects the exact time the signal from the spacecraft is reacquired.
+Day 4, part 1: Lunar Encounter
+Journal Home Page
+Day 4, part 3: The Descent Orbit

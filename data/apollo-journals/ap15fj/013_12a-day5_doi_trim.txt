@@ -1,0 +1,570 @@
+Apollo 15 Flight Journal - Day 5, part 2: Trimming the Descent Orbit
+Day 5, part 1: Waking In the Descent Orbit
+Journal Home Page
+Day 5, part 3: Activating the Lunar Module
+Apollo 15
+Day 5, part 2: Trimming the Descent Orbit
+Corrected Transcript and Commentary Copyright © 1998-2026 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2026-01-25
+Index to events
+DOI trim manoeuvre
+095:56:45 GET
+Post-burn acquisition of signal
+096:30:00 GET
+Landing site REFSMMAT 00 time update
+096:49:19 GET
+Apollo 15 has just disappeared around the Moon's western limb. The primary task for this far-side pass, during which the spacecraft will begin its tenth revolution, is to accomplish the DOI (Descent Orbit Insertion) trim manoeuvre, which occurs at 095:56:44.7.
+Astronaut Ed Mitchell will take over from Robert Parker as the CapCom for the next ten hours, including the landing. Ed flew as Lunar Module Pilot on Apollo 14 and is therefore highly experienced in this stage of the mission. It has become normal practise for the LMP from the previous mission to act as CapCom during the landing shift, making best use of their recent knowledge and experience. Then, after the landing has been accomplished, there will be separate flight control teams and CapComs for the CSM and the LM.
+Flight Plan page 3-103.
+095:38:42 Irwin (onboard): Al, can you get those?
+095:38:44 Worden (onboard): What?
+095:38:45 Irwin (onboard): Logic Power, two, to Deploy/Retract.
+095:38:47 Worden (onboard): Yes.
+095:38:48 Irwin (onboard): I can't get in there among all the helmets.
+095:38:59 Worden (onboard): Deploy/Retract.
+095:39:30 Scott (onboard): You got another 15 degrees to go, Al.
+095:39:32 Worden (onboard): Okay.
+095:39:33 Scott (onboard): Jim, could you...
+095:39:35 Irwin (onboard): Yes.
+095:39:36 Scott (onboard): ...go ahead and finish what you're doing; I'm sorry.
+095:40:01 Irwin (onboard): Al, you've got to change those Logic Powers, too, and go back an Off; I'm sorry. I was thinking we had to retract the booms. They're already retracted.
+095:40:13 Worden (onboard): Okay. I'll be glad when I get rid of you guys. I won't have to worry about those switches anymore.
+095:40:18 Scott (onboard): You won't, huh?
+095:40:19 Worden (onboard): Huh-uh.
+095:40:20 Scott (onboard): Oh, that's right. You don't have any maneuvers.
+095:40:22 Worden (onboard): No, I - I laid it on them. I said, 'Those switches, as long as I'm by myself, are going to stay in Deploy/Retract all the time.'
+095:40:30 Scott (onboard): That's good. Okay, you're almost there.
+095:40:32 Worden (onboard): Okay.
+095:40:36 Scott (onboard): And I'll tell you what. Why don't you do your P52, and just stay down there, and I'll do a P30...
+095:40:42 Worden (onboard): All right...
+095:40:43 Scott (onboard): ...since we're at the attitude...
+095:40:44 Worden (onboard): Yes.
+095:40:45 Scott (onboard): ...and let you do the star check.
+095:40:46 Worden (onboard): All right. [Garble] warning lines. Jim can pick up the checklist.
+095:40:54 Scott (onboard): Okay, you're there.
+095:40:55 Worden (onboard): Good.
+095:40:56 Scott (onboard): I'll - I'll get the numbers. They recommend 25 and 26.
+095:40:58 Worden (onboard): Right. If 25 doesn't come up, I'm going to punch it in.
+095:41:02 Scott (onboard): What...
+095:41:03 Worden (onboard): Twenty-five.
+095:41:04 Scott (onboard): Okay. Well, you've got 16 minutes, so you're in good shape.
+095:41:10 Worden (onboard): Okay. Twenty-five is Acrux.
+095:41:25 Irwin (onboard): Do you want to start an EMS Delta-V test over there...
+095:41:26 Scott (onboard): Yes.
+095:41:27 Irwin (onboard): ...and null bias check.
+095:41:28 Scott (onboard): Okay.
+095:41:29 Irwin (onboard): Okay.
+095:41:37 Worden (onboard): Twenty-six; comes up the right stars.
+095:41:41 Scott (onboard): Good.
+095:41:44 Worden (onboard): And 26 is Spica.
+095:42:03 Worden (onboard): Oh, yes, there's Gienah; this must be Spica.
+095:42:26 Scott (onboard): Four balls 1.
+095:42:27 Worden (onboard): Beautiful.
+095:42:29 Scott (onboard): Torquing angles.
+095:42:32 Worden (onboard): One, 2, 3 - Okay, I'll torque them on a minute.
+This platform realignment is the fourteenth of the mission and is being carried out ahead of the DOI trim burn. It used star 25 (Acrux, Alpha Crucis) and 26 (Spica, Alpha Virginis) as the references. The drift rate of the IMU platform continues to be very small. After 12 hours since the previous realignment, the angles through which the platform had to be torqued to restore alignment were: X, +0.022°; Y, -0.032°; Z, +0.038°. The star angle difference of 0.01° ('Four balls 1') shows that Al's sighting accuracy was good.
+095:43:03 Scott (onboard): Okay.
+095:43:12 Worden (onboard): What's the sextant star?
+095:43:14 Scott (onboard): Well, wait a minute. Oh, you want to do it right here? Okay, sextant star is number 30.
+095:43:23 Worden (onboard): Aaah.
+095:43:24 Scott (onboard): Huh.
+095:43:38 Scott (onboard): Take a look at your shaft and trunnion, if you can.
+095:43:41 Worden (onboard): Yes.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We've now had Loss Of Signal as Apollo 15 sailed behind the Moon nearing the end of the ninth revolution. Coming up in about 13 minutes on the DOI trim maneuver, which will be an RCS burn to raise pericynthion from the present 7½ nautical miles [13.9 km] to 9.6 [nautical miles, 17.8 km]. 3.1 feet per second [0.95 m/s velocity change with a] burn time of 20 seconds. 1 hour and 8 minutes until - [correcting himself] I'm sorry about that, about 47 minutes actually to acquisition of signal again. At 95 hours, 44 minutes Ground Elapsed Time, this is Apollo Control, out."
+Flight Plan page 3-104. This nominally starts at 96 hours but because the DOI trim burn has been moved to 095:56:00, the page is presented here.
+095:43:43 Scott (onboard): What's that? Noun 99?
+095:43:45 Worden (onboard): Yes. Let's see - 90...
+095:43:48 Scott (onboard): Okay, it should be 192.8 and 111. You've got 192.1 and 114.
+095:43:53 Worden (onboard): That's pretty close.
+095:43:54 Scott (onboard): Yes, that's at 192 - 192.87
+095:44:05 Scott (onboard): What are you doing?
+095:44:07 Worden (onboard): [Garble].
+095:44:11 Scott (onboard): Why don't we just - Let me do a...
+095:44:13 Worden (onboard): Do you want to just take those numbers?
+095:44:14 Scott (onboard): No, let me do a P - P30-P41 real quick and get you to - the right attitude.
+095:44:19 Worden (onboard): Well, we want to do the sextent star check on their attitude anyway.
+095:44:24 Scott (onboard): It doesn't matter.
+095:44:25 Worden (onboard): Yes. Well, wait...
+095:44:26 Scott (onboard): 111 - 192.8...
+095:44:27 Worden (onboard): Okay.
+095:44:28 Scott (onboard): ...and 111.
+095:44:38 Scott (onboard): There, I - you're in good shape.
+095:44:45 Worden (onboard): Yes, it's there.
+095:44:47 Scott (onboard): Okay. Good. Okay, why don't you clean up down there? I'll do a 30-41.
+095:44:55 Worden (onboard): Okay.
+095:45:04 Scott (onboard): I want to go to P00, okay?
+095:45:05 Worden (onboard): Okay, you got it.
+095:45:21 Scott (onboard): 3.1, is that all?
+095:45:23 Irwin (onboard): Yes.
+095:45:28 Worden (onboard): They're really getting down to nitpicking. Okay, I'm all cleaned up down here, Dave.
+095:45:35 Scott (onboard): Okay.
+095:45:45 Scott (onboard): Your TSBs are getting pretty full, aren't they?
+TSB is a Temporary Storage Bag, also known as a McDivitt Purse after the Apollo 9 commander introduced them.
+095:45:48 Irwin (onboard): I think there's a lot of space in the bottoms of them.
+095:45:51 Worden (onboard): Well, if you guys leave today, I'll - I'm going to get the jett bag out and start filling it up with that stuff.
+095:45:55 Irwin (onboard): Yes.
+095:45:58 Scott (onboard): Okay, we're in P41. Trim it out. There, attitude looks pretty good. Okay. Why don't you come up here and do your KS check?
+095:46:09 Worden (onboard): Okay, Dave.
+095:46:21 Scott (onboard): 3.1. God, that's a nothing.
+095:46:26 Worden (onboard): Yes, they're really splitting hairs.
+095:46:29 Scott (onboard): That's all right, I wouldn't feel too comfortable at 24,000 feet on the verge of a 22,000-foot mountain.
+095:46:39 Worden (onboard): Yes, well, this'll bring you up 10,000 feet.
+095:46:42 Scott (onboard): Yes.
+095:46:44 Worden (onboard): Or thereabouts.
+095:46:48 Scott (onboard): Are you running a null bias check here?
+095:46:49 Worden (onboard): No. I just started to set it up now when you got...
+095:46:53 Scott (onboard): Oh. Okay.
+095:46:54 Worden (onboard): ...the numbers in.
+095:46:55 Scott (onboard): Did you run the Delta-V test?
+095:46:56 Worden (onboard): Yes. That's good. It's a minus 21.9.
+095:46:59 Irwin (onboard): We've got 10 minutes to go.
+095:47:01 Scott (onboard): Your clock's set, but for some reason it isn't set exactly right. I think that timer drifts on you.
+095:47:08 Irwin (onboard): Drifts? Yes.
+095:47:13 Worden (onboard): Yes. I suspect it very well might.
+095:47:21 Irwin (onboard): Have we got the DAP set in there that we want?
+095:47:24 Worden (onboard): Yes.
+095:47:25 Irwin (onboard): Four jets?
+095:47:26 Scott (onboard): Four jets.
+095:47:30 Worden (onboard): [Garble] start.
+095:47:32 Scott (onboard): Okay, we got BMAG...
+095:47:33 Worden (onboard): Yes, I've got 21101.
+095:47:35 Scott (onboard): Let's go back to...
+095:47:36 Worden (onboard): That gives us four jets.
+095:47:38 Scott (onboard): Yes. Let's go check the waste...
+095:47:39 Worden (onboard): I ch - I put that in.
+095:47:40 Scott (onboard): You already did that?
+095:47:41 Worden (onboard): Yes.
+095:47:42 Scott (onboard): Okay.
+095:47:43 Worden (onboard): That's the only thing there was to put in.
+095:47:44 Scott (onboard): Okay. Roll, pitch, and yaw looks okay.
+095:47:52 Irwin (onboard): Okay, you want to get ROT Control Power, Normal, two, to AC/DC?
+095:47:56 Scott (onboard): AC/DC.
+095:47:57 Irwin (onboard): ROT Control Power, Direct, two, to Main A, B.
+095:47:58 Scott (onboard): Main A, Main B.
+095:48:02 Irwin (onboard): I didn't get the chance to check the DET.
+095:49:09 Scott (onboard): Looks like it's about 3 or 4 seconds off, and I'm really not sure I understand why.
+095:48:17 Worden (onboard): Yes, you can turn it right and the next time you look it's - Oh, [garble], forgot to give you that.
+095:48:26 Scott (onboard): That's all right. I put your film in your TSB.
+095:48:29 Worden (onboard): Okay.
+095:48:32 Irwin (onboard): Okay BMAG Mode, three, are Rate 2.
+095:48:34 Scott (onboard): They're in Rate 2.
+095:48:36 Irwin (onboard): And we're at CMC in Auto?
+095:48:38 Scott (onboard): Yes, yes.
+095:48:39 Irwin (onboard): We'll wait until the Delta-V test is complete to do the trim?
+095:48:47 Scott (onboard): Delta-V test is complete, and it's .8 feet per second per 100 seconds. It's getting better.
+095:48:54 Worden (onboard): Yes. [Garble].
+095:48:56 Irwin (onboard): Okay, do you want to - do you want to trim?
+095:49:03 Scott (onboard): Huh? Trim?
+095:49:04 Irwin (onboard): I said you want to set Delta-VC, I suppose?
+095:49:08 Scott (onboard): Ah, let's set - Yes, better - Your 100 is probably good. Delta-VC should be 3.1.
+095:49:15 Worden (onboard): Yes, let's...
+095:49:22 Scott (onboard): You know what? That's yours.
+095:49:31 Worden (onboard): Okay, 3.1. I've got a 103.1 set in there.
+095:49:35 Irwin (onboard): Okay. EMS Function, Delta-V.
+095:49:36 Scott (onboard): Delta-V.
+095:49:39 Irwin (onboard): Okay, do you want to trim it?
+095:49:42 Scott (onboard): Yes, we might as well. Get it all in plus-X. Okay?
+095:49:46 Worden (onboard): Yes. Okay, push up close to [garble]. Yes.
+095:49:55 Scott (onboard): Okay, burn time is 20 seconds.
+095:50:00 Worden (onboard): Okay.
+095:50:01 Irwin (onboard): Spacecraft roll aligned, Al?
+095:50:04 Worden (onboard): Aligned.
+095:50:06 Irwin (onboard): Spacecraft Control, CMC in Auto.
+095:50:08 Worden (onboard): CMC, Auto.
+095:50:09 Irwin (onboard): Manual Attitude, three, to Rate Command.
+095:50:11 Scott (onboard): Rate Command.
+095:50:12 Irwin (onboard): Deadband, Min.
+095:50:13 Scott (onboard): Min.
+095:50:14 Irwin (onboard): Rate, Low.
+095:50:15 Scott (onboard): Low.
+095:50:16 Irwin (onboard): BMAG Mode, three, Att 1/Rate 2.
+095:50:17 Scott (onboard): Att 1/Rate 2. Wellll...
+095:50:18 Irwin (onboard): GDC Align.
+095:50:20 Scott (onboard): What happened to your Translation Control Power?
+095:50:23 Worden (onboard): Yes, that's what I'm wondering.
+095:50:24 Scott (onboard): Where's the THC Power? Well, now...
+095:50:29 Irwin (onboard): Get that down there.
+095:50:30 Scott (onboard): Oh, down there? Okay.
+095:50:31 Irwin (onboard): Five minutes.
+095:50:32 Scott (onboard): (Sigh)
+095:50:33 Worden (onboard): Why - why go Att 1/Rate 2, though?
+095:50:34 Irwin (onboard): Do it for a GDC Align. That doesn't make sense.
+095:50:37 Scott (onboard): No? No, it sure doesn't, does it?
+095:50:39 Worden (onboard): Why the GDC [garble]?
+095:50:55 Irwin (onboard): And we're standing by for 5 minutes.
+095:50:58 Worden (onboard): Okay, we're at 6 minutes.
+095:51:21 Worden (onboard): Have you timed this thing, Dave?
+095:51:23 Scott (onboard): Yes.
+095:51:24 Worden (onboard): Okay.
+095:51:35 Worden (onboard): GDC aligned.
+095:51:37 Irwin (onboard): Okay. Standing by for 5 minutes.
+095:51:39 Worden (onboard): Okay, we're at 5 minutes.
+095:51:40 Scott (onboard): Okay, at some point you got to go Attitude 1/Rate 2 to have your SPS...
+095:51:46 Worden (onboard): Right.
+095:51:47 Scott (onboard): ...in attitude hold. Let's not call down anymore. So you might as well do it now.
+095:51:51 Irwin (onboard): [Garble] Att 1/Rate 2, [garble] 42, GDC Align.
+095:51:54 Worden (onboard): I don't understand that.
+095:51:56 Scott (onboard): I don't either.
+095:51:57 Worden (onboard): Okay, we're in Att 1/Rate 2, just in case we need it.
+095:52:04 Scott (onboard): Okay, we're at 5.
+095:52:05 Irwin (onboard): Okay, Translation Control Power, On.
+095:52:08 Worden (onboard): Translation Control Power, On.
+095:52:09 Irwin (onboard): Hand controllers, armed.
+095:52:11 Worden (onboard): Armed.
+095:52:15 Irwin (onboard): Okay. Did you get the 85 display? I guess it's...
+095:52:18 Worden (onboard): Yes.
+095:52:19 Irwin (onboard): [Garble]...
+095:52:20 Worden (onboard): I got the [garble] right now.
+095:52:25 Scott (onboard): Okay. After the burn, there's not much. I think we're in good shape. I'll tell you what we might do. After the burn, let's pressurize the LM.
+095:52:41 Worden (onboard): Yes.
+095:52:42 Scott (onboard): And let you get suited. And it might be better if you just pull your suit out and stuck it in the corner and got all that stuff out of the tunnel. [Garble], we can put it here and...
+095:52:54 Worden (onboard): Yes.
+095:52:55 Scott (onboard): ...down under that couch, where we've been putting it.
+095:52:56 Worden (onboard): And try to [garble] it back. Yes.
+095:52:58 Scott (onboard): Yes, and I think there's enough room for you to get suited there.
+095:53:01 Worden (onboard): Yes, I think so.
+095:53:02 Scott (onboard): Then we can start working on that [garble] I'd like to do that landing site thing - the P24.
+095:53:22 Irwin (onboard): And I'll be getting all the transfer gear.
+095:53:24 Scott (onboard): Yes, get all the transfer gear. Yes. As a matter of fact, you can start taking it over, once we get the tunnel opened up.
+095:53:31 Irwin (onboard): Yes.
+095:53:32 Worden (onboard): Boy, I tell you, we go by that landing site awful fast.
+095:53:36 Scott (onboard): We really do.
+095:53:37 Worden (onboard): Yes, you really go zipping by.
+095:53:38 Scott (onboard): Did you get a good picture of it?
+095:53:39 Worden (onboard): No.
+095:53:40 Irwin (onboard): It was a little too dark.
+095:53:41 Worden (onboard): I just - All I could do was point down, and I just picked up the rille going past the edge of the window. I was just too slow getting to it, so - I knew I didn't have much time, but I didn't know it was that fast. I didn't realize we were going to get through it that quickly.
+095:53:55 Scott (onboard): Did it look low?
+095:53:56 Irwin (onboard): Yes.
+095:53:57 Scott (onboard): Yes. You know, doggone it...
+095:53:58 Irwin (onboard): The sector's right there, boy.
+095:53:59 Scott (onboard): ...[garble]. In the LM when - when we'd do that, we'd run it several times across PDI with the window. We should have done that in the LMS with you. I didn't - I didn't...
+095:54:07 Worden (onboard): We did.
+095:54:08 Scott (onboard): ...[garble] about the - No, you never came over there and watched us do it from 9 miles.
+095:54:11 Worden (onboard): Oh, I...
+095:54:12 Scott (onboard): [Garble].
+095:54:13 Worden (onboard): Oh, I see. Yes.
+095:54:14 Scott (onboard): Because it really moves.
+095:54:15 Worden (onboard): Yes.
+095:54:16 Scott (onboard): Really give you a feeling for it.
+095:54:17 Worden (onboard): Yes.
+095:54:18 Scott (onboard): I never thought about the TV pass, though, to tell you the truth.
+095:54:30 Scott (onboard): Tell them it went awful fast?
+095:54:33 Irwin (onboard): They could tell, I think (laughter).
+095:54:34 Worden (onboard): Yes.
+095:54:36 Scott (onboard): Could you - did you have any...
+095:54:37 Worden (onboard): Well, all - all I could do was stick it in the window and catch - catch the rille going out of the edge of the picture, and that was it, Dave. So, all I saw was - all I saw was St. George and - and Elbow Crater.
+095:54:47 Scott (onboard): Could you see them?
+095:54:48 Worden (onboard): Yes. And they were gone.
+095:54:51 Scott (onboard): Did you get a good chance to point it at the Apennines coming up, though?
+095:54:55 Worden (onboard): Yes. Yes.
+095:54:56 Scott (onboard): Did you see the mountains on the horizon and all that stuff?
+095:54:58 Worden (onboard): Yes.
+095:54:59 Scott (onboard): Well, that ought to be pretty impressive. Well, we're down to 2 minutes, Jimmy.
+095:55:14 Scott (onboard): And don't - don't forget on that Activation Checklist that one of them has that ECS stuff, and the other's got - Make sure we have both of those. Yes.
+095:55:44 Scott (onboard): One minute. Okay, 20-second burn [garble] Jim will count because your clock is sort of [garble].
+095:55:56 Worden (onboard): Yes. [Garble]...
+095:55:57 Scott (onboard): [Garble] on that, Jim?
+095:56:29 SC (onboard) [Garble].
+095:56:30 Worden (onboard): Okay.
+095:56:31 Irwin (onboard): [Garble].
+095:56:32 Worden (onboard): 43.
+095:56:33 Irwin (onboard): Roger.
+095:56:36 Scott (onboard): Ten seconds. Ready...
+095:56:45 Scott (onboard): Mark; the burn time. DSKY's count?
+According to the postflight Mission Report, the DOI trim manoeuvre occured at 095:56:44.7 and lasted for 18.9 seconds. The burn was carried out along the direction of their travel so has had the effect of accelerating them slightly and thereby raising their perilune on the opposite side of the orbit to 9.6 nautical miles or 17.8 km.
+095:56:51 Worden (onboard): Roger. So is the EMS.
+095:56:54 Irwin (onboard): Here's the countdown. [Garble]. 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, and...
+095:57:05 Irwin (onboard): Zero.
+095:57:06 Scott (onboard): Now trim it a little bit. Yes, that's [garble]. That's good, Al. [Garble].
+095:57:10 Worden (onboard): What did they want it trimmed to?
+095:57:12 Scott (onboard): They didn't say. Why don't you - Could you take that to 3/10ths?
+095:57:14 Irwin (onboard): They didn't want us to trim any...
+095:57:16 Worden (onboard): That's for retrograde [garble].
+095:57:18 Scott (onboard): There you go.
+095:57:19 Worden (onboard): Okay.
+095:57:20 Scott (onboard): .1, .2, and .0.
+095:57:23 Worden (onboard): Okay.
+095:57:24 Scott (onboard): Okay, we got everything?
+095:57:25 Worden (onboard): Whoo.
+095:57:26 Scott (onboard): All the data?
+095:57:27 Worden (onboard): Yes.
+095:57:29 Scott (onboard): Okay. EMS Function, Off.
+095:57:32 Worden (onboard): Off.
+095:57:33 Scott (onboard): EMS Mode, Standby.
+095:57:35 Worden (onboard): Standby.
+095:57:36 Scott (onboard): RHC and a THC, lock.
+095:57:37 Irwin (onboard): Lock.
+095:57:39 Scott (onboard): Translation Control Power, Off.
+095:57:41 Worden (onboard): Off.
+095:57:44 Scott (onboard): We got a P00 after that?
+095:57:45 Irwin (onboard): Yes - yes.
+095:57:47 Scott (onboard): P00 and a Verb 66.
+095:57:49 Worden (onboard): Okay.
+095:57:50 Scott (onboard): ROT Control Power, Direct, Off.
+095:57:52 Worden (onboard): Direct, Off.
+095:57:53 Scott (onboard): BMAG Mode, three, Rate 2.
+095:57:54 Worden (onboard): Rate 2.
+095:57:55 Irwin (onboard): Tape Recorder going off.
+095:59:08 Scott (onboard): [Garble]?
+095:59:09 Worden (onboard): [Garble].
+095:59:10 Scott (onboard): Okay, there's a maneuver to P52 high-gain attitude. If DOI trim required; roll, pitch, and yaw. Well, beautiful, they didn't give us that one. Did they? Did they give us an attitude to go to, Jim - after the burn?
+095:59:29 Irwin (onboard): No, I don't think so. It's not on the PAD.
+095:59:45 Worden (onboard): We don't have it. Huh.
+095:59:57 Worden (onboard): Well, for God sakes. They forgot it completely.
+096:00:06 Scott (onboard): Okay. They're not too with us this morning.
+096:00:09 Worden (onboard): What - what kind of high-gain antenna angles do we get in this attitude?
+096:00:15 Irwin (onboard): Why don't you look for it...
+096:00:16 Worden (onboard): We'll just stay here.
+096:00:17 Irwin (onboard): ...[garble] 142?
+096:00:18 Worden (onboard): Let's look in the book and see if that's in a clear area.
+096:00:21 Scott (onboard): Which book? Where's the [garble] at?
+096:00:23 Irwin (onboard): Right up there. Do you want - want to clean up of SIM bay here, Dave?
+096:00:29 Scott (onboard): Yes, okay. X-Ray to Standby.
+096:00:33 Irwin (onboard): X-Ray to Standby.
+096:00:34 Scott (onboard): X-Ray - Alpha Ray/X Door to Alpha On.
+096:00:38 Irwin (onboard): Okay, that is Alpha On.
+096:00:40 Scott (onboard): Okay. Gamma Ray, Experiment, On.
+096:00:43 Irwin (onboard): Gamma Ray, Experiment, On.
+096:00:46 Scott (onboard): Gainstep to Shield On.
+096:00:48 Irwin (onboard): Gainstep to Shield On.
+096:00:50 Scott (onboard): Mass Spec...
+096:00:51 Irwin (onboard): Wait, hold it. Gainstep to Shield On?
+096:00:53 Scott (onboard): Yes.
+096:00:54 Irwin (onboard): Is that the midprogression?
+096:00:55 Scott (onboard): I don't know. What is it?
+096:00:56 Irwin (onboard): It's the Shield Off, down.
+096:00:58 Scott (onboard): What's that?
+096:00:59 Worden (onboard): Shield on for the Gainstep.
+096:01:02 Scott (onboard): Which position is that?
+096:01:05 Worden (onboard): Center.
+096:01:06 Irwin (onboard): Okay, the shield's on.
+096:01:07 Scott (onboard): I don't know. It doesn't say that over there.
+096:01:08 Worden (onboard): Gainstep is in up.
+096:01:10 Scott (onboard): Okay, Mass Spec Experiment to Standby.
+096:01:14 Irwin (onboard): Okay, Mass Spec Experiment is Standby.
+096:01:19 Scott (onboard): Pan Camera to off.
+096:01:23 Irwin (onboard): Pan Camera - You got the mode? For the Pan Camera [garble]...
+096:01:29 Worden (onboard): It's the [garble] Power.
+096:01:30 Scott (onboard): Oh, Power - Pan Camera Power to off. I'm sorry.
+096:01:32 Irwin (onboard): Verified.
+096:01:33 Scott (onboard): All right, that's all.
+096:01:35 Irwin (onboard): Okay.
+096:01:52 Scott (onboard): Okay, let's...
+096:01:55 Irwin (onboard): What does that look like? I said that to you.
+096:02:06 Scott (onboard): Oh, my. Well, let's see. Getting range and no coverage, though. Next thing we go to is landing site observation attitude at 96:55, which is 015, 290, and 000. So that ought to be a good attitude. You see we come down through here and do all that.
+096:02:31 Worden (onboard): Yes.
+096:02:32 Scott (onboard): I guess we'd better...
+096:02:33 Worden (onboard): Well, we don't have anything else, do we?
+096:02:35 Scott (onboard): S-band. Says P52 HGA attitude, if DOI trim required. Well, we'll give it to him. And the next attitude we have to do - it looks stable for maneuver, because they're surely to give us a - an extra maneuver.
+096:02:52 Worden (onboard): [Garble].
+096:02:57 Scott (onboard): They didn't give us that. Here we come around here, and the next thing we have to do is burn status - maneuver to this attitude. Okay?
+096:03:06 Worden (onboard): Yes.
+096:03:07 Scott (onboard): So let's - let's go there.
+096:03:08 Worden (onboard): That'll be Charlie there, huh? That's not a good - that's not a good high-gain attitude.
+096:03:21 Scott (onboard): It's not?
+096:03:22 Worden (onboard): But it's better than the one we've got, though.
+096:03:24 Scott (onboard): How can you tell we're there?
+096:03:25 Worden (onboard): Huh? Well, the landing-site observation attitude is not a good high gain.
+096:03:29 Scott (onboard): Oh, it's not?
+096:03:30 Worden (onboard): Huh-uh. The high...
+096:03:32 Scott (onboard): Well, let's...
+096:03:33 Worden (onboard): ...That's - that's corrected better than what we've got.
+096:03:34 Scott (onboard): Well, we got Omni now, anyway, don't we?
+096:03:36 Worden (onboard): Yes. Now we can just sit here. You've got Omni B here or Omni Charlie in that other attitude.
+096:03:45 Scott (onboard): Let's see, we have AOS at 96:30. Okay, and then we only got 20 minutes to maneuver. I guess you're right. I guess that would be better than - kind of - We only have Omni, but that's too bad, I guess. But at least it's better than this one.
+Rev 10 begins at about 096:04.
+096:04:06 Worden (onboard): Yes.
+096:04:16 Scott (onboard): 290, 0 [garble] the whole 180 degrees down [garble].
+096:04:29 Irwin (onboard): Got a long ways to go.
+096:04:30 Scott (onboard): So we might as well do it. Go to [garble]. Okay. Next order of business is the tunnel.
+096:04:49 Irwin (onboard): Al, I want to change lightweights with you. I'm going off comm.
+096:05:15 Worden (onboard): Okay, and I'd better put some biomed on.
+096:05:17 Scott (onboard): Oh, yes, that's right. Why don't -
+096:05:33 Scott (onboard): You're going to have some time - Oh, you got to get your suit on.
+096:05:46 Scott (onboard): Why don't - why don't we do the tunnel and get that stuff in here. I don't think it's going to be in the way too much, once we get your suit out of the way. Oh, do your biomed stuff, and we'll get all the transfer stuff together. Then we'll have it all, and we won't have to do any more shuffling.
+096:06:16 Scott (onboard): I - I'll get it. Jim, go ahead and get the transfer stuff. I'll - That's the wrong thing, Jim. You're in the right wall.
+096:06:38 Scott (onboard): Need any help, Jimmy? What - UCW2 [?]. Oh, that thing. Yes, okay. Where it is? I'll go get it. Oh, I know where it is; it's in A-8.
+096:07:13 Scott (onboard): Whew. (Clanking)
+096:07:35 Scott (onboard): There we go. (Clanking)
+096:07:52 Scott (onboard): What happened?
+096:08:07 Irwin (onboard): [Garble].
+096:08:10 Scott (onboard): Okay. (Clanking)
+096:08:37 Scott (onboard): Did you leave Al one jettison bag?
+096:08:44 Irwin (onboard): Okay, I'll check.
+096:08:47 Scott (onboard): Okay. How many did you have to start with?
+096:09:05 Scott (onboard): (Clanking) No, I really guess not. Okay, we'll just take one. Okay, LM Data File, huh? What should - what should be in it, Jim? Huh? Yes. I know this is in it; I saw it the other day.
+096:09:33 Irwin (onboard): [Garble].
+096:09:35 Scott (onboard): No, it's - it's an extra one of ours. I had - that's a backup. Command module. I had them put on. (Laughter) It's the only kind I understand. It's not going to work (laughter). Here, I know where I'll put it, right in here. Right there.
+096:10:01 Irwin (onboard): [Garble].
+096:10:08 Scott (onboard): Okay, let's check it.
+096:10:27 Scott (onboard): Time line. Go. Data Card Book. Go. Okay, go.
+096:10:41 Irwin (onboard): [Garble].
+096:10:42 Scott (onboard): Got it.
+096:10:43 Irwin (onboard): [Garble].
+096:10:45 Scott (onboard): Got it.
+096:10:46 Irwin (onboard): [Garble].
+096:10:47 Scott (onboard): Star charts; you have them.
+096:11:04 Irwin (onboard): Get the [garble].
+096:11:08 Scott (onboard): All right. I'd like to time it [garble].
+096:11:26 (onboard clanking)
+096:11:39 Scott (onboard): Maybe I got a PRD, Jim.
+096:11:55 (onboard clanking)
+096:12:17 Scott (onboard): There it is. I've got to get Al's, really. Yes.
+096:12:37 Scott (onboard): What?
+096:12:39 Irwin (onboard): [Garble].
+096:12:41 Scott (onboard): It wasn't? Why? Really? Oh, let me write this
+096:13:07 Irwin (onboard): [Garble].
+096:13:13 Scott (onboard): Do you know where your PRD is, Al? Yes, give me to it [sic]. I'm switching you right now.
+096:13:35 (onboard clanking)
+096:13:37 Scott (onboard): Some day they may want these readings. They're in here. They're in here at the beginning of the day, if you ever get around to it. Okay, Jim, my PRD. I thought I Just handed you one. Huh?
+096:14:11 Irwin (onboard): [Garble].
+096:14:31 Scott (onboard): Oh, shoot, I don't see it, Jim. No, don't check it off; we'll look for it, as we go around. Oh, is that the list you're checking? Oh, come on. Okay. Yes. Yes, I put mine on. Yes.
+096:15:11 Irwin (onboard): [Garble].
+096:15:14 Scott (onboard): Yes, we're - Yes, but - Yes, okay. I've got mine in my pocket. Okay. Yes. Got that? Yes. Yes.
+096:15:42 Irwin (onboard): [Garble].
+096:15:44 Scott (onboard): Okay, yes - yes. What I - We also want to take these over and bring the new ones back. CWGs.
+096:16:04 Irwin (onboard): [Garble].
+096:16:07 Scott (onboard): Yes.
+096:16:11 Irwin (onboard): [Garble].
+096:16:14 Scott (onboard): Yes.
+096:16:15 Irwin (onboard): [Garble].
+096:16:28 Scott (onboard): Yes. Yes, we have them on.
+096:16:31 Irwin (onboard): [Garble].
+096:16:33 Scott (onboard): I'm going to have mine in my pocket, in this thing when I bring it over. So I got mine. Do you want to take yours? Okay, it's in the tube, Jim.
+096:16:48 Irwin (onboard): [Garble].
+096:16:50 Scott (onboard): Yes.
+096:16:53 Irwin (onboard): [Garble].
+096:16:58 Scott (onboard): Yes. I was going to put them in my pocket, too, before I got hooked around. Here, I can stick it in this pocket up here - in my strap-on pocket. When are we going to put them over there? Okay.
+096:17:20 Irwin (onboard): [Garble].
+096:17:22 Scott (onboard): Yes, okay.
+096:17:24 Irwin (onboard): [Garble].
+096:17:25 Scott (onboard): Yes, got mine ready to snap on.
+096:17:27 Irwin (onboard): [Garble].
+096:17:30 Scott (onboard): Okay.
+096:17:32 Irwin (onboard): [Garble].
+096:17:36 Scott (onboard): Yes.
+096:17:38 Irwin (onboard): [Garble].
+096:17:39 Scott (onboard): Okay.
+096:17:41 Irwin (onboard): [Garble].
+096:17:47 Scott (onboard): We got both Activation Checklists? Sure, huh? Okay.
+096:18:12 Scott (onboard): Huh?
+096:18:13 Irwin (onboard): [Garble].
+096:18:14 Scott (onboard): Yes. Well, all right. We're going to go early.
+096:18:20 Irwin (onboard): [Garble].
+096:18:27 (onboard clanking)
+096:18:35 Irwin (onboard): [Garble].
+096:18:39 Scott (onboard): I'll put it in R-3.
+096:18:51 Scott (onboard): The what?
+096:19:35 (onboard clanking)
+096:19:54 Irwin (onboard): Get all [garble]?
+096:19:56 Scott (onboard): Yes.
+096:19:57 Irwin (onboard): [Garble].
+096:19:59 Scott (onboard): Okay.
+096:20:05 (onboard clanking)
+096:20:07 Scott (onboard): Yes.
+096:20:08 (onboard clanking)
+096:20:49 Scott (onboard): Well, I don't think we've left you with too much to do, Al. I hope not. Keep an eye on those guys down there.
+096:21:02 Worden (onboard): [Garble].
+096:21:05 Scott (onboard): Huh?
+096:21:06 Worden (onboard): [Garble].
+096:21:08 Scott (onboard): Yes, they really have.
+096:21:12 Worden (onboard): [Garble] watch the systems [garble].
+096:21:17 Scott (onboard): Let them watch the systems and you do the flying, which is the way it ought to be.
+096:21:43 (onboard clanking)
+096:22:22 Irwin (onboard): ... all through down there?
+096:22:35 (onboard clanking)
+096:22:42 Irwin (onboard): [Garble].
+096:23:06 Irwin (onboard): [Garble] wait a minute [garble].
+096:23:15 Irwin (onboard): Yes.
+096:23:18 Scott (onboard): Jim, here's your - thing.
+096:23:53 Irwin (onboard): [Garble].
+096:24:55 (onboard clanking)
+096:25:12 Irwin (onboard): [Garble].
+096:25:16 (onboard clanking)
+096:25:36 Irwin (onboard): [Garble].
+096:25:39 (onboard clanking)
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We're now about 4 minutes from re-acquiring the spacecraft, Endeavour and Falcon, on their tenth revolution of the Moon. Here in Mission Control, we've completed a shift handover. The on-duty Flight Director at this time is Glynn Lunney. Our spacecraft communicator is astronaut Edgar Mitchell. The off-going Flight Director [is] Gene Kranz. And we do anticipate having a change of shift press briefing in the MSC News Center briefing room probably in 15 or 20 minutes. On reacquiring the spacecraft, the first order of business will be to get a report on the Descent Orbit Insertion trim maneuver, performed about 30 minutes ago behind the Moon. This maneuver is calculated to raise the pericynthion or low point of the spacecraft orbit from about 7½ nautical miles up to about 9.6, which is the preferred altitude to begin the powered descent from on the 14th revolution. During the tracking of the spacecraft it was evident that the orbit was gradually decaying. They were getting down to the point where, at Powered Descent Initiation, the altitude would have been around 30 thousand feet. This would have been acceptable but the preferred altitude is about 50 thousand feet, so the maneuver was performed using the Reaction Control System attitude thrusters. We're standing by now about 2 minutes from reacquiring the spacecraft, and we'll continue to stand by until we hear a call to the crew.
+096:26:20 Scott (onboard): [Garble]. Is this your [garble], Jim?
+096:26:29 Irwin (onboard): No, I've got it. [Garble].
+096:26:33 Scott (onboard): [Garble].
+096:26:35 (onboard clanking)
+096:27:00 (onboard clanking)
+096:27:29 Scott (onboard): Okay, I guess the - next thing we ought to do - when you get ready - is go through the tunnel. No, I don't need that. System Checklist.
+096:27:58 Irwin (onboard): I think you had the Systems Checklist, didn't you? Oh, here it is. Okay. Well, that's your job, because - Say again?
+096:28:15 Worden (onboard): [Garble].
+096:28:18 Irwin (onboard): Yes.
+096:28:34 (onboard clanking)
+096:28:42 Scott (onboard): Think we ought to try and get them on the high gain? Hey, Al, you think we ought to try to get them on the high gain?
+096:29:36 Scott (onboard): Well...
+096:29:37 Irwin (onboard): I mean - Okay. I could easily go through it, because I could tell which ones to check - skip through .... get.
+We're less now than 30 seconds from reacquiring Apollo 15. Flight Director Glynn Lunney has completed a review of the status of the mission with all of his flight controllers, and all of the buttons on his console from each flight controller indicate green. And we're standing by now to reacquire in about 5 seconds.
+096:29:50 Scott (onboard): Turn around here, Jim.
+096:30:00 Scott (onboard): Hey, we're getting them. How about that. Yes. There, got a lock.
+And we've had Acquisition Of Signal.
+Flight Plan page 3-105.
+096:30:07 Mitchell: Apollo 15, Houston. Standing by.
+096:30:13 Scott: Rog, Houston; 15 here. We had a good burn and have a burn report for you.
+096:30:18 Mitchell: Roger. Ready to copy.
+096:30:23 Scott: Okay; [the burn was] on time - burn time was about 18 or 19 seconds. The residuals were minus .1, plus .2, plus .2, Delta-VC was plus .8, and the G&N has us in a 59.4 by 10.3 [nautical mile orbit or 109.9 by 19.1 km].
+096:30:46 Mitchell: And copy, Dave.
+Note that Ed Mitchell dispenses with pleasantries and gets straight down to business.
+The burn has raised the pericynthion slightly higher than the preferred value of 9.5 nautical miles (17.6 km). By the time of Powered Descent Initiation, the perturbation of the orbit by the irregular lunar gravity field should have brought it back down to the ideal.
+You heard Dave Scott report the results of that burn almost precisely as planned.
+096:31:03 Mitchell: And, 15, I have a landing site observation PAD for you when ready.
+096:31:10 Scott: Roger. Go ahead.
+096:31:13 Mitchell: T-horizon: 96:57:10. Stand by. [Long pause.]
+This is the expected time when Mission Control expects the landing site to appear on the horizon, as seen from the spacecraft. According to the Flight Plan, this should be an observation of the J-1 landmark in Mare Serenitatis, for which coordinates are given of 25.958°N, 11.3278°E, essentially a repeat of the observation at 083:42:36. However, Mitchell has just described this as a landing site observation PAD and Dave's comm just after 97 hours will confirm that he will use this opportunity to get his first look at the Hadley terrain now that the Sun has risen over it.
+096:31:46 Mitchell: Hey, 15, you still with us?
+096:31:50 Scott: Rog. We're there, and T-horizon: 96:57:10. Standing by for TCA minus 20.
+096:31:56 Mitchell: Roger. It's at 96:59:17. [Pause.]
+096:32:08 Scott: 96:59:17.
+096:32:11 Mitchell: Looks good. [Long pause.]
+The TCA (Time of Closest Approach) is 096:59:37. Mission Control gives them a time twenty seconds earlier to allow the observer to be at the optics, ready to acquire a successful sighting of the landmark. The observation is part of a sequence to be carried out over the next few orbits to allow the knowledge of the landing site's position and height to be refined before Dave and Jim have to attempt their approach and landing.
+096:32:24 Mitchell: 15, Houston. We have an up-link for you, state vector, and a REFSMMAT, if you'll give us P00 and Accept. [Pause.]
+096:32:35 Scott: P00 and Accept. [Long pause.]
+096:32:59 Mitchell: And, 15, Houston. I have a couple of words for Al on the System Test Meter if he can listen.
+096:33:09 Scott: Sorry, he - he's busy right now. What do you need? I'll tell him later.
+096:33:13 Mitchell: Hey, it - we'll get it to him later. It's simply that the Systems Test Meter is okay to use for the LM checkout on the LM [electrical] current.
+096:33:25 Scott: Okay; thank you.
+Comm break.
+The problem with the switch on the systems test meter was first experienced at 081:41:29. Mission Control are happy that the engineers in the backrooms understand the nature of the problem so are prepared to allow the crew to continue using it.
+096:34:44 Scott: Houston, 15. We're equalizing pressure now, and the Delta-P was 1.0 [psi] before we started.
+096:34:52 Mitchell: We copy. [Long pause.]
+A valve and adjoining gauge near the forward hatch are used to alter and monitor the air pressure in the tunnel and hence in the LM cabin. Despite what the PAO announcer says, Dave is beginning to equalise the pressures in both spacecraft more than an hour early.
+As the difference between the two is reading less than 2.7 psi, the LM can be pressurised from the air within the CM cabin without the need to raise its pressure first.
+096:35:24 Mitchell: 15, the computer's yours.
+Mission Control have uplinked a new state vector and REFSMMAT as requested three minutes earlier. The computer is again available for the crew's use.
+096:35:29 Scott: Roger.
+Very long comm break.
+As the PAO will report, the crew is ahead of their Flight Plan. According to the time line, Jim ought to be donning his suit, less the helmet and gloves, about now; he is the first of the crew to do so in preparation for undocking and landing. Some events in the Flight Plan, such as the landing site observation soon to occur, cannot be brought ahead in time, but like many crewmembers, Dave has his crew adopt the maxim, "Get ahead and stay ahead."
+The Flight Dynamics Officer [FIDO] reports that that Descent Orbit Insertion trim maneuver was just about precisely as planned. That will change the pericynthion from about 7½ nautical miles [13.9 km] to about 9.6 [nautical miles, 17.8 km]. Scott reported on board that their guidance and navigation system calculated their orbit after the burn to be 59.4 by 10.3 [nautical miles, 110 by 19.1 km] which would agree very closely with the ground calculation. A few minutes ago, Dave Scott reported that they were equalizing the pressure in the tunnel between the LM and the CSM. This would put them about 30 minutes ahead of the Flight Plan on this activity which means that operations prior to entering the LM are progressing smoothly and about 30 minutes ahead of schedule.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 96 hours, 43 minutes. We're going to transfer at this time to the MSC News Center briefing room for a change of shift press briefing. We'll follow our usual procedure of recording any conversations with the spacecraft that occur during the briefing and play those back immediately following.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+096:48:26 Mitchell: 15, Houston. [Pause.]
+096:48:32 Worden: Houston, 15. Go ahead.
+096:48:35 Mitchell: Al, we didn't get your last torquing angles and torquing time. Could you read them down to us, please?
+096:48:43 Worden: Okay, Ed - Just a minute.
+096:48:46 Mitchell: If you're busy, we'll get them later.
+CapCom Ed Mitchell is referring to the P52 platform realignment which was rescheduled to 95:28, prior to the DOI trim burn.
+096:48:51 Worden: I'll give them to you now; anything for you. Okay; we used stars 25 and 26. Noun 05 was four balls, one; torquing angles were plus 00.022, minus 00.032, plus 00.038, and they were torqued out at 95:43:00.
+"Four balls, one" is the crew's shorthand for the computer's display showing 00001. Noun 05 compares the known angle between the stars, and the same angle as measured by the crewman using the sextant. As well as giving the crewman an idea of his sighting accuracy it also gives him a check that he sighted on the correct stars. If the value of Noun 05 were large, it would most likely be an indication that the sighting procedure was wrong. Five balls (all zeros) is the ideal but 000.01 degrees ("four balls, one") is still very good.
+The orientation of the platform has been torqued (moved) by 0.022°, 0.032° and 0.038° in the x, y and z axes respectively, to bring it into proper alignment. This set of values are given by calling up Noun 93 on one of the DSKYs (Display and Keyboard).
+096:49:19 Mitchell: Roger; copy. And, as long as we have you on the loop, your REFSMMAT 00 time is 104:41:43.00.
+The landing site REFSMMAT has been the reference orientation for the IMU (Inertial Measurement Unit) platform since it was realigned at 80:10, shortly after Apollo 15 entered lunar orbit. To recap, the landing site REFSMMAT is defined as the orientation of the landing site, with respect to the stars, at the time of landing; and is chosen so that the FDAI or "8-ball" in the LM will display 0° in all three axes at the ideal time and place of landing, assuming it lands in a fully upright attitude. The X-axis runs from the centre of the Moon, out through the landing site position; the Z-axis is tangential to the landing site and is parallel with CSM's orbital plane and therefore with the LM's approach path.
+The actual orientation of the landing site is, of course, continually changing as the Moon rotates on its axis and, as stated above, will only match the landing site REFSMMAT at one moment in time. This coincidence of the two is the "REFSMMAT 00 time" and is therefore the intended time of landing. The recent burn to raise their pericynthion has slightly altered the REFSMMAT 00 time so the next P52 realignment will take this new time into account. There is a box on the Flight Plan at 097:25 for Al to write this time in.
+096:49:39 Worden: I'm sorry, Ed. I didn't get that. Would you say that again, please?
+096:49:42 Mitchell: Roger, Al. 104:41:43.00.
+096:49:54 Worden: Understand. REFSMMAT time is good for 104:41:43.00.
+096:50:01 Mitchell: Good readback.
+Long comm break.
+Day 5, part 1: Waking In the Descent Orbit
+Journal Home Page
+Day 5, part 3: Activating the Lunar Module

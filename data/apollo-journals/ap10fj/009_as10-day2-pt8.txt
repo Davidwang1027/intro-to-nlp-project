@@ -1,0 +1,1055 @@
+Apollo 10 Flight Journal - Day 2, part 8: Mid-course correction and TV transmission
+Day 1, part 7: PTC concerns and sleep
+Journal Home Page
+Day 2, part 9: Housekeeping, sleep and TV
+Apollo 10
+Day 2, part 8: Mid-course correction and TV transmission
+Corrected Transcript and Commentary Copyright © 2009-2025 by W. David Woods, Robin Wheeler and Ian Roberts. All rights reserved.
+Last updated 2025-02-21
+Flight Plan page 3-18.
+024:01:25 Young: I don't know how far along the coast I could see before the - before the Earth went out of the optics, but it - It looked like the Gulf Coast was open today, too. Maybe - Maybe I was looking at the wrong place here; that's real hard to see right now.
+024:01:38 Duke: Roger. When we came in this morning, it was clear as a bell outside. I don't know what it's done the last couple of hours, though. Just got the word - It's still clear outside.
+024:01:49 Young: It looked clear down that way. Except for the smog.
+024:01:54 Duke: Yes.
+That's John Young discussing the weather with Charlie Duke.
+024:05:53 Cernan: Hello, Charlie.
+This is Apollo Control at 24 hours 5 minutes. Distance is 102,742 [nautical miles][190,277 km]
+024:05:57 Duke: Go ahead.
+024:05:58 Cernan: Hello, Houston.
+024:05:59 Duke: Go ahead, 10.
+024:06:00 Cernan: I've been looking at the Earth with the monocular, and it's quite a sight. But right to the left of it in my field of view is this rotating object John saw a little while ago. And I'm looking at it through the monocular, and it - sometimes it appears to be the S-IVB, or else it's a SLA [Spacecraft Lunar-module Adapter] panel. But it's definitely got three dimensions, and it's rotating at quite a fair speed. I can sometimes be able to pick the nozzle up on it, which makes me believe it might be the S-IVB.
+024:06:37 Duke: Roger. Say again the position with respect to the Earth, Gene.
+024:06:43 Cernan: Well, I've got the Earth out on the right side of my right hand window, and it's perpendicular to the terminator of the Earth.
+024:06:52 Duke: Okay. On the left side or the dark side of the terminator?
+024:07:02 Cernan: Well, it's perpendicular. The terminator's got both sides, doesn't it? I'd say it's from North to South Pole; It's toward the east.
+024:07:14 Duke: Okay. That's what I was trying to dig out. I probably said it wrong, though. We got the back rooms working on where the S-IVB should be. We should have you some word here in an hour or so, probably. How big does this thing look to you in the monocular, Gene?
+024:07:36 Cernan: Well, I can see it rotating, and it's bright all the time, and I get bright glare glints off it. It's rotating, and it's definitely got three dimensions. I've seen something for the last day that I thought was the SLA panel along with it, so this may be what it is.
+024:07:54 Duke: Roger.
+024:08:13 Duke: Hello, 10. Houston. We're going to switch ground stations. You may get some noise for a couple of seconds.
+024:08:44 Cernan: Houston, this is 10.
+024:08:46 Duke: Go ahead.
+024:08:50 Cernan: Okay. And then down quite a ways, maybe 30 degrees from the first one, I've got a second rotating object that's glistening in the center up there; and, of course, it's much, much further away. All I can tell is that it's rotating and that it's glistening.
+024:09:08 Duke: Roger.
+024:09:48 Young: Hey, Houston. Maybe we got that Program Alarm by accidentally hitting the Mark, button, but I don't think we did.
+John Young is performing a P52 IMU realignment, using option 3-REFSMMAT. In this option, the present IMU orientation differs from that to which it was last aligned due to gyro drift This option realigns the IMU to its previous alignment orientation (REFSMMAT). He is concerned that he may have accidentally hit the Mark key whilst working with the navigation optics in the lower equipment bay, which may have triggered a program alarm, probably alarm 00114-Mark made but not desired.
+024:09:56 Duke: You don't think you accidentally hit it, John?
+024:10:01 Young: No.
+024:10:04 Duke: Roger. We thought that's what had happened.
+024:10:12 Young: Tell me this. Calling up Verb 5, Noun 9 just... got to reset the PTC?
+Verb 05, Noun 09 displays program alarm codes in registers R1, R2 and R3.
+024:10:21 Duke: Stand by.
+024:10:42 Duke: 10, Houston. That's negative. You do not disturb the PTC.
+Gene Cernan is observing those objects through a monocular, that's half of a binocular.
+024:18:17 Stafford: Hello, Houston. Apollo 10.
+024:18:20 Duke: Go ahead, 10.
+024:18:35 Duke: 10, Houston. Go ahead.
+024:18:36 Stafford: hello, Houston. Apollo 10.
+024:18:38 Duke: Go ahead
+024:18:51 Duke: Hello, Apollo 10. Houston. We are reading you five-by. Go ahead, Tom.
+024:19:17 Duke: 10, Houston. Do you read?
+024:19:21 Stafford: Yes. How do you read now, Charlie?
+024:19:23 Duke: Five-by, Tom. You were coming five-by all the time.
+024:19:27 Stafford: Okay. I just wanted to give you a star visibility data point. Just a second ago, when the Sun was in the right window, number 5 window [right hand square window], I could barely see the Southern Cross, Acrux, and Alpha and Beta Centauri out my left window, and that's the first time we've been able to see it.
+024:19:44 Duke: Roger. Good show.
+024:19:48 Stafford: We couldn't - And, Mr. Charlie, we couldn't see many other stars, just the real big ones, you know, like Alpha and Beta Centauri and Acruz. Now, as the Sun moves on around, they've completely disappeared, but that's the first glimpse of any stars I've gotten.
+Stafford, from the 1969 Technical debrief: "I finally saw the first stars when we were approximately 100,000 miles from the Earth. At that time, I saw Acrux, and Alpha and Beta Centauri, but they were very dim. I saw these out of my side window. As we neared the Moon, I didn't see any more."
+024:20:00 Duke: Roger. We copy.
+024:20:03 Stafford: Alright.
+024:22:54 Young: Houston, this is 10. Looks like most of the east coast is under clouds today.
+024:22:58 Duke: Roger. You've got a better view than we have. We haven't even seen the weather map in the paper. Hey, John, On this 122 alarm, we're continuing to research it, but at the present time, the only thing we can come up with was that it was an accidental hit of either the Mark Reject or the Mark button. but we're continuing to look at it.
+024:23:27 Young: Okay. No problem. I don't think it's any problem.
+024:23:29 Duke: Okay.
+024:23:54 Duke: Apollo 10, Houston. John, would you verify that you did not think that you hit either the Mark or the Mark Reject?
+024:24:04 Young: That's affirmative.
+024:24:06 Duke: Okay.
+024:24:10 Young: Houston, could we go ahead and start this REFSMMAT realign and this - and this land - and this star horizon a little early here to maybe stay ahead of it a little?
+024:24:22 Duke: Stand by.
+024:24:25 Duke: No problem, 10. Go ahead.
+024:24:29 Young: Okay.
+This is Apollo Control at 24 hours, 29 minutes. The Guidance Officer reports that Apollo 10 is realigning the inertial measurement unit, setting set up for the second group of cislunar navigation sightings. John Young using the onboard optics will do some cislunar navigation tasks by measuring the angles between various scars and the earth horizon.
+024:37:34 Stafford: Houston, Apollo l0. We're Automaneuvering around for the P23 navigation
+024:37:39 Duke: Roger. We copy, Tom. And, John, the guys in the back room yesterday on your Noun 49 were really hopping. If you could pause a little bit longer today on that display, they'd appreciate it. And when you calibrate the trunnion bias, they say we'll, get a better reading if you - between each calibration, if you'll move the trunnion off and then back to its position so we get a better average on the calibration. Over.
+At the conclusion the P23 Cislunar Midcourse Navigation program operation, the crew could call up Verb 06 Noun 49 on the DSKY to display the magnitude of the position and velocity vector changes, displayed for astronaut approval.
+At the end of each P23 operation, the crew and controllers can see the difference between the estimated and newly calculated state vector. These results, displayed through Noun 49, are usually very small.
+024:38:14 Young: That's what I was doing. I was moving off and bringing it back on.
+024:38:18 Duke: Roger. that's fine.
+024:38:21 Young: How far off? How far off do they want to go?
+024:38:23 Duke: I didn't get that number. Stand by.
+024:38:33 Duke: John, the GUIDO's say any movement will be fine - a degree or so and then back is all we need.
+024:38:40 Young: Okay. I was moving it in both directions, too.
+024:38:43 Duke: Okay. Fine. Good show.
+024:38:44 Young: Not a degree -
+024:40:25 Duke: Hello. 10. Houston. In this maneuver to your P23 attitude, if you have to switch antennae it'll take a Command Reset.
+Setting the Up TLM switches to Command Reset momentarily resets all of the real time command relays except on bank 'A'
+Up Telemetry Command Reset - Panel 3
+024:40:36 Stafford: Okay.
+This is Apollo Control at 24 hours, 48 minutes. We are in conversation with the crew again.
+024:46:16 Duke: Hello, l0. Houston. We'd like you to try to get the High Gain locked on for the P23, so we can have the high bit rate.
+024:46:27 Stafford: Okay. We'll give it a try, Charlie.
+024:46:29 Duke: Roger.
+024:46:54 Stafford: Houston, I'll give you a Verb 64 as soon as we finish this Automaneuver.
+Verb 64 - Request S-Band Antenna routine (RO5). This routine is used to compute the two steerable S-band antenna gimbal angles which will point the antenna towards the centre of the Earth. This routine can only be initiated while the Command Module computer idling program P00 is in operation. The IMU must be on and aligned.
+024:46:58 Duke: Roger.
+024:47:10 Duke: 10, Houston. We got the - some angles for you on the High Gain: minus 52 on the pitch and 270 yaw.
+MCC are assisting the crew by providing the S-band antenna point angles for them.
+024:47:22 Cernan: Okay. Fine.
+024:48:08 Cernan: Hello, Houston. 10. That should be high gain.
+024:48:13 Duke: Roger. We got it. Thanks a bunch.
+024:48:17 Cernan: Okay. And that's medium bandwidth.
+024:48:19 Duke: Roger.
+This is Apollo Control at 24 hours, 55 minutes. Charlie Duke is in conversation with John Young. John reports having a problem calibrating the optics because the light scattering in the telescope prevents him from seeing the stars. Here's that conversation.
+024:53:14 Young: Houston, I hate to admit this, but there aren't any stars that I can find right now to calibrate these optics on.
+024:53:20 Duke: Roger, Stand by.
+024:53:26 Young: It's got to do with the position of the Earth and how much light we're getting through there and everything.
+Young, from the 1969 Technical debrief: "Optics calibration was extremely difficult because there were not any visible stars to fly to in the telescope. So we put it off as long as we could. On the way to the Moon, there was never a case where we had more than one or two stars visible, even 180 degrees from the Sun. There was no place where we could recognize constellations on the way to the Moon, and there were very few places, where we were doing P23's or P23-type things, where we could recognize individual stars except through the optics. It would be very convenient if there were a routine in the computer which would fly the spacecraft to position a star for optics calibration if they're required for each P23. It would save you a great deal of fuel, especially when you can't see the darned stars in the first place. When you were doing star landmark tracking in the vicinity of the Earth, you had to do the optics calibration to find a star a great deal further away from the Earth than the procedure recommends. The procedure wants you to do the optics calibration in the vicinity of the body that you're tracking. You couldn't do that. The Earth, the Moon, and the Sun cause star shafting across the telescope, and completely blank your vision from seeing any stars with the Lunar Module on. The Lunar Module caused Sun shafting into the optics at various positions. From the start of TLI through translunar coast, we were never at any time able to see any stars except through Auto optics."
+024:53:32 Duke: Say again, John. You were cut out.
+024:53:36 Young: It's got to do with the way the sunshine is shining on the Earth, how much light is getting scattered back in the telescope, and how much is coming in off the LM. It's really - It's really blanking out all the stars.
+024:53:51 Duke: Roger. Stand by.
+024:55:25 Duke: Hello, 10. Houston. If you don't - things don't get better in 5 minutes or so, and you still can't see anything, we'll just skip it and try it again later when the geometry gets better.
+024:55:41 Cernan: Okay.
+This is Apollo Control at 24 hours 59 minutes, Apollo 10's distance now from earth 105,372 nautical miles [195,148 km], velocity 5,267 feet per second [1,606 metres per second].
+024:56:11 Duke: Hello, 10. Houston. We'll be having a ground handover in about 4 minutes. You may hear some noise. We'll do it on the High Gain.
+024:56:25 Stafford: Okay.
+The view of Earth from Apollo 10 at 025:00:00
+This is Apollo Control at 25 hours, 10 minutes. We're in conversation with the crew.
+025:04:15 Young: Houston, this is 10. What do you want me to use for a trunnion angle? What we got yesterday, or, put in zeros?
+025:04:23 Duke: Stand by.
+025:05:46 Duke: 10, Houston. Leave the bias as it was yester...
+025:06:56 Duke: 10, Houston. Did you copy on the trunnion? You can leave it the same as yesterday.
+025:07:03 Young: Roger. That's what I did.
+025:07:05 Duke: Roger.
+025:08:24 Young: That 6 49 four balls, plus four balls 1 must a mistake.
+John Young's comment '6 49' refers to the Verb 6 Noun 49 state vector update that has been computed by the AGC in program P23. V6N49 would be displayed if he was taking a star to horizon sighting. The output would be in the form of on register 1 of the DSKY-Delta R (the magnitude of the difference between the position vector before and after incorporation of the star measurement) given in tenths of a nautical mile, and on register 2 of the DSKY-Delta V (the magnitude of the difference between the velocity vector before and after incorporation of the star measurement) given in tenths of a foot per second. He is querying the outputs being displayed and will repeat the process.
+025:08:29 Duke: Roger. We copy you.
+025:08:44 Duke: That's a pretty good mistake.
+025:08:49 Stafford: Yes. That's what I'm saying. Up here in the left seat, it's the best mistake I've seen, Charlie.
+025:08:52 Duke: Roger.
+025:09:41 Stafford: How about that, Charlie?
+025:09:44 Duke: That's really beautiful.
+025:09:48 Young: It's unbelievable, as a matter of fact. They must have zeros listed as W-matrix.
+025:09:53 Duke: [Laughter.]
+Comm break.
+This is Apollo Control at 25 hours, 12 minutes. Flight Dynamics Officer Phil Shaffer reports that Apollo 10 will he half way to the Moon in terms of mileage at an elapsed time of 27 hours, 31 minutes, 34 seconds. The mileage at that time will be 112,991 [nautical] miles [209,258 km]. And according to the Flight Plan, the Apollo 10 crew will be having lunch at the midpoint.
+025:13:37 Stafford: There we are again.
+025:13:40 Duke: You guys are really sharp.
+025:13:46 Stafford: Yes. John's doing a great job. He's having trouble seeing that from all the Sun reflecting around him.
+025:13:50 Duke: Yes. We were imagining he was. Excuse me: I cut you out. Go ahead, John.
+025:13:56 Young: When the star gets down beneath the - on the Earth, you can't see it in the background. You just have to pull it out of the Earth and imagine which way you ought to pull that handle to bring it out above the horizon so you can see it,
+025:14:11 Duke: Roger. Well, whatever you're doing is right; looks good
+025:14:19 Young: I don't know whether it's right or not.
+025:14:27 Duke: Eisele's sitting here; he said you set the W-matrix to zero.
+025:14:40 Young: Good idea.
+Comm break.
+This is Apollo Control at 25 hours, 18 minutes. Showing present distance 106,423 nautical miles [197,094 km]. Velocity 5,228 feet per second [1,594 metres per second].
+025:18:59 Stafford: Houston, did you get the first one on Nunki?
+025:19:02 Duke: Roger. Sure did.
+025:19:46 Stafford: Here's number 2.
+025:19:48 Duke: Roger.
+This is Apollo Control at 25 hours, 28 minutes and we're in conversation with the crew concerning the star/Earth-horizon navigation sightings.
+025:21:48 Stafford: Okay, Houston. That finished the first set on star 37. We'll do set 3 and 4 on the same star as your direction.
+025:21:56 Duke: Roger. It's primarily for an altitude calibration.
+025:22:03 Stafford: Okay.
+Comm break.
+025:26:24 Duke: 10, we've seen that.
+025:26:31 Stafford: Roger. Looks good from here.
+025:26:35 Cernan: Okay. How much time do you really need to get that kind of stuff? Can you give us a Go when you see each one of them, Charlie?
+025:26:42 Duke: Stand by. I think I can.
+025:27:13 Duke: 10, when we get the data, we'll give you a Go.
+025:27:22 Stafford: Roger.
+025:27:24 Duke: And, John, you've been giving us plenty of time on that so far.
+025:27:28 Young: Okay,
+025:27:43 Duke: You can Go.
+025:27:51 Duke: You can Go.
+025:28:59 Young: Roger. That complete Nunki right there?
+025:29:05 Duke: Stand by.
+025:29:08 Young: Or is there another one to go?
+025:29:27 Young: We can make another one if you want to, if it's just for horizon CAL.
+025:29:31 Duke: Roger. John, we need one more Mark on Nunki.
+025:30:07 Duke: You can Go.
+025:32:50 Duke: 10, you can go ahead.
+025:33:40 Duke: You can Go.
+025:34:46 Duke: 10, you can Go.
+025:34:56 Stafford: Okay, Houston. That completes the total of five sets there, and we're ready for your P27 update for the midcourse.
+025:35:06 Duke: Roger. Stand by.
+025:35:10 Stafford: Okay.
+025:37:03 Duke: Hello, 10. Houston. If you go to P00 and Accept we have a load for you: state vector, target load, and a PIPA [Pulsed Integrating Pendulous Accelerometer] bias update.
+MCC are uplinking a revised state vector, target loads, which could include angular values, time of ignition (TIG) and Delta V. The PIPA's are orthogonally mounted on the IMU stable platform and sense changes in spacecraft velocity. An acceleration or deceleration results in output signals which are representative of the magnitude and direction of the velocity change. The output signals are applied to the CMC which uses the information to update spacecraft velocity data. Continual updating of velocity information, with respect to the initial spacecraft position and trajectory, enables the CMC to provide current velocity, position, and trajectory information. Updates of the accelerometer drift bias have to regularly be made.
+025:37:13 Stafford: Okay. Going CMC Accept and P00, and you've got it.
+025:37:17 Duke: Roger, Tom, and if you're ready to copy, we have a pad for you.
+025:37:24 Stafford: Stand by.
+025:37:50 Cernan: Okay, Charlie. Fire it.
+025:37:52 Duke: Roger. As you know it's a midcourse 2 SPS/G&N: 63153, plus 0.90, minus 0.21; 026:32:56.10; minus 0039.8, plus 0010.9, minus 0025.8; 099, 184, 359; apogee and perigee are NA. 0048.7, 0:4 - correction 0:07, 0044.0; sextant star is 45, 205.0 29.2. The rest of the pad is NA.
+025:39:30 Cernan: Okay, Charlie. For MCC-2, SPS/G&N: 63153, plus 0.90, minus 0.21; 026:32:56.10; minus 0039.8, plus 0010.9, minus 0025.8; 099, 184, 359; apogee and perigee are NA; burn time - or Delta-VT, rather, is 0048.7; burn time is 0:07, and 0044.0; sextant star is 45, 205.0 and 29.2.
+025:40:19 Duke: Roger. That was a good readback, Gene-o. Your set stars are Deneb and Vega: 148, 013 and 018; no ullage.
+025:40:35 Cernan: Roger. Give me pitch and yaw again, please.
+025:40:38 Duke: Roger. 013 and 018. And you're going to be - In the burn attitude you're going to be looking at the Sun. The Sun is 4 degrees off from the X-axis, and we think with this roll angle that the LM will block it out completely, though.
+025:41:01 Cernan: Okey doke. I've got Deneb and Vega at 148, 013, and 018; no ullage; and Roger on the Sun.
+The PAD is interpreted as follows:
+Purpose: This PAD is for the final midcourse correction en route to the Moon.
+Systems: The burn will be made using the SPS (Service Propulsion System) engine under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 63,153 pounds (28,711 kg).
+Pitch and yaw trim (Noun 48): The SPS pitch trim is +0.9°, yaw trim -0.21°. This is to aim the SPS engine's thrust through where they believe the centre-of-gravity of the spacecraft to be. As consumable levels change, the guidance system will automatically adjust these trim angles during a long burn.
+Time of ignition, TIG (Noun 33): 26 hours, 32 minutes, 56.10 seconds.
+Change in velocity (Noun 81), fps (m/s): X, -39.8 (12.1); Y, +10.9 (3.3); Z, -25.8 (7.8). The change in velocity is resolved into three components expressed relative to the local vertical frame of reference. As they are now in the Moon's sphere, the local vertical is with respect to the Moon; that is, relative to a vertical drawn between the spacecraft and the Moon's centre.
+Spacecraft attitude: Roll, 99°; Pitch, 184°; Yaw, 359°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform.
+HA, expected apocynthion of resulting orbit (Noun 44): Not applicable. The trajectory being modified has no sensible apocynthion, at least in terms of the computer.
+HP, expected pericynthion of resulting orbit (Noun 44): 61.8 nautical miles (114.4 km). This will be their altitude at closest approach according to the trajectory resulting from this burn. When they reach this point, they will make their first LOI burn to place them into lunar orbit.
+Delta-VT: 48.7 fps (14.8 m/s). This is the total change in velocity the spacecraft would experience. (It is a vector sum of the three components given above.)
+Burn duration or burn time: 7 seconds.
+Delta-VC: 44.0 fps (13.4 m/s). This value is entered into the Delta-V display of the EMS (Entry Monitor System) panel. They will watch this figure descend to zero as the SPS engine fires, giving them a confirmation of the burn's progress.
+Sextant star: Star 45 (Fomalhaut) visible in sextant when shaft and trunnion angles are 205.0° and 29.2° respectively. This is part of an attitude check.
+GDC Align stars: Stars to be used for GDC Align purposes are Deneb and Vega. This would be used in the event that the IMU could not be used for aligning the gyro assemblies. The spacecraft would be manoeuvred so that the two stars could be viewed in the scanning telescope in a certain configuration. On achieving this, the spacecraft would be in a known attitude, the same one given in the PAD, allowing the GDC to be manually aligned.
+GDC Align angles: The align angles are roll, 148°; pitch, 13°; yaw, 18°.
+Additional notes are that the crew won't need to make an ullage burn to settle the propellants because the tanks are full. Also, the rendezvous windows will be looking towards the Sun but the LM will act as a sunshade.
+025:41:07 Duke: Roger.
+025:41:11 Stafford: Okay. Houston, 10. I have one other question.
+025:41:13 Duke: Go ahead, 10.
+025:41:15 Stafford: Yes. Okay, Charlie. You know in the Flight Plan we penciled in that if we did this correction we'd trim plus-X to two-tenths of a foot per second if the residual was less than 2 feet per second. You still want that to go?
+025:41:27 Duke: That's affirmative.
+025:41:30 Stafford: Okay. Thank you.
+025:41:32 Duke: Roger.
+025:41:45 Duke: 10, We've got your state vector and the target load in, and we're doing the PIPA bias now.
+025:41:53 Stafford: Roger.
+025:42:49 Duke: Hello, Charlie Brown. This is Houston. Your High Gain angles for in the burn attitude will be yaw of 180, pitch of minus 55.
+This is Apollo Control at 25 hours, 44 minutes. This midcourse burn...
+025:44:10 Duke: Hello, 10. Houston. We got the load in. The computer is yours.
+025:44:16 Stafford: Roger. Going to Block.
+025:44:18 Duke: Roger. And...
+025:44:19 Stafford: And - Go ahead.
+025:44:20 Duke: Roger, Tom. I cut you out, there. Did you copy the High Gain Antenna angles for the burn attitude?
+025:44:27 Stafford: Roger, Charlie. We sure did. And I'm going to go ahead to the P30 and P40 so we can do the star sextant check, and then we'll swap seats for the burn.
+025:44:36 Duke: Roger.
+025:44:37 Stafford: [Garble.
+025:45:14 Duke: Hello, 10. Houston. Hey, when you guys get to burn attitude, if you'll take the sextant to a shaft of 161.5 and a trunnion of 032.1 you should see the S-IVB. Over.
+025:45:36 Cernan: Okay. That was a shaft of 161.5 and 032.1 on trunnion.
+025:45:41 Duke: Affirmative.
+025:45:45 Cernan: How far away do you suppose it is?
+025:45:47 Duke: We didn't get that number; hold on, Gene. It'll take us a minute or two.
+At 25 hours, 46 minutes; distance is 107,845 nautical miles [199,728 km], velocity; 5,176 feet per second [1,578 metres per second]. Weight; 93,872 pounds [42,677 kg]. This midcourse burn planned for 26 hours, 32 minutes, 56 seconds.
+025:46:51 Duke: Hello, 10. Houston. The FIDO's, say that the S-IVB should be 1,680 miles away - that's nautical.
+025:47:02 Cernan: 1,680. Roger. That's a long way.
+025:47:05 Duke: Sure is.
+025:47:12 Stafford: Okay. We're starting the Auto maneuver to the burn attitude.
+025:47:16 Duke: Roger.
+This midcourse will be a duration of 7 seconds; a change in the velocity of 48.7 feet per second [14.85 metres per second]; we'll be posigrade and out of plane to the right. Toward the Sun - first part of the maneuvers that will bring Apollo 10 into the proper inclination to cross the lunar equator on the same ground track that Apollo 11 will follow.
+025:48:39 Stafford: Hello, Houston. Apollo 10.
+025:48:41 Duke: Go ahead, 10.
+025:48:44 Stafford: Okay, Charlie. Since we used bank A on the first separation maneuver, we assume you want us to start this with bank B. And then do you want us to open both banks after 3 seconds? Over.
+025:48:54 Duke: Stand by.
+025:48:57 Stafford: Okay.
+025:49:18 Duke: 10, this is Houston. We'd like you to start on bank Bravo and put bank Alpha in at 3 second.
+Almost all of the SPS systems were duplicated to provide redundancy. The two separate redundant control and plumbing systems serving the SPS engine are known as bank A and bank B. The SPS can be operated with either. If required the engine could start using one bank and the other could be introduced once the engine had settled from its start-up transients. Stafford is confirming with MCC that as the spacecraft/S-IVB separation manoeuvre was performed using bank A. Therefore it is preferable to test bank B during the upcoming translunar mid-course correction. Duke confirms that that is exactly what they want the crew to do, introducing the bank A systems 3 seconds into the 7-second burn, to provide a further layer of redundancy should bank B fail.
+025:49:29 Stafford: Okay. Roger. That's what we thought; just wanted to reconfirm.
+025:49:33 Duke: That's affirmative, Tom. And we'd like you to discontinue charging battery B at 26 hours.
+025:49:40 Stafford: Okay. At 26 hours.
+Comm break.
+The CM entry and post landing battery B has been recharged to its maximum capacity of 45 ampere hours. Each of the three CM entry and post landing batteries are recharged in sequence throughout the mission.
+025:58:51 Young: Hello. Houston, Apollo 10.
+025:58:53 Duke: Go, 10.
+025:58:56 Young: Hey, we've finally got a good view of the Moon.
+025:58:59 Duke: Hey! Roger. That waxing crescent there is not very much, but glad you see it.
+025:59:05 Stafford: Yes. We can see the sunlight and, also, we can see - Actually, we can see the other part of the Moon in the earthshine.
+025:59:11 Duke: Good. Can you...
+025:59:15 Stafford: Nice to know where we're going.
+025:59:16 Duke: Roger. Can you pick out any landmarks?
+025:59:20 Stafford: No. Not from this distance. We've got a lot of reflected light coming off of the LM, Charlie.
+025:59:26 Duke: Roger.
+025:59:27 Cernan: But it does look bigger, Charlie.
+025:59:29 Duke: Yes I bet it does.
+025:59:31 Stafford: Looks bigger than it did.
+025:59:36 Duke: Hey, I keep cutting you guys out. I'm sorry.
+025:59:42 Stafford: It's amazing to see how much of it you can see in earthshine.
+025:59:46 Duke: Roger.
+025:59:49 Young: And the whole back side of it is lit by earthshine. It looks like it's a full, full Moon from earthshine.
+025:59:56 Cernan: You know, as the Earth gets smaller, it's sure nice to be able to see where you're going.
+Flight Plan page 3-19.
+026:00:01 Duke: Yes. I guess it is pretty comforting. Well, we've got you pretty close. After this midcourse, we will have a perigee of about 58 miles.
+026:00:16 Stafford: But in relative ratio, it hasn't gotten that much bigger as the Earth has gotten that much smaller.
+026:00:22 Duke: Roger.
+Comm break.
+At 26 hours, 4 minutes; Apollo 10 distance is 108,727 nautical miles [201,361 km], velocity is 5,144 feet per second [1,568 metres per second].
+026:04:25 Duke: Hello, Apollo 10. Houston. Is the Sun bothering you in this attitude?
+026:04:31 Stafford: Not yet. We're just about to finish the roll maneuver in about 20 more degrees, and I can't see that it is. I think you did a good job of blocking it out - the Sun with the LM.
+026:04:41 Duke: Roger.
+026:04:42 Young: Looks like we're going to be able to see stars, because the LM is shielding us from the Sun.
+026:04:46 Duke: Roger. Good.
+Tom Stafford reported the crew got its first good view of the moon at an elapsed time of 25 hours 58 minutes. The display which shows distance was not being generated at that time, but the distance at that time was approximately 108,600 nautical miles [201,126 km]. Gene Cernan reported the Moon looks bigger from that distance.
+026:06:06 Stafford: Hello, Houston. 10.
+026:06:09 Duke: Go ahead, 10.
+026:06:12 Stafford: Okay. I can see the stars real great out my side window. I've got Sirius out my, side window, but even out through the rendezvous window - I can look up there - and I've got Orion and Rigel, there.
+026:06:23 Duke: Roger. Boy, old Snoop really - when he's - the Sun's on the side. We really must block it all out.
+026:06:31 Stafford: Yes. And I've got the Moon right up above the X-axis, now. It's a beautiful sight.
+026:06:35 Duke: Roger. We envy you.
+026:07:16 Duke: Hello, Charlie Brown. Houston. We'd like you to discontinue battery B charge now.
+026:07:24 Cernan: Roger, Charlie, Thank you.
+Comm break.
+026:12:47 Cernan: Hello, Houston. Charlie Brown. On that trunnion for the S-IVB, was that 32.1 or 3.21?
+026:12:59 Duke: It was 32.1, 10.
+026:13:03 Cernan: Okay.
+026:13:45 Stafford: Okay, Houston. The star check went good, and I've moved to the center seat. John's moved to the left seat.
+026:13:53 Duke: Roger.
+026:13:54 Cernan: [Garble] was just about a half of a degree off.
+026:13:58 Duke: Roger, 10. We copy.
+Comm break.
+This is Apollo Control at 26 hours, 19 minutes. Apollo l0's distance from the Earth is now 109,468 nautical miles [202,734 km]; velocity is 5,118 feet per second [1,565 metres per second]. Spacecraft weight is 93,872 pounds [42,677 kg]. We are 13 minutes, 26 seconds away from the midcourse correction.
+026:20:57 Stafford: Coming up on 10 minutes.
+026:20:59 Stafford: Mark.
+026:21:00 Stafford: Ten minutes to the burn, and we're in attitude all squared away, Houston.
+026:21:04 Duke: Roger.
+026:21:25 Duke: Hello. Apollo 10, Houston, We'd like to get a time hack with you. We're counting down to the burn, and we show 11 minutes, 25 seconds.
+026:21:32 Duke: Mark.
+026:21:39 Stafford: Okay. Our event timer may have goofed up on us a little bit.
+026:21:43 Duke: Roger. We showed you load the proper take time of 26:32:56.10.
+026:21:53 Stafford: Yes. That's what we - we set our event timer at 47 minutes from event counting down.
+026:22:05 Duke: Roger. I can give you a hack at 10 45.
+026:22:10 Stafford: Okay, The event timer jumped 2 minutes on us some way.
+026:22:14 Duke: Roger.
+026:22:15 Stafford: We were all right on, the seconds.
+026:22:21 Duke: Coming up on 10:30, Tom. I'll give you a Mark.
+026:22:27 Duke: Mark.
+026:22:28 Duke: 10:30.
+026:22:32 Cernan: Charlie, you give us another hack in 10 minutes so we can set our timer.
+026:22:35 Duke: Roger.
+026:22:50 Duke: Apollo 10, Houston. Passing 10:05. Stand by for a Mark at 10 minutes.
+026:22:57 Duke: Mark.
+026:22:58 Duke: Ten minutes.
+026:23:02 Stafford: We're synched.
+026:23:03 Duke: Roger.
+Comm break.
+This is Apollo Control at 26 hours, 30 minutes. Distance is now 110,000 miles [204,000 km]. Velocity; 5,099 feet per second [1,554 metres per second]. We're 2 minutes, 36 seconds from the midcourse maneuver.
+026:30:50 Cernan: Okay, Houston. Coming up on 2 minutes. Going to Normal on bank B.
+026:30:54 Duke: Roger. Copy.
+- 30 seconds. Engine on; it looks good.
+026:33:12 Stafford: Burn is complete.
+026:33:13 Duke: Roger. Copy.
+026:33:17 Stafford: And I'm going to proceed to [garble].
+026:33:20 Duke: Roger, Tom. Burn looks good to us.
+026:33:23 Stafford: Okay. There's plus X and minus nine-tenths. I'm going to ullage it back to two-tenths.
+026:33:27 Duke: Roger.
+026:33:43 Stafford: There's two-tenths.
+026:33:46 Duke: Roger.
+026:33:50 Stafford: Residuals: minus two-tenths, zero, and plus three-tenths.
+These are the residual velocities in all three axis following the midcourse correction.
+026:33:52 Duke: Beautiful.
+026:33:55 Stafford: Proceeding.
+026:33:56 Duke: Roger.
+026:34:19 Duke: 10, Houston. It looked really good to us. One question: could you guys feel the second bank coming in?
+026:34:30 Young: I didn't feel it, as a matter of fact.
+The SPS burn was commenced on control and plumbing system bank B with bank A being introduced after 3 seconds.
+The targeting for this midcourse correction was based on a preflight consideration to have the orbit inclination such that the Lunar Module approach azimuth to the landing site would be very close to that for the first lunar landing. The translunar injection targeting, however, was still optimum for the Earth-Moon geometry and launch-window constraints imposed by the May 18th launch date. A resulting pericynthion altitude of 60.9 miles (112.8km) was indicated for the executed 49.2 ft/sec (15 m/sec) firing. The manoeuvre results indicate that an adjustment of 0.39 ft/sec (0.12 m/sec) would have been required to attain the desired nodal position at the Moon and 0.14 ft/sec (0.04 m/sec) to correct the perilune altitude error.
+026:34:36 Duke: Roger.
+026:34:38 Young: I was busy turning it on. I really didn't check the chamber pressure too well. It looked like it jumped a little.
+026:34:43 Duke: Roger.
+026:34:45 Young: About 4 psi. Our Delta-VC on that was minus 4.4.
+When the second bank is brought into play, the pressure in the SPS combustion chamber rises a little as propellant has a slightly easier route to the injector. John Young believes he saw the meter displaying chamber pressure rise by about 4 psi. Meanwhile, the reading on the EMS display has overshot by 4.4 feet per second. The EMS was a backup method of shutting down the engine. It should have reached zero at the same moment the shutdown command was given. The overshoot then roughly represents the added velocity imparted by the thrust tailing off. This is why Delta-VC is always less than Delta-VT.
+026:34:54 Duke: Copy.
+026:34:59 Cernan: Charlie, the fuel remaining is 99.4 [per cent]. Oxidizer is 98.0 [per cent], and the PUGS meter bounced around quite a bit and ended up at 400 [lbs] [182 kg] Decrease.
+Propellant Utilization Guaging System (PUGS)
+Any deviation from the nominal oxidizer to fuel ratio (1.6:1 by mass) is displayed by the Unbalance indicator in pounds. The upper half of the indicator is marked 'Inc' and the lower half is marked 'Dec' to identify the required change in oxidizer flow rate to correct any unbalance condition. The marked or shaded area is a normal unbalance range area. The crew can determine if a true unbalance of propellant remaining exists. With the PUG mode switch in Prim or Norm, the crew display percentage readouts would not indicate the same percentage value and the unbalance meter would indicate the amount of unbalance in pounds. To verify if a true unbalance condition exists, the PUG mode switch would be positioned to Aux. If the crew display percentage readouts and the unbalance meter now read similar to the readouts when in PRIM, a true unbalance condition exists.
+The crew display readouts and unbalance meter would not be considered accurate until the SPS engine is thrusting for at least 25 seconds. This is to allow complete propellant settling in the SPS tanks before the gauging system is within its design accuracy.
+026:35:19 Duke: Roger. Copy, Gene
+Comm break.
+And at 26 hours, 36 minutes; we are showing distance of 110,324 nautical miles [204,318 km]. Velocity; 5,105 feet per second [1,556 metres per second], and weight 93,419 pounds [42,471 kg]. And that midcourse correction was very successful - it'll give us a 58-nautical-mile [107.4 km] perigee.
+026:38:30 Stafford: Hello, Houston. Apollo 10.
+026:38:32 Duke: Go ahead, Apollo 10.
+026:38:35 Stafford: Okay. Why don't we try to kill two birds with one stone? Let's go ahead to the PTC attitude, and also we can get High Gain to the Earth and get a picture of the Earth with the TV as it comes up.
+026:38:50 Duke: Roger. Will do. We'll have the set angles for you in just a minute.
+026:38:52 Unidentified Crew member: Roger.
+026:38:54 Duke: And, Apollo 10, Houston. We'd like to move the PAD updates down to about 27:45 so as not to interfere with the TV.
+026:39:06 Unidentified Crew member: Okay.
+And the indications from Tom Stafford are that he is going to turn the TV on earlier than scheduled the schedule called for it at an elapsed time of 27 hours, 15 minutes - but his remark seems to indicate that he will turn it on prior to that time.
+026:40:54 Duke: Apollo 10, Houston.
+026:40:58 Stafford: Go ahead.
+026:40:59 Duke: Roger, 10. If you - When you go to the PTC, if you point it north, we can give you a set of angles that will give you the Earth through one window and the Moon through another.
+026:41:12 Stafford: Okay.
+026:42:12 Duke: Hello, Apollo 10. Houston. We have some PTC [Passive Thermal Control] angles for you, and then some High Gain angles; and also we'd like for you to reinitiate battery B charge. Over.
+This request is to reinstate the CM re-entry battery B charge.
+026:42:22 Stafford: Okay. Stand by.
+026:42:33 Young: Go ahead with those angles.
+026:42:36 Duke: Roger, John. Roll 307, pitch 090, yaw 000 [PTC spacecraft attitude angles]. That places the Moon in window 5 and the Earth in window 1. High Gain Antenna: pitch 005, yaw 265.
+026:43:05 Young: Thanks much, Charlie.
+026:43:07 Duke: Roger.
+026:43:53 Young: Houston, we get this hydrogen pressure light on hydrogen tank 1, which we heard we might get, and wonder if we hadn't ought to - It went back out - if we shouldn't maybe cycle the fans. I guess they just cut in the heater itself Automatically.
+026:44:13 Duke: Stand by.
+026:44:15 Young: Looks like the heaters just came on automatically and are kicking it back up themselves.
+026:44:19 Duke: Roger. Stand by.
+026:44:53 Duke: Apollo 10, Houston. We'd like to hold off cycling the fans and wait until our next scheduled time and see what happens.
+026:45:05 Young: Okay, Charlie. The light just went back out. I theorize that the heater may have come on and kicked it back within limits.
+026:45:11 Duke: Roger. We concur.
+026:45:12 Unidentified Crew member: And the caution and warning lights [garble].
+026:45:13 Duke: Roger. We concur.
+Comm break.
+026:49:24 Stafford: Houston, Apollo 10. We're maneuvering into the new attitude now.
+026:49:27 Duke: This is Houston. Roger. Out.
+026:49:35 Stafford: And, Houston, Apollo 10. How soon will you have the results of the midcourse we made?
+026:50:08 Duke: Apollo 10, this is Houston. Superficially, the burn looked pretty good, but it will take about an hour for us to reduce the high-speed data. Over. And to get tracking.
+026:50:21 Unidentified Crew member: Roger. Thank you.
+Comm break.
+This is Apollo Control at 26 hours, 51 minutes. Apollo 10's distance from the Earth, 111,091 nautical miles [205,739 km]. Velocity 5,078 feet per second [1,548 metres per second]. Weight 93,419 pounds [42,471 kg].
+026:53:28 Cernan: Charlie, that's going to be a good attitude. We got the Earth in the left window and the Moon in the right, but I don't think we'll ever see the Moon on TV. It's just too thin and too dim.
+026:53:39 Duke: This is Houston. Roger. Out.
+026:53:47 Stafford: It looks like you've got a great attitude for the Earth. I've got it out my left window. It looks like the Gulf Coast is clear.
+026:53:54 McCandless: Roger, 10. The network down here is ready for the TV whenever you are. I have an update to your PTC attitude mode, though.
+026:54:06 Stafford: Stand by.
+026:55:12 Stafford: Okay, Bruce. Go ahead with that new attitude.
+026:55:18 McCandless: Stand by one, Tom.
+026:55:33 McCandless: Roger, Apollo 10. Last night in your PTC mode, apparently you were bouncing off the edge of the yaw deadband, causing more thruster firing than we'd anticipated. So, we've come up with a revised procedure which, we hope, will get the spacecraft settled down more smoothly into the PTC mode. Basically, it follows the procedure on page Golf 1-94 of your checklist, except that you select 0.5-degree deadband. And then I have some thruster configurations for you. Are you ready to copy?
+The Passive Thermal Control (PTC) mode was used to ensure the spacecraft was evenly exposed to the Sun, by rolling it along its long axis whilst it was oriented side on to the Sun. To enter PTC the crew used program P20 in the CMC (Command Module Computer). P20 is known as the Universal Tracking program which can be used to control the CSM attitude/optics or attitude rates in one of the following five situations:
+Option 0 - Point the spacecraft towards the LM without constraining rotation, so that the LM can be acquired in the sextants field of view and also to point the CSM radar transponder at the LM during rendezvous.
+Option 1 - Point the spacecraft at a specified celestial body (i.e. Earth, a planet or a star) without constraining rotation.
+Option 2 - Perform the rotation of the spacecraft about a specified vector at a specified rate, beginning at a specified time. This option is used to commence PTC or initiate pitcher for landmark tracking.
+Option 4 - Point the spacecraft towards the LM whilst constraining rotation, so that the LM can be acquired in the sextants field of view and also to point the CSM radar transponder at the LM during rendezvous.
+Option 5 - Point the spacecraft at a specified celestial body (i.e. Earth, a planet or a star) whilst constraining rotation.
+P20 can also be used to update the CSM or LM state vector using optical tracking data and/or VHF ranging data (Options 0 and 4 above only).
+Below is some detail on how the CMC was used to initiate PTC.
+The rotational hand controller (RHC) was locked and the RCS digital Autopilot (DAP) was activated. Using the DSKY computer keyboard and display, the crew (usually the CMP) would key the following commands:
+Verb 48 Enter (request DAP data load routine R03), select a 0.5 deg deadband.
+Verb 37 Enter (change program) Noun 00 Enter (which program to go to, in this case P00).
+Verb 49 Enter (start Automatic attitude maneuver).
+A flashing Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 22 (desired ICDU (Inertial Coupling Data Unit) angles) would be displayed. The crewman would enter the desired Roll, Pitch and Yaw angles, usually Roll - present attitude, Pitch - 90 deg (during TLC) or 270 deg (during TEC), Yaw - 0 deg. They would then press the PRO key.
+A flashing Verb 50 (please perform) Noun 18 (Auto maneuver) would be displayed.
+The three BMAG (body mounted attitude gyro) switches would be placed in the RATE 2 position. This cages the three gyros.
+BMAG (Body Mounted Attitude Gyro) mode switches - Panel 1
+The SC Cont (spacecraft control) switch would be placed in the CMC position, so that the computer is controlling the attitude and attitude rates.
+Spacecraft Control switch - Panel 1
+The CMC Mode (Command Module Computer) switch would be placed in the Auto position. This blocks any external inputs (discretes) to the CMC. They would then press the PRO key.
+Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 18 (Auto maneuver) displays the resultant attitude following the Auto maneuver.
+This would be followed by a flashing Verb 50 (please perform) Noun 18 (Auto maneuver).
+The Enter key would now be pressed to perform the Auto maneuver to the PTC attitude.
+In the air to ground instruction below the crew is being asked at this point in the procedure disable all of the RCS jets on RCS quadrants Charlie and Delta using the Auto RCS SEL switches.
+Locations of the RCS thrusters on the CSM
+Auto RCS Select switches - Panel 8
+After a 20-minute wait to let any attitude excursion rates to damp out, MCC-H request that the crew switch the Manual Attitude, Pitch and Yaw switches to Accel CMD, to allow manual control of the pitch and yaw RCS and also to inhibit uncaging of BMAG gyro.
+Manual Attitude switches - Panel 1
+All RCS jets would then be enabled using the Auto RCS SEL switches shown above.
+Verb 37 Enter (change program) Noun 20 Enter (which program to go to, in this case P20)
+A flashing Verb 04 (display octal components 1 and 2 in register R1 & R2) Noun 06 (display option ID code in register R1 and the option code in register R2) would be displayed. The option ID code in this instance was 00024 - specify P20 mode, and the option code was 00002 - Rotation PTC (see options above). The crewman would select Verb 22 Enter (load component 2 into R2) and type in the option code 2. They would press the PRO (proceed) key to command the CMC to undertake the previously entered commands.
+A flashing Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 78 (R1 Gamma, R2 Rho (Gamma and Rho are both rotational coordinates of the desired pointing axis or axis of rotation), R3 Omicron (an attitude constraint about the pointing vector for three axis options 4 & 5, ignored when initiating PTC). The crewman would select Verb 25 Enter (load components 1, 2 & 3 into R1, R2 & R3) and type in the desired PTC pointing coordinates, R1 000.00 (deg), R2 000.00 (deg). They would then press the PRO key.
+A flashing Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 79 (R1 P20 rotational rate (X.XXXX°/sec), R2 P20 deadband (XXX.XX°), R3 blank). The crewman would select Verb 24 Enter (load components 1 & 2 into R1 & R2) and type in the desired rotational rate 0.3000°/sec and the deadband (angular limits) 000.50 deg as specified by Mission Control (MCC-H). They would then press the PRO key.
+A flashing Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 34 (time of event R1 - XXX hrs , R2 - XX mins, R3 - XX.XX secs). The crewman would select Verb 25 Enter (load components 1, 2 & 3 into R1, R2 & R3) and type in the desired GET time for the start of the PTC. They would then press the PRO key.
+Once the desired roll rate had been established the Manual Attitude, Roll switch to Accel CMD to allow the manual control of the roll RCS.
+These procedures were refined for later Apollo lunar missions.
+026:56:16 Young: Roger. Go ahead.
+026:56:18 McCandless: Roger. After you get through the Enter at the end of flashing [Verb] 50 [Noun] 18 in the checklist, we'd like you to disable all jets on quads Charlie and Delta using the Auto RCS Select switches. Wait 20 minutes; then switch Manual Attitude Pitch and Yaw Acceleration Command mode, and enable all jets using the Auto RCS switches. Initiate your desired roll rate, which we show as three-tenths of a degree per second, and then, when roll rate is attained, go to Accel Command in roll. Increase the deadband to the desired value; Manual Attitude Pitch and Yaw Rate Command of 30 degrees deadband. Over.
+026:57:40 Young: Okay. You said after you do the interim at 50 18, disable Charlie and Delta jets with Auto RCS switches. Then wait 20 minutes, go to Manual Attitude Pitch and Yaw Accel Command, and enable all the jets. Initiate your three-tenths of a degree per second roll rate, and then go Accel Command in roll and Manual Attitude Rate Command in pitch and yaw. Was that what you said there, Bruce?
+026:58:20 McCandless: Roger. That's what I said.
+026:58:28 Unidentified Crew member: [Garble.]
+026:58:47 McCandless: 10, Houston. Say again.
+026:58:54 Young: Could you - Why don't you explain what we're doing here?
+026:59:00 McCandless: [Laughter.] Okay, We're trying to get you set up in a stable position and all damped out and then initiate, very carefully and slowly, PTC and then open up deadband. We hope this will cut down on the thruster firing and keep you from bouncing off the side of the Yaw Deadband with more thruster firings and consequent noise and vibrations than you had last night.
+026:59:31 Young: I got you.
+026:59:36 McCandless: And...
+026:59:38 Young: ...But you [garble].
+026:59:42 McCandless: Go ahead, 10.
+026:59:47 Stafford: Okay. John's copying that down, and we've got the tube locked onto Earth.
+026:59:52 Cernan: Okay. But really what we're trying to do here is just get the thing real stable before we start, and then we're going to a 30 degree deadband just like before. Right?
+026:59:59 McCandless: That's right.
+027:00:01 Cernan: Okay.
+027:00:05 McCandless: And, down there on steps E and F: you can go into Manual Attitude Roll Accel Command in order to initiate your roll rate, if you like.
+MCC-H is also suggesting if the crew wishes they could set the Manual Attitude, Roll switch to Accel CMD at the same time as the set the pitch and roll switches prior to initiating the roll rate. See above description of PTC intimation procedure.
+027:00:28 Cernan: Okay. You've got the TV coming at you, now.
+027:00:31 McCandless: I don't show it on the color yet. Let me check it out on the black and white monitor.
+We'll have a picture very shortly.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+027:00:41 McCandless: Okay. We're seeing the Earth on the black and white. It's filling up about one-third of the screen vertically. Looking good. Okay. You're on the color now and looking beautiful.
+027:01:16 McCandless: Okay. We've got the North Pole over to the upper right-hand corner - the right-hand edge of our screen. Do you have a commentary from up there. 10.
+027:01:25 Stafford: Yes. Okay. It looks like the North Pole and most of Russia is covered with clouds. The United States is pretty much wide open. In fact, the solar subpoint is right over the Gulf of Mexico now.
+027:01:39 McCandless: Roger, 10. Could you give us narrow beam on the High Gain Antenna?
+027:02:00 Stafford: Okay, Houston. I've got the full zoom on it, so you can see we're quite a bit further away today than we were yesterday.
+027:02:07 McCandless: Yes, indeed.
+027:02:08 Stafford: Roger. What you see there - What you see there is a little bigger than we actually see it, since I have the full zoom on it. If you look to the south, you can see all of South America there, and west of the Andes is clear.
+027:02:23 McCandless: Roger.
+027:02:28 Stafford: And in the tropical rain forest over Venezuela and Brazil and Columbia you can see the clouds that hang over there all the time. I noticed how clear it is west of the Andes.
+027:02:39 McCandless: Roger. We can see that on the left of our screen. The landmasses don't seem to stand out quite as clearly today as they did yesterday.
+027:02:51 Stafford: That's correct. A lot of it is the cloud cover, and also you can see night-time moving over Europe now.
+027:03:02 Stafford: You've got a real weird cloud formation coming around down - just a minute. Let me get it focused.
+027:03:46 Young: It's a real peculiar-looking cloud swirl. It comes off of what looks like Labrador and goes all the way across the ocean into Europe.
+027:04:04 Stafford: I'm having a little harder time holding it today because of the narrow beam that we have with the zoom lens. We're out at maximum zoom now.
+027:04:12 McCandless: Roger. It's coming very nicely here. Would you confirm you are in the Exterior on ALC?
+027:04:20 Stafford: Right. We're Exterior on ALC.
+ALC-Automatic Light Correction. The Exterior setting would be optimum for views outside the spacecraft.
+027:04:23 McCandless: Thank you.
+027:04:24 Stafford: I'll open it up to about a 55 millimeter and show you exactly how it appears to us.
+027:04:28 McCandless: Roger. We're...
+027:04:29 Stafford: Sure are a lot of clouds down there today.
+027:04:32 McCandless: We are standing by for your zoom - out to show us the relative size as it appears to you.
+027:04:38 Stafford: Okay. Right. Right there is about how the Earth appears to us now. We've made a few miles since yesterday.
+027:04:55 McCandless: Yes, indeed. Roger. We show you about 115,000 nautical miles [213,000 km] out, here in our plots. Looks like about halfway.
+027:05:10 Stafford: Yes. How are the colors coming into today, Bruce?
+027:05:12 McCandless: Oh, the colors are coming beautifully. I'm amazed at the fidelity. The sea seems to reproduce the same color from day to day, so it looks like you guys have a pretty stable piece of equipment.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+027:05:25 Stafford: Okay. Again, you can see Baja California coming in there just real clear, and the Rocky Mountains, particularly starting into Mexico going up through Colorado and Wyoming, are coming in.
+027:05:36 McCandless: Roger. I'm having a little difficulty picking out the landmasses down here today.
+027:05:44 Stafford: That's because of cloud cover. It looks like broken clouds over the southeastern part of the United States. Northeast has a little bit more. Looks like Canada is all socked over today, and over that big cap that goes up over the North Pole and over to Russia it's just solid overcast.
+027:06:04 McCandless: Roger. We can pick up part of South America. Must be the Andes, just above or just to the west of the terminator down in the southern portion of the globe.
+027:06:14 Cernan: Bruce, you should see all of North and South America from where you are. We're going to zoom it in again here. Show you a little bit closer.
+027:06:39 Cernan: That's maximum zoom right now on the camera.
+027:06:45 McCandless: Roger.
+027:07:04 Cernan: You know, it's a beautiful sight. We're sitting here, and it's almost like science-fiction looking back at it, Bruce.
+027:07:12 McCandless: Right. We can pick out the continents a little more clearly.
+027:07:39 Young: I'm voting for the world being round, if there's any dissenters.
+027:07:40 McCandless: Roger. We'll record your vote on that issue.
+027:07:45 Young: And, you know, yesterday we said the San Joaquin Valley was very evident. It sits on a bowl. Even though we're looking at it obliquely, you can still pick it out in the western United States. It's just like a big bowl carved out of the coastal end the Sierra Nevada Mountains.
+027:08:04 McCandless: Roger.
+027:08:27 McCandless: Apollo 10, Houston. The SPS data has been looked at on both the midcourse 2 and the evasive maneuver, and all the data is good. We'd like to get you to cycle the ALC switch once, so we can observe the effect on the picture down here.
+027:08:47 Stafford: Okay. Let me go back and get our monitor. Okay. Here we are.
+027:08:50 McCandless: Roger. You just hold it steady, and then cycle it a few seconds to Interior and back to Exterior for us.
+027:09:03 Cernan: There's Interior now.
+027:09:06 McCandless: Boy, we can really see it working out down here.
+027:09:09 Cernan: Coming back to us again.
+027:09:10 McCandless: Beautiful.
+027:09:18 Cernan: And, Tom's cutting down the f-stop now a little bit.
+027:09:24 McCandless: Beautiful. What f-stop are you using? If you can stop it down one or two stops more it seems like the definition is better.
+027:09:37 Cernan: There's f:22 right there.
+027:09:39 McCandless: Okay. Hold it there.
+027:09:51 McCandless: 10, this is Houston. When you stop it down, we get a second or so of excellent definition and no saturation, and then it tends to saturate again up in the North Polar region as though the ALC weren't quite picking up the intensity of the highlights.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+027:10:29 Cernan: Bruce, we will not be able to see the Moon because - through the TV - because we got the Sun right along side of it out the right-hand window.
+027:10:35 McCandless: Roger. Understand.
+027:10:44 Cernan: We'll bring you on inside the spacecraft, if you like.
+027:10:48 McCandless: Okay. Before you do that would you open the lens up about two stops slowly and then stop it down fairly rapidly for us?
+027:11:02 Cernan: Okay. They are coming open now. Up and back.
+027:11:30 McCandless: Roger. Go ahead and bring the camera inside now if you like.
+027:11:35 Stafford: Yes, I can see what you mean about the saturation. From this kind of a candid view down here looking down at this distance, you could never tell anybody inhabited the place.
+027:11:46 McCandless: Roger.
+027:11:50 Stafford: Okay. We're going to take you inside.
+027:11:52 Cernan: That's probably been said before.
+027:12:18 McCandless: Okay. We're picking up your transmission from inside now.
+027:12:48 Cernan: Houston, this is obviously our patch. How is it coming through in color?
+027:12:54 McCandless: Not so good really. It looks like you got some rather intense lighting from the back and the side - If you could get the lighting more directly on the patch, it would be better.
+027:13:09 Cernan: Yes, that's the Sun coming in.
+027:13:13 McCandless: Roger.
+027:13:30 McCandless: We got John coming through nicely on the tube. What was the three fingers for?
+027:13:55 Cernan: Do you see our emblem of today?
+027:13:56 McCandless: Oh, that's beautiful.
+027:14:06 Cernan: We were going to put some more things in, but we just ran out of time.
+027:14:10 McCandless: [Laughter.] Roger! Is this also your emblem?
+027:14:20 Cernan: This is another emblem. Do you see any resemblance between the card and the guy holding the card?
+027:14:26 McCandless: Now that you mention it.
+027:14:35 Cernan: Does he carry the briefcase?
+027:14:38 Young: Roger. Good grief, Charlie Brown!
+027:14:39 Cernan: Now you're going to bring on that whizzer here,
+027:14:44 McCandless: Okay. We got Snoopy now.
+027:14:56 Cernan: Boy, he's been quiet for 2 days; he's going to get a chance to do a little woofing here in the next couple days.
+027:15:04 McCandless: Roger. We notice the resemblance there, too.
+027:15:08 Cernan: Thanks a lot. I didn't know Tom had a big nose like that.
+027:15:14 Stafford: Ugh.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+027:15:34 Stafford: Take you over to Gene-o's side of the spacecraft.
+027:15:40 McCandless: Roger. Picking up Gene now. You've got rather strong backlighting from the window.
+027:16:13 McCandless: That's the spirit. You all drawing the window shades there?
+027:16:18 Cernan: How's that? Any better?
+027:16:20 McCandless: Yes, indeed.
+027:16:24 Young: We didn't get a chance to shave this morning before this show. I hope that doesn't bother anybody.
+027:16:29 McCandless: No, it doesn't bother us. The definition is real good; we can just about read your wristwatch there, Gene.
+027:16:46 McCandless: Roger. Looks like it says about 16:00. 16:05?
+027:16:52 Cernan: 16:05 Cape time. 16:05 Cape time.
+027:16:56 McCandless: Roger. We copy.
+027:17:05 Young: Get it.
+027:17:06 McCandless: Roger we synchronized our watches here.
+027:17:11 Young: Beautiful. Beautiful.
+027:17:13 Stafford: Looks like we have a good piece of gear here.
+027:17:16 McCandless: Yes, it does.
+027:17:17 Young: I'll give you a whizzer, give you a whizzer of TP over here.
+027:18:10 Cernan: One of our problems is trying to figure out which way is up and which way is down.
+027:18:20 Stafford: And it's beautiful one time you have your choice. If you don't like things right-side-up, you can go upside-down.
+027:18:22 McCandless: Roger, down here. Okay. We've got one of you in each direction.
+027:18:30 Stafford: It's really a ball up here living in zero g, believe me.
+027:18:34 Cernan: It's the only way to fly.
+027:18:40 Stafford: Once you get going, the cost for individual passenger mile becomes rather reasonable.
+027:18:51 McCandless: Roger. We Copy.
+027:18:54 Cernan: I notice, boy, it sure picks up the Sun's reflection and density no matter where you go. That little reflection is coming out of my window behind me.
+027:19:09 McCandless: Roger. What f-stop are you all using now?
+027:19:10 Cernan: We're on about f:28, I believe, here. Wait a minute. Yes, about 22 to 28.
+027:19:21 McCandless: Houston. Roger. Out.
+027:19:24 Cernan: Still good color?
+027:19:25 McCandless: Yes, indeed.
+027:19:27 Cernan: You might notice the dynamics here.
+027:19:36 Young: I just do whatever he says.
+027:19:41 McCandless: Say, Tom, the flight engineer wants you to be sure you log all your exercises.
+027:19:48 Stafford: I got you.
+027:19:54 Cernan: Like I said earlier, this isn't fanning the Peacock, but it's the best we've got.
+027:20:12 McCandless: Boy, with dynamics like that, you guys ought to be pretty good at this PTC mode.
+027:20:18 Young: I mean to tell you.
+027:20:20 Stafford: Right. That's why we got about 10 hours sleep last night.
+027:20:22 McCandless: Roger.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+027:20:33 Cernan: That's perfect zero gravity there. boy, I'll tell you there's nothing like it.
+027:21:02 McCandless: 10, this is Houston. Is there...
+027:21:03 Stafford: ...perfect balance.
+027:21:04 McCandless: Roger. Are there any sort of air currents there affecting anything you can feel?
+027:21:12 Stafford: Roger. It's blowing a little movement. But it's not out here much really.
+027:21:20 Cernan: That's an effect we discovered a long time ago. If you watch it long enough, it'll go up.
+027:21:25 Young: It's really hard to stabilise something so it won't move.
+027:21:30 McCandless: Roger. I remember that from Gemini 10.
+027:21:35 Cernan: We discovered a Cernan effect up here, but can't find which way is up.
+027:21:39 McCandless: Yes, Gene. Could you move the camera around slightly? I've got a very bright spot coming in the window, I just want to make sure that you don't burn the target with the f:2 - f:28 f-stop.
+027:21:52 Cernan: Yes. I'll try it here, Bruce, to got it away from some of that if I can.
+027:21:55 McCandless: Roger.
+027:22:07 McCandless: Oh, it's really looking good now, Beautiful color here.
+027:22:14 Stafford: Now we got three objects going.
+027:22:21 McCandless: This is a real testimonial to prove you were there, in case there were any doubters.
+027:22:27 Cernan: If people want to know what kind of men go to the Moon, there's a good look at one right there. Could you believe it?
+027:22:35 Stafford: Some people still don't.
+027:22:52 McCandless: I'm surprised you all have not set this to music.
+027:22:58 Cernan: Oh, you want music, Well, we'll give you some music at the conclusion here.
+027:23:10 Stafford: Okay. We'll take you back outside now.
+027:23:14 McCandless: Roger.
+027:23:28 Cernan: While Tom shows you that, we've got another little rendition we'd like to put your way.
+027:23:33 McCandless: Roger. We're standing by.
+027:23:54 Cernan: Here it comes. This - This is just so that you guys don't get too excited about the TV and forget what your job is down there.
+027:24:05 McCandless: We're ready for what we're about to receive.
+027:24:07 Unidentified Crew member: [Music being played.
+027:24:36 Cernan: We don't need it all.
+027:25:16 Stafford: Just wanted to send some thoughts back to you.
+027:25:18 McCandless: Roger. Thank you for your thoughts, and with this view of the Earth, it looks like the United States - The landmass of the U.S. is showing up better now than it was few minutes ago.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+027:25:30 Stafford: Right, Bruce. I can really see them. Looks like the New England states are kind of clobbered in there.
+027:25:36 McCandless: Right.
+027:25:37 Stafford: But the main part of it's coming in real good. And again you can see the great American desert, the Rocky Mountains, and the Sierra Nevadas there.
+027:25:50 McCandless: Oh, it's just beautiful on the - the transients before it saturates there.
+027:25:57 Cernan: Okay. I'll try to give you another one.
+027:26:24 McCandless: All those little glimpses are good, but you've got to be fast to catch them,
+027:26:30 Stafford: Is it - I'm trying to hold it as steady as I can. Is it looking okay?
+027:26:33 McCandless: Yes. You're doing a good job on holding it.
+027:27:15 Stafford: Houston, Apollo l0. On the monitor, it appears that I have a couple of little bumps and ragged edges. Is that coming through on the Black and white?
+027:27:21 McCandless: Yes, it is. It's coming through on the black and white; and, of course, in the color that we've got here, it looks like it's in the horizontal sweep.
+027:27:35 Stafford: Yes. I noticed it when we first turned it on; it didn't have that, then it slowly started to saturate.
+027:27:40 McCandless: All right. We saw those little bumps yesterday also.
+027:27:45 Stafford: Well, I think it was at the end of the transmission yesterday.
+027:27:48 McCandless: Right.
+027:27:53 Stafford: Okay. We'll go ahead and terminate the TV pass here. I just wanted to play a little music for you so we have something up here when it gets lonely during the PTC mode.
+027:28:05 McCandless: Roger, Apollo 10. We enjoyed the TV and the music.
+027:28:15 Cernan: We'll be talking to you tomorrow.
+027:28:18 Young: Adios.
+027:28:20 McCandless: Roger. I hope you will be talking to us before tomorrow.
+This is Apollo Control at 27 hours, 30 minutes. Apollo 10's distance is 112,952 nautical miles [209,186 km]; velocity is 5,014 feet per second [1,529 metres per second]. That TV transmission lasted about 27 minutes.
+027:28:24 Stafford: Oh, we plan to.
+027:28:26 Young: About this PTC stuff, Bruce.
+027:28:28 Cernan: About this in the Moon stuff. You better keep at it.
+027:28:50 McCandless: Roger.
+027:31:33 McCandless: Apollo l0. This is Houston.
+027:31:36 McCandless: Mark.
+027:31:37 McCandless: You're halfway. Over.
+027:31:41 McCandless: Roger. Thank you.
+027:31:46 McCandless: And, based on present trajectory analysis, it looks like no more midcourse corrections will be needed prior to LOI. Over.
+Four mid course corrections are planned for during the trans lunar coast (TLC) but only one has been deemed necessary on this mission as the trajectory following MCC-2 has be very close to nominal.
+From the Apollo 10 Mission Report: Regarding MCC-2: "'resulting pericynthion altitude of 60.9 miles (112.8 km) was indicated for the executed 49.2 ft/sec (15 m/sec) firing. The maneuver results indicate that an adjustment of 0.39 ft/sec (0.12 m/sec) would have been required to attain the desired nodal position at the Moon and 0.14 ft/sec (0.04 m/sec) to correct the perilune altitude error'. These errors were not large enough to require correction."
+027:31:53 Stafford: That sounds beautiful.
+027:31:55 McCandless: You're right on the money...
+027:31:57 Cernan: ...it's cheaper to keep going than turning back, right?
+027:32:01 Stafford: I tell you it looks beautiful going away, and it is going to look even better coming back.
+027:32:03 McCandless: Roger.
+027:32:04 Stafford: What kind of - What kind of perigee you show us in these days there, Houston?
+027:32:11 McCandless: About 60 miles pericynthion. And, did you all see the S-IVB from your burn attitude?
+027:32:20 Young: No, we couldn't see it. We might have been off in roll. I didn't want to fool with that too much.
+027:32:25 McCandless: Roger.
+027:32:26 Cernan: But I didn't see it, but we were on the star, all right.
+027:32:30 McCandless: Roger. We were just curious to know if you had seen it.
+027:33:30 Stafford: Hello, Houston. Apollo 10.
+027:33:31 McCandless: Go ahead, 10.
+027:33:33 Stafford: Roger. Just want you to give our regards to Chris and all of the people in MCC and the tracking networks. It looks like all those computers are working right down to the last bit. To give us that 60 miles perigee is pretty fantastic.
+027:33:45 McCandless: Roger, Tom. We'll pass that along.
+027:34:00 Young: Probably better watch it for the next couple of days just to make sure, don't you reckon?
+027:34:05 McCandless: Oh, I don't reckon that we'll desert the MOCR here. I think there are a few people planning on sticking around, at least until you get into orbit.
+027:34:13 Young: Okay. That's really [garble] it right down to the old slot, though, man. That's great if it - if it does it.
+027:34:38 Stafford: You can tell Phil Shaffer to keep smiling. I can probably see him from here.
+027:34:46 McCandless: Say again. Who am I supposed to tell, Tom?
+027:34:51 Stafford: Phil Shaffer.
+027:34:52 McCandless: Roger.
+027:35:14 McCandless: Apollo 10, this is Houston. Prior to midcourse correction 2, we set your X-PIPA Bias to zero and, as a result of this, you have to update your erasable memory table and the contingency book. I've got a one-line update for you.
+027:35:36 Stafford: Okay. We are getting it out now.
+027:35:47 Cernan: Go ahead, Bruce.
+027:35:48 McCandless: Roger. The E-memory table, column A, line 3: All balls. Over.
+027:36:15 Cernan: Okay. Got all balls, column A, line 3.
+027:36:19 McCandless: Okay. And When you're ready to copy, I've got your P37 block data for TLI aborts, 35, 44, and 53 hours.
+027:36:33 Cernan: Stand by half.
+027:36:53 Cernan: Okay, Bruce. Go ahead.
+027:36:57 McCandless: Roger.
+027:37:37 McCandless: Roger 10. I am ready to go ahead.
+027:37:42 Cernan: Go ahead. Fire.
+027:37:43 McCandless: Okay. TLI plus 35 hours: 037:30, 5071, minus 165, 094:35. Over.
+027:38:04 Cernan: Why don't you read them all, Bruce, then I'll get them back to you.
+027:38:06 McCandless: Roger, TLI plus 44: 046:30, 6695, minus 165, 094:14. TLI plus 53: 055:30, 5499, minus 165, 118:33. Over.
+027:38:48 Young: Okay. TLI plus 35 is 037:30, 5071, minus 165, 094:35. Plus 44 is 046:30, 6695, minus 165, 094:14; plus 53 is 055:30, 5499, minus 165, 118:33.
+The purpose of P37 (program 37) on this occasion is to compute a return-to-Earth trajectory. Details of the P37 PAD for TLI plus 35 hours are:
+GETI Ground Elapsed Time of ignition: 37 hours, 30 minutes.
+Delta-VT: 5,071 fps (1,546 m/sec) This is the total velocity change that would be experienced by the spacecraft.
+Longitude: 165° West. This is the longitude of the Earth landing point for entry guidance.
+GET 400k: 94 hours, 35 minutes. Ground Elapsed Time of Entry Interface.
+Details of the P37 PAD for TLI plus 44 hours are:
+GETI: 46 hours, 30 minutes.
+Delta-VT: 6,695 fps (2041 m/sec)
+Longitude: 165° West.
+GET 400k: 94 hours, 14 minutes.
+Details of the P37 PAD for TLI plus 53 hours are:
+GETI: 55 hours, 30 minutes.
+Delta-VT: 5,499 fps (1676 m/sec)
+Longitude: 165° West.
+GET 400k: 118 hours, 33 minutes.
+The P37 is intended to be used only providing the CSM is outside the lunar sphere of influence at the time of ignition.
+027:39:17 McCandless: Roger, Readback correct. Out.
+027:40:17 Young: Okay. Bruce, we've done your maneuver to the place where we disable all the jets, and we're going to wait here 20 minutes. Is that right?
+027:40:26 McCandless: That's affirmative. Roger. All the jets in quads Charlie and Delta.
+027:40:42 Young: Okay. You know we've got AC - the AC jets, Off, right now. You know that, don't you?
+John Young's reference to AC is his shorthand for RCS quadrants A (Alpha) and C (Charlie).
+027:40:49 McCandless: Stand by.
+027:41:01 McCandless: Roger, 10. What we're attempting to do is get you down to a single thruster firing at a time for attitude [garble] corrections. Smallest couple we can get.
+027:41:22 Young: Roger.
+Comm break.
+At 27 hours, 41 minutes distance is 113, 513 nautical miles [210,225 km]. Velocity 4,995 feet per second [1,523 metres per second].
+027:45:00 Young: Hey, Bruce, the theory behind this PTC is that once initiated it never fires another jet. Isn't that the theory?
+027:45:09 McCandless: I think that's the theory. Stand by, and I'll confirm it.
+027:45:14 Young: I'm just - I'm just pulling your leg.
+027:45:21 McCandless: They say that's the theory, but I see a lot of fingers crossed.
+027:45:27 Young: Yes, that's why I brought it up.
+027:45:30 McCandless: Roger.
+027:45:32 Young: Man, if it works, it will be the greatest thing since...
+027:45:36 McCandless: You cut out after...
+027:45:37 Young: Peanut butter.
+027:45:41 Young: Yes, there was a delay in the transmission there. The speed of light. That peanut butter.
+027:45:41 McCandless: Roger, Copy. Greatest thing since peanut butter.
+This is Apollo Control at 27 hours, 50 minutes. The Apollo 10 crew is now reestablishing Passive Thermal Control of PTC. That had been originally established yesterday to control the thermal environment of the spacecraft. Yesterday the roll rate in the Passive Thermal Control was 1 degree per second which meant that the spacecraft would rotate one full revolution per hour. It's being reestablished at 3 degrees per second or 3 revolutions per hour. The procedure has also been modified in an attempt to cut down in the thruster firings. There's been considerable amount of conversation between John Young and CapCom, Bruce McCandless about this procedure. The Flight Dynamics Officer, Phil Shaffer, as you heard expects the pericynthion, this trajectory at the Moon to be right at 60 nautical miles without any further midcourse corrections. We will continue to track the spacecraft and see if further tracking confirms this. The one midcourse correction we've done so far was - the burn was right on time; 26 hours, 32 minutes, 56 seconds. The preburn target was for 48.7 feet per second [14.8 metres per second], velocity. We actually achieved 48.9 feet per second [14.9 metres per second]. Apollo 10 is now 113 - 114,032 [nautical] miles [211,186 km] from Earth. Velocity continuing to drop; 4,978 feet per second [1,517 metres per second] now. We will take the loop down and come back up if there's further conversation.
+This is Apollo Control at 27 hours, 55 minutes. We have a correction on the last commentary, The roll rate established yesterday for Passive Thermal Control was one tenth of a degree per second, not one degree, and the roll rate being established now is 3 tenths of second. 3 tenths of a degree per second, not 3 degrees per second.
+This is Apollo Control at 27 hours, 59 minutes, and we're back in conversation with the crew.
+027:45:49 McCandless: Hello, Apollo 10. Houston. We'll have a ground handover at 28 hours even GET.
+Long comm break.
+As the Earth rotates the Manned Space Flight Network (MSFN) ground stations each get a turn at viewing the Apollo 10 spacecraft as it coasts towards the Moon. In turn they hand over responsibility for telecommunications as the spacecraft comes up above their eastern horizon. The ground stations are located at Goldstone, California, Honeysuckle Creek, Australia, and just outside Madrid, Spain. This handover will be from Honeysuckle to Madrid.
+027:57:52 Cernan: Roger. Who are you handing us to, Charlie
+027:57:56 Duke: say again. Oh, we're handing you over to Madrid.
+027:58:05 Cernan: Okay. That's a nice place. Will you start speaking Spanish to us now, Charlie?
+027:58:20 Duke: I don't believe I could do that. How about buenos dias? Is that enough?
+027:58:26 Cernan: Ah, Si senor. Muy bien, gracias.
+027:58:29 Duke: Buenos noches.
+027:58:30 Young: ...English is good enough for me.
+027:58:31 Duke: Roger.
+027:58:32 Young: Buenos noches.
+027:58:33 Duke: I got a hard enough time speaking English.
+027:58:37 Young: That's all right, Charlie. You just keep talking grits. I understand it.
+027:58:51 Cernan: Charlie, not to sound corny or trite, but it really is like another world out here.
+027:58:56 Duke: Say again, Gene.
+027:58:59 Cernan: I said at the expense of sounding corny and trite, it's really another world out here.
+027:59:04 Duke: Roger.
+027:59:10 Cernan: I like to say Roger.
+Flight Plan page 3-20.
+028:00:55 Cernan: Houston, 10. We - We're starting a roll right now. You want me to initiate Omni's and take care of the High Gain?
+028:01:04 Duke: Stand by.
+028:01:13 Duke: Roger, 10. We'd like you to select Omni Bravo.
+028:01:49 Cernan: Houston, this is 10. How do you read on Bravo?
+028:01:48 Cernan: Houston, this is 10. Now do you read on Bravo.
+028:01:52 Duke: Roger. You're coming through about four-by with lot of background static, Gene.
+028:02:03 Cernan: Okay. How now?
+028:02:04 Duke: That's fine.
+028:02:41 Young: Okay, Houston. We've got the deadband set up. You want us to go back to the CMC and all the...
+028:02:50 Duke: Stand by.
+028:03:50 Young: Don't look to me like it's going to last very long there, Charlie.
+028:03:54 Duke: Roger, John. When you did that Verb 46 Enter a couple of seconds ago it collapsed the deadband back to five-tenths of a degree in the DAP. You'll have to reinitialize again.
+Verb 46 - establish guidance and navigation Autopilot control.
+028:04:08 Young: Okay.
+028:04:17 Young: I'm showing a - I'm showing a 5-degree - showing a 5-degree deadband.
+028:04:28 Duke: Roger. We wanted a - We want you to do us a 40 - a 30-degree deadband.
+028:04:40 Duke: Stand by one. We'll get you squared away.
+028:04:41 Young: You mean - okay.
+028:05:21 Young: Okay. There's your 30-degree deadband, which is what we had unless the numbers didn't get in there.
+028:05:26 Duke: Roger. Stand by.
+028:06:48 Young: Houston, what I want to find out is, do you want us to go back to CMC in Auto on the pitch and yaw channels from Accel Command? Do you want us to Rate Command giving it back to the DAP?
+028:07:05 Duke: That's affirmative. We want you to go to CMC in pitch and yaw Manual Attitude and Rate Command.
+Duke is confirming that the Manual Attitude switch should be in Accel CMD in pitch and yaw, and Rate Command in roll.
+028:07:07 Young: Okay. And that's where we are.
+028:07:11 Duke: Roger.
+Long comm break.
+This is Apollo Control at 28 hours, 13 minutes. Apollo 10's distance from the Earth is now 115,010 nautical miles [212,997 km]. Velocity 4,945 feet per second [1,507 metres per second]. This air-ground loop is very noisy. We've had no conversation for some time. We'll take it down and come back up if there is conversation.
+028:18:23 Duke: Hello, Apollo 10. Houston. Over.
+This is Apollo Control at 28 hours, 20 minutes. We're back in touch with the crew of Apollo 10.
+028:18:28 Young: Go ahead there, Houston.
+028:18:30 Duke: Roger. We'd like to proceed with the PTC Auto Reacq check at 28 hours. Follow the procedure as in the Flight Plan except for one change and that's one addition I should say, and that's tape recorder to Forward.
+028:18:52 Cernan: Understand. Proceed with the Auto Reacq check at 28 hours with one addition: tape recorder to Forward.
+The Auto Reacq check is to establish how well the High Gain Antenna (HGA) reacquires lock on the radio carrier signal from Earth during PTC.
+028:19:00 Duke: Affirmed.
+028:19:03 Cernan: You want to go ahead and do that now, Charlie, is that correct?
+028:19:04 Duke: That's affirmative, Gene.
+028:19:07 Cernan: You want - Okay.
+028:19:25 Duke: Apollo 10, Houston. Your High Gain Antenna angles of 90 minus 40 are good for the roll left.
+028:19:36 Cernan: Roger.
+028:19:39 Young: Hey, Charlie, we're up there eating a noon meal, a little late as usual, and what do you know? We had a chicken salad sandwich.
+028:19:48 Duke: Hey, how did it taste?
+028:19:52 Young: Would you believe, like a chicken salad sandwich?
+028:19:56 Duke: Hey, great!
+028:19:57 Young: A first.
+028:19:58 Duke: Sounds like a real gourmet special, there.
+028:20:03 Duke: We'll record that comment: "good chicken."
+028:20:05 Stafford: That's real improvement.
+028:20:07 Duke: Roger. We'll record that comment: "Good chicken salad sandwich."
+028:20:14 Young: You noticed I didn't say, "Good corned beef sandwich."
+028:20:17 Duke: Yes, I got that. We were going to ask about that next.
+028:20:24 Young: No need to ask.
+028:20:28 Duke: Hey, you guys, how's the water tasting now? Have you got up enough nerve now to try any more of it?
+028:20:36 Stafford: Yes, it's real good there, Charlie. No problem at all.
+028:20:39 Duke: Roger, Tom.
+028:21:04 Cernan: The taste is okay, Charlie. There's an awful lot of air bubbles in it, which you know...
+028:21:12 Duke: Roger.
+028:21:14 Young: Which is hard to understand since we kept it closed off.
+028:21:18 Duke: We'll have the EECOM guys scratch their heads on that and see if they can come up with the reasons for that.
+028:21:26 Cernan: We had this same problem in Gemini. It's just hard to keep air out of water, I guess.
+028:21:30 Duke: Okay.
+028:23:13 Young: Houston, it looks like we just went to deadband Start.
+This is Apollo Control at 28 hours, 24 minutes. Distance now 115,544 [nautical] miles [213,986 km] velocity 4,928 feet per second [1,502 metres per second]. This line's very noisy. We'll take it down and come back up again if there is further conversation.
+This is Apollo Control at 28 hours, 30 minutes. CapCom Charlie Duke is talking to Gene Cernan.
+028:28:26 Cernan: Hello, Houston. Houston, how do you read?
+028:28:28 Duke: Roger. You are coming in five-by now, Gene.
+028:28:43 Duke: Hello, Apollo 10. Houston. Do you read?
+028:28:59 Cernan: Hello, Houston. Are you reading?
+028:29:02 Duke: Roger. We are reading you five-by.
+028:29:07 Cernan: Okay. This is Omni D. Haven't been able to do anything with this Reacq mode. My signal strength goes from about one-quarter to two-thirds back and forth, but apparently you haven't been reading it all.
+028:29:21 Duke: That's affirmative. We have had nothing but static. Stand by one. Let me see what the EECOM says.
+028:31:16 Duke: Hello, Apollo 10. Houston. Those numbers we gave you were too late. When you went to High Gain, they were too late. We'll recompute some angles for you and get passing off to you. Over.
+028:31:32 Cernan: Okay, Charlie.
+028:33:28 Duke: Apollo 10, Houston. Those numbers in the Flight Plan for the roll left are good in about 5 minutes. If you'll try in about 5 minutes Gene-o, it should work.
+028:33:39 Cernan: Okay, Charlie.
+Comm break.
+This is Apollo Control at 28 hours, 41 minutes; and we're in conversation with the crew.
+028:37:23 Comm Tech: You have NET 1 on the 525 at this time.
+028:38:17 Cernan: Charlie, I'm going to High Gain now.
+028:38:21 Duke: Roger, I'm reading five-by through the High Gain, Gene.
+028:40:14 Cernan: Hello, Houston. Houston, this is 10.
+028:40:18 Duke: Roger, 10. Go ahead.
+028:40:22 Cernan: Okay. I'm in Reacq and when I went to Reacq in High Gain, I'm reading about minus 30 on my indicator - my pitch indicator - and 270 on yaw.
+028:40:35 Duke: Roger. Stand by.
+028:40:38 Cernan: I'm in a Reacq mode now.
+028:40:41 Duke: Roger. We copy on the High Gain, 10. We'd like you to set your thumb wheels to the roll left indications: 90 and a minus 40 and configure your panel as shown in the Flight Plan with the addition of the tape recorder to Forward.
+The High Gain Antenna (HGA) position thumbwheels are used to manually input the required orientation coordinates, in both pitch and yaw.
+High Gain Antenna (HGA) position controls - Panel 2
+028:41:00 Cernan: That's the way we are right now.
+028:41:02 Duke: Roger. Good.
+028:41:16 Duke: 10, Houston. We're all configured now and we think we'll be breaking lock here in a little while and then the next time around we should Reacq and we'll see how that comes out.
+028:41:33 Cernan: Okay.
+This is Apollo Control at 28 hours, 47 minutes. Apollo 10's distance from the Earth now is 116,663 nautical miles [216,059 km]. Velocity 4,891 feet per second [1,491 metres per second].
+028:48:21 Young (onboard): What is that?
+028:48:23 Stafford (onboard): Potato soup. Always gets to me. There's always some - still some powdered stuff up there, near that nozzle that always comes shooting in first.
+028:48:36 Young (onboard): That's good. Mmm!
+028:48:39 Stafford (onboard): Hey, that ought to be good for your tummy, Gene; some potato soup.
+028:48:44 Cernan (onboard): [Cough] yes, I'll take a little bit of it.
+028:48:49 Stafford (onboard): You want to take any drugs?
+028:48:50 Cernan (onboard): No.
+028:49:55 Young (onboard): That's the best thing I've eaten today. Sweet.
+028:49:59 Stafford (onboard): What is it?
+028:50:01 Young (onboard): Potatoes.
+028:50:02 Stafford (onboard): It isn't sweet, huh?
+028:50:06 Young (onboard): Plain old potatoes.
+028:50:15 Stafford (onboard): What other activity do we have on the Flight Plan, anything? For today? We got any more midcourses?
+028:50:21 Young (onboard): VAC ion pumps, you want to close at 29:30:45. Canister change and O2 purge. About it.
+028:51:20 Stafford (onboard): Got tired of laying around. Think I'll go down below [garble].
+028:51:27 Young (onboard): Alright.
+028:51:28 Stafford (onboard): think I'll get out that activation checklist thing and look it and the lunar map.
+028:51:35 Cernan (onboard): I think I'm going to go down to the LEB and just move around here pretty soon after this High Gain test is over.
+028:51:40 Young (onboard): Let me get some time in the cockpit area...
+028:51:43 Stafford (onboard): Yes.
+028:51:44 Young (onboard): ...Tom. That won't hurt me any.
+028:51:46 Stafford (onboard): Yes, Go ahead. I'll take the center seat, John.
+028:51:52 Young (onboard): I may have to sit in here for quite a while tomorrow or the next day. Look at that; I can't - That freaking...
+028:52:00 Stafford (onboard): Got time for this one.
+028:52:09 Young (onboard): ...[Garble.
+028:52:12 Stafford (onboard): ... Wait a minute, John. Let me get the...
+028:52:28 Stafford (onboard): Shit, did we get all that?
+028:52:31 Young (onboard): Okay.
+This is Apollo Control at 28 hours, 54 minutes and we are back in communication.
+028:52:42 Duke: Hello, Apollo 10. Houston. Over.
+028:52:44 Young: Go ahead; over.
+028:52:49 Cernan: Go ahead, Houston.
+028:52:50 Duke: Roger. Reading you five-by. Looks like we're right on it.
+028:52:52 Cernan: [Garble.
+028:52:56 Duke: Say it again, Gene.
+028:52:59 Cernan: Go ahead, Charlie.
+028:53:00 Duke: Roger. Reading you five-by. Looks like we locked up again on the Reacq.
+028:53:04 Cernan: I guess so, but we never really seemed to lose lock for any great length of time for it to go back to those Reacq angles. It has been wavering down between two-thirds and zero signal strength, but never seems to lose lock long enough for the Reacq mode to put it back at the angles.
+Whilst in the Reacq mode the HGA will scan to maintain lock on the air to ground signal carrier within its scan limit. Should lock be lost the HGA will steer to the manually input position settings.
+028:53:21 Duke: Roger. Stand by.
+028:53:38 Stafford: I think I'll try a little urine dump first.
+028:53:44 Young: There's - there's - it goes over there in the corner. There's the tube.
+028:53:46 Duke: Hello, Apollo 10. Houston. Do you have us on the High Gain?
+028:53:51 Young: That's affirmative. High gain, Reacq mode.
+028:53:53 Young: I'll go get it.
+028:53:54 Cernan: No, it's coming back over here.
+028:53:55 Duke: Roger.
+028:54:12 Cernan: Looking right at you with the eyeball, Charlie, too. Right over Houston.
+028:54:16 Duke: Roger.
+028:54:20 Young: Come out and smile and I will take your picture.
+028:54:23 Duke: They won't let me out of this constant overcast here.
+028:54:38 Young: How long do you want to stay? Do you want to try this Reacq mode continually again? Now it looks like we are picking up good strong strength at those angles.
+028:54:47 Duke: Roger. Stand by.
+028:55:04 Cernan: You got the red one there, Tiger, or the left, or whatever it is?
+028:55:05 Duke: 10, Houston. It looks like you switched to narrow beam and it looks good. We'd like to try it one more time.
+028:55:07 Stafford: Well, it says left.
+028:55:12 Cernan: Well, okay. Hell, I don't mind sharing, T.P.
+028:55:13 Young: Okay.
+028:56:23 Young: Boy, we've got the world's brightest sunshine up here.
+028:56:27 Duke: Roger. In which window?
+028:56:32 Young: It depends on where you are in the PTC mode.
+028:56:37 Duke: Roger.
+028:56:46 Young: I can see why they got all that thermal insulation on the Lunar Module. They need it.
+028:57:06 Duke: Hello, Apollo 10. Houston.
+028:57:10 Cernan: Go ahead, Charlie .
+028:57:14 Duke: Roger. I want to talk to John a little bit. I think we misled you on this PTC setup, John, last time. We would like to reinitiate this thing after this Reacq test, and I would just like to run through this procedure again. On the 194 on the CMC, the checklist is good down through step 4. Then, we would like you to disable all the jets on Quads C and D. Then wait 20 minutes again. Then the Manual Attitude to pitch and yaw to Accel Command. Then, make sure you Enable all the jets and then initiate the desired roll rate with the procedures listed in the checklist, And when you get the roll attained, then Manual Attitude roll to Accel Command and increase the deadband to the desired value on page 193 and then Manual Attitude pitch and yaw Rate Command. Over.
+Duke has confirmed the PTC initiation procedure outline previously, and added the final step to set the Manual Attitude pitch and yaw switches to Rate CMD which allows CMC control only.
+028:58:23 Young: Roger, I figured you were going to say that, Charlie.
+028:58:29 Duke: I don't get it. Excuse me; little slow now.
+028:58:34 Young: No, that's all right. I understand what you are saying.
+028:58:39 Duke: Roger. It looked like to us that to get the roll rate started we didn't have all the jets and the thing coupled in on us and started. We got a pitch and yaw out of it, also, instead of just pure roll.
+028:59:01 Young: Well, I would be right surprised to see if you can get a pure roll rate out of these things on account of the roll thrusters, they just ain't there.
+028:59:12 Duke: Roger. Well the G&C guys say that with the damp doing it with the two jets, it ought to give us as close to a couple as we can get and they will admit that we get some pitch and yaw, but we shouldn't get too much and then it should damp out for us.
+028:59:35 Young: Okay. What damps it out?
+028:59:36 Duke: Roger. When you go back, as I understand it, when you go back to pitch and yaw Rate Command in the last step of the procedure, then we ought to damp those rates out.
+028:59:56 Young: But don't you make the deadbands big and everything?
+028:59:59 Duke: Okay. Everybody is shaking - G&C is shaking his head no, that when you make the deadband big, then you won't get any damping out until you hit the edge of the deadband, then it will bring you back in. And I guess you just have to accept those pitch and yaws when you start up the roll rate, if you do get it.
+029:00:26 Young: I see.
+029:01:36 Duke: Hello, Apollo 10. Houston. On this next Reacq test, we would like you to check - monitor your pitch and yaw gimbals on the S-band and see how close it comes to the gimbal and if it is listed on your card - in your checklist.
+029:01:56 Young: Okay.
+029:05:00 Young: Charlie, let me run this by you again and see if we got it straight now.
+029:05:03 Duke: Roger.
+029:05:09 Young: Okay. We're going to go to the attitude in tight deadband. Now we're going to Enter 50 18, and we're going to disable C and D quads and wait 20 minutes, then we're going to enable all the jets that go to pitch and yaw and Rate Command, and we're going to initiate a three-tenths of a degree roll rate and Accel Command. All this time we are still a tight deadband, and then we're going to go to wide deadband. Is that correct?
+029:05:33 Duke: That's negative, John. You - you wait 20 minutes - all that down to "wait 20 minutes" is good. Then you go to Manual Attitude Pitch and Yaw to Accel Command. You enable all the jets, and then you let the DAP start - stop - start the roll rate by doing the Verb 21 Noun 01 Enter and the Verb 24 Enter, and on the last Enter, the thing ought to take off and roll, and when the roll is attained, the Manual Attitude Roll goes to Accel Command. Then you increase the deadband to the desired value and the Manual Attitude pitch and yaw to the Rate Command. Over.
+Duke is trying to explain the PTC initiation procedure to John Young, but Young is not convinced the procedure is sound.
+029:06:29 Young: It looks to me like a good way to use gas.
+029:06:34 Duke: Stand by. I know.
+029:06:37 Young: I'll try though.
+029:06:38 Duke: I cut you out. Go ahead.
+At 29 hours, 9 minutes; Apollo 10's distance from the Earth is 117,661 nautical miles [217,907 km]; velocity 4,858 feet per second [1,481 metres per second].
+029:08:23 Cernan (onboard): Okay, roll the DAP 0.3 degree per second. Then...
+029:08:45 Stafford (onboard): You better talk to him again.
+029:08:47 Young (onboard): Yes. Initiate roll. - initiate roll to DAP 0.3 degree per second.
+029:09:07 Young (onboard): He did say go to Man Attitude, Accel Command, and Pitch and Yaw before we started that roll rate.
+029:09:18 Stafford (onboard): No. No. No, no, no; that's where...
+029:09:20 Young (onboard): That's what he said, though: That's what - I'm telling you; that's what he just told me.
+029:09:23 Stafford (onboard): Okay.
+029:09:25 Cernan (onboard): That's wrong. Can't talk to them.
+029:09:29 Young (onboard): Can we talk to him now?
+029:09:30 Cernan (onboard): No.
+029:09:56 Young (onboard): Is it going to them angles?
+029:10:01 Cernan (onboard): [Garble] it eventually does, but you don't [garble] lock all the way.
+029:10:06 Stafford (onboard): Okay, can you talk when they come into lock?
+029:10:09 Cernan (onboard): He said he's got nothing but noise down there now.
+029:10:18 Young (onboard): I'm with you; I'm with you. I think if you started with a DAP and then you shut the thing off and roll and then go to the wide deadband, you're doing as good as we can do. We're doing just like we did yesterday. You know? And that didn't work yesterday. As a matter of fact, one time at 0.1 degree per second, we were going 0.3 degree per second and we had 0.1 degree in some of those [garble] angles. Well, they are theorists; that's what they are. They don't realize that, when people pee, it pushes the thing up against the deadband.
+029:12:06 Cernan (onboard): Is he back?
+029:12:08 Young (onboard): It's getting better and better, isn't it?
+029:12:10 Cernan (onboard): Have to wait a bit.
+029:12:30 Young (onboard): This is going to cost the gas.
+029:12:34 Cernan (onboard): Against it?
+029:13:57 Cernan (onboard): [Garble] (cough) a couple of more.
+029:14:57 Cernan (onboard): Can we talk to him now?
+029:15:00 Stafford: Hello, Houston. Apollo 10.
+029:15:05 Duke: Fine shot, 10. Go ahead.
+029:15:10: Young (onboard): And I'm going to be strapped in [garble].
+029:15:11 Stafford (onboard): Yes.
+029:15:10 Stafford: Okay. We can read you now. We want to go over this step-by-step again because we think there is still one step that's out of sequence. We want to go through it after it's finished the Reacq mode here. Just go through the whole thing step-by-step and then we'll give it a go. Okay?
+029:15:25 Duke: Roger, 10. We copy.
+029:15:30 Cernan: Okay, Charlie. I've got a couple of points for you on that gimbal limit.
+029:15:34 Duke: Okay, shoot.
+029:15:37 Cernan: Okay. You can plot them if you want. Pitch plus 60, and yaw 220. Pitch plus 60 and yaw 240, plus 60 and 270, and then pitch minus 10 and yaw 90. Pitch zero and yaw 120, and pitch zero and yaw 130. That gives you an idea of the ones I was able to plot - how close we come to it.
+Cernan is reading out the HGA gimbal angles he has plotted during the REACQ tests.
+029:16:18 Duke: Roger. Thank you much, 10. We copy them all.
+029:16:24 Cernan: Okay. Let me know how long you want us to stay in High Gain.
+029:16:28 Duke: Roger. Stand by.
+029:16:57 Stafford (onboard): I think I'll try a little urine dump. Where is it?
+029:17:02 Stafford (onboard): There's it. It goes over there in the corner.
+029:17:10 Duke: Hello, Apollo 10, Houston. We're ready to discuss the PTC setup if you guys are still go ahead.
+029:17:20 Cernan: Go, still go.
+029:17:24 Duke: 10, you want me to start out with the procedure as we have it, or do you want to ask questions?
+029:17:33 Cernan: Why don't you run through it just one time and then let me write it all down and then I'll ask questions, okay?
+029:17:39 Duke: Roger. Okay. On the setup, your procedure on page - on the G&N checklist, on 194 is good down to the - through step 4 on 50 18. Enter when the maneuver is complete to the PTC attitude. Then we'd like you to disable all jets on quads Charlie and Delta, wait 20 minutes, then Manual Attitude pitch and yaw Accel Command. Then enable all jets. Then initiate the desired roll rate via the Verb 24, Noun 01, and the Verb 24 Enter. When roll is obtained, Manual Attitude roll to Accel Command. Then increase your deadband to the desired value, and Manual Attitude, Pitch and Yaw, to Rate Command. Over.
+029:19:05 Stafford: Okay. You went too fast on the last part there, Charlie. Okay, again you wanted to initiate the initial roll rate with Verb 24, right?
+029:19:13 Duke: That's affirmative. You know you set into the DAP the three-tenths via the Verb 24, Noun 01 and them the Verb 24 and on the last Enter on that sequence you get, the DAP will start the roll rate.
+029:19:38 Stafford: Okay. We set the decimal up here - he said we disable C and D jets, we wait 20 minutes, Manual Attitude, pitch and yaw Accel Command. Then we enable all jets to initiate the desired roll rate, but we can't use the DAP if the Pitch and Yaw are in Accel Command.
+Stafford has identified that with the Manual Attitude, pitch and yaw switches in the Accel CMD position, the Digital Auto Pilot (DAP) cannot be used to establish the required roll rate. He has missed that the Manual Attitude roll switch is in the Rate CMD position, hence allowing use of the DAP in establishing and controlling the roll rate.
+029:20:24 Duke: Roger, but - Stand by.
+029:20:08 Stafford: Do you want to use the DAP [digital Auto pilot]...?
+029:20:14 Duke: We got roll - We have roll in Rate Command and we want you to initiate the roll.
+029:20:21 Stafford: Okay.
+029:20:22 Duke: Rate in using the DAP. See if you have pitch and yaw...
+029:20:25 Stafford: Okay.
+029:20:26 Duke: Okay?
+029:20:29 Cernan: Yes, well, my question is, what keeps the roll from coming into pitch and yaw if you've got it in Accel Command?
+029:20:39 Duke: Stand by.
+029:20:51 Duke: Apollo 10, this is Houston. We'll admit that some roll rate will couple into pitch and yaw with pitch and yaw in the Accel Command when the roll rate is initiated, but we feel that this is a procedure that will minimize that coupling. Over.
+029:21:11 Cernan: Well, I'll tell you, Charlie, I really don't see a bit of difference between this and what he did when we set it up manually. We'd be doing the same things and you see where we are right now.
+029:21:22 Duke: Roger.
+029:21:24 Cernan: We'll try it.
+029:21:25 Stafford: We'll give it one go and see how it works out and follow us right through it. Okay?
+029:21:29 Duke: Roger.
+029:21:49 Cernan: Okay. One question, Charlie. Do you want to go to the attitude in tight deadband? Is that not correct?
+029:21:56 Duke: That's affirmative. On the Verb 48 we select 0.5-degree deadband.
+Duke once again is confirming the details of the PTC initiation as the crew queries the revised procedure.
+029:22:04 Cernan: Okay.
+029:22:30 Duke: 10, Houston. We're dumping your tape. We'd like, when we finish the dump - we'd like for you to go to Omni Bravo and also one Flight Plan update, at 28:55, delete the closing of the O2 Vac Ion Main A and B breakers.
+All of the reactant tanks have vac ion pumps to maintain the integrity of the vacuum between the inner and outer shell, thus maintaining heat leak at or below the design level.
+O2 Ion Vacuum Pump circuit breakers - Panel 229
+029:23:00 Cernan: Yes, we've got it, Charlie.
+029:23:02 Duke: Roger.
+029:23:03 Cernan: When are you going to be done with the dump?
+029:23:04 Duke: Stand By. EECOM say, in a minute, Gene.
+029:23:14 Cernan: Okay.
+029:24:28 Duke: Hello, Apollo 10. Houston. We have the dump completed; select Omni Bravo, please.
+029:24:35 Cernan: Okay. Go on OMNI Bravo.
+029:26:43 Young: Hey, Charlie, when we get the desired roll rate then go Manual Attitude in roll to Accel Command, and what's the third step in there?
+029:26:54 Duke: That's affirmative. Manual Attitude roll to Accel Command then you can increase your deadband to the desired value and then put the Manual Attitude pitch and yaw to Rate Command. Over.
+029:27:09 Young: Okay.
+029:27:53 Young: Okay. We are at the attitude. We have C and D jets disabled.
+RCS jet quadrants Charlie and Delta.
+029:27:56 Duke: Roger.
+029:28:00 Stafford: We started the clock to wait the 20 minutes.
+029:28:03 Duke: Roger. Copy, 10. Our last time out to the 20 minutes, we had rates down to a thousandth, less than a thousandth of a degree.
+029:28:20 Cernan: Yes, but Charlie, here's the thing. We'll go ahead and do this, but what happened was that when Tom initiated a three-tenths of a degree per second roll rate with pitch and yaw, in Accel Command, and it coupled, I don't see how, we're right up against a deadband in about 20 minutes or how ever long it was.
+029:28:41 Duke: Roger. Did you enable all the jets at that time, when you started that roll rate? Over.
+029:28:56 Stafford: Nope. Okay. I'm not sure. We'll go ahead right down through the procedure here.
+029:29:06 Duke: Roger.
+029:41:58 Stafford: Okay, Houston. Apollo 10. We're going to go ahead and load the DSKY, as you can see, and will not hit Enter until 20 minutes has elapsed.
+029:42:07 Duke: Roger, 10. We copy.
+029:43:12 Duke: 10, Houston. Before you hit the final Enter, we'd like you to hold off right where we are until we can get some verification on what this will do to us by just standing here.
+029:43:28 Stafford: Okay.
+029:43:49 Stafford: Okay. We're down to the last step, and we'll hold off.
+029:43:53 Duke: Roger. We copy. Stand by, Tom.
+029:43:59 Stafford: All right, Charlie.
+029:45:37 Young: Okay, Charlie. When we get to 20 minutes, you mean you don't want us to keep on going?
+029:46:05 Young: Houston, Apollo 10.
+029:46:07 Duke: Roger. Go ahead, 10.
+029:46:11 Young: When we get to 20 minutes, you do not wish us to proceed with the test?
+029:46:15 Duke: Negative, 10. That wasn't my intention. We're discussing with the G&C now. When you did the Verb 24, Noun 01 Enter, it set up a rate of some sort that I'm trying to get explained to me right now, and I'll be back with you in just a moment. At the end of the 20 minutes, you can proceed on. If you'll stand by, I'll have an explanation for you. Over.
+029:46:53 Young: I don't see much rates here.
+029:46:59 Duke: Roger. We - They're very small, 10. We saw something on the downlink. It's damping out now. When you get to 20 minutes, you can proceed.
+029:47:10 Young: Roger.
+029:48:44 Stafford: Okay. Coming up on 20 minutes. Going to put the Manual Attitude, Pitch, and Yaw, to Accel Command.
+029:48:50 Stafford: Mark.
+029:48:51 Stafford: Twenty minutes. Manual Attitude, Pitch and Yaw, to Accel Command, and all jets are coming on enabled.
+029:48:57 Duke: Roger.
+029:49:01 Stafford: Okay. Are you ready for us to rehit this final Enter to set up the roll rate?
+029:49:06 Duke: Stand by.
+029:49:12 Stafford: Okay. We're standing by.
+029:50:18 Young: Houston, Apollo 10.
+029:50:21 Duke: Go ahead, 10.
+029:50:25 Young: Okay. If that roll jet fires, it's going to couple into the other axis before we even get started on this thing.
+029:50:31 Duke: Roger. We're having a little discussion down here. We'll be back with you in 5 seconds or so. Hold on.
+029:50:39 Young: Okay.
+029:51:04 Young: And it just fired.
+029:51:05 Duke: Roger. You can Enter.
+029:51:14 Young: It's entered, and there it goes.
+029:51:17 Duke: Roger.
+029:51:26 Stafford: Okay. Roll's going to Accel Command.
+029:51:29 Duke: Roger.
+029:51:30 Stafford: And we're going to put the deadband to wide - and we're going to put the deadband to wide now. Affirmative?
+029:51:38 Duke: That's affirmative, to 30 degrees.
+029:52:17 Stafford: Okay. Now, Manual Attitude, pitch and yaw, now going to Rate Command.
+029:52:21 Duke: That's affirmative, 10, and I think we're finally in configuration. Let's see what happens.
+029:52:30 Stafford: Okay. [Garble.
+029:52:31 Young: [Garble.] Charlie [garble].
+029:53:25 Duke: Hello, Apollo 10. Houston. After your comments on Manual Attitude, Pitch and Yaw, to Rate Command, you faded out, Tom. Say again what you had.
+029:53:38 Stafford: Okay. That was the last step on the total sequence.
+029:53:45 Cernan: And honestly, the only difference between this one and the last one was that this time the DAP did it and the last time we did it - roll rate.
+029:53:52 Duke: Roger. If - one point here: we couldn't - since we didn't have the high bit rate, we couldn't tell, but if you had not - did not enable all the jets, then when you started the roll manually in Accel Command, then it would only fire one jet, and that would couple due to the c.g. problems with the LM on board, it would couple into pitch and yaw. And we feel that that's what's happened, but we weren't able to verify that due to the telemetry.
+'Couple' usually refers to the use of two thrusters on opposite sides of the spacecraft to exert a pure torque or turning force without any appreciable force on the spacecraft's centre-of-gravity. In this usage, the meaning is a little different. By using a single thruster on the SM, itself far from the stack's c-of-g, pitch and yaw rotations result from what would otherwise be intended as a simple roll firing. In other words a thruster firing for roll would 'couple' or be linked to resultant pitch and yaw rotations.
+029:54:24 Young: Okay. Well, I think it's a good theory, but that - that isn't what happened, because we had the same procedure for the last one except - with the exception that we replaced the DAP with the stick-and-throttle guy.
+029:54:36 Duke: Roger. We - Stand by. We'll see if we can come up with an answer, but I doubt it, John. There's a lot of disagreement here on this.
+029:54:47 Young: Okay. Well, that's very interesting. We'll watch it.
+029:54:50 Duke: Roger.
+This is Apollo Control at 29 hours, 55 minutes. Apollo 10 now at a distance of 119,805 nautical miles [221,878 km] from Earth and velocity continuing to decrease very slowly. Present speed is 4,790 feet per second [1,460 metres per second]. We've completed a change of shift here in Mission Control. Flight Director Milton Windler has come on to replace Glynn Lunney. Our Capsule Communicator will continue to be Charlie Duke. Milton Windler has gone around the room, reviewed the status of the Mission to this point with all of his Flight Controllers, finds everything in good condition. We've had some conversation with the spacecraft since our last report relating to the test to set up a 3 tenths of a second rate in roll for Passive Thermal Control. This is one of two modes being tested on this mission for Passive Thermal Control. Up until now the spacecraft has been rotating very slowly at the rate of about 1 revolution per hour. That rate will be speeded up to about 3 revolutions per hour. We'll pick up the taped conversation that we have and stand by for any live communications with the spacecraft.
+Day 1, part 7: PTC concerns and sleep
+Journal Home Page
+Day 2, part 9: Housekeeping, sleep and TV

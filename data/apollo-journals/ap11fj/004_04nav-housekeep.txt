@@ -1,0 +1,614 @@
+Apollo 11 Flight Journal - Day 1, part 4: Navigation and Housekeeping
+Day 1, part 3: Transposition, Docking and Extraction
+Journal Home Page
+Day 2, part 1: Midcourse Correction
+Apollo 11
+Day 1, part 4: Navigation and Housekeeping
+Corrected Transcript and Commentary Copyright © 2009-2025 by W. David Woods, Kenneth D. MacTaggart and Frank O'Brien. All rights reserved.
+Last updated 2025-02-22
+Index to events
+Unscheduled TV transmission
+010:32:36 GET
+P37 block data update
+010:59:29 GET
+Last communication on day 1
+012:46:41 GET
+Apollo 11 is now a complete spacecraft; the Command Service Module having docked to the Lunar Module which was then extracted from its launch position atop the last stage of the Saturn V launch vehicle. The joined craft have safely manoeuvred away from the abandoned stage, which has been sent on a path towards solar orbit. Now the crew settle down to some navigation tasks, general house-keeping and eating. They will make a television transmission of views of Earth from their window before retiring for the night.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+006:09:17 Duke: Hello, Apollo 11. Houston. Be advised your friendly White Team has come on for its first shift. If we can be of service, don't hesitate to call.
+006:09:31 Collins: Thank you very much. And we're about to take our marks, Charlie, on this P23 optics Cal. I've got it in the sextant now, and I'm about to split the image and Mark.
+006:09:42 Duke: Roger, Mike. We're watching.
+Long comm break.
+The CapCom is now Charlie Duke, and Gene Kranz and his White Team of flight controllers is preparing to take over the responsibility here in the Control Center from Cliff Charlesworth's team.
+Mike is about to begin a navigation task while Apollo 11 is still relatively near Earth. It will require that he takes a series of measurements of the angle between Earth's horizon and a chosen star. This information will permit the computer to determine their state vector.
+Diagram of the principle behind P23 cislunar navigation.
+As the spacecraft coasts between the two worlds of the Earth/Moon system, its position and its speed constantly change and both can be defined at any moment in time. Because they are both expressed within a three-dimensional frame of reference, we end up with three numbers for position and three for velocity, six numbers in all. Collectively, these are known as a state vector. Once the state vector of an object is known, its trajectory can be computed forward or backward in time with respect to the bodies that it travels among. So it is with Apollo 11. If its state vector is known for a particular moment in time, then it can be accurately navigated to reach the right place around the lunar far side from where they can enter lunar orbit.
+There are two means of determining the state vector. The primary method uses the permanent radio signal between Earth and the spacecraft. But in case this is lost, the crew have a backup method that uses the angles between either Earth or the Moon and a defined star to achieve the same thing. For this, Mike, the onboard navigator, will employ the spacecraft's sextant to superimpose the image of a star on the horizon of the nearest world, in this case. Earth. Doing so yields an angle between the two.
+Were they to view Earth as they head away, the home planet would be seen to appear to move against the background of stars. At a particular time, a measurement of Earth's apparent position against these stars will only be valid for a particular trajectory. In other words, measurements of the star-horizon angles will define a particular trajectory and therefore will yield their state vector.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 6 hours, 16 minutes into the mission. Velocity now 11,479 feet per second [3,499 m/s]. Apollo 11's distance from Earth, 27,938 nautical miles [51,741 km]. We're estimating the change of shift news conference for 3:30 pm Central Daylight Time.
+006:19:23 Duke: Hello, Apollo 11. Houston. We have scrubbed the Midcourse 1. Over.
+006:19:30 Aldrin: Roger. Understand you've scrubbed Midcourse 1.
+006:19:33 Duke: Rog.
+Comm break.
+006:21:39 Duke: Hello, Apollo 11. Houston. We see your middle gimbal angle getting pretty big. Over.
+006:21:45 Collins: Well, it was, Charlie, but in going from one Auto Maneuver to another, we took over control and have gone around gimbal lock; and we're about to give control back to the DAP.
+006:21:56 Duke: Roger, Mike. We see it increasing now.
+Long comm break.
+Gimbal lock is a notoriously tricky concept to describe as it requires some three-dimensional mental gymnastics. The problem stems from the fact that the guidance platform in the middle of the IMU was mounted within only three nested gimbals.
+Diagram to illustrate a three-gimbal system.
+As the outer gimbal rotates by virtue of being joined to the spacecraft, the three axes, and the degrees of freedom of rotation they provide, can accommodate such rotation in order to maintain the platform's orientation in space. However, should the outer gimbal rotate so far that the angle it makes with the middle gimbal becomes too great, thereby aligning its axis with that of the inner gimbal, then we get the condition known as gimbal lock.
+Diagram to illustrate the concept of gimbal lock.
+With gimbal lock, because two of the axes are lined up, we have essentially lost one of our degrees of freedom and the gimbals are no longer able to maintain the platform's orientation.
+Mike is using Auto Maneuver to orient the spacecraft as necessary for his P23 exercise. However, he has found that having the spacecraft take itself from one attitude to the other causes it to get near the gimbal lock condition. The attitudes that threaten gimbal lock are indicated on the Flight Director/Attitude Indicator (FDAI) by a red patch on the ball.
+A Flight Director/Attitude Indicator (FDAI) on the Apollo 13 CM with red patch showing.
+Using the FDAI as a guide, Mike can manually control the attitude of the stack in order to keep well away from gimbal lock.
+006:25:35 Aldrin: Hey, Charlie. [No answer.]
+006:25:45 Aldrin: Houston, Apollo 11.
+006:25:46 Duke: Go ahead, 11. Over.
+006:25:47 Aldrin: Hey, maybe you better call Lew and tell him we might be a little bit late for dinner.
+In the final weeks before launch, the crew had stayed at crew quarters at KSC. Their food was served up by Lew Hartzell, a former tug-boat cook who catered for all the Apollo crews.
+006:25:51 Duke: Okay. Sure will. We'd like for you to turn on - the fan on in O2 tank number 2, Buzz. And, 11, did you - On your optics calibrations, did you proceed or recall the program? Over.
+006:26:08 Collins: We recalled the program.
+006:26:12 Duke: Roger.
+006:26:13 Collins: And O2 fan number 2 is on.
+006:26:15 Duke: Rog. [Long pause.]
+006:26:42 Aldrin: Houston, Apollo 11. [I've] got a Cryo pressure light and a Master Alarm. It's reset.
+006:26:51 Duke: Ah, Roger. We expected that. That's why we had you turn the fan on. We were getting pretty close to the caution and warning limits. We were trying to prevent that.
+006:27:00 Aldrin: Okay.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 6 hours, 31 minutes. At the present time the spacecraft is 29,363 nautical miles [54,380 km] from Earth and the velocity, continuing to drop off gradually, reading now 11,192 feet per second [3,411 m/s]. Flight Director Gene Kranz has taken over as Flight Director now from Clifford Charlesworth. Kranz has been reviewing the status of the spacecraft's systems with his team of flight controllers; everything looks very good at this point. The crew has been advised that the Midcourse Correction 1, the first opportunity for a midcourse correction, of which has been scheduled into the Flight Plan at about 13 hours, 30 minutes, will not be performed. Ah, correction - A midcourse had been scheduled at 11 hours, 45 minutes into the Flight Plan and that will not be performed according to the tracking data we have at this time. The crew, up until their sleep period, which will begin at about 13 hours, 30 minutes or about 7 hours from now, will be involved generally in a routine of housekeeping type activities aboard the spacecraft. At the present time they should be involved in some midcourse navigation. At 6 hours, 32 minutes; this is Apollo Control, Houston.
+006:34:30 Collins: Houston, Apollo 11. [Pause.]
+006:34:36 Duke: Go ahead, 11. Over.
+006:34:39 Collins: Roger. You looking at our Delta-R/Delta-V? It looks like Delta-R is pretty large, there. We wanted to talk to you about it before we incorporate it.
+006:34:44 Duke: Stand by, Mike. We don't have anything on our downlink here, I don't think, on the DSKY. Stand by.
+006:34:50 Collins: Okay. Our Noun 49 is reading: register 1, plus 08793; register 2, all balls.
+006:35:01 Duke: Copy.
+Comm break.
+Mike is working through his P23 navigation sightings. Having taken a mark on a star/horizon angle, he has the computer return two values on the DSKY as Noun 49. These are Delta-R and Delta V which represent the difference between his current state vector and the new one implied by this star/horizon measurement. Delta-R is the change in position (or range) and Delta-V is the change in the velocity values, both expressed as a vector sum of the component values. His concern is that while a Delta-V of zero indicates no change in the velocity values, the Delta-R value is a change in position of 879.3 nautical miles. Although this seems excessively large to him, Duke will soon reassure him that Mission Control believe they understand why it is happening.
+006:36:15 Duke: 11, Houston. Guidance is looking at the Noun 40 - 49 stuff. We'll be back with you momentarily. Over.
+006:36:23 Collins: Okay, Charlie. Thank you. We'll just hold right here in the program.
+006:36:26 Duke: Roger. We got your downlink now. Over.
+006:36:27 Collins: Okay. [Long Pause.]
+006:36:57 Duke: Hello, Apollo 11. Houston. We'd like you to reject the Noun 49 stuff on the DSKY right now, Mike, and try it again. Over.
+006:37:01 Collins: Okay. Will do.
+Comm break.
+Mike will repeat the star/horizon angle measurement to see if he obtains a similar result.
+006:38:46 Collins: Okay, Houston. Apollo 11. Here's another [Noun] 49 for you. Are you getting it on the downlink?
+006:38:51 Duke: Roger. We see it. Stand by.
+Comm break.
+006:40:22 Duke: Hello, Apollo 11. Houston. We recommend you accept the Noun 49 display on the DSKY now. Over.
+006:40:34 Collins: Okay. It looks like an awful big one. We noticed that you'd moved star number 2 to the tail end of the listing, and we should be marking first on star 40. Did that have anything to do with it?
+006:40:47 Duke: Negative. We don't believe so, Apollo 11. We think that this is possibly due to some TLI dispersions, and it's probably satisfactory, so go ahead and accept this. It fits our criteria anyway that if you repeat the mark and you get an equivalent size error, to go ahead and accept it. And this is an equivalent size error. Over.
+006:41:09 Collins: Okay. We'll do it.
+Mike has been comparing his new state vector with one that has been extrapolated from their time in Earth orbit. Since then, the S-IVB has carried out the TLI burn and small errors from before then have built up to appear large as they hurtle away from Earth.
+006:41:14 Duke: And 11, Houston. Your state vector in the LM slots are - is good. Over.
+006:41:22 Collins: Roger. Thank you.
+Comm break.
+Mission Control maintains a primary version of the state vector in a reserved area of the computer's 2K-word memory. There is another reserved area, the LM slots, which, while docked, aren't used for anything, since the LM's state vector is the same as the CSM's. Indeed, the CSM state vector can be stored in the LM slots as a backup. It is only when the two vehicles are separated, and particularly during rendezvous that when the two are needed. Then, CSM sextant sightings plus VHF ranging will provide the information necessary to update the CSM's copy of the LM's state vector in the LM slots. This is essential for the CSM to understand where the LM is for validation LM burn solutions, and most importantly if the CSM has to perform any rescue manoeuvres. But in the meantime, the LM slots are available for Mike to store his version of the state vector during his P23 exercises.
+006:42:55 Collins: Houston, Apollo 11. If you like this one, we'll accept it as well.
+006:43:00 Duke: Stand by. [Long pause.]
+006:43:46 Duke: Hello, Apollo 11. Houston. We recommend you accept the Noun 49. Over.
+006:43:51 Collins: Okay, Charlie. Thank you. We'll do that now.
+006:43:53 Duke: Thank you. [Long pause.]
+006:44:39 Collins: And we're going to proceed on this one, too, Charlie.
+006:44:41 Duke: Roger. Copy.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+006:48:35 Collins: Houston, Apollo 11. Another Noun 49 for you.
+006:48:40 Duke: Rog. We copy. Stand by. [Long pause.]
+006:49:00 Duke: Hello, Apollo 11. Houston. We'd like you to recycle and do this one over again. Over.
+006:49:07 Collins: Okay.
+Long comm break.
+From page 4-3 of the Pilots' report of the Apollo 11 Mission Report: "Two periods of cislunar midcourse navigation, using the command module computer program (P23), were planned and executed. The first, at 6 hours, was primarily to establish the apparent horizon altitude for optical marks in the computer. The first determination was begun at a distance of approximately 30,000 [nautical] miles [55,000 km], while the second, at 24 hours, was designed to accurately determine the optical bias errors. Excess time and fuel were expended during the first period because of difficulty in locating the substellar point of each star. Ground-supplied gimbal angles were used rather than those from the onboard computer. This technique was devised because computer solutions are unconstrained about the optics shaft axis; therefore, the computer is unable to predict if lunar module structure might block the line of sight to the star. The ground-supplied angles prevented lunar module structure from occulting the star, but were not accurate in locating the precise substellar point, as evidenced by the fact that the sextant reticle pattern was not parallel to the horizon. Additional manoeuvres were required to achieve a parallel reticle pattern near the point of horizon-star superposition."
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 6 hours, 52 minutes. Apollo 11 now 31,565 nautical miles [58,458 km] from Earth and the velocity is 10,789 feet per second [3,288 m/s]. The crew, at this time, is involved in midcourse navigation using their onboard optical system. We have completed the changeover and briefing of shifts here in Mission Control, and the crew activities, until the sleep period begins, will consist of housekeeping functions aboard the spacecraft, changing out carbon dioxide filters. They will not be doing the midcourse correction scheduled for 11 hours, 45 minutes into the flight, as the first opportunity. The change of shift briefing is scheduled to begin shortly. Any conversations that develop with the crew during that period of time will be tape recorded and we'll play those back following the change of shift briefing. This is Apollo Control at 6 hours, 53 minutes.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+006:53:41 Aldrin: Houston, Apollo 11.
+006:53:43 Duke: Go ahead, Apollo 11. Over.
+006:53:45 Aldrin: Rog. Why don't you sing out when you think we've done enough battery charging on B.
+006:53:50 Duke: Rog. Stand by, Buzz. Over.
+Comm break.
+006:55:50 Duke: Hello, Apollo 11. Houston. We'll be charging battery B up until the sleep period. We'll discontinue charging at that time. Also, at about 12:25 in the Flight Plan, we have battery A charge. That has been deleted. Over.
+006:56:05 Aldrin: Rog. Understand. We'll charge until the sleep period on B and delete the battery A charge.
+006:56:10 Duke: Affirm. [Pause.]
+006:56:17 Collins: And, Houston, Apollo 11. These Auto optics maneuvers or P23s, Auto maneuvers, don't seem to be going to the substellar point. Can you come up with the roll, pitch, and yaw angle for the substellar point on this star? It's our second star.
+006:56:31 Duke: Roger. Stand by. [Long pause.]
+006:57:21 Duke: Hello, Apollo 11. Houston. Your angles in the Flight Plan we feel are still good; 198.6, 130.7, 340.0. Just slightly off than those in the Flight Plan. Over.
+006:57:36 Collins: Okay. We'll try that. [Long pause.]
+006:58:28 Collins: Charlie, state those three angles one more time. I'd like to confirm them before I maneuver.
+006:58:32 Duke: Roger. Roll and pitch are slightly off than what's in the Flight Plan, 11. Roll is now 198.6, pitch is 130.7. Over.
+006:58:47 Collins: Roger. Roll 198.6, pitch 130.7, and yaw 34000 [means 340.0].
+006:58:55 Duke: That's affirmative.
+Long comm break.
+Flight Plan, page 3-8.
+007:03:32 Collins: Houston, Apollo 11. I think the problem here is that that attitude just is not too close to the substellar point. I'm having to maneuver quite a bit; and that's in progress now, so stand by for some marks.
+007:03:45 Duke: Roger. We copy it all.
+Long comm break.
+007:09:24 Duke: Hello, Apollo 11. Houston. We've run the angles given in the Flight Plan for the P23 attitude through the machines down here, and they come up the same thing every time. We think everything's going correctly, Mike, and we're wondering if the non-symmetrical horizon might by giving a problem. Over.
+007:09:51 Collins: Yeah, it could be, Charlie. Stand by here. We'll get another mark for you.
+007:09:55 Duke: Okay. [Long pause.]
+007:10:30 Collins: Houston, Apollo 11. Noun 49 for you.
+007:10:34 Duke: Roger. Copy.
+007:10:41 Duke: Stand by. [Long pause.]
+007:11:05 Duke: Hello, Apollo 11. Houston. We recommend you accept the Noun 49. Continue through your sequence of sightings, and then we'll analyze the data afterwards. Over.
+007:11:15 Collins: Okay.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control; 7 hours, 21 minutes into the flight of Apollo 11. During the change of shift briefing, we accumulated about 4 minutes of taped conversation with the spacecraft. That conversation generally related to the onboard batteries, which are currently being charged - a routine operation - and also the midcourse navigation exercise that the crew is currently involved in. We'll play back the tape for you now, and then stand by for any live conversation with the crew.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+007:20:56 Collins: Houston, Apollo 11. Star 40 has just disappeared now in the sextant. Could the trunnion angle 47 - something be a little high?
+007:21:05 Duke: Stand by. [Long pause.]
+007:21:21 Duke: Hello, Apollo 11. Houston. We'd like you to press on to star 44. Over.
+007:21:26 Collins: Yeah, Roger. How many marks have you recorded on star 40?
+007:21:29 Duke: Stand by, Mike. [Long pause.]
+007:21:32 Collins: Okay. [Long pause.]
+007:21:45 Duke: 11, Houston. We copied two good marks. Over.
+007:21:49 Collins: Okay.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+007:33:00 Collins: Houston, Apollo 11.
+007:33:01 Duke: Go ahead. Over.
+007:33:03 Collins: Roger. Forty-four is just not bright enough for this. There is a reddish glow filling the black area of the sextant, and the star is lost somewhere in there, and I cannot see it.
+007:33:17 Duke: Roger. Stand by. We'll come up with another star. Over.
+007:33:21 Collins: Yeah. I'd appreciate that. [Long pause.]
+Crews often found that if the Sun was impinging near the optics apertures, it could cause substantial flare within their optical paths. It is worth reminding ourselves how incredibly dim even the brightest stars are with respect to the Sun. Stars are virtually impossible to see when the eye is adapted to sunlight and it usually needs a period of adaptation to the dark to allow any but the bright stars to become visible.
+007:33:48 Duke: Hello, Apollo 11. Houston. We'd like you to go on to star 45. Over.
+007:33:53 Collins: Okay.
+007:33:54 Duke: And, Mike, we think these large Delta-Rs, Noun 49, you're getting is really meaningful since it's been way before TLI since we had a state vector update; and we think it's normal. Over.
+007:34:09 Collins: Okay. Could be, Charlie. Some of the early markings: I might not have had precisely the substellar point. I think as time goes by they've been coming more accurate but old Enif here is just flat invisible.
+Star 44 is Enif or Epsilon Pegasi. Mike will instead use 45 which is Fomalhaut or Alpha Piscis Austrini.
+007:34:21 Duke: Rog. [Long pause.]
+007:34:49 Collins: And, Houston, Apollo 11. Understand that the same three gimbal angles you gave me should be valid for star 45 as well. Is that affirmative?
+007:34:58 Duke: I believe that's right. Stand by one. Over.
+007:35:00 Collins: Okay.
+007:35:03 Duke: That is negative. Stand by one.
+007:35:04 Collins: Okay. Because there's quite a difference between the gimbal angles you have and the gimbal angles the program wants, but with inaccurate state vector, I'm inclined not to believe the program.
+007:35:16 Duke: Stand by. [Long pause.]
+007:35:31 Aldrin: Houston, Apollo 11. LMP is back on the line.
+007:35:36 Duke: Roger. Copy.
+007:35:40 Aldrin: Read you five-by.
+007:35:42 Duke: Roger. The same, Buzz. And, 11, the angles for you are 197.8 for roll, 128.5 pitch, 340.0 yaw.
+007:35:58 Collins: Okay. Just as a matter of comparison, P23 for this star would like to go to 235.66, 154.31, and 31365. Over.
+007:36:15 Duke: Roger. We copy, 11. We understand that the program can give you almost an infinite combination of angles in P23, and it's not too unreasonable. If you'll stand by, we'll look at these that we see on the DSKY. Over.
+007:36:31 Collins: Okay. Then in the meantime I'll just go ahead and maneuver to yours. 197.8, 128.5, and 340.0.
+007:36:38 Duke: Rog.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+007:43:24 Collins: Houston, Apollo 11.
+007:43:26 Duke: Go ahead. Over.
+007:43:28 Collins: Okay, Charlie. If the attitude you gave me on star number 45 - The reticle is off, I'd say, a good 30 degrees in roll, and the star is not in sight. Over.
+007:43:44 Duke: Roger. Stand by.
+007:43:47 Collins: I think something's wrong with those attitudes.
+Comm break.
+007:45:14 Duke: Hello, Apollo 11. Houston. I wondered if you have Auto Optics selected. Over.
+007:45:21 Collins: That's affirmative.
+007:45:26 Duke: Roger. Looks like to us we need a Proceed, Mike, to get the sextant pointed at the star. Over.
+Mission Control can see that Mike has omitted to press the Proceed button on the DSKY, which commands the onboard computer to implement the required activity.
+007:45:35 Collins: Okay. Stand by. [Long pause.]
+007:46:30 Duke: 11, Houston. Those shaft and trunnion angles were exactly what we were computing on the ground. Over. [Pause.]
+007:46:45 Collins: Okay. I'm going to trim up the attitude here and give it another try.
+Comm break.
+007:47:55 Collins: Okay. I have this star loud and clear now, Charlie, so I might as well do a bunch of marks on this one to get a good horizon count.
+007:48:03 Duke: Roger. Stand by. [Pause.]
+007:48:10 Collins: It still looks like I'm far from the substellar point, however. I'm off quite a bit in roll.
+007:48:18 Duke: Roger. We'd like you to mark right where it is now, Mike, and we'd like two sets of marks on this. Over.
+007:48:28 Collins: Okay. Fine. But the reticle is not parallel to the horizon. I have to move off quite a bit in order to get it parallel to the horizon. [Pause.]
+007:48:40 Duke: Apollo 11, Houston. Our procedures guys are saying that the reticle does not have to be parallel. Over.
+007:48:51 Collins: Well, then we're not at the substellar point, if we're not.
+007:48:54 Duke: Rog.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+007:51:39 Collins: Houston, you copy that Noun 49?
+007:51:41 Duke: Roger. We see it, 11. Stand by. [Long pause.]
+007:52:09 Duke: Apollo 11, Houston. We'd like you to accept this one and every mark thereafter. Over.
+007:52:16 Collins: Okay. [Long pause.]
+007:52:55 Collins: You need me to wait in the Noun 49 display for any length of time?
+007:53:01 Duke: Negative.
+007:53:02 Collins: Okay.
+Comm break.
+007:54:29 Collins: Okay, Charlie. I'd be glad to give you as many of these as you like.
+007:54:34 Duke: Roger. We'd like six marks on star 45, Mike, and then we'll probably go back to star 2 again. Stand by. We'll have further word on that.
+007:54:43 Collins: Okay. [Long pause.]
+007:55:20 Collins: They seem to be getting smaller, Charlie? Are you sure you wouldn't like some more?
+007:55:23 Duke: Stand by, Mike.
+007:55:28 Collins: It's no trouble.
+007:55:31 Duke: Rog. Stand by. Out. [Long pause.]
+007:56:07 Duke: Apollo 11, Houston. We'd like you to do two more on star 45. Over.
+007:56:14 Collins: Okay.
+Comm break.
+007:58:02 Collins: Okay, Charlie. There's your two more marks. Where do you want to go from here?
+007:58:06 Duke: Stand by. [Long pause.]
+007:58:21 Duke: Hello, Apollo 11, Houston. We'd like you to go back to star number 2 with an attitude as follows: roll, 195.2; pitch, 123.9; yaw, 340.0. Mike, that'll give you a trunnion angle of about 31.4. Over.
+007:58:45 Collins: Okay. Understand star number 2 and roll, 195.2; pitch, 123.9; and yaw, 340.0. Over.
+007:58:57 Duke: That's affirmative.
+007:59:01 Collins: Okay.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+008:02:07 Collins: Okay, Charlie. I'm there, and I've got a trunnion angle of 30.5 degrees. Again, misaligned considerably in roll and I do believe that's important to getting good marks.
+008:02:20 Duke: Stand by. [Long pause.]
+008:02:40 Collins: See, if I'm - my reticle's not parallel, then I'm not marking normal to the horizon and I'm not marking at the substellar point. I'm marking off somewhere else.
+008:02:50 Duke: Stand by one. Over.
+008:02:52 Collins: Okay. [Long pause.]
+008:03:24 Duke: Apollo 11, Houston. The ground-computed values for your shaft and trunnion are just what you're getting on the DSKY there, Mike. The horizon looks cocked off to you - You look like you're off in roll because the angles that we gave you to maneuver to, to prevent the LM reflection from fouling up your optics, we feel like a - you should go ahead and mark on the star just as is. Over.
+008:03:53 Collins: Okay. [Long pause.]
+008:04:08 Collins: I'll bet you a cup of coffee on it.
+Already on this flight, Mike has a history of betting with cups of coffee. During Earth orbit, he mentioned a bet with Glenn Parker about the quality of his star sightings.
+008:04:14 Duke: Ah, copy. [Long pause.]
+008:05:08 Collins: Verb - or a Noun 49 for you, Charlie.
+008:05:13 Duke: Ah, Roger. Stand by. [Long pause.]
+008:05:45 Duke: Apollo 11, Houston. We'd like to accept this one and give us two more and that will be enough. Over.
+008:05:52 Collins: Okay.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 8 hours, 8 minutes. Apollo 11 now 38,812 nautical miles [71,880 km] from Earth, and travelling at a speed of 9,682 feet per second [2,951 m/s]. And we're just putting a call to the crew. We'll standby for...
+008:08:25 Duke: Apollo 11, Houston. We see your termination on P23. Thank you very much. Mike, we'll have a - We're trying to work up a story here for you; we'll be with you momentarily on an explanation of what's happening. Over.
+008:08:38 Collins: Okay, Charlie. It just appears to me that you have to have the reticle tangent to the horizon at the point at which you mark or else you're not at the substellar point; you're off laterally, and therefore you're measuring a larger trunnion angle than you should.
+008:08:56 Duke: Seems so to me. Our procedures people are working on this, and we'll be back with you momentarily. Over.
+008:09:03 Collins: Thanks, sir.
+Comm break.
+It is unclear exactly what Mike is seeing when he is taking his angular measurements. The following drawings are to try to visualise the view through the sextant. The reticle (or graticule) in these diagrams is based on a drawing in a 1967 training manual.
+This is how Mike would like to see the view through the sextant, with the central line tangent to Earth's horizon and the star placed on it and the horizon.
+This represents the ideal situation as Mike sees it. The central line should coincide with the tangent to Earth's horizon at the point where the star's image is superimposed. It can also be parallel to that tangent. This ensures that the angle being measured is to the substellar point.
+This may be Mike's view through the sextant, with the central line not tangential to the horizon but the star aligned on both it and the horizon.
+In this version of what might be happening, the central line is not tangential to the horizon but the star is aligned on both it and the horizon. This would appear to lead to a larger angle being measured.
+A second possibility for Mike's view through the sextant, with the central line tangential to the horizon but not at the substellar point. The star is aligned on the horizon.
+In this version, the central line is tangential to the horizon but not at the substellar point. The star is aligned on the horizon. This would also appear to lead to a larger angle being measured. There is another possibility which is similar to the last case but the star is placed on the line rather than the horizon. It will transpire that Mike is right when they revisit the topic in the morning. The first of the above cases is how it should appear and his measurement will yield an incorrect angle.
+008:11:00 Duke: Hello, Apollo 11. Houston. We'd like you to go P00 and Accept. We'll have a PTC REFSMMAT for you momentarily. Over.
+008:11:13 Armstrong: Roger. Going P00 and Accept.
+Comm break.
+The PTC REFSMMAT, which CapCom Charlie Duke just referred to, is the Passive Thermal Control attitude that the crew will place the spacecraft in. In this attitude the spacecraft will be rotated at a rate of about 3 revolutions per hour to maintain the proper temperature balance.
+The explanation of the PTC REFSMMAT given above by the PAO is simplified. A REFSMMAT is a definition of a particular orientation in space, measured with respect to the stars. The PTC REFSMMAT is one to which the spacecraft's guidance platform is aligned. The spacecraft's attitude will therefore be measured against this reference, which has been chosen so that when the spacecraft is orientated to rotate broadside on to the Sun, it will do so without the platform going into gimbal lock.
+008:13:55 Duke: Hello, Apollo 11. Houston. We're through with the load. You can go back to Block.
+008:14:02 Armstrong: In Block. Thank you.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+008:24:44 Duke: Hello Apollo 11, Houston. We'd like you to do a P52, option 1 preferred, and establish PTC as listed in the Flight Plan at 12 hours. We'd like you to commence that right now, Mike. And we have some stars recommended for you. For stars 26, 30, and 24, when you get to attitude 000. Over. [Long pause.]
+008:25:19 Armstrong: Okay, Charlie. He's off the wick right now. Understand you're ready for us to do a P52, option 1?
+008:25:31 Duke: 11, it's a P52, option 1 preferred. Over.
+008:25:36 Armstrong: Roger. And, let's see, that is Spica, Menkent, and what else?
+008:25:43 Duke: Roger. Stars - Codes are stars 26, 30, and 24. Over.
+008:25:49 Armstrong: 24. Okay.
+Very long comm break.
+s Neil says, star 26 is Spica, or Alpha Virginis, and star 30 is Menkent, or Theta Centauri. Star 24 is Gienah, or Gamma Corvi.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+008:35:42 Duke: Hello, Apollo 11. Houston. We notice your Program Alarm, Mike, was due to using these stars in the P23 attitude. If you'll go to 000, the stars we gave you will work. Over.
+008:36:02 Armstrong: Okay. Understand.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+008:41:19 Duke: Hello, Apollo 11. Houston. Prior to you starting your P52, we'd like to give you a new CSM state vector. Over.
+008:41:29 Aldrin: Roger. [Pause.]
+008:41:33 Aldrin: Wait till we finish the maneuver and we'll give you the DSKY.
+008:41:37 Duke: Roger. We're standing by.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+008:53:07 Aldrin: Houston, Apollo 11. The DSKY is yours.
+008:53:12 Duke: Apollo 11, Houston. Go ahead. Over.
+008:53:15 Aldrin: Roger. The DSKY is yours.
+The Apollo 11 crew have handed over control of their onboard computer to Houston so that a new version of their state vector can be uploaded to the CSM slots in the computer's erasable memory. This state vector will be based on measurements made on Earth of their radio signal.
+008:53:29 Duke: Roger Stand by.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 8 hours, 59 minutes into the flight of Apollo 11. The spacecraft altitude is currently reading 42,753 nautical miles [79,179 km], and we show a velocity of about 9,100 feet per second [about 2,800 m/s]. We are in the process now of uplinking to the spacecraft the attitude for the Passive Thermal Control mode. Under this mode the spacecraft will be rotated about its X axis at a rate of about 3 revolutions per hour to maintain a proper temperature balance within the spacecraft. The crew has completed the midcourse navigation exercise. They will shortly be aligning the spacecraft stable platform, used as an attitude reference in the guidance system. This is a routine procedure, and following that, the spacecraft will be placed in the Passive Thermal Control mode where normally it would be left during the sleep period. The cabin temperature in the Command Module, has been running between 65 and 70 degrees [Fahrenheit, 18°C to 21°C.]. The current spacecraft weight is 96,460 pounds [43,753 kg].
+Flight Plan, page 3-9.
+009:00:59 Duke: Hello, Apollo 11. Houston. You can do the Verb 66. The computer is yours, and then the P52, option 1, preferred. Over.
+009:01:06 Aldrin: Roger.
+Very long comm break.
+Verb 66 instructs the computer to make a copy in the LM slots of the state vector that is in the CSM slots in memory.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 9 hours, 13 minutes into the flight of Apollo 11. Based on biomedical data, a flight surgeon reports that it appears the crew removed their pressure garments - their pressure suits at about 8:00pm for the Commander Neil Armstrong and Command Module Pilot Mike Collins. Lunar Module Pilot Buzz Aldrin apparently got out of his pressure suit about 1 hour earlier or about 7 hours Ground Elapsed Time. The spacecraft is currently 44,529 nautical miles [82,468 km] from Earth and the velocity has dropped now to 8,983 feet per second [2,738 m/s]. We do have rather a poor lock with the spacecraft antenna at this time accounting for the noise on the air-to-ground circuit. We'll take down the circuit until we've re-established better lock and we'll record any conversations that occur in the interim. At 9 hours, 14 minutes; this is Apollo Control, Houston.
+009:16:10 Duke: Hello, Apollo 11. Houston. Do you read? Over.
+Comm break.
+009:18:11 Duke: Hello, Apollo 11. Houston. If you read, this attitude 000 is pretty bad for our Comm. In fact, we've lost all data with you, and unreadable on the voice. We recommend you do the P52, option 1 preferred...
+009:18:25 Collins:... not a very good attitude at all for Comm, and as soon as we finish our alignment, we'll maneuver it to a different attitude. Over.
+009:18:34 Duke: Roger, 11. We copy. Recommend you go to this P52, option 1 preferred, and then go to PTC attitude. Over. Then we'll get some Comm. When you get there to PTC attitude, it'll be pitch 90, yaw 0 on the high gain. Over.
+Comm break.
+009:21:17 Collins: Houston, Apollo 11. Over.
+009:21:19 Duke: Roger, 11. You're about one-by. Go ahead.
+009:21:38 Duke: Apollo 11, Houston. You're about one-by. Go ahead. Over. [Long pause.]
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+009:22:40 Collins: Houston, Apollo 11. Over.
+009:22:43 Duke: Roger, 11. Read you about four-by. How me? Over.
+009:22:46 Collins: You're loud and clear, Charlie. We pitched down some to get a better comm attitude.
+009:22:51 Duke: Roger. Did you copy our recommendation on proceeding with the P52, Mike? Over.
+009:22:58 Collins: Negative. We didn't. I've got that in work. I'm starting on P52.
+009:23:01 Duke: Roger.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 9 hours, 36 minutes into the flight of Apollo 11. The mission continuing to go smoothly at this point. The communications noise that we were experiencing previously cleared up after the crew was able to get the spacecraft in a good attitude for antenna lock-on and we had one brief conversation which we taped. We're presently communicating with the crew at this time. We'll pick up the tape and then continue to follow live conversation.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+009:35:56 Collins: Houston, Apollo 11.
+009:35:59 Duke: Go ahead, 11. Over.
+009:36:01 Collins: Roger. You copy our torquing angles? We're about to torque them.
+009:36:05 Duke: Roger. Stand by.
+009:36:08 Collins: Rog. The reason for the delay there, Charlie, is that - difficult to find two stars that are not occulted by the LM and also are not in the midst of a man-made star field up here, with dumps.
+009:36:21 Duke: Roger. We copy. [Long pause.]
+009:36:38 Duke: Hello, Apollo 11. Houston. You can torque the Noun 93. Over.
+009:36:44 Collins: Okay.
+Long comm break.
+This is Mike's third opportunity to realign the guidance platform. In this case, he sighted on star 30 (Menkent, Theta Centauri) and star 32 (Alphecca, Alpha Coronae Borealis). Star 33 (Antares, Alpha Scorpii) was used as a check. The computer was commanded to steer the sextant to aim at Antares aa a check. After these marks, the platform was torqued to match the orientation defined in the PTC REFSMMAT that was recently uplinked to the computer. The star angle difference, a measure of the quality of Mike's sightings, was 0.01°, a good result.
+That brings us up to date with the taped conversation that we had. We'll continue to stand by for any live communications with the spacecraft. Most of that conversation with Mike Collins involved the platform alignment that the crew is involved in at the present time, aligning the stable platform used by the guidance system as an attitude reference. Apollo 11 is presently 46,688 nautical miles [86,466 km] from Earth and the velocity is 8,750 feet per second [2,667 m/s].
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+009:40:34 Collins: Okay, Houston. That completes the P52. We verified the third star with Antares, and Auto optics are pointing at it pretty closely. How do our platform drift angles look so far, Charlie?
+009:40:46 Duke: Stand by.
+009:40:56 Duke: Hello, Apollo 11. Houston. We didn't have a chance to get a good check for you. We're going to run a drift check from this alignment until the next one, approximately 12 hours, and we'll have something for you later. Over.
+009:41:07 Collins: Okay. [Long pause.]
+It appears that having made the star sightings, Mike then directly torqued the platform around to the new orientation as per the PTC REFSMMAT. This meant that there was no determination of how much drift had occurred since the previous P52 4 hours earlier. On later flights (Apollo 14 onwards), it was normal that when changing the REFSMMAT, a note of the drift angles would be made using the old REFSMMAT, then torquing around to the new orientation.
+009:41:46 Duke: Hello, Apollo 11. Houston. We'd like you to establish your PTC. We recommend you select quads Alpha and Delta. Over. [Long pause.]
+009:42:14 Aldrin: Roger. Understand. Alpha and Delta quads [faintly] for PTC.
+009:42:19 Duke: That's affirmative.
+Very long comm break.
+The four quad packages of thrusters that comprise the RCS are distributed around the girth of the Service Module, approximately around the CSM's centre of mass. They are labelled A to D. Normally, when attitude changes are made, opposite pairs are used so that the impulses are balanced, i.e. they are coupled to produce pure rotation with almost no translation. So A and C would fire together, or B and D.
+Diagram of coupled versus uncoupled thruster use.
+An issue with that is that each impulse comes from two RCS engines. On this occasion, for finer control of attitude they will use uncoupled thrusters, just one engine at a time. This is because they want to get the stack as stable as possible prior to spinning it around its long axis. Uncoupled thrusting will introduce small errors in their trajectory but tomorrow's midcourse correction manoeuvre and the tracking that will surround it will take that out.
+Based on measurements of scans of 70-mm magazine N, it appears that four photos of Earth are taken about now using the 80-mm lens. The calculated distance is roughly 87,000 km or 47,000 nautical miles.
+AS11-36-5330 - Earth at about 87,000 km or 47,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5331 - Earth at about 87,000 km or 47,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5332 - Earth at about 87,000 km or 47,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5333 - Earth at about 87,000 km or 47,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+009:52:53 Duke: Hello, Apollo 11. Houston. Would you verify that the Attitude Set switch is in GDC? Over. [Pause.]
+009:53:06 Collins: The Set switch. Stand by one, Charlie.
+009:53:09 Duke: Roger.
+009:53:11 Collins: It is now.
+009:53:14 Duke: Roger. It was on IMU?
+009:53:17 Collins: That's affirmative.
+009:53:19 Duke: Rog. Thank you.
+Very long comm break.
+The lens on the Hasselblad camera is changed to a 250-mm telephoto and seven photos are taken on Mag N. The last four of these permit a distance calculation to be made of approximately 91,000 km or 49,000 nautical miles. The first three do not have enough of Earth's limb visible to make a distance determination but as they are virtually identical to the last four, they were evidently taken at the same time.
+AS11-36-5334 - Earth. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5335 - Earth. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5336 - Earth. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5337 - Earth at about 91,000 km or 49,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5338 - Earth at about 91,000 km or 49,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5339 - Earth at about 91,000 km or 49,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5340 - Earth at about 91,000 km or 49,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+010:03:29 Aldrin: Hi, Houston, Apollo 11. How many miles out do you have us now?
+010:03:34 Duke: We have you - Stand by, Buzz. Roughly about 50,000 [nautical miles, 93,000 km]. Stand by.
+010:03:41 Aldrin: It's a beautiful sight.
+010:03:46 Collins: Charlie, on the PTC, we're just waiting our 20 minutes here for all thruster activity to damp out. You might let us know how that's coming.
+010:03:54 Duke: Roger. Will do. We have you about 48,000 [nautical] miles [89,000km] now?
+010:03:58 Collins: Thank you.
+Comm break.
+010:05:33 Collins: Houston, Apollo 11. We still have our oxygen fan on for Tank 2. Is that what you want?
+010:05:40 Duke: Stand by. [Pause.]
+010:05:45 Aldrin: Hey, Charlie, I can see the snow on the - on the mountains out in California, and it looks like LA doesn't have much of a smog problem today.
+010:05:57 Duke: Roger, Buzz. Copy. Looks like there's a good view out there then.
+010:06:00 Duke: And, Apollo 11, Houston. We'd like you to keep the O2 fan on. It will give you an ECS configuration prior to sleep. Over.
+010:06:14 Aldrin: Okay. Fine. [Long pause.]
+010:06:46 Aldrin: Charlie, with the monocular, I can discern a definite green cast to the San Fernando Valley.
+010:06:56 Duke: Roger.
+010:07:00 Duke: How's Baja California look, Buzz? [Pause.]
+010:07:07 Aldrin: Well, it's got some clouds up and down it, and there's a pretty good circulation system a couple of hundred miles off the west coast of California.
+010:07:21 Duke: Roger. 11, we'd like you to close the waste storage vent valve right now.
+010:07:28 Collins: Okay. [Long pause.]
+010:07:49 Collins: Waste storage vent valves closed.
+010:07:51 Duke: Copy. [Long pause.]
+010:08:51 Duke: Hello, Apollo 11. Houston. We'd like - The rates are looking pretty good right now on the PTC, but we'd like you to continue holding. Over.
+010:09:01 Collins: Okay. Fine.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+010:20:28 Duke: Hello, Apollo 11. Houston. Your rates look really great, now. You can start your PTC.
+010:20:33 Collins: Okay. Thanks, Charlie.
+Comm break.
+010:21:51 Armstrong: Houston, you read 11?
+010:21:53 Duke: Roger. Go ahead, 11. Over.
+010:21:56 Armstrong: Roger. If you'd like to delay PTC after - for 10 minutes or so, we can shoot you some TV of a seven-eighths Earth. That's - We'll leave that up to you.
+010:22:12 Duke: Roger. Stand by. [Long pause.]
+010:22:50 Duke: Hello, Apollo 11. Houston. We'll have our answer for you on the TV in about one minute. Over.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 10 hours, 26 minutes into the flight of Apollo 11.
+010:25:56 Duke: Apollo 11, Houston. We're ready at Goldstone for the TV. It'll be recorded at Goldstone and then replayed back over here, Neil. Any time you want to turn her on, we're ready. Over.
+010:26:14 Armstrong: Okay. It'll take us about 5 minutes to get rigged.
+010:26:16 Duke: Roger. [Long pause.]
+CapCom Charlie Duke advised the crew that we would be recording the television at Goldstone. We don't have an estimate at this time as to how long it will take to get a playback of that from Goldstone.
+010:26:31 Duke: Apollo 11, Houston. Could you verify the reading on your O2 flow indicator? Over. [Pause.]
+010:26:45 Armstrong: We're showing 0.2. We just inadvertently touched the Rapid Repress button. That made a temporary glitch in the flow.
+010:26:55 Duke: Roger. During that glitch there, did it go almost a peg high? Over.
+010:27:05 Armstrong: I'd believe that. [Pause.]
+010:27:14 Duke: Apollo 11, Houston. Could you tell us - tell us if the O2 flow indicator was pegged to high prior to closing the waste storage vent valve? Over.
+010:27:26 Armstrong: No, it was not.
+010:27:29 Duke: Roger. Thank you.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+010:30:59 Duke: Hello, Apollo 11. Houston. A while ago we tracked into the scan limits and disabled the Auto drive on the High Gain. We'd like you to position the antenna at pitch 30, yaw 270, go to Reacq; that will give us a narrow beamwidth. Over. [Pause.]
+010:31:27 Armstrong: That yaw 270 and pitch 3 - What was the pitch?
+010:31:32 Duke: Pitch 30, Neil.
+010:31:35 Armstrong: Okay. [Pause.] I think we've got you. [Pause.]
+010:31:44 Duke: Roger. We've got a good signal there. Thank you much. [Long pause.]
+010:32:24 Armstrong: Okay, Houston. We are sending a picture of Earth down right now, so you can let us know if they're receiving at Goldstone.
+010:32:36 Duke: Roger, 11. Goldstone is receiving the TV. Stand by. We'll let you know on the quality. Over. [Long pause.]
+This video, kindly donated by Mark Gray, is most of the video that was transmitted during this unscheduled show.
+H.264 MP4 video file.
+010:33:34 Duke: Hello, Apollo 11. Houston. Goldstone says that the TV looks great. Over.
+010:33:44 Aldrin: [Faint] Roger. We're zooming in on Earth now.
+010:33:54 Duke: Hello, Apollo 11. Houston. Did you copy? Over.
+010:34:00 Aldrin: Roger. We copied, Charlie.
+010:34:04 Duke: Roger. Your transmissions the last couple of times have been about two-by. Over.
+010:34:10 Aldrin: Okay. How do you read me now?
+010:34:11 Duke: Rog. You're five-by now.
+010:34:12 Aldrin: Okay. We're zooming the lens on in, until it will just about fill the monitor.
+010:34:20 Duke: Roger. [Long pause.]
+010:34:35 Aldrin: Okay. It's in full zoom, now.
+010:34:40 Duke: Copy, 11.
+010:34:43 Aldrin: And how about the f-stop? Is 22 going to be adequate?
+010:34:49 Duke: Stand by. We'll get with the Goldstone TV guy. We don't have anything here at Houston. Stand by.
+010:34:55 Collins: It looks good on the monitor, as far as the f-stop goes. Therefore, we just assumed it's okay at Goldstone. [Long pause.]
+010:35:26 Duke: Hello, Apollo 11. Houston. Goldstone says it - TV looks really great, five-by; we don't - The AGC looks like it's working fine. The f:22 is good; we have no real white spots. They're real pleased with it. Over.
+010:35:42 Aldrin: Okay. You just cut out, Charlie. We understand that it's looking great. We'll leave it the way it is and wait for you to come back on.
+010:35:51 Duke: Roger. How do you read me now? Over.
+010:35:54 Aldrin: Five-by.
+010:35:55 Duke: Okay. My comments were - My comments were from Goldstone that they see no white spots as we saw in 10. Looks like the AGC's working real well. The f:22 looks good. Over.
+The white spots refer to flaws in the television from Apollo 10 two months earlier. The Apollo TV cameras use electron beam vacuum tubes to create a picture. A photosensitive target has the optical image projected onto it. This target is at one end of a vacuum tube behind an optical glass window. At the opposite end is a hot wire that releases electrons. These are focussed into a beam of electrons which is then scanned across the target. The degree to which the electrons are accepted onto the plate depends on the charge that built up onto it due to the light. This way, the beam can be used to read out the image from the plate in a serial pattern, line by line. It is possible that damage or contamination of the target could cause errors in the read-out of the beam that would look like white spots.
+010:36:08 Aldrin: Okay. Very good. Well, we shut out the Sun coming in from the other windows into the spacecraft, so it's looking through a - the Number 1 window on Earth, and any reflected light [fades out] so, it ought to be a pretty good picture.
+010:36:24 Duke: Roger. [Long pause.]
+010:37:05 Duke: Hello, Apollo 11. Houston. We'd like you to keep the TV on for about 10 minutes or so, so we can get come good comparison on the camera. You can do anything your heart desires on the TV: interior, exterior, pan in and out, anything you'd like. Over. [Long pause.]
+010:37:46 Duke: 11, Houston. Over. [No answer.]
+010:38:05 Collins: Houston, Apollo 11. Over.
+010:38:06 Duke: Roger. Go ahead. Over.
+010:38:09 Collins: Charlie, I'm sorry; you keep cutting out. We heard up to you can do anything, and then after that we didn't hear anything, and we knew that wasn't right anyhow because we can't. But what do you want us to do?
+010:38:21 Duke: Roger. We'll check this uplink on our voice. That transmission on the TV was - We'd like to get about 10 minutes worth of signal at Goldstone so we can look at the camera quality back here at Houston for about 10 minutes or so when they patch it back into us. What we were saying was that you can go interior or exterior on the camera. On the exterior shots, we'd like to look...
+010:38:47 Aldrin: You cut out again.
+010:38:48 Duke: Stand by.
+010:38:55 Aldrin: Start over with: We were saying. [Long pause.]
+010:39:36 Aldrin: Okay, Houston. You suppose you could turn the Earth a little bit so we could get a little bit more than just water?
+010:39:45 Duke: Roger, 11. I don't think we got much control over that. Looks like you'll have to settle for the water. [Long pause.]
+010:40:01 Duke: 11, Houston. We're going to change - thinking about changing our voice uplink to another site. If you'll stand by, we'll see if we can improve the quality. Over.
+010:40:11 Collins: Okay, Charlie.
+010:40:12 Aldrin: We'll stand by for your call.
+010:40:48 Duke: Apollo 11, Houston. We'll try once more on this TV request. We'd like 10 minutes worth of TV. And we'd like a narrative, if you could give us one, on the exterior shots. You could al - we also suggest you might try the - an interior position. Over.
+010:41:10 Armstrong: Roger. We're seeing the center of the Earth as viewed from the spacecraft in the eastern Pacific Ocean. We have not been able to visually pick up the Hawaiian Island chain, but we can clearly see the western coast of North America, the United States, the San Joaquin Valley, the High Sierras, Baja California, and Mexico down as far as Acapulco, and the Yucatan Peninsula; and you can see on through Central America to the northern coast of South America, Venezuela, and Colombia. I'm not sure you'll be able to see all that on your screens down there.
+010:42:04 Duke: Roger, Neil. We just wanted a narrative such that we can - When we get the playback, we can sort of correlate what we're seeing. Thank you very much. [Pause.]
+010:42:19 Collins: I haven't seen anything but the DSKY so far.
+010:42:23 Duke: Looks like they're hogging the windows.
+010:42:29 Armstrong: You're right.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+010:46:58 Duke: Hello, Apollo 11. Houston. On your cryos, we'd like, at this time, for you to place all four cryo heaters to Auto and turn off all four cryo fans. Over.
+The Service Module has four cryogenic storage tanks; two for hydrogen and two for oxygen, both of which are required as reactants togenerate electrical power. The oxygen also supplies the crew with breathing air. Each tank is a double-walled, vacuum-insulated pressure vessel. Their contents are in a state known as supercritical, a combination of high pressure and cold temperature that renders the substance in a form rather like a dense fog. The systems that are fed by these tanks are designed assuming a high-pressure feed. However, as the reactants are removed, both the temperature and pressure will decrease. Steps therefore need to be taken to maintain a suitably high pressure and this is achieved using electrical heaters built into their interior. These can supply thermal energy that restores the pressure to an acceptable level. They can be controlled automatically using signals from pressure sensors, or manually with switches in the cabin.
+As heat leaks into the tank from outside, the density of the contents can be affected with the outer shell warming up slightly and becoming like a less dense layer surrounding more dense layers towards the centre of the tanks. This so-called stratification causes errors in the readings from the capacitance probes that run the width of the tank using electrical capacitance to measure quantity. To counter this effect, small fans are installed at either end of the heating assembly. these can be turned on to stir the tanks' contents and disturb any stratification.
+One of the oxygen tanks aboard Apollo 13 famously exploded when the operation of the fans led to an electrical short and a fire that ran out of control. The incident led to changes in subsequent Service Modules which included no longer using fans in the oxygen tanks.
+010:47:15 Aldrin: Okay. All four cryo heaters are Auto. And all four cryo fans are off, all off.
+010:47:25 Duke: Roger. That's going to be your sleep configuration.
+010:47:29 Aldrin: Okay.
+010:47:30 Duke: And, Buzz, we'll be terminating the battery charge in about a half hour.
+010:47:35 Aldrin: Roger. [Long pause.]
+010:47:58 Duke: Hello, Apollo 11. Houston. You can terminate the TV at your convenience. We've got enough tape, and you can start PTC at your convenience. The rates look super for starting up. Over.
+010:48:14 Collins: Roger, Charlie.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 10 hours, 51 minutes. That TV transmission lasted about 15 minutes. Goldstone reported that we did get good quality on it. We estimate that it will be somewhere between an hour and a half or two hours before we have the television available here in Houston to play back. The lines will have to be called up between Goldstone and Mission Control Center, and the conversion equipment brought up online before we'll be able to play back the television from that transmission. At the beginning of the TV transmission, the spacecraft was approximately 50,980 nautical miles [94,415 km] from Earth, and at the conclusion they were about 52,248 nautical miles [96,763 km] from Earth.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+010:57:32 Duke: Apollo 11, Houston. We have a Flight Plan update for you and some P37 block data, if you're ready to copy. Over.
+010:57:41 Armstrong: Stand by. [Long pause.]
+010:58:19 Collins: Okay, Houston. PTC is started now; looks good to us, and we'll be ready to copy in a minute or two.
+010:58:24 Duke: Roger. Copy, 11. [Long pause.]
+010:58:59 Aldrin: Houston, Apollo 11. Ready to copy the Flight Plan update and P37.
+010:59:04 Duke: Roger. Stand by one, Buzz. [Long pause.]
+010:59:21 Duke: Apollo 11, Houston. Coming at you with the P37 block data. Over.
+010:59:28 Aldrin: Okay.
+010:59:29 Duke: Roger. 027:44, 5363, minus 165, 073:14; 037:44, 8016, minus 165, 072:46; GETI 046:44, 6141, minus 165, 097:03; 055:44, 8209, minus 165, 096:42. Ready for your readback. Over.
+011:01:01 Aldrin: Roger. 027:44, 5363, minus 165, 073:14, 037:44, 8016, minus 165, 072:46; 046:44, 6141, minus 165, 097:03, 055:44, 8209, minus 165, 096:42. Over.
+P37 is a Return-to-Earth program in the computer for use in an abort situation. Data read up from Mission Control is entered in a standard form:
+Standard form in which crews copy P37 abort PAD data. This is the version in Flight Plan.
+The data is intended for aborts that would be burned at various times along the translunar coast. There are four sets of parameters. The first are:
+Time of ignition: 27 hours, 44 minutes.
+Delta-V: 5,363 feet per second (1,635 metres/second). This is a maximum specified value.
+Longitude of splashdown: 165° west; in the mid-Pacific Ocean.
+Time of Entry Interface: 73 hours, 14 minutes GET.
+The second set:
+Time of ignition: 37 hours, 44 minutes.
+Delta-V: 8,016 feet per second (2,443 metres/second). This is a maximum specified value.
+Longitude of splashdown: 165° west; in the mid-Pacific Ocean.
+Time of Entry Interface: 72 hours, 46 minutes GET.
+The third set:
+Time of ignition: 46 hours, 44 minutes.
+Delta-V: 6,141 feet per second (1,872 metres/second). This is a maximum specified value.
+Longitude of splashdown: 165° west; in the mid-Pacific Ocean.
+Time of Entry Interface: 97 hours, 3 minutes GET.
+The fourth set:
+Time of ignition: 55 hours, 44 minutes.
+Delta-V: 8,209 feet per second (2,502 metres/second). This is a maximum specified value.
+Longitude of splashdown: 165° west; in the mid-Pacific Ocean.
+Time of Entry Interface: 96 hours, 42 minutes GET.
+With these requested values which act as a set of constraints, P37 would then work out the parameters for an abort burn to make an immediate return to Earth. An important condition for P37 is that the spacecraft must still be in Earth's sphere of influence, thus simplifying the calculations.
+This form, here shown from the Flight Plan, has 14 places to write P37 data. Each place has a position for four separate items: the time of ignition, the desired change in velocity or Delta-V, the desired longitude for splashdown and the time the spacecraft would be expected to reach Entry interface, an altitude of 400,000 feet or 121 km.
+Flight Plan, page 3-10.
+011:01:34 Duke: Roger, 11. That was a good readback. That was the block data scheduled for 12 hours. We'd like to just say that on a Flight Plan update here, just to remind you of some things, and that you can do them at your convenience and then go to sleep early if you'd like. We don't have anything else planned, but we'd like to just remind you on the filter change, the O2 fuel cell purge. And we'd like a LM/CM Delta-P and accomplish the pre-sleep checklist. [Pause.]
+011:02:34 Aldrin: Okay. We've completed the filter change, and we'll get started on the fuel cell purge, and stand by for the LM/CM Delta-P.
+011:02:42 Duke: Roger, 11. Would you hold off on the fuel cell purge? EECOM's saying we might not have to do that. Over.
+011:02:51 Aldrin: Okay. [Long pause.]
+011:03:05 Collins: Charlie, the LM/CM Delta-P is 0.5.
+011:03:17 Duke: Copy. 0.5. Out. [Long pause.]
+011:03:50 Duke: Hello, Apollo 11. Houston. We just decided to delete the O2 fuel cell purge. Over.
+011:03:56 Aldrin: Roger. Delete the O2 fuel cell purge.
+Comm break.
+Within the three fuel cells in the Service Module, hydrogen and oxygen are reacted together through an electrolyte in order to create electricity. Additional products include water pure enough to drink which is also used to help cool the spacecraft through the process of evaporation. Waste heat is also generated which is dissipated through a series of radiators arranged around the top of the Service Module. Impurities in the reactants, chiefly argon, can build up within the fuel cells which can impede the reaction. This necessitated periodic flushing or purging of such contaminant by briefly increasing the flow of reactant. In general, oxygen purges were carried out daily and hydrogen purges were every two days.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+011:06:21 Duke: Hello, Apollo 11. Houston. We've been noting some funnies on the O2 flow indicator transducer. We've kind of got a suspicion it's the transducer. We - weexpected to see an O2 flow pegged high with the waste stowage vent to Vent. It was not. We also noted some funny indications when you closed the waste stowage vent valve. We're going to continue to look at this through the night, and we'll be with you in the morning with an assessment of the problem. Also, we'd like to ask specifically, when you place the waste stowage vent valve to Vent, does the detent - correction - does the arrow line up with the detent? Over. [Pause.]
+011:07:18 Collins: Stand by one, Charlie. We'll give you something on the detent.
+011:07:21 Duke: Roger. [Pause.]
+011:07:28 Collins: Right now it's at Closed, and I'm lined up with Closed. Before I was at Vent; and best I can recall, it was quite accurately lined up with Vent. Would you like me to go to Vent again momentarily and see where it lines up?
+011:07:42 Duke: That's negative. That question's answered. Thank you much.
+011:07:46 Collins: Okay.
+Comm break.
+This is Apollo Control. During that last transmission you heard CapCom Charlie Duke advise the crew that we are not seeing as high an O2, or oxygen flow, as we would have expected at this point. This would indicate that the enrichment of the cabin atmosphere, which was 60 percent oxygen, 40 percent nitrogen at launch and which is normally enriched with pure oxygen during the course of the flight, is not enriching as rapidly as we would expect. This could be a transducer problem - one of the devices that measures the O2 flow rate - or possibly a partial obstruction of one of the vents. The problem is not thought to be significant at this point, and we'll be monitoring the O2 flow during the night.
+011:09:52 Duke: Hello, Apollo 11. Houston. We have an S-band configuration for you. Over.
+011:10:00 Aldrin: Roger. Go ahead.
+011:10:02 Duke: Roger, Buzz. We'd like you to place the S-band antenna Omni A switch to the Bravo position. S-band antenna Omni switch to the Omni position, the High Gain track to Manual, and the High Gain angles will be yaw 270, pitch minus 50. Over.
+011:10:27 Aldrin: Roger. Understand. Omni to Baker and Omni, Manual. And the angles are yaw 270, pitch minus 50, and was that narrow or wide? Over. [Pause.]
+011:10:47 Duke: Stand by. Roger. We'd like it in Wide, and you can set that configuration up now. Over.
+011:10:56 Aldrin: It's in work.
+Comm break.
+011:13:04 Duke: Hello, Apollo 11. Houston. You can terminate the battery Bravo charge, and we'd like a crew status report. We're about to tell you good night. Over.
+011:13:14 Armstrong: Roger. Stand by.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+011:18:08 Aldrin: Houston, Apollo 11. The battery charging is complete, and the crew status report is as follows: radiation; CDR, 11002; CMP, 10002; LMP, 09003; negative medication; fit as a fiddle, over.
+011:18:33 Duke: Rog. Copy, 11. Thank you much. We'd like to ask one question. Have you tried the gas separator on the water? How is that working? Over.
+011:18:45 Aldrin: Yes. Mike's got a couple of comments on that.
+011:18:49 Collins: Yeah, it's working good so far, Charlie. We've got one installed on the water gun and the other one installed on the spigot down in the LEB, and we [break in recording] mention one problem with them is that they leak at the junction between the food bag and the water filter. However, with that exception, they seem to be working pretty good. We were getting some gas through initially, and I think that was just getting the system purged out to begin with; and the last tubeful we poured was almost free of bubbles. Over.
+One of the problems that stemmed from the use of fuel cells to make their electricity and their water was that the water supply had a large amount of hydrogen gas dissolved in it. To fix the problem, they used a gas separator, a cylindrical device about 15 centimetres or 6 inches long which was connected in series with the hose that delivered their water. Within a slotted stainless steel cylinder, there was a tube of Teflon membrane through which the water passed. The membrane was hydrophobic, whereby it allowed gas to pass through but not water, as long as the outside of the membrane was not wet. The gas could then leave through the slots in the metal cylinder. The water continued to the end of the Teflon tube where it met a steel mesh that had been treated to be hydrophilic, easily passing water but impeding the gas.
+011:19:31 Duke: Roger. Sounds good. We'll check in on that problem with the SPAN guys and let you know in the morning. If you have to call us tonight, we'd like you to do it on Down Voice Backup. We're configuring the MSFN for that mode; and as far as we can see, you're cleared for some z's. Over.
+011:19:53 Collins: Okay. Maybe we'll get around to lunch.
+011:19:57 Duke: How about a peanut butter and jelly?
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 11 hours, 29 minutes into the flight of Apollo 11. We don't expect to hear a great deal more from the crew tonight. At about 11 hours, 20 minutes we said good-night to them from Mission Control and they're beginning their sleep period about 2 hours early. The additional time available for sleep was made available by deleting the midcourse correction, the first opportunity which occurred at 11 hours, 45 minutes. That midcourse correction has been moved to Midcourse Correction 2 - to the opportunity at Midcourse Correction 2 of which would occur tomorrow. The last conversation we had with the crew, we received a status report and a report that they had taken no medication and were "fit as a fiddle". We also got a report from Mike Collins on the gas separation unit which is being flown on this flight. This consists of 2 stainless steel cylinders about 5 inches long and about an inch to an inch and half in diameter. The cylinders are attached to the water gun or to the water spigot on the food preparation panel and remove the gas from the water as it flows through the filter. The filter actually has two filters inside. One which attracts water and one which repels it, in the process removing the gas. Mike Collins reported that the filters seem to be working quite well; that the water was coming out almost free of bubbles. He did report that they had a minor problem with a leak at the junction between the food bag and the filter. Mission Control advised that we would give that some thought and try to come up with some solution to it when they wake up tomorrow. At this time, Apollo 11 is 55,522 nautical miles [102,827 km] from Earth, traveling at a velocity of 7,920 feet per second [2,414 m/s]. This is Apollo Control at 11 hours, 32 minutes.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 11 hours, 47 minutes into the flight of Apollo 11. At this time we are receiving the television data from Goldstone. The data is coming in. It will be processed here and converted, and we estimate that it will be available for playback in about 20 to 30 minutes and we will have a firm time on that as soon as possible. At the present time, Apollo 11 is 56,704 nautical miles [105,016 km] from Earth, and the velocity is 7,821 feet per second [2,384 m/s]. We've had no further conversations with the crew since we passed along a good night to them at 11 hours, 20 minutes; getting them to bed about 2 hours ahead of the scheduled time on the Flight Plan, as a result of the deletion of Midcourse Correction 1. At 11 hours, 48 minutes; this is Apollo Control.
+At about this time, eight photos are taken on mag N using the 250-mm telephoto.
+AS11-36-5341 - Earth at about 103,000 km or 56,000 nautical miles. North is left and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5342 - Earth at about 103,000 km or 56,000 nautical miles. North is left and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5343 - Earth at about 103,000 km or 56,000 nautical miles. North is left and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5344 - Earth at about 103,000 km or 56,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5345 - Earth at about 103,000 km or 56,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5346 - Earth at about 103,000 km or 56,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5347 - Earth at about 103,000 km or 56,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+AS11-36-5348 - Earth at about 103,000 km or 56,000 nautical miles. North is up and the west coast of the United States is visible with the Pacific Ocean dominating the view. Image by LPI
+Flight Plan, page 3-11.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 12 hours, 5 minutes. We expect to have the unscheduled television transmission, which came in to Goldstone, California, and was taped there and has been transmitted to Mission Control Center, ready and converted for replay in color at 8:45 pm Central Daylight Time. That would be about 7 minutes from now. The TV transmission runs for a total time of about 16 and a half minutes and is of an exterior shot out the window of the Earth. At the time of the transmission, Apollo 11 was some 50,980 nautical miles [94,415 km] from Earth. The transmission came into Goldstone at a Ground Elapsed Time of 10:32:40, and ended about 16 minutes, 16 and a half minutes later, when the spacecraft was at an altitude of 52,248 nautical miles [96,763 km]. We'll stand by for a replay of that transmission at 8:45 pm Central Daylight Time.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+012:11:xx SC: [Garble].
+012:11:xx Duke: Hello Apollo 11, Houston.
+This is Apollo Control at 12 hours, 12 minutes. We expect to be ready to release the television transmission from the spacecraft which was received at Goldstone, California. That should be ready to go in a little less than a minute.
+And we are starting to get lock-on from the tape replay and we expect that we will have a color picture shortly.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. The view that we have of the Earth disk at this time, as near as we can tell, the North Pole is to the left of the screen, the land mass that was visible was the western coast of the United States. The Earth then would appear to be rotated ninety degrees with the North Pole to the left and South America - the South American continent extending toward the upper right of the globe but not visible.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+That concludes the unscheduled television transmission. That transmission came in about 2 hours ago at a Ground Elapsed Time of 10:32:40 beginning, lasted about 16 and a half minutes. At the beginning of the transmission Apollo 11 was about 50,980 nautical miles [94,415 km] from Earth, and at the conclusion about 52,248 nautical miles [96,763 km]. At the present time, the crew is in a scheduled rest period. They did indicate before going into the rest period, when we last heard from them, that they would probably use part of the time to get a bite to eat and then get some sleep. At this time, Apollo 11 is 59,908 nautical miles [110,950 km] from Earth, traveling at a speed of 7,569 feet per second [2,307 m/s]. At 12 hours, 31 minutes; this is Mission Control, Houston.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+012:36:34 Duke: Hello, Apollo 11. Houston. I hope you aren't, - we aren't disturbing you. We'd like to terminate the Noun 65 now. Over.
+012:36:41 Collins: Roger.
+Long comm break.
+Noun 65 is sampled CMC time.
+012:46:00 Duke: Apollo 11, Houston. Over.
+012:46:05 Aldrin: Houston, Apollo 11...
+012:46:08 Duke: Roger, Buzz. When you stopped - or, correction - when you terminated the Noun 65, it appears to us, you get a Verb 46 which collapsed the deadband back to 0.5. We're okay as long as you do not turn on any Auto RCS Select switches. Over.
+012:46:30 Aldrin: Okay. I thought that was a - better way to clear the DSKY but evidently it isn't. Thank you.
+012:46:36 Duke: Roger. Verb 34 would have been a better procedure.
+012:46:41 Aldrin: Yeah. Thank you.
+Very long comm break.
+Verb 34 means 'Terminate Function'.
+This is Apollo Control at 12 hours, 47 minutes. We've just put in a call to the crew. Flight Director Gene Kranz verified with the Surgeon that they had not gone to sleep at this point, and Capsule Communicator Charlie Duke has put in a call. We'll pick up the tape of the conversation and then stand by for any following live communication with the crew.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. We don't anticipate a great deal of further conversation with the crew. We expect they will attempt to get some sleep shortly. The conversation that just ended; we advised that through one of the computer programs, the deadband, or that area of excursions which the guidance system will allow before firing the RCS thrusters to correct it, had been narrowed from 30 degrees to one half a degree. What this would mean, if the RCS jets were enabled, is that unless the crew reselected the 30-degree deadband, the jets would be firing more frequently to keep the spacecraft within the narrower limits. Since the spacecraft is very stable at this point, very few waddling motions, it was felt that the narrower deadband was acceptable, the jets are not enabled and the crew would not be disturbed by firing of the Reaction Control System jets even if the spacecraft moved out of the one half-degree deadband. In the event of any large excursions, which we would not expect, based on a Passive Thermal Control mode used in Apollo 10, it would be possible to awaken the crew from the ground and have the situation corrected. We would not expect, however, for the spacecraft attitude to change significantly during the night, and we do intend to continue in the Passive Thermal Control mode as it is presently set up. At this time, Apollo 11 is 61,509 nautical miles [113,915 km] from Earth, traveling at a speed of 7,449 feet per second [2,270 m/s] which would translate to about 5,000 miles an hour [8,000 km/h]. At 12 hours, 54 minutes; this is Apollo Control, Houston.
+Three further photos are taken of Earth whose image sizes suggest that they were taken at around 13 hours GET at a distance of about 114,000 km or 61,500 nautical miles
+AS11-36-5349 - Earth at about 114,000 km or 61,500 nautical miles. North is up. The west coast of the United States is approaching the terminator on the upper right. The Pacific Ocean dominates the view with Australia on the lower left. Image by LPI
+AS11-36-5350 - Earth at about 114,000 km or 61,500 nautical miles. North is up. The west coast of the United States is approaching the terminator on the upper right. The Pacific Ocean dominates the view with Australia on the lower left. Image by LPI
+AS11-36-5351 - Earth at about 114,000 km or 61,500 nautical miles. North is up. The west coast of the United States is approaching the terminator on the upper right. The Pacific Ocean dominates the view with Australia on the lower left. Image by LPI
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 13 hours, 27 minutes into the flight of Apollo 11. The spacecraft now travelling at a speed of 7,279 feet per second [2,219 m/s] which would be about 4,963 miles an hour [7,986 km/h], and it's at a distance of 63,880 nautical miles [118,306 km] from Earth. Our Flight Surgeon reported a short while ago that Command Module Pilot Mike Collins appeared to be sleeping soundly at this time. Biomedical data on the other two crewmen indicates that they are still awake. We've had no further conversation with the spacecraft since our last report, and it appears that the crew will be getting some good rest either as scheduled or perhaps a little earlier than scheduled in the Flight Plan. At 13 hours, 28 minutes; this is Mission Control, Houston.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+Flight Plan, page 3-12.
+This is Apollo Control at 14 hours, 6 minutes into the flight of Apollo 11. The mission is progressing very smoothly. All spacecraft systems are functioning normally at this time, and the Flight Surgeon reports that all three crewmen appear to be sleeping. For Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin, they appeared to begin sleeping about 5 minutes ago. Command Module Pilot Mike Collins has been asleep for about an additional 30 minutes to an hour. At the present time, Apollo 11 is 66,554 nautical miles [123,258 km] from Earth and travelling at a speed of about seventy thousand - or rather 7,095 feet per second [2,163 m/s], which would be about 4,800 miles an hour [7,700 km/h]. We've had no further conversation with the crew since our last report and, as I said, the - all three crewmen appear to be sleeping at this time. At 14 hours, 7 minutes; this is Apollo Control, Houston.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control; 14 hours, 25 minutes into the flight of Apollo 11. The spacecraft presently 67,819 nautical miles [125,601 km] from Earth, traveling at a speed of 7,012 feet per second [2,163 m/s]. Here in Mission Control, the shift change is in progress. Flight Director Glynn Lunney and his team of flight controllers coming on to replace Gene Kranz and his White Team. The Capsule Communicator on the upcoming shift will be Ron Evans, and we anticipate that the change-of-shift briefing for this shift will begin in about 10 or 15 minutes. At 14 hours, 26 minutes; this is Apollo Control, Houston.
+This marks the end of Flight Day 1 on Apollo 11. While the crew sleep, the Public Affairs Officer continues with occasional commentary through the night, in the next chapter.
+Day 1, part 3: Transposition, Docking and Extraction
+Journal Home Page
+Day 2, part 1: Midcourse Correction

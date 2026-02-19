@@ -1,0 +1,767 @@
+A14FJ - Day 5, part 3: Troubleshooting the LM Computer
+Day 5, part 2: Undocking Antares
+Journal Home Page
+Landing at Fra Mauro (ALSJ)
+Day 5, part 4: Kitty Hawk begins Solo Operations
+Apollo 14
+Day 5, part 3: Troubleshooting the LM Computer
+Corrected Transcript and Commentary Copyright © 2020-2025 by W. David Woods, Ben Feist, Ronald Hansen, and Johannes Kemppanen. All rights reserved.
+Last updated 2025-07-23
+Apollo 14 has reached the next phase of the lunar mission, with her crew split between the Command Module Kitty Hawk and Lunar Module Antares after successfully separating the two spacecraft. The previously worrisome docking system behaved admirably, and both crews are now working through a multitude of checklists to prepare for their next maneuvers. However, a call from CapCom Fred Haise in Houston has interrupted the work in the LM.
+Editor's note: All transcript times are presented according to the GET update at 054:53:36 that saw the mission timer moved forward 40 minutes, 2.90 seconds.
+To follow the lunar surface portion of the mission, click here for the Apollo Lunar Surface Journal.
+Flight Plan page 3-108
+Flight Plan page 3-109
+105:10:00 Haise: Okay, Antares; Houston. We'd like you to back out of that 52. We need to look at a bit here.
+Al and Ed have been performing a realignment of the Lunar Module inertial platform via Program 52 in the Lunar Guidance Computer. Haise is now requesting them to use the computer's DSKY interface for another purpose.
+105:10:10 Mitchell-LM: Roger. Do you have some PADs ready for me this pass, Fred?
+105:10:18 Haise: Okay. They're coming up in a minute, Ed. You ready to copy a couple of steps here?
+105:10:28 Mitchell-LM: Yes. Go ahead.
+105:10:29 Haise: Okay. We'd like a Verb 11 Noun 10 Enter, 30 Enter.
+Fred is making a request for the crew to access the Lunar Guidance Computer in order to review the status of part of its programming. To do so, they are coming out of Program 52 and then inputting new commands using the numeric keyboard under the seven-segment display.
+Verb 11 (Monitor Octal Component 1 in R1) Noun 10 (Channel To be Specified) Enter - command the computer to display the status of a specific data channel.
+30 Enter - Call up Channel 30.
+105:10:40 Mitchell-LM: You got it.
+Pause.
+105:11:00 Mitchell-LM: You read the DSKY, Houston?
+Instead of having the crew read out the contents of their display, Mission Control can review them via telemetry. The downlink data is updated every few seconds.
+105:11:05 Haise: Antares, Houston. What we're looking at there is the abort bit, and it looks set. And we'd like to proceed with the following to reset it.
+LM Input Channel 30.
+The Apollo Guidance Computer communicates with a number of onboard systems using dedicated data channels. Up to 15 different variables can be contained on each channel, and each of these variables has one status bit designated to them. Since a single bit's state can either be a 1 or a 0, this makes them useful for storing YES/NO and ON/Off type status information in a compact manner.
+Channel 30 brings the computer status information on several systems. Most of these status bits concern the Inertial Measurement Unit, but it also contains status bits regarding abort commands for terminating lunar descent. What Mission Control has noted in their telemetry is that Channel 30 bit 1 - "Abort with Descent Stage" has flipped from status of 1 - "Do not Abort" to 0 - "Abort". It is important to note here that Channel 30 uses inverted logic, where 0 means YES and 1 means NO.
+105:11:16 Mitchell-LM: Okay. Give me the words.
+Lower half of Commander's Panel (Panel 1) in the LM.
+Commander's Panel 1 is on the left side of the LM control console. It has a variety of displays and controls for propulsion and flight control.Prominent are the two buttons that can be used to terminate powered flight. The round 'Abort' button initiates a return to lunar orbit using the Descent Engine. Next to it is the 'Abort STAGE' button, protected under a flip cover for extra measure of security. Pressing this button automatically stages the spacecraft, separating the Ascent Stage from the Descent Stage and sending the crew on its way to orbit.
+Panel 5 on Commander's side in the Apollo 12 LM 'Intrepid', LM-6.
+Panel 5 and Panel 6 hold manual Start-Stop buttons for the LM's two engines.
+105:11:18 Haise: Okay. We need the Stop pushbutton, push. And the next thing is the Abort pushbutton, depress. And wait on that one.
+105:11:31 Mitchell-LM: Okay. Standing by on that one.
+105:11:37 Haise: Okay. I meant you can go ahead and press the Abort button, Ed; but stand by for our word on the reset.
+105:11:48 Mitchell-LM: Okay. It's set.
+105:11:51 Haise: Okay. Stand by.
+105:12:11 Haise: Antares, Houston. You can reset the Abort pushbutton.
+105:12:18 Mitchell-LM: Okay. It's reset.
+105:12:28 Haise: Okay. You can reset the Stop button - -
+105:12:30 Mitchell-LM: ..., Freddo?
+Ed speaks something on top of Fred, resulting in unintelligible garble.
+105:12:32 Haise: You can reset the Stop button now, Ed, and press on with the P52.
+Both Fred as the CapCom and the crew onboard Antares must press on with the nominal Flight Plan, despite the interruption caused by the abort bit anomaly.
+105:12:39 Mitchell-LM: Okay.
+105:12:40 Shepard-LM: Okay. Stop button is reset.
+105:12:43 Haise: Okay. And back to Kitty Hawk now. I missed the sign on your first torque angle there, Stu.
+105:12:55 Roosa: Okay. It was plus 000.30.
+105:12:59 Haise: Okay. I copy plus 00.30, minus 000.38, plus 000.28, at 105:08:40. And we need Wide Beam - aah, correction on that. We need Medium, Stu. Medium for the dump.
+105:13:25 Roosa: Okay. Read me your - the first torquing angle again, Fred.
+105:13:30 Haise: Okay. I copied plus 000.30.
+105:13:35 Roosa: Okay. That's correct. And I'm in Manual and Medium.
+105:13:40 Haise: Very good.
+Comm break.
+105:14:11 Haise: Kitty Hawk, Houston. We'd like P00 and Accept, and I got some PADs ready for your Circ.
+105:14:21 Roosa: Okay. Is that Kitty Hawk, Fred?
+105:14:23 Haise: That's affirm.
+105:14:24 Roosa: For the P00 and Accept?
+105:14:26 Haise: That's affirm. P00 and Accept, Kitty Hawk.
+105:14:28 Roosa: Okay. You have P00 and - you have P00 and Accept, Houston. I'm ready to copy PADs.
+105:14:38 Haise: Okay. Circ PAD, SPS/G&N; 36l16; minus 0.8l, plus 0.19; 105:51:48.11; plus 0070.2, plus all zips, minus 0029.6; 000, 130, 359; 0063.3, plus 0055.5; 0076.2, 0:04, 0062.9. The rest of the column N/A. Sirius and Rigel; 127, 148, 015; two jets, 16 seconds, quads B and D.
+105:16:01 Roosa: Okay, Fred. Copy Circ, SPS/G&N; 36l16; minus 0.81, plus 0.19; 105:51:48.11; plus 0070.2, all zips, minus 0029.6; 000, 130, 359; 0063.3, plus 0055.5; 0076.2, 0:04, 0062.9. Understand no sextant star; Sirius and Rigel; 127, 148, 015; two jets, 16 seconds, quads B and D.
+The PAD is interpreted as follows:
+Purpose: This PAD is for a CSM maneuver that will place it onto a higher orbit for photographing the lunar surface per the Flight Plan.
+System: The burn would be made using the large SPS (Service Propulsion System) engine at the rear of the Service Module, under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 36,116 pounds (16,382 kg).
+Pitch and yaw trim (Noun 48): -0.81° and +0.19°. These angles represent an initial direction for the gimbal-mounted engine in order to fire through the predicted centre of mass of the spacecraft.
+Time of ignition, TIG (Noun 33): 105 hours, 51 minutes, 48.11 seconds.
+Change in velocity (Noun 81), fps (m/s): X, +70.2 (+21.4); Y, 0 (0); Z, -29.6 (-9.0). The velocity components are expressed with respect to the local vertical. The large positive value for X shows that this is a prograde maneuver that speeds the spacecraft up and has the effect of raising the pericynthion to about the same height as its apocynthion and thus circularising the orbit.
+Spacecraft attitude: Roll: 000° Pitch: 130° Yaw: 359°. These attitude angles are expressed with respect to the landing site REFSMMAT.
+HA, expected apocynthion of resulting orbit: 63.3 nautical miles (117.2 km).
+HP, expected pericynthion of resulting orbit: 55.5 nautical miles (102.8 km).
+Note that this orbit is not quite circular but is deliberately elliptical. FIDO in Mission Control is compensating for the perturbation of the CSM's trajectory by the mascons. Although the effect of these gravitational irregularities is not well understood by the flight dynamics team, they hope the orbit will tend to fully circularise itself under the influence of the mascons by the time the LM ascent stage returns from the surface. Continuing with the PAD items:
+Delta-VT: 76.2 fps (23.2 m/s). This is the total velocity change required from the burn.
+Burn duration or burn time: 4 seconds.
+Delta-VC: 62.9 fps. Using its ability to independently measure acceleration, the EMS can shut down the engine in case the G&N system fails to do so. This figure, Delta-VC, is entered into the EMS's Delta-V counter (hence Delta-VC) and the value is slightly lower than Delta-VT because the EMS does not take account of the engine's tail-off thrust.
+Sextant star: Not applicable.
+GDC Align stars: Stars Sirius (number 15) and Rigel (number 12) to be used for backup GDC Align in case the IMU is unavailable for this task.
+GDC Align angles: 127°, 148° and 015°.
+A final note for the PAD is that the SPS propellants should be settled in their tanks by firing the plus-X thrusters on quads B and D for 16 seconds.
+105:16:54 Haise: Okay. That was a good readback, Kitty Hawk. And Antares, did you copy the Noun 33 and Noun 8l?
+105:17:04 Mitchell-LM: That's affirmative, but confirm the time and Delta-VZ , plus or minus.
+105:17:24 Haise: Okay, Kitty Hawk. We'd like for you to get the steerable again. Pitch, minus 86; Yaw, 251; and Aft Omni for Antares.
+105:17:42 Mitchell-LM: Okay, Freddo. Your Aft Omni. And please confirm again the sign of Delta-VZ for Noun 84.
+105:17:52 Haise: Okay. Delta-V is a minus 0029.6. LJ
+105:18:01 Mitchell-LM: Understand, minus 0029.6.
+105:18:24 Haise: Okay. And, Kitty Hawk - Kitty Hawk; Houston.
+105:18:31 Roosa: Go ahead, Houston.
+105:18:32 Haise: Okay. I got some more data here for you, map update , P24.
+105:18:41 Roosa: Okay, which one you want?
+105:18:44 Haise: Okay. Break. Aft Omni for Antares; and I got a map - map update, REV 13.
+105:18:55 Roosa: Kitty Hawk's ready to copy map update.
+105:18:57 Haise: Okay, l80 crossing at 105:51:18.
+105:19:08 Roosa: 105:51:18.
+105:19:13 Haise: Okay. Next, the P24 landmark track.
+105:19:25 Roosa: Okay. Go ahead.
+105:19:29 Haise: Okay, this is 14-1; 106:49:28, 106:54:18, 106:55:58, 106:56:46, south 2 miles.
+105:19:58 Roosa: Okay. 14-1; 106:49:28, 106:54:18, 106:55:58, 106:56:46, south 2.
+Page 3-106 of the Flight Plan includes the latitudes and longitudes/2 for four landmarks. Referring to the modern LROC maps, the first of these, target 14-1, appears to be the intersection of two craters, one of which is Fra Mauro-H. The numbers just read up are times of the various points in the P24 tracking profile. In this profile, the CSM will keep a 22° pitched down attitude, with respect to the local vertical, throughout the entire tracking pass. To achieve this, the spacecraft will make a slow pitch-down rotation with respect to its stellar inertial frame of reference, throughout the entire period. This will keep target 14-1 within the range of the sextant, even as it passes rather quickly below:
+T-1: 106:49:28 GET. This is the time when the landmark will be on the horizon. It is not the time it will be visible through the sextant optics.
+T-2: 106:54:18 GET. This is the time when the target can be acquired in the sextant and is when the CSM begins to pitch down.
+TCA: 106:55:58 GET. This is when the CSM will be closest to the target.
+T-3: 106:56:46 GET. This is the time when the target will fall out of the sextant's field of view.
+Note that at the time of the closest approach, Kitty Hawk will not be directly overhead of 14-1, but will be 2 miles to the south.
+105:20:14 Haise: Good readback.
+105:20:23 Haise: Antares, Houston.
+105:20:28 Mitchell-LM: Go ahead, Houston.
+105:20:30 Haise: Okay. I got a PDI0 PAD here for you, Ed. And would you verify your Aft Omni?
+105:20:39 Mitchell-LM: I'll verify Aft Omni, but we're doing a P52 right now. Can you hold it?
+105:20:44 Haise: Okay, we only got about 4 minutes and 18 seconds to LOS, now.
+105:21:16 Mitchell-LM: Okay, Fred. Ready to copy PDI0.
+105:21:20 Haise: Okay, and some of this is for Kitty Hawk as well. Are you ready to copy. Stu?
+105:21:29 Roosa: I'm standing by, Freddo.
+105:21:31 Haise: Okay, PDI0- ALFA: 106:47:24.57; Bravo: plus 0101.9, plus all zips, plus 0001.7, 0139.0, plus 0007.9, 0101.9, 036, 000, 288, plus 0101.8, plus all zips, plus 0002.9; Charlie: 107:48:30.00; Delta: 109:35, all zips. And the throttle profile is 10 percent for 15 seconds, 40 percent for the remainder of the burn.
+105:22:46 Mitchell-LM: Okay, readback. 106:47:24.57; Bravo: plus 0101.9, plus all zeros, plus 0001.7, 0139.0, plus 0007.9, 0101.9, 036, 000, 288, plus 0101.8, plus all zeros, plus 0002.9; 107 - this is Charlie now, 107:48:30.00; Delta: 109:35, all zeros. Throttle profile, 10 percent, 15 seconds, the remainder at 40.
+PDI PAD on page 3-112 of the Flight Plan. The box with sections A through D was filled out by Stu for the PDI0 abort.
+105:23:31 Haise: Good readback, Ed.
+105:23:37 Roosa: And Kitty Hawk copies.
+105:23:39 Haise: Roger. And Kitty Hawk, you are go for Circ.
+105:23:44 Roosa: Roger. Go for Circ.
+105:23:52 Roosa: And, Freddo, I assume you're through with the computer.
+105:23:55 Haise: That's affirm; it's your computer, Kitty Hawk.
+105:24:14 Haise: Antares, Houston.
+105:24:25 Mitchell-LM: Go ahead, Houston.
+105:24:26 Haise: Okay, before you go around the corner here, or after you go around the corner, would you select Secondary Transmitter/Receiver on the S-Band, and try us on that one when you come back around?
+105:24:39 Mitchell-LM: Was that for Antares?
+105:24:41 Haise: That's for Antares.
+105:24:45 Mitchell-LM: Okay, we'll get it going around the corner.
+105:24:48 Haise: Roger, Ed.
+105:25:03 Mitchell (onboard): Hey, Houston, clarify -
+105:25:03 Mitchell-LM: Hey, Houston. Clarify Secondary Transponder ...
+105:25:11 Haise: And, Antares; Houston. That's Secondary Transmitter/Receiver; stick on the Primary Power Amp.
+105:25:42 Roosa (onboard): Kitty Hawk, Antares.
+105:25:44 Mitchell (onboard): You're loud and clear.
+105:25:46 Roosa (onboard): Okay ...
+105:25:50 Mitchell (onboard): Okay. And you have it.
+This is Apollo Control. We've had loss of signal. Apollo 14 nearing the end of the 12 lunar revolution. Earlier in this front side pass, one of the first items was the soft undocking which occured in actual time at 104:28:01. The undocking was done in a radial direction to minimize the perdibations to the spacecraft trajectory caused by the mechanical unlinking of the two spacecrafts. Everyone was quite happy with the way the undocking took place in view of the earlier apparent problems with the probe and drogue during translunar coast. Shortly after the undocking the Lunar Module crew of Mitchell and Shephard ran through the descent propulsion system throttle checks starting at 104:40. They photographed and observed the landing site Fra Mauor and midway through this pass and Mitchell made the comment that it quote, "looks just like the map". Toward the end of this revolution, Stu Roosa was given a go for the circulization maneuver that he will make in some 24 minutes from now, the ignition clock counting down to the CSM burn which will put the command service module back into a near circular lunar orbit. That maneuver is now scheduled for a Ground Elapsed Time of 105 hour 51 minutes 48 seconds. The velocity change will be posigrade 76.2 feet per second which will raise the command service module pericynthion to 55.5 nautical miles, apocynthion as 63.3. This is biased somewhat so that at the time of rendezvous, when the Lunar Module ascends from the surface to rendezvous with the command and service module the orbit will have modified itself to near circular at 60 nautical miles. We show acquisition of signal at the start of the 13th lunar revolution in some 44 minutes now. Count down to the CSM circularization burn now 23 minutes 23 seconds. At 105 hours 28 minutes Ground Elapsed Time, this is Apollo Control.
+Flight Plan page 3-110
+Flight Plan page 3-111
+105:47:34 Roosa (onboard): Okay, Antares. How do you read on VOX?
+105:47:40 Shepard (onboard): Okay. Loud and clear.
+105:47:41 Mitchell (onboard): Loud and clear. Tape recorder's on, S-band - ...
+105:48:06 Unknown speaker (onboard): Houston, I have you locked up on the steerable.
+105:48:19 Mitchell (onboard): Okay, let me keep you honest, Al.
+105:48:31 Mitchell (onboard): I ... hold off on it until you do.
+105:48:35 Shepard (onboard): Give me about 5 seconds, Stu. I need another 5 seconds.
+105:48:41 Roosa (onboard):
+105:48:44 Mitchell (onboard): ***' Okay, Biomed *** Left, PCM *** Hi.
+105:48:50 Roosa (onboard): ... zero. Will you be ready to go at 5? Are you ready, Al?
+105:48:58 Shepard (onboard): We're ready. Go.
+105:49:04 Roosa (onboard): And you're hanging on the end of the probe. We'll wait until motions damp here, Okay. We seem real steady. I'm going to back off from you.
+105:49:18 Shepard (onboard): Okay. Very good.
+105:49:31 Shepard (onboard): Okay. We had a normal undocking, Houston.
+105:49:39 Mitchell (onboard): Okay. Deadband, Min; Verb 77; go to P00.
+105:50:15 Mitchell (onboard): Stu, are you going to be able to burn on time? Okay. We don't see you, but I guess we will when you light off.
+105:51:03 : BEGIN LUNAR REV 13
+105:51:06 Mitchell (onboard): Give us a 15-second warning if you - can, Stu.
+105:51:17 Roosa (onboard): About 35 seconds. Have 30. EMS, Normal.
+105:51:24 Mitchell (onboard): Great, we're watching. We're with you. Good; keep going.
+105:52:02 Roosa (onboard): Okay.
+105:52:03 Roosa (onboard): Shutdown.
+105:52:05 Mitchell (onboard): Gee, we sure didn't see a thing, Stuart. Oh, I just saw a flash up there. His tracking light,
+105:52:22 Shepard (onboard): Huh? See his tracking light on or something?
+105:52:31 Mitchell (onboard): Saw a couple of flashes.
+105:52:34 Shepard (onboard): Yes - -
+105:52:52 Mitchell (onboard): You have a mighty invisible engine, Stu. It didn't have anything we could see at all from here.
+105:56:45 Roosa (onboard): Okay, Ed. The burn went off. Surprisingly enough, it was 2-foot-per-second overburn; I turned it back to - to one and ...
+Flight Plan page 3-112
+Flight Plan page 3-113
+106:00:00 Mitchell (onboard): That's interesting, Stu; we never saw your burn at all; but at the same time, when you burst into sunlight, you were right ahead of us. We were pointed right at you, but we didn't see a thing.
+106:00:50 Mitchell (onboard): Stu, we ha - have your - your apogee/perigee numbers for comparison, if you'd like them.
+106:00:56 Roosa (onboard): Okay. I've got a 53.9 by 56.0,
+106:01:03 Shepard (onboard): Okay, we're showing 56.1 by 63.5.
+106:01:10 Mitchell (onboard): Good enough.
+This is Apollo Control, 106 hours 11 minutes Ground Elapsed Time. Some 52 seconds away from acquisition in this 13th lunar revolution of Apollo 14. At this time the Command Module should have circularized to about 16 nautical, leaving the Lunar Module in the 60 by 8 eliptical orbit. Upcoming on this revolution is pressurization of the descent propulsion system. Our checkout of the landing radar on the Lunar Module. Checkout of the landing point designator which is a grid device on the Commander's window which allows him to sight in on the landing point using angles given to him by the Lunar Module computer. Let's pick up air to ground now.
+106:12:41 Haise: Kitty Hawk, Houston.
+106:12:46 Roosa: Go ahead, Houston. ...
+106:12:50 Haise: Okay. You're way down in the mud, Stu. Can you get us a High Gain? Pitch, minus 71; Yaw, plus 175; and use the normal acquisition routine.
+106:13:13 Roosa: Okay. How now, Fred?
+106:13:16 Haise: Loud and clear.
+106:13:22 Roosa: Okay. The burn was on time. It was a G&N shutdown with a 2-foot-per-second overburn. I backed that off 1 foot by residuals after trimming for a minus 1.0, minus 0, plus 0.5. The attitude in which I trimmed was 353, 127, 005. CMC shows the orbit 63.9, 56.0.
+106:14:38 Haise: Okay; Kitty Hawk. The High Gain Yaw is 197 and copied burn on time, G&N shutdown; Noun 85 after trim were minus 1.0, minus 0, plus 0.5. And, you trimmed at attitude 353, 127, 005; and you ended up with a 63.9 by 56.0. And did you give a Delta-V ? c
+106:15:09 Roosa: Roger. The Delta-V^ was a minus 14.7 after - prior to trim. And, as I was cleaning up the main bus ties, it jumped around a little bit. And, after trim, it's reading a minus 12.8. It's really - doesn't figure too closely; I backed off 1 foot.
+106:15:30 Haise: Roger.
+106:16:00 Haise: Antares, Houston.
+106:16:02 Mitchell-LM: Houston, Antares. How do you read?
+106:16:04 Haise: Loud and clear. We'd like to get Quantity switch, Off.
+106:16:12 Mitchell-LM: Okay. Getting Quantity, Off.
+106:16:28 Haise: Kitty Hawk, Houston.
+106:16:53 Haise: Kitty Hawk, Houston. Go Omni Bravo. Would you relay, Antares?
+106:17:02 Shepard-LM: Roger, Ed.
+106:17:04 Mitchell-LM: Kitty Hawk, go Omni Bravo.
+106:17:11 Shepard-LM: Houston, Antares. Ready with Noun 93.
+106:17:15 Haise: Okay. Go ahead, Al.
+106:17:22 Shepard-LM: Okay. Noun 93: plus 097, plus 062, minus 013; GET, 105:26:40; LPD Cal azimuth 0; elevation, down 1 degree.
+106:17:52 Haise: Okay, Antares. Copy; Noun 93: plus 097, plus 062, minus 013; and you torqued at 105:26:40; LPD Cal azimuth 0; elevation, down 1. And I'd like to get from Ed the AGS Gyro Cal numbers 544 through 546.
+106:18:21 Mitchell-LM: Okay. You have your initial numbers don't you, Freddo?
+106:18:27 Haise: Stand by.
+106:18:39 Roosa: And, Houston; Kitty Hawk. I've started a Charge on Battery B.
+106:18:45 Haise: Roger, Stu. And, Ed, I guess we need both the initial and the final.
+106:18:52 Mitchell-LM: Okay. I'll read the initial first: 540, minus 10; 4l, plus 0; 542, plus 02; 544, minus 06; 545, minus 23; 546, minus 187. The Cal numbers: 540, minus 10; 54l, minus 1; 542, plus 2; 544, minus 07; 545, plus 0; 546, minus 16l.
+106:19:39 Haise: Okay. We copied, Antares.
+106:19:45 Mitchell-LM: Okay.
+106:20:14 Haise: Kitty Hawk, Houston. We'd like P00 and Accept.
+106:20:21 Roosa: Okay. You have it.
+Comm break.
+106:21:04 Haise: Okay. And, Antares; Houston.
+106:21:06 Mitchell-LM: Antares, We're proceeding with a DPS pressurization checkout.
+106:21:12 Haise : Okay. And, Antares, we're showing the abort bit set again, and we're working on a procedure to reset it. And, also, another procedure to lock it out after starting PDI.
+The earlier abort bit anomaly has returned. Although Fred doesn't elaborate on it at this point, his words imply that the issue is giving more consternation to the personnel in Mission Control.
+106:21:32 Mitchell-LM: Okay. That'll be great, thank you. We're pressing on with the DPS pressurization.
+106:21:55 Haise: Okay. Antares, you can go ahead with the DPS pressurization.
+106:22:02 Mitchell-LM: Okay.
+Comm break.
+106:25:41 Haise: Antares, Houston.
+106:25:49 Mitchell-LM: Go ahead.
+106:25:52 Haise: Okay. I see you're back to P00 now. We'd like to do a Verb 11 Noun 10 Enter; 30 Enter; and look at that bit again.
+Fred wants them to look into the status bits on Channel 30 again.
+106:26:08 Mitchell-LM: Okay. Verb 11 Noun 10.
+106:26:24 Roosa: Houston, Kitty Hawk. Are you through with the computer?
+106:26:26 Haise: Roger, Kitty Hawk. And, while we've got that display up, Ed, could you tap on the panel around the Abort pushbutton and see if we can shake something loose?
+106:26:54 Mitchell-LM: Yes, Houston, it just changed while I was tapping there.
+106:26:57 Haise: You sure tap nicely.
+106:27:03 Mitchell-LM: I'm pretty good at that.
+106:27:12 Haise: Okay. Antares, we'd like to kind of sit here a minute and watch it.
+106:27:21 Mitchell-LM: Okay.
+Comm break.
+Abort and Abort STAGE buttons on Commander's panel onboard Apollo 15 LM 'Falcon', LM-10.
+The abort bit situation has grown more complicated with the addition of a physical element to their troubleshooting effort. The fact that bodily manipulation of Panel 1 has reset the bit suggests that although their concerns arouse from an errand software bit, a hardware problem may be at hand.
+Flight Plan page 3-114
+Flight Plan page 3-115
+106:30:06 Haise: Antares, Houston.
+106:30:10 Mitchell-LM: Go ahead.
+106:30:11 Haise: Okay, why don't y'all proceed on, Ed, with the landing radar checkout?
+106:30:18 Mitchell-LM: Okay.
+Comm break.
+106:31:26 Haise: Kitty Hawk, Houst - Houston. Omni Bravo.
+106:32:08 Mitchell-LM: And, Freddo, standing by for my update and my PAD.
+106:32:15 Haise: Okay, Ed, I got some stuff ready. Let me check. Kitty Hawk, how you read Houston?
+106:32:28 Haise: Okay, he's way down in the mud. Antares, would you relay Omni Bravo?
+106:32:35 Mitchell-LM: Roger. Kitty Hawk, Houston likes Omni Bravo, please.
+106:32:39 Roosa: Roger. I have Omni Bravo.
+106:32:42 Haise: Beautiful.
+106:32:43 Mitchell-LM: Okay.
+106:32:44 Haise: Well, I guess you'll have to relay to - -
+106:32:45 Roosa: ... loud and clear ...
+106:32:46 Haise: - - him, Ed, if I don't get through to him. You ready for PDI?
+106:32:53 Mitchell-LM: Roger. Fred, he's reading you loud and clear, and he is on Omni Bravo.
+106:32:57 Haise: Roger. Okay, here we go. India.
+106:33:01 Mitchell-LM: I'm ready for the PAD.
+106:33:03 Haise: Roger. India.
+106:33:04 Roosa: Houston, ...
+106:33:12 Haise: And, Kitty Hawk; Houston. Try Omni Alpha.
+106:33:19 Roosa: Roger. I've just come up Alpha. How do you read me?
+106:33:26 Haise: A little better, not much. Here we go with PDI PAD. India: 108:42:27.51; 0923, plus 00004; 001, 113, 000; plus 56963. PDI early, Juliett: 113:32 all zips. PDI late; Kilo: 111:33 all zips. You ready for no PDI plus 12?
+106:34:25 Mitchell-LM: Okay, no PDI plus 12.
+106:34:26 Haise: Okay, Echo: 108:55 all zips, - -
+106:34:34 Roosa: . ..
+106:34:35 Haise: Foxtrot: plus 0111.4 - -
+106:34:38 Mitchell-LM: Okay there, Kitty Hawk.
+106:34:39 Haise: - - plus all zips.
+106:34:44 Mitchell-LM: Freddo, let's start over again.
+106:34:46 Haise: Okay. Over again on the no PDI - -
+106:34:52 Mitchell-LM: Kitty Hawk is not reading.
+106:34:54 Haise: Okay, stand by 1, Ed.
+106:34:55 Mitchell-LM: Kitty Hawk is not reading you, and he'll have to pick them up later.
+106:35:01 Haise: Okay, we'll press on then, Ed. You can relay to him. No PDI plus 12 - -
+106:35:06 Mitchell-LM: Okay.
+106:35:08 Haise: - - Echo: 108:55 all zips. Foxtrot: plus 0111.4; plus all zips; minus 00750; 01468; plus 00072.
+106:35:38 Haise: Stand by 1.
+106:35:46 Haise: And Delta-VR - -
+106:35:47 Mitchell-LM: Kitty Hawk, I'll get the ... time on ray readback.
+106:35:51 Roosa: Yes, I'm reading you now, Ed.
+106:35:54 Haise: Okay, Stu. Delta-VR, Ed: 01343 , 044 , 000 , 278; plus 01124, plus 00001, minus 00734; Golf: 111:49 all zips. Hotel: 113:32 all zips. Throttle profile, 10 percent for 15 seconds, 40 percent for the remainder. Why don't we go ahead and get the readback on those first, and then I'll give you T2 and T3.
+106:36:47 Mitchell-LM: Roger. I'll read back in the order you gave them. India: 108:42:27.51; 0923, plus 00004; 001, 113, 000; plus 56963. Juliett: 113:32 all zeros. Kilo: 111:33 all zeros. And now no PDI plus 12, Echo: 108:55 all zeros. Foxtrot: 0111.4; plus all zeros. And let's go back to Foxtrot again. That's a plus 0111.4, plus all zeros; minus 0075*0; 0146,8; plus 0007.2. 01343; 044, 000, 278; plus 01124, plus 00001, minus 00734, 11 - This is Golf: 111:49:00.00. Hotel: 113:32 all zeros. Throttle profile, 10 percent for 15 seconds; the remainder at 40.
+106:38:38 Haise: Okay, a good readback, Ed. You ready for T2?
+106:38:46 Mitchell-LM: Okay, T2.
+106:38:49 Haise: Roger. T2, Lima: 109:04:34.06. Metro: 113:32 all zips; and T2 is at PDI plus 22 minutes and 7 seconds. T3, Nectar: 110:54:25.87.
+106:39:53 Mitchell-LM: Okay, Freddo. Lima: 109:04:34.06. Metro: 113:32 all zeros. T2 dash 1 is at PDI plus 22:07. Nectar is 110:54:25.87.
+106:40:21 Haise: Okay. That was a good readback, Ed.
+106:40:28 Roosa: And, Houston; Kitty Hawk. Got all the pads.
+106:40:32 Haise: Roger, Kitty Hawk.
+106:40:59 Haise: Antares, Houston. Could you give us P00 and Data?
+106:41:26 Haise: Antares, Houston. How do you read?
+106:41:40 Mitchell-LM: Go ahead, Houston.
+106:41:41 Haise: Okay, Ed. We'd like P00 and Data, so we can start uplinking you.
+106:41:52 Mitchell-LM: Okay. Okay. You have it.
+106:42:04 Haise: Roger, Antares.
+Comm break.
+This is Apollo Control. By way of explanation of some of the discussion between the ground and the crew of Apollo 14 regarding the strange signal in the Lunar Module computer. It seems that during revolution 12, front side pass, a spurious bit in the LM guidance computer registers were telemetered to the Mission Control Center here and they showed that an abort command was issued while the computer was in program 52, which is inertial measurement unit realignment program. During program 63, 64 and 66 which are concerned with the descent and power descent and landing programs, such an electronic spook would certainly cause an unintentional abort. One cause of this spurious bit in the software program could be contamination in the abort switch itself. Meanwhile, Massachusetts Institute of Technology, prime contractor for the Apollo guidance system, has evolved a procedure for inhibiting the abort command in the primary guidance and navigation system, which in effect would tell the computer to ignore abort - or abort stage commands. Early in this revolution, revolution 13, in the front side pass, the abort command bit again showed up in the DSKY or display keyboard readouts, both onboard and here in Mission Control, but they disappeared when the crew tapped the abort switch. Standing by on air/ground for further conversation on lunar orbit 13. This is Apollo Control at 106 hours 45 minutes Ground Elapsed Time.
+Computer programmer Don Eyles filmed in the MIT's LM simulator for the official Apollo 14 mission motion picture. According to Eyles' autobiography, the scene was staged to recreate it with somewhat more decorum than the original late night events.
+The full power of the Apollo engineering machine has been put to work to figure out the issue with the abort bit. Key among them was the team of programmers at The Charles Stark Draper Laboratory, the home of the Apollo Guidance Computer working under the Massachusetts Institute of Technology in Cambridge, Mass. Engineers and programmers have been standing by. Notably among them was Donald Eyles, the leader of the programming effort on the Lunar Module computer's Powered Descent programs.
+It has been less than two hours since the abort bit problem first occurred. Since then, a preliminary solution has been developed at Draper Labs and communicated to Mission Control in Houston. Remarkably, at this point, the Public Affairs Officer's notes spoken to the radio listeners are more informative than what the crew has received yet in the way of an explanation to their issue, and how to redeem it.
+106:46:26 Haise: Antares, Houston. The computer is yours.
+106:46:31 Mitchell-LM: Okay.
+106:46:53 Haise: Antares, Houston. And don't uplink too fast; proceed on by the alarm.
+106:47:00 Mitchell-LM: Okay.
+Comm break.
+106:48:16 Mitchell-LM: Houston, Antares. The LPD altitude shows 49,000.
+106:48:24 Haise: Roger, Antares. LPD altitude, 49,000.
+106:48:33 Mitchell-LM: That's correct.
+Long comm break.
+106:53:13 Shepard-LM: Okay, I have Cone Crater, Triplet, and Doublet. They all look just like they're supposed to.
+106:53:20 Haise: Very good, Al.
+Al has spotted several of the landmarks right around their landing site.
+106:53:26 Shepard-LM: And Star - Look right down there - right straight down - -
+106:53:29 Mitchell-LM: Got them, yes, sure do.
+106:53:34 Shepard-LM: Yoo-ha! I think we'll know it next time, Freddo.
+106:53:36 Haise: Very good.
+106:53:41 Mitchell-LM: There they were right below us, big as life.
+106:55:10 Shepard-LM: Houston from Antares. The landing Sun angle looks very good for the next time around.
+106:55:16 Haise: Roger, Al.
+106:57:02 Mitchell-LM: Yes, sir. Freddo, the LNA really looks clear today
+106:57:10 Haise: Really does, huh?
+106:57:30 Mitchell-LM: Freddo, I guess you'll advise us on that abort that - when we come round next time.
+106:57:35 Haise: Yes, I'm working up a little spiel right now, Al.
+106:57:40 Shepard-LM: Okay.
+106:58:29 Roosa: Okay, Freddo. Tracking on 14-1 went real well. I trust you got the data and ...
+106:58:36 Haise: Stand by 1.
+106:59:55 Haise: Antares , Houston. We'd like you to check the Water Sep handle and make sure it's all the way in.
+Flight Plan page 3-116
+Flight Plan page 3-117
+107:00:02 Mitchell-LM: Okay, Fred, I'll get to it in just a minute.
+107:00:04 Haise: Okay.
+Comm break.
+107:01:44 Haise: Kitty Hawk, Houston. Omni Alpha.
+107:02:24 Mitchell-LM: Houston, Antares. I verified that the Water Sep handle is all the way in.
+107:02:28 Haise: Roger, Ed.
+Comm break.
+107:03:43 Haise: Okay, Antares, Houston.
+107:03:50 Mitchell-LM: Go ahead.
+107:03:51 Haise: Okay, Ed. That bit just showed up again. Wonder if you could try tapping the panel there by the Abort switch again.
+107:04:02 Mitchell-LM: Okay.
+The abort bit has been flipped for the third time, and once again Ed is recruited to try an help the situation with mechanical force.
+107:04:23 Mitchell-LM: Anything yet, Freddo?
+107:04:26 Haise: Okay, Ed. You did good work again.
+107:04:34 Mitchell-LM: Okay.
+Comm break.
+107:05:22 Mitchell-LM: Aaah - Houston, Antares.
+107:05:27 Stafford: Antares, Houston. Go ahead.
+Picking up the horn to Ed's call is Tom Stafford, the Chief of the Astronaut Office.
+107:05:32 Mitchell-LM: Hello, Tom. Do you think we're going to come up with something on this problem with the Abort button?
+Ed is understandably anxious to hear from their boss on the matter with the troublesome button. They can only linger in orbit without attempting to perform the landing for a few hours. Otherwise, not only would they miss their landing window, which depends on a great many things, they are also spending consumable resources at a steady rate and might be cutting into the water, oxygen and battery power available for their now uncertain surface stay.
+107:05:38 Stafford: Roger. We're working it right now and also MIT's working it. Needless to say, we're busy here, but we think we got a solution.
+107:05:47 Mitchell-LM: Good enough. Something - is it something like a solder ball?
+A diagram of the Abort button from the Apollo 14 Mission Report.
+Ed has come to the same conclusion as the official report into the mission. The mechanism inside the hermetically sealed button had several contacts, each of which activated a different part of the abort function when the button is pressed. The intermittent nature of the bit error, Ed's ability to reset it by tapping on the console, and the error being limited to only the guidance computer all suggest that a minuscule amount of metal contamination - the solder ball, perhaps - got loose while in space and began to float inside the switch casing. It made occasional contact with the part of the switch that delivers the Channel 30, Bit 1 flip signal to the computer. Signals to the Abort Guidance System, outgoing telemetry, and the Descent Engine did not activate, further helping to localize the issue to a single contact in the switch.
+107:05:51 Stafford: Well, we don't know yet. We got about 19 minutes until loss of signal here, so we'll have something to you before then, and we'll have some time to pick it up on the other side.
+107:06:01 Mitchell-LM: Thank you, Tom.
+107:06:02 Stafford: Roger.
+107:06:05 Slayton: Kitty Hawk, Houston.
+107:06:11 Roosa: Go ahead, Houston.
+107:06:12 Slayton: Roger. Got a map update, REV 1-4.
+107:06:22 Roosa: Okay. Go ahead.
+107:06:23 Slayton: Okay; 180 degrees, 107:49:38; LOS, 107:24:39.
+107:06:41 Roosa: Okay; 180, 107:49:38; LOS, 107:24:39.
+The Map Update PAD is interpreted as follows:
+REV 14: orbit around the Moon
+LOS: 106:24:39 - Loss of Signal
+180°: 107:49:38 - the time the CSM crosses the 180th meridian on the far side of the Moon, signifying the start of a new orbit
+AOS: - Acquisition of Signal
+107:06:47 Slayton: That's affirmative. And we have an LTC photo pad, 16. Roll, 000; pitch - -
+107:06:55 Roosa: Okay.
+107:06:56 Slayton: - - 303; yaw, 000; T-start, 108:37:36; T-stop, 108:47:43; range 1, 91-4; range 2, 91-1. Over.
+107:07:23 Roosa: Okay. LTC pad 16; 000, 303, 000; 108:37:36; 108:47:43; 91.4; 91.1. Sounds like they got the first team in down there.
+The LTC PHOTO PAD is interpreted as follows:
+Target: 16
+Roll: 0°
+Pitch: 303°
+Yaw: 0°
+T-start: 108:37:36
+T-stop: 108:47:43
+RNG1: 94.4 nautical miles
+RNG2: 91.1 nautical miles
+107:07:41 Slayton: Yes. We got the original CapCom down here today. Okay. Let me give you an LTC PAD for target 12, also.
+107:07:52 Roosa: Okay.
+107:07:53 Slayton: Okay.
+107:07:54 Roosa: Stand by just 1.
+107:07:58 Slayton: Roll, 000...
+107:07:59 Roosa: Okay. Go ahead.
+107:08:01 Slayton: Roger. Roll, 000; pitch, 162.4; yaw, 000; T-start, 108:53:29; T-stop, 108:54:29; range, 94.1. Over.
+107:08:29 Roosa: Roger. 000; 108:53:29; 108:54:29; 94.1. And I've got a question on the Hycon. This morning Bruce started to give me some procedures they wanted me to troubleshoot with. He never finished, and we never got a chance to get back together again; and I think we ought to pick out a convenient time here and run over those. I've got the camera out, and, as I get a chance, I'll try to run through the procedures.
+107:09:05 Slayton: Okay. We've got that down here in a stack we've got by - back to you momentarily on it. One correction on the range; it was 94.4.
+107:09:19 Roosa: Okay. 94.4...
+107:09:21 Slayton: Rog.
+107:09:22 Roosa: On LTC photo PAD 12.
+The LTC PHOTO PAD is interpreted as follows:
+Target: 12 (LDG LM)
+Roll: 0°
+Pitch: 162.4°
+Yaw: 0°
+T-start: 108:53:29
+T-stop: 108:54:29
+RNG1: 94.4 nautical miles
+107:09:23 Slayton: Roger.
+107:09:35 Stafford: Kitty Hawk, Houston. I tell you we're going to keep the air clear with you most of the time until LOS so we can be talking to Antares. Over.
+107:09:46 Roosa: Roger. I was thinking maybe if - can you bring up the other loop to talk to me on?
+The Manned Spaceflight Network (MSFN, pronounced as 'mis-fin') supports communications with the spacecraft via a network called GoSS - Ground Operational Support Systems. GoSS Net 1 is usually active throughout the mission and supplies the S-band communications. For the portion of the mission where there are two active spacecraft operating independently, a second network is brought up to support the LM.
+107:09:53 Stafford: Yes. Okay. We're kind of busy here. We'll see about it.
+107:10:00 Roosa: Okay. Whatever's customary.
+107:10:10 Haise: Antares, Houston.
+Fred Haise is back on CapCom duty after Deke Slayton held the watch for a while. We can speculate that Deke took over so that Fred could be instructed on what to do next about the abort bit.
+107:10:16 Mitchell-LM: Go ahead.
+107:10:17 Haise: Okay, Ed, you and Al ready to listen to some words on the abort bit business?
+107:10:27 Mitchell-LM: Roger. We sure are. And did you get our torquing angles?
+Despite the serious issue at hand, Ed has to keep talking about their standard operations, too, and the IMU realignment.
+107:10:35 Haise: That's affirm, Ed. Okay, Ed. And before I start in here, would you try tapping the panel again? The abort bit came back.
+107:10:58 Haise: Okay. You tapped it right again, Ed.
+107:11:05 Mitchell-LM: Okay.
+107:11:06 Haise: Okay. I guess you've surmised already that we have some sort of a contamination in the Abort switch. And the implications of that bit being set, I guess you also realize, means that in 63 we're going to find ourselves in P70.
+Mission Control has come to the conclusion that the abort switch is faulty, and giving out random indications of abort. Should this happen during their Powered Descent attempt to the lunar surface, the computer running Program 63, used during the early part of the landing, would interpret the abort bit as the crew wishing to abandon the landing and would initiate Program 70, the Descent Engine Abort program.
+107:11:30 Haise: Okay, so - -
+107:11:31 Shepard-LM: ..., Fred.
+107:11:33 Haise: Say again, Ed. How do you read me now, Ed?
+107:11:41 Mitchell-LM: That's affirm. We read you. Go ahead.
+107:11:43 Haise: Okay, Did you hear my last about the implications of that bit being set?
+107:11:51 Mitchell-LM: That's affirm. We understand.
+107:11:52 Haise: Okay. So, directly, I'll be giving you some - -
+107:11:55 Shepard-LM: Affirmative.
+107:11:56 Haise: Roger, Al. I'll be giving you some changes to the timeline here, whereby we'll be starting initiating PDI in PNGS, ATT HOLD, and Manual Throttle. The next consideration is if the bit sets during ullage, your procedure will be: Stop pushbutton to set and exit P63, or rather P70 in this case. And we'll have some further words on how you're to do that exit.
+This would be an emergency action done if the bit appears while the RCS thrusters are firing to settle the DPS engine propellant, but before the great engine is ignited for the landing.
+107:12:39 Shepard-LM: Okay. We understand the strategy, I believe.
+107:12:41 Haise: Okay. Then we - we got some more. Assuming we - we get by ignition, like you to copy the following procedures.
+107:12:57 Shepard-LM: Stand by 1, Fred. And, while he's getting something to write on, I understand that you're going to be looking at the - you want us to be looking at the bit during the ullage cycle?
+107:13:15 Haise: Negative, Al. You'll get the program switched to P70, which is your cue. We'll be - we'll be looking at it down here, too, to pass the word up.
+A two-digit display on the top of the crew's numbers-only computer interface shows them the currently running main program. Program 70 suddenly appearing would be their cue to make sure the engine won't try to start under the inadvert abort program.
+107:13:29 Shepard-LM: Okay. I misunderstood you. I understand. We just go to a regular 63. Okay.
+107:13:32 Haise: Okay. I just got corrected, Al. The switch to P70 would occur at ignition, at ignition.
+107:13:43 Shepard-LM: Okay. I understand.
+107:13:45 Mitchell-LM: Okay, Fred. Do I have enough room to write just in the space on my PDI chart?
+107:13:50 Haise: Stand by. Okay. You mean the timeline, Ed, or your pad?
+107:14:09 Mitchell-LM: The timeline.
+107:14:16 Haise: All right, Ed - -
+107:14:17 Mitchell-LM: ... room on the DPS burn card, Fred. Go ahead with it.
+107:14:20 Haise: Okay. The procedure is Verb 25 Noun 7 Enter; 105 Enter; 400 Enter; 0 Enter.
+Verb 25 Noun 07 Enter - (Load Component 1, 2 & 3 in R1, R2 & R3 - Channel/Flagword Operator) - this allows them to access a specific bit in the computer memory.
+105 Enter - memory address 0105 (octal) - the location of the specific bit they want to change.
+400 Enter - bit 9 = Flagword LETAbort, LETABBIT - the flagword they want to change.
+0 Enter - bit set to 0 - "Abort programs not enabled"
+Their first step in the attempt to stop the accidental abort is to write down a command that can be used to disable the abort function. This is not the same bit as Channel 30, Bit 1, which is the command to abort. The LETABBIT bit is set to 1 - "Abort programs enabled" upon the ignition of the Descent Engine, so that the descent guidance program knows to keep looking for the abort signal - the very same that is being spuriouly generated by the faulty button. By setting LETABBIT to '0' the crew tells the computer not to perform this normal function while the engine operates.
+107:14:58 Mitchell-LM: Okay. I'll read back. Verb 25 Noun 07 Enter; 05 Enter. Is it 4000 Enter? 0 Enter.
+107:15:11 Haise: Okay, Ed. It's - it's Verb 25 Noun 7 Enter. Then, 105 Enter; 400, four zero zero, Enter; 0 Enter.
+107:15:28 Mitchell-LM: Okay. Verb 25 Noun 07 Enter; 105 Enter; 400 Enter; 0 Enter. And when do I do this?
+107:15:37 Haise: Okay. You can do this as soon as you can after ignition. We're trying to get this into - before there's any chance of the bit getting set in this interval.
+107:15:52 Mitchell-LM: Okay. We have to let P63 call up normally, get ignition in ATT HOLD, Manual Throttle, and then reset the bit, hopefully, before it gets - or rather, lock out the bit, hopefully, before it gets set. Is that right?
+107:16:06 Haise: That's affirm, Ed. And, if somehow you get hung up a little further downstream, you can go ahead and throttle up manually at 26. I'd like to explain the implications of this. What we've done, then, is locked out P70 and P71, so any aborts have to be done on the AGS. And, while you got the card handle [sic] you can - I'll give you something that will reenable P70, P71.
+Disabling LETABBIT also means that should a real emergency happen during the landing attempt, the primary guidance computer will not recognize any abort signals. The backup guidance system, the AGS, would then have to live up to its name.
+107:16:39 Mitchell-LM: Okay. We understand, and go ahead with your work.
+107:16:44 Haise: Okay. It's Verb 25 Noun 7 Enter; 105 Enter; 400 Enter; 1 Enter.
+Verb 25 Noun 07 Enter - (Load Component 1, 2 & 3 in R1, R2 & R3 - Channel/Flagword Operator)
+105 Enter - memory address 0105 (octal) - the location of the specific bit they want to change
+400 Enter - bit 9 = Flagword LETAbort, LETABBIT - the flagword they want to change.
+1 Enter - bit set to 1 - "Abort programs enabled"
+This command would reverse the earlier input, and reenable abort functions in the LM computer.
+107:17:00 Mitchell-LM: Okay. Readback: Verb 25 Noun 07 Enter; 105 Enter; 400 Enter; 1 Enter. That's all straightforward enough.
+107:17:09 Haise: Okay, Ed. Once we're by that initial disabling step, we got it made. We'll comment that if, in the process of your keying that in, the abort bit sets, we'll be in P70; and, if that happens, we need the same as before ignition; we'll need to stop button set and exit the program, and we'll try it on the second pass.
+107:17:39 Mitchell-LM: Okay. Are you going to give me the words on exiting now?
+107:17:43 Haise: Okay. They're still - they're still working on that - Right. And, Antares; Houston.
+107:18:01 Mitchell-LM: Go ahead.
+107:18:02 Haise: Okay. Assuming we get through the disabling procedure, after that time you can go back to Auto on the Throttle and the MODE CONTROL switch.
+107:18:18 Mitchell-LM: Understand, Freddo. Thank you.
+107:18:20 Haise: Okay. One other word. The same holds for any surface NO STAY. The abort there would have to be on AGS.
+Should a catastrophic failure threaten the newly landed LM, requiring the crew to return to orbit right away, this too would have to be performed using the AGS' more rudimentary control system.
+107:18:33 Mitchell-LM: Understand, Fred.
+107:18:34 Haise: Okay.
+107:18:36 Shepard-LM: Roger. We understand. Sounds like you all have been busy down there.
+Comm break.
+107:19:48 Fullerton: Kitty Hawk, Houston.
+107:19:57 Roosa: ...
+107:19:59 Fullerton: Stu, I have some more words on the topo camera that may help a little. We've got about 5 minutes left to - to get the - these in if you're ready to discuss it.
+107:20:24 Roosa: Okay, Gordon. Stand by just 1. Let me copy down my COAS Cal here.
+107:20:28 Fullerton: Okay.
+107:20:35 Roosa: It'll keep. Go ahead. Tell me what I ought to do.
+107:20:39 Fullerton: Okay. By way of general discussion, evidently by recreating the noise here on the ground, the only way that we can recreate the noise is by causing a DC power current limit problem to the camera. An indication on board there that this is - that would really verify that it's a DC power problem would be a flickering power-on light while - while you're getting that clacking sound. But, any rate, the consensus here is that, when the camera is making the clacking sound, you're not getting good pictures. I believe you got the - about five steps about checking the panel 227 cable, and for pin damage, and reconnecting and switching the Nonessential Bus to MAIN A. Is that correct? Did you get those steps? And over.
+107:21:53 Roosa: Gordon, you dropped out. Are you with me?
+107:21:56 Fullerton: Roger, Stu. Where did I drop out?
+107:22:02 Roosa: Okay. Both from you and Bruce, all I've got is to check the pins and the connections to see if things look all right and - and that's as far as I've gotten with either one - Oh, and to switch the Nonessential power to the other Bus.
+107:22:19 Fullerton: Okay. That's all we can do to try to improve the DC power problem. However, if you have time to verify that it's not a camera shutter being out of sequence - out of synchronization, you could shut the shutter to l/200th, and remove the magazine, and visually examine the shutter curtain inside to see that the slit in the shutter curtain is within 1 inch from one of the side rails, either side. And, at that time, examine the sprocket area from visible tears in the shutter curtain sprocket holes. After checking, if it is on one side, reinstall the magazine - and use magazine W for this - and actuate one single frame, and remove the magazine, and check that the slit is still positioned over to the side. If the slit is remaining in the center, then the camera shutter is completely out of sync and the camera is essentially unusable. Is that clear? Over.
+107:23:45 Roosa: Yes, I believe I've got that, Gordon. I'll put in magazine W, l/200th, and I guess fire a frame; remove the magazine, look at the slit, see if it's an inch from the side rail; then I guess I'll see some sprockets in there. And then if it is 1 inch, I'll put the magazine back in, fire another frame, check that the slit is still there. If it's out in the center somewhere, well then, we've got big problems.
+107:24:13 Fullerton: Okay. We're just about to LOS. If this looks okay, then prepare the camera according to the normal procedures. Set the mode switch to Auto, and do not use standby position. Just start the camera by turning the power on while the switch is in Auto.
+This is Apollo Control, we've now had loss of signal with the Command Module Kitty Hawk...
+107:24:41 Fullerton: And, Stu, one last thing. If the clacking starts, turn the power switch off and then back on, and that may stop it.
+Spacecraft communicator Gordon Fullerton attempting to continue talking to the spacecraft apparently did not hear network sing out we've had lost of signal. During the latter portion of that front side pass the Lunar Module crew will have passed up to them the procedure whereby they can bypass the spurious bit in the Lunar Module computer, which could and would cause an abort during power descent. Essentially, what it amounts to is considerable amount of stroking of the keyset of the DSKY to enter numbers into the LM guidance computer. Verb 25 Noun 07 etc. which in... would disable program 70 which is descent propulsion system abort and program 71 which is ascent propulsion system abort. If we do this after ignition on a normal P63 your program 63 but before they throttled up beyond 10 percent which occurs about 20 seconds - 26 seconds after ignition. Having locked out program 70 and 71, abort could not be made on the primary guidance system, but on the secondary guidance system in the LM the abort guidance system as it's called AGS. We're still some 40 minutes 56 seconds away from acquisition of the Lunar Module again on rev 14. The last rev before landing. And, 44 minutes 11 seconds away from acquisition of Command Module Kitty Hawk. At 107 hours 27 minutes Ground Elapsed Time this is Apollo Control.
+107:48:03 : BEGIN LUNAR REV 14
+This is Apollo Control 107 hours 45 minutes Ground Elapsed Time. Apollo 14 spacecraft now separated into Lunar Module, Antares, and Command Module, Kitty Hawk. Now behind the Moon nearing the start of the 14 revolution. There's about 21 minutes until the Lunar Module appears from behind the Moon and is picked up by the ground tracking stations and 25 minutes until the Command Module is again picked up. To recapitulate the current situation with the LM guidance computer, the problem first cropped up during revolution 12 on the front side pass, when a spurious bit or number or digit cropped up in a readout on the ground, telemetered to ground from the spacecraft in the LM guidance computer. This spurious bit or electronic spook showed that an abort command was issued while the computer was in program 52. Which, in program 52, is actually an inertial measurement unit realinement. Had it been during an engine maneuver where the engines had been ignited, either say in power descent or another phase of the mission involving thrusting, the abort command would have indeed affected the engines. However, in the platform alignment, such as P52, it did nothing other than just show up on the registers on the displays here in mission control. But also on the DSKY or the display keyboard in the spacecraft cabin. During program 63 and 64 and 66, the three programs which are used for the power descent and landing on the lunar surface, such an electronic spook would cause an unintentional abort which is highly undesireable in this mission. Contamination in the abort switch itself is a suspected cause of the indication. Massachusetts Institute of Technology who is prime contractor for the Apollo Guidance System, has evolved a procedure for inhibiting the abort command in the primary guidance and navigation systems which in effect would tell the computer to ignore abort or abort stage commands. Essentially, this procedure as submitted by MIT is a series of numbers which would be entered into the computer by the Lunar Module Pilot after power descent ignition of the descent propulsion engine. He would have all these numbers to enter into the computer prior to the time of throttle up beyond 10 percent of myout power, which is about 26 seconds. The numbers would in effect disable the abort program which is program 70 on the case of descent propulsion engine and program 71 on the ascent propulsion. It would lock out these two programs , however, an abort further on down into the descent phase could only be made on the abort guidance system and not on the primary guidance system. Twice in the just completed revolution 13 front side pass, the abort command bit or electronic spook again showed up on the DSKY onboard and again here in the control center where DSKY readouts are available from telemetered displays. Again, the abort command bit disappeared when the crew tapped the abort switch. That, in affect, summarizes the current situation with the mysterious abort signal cropping up in the Lunar Module computer. We're now 17 minutes 3 seconds away from acquisition of Antares, 20 minutes 25 seconds away from acquisition of Kitty Hawk as they come around on their 14 lunar revolution. The network is conducting test through various tracking stations before we have acquisition. And at 107 hours 50 minutes Ground Elapsed Time, this is Apollo Control.
+Flight Plan page 3-118
+Flight Plan page 3-119
+This is Apollo Control 108 hours 6 minutes Ground Elapsed Time. Coming up on the start of REV 14 in the mission of Apollo 14. We've got about 46 minutes, as you were, 42 seconds until acquisition of signal with Lunar Module Antares and about 4 minutes even until Command Module Kitty Hawk comes over the hill. All the displays here in the front of Mission Control have been changed from the lunar orbit tracking chart, to the XY plotter type of presentations for the descent phase. Ignition for the powered descent phase of Lunar Module descent to the surface will be at 108 hours 42 minutes 27.5 seconds. We have had acquisition of the Lunar Module. We'll standby for any conversation as they come over the hill. Ignition countdown clock now showing 34 minutes 44 seconds to PDI ignition.
+108:08:17 Haise: Antares, Houston.
+108:08:22 Shepard-IM: Go ahead, Houston.
+108:08:26 Haise: Okay. Read you loud and clear. And we got some more procedures to pump up that are going to alter what you already copied, and Ed might ought to get something a little bigger than the DPS card to write this down.
+108:08:48 Shepard-LM: Okay, stand by. Let's get locked up on the main lobe first.
+108:08:51 Haise: Okay.
+108:09:11 Shepard-LM: And in the meantime, do you still read me?
+108:09:14 Haise: Roger, Al.
+108:09:19 Shepard-LM: Okay, ASCENT BATs went on at 108:01:45.
+108:09:27 Haise: Roger. 108:01:45.
+108:09:36 Shepard (onboard):
+108:09:38 Mitchell (onboard): Okay.
+108:09:38 Shepard-LM: And Noun 93's as follows: plus 40, minus 52, minus 16.
+108:09:48 Haise: Okay. Copied plus 40, minus 52, and minus 16.
+108:09:56 Shepard-LM: That's right. ..., GET 107:08:30.
+108:10:03 Haise: 107:08:30.
+108:10:15 Haise: Okay, Antares; Houston. And, before we start here, the bit is set again; could you - You still there, Antares?
+The abort bit has appeared for the fourth time.
+108:10:49 Shepard-LM: Okay, I believe we're locked up now, Houston.
+108:10:56 Haise: Okay, Antares; Houston. If you get locked up there, you might just stay in SLEW.
+108:11:07 Shepard-LM: Okay, and we're locked up in Auto TRACK, now.
+108:11:11 Haise: Okay. I don't know if you heard, the bit appeared to be set again, and we need you to rap on the panel again by the Abort button.
+108:11:43 Haise: Okay, Antares. The bit is reset. And, are you still reading now?
+108:11:53 Shepard-LM: That's affirmative.
+108:11:54 Haise: Okay, Al. The - the reason for the - some changes I'm ... to feed you up on the procedure is, we found, in the interim of time around the backside there, a little slicker way of doing this. And what it does is allows us to start PDI in the right configuration, switchwise. And, we can make an entry before we get to ullage or ignition that will get by that problem area.
+Both the Draper Labs team and the Lunar Guidance Computer people in Houston have managed to crash simulated Lunar Modules while testing the initial hack, prompting them to seek a better solution that also deals with some unforeseen problems with their attempt to make the computer ignore the abort bit.
+108:12:29 Shepard-LM: Sounds very good. Go ahead; we're ready.
+108:12:39 Haise: Okay. And in the interim here, Antares, could you give us P00 and Data, so we could start getting the uplinks - in?
+108:12:47 Shepard-LM: Okay. You have P00 and Data.
+108:12:52 Mitchell-LM: And, Fred, I am having to stay on the Omnis. I'm ... the S-Band ANTENNA circuit breaker.
+108:12:58 Haise: Okay, Ed. The first is after P63 selected and you're to Noun 92, which, in the time line, is right up - correction Noun 62 which is right after your Enter at minus 4 minutes.
+108:12:40 Shepard-LM: [Garble.]
+108:13:44 Haise: Okay, Antares. I've got a lot of static in the background here. How do you read?
+108:13:50 Mitchell-LM: Loud and clear. Keep going.
+108:13:52 Haise: Okay. After the Enter and check DET, Ed; we need a Verb 21 Noun 01 Enter; 10 10 Enter; 107 Enter.
+Verb 21 Noun 01 Enter - (Load Component 1 in R1 - Address to be specified)
+10 10 Enter - memory address 1010 -location of the MODREG routine
+107 Enter - select Program 71 (decimal 71 = 107 in octal)
+Closeup on the display section of the DSKY computer user interface, used on the Apollo Command Module and the Lunar Module.
+Located on the upper right corner of the DSKY is a small two-number display which is used to tell the crew which of the computer's many primary programs is running at present. This display receives this information from a piece of a program called MODREG. The MODREG routine mostly handles this crew interface update duty, but also occasionally supplies this information to some other programs and routines in the Apollo Guidance Computer, when these pieces of program need confirmation on whether certain other program is running or not. This function of the computer will now be used in a remarkable manner to ensure that the abort bit will not be accidentally triggered. At the center of this is MODREG, which, with the Verb 21 Noun 01 command can be ordered to display a false number to the crew - and to a particular routine inside the computer.
+A flowchart of the R11 Abort Discrete Routine, and how the MODREG hack affects its function.
+As we have previously considered, the abort function is a crucial part of guidance duties for the Apollo computer. Hence, during the lunar landing, the computer constantly makes sure that the crew has not indeed decided to abandon powered descent. The three descent programs - P63, P64 and P66 perform such a check four times a second whenever these programs are running. This check is performed by a small subroutine called R11, or the "Abort Discrete Monitor Routine". Routine 11 first checks whether aborts are allowed (the status of the LETAbort flag the crew has already learned to disable) in the first place. It will then perform a check of MODREG to see whether Program 70 - the DPS Engine Abort or Program 71 - the APS Engine Abort are running. (This will be of importance very soon!) R11 will also see if the already sadly familiar abort bits on Channel 30 have been flipped by the crew pressing the Abort or Abort STAGE buttons. If none of these checks reveal an abort in process, the routine will start again.
+However, as Don Eyles and his team has realized, Routine 11 offers them the best solution to the spurious abort bit issue. Since R11 is responsible for checking if this possibly false bit is present or not, manipulating R11 gives them a chance to disable the abort system for good. A key feature of R11 is that if it detects an abort in process - by reading MODREG and seeing that one of the programs is already present, or it sees the abort bits, which would then make R11 initiate either of the abort programs as requested by the crew. After R11 has called an abort, it terminates itself, since once an abort is in progres, a new one cannot be commanded.
+This is where the MIT team used the relationship of R11 and MODREG to their advantage in a remarkable piece of hacking. A sure way to turn off the R11, which would respond to abort calls from astronauts and solder balls alike would be to make the routine think that an abort is already in process. To do so, it would have to believe that either P70 or P71 is already running. Considering that R11 received this information from MODREG, this meant that by changing the value of MODREG from the abort-enabling Program 63 to one of the abort program themselves, this would turn off the progam. Since MODREG was mostly used for crew display purposes, they could change its contents without creating too much of a problem with the flow of programming logic in the computer.
+108:14:25 Mitchell-LM: Okay, Fred, I understand. After P63 is Noun 9 -Noun 62. At about 4 minutes, we want to Enter Verb 21 Noun 1; 101 Enter; 107 Enter.
+108:14:41 Haise: Antares, Houston. Correction on your readback. It's Verb 21 Noun 01 Enter; 10 10 Enter; 107 Enter.
+108:14:57 Mitchell-LM: Roger; got you. 10 10 Enter; 107 Enter.
+108:15:04 Haise: Okay, that's correct. From there on, you can follow the nominal procedures through ignition. After ignition - -
+108:15:16 Mitchell-LM: Okay -
+Lunar Module Timeline Book, Page 5 - Powered Descent Initiation preparation with handwritten instructions.
+108:15:19 Haise: Okay. After ignition at plus 26 seconds on the - on page 6, we need Manual Throttle, up. And, so you don't misconstrue what I'm saying, we're - we had this Auto switch in Auto, but we're going to manually override it to Full Throttle at 26 seconds.
+108:15:42 Mitchell-LM: Okay. We understand that at ignition plus 26, we will Manual Throttle up, overriding the Auto.
+108:15:50 Haise: That's correct.
+108:15:53 Mitchell-LM: Okay -
+Lunar Module Timeline Book, Page 6 - Powered Descent Initiation with handwritten instructions.
+108:15:54 Haise: Okay. After we - after we get by Throttle UP, it's Verb 25 Noun 07 Enter; 101 Enter; 200 Enter; 01 Enter. And this will enable guidance and give you steering at that time.
+Verb 25 Noun 07 Enter - (Load Component 1, 2 & 3 in R1, R2 & R3 - Channel/Flagword Operator)
+101 Enter - memory address 0101 (octal)
+200 Enter - bit 8 = Flagword ZOOMFLAG
+01 Enter - bit set to 1 - "Throttle up and start guidance"
+The earlier MODREG hack was quickly revealed to cause a dangerous - and LM simulator - crashing - side effect upon implementation. The spacecraft would avoid an accidental abort, but instead could be destroyed by an uncontrolled burn. This is apparently due to Program 63 being unable to receive the command to initiate landing guidance while the MODREG hack is in place. To get past this, yet another bit will have to be flipped, this time one located in octal memory address 0101. Bit 8 in that address, called ZOOM, has the responsibility of commanding the DPS engine to full throttle after a specified time - 26 seconds on this occasion. At T+26, with the engine running at 10% throttle, it is ZOOM that sends a command appropriately named FLATOUT to the program to crank up the engine to maximum power. Simultaneously, the ZOOMFLAG is set to tell the computer that the engine has indeed been throttled up, and Program 63 can start guiding them towards the lunar surface.
+108:16:26 Mitchell-LM: Okay. Understand after Throttle up, we Enter Verb 25 Noun 7; 101 Enter; 200 Enter; 01 Enter. And this enables guidance steering and - at that point.
+108:16:43 Haise: Roger. Okay the next entry. Verb 25 Noun 07 Enter; 105 Enter; 400 Enter; 0 Enter.
+Verb 25 Noun 07 Enter - (Load Component 1, 2 & 3 in R1, R2 & R3 - Channel/Flagword Operator)
+105 Enter - memory address 0105 (octal).
+400 Enter - bit 9 = Flagword LETAbort, LETABBIT
+0 Enter - bit set to 0 - "Abort programs not enabled"
+In this new, extended manipulation of the computer, this is the place for the previously described command to lock out the LETABBIT bit that comes on at ignition and subjects them to the false abort signal.
+108:17:10 Mitchell-LM: Okay. Understand Verb 25 Noun 07 Enter; 105 Enter; 400 Enter; 0 Enter. And then it looks like our procedures you gave us earlier.
+108:17:21 Haise: That's right, Ed. This'll disable P70, P71. Okay, the next entry: Verb 21 Noun 01 Enter; 10 10 Enter: 77 Enter.
+Verb 21 Noun 01 Enter - (Load Component 1 in R1 - Address to be specified)
+10 10 Enter - memory address 1010 -location of the MODREG routine.
+77 Enter - Select Program 63 (decimal 63 = 77 in octal)
+This final entry to the computer reverses the earlier Verb 21 Noun 01 input and changes the contents of MODREG so that it begins to display the correct program number at the DSKY, and allows MODREG-referencing programs to use it as well when required.
+108:17:48 Mitchell-LM: Okay. Verb 21 Noun 01 Enter; 10 10 Enter; 77 Enter.
+108:17:59 Haise: Okay. This gets us in the P63 and the mode REG which is - gets us right for landing radar. Now, the same words apply if an abort requirement exists. We're going to be on the AGS. And one thing maybe I didn't make clear before, is the procedure for reenabling P70 - P71. You're not to perform, unless you do abort on AGS.
+108:18:38 Mitchell-LM: Roger. Roger. Understand that we will if - in the abort situation, we will abort on AGS and use the reenable procedure previously given up.
+108:18:51 Haise: Okay. And the only other thing I can say is, as you already know, be sure and get Manual Throttle up at 26; and after the last entry, Ed, add one more thing; we need Throttle to Minimum setting.
+108:19:13 Mitchell-LM: Okay. Got that. The last entry we return to the Commander's Throttle to Minimum setting.
+108:19:19 Haise: That's affirm. Antares, Houston. We'd like Forward Omni.
+108:19:24 Shepard-LM: Hey, let me just recheck one -
+108:19:30 Mitchell-LM: Antares. You have Forward Omni.
+108:19:33 Haise: Okay. I'm sorry I cut you out. Say again, Al.
+108:19:40 Shepard-LM: Let me recheck one thing with this new procedure. You want us to have the Throttle Control in Auto and Commander's Throttle to MAX to override to full throttle at 26 seconds?
+108:19:53 Haise: That's affirm. And also the Mode Control switch to PNGS in Auto.
+108:20:00 Shepard-LM: All right, sir. Fine.
+108:20:04 Mitchell-LM: Freddo, we need a few words on what you want to do with this S-band. I don't think you can fight it all the way down. Can we go with the Omni?
+108:20:13 Haise: Stand by, Ed.
+108:20:27 Mitchell-LM: And, Freddo, one more question. Does this procedure, now, stay ... until such time as we get the dip aids [sic] the abort disable to feed in, or do we still need to rush right along to get that in?
+108:20:42 Haise: Ed, this procedure is good as long as we can get by the first entry with the bit not set. That is, the entry at - right after you get Noun 62. If you get that in with the bit not set, we're in good shape.
+108:21:01 Mitchell-LM: Okay. Is the bit not set now?
+108:21:08 Haise: That's affirm. The bit is not set now.
+108:21:14 Mitchell-LM: Okay. And I'm standing by to switch - Omni antenna.
+108:21:43 Shepard-LM: Houston, are you through with the computer?
+108:21:50 Haise: Antares, Houston. The computer's yours.
+108:21:55 Shepard-LM: Okay.
+108:22:16 Mitchell-LM: Houston, our Voice Backup is giving us a hell of a squeal.
+108:22:23 Haise: Go ahead, Antares.
+108:22:28 Mitchell-LM: I say our Voice Backup position of the Updata Link switch is giving us quite a squeal. You ready for us to go to Upvoice and Backup now?
+108:22:40 Haise: Okay. Stand by 1, Ed.
+108:22:58 Haise: Okay, Antares. They're configured. Now, you can try it one more time, Ed.
+108:23:05 Mitchell-LM: Okay. ...
+108:23:07 Haise: Roger.
+108:23:10 Haise: Kitty Hawk, Kitty Hawk, Houston. How do you read?
+108:23:31 Haise: Kitty Hawk, Houston. How do you read?
+108:23:37 Roosa:
+108:23:38 Haise: Okay, you're way down in the mud, Stu. We're getting an awful lot of noise. We're going to drop the downlink - we're going to drop your downlink; and, if you call, call two times, so we can get it cranked back in here.
+108:23:54 Roosa: Okay.
+108:24:03 Haise: And - Antares; Houston.
+108:24:09 Mitchell-LM: Go ahead.
+108:24:10 Haise: Okay. And, since we dropped Kitty Hawk here, we're not going to be in that relay mode for this period; so, you probably won't get an answer from him, if you call him at 2 minutes.
+108:24:25 Shepard-LM: Okay.
+108:24:26 Haise: Okay. I've got your downlink.
+108:24:28 Shepard-LM: Okay. ... How do you read in VOX, Houston?
+108:24:37 Haise: Okay, Al. You're about 2 by 2.
+108:24:43 Mitchell-LM: Okay. How do you read, Ed?
+108:24:45 Haise: Okay, Ed. You're about 3 by 3 there. You're still getting a lot of background static in.
+108:24:54 Mitchell-LM: Okay - -
+108:24:55 Haise: Okay. Now, you're loud and clear.
+108:24:56 Mitchell-LM: - - Here's your Verb 83 coming up. Very good.
+108:25:10 Mitchell-LM: Yes, that looks good, 317, looks good; 383, that looks good. Let's go to 277, that looks good. Great. All right, I can start loading the AGS PAD, now. 231, plus 56963; 6963. 240 is the same, plus 56963.
+108:25:45 Shepard-LM: 8254.
+108:25:48 Mitchell-LM: 8254 plus 05428.
+108:25:52 Shepard-LM: Right.
+108:25:53 Mitchell-LM: 05428.
+108:25:56 Shepard-LM: Very good. 6l, plus 00037.
+108:26:00 Mitchell-LM: 00037, 6l, 00037 Enter. - -
+108:26:07 Shepard-LM: 62 minus.
+108:26:10 Mitchell-LM: 62 minus.
+108:26:13 Shepard-LM: 00147.
+108:26:14 Mitchell-LM: 000147 - 62, minus 00147.
+108:26:19 Shepard-LM: Right. 404.
+108:26:22 Mitchell-LM: 04.
+108:26:24 Shepard-LM: Minus 12345.
+108:26:25 Mitchell-LM: Minus 12345.
+108:26:29 Mitchell-LM: Okay. That's entered. Let me run back through them very quickly.
+108:26:40 Shepard-LM: Right
+108:26:41 Mitchell-LM: Verb 31 read-out 56963. That's good. 240 readout, 56963. That's good. 254 read-out - Check me on these - plus 5 - 05428.
+108:26:49 Shepard-LM: Go.
+108:26:50 Mitchell-LM: 6l read-out, plus 00037.
+108:26:55 Shepard-LM: That looks good.
+108:26:56 Mitchell-LM: 262 read-out, 900147.
+108:27:01 Shepard-LM: Okay.
+108:27:03 Mitchell-LM: And 404 is a large negative number. It's 12345.
+108:27:07 Shepard-LM: Okay.
+108:27:09 Mitchell-LM: That's good. Okay. Let's try it - -
+108:27:11 Shepard-LM: Anything on minus 10?
+108:27:14 Mitchell-LM: Okay. We're a little ahead of time.
+108:27:18 Shepard-LM: Okay. I think, Houston, what we'll do just before we enter on the final trim is to call you to see if the bit is set at that time. Do you concur?
+108:27:33 Haise: Okay. It - it doesn't matter, Al. You can go ahead and make the enter and make the first entry at that time, after you get Noun 62 up.
+108:27:47 Shepard-LM: Okay. But we seem to be fairly successful at resetting by tapping; so, if it shows prior to that time, then let us know.
+108:27:54 Haise: Okay.
+108:28:05 Mitchell-LM: Then, let me read this. At 4 minutes, that goes in, ignition plus 26 Manual Throttle.
+108:28:10 Shepard-IM: All right.
+108:28:11 Mitchell-IM: I'll put these other calls in ust as quick as I can get them in.
+108:28:15 Shepard-LM: Yes. One right after the other. I'll tell you what's going on.
+108:28:18 Mitchell-LM: Okay.
+108:28:19 Haise: Antares, Houston.
+108:28:23 Shepard-LM: Go ahead.
+108:28:24 Mitchell-LM: Go ahead.
+108:28:26 Haise: Okay. I see you're already past that point, and we need the throttle to - Throttle Control to Auto.
+108:28:35 Mitchell-LM: Okay. We're - we'll - we'll get it - when we've got it on our checklist, Fred. We're not quite there yet.
+108:28:40 Haise: Okay, Ed. And one other thing - -
+108:28:42 Mitchell-LM: Go ahead and change our DPS burn?
+108:28:44 Haise: - - the value of 231 has changed, Ed; so, we need you to reload 231 and 240 with the following number: plus 56978. That's an update to your RLS.
+108:29:03 Mitchell-LM: Roger. 56978, Clear 231; 56978, Enter; 40, plus 56978, Enter. Okay, Fred. They are in.
+108:29:25 Haise: Roger, Ed.
+108:29:30 Mitchell-LM: In Auto COMMANDER. Auto again.
+108:29:45 Shepard-LM: It went through without ... down to the point where we check out Abort and Abort STAGE, RESET. DEAD BAND MIN, ROT Control 3.
+108:29:57 Mitchell-LM: Okay. Did you get your circuit breaker to gimbal ACT?
+108:29:59 Shepard-LM: Yes. They - they're all set.
+108:30:01 Mitchell-LM: Okay. Let me check mine then. ...
+108:30:04 Shepard-LM: I already checked yours.
+108:30:05 Mitchell-LM: Okay.
+108:30:09 Shepard-LM: Okay. PGNS and PGNS Auto and AGS Auto. Now, push button to RESET..okay ...
+108:30:36 Mitchell-LM: Okay, how far down on the DPS configuration card now down to - -
+108:30:40 Shepard-IM: There.
+108:30:41 Mitchell-LM: - - down to there. Okay.
+108:30:44 Shepard-LM: Through - we're through with that card.
+108:30:47 Mitchell-IM: Okay.
+108:30:49 Shepard-LM: Back on this one?
+108:30:50 Mitchell-LM: Rog. We have 10 minutes.
+108:30:51 Shepard-LM: Standing by for the landing radar.
+108:31:20 Shepard-LM: I'm a little early here.
+108:31:24 Mitchell-LM: Fred, if you're going to give me any words on the antenna operation, I'd appreciate them very soon.
+108:31:35 Haise: Okay, Antares. The Omni is Go.
+108:31:41 Mitchell-IM: Okay. We're going on Omni in 10 minutes; give me circuit breaker Landing Radar, closed. Check the Altitude Transmitter.
+108:31:52 Shepard-LM: Okay. It's closed. And the Velocity Transmitter is reading 4.0, and the Altitude Transmitter is reading 4.0.
+108:31:58 Mitchell-LM: Okay. Let's call P63.
+108:32:01 Shepard-LM: Let's do!
+108:32:13 Shepard-LM: {Humming)
+108:32:27 Mitchell-LM: It looks like it's about 1 second off. Right on. Okay, timer's set. It's right on.
+108:32:37 Shepard-LM: Okay.
+108:32:40 Mitchell-IM: Okay. And we're looking for Noun 63; go ahead.
+108:32:44 Shepard-LM: Hold on.
+108:32:56 Shepard-LM: Okay, your DPS burn card is all complete.
+108:33:28 Haise: Antares, Houston.
+108:33:33 Mitchell-LM: Go ahead, Freddo.
+108:33:34 Haise: Okay, somewhere down a little past 10 minutes, Ed, we're going to need to switch to Aft Omni. We'll try to give you a call on it.
+108:33:44 Mitchell-LM: Okay, if I hear it, I'll switch - If I hear it start to break up, I'll switch it, unless you'd rather I wait for the call.
+108:33:52 Haise: Okay, you can go ahead and initiate it on your own, Ed. I think that'll work out better.
+108:33:59 Mitchell-LM: Okay.
+108:34:03 Shepard-LM: Okay, the FDAI, Go. 111 and about -
+108:34:21 Mitchell-LM: Trim?
+108:34:22 Shepard-LM: FDAI looks good. We'll zero the CDUs.
+108:34:25 Mitchell-LM: Okay.
+108:34:30 Shepard-LM: Your zeroes in?
+108:34:31 Mitchell-IM: Roger. Standing by.
+108:34:40 Shepard-IM: Your zeros complete.
+108:34:42 Mitchell-IM: Okay.
+108:34:43 Shepard-LM: 400 to plus 30,000.
+108:34:44 Mitchell-LM: It's entered.
+108:34:46 Shepard-LM: 410 to plus all zeros.
+108:34:53 Mitchell-LM: 410 to plus all zeros is entered.
+108:34:55 Shepard-IM: 400 to plus 10,000.
+108:34:57 Mitchell-LM: Plus 10,000 is entered.
+108:35:01 Shepard-LM: ...
+108:35:02 Mitchell-LM: It went in. We have needles.
+108:35:03 Shepard-LM: Get a read-out at 433, at your pleasure.
+108:35:08 Mitchell-IM: Okay. 433 inertial velocity.
+108:35:14 Shepard-IM: Okay, we're sitting on final trim, waiting 4 minutes
+108:35:24 Shepard-LM: Got a Verb 21 Noun 01, 10 10 and a 107 is your first ball.
+108:35:30 Mitchell-LM: Okay. Have it there, and I've got it there. Good enough.
+108:35:50 Shepard-LM: Okay, we're starting now with 96 upon A and [garble] on B. (Cough) Real good. ...
+108:36:16 Mitchell-LM: Hey, Al, your RCS system looks set.
+108:36:19 Shepard-LM: Ascent helium 1 and 2 look good. B tanks still good. And the star track is good.
+108:36:29 Mitchell-LM: EPS system is good. ECS, all indications are normal
+108:36:34 Shepard-LM: Okay.
+108:36:36 Mitchell-LM: We're ready.
+108:36:40 Shepard-LM: ... A minute and 50 seconds away from final trim.
+108:36:46 Mitchell-IM: Okay.
+108:36:50 Shepard-IM: A minute there.
+108:36:53 Mitchell-LM: All right.
+108:37:09 Shepard-LM: Okay. We'll go into final trim 30 seconds early. It'll allow you to get that -
+108:37:14 Mitchell-LM: Okay.
+108:37:16 Shepard-LM: Then?
+108:37:25 Shepard-LM: Let me do the final trim, and then you can take it over.
+108:37:27 Mitchell-LM: Okay. Good.
+108:37:31 Shepard-LM: Rather have me put it in?
+108:37:32 Mitchell-LM: No, I've got it. I just wanted to adjust this lock - locking ... still reach.
+108:37:40 Shepard-LM: Okay.
+108:37:42 Mitchell-LM: Oh?
+108:37:45 Shepard-LM: ...
+108:37:46 Mitchell-LM: Hold onto there. Do it? Says we're there, and we are.
+108:37:53 Shepard-LM: Hold it. Hey, are you ready?
+108:37:55 Mitchell-LM: I'm ready. Enter.
+108:37:58 Shepard-LM: A Enter.
+108:38:02 Mitchell-LM: It'll look this ... comes up.
+108:38:13 Mitchell-LM: Okay, there it is.
+108:38:14 Shepard-LM: Noun 62s Verb 21, Noun 01 Enter, 10 10, Enter; 107, Enter.
+108:38:29 Mitchell-IM: Okay, Houston. It's in.
+108:38:37 Haise: Roger, Antares.
+108:38:40 Shepard-LM: And - Antares is standing by for a PDI Go.
+108:38:54 Haise: And, Antares; Houston. You're Go for Fra Mauro.
+108:39:00 Shepard-LM: Good show, Freddo. Thank you.
+This momentuous all-clear is only made more poignant by the fact that the Go is given by the very man who was supposed to be walking on that same landing site less than a year previously, for Apollo 13.
+108:39:03 Mitchell-LM: Thank you. You troops do a nice job down there - -
+108:39:05 Shepard-LM: That was beautiful.
+108:39:14 Mitchell-LM: Hey, if you watch us reset, we'll flip the page.
+108:39:18 Shepard-LM: Let's go.
+108:39:19 Mitchell-LM: Okay.
+108:39:28 Shepard-LM: .. .
+108:39:30 Mitchell-LM: Okay. All procedures are normal from here on in except the 26. I actuate the Manual Throttle to Full on my side.
+108:39:37 Shepard-LM: That's correct. I'll start reentering the DPS after you have throttled up.
+108:39:42 Mitchell-LM: Okay.
+108:39:45 Shepard-IM: Won't have guidance until after I give it to you, after ... Okay.
+108:39:55 Shepard-LM: We covered everything on that last one?
+108:39:58 Mitchell-LM: Yes, sir.
+108:40:03 Mitchell-LM: At 10 feet per second, we ...
+108:40:11 Shepard-LM: You're breaking up to me. Would you run your sensitivity up a little?
+The Antares is now mere two minutes away from initiating the powered descent. They will touch down at 108:55:14.
+The surface portion of the mission can be followed in the Apollo Lunar Surface Journal.
+Day 5, part 2: Undocking Antares
+Journal Home Page
+Landing at Fra Mauro (ALSJ)
+Day 5, part 4: Kitty Hawk begins Solo Operations

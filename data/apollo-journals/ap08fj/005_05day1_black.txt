@@ -1,0 +1,416 @@
+A8FJ - Day 1: The Black Team
+Day 1: The Maroon Team
+Journal Home Page
+Day 1: The Green Team
+Apollo 8
+Day 1: The Black Team
+Corrected Transcript and Commentary Copyright © 2002-2025 by W. David Woods, Frank O'Brien and William Smeaton. All rights reserved.
+Last updated 2025-02-21
+In Houston, it is the twenty first of December, 1968, and half an hour before midnight. It is 05:30 GMT on the 22nd. In terms of distance, Apollo 8 is about a third of the way to the Moon and its crew are the first humans to see a true portrait of their home planet, as a sphere sitting out in space.
+The commander of the mission, Frank Borman, is catching a few hours of poor quality sleep which began two and a half hours after it was supposed to. He took a sleeping pill at about 12½ hours GET. His crewmates, Command Module Pilot Jim Lovell and Lunar Module Pilot Bill Anders, are trying to keep the noise and bustle in the spacecraft down so as not to disturb him. Meanwhile, in the MOCR (Mission Operations Control Room) at Mission Control, Houston, Flight Director Glynn Lunney has just taken charge of the mission and has brought his "Black Team" to the consoles. At the CapCom console is Jerry Carr. Other major team members are as follows:
+Flight Activities Officer (FAO):
+Ted A. Guillory
+Operations & Procedures (O&P):
+Larry W. Keyser
+David F. Nicolson
+Flight Dynamics Officer (FIDO):
+Jay H. Greene
+Guidance Officer (GUIDO):
+Kenneth W. Russell
+Retrofire Officer (RETRO):
+Charles F. Deiterich
+Guidance, Navigation & Control (GNC):
+John A. Kamman
+Neil B. Hutchinson
+Electrical & Environmental Control Systems Officer. (EECOM):
+Seymour A. Liebergot
+Thomas R. Loe
+Just before the shift change, Jim had explained how it was difficult to spot the dimmer navigational stars in the spacecraft's scanning telescope. This is a unity-power, movable instrument mounted opposite the spacecraft hatch. One of these stars, Navi, also known as Gamma Cassiopeiae, would be used with the telescope to align the backup gyro system if their main attitude reference system were to fail. In support of this possibility, a test of the scanning telescope's visibility was planned to occur soon, once Jim had realigned the spacecraft's gyroscopically stabilised guidance platform. Mission Control are bringing the test forward in light of Jim's comments and they have given him an attitude to manoeuvre to that should bring Navi to the centre of the telescope's field of view, assuming he has centred the movable optics first.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+016:38:10 Lovell: Houston, Apollo 8.
+016:38:15 Carr: Apollo 8, Houston. Go.
+016:38:17 Lovell: Roger. We're at that attitude right now. I'm looking through the scanning telescope. I can barely see any stars at all, and every time that the thruster will fire, you know, just completely blanks out my vision.
+016:38:35 Carr: Roger, 8. Understand. [Pause.]
+016:38:43 Lovell: Now the attitude is good, Houston, as far as not having glare in the optics, and it might be a certain amount of dark adaptation is required here. [Pause.]
+016:39:01 Carr: 8, Houston. Roger. Copy.
+Very long comm break.
+Navi is near the north celestial pole. Since the flight is occurring near the winter solstice, the Sun is in line with the constellation Capricornus (which is south of the celestial equator and about as southerly as the Sun gets in the year). When looking at Navi, the optics should be well clear of major glare sources.
+Lovell, from the 1969 Technical Debrief: "There's been a lot of discussion concerning what you can see through the scanning telescope as far as recognizing stars and constellations. During the early part of the flight I could not see anything through the scanning telescope that I could recognize, for instance - a constellation. I could see several stars, but I couldn't pinpoint them because I didn't know the surrounding stars. As long as we did not move the spacecraft around, got some distance from the Earth and its light, it was possible to see constellations in the scanning telescope. Several factors are involved here. One, of course, is that you must become dark-adapted. You must be dark-adapted before you can see stars. When you first look through the scanning telescope, you see nothing but blackness. A second factor is the spacecraft attitude with relationship to the Sun and/or the Earth and the Moon. When we're close to the Earth and we're maneuvering near the Earth, there's enough reflected light in the scanning telescope to make stars not visible in the scanning telescope. This is very similar to earth orbital flights. As we moved away from the Earth, about halfway between the Earth and the Moon or a little bit less, it was very easy to see constellations or stars in the dark areas of the sky. As soon as we got close to the Sun, then Sun shafting was very noticeable, and light in the sextant was noticeable and the stars are washed out. Then we had to rely on the auto optics to pinpoint the proper star, which we could easily see in the sextant. I had no problem in almost any attitude seeing stars in the sextant, the bright ones. But I did have a hard time identifying the stars in the scanning telescope."
+Jim carries out the fourth realignment of the IMU platform which is completed at about 016:49. To summarise, Jim aims the sextant at two stars, first Navi and then Polaris and he makes a mark at each. The computer knows where these stars should be and, through Jim's marks, where they appeared to be relative to its platform. It can then calculate how far the gimbals that support the platform should be torqued to achieve perfect alignment.
+The computer also gives Jim a check of the accuracy of his sightings. It compares the angle between Jim's marks with the known angle between the stars. An answer of zero means Jim's work has been perfect and that is exactly the result in this case.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 16 hours, 48 minutes, 32 seconds now into the flight, Apollo 8. The Apollo 8 spacecraft at this time: 76,800 nautical miles [142,200 km] in altitude; our velocity now down to 6,489.6 feet per second [1,978.0 m/s]. We've had a brief conversation with the Apollo 8 spa - crew, and we'll play that for you now.
+That was Command Module Pilot Jim Lovell who had - was describing results of his star visibility exercise. At 16 hours, 50 minutes into the flight, still looking good; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+017:08:57 Carr: Apollo 8, Houston. [No answer.]
+017:09:15 Carr: Apollo 8, Houston. Over. [No answer.]
+Comm break.
+017:10:29 Carr: Apollo 8, Houston. Over. [No answer.]
+017:10:32 Comm Tech (Goddard): Houston, Goddard Voice. Negative Quindar keys.
+Long comm break.
+Quindar keys are the short tones from the CapCom position that are used to signal to the remote ground station when to send Houston voice to the spacecraft. There is a permanent radio carrier up to the spacecraft but it is not considered desirable to permanently route Houston voice on this uplink, given the interference and other chatter that can be on that line. The Quindar keys, or tones, perform this switching.
+Jim is about to start his second navigation exercise, though it will be the first to produce true navigation results. The earlier results were used to determine how accurately Jim was marking on Earth's indistinct horizon. Program 23 in the computer is used for this exercise.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+017:13:33 Carr: Apollo 8, Houston. Over.
+017:13:36 Lovell: Go ahead, Houston. Apollo 8 here.
+017:13:41 Carr: Apollo 8, this is Houston. I've got a new PTC attitude for you when you finish P23. Give you a better look at the Earth. Over.
+At 012:06:27, Bill pointed out to Mission Control that as they turned slowly in the barbecue mode, they didn't get much opportunity to see Earth.
+017:13:53 Lovell: Roger. Ready to copy.
+017:13:55 Carr: Okay. Pitch, 224; yaw, 20.
+017:14:09 Lovell: New PTC is pitch, 224; yaw, 20.
+017:14:13 Carr: Affirm.
+Comm break.
+017:15:53 Lovell: Houston, Apollo 8.
+017:15:55 Carr: Apollo 8, Houston. Go. [Long pause.]
+017:16:01 Comm Tech (Honeysuckle): Houston Comm Tech, Honeysung - Honeysuckle. Negative Quindar keying.
+017:16:28 Carr: Apollo 8, this is Houston. Over. [No answer.]
+017:16:42 Carr: Apollo 8, Apollo 8, Houston. Over. [No answer.]
+017:16:58 Carr: Apollo 8, Apollo 8, Houston. Go ahead.
+017:17:04 Lovell: Roger. We're taking our time going to this new P23 attitude; going to Navi is quite a ways away from the attitude we need for P23. I have a correction to make on 20 - on Navi, after getting dark adapted; you can pick out Cassiopeia and you can pick out Navi itself. It's difficult to see what stars are around. We still have quite a bit of particles that are floating with the spacecraft, especially when we move the optics and shaft. It seems to throw off a lot of particles.
+The exterior appearance of the sextant is of a rotating disc with a slit across it. As the shaft axis of the instrument is rotated, the disc rotates also. The sideways movement of the trunnion axis is accommodated along the slit. As Jim rotates the shaft, particles are coming away from the area of the disc, probably around its circumference.
+017:17:43 Carr: Roger. We copy that. What's your spacecraft lighting situation inside now?
+017:17:53 Lovell: We have the center window - the round window covered, and we have - the other windows are open.
+017:18:04 Carr: Roger, 8. Copy.
+Long comm break.
+The centre window directly opposes the Lower Equipment Bay where Jim uses the optics. It is the window he needs to cover most to keep the LEB dark and his eyes adjusted.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 17 hours, 19 minutes, 58 seconds now into the flight, Apollo 8. Apollo 8 now at an altitude of 78,339.1 nautical miles [145,083.7 km]. 78,339.1 nautical miles away from the Earth. Its velocity at this time, 6,383 feet per second [1,946 m/s]. We've had a conversation with Jim Lovell aboard the spacecraft and we'll play that now. Jerry Carr as you heard passed along new Passive Thermal Control attitudes. Passive Thermal Control, this the barbecue mode, slow roll that the spacecraft undergoes to give even Sun distribution to the skin of the spacecraft. Also, you heard a description from Jim Lovell on his efforts in the star sighting area. Otherwise, very quiet; this the only conversation we have had in the past 20 minutes or so. At 17 hours, 23 minutes, 54 seconds; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+017:24:15 Carr: Apollo 8, Houston.
+017:24:20 Lovell: Go ahead, Houston.
+017:24:21 Carr: Apollo 8, Houston. While you're maneuvering for your P23, we have an update for Delta-H for you if you're ready to copy. [Pause.]
+Conventionally, in Apollo, H means height and usually height of spacecraft from the ground. Delta-H implies change of height. Jim is unsure what is intended in giving him this information.
+017:24:38 Lovell: Roger. Stand by. [Long pause.]
+017:25:02 Lovell: Roger, Houston. You say you have a Delta-H update for us? Just what do you mean?
+017:25:07 Carr: Roger. Delta-Horizon update.
+This crew originally trained for a mission that would include a Lunar Module and a rendezvous. In this context, the term "Delta-H" has an entirely different significance. This update is not planned so it is not surprising Jim has to query what it means.
+When Jim carries out his navigation sightings using P23 in the computer, he measures the angle between Earth's horizon and a star. However, Earth's horizon is indistinct and he cannot clearly define where the actual surface of Earth is, so he marks on where he feels he can find a repeatable transition. His first set of marks helped Mission Control determine how far above from the surface he was marking, a figure called Delta-H and estimated at 18.2 kilometres. Prior to the flight, the computer had been preloaded with a distance of 32.8 km based on simulations Jim had taken part in at Massachusetts Institute of Technology. Mission Control want Jim to update the computer with the new value for Delta-H.
+017:25:13 Lovell: Roger. Go ahead.
+017:25:16 Carr: This is as a result of your P23 calibration; the update follows: Verb 24, Noun 01, Enter 1354, Enter, all balls, Enter, 21450, Enter; comments: continue to mark on the horizon definition that you've used previously. Your marks are looking very good.
+017:25:56 Lovell: Roger. Delta-H update as follows: Verb 24, Noun 01, Enter, 1354, Enter, all zeros, Enter, 21450, Enter. Understand those are two octal numbers.
+017:26:17 Carr: That's affirmative; both octal.
+To interpret the instructions Jim has been given; Verb 24, means load a value from the keyboard. This value is Noun 01 which means a specific address in memory should be specified. 1354, 00000 is the memory location to be addressed, 21450 is the value for Delta-H, given as an octal number.
+017:26:25 Lovell: Roger. When do we get the maneuvers here? I'll go out of [P]23, and I'll put these in; then I'll continue.
+017:26:31 Carr: Okay. [Long pause.]
+017:27:17 Carr: Apollo 8, Houston. There's no requirement for you to leave P23; you can enter those right now if you want to.
+017:27:29 Lovell: Roger.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control, Houston; 17 hours, 36 minutes, 45 seconds now into the flight, Apollo 8. The Apollo 8 spacecraft now at an altitude of 79,761 nautical miles [147,717 km]; velocity at the present time, 6,329 feet per second [1,929 m/s]. We've just had another conversation with Jim Lovell and we'll pass that along now.
+Apollo Control, Houston. That concluded the conversation. We did observe on our displays that Jim Lovell did punch in his Delta-Horizon update and at last report was proceeding with his program 23 cislunar navigation. Incidentally our current weight of the spacecraft in flight now reads 63,045 pounds [28,597 kg]. At 17 hours, 39 minutes, 50 seconds into the flight; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+017:49:25 Anders: Houston, are we in low bit rate now?
+017:49:33 Carr: Apollo 8, Houston. You're in high bit rate.
+017:49:38 Anders: Roger. We'd like to record you this P23 stuff.
+017:49:43 Carr: Okay. [Pause.]
+017:49:49 Anders: How about commanding low bit rate, Record, Forward.
+017:49:53 Carr: Roger. Low bit rate, Record, Forward. [Long pause.]
+017:50:25 Anders: Alright, Houston. Have you sent those commands yet?
+017:50:28 Carr: Apollo 8, Houston. They have been sent.
+017:50:32 Anders: Alright, Roger. Thank you. I'm on the other side, too lazy to go over and get it.
+Comm break.
+Rather than operating the DSE (Data Storage Equipment, the voice and data recorder carried onboard) himself, Bill gets the flight controllers in Houston to do it for him remotely.
+017:52:09 Carr: Apollo 8, Houston. We'd like to go back to high bit rate in order to get this P23 data recorded. Over. [Long pause.]
+017:52:36 Anders: Our checklist says low bit rate, Houston. If you want high, you can have it.
+017:52:40 Carr: Roger. We're going high bit rate.
+017:52:46 Anders: Okay.
+Very long comm break.
+Bill and Jim are probably working from page G-28 (or perhaps G-31) in the CMP checklist. Prior to commencing the P23 procedure, there are a number of items to check. As Bill says, this includes ensuring the DSE is in LBR (Low Bit Rate), Record and Forward. With the recorder started, we begin to get onboard conversations recorded.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+017:53:25 Lovell (onboard): How's that, sports fans? All balls.
+017:53:42 Anders (onboard): As soon as you've got an audience, you do great.
+Each time Jim makes a successful measurement of the angle between Earth's horizon and a star, the computer calculates a state vector. It then compares this with the spacecraft's current vector and calculates the difference between the position and velocity indicated by each. If Jim's marks are giving a state vector that describes the same trajectory as the ground, we would expect the computer to return values of zero. This appears to be what prompts Jim's "All balls." remark, the crew's term for showing a row of zeros in a display.
+The computer is then made to display a measured angle and the time of measuring so the crew can record it.
+017:53:52 Lovell (onboard): 14640.
+017:54:04 Lovell (onboard): Time.
+017:54:06 Anders (onboard): 17:53:19.36, got it.
+017:54:15 Borman (onboard): How many markings for this set is that?
+017:54:21 Lovell (onboard): There's three stars and three marks per set.
+According to the Flight Plan, for the first star (number 22, Regulus in Leo), Jim is to take three sets of marks making that nine marks in total. For the second star (number 16, Procyon in Canis Minor), he is to take two sets which represents another six marks.
+017:54:24 Anders (onboard): That's three for that second - that's the same star, second set, third set of marks. And then you've got...
+017:54:29 Lovell (onboard): Do I have six marks, total?
+017:54:32 Anders (onboard): You got six marks, total. You need three more on this same star, right?
+017:54:34 Lovell (onboard): Yeah, okay. There's the third one, there.
+017:54:42 Anders (onboard): Okay.
+017:54:43 Lovell (onboard): Okay, I got...
+017:55:08 Lovell (onboard): Okay, I go three?
+017:55:49 Anders (onboard): Oh - you on hold?
+017:55:51 Lovell (onboard): Yeah.
+017:55:52 Anders (onboard): 18 and 3, huh?
+017:55:56 Lovell (onboard): Yeah.
+017:56:07 Lovell (onboard): 74645.
+017:56:11 Anders (onboard): Okay.
+017:56:14 Lovell (onboard): Okay. 17:55:38?
+017:56:20 Anders (onboard): Right.
+017:56:39 Lovell (onboard): 3.
+017:56:40 Anders (onboard): 3.
+017:58:21 Anders (onboard): You in hold?
+017:58:22 Lovell (onboard): Hold.
+017:58:34 Anders (onboard): 8 and 1.
+017:58:35 Lovell (onboard): Right.
+017:58:36 Anders (onboard): Got it.
+017:58:43 Lovell (onboard): 74655.
+017:58:46 Anders (onboard): Got it.
+017:58:52 Lovell (onboard): 17:58:19.
+017:58:56 Lovell (onboard): Got it.
+017:59:14 Lovell (onboard): 3.
+017:59:17 Anders (onboard): 3.
+018:00:35 Lovell (onboard): Oh, oh.
+018:00:47 Anders (onboard): Three zeros, okay?
+018:00:56 Anders (onboard): 12662.
+018:00:58 Lovell (onboard): Right.
+018:01:01 Lovell (onboard): Okay.
+018:01:06 Anders (onboard): It only went down 17. Wait a minute.
+018:01:10 Lovell (onboard): What's that?
+018:01:12 Anders (onboard): It only went down 17 - 17, 18, 00, 23, 00. Okay?
+018:01:23 Lovell (onboard): Okay.
+018:01:25 Anders (onboard): Now I get this.
+018:01:27 Lovell (onboard): Proceed.
+018:01:30 Lovell (onboard): Okay, new star?
+018:01:31 Anders (onboard): New star, number 22.
+Evidently, Jim has marked on Procyon first, and is now moving on to Regulus.
+018:01:35 Lovell (onboard): Okay, what is it, 22, star - what's the code after it?
+018:01:40 Anders (onboard): It doesn't say.
+018:01:45 Lovell (onboard): Yeah, 00120 - 1, 2, 0.
+018:01:48 Anders (onboard): Which way are you going to be going? Far horizon?
+018:01:51 Lovell (onboard): Yeah, it'll be at the same horizon.
+018:01:55 Anders (onboard): Too close to gimbal lock?
+018:01:58 Lovell (onboard): Yeah, 03. It won't be a far move, though. 21 plus 22, Enter; proceed; that should be a zero.
+Jim should 'automaneuver' to an attitude suitable for getting Regulus and Earth in the sextant. He may be deciding whether he should do it manually instead as he does not want to take the spacecraft's attitude into a region where gimbal lock can occur.
+Gimbal lock is a notoriously difficult concept to explain. In short form, it is what happens when the axes of the inner and outer gimbals that support the guidance platform line up. If this occurs, the gimbal system loses its ability to separate rotations of the spacecraft from the platform, leaving the latter no longer able to maintain its constant attitude in space. If this were to occur, Jim can realign the platform - not a problem when there is plenty of time available.
+With the automaneuver capability, the computer should ensure they avoid gimbal-lock attitudes.
+018:02:16 Lovell (onboard): Auto?
+018:02:18 Anders (onboard): Let's... No, why don't you Proceed? Let's see where it's going to take it.
+Bill appears eager to see if the computer will achieve the automaneuver. "Proceed" will instruct the computer to start the spacecraft turning.
+018:02:31 Anders (onboard): Okay, we're - Pitch 123, yaw 305 - Oh, we're getting right under it [probably means the gimbal-lock region].
+018:02:38 Lovell (onboard): Yes. All set?
+018:02:40 Anders (onboard): Okay, CMC and Auto [settings required before an automaneuver].
+018:02:43 Lovell (onboard): Okay.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 18 hours, 3 minutes, 5 seconds now into the flight, Apollo 8. Apollo 8 at the present time, 81,340 nautical miles [150,642 km] in altitude. Current velocity reading via our displays, 6,247.4 feet per second [1,904.2 m/s]. We've had a brief conversation with Jim Lovell which we'll play now.
+We have a correction - that gentlemen onboard the spacecraft was not Jim Lovell. That was in fact Bill Anders, the Lunar Module Pilot. We're at the time in the Flight Plan now when Frank Borman should be awakened shortly. However, this will probably turn out to be a crew option. At the present time, Jim Lovell is still performing certain aspects of his cislunar navigation program. That's program 23. So at 18 hours, 5 minutes, 2 seconds into the flight of Apollo 8; this is Apollo Control, Houston.
+018:03:12 Lovell (onboard): Okay.
+018:03:13 Anders (onboard): Okay, we're there.
+018:03:14 Lovell (onboard): Okay. How's that? [Garble] zero off.
+018:03:52 Anders (onboard): 70645.
+018:03:57 Lovell (onboard): What was that, again?
+018:03:58 Anders (onboard): 70645. Trunnion?
+018:04:01 Lovell (onboard): Okay
+018:04:33 Anders (onboard): 18:04:34.72. [Garble] with something right, here.
+018:04:46 Lovell (onboard): I got 03. Okay?
+018:04:47 Anders (onboard): Yeah.
+018:05:06 Anders (onboard): 3.
+018:05:07 Lovell (onboard): 3.
+018:06:52 Lovell (onboard): 18 was... Go ahead.
+018:06:56 Anders (onboard): 1898, trunnion.
+018:07:19 Lovell (onboard): What - what the other [garble]. Is this the third one or the fourth one?
+018:07:24 Anders (onboard): The third one was - 31...
+This is the end of the DSE recording. It also marks where Frank feels awake enough to participate in the flight. However, he has woken up from his poor sleep feeling unwell. He vomits twice, has a bout of diarrhea and the episode is making the interior of the spacecraft particularly smelly and uncomfortable. Two excellent books that deal with Frank's illness, Genesis: The Story of Apollo 8 by Robert Zimmerman and A Man On The Moon by Andy Chaikin, discuss this episode further, describing how Jim and Bill chase after floating vomit and feces and how Bill became fascinated by the physics displayed by the blobs of vomit in front of him.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+018:09:15 Carr: Apollo 8, Houston.
+018:09:20 Borman: Go ahead, Houston.
+018:09:22 Carr: Apollo 8, Houston. Do you want us to turn off your DSE for you? It's probably about half full. We're getting good high bit rate down.
+018:09:31 Borman: Do you want to get the rest of this data?
+018:09:34 Carr: We're getting good high bit rate down.
+018:09:39 Borman: Roger. Go ahead.
+018:09:41 Carr: Okay. And, also, we're - your state vector is now based on about 5 hours of tracking. We have you on a pericynthion of 69.7 miles with a free return. Your entry flight path angle looks like about minus 14. You will need only a few feet per second to get you back on a nominal entry angle. [Long pause.]
+If the spacecraft were to continue coasting, making no further changes to its trajectory, Houston calculate that they would be whipped around the Moon, passing only 69.7 nautical miles (129.1 km) above its surface, and return to Earth. Upon reaching the home planet, their flight path would meet the atmosphere at an angle of minus 14°. Such an angle is fatally steep, and the desired entry angle is 6.5 degrees. Fortunately, by adding just a few feet per second to their velocity, something that can be done with the RCS thrusters, Apollo 8 can be put onto a path with a less steep entry angle.
+018:10:43 Carr: Apollo 8, Houston. Did you get the words on the state vector? [Long pause.]
+018:11:14 Borman: Houston, did you read? Apollo 8. We got a lot of noise.
+018:11:20 Carr: Apollo 8, Houston. Go ahead. [Long pause.]
+018:11:30 Lovell (onboard): Are we in...
+018:11:32 Anders (onboard): We're in hold, you want to go.... What you want, Auto?
+018:11:36 Lovell (onboard): No, no, just [garble].
+018:11:40 Borman: Houston, Apollo 8.
+018:11:41 Lovell (onboard): [Garble.]
+018:11:43 Carr: Apollo 8, Houston. Go. [Pause.]
+018:11:45 Borman: Roger; we lost you when you started talking about the....
+018:11:54 Carr: Apollo 8, this is Houston reading you fairly weak. I'll repeat the state vector information. Your state vector is now based on 5 hours of - more than 5 hours of tracking. We show you on a pericynthion of 69.7 [nautical] miles with a free return with an entry path flight angle of minus 14 degrees. Will only need a few feet per second at the lunar distance to get you back on a nominal entry angle. Over.
+018:12:31 Borman: Roger. Copy.
+018:12:33 Carr: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+018:22:15 Borman: Houston, Apollo 8.
+018:22:18 Carr: Apollo 8, Houston. Go. Reading you weak, but clear.
+018:22:22 Borman: Roger. Our sighting schedule is complete, and I'm maneuvering to PTC attitude.
+018:22:28 Carr: Roger. Copy.
+Very long comm break.
+AS08-16-2599 - Earth, at a calculated altitude of 152,800 km (based on photo analysis). Antarctica is to the right and Audtralia is conspicuous right of centre. The Indian subcontinent is to the lower left.
+AS08-16-2600 - Earth, at a calculated altitude of 152,800 km (based on photo analysis). Antarctica is to the right and Audtralia is conspicuous right of centre. The Indian subcontinent is to the left.
+Based on careful measurement of Earth's image, it appears that two photographs of the planet are taken about now. Direct comparison of the two show no discernable rotation of the planet, indicating that they were taken at about the same time.
+With the P23 complete, the spacecraft is manoeuvred to an attitude side-on to the Sun and made to roll at one revolution per hour.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 18 hours, 25 minutes, 45 seconds now into the flight, Apollo 8. We've had additional conversations with the Apollo 8 crew, and we'll pass those along now.
+This is Apollo Control. We've had no definite indication yet from the crew as to change of shift on their sleep/wake cycle. However we suspect that at this point in time Command Module Pilot Jim Lovell and Lunar Module Pilot Bill Anders are just about ready for their sleep period. They were awakened at the Cape this morning at 2:36 Eastern Standard Time. It's been a long day. It's been a day that so far has carried them to an altitude of 82,867 nautical miles [153,469 km]. Our velocity reading at this time; 6,169.7 feet per second [1,880.5 m/s]. At 18 hours, 29 minutes, 5 seconds into the flight; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+018:42:03 Borman: Houston, Apollo 8. Over.
+018:42:05 Carr: Apollo 8, Houston. Go.
+018:42:09 Borman: Roger. I'm at the PTC maneuver now. I'd like a systems status from you; how do the batteries looks and how the fuel cells look and et cetera. Over.
+Frank is asserting his Commander's prerogative to be constantly informed about the status of his ship. It doesn't appear that this kind of status update was written into the Flight Plan. After they arrive in lunar orbit, Frank will insist that an update is given every revolution.
+018:42:23 Carr: Roger. [Long pause.]
+018:43:21 Carr: Apollo 8, Houston.
+018:43:24 Anders: Go ahead.
+018:43:26 Carr: Apollo 8, this is Houston. We figure battery B will be charged in about 2 to 3 hours. All your systems look Go; your RCS usage so far is about 60 pounds [27 kg], six-zero pounds over nominal. Over.
+Their high RCS consumption was caused by the additional manoeuvering they did to evade the S-IVB third stage.
+018:43:45 Anders: Roger. How about fuel cell 2; is that looking all right now?
+018:43:50 Carr: Roger. Fuel cells are all looking good.
+Four hours ago, Bill and Ken Mattingly in the MOCR had discussed how Fuel Cell 2 was running a little hot.
+018:43:54 Anders: Okay. We're going to have two of us hit the hay now and one man minding the store so you might have everybody keep an extra sharp eye on [garble].
+018:44:09 Carr: Roger, Bill. You think you'll going to be able to sleep okay?
+018:44:12 Anders: Yeah. I think we kinda warmed up to a good sleep here by now.
+018:44:20 Lovell: Houston, Apollo 8.
+018:44:22 Carr: Go ahead.
+018:44:24 Lovell: Onboard navigation indicates a pericynthion altitude of 38.4 [nautical] miles [71.1 km].
+018:44:32 Carr: Understand; 38.4 miles.
+018:44:38 Lovell: That's affirmative. It's on the DSKY right now, if you're reading it out.
+018:44:42 Carr: Roger. Copy.
+Comm break.
+After Jim finished his navigation sightings, he had a final task to use P21 in the computer to calculate his trajectory forward to their closest approach to the Moon, or pericynthion. Jim's onboard figure of 38.4 compares well with the figure now being arrived at by Earth-based tracking of 64 nautical miles.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+018:47:37 Carr: Apollo 8, Houston.
+018:47:42 Anders: Go ahead, Houston.
+018:47:43 Carr: Apollo 8, Houston. Be advised your downlink now is getting very noisy.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+018:49:52 Carr: Apollo 8, this is Houston with some comments on navigation.
+018:49:59 Borman: Go ahead, Houston.
+018:50:02 Carr: Good morning, Frank. Apollo 8, this is Houston. We're wondering about your GDC backup align; we'd like your opinion on the possibility of doing this align using Sirius and Rigel rather than Navi, as it's in the north set at this time. Over. [Pause.]
+As well as the IMU, the spacecraft can derive attitude information from the strapped-down gyros in the gyro assemblies. Normally, these are aligned to the IMU platform by occasional presses of the GDC Align pushbutton. If the IMU is unusable, there is a procedure that allows them to be aligned using one of two pairs of stars, a set in the southern sky and another in the north. Jim has already pointed out that Navi, one of the north set, is difficult to see in the scanning telescope so Mission Control has come up with an alternative pair of brighter stars to use instead. Sirius and Rigel are actually very near the celestial equator but as they are on the opposite side of the spacecraft from the Sun, they make suitable substitutes.
+018:50:31 Borman: Stand by one.
+018:50:33 Carr: Roger. [Long pause.]
+018:51:06 Lovell: Houston, this is Apollo 8. We concur. Sirius and Rigel would be two stars that would be much better than Navi and Polaris. However, I did Cassiopeia after I became [dark-]adapted, but I'm afraid that the time required to do that type of alignment would be extensive if we ever had to go to that alignment.
+018:51:33 Carr: Roger, Jim. We understand. We'll go ahead and work in that direction, and we'll quit bothering you. Good night.
+Comm break.
+018:53:02 Carr: Apollo 8, this is Houston.
+018:53:07 Borman: Go ahead, Houston. Apollo 8.
+018:53:10 Carr: Apollo 8, Houston. At 19 [hours] GET, we're due for another cycle through on the cryo fans. Over.
+Frank will switch on the fans within the four cryogenic storage tanks, two for hydrogen and two for oxygen, in the Service Module. He does them one at a time for about two minutes each. This improves the accuracy of quantity measurements.
+018:53:19 Borman: Roger.
+018:53:23 Carr: Roger. Give us a call when you're complete.
+018:53:30 Borman: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 18 hours, 53 minutes now into the flight. During the past several minutes we've had conversations with the Apollo 8 crew. They have just shifted their sleep wake cycle. And we'll pass on those conversations at this time.
+This is Apollo - This is Apollo Control; we've just played out the conversation and it turned out this was one of those rare occasions, at least this time of the morning, over a brief span of time where conversation took place with all three crew members. No doubt Jim Lovell and Bill Anders are in the early phases of their sleep period. At the present time, Apollo 8; 84,593.7 nautical miles [156,667.2 km] in altitude. Our velocity reading 60 - ah correction 6,084, that's 6,484 feet per second [first number is correct, 1,854 m/s] and decelerating. At 18 hours, 58 minutes, 30 seconds into the flight of Apollo 8; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+019:02:33 Borman: Houston, Apollo 8.
+019:02:35 Carr: Apollo 8, Houston. Go.
+019:02:40 Borman: Why don't you give me a call when it is time to quit charging the battery, will you? I can't watch it very well over there.
+Frank is most likely sitting in the commander's seat on the left side of the spacecraft. The displays used to monitor the battery charge are on the right hand of the spacecraft, and can't be observed from his position.
+019:02:44 Carr: Wilco. [Pause.]
+019:02:50 Borman: And I'm starting with the fans now.
+019:02:53 Carr: Roger. Copy.
+019:02:55 Borman: Hy - hydrogen [tank] 1 first.
+019:02:58 Carr: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+019:11:23 Borman: Okay, Houston. We cycled through the fans, 2 minutes each, and we'll stand by for the call for battery charges.
+019:11:28 Carr: Roger. [Long pause.]
+019:11:40 Carr: Apollo 8, Houston. The battery charge will be complete around 21 hours.
+019:11:46 Borman: Okay. Just give me a call.
+019:11:48 Carr: Okay.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 19 hours, 16 minutes, 50 seconds now into the flight, Apollo 8. Apollo 8 at the present time, 85,685 nautical miles [158,688 km] above the Earth. Current velocity reading; 6,030 feet per second [1,838 m/s]. We have a short strip of conversation with spacecraft Commander Frank Borman which we'll play for you now.
+That's it! We expect - spacecraft Commander Borman is presently having breakfast. We should be hearing from him again before too awfully long with a report - a crew status report. At 19 hours, 18 minutes, 34 seconds into the flight; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+019:30:38 Borman: Houston, Apollo 8.
+019:30:41 Carr: Apollo 8, Houston. Go. [Pause.]
+019:30:51 Carr: Apollo 8, Houston. Go.
+019:30:54 Borman: Hello Houston, Apollo 8.
+019:30:58 Carr: Apollo 8, Houston. Go. [No answer.]
+019:31:08 Carr: Apollo 8, Houston. Go. [No answer.]
+019:31:21 Carr: Apollo 8, Apollo 8, Houston. Go. [No answer.]
+019:31:38 Carr: Apollo 8, Houston. Go ahead. [No answer.]
+019:32:00 Borman: Houston. Apollo 8. [No answer.]
+019:32:23 Carr: Apollo 8, this is Houston. Go ahead. [No answer.]
+019:32:36 Carr: Apollo 8, Houston. Go ahead. [No answer.]
+019:32:59 Carr: Apollo 8, Houston. Go ahead.
+019:33:03 Borman: Roger, Houston. Crew status report here. We're behind on water - behind on water and food, and we don't seem to have too much of an appetite. We're trying to stay up with the water, but the food is - not that there's anything wrong with the food, but we're just not very hungry.
+019:33:25 Carr: Rog. Understand, Frank.
+019:33:29 Borman: The CDR got 5 hours of fitful sleep and rest, and the other two people are trying to sleep now.
+019:33:36 Carr: Roger.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is a test count: 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. 10, 9, 8, 7, 6, 5, 4, 3, 1. Test out.
+This unusual transmission comes at about 19 hours, 38 minutes. It is about 2 am in Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 19 hours, 41 minutes, 40 seconds now into the flight, Apollo 8. We now read an altitude on Apollo 8 of 87,109.9 nautical miles [161,327.2 km]. Our current velocity on spacecraft Apollo 8; 5,962.8 feet per second [1,817.5 m/s]. Spacecraft Commander Frank Borman has delivered a short status report - crew status report to capsule communicator Jerry Carr and we'll pass that along now.
+That's the end of the conversation. Commander Borman indicated he received or took advantage of about 5 hours of sleep and his fellow crew members are trying to sleep now. And you can readily appreciate an absence of appetite since these are the first three gentlemen to have been 87,201 nautical miles [161,495 km] above the Earth. At 19 hours, 43 minutes, 30 seconds; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 20 hours, 10 minutes, 18 seconds now into the flight, Apollo 8. Apollo 8 now 88,735.6 nautical miles [164,338] in altitude. Its current velocity, 5,886.8 feet per second [1,794.3 m/s]. We had no conversation with Apollo 8 since our last announcement but this is understandable. To quickly recap our status. Commander - spacecraft Commander Frank Borman is currently awake. The other two crew members, Jim Lovell and Bill Anders, are in their sleep period. There are no scheduled events for the Flight Plan with the ground at least for a period of time. And at 20 hours, 11 minutes, 15 seconds; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control, Houston; 20 hours, 41 minutes now into the flight, Apollo 8. The Apollo 8 spacecraft now 90,465 nautical miles [167,541 km] in altitude. Our current velocity, 5,807.8 feet per second [1,770.2 m/s]. We've had no conversation since our last announcement with spacecraft Commander Frank Borman. We've had no requirement for a conversation so we have not bothered him. At 20 hours, 41 minutes, 45 seconds into the flight, all systems continue to look Go. This is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+020:57:46 Carr: Apollo 8, Houston.
+020:57:52 Borman: Go ahead, Houston. Apollo 8.
+020:57:54 Carr: Apollo 8, this is Houston at 21 hours. We'd like you to terminate the battery B charge and start battery A charge and then begin an O2 purge. Over.
+The oxygen purge of the fuel cells is part of an on-going routine of purges that flush contaminants from the reaction surfaces.
+020:58:10 Borman: Roger. Understand; terminate battery B, start battery A, and an O2 purge.
+020:58:13 Carr: Roger. O2 fuel cell purge.
+020:58:17 Borman: Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 21 hours, 1 minute now into the flight, Apollo 8. Apollo 8 now at 91,576 nautical miles [169,598 km] in altitude; now a velocity of 5,758.1 feet per second [1,755.1 m/s]. We've had a brief contact with the crew or with Commander Frank Borman I should say, and passed on some procedural information- let's pick up that conversation.
+That was a conversation between capsule communicator Jerry Carr and spacecraft Commander Frank Borman. Otherwise very quiet here in Mission Control Center at 21 hours, 2 minutes, 48 seconds into this, the Apollo 8 mission. This is Apollo Control, Houston."
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+021:00:47 Borman: Houston, Apollo 8. We're now charging battery A, and say again about the purge. [Pause.]
+021:01:03 Carr: Apollo 8, Houston. Roger. Copy your battery charge setup; now begin a fuel cell O2 purge. Over.
+021:01:13 Borman: Fuel cell O2 purge. Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+021:09:09 Borman: Houston, the fuel cells are all purged. [Pause.]
+021:09:15 Carr: Roger, Frank. [Pause.]
+021:09:27 Borman: How's the tracking coming, Jerry? [Long pause.]
+021:10:23 Borman: Houston, Apollo 8.
+021:10:28 Carr: Apollo 8. Houston.
+021:10:31 Borman: How's the tracking looking?
+021:10:33 Carr: It's looking good, Frank. We just took in another batch of data, and we're processing it. It looks initially like we won't even need a midcourse number 2. As soon as we process this data, we will have some confirmation for you. It should take anywhere from 15 to 30 minutes to finish the job.
+021:10:53 Borman: Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+021:13:39 Carr: Apollo 8. Houston.
+021:13:43 Borman: Go ahead.
+021:13:45 Carr: Apollo 8, this is Houston. We're showing your pericynthion 64 nautical miles. Your next mid-course at 28 [hours] will be less than 1 foot per second. We'll have a firm confirmation on this in about 2 hours.
+021:14:02 Borman: Roger.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 21 hours, 19 minutes, 39 seconds now into the flight, Apollo 8. The Apollo 8 spacecraft at the present time, 92,600 nautical miles [171,500 km] in altitude. Our velocity display shows 5,712.9 feet per second. Speed of 57.9 - 5,712.9 feet per second [1,741.3 m/s]. CapCom Jerry Carr has described to spacecraft Commander Frank Borman what his trajectory - what the Apollo 8 trajectory looks like. We'll pass along that conversation.
+As you heard, the present track appears quite good. The point of closest approach to the Moon predicted [to be] 64 nautical miles [118.5 km]. And this consideration of the midcourse correction, the midcourse correction, if one were made for MCC-2, at least at this point in time appears to be one of less than a foot per second. Therefore, it appears unlikely that we'll do a second midcourse, but the Flight Dynamics Officer here in Mission Control will continue to look over the data for a couple more hours before we make such a decision. At 21 hours, 22 minutes, 18 seconds into the flight, Apollo 8; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 21 hours, 51 minutes, 44 seconds now into the flight, Apollo 8. Apollo 8 now showing a velocity of 5,637.5 feet per second [1,718.3 m/s]. Its current altitude; 94,351 nautical miles [174,738 km]. Members of the Green Team of flight controllers are now being briefed in the Mission Operations Control Room by their Black Team counterparts. We're due for a change of shift here shortly. There will be no change of shift news briefing with the Black Team. We repeat, there will be no change of shift news briefing with the Black Team. And during this - the past 30 minutes or so we've had no conversations with the spacecraft Commander Frank Borman. At 21 hours, 52 minutes, 50 seconds into the flight of Apollo 8; this is Apollo Control, Houston.
+Day 1: The Maroon Team
+Journal Home Page
+Day 1: The Green Team

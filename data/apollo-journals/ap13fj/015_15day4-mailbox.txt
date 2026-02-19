@@ -1,0 +1,724 @@
+Apollo 13 Flight Journal - Day 4, part 4: Building The CO2 Adapter
+Day 4, part 3: Heading Homeward
+Journal Home Page
+Day 4, part 5: Checking Odyssey
+Apollo 13
+Day 4, part 4: Building The CO2 Adapter
+Corrected Transcript and Commentary Copyright ©2020-2025 by W. David Woods, Johannes Kemppanen, Alexander Turhanov and Lennox J. Waugh. All rights reserved.
+Last updated 2025-02-22
+It is almost 90 hours into the mission of Apollo 13. Some 10 hours previously, the Descent Engine on the Lunar Module Aquarius was fired in the PC+2 maneuver to establish a faster return trajectory back to Earth. This is planned to result in a landing at approximately 142 hours GET. The spacecraft has been powered down, and the crew is coasting towards home in an increasingly cold state. The spacecraft slow rotation, meant to spread the temperature effects of the Sun and space on the stack, has recently developed a slow wobbling motion. This has been attributed to a possible venting of pressurized hydrogen from the Service Module's cryogenic tanks. Their most immediate concern is the build-up of carbon dioxide in the cabin, but methods for removing that have been read up to the crew. It will be down to them to construct a device for the purpose.
+This is Apollo Control at 89 hours. A short while ago, just moments ago, you heard a bit of music on the air to ground line coming in over the noise. Jack Swigert, the Capsule Communicator, or rather, Jack Lousma, the Capsule Communicator checked with Jim Lovell and Jim confirmed that the music was coming down from the spacecraft. At the present time the status aboard the spacecraft is - as best we can tell, is that Lovell is the only one of the 3 crewmen who is up and about. Jack Swigert has been resting since about 82 hours Ground Elapsed Time, and Fred Haise began his rest period at 86 hours Ground Elapsed Time. Lovell rested from about 82 hours until about 86 hours, now when he changed positions with Fred Haise taking over the watch. At the present time Apollo 13 is 191,187 nautical miles from Earth, and traveling at a speed with respect to Earth of 3,804 feet per second. We expect to continue having quite a bit of noise on the communication line communication circuit with the spacecraft - partially due to the fact that the spacecraft, in its passive thermal control attitude, is deviating somewhat from this attitude and we do not have the optimum positions on our antennas on the spacecraft Omni antennas for strongest reception. This situation corrects itself somewhat as the spacecraft continues to rotate at the rate of 1 revolution every 11 minutes and periodically we get a combination of antenna positions on the spacecraft with respect to the antennas on ground that improves our communications situation. We do not intend to attempt to modify the spacecraft attitude with the primary guidance system powered down at this time, the feeling is that the attitude we would get by trying to reestablish the passive thermal control mode manually would probably not be as good as the one that we've got right now. So the plan is to live with the communications problem and to expect that we will have periods during which it will not be possible to get usable communications because of the background noise. At Mission Control at this time, we are beginning the shift change, the handover, a number of flight controllers have come in from the - for the succeeding shift; Flight Director Glynn Lunney and his Black team of flight controllers will be replacing Flight Director Milton Windler and the Maroon team. And that shift handover is scheduled to occur at about 7 AM Central Standard Time, or about 45 minutes from now. At 89 hours three minutes this is Mission Control, Houston.
+089:05:51 Lousma: Jim, we've had you scheduled for an eat period about an hour ago. I suppose you've taken care of that. The other thing is we're kind of interested in knowing how long you're going to be at stick there, or if you're going to go back to bed or what?
+089:06:12 Lovell: Okay, Jack. We're - We're going to set up a regular watch and sleep period here. Fred was up for a long time, so I got up a little bit early to relieve him. Jack and Fred are now asleep, so I'm going to let them sleep as long as they can, and then we'll have an eat period and then I'll go back to bed for a bit. And we'll separate the schedule.
+089:06:40 Lousma: Okay. We're right at the point now where, according to the Flight Plan that we had made up for you, that you would have all finished eating and you and Jack would have the duty while Fred went to sleep. So, essentially, according to the plan we've got, you got up about 3 or 4 hours early. And - The next time that we have that as a rest period for you is at 96 hours, which is 7 hours from now, and an hour before that, say at 95 hours, all three of you would eat, and then you and Jack would hit the sack again and Fred would have the duty until 102 hours. We'd be glad to take care of this work-rest cycle for you.
+089:07:40 Lovell: Okay. That's good. Let me - Let me wait until they get up, or at least Jack gets up. He should be getting up before Fred. And we'll try to get back on the schedule. I hate to wake everybody up right now though, if they're sleeping.
+089:07:54 Lousma: Okay. Your choice on that. As soon as Jack gets up, I'd suggest we go ahead and break up these lithium hydroxide canisters and make a couple of them. Jack could work on that. It's going to take four sets of hands, I think.
+Closeup diagram of the LiOH canister adapter, with the four major construction phases numbered. Note that this diagram (taken from page 6-11 of the postflight Mission Report) reflects the final assembly of the adapter, which included a fresh canister taped onto the first one to provide more scrubbing capacity, avoiding the reconstruction of the whole adapter.
+To make it easier to follow the upcoming procedure, an outline is provided here:
+1. Strips of tape are added to the LiOH canister to ease the rest of the assembly. Later on the mission, another canister is taped onto the bottom of the first one to provide further scrubbing capacity.
+2. A piece of cardboard is folded and taped onto the top to prevent collapse of the bag around the inlet of the canister.
+3. A plastic bag is pulled over the canisters and the cardboard arch to help create an airtight seal for the suit loop hose to be added.
+4. A spacesuit O2 hose is pushed into the bag and the bag is taped airtight around the hose.
+089:08:15 Lovell: Okay. We'll make that the project, getting the lithium hydroxide canister squared away.
+Very long comm break.
+For further information and a detailed walkthrough on the canister modification, you should visit our sister publication at the Apollo Lunar Surface Journal for a thorough article:
+089:58:23 Kerwin: Aquarius, Houston. Over.
+089:58:29 Lovell: Go, ahead, Houston.
+089:58:31 Kerwin: Hi, Jim. We've got a site handover in about 2 minutes, and we'll have a temporary loss of comm. You don't need to switch antennas. Over.
+089:58:42 Lovell: Okay; fine.
+Long comm break.
+090:00:56 Kerwin: Aquarius, Houston through Madrid for a comm check. How do you read?
+090:01:02 Lovell: Loud and clear, Joe. How me?
+090:01:05 Kerwin: Okay, Jim.
+Very long comm break.
+An intense Joe Kerwin captured on 16mm film in Mission Control. NASA/NARA.
+090:06:38 Lovell: [garble] asleep?
+090:06:46 Lovell: I [garble] Maybe [garble] hydroxide [garble] [Pause.]
+090:07:16 Lovell: [garble] on secondary. We'll let it go to 15. Why don't you get on a headset and copy down a procedure for [garble] [Long pause.]
+090:07:37 Lovell: Houston, Aquarius.
+090:07:41 Kerwin: Aquarius, Houston. Go ahead.
+090:07:46 Lovell: Okay. Jack's up with me now and you all [garble] procedure for making these lithium hydroxide devices, and soon as he gets on his helmet, he'll be ready to copy, and then he'll get started making one.
+090:08:05 Kerwin: Roger that, Jim. Understand...
+Deke Slayton shows off the adapter prototype.
+The canister adapter prototype was also passed around from hand to hand in Mission Control. In this photo, Deke Slayton is captured demonstrating the device to Flight Director Milton Windler (leaning to the console on the left) and NASA managers Howard Tindall (Deputy Director of Flight Operations at the Manned Spacecraft Center), Sigurd Sjoberg (Director of Flight Operations), Christopher Kraft (Deputy Director of the Manned Spacecraft Center) and Dr Robert Gilruth (Director of the Manned Spacecraft Center).
+Howard Tindall, observing the filter in the above picture, was also involved in producing the checklists needed for the crew's safe return. Known as a particularly capable engineer besides his great talent in organization, he had among other things ensured the timely production of the Apollo computer software. Having him onboard for Apollo 13's rescue was no surprise. Handwritten notes by Gene Kranz.
+090:08:07 Lovell: On second thought ...
+090:08:09 Kerwin: Go ahead.
+090:08:13 Lovell: I'll give Jack the headset for a while and he'll copy down your instructions.
+090:08:30 Kerwin: Okay, Jim. I didn't copy your second thought. Over.
+090:08:38 Lovell: I'll give Jack the headset and let him copy the instruction.
+090:08:43 Kerwin: Okay, Jim. The way I thought it might be best to do it would be to have you gather the equirment and let us talk you through your procedure while you do it. Now, maybe you could give Jack the headset and - and - get the equipment together, and we'll talk you through the procedure. I think it'll be a little easier to do that way than if you tried to copy it all down - and then go do it.
+090:09:11 Lovell: Okay. Do you have any equipment listed? I'll just get it and give it to him and I can just sit here where I am.
+090:09:17 Kerwin: Okay. I think the equipment you'll need will be two Command Module lithium hydroxide canisters, a roll of the gray tape, the two LCGs, because we're going to use the bags from the LCGs, and one - one LM cue card - one of those cardboard cue cards which you will cut off about an inch and a half out from the rings. Now, I think that's all we'll need. Over. [Pause.]
+090:10:03 Lovell: Okay. [garble] Okay, Houston. [Pause.]
+Lithium Hydroxide canister.
+The Command Module ECS LiOH canisters are usually inserted into their receptacles in the CM. They contain the carbon dioxide absorbing lithium hydroxide, and activated charcoal for removing odours.
+090:10:23 Lovell: Hello, Houston.
+090:10:25 Kerwin: Go ahead, Jim.
+090:10:28 Lovell: Okay. That's two lithium hydroxide canisters, one roll of that special gray tape, two LCGs which we're going to use the bags from, one LM cue card and [Garble]
+The LCG is the Liquid Cooled Garment, special underwear with water piping in it to keep moonwalkers from overheating inside their suits. For now, they are only using the plastic bags they come packed in for the trip.
+090:10:53 Kerwin: Okay. That's affirmative, Jim. If you'll just cut the cue card, which is a handy piece of stiff paper the right size, about an inch and a half from the rings. Just cut off the ring holes, in other words, and you'll have a card about 11 inches long and probably 6 inches wide, something like that.
+090:11:19 Lovell: Okay, [garble] I'll have Jack gather up the stuff.
+090:11:22 Kerwin: Okay.
+Jim holding a checklist, showing off the size and shape as well as the ring binders. 16mm film capture.
+The Flight Data File materials are in spiralbound form.
+090:11:28 Lovell: [garble] that roll of gray tape.
+090:11:34 Lovell: [garble] Okay. [garble] and [garble] plastic bags.
+090:11:48 Lovell: Yes. Bring it down here. One LM cue card. I get that.
+Very long comm break.
+090:20:14 Swigert: Okay. I got the canisters. [Pause.]
+090:20:24 Lovell: [Garble.]
+090:20:38 Swigert: [Garble]? [Long pause.]
+090:21:16 Lovell: [Garble.]
+090:21:26 Lovell: Okay, Houston; Aquarius.
+090:21:32 Kerwin: Yes. Aquarius, Houston. Go ahead.
+090:21:37 Lovell: We have gathered the materials, and I can put Jack on the headset and he can copy the instructions [garble] do you see any need for - or should I copy it to give them to him, or do you think they're too detailed?
+090:21:55 Kerwin: Why don't you put him on the headsets, Jim, and I'll read it out to him.
+090:22:02 Lovell: Okay. [Long pause.]
+090:22:30 Swigert: Okay, Joe. [Garble]
+090:22:33 Kerwin: Okay, Jack. Did anybody ever tell you that you got a 60-day extension on your income tax. Over.
+090:22:42 Swigert: Yes. I think - I think somebody said that when you are out of your country, you get a 60-day extension.
+The topic of Jack's tax report has been a recurring joke among the Mission Control personnel.
+090:22:50 Kerwin: Okay; right. Okay. I'm ready to start into the procedure. When you answer me back, speak up - speak up into the microphone, because our downlink is pretty noisy. The first thing we want you to do, and we'll do this on one canister, and then let you go ahead and repeat it on the second. So take one of the LCGs and cut off the outer bag. By cutting along one the heat seals; do it carefully and close to the heat seal, because we may have to use the outer bag if we damage the inner bag. So go ahead and do that, and then we'll do the next step. [Pause.]
+090:23:37 Swigert: Okay. Take an LCG, cut the outer bag by the heat seal. Be careful not to damage the inner bag. Right?
+090:23:46 Kerwin: Right. Just cut along one side.
+Comm break.
+090:24:50 Swigert: Hey, Houston, Odyssey - or Aquarius. We've done that.
+090:24:55 Kerwin: Okay, Jack. Now - now remove the inner bag from the outer bag, and cut the inner bag, also, along one of the heat seals down one side.
+090:25:15 Swigert: Okay. Remove the inner bag from the outer bag, cut the inner bag along the heat seal along one side.
+090:25:22 Kerwin: Okay. That's correct. Do that, and report. [Long pause.]
+090:26:20 Swigert: Okay, Joe. We've got that done.
+090:26:22 Kerwin: Okay, Jack. Now you can put the LCG itself; that is, take it out of the inner bag, put it in the outer bag, and stow it some place; we recommend U-1, but you can stow it wherever it's convenient.
+090:26:40 Swigert: [garble] outer bag [garble] and stow it back in [Garble]
+090:26:48 Swigert: Okay, Joe. We've got that.
+090:26:50 Kerwin: Okay. Now pick up one of the lithium hydroxide canisters, and let me describe which end is which. It's approximately square on one - one of the vented flat ends, has the strap, and that end we call the top, the end opposite we call the bottom. Is that clear? Over.
+090:27:21 Swigert: Right. [Long pause.]
+090:27:34 Swigert: Okay. I've got it, Joe.
+Cross section of a lithium hydroxide canister. The canisters are constructed of aluminium with a Teflon coating. They contain the aforementioned chemical to scrub carbon dioxide from the cabin atmosphere, a layer of activated charcoal to remove odours, and a felt filter for catching particles while air flows through the canister. Apollo ECS training material. NASA.
+AS13-62-9004 - Jack Swigert, the canister adapter, and Jim Lovell (his hands), photo taken by Fred Haise. The setup suggests that they are in the process of constructing the adapter but this is actually a later moment, with Swigert and Lovell busy with their water supply hoses instead. No photos or movie film footage are known to exist of the actual construction process, considering how busy the crew was at the time. A copy of their Flight Plan and other Flight Data File materials are behind the retaining bar next to Jack's head level. It is perhaps here they took the covers from, for the cardboard parts of the adapter.
+Composite of AS13-62-9003 and 9004 - This stitched composite image from two frames shows Jim Lovell on the left of frame with Jack Swigert. Composition by Andy Saunders.
+090:27:37 Kerwin: Okay. Now then, we're - we want you to take the tape and cut out two pieces about 3 feet long, or a good arm's length, and what you're - what we want you to do with them is to make two belts around the sides of the canister, one belt near the top and one belt near the bottom, with the sticky side out; wrap it around, sticky side out, as tight as possible. It'll probably take both of you to get it nice and snug. Over. [Long pause.]
+The idea here is to provide something for their further taping to stick onto by creating belts of sticky surface by using the tape. During the prototype phase in Houston, it was discovered that it was difficult for duct tape to adhere to the Teflon coating on the canisters!
+090:30:01 Swigert: Okay, now... [Long pause.]
+090:30:15 Swigert: Okay. Now we've got to make the belt real taut here.
+090:30:23 Lovell: How's that? [Pause.]
+090:30:35 Swigert: Real tight. And then [garble].
+Long comm break.
+The finished adapter. The various taping patterns are clearly visible.
+The canisters were located to different parts of the LM cockpit to provide air flow into the entire cabin. They were strapped into place.
+090:33:13 Swigert: Okay, Joe.
+090:33:18 Kerwin: Okay, Jack. Did you have...
+090:33:19 Swigert: ...Hey, Houston, are you reading Aquarius?
+090:33:24 Kerwin: Jack...
+090:33:25 Swigert: ...We've got the two belts around the top and the one around the bottom all done.
+090:33:30 Kerwin: Okay, fine. The next step now is to anchor that tape, and the way we want you to do that is to cut about a 2-foot length off the roll and then tear it lengthwise so that you have two strips about 2 feet long and about a half an inch wide. And you'll wrap those around the canister at right angles, more or less, to the tape that you've got so that it goes across the top and across the bottom; and when it goes across the top and the bottom, put it so that it's outboard of the center hole and try to get it over one of the ridges between the screens, so that it won't block the flow. Is that clear? Over.
+090:34:15 Swigert: Yes, Joe. Very good.
+090:34:17 Kerwin: Okay. Press on.
+090:34:22 Swigert: Okay. I've got a cut length right here and we'll tear it lengthwise [garble] and I'm going to go around right here at this ridge all the way around at right angles and anchor it.
+090:34:43 Swigert: Yes.
+090:34:46 Swigert: Joe, just to clarify that, sticky end down. Right? On the tape that I am putting on now?
+090:34:54 Kerwin: I didn't quite copy that, Jack. Say again.
+090:34:58 Swigert: Okay. That will be the sticky end down on the container, right? [Pause.]
+090:35:05 Kerwin: Oh, that's correct. I forgot to say that. That's right. [Long pause.]
+090:35:33 Swigert: [garble] hold that one right here, if I can set it.
+Comm break.
+090:37:28 Swigert: Okay, Joe; Aquarius. We've got that done.
+090:37:32 Kerwin: Okay, Jack. The next step is to get the EVA cue card and use it to form an arch over the top of the canister; just tuck one short end under one ridge on the top the other one against the ridge on the other side so that it forms a rounded arch over the top of the canister. You see, Jack, what we're going to do is slip the bag over this whole assembly and the cue card will serve to keep the bag from being sucked down against the screen. Over.
+090:38:10 Swigert: Okay. I got the idea.
+090:38:13 Kerwin: Okay. And when you've done that, to hold the arch in place, just run a strip of tape across the side of the - that is, across the top of the arch, and anchor it down to the sticky strips along each side.
+090:38:31 Swigert: Okay. I got the idea. Okay. Let me just repeat it here. Take a cue card, form an arch over the top, bringing it under the side here. When we're through, run a piece of tape from the sides across the top of that to anchor to the other side.
+090:38:51 Kerwin: That's correct.
+090:38:56 Swigert: Okay. It worked.
+090:39:00 Swigert: The top. [garble] Across the top.
+090:39:18 Swigert: Looks like you're going to have to cut the cue card slightly. [Long pause.]
+090:39:32 Swigert: Doesn't have to be really [garble] over that the only thing we're [garble] we can just take the scissors and cut off the edge here. The only thing this does, Jim, is prevent this from being sucked down into the container. [Long pause.]
+090:40:28 Swigert: Still going to need some more tape. Cut off the end. Okay. Whack off the bottom. [Garble].
+Long comm break.
+090:43:34 Swigert: Okay, Joe. We've got that arch built, and it's all taped in securely.
+090:43:41 Kerwin: Okay, Jack. The next step is to stop up the bypass hole, which is the hole in the center of the bottom of the canister; we want to stop that up because we don't want to bypass the flow; and I forgot to tell you to get something to stick in that hole. We recommend that you either use a wet wipe, or cut off a piece of sock and stuff it in there, or you could probably even crumble up some tape and use that. Over.
+090:44:13 Swigert: Okay. We'll start plugging up the bypass hole.
+090:44:17 Kerwin: Okay.
+090:44:18 Swigert: Plug that hole. We can either - we can put some either - Let's cut a piece of your towel there.
+090:44:27 Kerwin: Sounds good.
+Long comm break.
+090:47:14 Swigert: Okay, Houston; Aquarius. We have the bypass hole all plugged up.
+090:47:21 Kerwin: Okay, Aquarius. The next step is take the inner LCG bag that you cut open, and slip it over the top of the canister, when you do that, orient it so that the ears of the bag, that is, the corners should stick out on the closed end - are oriented along the open ends of the arch, because we're going to snip one of those corners to stick the hose in. Pull it down until it fits snugly over the arch. Over. [Pause.]
+090:47:56 Swigert: Okay, Joe. Slip the bag over the canister so that the arch is at the bottom of the bag and that the ears are along oriented along, let's see - I guess it would be - would be at the sides of the arch.
+090:48:19 Kerwin: Depends on what you mean by sides - over the - the open ends of the arch.
+090:48:26 Swigert: Right, the open ends of the arch.
+090:48:28 Kerwin: Okay. [Long pause.]
+090:49:17 Swigert: Okay, Joe. We've got that done.
+090:49:20 Kerwin: Okay. Now press the bag against the sticky belts that we put on the sides of the canister. If there is any excess material, just kind of pleat it, so that it makes a fairly tight seal, and then take another 3-foot strip of sticky tape and wrap it around the outside of the bag opposite the bottom - the bottom sticky belt - to make a nice tight seal.
+090:49:50 Swigert: Okay. I'll do it. Okay. Now they want two strips around here to make a tight seal.
+Long comm break.
+090:52:38 Swigert: Okay, Joe. We've got the canister inside the bag, two strips around the sides of the bag, real tight, and both sealed.
+090:52:47 Kerwin: Okay; real fine. Now there's probably a couple of inches of excess bag sticking out around the bottom of the canister. To prevent this from sucking in against the bottom screen, we'd like you to trim it off with the scissors, and when you've done that, we'd like you to cut two more strips of tape about 12 inches long or so, cut the - tear them lengthwise to get four pieces 12 inches long and ½-inch wide, and then use those four strips to secure the bag by passing the strips from the sides of the canister outside the bag around the bottom of the canister and back up the other side, and when you do this, just as you did on the top, make them go outward of the hole and in between the screens. Over.
+090:53:42 Swigert: Okay. You want me to trim the excess material that's sticking off here; trim it at the edge of that canister? Or do you want any excess left over? [Pause.]
+090:53:52 Kerwin: No, you don't need to have any excess. Just trim it approximately level.
+090:53:59 Swigert: Okay. Let's do that first.
+090:54:01 Kerwin: Okay. [Long pause.]
+090:54:58 Swigert: Okay. Now, Joe, you want to cut four strips, 12 inches long each, 1/2-inch in diameter. Tape that along the outsides of the bag across the ribs.
+090:55:15 Kerwin: That's correct, Jack. That's just for additional security on the bag. When you get those done, you'll have - You'll have two strips going one way, and the other two will be perpendicular to them.
+Long comm break.
+090:57:58 Swigert: Okay, Houston; Aquarius. We've got the four strips in place.
+090:58:03 Kerwin: Okay. We're in business now with the bag, and the next step to perform is to get ready to put the red suit hose, either the commander's or the LMP's because we're - we're going to want you to have both of these made up eventually, into the top of the - of the bag, and to do that you, first of all, have to assure that the - that the red hose is separated from the blue hose. I don't know whether this has been done already, but if it hasn't, what you have to do is cut the outer Beta-cloth sheath down the full length of the - of the hoses and then also cut the rubber ties that secure the two hoses together, and the hoses should come apart and the comm cable should - should come off. Over. [Pause.]
+090:59:04 Swigert: Okay. Take the - I'm going to want to separate the red hose from the blue hose by cutting this Beta-cloth sheath. Okay. That's in work.
+Oxygen into the space suits is supplied via the 'blue' hose - identified by the color of the connector - while spent air from the suit flows back along the 'red' hose. The twin plastic hoses are usually wrapped in a protective Beta cloth to shield them against abrasion and kinking. Now they must split the hoses apart so that they can put the ends of the different colored hoses to different parts of the cabin. This is easier said than done due to their general lack of cutting implements onboard. What they had were their personal scissors, officially reserved for cutting open the food packages. It makes sense for the mission planners to avoid stocking the spacecraft with items capable of puncturing, cutting or abrading.
+Apollo crewman scissors. This pair was used by Dave Scott during Apollo 9. Note the patch of Velcro on the hinge for attaching the scissors to the spacecraft surfaces. Photo from the personal collection of Steve Jurvetson, and used with his permission.
+090:59:15 Kerwin: Okay.
+Comm break.
+091:00:52 Swigert: Okay, Houston, Aquarius. I have the LMP's red hose separated from the others.
+091:01:00 Kerwin: Okay. Real fine. Now the next step is to cut a diagonal hole in one ear of the - of the plastic bag near the arch. You can pick either one and cut about, a 1½- or 2-inch diagonal hole, big enough to slip the red hose through. And when you've done that, you'll just slip the red hose through so that it goes about to the center of the canister. It's - it's - It's not critical except that the opening should be down, and then tape the bag to the hose wher'e it goes in so that it's nice and snug. Over
+091:01:40 Swigert: Okay. Copy that. We want a 1½-inch hole right here at this ear, and put the hose in here, end down and toward the canister and then we tape the seal around here. [Long pause.]
+091:02:10 Swigert: Let's try it. We can always make it bigger if we have to. Fred, get those. [garble] the center of the arch. [Long pause.]
+091:02:52 Swigert: Got to - Got to come in towards the center, all the way to the center. No, no.
+Long comm break.
+091:06:17 Swigert: Yes. I can't get, those big knobs.
+Long comm break.
+091:08:39 Swigert: [Garble] All we have to do is [garble] tape around here [garble] tight fit. [garble].
+Comm break.
+091:10:16 Lovell: There it is right there.
+091:10:18 Swigert: Okay, Houston; Aquarius.
+091:10:20 Kerwin: Aquarius, Houston. Go ahead.
+091:10:26 Swigert: Okay. Our do-it-yow'self lithium hydroxide canister change is complete. Joe, the only thing different is that our arch on this piece of cardboard is not big enough to position the red hose with the inlet down, and the inlet - the inlet to - to the red hose is lying on its side, but I think it'll still work.
+091:10:53 Kerwin: Ok my, Jack. I concur. I think it'll work, too. There's one step that I omitted, which you can do now quite conveniently, and it's this. Where you stuff the towel in the bypass hole on the bottom, we recommend that you cut a few short pieces of tape and just tape that over so it doesn't fall out. Over.
+091:11:17 Swigert: Okay. Will do. Jim, I've got one more little thing to do, and that's [garble] seal that top.
+Comm break.
+091:12:28 Swigert: Okay, Joe. That's done.
+091:12:30 Kerwin: Okay, Jack. Now the remaining steps are simply suit-loop configuration steps to get this thing into full operation, and our ECS people want to hold off on that until the canister you're working on gets to 7.6 millimeters of mercury, which will probably be another 45 minutes or an hour - it - We're reading 4.7 now. So what we'd like you to do in the interim is to set up the second Command Module canister the same way you just did the first one, using the commander's hose, and get that all set and probably about that time it'll be time to - to switch over. For your information, when you've got that done and if you've had your breakfast and so on, the next thing I've got for you is a switch-configuration list for the Command Module, which will represent the - the power down, square-1 starting configuration for all our - our preentry checks. Over.
+A state of uncertainty currently exists to the exact condition of the Command Module Odyssey. This also extends to the configuration of the hundreds of switches and other controllers on the Main Display Console and other panels inside the CM. Mission Control's goal is to have every control set to a state known to them in Houston, so that they can base their future procedures on a known initial state of affairs inside the once-evacuated Command Module.
+091:13:39 Swigert: Okay. We'll start setting up the commander's hose configuration the same as the LMP's hose. And I'll get - instead of - I guess you want me to use my launch [garble] - launch checklist which I'd [Garble]
+091:14:00 Kerwin: That's affirmative, Jack. What we have done is marked up the lift-off configuration checklist, and we'll run through it whenever you get around to it.
+Jack has instantly guessed that the baseline configuration plan involves the Launch Checklist, which they carry onboard. It was used just before and after their launch, and contained the procedures for the Translunar Injection, for example. It also contains emergency procedures in case of launch aborts.
+Jack's speed of thinking here should not come as a surprise. He was one of the astronauts assigned to the development of the Command Module and the various crew procedures needed to operate it. If anyone onboard Apollo 13 could be described as an expert on the Command Module, it would undoubtedly be Jack Swigert.
+091:14:11 Swigert: And, I assume that [garble] [Long pause.]
+091:14:38 Swigert: What I'd better do is before I put this thing back in operation, they're going to complete that other canister first. I don't know. It should be in operation now. [Garble]
+091:15:05 Swigert: Okay, Houston; Aquarius.
+091:15:07 Kerwin: Aquarius, Houston. Go.
+091:15:12 Swigert: Okay, Joe. Should this canister be in operation now because it's already mounted on the hose?
+091:15:17 Kerwin: Well, yes. We haven't completely configured the suit loop to get full flow through there, and it's okay the way it is. What I recommend you do with the commander's hose is get the bag all ready, but not stick the hose in until we call you on it. Okay.
+091:15:39 Swigert: Okay. Will do.
+Comm break.
+091:16:45 Swigert: It won't go around? [Long pause.]
+091:17:04 Swigert: Yes. Or else a strip of tape. [Long pause.]
+091:17:55 Swigert: Okay, Jim. We've got to start setting up the commander's. [garble] [Long pause.]
+091:18:22 Swigert: You can get one of the cards, and I'll start cutting the [garble] bag.
+Long comm break.
+091:20:33 Swigert: Yes. [garble] show. How about that [garble] because I've got two in my [garble] [Pause.]
+091:20:52 Swigert: Yes. Here, we'll store them back where I got it. [Long pause.]
+091:21:06 Stafford: Hello, Aquarius; Houston.
+091:21:10 Swigert: Go ahead.
+091:21:11 Stafford: Roger, Jack; Tom here. Just thought I would pass on to you and Jim that got a little data priority going today, and going to convene to CPCB and we'll have you all kinds of good procedures for later on. Over.
+Tom Stafford in Mission Control. 16mm NASA film capture. Via NARA.
+The Apollo 13 crew has a surprise guest on the comm loop in the form of Thomas Stafford, the veteran astronaut of Gemini 6A, Gemini 9A and Apollo 10. At the moment he is the Chief of the Astronaut Office. He took over the post from Alan Shepard, who had managed to get his inner ear problems in check with surgery and was now training for Apollo 14.
+Stafford makes a reference to the CPCB or Crew Procedures Control Board. This organization was responsible for validating all procedures and the associated documentation the crew might need to operate their spacecraft and perform their mission successfully. Normally such procedures would be frozen several months before each mission, although changes could - and would - be made up until the launch, on special basis.
+091:21:24 Swigert: Okay. Thank you, Tom. You guys are really working overtime.
+091:21:29 Stafford: We're getting a little coordination down here. [Pause.]
+091:21:41 Stafford: Aquarius, Houston. You might pass on to Jim, he had such a long day yesterday, we thought we were going to have to play him some guitar music to get him to sleep last night. Over.
+091:21:52 Swigert: That's exactly what he did. Tom said you had such a long day yesterday, he thought he was going to have to play some guitar music to get you to sleep. [Long pause.]
+091:22:13 Swigert: Okay. Let's get, this tape around the outside.
+Long comm break.
+091:25:47 Swigert: Kind of looks like the Earth has gotten kind of angled a little bit, but it's, for as many hours as [Garble], I think it's been great. You know how to do this? How? [garble] the terminator.
+Very long comm break.
+This is Apollo Control 91 hours, 31 minutes Ground Elapsed Time. In the last hour or so, Spacecraft communicator Joe Kerwin has passed up to the crew some items of shade tree engineering on how to build the lithium hydroxide canister container which uses the suit system - suit circuit return hoses in the Lunar Module, and these two canisters will scrub the atmosphere, removing carbon dioxide. This is primarily a backup to look forward to the time when the time has run out on the canisters in the Lunar Module. Present position now as shown by the space digital display which at this moment are on a Moon reference frame, showing 36,688 nautical miles from the Moon, this computes out in Earth distance to about 184,830 nautical miles out from Earth. Velocity relative to the Moon, 4,284 feet per second. Current usage electrical current still hovering around 12 to 14 amps. At this time, Haise apparently is still sleeping. All consumable usage is at either on or below the predicted levels and at 91 hours, 33 minutes, Ground Elapsed Time, this is Apollo Control, standing by.
+091:33:55 Swigert: Okay. Now we got to get two strips [garble] tight.
+Long comm break.
+091:36:52 Swigert: Tom said the CPCB is getting [Garble]
+091:37:01 Swigert: [garble] he's never been through a Command Module activation. [Long pause.]
+091:37:22 Swigert: That looks good. Now we got trim up that extra.
+Long comm break.
+091:39:30 Swigert: [garble] Well, I don't really - Part of that is - See, Jim, I have the same problem that you have. I can't control pitch very well with my RHC - I have to use the THC and that was the control problem. No, I don't think that there's any control problem. I don't know why, because - Well, you have to [garble] you still have barber pole on the - on the [garble].
+Long comm break.
+091:43:16 Swigert: [garble] Oh, wait a minute; I'm sorry I didn't see it. [Garble]
+091:43:20 Swigert: [garble] [Pause.]
+091:43:30 Swigert: [garble] [Laughter.]
+Comm break.
+091:45:30 Swigert: I'll tell you, why don't you put - under your restraining cable; just stow it under your restraining cable there. And that will keep, then, until we're ready for them. [Pause.]
+091:45:48 Swigert: Can I have my juice?
+091:45:53 Swigert: [garble] there's an orange in yours. [Pause.]
+091:46:06 Swigert: Yes, I've got to get the launch checklist. And we're going to go over initial switch configuration. And get all those [garble] [Long pause.]
+091:46:45 Swigert: I kind of have an idea that as soon as we hit darkness, we'll be doing a P51, P52. Hope we're going to be [garble].
+Long comm break.
+091:49:30 Swigert: When you get through, you could get me that R - the checklist up in R-3 [garble].
+Long comm break.
+The Launch Checklist is stowed in compartment R-3 in the Command Module.
+091:53:05 Swigert: Okay, Houston; Aquarius.
+091:53:11 Kerwin: Aquarius, Houston. Go ahead.
+091:53:15 Swigert: Okay, Joe, I'm ready to start on that Command Module switch configuration. That's on page L 1-1.
+14 pages in the Command Module Launch Checklist note all of the 417 switches, selectors, buttons, levers and knobs that need to be configured for the spacecraft launch. It is customary for the backup crew of each mission to do this preparatory work, alongside the ground crews. For this so-called baseline configuration, modifications have been made to this list as applicable to their unprecedented situation. Each page can be accessed below from the associated links whenever the radio loop exchange reaches that part of the very long checklist.
+091:53:24 Kerwin: Okay, Jack. Understand you are ready for the switch configuration checklist. And I have in front of me the lift-off configuration, page L 1-1. Are you with me? Over.
+Baseline configuration, page 1
+091:53:39 Swigert: I'm right with you.
+Page 1 of the hand-annotated and marked altered Launch Checklist, now known as Baseline Checklist.
+091:53:41 Kerwin: Okay. I'll read these in bunches of three or four at a time, some of them are the same, some of them are changed, and you can read them back every few steps. EMS Function to Off; EMS Mode to Standby, no change; GTA, off, down, no change; and GTA cover, secure, no change. Over.
+As per the list, they start with the Entry Monitoring System.
+091:54:08 Swigert: Okay. EMS Function, Off, Mode, Standby, GTA, off; GTA cover secure.
+091:54:15 Kerwin: Roger. CMC Attitude to IMU, no change; FDAI scale, 5/5, no change; FDAI Select number 1; and FDAI Source, GDC. Over. [Pause.]
+This sets up the IMU as the attitude reference being used for the computer, and selects the BMAGs as the attitude reference for the FDAI 8-ball.
+091:54:36 Swigert: Okay. CMC Attitude, IMU; FDAI scale, 5/5; FDAI, select 1; Source GDC. Hey, what you do is just read the ones that have the changes, Joe, and I'll read back to you, everything, where you stop.
+Jack suggests a new procedure they will use from now on.
+091:54:54 Kerwin: Okay; fine. The next one that changes is three down, where we go, "MAN Attitude Pitch to Rate Command." Over.
+The Rate Command mode is actually not wired, and simply sets the system on standby on each axis here.
+091:55:09 Swigert: Go ahead.
+091:55:15 Kerwin: Okay. The next one, two, three, four are unchanged. And then we want Translation Controller Power to Off, Rotation Control Power Normal, two, to Off; and Rotation Control Power Direct, two, to Off. Over.
+They switch the hand controllers off to ensure no accidental maneuvering.
+091:55:36 Swigert: Okay.
+091:55:39 Kerwin: Okay. The next two are unchanged. And we want the 3 BMAG switches in Rate 2. Over. [Pause.]
+091:55:54 Swigert: Okay.
+091:55:57 Kerwin: Okay. The next one, two, three, four, five, six, seven, eight are unchanged, and we get down to the ELS Auto switch which we want in Manual. Over. [Pause.]
+091:56:13 Swigert: Okay.
+091:56:14 Kerwin: Okay. And we want CM RCS Logic, Off, down, and the rest of the page is unchanged. Over.
+091:56:27 Swigert: Okay. Let me read back the whole page.
+091:56:29 Kerwin: Okay. Go.
+091:56:32 Swigert: EMS Function, Off; Mode, Standby; GTA, down; GTA cover, secure; CMC Attitude, IMU; scale, 5/5; FDAI Select, 1; Source, GDC; Att Set, GDC; Manual Attitude Roll, Pitch, Yaw, Rate Command; Limit Cycle, Off; Deadband, Min; Rate, High; G&C Power, Off; Rotation Control Power Normal, two, Off; Rotation Control Power Direct, two, Off; Spacecraft Control, SCS; CMC Mode, Free; BMAG, Roll, Pitch, Yaw [garble] [Long pause.]
+091:57:25 Kerwin: Jack, Houston. You are not coming through. And request you talk a little more directly into the mike. I've got the BMAGS in Rate 2. And start from there. Over. [Pause.]
+091:57:39 Swigert: [garble] SPS thrust to Normal; Delta-V thrust, two, Off; SCS TVC Pitch and Yaw to Auto; SCS Gimbal Motors Pitch and Yaw Off; Delta-V/CG, LM/CSM; ELS Logic, Off; ELS Auto to Manual; CM RCS Logic Off, down; CM Propellant Dump, Off; Propellant Purge, Off; IMU Cage, Off; EMS Roll and .05g, Off.
+The rest of the switches concern the SPS engine and the Command Module RCS thrusters. Everything is configured to Off.
+091:58:09 Kerwin: Okay. That's 100 percent, Jack. Let's go to page 2. And we start with alpha Pc to Pc, and Launch Vehicle/SPS Indicators to GPI. Over.
+Baseline configuration, page 2
+091:58:26 Swigert: Okay. Keep going.
+091:58:28 Kerwin: Okay. The next three are unchanged. And then the Event Timer Start to Stop. Over.
+091:58:38 Swigert: Okay.
+091:58:39 Kerwin: Okay. The next ones, on panel 1 are unchanged, and on panel 2, go all the way down to SM RCS propellant talkbacks, and in parenthesis scratch out "eight," and put "four to gray," and then pencil in a line "SM RCS propellant talkbacks, four, to barber pole." Over. [Long pause.]
+The now inert SM RCS is configured to the Off position also.
+091:59:20 Swigert: Okay. Let me ask you. SM RCS propellant talkbacks, four, barber poles. And you want the switches? And you think [Garble]?
+091:59:33 Kerwin: I guess that's the config - Stand by 1, and I'll check that. [Long pause.]
+091:59:54 Kerwin: Okay, Jack. The switches all remain in their present position, which is center, but we - Because we have no power on the bus, the bottom row of talkbacks will be spring loaded to the barber pole position and that's for your information. Over.
+The talkbacks are springloaded, but turning the switches will actuate the mechanical switches inside.
+092:00:12 Swigert: Oh, that's right. Oh, I knew that. I'm not thinking too well.
+092:00:19 Kerwin: Okay. Now the next one, two, three, four, five are the same, and we want EDS Auto to Off. Over.
+EDS Auto refers to the Emergency Detection System, which would operate during the launch and automatically scan for mission-ending failures in the Saturn V launch vehicle. In Auto mode, it is allowed to issue an abort to rescue the crew faster than they could react to such emergencies themselves.
+092:00:33 Swigert: Okay.
+092:00:34 Kerwin: Okay. The next three are the same, and then we want Propellant Dump to RCS Command; 2 Engine Out to Off and Launch Vehicle Rates to Off. Over. [Pause.]
+They continue to set switches that would be important for launch to the Off position, since they are now superfluous.
+092:00:53 Swigert: Okay. Let me read back the whole page.
+092:00:55 Kerwin: Go.
+092:00:58 Swigert: Alpha/Pc to Pc; Launch Vehicle SPS Indicator to GPI; TVC Gimbal Drive Pitch and Yaw to Auto; Event Timer Reset, up; Event Timer Start to Stop; Event Timer Minutes, Seconds to center; Postlanding Vent valve, push; Probe Extend/Release to Off; Extend/Release talkbacks, two of them, gray; Dock Probe Retract, Primary and Secondary, off; extend Running Lights/EVA Lights, Off; extend Running Lights - Rendezvous Light, Off - got to get a - there you go - Tunnel Light, Off; LM Power Light, Off; Service Module RCS Helium, four, center; Helium 1 talkback, four, gray; Up Telemetry Command Module and IU to Block; Command Module RCS Pressure, off; Service Module RCS Indicator, Propellant Quantity; Service Module RCS Helium 2, four, center; Helium 2, four, talkbacks, gray; Service Module RCS Heaters, four, Off; Service Module RCS Propellant, four, center, on, up; Service Module Propellant talkback, four, gray, and four, barber pole; RCS Command, center; RCS Transfer, center. [Garble]
+The configuration keeps all the SPS-related components offline.
+092:02:38 Kerwin: Okay ...
+092:02:40 Swigert: Joe, are you with me? ...
+092:02:41 Kerwin: Jack, Houston. The comm kind of gets better and worse and the last one I copied was RCS Transfer to center. Start from there.
+092:02:51 Swigert: Okay. And that's exactly where I was. Command Module RCS Propellant 2, center, on, up; Propellant talkbacks, two, gray; Service Module RCS Secondary Fuel Pressure, four, center, and Closed; EDS Auto, Off; Command Module/LM Final Sep, two, off; Command Module/Service Module Sep, two, down; S-IVB/LM Sep, off, down, guarded; Propellant Dump to RCS Command; 2 Engine Out and LV Rates, Off.
+092:03:27 Kerwin: Okay. That's correct. Let's go to page 3, and the first one on page 3, Tower Jett, two to Off. Over.
+The Launch Escape Tower systems are obviously also superfluous, and need to be set to Off.
+Baseline configuration, page 3
+092:03:41 Swigert: Okay.
+092:03:42 Kerwin: Okay. The next one, two, three, four, five, six, seven are the same, and then we get Caution/ Warning Normal to ACK, Caution/Warning CSM to CM, and Caution/Warning Power to Off. Over. [Pause.]
+The Mission Timer remains Off for the moment. The next item to be configured is the Caution and Warning System. The Launch Checklist suggests setting the C/W to Boost mode which disables the red Master Alarm light. This is to prevent the crew, rattled by the G forces and the rocket launch, from mistaking the alarm light to an Abort light. They set it to ACK mode, which turns off the systems status lights on the top of the console. They also configure the system for detecting issues only in the Command Module, considering the Service Module is not functioning. In the end they switch power to Off.
+092:04:05 Swigert: Okay. Got it.
+092:04:06 Kerwin: Okay. The next one, two, three, four are the same, and then we get to the H2 Heaters, two, Off; and the O2 Heaters, two, Off. Got that?
+092:04:21 Swigert: Yes. [garble] we don't have any H2 or O2 [garble]. Okay.
+Unsurprisingly, they agree that powering the cryo tank systems is not necessary.
+092:04:29 Kerwin: Okay, Jack. Those are the only changes on page 1-3.
+The rest of the page concerns the cooling systems, and remains configured as given in the list.
+092:04:37 Swigert: Okay. Power Jett, two, Off. And then I'll just go on down: Caution and Warning Normal to Acknowledge; Caution and Warning CSM - Caution and Warning CSM to CM; Caution and Warning Power, Off; H2 and O2 Heaters, Off.
+092:04:58 Kerwin: That's correct, Jack. Those are the only changes on 1-3. Now, let's go to 1-4. No changes on the remaining three panel 2 switches. On panel 3, the first one, two, three, four are unchanged and then we want Fuel Cell Heaters, three, to Off. Over.
+Baseline configuration, page 4
+092:05:19 Swigert: Okay.
+092:05:21 Kerwin: Okay. The next one, two, three, four, five, six, seven, eight are the same, and then we want Fuel Cell 1 Main Bus A to Off; and, skipping one, we want Fuel Cell 2 Main Bus A to Off. Over.
+092:05:45 Swigert: Okay.
+092:05:46 Kerwin: Okay. Skip two, and then we want Fuel Cell 3 Main Bus A talkback to gray. Over.
+092:06:00 Swigert: Okay.
+092:06:01 Kerwin: Okay. The next one, we want Main Bus A Reset to Off; skip one, and we want Fuel Cell 1 Main Bus B talkback to gray. Over.
+092:06:17 Swigert: Okay.
+092:06:18 Kerwin: Okay. Skip one, and we want Fuel Cell 2 Main Bus B talkback, gray; and, the next one, we want Fuel Cell 3 Main Bus B to Off. Over.
+092:06:31 Swigert: Okay. Copied that.
+092:06:32 Kerwin: Okay. Skip one, and we want Main Bus B Reset to Off. Over.
+092:06:42 Swigert: Okay.
+092:06:43 Kerwin: All right. Then the next one, two, three, four, five, six are the same, and then we want S-Band Transponder to center, Off; skip one, and we want S-Band Power Amplifier, High to center, Off; and the Power Amplifier talkback to barber pole. Over. [Pause.]
+092:07:10 Swigert: Okay. Read back the changes on this page - Stand by. I [garble] another Omni. [Pause.]
+092:07:27 Kerwin: Jack, Houston. Start in again. I wasn't copying that.
+092:07:34 Swigert: Okay. I've just got to switch Omnis. Okay. Reading the change, Joe, on pages 1-4, Fuel Cell Heaters three, Off, coming down to Fuel Cell 1 Main Bus A center - Main Bus A to Off; Main Bus - Fuel Cell 2 to Main Bus A, Off; Fuel Cell 3 to Main Bus A, talkback, gray; Main Bus A Reset to Off; Fuel Cell 1 to Main Bus B talkback, gray; Fuel Cell 2 to Main Bus B talkback, gray; Fuel Cell 3 to Main Bus B to Off; Main Bus B Reset, Off; S-Band Transponder to Off; S-Band Power Amplifier, High to Off; Power Amplifier talkback barber pole.
+There are a large number of changes on this page, mostly because it contains the fuel cell configuration. They are all set to Off, since they no longer have any functioning units.
+092:08:33 Kerwin: Okay, Jack. That's completely correct on 1-4. Let's go to 1-5, and on that page the first one, two, three, four, five, six are the same, and we want Up Telemetry Command to Off. Over.
+Baseline configuration, page 5
+092:08:53 Swigert: Okay.
+092:08:55 Kerwin: Okay. The next one, two, three are the same, and we want VHF AM B to center. Over.
+092:09:06 Swigert: Got it.
+The VHF radio is once again kept offline.
+092:09:08 Kerwin: The next one, two, three, four are the same, and we want S-Band Squelch to Off, and Fuel Cell Reactant Valve, to Normal. Over.
+092:09:22 Swigert: Okay.
+They turn the noise suppression in the radio off, and secure the fuel cell reactant valve switches.
+092:09:23 Kerwin: Okay. The next one, two, three are the same, and then we want Tape Recorder Forward to center; Tape motion talkback, barber pole; SCE Power to center; and PMP Power to center. Over.
+092:09:46 Swigert: Okay.
+This configures the onboard tape recorder to off, and powers off the telemetry system until they want to turn it on.
+092:09:47 Kerwin: Okay. Skip the next one, and we want AC Inverter 1 to Off, and AC Inverter 2 to Off. Over.
+092:10:01 Swigert: Okay.
+092:10:02 Kerwin: Okay. Skip the next one, and we want Inverter 1 AC 1 to Off, and skip two and we want AC 1 Reset to Off. Over.
+092:10:14 Swigert: Okay.
+092:10:15 Kerwin: Okay. Skip 1, and we want Inverter 2 AC 2 to Off; and skip 1, and we want AC 2, Bus to Reset - AC 2 Bus Reset to Off.
+092:10:34 Swigert: Okay.
+These switches would usually be configured to supply the Command Module systems with power during the launch, but now everything is turned off, considering they will start from an unpowered spacecraft.
+092:10:35 Kerwin: That was AC 2 Bus Reset, wasn't it? Okay. Skip the next one, and on panel 4, we want SPS Gaging to Off; Telcom Group 1 to Off; Telcom Group 2 to Off; and Glycol Pumps to Off. Over. [Pause.]
+Further communications-related power switches are turned off.
+092:11:00 Swigert: Okay. Reading back. Up Telemetry Command to Off; VHF AM B, Center; S-Band Squelch to Off; Fuel Cell Reacs Valves to Normal; Tape Recorder Forward, center; Tape Motion, barber pole; SCE Power, Center; PMP Power, Center; AC Inverter 1, Off; AC Inverter 2, Off; Inverter 1 to AC 1, Off; AC 1 Reset, Off; Inverter 2 to AC 2, Off; AC 2 Bus Reset, Off; and coming to panel 4, SPS Gaging; Telcom, Group 1; Telcom, Group 2; and Glycol Pumps all Off.
+092:12:03 Kerwin: Okay. That's correct on 1-5, Jack. Let's go to the 1-6. And the first line we want Suit Compressors, both, to Off. Over. [Long pause.]
+Baseline configuration, page 6
+092:12:46 Kerwin: Okay, Jack; Houston. It's noisy again; I didn't copy your Roger on that.
+092:12:55 Swigert: Okay. How do you read now, Joe?
+092:12:58 Kerwin: You're loud and clear now, and let's go to panel 5. We want Fuel Cell Pumps AC 1, Off; AC 2, Off; and that's the Fuel Cell 1 Pumps, AC 1, Off; Fuel Cell 2 Pumps, AC 2, Off; Fuel Cell 3 Pumps, AC 2, Off; G/N Power, Off, and both the Main Bus Ties Off. Over.
+Again, all the power cell-related systems are left unpowered.
+092:13:27 Swigert: Okay.
+092:13:28 Kerwin: Okay. Skip two, and then we want Interior Integral Lighting, Off; and Interior Floodlight, Off. Scratch out "Full dim or full bright." Over.
+They want to make sure that the interior lights are turned off before they start powering up.
+092:13:45 Swigert: Okay.
+092:13:47 Kerwin: Okay. And circuit breakers on panel 5 we want all open. Over. [Long pause.]
+092:14:08 Swigert: Okay. [Pause.]
+Panel 5 is the right-hand side panel, which would be Fred's station, and has the circuit breakers for many systems, such as the ECS and guidance systems.
+092:14:15 Kerwin: Okay. On panel 6, skip the first one. We want Power to Off, and skip down then to Suit Power to Off. Over.
+092:14:26 Swigert: All right.
+092:14:27 Kerwin: Okay. On panel 7 we want EDS Power, Off. TVC Servo Power 1 and 2, Off; FDAI/GPI Power, Off; and Logic 2 slash 3 Power, Off. Over.
+Panel 7 is on the left-hand side, at the commander's station. They turn off power to the Emergency Detection System and the FDAI 8-ball.
+092:14:49 Swigert: Okay. I'll read back. Suit Compressor 1 and 2, Off; Fuel Cell Pumps 1, 2, and 3, Off; G/N Power, Off; Main Bus Ties, Off; Interior Integral Lighting, Off; Interior Floodlighting, Off; then coming down, all circuit breakers on panel 5 open; panel 6, the Power should be Off; Suit Power should be Off; panel 7, all 5 of those switches should be Off.
+092:15:39 Kerwin: Okay, Jack. That's correct. Go to page 1-7. SCS Electronics Power, Off; SCS Signal Conditioner/Driver Bias 1 and 2, Off; and BMAG Power, both, Off; and Direct O2 valve to close. Over. [Pause.]
+Baseline configuration, page 7
+092:16:08 Swigert: Okay. SCS Electronics Power, Off; both Signal Conditioner/Driver Bias Power, Off; BMAG Power, two of them Off; Direct O2 to close.
+092:16:21 Kerwin: Okay. Now on panel 8, I'm going to have to read you a number of circuit breakers that we want open, and so start with CB panel 8 all closed except leave the two that we have there CM/RCS Heaters, open, and Float Bag open, and add the following. I'll read them up one at a time, and you can Roger. SCS Logic Bus, four, to open. Over.
+Panel 8 is the large circuit breaker and switch panel on the left-hand side.
+092:16:52 Swigert: SCS Logic Bus, four, open.
+092:16:56 Kerwin: Right. SPS Pitch and Yaw, four, to open. [Pause.]
+092:17:09 Swigert: SPS Pitch and Yaw, four, to open.
+092:17:13 Kerwin: Roger. SPS Gaging, four, to open. [Pause.]
+092:17:26 Swigert: SPS Gaging, four, open.
+092:17:31 Kerwin: Okay. And Seq Arm, two, open. [Long pause.]
+092:17:53 Swigert: Okay. Are you with me? Seq Arm, two of them open.
+Seq Arm refers to the Sequential systems, which usually are the systems with automated elements, such as the abort systems and the parachute deployment.
+092:17:58 Kerwin: Roger. The next is EDS, three, to open.
+092:18:05 Swigert: EDS, three, open.
+092:18:08 Kerwin: Roger. The next are ELS Bat A, Bat B, two, open. [Long pause.]
+092:18:27 Swigert: ELS Bat A and Bat B, two of them, open.
+092:18:30 Kerwin: Roger. Postlanding Vent Flight slash Postlanding to open. [Long pause.]
+092:18:50 Swigert: Okay. Postlanding and Postlanding Vent, open.
+092:18:57 Kerwin: Okay. That was the - Yes, the Postlanding Vent, that's FLT/PI, to open. The next are SCS Direct Ullage, two, to open. [Pause.]
+092:19:15 Swigert: SCS Direct Ullage, two, open.
+092:19:21 Kerwin: That's correct, and the next ones are SM RCS Heater A Main B, and Heater C Main B, open. [Long pause.]
+092:19:45 Swigert: Okay, Service Module RCS Heater Main B, open, and Heater C Main B, open.
+092:19:53 Kerwin: That's correct, and SM RCS Heater B Main A, open, and Heater D Main A, open. Over. [Long pause.]
+092:20:22 Swigert: Okay. Got those, too.
+092:20:25 Kerwin: Okay, Jack. That's the last of the additions to this page. Go back to the regular checklist, and go to the Auto RCS Select switches. We want all 16 of them open. Over. That is Off.
+092:20:43 Swigert: Okay. Okay. They're sitting at Off right now. All 16 Auto RCS switches Off.
+They ensure that power to all the Service Module's 16 RCS jets is turned off.
+092:20:57 Kerwin: Okay. Then we go down to interior Numeric Lighting, Off: Interior Integral Lighting, Off; and Interior Flood Lighting, Off. Over.
+092:21:13 Swigert: Okay.
+092:21:15 Kerwin: Okay. Skip 3. We want SECS Logic, two Off, down, and SECS Pyro Arm, two Off, down. Over. [Pause.]
+092:21:31 Swigert: Okay.
+092:21:33 Kerwin: Okay, and on panel 9: Power to Off. Over.
+092:21:42 Swigert: All right.
+092:21:49 Kerwin: Okay, Jack. I don't think you need to read back all the circuit breakers because we copied them as you went. If you just want to read back - the panel 8, panel 9 changes.
+092:22:05 Swigert: All right, let's do it. SCS Electronics Power, Off. [garble] panel 8. All 16 RCS switches, Off. Interior Numerics Lighting, Off; Interior Integral, Off; Interior Flood Lighting, Off. SPS Logic, two, down and Off. Pyro Arm, down and Off. Then panel 9 is Power to Off.
+092:22:42 Kerwin: Okay; that's correct, Jack. Let's go to page 1-8. In the second line, Suit Power's Off. Over. [Long pause.]
+Baseline configuration, page 8
+092:23:12 Swigert: Okay. [Pause.]
+092:23:20 Kerwin: Okay, Jack. comm sounds a little...
+092:23:23 Swigert: ...[garble] too many changes here.
+092:23:28 Kerwin: ...comm sounds better now, Jack...
+092:23:30 Swigert: Okay, we're back. We...
+092:23:32 Kerwin: Good. Suit Power was Off, and then go to panel 10, Power, Off, and Suit Power, Off. Over.
+These switches control further communications gear inside the cabin.
+092:23:42 Swigert: Okay. I got it.
+092:23:44 Kerwin: Okay. And that's the only changes on pages 1-8. Over.
+092:23:51 Swigert: Okay. Suit Power, Off; panel 10, Power and Suit Power, Off.
+092:23:57 Kerwin: That's correct. Go to page 1-9 and on panel 100, skip the first four. We want IMU Power, Off. Over.
+Baseline configuration, page 9
+Panel 100 has the power switches for the IMU - usually never turned off during flight, but now they will have the interesting task of trying to get it back online.
+092:24:11 Swigert: Okay.
+092:24:12 Kerwin: Okay. Skip the next one, and we want Numerics Lighting, Off; Flood Lights, Off; and Integral Lights, Off. Over.
+092:24:25 Swigert: All right.
+092:24:26 Kerwin: Okay. On panel 101, skip the first three. We want Urine Dump to Off, and Waste Water Dump to Off. Over.
+Panel 101 has the Systems Test Meter as well as the switches for the onboard dump systems.
+092:24:39 Swigert: Got it.
+092:24:41 Kerwin: Okay. On panel 122, the only change is Condition Lamps to Off. Over.
+Panel 122 has the controls for the CM optics.
+092:24:51 Swigert: All right.
+092:24:53 Kerwin: Okay. Panel 162, no change. Panel 163, no change. Now add, in panel 201, Food Warmer to Off. Over. [Pause.]
+Panels 162 and 163 are utility power sockets. Panel 201 has the power switch for the electric food warmer.
+092:25:13 Swigert: Okay. Got it.
+092:25:14 Kerwin: Okay. On panel 225. It will read the same except I have three additional circuit breakers that we want open, and I'll read them up one at a time. The first one is S-Band FM Transmitter DSE, Group 1, open. Over. [Long pause.]
+Panel 225 has circuit breakers that govern power to the Command Module communications systems.
+092:25:46 Swigert: S-Band Transmitter DSE, Group 1, open.
+092:25:51 Kerwin: Roger that. The next one is Flight Bus, Main A and Main B, and that's two breakers, both open.
+092:26:06 Swigert: Flight Bus, Main A and Flight Bus, Main B, two of them, open.
+092:26:13 Kerwin: Okay. That's correct. The last change is CTE, both open. Over.
+092:26:26 Swigert: Could you say that again?
+092:26:29 Kerwin: Affirmative. Central Timing Equipment, CTE, both open. Over.
+092:26:37 Swigert: Okay, CTE, two, open.
+092:26:41 Kerwin: Affirmative. And that's all the changes on page 1-9.
+092:26:48 Swigert: Okay. Let me read it back here. [garble] order [garble] Power, Off. Numerics Lighting, Flood Lighting, and Integral Lighting, three of them, Off. Panel 101, Urine Dump Heaters, Urine Dump to Off, Waste H2O to Off. Panel 122, Condition Lamps, Off. Panel 201, Food Warmer, Off. Panel 225, add additions that I read: S-Band Transmitter DSE, Group 1; Flight Bus, Main A and Main B, CET, two to open.
+092:27:27 Kerwin: Okay. That's correct, Jack. Let's go to page 1-10. And on panel 226 ...
+Baseline configuration, page 10
+092:27:33 Swigert: All right. We are going to switch Omni. Got a switch on the Omni.
+092:27:39 Kerwin: Okay. [Pause.]
+092:27:51 Swigert: Okay. How you reading?
+092:27:53 Kerwin: Okay. Satisfactory, Jack. You ready for panel 226?
+092:27:58 Swigert: Let's go.
+092:28:00 Kerwin: Okay. On panel 226, we want all open accept; so change word "Closed" to "Open" and then scratch out the next three lines because we want them open, too. Over.
+Panel 226 has the circuit breakers that govern power to the fuel cell, cryo tank and onboard lighting systems. Are all left unpowered.
+092:28:18 Swigert: Okay. All open accept and you're going to give the ones you want open.
+092:28:24 Kerwin: Right. I'll give you the opens now. We want Lighting: Flood, Main A, Main B, and Flight/Postlanding, closed. [Long pause.]
+092:28:51 Swigert: Okay. Lighting: Flood, Main A; Lighting: Flood, Main B, closed; and Flight/Postlanding, closed.
+They leave the lighting circuits closed.
+092:28:59 Kerwin: Roger, Jack. EECOM tells me that's all one circuit breaker, and the next one is Lighting: Numerics/Integral, LEB AC2, L MDC-AC1, and R MDC-AC1 to closed, and that's one circuit breaker also.
+092:29:26 Swigert: Okay. I don't know whether I can read that all back. Okay, Lighting: Numeric/Integral and I didn't get the rest of it, Joe ...
+092:29:40 Kerwin: Okay. Stand by 1 second while I make damn sure about this.
+Comm break.
+This is Apollo Control. We're anticipating a change of shift press conference with the Maroon Team Flight Director Milton Windler and Maroon Team Retrofire Officer, Tom Weichel within the next 10 or 15 minutes in the main auditorium. Apollo 13 now 183,306 nautical miles out from Earth; velocity 3,907. Medical status now: Lovell had about 3 hours plus sleep during the night; Swigert had 8 hours; Haise has been asleep 6 hours and still sleep at this time.
+092:30:59 Kerwin: Jack, Houston. Over.
+092:31:02 Swigert: Go ahead.
+092:31:04 Kerwin: Okay. On the 226 circuit breakers that I read up, they are - there are six circuit breakers involved and they're all - they're the first six from the left on the bottom row of the panel. They're under Lighting. We want the three Flood circuit breakers out and the three Numeric/Integral circuit breakers - I don't mean out, I mean closed. Those six closed and the rest open. Over.
+092:31:39 Swigert: Okay. There are three Flood circuit breakers and three Numeric circuit breakers and you want all six of those closed.
+092:31:49 Kerwin: That's affirmative, Jack, and all the rest open. Okay. Panel 227, no change, and panel 229, one addition to the circuit breakers we want open, and those are the Timers, Main A and Main B, two, to open. Over. [Pause.]
+Panel 227 is another utility socket. Panel 229 has breakers for various systems, including some system monitoring instrumentation and onboard timing equipment.
+092:32:17 Swigert: Okay. Okay, you want the Timing circuit breakers, two of them, open.
+092:32:24 Kerwin: That's affirmative. Okay. On panel 250...
+092:32:27 Swigert: ...panel 229.
+092:32:29 Kerwin: ...we want all closed except, and then scratch out all the ones that are there. Over.
+Circuit breakers on panel 250 control various configurations of battery power that can be applied to the systems needed for making a safe landing as well as battery ties in case one of the batteries fails.
+092:32:40 Swigert: Okay. All closed except. Okay. I'm ready to copy.
+092:32:50 Kerwin: Wait 1 minute. Yes, EECOM caught me; I said that wrong. We want you to change the word "Closed" to "Open," and then scratch out the ones that are there. Over.
+092:33:03 Swigert: Okay. All open [Garble]
+092:33:10 Kerwin: Okay. The two that we want closed are Sequencer A and Sequencer B. Over. [Long pause.]
+These two breakers supply power from the pyro batteries to the sequential systems that operate the pyrotechnic devices - including those that deploy the parachutes during landing.
+092:33:37 Swigert: Okay, Panel 250.
+092:33:42 Kerwin: Say again, Jack. Comm is just improving.
+092:33:48 Swigert: Okay. I had to switch Omnis here. And the two you want all open on panel 250 except Sequence A and Sequence B.
+092:33:59 Kerwin: That's correct. Panel 251, no change; panel 252, Waste Stowage Vent valve, closed. Over.
+092:34:12 Swigert: Waste Stowage Vent valve, closed.
+Panel 251 is the overboard dump control. The Waste Stowage Vent is used to bleed out air from the storage compartment meant for the crew's feces, which would be carried back to Earth for scientific analysis. This anti-odour measure would also have the secondary effect of helping the cabin air bleed out during their ascent to space in their launch - a necessity so that the onboard oxygen-nitrogen atmosphere is flushed out and replaced by their 100-per-cent oxygen flight atmosphere.
+092:34:15 Kerwin: Roger. And, on panel 275, we want all the circuit breakers open; no exceptions. Over.
+092:34:26 Swigert: Panel 275, all open; no exceptions.
+Panel 275's breakers are important, governing entire main buses as well as the AC inventers.
+092:34:30 Kerwin: Okay, and that's all for page 1-10. You want to read any of that back? I think you've got it all.
+092:34:39 Swigert: No, I think I've got it all.
+092:34:41 Kerwin: Okay. Let's go to page 1-11. On panel 276, no change; on panel 278, we want all circuit breakers open; no exceptions. Over.
+Baseline configuration, page 11
+They leave the instrumentation power breakers on panel 276 closed, and open all on 278, which would be only needed for landing.
+092:34:57 Swigert: Panel 278, all open.
+092:35:00 Kerwin: Roger. Now we'll skip all the way down to panel 306 where we want the Mission Timer to Stop and the Event Timer to Stop. Over. [Pause.]
+Panel 306 is the Lower Equipment Bay mission timer.
+092:35:23 Swigert: Okay. Panel 306, Mission Timer, Stop; and Event Timer, Stop.
+092:35:28 Kerwin: Okay. And those are all the changes on 1-11, Jack.
+092:35:35 Swigert: Okay. Ready for 1-12.
+092:35:37 Kerwin: Okay. On page 1-12, panel 325, we want both Cabin Pressure Relief valves to Normal. Over.
+Baseline configuration, page 12
+092:35:49 Swigert: Okay. Both to Normal.
+092:35:52 Kerwin: Okay. On panel 326, we want the Repress Package valves to Off; the SM O2 Supply valves to Off; the Surge Tank O2 valve to Off. Over.
+092:36:10 Swigert: Okay. Repress, Service Module O2 Supply, Surge Tank O2, three of them, to Off.
+092:36:19 Kerwin: Roger. You did include the Repress Package there. Okay, Glycol Reservoir IN valve to Closed. Bypass to Open, and OUT valve to Closed. Over. [Pause.]
+092:36:37 Swigert: Okay. Glycol Reservoir IN valve Closed; Bypass valve Open; and Reservoir Out valve Closed.
+092:36:51 Kerwin: That's affirmative. Panel 350, no change. Panel 351, Main Regulator valves, two, to Closed, and the H2O/Glycol Tank Pressure Regulator valve, Off, and Relief valve, Off. Over. [Pause.]
+092:37:17 Swigert: Okay. Main Reg valve, two, to Closed. Water/Glycol Tank Pressure Reg and Relief valves, both Off.
+This configuration leaves all their oxygen sources and the cooling system shut off for now.
+092:37:27 Kerwin: Okay. That's affirm. Those to the left, changes on 1-12. Let's go to 1-13.
+Baseline configuration, page 13
+092:37:35 Swigert: Okay. Ready to copy.
+092:37:37 Kerwin: Okay. Go down to panel 380, O2 Demand Reg valve, Off, and Suit Circuit Return Valve, pulled to Open. Over. [Pause.]
+092:37:56 Swigert: Okay, both O2 Demand Reg valves are Off and Suit Circuit Return Valve pulled Open.
+092:38:05 Kerwin: That's correct. Go to panel 382. The first one, two, three, four are unchanged. We want Sec Evap H2O Control valve Off, and PRIM EVAP H2O Control valve to Off. Those both are both counterclockwise. Over. [Long pause.]
+092:38:35 Swigert: Okay, Houston. Reading back 382, Secondary Evaporator H2O Control valve's Off, and Primary Evaporator H2O Control valve, Off.
+092:38:49 Kerwin: That's correct. Those are the only changes on 1-13, and there are no changes on 1-14, and you've got it all, Jack. Over.
+Further controls for the cooling system are set to the 'Off' position.
+Baseline configuration, page 14
+Page 14 only concerns the CM side hatch, and they do not want to touch that!
+092:39:01 Swigert: Okay. Real good, Joe. [Garble] configures for that panel.
+092:39:08 Kerwin: Okay. You can get those configures when you can. And the next order of business I've got for you is a procedure to verify that Main Bus B is good. And a little after that, we'll want to read up to you, for your future information, a procedure for transferring LM power to the Command Module. Over.
+092:39:33 Swigert: Okay. That sounds good. You want to get this PLSS configuration done first before you give those other procedures, huh?
+092:39:44 Kerwin: Yes, I think so. Stand by 1 second and I'll see if Flight has any words for us before you start that. [Long pause.]
+092:40:22 Kerwin: Jack, Houston. Over.
+092:40:26 Swigert: Go ahead.
+092:40:27 Kerwin: Okay, we don't have anything for you. Our only concern is that you'll wake up somebody; is there anybody sleeping right now?
+092:40:37 Swigert: No. We're all sitting here eating. I'm just going to get a bite to eat. Then I'll write down that switch configuration, or I'll copy the procedure now, if you want.
+092:40:48 Kerwin: Yes, okay. Understand they are all up. Did you say you wanted to copy the other procedure now? Over.
+092:40:57 Swigert: I can if you want. It's your choice.
+092:41:00 Kerwin: I'd rather you went ahead with the switch configuration, Jack.
+092:41:06 Swigert: Okay, let's do that and then I'll be back with you.
+092:41:10 Kerwin: Okay. See you later. And tell Jim that Deke wants him to go to bed.
+092:41:21 Swigert: Okay. I'll tell him that right now.
+092:41:24 Kerwin: Okay.
+092:41:25 Swigert: I'll tell you, I'll get my switch set done first before I eat so I won't disturb Jim any.
+092:41:31 Kerwin: Aquarius, Houston. Over.
+092:41:36 Swigert: Go ahead.
+092:41:37 Kerwin: Stand by 1 minute, Jack, before you go in there. Flight has got one other item for you.
+092:41:48 Swigert: Deke wants you to go to bed. [Long pause.]
+092:42:17 Swigert: Right now. [Long pause.]
+092:42:30 Swigert: [garble] like that [garble] I got up about 1 hour [Garble]. [Long pause.]
+092:43:31 Swigert: You know what I thought - I think what we saw venting was the result of our Delta-Vs stirring up things, popping the relief valve. Yes. We don't see anything venting now. [Garble] [Pause.]
+092:44:03 Swigert: Okay, Houston. We are standing by. [Pause.]
+092:44:12 Kerwin: Aquarius, Houston. Over.
+092:44:16 Swigert: Okay, Joe.
+092:44:18 Kerwin: Okay, Jack. You can go ahead and set up that switch configuration. What we are discussing is having you activate the Main Bus Tie motor switches a little later on simply to verify that they will be okay, because the batteries are probably getting a little bit cool. But we'll be back to you with a procedure and discussion about that after you get the switch configuration set up. Over.
+092:44:47 Swigert: Okay, I'm going to go get the switch configuration done now before Jim goes to bed so I don't disturb him.
+092:44:55 Kerwin: Okay. Real fine.
+092:45:00 Swigert: Jim thinks Deke sounds like Frank Borman on Apollo 8.
+Frank Borman was Jim's Commander during their historic lunar orbital flight in December 1968. The three-man crew suffered from sleep deprivation due to the attempt to keep one man at watch at all times while the others tried to sleep in the cabin. Frank Borman also fell ill in the early part of the flight and would have been particularly tired and prone to being disturbed by any crew activity while trying to catch up on his sleep.
+092:45:04 Kerwin: [Laughter.] Okay.
+092:45:06 Slayton: Sorry about that.
+Deke drops by to joke with the crew here.
+092:45:11 Swigert: I'm going to give the comm to Freddo, now. [Long pause.]
+092:45:59 Lovell: Houston, Aquarius.
+092:46:02 Kerwin: Aquarius, Houston. Go ahead.
+092:46:07 Lovell: Okay, before I hit the sack, Joe, I just want to make sure - How are you still planning an MCC at 107 and what's the latest find?
+092:46:16 Kerwin: Okay, Jim. We are still gathering our thoughts on the MCC, but some of the considerations go like this: FIDO tells us that we can do that correction probably as late as 118 hours, with no significant Delta-V penalty, and with plenty of tracking thereafter to make sure that we've done the right thing, and to set you up for a late MCC if we need it, which we probably wouldn't. We are happy with the PTC mode that you are in now, and, although we are working up a - an AGS PTC mode to use after the midcourse correction, we'd kind of like you to stay in this PTC for a while because it is doing good. We are looking at the weather in the landing area. We don't think we'll have a problem but we are checking it real close, and if there is any changing that we want to do, we want to get it into this midcourse correction. And for reasons like that, we are - we are considering possibly delaying the midcourse correction from 104 hours to sometime between there and 118. We'd like to know what you think about it. Over.
+092:47:33 Lovell: We have no druthers. As long as we do the midcourse and there is plenty of tracking thereafter to correct for another midcourse; that's my only concern.
+092:47:44 Kerwin: Okay, Jim. Roger that. And based on FIDO's input that he'd like to do it not later than 24 hours before EI, we will be doing it prior to 118 hours.
+092:47:57 Lovell: Okay. [Long pause.]
+092:48:38 Haise: Hello, Houston; Aquarius.
+092:48:43 Kerwin: Aquarius, Houston. Go.
+092:48:48 Haise: Question, Joe. Jim has been talking to me about how we are going to do this midcourse, and awhile back when we went through this power up, we had pulled the Stab/Control ASA breaker. I was wondering - we lost the heaters in the ASA - I was wondering how it looked? What kind of shape it's going to be in?
+The ASA is the Abort Sensor Assembly and contains attitude and acceleration sensing equipment. With no heaters on, they might be losing their accuracy over time.
+092:49:18 Kerwin: Okay. Stand by on that one, Fred.
+092:49:24 Haise: Okay. [Long pause.]
+092:49:48 Kerwin: Fred, Houston.
+092:49:52 Haise: Go ahead.
+092:49:53 Kerwin: Roger. I am told that we'd see 38 degrees for that package, and it'll be okay for the burn. We're massaging the detail procedures for this burn at this time and we expect to have a real clean setup to you in plenty of time.
+092:50:12 Haise: Okay, very good. [Long pause.]
+092:50:30 Haise: And I don't know if Jack passed it on to you, but Jack and I just finished logging about 6 hours sleep, each. [Long pause.]
+092:50:51 Kerwin: Roger, Fred. Copy that. Is it a little chilly up there?
+092:50:58 Haise: Yes. We made the mistake of putting up the window shades, which we won't do again; and with this powered-down mode, we're not generating much internally, and it really did get chilly.
+Diagram of the CM window shades.
+The window shades can be used to block light in the Command Module. This could be done for various reasons, ranging from reducing glare on their instrument displays to controlling sunlight for photography, or to help with dark acclimation for a crewman intending to use the navigational optics. However, they have now discovered that covering the windows has prevented the sunlight's heating effect as well and as a result the Command Module has become even colder than before.
+092:51:13 Kerwin: Yes. I guess you'll have to generate your own heat in there for a while.
+092:51:19 Kerwin: Deke says unstow the Exer-Genie. [Pause.]
+092:51:26 Haise: Okay.
+Very long comm break.
+In-flight Exerciser
+A bizarre contraption is carried in the Command Module, and is meant for the crew to share so as to perform some exercise using the rubber bands in it for resistance in zero G.
+This is Apollo Control. We are anticipating the start of the change of shift press conference within the next few moments in the Building 1 auditorium (main auditorium). The participants will be the Maroon team Flight Director Milt Windler and retrofire officer from that team Tom Weichel. Changes in procedure - the spacecraft power up and checklist being passed up by Joe Kerwin went to the crew. We've had no bio-medical telemetry in the last several hours from the crew and there's been no report of any medication having been taken by the crew of Apollo 13. Distance now from Earth, 182,390 nautical miles, velocity 3,920 feet per second. Total spacecraft weight 87,942 pounds at 92 hours 54 minutes Ground Elapsed Time and standing by this is Apollo Control.
+092:57:47 Kerwin: Aquarius, Houston. Over.
+092:57:52 Haise: Go ahead, Houston.
+092:57:54 Kerwin: Fred, just wanted to let you know in advance that we're coming up on the redline CO2 value for the secondary canister, and we expect to get there in something like a half hour, at which time we'll be asking you to switch over to the Command Module canisters. I have the rest of that procedure ready and I just wanted to warn you a little bit in advance. Over.
+092:58:20 Haise: Okay. And I've got a question for you, Joe.
+092:58:25 Kerwin: Go ahead.
+092:58:31 Haise: Okay. The - I need to find out if the condensate container that we were going to use to strain some water in on the lunar surface - is that container also completely airtight? Okay to use it to put fluid in through here in zero g?
+092:59:01 Kerwin: Fred, I didn't copy what you wanted to use it for. Over. [Pause.]
+092:59:09 Haise: [garble] [Pause.]
+092:59:21 Kerwin: Fred, Houston. We'll have to stand by for 1 minute. We are in a noisy state of comm.
+092:59:29 Haise: Okay. How do you read now, Joe?
+092:59:31 Kerwin: Oh, that's much better. Go ahead.
+092:59:36 Haise: Okay. I was just going to say we haven't had an overboard waste water dump since clear back around the other side of the Moon. About this time, we're running out of the bags we've got on board here. [Long pause.]
+They were told not to dump any water or urine overboard early on in the emergency, and have stuck to the rule. As a result, the LM cabin is starting to get filled up with urine bags.
+093:00:03 Kerwin: Okay. I'm - I'm stupid this morning, Fred. I'm not quite sure what you are getting at.
+It is about quarter past 10 in the morning in Houston, on the 15th of April, 1970.
+093:00:14 Haise: Okay, Joe. We need some place to put the urine.
+093:00:18 Kerwin: Okay. It sounds to me as if the suggested receptacle is perfectly satisfactory. Do you think you can use it in its present configuration?
+093:00:34 Haise: Oh, yes. We got all the interconnects - hookups we need, but I wasn't sure if that gadget was devised solely with the 1/6g environment in mind, and whether it might leak somehow in zero g. [Long pause.]
+Fred plans to use a water tank in the LM to store their human wastes instead, but is worried about potential leakage. Nobody wants that, especially since the urine system was prone to leaving such droplets floating around even on normal operation, if they were not careful.
+093:00:50 Kerwin: I'll have them verify that, but off the top of my head, I'm sure it's going to be all right. We'll check it, Fred.
+093:00:59 Haise: Okay.
+Long comm break.
+093:05:22 Haise: Okay. How do you read, Joe?
+Very long comm break.
+093:11:53 Haise: Houston, Aquarius. [Pause.]
+093:12:01 Kerwin: Aquarius, Houston. Go ahead.
+093:12:06 Haise: Okay, Joe. One thing I've noticed, that a couple of circuits there now - the pulse [garble] - at least the number of them, is markedly decreased, and [garble] rather bad and, apparently, that added venting we had out of the Service Module was some overboard relief valve, maybe letting go, because it appears to have stopped now.
+093:12:38 Kerwin: Okay, Fred. Copy that. Thank you.
+Very long comm break.
+093:23:14 Haise: Houston, Aquarius.
+093:23:17 Kerwin: Aquarius, Houston. Go ahead.
+093:23:24 Haise: What do you read down there for partial pressure CO2?
+093:23:29 Kerwin: Oh, let's see. We're reading 6.6 right now, Fred. What do you read? [Pause.]
+093:23:38 Haise: I'm reading about 12.5. I guess we've got a gage problem [garble] I did just get a Master Alarm and no caution light; we kind of figured that's what it was, with CO2 approaching its limit. Maybe it didn't quite come out here.
+093:23:59 Kerwin: Okay. Let me get a Go, and I think it's time for us to go ahead and put these other canisters on. Stand by 1.
+093:24:08 Haise: Okay. We went to 15 on the primary last night before I changed it and ...
+093:24:16 Kerwin: Roger that, Fred. We wanted to ...
+093:24:18 Haise: ...I don't have a steady - I don't have a steady ECS light on at this time, Joe, so it must have just been a momentary.
+093:24:28 Kerwin: Okay. We know when you went to 15 last night on primary. We want to switch out today at 7.6. Let me check and see if we're ready.
+093:24:41 Haise: Okay. [Long pause.]
+093:25:13 Haise: Yes. That's what it is, Joe. I've got something going on this alarm [garble] ECS light.
+093:25:24 Kerwin: Fred, Houston. The comm isn't too sharp and I didn't copy.
+Comm break.
+093:26:34 Kerwin: Okay, Aquarius; Houston ...
+093:26:37 Haise: Houston, Aquarius. How do you read?
+093:26:38 Kerwin: ...Why don't you try it now? You're loud and clear now, Fred.
+093:26:42 Haise: Okay. I was just - I'm getting Master Alarms every few seconds and I am catching a glimmer now of the ECS light. For the time being, I have [garble] - [garble] open. Okay, now we got the ECS light on steady.
+The ECS light comes up in a variety of situations, including when the carbon dioxide level gets too high. They have been using the LM secondary filter for several hours and suspect it is nearing its end.
+093:27:07 Kerwin: Okay. Copy that. You have the Master Alarm, with the ECS light. We are ready to go ahead and get you on the Command Module canisters. And as the first step, I'd like to know whether you've inserted the commander's red hose to the second canister bag. Over.
+093:27:29 Haise: Okay. Yes. Sure enough; the commander's red hose is inserted into the canister bag.
+093:27:39 Kerwin: Okay, Fred. The next thing I'd like you to do is to take some more gray tape and tape over half the outlet area of each of the blue nozzles; the commander's and the LMP's. The reason we're doing this is we're going to be running this loop through the secondary LiOH canister hole with the canister removed, and we don't have the flow restriction we need to keep the separator from overspeeding. Over.
+093:28:11 Haise: Okay. Yes, that's right. So we want to tape over half of the - both the blue and the red commander hoses. Is that right?
+093:28:22 Kerwin: Negative, Fred. That's half of the commander's blue hose and half of the LMP's blue hose - the outlet hoses.
+093:28:31 Haise: Oh, okay. I'll tape over half of each of the outlets. Stand by.
+093:28:37 Kerwin: Okay.
+Long comm break.
+The ECS loop has a water separator, used to remove excess moisture generated by the crew in their exhalations. By limiting the airflow into their newly jury-rigged life support system, they will try to prevent the separator from causing trouble due to the altered air flow characteristics in the originally carefully balanced system.
+093:31:40 Haise: Okay. I'm going to turn off one suit flow valve at a time while I am doing the taping, Joe.
+093:31:51 Kerwin: Say again, please, Fred.
+093:31:56 Haise: Okay, while I'm doing the taping, I'll have that particular suit flow valve in the suit Disconnect position momentarily.
+093:32:03 Kerwin: Okay. Fine.
+Very long comm break.
+093:43:46 Haise: Okay. How do you read now, Joe?
+093:43:49 Kerwin: Okay, Fred. Reasonable comm. Are you ready for the next step? Over.
+093:43:57 Haise: Okay. One correction - the red hose that's connected up right now to the lithium cartridge in the LMP's - Wait a minute.
+093:44:17 Kerwin: Okay, Fred. Understand only the LMP's red hose is actually plugged into the canister bag. In that case, we would like you to follow the procedure for inserting the other red hose in the other canister bag as follows: you cut a diagonal hole in one corner of the bag. Look at the other bag and see how it was done. Stick the hose in about 6 inches. Try to get the outlet nozzle down if you can, or else sideways, and then just tape up the hose to the bag to make a nice tight seal. Over.
+093:45:02 Haise: Okay. Jack's back in here. I guess he can do that. Stand by.
+093:45:08 Kerwin: Okay. [Long pause.]
+093:45:58 Haise: How do you read, Joe?
+093:46:00 Kerwin: Okay, Fred. Is that done? Over.
+093:46:06 Haise: No. That's still in works. I just wanted to comment you might pass on to Steve Grega, we thank you a lot for those rendezvous procedures. They went to making up these little boxes.
+093:46:29 Kerwin: Okay. We appreciate your appreciating it. We're just having a ball down here working on all kinds of new procedures, Fred. The CPCB is in session, and we expect to have your entry procedures out here by Saturday or Sunday at the very latest.
+093:46:50 Haise: Saturday or Sunday?
+093:46:52 Kerwin: At the very latest! [Long pause.]
+093:47:14 Haise: Take your time, Jack. [Long pause.]
+093:47:36 Haise: Why don't you run that other hose back up in the tunnel so Jim can get some air. [Long pause.]
+093:47:54 Haise: Yes. I got it.
+Long comm break.
+This is Apollo Control. For the benefit of newsmen at the Houston news center, there will be a briefing in the main auditorium momentarily regarding the Apollo pressure suit; the briefer will be Mr. Bruce Ferguson of ILC Industries, in the main auditorium to start within the next few moments. At 93 hours, 49 minutes, Ground Elapsed Time, and standing by, this is Apollo Control.
+093:51:52 Haise: And Joe, how you read now?
+093:51:55 Kerwin: Satisfactory, Fred. Go ahead.
+093:52:01 Haise: Okay. Back to the condensate container. I guess the only question I really need answered is will it leak?
+093:52:11 Kerwin: Is will it leak? Oh, yes. Stand by 1. [Pause.]
+093:52:22 Haise: And we've checked all the fittings and I know I can hook everything up to our UCDs. So, if it doesn't leak, we can transfer.
+093:52:31 Kerwin: Okay, Fred. We still don't have a final answer on whether or not it'll leak. if you need it, I'd go ahead and use it; and standing by for your completion of the hose-insertion procedure.
+093:52:52 Haise: Okay. The hose-insertion procedure [garble] the second cartridge is complete.
+093:52:59 Kerwin: Okay. That's complete. The next step is to switch to the primary CO2 canister and remove the secondary canister and stow it. Over.
+093:53:14 Haise: Okay. I'm going to have to get off comm here; I'll let Jack get the headset.
+093:53:19 Kerwin: Okay. [Pause.]
+093:53:28 Swigert: Hey, Joe. I'm on the headset now. [Long pause.]
+093:54:06 Haise: Is that secondary? [garble] secondary? [Pause.]
+093:54:24 Haise: Both cartridges are out. [Pause.]
+093:54:33 Swigert: Okay, Joe. Fred has the secondary cartridge out. We're back on primary now.
+093:54:39 Kerwin: Okay, Jack. The next step is to place the Command Module canisters with the hoses attached in a suitable location to permit the bottom of the canister to be exposed to free airflow and tape them in place. Ideally, well, it doesn't matter. Just - just pick out your own spot.
+093:55:05 Swigert: Okay. I'm going to tell you where they are. They're both situated, as you say, with the bottom of the canister exposed to free air, and one is sitting right by the - the LMP's is sitting right by the EPS panel, and the CDR's is up in the tunnel.
+093:55:26 Kerwin: Jack, Houston. The comm got real noisy there, and I didn't copy that. Stand by a moment. [Long pause.]
+093:56:02 Swigert: Okay, Joe. How do you read now?
+093:56:04 Kerwin: Okay. That's real good, Jack; go ahead.
+093:56:09 Swigert: Okay. The canisters are situated as you - as you would like with the bottom of the canister exposed to free air.
+093:56:17 Kerwin: Okay.
+093:56:18 Swigert: The position of the LMP's canister - The LMP's canister is sitting on the EPS panel now, and the CDR's canister is positioned up in the tunnel.
+093:56:31 Kerwin: Okay. Real fine, Jack. The next step is to physically separate both blue hoses a good distance away from the canister so that we don't short circuit the flow, and tape them in place; and the ideal location for them would be up in the turmel so as to get, some flow into the Command Module. Over.
+093:56:57 Swigert: Both hoses in the - up into the Command Module?
+093:57:03 Kerwin: Oh, you can use your judgment on that, Jack. We'd like at least one, and the recommendation that I got was to put them both up in the tunnel.
+093:57:15 Swigert: Okay. We have the LMP's blue hose up by the LMP's window and the - Of course, the red hose is separated by some 4 feet. And the - Okay. We're going to - and the other hose - the - has the extension on it - The CDR's blue hose, of course, has the extension on it, and it's blowing way up in the Command Module. And the red hose is about - Oh, it's right at the docking ring where the blue latches are, so there's about 4 or 5 feet difference from there, too. Is this satisfactory?
+093:58:03 Kerwin: Okay, Jack. That sounds satisfactory. The next steps are - are suit-loop configuration steps, and the first one is to ...
+Diagram of the hose positions, presented to the Flight Director. From Flight Log.
+Photograph AS-13-02-29981, interior of the docking tunnel. Color correction by David Woods.
+In-flight photo shows the suit hoses extending from inside the LM cabin and into the docking tunnel to ventilate the Command Module using the new LiOH canister rig.
+093:58:14 Swigert: Okay. Suit DIV ...
+093:58:17 Kerwin: ...is to place the Suit Diverter valve to the Pull-Egress position.
+093:58:26 Swigert: Okay. Suit Diverter valve to Pull-Egress.
+This closes the suit circuit, and hence the atmosphere will flow through the suit circuit, rather than into the cabin. They want to do this so that all the air will go through their new canister filter.
+093:58:31 Kerwin: That's affirmative ...
+093:58:32 Swigert: That's done ...
+093:58:33 Kerwin: Okay. The next step is Cabin Gas Return to Egress. Over. [Pause.]
+The Cabin Gas Return valve controls whether the cabin air is allowed to flow into the ECS system. They select Egress to close the circuit, so that the onboard air will flow through the hose plugged into the canister.
+093:58:43 Unrecognized crewman: [Garble]. [Long pause.]
+This is Apollo Control. The briefing on the Apollo suit should begin momentarily in the main auditorium in the Houston News Center. Bruce Ferguson of ILC C industries.
+093:59:24 Kerwin: Okay, Jack. Did you copy Cabin Gas Return to Egress. Over.
+093:59:32 Swigert: No, I didn't get that, Joe. Cabin Gas Return to Egress.
+093:59:37 Kerwin: That's correct.
+093:59:43 Swigert: Okay. That's done.
+093:59:45 Kerwin: Okay. Next, Suit Circuit Relief to Close. Over.
+093:59:52 Swigert: Suit Circuit Relief to Close.
+Suit Circuit Relief valve allows the suit circuit to release gas into the atmosphere if the pressure rises too high. They set this to Close position now, to maintain circuit integrity.
+093:59:55 Kerwin: Roger.
+094:00:01 Swigert: Okay. I got that done.
+LM ECS controls.
+The ECS panel on the back of the LM cabin has the controls they are using now to configure the cabin air flow as they need it to be, for their new filtering system to work.
+094:00:03 Kerwin: Okay. And the last step is select secondary CO2 canister. We'll let it flow through the empty hole, and let's see how we do.
+094:00:13 Swigert: Select secondary CO2 canister.
+With the secondary canister removed, this selection allows the suit circuit air to flow into the empty canister compartment, but first it will go through the suit hose and the CM lithium hydroxide canister hooked up to it, to scrub the atmosphere.
+094:00:16 Kerwin: Roger, Jack. That completes that procedure, and the next thing I've got for you is a procedure for going back into the Command Module and powering up the main buses temporarily using the Bus Tie switches. We want to do this for two reasons: first of all, we want it absolutely verified that there are no loads on the main buses, that we've got: everything off and that the buses look good; and the second thing we want to do is to power the bus - the main buses, with the Bus Tie motor switches, and then depower them by pulling the circuit breakers, leaving the Main Bus Tie switches in the On position, just to assure that they'll be there when we need them, whether the batteries get cold or not. Over.
+The finished adapter on its position. The second canister was taped onto the first later in the mission to provide further scrubbing capacity without having to rebuild the entire adapter.
+This diagram from the Apollo 13 Investigation Board report shows the LiOH rig installation. It draws cabin air through the canister using the suction from the suit fans. As the air passes through the canister, the CO2 is absorbed by the lithium hydroxide. Newly cleaned atmosphere flows through the empty LM LiOH installation and then through the fans and the water separator. From here the air exists through the open suit hoses, blowing into the Command Module to replenish their atmosphere as well.
+Day 4, part 3: Heading Homeward
+Journal Home Page
+Day 4, part 5: Checking Odyssey

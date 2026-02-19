@@ -1,0 +1,679 @@
+Apollo 15 Flight Journal - Transposition, Docking and Extraction
+Earth Orbit and Translunar Injection
+Journal Home Page
+SPS Troubleshooting and the PTC
+Apollo 15
+Transposition, Docking and Extraction
+Corrected Transcript and Commentary Copyright © 1998-2025 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2025-02-22
+Index to events
+Go for Transposition and Docking
+003:16:41 GET
+CSM/S-IVB Separation
+003:22:24 GET
+CSM/LM hard dock
+003:33:50 GET
+Scott mentions SPS Thrust light issue
+003:36:12 GET
+LM ejection from S-IVB
+004:18:01 GET
+S-IVB evasive burn
+004:40:45 GET
+The spacecraft has begun the long, three day ballistic coast to the Moon; the translunar coast or TLC. As might be viewed from an imaginary spacecraft flying in formation with Apollo 15, the assemblage still looks like the top third of the Apollo/Saturn V stack, though with the escape tower and Boost Protective Cover missing. The nearly empty S-IVB third stage has all but completed its tasks yet continues to dominate the size of the vehicle. At the opposite end of the S-IVB from the single J-2 engine, the LM is hidden from view, nestling within the conical shroud known as the SLA. (NASA sources of the time give varying meanings for this acronym; either Service Module/Lunar Module Adapter as in the Flight Plan or, more commonly, Spacecraft/Lunar Module Adapter.) Finally the familiar cylinder and cone of the CSM (Command/Service Module) give a streamlined appearance to it, although now there is no need for sleek lines in the vacuum between Earth and the Moon. The stack is 40 metres long and 6.6 metres at its widest, weighing over 65 metric tonnes; not an insubstantial load to have propelled away from Earth at escape velocity.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. Tracking now showing the spacecraft at 1,383 nautical miles [2,561.3 km] out, directly over the Corpus Christi, Texas tracking station, but beginning the tail stand and loop backward to the west as the Earth rotates beneath the trajectory of the spacecraft.
+Apollo 15 Earth orbital groundtrack
+These two maps of Apollo 15's ground track are taken from the AS-510 Saturn V Flight Manual. The upper map displays the looping of the ground track after TLI.
+Apollo 15 is no longer circling Earth in a low, fast orbit, but instead is moving away from it at an even higher velocity. However, its ground track slows relative to the speed of Earth's rotation and eventually goes backwards while its attitude becomes tail Earthwards.
+Velocity dropped off somewhat from the initial cut-off velocity of 35,000 and some odd feet per second [10,600 m/s]; now down to 30,436 feet per second [9,276.9 m/s]. Estimated time of closest approach to the Moon; now 78 hours, 34 minutes Ground Elapsed Time. Continuing to stand by and monitor the preparations for the maneuver to separation attitude - the actual separation of the Command Service Module from the Spacecraft/LM Adapter and docking with Lunar Module and finally the ejection of the Apollo 15 spacecraft from the S-IVB stage, which will have done its job quite well apparently, in what is shaping up, thus far, to be a completely nominal mission. This is Apollo Control at 3 hours, 8 minutes, 37 seconds Ground Elapsed Time. Standing by live on air/ground.
+Section 3 of the CSM Launch Checklist carries seven pages of procedures to take the crew through the separation of the CSM from the launch vehicle, and the TD&E [Transposition, Docking and Extraction] maneuvers they are about to perform. At this point, Al Worden takes over the spacecraft's flying controls on the left by swapping couches with Dave.
+The first item on the TD&E checklist is to bleed enough oxygen into the Command Module to ensure the cabin pressure is at 39.3 kPa (5.7 psi). This is in preparation for pressurising the LM in half an hour's time, when this cabin air, essentially O2, will be bled from one spacecraft through to the other via the tunnel.
+The APS (Auxiliary Propulsion System) modules, attached to the base of the S-IVB, maneuver the stack to the correct attitude for the coming exercise and Al enters a figure of 100 (fps) on the Delta-V display on the EMS (Entry Monitor System). The EMS will use its own accelerometer to update this display so the CMP can monitor his velocity changes throughout the maneuver. Note that he does not want to use the EMS around the zero point and is artificially biasing the reading to '100'. Therefore, subsequent changes in velocity will be displayed relative to this figure.
+Woods, from 1998 correspondence with Scott: "Was there a problem with operating the Delta-V part of the EMS around the zero point? Was it unable to display negative numbers or was there an instrumentation reason for the 100 fps bias?"
+Scott, from 1998 correspondence: "I think the EMS had some slop around 0, but was very tight at 100, and easy to interpret."
+Cabin pressure onboard Apollo 15 now 5.5 pounds per square inch. Heart rates currently for Scott, Worden and Irwin respectively at 65, 69 and 69.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Flight Director Gerry Griffin [is] polling the Flight Controllers in the room for a Go for Transposition. Docking and Extraction. [We've] heard no No-Gos so far. He's telling CapCom to tell them it's Go.
+003:16:37 Fullerton: Apollo 15, Houston.
+003:16:39 Scott: Houston, 15.
+003:16:41 Fullerton: Everything looks good here. You're Go for Transposition and Docking.
+003:16:46 Scott: Roger. Go for Transposition and Docking.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. Apollo 15 now 3,654 nautical miles [6,767 km] out from Earth. Velocity now 25,178 feet per second [7,674 m/s]. Total weight, including the spent S-IVB stage, 144,157 pounds [65,538.5 kg]. Continuing to monitor the air/ground [communication] as the crew of Apollo 15 prepares to turn around and move the Lunar Module out of its garage. 3 hours, 21 minutes have been live on the air/ground. This is Apollo Control.
+003:21:14 Worden (onboard): Coming up.
+003:21:20 Scott (onboard): Okay.
+003:21:21 Worden (onboard): I have a GDC Align.
+003:21:33 Scott (onboard): Okay. That's a pretty good ...
+003:21:35 Irwin (onboard): ...
+003:21:39 Scott (onboard): Okay.
+003:21:41 Worden (onboard): GDC Align's complete?
+003:21:42 Scott (onboard): Yes.
+003:21:43 Worden (onboard): Okay, EMS Function, Delta-V. That's a verify.
+003:21:45 Scott (onboard): Verified.
+003:21:46 Worden (onboard): EMS Mode, Normal.
+003:21:47 Scott (onboard): Normal.
+003:21:48 Worden (onboard): Okay, got the DET set at 59:30.
+003:21:49 Scott (onboard): Right.
+003:21:50 Worden (onboard): Start that whenever you want.
+003:21:51 Scott (onboard): Okay. ...
+003:21:53 Worden (onboard): Okay.
+003:21:54 Scott: Okay, Houston, 15; 30 seconds [to go before separation].
+003:21:57 Fullerton: Roger.
+Dave Scott's 30 second call coincides with the starting of the event timer which had previously been set to read 59:30. It counts up through (1:)00:00, the time for separation, and helps the crew sequence their activities around the event.
+Two seconds before the spacecraft separates from the S-IVB, Al Worden fires the plus-X thrusters to ensure the CSM will move away once it is free. Separation is executed at zero on the event timer by pressing on a push button on the Main Display Console and occurs at 003:22:24 GET. The CSM/LV Separation pushbutton is one of a group of eight guarded pushbuttons, most of which are only used as a manual back-up for otherwise automatic events. It is the only one on that sub-panel which is used in a normal mission.
+003:22:05 Worden (onboard): Okay. At 50, we'll go to BMAGs, Att 1/Rate 2; CMC, Auto; and come off in CMC. There is Att 1/Rate 2; CMC, Auto, at 58, we'll get plus-X.
+003:22:31 Worden (onboard): One, 2, 3. Okay.
+003:22:32 Scott (onboard): Okay.
+003:22:33 Worden (onboard): Okay.
+003:22:34 Scott (onboard): Now get your valves, D. They look good.
+003:22:35 Worden (onboard): Okay. Engine valves going to SCS.
+003:22:36 Scott (onboard): ... eight, gray.
+003:22:39 Worden (onboard): Okay. I'm going to pitch over.
+003:22:43 Scott (onboard): Okay.
+003:22:44 Worden (onboard): Here we go.
+003:22:49 Scott: Okay, Houston; we got a good Sep.
+003:22:51 Fullerton: Roger.
+Separation of the CSM from the SLA is a fast but complex event. A train of explosive cords sever electrical connections between the Service Module and the S-IVB; they cut the metal structure joining the SM to the SLA to allow the spacecraft to come free; they cut the upper 75 per cent of the conical SLA into four long sections which are now only joined to the S-IVB by spring loaded partial hinges at the centre of their lower edge; they set off pyrotechnic thrusters, mounted within the intact portion of the SLA, which force pistons to push on the outside edge of each SLA panel, causing them to begin rotating away from the enclosed Lunar Module. Once the panels have rotated about 45° from the centreline of the launch vehicle, the hinges disengage, allowing the springs within the hinge assembly to push the panels away at about 2.5 m/s, leaving the LM exposed on top of the Saturn's third stage.
+An image from the Apollo collection regularly reproduced in books is of the S-IVB for Apollo 7, seen from the CSM, which clearly shows the panels still attached. The commander of this mission, Wally Schirra, was unhappy that one of the panels had not fully deployed and that they seemed prone to flexing. He cancelled a planned docking test for fear of a panel hitting the spacecraft and NASA subsequently arranged for SLA panels to be jettisoned completely away from the vicinity.
+003:22:59 Scott: And Prime Propellant B, Secondary, and Delta Prime and Secondary with barber pole, and they're both gray, now - reset.
+003:23:08 Fullerton: Roger.
+Comm break.
+Dave is informing Mission Control that propellant isolation valves for the B and D thruster quads, part of the Service Module's RCS system, have closed from the shock of the separation. This has already occurred in the mission. See the commentary at 000:55:52 for a discussion of the problem. Note that he refers to "both" though according to the Mission Report, three valves have closed. He has reset (opened) them.
+Once the CSM separates from the launch vehicle, Al continues firing the plus-X thrusters using the THC (Translation Hand Controller) to move the spacecraft away. The change in velocity is monitored by the Delta-V display on the EMS panel on the upper left of the Main Display Console, and it should reach about 0.5 fps (0.15 m/s).
+Fifteen seconds after separation, while the spacecraft is still drifting away from the S-IVB, Al begins pitching up at 2° per second, four times faster than detailed in the checklist. Pitching up will bring the S-IVB and the LM into view of the windows earlier than if they pitched down.
+Worden, from the 1971 Technical debrief: "The transposition and docking was just as nominal as it could be. We came off the S-IVB and did the SCS [Stabilization Control System] turnaround and then trimmed the final maneuver with the G&N [Guidance & Navigation]. I guess I started translating in [towards the S-IVB] a little bit more slowly than would have been - may have been more comfortable if I had translated a little bit faster. And everything was nominal inside the spacecraft at the time. The only thing I noticed about T&D was that the different reaction you get from the spacecraft as opposed to the simulator. The reaction you get from the spacecraft is very positive. You put a little bit of thrust in translation, and you get it right away. You can see the rates right away, which is something you don't always see in the simulator. Outside of that, I thought the T&D was pretty nominal."
+It is not clear why both the checklist and the cue cards specify 0.5°/sec, as it would take 6 minutes to turn around. At 0.15 m/s, they would be 54 metres from the S-IVB by then; needlessly far away. Al has chosen a rate which he feels comfortable with as a pilot, based on his extensive practice on the simulators. Thus, the checklist's role in coordinating the flight is overridden by the skill of the pilot.
+Scott, from 1998 correspondence: "A 'checklist' has several functions. It is a procedural sequence of activities and events used to operate systems, subsystems, components, etc. It is also a guide to the steps necessary to accomplish certain flight objectives, but not necessarily in sequence. It is also a general guideline of the magnitude or scope of operations to be performed in a piloting sense, but not necessarily a rigid requirement to perform to a specific magnitude."
+003:23:12 Scott (onboard): [Garble] panel?
+003:23:15 Worden (onboard): Yes. There goes the panels, right out to the side. Right outside.
+003:23:18 Scott (onboard): Yes, I see them now.
+003:23:19 Irwin (onboard): Yes.
+003:23:20 Scott (onboard): See it?
+003:23:21 Irwin (onboard): Yes.
+003:23:22 Scott (onboard): It's spinning out there. You see the...
+003:23:25 Worden (onboard): What a view! You see the S-IVB?
+003:23:27 Irwin (onboard): Not yet.
+003:23:28 Worden (onboard): [Garble]. We're at 270, now. Oh, ooops. Where is it? [Garble].
+003:23:33 Irwin (onboard): Right over Florida.
+003:23:34 Worden (onboard): Okay. Good shape, man...
+003:23:36 Scott (onboard): Are we?
+003:23:37 Worden (onboard): You look good, good, good, good. Good job. Right in there, babe. Yes, that's good. Oh, look at that.
+003:23:46 Scott (onboard): Take pictures with the cameras.
+003:23:50 Irwin (onboard): Yes.
+003:23:53 Worden (onboard): [Garble] on the TV.
+003:23:55 Scott (onboard): No, forget the TV. The TV looks okay. Get the camera over here and take some pictures.
+003:24:19 Fullerton: 15, Houston. Would you give us Omni Bravo?
+003:24:23 Scott: Omni Bravo.
+Though Dave is talking to Mission Control, Jim is working with the communication system. He has switched their comm to omni-directional antenna B, one of the four S-band antennae mounted around the periphery of the CM. Omni B is now in a more favourable position relative to Earth and Mission Control will be able to switch between it and antenna D as required. A colour TV camera is mounted in window 4, the right-hand rendezvous window, on Jim Irwin's side of the spacecraft. The 64-metre radio dish at Goldstone, California prepares to receive their TV via the HGA (High Gain Antenna). so Mission Control can watch the progress of the docking maneuver.
+The HGA was stowed during launch, folded behind the Service Module alongside the SPS engine bell. After separation from the S-IVB, it is deployed to the side of the SM. It consists of four 79-cm parabolic dishes clustered around a 28-cm square feedhorn. The dish assembly is mounted on an articulated joint at the end of the support arm and can be pointed at Earth under manual or automatic control. The antenna works in the 2 gigahertz range (within what was known at the time as the S-band) and has three modes of operation: wide, for near-Earth operation; medium, for distances up to halfway to the Moon; narrow, for up to lunar distances.
+The choice of beamwidth is a compromise between signal to noise ratio, antenna pointing accuracy and distance. Additionally, there are occasions when the narrow mode of the HGA locks onto a side-lobe of its radiation pattern, usually when reflections from the spacecraft's skin interfere with reception. When this occurs, a fix is to switch to wide beam, let the antenna repoint, then return to narrow.
+A switch on the right-hand side of the Main Display Console selects which signal will use the auxiliary channel of the S-band radio system. If not set to 'Off,' it can carry science data from the SIM bay, or TV from the CM's colour camera.
+003:24:27 Worden (onboard): Okay, I'm going to give it a little plus-X.
+003:24:29 Scott (onboard): Okay.
+003:24:30 Worden (onboard): Going to CMC first.
+003:24:33 Irwin (onboard): Got a T - good TV picture, Dave?
+003:24:35 Scott (onboard): Yes. ... just a little off to the side, Al?
+003:24:38 Worden (onboard): Hum? ... Okay.
+003:24:44 Scott (onboard): Don't want to get too far away, now.
+003:24:46 Worden (onboard): 1, 2, 3, 4.
+003:24:51 Irwin (onboard): ... TV picture is ...
+003:24:53 Scott (onboard): To the right.
+003:24:55 Worden (onboard): Back on CMC.
+003:24:57 Scott (onboard): Okay. ...?
+003:24:59 Worden (onboard): Yes.
+003:25:08 Scott: Okay, Houston. Looks like you've got a good LM in there [in the SLA], and we're rolling now, and the opening rates are stopped, and you should have a TV [picture].
+The CSM has moved away from the S-IVB, turned around and is facing its quarry - the LM. While Jim is sorting out the TV and deploying the High Gain antenna, Al fires the plus-X thrusters for about 4 seconds. This not only stops their motion away from the S-IVB, it starts bringing them towards the LM at about 0.03 metres per second (0.1 fps). As the two vehicles slowly come together, he maneuvers the CSM in roll to align their frames of reference.
+Worden, from the 1971 Technical debrief: "When we first separated, the EMS counted up as I expected. When we turned around, the thing [EMS] backed down again. We started out at 100 [fps, a figure Al had preset onto the display before separation; not the speed afterwards], and it went up to about 125 or 126 [probably means 100.25 or 100.26 fps]. When we turned around, it was down to 99.2, 99.3 or something like that. So, the EMS was affected by the turnaround. As a matter of fact, during the whole TD procedure, I had the EMS set up and had the accelerometers turned on. I was in Delta-V [mode] and normal, but I really didn't rely at all on the EMS for any indication of Delta-V. I used strictly time on plus-X thrusters and only looked at the EMS as a back-up. In fact, I don't even recall looking at it more than maybe once or twice during the T & D."
+Scott, from 1998 correspondence: "The TD&E is pretty much a manual out-the-window operation, and the actual thrusting time, maneuvers, etc. are left to the pilot [Worden]. The checklist here is more of a guideline rather than a rigid set of procedures as in other situations. Much like the lunar landing, the pilot in the left seat flies mostly visually using the outside scene for reference."
+Scott, from the 1971 Technical debrief: "The procedures, coming off the S-IVB and turning around, put us in a very good relative position when we got around. It was just nicely positioned as to distance from the S-IVB. We weren't too far away and we weren't too close; just very comfortable."
+Woods, from 2004 mission review: "Transposition. Can you go through with me the different RCS modes - there's Rate Command, Accel Command and exactly what's happening there. When you come off the S-IVB and you do a turnaround, is that done by saying, 'I want to go to a particular attitude,' and then the spacecraft turns that, or do you just pull back and line yourself up?"
+Scott, from 2004 mission review: "Either way. The needles will tell you where you are so you can pitch up manually - And the difference between Rate Command and Accel, Accel is just direct jets. bang, bang, you turn the jets on and the spacecraft will start moving. Rate Command, when you break the hand controller out, it's proportional - the rate of movement is proportional to the deflection of the hand controller. In Direct, it's not. You're just firing the jets on or off. Minimum Impulse limits the amount of firing on or off. So we use mostly Minimum Impulse to save propellant. Very seldom Rate Command - I don't remember flying Rate Command."
+O'Brien, from 2004 mission review: "Really?"
+Scott, from 2004 mission review: "It uses too much propellant. You don't need it. I don't think any of us thought it would be needed but I don't remember ever, ever using it. Accel is just direct on. I turn the jets on, pssst, and I turn them off. So I can turn them on and off briefly. But Minimum Impulse is more efficient because I don't overshoot. So I can pulse it and get what I want in terms of movement without overshooting. If I turn the jets on in Accel, then I may overshoot by having turned them on too long."
+Al guides the CSM towards the LM/S-IVB to drive the probe at the apex of the CM into the concave drogue at the top of the LM. The conical shape of the drogue shepherds the tip of the probe towards a central hole which is just large enough to accept the three spring-loaded latches spaced around the probe's tip. When these engage, a 'soft' dock condition has been achieved. In this state, the two vehicles are free to rotate about the gimbal mounted tip.
+003:25:18 Fullerton: Roger. We haven't got the [TV] picture up here yet. Stand by, and I'll give you a check on that.
+003:25:22 Scott: Okay. [Long pause.]
+003:25:26 Scott (onboard): Okay.
+003:25:38 Irwin (onboard): I can shift that camera if you want, Dave.
+003:25:39 Scott (onboard): No. It would just be ... the orientation the LM has for the attitude.
+003:25:47 Worden (onboard): Yes, that is a big bang when you come off of there, isn't it?
+003:25:50 Scott (onboard): Yes.
+003:25:58 Irwin (onboard): Guess we're - what, 50 feet?
+003:26:04 Worden (onboard): Take it at f/8.
+003:26:06 Scott (onboard): All I've got to look at it is the TV picture.
+003:26:21 Fullerton: 15, Houston.
+003:26:23 Scott: Go, Houston.
+003:26:25 Fullerton: Goldstone's receiving the carrier, but we're not getting any signal on the carrier for the TV. Over.
+The radio system is working OK because Goldstone are able to receive the unmodulated radio signal from the HGA which will carry the video information. By telling the crew in this fashion, CapCom Gordon Fullerton quickly and quietly informs them that the TV signal is not switched through the radio equipment in the spacecraft. Either the auxiliary channel of the S-Band transmitter needs to be switched to 'TV' or, more likely, the TV switch is not in 'Transmit'.
+003:26:30 Scott: Okay; we've got a good picture on the monitor up here.
+Scott (onboard): You got the TV switch in the right spot, Jim?
+003:26:40 Irwin (onboard): Well, it's not in Transmit.
+003:26:43 Scott (onboard): What?
+003:26:44 Irwin (onboard): This switch here should probably go to Transmit.
+003:26:46 Scott (onboard): Well, put it...
+003:26:48 Irwin (onboard): Let's try ...
+003:26:51 Worden (onboard): Check those ...
+003:26:53 Irwin (onboard): Do what? How about S-Band Aux TV to TV?
+003:26:57 Scott (onboard): Yes, sir. ...
+003:27:08 Scott (onboard): Hey, we need High Gain, don't we?
+003:27:10 Irwin (onboard): You have. I've got ... use High Gain ...
+003:27:11 Worden (onboard): High Gain.
+003:27:12 Irwin (onboard): ...
+003:27:15 Scott (onboard): Okay.
+Starting to get a black and white picture here, in Mission Control. [It will] take a little while to get it through the converter.
+To save size, weight and power consumption, the TV camera on board the CM has only one imaging tube, rather than the three or four found in contemporary colour cameras. The red, green and blue imaging is achieved by spinning a filter wheel at 600 revs per minute in front of the tube face. The wheel has two sets of three filters for the three primary colours, red, green and blue. At 10 revs per second, it filters the image in one colour for the duration of a TV field, 1/60th of a second. Thus, the resulting black and white video signal emerging from the camera actually consists of fields which sequentially represent red, green and blue. In black and white, the image looks rather flickery, especially in areas of strong colour. Back on Earth, a converter reconstructs a standard NTSC colour signal by combining the images from three consecutive fields. This scheme works well enough for still or slow moving images. However, moving highlights in the scene break up into separate coloured images.
+003:27:14 Fullerton: 15, Houston; we're getting a picture now, and the LM is coming in, in the lower right-hand corner of our field of view.
+003:27:20 Scott: Okay. [Long pause.]
+Scott (onboard): Slew antenna to verify oper - Do you want to do all that, Jim? That's your - Yes, go ahead; take your pictures.
+003:27:33 Irwin (onboard): Well...
+003:27:34 Scott (onboard): Of course, ... your pictures. Take your pictures.
+003:27:45 Worden (onboard): It was a lot slower than I thought it would be.
+003:27:46 Scott (onboard): Strange.
+003:27:47 Worden (onboard): Yes.
+003:28:02 Worden (onboard): ...
+003:28:05 Irwin (onboard): As long as they're getting the picture on the Omni, I guess there's no hurry to - that we get the High Gain up.
+The TV picture is quite clear with the top of the LM and S-IVB filling about a quarter of the screen. The conical drogue is easily seen on top of the LM. Debris is visible slowly tumbling across the screen. The image has a distinctly warm tone to it.
+003:28:10 Scott: Okay, Houston. It looks like we've got a good High Gain Antenna. Do you want us to give you the High Gain or stay on the Omni [antenna]?
+003:28:17 Fullerton: Stand by. [Pause.]
+003:28:26 Fullerton: We'll take the High Gain, Dave.
+003:28:29 Irwin (onboard): There's sure a lot of crap flying out...
+003:28:30 Scott: Rog. Going High Gain. [Long pause.]
+A disturbance in the picture indicates the change from Omni to HGA. At some point in the system, probably in the TV electronics at Houston, the disturbance causes an error in the TV colour system, giving the picture a greenish cast. However, there is little improvement in overall image quality - perhaps slightly cleaner - and none would be expected so close to Earth.
+003:28:56 Scott: Okay, Houston. We're in Auto and Medium. Looks like we got a good lock.
+The CSM Launch Checklist, page 3-3 calls for the newly deployed HGA to be slewed around to check its operation. Jim is happy with it and Dave has offered it to be used for the TV transmission. Being a directional antenna, the HGA will allow a higher signal strength to be received at Goldstone and thus, at lunar distances. improve the signal to noise ratio compared to the omni-directional antenna. Jim has set it to automatic tracking and to medium beamwidth though Mission Control will soon request a change to wide beamwidth.
+003:28:59 Fullerton: Roger; and we're getting a very good picture here. It's - it[the LM]'s over on the right-hand side of the field of view.
+003:29:07 Worden (onboard): Get the DAC going.
+003:29:19 Irwin (onboard): Shall I put the TV ... long, Dave.
+003:29:22 Scott (onboard): Huh! I think it looks good, Jim.
+003:29:26 Irwin (onboard): I can adjust it and get it in center.
+003:29:29 Scott (onboard): No, it's - ... How're you doing?
+003:29:39 Irwin (onboard): How many pictures...
+003:29:34 Fullerton: 15, Houston. [We] request wide beamwidth please.
+003:29:39 Scott: Wide Beam.
+Comm break.
+No disturbance is noticable from this switch. Meanwhile, the camera's aim is improved, bring the drogue completely into view.
+Nearly two minutes after the change to the HGA, the proper colours of the picture are restored.
+003:29:43 Worden (onboard): I find I'm working the stick a lot more than I thought I would.
+003:29:47 Irwin (onboard): Yes.
+003:29:48 Scott (onboard): Just play it cool. We've got plenty of time.
+003:29:51 Worden (onboard): Yes.
+003:29:52 Irwin (onboard): Play it cool.
+003:29:54 Scott (onboard): Six on your camera would be right where you'd want it.
+003:29:56 Irwin (onboard): Okay.
+003:30:29 Irwin (onboard): ...
+003:30:35 Scott (onboard): Okay. I would say we were - what, Jim? 20 feet? 15? 10?
+003:30:40 Irwin (onboard): I have 15 feet on the camera.
+003:30:46 Irwin (onboard): Did we forget anything on that checklist, Dave?
+003:30:49 Scott (onboard): ...
+003:30:54 Worden (onboard): Okay. We're sliding in there, David.
+003:30:56 Scott (onboard): Okay. I think we're about a couple feet away.
+003:31:03 Worden (onboard): Yes.
+003:31:05 Scott (onboard): What do you want to do?
+003:31:07 Irwin (onboard): Put it at 12 frames per second.
+003:31:08 Scott (onboard): Okay, I'd go now if...
+003:31:05 Fullerton: 15, Houston. The centering on the picture is good now, and we're getting an excellent quality picture.
+003:31:11 Scott: Very good. We're almost there.
+Scott (onboard): I'll be watching above the ... over here.
+Comm break.
+While Dave and Jim have been dealing with the TV, the CSM has been slowly coasting towards the S-IVB to dock with the LM. Al is maneuvering the spacecraft from the left seat, looking out of the left rendezvous (or number 2) window. This window, along with window 4 on the right, is built into a recess to allow it to look forward, along the plus-X (longitudinal) axis of the spacecraft, rather than out to the side. A target mounted on the outside of the LM aids the coordination of the docking in conjunction with the COAS (Crew Optical Alignment Sight), an instrument that the crew can place in the rendezvous window and which provides an illuminated reticle. Al looks through the COAS and maneuvers the spacecraft to superimpose the reticle on the LM target. This aligns the CSM with the LM - probe to drogue.
+A sequence of ten colour photographs, AS15-91-12329 to 12338, are taken by Jim using the Hasselblad fitted with magazine M, showing the approaching LM as the CSM moves closer to dock with it.
+AS15-91-12329 - S-IVB stage with Lunar Module Falcon. Note constellation of particles surrounding the stage - Image by NASA/Johnson Space Center.
+AS15-91-12330 - S-IVB stage with Lunar Module Falcon. Note constellation of particles surrounding the stage - Image by NASA/Johnson Space Center.
+AS15-91-12331 - S-IVB stage with Lunar Module Falcon. Note constellation of particles surrounding the stage - Image by NASA/Johnson Space Center.
+AS15-91-12332 - S-IVB stage with Lunar Module Falcon. Note constellation of particles surrounding the stage - Image by NASA/Johnson Space Center.
+AS15-91-12333 - S-IVB stage with Lunar Module Falcon. Note constellation of particles surrounding the stage - Image by NASA/Johnson Space Center.
+AS15-91-12334 - S-IVB stage with Lunar Module Falcon. The concave, cone-shaped docking drogue is on the left and the Rendezvous Radar antenna is near the centre of frame. The chassis of the Lunar Rover is visible beyond the upper thruster quad - Image by NASA/Johnson Space Center.
+AS15-91-12335 - S-IVB stage with Lunar Module Falcon. the Rendezvous Radar antenna is near the centre of frame and the chassis of the Lunar Rover is visible beyond the upper thruster quad - Image by NASA/Johnson Space Center.
+AS15-91-12336 - S-IVB stage with Lunar Module Falcon. The aperture for the Alignment Optical Telescope is left of centre and the Rendezvous Radar antenna is right of centre - Image by NASA/Johnson Space Center.
+AS15-91-12337 - S-IVB stage with Lunar Module Falcon. The overhead docking window is on the left of frame - Image by NASA/Johnson Space Center.
+AS15-91-12338 - S-IVB stage with Lunar Module Falcon. The overhead docking window is on the left of frame - Image by NASA/Johnson Space Center.
+003:31:20 Worden (onboard): Okay.
+003:31:45 Worden (onboard): Okay.
+003:31:56 Scott (onboard): ..., Jim.
+003:32:01 Worden (onboard): Feel it.
+003:32:05 Scott (onboard): Got it?
+003:32:08 Worden (onboard): About there.
+003:32:36 Worden (onboard): ...
+003:32:45 Scott (onboard): Help you?
+003:32:47 Irwin (onboard): ...
+The change in the apparent movement of the LM in the TV image shows that the probe does not hit the centre of the drogue. Rather, the convex shape of the drogue shepherds the tip towards the hole at its centre, taking about five seconds to do so. The latches on the tip then engage with the edge of the hole.
+003:32:49 Scott: Capture.
+003:32:51 Worden (onboard): Free.
+003:32:51 Fullerton: Roger. [Long pause.]
+003:32:57 Scott (onboard): Okay?
+The realignment of the two spacecraft caused by the docking brings the LM's overhead window into view on the right of the image. The off-centre docking puts the CSM at an angle. For the next few seconds, the CSM rotates around the probe tip in a direction that brings the LM window towards the camera.
+From the 1971 Mission Report: "The transposition and docking were accomplished in a fashion that was slightly different from the checklist procedure. All of the procedures up to the point of separation were accomplished as prescribed. The separation was completed with the guidance and navigation system autopilot in control of the spacecraft attitude. After separation, however, attitude control was switched to the stabilization and control system. The manual attitude pitch switch was placed in 'Accel Cmd' and the spacecraft was pitched 180 degrees at a rate of 2 deg/sec. After completion of the 180-degree pitch maneuver, control of spacecraft attitude was returned to the guidance and navigation autopilot and an automatic maneuver was made to the docking attitude. While the automatic maneuver was being performed, forward thrusting was accomplished for approximately 4 seconds to insure positive closing of the Command and Service Module and the S-IVB. The closing rate was approximately 0.1 ft/sec (0.03 m/s). On contact, there was no indication of probe capture latch engagement. Forward thrusting was applied for approximately 1 to 2 seconds and the capture latch indication was then received."
+Scott, from the 1971 Technical debrief: "[Speaking to Worden] In docking, you had to give a little squirt on the plus-X to get the capture latches engaged."
+Worden, from the 1971 Technical debrief: "Yes, that's right. We came in the first time, and I could feel the probe contacting the drogue. We just sat there, and it just seemed to, at least, slow down any forward rate. When I felt that the closing rate had reached a minimum, I gave it a little squirt of X, and it went right in from there."
+Scott, from the 1971 Technical debrief: "Yes, I think there is the tendency to go in a little too slowly. On a dock, that could be compensated by a little plus-X when you got there."
+Worden, from the 1971 Technical debrief: "Yes."
+003:32:58 Worden (onboard): Read the checklist, Jim.
+003:32:59 Scott (onboard): Okay; let's go down the checklist. You get ... Okay, On capture, changing Free, to damp, align pitch and yaw...
+003:33:09 Worden (onboard): Still got a little pitch rate going.
+003:33:11 Irwin (onboard): ...
+003:33:12 Worden (onboard): Huh?
+003:33:13 Scott (onboard): You're fine. Just align pitch and yaw.
+003:33:19 Worden (onboard): Okay.
+003:33:20 Scott (onboard): They're all aligned and damped out?
+003:33:22 Irwin (onboard): ... on the chart. ...
+003:33:26 Worden (onboard): Okay. Looks like we're damped.
+003:33:27 Scott (onboard): Okay; ready?
+003:33:29 Worden (onboard): We're off at a little bit of an angle.
+003:33:30 Irwin (onboard): Here. I can hold this a minute. ...
+003:33:33 Worden (onboard): Okay, Dave.
+003:33:34 Scott (onboard): Yes. ... Ready to retract?
+003:33:35 Scott: We're retracting.
+After the probe has captured the drogue, it is retracted to pull the two craft together taking about eight seconds. If there is a misalignment in pitch or yaw between them, the contact of the docking rings will correct it, with the load being borne by the docking collar. As the TV image shows, because the CSM has swung to one side, there is significant misalignment and for four seconds, the spacecraft yaws to restore alignment.
+From the 1971 Mission Report: "During the docking sequence, the digital autopilot control mode was changed from 'attitude hold' to 'free' while a plus-X translation was being commanded in order to secure a positive capture latch indication. The body rates [i.e. rates of rotation of the spacecraft] induced by contact and plus-X thrusting were not nulled and resulted in misalignment angles of minus 11.0, plus 2.2, and plus 1.6 degrees in pitch, yaw and roll at the start of the retract sequence. The resulting misalignment caused a greater-than-normal structural loading in the docking interface."
+Scott, from 1998 correspondence: "The correct procedure at capture is to switch to CMC Free, which does exactly as described above. One reason for this switching out of attitude hold is to preclude the S-IVB and CSM attitude control systems from 'fighting' each other, whereby one would be automatic firing specific thrusters to compensate for the opposite thrusters being fired on the other vehicle. Not only would this burn excessive propellant in both vehicles, but the attitude control system in either or both might go unstable.
+Scott (continued): "Once capture occurs, the CSM is allowed to settle, or damp, based on the probe head connection with the drogue (hence the LM and S-IVB) as well as the probe pitch arms. Once settled to a reasonable rate, the Retract switch is activated and the probe pulls the two vehicles together. To fire thrusters after capture would aggravate the situation in several ways: (1) the motion resulting from CSM thruster firing would no longer be 'pure' since the CSM is now fixed at one end (no longer free to rotate about its centroid); (2) CSM motion is now being compensated by the S-IVB attitude control system; (3) firing CSM thrusters would again be opposing (fighting) the work the S-IVB was attempting. Besides, the CSM is not going anywhere as long as the capture latches are engaged; the envelope of excursion is limited by the physical geometry of the probe/drogue combination. Once you get capture, you just cool it until things look OK to start the retraction - a judgment call based on experience. The referenced 11 degree pitch angle is really not very much in absolute terms, and may have lessened had we waited longer to start the retraction.
+Scott (continued): "This probe-docking thing is really quite important to the whole scheme of the Apollo concept - a very complex apparatus and one of the few single-point failures in the entire system - but at the end of the day, it was probably one of the more brilliant mechanical devices of the program - it worked every time!!!! And the consequences of its failure were dire, especially after a successful lunar surface expedition and rendezvous with the CSM."
+003:33:36 Fullerton: Roger. [Long pause.]
+003:33:38 Worden (onboard): Okay.
+003:33:40 Scott (onboard): Your rate's going? Don't mess around.
+003:33:51 Scott: Hard dock, Houston.
+003:33:50 Fullerton: Roger.
+003:33:53 Worden (onboard): Great!
+003:33:54 Scott (onboard): Man alive!
+003:33:55 Worden (onboard): Boy! (Laughter)
+003:33:56 Scott (onboard): I should have told you about that. I forgot about it.
+003:33:57 Worden (onboard): Yes. I'm...
+003:33:58 Irwin (onboard): I didn't think we were - it was going to ... that much.
+003:33:59 Scott (onboard): Okay. Let's...
+003:34:01 Worden (onboard): I was expecting it.
+Comm break and TV transmission ends.
+Once the retraction of the probe brings the two vehicles together, twelve automatic docking latches snap into place around the back surface of the docking flange to achieve a hard dock.
+As well as a small thrust forward to engage the capture latches, Al also thrust forward during the retraction of the probe. This seems to be a repeat of a similar maneuver first carried out on Apollo 14 by Stu Roosa. When 14's capture latches failed to engage with the drogue, a last ditch suggestion from Mission Control was to thrust forward while retracting the probe and hope the docking latches would engage. Al is mindful of that event and wants to make sure his docking goes well.
+The crew are still suited, though with helmet and gloves off, so if a pressurisation problem occurs during the coming procedures, they can don both and repressurise their suits. In summary, over the next quarter of an hour or so, the cabin pressures of the two spacecraft will be equalised, the forward hatch removed to gain access to the tunnel and the integrity of the dock will be confirmed by inspecting the docking latches.
+To preserve the LM consumables, the tunnel and LM are pressurised from the CM cabin oxygen via a Pressure Equalization valve built into the centre of the CM's forward hatch, through the tunnel and through a valve built into the overhead hatch of the LM. This latter valve had been deliberately left open since before launch to allow the LM's atmosphere to bleed away as the Saturn ascended. Now it admits CM air (O2) to the LM so that during the coming day, the integrity of the LM cabin can be proven in a vacuum. If, during pressurization, the CM pressure drops to 27.5 kPa (4.0 psi), more oxygen is fed into the CM cabin from the repressurisation package to replenish it and keep it above this figure.
+A pressure gauge beside the CM forward hatch lets Al monitor the pressure difference across the hatch and when this is low enough he can remove it and check the latches, one of which hasn't latched properly and has to be engaged manually. Two umbilical cables are connected within the tunnel to join the two spacecraft electrically. The hatch is reinstalled and the spacecraft prepared for its ejection from the S-IVB.
+From the 1971 Mission Report: "The probe was activated to the retract position and the two spacecraft were hard-docked. At the completion of the docking maneuver, the forward hatch was removed and the latches were checked. One latch was not locked onto the docking ring. That latch was recocked and latched manually. The Lunar Module umbilicals were then attached, and the hatch was replaced."
+Scott, from the 1971 Technical debrief: "[To Worden] "Once you gave it the plus-X, I was watching the talkbacks, and they flipped right in the barber pole. We retracted and cinched right on down and heard a good bang on the latch."
+Worden, from the 1971 Technical debrief: "That's very positive. Not only can you hear it, but you can feel it, too, when those latches go. You really know you are there."
+Irwin, from the 1971 Technical debrief: "Number 3 was the one that wasn't latched. It took two strokes."
+Scott, from the 1971 Technical debrief: "Yes, that's right. All of them were locked up tight except number 3. It took two strokes to lock it. Could you see anything hanging from the LM?"
+Worden, from the 1971 Technical debrief: "I didn't see a thing."
+Scott, from the 1971 Technical debrief: "You mentioned the handling characteristics. Sunlight and CSM docking lights must have been okay."
+Worden, from the 1971 Technical debrief: "We didn't need the docking light. Everything was illuminated by the Sun. We didn't have any problems with shadow; no problem seeing the docking target. It was very clearly illuminated. We didn't use the docking lights."
+003:34:02 Irwin (onboard): Okay; Docking Probe, Extend/Retract, and talkback's gray.
+003:34:06 Worden (onboard): Gray.
+003:34:07 Irwin (onboard): Sequence Pyro Arm, two, to Safe.
+003:34:10 Worden (onboard): Pyro Arm, Safe.
+003:34:11 Irwin (onboard): Sequence Logic, two, Off.
+003:34:13 Worden (onboard): Logic, Off.
+003:34:14 Irwin (onboard): EDS Power, Off.
+003:34:16 Worden (onboard): EDS Power's Off.
+003:34:18 Irwin (onboard): CB EDS, three, open.
+003:34:21 Worden (onboard): EDS, three, open.
+003:34:24 Irwin (onboard): Docking Probe, Extend/Release to Off.
+003:34:27 Worden (onboard): Off.
+003:34:28 Irwin (onboard): Docking Probe Retract, two, Off.
+003:34:30 Worden (onboard): Two, Off.
+003:34:31 Irwin (onboard): CB Docking Probe, two, open.
+003:34:34 Worden (onboard): Docking Probe, open. Tape Recorder's going off.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:36:07 Scott: Okay, Houston, [Apollo] 15.
+003:36:09 Fullerton: Go ahead.
+003:36:12 Scott: Okay; that all [the Transposition and Docking] went fairly nominally, and the only different thing we've noticed is the SPS Thrust light on the EMS is now on. And we don't know when it came on; somewhere in the process here.
+The EMS (Entry Monitor System) provides guidance and control information for the crew during re-entry into Earth's atmosphere. It includes its own accelerometer and a counter which acts as a display to monitor the amount of velocity to be gained or lost (the Delta-V). It will even shut down the SPS engine in case the G&N system fails to do so. The EMS also has a light to indicate that the SPS (Service Propulsion System) engine valves are open and that the engine should therefore be firing. This is the light which is now energised, though the engine is clearly not on. In what has thus far been a highly nominal mission, the fault condition Dave has just reported will have the greatest repercussion on spacecraft operations of all the anomalies on this flight, because it occurs in one of the most critical systems, the spacecraft's single large engine.
+Reliability was the most important consideration for the designers of the SPS because the crew utterly depend on it, not only to get them into lunar orbit, but to also get them out of it and back to Earth. Two aspects of the design contribute to the engine's high reliability. One is the choice of hypergolic propellants which had only to be introduced to each other in the combustion chamber to effect ignition and sustained firing. The other is the use of pressure alone to force propellants from the tanks to the injector. The valves that feed propellant to the engine received special attention and dual valve and injector systems provide complete redundancy.
+003:36:25 Fullerton: Roger. I understand the SPS Thrust light is on.
+003:36:28 Scott: And all the switches are off.
+Comm break.
+Dave is referring to the two Delta-V Thrust switches prominently placed on the Main Display Console in front of the left-hand couch position. Both of these switches are guarded against accidental operation.
+003:38:23 Fullerton: Apollo 15, Houston.
+003:38:26 Scott: Go ahead.
+003:38:29 Fullerton: Stand by one. [Pause.]
+003:38:34 Scott: Houston, 15. [Pause.]
+003:38:44 Fullerton: 15, Houston. We'd like you to pull [open] both SPS Pilot Valve circuit breakers on Panel 8.
+003:38:53 Scott: Okay; that's being done. They're both open.
+003:38:59 Fullerton: Roger.
+Very long comm break.
+The circuit breakers are being opened as a safety precaution in case the SPS valves are opened by a possible short circuit. Panel 8 is to the left of the Main Display Console.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. Apollo 15 now 7,460 nautical miles [13,816 km] out from Earth. Velocity [is] continuing to decrease, now 20,197 feet per second [6,156 m/s]; fairly quiet crew this mission. On the off chance they will talk some more, we'll leave the circuit up. At 3 hours, 43 minutes Ground Elapsed Time; this is Apollo Control.
+From the Public Affairs Officer's comments, the Apollo 15 crew would appear to be less talkative - at least with the ground - than previous crews.
+Woods, from 1998 correspondence with Scott: "Were you chatty among yourselves? Was there a conscious intention to cut out chatter with the ground and restrict it to important information? I don't believe any tendency for quietness was transferred to the lunar surface and you kept up a good level of information flow then (as would have been part of your brief)."
+Scott, from 1998 correspondence: "Never paid any attention to whether or not we were 'chatty.' No intent other than to do the job and keep the ground informed as completely as possible. Normal radio discipline (with at least fighter pilots) is to keep the chatter to a minimum; don't clog up the airways with unnecessary comments because others may have something important to say. Do not know what the PAO had in mind, nor on what basis he made his comment."
+Journal Contributor Brian Lawrence points out that the PAO announcer who is probably on duty at this moment, Terry White, has been involved in every Apollo mission since Apollo 9 so is likely to have enough past experience to make a judgement.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Crew of Apollo 15 presently pressurizing the Lunar Module.
+In going from the CM to the LM, cabin O2 has to pass through two valves, one in each hatch. This
+Prior to launch, a pressure equalzation valve in the LM's overhead hatch was deliberately left open. Therefore, as the stack ascended to space, the LM cabin became evacuated. Now that the CM has docked with the LM, CM O2 is being allowed through another pressure equalization valve in the CM's tunnel hatch, into the tunnel, and finally through the LM's valve into the LM cabin. Having to pass through two valves slows the rate at which the LM cabin can repressurise.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. Spacecraft systems engineers here in Mission Control Center are trouble-shooting unusual valve position indication on telemetry and in the spacecraft cockpit for the valves in the propellant system for the Service Module propulsion engine, and are sorting out which malfunction procedure the crew should go through. There was no danger of the engine igniting by itself because of this, but it is desired that the problem be ironed out. Continuing to monitor the Apollo 15 air/ground circuit, up and live. Now showing cabin pressure on the Command Module at 4.2 pounds per square inch [29 kPa]. We have no pressure reading yet in the Lunar Module but the crew apparently has begun pressurization of the LM. Distance now 8,774 nautical miles [16,249 km] out from Earth. Velocity continuing to decrease: 19,065 feet per second [5,811 m/s]. 3 hours, 51 minutes Ground Elapsed Time, still live; this is Apollo Control.
+Once the latches have been checked, the CM/LM umbilicals connected within the tunnel, and the tunnel hatch reinstalled, the crew make the final preparations to separate from the launch vehicle using procedures on page 3-5 of the CSM Launch Checklist. As a final step, the CM and LM are sealed from each other by closing the Pressure Equalization Valve in the tunnel hatch. A separate valve between the CM and the tunnel, the Tunnel Vent valve, is set in a position which will allow the pressure difference across the hatch to be monitored by the LM/CM Delta-P gauge.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:55:06 Fullerton: Apollo 15, Houston.
+003:55:09 Worden: Houston, 15. Go ahead.
+003:55:11 Fullerton: At 3:55:54 - about 40 seconds [from now] - [the] non-propulsive vent will be opened on the booster.
+003:55:21 Scott: Roger, Gordo. Understand.
+Very long comm break.
+Flight Plan page 3-8. This page has a diagram of the expected S-IVB attitude.
+Flight Plan page 3-9.
+Although the propellant tanks of the third stage are very well insulated, the useful lifetime of the insulation is intended to last only though boost, parking orbit and a few hours past Translunar Injection. Heat leaking into the S-IVB warms the fuel and oxidizer, causing internal pressures to rise. These will be relieved at regular intervals between now and the final propellant dump in about an hour to ensure that the tanks do not rupture, which could cause debris to hit the CSM and LM. Also, in order to preclude the venting of the propellants from imparting rotations which might complicate the extraction of the LM, the gases are released through openings on opposite sides of the forward skirt, so that their forces cancel out.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:11:30 Fullerton: Apollo 15, Houston. The [non-propulsive] vent should be complete now.
+004:11:35 Scott: Okay; understand.
+Comm break.
+004:11:55 Irwin (onboard): Okay; I'll cycle the cryo fans.
+004:11:59 Scott (onboard): Is that On and Off?
+004:12:01 Irwin (onboard): Yes, On for a minute.
+004:12:03 Scott (onboard): That's right, we got a change for that.
+004:12:04 Worden (onboard): You don't need the checklist. You got that silly bunch of junk. Garbage, rather.
+004:12:15 Scott (onboard): Okay; load RCS DAP. Al, you want to load your DAP?
+004:12:20 Irwin (onboard): Oh, let's see. We need to load...
+004:12:21 Worden (onboard): Yes.
+004:12:22 Scott (onboard): [Garble] 21101.
+004:12:31 Scott (onboard): And X1111.
+004:12:33 Worden (onboard): Yes.
+004:12:35 Scott (onboard): Load Noun 22 attitude. Monitor APS maneuver, [garble].
+004:12:40 Irwin (onboard): Okay; what's the attitude?
+004:12:42 Scott (onboard): 090?
+004:12:46 Worden (onboard): Yes.
+004:12:47 Scott (onboard): 257. Okay. [Garble].
+004:12:51 Worden (onboard): I don't think you can...
+004:12:52 Scott (onboard): Okay; 354.6. Okay; Verb 60 Enter.
+004:13:01 Worden (onboard): Verb 60?
+004:13:02 Scott (onboard): Sixty.
+004:13:04 Worden (onboard): Okay.
+004:13:05 Scott (onboard): Verb 63 Enter.
+004:13:07 Worden (onboard): Okay.
+004:13:08 Scott (onboard): GDC Align.
+004:14:08 Worden (onboard): GDC's aligned.
+004:14:09 Irwin (onboard): Okay; DET, Reset.
+004:14:14 Worden (onboard): Whoops! Reset.
+004:14:16 Irwin (onboard): CB, Sequence Arm, two, closed.
+004:14:18 Worden (onboard): Arm is closed.
+004:14:19 Irwin (onboard): Okay. Cue MSFN, because we'll be getting the Logics on the Arm pretty soon.
+004:14:24 Worden (onboard): Okay.
+This is Apollo Control; [we're] some 4 minutes away from ejection of the Command Service Module docked to the Lunar Module, from the spent S-IVB stage, which has now completed its non-propulsive vent. Spacecraft now 12,036 nautical miles [22,291 km] out from Earth; velocity dropped off to 16,839 feet per second [5,133 m/s]. The only anomaly encounted - encountered thus far after Translunar Injection, is a couple of Service Module Propulsion System valves were noted, both on board and on telemetry, as being in the Open position when they should be in Closed position. The crew was instructed to open some circuit breakers upstream of these valves to give a double redundancy against accidental start of the engine, which would be a pretty remote possibility in the first place, because some other steps have to be taken prior to a start in any case. After the transposition - or after the ejection from the S-IVB, CapCom will pass up to the crew the malfunction procedure to go through to track down and troubleshoot what the slight anomaly is in the SPS valve position indications. At 4 hours, 14 minutes...
+004:14:25 Worden: Houston, 15.
+004:14:28 Fullerton: Go ahead.
+004:14:30 Worden: Rog, Gordo. We're ready to get the Pyro Arm and Logics on now.
+004:14:34 Fullerton: Stand by.
+004:14:35 Worden: Okay, logics coming on; Logic 1; Logic 2. [Pause]
+004:14:47 Fullerton: You're Go for Pyro Arm.
+004:14:50 Worden: Rog.
+Comm break.
+Al is activating and arming the systems which will allow explosives to detonate and release the LM from the S-IVB at four attachment points at the end of the upper landing gear outrigging. Spring thrusters will then push the CSM/LM away from the S-IVB and the remnants of the SLA. As Apollo 15 detaches from the launch vehicle, a further burn of the minus-X RCS thrusters adds another 0.12 m/s to the 0.25 m/s imparted by the spring thrusters. All these small-scale velocity changes in the spacecraft's trajectory are taken into account in computing their path to the Moon.
+Worden (onboard): Okay?
+004:14:54 Irwin (onboard): Sequence Pyro Arm, two, go to Arm.
+004:14:56 Worden (onboard): Pyro Arm coming on. They're on.
+004:15:01 Irwin (onboard): Okay; TVC Servo Power number 1 to AC 1/Main A.
+004:15:04 Worden (onboard): AC 1/Main A.
+004:15:05 Irwin (onboard): RHC and THC armed.
+004:15:08 Worden (onboard): RHC and THC armed.
+004:15:12 Irwin (onboard): Okay; call P47.
+004:15:13 Worden (onboard): Yes. Okay. Let me put a belt on here to just strap myself down a little bit.
+004:15:20 Scott (onboard): Yes. That's a good idea.
+004:15:23 Irwin (onboard): Yes, we're going to be right on that time, at 4:16.
+004:15:25 Scott (onboard): Got much left to do?
+004:15:27 Worden (onboard): [Garble].
+004:15:39 Worden (onboard): Here it is.
+004:16:01 Scott (onboard): [Garble].
+004:16:02 Worden (onboard): Yack!
+004:16:03 Scott (onboard): You hold that side, and I...
+004:16:04 Worden (onboard): Can you see it?
+004:16:07 Scott (onboard): [Garble] this side. [Garble]. Here [garble] get these to your side.
+004:16:16 Worden (onboard): Yes.
+004:16:29 Worden (onboard): [Garble].
+004:16:31 Scott (onboard): Okay, Jimmy.
+004:16:32 Irwin (onboard): Okay; call P47.
+004:16:39 Worden (onboard): Okay.
+004:16:41 Irwin (onboard): EMS Mode, Normal.
+004:16:43 Worden (onboard): Normal?
+004:16:49 Irwin (onboard): Okay. And whenever we get P47 eliminated there, we're ready for S-IVB/LM Sep, on, up.
+004:16:54 Worden (onboard): Okay.
+004:16:55 Irwin (onboard): Start the DAC.
+004:16:56 Worden (onboard): What?
+004:16:57 Scott (onboard): The DAC. Yes.
+004:16:58 Worden (onboard): How about the settings on the DAC?
+004:16:59 Scott (onboard): [Garble] okay; we won't need [garble].
+004:17:01 Worden (onboard): All right.
+004:17:03 Scott (onboard): Jim, let's turn the page here [garble] see what we're going to do.
+004:17:06 Irwin (onboard): Oh, okay.
+004:17:07 Scott (onboard): Now you're going to go over and start the DET.
+004:17:09 Worden (onboard): Right.
+004:17:10 Scott (onboard): CMC Mode - We do Sep; start the DET; CMC Mode, Auto; and, at 5 seconds, thrust minus-X for 3 seconds.
+004:17:18 Worden (onboard): Okay. Coming up...?
+004:17:20 Scott (onboard): 5 seconds.
+004:17:22 Worden (onboard): Yes, 5 seconds...
+004:17:27 Scott (onboard): I'll hit the Sep, and you get the DET started.
+004:17:28 Worden (onboard): Okay; when you're - when you're - on my mark, you hit the SEP and I'll hit the DET. Ready?
+004:17:35 Scott (onboard): I don't think I am.
+004:17:36 Worden (onboard): Okay.
+004:17:37 Scott (onboard): Okay.
+004:17:39 Worden (onboard): Want to do it on the minute?
+004:17:40 Scott (onboard): Yes, do it on the minute.
+004:17:42 Worden (onboard): All right.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:17:42 Scott: Okay, Houston; we'll Sep[arate] at 4:18 [GET].
+004:17:45 Fullerton: Roger; standing by. [Long pause.]
+The combined spacecraft separates from the launch vehicle at the given time, 4 hours, 18 minutes; two minutes later than planned.
+004:17:54 Worden (onboard): Boy, look at that.
+004:17:55 Scott (onboard): Five - five seconds.
+004:18:01 Worden (onboard): Okay. Okay.
+004:18:03 Scott (onboard): We got a Sep.
+004:18:05 Worden (onboard): We're in Auto.
+004:18:07 Scott/Worden (onboard): Five seconds...
+004:18:08 Scott (onboard): How much now?
+004:18:09 Irwin (onboard): One foot...
+004:18:10 Worden (onboard): Three seconds. [Garble]. Okay.
+004:18:11 Scott (onboard): Yes.
+004:18:12 Worden (onboard): We've done it.
+004:18:12 Scott: Okay, Houston. We got a good sep.
+004:18:14 Fullerton: Roger.
+Very long comm break.
+From the 1971 Mission Report: "Extraction of the Lunar Module from the S-IVB was nominal, and at its completion an automatic maneuver was made to an attitude which allowed a view of subsequent S-IVB maneuvers."
+Scott, from the 1971 Technical debrief: "That's a pretty good thump when it goes off - those springs pushing out - but there was no question that we had had extraction. You could see the S-IVB going away, [speaking to Al] couldn't you? Or could you?"
+Worden, from the 1971 Technical debrief: "No, I couldn't. Jim could. I couldn't see out my window. I watched the EMS [Entry Monitor System]."
+Since Al's window is right up against the docking target on the LM, his forward visibility is limited. The digital display below the EMS scroll can be set to display changes in velocity, or Delta-V.
+As Apollo 15 drifts away from the S-IVB, it is maneuvered to an attitude where the empty stage can be viewed through window 3, the hatch window. The crew can provide an assurance that the two great vehicles are sufficiently clear of each other to permit the S-IVB to maneuver to a trajectory which will seal its final fate - a high speed impact with the Moon.
+Worden, from the 1971 Technical debrief: "We came off the S-IVB with the LM and did some minus-X [translation, i.e. away from the S-IVB]. After we got off, we did our Verb 49 maneuver into the S-IVB viewing attitude. It took us some time to get around to that attitude because we had low rates loaded in the DAP. I thought that maneuver went very smoothly. No problem at all with the maneuver. As soon as we saw the S-IVB, we called the ground and told them that we had the S-IVB in sight and for them to align and do their yaw maneuver."
+004:18:19 Irwin (onboard): Okay; you can Pro on that display.
+004:18:22 Scott (onboard): Okay.
+004:18:23 Irwin (onboard): You have to go into P00. Then when the activity light's out, you can key Verb 66. Okay, Al, you ready to clean it up?
+004:18:31 Worden (onboard): Yes.
+004:18:32 Irwin (onboard): Sequence Pyro Arm, two, to Safe.
+004:18:34 Worden (onboard): Safe.
+004:18:36 Irwin (onboard): Sequence Logic, two, Off.
+004:18:37 Worden (onboard): Logic's Off.
+004:18:39 Irwin (onboard): CB Sequence Arm, two, open.
+004:18:41 Worden (onboard): Arm is open.
+004:18:42 Scott (onboard): Okay; Al, check and see if it's clear.
+004:18:45 Worden (onboard): Okay. I can't see a thing except the LM there.
+004:18:56 Irwin (onboard): I can't either, Dave.
+004:18:57 Scott (onboard): Okay.
+004:19:02 Irwin (onboard): You got Sequence Arm, two, open?
+004:19:03 Worden (onboard): Arm is open.
+004:19:04 Irwin (onboard): CB S-IVB/LM Sep, two, open. That's my side, not yours.
+004:19:05 Scott (onboard): Yes.
+004:19:20 Irwin (onboard): Now verify O2 Tank Isolation valve move to gray.
+004:19:25 Scott (onboard): Hey, I can see the Rover, Jim.
+004:19:27 Irwin (onboard): Can you?
+004:19:28 Scott (onboard): Yes.
+004:19:29 Worden (onboard): You mean it's there?
+004:19:30 Scott (onboard): Yes, man.
+004:19:31 Irwin (onboard): Is it really? Okay.
+004:19:37 Scott (onboard): Okay. Keep it moving.
+004:19:41 Worden (onboard): What, Jim?
+004:19:42 Irwin (onboard): Give me your checklist.
+004:19:44 Worden (onboard): Oh, yes, I can't get this doggone thing ...
+004:19:48 Scott (onboard): Just put it down there and let's keep it going.
+004:19:50 Worden (onboard): Okay.
+004:19:55 Irwin (onboard): Okay - Read to me. I've got to get down in the SIM bay. ...
+004:20:00 Worden (onboard): Here, I can probably do that easier than you can.
+004:20:02 Irwin (onboard): Let me take - Why don't we configure our helmets and gloves off?
+004:20:05 Scott (onboard): Huh...
+004:20:06 Worden (onboard): Yes, why not?
+004:20:07 Scott (onboard): Well, we do a maneuver here, don't we?
+004:20:08 Worden (onboard): Yes. We've got to do a maneuver to the S-IVB.
+004:20:09 Scott (onboard): Let's get through this thing.
+004:20:11 Worden (onboard): We're already doing attitude.
+004:20:13 Irwin (onboard): Okay.
+004:20:14 Worden (onboard): That should take only a Verb 49, since we've already loaded it.
+004:20:17 Scott (onboard): O2 tank 3 Isolation valve talkback gray.
+004:20:19 Irwin (onboard): That's verified.
+004:20:21 Scott (onboard): Okay, Map, Pan, and SM/AC Power should be Off. I'll get them. You're in all of that junk...
+004:20:27 Irwin (onboard): No. Well, now...
+004:20:29 Scott (onboard): You've got all that junk on; I don't want you to scratch your helmet.
+004:20:32 Irwin (onboard): Okay. Yes, take care of my helmet for me.
+004:20:35 Scott (onboard): You've got to.
+004:20:36 Irwin (onboard): Yes.
+004:20:37 Scott (onboard): So you can see.
+004:20:38 Irwin (onboard): That's right. Here, if you're going to get down, I'll read to you.
+004:20:45 Scott (onboard): Okay.
+004:20:49 Worden (onboard): I'm going to take my helmet off.
+004:20:51 Irwin (onboard): The first one is Mapping Camera, On, to Off.
+004:20:58 Scott (onboard): Mapping Camera, On, to Off. Okay.
+004:21:03 Irwin (onboard): And the Pan Camera Power, Off.
+004:21:07 Scott (onboard): Pan Camera Power to Off. Okay.
+004:21:17 Irwin (onboard): SM/AC Power; Off. Down on 181.
+004:21:26 Scott (onboard): Power to Off.
+004:21:28 Irwin (onboard): And, Al, Launch Vehicle SPS Indicator switch to GPI.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:29:41 Scott: Okay, Houston; 15. We have the S-IVB in sight, and it looks like it's probably about - oh 7 or 8 hundred feet away.
+004:29:49 Fullerton: Roger. [Long pause.]
+004:30:08 Scott: Houston, 15.
+004:30:10 Fullerton: Go ahead, 15.
+004:30:12 Scott: Roger. We have the S-IVB in sight, and it looks like it's 500 feet [150 metres] or so away.
+Estimation of distance is as difficult in space as it will be on the Moon with little that is familiar to give a sense of scale.
+004:30:19 Fullerton: Roger. We copied the first time. If it's okay with you and looks clear, we'll command the yaw maneuver.
+004:30:24 Scott: Ah Roger, and it looks like a clean bird out there.
+004:30:31 Fullerton: Roger. [Pause.] We'll be sending the yaw command at 4:31.
+004:30:40 Scott: Roger. [Long pause.]
+004:31:03 Scott: Okay. We can see the thruster activity on the S-IVB.
+004:31:08 Fullerton: Roger.
+004:31:13 Scott: It looks like a light mist and a sort of conical shape, maybe - oh, a hundred feet long or so.
+004:31:18 Fullerton: Rog. [Long pause.]
+The S-IVB's own attitude control system, the APS (Auxiliary Control System), which is in two units located on the aft end of the stage, is making a yaw maneuver in preparation for an evasive burn to take it away from the spacecraft's trajectory. The APS is controlled by the IU under direction from flight controllers on Earth.
+Over the coming minutes, three photographs are taken on magazine M of the receding S-IVB stage.
+AS15-91-12339 - S-IVB stage in the distance lloking into the IU with a LM thruster quad in the foreground - Image by NASA/Johnson Space Center.
+Scott, from the 1971 Technical debrief: "The evasive burn was a very slow, low thrust maneuver. We could see some of the propellant coming out. There was a very fine mist if you looked very carefully, and the S-IVB moved very slowly along its plus X-axis. I rather expected a burn there - some sort of impulsive Delta-V - but it, was a very slow thing. It wouldn't be any problem getting out of its way, if you were in its way."
+In three days time, about an hour after Apollo 15 enters lunar orbit, the spent booster stage will impact the Moon at 1°31'S, 11°49'W. An error, caused by tracking tolerances and unexpected thrusting by the loss of helium from the stage, causes it to strike 146 km from its intended target, 3°39'S, 7°35'W.
+004:31:56 Scott: And, Houston, as a sidelight, we can verify that the Falcon has his Rover aboard.
+004:32:03 Fullerton: Very good. [Long pause.]
+For much of the lunar portion of the mission, Apollo 15 will be split into two spacecraft. To simplify communications during these periods, the Lunar Module was named Falcon, after the Air Force mascot (Apollo 15 had an all Air Force crew) and the Command Service Module became Endeavour, an inspired choice in view of the much greater emphasis on science and exploration which this voyage shared with the eighteenth century ship under the command of Captain James Cook. Part of the extended capability for exploration comes from the first use of the LRV (Lunar Roving Vehicle) which is presently folded onto one of the sides of Falcon's descent stage.
+004:32:55 Scott: Houston, 15.
+004:33:07 Fullerton: Go ahead. [No answer.]
+004:34:00 Fullerton: Go ahead, 15.
+The mission timings given in the technical transcript jump back nearly two minutes at this point.
+004:34:06 Scott: As we watch the S-IVB drift away here, how about passing along to Jim Harrington at the Cape, congratulations from the crew to the launch team for a superior job.
+004:34:16 Fullerton: Okay. We sure will.
+004:34:20 Scott: Smooth all the way, and right on time.
+004:34:25 Fullerton: Gerry Griffin reports that he's already done that.
+004:34:27 Scott: Good.
+004:34:28 Fullerton: But we'll second it from the crew.
+Comm break.
+Scott, from 1998 correspondence: "Jim Harrington's role might be mentioned here - a role, or management position vital to the success of Apollo, and every bit as important as the number of engines in the SV 1st stage (or other hardware). He was responsible for preparing the entire stack and making sure the Saturn launch vehicle and its cargo were ready to go and then performed as required; somewhat different from a Flight Director because JH had hardware and launch operations responsibilities. His role (and his colleagues on other missions) was major to the success of the mission. Our crew was probably as close to JH as anybody at the Cape; and he is currently the KSC Shuttle Launch Director - a very long and very successful career. Kudos to Jim!"
+Gerry Griffin is the Lead Flight Director for this mission. He, and three other Flight Directors, each head a team of flight controllers who are assigned to particular mission events as well as covering the duration of the flight over the 24-hour cycle. Other Flight Directors on this mission include Milton Windler, Glynn Lunney and Eugene Kranz.
+004:34:54 Fullerton: Apollo 15, Houston. Over.
+004:34:55 Scott: Houston, 15.
+004:34:57 Fullerton: I was thinking about your "SPS Thrust On" light problem, and we'd like you to verify the positions of the EMS Function and Mode switches.
+A 12-position function selector and three position mode switch control the operation of the EMS.
+004:35:08 Scott: Rog. Off and Standby.
+004:35:14 Fullerton: Roger. [Long pause.]
+AS15-91-12340 - S-IVB stage in the distance with a LM thruster quad in the foreground - Image by NASA/Johnson Space Center.
+004:36:11 Irwin: Houston, this is 15. We're starting to configure for charging battery B.
+004:36:17 Fullerton: Roger.
+Comm break.
+The CM carries five main batteries. Two silver oxide-zinc batteries are mounted in the Lower Equipment Bay and are used only for energising the pyrotechnic devices for CM/SM separation, parachute deployment and separation, S-IVB separation, Launch Escape Tower separation among other functions. They are not recharged. Three more silver oxide-zinc batteries supplement the power from the fuel cells during busy periods such as engine burns and can be recharged from the fuel cells when demand is low. They also provide power for the CM after the SM has been jettisoned. They will then last through entry, landing and post-landing operations. The controls for the electrical system are on the right of the Main Display Console, where Jim is seated. To charge battery B, he must ensure it is not online to the spacecraft's power distribution buses before switching it to the output from the battery charger. The voltage of the battery can be monitored while it is charging by switching the DC indicator to the charger.
+004:37:40 Fullerton: Apollo 15, Houston.
+004:37:42 Scott: Houston, 15.
+004:37:44 Fullerton: I think you may have missed a Verb 66 - right there [in the Flight Plan] just after LM ejection. We need one now.
+The Apollo computer uses various subroutines to carry out a wide variety of tasks. These routines, or "Verbs" were identified by a two digit decimal code, from 00 to 99. The 'Verb 66' routine transfers state vector information from one slot in the computer's memory, where it is intended for the CSM, to another meant for the LM.
+The state vector is a collection of six numbers which, along with an associated time, that define the spacecraft's velocity and position. The trajctory can be mathematically deduced from the state vector.
+004:37:51 Scott: Roger. In works [meaning we are carrying out the instruction]. [Long pause.]
+004:38:19 Scott: And, Houston, 15. The S-IVB looks nice and stable out there. You're Go for your basic maneuver as far as we're concerned.
+Dave is referring to the evasive maneuver the S-IVB is about to make.
+004:38:25 Fullerton: Okay, fine. We're just about to ask you on that.
+004:38:29 Scott: Okay.
+004:38:31 Fullerton: It[the evasive burn]'ll be started at 4:40 [GET].
+004:38:36 Scott: Roger; 4:40. [Pause.] And we're just about 90 degrees abeam.
+004:38:44 Fullerton: Roger.
+Comm break.
+AS15-91-12341 - S-IVB stage in the distance with a LM thruster quad in the foreground. The stage is almost abeam of the spacecraft - Image by NASA/Johnson Space Center.
+The two craft have separated by about 300 metres and the crew are looking sideways on to the S-IVB.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:40:45 Scott: Okay, Houston. We see the S-IVB moving very slowly.
+004:40:49 Fullerton: Roger.
+Long comm break.
+Based on measurements of the film image, and assuming an 80mm lens is fitted to a Hasselblad, two photos of Earth are taken at this time just after the above S-IVB images.
+AS15-91-12342 - Earth at approximately 15,600 nautical miles (28,900 km) - Image by NASA/Johnson Space Center.
+AS15-91-12343 - Earth at approximately 15,800 nautical miles (29,200 km) - Image by NASA/Johnson Space Center.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:45:17 Irwin: Houston, this is 15.
+004:45:19 Fullerton: Go ahead, 15.
+004:45:21 Irwin: Do you want us to terminate the charge when - when I'm reading 39.5 [volts]?
+004:45:29 Fullerton: Stand by. [Pause.] Ah, Jim, we'll call you, based on integrated amp-hours that we figure out down here.
+004:45:43 Irwin: Okay; fine.
+Comm break.
+Page 1-3 of the CSM Systems Checklist calls for the battery charge to continue until the DC voltage indicator reads 39.5 or until the battery is 100 per cent charged. Jim is querying Mission Control on which criteria he should use. Mission Control can work out the charge the battery has accepted by monitoring the current being used via telemetry and once they believe enough current has reached the battery, they will let the crew know.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:48:07 Scott: Houston, 15.
+004:48:10 Fullerton: Go ahead.
+004:48:12 Scott: Okay; we have a LM/CM Delta-P of plus .2 at the present time.
+004:48:17 Fullerton: Roger, Dave, plus .2.
+Long comm break.
+The difference between the cabin pressure of the Command Module and the Lunar Module is now only 0.2 psi. The Flight Plan asks the crew to report this value at about 4:50 GET so they are well within their time line.
+The S-IVB is maneuvering to the propellant dump attitude. The thrust from this dump of propellant and pressurising helium gives a planned change in velocity of 10 metres per second.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:51:30 Fullerton: 15, Houston.
+004:51:33 Worden: Houston, 15. Go ahead.
+004:51:36 Fullerton: We need to have you re - reinitialize the High Gain [antenna]. We'd like you to set Pitch, [to] minus 30 [degrees]; Yaw, plus 98 [degrees]; and go to Reacq. Over.
+Two rotary controls set the pitch and yaw angles of the HGA. The pointing of the antenna has three settings:
+Manual: The HGA points to the angles set into pitch and yaw controls.
+Track Auto: Once the HGA has acquired a signal from Earth, Track Auto causes the antenna to lock onto its direction. Even as the spacecraft rotates, the HGA will continue to be pointed at Earth until it reaches the limits of its articulation. However, it makes no effort to reacquire Earth once the planet returns to the HGA's slewing range.
+Reacquire: This mode is specifically intended for those periods when the spacecraft's motions are repeated and predictable. The antenna will track Earth as far as it can. Then, as the spacecraft takes the antenna away from Earth and outside the limits of its articulation, it points itself to the angles set in the pitch and yaw controls. If these angles have been properly calculated, the further rotation of the spacecraft should bring Earth back into the antenna's beam, whereupon it will resume automatic tracking.
+The controls for the HGA are at the bottom right hand corner of panel 2 of the Main Display Console.
+004:51:51 Worden: Roger. We copied minus 30 and plus 98.
+004:51:55 Fullerton: Roger. [Long pause.]
+004:52:44 Worden: Houston, 15. How do you read?
+004:52:47 Fullerton: Loud and clear.
+004:52:55 Fullerton: 15, Houston. Watch your middle gimbal.
+The "middle gimbal" is a reference to the second of three gimbals within the IMU (Inertial Measurement Unit). Briefly stated, when an inertial platform is mounted within three gimbals, it can exhibit the property of "locking", so-called gimbal lock, when the spacecraft is maneuvered through a certain range of attitudes. These attitudes were marked on the attitude indicators ("8 balls"). There was no real danger to the spacecraft or crew if the gimbals locked whil the spacecraft was in coasting flight, but all attitude references would be lost. (A lock-up in powered flight was another matter!) A complete realignment of the platform would be necessary, which is a tedious procedure but one which had been well rehearsed by the crews on the ground. Gordon Fullerton's admonishments to be careful were to ensure that an otherwise unnecessary problem would be avoided.
+004:53:00 Worden: Roger.
+Long comm break.
+Flight Plan page 3-10.
+The S-IVB has begun venting LH2 via the CVS (Continuous Vent System), imparting a slight Delta-V of 0.42 m/s.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:00:31 Fullerton: 15, Houston.
+005:00:34 Worden: Houston, 15. Go ahead.
+005:00:36 Fullerton: At 5:01:20, we'll be starting a LOX dump through the S-IVB engine. And we have the REFSMMAT when you're ready for it - for the P52.
+005:00:50 Worden: Okay. [Do] you want P00 and Accept?
+005:00:55 Fullerton: Affirm.
+Long comm break.
+The LOX dump is initiated simply by opening the engine's main LOX valve and allowing the oxidiser to vent through the single J-2 rocket motor. The greater atomic weight of the venting oxygen helps to impart a Delta-V of 9.14 m/s. The dumping of helium from the high pressure storage spheres adds another 1.37 m/s alteration to the S-IVB's trajectory. Both of these accelerations help to target the stage to its planned impact site.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:04:37 Fullerton: 15, Houston, the computer is yours. You have a new REFSMMAT and the trunnion bias has been zeroed.
+005:04:44 Worden: Roger, Gordo. Thank you.
+Very long comm break.
+A new REFSMMAT has been uplinked to the spacecraft. Thus far, the precise orientation of the launch pad at the time of launch has provided the basis for aligning the inertial platform. Having left the vicinity of Earth, this orientation is obsolete. A new frame of reference will be used which suits spacecraft operations during the coast to the Moon, particularly the need to regularly rotate the spacecraft side-on to the Sun. This PTC (Passive Thermal Control) REFSMMAT is based on the plane of the ecliptic and the ecliptic poles.
+CapCom's reference to the trunnion bias refers to the declination axis of the spacecraft's optical systems, the sextant and the scanning telescope, and the need to ensure its positional accuracy.
+The crew has a few minutes to catch their breath after the first five highly concentrated hours since Apollo 15 left Earth. The Flight Plan suggests that, at their own option, the crew take some interior movie photography using the DAC (Data Acquisition Camera).
+Apollo 15 carries three 16-mm Maurer Data Acquisition Cameras, one for use in the Command Module and powered, via a cable, from the spacecraft's 28-volt DC supply; the others are stowed in the Lunar Module and will be used only during the lunar exploration. One is powered from the LM's internal supply, the other from an attached battery power pack. These cameras are very small, compact units. With their 130-foot film magazine attached, they are slightly smaller than a thick paperback book but they are adapted to allow operation by a gloved hand. Two interchangeable lenses, 18-mm and 75-mm, are carried for the unit carried in the CM while the lunar units have only one 10-mm lens each. They can be run at 1, 6, 12 or 24 frames per second, allowing up to 87 minutes of filming on a single magazine at 1 frame per second.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 5 hours, 16 minutes Ground Elapsed Time. Distance from Earth, now 20,412 nautical miles [37,803 km]. Velocity; 13,335 feet per second [4,065 m/s]. Crew of Apollo 15 can hardly be called verbose. It's been extremely quiet during this period after Translunar Injection. The crew will be settling down for an eat period in less than an hour at which time it'll probably be even quieter. Standing by on air-to-ground up and live, this is Apollo Control.
+Earth Orbit and Translunar Injection
+Journal Home Page
+SPS Troubleshooting and the PTC

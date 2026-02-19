@@ -1,0 +1,505 @@
+A13FJ - Day 2, part 2: Housekeeping and Updates
+Day 2, part 1: Midcourse Correction 2 on TV
+Journal Home Page
+Day 3, part 1: Before the Storm
+Apollo 13
+Day 2, part 2: Housekeeping and Updates
+Corrected Transcript and Commentary Copyright ©2015-2025 by W. David Woods, Johannes Kemppanen, Alexander Turhanov, Lennox J. Waugh and William Smeaton. All rights reserved.
+Last updated 2025-02-22
+The second day of the mission of Apollo 13 is well under way. The crew has performed regular maintenance and systems monitoring, and sent the spacecraft on a new trajectory after a midcourse correction that was broadcast live on TV to Mission Control. They are now on a non-free-return trajectory which will allow them to reach their targeted landing zone in Fra Mauro on the Moon. Both the crew and their spacecraft are performing without a fault.
+Translunar configuration.
+Flight Plan page 3-25.
+Flight Dynamics Officer says the trajectory looks good; we show a one half mile in altitude at this time.
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control at 31 hours, 34 minutes. During the change of shift briefing, Flight Director Milton Windler has been in the process of reviewing the mission status with each of his flight controllers. We've also had some conversations with the spacecraft. Vance Brand has given the crew the instructions for photographing the Comet Bennett at 32 hours. This will be done using the Data Acquisition Camera, a 16-millimeter data camera on board the spacecraft. And, at this time, Jack Swigert is in the Lower Equipment Bay doing a P23 exercise, the midcourse navigation, using the onboard optical equipment and the onboard computer and guidance system, updating the guidance system with onboard sightings of five stars. We'll play back the tape recorded conversations that we have and then standby for live communications.
+Your browser does not support the audio element. Download MP3 audio file
+031:36:44 Brand: Apollo 13, Houston.
+031:36:48 Swigert: Go ahead.
+031:36:50 Brand: On the P33, just like to verify that you changed the Noun 88 values for this last star. It looks like they haven't been changed. Over. [Pause.]
+In the audio recording, Brand clearly says "P33" but he must have misspoken. P33 is a program for use during a rendezvous and P23 makes sense in this context. Noun 88 defines a vector to a celestial body. It allows stars that are not on the pre-programmed star list to be used for cislunar navigation.
+031:37:06 Swigert: Okay, Vance.
+031:37:10 Swigert: That's better. Let's read you what we - what we have. We have what they had in the Flight Plan, and if it's been changed from the Flight Plan, we don't have it. [Pause.]
+031:37:29 Brand: Stand by 1. [Long pause.]
+031:38:09 Lovell: We think you're right, Vance. It looks like they used the same set of Noun 88 for both stars by mistake.
+031:38:16 Brand: Okay, very good.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+031:44:04 Swigert: Okay, Vance. That ought to complete the P23s, right?
+031:44:07 Brand: Okay. Very good, Jack. [Long pause.]
+031:44:37 Brand: Apollo 13, Houston.
+031:44:42 Swigert: Go ahead, Houston.
+031:44:44 Brand: We have some results on your - your first star, if you'd like to hear them. The rest of the stars we'll - we'll have to give you in a couple of hours. Over.
+031:44:58 Swigert: Go ahead.
+031:44:59 Brand: Okay, the first star: the corrected altitude, 15 kilometers plus or minus 4; effective altitude, 12 kilometers plus or minus 7. As far as the substellar point, the value is arc-minutes - 2 arc-minutes, and that's very good. And, like I said, we'll get back with you in a couple of hours for the rest.
+Very long comm break.
+Jack has been doing star sightings to determine the spacecraft's position using the onboard optics and the computer. At that early stage of the mission, an additional purpose of this particular exercise is to calibrate his sense of where Earth's atmosphere starts. To measure the angle between Earth's limb and a star, the sextant is used to place the image of the star on the limb. However, the atmosphere makes Earth's limb somewhat indistinct. What is required is that the astronaut places the star on a repeatable point in the atmosphere. This becomes an offset which can be factored into the computer's calculations of their state vector. Jack's sightings are consistently around a point in the atmosphere that is about 12 kilometres above the actual limb.
+Your browser does not support the audio element. Download MP3 audio file
+031:56:31 Brand: Apollo 13, Houston.
+031:56:36 Swigert: Go ahead.
+031:56:37 Lovell: Go ahead.
+031:56:38 Brand: Okay. We have several items, here. First, is a reminder on the PTC that R1 should be 375 - 0.375 degrees as last night, to get 0.3-degree rotation rate. The second one...
+031:57:00 Swigert: Okay. Copy that.
+They had trouble establishing the PTC roll on the night before due to needing to use this 0.375 value to get the proper rate of rotation. This has now been rectified.
+031:57:02 Brand: Okay. The second one, at 32 hours looking at Bennett's Comet - we want the pictures taken when the spacecraft is as stable as it's going to be before starting PTC. The stability requirement is very high. We weren't sure if you understood that from what we passed up. In addition, the photographs might not show as much as the eye can see of the comet, so if you see anything interesting about the structure of the comet, why, sketching it is in order - is in order and is encouraged. Over.
+031:57:50 Swigert: Okay, Vance. What we'll do is, when we get to attitude, we'll disable the quads and do like we did last night; we'll let GUIDO and you people down there tell us when you think we're stable enough; then we'll do all this work with the DAC on the sextant, first; and then when we get that done, we'll go back and put the sextant eyepiece back on and see what we can observe visually.
+031:58:18 Brand: Okay. That sounds good. [Pause.] Also, while you are waiting for the vehicle to stabilize, it might be interesting to have the eyepiece on and be looking at it visually. [Pause.] Okay. Next item: your SPS burn had no anomalies whatsoever. It was a very good burn.
+031:58:52 Swigert: Okay. Very good.
+031:58:55 Brand: Next item: request hydrogen tank 1 Heater, Off, for balancing purposes. [Long pause.]
+Layout of the Service Module Sector 4.
+Two cryogenic oxygen and two cryogenic hydrogen tanks are located in the Service Module, feeding the fuel cells with reactants for power generation. Both sets of tanks should be drained equally so that in case of the loss of one tank, the remaining tank would be capable of supporting the crew during an abort of the mission and return home.
+031:59:22 Brand: And Apollo 13, another item: something that we have observed and you might be seeing is a slight TCE fluctuation on fuel cell 3. This fluctuation has been going from about 152 to 160 over a 37-second period. It has been seen on other flights in the past. No one is worried about it, but the usual fluctuation is about 1½ degrees instead of the second - instead of 7 seconds, so thought you should be aware of it.
+Fuel cell reactant flow and temperature gauges. Original scan via heroicrelics.org.
+Apollo type fuel cell power plant and associated equipment. Flow diagram.
+Oxygen and hydrogen are piped into the fuel cell where the reaction produces electricity and an outflow of water steam and hydrogen gas. This is piped into the condenser, where the Environmental Control System's glycol/water coolant absorbs heat from the steam and converts it into liquid water. Currently they are noticing an unusual cyclic fluctuation in the temperature in the condenser, although it is not considered to be a problem.
+Flight Plan page 3-26.
+032:00:07 Swigert: Okay, Vance. And one other slight distinction we've noted is the flow of hydrogen versus the oxygen is not exactly matched on fuel cell 3 either. [Pause.]
+032:00:26 Brand: Okay. We copy. And the last item: we'd like to send you an IRIG update, so at your convenience, request P00 and Accept. [Pause.]
+032:00:46 Lovell: Okay. We're in P00 and Accept, Vance.
+032:00:49 Brand: Okay. [Long pause.]
+Vance's mysterious remark concerns the Inertial Rate Integrating Gyros, or IRIGs. There are three of these mounted in the Inertial Measurement Unit, and their function is to sense if the platform is going out of alignment and signal to the gimbal motors to restore it. Such a gyroscopically stabilised platform has a tendency to drift away from its perfect alignment. This so-called null bias drift can be compensated for. Based on Jack's earlier alignments, Mission Control has computed the compensation, and it is applied over the data uplink into the onboard computer which interprets the output from the IMU.
+032:01:20 Swigert: Quad C and D are disabled, Vance.
+032:01:24 Brand: Roger. Disabled. And down here, we see that your hydrogen and oxygen on the fuel cell are exactly matched, so we suspect it's purely a spacecraft read-out problem.
+032:01:40 Swigert: Okay.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file
+At this time, the crew is in the process of stabilizing the spacecraft attitude, eliminating all rotational rates in preparation for spinning up the spacecraft for the Passive Thermal Control mode. Before beginning the slow rotation of Passive Thermal Control, Jack Swigert will attach the Data Acquisition Camera to the spacecraft's sextant, the 28-power sextant, and will attempt to get some photographs of Bennett's comet. He'll take a series of photographs at varying time exposure rates and he's also been advised if any particularly interesting features are noted visually of the Comet Bennett, that they should attempt to sketch them. At the present time, Apollo 13 is 125,083 nautical miles [231,654 km] from Earth. The spacecraft velocity is 4,571 feet per second [1,393 m/s]. The fuel cell temperature fluctuations which were mentioned are occurring in fuel cell No. 3, and this is a temperature that's measured at the condenser exhaust, at the point where the hydrogen reactant is flowing out of the fuel cell and the water's being separated from it. The other two fuel cells are remaining steady at about a 157...
+Your browser does not support the audio element. Download MP3 audio file
+032:04:26 Swigert: Okay, Vance, let us know when you're through with the DSKY so we can load Noun 88? [Pause.]
+They plan to use Noun 88 to point their optics at the Comet Bennett.
+032:04:40 Brand: Rog. We'll let you know, Jack. [Long pause.]
+And as we were saying, the two other fuel cells, Fuel Cells 1 and 2, are remaining stable at a temperature of about 157 to 159 degrees. Fuel Cell 3 is fluctuating between about 152 and 160. Vance Brand advised the crew that this will cause no problem, with a possible exception that it could trigger a warning alarm to them. But we have seen this sort of thing on previous flights, and it should cause no problem.
+032:05:22 Brand: Apollo 13, Houston. The computer's yours, again.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+The Guidance Officer has just reported that the spacecraft appears to be approaching a stable attitude, and we expect that would be in a position shortly for the crew to begin - attempt to photograph the Bennett Comet.
+Your browser does not support the audio element. Download MP3 audio file
+032:10:56 Brand: Okay. You're Go for the pictures.
+The optics console in the Lower Equipment Bay.
+032:11:01 Swigert: Okay, Vance. We tried our Auto Optics and couldn't pick it up there. We're pointing pretty much right into the Sun, and things are pretty well washed out. And I've gone to Manual Optics and I'm trying to get 0.8, 12.5 on the shaft and trunnion, and I still can't pick it up. So - it's very light in the sextant, so I kind of think maybe we're too near the Sun to see it.
+032:11:28 Lovell: That's right, Vance. The sextant is all - it's - it's all milky and it - any comet that could be seen through there is just going to be missed in the background.
+032:11:41 Brand: Okay, we copy that. We got some discussion. Stand by.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file
+032:13:35 Swigert: Okay, Vance, it isn't - we're not looking into the Sun - what we are getting is a large reflection from the Sun behind us off the LM; and it is - it is coming on that quad 1 there, and that quad is reflecting back into the sextant.
+032:13:54 Brand: Okay, Jack. Understand. Just a question: if you look through the telescope, can you see the comet at all? Over.
+032:14:07 Swigert: No, I can't, Vance. It's - it's still too light. [Long pause.]
+Drawing of the geometric relationship between the Earth, Moon and Comet Bennett at 32 hours GET. From the Flight Director's Log.
+The comet observation has been unsuccessful so far. Currently it appears that the Lunar Module's RCS quads are reflecting light to the optics and making it impossible to see the Comet Bennett.
+032:14:23 Unrecognised voice: Does that
+032:14:35 Brand: Stand by.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control. You heard Jack Swigert advise, and Jim Lovell confirm, that reflections of the Sun off the LM are apparently washing out the sextant field of view and making it impossible to get a view of the Bennett - the Comet Bennett. This problem is being discussed in Mission Control right now. Ken Mattingly, who is in the Control Center, and the Flight Activities Officer, and CapCom Vance Brand, as well as astronaut Tony England, are huddled around the Flight Director's console, discussing the possibility of perhaps seeking another spacecraft attitude that might avoid the reflection problem.
+Your browser does not support the audio element. Download MP3 audio file
+032:17:45 Haise: Say, Vance?
+032:17:50 Brand: Roger. Go ahead.
+032:17:55 Haise: Are the flowers blooming yet?
+032:18:00 Brand: Gee, I sure haven't seen any.
+032:18:04 Haise: Okay.
+Ken Mattingly has not yet developed German measles, as per the somewhat humorous code language used here.
+032:18:05 Brand: Hey, we've - we've got quite a discussion down here on your trying to observe the comet, and this reflection is not unexpected. And give us another minute, and we'll be back with you on something on that.
+032:18:26 Lovell: Okay. I doubt very seriously though, if we take any photographs with high-speed black and white with the light coming into the sextant that you're going to get anything out of it. [Pause.]
+032:18:42 Brand: Okay. Unanimous opinion is that you're right, and we'll scratch all of this Bennett Comet stuff on the way out, with the hope that conditions will be more favorable after TEI. Over.
+032:19:04 Lovell: Sounds good. Without the LM, we may have a better chance.
+032:19:10 Brand: Rog. [Long pause.]
+032:19:29 Brand: And Apollo 13, you're Go for PTC. Your rates are very low according to what we can read.
+032:19:38 Lovell: Rog, Vance.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file
+032:22:24 Haise: Okay. Are you going to give a call on Omni B, Vance? [Long pause.]
+032:22:42 Haise: Do you read, Vance?
+032:22:43 Brand: Roger. Go ahead. Request Omni B, Fred, and secure the High Gain Antenna.
+032:22:53 Haise: Okay. You got it.
+032:22:55 Brand: Okay.
+Very long comm break.
+They are switching to using the Omni B antenna instead of the High Gain Antenna.
+Your browser does not support the audio element. Download MP3 audio file
+032:43:21 Brand: Apollo 13, Houston.
+032:43:25 Lovell: Go ahead, Houston.
+032:43:27 Brand: Just something to think about. In about 30 minutes, we can generate the PADs that we have yet to send up before the sleep period, so we could support an earlier sleep period if you so desired. And - but it will take us 30 minutes to get that stuff. The other thing is any time you're ready to copy, I can read up these solo book changes. Over - And, also, two pages in the Flight Plan.
+032:44:01 Lovell: Okay, Vance. We're about ready to copy the solo book changes and the Flight Plan changes, and whenever your PADs are ready, we'll take those. And as far as moving up the sleep period, that's fine, but we'll - if we don't go to sleep right away, we'll use it to get out some of our lunar maps and study them.
+032:44:21 Brand: Okay. And we'll get busy getting those PADs for you as soon as possible then, and I'll stand by on the copying bit.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control at 32 hours, 46 minutes. The crew sleep period is scheduled to begin at 37 hours. You heard Vance Brand advise Jim Lovell that, should the crew desire, we would be in a position to give them the PAD information that they need to get before beginning the sleep period a bit early and give the astronauts themselves the option of beginning their rest period earlier if they desire. The primary activities remaining on the Flight Plan, in addition to passing up those, the numerical data, is for the crew to change out one of the lithium hydroxide canisters and complete the pre-sleep checklist and their evening meal. And when those things have been completed they would be able to begin the rest period. We don't have any idea at this time precisely when the rest period would begin. That would be up to the crew. At the present time Apollo 13 is 126,900 nautical miles [235,000 km] from Earth. The velocity is 4,500 feet per second [1,370 m/s].
+Your browser does not support the audio element. Download MP3 audio file
+032:47:28 Swigert: Okay, Vance, I'm ready to copy the solo book changes there.
+032:47:37 Brand: Okay. First, turn to page 12. On the right-hand side of the page, starting from the middle of the page down, under - everything under "Cycle 5 frames, Replace dark side or dark slide" should be deleted until you get to the very bottom of the page where you have "Acquisition MSFN Omni D" and that should remain in. Also, leave in "Remove window shades," which is about the third line down from where you start. [Pause.]
+032:48:37 Swigert: Okay. Ah, okay. Then from "Cycle 5 frames, Replace dark slide," from there on down, delete.
+The Solo Book is an operations plan for the Command Module Pilot to use during his one-man operations orbiting the Moon while his compatriots explore the surface. Many photographic experiments are planned for Jack during this period.
+032:48:50 Brand: That's everything from there on down, with the exception of "Remove window shades" and at the bottom "Acquisition MSFN Omni D." [Long pause.]
+032:49:10 Swigert: Okay. Copy.
+032:49:12 Brand: And that includes in the margin to the left, the "DAP load" that's at the very start there and the "0.0507" and "plus 0500," further down.
+032:49:31 Swigert: Okay. Got it.
+032:49:34 Brand: Okay. Going to page 13.
+032:49:39 Swigert: Okay.
+032:49:42 Brand: Okay, in the left margin, just below 105 hours GET, cross out the "0507" and the "plus 0500," and below that, add in "DAP load" as follows: "10111 and 11111."
+032:50:11 Swigert: Okay. Got it.
+032:50:13 Brand: Okay. Now, next, at about 105:05, there's a "Verb 48." That should be moved up to 105, and below that, the "Verb 49 maneuver" should be moved up, too. [Pause.]
+032:50:42 Swigert: Okay. That "Verb 48" should be moved up to 105:05 and also the "Verb 49".
+032:50:50 Brand: That should be moved up to 105:00. I'm sorry. Both.
+032:50:56 Swigert: Okay.
+032:50:57 Brand: And what that does is give you more time to maneuver. [Pause.]
+032:51:07 Brand: Okay. Next.
+032:51:09 Swigert: All right.
+032:51:10 Brand: Page 14, right-hand side, near the bottom under "Orbital Science," scratch out "Verify DSE On," and also delete "Visual target 3 on track 180 plus 19," and cross out the penned-in "D5".
+032:51:43 Swigert: Okay. Got it.
+032:51:46 Brand: Next, page 15, left-hand column, or left-hand side, rather, near the bottom, where it says "Configure cameras and tape" and goes down through "Replace dark slide." Just make the comment there, "Solar corona is optional." Over.
+032:52:16 Swigert: Okay. Got it.
+032:52:19 Brand: Okay, next page, 16. [Pause.] This is a continuation of the same solar-corona thing. On the right-hand side of the page, starting just above 107:40 with "Verb 49, maneuver to solar-corona attitude," from there, on down to 107:55 just beneath "Replace dark slide," all of this is in an optional category. So you just might line off...
+032:53:03 Swigert: All right. Got it.
+032:53:04 Brand: ...that and put "Optional, solar corona." Okay, next page, 17...
+032:53:12 Swigert: Okay.
+032:53:13 Brand: ...starting at 108:00 on the left-hand side, line out "Stop Orb rate at Orb science attitude." At - Line out in the left-hand column, the DAP load of "10101" and "11111." Going down to 108:10, add in the following: "Stop Orb rate at track attitude," and in parentheses, "0, 353, 0." In the left-hand...
+032:54:14 Swigert: Okay.
+032:54:15 Brand: Okay, in the left-hand column under 108:10, put in a DAP load in parentheses of "10101" and, under that, "11111".
+032:54:33 Swigert: Okay.
+032:54:35 Brand: Beneath that, scratch out "Spacecraft control dash CMC, Auto, Verify." Scratch out the "Verb 79" and all in parentheses after that, like the "Minus 00507," et cetera. And beneath that, scratch out "Pro to start pitch rate." In parentheses, "0, 230 slash 018, 0".
+032:55:10 Swigert: Okay.
+032:55:12 Brand: Okay. Looking to the right, the LM attitude or rather the CSM attitude will be incorrect, so you can cross that off. And beneath the picture of the Moon, cross out the - in parentheses, "108.19" and the "0, 230/018, 0".
+032:55:39 Swigert: All right.
+032:55:41 Brand: On the right-hand half of the page, cross out the "Orbital science block," and under that "Visual target 1 south of track TR." And under that, the penned-in "D2/3/4". [Pause.]
+032:56:08 Swigert: All right. Got it.
+032:56:09 Brand: And beneath that, cross out "Verb 49, maneuver to track attitude", parentheses "0, 353, 0" and the "HU, SCF". [Pause.]
+032:56:28 Swigert: All right.
+032:56:30 Brand: Okay. The information beneath that starting with "Configure camera earthshine photos" down through "Replace dark slide" is optional. So just put in "Earthshine optional" as a comment there, and, in the camera settings, in the block that has "f:2.8, 125, infinity," cross out the "125" and put in "one-eighth," 1 slash 8, in other words. [Pause.]
+032:57:18 Swigert: Okay, that last part was, cross out the "125" and put in "1/8." Is that right?
+032:57:25 Brand: That's affirm. [Pause.] Okay. Next page. No change. Go to page 19. [Pause.]
+032:57:45 Swigert: Okay.
+032:57:49 Brand: Okay. On the right-hand side, from the "Verb 49, maneuver to earthshine attitude," down through everything up to "MSFN uplink," this is optional. This is "Earthshine optional". [Pause.]
+032:58:19 Swigert: All right. Got it.
+032:58:21 Brand: And once again, a camera-setting correction up near the top of that section that we called optional, where you have "bracket MIR f:0.9, 125", cross out the "125" and put in "1 slash 60." In other words, one-sixtieth. Over.
+032:58:46 Swigert: Okay. Cross out the "125" and put in "1 slash 60".
+032:58:52 Brand: That's correct. And further down at 109:50, where you have "Visual target 17" et cetera, cross out that line and cross out the penned-in "D17." [Pause.]
+032:59:18 Swigert: Okay. [Pause.]
+032:59:27 Brand: Now, move to page 25. [Long pause.]
+032:59:53 Swigert: Okay, go ahead, Vance.
+032:59:54 Brand: Okay. At about 114:10, everything under "Altitude set equals 60 miles" should have the comment "Solar corona, optional," and on that first line of that optional where it says "Verb 49, maneuver to solar corona and limb brightening attitude," cross out "And limb brightening attitude".
+Flight Plan page 3-27.
+033:00:33 Swigert: Okay.
+033:00:35 Brand: Going further down to 114:16, cross out the "14 DAC 18 VHBW limb brightening" line and the line under that which is "BRKT, MIR," et cetera.
+BRKT is the bracket to hold the 16mm movie camera. MIR refers to using a mirror so that the camera can view the scene at the window without obstructing the view.
+033:00:59 Swigert: All right.
+033:01:01 Brand: In the block where it says "Solar corona and limb brightening photos," cross out "And limb brightening photos" and just put "Solar corona, optional." [Long pause.]
+033:01:23 Swigert: Okay. Got it.
+033:01:25 Brand: Going a few lines below that, where you see "DAC On for 4 seconds at about 50 frame rate cover lens", cross that out. [Pause.]
+033:01:50 Swigert: Hey, Vance, we lost you there, or did you [garble]?
+033:01:58 Brand: Yeah, I think we lost lock. We'll stand by a minute.
+033:02:03 Swigert: Okay, I got you back.
+033:02:07 Brand: Okay. Going on down, cross out "114:29:16, DAC On, SR dash 40 seconds." [Pause.]
+033:02:26 Swigert: Okay.
+033:02:27 Brand: And at the very bottom line on that half of the page should be crossed out which is "114:29:56, DAC Off, SR".
+033:02:42 Swigert: Okay.
+033:02:43 Brand: On the right-hand side of page 25, where you have the title "Solar corona and limb brightening photography," cross out "limb brightening photography".
+033:02:57 Swigert: Okay.
+033:02:58 Brand: And in the figure, where you have the "DAC LOS" line, which is parallel to the X-axis on the horizon, cross out "DAC LOS" parallel to X-axis on horizon. [Pause.]
+033:03:24 Swigert: All right.
+033:03:26 Brand: And cross out the bottom block on that half of the page which is "DAC magazine percent required 12 magazines, g" et cetera. [Pause.]
+033:03:42 Swigert: All right.
+033:03:45 Brand: Next page, 26. [Pause.]
+033:03:57 Swigert: Go ahead.
+033:03:58 Brand: Okay. Cross out the top line on the right-hand side of that page, which is "DAC on for 4 seconds, 50 frame rate cover lens." And cross out the block to the right of that and down, which has "Magazine percent." [Long pause.]
+033:04:35 Swigert: All right. Got it.
+033:04:40 Brand: Okay. Next, page 28. [Long pause.]
+033:05:08 Brand: Ready to go?
+033:05:10 Swigert: Go ahead.
+033:05:11 Brand: Okay. On the left-hand side of page 28, at the very bottom, cross out "Photo target 5 north, frame f:5.6, 250, infinity," et cetera. All of that line over to the vertical strip. And cross out the penned-in "E4" below that. [Long pause.]
+033:06:02 Swigert: Okay, go ahead.
+033:06:04 Brand: Okay, and the next page, 29, right-hand side near the top, cross out "Photo target 13, north, f:5.6, 250," et cetera, all of that line. And cross out beneath that the penned-in "E5 slash 6".
+033:06:27 Swigert: All right.
+033:06:29 Brand: Going to page 30, next, left-hand side. [Long pause.]
+033:06:45 Swigert: Go ahead.
+033:06:47 Brand: At the top at 127:01, cross out "Visual target 9 on track, 180 degrees, plus 0.47," and cross out the penned-in "E11" beneath that. [Long pause.]
+033:07:08 Swigert: Okay.
+033:07:10 Brand: Going down to 127:11, cross out "Verify DSE On." Beneath that a ways, cross out "127:14:20, start visual observations of Fra Mauro." [Pause.]
+033:07:34 Swigert: All right.
+033:07:36 Brand: Beneath that, cross out "Continue visual observations," and cross out "Stop observations." And beneath that, cross out "Photo target 56 on track, f:8, 250, infinity, 5," et cetera, to the end of that line. Cross out the "5.6" beneath that and the penned-in "E15." [Pause.]
+033:08:12 Swigert: Okay.
+033:08:14 Brand: Over in the margin, to the left of all that, make a comment: "Delete visual only." [Long pause.]
+033:08:38 Swigert: Where was that, Vance? I didn't get that last one.
+033:08:42 Brand: Okay. That's still on page 30, on the left-hand side. In the time - in the margin at the left where you have times, just pen in beneath the "127:10" the following: "Delete visual only." That's only a comment.
+033:09:04 Swigert: Okay. All right. [Pause.]
+033:09:12 Brand: Okay. Going to page 34. [Long pause.]
+033:09:27 Swigert: Okay.
+033:09:31 Brand: About - on the left-hand side about almost halfway down beneath the "Verb 49, maneuver to TOPO target 54A," make the comment "Target 54A is optional." [Pause.]
+033:09:54 Swigert: All right. Got it.
+033:09:56 Brand: And, next, page 35, on the right-hand side. Everything from "Spacecraft control, CMC, Auto, Verify" on down, should be given the comment "Zodiacal light photos optional." [Long pause.]
+033:10:32 Swigert: All right.
+033:10:35 Brand: And, well, where you have the block in the middle of the page that says - the small block that says "Zodiacal light photos," just put "Optional" in that title, too.
+033:10:48 Swigert: Okay.
+033:10:50 Brand: And, next, page 36, on the left-hand side. [Pause.]
+033:11:00 Swigert: Okay, go ahead.
+033:11:03 Brand: Okay. First, a comment. In the middle of the page is where the zodiacal light stuff ends, just under Verb 48. And then, if you'll go down to the bottom of the page, cross out the line "Photo target 12 on track," et cetera, and cross out the "E5" that is below that line.
+033:11:30 Haise: Okay, Vance, can I break in a minute?
+033:11:33 Brand: Sure.
+033:11:39 Haise: We have the Cryo Pressure light on now. The H2 has hit its lower bound, so do you want us to go back to Auto on the H2 Heater 1? [Pause.]
+033:11:51 Brand: Stand by. [Long pause.]
+Cryo Press caution light.
+033:12:14 Brand: 13, Houston.
+033:12:18 Haise: All right, go ahead.
+033:12:20 Brand: They request that you leave that switch in the Auto position until you go to bed tonight. Stand by. I mean in the On position. I'll repeat that again. In the Off position until you go to bed tonight for reasons that you have a 3-percent imbalance, and they'd like to get that more even. So, just before turning in, we'll change the switch to Auto.
+The 3 per cent imbalance in how much the tanks have been drained is not worrisome, but they would still prefer them to be more evenly used.
+033:12:54 Haise: Okay. [Long pause.]
+033:13:10 Swigert: Okay, Vance, continue.
+033:13:11 Brand: Okay...
+033:13:12 Swigert: Before we get away, would you ask FAO - something I didn't get briefed on - what the penned-in E5 and those letters and numbers mean? [Pause.]
+033:13:31 Brand: Okay. Just 1 minute. [Long pause.]
+033:13:54 Brand: Okay, we'll have comments on that for you in just a second.
+033:14:00 Swigert: Okay. [Long pause.]
+033:15:00 Brand: Apollo 13, Houston.
+033:15:01 Swigert: Okay, Vance, I'm ready to continue. I'm ready. Go ahead.
+033:15:06 Brand: Okay, new subject. Like to break in to say that request you re-initialize the PTT - PTC. For some reason, it's gone up to 18 degrees in pitch and yaw both. We don't quite understand this. All we can think of is - start it again. Over.
+The PTC rotation has failed to take, again.
+033:15:27 Swigert: Okay. We'll go back.
+033:15:33 Brand: Okay. We are at the - the end of the changes in the solo book, and I have two pages of changes in the Flight Plan. Those are pages 3-122 and 3-125. While you're looking that up, we'll put Ken on to answer your question. [Pause.]
+033:16:01 Swigert: Okay. I'll start - let me start back re-initializing PTC here.
+033:16:07 Brand: Okay. [Long pause.]
+033:16:59 Lovell: Okay, Vance, I'm on 3-122 of the Flight Plan.
+033:17:03 Brand: Okay. Okay, about - at time 156:50 on the right - well, on the right-hand half of the page, there's a line which states "Visual target 16, south, 180 plus 1:11, Gassendi, f:15." Request you cross out that line.
+033:17:38 Lovell: Okay, we're crossing it out.
+033:17:42 Brand: That's all on 3-122. Next change is 3-125. [Long pause.]
+033:18:07 Lovell: Okay, I'm looking at 125.
+033:18:10 Brand: Okay, starting from the top of the page, cross out the first five lines, which are "Set up camera for contamination and photography, Betelgeuse, CM4/EL/80," et cetera, "Mag T," et cetera, "Install window shades".
+033:18:35 Lovell: I've got them crossed.
+033:18:37 Brand: Okay, then jump down to just about 159:28. Cross out "Maneuver to contamination field photography attitude," and all other lines below that through "Enable thrusters A3, C4, B3," et cetera.
+033:19:06 Lovell: Okay, so we start with "Maneuver to contamination field photography," and we cross out everything down to and including "Enable thrusters A3, C4, B3, and D4".
+033:19:16 Brand: That's correct. And those are all of the flight changes - Flight Plan changes we have. And Ken is coming on now and later sometime when we get the PTC squared away, and it's convenient, I suppose you should read all these things back to make sure that we are squared away on them.
+033:19:41 Swigert: Okay. Go ahead, TK.
+Prime Crew CMP Ken Mattingly - known as TK from his initials for Thomas Ken - has come to brief his backup who is now having to perform his part of the mission.
+033:19:48 Mattingly: Yes, sir. Understand you have a question.
+033:19:53 Swigert: Yeah. I guess I didn't understand what the letter and the number was behind some of these photo targets.
+033:20:02 Mattingly: Okay...
+033:20:03 Swigert: Does that refer to a page?
+033:20:05 Mattingly: Yes, sir. That's the map. Each fold is lettered in the lower - or upper right-hand corner if you work your way from east to west and the charts are labeled D, E, and F and the solo stuff will all be the D and E, and they change with the plane change 1. That's the time they change the two maps.
+033:20:30 Swigert: Okay. I got it. Thank you.
+033:20:32 Mattingly: Yes, sir. You're doing good work, hey.
+033:20:37 Swigert: Well, I had a good prime crewman that taught me all I know.
+033:20:43 Mattingly: Don't run out. [Pause.]
+033:20:50 Swigert: Hey, when FIDO gets a good hack on our trajectory, will you let us know? [Pause.]
+033:20:58 Brand: How long are you willing to wait?
+033:21:03 Mattingly: He's looking at his calendar, if that means anything.
+033:21:07 Swigert: [Laughter] Rog. [Long pause.]
+033:21:31 Swigert: Okay. I'm back at the attitude here, and I'll wait for rates to damp and you let me know when we're stable again.
+033:21:38 Brand: Okay. Will do.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file
+That last exchange was between Jack Swigert in the spacecraft and Astronaut Ken Mattingly, whose been on the CapCom console along with Vance Brand, since immediately following the television transmission this evening.
+Your browser does not support the audio element. Download MP3 audio file
+033:24:00 Brand: 13, Houston.
+033:24:06 Swigert: Go ahead, Vance.
+033:24:08 Brand: Rog. Just a reminder you have to disable Charlie and Delta here as you've done in the past. Over.
+This refers to the RCS quads C and D, respectively.
+033:24:15 Swigert: Okay. I was kind of holding off on this. We're dumping a little waste water now.
+033:24:23 Brand: Okay. FIDO says he knew it all along. He's - he says he's been very concerned that you've been doing a lot of water dumping.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+033:30:07 Swigert: Okay, Vance. We've got quad C and D disabled.
+033:30:13 Brand: Okay. Copy, Jack.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control at 33 hours, 40 minutes. The crew, at the present time, is still involved in eliminating rotational rates and attitude rates from the spacecraft in preparation for re-establishing the Passive Thermal Control mode. Once they get the spacecraft stable, they'll start it rotating at a rate of about 3¾ revolutions per hour.
+Your browser does not support the audio element. Download MP3 audio file
+033:41:12 Brand: Apollo 13, Houston.
+033:41:16 Swigert: Go ahead.
+033:41:18 Brand: It may be a while before your rates are settled down. We're still observing fairly high rates and deadbanding. Over.
+033:41:29 Swigert: Okay. Thank you.
+The stack is still not stable enough for them to consider starting the PTC roll. Doing it while the spacecraft is moving would cause them to wobble around in an unwanted manner.
+Long comm break.
+033:44:54 (Music)
+Your browser does not support the audio element. Download MP3 audio file
+033:50:36 Brand: Apollo 13, Houston.
+033:50:41 Swigert: Go ahead, Vance.
+033:50:42 Brand: Okay. We've got about three items. First one is, all of your P23 batch - two marks have been evaluated and - Hey, congratulations. Looks real good; they're very happy with it. You're down to 4 arc-minutes on the substellar-point aspect of it, and that's the first thing to mention. The second is, unless you see a need, I don't see any need for you to read back the information we gave you on the solo book and so forth. Do you concur?
+033:51:20 Swigert: Rog. I think I got it. I remembered a lot of it, and so I think with what you gave me and what I remember, I'm pretty sure we got it right. [Pause.]
+033:51:36 Brand: Okay, and the third item, we - I was just about to call that your rates were stabilized to start the PTC, but it looks like they're jiggling around again from a dump, so we'll stand by some more.
+033:51:55 Swigert: Okay. [Long pause.]
+033:52:23 Haise: No secrets around here.
+033:52:28 Brand: Say again. Hey, that's right.
+033:52:33 Haise: I said there's no secrets around here.
+033:52:38 Brand: Yeah. Big Brother's watching. [Pause.]
+Vance is referring to the oppressive Big Brother figure in the classic dystopian novel '1984.' Their joke is based on the fact that anything that gives their spacecraft any thrust will be instantly detected, either by the trajectory people in Mission Control due to their ability to track the spacecraft with extreme sensitivity, or by the rotation it imparts to the spacecraft which is also detectable via telemetry.
+033:52:50 Brand: 13...
+033:52:51 Swigert: I can just see EECOM telling FIDO. [Pause.]
+033:53:03 Brand: Yes. You really have to watch that pair, all right. By the way, we have a maneuver PAD for you, a fly-by PAD, whenever you're ready to copy.
+033:53:17 Swigert: Okay. Stand by. [Long pause.]
+033:53:55 Lovell: Go ahead, Vance.
+033:53:57 Brand: Okay, maneuver PAD, purpose: fly-by, SPS/G&N; 63385; plus 0.97, minus 0.23; 072:24:33.08; plus 0212.7, minus 0141.7, minus 0254.8; 148, 316, 050; NA, plus 0022.5; 0360.9, 0:53, 0356.3; 33, 352.7, 15.0; NA, NA, NA. Starting with latitude, minus 23.26, minus 165.00; 1147.7, 36172; 166:54:02. Comments, GDC Align stars are 31, Arcturus; and 23, Denebola. R align 288, pitch align 205, yaw align 034; ullage, none; other, burn is SPS docked. LM weight, 33499. Over. [Pause.]
+033:57:39 Lovell: Our PAD as follows: fly-by, SPS/G&N; 63385; plus 0.97, minus 0.23; 072:24:33.08; plus 0212.7, minus 0141.7, minus 0254.8; 148, 316, 050; NA, plus 0022.5; 0360.9, 0:53, 0356.3; 33, 352.7, 15.0; NA, NA, NA; minus 23.26, minus 165.00; 1147.7, 36172; 166:54:02; set stars 31, 23; roll is 288, pitch 205, yaw 034; no ullage; SPS docked; and LM weight, 33499.
+033:59:20 Brand: Roger. That's correct. Want to verify under Noun 81 that Delta-VX is plus 02127. You cut out right there.
+033:59:35 Lovell: Roger. Delta-VX is 02127.
+The PAD is interpreted as follows:
+Purpose: This PAD is for a small contingency burn in case the crew will not to enter lunar orbit. Instead, the burn would set the spacecraft on a precise trajectory for return to Earth.
+Systems: The burn would be made using the large SPS (Service Propulsion System) engine at the rear of the Service Module, under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 63,385 pounds (28,751 kg).
+Pitch and yaw trim (Noun 48): +0.97° and -0.23°. These angles represent an initial direction for the gimbal-mounted engine.
+Time of ignition (Noun 33): 72 hours, 24 minutes, 33.08 seconds.
+Change in velocity (Noun 81), fps (m/s): X, +212.7 (+64.8); Y, -141.7 (-43.2); Z, -254.8 (-77.7). The change in velocity is resolved into three components which are quoted relative to the local vertical reference.
+Spacecraft attitude: Roll, 148°; Pitch, 316°; Yaw, 50°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable. If this abort burn were to be made, the apogee of the resulting orbit would be over 9999.9 nautical miles, beyond the limit of the computer's display.
+HP, expected perigee of resulting orbit (Noun 44): 22.5 nautical miles (41.7 km). The perigee distance is so low, it intersects Earth's atmosphere. What this really means is that the spacecraft will re-enter.
+Delta-VT: 360.9 fps (110.0 m/s). This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 53 seconds.
+Delta-VC: 356.3 fps (108.6 m/s). Using its ability to independently measure acceleration, the EMS can shut down the engine in case the G&N system fails to do so. This figure, Delta-VC, is slightly lower than Delta-VT because the EMS does not take account of the engine's tail-off thrust.
+Sextant star: Star 33 (Antares, Alpha Scorpii) visible in sextant when shaft and trunnion angles are 352.7° and 15.0° respectively. This is part of an attitude check.
+Boresight star: Not available. This is a second attitude check which is made by sighting on another celestial object with the COAS (Crew Optical Alignment Sight) looking out of a rendezvous window. Since the LM is docked to teh CSM, it is blocking the view out of those windows.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. Another important point is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g's.
+Expected splashdown point (Noun 61): 23.26° south, 165.0° west; in the mid-Pacific.
+Range to go: 1,147.7 nautical miles (2,125.5 km). To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel after Entry Interface. This would later be decremented based on data from the EMS' own accelerometer.
+Expected velocity at Entry Interface: 36,172 fps (11,025 m/s).
+Time of Entry Interface: 166 hours, 54 minutes and 2 seconds GET. This is the predicted time at which the spacecraft would be at 400,000 feet (121.92 km) altitude.
+GDC Align stars: The stars to be used for GDC Align purposes are 31 and 23 (Arcturus and Denebola).
+GDC Align angles: roll, 288°; pitch, 205°; yaw, 34°.
+The PAD includes some additional notes. The SPS propellant tanks are full, so there would be no need to perform an ullage burn to settle their contents. The burn details assume the LM is still docked and the mass of the LM is given as 33,499 pounds (15,195 kg).
+033:59:40 Brand: Roger. And your rates are low. Looks like you can start the PTC. [Pause.]
+033:59:51 Swigert: Okay. In work.
+033:59:54 Brand: Okay. And when the computer is available, request P00 and Accept and we'll ship you your state vector.
+034:00:07 Lovell: Wait until I get PTC going first, Vance, then we'll give it to you.
+034:00:10 Brand: Okay.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file
+034:02:41 Swigert: Okay, Vance. We're P00 and Accept. The computer's yours.
+034:02:48 Brand: Roger. Here it comes. [Long pause.]
+034:03:09 Swigert: You know, somehow, every time I do a set of P23s, you guys uplink me a state vector. I don't think I do too well.
+034:03:24 Brand: No...
+034:03:25 Swigert: I could get a complex.
+Jack is joking that despite Mission Control telling him that Jack's observations are very accurate, they nonetheless update the onboard computer with the ground-generated navigational data.
+034:03:26 Brand: No. You know - you know how the FIDOs are. They like to load in their own data, no matter what. [Pause.]
+034:03:44 Swigert: But our state vectors take into account the waste water dumps.
+034:03:56 Brand: Yeah, that's...
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file
+034:05:28 Brand: Apollo 13, Houston. It's your computer again.
+034:05:33 Swigert: Okay. Going to Block.
+034:05:36 Brand: And as a matter of interest, understand that the downrange comparison between the MCC and the computer is within 35,000 feet, and that's on the last sighting, which people think is pretty good.
+034:05:56 Swigert: Okay. Maybe that gives us a little more confidence that if we had to do P23s on the way home, we'd make it.
+034:06:05 Brand: No doubt about it.
+Their earlier joking aside, if the communications link between the spacecraft and Earth was cut for whatever reason, it would be up to their onboard navigational sightings for the crew to find their way back home.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control at 34 hours, 13 minutes. At this time, the crew has very little left to complete before beginning their sleep period. They still have a lithium hydroxide canister to change out. Following that, we expect they'll begin their eat period, and it's possible that they will begin the sleep period somewhat earlier than the scheduled 37 hours in the Flight Plan. Our latest estimate on the impact of the S-IVB, the Saturn third stage on the lunar surface, is that this event will occur at 77 hours, 57 minutes, 37 seconds; and our current tracking data indicates that the impact point will be 0 degrees, 56 minutes north; 29 degrees, 33 minutes west. Apollo 13 at this time is 130,736 nautical miles [242,123 km] from the Earth travelling at a speed of 4,402 feet per second [1,342 m/s].
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control at 34 hours, 42 minutes. Our Guidance and Control officer reports that the spacecraft appears to be remaining quite stable in the Passive Thermal Control mode. The spacecraft rotating slowly to maintain the proper thermal balance. This is the normal mode for the spacecraft to be in during sleep periods and periods of low crew activity. Jim Lovell advised some time ago - a couple of hours ago, that the crew might begin the sleep period early. He said if they had any problem getting to sleep or if they weren't particularly sleepy at the time they finished their other scheduled activities, that they might review some of their lunar charts before turning in for the 10-hour rest period. At this time Apollo 13 is 131,948 nautical miles [244,368 km] from Earth, travelling at a speed of 4,368 feet per second [1,331 m/s]. At 34 hours, 43 minutes; this is Mission Control, Houston.
+Your browser does not support the audio element. Download MP3 audio file
+034:58:16 Brand: Apollo 13, Houston.
+034:58:21 Lovell: Go ahead, Houston.
+034:58:23 Brand: Just info on your PTC, Jim. It's looking very good. Excursions in pitch and yaw are very low.
+034:58:34 Lovell: Okay, thank you. And we're going to change another lithium hydroxide canister now.
+034:58:42 Brand: Okay. [Pause.]
+Location of the Lithium Hydroxide canister slots in the Lower Equipment Bay.
+Two box-like aluminum objects are hidden from the view usually behind a little door panel. These are canisters that contain lithium hydroxide and activated charcoal. The CM life support system circulates onboard air through the canisters, where the carbon dioxide, odors and any potential toxins are absorbed into the chemicals inside. They have a limited lifetime and need to be changed periodically to maintain a habitable atmosphere.
+Command Module Environmental Control Unit, with annotations.
+The core of the Command Module's life support system is located in the left hand compartment. It features equipment to remove the carbon dioxide, odours, excessive humidity and heat from the cabin via the suit loop. This very compact unit is self-regulated and usually requires minimum crew intervention during normal operations.
+Canister change schedule
+Judging by the schedule, they are to remove Can 3 from slot A and replace it with Can 5. Normally each canister is in place for 10 to 15 hours on average. The longest swap interval of 29 hours is during the single crewmember operation while in lunar orbit, due to only having one person onboard to produce carbon dioxide.
+This silent 16mm film shot during the flight of Apollo 8 shows then-Command Module Pilot Jim Lovell hard at work changing the lithium hydroxide canister. This clip offers an excellent view into the Lower Equipment Bay and the proceedings involved in changing the carbon dioxide absorber.
+034:58:54 Swigert: And, Vance. Has FIDO come up with any observations on the trajectory?
+034:59:02 Brand: Well, a minute ago, he said that to tell you that he was pacified now after your past comments on his trajectory and so forth, and he hasn't seen any waste water dumps or anything and he's pretty happy.
+034:59:24 Swigert: Okay. I just wondered if we're going to need any more midcourse. [Pause.]
+034:59:36 Brand: He says, seriously, it's looking probably like you won't have any more.
+034:59:45 Swigert: Hey, that's real fine.
+034:59:49 Brand: FIDOs never guarantee anything, however.
+034:59:55 Swigert: Yeah. That's right.
+Long comm break.
+Flight Plan page 3-28.
+Your browser does not support the audio element. Download MP3 audio file
+035:04:50 Swigert: Houston, 13. I have the onboard read-out, if you're ready to copy.
+035:04:57 Brand: Roger. Go ahead.
+035:05:01 Swigert: Okay. Bat C, 37; Pyro Bat A, 37; Pyro Bat B, 37; RCS A, 97 percent; B, 97 percent; C, 96 percent; D, 97 percent.
+Service Module RCS temperature, pressure and quantity tapemeters. Original scan via heroicrelics.org.
+Jack checks the battery charges and the amount of RCS fuel left in each of the four quads.
+035:05:27 Brand: Roger. We copy that. Thank you.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+035:26:56 Brand: Apollo 13, Houston. [Pause.]
+035:27:05 Lovell: Go ahead, Vance.
+035:27:07 Brand: Jim, just an item for you and Fred to be thinking about in case you haven't been briefed on this, something that's now being talked about a little bit. These conservative people would like to have you read out the SHe tank pressure when you go into the LM for the LM familiarization at 58 hours. If there's no midcourse-3, and it looks like there's a good chance that there will not be, why, they might want to move the LM familiarization up from 58 to 55 hours. Over.
+035:27:50 Lovell: Okay. If we don't have a midcourse-3, then we'll probably move LM FAM up to 55 hours, in which case we'll go in there and read SHe tank pressure.
+035:28:02 Brand: Rog. Along with the other FAM stuff, and it's not certain that we want to do this, it's just being talked about, so this is just the information for you.
+035:28:18 Lovell: Okay. This is beginning to sound like the sim that we ran not too long ago.
+035:28:29 Brand: I don't think it will be a very big deal.
+Despite Vance's best intentions in assuring the crew, it will turn out to be a somewhat big deal indeed.
+Descent Propulsion System diagram.
+The Descent Propulsion Engine (or DPS), designed to land onto the Moon, is a rocket motor using hydrazine fuel and nitrogen tetroxide oxidizer, which, by the nature of being hypergolic require no ignition hardware. The fuel and oxidizer are forced into the engine using helium pressure, which also simplifies the design by removing the need for the kind of turbo-machinery that is used to pump fuel into the engines of the Saturn V rocket. The DPS, besides compactness and redundancy, also needs to have the ability to be throttled so that the engine output can be modified - crucial for a soft landing on the lunar surface.
+Diagram of the supercritical helium tank. Click image for larger view.
+Although built to be very well insulated, the supercritical helium, or SHe tank, experiences a certain amount of heat leak. Rising temperature within the tank causes the pressure to increase. This is actually part of the design. To gain the helium pressure needed to operate the engine, they simply need to time the landing burn so that the pressure has had the time to rise in the tank. Normally this happens at a constant rate known to Mission Control thanks to the well determined thermal qualities of the tank, but the tank onboard the Aquarius has been behaving out of the norm. The pressure was shown to be rising faster than expected before the launch, although not alarmingly enough to warrant replacement. They launched knowing that the thermal characteristics of the tank are somewhat suspect. Now, concerned controllers want to power up the displays so that the crew can check the tank pressure. A rise that is too fast could cause the tank to be vented through a safety valve known as the burst disk, which would disable the engine and cause a definite cancellation of the landing attempt.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+035:43:42 Swigert: Okay. Houston, 13.
+035:43:46 Brand: This is Houston. Go ahead.
+035:43:50 Swigert: Okay, Vance. Our LM/CM Delta-P is 0.9.
+035:43:58 Brand: Rog. 0.9.
+035:44:05 Swigert: Roger.
+Oxygen pressure inside the Lunar Module is almost 1 psi lower than in the Command Module.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control at 35 hours, 46 minutes. The Flight Dynamics Officer has just recomputed a new impact point for the S-IVB, based on later tracking data. The current figures predict that the S-IVB will impact the Moon at a Ground Elapsed Time of 77 hours, 56 minutes, 54 seconds; and the coordinates of the impact are now predicted to be 2 degrees, 35 minutes south, and 28 degrees, 31 minutes west. These continue to be preliminary figures and we expect that there is a good chance they will be updated as we get further tracking data on the S-IVB. At the present time Apollo 13 is 134,624 nautical miles [249,324 km] from Earth, traveling at a speed of 4,292 feet per second [1,308 m/s].
+Your browser does not support the audio element. Download MP3 audio file
+036:42:10 Brand: Apollo 13, Houston.
+036:42:14 Haise: Go ahead, Vance.
+036:42:17 Brand: Are you guys hacking into your presleep checklist yet?
+036:42:24 Haise: Oh, we just finished eating and cleaning up a bit afterwards. Jim's going around collecting debris off of all the inlet hoses. And, I guess you might say we're kind of thinking about getting ready to go to sleep.
+All loose particles - whether dust, food crumbs or anything left over from the construction of the spacecraft - will float endlessly in microgravity, propelled by the flow of air inside the cabin. This flow will eventually pull them against the screens of the ECS inlets set up in to capture these particles. This makes cleaning up easier, and prevents the system from becoming clogged up.
+036:42:47 Brand: Well, I hope you had a good meal.
+036:42:53 Haise: Yeah, it wasn't too bad.
+036:42:55 (Music)
+036:43:01 Brand: Sounds like you guys are really living it up, up there. All that music, food. I didn't say drink.
+036:43:09 Haise: Yes, it is pretty nice. Not bad at all. [Pause.] You're right; you didn't say it. [Pause.] This PTC we're in is a pretty - pretty nice merry-go-round, Vance. Every 10 minutes alternately I get to look at the Earth and the Moon.
+036:43:40 Brand: You couldn't ask for anything more than that. Just so it isn't so fast you...
+036:43:44 Haise: No, it's a lot - a lot better. I remember from 8 when they didn't hardly ever get to look at either one.
+036:43:57 Brand: That's right. They were tumbling about another axis, weren't they.
+036:44:03 Haise: Yep. [Long pause.]
+036:44:31 Haise: It's pretty cloudy down there tonight. About the only land I can see again is a portion of Australia and Korea and looks like a part of China. Just about clouds covering everything else.
+036:44:51 Brand: Can you still see that clearly with the naked eye, or do you have to look through a glass?
+Miscellaneous visual aids carried in the Command Module.
+Vance is referring to a monocular telescope that can be used for sightseeing, both casual and scientific.
+036:45:01 Haise: I can see Australia with the naked eye and the China landmass, but I - It took the monocular to pull out the Korean Peninsula. [Pause.]
+036:45:15 Brand: How about the Moon? Is it looking very big yet?
+036:45:21 Haise: No, not - not really. Bigger, but we've got a ways to go.
+036:45:31 Brand: I understand that they're estimating your pericynthion - lunar pericynthion is now 62 [nautical] miles [115 km].
+036:45:46 Haise: Well, that's not bad.
+036:45:47 Brand: That's supposed to be just right.
+036:45:50 Haise: Yeah. [Long pause.]
+036:46:25 Swigert: Okay, Houston; 13.
+036:46:28 Brand: Go ahead, Jack.
+036:46:31 Swigert: Okay. We're into the presleep checklist now. As far as the crew status report, as far as medication goes, we've had no medication. And we're all feeling really good. I've given you the onboard readouts. Jim is chlorinating the potable water now. I'm ready for an E-memory dump whenever you're ready. [Pause.]
+036:47:01 Brand: Stand by 1 on the E-memory dump, Jack. I think we'll be ready in about a minute.
+036:47:08 Swigert: Okay.
+036:47:12 Brand: And EECOM says that as soon as you stir your cryos, request you go back to Auto on that one tank.
+036:47:25 Swigert: Okay. We'll do that. [Long pause.]
+They've been fiddling with the hydrogen tanks in order to prevent Master Alarms from interrupting their sleep due to low pressure in the tanks.
+036:48:14 Brand: Apollo 13, Houston. We're ready to take your E-memory dump.
+036:48:21 Swigert: Okay. Coming down.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control at 36 hours, 50 minutes. During that last series of conversations, Jack Swigert passed along the crew physical status, reporting that they've taken no medication and they're all feeling fine. Prior to that, Fred Haise gave us an out-the-window description of the Earth and Moon. Fred also played back a short sample of the music that they have on board the spacecraft and reported that the food was fine. Apollo 13 at this time is 137,250 nautical miles [254,187 km] from Earth, travelling at a speed of 4,219 feet per second [1,286 m/s]. The crew should be beginning their scheduled 10-hour rest period shortly. That rest period is scheduled to begin at a Ground Elapsed Time of 37 hours. They've completed all items in the Flight Plan necessary to beginning the sleep period. At 36 hours, 52 minutes; this is Apollo Control, Houston.
+Flight Plan page 3-29.
+Your browser does not support the audio element. Download MP3 audio file
+037:07:15 Lousma: Apollo 13, Houston. Were you trying to call?
+037:07:20 Lovell: Go ahead, Houston. [Pause.]
+037:07:29 Lovell: Houston, 13.
+037:07:33 Lousma: Apollo 13, Houston. We thought you were trying to call. Were you?
+037:07:38 Lovell: I don't believe so unless we inadvertently hit the microphone button.
+037:07:48 Haise: Must have been some other guy trying to call, Jack.
+037:07:53 Lovell: Just trying to get some words in, eh Jack?
+037:07:58 Lousma: Roger. We saw the Down Voice subcarrier come on. We thought maybe you were trying to call. Sorry. I hope we haven't disturbed you and from where I sit, it looks like you're running a rest home up there. Good night.
+037:08:14 Lovell: We're all going to bed now just after we play the last rendition of 'With Our Eyes on the Stars.'
+037:08:24 (Music)
+037:08:29 Lousma: Okay, Jim. And we'd like you to check your S-Band Normal voice switch, Off.
+037:08:37 Lovell: S-Band Normal, Off.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control at 37 hours, 11 minutes. That was Jim Lovell reporting just a few minutes ago that the crew was ready to begin their 10-hour sleep period. That sleep period is scheduled to end at 47 hours Ground Elapsed Time. Here in Mission Control, astronaut Jack Lousma has replaced astronaut Vance Brand as Capsule Communicator.
+Your browser does not support the audio element. Download MP3 audio file
+037:11:09 Lovell: Houston, 13. We'll be off comm; so if you need us, send a crew alert, please. [Long pause.]
+The crew plans to sleep without any of the three wearing the communication headsets. Besides potentially being uncomfortable due to prolonged wearing, it is not possible to completely mute the normal radio noise generated by the system operation as well as antenna switching and the like, hence anyone wearing the headset would be prone to being woken up.
+What Jim is requesting here is that if the crew has to be roused from their sleep prematurely, they can use the ship's Up-Data Link to trigger the Master Alarm onboard the spacecraft remotely. Known as Real-Time Commands, Mission Control can turn the Master Alarm on or off via a radio signal. That, besides the tape recorder, are the only onboard systems that can be remotely controlled.
+List of some of the real time commands, including the crew alert.
+037:11:44 Lousma: Okay, Jim. If we need you, we'll send a crew alert, and we'd like to know who's got the duty tonight on the biomed. Is that you? [Long pause.]
+037:12:03 Lovell: Yeah. I'll be on the biomed.
+037:12:09 Lousma: Okay. We copy, and you're spoiling my good record of two watches without saying anything.
+037:12:24 Lovell: Just want to keep you busy, Jack.
+037:12:27 Lousma: You're waking me up.
+Very long comm break.
+Day 2, part 1: Midcourse Correction 2 on TV
+Journal Home Page
+Day 3, part 1: Before the Storm

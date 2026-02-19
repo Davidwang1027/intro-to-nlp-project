@@ -1,0 +1,822 @@
+﻿
+Apollo 13 Flight Journal - Day 3, part 4: Free Return
+Day 3, part 3: Aquarius Becomes a Lifeboat
+Journal Home Page
+Day 3, part 5: Minimising Power
+Apollo 13
+Day 3, part 4: Free Return
+Corrected Transcript and Commentary Copyright ©2020-2025 by W. David Woods, Johannes Kemppanen, Alexander Turhanov and Lennox J. Waugh. All rights reserved.
+Last updated 2025-02-22
+Just over 3 hours and 40 minutes have passed since the oxygen tank exploded in Apollo 13's Service Module. In that time, the crew and Mission Control have been coming to terms with the parlous situation they find themselves in and have begun the task of effecting a rescue.
+Command Module Pilot Jack Swigert has powered down his Command Module Odyssey. He has little to do now. His crewmates, veteran commander Jim Lovell and Lunar Module Pilot Fred Haise have quickly activated the Lunar Module Aquarius and it is now their lifeboat, providing propulsion, power, oxygen, cooling and other consumables. They are still nearly 20 hours away from the Moon, and only after swinging around it will they start to move back towards the Earth. Although the plan to use the LM as the lifeboat for the return home exists on paper, it has never been practised by the crews.
+16mm film capture into the dark Command Module. Taken during the coast home.
+The crew has been passed the details of a burn of the DPS engine that will return them to Earth for a landing in the Atlantic Ocean at 133 hours. That burn would occur 20 hours from now at the so-called PC+2 (pericynthion plus two hours) point.
+059:36:25 Lousma: Aquarius, Houston. We'd like to have Aft Omni, and we're going to lose contact with you for about a minute here while we try to establish tracking. And our latest data shows that your closest approach to the Moon is going to be 60 miles perigee. Over.
+Diagram of the different communications frequencies being used. PRN refers to Pseudo Random Noise, which is used to determine the range to the spacecraft from the tracking station.
+Houston is trying to determine their exact position and velocity by using the radio link between the ground station and the spacecraft.
+The radio carrier signal to the spacecraft (the uplink) is at a precise frequency. Upon reception, the spacecraft synthesises a downlink carrier from the uplink whose frequency is at a relationship of 240/221. Were the spacecraft motionless with respect to the ground station, the downlink frequency would reflect that exact ratio. Any velocity away from or towards the ground station will alter that frequency according to the Doppler effect.
+For distance measurement, a carefully selected large digital number is placed on this uplink. This is called pseudo-random noise and when it is received back on Earth, the delay between the sent and received version of the code yields the range to the spacecraft. Add to this, the precise pointing angle of the antenna and the spacecraft's position and velocity (its state vector) can be calculated. This Earth-based result is usually more accurate than what can be produced by the onboard navigational equipment.
+059:36:44 Haise: Okay. Closest approach, 60 miles, and I'm sitting on Aft Omni now.
+059:36:50 Lousma: Roger. We'll probably be going off the air here in about a minute.
+Long comm break.
+059:41:12 Lovell: Houston, Aquarius. Over.
+059:41:14 Lousma: Go ahead, Aquarius.
+059:41:19 Lovell: Okay. We're thinking about rigging up the urine dump to the side hatch. We're thinking about rigging up the urine dump to the side hatch and save urine heater power. What do you think?
+059:41:36 Lousma: Stand by one.
+They are discussing the Command Module side hatch here.
+059:41:42 Lovell: Better still so we won't freeze up our urine dump.
+059:41:48 Lousma: Roger. That sounds like a good plan, Jim. Why don't you go ahead with that one?
+Comm break.
+Haise, from 1970 Technical debrief: "You might think that you have to stop overboard dump because of the loss of the electric power and the heaters on the urine dump, but Jack actually rigged up the AUX urine dump through the forward hatch and I think he tried it."
+Swigert, from 1970 Technical debrief: "Jim did it once."
+Lovell, from 1970 Technical debrief: "You should tell Houston, too, that dumping overboard was a bad thing to do."
+Haise, from 1970 Technical debrief: "The point I was making was, other than the problems of tracking - I don’t think you need a heater for that overboard dump, and I think you can use it forever and ever without having a heater. With the tracking, though, that made the picture entirely different. When we couldn’t dump it anymore, I think we improvised some place to store all this good fluid."
+Swigert, from 1970 Technical debrief: "One comment on using that auxiliary dump for urine is that it does complete cloud up the hatch window. If you ever use that, you might as well forget about photography. We used it for one urine dump, and there were particles on the window from then on."
+059:42:59 Lousma: Okay, Aquarius. And down here we're getting regrouped, trying to work on your control modes and trying to set up something for PTC and taking a look at consumables as opposed to Flight Plan, and so forth, and as soon as we get all that information, we'll pass it up to you. We also have the 14 backup crew over in the simulators looking at dock burns and also trying to see what kind of alignment procedures they can come up with for looking at stars out the window. So if you ever are able to see any stars out there and think you can do an alignment out the window, why let us know.
+Many interesting things in this long message from Lousma in Mission Control. Currently on their list of important things is to try to figure out how to fly the unusual configuration while using the Lunar Module’s RCS engines. They are also concerned about the temperature and want to try to reinitiate PTC or Passive Thermal Control by making the stack spin in order so as not to keep one side pointing at the Sun for too long.
+Apollo 14's backup crew consisted of veteran astronaut Gene Cernan (CDR) as well as first timers CMP Ronald Evans and LMP Joe Engle. The latter had the interesting distinction of already being an astronaut before being selected for the Apollo program, having flown the X-15 rocket powered plane to over 50 miles, thus earning him his USAF astronaut wings.
+Star sightings are used to configure their guidance system by providing a reference point out in space. By telling the computer where particular stars are located on the celestial sphere and comparing this with the computer's idea where they should be located, they can determine their attitude and position with high accuracy. This not only helps with navigation, but also allows them to calibrate the inertial platform. Optimally this is done with the onboard telescopic instruments, but now they are contemplating whether it’s possible to do it by eye through the ship’s windows, using backup methods.
+Lunar Module Simulator. The large console at the foreground was used to operate the simulator and the massive computer system running it. NASA 16mm film capture.
+The MEP system was used to project simulated starscapes and planetary bodies to the LM simulator windows.
+059:43:40 Lovell: Okay. Jack, right now we're not able to. The sunlight's reflecting off the thrusters and whatever debris came away at the time of the mishap is still with us, such that the stars are hard to find, and why - what respect do you want us to do the stars out the window - just to check the LMS run, is that correct?
+059:44:04 Lousma: That's affirmative. We'd like to correlate the information we get with yours, so that if we can use it to update the platform, we can. [Pause.]
+059:44:20 Lousma: What we're really trying to do, Jim, is see if we can do a COAS align so we can power down the platform. [Long pause.]
+The inertial guidance system and the LM computer consume 9.76 amps. Telemetry shows that they are consuming 31.7 amps overall, meaning that taking off the platform and the computer would cause a drop of a third of their full power consumption. Presently, their power is calculated to last till 124 hours - seven hours short of the projected 133 GET landing, should they stick to the current plan for the PC+2 burn.
+059:45:23 Haise: That is Aquarius. We're getting an awful lot of static on the uplink now, and we're not reading you at all. [Pause.]
+059:45:39 Haise: I have good signal strength and I'm on Aft Omni.
+059:45:51 Lousma: How do you read now, Aquarius?
+Comm break.
+059:47:06 Young: Hey, Jim, do you suppose that you could orient the LM so that the Service Module would be between you and the Sun? I believe you could see - recognize constellations out your front windows then. [Long pause.]
+John Young is the backup commander of the mission. He has already flown to the Moon on Apollo 10 and has practised much of Jim's role up to the explosion. After Jim himself, he is one of the most experienced of NASA's astronauts.
+059:47:47 Lousma: Aquarius, Houston. Radio check. [Long pause.]
+059:48:15 Lovell: Okay, Jack. How do you read now?
+059:48:17 Lousma: Okay. Hearing you 5 square now, Jim. And the question we have, is there some way you can orient the spacecraft so that the Service Module is between the LM and the Sun so you can recognize constellations out the window? And secondly, can you see anything out the AOT? [Long pause.]
+059:49:28 Lousma: Aquarius, Houston. How do you read?
+Long comm break.
+This is Apollo Control; 59 hours, 51 minutes Ground Elapsed Time; continuing to stand by as we go through momentary loss of communication as the antennas and the spacecraft attitude drift past the point at which the ground tracking stations can receive from the spacecraft antennas. To back up and recap the earlier maneuver PAD, or information regarding Descent Propulsion System abort for minimum return time - this maneuver, should it be done, would come at 79 hours, 25 minutes, 26 seconds Ground Elapsed Time; at an altitude above the Moon of 205 nautical miles. The maneuver would be 1,797.7 feet per second posigrade; burn time of 8 minutes, 35 seconds; would produce entry interface at about 133 hours Ground Elapsed Time. Apollo 13 is now 185,455 nautical miles [343,463 km] out from Earth; velocity showing on the display here in Mission Control, 3,118 feet per second [950 m/s]. The spacecraft crew aboard Aquarius and Odyssey are now powering down, carefully husbanding all of the consumables aboard the spacecraft. We're continuing to stand by at 59 hours, 53 minutes Ground Elapsed Time; this is Apollo Control.
+059:53:46 Lousma: Aquarius, how do you read me now?
+Long comm break.
+059:56:56 Lousma: Aquarius, Houston. How do you read? [Pause.]
+059:57:08 Lousma: Aquarius, request Forward Omni, please.
+Comm break.
+059:58:22 Lousma: Aquarius, Houston. Request Forward Omni. How do you read? [Long pause.]
+059:59:06 Haise: Okay, Houston; Aquarius. How do you read?
+059:59:09 Lousma: Hello there, Aquarius. Loud and clear. How do you read me?
+059:59:14 Lovell: There's an awful lot of background...
+059:59:16 Haise: We get a lot of background static, Jack. You're down in the mud. You having a ground problem?
+059:59:23 Lousma: What we tried to do was to get the IU frequency shifted off a little bit so that we'd have less interference. I think it'll come up - What we want you to do is turn on your descent oxygen and turn off your ascent oxygen. Over. And request Forward Omni.
+The initial attempt to separate the Lunar Module and the Instrumental Unit’s communications frequencies has improved their communications somewhat, but the situation is still not perfect. A further procedure will be performed later that will rectify the issue properly.
+059:59:43 Haise: You're unreadable, Jack. We've got our signal strength meter - right now it keeps wavering up and down, and the best I'm getting is about 2.4 AGC.
+Communications panel in the LM. Scan via heroicrelics.org
+This panel has rotating controls for adjusting the aim of the steerable antenna and selecting between the various antennae. There is also the signal strength indicator. Currently it reads 2.4 AGC.
+059:59:53 Lousma: Roger. Request Forward Omni.
+059:59:58 Haise: I am on Forward Omni. I've been on Forward Omni. [Long pause.]
+060:00:43 Haise: Okay. How do you read, Jack?
+Computer-generated image of the Moon as it would be viewed from the Apollo spacecraft at 60 hours GET.
+060:00:46 Lousma: I'm hearing you 5 square, Fred. How me? [Long pause.]
+060:01:13 Lousma: Aquarius, Houston, How do you read. [Long pause.]
+060:01:58 Haise: Okay. We're up to about 2.6 AGC now.
+060:02:03 Lousma: Aquarius, Houston. Radio check. [Pause.]
+060:02:10 Haise: Okay. Every time you Transmit, Jack, the AGC starts to drop off and the static level turns up.
+060:02:18 Lousma: Okay, Fred. You're loud and clear.
+060:02:24 Haise: I wish you were.
+060:02:30 Lousma: Fred, go to Descent O2.
+060:02:35 Haise: Descent O2. Roger.
+Comm break.
+They were told to use the ascent stage oxygen tank earlier due to rising pressure in the tank. This condition has now been rectified and they can return to the much larger reserve in the descent stage.
+This communication problem is caused by the S-band radios used on the LM and on the IU atop the S-IVB stage using the same frequency. On previous flights, the S-IVB's batteries would be spent by this time but on Apollo 13, extra batteries had been added so that the stage could be tracked all the way to its impact on the Moon. This was part of a seismic experiment that would use a seismometer that had been placed by the Apollo 12 crew. It had been expected that this impact would have occurred by the time that Aquarius was activated. With the LM's early activation, both systems are interfering with each other. The engineers at Honeysuckle Creek are attempting to separate the two systems.
+The Unified S-Band system works by having a radio carrier of precisely known frequency sent to the spacecraft. This is the uplink. The spacecraft uses it to synthesise a different transmission frequency according to the ratio of 240/221 and this is sent back to Earth as the downlink. By carefully moving the frequency of the uplink, it is possible to also move the frequency of the downlink. The trick in this situation is to discriminate between the S-IVB and the spacecraft, both of which are in the same field of view of the smaller antennae available to MSFN.
+060:04:05 Lovell: Hello, Houston; Aquarius.
+060:04:08 Lousma: Hello there, Aquarius. How do you read me now? [Pause.]
+060:04:23 Lovell: Hello, Houston. Aquarius.
+060:04:26 Lousma: Aquarius, Houston. Go.
+060:04:30 Lovell: Okay. That's the first clear word we heard from you, Jack. Do you think it could be my pitch attitude that's breaking up your incoming? I guess you've been hearing us.
+060:04:42 Lousma: We have been hearing you, and the problem is on the ground. I hope we have it corrected now.
+060:04:51 Lovell: Okay. That sounds good.
+060:04:53 Lousma: We're considering powering down the PGNS but we want to know what capability you have to do a coarse and fine align. We read your conversation about being unable to see out the window very good. How about out the AOT? [Long pause.]
+They currently have what they assume to be good alignment data, transferred over from the Command Module into the LM’s own guidance system. If they have to shut down the PGNS, they lose this data and in their current situation, they are unsure whether they are able to re-calibrate the inertial guidance using the equipment available to them in the LM. The AOT is only designed for aligning the platform in lunar orbit and on the surface, not in the cislunar space.
+060:05:26 Haise: He's looking now.
+060:05:29 Lousma: Okay. And the other thing we thought you might try is to put the Service Module between you and the Sun and then to see if you can see anything out the window in that attitude.
+060:05:43 Young: The reason that we think that that would work is that it worked on Apollo 10. It made the constellations all recognizable when we put the the Service Module - in our case a LM, between us and the Sun.
+060:06:00 Lousma: Aft Omni, Fred. [Pause.]
+060:06:07 Haise: You're down in the mud again, Jack. It appears that some other circuit is feeding through on there with you.
+060:06:14 Lousma: Roger. Aft Omni. [Long pause.]
+060:06:42 Lousma: Aquarius, Aft Omni. [Long pause.]
+This is Apollo Control. John Young sitting in at the Capcom console with Jack Lousma giving the benefit of his experience in Apollo 10.
+060:07:29 Haise: Okay. You're down in the mud again, Jack. Lots of background static. [Long pause.]
+060:08:10 Lousma: Aft Omni, Aquarius. [Long pause.]
+060:09:00 Lousma: Aquarius, Houston.
+Comm break.
+060:11:18 Haise: Okay, Houston; Aquarius. How do you read?
+Long comm break
+060:18:21 Lousma: Aquarius, Houston. How do you read?
+Long comm break.
+This is Apollo Control; 60 hours, 21 minutes Ground Elapsed Time. At the present time, the Flight Dynamics Officer here in Mission Control is computing a maneuver to place Apollo 13 back on a free return trajectory within the next hour. The maneuver would likely come at about 61 hours Ground Elapsed Time. The Lunar Module Primary Guidance and Navigation System, so-called 'pings', will be left powered up for the next hour, and then powered down to conserve water, which is used for cooling the electronics in the system. We'll stand by as this next maneuver is generated and passed up to the crew. Having some communications problem as the spacecraft drifts through the various Omni antenna look angles. The High Gain Antenna has not been powered up, to conserve the electrical power. At 60 hours, 22 minutes Ground Elapsed Time, standing by; this is Apollo Control.
+060:22:46 Haise: Hello, Houston; Aquarius. How do you read?
+060:22:48 Lousma: Hello, there, Aquarius. Loud and clear. How me, now?
+060:22:54 Lovell: Okay, we're reading you loud and clear, Jack. I hope it stays this time.
+060:22:58 Lousma: Okay. We'd like to brief you on what our plan is. We're, at this time, water critical in the LM. So we'd like to use as little as possible. To do this, we're going to plan to make a free return maneuver of 16 feet per second at 61 hours, which is 37 minutes from now. Then we're going to power down the PGNS, and then we'll - at 79 hours, we'll go ahead and make another abort maneuver to kick what we got. But we'd like to get that PGNS powered down as soon as possible. That would be after the midcourse and - so how do you feel about making a 16-foot-per-second burn in 37 minutes?
+Current calculations in Mission Control are showing that at their present level of water usage in the Lunar Module, their supplies will run out around 94:00 GET - only 31 hours from their present GET.
+The trajectory of Apollo 13 after the explosion.
+Missions before Apollo 13 used the free return trajectory, where the translunar injection would lead to a lunar flyby that would then swing the spacecraft back to Earth so that in case of SPS failure, the RCS engines could be used to fine-tune the approach for a safe landing. For the missions after Apollo 12, a midcourse correction changed this approach to one that did not create such a gravitational slingshot. This would enable the Apollo spacecraft to approach the Moon in such a manner so as to provide better landing options within the constraints of their fuel supply.
+The plan for the moment is to use the DPS engine to do a quick burn to adjust their trajectory so that the lunar approach will put them back onto a free return trajectory. Once they go around the Moon, they plan to perform the PC+2 maneuver to speed up their return. This would be a different burn profile to the one read up to them earlier, which was calculated with a lunar approach from the non-free-return trajectory.
+Should nothing else be done, and the crew be unable to perform any kind of a PC+2 burn or any other maneuver, the free return trajectory will take them to the Indian Ocean for an emergency landing.
+Landing target: The Indian Ocean
+Splashdown point: 20.37° south latitude, 60.10° east longitude.
+Time of Entry Interface: 151 hours, 45 minutes GET.
+060:23:49 Lovell: Well, we'll give it a try, Jack, if that's all we've got. That's a 16-foot-per-second DPS burn in 37 minutes?
+060:23:57 Lousma: Roger. We're working up a PAD for it, but we'd want to know what you think about doing it at that time.
+060:24:08 Lovell: Well, we'll do it. Could you give us a little bit more time? [Long pause.]
+060:24:30 Lousma: Okay, Jim. We'd like to get a suggested time from you. We can figure out a free-return maneuver for any time you want to give us, so if you'll give us the time you'd like to shoot for, we'll figure out a PAD.
+The proposed burn to return to a free return trajectory is not particularly time constrained at the moment, but they of course will want to perform it as soon as possible.
+060:24:47 Lovell: Okay, that sounds good. I think if we have a little bit more time; we want to do it right. Stand by one. [Pause.]
+060:25:04 Lovell: Let's shoot for an hour if we can, Jack. How's that. [Pause.]
+060:25:15 Lousma: Okay, Jim. How about 61 hours and 30 minutes? That's an hour and 5 from now.
+060:25:24 Lovell: Okay. We'll do it and we want to be sure we talk back and forth now to make sure we get this burn off right.
+060:25:31 Lousma: Affirm.
+060:25:35 Haise: Okay, in the interim, Jack, I looked around again and I saw that we have a radar and a landing radar heater breaker in. Can I pull those out?
+Both the Rendezvous Radar and the Landing Radar are surplus to requirements, given Aquarius's new role as the lifeboat.
+060:25:46 Lousma: Affirmative. Pull them both out.
+060:25:52 Lousma: And now we want to ask you a question about alignments, and so forth. We wanted to know if you can see any stars out of the AOT. We also wanted to know if you could use the Service Module to cast a shadow on the LM windows and then look out the windows to see stars for a P51 COAS alignment.
+The COAS (No 3.) on its position at the Commander's window in the LM.
+The COAS (Crew Optical Alignment Sight) is a piece of semi-reflective glass onto which a graticule or reticle is projected by a unit mounted to one side. It is normally used during docking operations to help line one spacecraft up with another. It maintains a single line of sight and so can be used as a calibrated aim to sight on stars and therefore provide a rough attitude check. This can permit a P51 (coarse platform alignment) to be achieved.
+060:26:14 Lovell: Okay, in this attitude, Jack, that we're pitching around, I cannot use the AOT to see stars. We - we're just not able to see them at all. Now we may be able to maneuver off in yaw or - and/or roll and see stars. Right now, we haven't been able to. The AOT is useless. The Command Module structure is just radiating too much light into the - into the telescope.
+The AOT assembly.
+The Alignment Optical Telescope is a periscope-like device that protrudes out of the top of the LM.
+The AOT as viewed from the cabin. Diagram.
+The AOT consists of the eyepiece, used by the crew to make star sightings as well as the control box that has buttons for sending signals into the computer once the proper stars have been spotted in the telescope viewer reticle. It is basically a miniature version of the sizeable control console for the optics in the Command Module.
+060:26:41 Lousma: Okay, and how about using the Service Module to cast a shadow on the commander's window? If you do that, can you see stars for a COAS alignment?
+060:26:55 Lovell: We could give that a try, Jack, although I don't know how successful it will be. We tried to do it ... The light shines off our quads which makes it difficult to see stars. We do have the Earth and the Moon, if that can be of assistance.
+The Earth and the Moon can be used for a rough alignment of the platform, and this option will come up later on in the mission.
+In-flight photo AS13-62-8954 showing the shiny RCS quad outside the window. Color correction by David Woods.
+060:27:18 Haise: Another problem - Right now, Jack, I'm looking out the right window and it's pretty dark out that window but there are about a thousand or so false stars out here from - left over from some of the debris. It's hard to discern what's real and not real.
+The spaceborne navigators have encountered a problem that has plagued everyone who has ever tried to navigate based on star sightings - they are unable to see them at the moment.
+060:27:38 Lousma: Okay. That's good information and during the time that we see you're continuing to pitch, if you ever get in a position where you think the AOT might be of some use, we'd like you to periodically look out of it and see if you can see some stars that would enable us to get a P52.
+060:27:59 Lovell: Okay, will do. And also, let me ask you a question. In this configuration, docked, we have to use the TTCA to control pitch and roll. And, just how much can we use that without really changing our trajectory? We only have 60 miles to play with.
+Normal rotation maneuvers are made by firing a pair of opposing thrusters positioned either side of a vehicle's centre of mass. This arrangement means that as much of the thrust as possible goes into making the rotation and very little will cause the ship to translate. Only if there is a slight mismatch in the thrusters would there be a translation component. However, Jim is not making normal rotation maneuvers because the thrusters he has to play with, those on the LM, are at one end of a docked pair of spacecraft. At the other end is a 29-ton, fully loaded CSM and there are no opposing thrusters on the opposite side of that. The centre of mass of the stack is well away from his opposed pairs. A roll maneuver of the stack is straightforward enough but to achieve a worthwhile pitch or yaw of the whole stack, he has to use sideways translation maneuvers. The thrust vector for these translations is sufficiently far from the stack's centre of mass that it imparts a rotation. The problem that Jim is aware of is that these maneuvers will also impart a significant translation thrust. Over the long term, such uncoupled thrust will profoundly affect their trajectory, especially important if they intend to miss the Moon by only 60 nautical miles (110 km).
+060:28:21 Lousma: Roger, we'll put that to them. [Long pause.]
+060:28:45 Haise: Okay, Jack, are you ready to go to work with me on the 2-hour DPS activation and contingency book, page 1?
+LM Contingency Checklist
+This 127-page document has special procedures for emergency situations, including systems malfunctions, power failures, and other eventualities. Right now they are to go through the 2-hour Activation Sequence and Descent Propulsion System startup to prepare for the burn to change their trajectory. This backup procedure would normally be planned for the situation where the SPS engine cannot be used to brake them to enter lunar orbit, resulting in the need to use the DPS in a short notice. The whole document and the plan they are to undertake is a good show of NASA’s insistence on having the crew ready for most emergency situations that might arise. Although the unprecedented difficulties of Apollo 13 demand some improvisation, for most part our crew on Earth and in space are relying on previously thought out, planned, calculated operations that are in there just for the unlikely situation that they are needed.
+060:28:54 Lousma: Roger, we're ready to go. [Pause.]
+060:29:05 Haise: Okay. Item one, we can - one through five, we can scratch off, as done. Is that correct?
+060:29:14 Lousma: Stand by one, Fred.
+Comm break.
+060:30:18 Lousma: Okay, Fred, let's go ahead. Step 1, page 1. Everybody's listening.
+060:30:28 Haise: Okay, I've looked around, and I've essentially done steps 1 through 5 with the exception of floodlights and utility lights and I think we'll just do without those.
+060:30:40 Lousma: Roger. Your choice. [Pause.]
+Page 1 covers entering the LM, turning on the power, and activating the onboard lights and the Environmental Control System. Fred foregoes doing much, considering they only recently started up the LM.
+060:30:47 Haise: Okay, on EPS activation, we're through step - we're through that - bottom of that page. That's all done.
+The 2-hour activation continues with turning on the Electric Power System, and these steps have also been taken already.
+060:30:58 Lousma: We concur, page 2. [Pause.]
+060:31:13 Haise: Okay, in essence, we've circumvented step 4, and we're not sitting with all 4 amps - descent BATs on high-voltage taps, so I'll scratch off step 4.
+060:31:28 Lousma: Roger, and in step 5, we want to leave Inverter 1 circuit breaker, Open.
+060:31:37 Haise: Roger. In step 5, we'll leave Inverter 1 CB, Open.
+The inverter generates 115V AC from the LM's 28V DC supply. They don't want to activate inverter 1 since they are using inverter 2 to power their AC equipment.
+060:31:41 Lousma: Omit step 6. [Pause.]
+The power system is already running and requires no more attention. They skip step 6, which would be a checkup of both of their 2 inverters.
+060:31:53 Haise: Okay, for the time being, our mission timer is the computer so, mission timer activation scratch off.
+060:32:05 Lousma: Roger.
+060:32:09 Haise: Okay. We've done the primary glycol loop activation.
+060:32:15 Lousma: We verify it. [Pause.]
+060:32:29 Lousma: Aquarius, we recommend you leave the caution and warning off on page 3.
+060:32:37 Haise: Okay. I was going to say that next. Page 3, we'll just scratch item 1. And item 2, I've already got the RCS heaters on. And I don't know if I gave you the time or you got the time on the Primary Evap Flow number 1, Open.
+060:33:04 Lousma: We got the time.
+060:33:10 Haise: Okay. Let's go to the CB pages now. [Long pause.]
+060:33:29 Lousma: Freddo, did you close the engine control breaker in panel 11?
+060:33:38 Haise: What control is that, Jack?
+060:33:40 Lousma: Did you close the S and C engine control breaker on panel 11? As we got step 1 there on page 3.
+060:33:49 Haise: Okay. Okay, yes, the EPS Descent ECA Control breaker is Closed on 11. [Pause.]
+060:34:00 Lousma: Roger, and how about the - on panel 11, S and C Engine Control, Closed? Aft Omni, Fred.
+060:34:16 Haise: Okay. We're Aft Omni, and we have the S and C Engine Control breaker, Closed.
+060:34:24 Lousma: Roger. Let's go on with the circuit breaker panel checkout.
+060:34:34 Haise: Okay. I'll just give you - I think it'll be easier to give you what I got in. Okay, in the top row on 11, we have the four AC Bus Tie breakers, In, and the AC Bus Volts breaker, In, and that's it. Second row, we have the four TCA breakers, In. We have the GASTA under Flight Displays and Commander's FDAI. And likewise under AC Bus A, we have a GASTA and a Commander FDAI breaker, In. That's it. On row 3, we have a Signal Conditioner 1. We have the ATCA (PGNS). We have the Engine Control breaker, Attitude Direct Control breaker, and the - under Lighting, Anun/Dock/Component breaker, In. And one other; ED Logic Power A - ED Logic Power A is also In.
+Fred reads out the circuit breakers that are enabled, hence also listing the systems they have powered. Currently they have battery power with AC enabled, the GASTA and FDAI systems, and the telemetry and control systems enabled.
+060:35:41 Lousma: Copy.
+060:35:45 Haise: Okay, under the fourth - fourth row, we got all the Quad Heater breakers, In. Suit Fan 1. Under ECS, Glycol 1 and 2; and under Comm, we have Commander Audio, In, and PGNSs LGC/DSKY, IMU Standby, IMU Operate, and that's it. Okay, in the bottom row, EPS, we have the BAT Feed Tie both In, and we have the Cross Tie Balance Loads, In, the X Lunar Bus Tie, Descent ECA Control, Descent ECA, and the DC Bus Volts breaker.
+The rest of the circuit breakers control power to the RCS heaters, the EPS fan, the glycol cooling system, and the computer with its associated inertial platform.
+060:36:38 Lousma: Roger. We copy. ...
+060:36:39 Haise: That completes it for panel 11.
+060:36:38 Lousma: Okay. Stand by.
+060:36:38 Haise: Okay. [Long pause.]
+060:36:54 Haise: As I see it, some of the short ones are - we need the DECA GIMBAL, In, sooner or later.
+060:37:00 Lousma: That's affirmed. Close the DECA Gimbal.
+DECA is the Descent Engine Control Assembly. It mediates between the control inputs coming from the computer or the crew and the descent engine. This breaker lets the DECA control the gimbals that steer the engine.
+060:37:01 Haise: And probably - Okay, DECA Gimbal, and sooner or later, we're going to need DECA Power, I guess, also.
+060:37:15 Lousma: All right, DECA Power will come up later in the procedure, Freddo.
+060:37:21 Haise: Okay.
+Comm break.
+Guidance, Control and Navigation flow for the upcoming maneuver.
+They need to power up more electronics to control the DPS engine during the burn.
+Structure of the Descent Stage, with the engine installation and the propellant and helium pressurization gas supply.
+The main structure of the Descent Stage is like a plus sign (+). The four arms each carry propellant tanks and the center section is a box with the Descent Engine suspended within on motorized arms. These will be used to vector the engine - to point the nozzle as required.
+060:38:41 Lousma: Aquarius, Houston. On your circuit breaker checklist, on panel 11 and 16, we want you to configure the panels as outlined in the checklist.
+060:38:57 Haise: Okay. You want us to configure as per checklist. Okay. We'll do that.
+060:39:03 Lousma: That's right. Close the black ones and open the white ones.
+Circuit breaker configuration from the Contingency Activation Checklist.
+The checklist has several pages that show the desired circuit breaker configuration in a diagrammatic form. Each page has one of the circuit breaker panels (the left-sided one is panel 11 and the right-sided is panel 16) with the open and closed breakers color-coded into it.
+A closed and an open circuit breaker in the LM.
+A pushed in, closed, circuit breaker appears black. An open breaker appears as white.
+060:39:12 Haise: Yes. I think we can manage that.
+060:39:19 Lovell: With the activation power up, we're starting right now. [Long pause.]
+060:40:12 Lovell: Houston, we might as well leave our RCS TCAs, In, right? [Pause.]
+060:40:23 Lousma: Affirmative, Jim. Leave your RCS TCAs in...
+The TCAs refer to the RCS quads.
+060:40:26 Haise: Check that...
+060:40:27 Lousma: ...on panel 11.
+060:40:30 Haise: ...Yes. I used my Pentel pen and made those white ones black ones.
+060:40:35 Lousma: Roger. Same on 16, Fred.
+060:40:40 Haise: Roger.
+060:40:46 Lovell: And you might look there, Houston, to see what circuit breakers aren't required, like the tape recorder.
+The LM has its own tape recorder for data and voice storage, named DSEA. They will not power it now.
+060:40:52 Lousma: We're looking. [Long pause.]
+Despite Lousma’s earlier order to configure the circuit breakers as per the pre-printed plan, they are now deciding what kind of changes to do to better suit their current situation.
+060:41:41 Lousma: Okay, Jim. On panel 11 over there, you can also leave open the Rendezvous Radar Heater breaker and the Landing Radar Heater breaker, in addition to the tape recorder.
+060:41:55 Lovell: They're out. [Pause.]
+060:42:04 Lovell: I'm leaving a few in, Jack, too, like the Suit Fan 1 is still in, RCS System is still In, the TCAs. Attitude Direct Control is In.
+Jim keeps power in the air circulating fan as well as the RCS quads and the manual control to them.
+060:42:18 Lousma: Roger. [Long pause.]
+060:42:33 Lovell: How about if I leave the VHF A and B Off?
+060:42:41 Haise: Switch to Forward Omni. [Pause.]
+060:42:53 Lousma: Okay. We can leave the VHF powered down, too.
+The VHF radio won't be powered up at any point of the mission.
+060:43:01 Lovell: And, do you want the Secondary S-Band?
+060:43:04 Lousma: Negative on Secondary S-Band. Leave them open. [Pause.]
+They will remain using only one S-band transceiver.
+060:43:13 Lovell: Up Data Link is In. Do you want that in or out?
+060:43:21 Lousma: Leave the Up Data Link open. We'll call for it when we want you to put it in.
+Comm break.
+The Up Data Link electronics consume only a little amount of power, but they need to save everything they can.
+This is Apollo Control; 60 hours, 44 minutes Ground Elapsed Time. Distance from Earth, 187,006 miles [346,335 km]; velocity, 3,089 feet per second [942 m/s]. Flight dynamics people still computing the midcourse correction to go back to a free return trajectory. Here in Mission Control the coffee cup has become a appliance second only to the headset in usefulness here.
+Photo into the Mission Control, with coffee, tobacco and cola-powered engineers at work.
+The PAO transcript contains this remarkable announcement from Mission Control at this moment. Although partially in jest, it is also an appropriate comment. It is 2 am in Houston and a lot of people are up past their bedtime - and duty shifts - trying to figure out ways to help Apollo 13.
+060:44:36 Haise: Okay, Jack, on panel 11 on the top row, do you really want the Propulsion PQGS and Ascent Helium REGs in?
+060:44:54 Haise: And, also the System Engineer X-Pointer breaker.
+060:44:59 Lousma: Roger. Negative on the PQGS. Negative on the Ascent Helium Reg, and negative on the Crosspointer. [Pause.]
+They will not power the propellant measuring system, nor the Ascent Engine’s helium regulator or the System Engineer’s Crosspointer, which is an instrument only useful for landing on the Moon, not their present activity.
+060:45:17 Haise: Okay. On the second row, I'm going to leave the Floodlight breaker open.
+060:45:24 Lousma: Concur. [Pause.]
+060:45:31 Haise: And we're again up to - Do you want the CWEA enabled?
+060:45:39 Lousma: Negative on the CWEA.
+060:45:44 Haise: Okay. [Long pause.]
+The Caution and Warning system is not powered on. Albeit important, it is not absolutely necessary for the operation of the spacecraft. The telemetry systems are functional and hence ground control can monitor the onboard systems status and alert the crew if they need to intervene.
+060:46:02 Haise: Okay. Since we're - are we going to power up the AGS or should I concern myself with the ATCA breaker?
+060:46:14 Lousma: Negative on the AGS. However, Fred, we need the ATCA breaker in.
+They will not power up the Abort Guidance System (AGS) at this time. The ATCA breaker provides power to the control electronics.
+060:46:28 Haise: Okay. ATCA breakers In. Yes. I guess for the backup power supply. Hey, how about ATCA AGS.
+060:46:43 Lousma: Negative on ATCA AGS. [Long pause.]
+ATCS AGS breaker provides a backup power supply to the ATCA when being used with the AGS.
+060:47:05 Haise: And I'm leaving the Suit Flow Control breaker open. [Pause.]
+060:47:20 Lousma: Let's close the Suit Flow Control breaker...
+060:47:22 Lovell: And, now [Garbled]
+060:47:23 Lousma: ...so it doesn't take any current.
+060:47:30 Haise: Okay. Without suits, it doesn't do us much good either though. [Long pause.]
+060:47:52 Haise: Okay. And are we going to continue to be able to operate off the Omnis, Jack. So can I leave the S-band antenna powered down? [Long pause.]
+060:48:18 Lousma: Okay, Freddo. We don't plan to use the steerable antenna, although we want to leave the heaters on. So it looks you ought to open up Comm S-Band Antenna, but leave S-Band Antenna Heaters closed.
+060:48:33 Haise: Roger. Comm S-Band is Open, S-Band Heater breaker is still Closed. [Long pause.]
+They will not power up the steerable antenna, but leave its heater elements working to ensure that the antenna could be brought online should it be needed.
+060:49:26 Haise: And, on the bottom row, Jack, I'm going to leave the Heater Display breaker out, which we had pulled before, and EPS Display. But I question, do we want the Ascent ECA breaker in, as prescribed?
+060:49:47 Lousma: Stand by. That's a negative on the Ascent ECA breaker. Leave it open. [Pause.]
+Ascent ECA refers to the Ascent Stage Electric Controller Assembly, and is not powered up. Since they are not using the batteries in the Asecent Stage, their control electronics are not needed either.
+060:50:02 Lousma: And, Aquarius, we need P00 and DATA...
+060:50:04 Lovell: And that's...
+060:50:05 Lousma: ...and we'll give you state vector and target load.
+Mission Control has determined their velocity and position and want to update it in the Lunar Guidance Computer over the radio.
+060:50:12 Haise: Okay. We need the Uplink breaker in then now.
+060:50:17 Lousma: That's affirmative.
+060:50:23 Lovell: Okay. And, Jack, will you give us that - how about the ORDEAL breaker? Can I pull that? We don't need that, do we?
+060:50:32 Lousma: Negative on the ORDEAL. Leave it open. [Long pause.]
+ORDEAL is only used for orbital operations, and is not powered up.
+060:50:48 Haise: And how about the Ascent ECA breaker on panel 11? Jim has it in over there. [Pause.]
+060:51:02 Lousma: And panel 11 Ascent ECA can be open.
+060:51:07 Lovell: It's open. [Long pause.]
+060:51:27 Lousma: Okay, Aquarius. We're Go on the circuit breaker configuration as you have it now.
+060:51:36 Haise: Roger. [Long pause.]
+060:52:04 Lousma: And, Aquarius, tests in the simulator just showed that if you want to let the PGNS DAP hold your attitude for you, it will.
+060:52:16 Lovell: Okay, very well. [Long pause.]
+A small army of technicians, engineers and astronauts are in the simulators, trying out procedures that might be useful for the stricken crew.
+060:52:30 Lovell: And, Jack, because it will take quite a while to get back to the attitude, I think we ought to think about going there very shortly.
+060:52:37 Lousma: Roger. I have a PAD for you. I have a P30 maneuver PAD.
+P30 refers to 'Crew Defined Maneuver'. In this computer routine, the guidance computer calculates a desired engine burn based on data input by the crew into the computer. The data is provided in the PAD, to be read to them from Mission Control.
+060:52:48 Lovell: Roger. Stand by.
+060:52:53 Lovell: [Garbled]...
+060:52:54 Haise: Go right ahead, Jack.
+060:52:58 Lousma: Okay. We want you to hold your maneuver until we finish making the load. We haven't completed it yet. Are you ready to copy P30 maneuver PAD?
+060:53:07 Haise: That's affirm.
+060:53:09 Lousma: Okay. Here we go. The purpose is midcourse correction for free return. Noun 33: 061:29:42.84; minus 0021.3, plus 0004.1, minus 0031.2; HA and HP are N/A; Delta-V, 0038.0; 031, 120, 298, minus 00213, plus 00041, minus 00312; COAS, NA. And I have your LM GDA angles. Pitch 5.86, roll 6.75. Your DPS throttling, 5 seconds at 10 percent, burn the rest at 40 percent. Your ullage will be two jets for 10 seconds. [Long pause.]
+060:54:57 Haise: Okay, Jack, we have a P30 maneuver PAD, a midcourse for free return. Noun 33: 061:29:42.84; minus 0021.3, plus 004.1, minus 0031.2; HA and HP, N/A; Delta-VR, 0038.0; 031, 120, 298; minus 00213, plus 00041, minus 00312. COAS, N/A; GDA angles; pitch 5.86, roll 6.75; DPS throttle, 5 seconds at 10 percent; burn the rest at 40 percent. And we need a two-jet, 10-second ullage.
+The PAD is interpreted as follows:
+Purpose: This PAD is for a short burn to return Apollo 13 to a free-return trajectory. This ensures that the spacecraft will swing around the Moon and be on a trajectory for Earth.
+Time of ignition (Noun 33): 61 hours, 29 minutes, 42.84 seconds.
+Change in velocity, fps (m/s) (Noun 81): x, -21.3 (-6.5); y, +4.1 (+1.2); z, -31.2 (-9.5). The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).
+HA and HP are both not applicable to this burn as it is placing the spacecraft on a looping trajectory, not an orbit in the conventional sense.
+Delta-VR: 38.0 fps (11.6 m/s). This is the total resultant change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 31 seconds.
+Spacecraft attitude: Roll, 120°; Pitch, 298°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform and is therefore set using the FDAI display in its inertial mode. Unlike a CSM PAD, yaw is not stated for the LM. Procedures for a lunar landing allowed the spacecraft to yaw around the thrust axis as required for operational reasons.
+Change in velocity for the AGS (Noun 86): x, -21.3 (-6.5); y, +4.1 (+1.2); z, -31.2 (-9.5). The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).
+GDA angles: Pitch, 5.86°; roll, 6.75°. These are the angles to which the nozzle of the descent engine will be aimed to place its thrust axis through the stack's estimated centre of mass.
+Additional notes include the throttle settings that should be used during the burn. Five seconds at 10 per cent thrust will give the computer time to sense if the GDA angles ought to be trimmed. The rest of the burn will be carried out at 40% thrust. There is also a note to settle the propellants at the bottom of their tanks by burning two of their RCS thrusters for ten seconds, a so-called 'ullage' burn. However, since the system is already configured to use four thrusters, they will soon choose to use that set up.
+Example of a preprinted P30 External Delta-V Maneuver PAD sheet from the LM G&C Dictionary.
+060:56:02 Lousma: That's a good readback, Fred. I'd like to verify, however, in Noun 81, in VY, it's plus three balls 41.
+060:56:14 Haise: Okay. Noun 81, VY is plus 0004.1.
+060:56:21 Lousma: Good readback. Let's press on with the checklist.
+060:56:27 Lovell: Okay. And, Jack, find out about using TTCA to maneuver with.
+060:56:32 Lousma: Okay. We're finished with the computer, it's yours, and we recommend using the TTCA to maneuver with.
+060:56:41 Lovell: Roger.
+060:56:43 Haise: Okay, I'm back on the checklist, page 6. Jack, under PGNS turn-on and self-test. We've done everything except the self test here on this page. Do you want to do that at this time? [Long pause.]
+060:57:28 Lousma: Okay. Aquarius, negative on the PGNS self test. Page 7.
+060:57:37 Haise: Okay. I'll scratch page 6 and on page 7, we're not going to activate the - or rather we had the S-band activated, ECS Activation I have all done. And, at the bottom of the page, the docked IMU coarse align is done.[Pause.]
+060:58:03 Lousma: Roger. [Pause.]
+060:58:14 Haise: We've - Okay, we've also completed, I guess in essence, all of page 8.
+060:58:22 Lousma: That's affirmative and page 9 to boot. Scratch VHF. We've done the Tephems. [Pause.]
+060:58:36 Haise: Okay. You've updated it, that's right. We cranked in the time. [Pause.]
+060:58:52 Lovell: And, Houston, let's go to activation - or get into page 10 and see what we did there.
+Several pages are simply skipped since they brought these systems online as part of their start up earlier.
+060:58:58 Lousma: Okay. The only item on page 10 is to deploy the landing gear.
+060:59:06 Lovell: Okay, we'll do that now.
+Comm break.
+Landing gear deployment procedure.
+The landing gear is stowed to save space in the SLA (Spacecraft/Lunar Module Adapter) section on top of the S-IVB stage. To deploy them, the crew must energize the associated pyrotechnic devices, their control electronics, and the fire the charges that are used to push the gear into position.
+Diagram of the stowed and deployed positions of the landing gear.
+The pyrotechnics push the gear into position and lock them into place.
+061:00:10 Haise: Okay. The landing gear are down and locked, Jack, and looking ahead now at page 11, we've done all of that.
+061:00:24 Lousma: We verify that. Page 12.
+061:00:31 Haise: Okay, and I assume in amongst all those numbers you pumped up, we got a REFSMMAT and State Vector. Is that correct?
+061:00:39 Lousma: That's affirmative. You've got that. So you can delete page 12.
+Their guidance system has been updated earlier to set up the computer to navigate in cislunar space using the PTC REFSMMAT, and hence no further updates are needed at this point before the engine burn.
+061:00:47 Ground technician: Go Flight. Roger. It's got it.
+061:00:52 Haise: Hey, on 13, you've read us up the fine align angles and we've cranked those in.
+061:01:01 Lousma: Affirmative. [Pause.]
+061:01:08 Haise: Okay, so now we're up to - we've got to do DAP set, the gimbal/throttle test.
+061:01:13 Lousma: That's - Okay, Aquarius. We recommend omitting the DAP set, gimbal/throttle test - just make sure the gim - DECA Power and DECA Gimbal circuit breakers are closed.
+061:01:33 Haise: Okay, we're going to proceed now with the DAP set, gimbal/throttle test, is that correct? Or did you say delete it?
+061:01:40 Lousma: Aquarius, delete the DAP set, gimbal/throttle test. Just ensure that the DECA Power and the DECA GIMBAL are closed.
+061:01:49 Lovell: Okay. Houston, DECA Power is Open at this time. Do you want me to close it?
+061:01:54 Lousma: Affirmative, Jim. Close the DECA Power.
+061:02:00 Lovell: It's Closed. We deleted that. [Long pause.]
+061:02:27 Haise: Okay. Also out of that list, Jack, we need the Commander's Throttle set to Throttle and Min. [Long pause.]
+This refers to the T-shaped TTCA hand controller on Jim's (left) side of the cockpit.
+061:02:58 Haise: Houston, if I recall the launch set of the gimbals, the GDAs are not correct here, and where are we going to get those set for the burn?
+061:03:14 Lousma: Stand by one. [Long pause.]
+061:03:33 Lousma: Okay. Here's the word on the DAP set, gimbal/throttle test. Let's do step 1 and step 2, and that'll get our gimbal set.
+061:03:50 Haise: Roger. [Long pause.]
+061:04:20 Haise: Okay, Jack, we're going to have to back up on this, if we're going to follow the procedure here, which has us go Mode Control; PGNS, Auto, we're going to have to pull the TCA breakers to keep from firing jets. [Long pause.]
+They are concerned that their recently attained stable attitude will be lost if the computer starts firing the RCS jets automatically.
+061:04:53 Lousma: Stand by, Fred. [Long pause.]
+061:05:28 Lousma: Stand by on step 1, Fred. We're getting the word for you. How do you like this SIM? [Pause.]
+061:05:42 Haise: It's a beauty. [Long pause.]
+Repeated simulations before the mission throw a wide range of possible failure scenarios at the crew and flight controllers in order to test their response to the situation. Lousma's joke is that this is like a particularly difficult simulation. Of course, it is no simulation and the lives of the crew really are in the balance if the team does not get this right.
+061:06:09 Lousma: Okay, Aquarius, we recommend you do the DAP set and gimbal/throttle test as per the checklist. Go PGNS Auto and proceed.
+061:06:21 Lovell: Well, we're going to fire our thrusters as soon as we go to Auto because we've got those thrusters in - the thruster circuit breakers. Do you want us to do that and stop? [Long pause.]
+061:06:50 Lousma: Okay, Aquarius, we're recommending you go to Auto. Let the thrusters fire and settle down and proceed with the test. [Pause.]
+061:07:06 Lovell: We're in PGNS Auto.
+They decide to use the automatic maneuver mode after all.
+061:07:09 Lousma: Roger, your DAP is set, you're in wide dead band. That ought to do the trick.
+061:07:15 Lovell: Roger.
+061:07:19 Lousma: Okay, we're looking at it, Aquarius. We're ready to proceed with the test.
+061:07:26 Haise: Okay, we're proceeding. [Long pause.]
+061:07:52 Haise: Okay, and Houston, you - you're looking at the weights now. Those are still good, right?
+061:08:01 Lousma: You're Go on the weights.
+Comm break.
+061:09:05 Lousma: Aquarius, Houston. We'd like you to recycle on the DAP load and change your DAP to 32021. Over.
+Comm break.
+The DAP is the Digital AutoPilot, a routine in the computer that works to maintain the spacecraft in a desired attitude. It is configured by placing digits into a register in the computer.
+DAP configuration procedure
+They are changing from a DAP load of '30120' into '32021'. As per the configuration guide, they are changing to a 4-jet RCS configuration, fine scale, and a rate selection of .5 degrees per second.
+This is Apollo Control. We've got an ignition countdown clock running here now in Control Center showing 19 minutes, 19 seconds to ignition on the midcourse correction which will place Apollo 13 back on a free return trajectory. To recap the details of this maneuver, the ignition time would be at 61 hours, 29 minutes, 42 seconds Ground Elapsed Time. The velocity change would be 38 feet per second (11.6 m/s). Burn time, 30.7 seconds.
+061:11:05 Lousma: Okay, Aquarius. We're looking at your gimbal and we notice that we got a four-jet ullage loaded in the DAP and we gave you two jets on the PAD. But, let's go with what we've got loaded. It'll be a four-jet ullage.
+061:11:18 Haise: Okay. [Long pause.]
+During this maneuver using the Descent Propulsion System, the throttle will be at 10 percent for the first 5 seconds of the burn and throttle up for the balance of the burn at 40 percent.
+061:11:40 Haise: Okay, Houston. How does the GDAs look now?
+061:11:45 Lousma: The GDAs are Go as they are. Press on. [Long pause.]
+061:12:09 Lovell: Okay, Houston, we're going to do the DPS pressurization and checkout.
+061:12:16 Lousma: Stand by one. [Long pause.]
+061:12:34 Lousma: Okay, your gimbals are within 0.3 and we're ready for the DPS pressurization and checkout. [Long pause.]
+DPS pressurization from the LM 2-hour Contingency Checklist, pages 14 and 15
+To pressurize the DPS, they must select Master Arm to enable the pyrotechnics and then turn the associated switches. Pyrotechnic isolation valves are used to open the piping that will transport the propellant, the oxidizer, and the helium used to pressurize the system. This way, all three will remain contained until they are required to be used, and are hence protected against the hardships of the launch and the translunar coast.
+Applying power to the pyrotechnic device sends an electric charge to the detonator. The small explosive device createst a burst of mechanical energy which is used to drive a piston through the closed off propellant and helium lines. It shears the closure and puts the piston port into place, which allows the liquids and gasses to pass through into the system.
+Functional flow diagram of the Descent Propulsion System. Colored from the LM News Reference. Green signifies the helium system.
+The DPS has a dual system for pressurization. For the first start, they use the pyrotechnic detonator to open the line to a small bottle of gaseous helium - known as the ambient helium tank. This high pressure gas is used for the initial pressurization of the system. This is done to prevent fuel lines from being frozen by the sudden introduction of the extremely cold supercritical helium (SHe) which will be the main source of system pressurization. Some 1.3 seconds after engine start, once a flow of fuel has been established through a heat exchanger, the engine controller will automatically send a signal to the pyrotechnics to fire the explosive isolation valve to open the SHe line. This begins the primary pressurization. The SHe passes through the same heat exchanger to be warmed by the passing fuel prior to it being introduced into the tanks.
+061:13:33 Haise: Okay, Houston, do you want to follow up on page 15 with RCS checkout? In essence, we've kind of already done that.
+061:13:47 Lousma: You're right, Aquarius. Let's delete the RCS checkout. And a DPS looks Go.
+Comm break.
+Since the RCS checkout procedure assumes that they have newly started the maneuvering jets, there's no point to do test firings on them now because they already went through a lot of use while they attempted to stabilize the LM-CSM stack.
+061:15:43 Lovell: Houston, we're going to do a PGNS Auto maneuver to the attitude.
+061:15:49 Lousma: Stand by on that. Aquarius, we recommend driving it around there manually with a TTCA.
+061:15:58 Lovell: Okay, we'll have to use the TTCA. Roger.
+Long comm break
+061:21:10 Lovell: We're going to Auto now, Houston, to try to damp the rates. We're at the attitude. [Pause.]
+061:21:22 Lousma: Roger, Jim. We verify the attitude.
+061:21:27 Lovell: Roger.
+Comm break.
+061:23:37 Haise: And, Houston, we'd like to confirm, do you want the Verb 65 Enter in there?
+061:23:45 Lousma: Affirmative on the Verb 65.
+LM RCS geometry.
+Verb 65 inhibits the up and down-facing RCS jets from firing during a DPS engine burn. This is desirable, since otherwise they might be either giving them extra acceleration, or fighting against the thrust of the main engine.
+061:23:49 Haise: Okay. [Long pause.]
+061:24:12 Haise: Okay, Jack. I got another question on page 18. At 1 minute, I concur with Master Arm, On, but I wonder why I have to have the Abort Stage breaker in. We sure don't want any staging now. [Pause.]
+061:24:38 Lousma: Aquarius, delete the Abort Stage circuit breaker Close. Leave it open.
+Throughout this exchange, Fred's intimate knowledge of the Lunar Module, its systems and how they are meant to work is very apparent. Fred was not wrong in his assumption that the abort system should be left unpowered, lest they experienced an accidental separation of the two halves of the Lunar Module - with the loss of their consumables needed for the journey home.
+061:24:46 Haise: Roger. Will delete. [Pause.]
+061:24:55 Haise: Okay. Also, Jack, since we have four-jet ullage versus two, do you want - still want 10 seconds ullage or do you want 5 now? [Pause.]
+061:25:09 Lousma: Okay, Aquarius, we'll use automatic ullage. [Pause.]
+061:25:18 Haise: Okay. We'll just let the 7½-second Auto ullage do it.
+061:25:23 Lousma: Roger, and we'd like to do this in manual throttle, so on page 17 about two-thirds of the way down, Throttle Control, Manual, vice Auto.
+Page 17 of the 2-hour checklist shows various procedures to configure the systems for engine firing. Here they modify the plan to use manual throttle instead of having the computer do so automatically.
+061:25:35 Haise: Okay. We're set to Manual. [Long pause.]
+061:25:58 Lovell: What's the 203 [Garbled]?
+061:26:05 Lousma: Enter on the 203, Jim.
+061:26:11 Lovell: We've got 203 in the DSKY now and it looks as though it requires work, can we pass it?
+061:26:16 Lousma: Aquarius, Enter on the 203.
+Register value 203 indicates that the engine firing control has been transferred to the PGNS computer.
+061:26:22 Lovell: Wait a minute. [Long pause.]
+061:26:51 Lousma: Aquarius, we'd like to verify that your throttle is in the Min position.
+061:26:58 Lovell: That's affirm.
+061:27:00 Lousma: And, in the event that you have to do a manual takeover, turn the Engine Gimbal Off, Mode Control to Attitude Hold, and use the hand - use the TTCA.
+061:27:16 Lovell: Roger. [Long pause.]
+This procedure would lock the engine nozzle so as to prevent the computer from turning it, using Attitude Hold to stabilize the spacecraft, and then use the TTCA hand controller for engine throttling and thrusting.
+061:28:14 Haise: Okay, 1 plus 30 to burn.
+061:28:20 Lousma: Roger. [Long pause.]
+061:28:45 Haise: Okay, Master Arm's On; 1 minute.
+061:28:53 Lousma: Roger, Aquarius. You're Go for the burn. [Long pause.]
+Contemporary illustration of the Lunar Module's Descent Engine burning to push the injured Odyssey onto the return trajectory.
+061:29:55 Lovell: 40 percent. [Pause.]
+061:30:04 Lousma: Okay, Aquarius. You're looking good. [Long pause.]
+061:30:25 Lovell: Auto shutdown. [Long pause.]
+Albeit the throttle control was set to manual, it was the computer that started and stopped the burn during this short maneuver.
+061:30:40 Haise: Okay. You're looking at 16 85 now, Jack.
+Verb 16 Noun 85 has been entered on the computer. This displays the velocity components still to be gained. In essence, it displays the difference between the velocity change they wanted and what they got, known as the residuals. With the knowledge of what the residual velocities are, they have a choice whether to leave them as they are or to use their RCS thrusters to bring the values to zero, known as 'nulling the residuals', or trimming.
+061:30:46 Lousma: Okay. You're Go in the residuals, proceed.
+061:30:55 Haise: Okay. When you say Go on the residuals, you mean don't trim them. Is that right?
+061:31:00 Lousma: That's affirmative. No trim required.
+061:31:06 Lovell: Roger.
+061:31:08 Haise: Okay.
+Comm break.
+061:32:17 Lousma: Aquarius, check your Master Arm, Off, please. [Long pause.]
+061:32:44 Lovell: Okay, Houston. Burn's complete. Now we have to talk about power-down, and what do you want us to do with the PGNS?
+061:32:52 Lousma: Roger. We're looking at that right now, and you'll be the first one to get the word. [Long pause.]
+061:33:19 Lovell: And, Houston, it's doubtful right now whether we'll be able to see the stars in this configuration. The only way we could possibly get alignment is with the Earth and the terminator or the Moon and its terminator and I'd sure like to have you look at a power-down - keeping the PGNS if at all possible. [Pause.]
+Jim wants them to get the LM's power usage down as soon as possible, to save on their precious supplies of battery power and cooling water. He knows that the computer and the IMU are high demand items and will likely need to be turned off, but he is also aware that they might be unable to get proper navigational alignment again if they lose the one they currently have.
+061:33:49 Lousma: Roger, Jim. We'll get the word for you.
+Comm break.
+061:35:24 Lovell: And, Houston, we're in an Att Hold mode, can we turn off the buses? [Pause.]
+061:35:40 Lousma: Stand by on that one, Jim.
+Long comm break.
+061:38:13 Lousma: Okay, Aquarius. We're working on what's going to happen next. In the meantime, we'd like to take some high-power items off the line, so on panel 11, open DECA Power, and open DECA Gimbal. On 16, open the ATCA breaker. [Pause.]
+061:38:36 Haise: Okay, on 11, we got DECA Power, DECA Gimbal, Open. On 16, we got the ATCA breaker Open. [Long pause.]
+To start with a power-down after the burn, they have turned off the DPS control electronics that are not needed anymore, immediately saving about 2 amps.
+061:39:37 Lovell: And, Houston, while you're thinking, see if you can come up with a procedure of perhaps using the Command Module optics with manual drive to perhaps look for stars.
+061:39:51 Lousma: Roger.
+Comm break.
+The Command Module telescope and sextant are usually electrically operated, but they can be hand cranked into position with one of the tools stowed onboard, if necessary.
+061:41:24 Lovell: And, Jack, Aquarius. While you're thinking - before we had our comm problems, we were wanting to know what to - whether we should hook up the side hatch urine dump system. So we wouldn't freeze up the normal urine dump system.
+061:41:45 Lousma: Roger. We gave you a Go on that earlier. Sorry, you must have missed it. Use the side hatch for urine dump.
+061:41:54 Lovell: Okay.
+061:41:56 Lousma: And, how are the stars out the window now? [Long pause.]
+061:42:13 Lovell: Well, I'll look again, Jack, but at this attitude, the Sun is reflecting off of - off of quad 4 so bright that it's ruining any night vision and we still got particles floating around us; I'll have to take a long look and see if I can see any star patterns.
+061:42:34 Lousma: Roger. [Pause.]
+061:42:44 Lousma: And Aquarius, we're going to have to hand you over to a different site now, and we think maybe things will work better if this time we turn off the S-band Transmitter/receiver, and bring it back up in 5 minutes. You copy?
+061:42:59 Lovell: Okay. Stand by one. [Pause.]
+061:43:10 Lovell: Okay. I understand you want us to turn off the S-band Transmitter/receiver and bring it up in 5 minutes. Is that correct?
+061:43:15 Lousma: That's affirmative.
+061:43:20 Lovell: Tell us when. [Long pause.]
+061:43:42 Lovell: And you want us to maintain attitude control.
+061:43:46 Lousma: Affirmative on the attitude control.
+061:43:48 Lovell: That's auto attitude control. Okay. You maintain auto attitude control. [Pause.]
+061:43:56 Haise: Okay, Jack, I'm back on the line now. On the S-band, you want me to turn off the Transmitter/ receiver and the power amps are off for 5 minutes. Is that - when you give me the word - is that what you want?
+061:44:10 Lousma: Aquarius, leave the power amplifier the way it is. Turn the Transmitter/Receiver off for 5 minutes. Now.
+061:44:19 Haise: Okay. You tell me - you tell me when.
+061:44:22 Lousma: Okay. Turn it off now. See you in 5 minutes.
+Communications controls at the console. Scan via heroicrelics.org
+These switches allow them to choose between the various communications electronics and modes. These will become frequently operated once they begin to experiment with ways to save power while using the radio. Right now they will simply flick the XMTR/RCVR switch to the central Off position.
+061:44:26 Haise: Okay. It's gone off. It's gone off for 5 minutes.
+Very long comm break
+This is Apollo Control at 61 hours, 45 minutes Ground Elapsed Time. The process of handing over from the Goldstone station to the Honeysuckle station in Australia. There will be a gap of about 5 minutes while this handover is taking place. Meanwhile the people here in Mission Control Center are looking at ways of setting up some sort of scheme for passing thermal control or Bar-B-Que mode of thermal balance for the spacecraft, during the remainder of the coasting flight using the abort guidance system of the Lunar Module to provide the attitude control to set up this slow roll. Apollo 13 now 188,863 nautical miles [349,774 km] out from Earth; velocity, 3,084 feet per second [940 m/s]. At 61 hours, 46 minutes Ground Elapsed Time and standing by, this is Apollo Control.
+061:52:44 Lousma: Aquarius, Houston. How do you read?
+061:52:52 Haise: Okay. You're loud and clear there, Jack.
+061:52:54 Lousma: Roger. Same here. We're - We're still discussing the next move.
+061:53:04 Haise: I figured it. Let's just make it a good one. [Pause.]
+061:53:18 Lousma: We're looking real close at water usage profiles, and right now things are kind of swinging toward leaving the IMU powered up and powering down the LGC, but we'll have more word for you shortly. And we recommend for sleeping that you leave one guy on watch. We recommend you don't make any urine dumps if you can help it, because it'll make the debris problem worse than it is now. And we have some items that you might want to transfer to the LM, some towels, some penlights, fecal bags, UTS. And do you have any more items that we can help you out with at the moment?
+Many interesting points here in this long read up from Jack Lousma.
+At the moment, water is the critical consumable. Water is used for cooling and of course for drinking by the human element of the spacecraft. The Lunar Module has a non-renewable supply, unlike the Command Module which gets its water from the waste products of the fuel cells. The water and electric power consumption are intimately tied together - the more equipment they have running, the more heat is generated, and more water is required to remove that heat. Hence, reducing the power load also reduces the water usage, and trying to minimize both of these is something the crew and Mission Control desire a great deal.
+Mission Control is suggesting that the crew takes turns sleeping with one up at all times to answer to the communications or to react to any emergencies. This was behind the thinking during the early Apollo flights as well where a similar arrangement was used to ensure that a crewmember was always ready. The well-meaning plan backfired when it became more than apparent that it was impossible to sleep in the Command Module if anyone was awake and Mission Control kept calling them on the radio. The realization prompted NASA mission planners to decide that it was easier to let everyone sleep at once and have Mission Control monitor systems telemetry in case anything out of place showed up. This arrangement worked very well throughout the rest of the program.
+061:54:17 Haise: Okay. Stand by on your latter list there, Jack. I understand no urine dumps. I guess we'll work through the UCD and all the bags we got; and real quick there, can you give a DAP load that we want in here now to conserve the RCS. [Long pause.]
+Lovell, from 1970 Technical debrief: "We had urine all over the place, stacked in places we never even thought about. The nice thing about it, though, is that we found enough quick disconnects and rigged up lines to get urine into things that normally we were putting other stuff into or taking stuff out of. So it worked out that we could store a lot more urine than we thought we could."
+061:55:21 Lousma: Okay. For attitude control coordinates, we're recommending manual control Verb 76 and watch your middle gimbal angle. Your DAP load that you have now looks good.
+061:55:37 Haise: Okay. It's Att Hold Verb 76 for the guy on watch. And the DAP load we got right now is okay.
+Comm break.
+061:58:17 Lousma: Aquarius, our decision for the time is to leave the IMU powered up, power down the LGC, and power down other nonessential items. We'll be coming up with a more precise checklist as soon as we can get it. Over.
+061:58:36 Haise: Okay. The decision is to keep the platform, power down the computer, and we'll be standing by for further word on the powerdown, Jack.
+The inertial platform will maintain its alignment without the computer, hence the LGC can be turned off but the computer would be practically useless without the IMU - hence this procedure would make sense at the moment.
+061:58:47 Lousma: Roger. [Long pause.]
+061:59:33 Lousma: And, Aquarius, for your information, we now have 136-[nautical-]mile [252-km] perigee. Confirmed by Doppler.
+Doppler here refers to the effect of their velocity on the frequency of the radio signal sent to Apollo and then bounced back to the land-based antennas. The change in frequency can be used to track their exact velocity in relation to the ground station on Earth.
+061:59:47 Haise: Okay. 136-mile perigee now. That's very nice. [Long pause.]
+062:00:09 Haise: Oh, wait a minute, Jack. Did you say pericynthion or perigee?
+062:00:13 Lousma: I meant pericynthion.
+062:00:18 Haise: Ah. That's better.
+Long comm break.
+In the subject of orbital mechanics, pericynthion refers to the point in a trajectory of a spacecraft launched from Earth where it is closest to the Moon. This is distinct from perilune, the closest point of an orbit around the Moon. Fred picks up on the difference, a measure of his and everyone's desire for precision in language as much as in procedure and measurement.
+In this case, a 252-km pericynthion implies that the spacecraft is now on a free return trajectory and is therefore headed for Earth once it coasts over the far side of the Moon, pulled around by lunar gravity.
+062:05:19 Lovell: And, Houston, we pulled out your Updata Link circuit breaker, so if you want to update it for anything, let us know and we'll put it back in.
+062:05:27 Lousma: Roger, Jim. We will.
+Long comm break.
+062:09:41 Lousma: Aquarius, Aft Omni, please.
+062:09:47 Lovell: Aft Omni.
+Long comm break.
+062:14:26 Haise: Houston, do you read Apollo 13?
+062:14:30 Lousma: This is Houston. Go ahead. Reading you weakly.
+062:14:36 Lovell: Okay, Jack. We don't want to bug you, but you ought to be thinking - or what your thoughts are concerning what the next burn will be. I got to figure out a watch schedule and the sleep schedule and just how we can meet the next maneuver.
+062:14:55 Lousma: Roger. We're getting you a Flight Plan update. We're still computing on your next burn, and we're getting ready to give you a procedure for power-down.
+Comm break.
+062:16:34 Lousma: Aquarius, one idea on managing the Omni antennas. It might make it easier on everybody if we disabled the Uplink Squelch and managed the antennas by switching when we hear the noise. Over.
+062:16:58 Lovell: Roger. Will do.
+Very long comm break
+The term 'squelch' is familiar to radio hams but may be less so for those not used to the properties of analogue radio. When a radio signal weakens, an amplifier within the receiver increases its gain in order to compensate for the falling levels. As it does so, it also increases the noise inherent in the received signal. There comes a point when the noise overwhelms the signal and this is usually difficult to listen to. The noise is 'squelched' by having it cut out when the amplifier tries too hard to amplify the incoming signal. Usually there is an adjustment to set the level at which squelch occurs.
+To preserve power, the LM's high-gain steerable antenna is not going to be used. Instead, their S-band communication will be via either of the two omnidirectional antennae mounted fore and aft of the cabin. The selection of the most appropriate antenna depends on the attitude of the stack and it has been decided that, rather than squelching out the noise when an antenna is no longer favoured, they will simply use the rising noise levels as a cue to switch over to the other antenna.
+This is Apollo Control; 62 hours, 24 minutes Ground Elapsed Time. Under discussion here in the control room are the various means by which the spacecraft thermal balance can be maintained through the night with a minimum amount of propellant and electrical usage. One man will be on watch in the crew throughout the night and they're looking at the possibility of manual control attitude to arrive at some sort of passive thermal control mode. Apollo 13 now 190,026 nautical miles [351,928 km] out; velocity, 3,064 feet per second [934 m/s]. At 62 hours, 25 minutes Ground Elapsed Time; this is Apollo Control.
+062:26:07 Lousma: Okay, Aquarius. Here's what we're going to do. We'd like you to point the LM X-axis either north or south. That's the positive X-axis. It appears to us that it would be closer to orient the LM plus X-axis toward the south. Do that with the LGC powered up using the TTCA. After that, we propose to power down the LGC to save some power. However, this means that we lose the use of the TTCA, and we'll have to control the spacecraft with the hand controller in the Direct mode. Request your - your position on these two items. [Long pause.]
+062:27:34 Lousma: Aquarius, Houston. How do you read? [Pause.]
+062:27:45 Lovell: Okay, Jack. Understand. You want us to point the LM X - plus X-axis to the south using the TTCAs with the LGC powered up. Then, by powering down the LGC, we'll lose a TTCA. I wasn't too successful in controlling the spacecraft in attitude only, but I might be able to keep it out of gimbal lock.
+The TTCA needs the onboard computer for the automatic firing control of the RCS jets. Direct mode bypasses the automatic control and fires the jets manually.
+062:28:14 Lousma: That's affirmative, Jim. We'd keep your ball powered up and go to Direct on the hand controller. And maintain attitude in a Direct position. [Pause.]
+062:28:39 Lovell: Okay. Understand; and do you want some sort of a PTC mode, Jack?
+062:28:47 Lousma: Affirmative. We'll take whatever PTC mode you can set up, Jim.
+062:28:54 Lovell: Okay. And since you know our approximate attitude, how about just getting me something to find you on the DSKY for a southerly plus X-direction.
+062:29:04 Lousma: Roger. Stand by one.
+Comm break.
+062:30:35 Lovell: And one other question, Houston. When you say power down the DSKY or the LGC, do you mean going into 06 or multiple circuit breaker?
+By '06' Jim is referring to Program 06 in the computer, which idles down the LGC.
+062:30:48 Lousma: Stand by on powering down the DSKY, Jim. We'll give you the procedure for that. The procedure that we...
+062:30:57 Lovell: Okay.
+062:30:58 Lousma: ...the procedure that we have is listed in several places. It's in the Contingency checklist under 'Power down' on page 1, second paragraph. [Pause.]
+062:31:21 Lousma: And we'll give you that word when we want you to do that. That's LGC only, not to power down the IMU. But we'd like to have you hold off on that until we send you the word. Over.
+062:31:38 Lovell: Understand.
+Comm break.
+062:33:57 Lousma: And, Aquarius, while we're working on this, we have a proposed Flight Plan update for your working and resting cycles. And - You ready to copy? [Pause.]
+062:34:14 Haise: Okay. Do you want me to write this in the Flight Plan, per se, Jack?
+062:34:19 Lousma: You can probably write it on a piece of scratch paper. This is pretty easy. [Pause.]
+062:34:31 Haise: Okay. Go ahead. We got a lot of scratch paper.
+Haise, from 1970 Technical debrief: "The only shortage we had was what I mentioned on the air. What we really needed was a big, blank pad of paper for our unusual situation."
+062:34:39 Lousma: Okay. We're suggesting that the LMP rest while the CMP and CDR are awake. LMP ought to hit the sack at about 63 hours, coming up in 25 minutes. And you get to rest for 6 hours. You get up at 69 hours. At 70 hours, the commander and the Command Module Pilot sleep for 6 hours until 76 hours. Around 70 - 76½ to 77 hours, we'll do a P51 and a 52. At 78:30, we'll load P30 and align AGS to PGNS. Our ignition time for a second burn will be, presently, 79:25:26.5, and we'll have a PAD for you shortly. We suggest that all of you eat after the burn. That'll be 81 to 82 hours. Let the CMP and CDR eat while you are sleeping. And that you grab a bite as soon as you can. Over. [Long pause.]
+The plan at the moment includes trying to align the IMU platform while they are in the shadow of the Moon to improve visibility of the stars, and also to start up the LM's Abort Guidance System, to serve as a backup during the PC+2 burn.
+062:37:05 Haise: Okay, Jack. As I read that, the LMP is to go to sleep at 63:00 for about 6 hours. During that period, the CDR and CMP should try to get a bite to eat. I'm to awake at 69 hours. CDR and CMP sleep at 70 hours, and they are to awake at 76 hours. And we should plan on doing our P51, P52 at 76 hours or 76:30. At 78:30, we're going to load a P30 and align AGS to PGNS. Second maneuver is to take place at 79:25:26.5 for ignition time. Then we're all to eat at 81 to 82 hours.
+062:38:05 Lousma: Okay. With a minor modification, your P51, P52 will be about 77 hours, and that's the period of darkness. And the commander and the CMP ought to eat around 68 to 69 hours, and you should eat between 69 to 70 hours just after you get up. We have left an hour in there where everybody is awake together to talk things over. Go ahead.
+062:38:44 Haise: Okay. I'll eat after I wake up between 69 and 70.
+Despite the good efforts of the ground control to set up a new duty cycle for the crew, it will become very difficult to stick to it during the rest of the mission.
+062:38:53 Lousma: All right we have additional...
+062:38:55 Haise: ...and I've got the correction to P...
+062:38:59 Lousma: Go ahead, Fred.
+062:39:00 Haise: Yes. We got the word the P51, P52 is going to be done around 77 hours, while we're in darkness.
+062:39:11 Lousma: That's affirmative. And we have a work-rest cycle laid out for further on, which we can relay to you later.
+062:39:22 Haise: Okay. [Long pause.]
+062:39:40 Lovell: Okay. And, Houston, you have advice on what attitude you want me to go to.
+062:39:50 Lousma: Okay. That'll be the next bit of information. I'll get that for you, Jim.
+062:39:56 Lovell: Okay.
+Comm break.
+062:41:43 Lousma: And, Aquarius, just to get you thinking in that direction, we've run a fairly thorough analysis, and we've found out that it's going to be cheaper to keep the LGC and the DSKY up and turn the inverter and the ball off. It's going to save us 1 amp and also some water, so it looks like what we're going to do. And we'll have to monitor the middle gimbal angle. And we'll get the procedure on that, and it'll also be an easier control mode where we'll be able to use the TTCA through the - through the DAP.
+062:42:17 Lovell: That sounds great, Jack.
+Long comm break
+Powering down their AC inverter and the FDAI and the associated electronics will save almost 3 amps in power expenditure. It will make it much more difficult to fly the spacecraft, however.
+062:47:28 Lousma: Aquarius, Houston. We've got a procedure for you. Ready to copy? [Pause.]
+062:47:40 Lovell: Ready to copy.
+062:47:42 Lousma: Okay. It's pretty easy. We see you've already got Verb 16 Noun 20 called up there and so we want you to, in maneuver and PGNS Attitude Hold, use the TTCA. We want you to, on the commander's ball, pitch to 267.5 and yaw to minus 4.5. And when you do this in Verb 16 Noun 20, on the DSKY, you ought to read plus 00120, plus 26750, and plus 00450. Go ahead. [Pause.]
+062:48:34 Haise: Okay. We're to drive the commander's ball to a pitch of 267.5, yaw minus 4.5. And we should have in 16 20 at that time, plus 00120, plus 26750, plus 00450.
+062:48:56 Lousma: That's a good readback. We'll watch the maneuver.
+Long comm break
+In the Verb 20 Noun 20 mode, the spacecraft's orientation on each of the three axes of motion - pitch, yaw and roll - can be read from the computer display.
+062:56:25 Lovell: Houston, Aquarius.
+062:56:27 Lousma: Go ahead, Aquarius.
+062:56:31 Lovell: Roger. You didn't mention roll on the ball. Do you want roll zero? [Pause.]
+062:56:42 Lousma: The roll ought to be plus 1.2, Jim.
+062:56:49 Lovell: Roger.
+Long comm break
+063:03:41 Lovell: Houston, Aquarius.
+063:03:44 Lousma: Go ahead, Jim.
+063:03:48 Lovell: Okay. We're just about there in pitch and in [Garbled] middle gimbal angle, but that other gimbal angle didn't look like it pulled the right way. I tried both methods.
+063:04:02 Lousma: Yes. I been looking at that, too, and we're asking why, and we'll get an answer for you. [Pause.]
+063:04:20 Haise: Yes. Houston, I wonder if you're accounting for being a bit off the bellyband here, and I've gone through GASTA. [Pause.]
+063:04:38 Lousma: And, Freddo, I know you're supposed to start sleeping here pretty soon, but we got a new PC plus 2 PAD, P30 maneuver PAD for you. [Pause.]
+063:04:56 Lovell: Stand by. [Long pause.]
+063:05:32 Haise: Okay. Go ahead, Jack.
+063:05:35 Lousma: Okay, Fred. P30 maneuver purpose is PC plus 2, DPS to this time, we're going to the MPL. And Noun 33; 079:27:40.13; plus 08144, minus 00443, minus 02226; apogee is N/A, perigee is plus 00205; 08455, 4:20; 268, 261; plus 08155, minus 00443, minus 02187; COAS is N/A. Your GDA ought to be okay as it is from the last burn, but pitch ought to be at 5.85; in roll, it's 6.74. Your ullage will be two jets for 10 seconds. Your DPS throttle will be 10 percent for 5 seconds, 40 percent for 21 seconds, and the remainder at full throttle. And for your information, this will put you in the water at 142 plus 47. Over. [Long pause.]
+063:07:46 Haise: Okay. DPS, pericynthion plus 2 into the MPL; 079:27:40.13; plus 08144, minus 00443, minus 00226; N/A, plus 00205; 08455, 4 plus 20; 268, 261; plus 08155, minus 00443, minus 021 - 2187, N/A. GDA should be okay as is, which hopefully is pitch 5.85, yaw 6.74. Two-jet ullage for 10 seconds, the DPS throttle; 10 percent for 5 seconds, 40 percent for 21 seconds, 100 percent for the rest of the burn. And this should put us into the water at 142 plus 47.
+Fred has made a mistake in his readback that Lousma will correct shortly. The PAD is interpreted as follows:
+Purpose: This PAD is for a burn of the LM's main engine two hours after pericynthion (their closest approach to the Moon) in order to return them to a specific place on Earth; in this case the Mid-Pacific Landing site or MPL, and to do so faster than would have been the case with just a unmodified free-return trajectory.
+Time of ignition (Noun 33): 79 hours, 27 minutes, 40.13 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +814.4 (+248.2); y, -44.3 (-13.5); z, -222.6 (-67.8). The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).
+HA, expected apogee of resulting orbit (Noun 42): Not applicable. This burn is to place Apollo 13 on a, Earth-bound trajectory, the apogee of which would be over 9999.9 nautical miles, beyond the limit of the computer's display.
+HP, expected perigee of resulting orbit (Noun 42): 20.5 nautical miles (38.0 km). The perigee distance is so low, it will take the spacecraft well into Earth's atmosphere and thereby, the spacecraft will re-enter.
+Delta-VR: 845.5 fps (257.7 m/s). This is the total resultant change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 4 minutes, 20 seconds.
+Spacecraft attitude: Roll, 268°; Pitch, 261°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform and is therefore set using the FDAI display in its inertial mode. Unlike a CSM PAD, yaw is not stated for the LM. Procedures for a lunar landing allowed the spacecraft to yaw around the thrust axis as required for operational reasons.
+Change in velocity for the AGS (Noun 86), fps (m/s): x, +815.5 (+248.6); y, -44.3 (-13.5); z, -218.7 (-66.7).
+GDA angles: Pitch, 5.85°; roll, 6.74°. These are the angles to which the nozzle of the descent engine will be aimed to place its thrust axis through the stack's estimated centre of mass.
+Additional notes include a so-called 'ullage' burn to settle the propellants at the bottom of their tanks by burning two of their RCS thrusters for ten seconds. The throttle settings that should be used during the burn are; 5 seconds at 10 per cent thrust to give the computer time to sense if the GDA angles ought to be trimmed. The next 21 seconds will be at a 40 per cent setting with the rest at full throttle. Retro expects that this burn should result in a splashdown time of 142:47 GET.
+PC+2 burn options as calculated by Retro. Eventually selected mode underlined.
+Three options for the PC+2 maneuver were presented on April the 14th by the Retro controllers. Each of the three options offered one return scenario for them using the Descent Propulsion System.
+A PC+1 maneuver, performed one hour after passing pericynthion instead of 2, would have utilized the entire delta-V capacity of the DPS with a very large burn of 4,728 fps (1,441 m/s). This would have put them down in the Mid-Pacific Landing area at 118 hours GET, or just under 40 hours from the burn. In order to generate such thrust, it would be necessary to separate the Service Module, then only dead weight for the spacecraft stack.
+The second option, which was also adopted as the one that was performed, was a PC+2 burn of 845 fps (258 m/s). This too was a burn to target them at the Mid-Pacific Landing area, with a splashdown timed around 142 hours GET. This would have used less than half of the remaining DPS capacity of 1,977 fps (603 m/s) of delta-V with the Service Module attached.
+The final option considered was a PC+2 burn using all of the remaining DPS capacity and with the SM attached. A delta-V of 1,997 fps (603 m/s) would hurtle them to a landing in the Atlantic Ocean at 133 hours GET.
+Apollo docked configuration.
+So why not to jettison the Service Module and utilize the DPS to its maximum capacity to get the crew home as quickly as possible? Wasn't this the most desirable action to take to ensure that the crew would make it back alive within the time they had left on the LM's supplies? Two issues in particular arise. Using the high delta-V options created larger potential for errors in their trajectory. A midcourse correction would also require more thrust, which they might not have if they expended all the DPS fuel. Once the DPS fuel was used up, their course correction capacity would be down more or less to the Lunar Module RCS. This was calculated at 44 ft/s. It was calculated that a course correction from the maximum velocity trajectory could take up to 200 ft/s of delta-V to accomplish. This could require the use of the Ascent Propulsion System, which could only be used after jettisoning the Descent Stage, and with it the majority of their remaining consumables. This would have put them at a considerable risk of running out of water, power and oxygen before landing.
+Second, uncertainties existed in regards to the behaviour of the Lunar Module-Command Module docked configuration. This had never been flown before and it was not known how it would maneuver. Jettisoning the Service Module would also expose the heat shield at the bottom of the Command Module. Usually this took place minutes before re-entry, but should they have opted to eject the SM before PC+2, they could have been looking at 50 to 60 hours of being exposed to space. The heatshield had thermal limitations in regards to high and low temperatures that could become an issue during the long coast back home. It was also possible that the heat shield was damaged by the internal explosion, and these thermal issues as well as any potential micrometeroid collisions could create additional dangers.
+Overall, the safest bet was to press on with the docked condition. It provided a known configuration and protected the heat shield. There were also calculated options to perform further DPS burns after the low-energy PC+2 in order to speed up their return should their consumables situation become worse. The math said that the oxygen, water and power would last long enough to support the slower, and most probably safer return. They simply were not in enough of a hurry to want to face even more extra risks, as detailed above. Saving DPS fuel was essential.
+063:09:03 Lousma: Okay, Fred. I have a correction in Noun 81. Delta-VZ is minus 02226. Read back. [Pause.]
+063:09:22 Haise: Okay. Delta-VZ in Noun 81 is minus 02226.
+063:09:28 Lousma: Okay. Good readback. [Pause.]
+063:09:41 Haise: Somehow that didn't add up with the Delta-VX to give a Delta-VR of that magnitude. It seems like it'd been bigger.
+063:09:52 Lousma: Okay. We'll take another look at it, Fred.
+Comm break.
+063:12:29 Lovell: Okay, Houston. I'm not having too much luck holding this particular attitude. [Pause.]
+063:12:42 Lousma: Okay, Jim. Stand by one.
+Comm break.
+063:14:17 Lousma: Okay, Aquarius. When you get her pretty much in attitude there, and it looks like you're as close as we need to be, we'd like to try a control mode and see if it will work; sort of a semi-PTC. We'll leave the ball powered up for this, and if this doesn't work, why, we'll have to revert to Attitude Hold mode. But - Stand by one, please. [Long pause.]
+063:15:03 Lousma: We'd like you to think about this control mode, Jim, and see if you think it might work from what you know right now. We're a little skeptical, but we'd like to put it to you. So, once you get in a pretty good attitude, monitor in Verb 16 Noun 20, go to PGNS Minimum Impulse, Verb 76, as we have, and set up a yaw rate - yaw rate to the right. Monitor the middle gimbal on R3 on the DSKY and see if she'll kind of stabilize out. If not, the only other suggestion we've got is to go to PGNS Attitude Hold. We'll keep the ball up until you make this evaluation.
+063:15:45 Lovell: Okay, Houston. You cut out, say again.
+063:15:51 Lousma: Okay. Where'd you lose me, Jim?
+063:15:56 Lovell: I lost you when you said try the control mode; you're a little skeptical.
+063:16:01 Lousma: Okay. From what you say, we have to be a little skeptical of this procedure, but we'd like to have you try it and have you evaluate it. You can monitor the middle gimbal on R3. Before we power down the ball, we want your evaluation. The next best choice is PGNS Attitude Hold. Over.
+063:16:24 Lovell: Okay. I'll try it. [Long pause.]
+063:16:53 Lovell: Okay. Go ahead with the control mode procedure. [Long pause.]
+063:17:30 Lovell: Hello, Houston; Aquarius.
+063:17:33 Lousma: Go ahead, Aquarius.
+063:17:36 Lovell: Okay. I'm not [Garbled] you. I can monitor register 3. I can probably keep it out of [garbled] - going into gimbal lock.
+In Verb 16 Noun 20, the gimbal angles are displayed on the three lines of the DSKY in the order of yaw (outer gimbal), pitch (inner gimbal) and roll (middle gimbal). Jim's remark about the third register means that he is observing the roll angle. It is the middle gimbal that has the unwanted tendency of locking up.
+063:17:49 Lousma: Roger. How are pitch and roll? [Long pause.]
+This is Apollo Control.
+063:18:40 Lovell: Okay. I think I can control the gimbal angles in 16 20 with the compressors the way they are, but I'll have to try Minimum Impulse - Just a minute. [Long pause.]
+063:19:04 Swigert: Okay, Jack. I've a question - one more question about Odyssey.
+063:19:08 Lousma: Go ahead.
+063:19:14 Swigert: Okay, I still have the Pyro A sequence A and Pyro B sequence B circuit breakers in. Do you want those out?
+063:19:23 Lousma: Stand by one. [Long pause.]
+063:19:37 Lousma: Odyssey, Houston. The two circuit breakers you referred to, leave them in.
+063:19:45 Swigert: Okay. Copy. Leave them in. [Long pause.]
+Panel 250 in the Command Module.
+The Pyro sequence breakers connect the two pyrotechnic power system batteries into the sequential system and allow them to fire the explosive devices in the Command Service Module.
+063:19:59 Lovell: Okay, Houston. I can control yaw in minimum impulse, but stand by on pitch. [Long pause.]
+063:20:17 Lousma: And, Freddo, the Delta-VR resultant computes with the components.
+063:20:29 Lovell: Fred's off the comm now, Jack.
+063:20:32 Lousma: Roger. Your PAD is good.
+063:20:35 Haise: And, Jack, we didn't get that whole sentence there.
+063:20:39 Lousma: Okay. I said that the Delta-VR that Fred questioned computes well with the component - its RMS.
+063:20:49 Haise: Okay. Copy.
+063:20:54 Lovell: Okay, now. Jack, let's go over this once more. You wanted me to try out control of the spacecraft in the Pulse mode. Is that correct?
+063:21:03 Lousma: That's affirmative. Set up a yaw right rate and monitor the middle gimbal angle.
+063:21:16 Lovell: Okay. I can do that. I'm not too sure whether I can control roll or pitch in pulse, but I can control yaw in pulse - yaw in pulse on the ball.
+063:21:30 Lousma: Roger. And remember we're not going to have a ball there, so that we're going to be monitoring CDUs on the DSKY, and if we get it off, it will be pretty hard to figure out where to fly back to; and, well, in addition, have to control the Omnis while we're doing this.
+Although the computer DSKY can be used to display the gyro angles, it is not very intuitive to use and causes plentiful confusion for the crew. Usually the 8-ball would show them the deviation and which way to move to correct it, but without the display, it will be much more difficult. This operational mode is viable, but requires them to forget their usual procedure and adopt a new way of thinking while under extreme pressure. The 8-ball is in the spacecraft because the astronauts who have to pilot it wanted it to be there.
+063:21:52 Lovell: Roger. [Pause.]
+063:22:06 Lovell: Without the ball, I still have use of the TTCA for control of the - angles.
+063:22:12 Lousma: Affirmative. You'll have the TTCA for pitch and roll.
+063:22:18 Lovell: Okay. I think I can do that without the ball, and if you just give me the TTCAs I think I can control the spacecraft using 16 20.
+063:22:31 Lovell: I'm going to yaw right. [Long pause.]
+This movement takes place on the X axis and has the spacecraft begin to rotate to the right, as if standing on a turn table.
+063:22:49 Lovell: Okay, Jack. I am now - The Register 1 is in the Decrease mode. [Long pause.]
+063:23:36 Lovell: And, Houston, do you see anything wrong with this spacecraft motion?
+063:23:46 Lousma: We have a data drop on right now, Jim; we'll look at it as soon as it comes up.
+Comm break.
+Lovell, from 1970 Technical debrief: "We have our Contingency checklist; our method of doing a DPS burn; and how to control using the TTCAs for attitude control, pitch, and roll, and ACA for yaw control. This technique did work and was adequate. In fact, that is the way we flew the vehicle all the time. Our only big problem was when we shut down the FDAI to save power and went to the computer flashing 16 20 , which gave us yaw, pitch, and roll, actually outer, inner, middle gimbal angles. We wanted to keep the middle gimbal angle out of gimbal lock. The technique that is in the contingency checklist is not valid . You can't use the TTCA and fly the computer the way we fly the 8-ball."
+Haise, from 1970 Technical debrief: "That's right."
+Lovell, from 1970 Technical debrief: "As a matter of fact, we spent hours trying to do it. I still don't have the technique. You just have to try to figure out by experimenting which way to hit the thruster. It changes depending on where you are, what quadrant you are in, and what the angles are as to which way to throw that translation controller to stop the angle from going toward gimbal lock. We were trying to keep it at a gimbal angle as close to zero as possible. I wasn't too worried about the other two gimbal angles. It was a continual battle to find it."
+Lovell, from 1970 Technical debrief: "Maybe we ought to do some more research into using that technique. In the future in event of such a contingency, we ought to look at keeping the 8-ball powered up and powering down the DSKY, or something like that. I think our PTC mode was finally the AGS ATT HOLD, which held the vehicle once it was in position."
+Haise, from 1970 Technical debrief: "The problem could be handled the same way that we did it. We taped over each ball top and side and wrote in what the representative TTCA gave in terms of pitchup, pitchdown, roll right, and roll left. This is a nice handy reference. You didn't want to think about the geometry of things if you could just look at this piece of tape and tell you which way to do it."
+A view into the darkened LM cabin, with the taped direction marks visible. Color correction by David Woods.
+063:24:52 Lousma: Okay, Aquarius. We're going to dispense with this control mode. We'd like you to fly the machine back to the original attitude that you had, and we'll go PGNS Attitude Hold, and then we've got to get that ball off the line to save some power. And then, in order to keep even heating, every 15 or 30 minutes, we'll give you a call to give us 90 or 180 degrees of roll - of yaw.
+063:25:27 Lovell: Okay. You want me to go back to original attitude. I'll be going back to it now.
+Long comm break.
+What Jack proposes is that instead of the graceful roll of the PTC mode, they will turn the spacecraft around in increments. This was euphemistically called "dynamic PTC" in the post-mission reports.
+This is Apollo Control; 63 hours, 26 minutes Ground Elapsed Time. Recapping the upcoming pericynthion plus 2 hours maneuver with the Descent Propulsion System engine. Time of ignition: 79 hours, 27 minutes, 40 seconds. The velocity change will be posigrade 845.5 feet per second or a burn time of 4 minutes, 20 seconds. The throttle schedule on the Descent Propulsion engine will be 5 seconds at 10 percent, 21 seconds at 40 percent and the remainder of the 4 minutes and 20 seconds at full throttle. This burn will produce a splash in the southwest Pacific at 142 hours, 47 minutes Ground Elapsed Time. The tentative coordinates for entry interface, or 400,000 feet, is 28 degrees south latitude by 173 degrees, 14 minutes east longitude. Splashdown will be somewhat to the east of that, actually, across the international date line to about 173 degrees west longitude. The spacecraft presently 191,898 nautical miles [355,395 km] out from Earth; velocity, 3,034 feet per second [925 m/s]. And at 63 hours, 28 minutes Ground Elapsed Time; and standing by, this is Apollo Control.
+063:28:36 Lovell: Okay, Houston; Aquarius. I'm flying it back over towards the initial angles you gave me of a pitch of 257. I'll get near the bellyband in roll and yaw; then I'll go to PGNS Att Hold.
+063:28:47 Lousma: That's affirmative, Jim. And then we're going to have you go through a powerdown procedure.
+063:28:56 Lovell: Okay.
+063:29:02 Lousma: And you'll need Verb 77 with Att Hold when you get there.
+063:29:08 Lovell: Will do.
+Comm break.
+Verb 77 is 'Set Rate Command/Attitude Hold Mode in DAP' and will utilize the Digital Autopilot to maintain their attitude.
+063:31:48 Lovell: Okay, Jack. Have I gotten your 360 on yaw and roll? I'm going to go to Att Hold.
+063:31:56 Lousma: Roger. And then we want to get the ball powered down.
+063:32:02 Lovell: Okay. Stand by. [Long pause.]
+063:32:52 Lovell: Okay. I'm now in PGNS Att Hold. And are you reading my DSKY angles?
+In Attitude Hold, the computer will attempt to maintain their present attitude.
+063:32:58 Lousma: Roger. We see them.
+063:33:03 Lovell: Now, you want me to power down the ball, and if you'll give me the procedure for that, I'll do it right away.
+063:33:06 Lousma: Okay. We'll buy what you've got on the DSKY there, and we'd just like to go through an overall powerdown procedure, and in so doing we'll catch the ball and inverter and it will only take a few minutes. So are you ready to start on panel 11?
+063:33:23 Lovell: Roger. Jack will copy, and I'll do the work.
+063:33:27 Lousma: Okay. Panel 11, top row, open all the circuit breakers.
+063:33:35 Lovell: All circuit breakers on top row coming open. [Pause.]
+One of the most high-power items on the top row are the LM window heaters, which alone could consume about as much power as their guidance system.
+063:33:48 Lovell: They're all open, top row.
+063:33:50 Lousma: Okay. Second row, close the first six on the left through the ISOL Valve and open all to the right of that.
+063:34:07 Lovell: Okay. First six on the left are closed - That's through the ISOL Valve, but I opened up every one from there on.
+063:34:13 Lousma: Okay. Third row, open up the next five - correction - Open up the first five on the left, close AOT Heater, close Sig[nal] Conditioner 1. Close Attitude Direct, and open the rest on row three.
+063:34:46 Lovell: Do you want ATCA (PGNS) open?
+063:34:53 Lousma: Leave ATCA (PGNS) closed; four breakers on the third row must be closed. AOT Heater, Sig Conditioner 1, and ATCA (PGNS), Attitude Direct Control. Our mistake, good going.
+They keep the ATCA control electronics operational, as well as the AOT's heater and parts of the telemetry system.
+063:35:13 Lovell: Okay. I'm opening up Engine Start Override right now. And that row's taken care of.
+063:35:30 Lousma: Okay. On the fourth row. Open - From the left, open the first five - correction - Close the first five, and open Cabin Fan 1. Close the three Glycol Pump circuit breakers; open all the Comm breakers, except for Commander's Audio; close it. All the PGNS breakers, open - correction - Open the first three PGNS breakers, close LGC/DSKY, IMU Standby, IMU Operate.
+This configuration keeps their PGNS computer and inertial platform still operational despite the earlier speculation that they should be powered down.
+063:36:23 Lovell: That's complete, Jack.
+063:36:27 Lousma: Okay. And EPS, close BAT Feed Ties, Cross Tie Bal Load, and open the Cross Tie Bus. Close the next three; open Ascent ECA Control, Ascent ECA, and Inverter 1. Close DC Bus Volt. Go ahead.
+063:37:02 Lovell: That's complete, Jack. Panel 11 is configured.
+063:37:09 Lousma: Okay. Let's go over to panel 16, top row, and starting from the left - Open the first four.
+063:37:27 Lovell: Stand by, Jack. [Pause.]
+063:37:38 Lovell: Okay. Starting from the left, open the first four.
+063:37:43 Lousma: Okay. And close the Isol Valve, keep your TCA breakers closed, close the Crossfeed, open the next two displays. Close the Main SOV and the Propulsion breakers should all three be open.
+063:38:08 Lovell: Roger. The main valves are closed, and the Display Engine Override Logic's coming open, and the PQGS and ASC He REG are open.
+063:38:18 Lousma: That's affirmative. The second row: they should all be open except for three breakers under instrumentation. Close Sig Sensor, PCM/TE, and Sig Conditioner 2. Over.
+These circuit breakers govern power to the onboard sensors, the electronics that convert the signals into digital data, and then transmits them to Mission Control as telemetry data.
+063:38:41 Lovell: Roger. Do you want Suit Flow Control open? [Long pause.]
+063:38:57 Lovell: Engine ARM coming open and ASA I guess will be open. Is that correct?
+063:39:01 Lousma: We just got a change on that. Let's keep the ASA closed.
+ASA refers to Abort Sensor Assembly, the package of gyroscopes and accelerometers that produce the backup attitude and inertial data for the AGS guidance system. They want to keep the heater powered to maintain it at an operational temperature.
+063:39:09 Lovell: How about Suit Flow Control and Engine ARM? [Pause.]
+063:39:22 Lousma: Okay, Jim. Suit Flow Control can be open, and Engine Arm - Engine Arm open.
+063:39:40 Lovell: Okay. Let's go to row 3.
+063:39:44 Lousma: Okay. Row 3 under Comm. Open Displays, close SE Audio, open VHF A Transmitter and B Receiver, close the Primary S-Band circuit breakers, both of them. Open the S-Band Antenna, PMP closed, TV open, and all the rest of them open under ECS, except CO2 Sensor, closed.
+They turn off all the displays but keep the S-band radio operational. The carbon dioxide sensor remains powered as well, being a critical safety system.
+063:40:24 Lovell: Roger. [Pause.]
+SE Audio refers to 'System Engineer's Audio' and this is the LMP's communications panel on his side of the cockpit. In Grumman's parlance, the LMP was referred to as the Systems Engineer and hence the acronym SE pops up occasionally.
+063:40:31 Lousma: Okay. Under row 4: under Heaters, your RCS Quad heaters should ... four of them ... be closed, open Displays, open S-Band Antenna, open Sequence Camera. Under EPS, open Displays, close DC Bus Volt, open Inverter 2, open Ascent ECA Control and Ascent ECA, close Descent ECA, Descent ECA Control, Translunar Bus Tie, close Cross Tie Bal Loads, open Cross Tie Bus, close Bat Feed Ties. Over.
+This configuration keeps the RCS heaters operational, and powers down unnecessary displays. The EPS configuration maintains load sharing between the batteries in the Descent Stage. They will not tap into the Ascent Stage batteries at this time.
+063:41:29 Lovell: That's been completed, Jack. [Long pause.]
+063:41:55 Lousma: Okay, Jim. And we've already got a change to what we just told you. Under ECS, close the Cabin Repress, and ensure that the ASA Breaker is closed under S and C.
+063:42:16 Lovell: The ASA Breaker is closed, but I closed the Cabin Repress.
+The ASA breaker maintains heating into the Abort Sensor Assembly which contains the backup attitude and acceleration measurement electronics used by the Abort Guidance System, or AGS.
+063:42:25 Lousma: Okay, Jim. Looks like what we have to do is - In order to maintain even heating, we just have to yaw the whole machine about 90 degrees per hour in increments. So we'll give you a call when it's time to yaw 90 degrees. [Long pause.]
+063:43:04 Lovell: Okay. We have to yaw the machine as I understand it, Houston, and you'll give it to me in increments of 90 degrees.
+063:43:11 Lousma: That's affirm.
+Comm break.
+Instead of the graceful, slow roll of the PTC barbeque mode, they will now instead lurch the spacecraft about one quarter of a full circle, let it sit in place and do the next move. This way they will accomplish the same as the more carefully controlled PTC mode, in preventing one-sided cooling or heating of the spacecraft stack structures.
+063:44:16 Lousma: Okay, Jim. Your present configuration has the following features. We got the electrical Buses cross tied through the Bal Load circuit breakers, and we have Auto Cabin Repress. One thing we'd like to do right now is to give you an uplink, so immediately we have to, on panel 11, close the Updata Link circuit breaker. Go to P00 and Data. Over. [Pause.]
+063:44:52 Lovell: Okay. We're going to P00 and Data. The circuit breaker is closed.
+Long comm break.
+063:48:57 Lovell: Houston, Aquarius. Did you say that you had a new PAD for us to copy?
+063:49:02 Lousma: Jim, I passed that newest PAD that we have to Fred about 30 minutes ago. That's our latest. It's PC plus 2, and it begins with Noun 33 of 79 hours 27 minutes and 40.13 seconds. You got that one?
+063:49:25 Lovell: Okay. We've got that one. What kind of a Att Hold Mode do you want us to do? Do you want us to do Wide Dead band? I didn't [garbled] on the DAP.
+063:49:40 Lousma: Jim, the dead band is good the way it is. It's 5 degrees, if you want to stay in it. And stay in the PGNS Att Hold mode.
+063:49:49 Lovell: Okay. [Long pause.]
+Dead band refers to an option in the DAP on how much the spacecraft is allowed to drift from its desired attitude before the DAP will start firing the RCS jets to attempt to return to that particular attitude. A wider dead band allows for more drift and hence saves fuel.
+063:50:33 Lousma: Two things, Jim. We want you to know that there's some pretty big attitude errors in, so if you go to Auto, the computer is going to try to crank you around, and the other thing is don't drink water out of the LM. [Pause.]
+063:50:54 Lovell: Okay. You might think about this. You know we lost our oxygen pressure in the Command Module. [Long pause.]
+Jim is referring to the fact that the CM water system is normally operated with the oxygen pressure from the Service Module tanks.
+063:51:56 Lousma: Aquarius, we're finished with the uplink. The computer is yours, and you can open the Updata Link circuit breaker. [Long pause.]
+063:52:18 Lovell: Okay. We've opened up the Updata Link, and we've gone Off of Data, and I've got 16 20 in the computer.
+063:52:28 Lousma: Roger, Jim. I guess we're going to just kind of perk away here now.
+063:52:37 Swigert: Okay, Jack. One more question about Odyssey here.
+063:52:45 Lousma: Go ahead, Jack.
+063:52:50 Swigert: Okay. How about the Service Module O2 supply valve? Do you want that off?
+063:53:01 Lousma: Affirmative. Service Module O2 supply off, Jack.
+063:53:06 Swigert: Okay. On the way. [Pause.]
+This valve is used to control whether oxygen is drawn into the Command Module from the Service Module or not.
+063:53:17 Lousma: And, Jim, we see a Program Alarm in there. We think it's just got to do with pulling the Updata Link circuit breaker - Updata too fast.
+063:53:30 Lovell: Roger. I don't see it. Should I reset? [Pause.]
+The alarm is not unlike a 1960's equivalent to an USB flash drive warning about being removed too quickly!
+063:53:40 Lousma: Go ahead and reset, Jim.
+Long comm break.
+063:56:11 Lovell: Houston, Aquarius.
+063:56:16 Lousma: Go ahead, Aquarius.
+063:56:21 Lovell: One thought that might occur here is that if we have low descent water pressure, we might consider taking the PLSS water and fill it in reverse. If that works, you might look at a procedure for that.
+Planning and speculating ways to transfer water from the PLSS backpacks into the LM's systems will be a favorite pasttime throughout the rest of the mission for the astronauts and ground crew alike.
+063:56:34 Lousma: That's a good thought. Let us bounce that around a little. [Long pause.]
+063:57:12 Lousma: Okay, Jim. That's a good thought, and we've looked at that, and it looks like that's feasible. So if and when we need to do that, we will. [Long pause.]
+063:58:11 Lovell: And, something else, Jack. When it's time for me to make my 90-degree yaw, what I planned on doing was going to Noun 76 hold and just pulse and yaw several times until the yaw start and hope that pitch and roll stay within the limit.
+063:58:37 Lousma: Roger. It sounds like a good plan and you can use your TTCA in MIN IMPULSE to take care of pitch and roll.
+063:58:47 Lovell: Okay.
+Comm break.
+064:00:21 Lousma: Aquarius, Houston. We see Ascent O2 tank number 2 building up again, so we'd like to use something out of it, so turn on ascent O2 tank number 2 and turn off descent O2.
+064:00:39 Lovell: Roger. Opening up ascent O2 tank number 2, and turning off descent.
+Comm break.
+The problematic ascent oxygen tank's valves still have a reverse leak, hence its pressure keeps rising. They want to use some of the oxygen again to reduce the pressure.
+064:03:01 Lousma: And, Aquarius, Houston. We're starting to think about CO2 buildup up in the Command Module there so we've got a recommendation, and what we're recommending is that you take the commander's hoses in the LM and put a cap over the red return hose and then figure out a way to fasten those hoses so they blow up into the CSM by extending them up through the tunnel as far as possible. And we'll get some flow out the blue side, circulate up and around the Command Module and to keep the CO2 level down.
+064:03:43 Lovell: Roger. We're thinking of that too, and one problem is that the comm is connected securely to the hose, so we've got to get the comm cable off somehow to get that - So we'll still have comm down here in the LM and you have the hose up there.
+Comm break.
+Arrangement of the O2 hoses and the comm cable.
+Although the LM can provide plentiful oxygen and scrub the atmosphere of carbon dioxide, dead air is a genuine problem. Without a constant air flow to move the air, pockets of CO2 enrichened air may form.
+064:05:10 Lovell: Houston, we're trying to extend that commander's hose by use of the vacuum hose.
+064:05:22 Lousma: Sounds like a good plan if you can work that out, Jim.
+Comm break.
+064:06:58 Lousma: Aquarius, if you can shake Jack loose there, I've got a - some procedures for him to write down.
+064:07:09 Lovell: Okay. Stand by. [Long pause.]
+064:07:33 Swigert: Okay, Jack. Is this a long one?
+064:07:37 Lousma: Oh, it's about 12 - 15 lines. It's a matter of verifying some valves and so forth. [Pause.]
+064:07:50 Swigert: Okay. Go ahead.
+064:07:53 Lousma: Okay. We want you to go in when you can and verify the following valves and leave them as we outline here. Repress Package valve, Off; Emergency Cabin Pressure, Off; Direct O2, Off; Demand Reg, Off; both Water Accumulators, Off; Main REG A and B, Open; Water Glycol - correction - Water and then Glycol Tank Inlet and Outlet, both. Now if you want to get some water, we recommend that you momentarily turn the Surge Tank on to pressurize the system and then turn it off and take out water as required. Over. [Long pause.]
+Lousma orders Jack to go back to the Command Module to check the state of several valves in the Environmental Control System. This mostly amounts to making sure that all oxygen valves are closed to ensure none of the O2 supply in the Command Module is accidentally used. The accumulators are water-glycol coolant tanks.
+Diagram of the CM potable water tank.
+Oxygen from the life support system enters into a plastic bladder within the tank, hence applying pressure to the contents of the tank and pushing the water out to be used by the crew. Jack reads them a procedure that allows them to draw water from the drinking water tank by using oxygen pressure from the surge tank.
+064:09:33 Lousma: That's it, Jack. And another note on taking water; if you don't drain enough water so that...
+064:09:43 Ground technician: [Garbled]
+064:09:49 Lousma: Say again, Aquarius.
+064:09:53 Swigert: That wasn't us, Jack.
+064:09:58 Lousma: Okay. One more note on the water, Jack. If you don't bleed the pressure off when you - don't take enough water to bleed the pressure off completely, the pressure that's left on there is going to drain away in a period of 1 to 3 hours. So it's a small amount of oxygen, but we might as well save it. So if you want to eliminate that problem you could completely drain the pressure off by putting the water in a water bag and saving it that way. [Pause.]
+064:10:36 Swigert: Okay. That's a good idea.
+064:10:38 Lousma: So that's the end of my...
+064:10:39 Swigert: What I'll do - let me repeat - Okay. Let me repeat it all back to you. Repress Package valve, Off; Emergency Cabin Pressure, Off; Direct O2, Off; both the Demand Regs, Off; both H2O Accumulators, Water Glycol Accumulators, Off; Main Reg A and B, Open; Water and Glycol Tank Inlet and Outlet, Open; for water, momentarily pressurize the Surge Tank, take out water as required. You're recommending drain out all the water until I can't get any more water out of it in order to conserve the oxygen.
+064:11:34 Lousma: Okay. We just want you to turn off the water accumulators and not the glycol accumulator. Over.
+064:11:49 Swigert: Okay. These are the water accumulators on 382, right?
+064:11:57 Lousma: That's affirm. The accumulators on 382.
+Very long comm break
+Day 3, part 3: Aquarius Becomes a Lifeboat
+Journal Home Page
+Day 3, part 5: Minimising Power

@@ -1,0 +1,1003 @@
+Apollo 11 Flight Journal - Day 6, part 4: Trans-Earth Injection
+Day 6, part 3: Boarding Columbia and LM Jettison
+Journal Home Page
+Day 7, part 1: Leaving the Lunar Sphere of Influence
+Apollo 11
+Day 6, part 4: Trans-Earth Injection
+Corrected Transcript and Commentary Copyright © 2009-2025 by W. David Woods, Kenneth D. MacTaggart and Frank O'Brien. All rights reserved.
+Last updated 2025-02-22
+Index to events
+Acquisition Of Signal on Rev 30
+133:46:00
+Trans-Earth Injection PAD - Rev 30
+134:01:16
+Trans-Earth Injection PAD - Rev 31
+134:06:27
+P52 platform realignment
+134:34:00
+Loss Of Signal towards the end of Rev 30
+134:57:51
+Ignition of Trans-Earth Injection burn
+135:23:42
+Acquisition Of Signal
+135:34:11
+P52 platform realignment
+136:51:00
+Last communication on day 6
+138:08:24
+When behind the Moon, Apollo 11 fires the large engine on the Service Module to accelerate out of lunar orbit and enter its homeward-bound trajectory towards Earth. The crew photograph the receding Moon, and receive a call from the Head of the Astronaut Office, Deke Slayton.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 133 hours, 45 minutes. We're now 50 seconds from reacquiring Apollo 11 on the 30th revolution of the Moon. This will be our last front-side pass before Trans-Earth Injection. On this revolution we'll be passing up to the crew the final computations for their Trans-Earth Injection maneuver, which is scheduled to occur at 135 hours, 23 minutes, 42 seconds; or about 1 hour, 38 minutes from now. We should have Acquisition Of Signal now in about 10 seconds. We'll stand by.
+We've acquired the signal from the spacecraft.
+We're standing by at this time for a call from the crew; or for CapCom Charlie Duke to put in a call to the crew from the ground. We presently show the Lunar Module in an orbit 63.3 by 56 nautical miles [117.2 by 103.7 km]. The Command and Service Module is in an orbit 63.2 by 53.9 [117.0 by 99.8 km]. At the time of the Trans-Earth Injection burn we expect that the Command Module will be about 1 mile below the LM and about 20 miles in front of it.
+Being in a higher orbit, the LM's velocity around the Moon is slower and so the CSM is getting ahead of it.
+133:49:44 Duke: Hello, Apollo 11. Houston. We're standing by. [Pause.]
+133:49:54 Aldrin: Roger. Apollo 11.
+133:49:56 Duke: Rog. We'd like you, sometime at your convenience, to stir up the cryos on this pass. And wondering if you got the fuel cell purge. Over.
+133:50:08 Aldrin: Roger. The [garble] fuel cell purge is complete.
+133:50:12 Duke: Say again. You're breaking up.
+133:50:18 Aldrin: Roger. The O2 fuel cell purge is complete.
+133:50:22 Duke: Rog. Copy.
+Comm break.
+The first task, to stir the cryos, is to activate fans in the cryogenic storage tanks for hydrogen and oxygen. This disturbs density layers that form in the contents as heat leaks into the tanks. These layers of differing density would otherwise affect quantity measurements. Purging of the fuel cells is required periodically to remove contaminants in the reactants that build up on the cell surfaces. It merely requires increasing the flow of reactant gas to flush the contaminants away.
+133:52:42 Duke: Hello, Apollo 11, Houston. We've got a load for you, if you give us P00 and Accept. The load consists of a CSM pre-TEI state vector that's going in the CSM slots, and a post-TEI state vector that'll go into the LM slots, if that's okay. And also a TEI target load. Any comments? Over.
+133:53:07 Collins: Very good. Thank you very much.
+133:53:08 Duke: Yes, sir.
+133:53:09 Collins: P00 and Accept. You got it.
+133:53:10 Duke: Thank you. [Long pause.]
+133:53:31 Duke: And, 11, Houston. A reminder. You can scratch the Verb 66 at 134:30.
+133:53:41 Collins: Understand. [Long pause.]
+133:54:03 Duke: And, 11, Houston. For your information, Eagle, we had an ISS fail light came on at about 3:19 due to a CDU overheating. And at about this time, at AOS, it looks like we're about to lose the platform.
+133:54:25 Unidentified crewmember: Roger.
+Long comm break.
+The PAO announcer is about to explain Duke's last comment.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. At this time the crew should be involved in their pre-Trans-Earth Injection status checks. They'll also be aligning the platform on their spacecraft guidance system and we'll be passing up the final information for the Trans-Earth Injection burn computed on the ground. A few minutes ago you heard Charlie Duke advise the crew that we show the LM platform is about to go. We'd mentioned that prior to leaving the Lunar Module, the crew had deactivated the primary coolant loop, placing the secondary coolant loop in operation aboard the LM. This means that the primary guidance system does not get cooling. This is part of a preplanned test to find out just how long the primary guidance system would continue to function without cooling. We had predicted in advance that it would - may not - it would possibly not last much longer than an hour or so, but at the time Charlie Duke reported the platform had just gone down on the LM, it had been in operation without cooling a little more than four hours. We had an approximate time from the crew of transferring to the secondary coolant loop of about 129 hours, 40 minutes; and we got the report from Duke that the LM guidance platform was no longer usuable at 133 hours, 55 minutes. We'll continue to standby for any further conversation from the crew. We're now 1 hour, 24 minutes, 10 seconds away from Trans-Earth Injection which will occur on the backside of the Moon at the beginning of the thirty first revolution.
+Flight Plan, page 3-100.
+134:00:09 Duke: Apollo 11, Houston. We got the load in. You can have the computer...
+134:00:12 Collins: 11. Are you through with the computer?
+134:00:14 Duke: That's affirmative, Buzz.
+134:00:20 Collins: All right. That's timing for you. [Long pause.]
+134:00:41 Duke: And, Apollo 11, Houston. Your friendly White Team has your coming home information, if you're ready to copy. Over. [Pause.]
+134:00:56 Aldrin: Stand by. [Long pause.]
+134:01:14 Aldrin: Apollo 11. Ready to copy.
+134:01:16 Duke: Rog, 11. Got two PADs for you, TEI-30 and then a TEI-31. TEI-30, SPS/G&N: 36691, minus 0.61, plus 0.66; 135:23:41.56. Noun 81: 32 - correction, plus 3201.1, plus 0681.8, minus 0265.0; 181, 054, 014. Apogee is NA, perigee, plus 0023.0; 3286 - correction, 32836; burn time 2:28, 3262.8; 24, 151.1, 35.7. Next three lines are NA. Noun 61: plus 11.03, minus 172.37; 1180.6, 36275, 195:04:52. Set stars are Deneb and Vega, 242, 172, 012. We'd like ullage from two jets for 16 seconds, and the horizon is on the 10-degree line at TIG minus 2 minutes, and your sextant star is visible after 134 plus 50. Stand by on your readback. I have a TEI-31 if you're ready to copy. Over.
+134:04:14 Aldrin: Roger. TEI-30, SPS/G&N: 36691, minus 0.61, plus 0.66; 135:23:41.56; plus 3201.1, plus 0681.8, minus 0265.0; 181, 054, 014. Apogee NA, plus 0023.0; 32836, 2:28, 32628; 24, 151.1, 35.7. NA three times. Plus 11.03, minus 172.37; 1180.6, 36275, 195:04:52. Deneb and Vega, 242, 172, 012. Two-jet ullage, 16 seconds. Horizon out-of-the-window, 10 degrees, TIG minus 2 minutes. Sextant star at 134:10. Over.
+The correct time for sextant star visibility was 134:50. It is later corrected by Retro at 134:08:18. This PAD represents all the information the crew need to burn their engine and begin their return path to Earth. A fuller interpretation of the PAD follows:
+Purpose: This PAD will be used for TEI-30 Return-to-Earth burn.
+Systems: The burn would be made using the SPS (Service Propulsion System) engine under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 36,691 pounds (16,643 kg).
+Pitch and yaw trim (Noun 48): -0.61° and +0.66°. These are the initial angles for pointing the SPS nozzle so that the thrust acts through the calculated centre of mass of the spacecraft. As the burn proceeds, automatic control will slowly correct and maintain the thrust vector's direction to compensate for changes in the centre of mass.
+Time of ignition, TIG (Noun 33): 135 hours, 23 minutes, 41.56 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +3,201.1 (+975.7); y, +681.8 (+207.8); z, -265.0 (-80.8). These velocities are expressed with respect to the Local Vertical/Local Horizontal frame of reference of the Moon. The major component is prograde, which is in the direction of the CSM's travel and which will accelerate it out of lunar orbit.
+Spacecraft attitude: Roll, 181°; Pitch, 54°; Yaw, 14°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform which itself has been aligned to the lunar lift-off REFSMMAT.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable. The spacecraft will be on a trajectory coming from the Moon so any apogee figure would be meaningless.
+HP, expected perigee of resulting orbit (Noun 44): +23.0 nautical miles (+42.6 km). The perigee distance is so low, it intersects Earth's atmosphere. In other words, the spacecraft will re-enter.
+Delta-VT: 3,283.6 fps (1,000.8 m/s). This is the total change in velocity the spacecraft would experience. (It is a vector sum of the three components given above.)
+Burn duration or burn time: 2 minutes, 28 seconds.
+Delta-VC: 3,262.8 fps. The crew enter this figure into their EMS Delta-V counter display. The EMS can shut down the engine using this data if the G&N system fails to do so. Its value is lower to allow for the extra thrust imparted by the engine after shutdown, a quantity allowed for the the G&N software but not by the EMS.
+Sextant star: Star 24 (Gienah, Gamma Corvi) visible in sextant when shaft and trunnion angles are 151.1° and 35.7° respectively. This is part of an attitude check.
+The next three items refer to viewing a star through a window using the COAS. However, this is not applicable because the windows would be facing the Moon. The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05g.
+Expected splashdown point (Noun 61): 11.03° north, 172.37° west; in the mid-Pacific.
+Range to go at the 0.05g event: 1,180.6 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05g event: 36,275 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+Predicted GET of 0.05g event: 195 hours, 4 minutes and 52 seconds GET.
+GDC Align stars: Stars to be used for GDC Align purposes are Deneb and Vega.
+GDC Align angles: Roll, 242°; pitch, 172°; yaw, 12°.
+There is a clutch of additional notes associated with this PAD. The ullage burn to settle the contents of the propellant tanks is to fire two RCS (Reaction Control System) jets for 16 seconds. At the correct attitude for the burn, and two minutes to ignition, they should expect the Moon's horizon to line up with the 10° marks on the left rendezvous window. Finally, the sextant star will be hidden by the Moon until 134 hours, 50 minute.
+134:05:43 Duke: Roger, Buzz. Good readback. You're very weak. If you're ready to copy, I got a TEI-31 for you. Over. [Long pause.]
+134:06:01 Aldrin: All right. Go ahead. [Pause.]
+134:06:09 Duke: Apollo 11, Houston. You were cut out. Say again. [Pause.]
+134:06:17 Aldrin: Roger. Stand by one.
+134:06:18 Duke: Rog. [Pause.]
+134:06:24 Aldrin: All right. Go ahead. I'm ready to copy.
+134:06:27 Duke: Roger, 11. TEI-31, SPS/G&N: 36691, minus 0.61, plus 0.66, 137:22:39.85. Plus 3283.8, plus 0684.5, minus 0248.7. NA, pitch 052. Rest of the PAD is NA. Ready for your readback. Over. [Pause.]
+In case their intended TEI burn does not occur for any reason, Duke reads up another PAD that modifies the first to support a burn one orbit later. This PAD is interpreted as follows:
+Purpose: This PAD will be used for a contingency TEI-31 Return-to-Earth burn.
+Systems: The burn would be made using the SPS (Service Propulsion System) engine under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 36,691 pounds (16,643 kg).
+Pitch and yaw trim (Noun 48): -0.61° and +0.66°.
+Time of ignition, TIG (Noun 33): 137 hours, 22 minutes, 39.85 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +3,283.8 (+1,000.9); y, +684.5 (+208.6); z, -248.7 (-75.8). These velocities are expressed with respect to the Local Vertical/Local Horizontal frame of reference of the Moon.
+Spacecraft attitude: The value for their attitude in pitch changes to 52°.
+All other items in the PAD are NA as they will already have been entered into the computer if this PAD were to be used.
+134:07:25 Aldrin: Roger. TEI-31, SPS/G&N: 36691; minus 0.61, plus 0.66; 137:22:39.85. Plus 3283.8, plus 0684.5, minus 0248.7. NA, pitch 052. The rest is NA. Over.
+134:07:56 Duke: Roger. Good readback. And, Buzz, did you say sextant star is visible after 134:50? [Pause.]
+134:08:11 Aldrin: No. I wrote down 134:10. I wasn't real sure about that.
+134:08:18 Duke: Roger. It went by me there. Retro caught it. It's 134:50. Over.
+134:08:26 Aldrin: Okay. 134:50. Thank you.
+134:08:29 Duke: Yes, sir.
+Long comm break.
+This is Apollo Control at 134 hours, 10 minutes. We have about 47 minutes, 30 seconds before losing contact with Apollo 11 as it goes behind the Moon in preparation for the Trans-Earth Injection burn. With the burn, we would reacquire the spacecraft at 135 hours, 34 minutes, 11 seconds. Without the Trans-Earth Injection burn on the upcoming revolution, we would reacquire at 135 hours, 43 minutes, 50 seconds. The final figures on that burn as passed up to the crew a few minutes ago are as follows: ignition will occur at 135 hours, 23 minutes, 42 seconds. The burn duration will be 2 minutes, 28 seconds. That will add 3,284 feet per second [1,001 m/s] to the spacecraft velocity starting it on its path back to Earth. And we would consume about 10,000 pounds [4,500 kg] of propellant with that burn. Splash would occur, according to our preliminary figures, just about precisely as predicted in the Flight Plan. We'll continue to monitor now for any further conversation from the spacecraft.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+134:16:53 Duke: Hello, Apollo 11. Houston. After the burn, we'd like you to trim X and Z. Over. [Pause.]
+134:17:05 Collins: Okay, Charlie.
+134:17:07 Duke: Rog. And that's to two-tenths of a foot per second, as shown in the Flight Plan. [Long pause.]
+134:17:23 Collins: Sounds like there's a story behind that one, too.
+134:17:28 Duke: We'll tell you when you get back.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+134:20:22 Duke: Hello, Apollo 11. Houston. Would you verify that you've stirred up the Cryos? Over.
+134:20:31 Aldrin: Roger. We've stirred them up.
+134:20:33 Duke: Thank you, sir.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 134 hours, 32 minutes. Flight Director Gene Kranz just requested his flight controllers to review all of their data, take a good look at the spacecraft, and be prepared to make Go/No-Go recommendations shortly for the Trans-Earth Injection burn. That maneuver now 51 minutes, 27 seconds away. All systems on the spacecraft looking good at this point. The cabin temperature, been running about 72 degrees [Fahrenheit, 22°Celsius]. At this time, the crew is aligning the platform on their guidance system, the stable platform used as a attitude reference for the upcoming burn. We've had very little conversation both here in the control center and from the spacecraft on this pass. We'll continue to stand by and monitor.
+This P52 realignment of the guidance platform was achieved by Mike sighting on stars 01 (Alpheratz, Alpha Andromedae) and 11 (Aldebaran, Alpha Tauri). The angles through which the platform had to be rotated to restore its ideal orientation were +0.166° in X, +0.212° in Y and -0.019° in Z. The difference in the actual angle between these two stars and Mike's measured angle is 0.01°, a good result.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+134:37:53 Duke: Apollo 11, Houston. You are Go for TEI. Over.
+134:37:59 Armstrong: Apollo 11. Thank you.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 134 hours, 48 minutes. It continues very quiet here in Mission Control. The flight controllers have been observing the crew inputs to their computer, monitoring as the crew prepares for the Trans-Earth Injection burn, scheduled to occur at about 35 minutes from now. We have now 9 minutes, 20 seconds until Loss Of Signal. The spacecraft currently traveling at a speed of 5,329 feet per second [1,624 m/s] and the altitude is 62.5 nautical miles [115.8 km]. At the time of the Trans-Earth Injection burn, the Lunar Module, Eagle, should be about 20 miles [37 km] behind the Command Module.
+134:49:25 Duke: Hello, Apollo 11. Houston. You've got about 8 minutes 'til LOS. Your AOS with the burn, 135:34:05, no burn 135:44. Over.
+134:49:43 Collins: Okay. Thank you.
+134:49:46 Duke: Yes, sir.
+Long comm break.
+The crew has a Go for the Trans-Earth Injection at the beginning of the 31st revolution and all systems on the spacecraft are looking very good at this point. You heard CapCom Charlie Duke advise Mike Collins that we'll reacquire the spacecraft on the other side of the Moon; with the burn, at a Ground Elapsed Time of 135 hours, 34 minutes and 5 seconds. Without the burn we would reacquire at 135 hours, 44 minutes, 3 seconds. We now have 6 minutes, 50 seconds until Loss Of Signal. We'll continue to monitor.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+134:56:35 Duke: Apollo 11, Houston. One minute to LOS. Go sic 'em.
+134:56:41 Collins: Thank you, sir. We'll do it.
+Very long comm break.
+Thirty seconds now until Loss Of Signal. We've had a last status check from the Flight Director and all around the room the word is Go. We're now 26 minutes, 23 seconds from the Trans-Earth Injection maneuver - 20 minutes [means seconds] until Loss Of Signal.
+134:57:22 Armstrong (onboard): Yes. We can get Verb 64 before we come over the hill and see what looks good.
+Verb 64 is 'Start S-band antenna routine'.
+134:57:28 Aldrin (onboard): Okay. LOS.
+134:57:30 Armstrong (onboard): Okay. I'm ready to proceed now.
+134:57:34 Aldrin (onboard): Do it.
+134:57:37 Armstrong (onboard): Here we go.
+134:57:42 Collins (onboard): Say, you guys ready - you got anything you want to do?
+Apollo 11 now passes behind the Moon for the last time.
+And we have Loss Of Signal now. We should next reacquire Apollo 11 at 135 hours, 34 minutes, 5 seconds. And we're now 25 minutes, 38 seconds from Trans-Earth Injection.
+134:57:56 Armstrong (onboard): I got to make a star check, yet.
+134:58:07 Aldrin (onboard): You're not going to fool around with that camera any more, are you?
+134:58:09 Armstrong (onboard): No.
+134:58:11 Collins (onboard): I'll take care of it for you.
+134:58:13 Armstrong (onboard): Post - we might run it post - after PDI if you can put it somewhere where you can get at it, going away from the Moon. I just didn't want it in my way...
+134:58:25 Collins (onboard): Get all...
+134:58:26 Armstrong (onboard): Well, yes, pull it - pull it out of the way.
+134:58:27 Aldrin (onboard): Neil, the handle...
+134:58:29 Armstrong (onboard): I have it right here. That durn near has a roll in it - it...
+134:58:38 Collins (onboard): I'll bet you [garble] likes this.
+134:58:42 Armstrong (onboard): No. I don't care about any - Well, if it's annoying - let me - I can get it if it is. [Garble] star check [garble] I don't care about [garble].
+Flight Plan, page 3-101.
+135:00:00 Aldrin (onboard): What's that PAD say about horizon on the 100-degree...
+135:00:05 Collins (onboard): 2 minutes prior, 100-degree line.
+135:00:18 Armstrong (onboard): You got double lines?
+135:00:19 Collins (onboard): Yes, I got double line on the 30, so I can use that as a head position device and then look down between them.
+135:00:25 Armstrong (onboard): They're not - they're not parallel? I assume one-eye position?
+135:00:30 Collins (onboard): No, What I'm saying is, on the 30 degree, I have both panes of glass in...
+135:00:34 Aldrin (onboard): Yes.
+135:00:36 Collins (onboard): ...and if you line those up then, uh, is your eye in the right position for all the others?
+135:00:39 Aldrin (onboard): Yes.
+135:00:40 Collins (onboard): Okay.
+135:00:41 Armstrong (onboard): What's the shaft and trunnion number?
+Based on information read up as part of the TEI PAD, Neil expects that when they are in the correct attitude for the burn, star 24 (Gienah, Gamma Corvi) will be visible in the sextant when the instrument's shaft and trunnion angles are 151.1° and 35.7° respectively.
+135:00:45 Collins (onboard): 1511.
+135:00:47 Armstrong (onboard): What? 1511 357
+135:00:52 Collins (onboard): 151...
+135:00:54 Armstrong (onboard): 1511.
+135:00:55 Collins (onboard): We're a long way from being there, Neil. We're rolling over at a very slow rate.
+135:00:58 Armstrong (onboard): Okay.
+135:01:00 Collins (onboard): You want to expedite? We got a lot of gas...
+135:01:01 Armstrong (onboard): No, no, no.
+135:01:02 Collins (onboard): Be happy to zip on around there.
+135:02:16 Collins (onboard): Cause this thing's taking forever to get around here. We've got 20 minutes to TIG. I think I'll speed it up a bit, if you don't mind.
+135:02:24 Armstrong (onboard): Hey, you got - 1, one tenth, point 1, I mean?
+135:02:29 Collins (onboard): Yeah, two tenths.
+135:02:44 Collins (onboard): You know, if you hit this hand controller like you do in the simulator, Minimum Impulse, just bang it, it'll bang over and bang back, and it'll fire two opposing pulses, and you get nothing.
+135:02:53 Armstrong (onboard): [Laughter.] Yes.
+135:05:18 Collins (onboard): Oh, shit. Got a yaw out 14 degrees. Why in the hell didn't I do that? Read that number wrong.
+135:05:29 Armstrong (onboard): Yes, it should have been 1.4 degrees yaw.
+135:05:37 Aldrin (onboard): That '1' gets moved over so far.
+135:05:40 Collins (onboard): Yes, the goddam '1' in this computer, you know - trunnion angle, it's there; Delta-V, it's there; angles, it's there. It's probably over here for something although I can't think of what, but there, there, and there, and there, of course - there is four places.
+135:05:55 Aldrin (onboard): Okay, we're there, Neil. By the time you can get down there and get your eyeball out the window...
+135:05:59 Armstrong (onboard): Hey, what did you do with those numbers again?
+135:06:01 Collins (onboard): Oh, we'll crank them in the computer.
+135:06:03 Armstrong (onboard): Oh, I got them.
+135:06:08 Collins (onboard): Question the accuracy of the computer?
+135:06:14 Armstrong (onboard): [Garble].
+135:06:23 Collins (onboard): Okay, you satisfied with that?
+135:06:24 Aldrin (onboard): Enter.
+135:06:27 Collins (onboard): Give me the numbers.
+135:06:29 Armstrong (onboard): 1519, CMC Optics Zero, Off, Verb 41, Noun 91.
+135:06:37 Collins (onboard): You mean after I went to all this work of cranking those numbers in you're going to drive back to zero?
+135:06:43 Aldrin (onboard): We got Program Alarm and an Operator Error.
+135:06:46 SC (onboard): [Laughter.]
+135:06:47 Collins (onboard): Christ! Give me the numbers. 1519 and what?
+135:06:54 Aldrin (onboard): It won't pass with that number.
+135:06:58 Armstrong (onboard): 1511 - 357.
+135:07:01 Collins (onboard): 357, okay.
+135:07:15 Collins (onboard): 357 and 1511. There's supposed to be a star there.
+135:07:26 Armstrong (onboard): That's right, if you put them in - in the right order. That 151.1 is shaft.
+135:07:36 Collins (onboard): Yes. I got a star in the - in the sextant.
+135:07:38 Armstrong (onboard): Good, it passes. Let's press on.
+135:07:41 Collins (onboard): I'm not sure it's Gienah.
+135:07:43 Armstrong (onboard): Good. There'll be no way of telling - You got 16 minutes until TIG. Did it pass?
+135:07:51 Collins (onboard): Optics Zero...
+135:07:52 Armstrong (onboard): Optics Zero and Manual. The mode is Manual already, isn't it? Okay?
+135:07:59 Aldrin (onboard): All right. Verb 37, Enter. 40, Enter. Okay.
+Verb 37 is for changing the program that is running as the major program in the computer, in this case Program 40. This is the program that will control the SPS engine through the TEI burn.
+135:08:08 Armstrong (onboard): Okay, BMAG Mode, three, to Rate 2.
+135:08:13 Collins (onboard): BMAG Mode, three, to Rate 2.
+135:08:15 Armstrong (onboard): Spacecraft Control, CMC, Auto.
+135:08:19 Collins (onboard): CMC, Auto.
+135:08:23 Armstrong (onboard): Proceed.
+135:08:25 Collins (onboard): I'll proceed with this trim.
+135:08:27 Aldrin (onboard): Huh? That's good - apparently not. Don't you like this one? Alright.
+135:08:33 Collins (onboard): Let's not proceed.
+135:08:35 Aldrin (onboard): Alright. Stand by. Align spacecraft in roll. Already there.
+135:08:41 Armstrong (onboard): GDC Align.
+The IMU was properly aligned at 134:34:00 and now the backup system, the Stabilization and Control System (SCS) can be aligned to match. The GDC Align push button transfers the alignment data from the IMU-driven primary system to the BMAG-driven SCS.
+The BMAGs (Body Mounted Attitude Gyros) are gyroscopes which are affixed to the structure of the spacecraft. This is different to the IMU where its gyros are mounted on a gimbal-supported platform around which the spacecraft can freely rotate (at least to an extent). If the IMU gyros detect a change in the platform's orientation, they send a signal to the gimbal motors to counter that change and restore the correct orientation. Since a BMAG's orientation is not isolated from the spacecraft's attitude, it must work in a different fashion. Being body mounted, any change in the spacecraft's attitude will cause this gyro to place a force on its mountings. This is because a gyro wants to keep its spin axis orientated in one direction. The size of that force and the information it reveals can be processed to reveal the magnitude of any change in the spacecraft's attitude and this is the job of the Gyro Display Couplers (GDCs). However, the GDCs must be given a valid starting point and this is the purpose of the GDC Align button. It uses attitude information from the primary system (essentially the IMU) to give the GDCs a starting point. Additionally, the BMAG and GDC combination are much more prone to drift which is why they form part of a secondary attitude control system.
+135:08:44 Collins (onboard): Okay, that's a good one. One - standby one, I'll get that.
+135:09:33 Collins (onboard): Okay. GDC aligned.
+The crew now settle into the typical challenge-and-response method of working through the checklist. They are on page F5-3 of the CSM operations checklist. Mike also has a cue card with an abbreviated version of the checklist.
+135:09:39 Aldrin (onboard): Circuit breakers: Stabilization Control, Panel 8, Closed.
+135:09:41 Armstrong (onboard): Stabilization Control circuit breakers are Closed.
+Panel 8 is to the left of the Main Display console and populated mostly with circuit breakers. Though there are two rows of breakers for the SCS, the checklist line is referring to a single breaker at the top left.
+135:09:52 Aldrin (onboard): Okay. SPS circuit breakers - eight of them, Closed. Twelve of them closed.
+135:09:57 Armstrong (onboard): SPS, 12 of them closed - 2, 4, 6, 8, 10, 12, Closed. Okay?
+These twelve SPS circuit breakers are also on panel 8, second row from the bottom. They feed power to the gauging system, the helium pressurisation valve, the engine gimbal motors and the two pilot valves that control the flow of propellant to the engine.
+135:10:15 Collins (onboard): [Garble]. Now I've dropped it.
+135:10:20 Armstrong (onboard): Say again.
+135:10:22 Collins (onboard): I lost my clip.
+135:10:24 Aldrin (onboard): Att Deadband, Minimum.
+135:10:26 Collins (onboard): Att Deadband, Minimum.
+Deadband refers to the range of attitudes around the ideal that the spacecraft can drift through before active steps are taken to correct it. There are two settings for this: maximum is ±5° and minimum is ±0.5°.
+135:10:27 Aldrin (onboard): Rate, Low.
+135:10:28 Collins (onboard): Rate, Low.
+When the RCS system does need to correct the attitude of the spacecraft, it can be set to do so at a high (7° per second) or low (0.7° per second) rate.
+135:10:29 Aldrin (onboard): Limit Cycle, On.
+135:10:30 Collins (onboard): Okay.
+The Limit Cycle switch enables a subtle aspect of automatic attitude control. With the switch set to On, then during active attitude correction, when the spacecraft approaches the deadband, the RCS jets are made to pulse on and off quickly rather than making long firings. This helps to reduce the overshoot effects of liquids sloshing about in the tanks.
+135:10:32 Aldrin (onboard): Man Att, three - Rate Command.
+135:10:34 Collins (onboard): Manual Attitude, three, to Rate Command. They are.
+Three switches, one each for roll, pitch and yaw, set the mode that the spacecraft's attitude is controlled in. The Rate Command position gives control to the SCS and allows rotation rates that are proportional to the deflection.
+135:10:41 Aldrin (onboard): BMAG Mo - BMAG Mode, three, to Rate 2.
+135:10:46 Collins (onboard): BMAG Mode, three, to Rate 2.
+This refers to another three switches, one each for roll, pitch and yaw, which set how the BMAGs are used. In this configuration, BMAG 1 is ignored while BMAG 2 supplies rate of change of attitude information for the SCS.
+135:10:51 Aldrin (onboard): Rotational Control Power, Direct, two of them, Off.
+135:10:53 Collins (onboard): Okay; Off, Off.
+The rotational hand controllers have two modes of operation. In Normal, they operate via the computer so that commands can be interpreted into different ways of firing the RCS thrusters. In Direct mode, the controllers directly signal the thrusters to fire. This is a mode that must be used carefully as it can cause prodigious amounts of manoeuvring fuel to be consumed.
+135:10:55 Aldrin (onboard): SCS TVC, two, to Rate Command.
+135:10:59 Collins (onboard): Rate Command, Rate Command.
+Thrust Vector Control is normally handled by the Guidance and Navigation system. As a backup, the commander can fly the engine manually. In case he has to resort to it, this switch setting readies the manual control system in a rate-damped mode which is the easiest way to control the engine.
+135:11:02 Aldrin (onboard): TVC Gimbal Drive, Pitch and Yaw, to Auto.
+135:11:05 Collins (onboard): Auto, Auto.
+At the bottom of Panel 1, two switches set how the pitch and yaw gimbals that move the engine bell are controlled. In auto, the control is automatic. However, control signals can be sent to the primary (1) or secondary (2) gimbal system.
+135:11:09 Aldrin (onboard): What's the time?
+135:11:11 Collins (onboard): We have 12 minutes to go.
+The crew are ahead of the timeline given in the checklist. Its next item, connecting the electrical busses together, is due to occur at 6 minutes before ignition so they will wait until then to continue.
+On page F5-1 of the checklist towards the bottom is a line that says 'DET Set'. This is the Digital Event Timer, essentially the precursor of the digital kitchen timer. It shows only minutes and seconds and can be set to a desired starting point and set to count up. When it reaches past 59:59, it goes to 00:00 and continues to count up. The crew will use it to coordinate their activities around the lighting of the engine. The checklist does not define what the starting point of the DET should be so it is assumed that this is a crew option. Nevertheless, the timings on the left side of page F5-3 (+54:00 and 55:00) refer to the DET.
+135:11:54 Collins (onboard): Got the Helium Valves, Auto and barber pole?
+135:11:58 Aldrin (onboard): I'll get those.
+135:12:00 Collins (onboard): Okay. I was just wondering if they were on - not questioning your checklist, just out of curiosity.
+135:12:29 Aldrin (onboard): You going to pitch up after the burn?
+135:12:33 Collins (onboard): Sounds like a good idea. Let's look at the Moon after the burn. That'll give us High Gain, right?
+135:12:41 Aldrin (onboard): Good.
+135:12:52 Armstrong (onboard): Okay, 10 minutes until TIG.
+If the crew had set the DET to 50:00, then this may be the point when they start the timer counting up.
+135:12:55 Collins (onboard): Alright.
+135:13:10 Armstrong (onboard): It's hot in here, isn't it?
+135:13:17 Aldrin (onboard): [Garble] boiling any water.
+Buzz is referring to the spacecraft's evaporator of which there is a primary and secondary unit. The evaporator's function is to lose heat by evaporating water in the vacuum of space. This is essentially boiling the water though it occurs at a very low temperature. Boiling is normally associated with a temperature of 100° Celsius but this is only because it is usually seen to happen in the atmospheric pressure we live in. Take that atmosphere away and water will readily boil from a liquid to a gas at any temperature and will carry heat away in the process. In normal circumstances, automatic systems are designed to use the evaporator only when the spacecraft's radiators are unable to sufficiently lose heat from the coolant. In other words, it handles the peaks in the spacecraft's thermal load.
+135:13:21 Armstrong (onboard): You do it all?
+135:13:22 Aldrin (onboard): No. It's not too hot, it's 65.
+135:13:31 Collins (onboard): Those temperatures are deceptive. I don't know where they measure it, but the cold point is...
+135:13:36 Armstrong (onboard): Okay. Sunrise, now 10 minutes prior to TIG. I should have the horizon on the 10-degree line, huh?
+135:13:43 Collins (onboard): No, 10 degrees - 2 minutes.
+135:13:45 Armstrong (onboard): 2 minutes. That's more like it, there.
+The spacecraft is orbiting in an inertial attitude, having already reached the correct orientation for the TEI burn.
+Diagram showing the CSM's inertial attitude as it approached TEI, and the 10° line of sight to the horizon at 2 minutes before ignition.
+At TEI, they will be travelling pointy-end first. This means that at LOS, when they went around the western limb of the Moon, the engine nozzle was more or less pointed away from the ground below. As they approach the point in their orbit when they ignite the engine, the Moon's horizon will be seen to gradually move down their windows. Mike's rendezvous window has angle marks on it and it had been calculated that the Moon's horizon should appear at the 10° mark two minutes before lighting the SPS.
+135:14:00 Collins (onboard): Can't [garble] all through this COAS. As far as steering and everything goes, it'll be hopeless.
+135:14:09 Armstrong (onboard): [Garble] minutes to go.
+135:14:12 Collins (onboard): I'm graphically reminded of it at this moment. Uh huh. I see a horizon. It looks like we are going forward [laughter].
+135:14:26 Armstrong (onboard): Shades of Gemini.
+135:14:29 Collins (onboard): It is most important that we be going forward [laughter].
+135:14:40 Collins (onboard): There's only one really bad mistake you can make there.
+135:14:50 Aldrin (onboard): Shades of Gemini retrofire, are you sure we're - [laughter] - No, let's see - yes, the motors point this way and the gases escape that way, therefore imparting a thrust that-a-way.
+It is possible to orient a spacecraft along the correct axis for an engine firing, yet manage to get the alignment 180 degrees out - in effect pointing backwards instead of forwards, or vice versa. This happened inadvertently during Apollo 7's alignment for retro-fire in Earth orbit. Armstrong's reference here may be to his own experience on Gemini 8, where his dangerously tumbling craft had to be stabilized before a premature retro-fire and emergency return to Earth. Journal contributor, Phil Karn, elucidates.
+Journal contributor, Phil Karn:- "Readers who aren't totally up on orbital mechanics might not get the point of the crew's very dark humor. In fact, it's one of the best examples I've seen of this unique kind of humor among pilots in general as well as astronauts. I think it's one of the ways they deal with the stress of knowing that so many mistakes could be fatal.
+"Collins mentions this exchange in 'Carrying the Fire'. He says Armstrong's remark, 'Shades of Gemini', refers to the care with which they did retrofire preparations on Gemini - all three were Gemini veterans.
+"It occurs to me that this comment might also refer to how their previous Gemini training had conditioned them to make a retrograde burn to return home. This time, they had to remember that the burn to return home had to be a prograde burn.
+"The delta-V of the upcoming TEI burn is about 1,000 m/s, about two thirds of their current 1,600 m/sec orbital velocity around the moon. A retrograde burn would remove 1,000 m/s from their velocity instead of adding it. Deprived of enough forward velocity to stay in orbit, the CSM would swiftly fall onto the far side of the Moon without ever having re-established contact with Houston.
+"I can actually relate to all this somewhat as I was involved in the planning for the orbital maneuver of the AMSAT-OSCAR-10 spacecraft in 1983. I got VERY concerned about flipping a sign somewhere, doing the burn backwards and causing a swift re-entry on the following perigee.
+"Since I wasn't on board (mostly a good thing) I couldn't just look out the window so I kept trying to think of all the additional independent checks we could make on our spacecraft attitude, like figuring out where the sun should be and checking that each solar panel was (or wasn't) generating current as expected."
+135:15:03 Armstrong (onboard): Yes, horizon looks good.
+135:15:06 Aldrin (onboard): Okay, we got 8½ to TIG.
+135:15:28 Collins (onboard): Somewhere along the line, I think I'll trim this maneuver just for the hell of it. Would this be a good time to do it, Buzz, at 8 minutes prior? You don't care when I do it, do you?
+135:15:35 Aldrin (onboard): No, it probably would be after we - when the gimbals are out.
+135:15:38 Collins (onboard): Oh, yes, alright. You're right. Okay.
+135:15:47 Armstrong (onboard): Beautiful looking horizon, it's hard to describe.
+135:15:50 Aldrin (onboard): We can see it if we look through that thing that you have.
+135:15:53 Collins (onboard): Worth seein'.
+135:15:55 Aldrin (onboard): Here or here? God, it has an eerie look to it. It's not a horizon, it's just a band.
+135:16:03 Collins (onboard): You won't be able to see it, Neil, [garble]. Mostly.
+Mike is in the left couch and Buzz is occupying the right. This leaves Neil with the middle seat and only the hatch window to see out. This is looking down towards the lunar surface passing below. Mike and Buzz have the forward-facing rendezvous windows which are looking in the direction that the spacecraft is pointed.
+135:16:07 Armstrong (onboard): Which way?
+135:16:09 Collins (onboard): This way. Plus X. Oh yeah [garble].
+135:16:14 Armstrong (onboard): It was really eerie when it first came...
+135:16:17 Aldrin (onboard): You got to look through the part of the window that isn't...
+135:16:20 Armstrong (onboard): Yes. And the way the terminator is, you don't see the whole Moon at all, you just see a...
+135:16:24 Collins (onboard): I know, I was looking at it upside down for a while.
+135:16:27 Armstrong (onboard): Yes, and then that scares you, because that says you're going retrograde, right? Well, let's see, if it's upside down, you're going backwards.
+135:16:33 Aldrin (onboard): Yes, it wasn't.
+135:16:40 Armstrong (onboard): Okay, it looks good, I'll tell you.
+135:16:44 Collins (onboard): Alright, we're coming up on bus tie time. We've got a little over 6:50 until TIG.
+135:17:05 Armstrong (onboard): Ready for the bus ties.
+135:17:07 Collins (onboard): Yes, sir. Whenever you are. It's about 6 minutes.
+135:17:10 Armstrong (onboard): [Garble]. On, verified.
+They pick up the checklist halfway down page F5-3. The Main Bus Tie switches on panel 5 operate motor-controlled switches to connect the CM's batteries across the DC busses. This helps share the load expected during the burn, particularly from the gimbal servos.
+135:17:15 Collins (onboard): Okay.
+135:17:16 Armstrong (onboard): [Garble], On. [Garble] and a half.
+135:17:22 Collins (onboard): Alright.
+135:17:26 Armstrong (onboard): Okay. TVC Servo Power 1 to AC1.
+135:17:30 Collins (onboard): 1 to AC1.
+135:17:32 Armstrong (onboard): 2 to AC2.
+135:17:33 Collins (onboard): 2 to AC2.
+This step supplies power to the Thrust Vector Control system, including the gimbal servos.
+135:17:34 Armstrong (onboard): Translation Control Power, On.
+135:17:36 Collins (onboard): On.
+135:17:38 Armstrong (onboard): Rotation Control Power, Normal, number 2, AC.
+135:17:41 Collins (onboard): AC.
+135:17:44 Armstrong (onboard): Arm Rotation Controller, number 2.
+135:17:46 Collins (onboard): Armed. So far, so good.
+Two hand controllers need to be operational for this manoeuvre. If the automatic control of the engine gimbals fails, then the rotational hand controller can be used to hold the spacecraft's attitude. Prior to SPS ignition, a ullage burn will be carried out which is essentially a plus-X translation manoeuvre, requiring the use of the translational hand controller.
+135:17:59 Armstrong (onboard): Okay. When do you want the gimbal motors on?
+135:18:01 Collins (onboard): Oh, at about 5½ minutes.
+135:18:04 Armstrong (onboard): Okay, that's right now.
+135:18:05 Collins (onboard): Right now?
+135:18:06 Armstrong (onboard): Yes.
+135:18:07 Collins (onboard): Okay.
+135:18:08 Armstrong (onboard): Here comes Pitch 1, ready?
+135:18:09 Collins (onboard): No.
+135:18:10 Armstrong (onboard): Wait a minute. Okay. Go.
+135:18:11 Collins (onboard): Pitch 1.
+135:18:12 Armstrong (onboard): Pitch 1...
+135:18:13 Armstrong (onboard): Mark it.
+135:18:15 Collins (onboard): Got it.
+135:18:16 Armstrong (onboard): Yaw 1...
+135:18:17 Armstrong (onboard): Mark it.
+135:18:18 Collins (onboard): Got it.
+Momentary switches on panel 1 activate relays that send power to the primary gimbal motors on the SPS.
+135:18:19 Armstrong (onboard): Okay. Translation Controller, clockwise.
+135:18:22 Collins (onboard): Clockwise.
+135:18:24 Armstrong (onboard): Verify no MTVC.
+135:18:28 Collins (onboard): Verified.
+With the primary gimbal motors powered, the THC is turned clockwise to try to control the engine's aim. If their configuration is correct, the engine should not respond to his commands as the primary gimbals are to be controlled by the G&C system and any manual control is to be via the rotational controller.
+Their next check is to ensure the secondary gimbals do respond to Mike's commands, as they should.
+135:18:32 Armstrong (onboard): Gimbal Motors, Pitch 2, Yaw 2, Off.
+135:18:34 Collins (onboard): Pitch 2...
+135:18:35 Armstrong (onboard): Mark it.
+135:18:36 Collins (onboard): Got it.
+135:18:37 Armstrong (onboard): Yaw 2...
+135:18:38 Armstrong (onboard): Mark it.
+135:18:39 Collins (onboard): Got it.
+Now the secondary gimbal motors are activated via relays.
+135:18:40 Armstrong (onboard): Okay. Set GPI trim.
+GPI is Gimbal Position Indicator, a set of dual-use gauges on panel 1. During ascent from Earth, they showed the tank pressures in the launch vehicle using the 0 to 50 scales. Now they will show the angles to which the SPS engine is being aimed using the scales that run from +4.5°, through zero to -4.5°.
+The GPI meters and the two GPI trim thumbwheels on board the Apollo 13 Command Module Odyssey.
+135:18:43 Aldrin (onboard): Alright, where are they on this PAD? Let's see, that's plus...
+135:18:46 Armstrong (onboard): Minus - on pitch, minus 0.6.
+135:18:50 Aldrin (onboard): Okay, minus 0.6. Very good.
+135:18:52 Armstrong (onboard): Plus 66.
+135:18:55 Aldrin (onboard): And plus 6...
+135:18:56 Collins (onboard): 0.6.
+135:18:57 Aldrin (onboard): Okay, Neil, those look good to you? They look good to me.
+135:19:00 Aldrin/Armstrong (onboard): [Garble] 0.6 - 0.6 - 0.6 [garble].
+The crew have set the trim angles for the SPS nozzle on the thumbwheels. These only have relevance at the start of the burn. As the burn progresses, the TVC will slowly adjust these trim angles as it senses shifts in the spacecraft's centre of mass. The Manual TVC Mode is being tested now. The secondary motors are controlled by the Rotational Hand Controller. Mike tries to move the controller and confirms that the engine moves by watching the needles on the GPI.
+135:19:02 Armstrong (onboard): Okay. GPI set. Verify MTVC.
+135:19:09 Collins (onboard): Okay. MTVC verified. I'm on trim now.
+135:19:18 Armstrong (onboard): Proceed to trim.
+135:19:20 Aldrin (onboard): Does it look to you like plus X is flying the right way?
+135:19:24 Collins (onboard): Yes. [Inaudible.] Yeah.
+135:19:27 Aldrin (onboard): Alright. [Garble] we're coming up on [garble] out to your right.
+135:19:30 Collins (onboard): Okay.
+135:19:33 Armstrong (onboard): Okay, verify MTVC.
+135:19:36 Collins (onboard): Verified.
+135:19:37 Armstrong (onboard): Translation Controller, Neutral.
+135:19:38 Collins (onboard): Neutral.
+The THC was previously turned clockwise to enable the secondary TVC mode. Now that the check is complete, the THC is returned to normal.
+135:19:39 Armstrong (onboard): GPI return to zero, zero.
+They are now at the top of page F5-4 in the checklist. The checklist actually says that the GPI meters should return to zero if they have the TVC under control of the G&N system, otherwise, if the SCS is in control, the trim angles would be displayed.
+135:19:40 Collins (onboard): It does.
+135:19:41 Armstrong (onboard): Rot Control Power, Normal, number 2, to AC/DC.
+135:19:44 Collins (onboard): AC/DC.
+135:19:45 Armstrong (onboard): Spacecraft Control, CMC.
+135:19:47 Collins (onboard): CMC.
+The spacecraft's engines, SPS and RCS, are under the control of the computer.
+135:19:48 Aldrin (onboard): Trim.
+135:19:49 Collins (onboard): We did.
+135:19:51 Armstrong (onboard): Okay. BMAG Mode, three, to Att 1, Rate 2.
+135:19:53 Collins (onboard): Att 1, Rate 2.
+The two BMAGs are set so that BMAG 1 provides attitude information and BMAG2 provides rate of rotation information.
+135:19:55 Aldrin (onboard): Enter.
+135:19:56 Collins (onboard): Enter.
+135:19:58 Armstrong (onboard): Verify CMC.
+135:19:59 Collins (onboard): CMC verified. Auto verified.
+135:20:00 Aldrin (onboard): Proceed.
+They now test that the computer can drive the SPS gimbals.
+135:20:02 Armstrong (onboard): Okay, for the Gimbal Drive: Up, down, zero. Up, down, zero. Okay, standing by for P-AX, Off, and Y-AX, Off... [meaning Pitch Axis and Yaw Axis.]
+135:20:19 Armstrong (onboard): Mark it.
+135:20:21 Armstrong (onboard): Good trim.
+135:20:23 Aldrin (onboard): Rotational Control Power, Direct, two, Main A/Main B.
+135:20:26 Collins (onboard): Main A/Main B.
+Power for the rotational hand controller is switched to come from both main DC power busses.
+135:20:28 Aldrin (onboard): SPS Helium Valves, two of them, verified Auto. Limit Cycle, Off.
+135:20:34 Collins (onboard): Okay, Limit Cycle's Off.
+With the Helium Valves in Auto, helium is only allowed into the propellant tanks when the engine valves are energised. The Limit Cycle switch was set On during the TVC check.
+135:20:36 Aldrin (onboard): FDAI Scale, 50/15.
+135:20:38 Collins (onboard): 50/15.
+Around the edge of the FDAI are three displays that show the rate of rotation of the spacecraft.
+Photograph of the Flight Director/Attitude Indicator (FDAI) on board the Apollo 13 Command Module Odyssey.
+The FDAI Scale switch allows the crew to select what is meant by the full scale deflection of these needles. Its positions are ±1° per second, ±5° per second and a "50/10" position that means ±10° per second in pitch and yaw, and ±50° per second in roll.
+The same switch also selects the full scale deflection for the attitude error needles (the yellow needles within the ball display).The first two positions of the switch represent ±5° error while the bottom position selects ±15° in pitch and yaw, and ±50° in roll. The crew have therefore selected the position that has the coarsest resolution for the error and rate displays.
+The next item (near the bottom of page F5-4) is to occur at 2 minutes to ignition (58:00 on the event timer).
+135:20:42 Aldrin (onboard): Okay, wait for 2 minutes for Delta-V Thrust A.
+135:20:46 Armstrong (onboard): 2 minutes to get our horizon check at 10 degrees.
+135:20:48 Aldrin (onboard): Yes, and - sneaking up on there, looks pretty darn good. Looks like we're darn near right.
+135:21:10 Armstrong (onboard): Just about midnight in Houston town.
+135:21:15 Collins (onboard): Yes.
+135:21:16 Aldrin (onboard): Okay, coming up on 2 minutes, and this damn horizon check is going to be, would you believe, perfect?
+135:21:23 Armstrong (onboard): I hope so.
+135:21:24 Aldrin (onboard): Fantastic. First time we ever gotten a perfect horizon check. Spent too many hours in the simulator looking for an unreal horizon. Alright, horizon check passes.
+135:21:37 Collins (onboard): Beautiful.
+135:21:38 Aldrin (onboard): 2 minutes...
+135:21:39 Armstrong (onboard): Delta-V Thrust A...
+135:21:40 Collins (onboard): To Normal.
+Two guarded switches in the middle of panel 1 enable the main and backup Pilot valves in the SPS engine. Mike throws the A switch which enables the main valves, the 'A' bank, so that they will open upon command from the computer. Set B will be brought into play soon after ignition.
+135:21:41 Armstrong (onboard): ...Delta-V...
+135:21:42 Aldrin (onboard): Translation Controller, Armed.
+135:21:43 Armstrong (onboard): ...okay, Delta-V Thrust A, Normal. Stand by for a malfunction - it's not there. Good deal.
+135:21:49 Collins (onboard): [Garble, overlapping with last]. Probably get the Sun in your window on that burn.
+135:21:51 Armstrong (onboard): Yes, I believe it.
+135:21:52 Collins (onboard): That Sun is [garble]...
+135:21:53 Aldrin (onboard): Rotational Hand Controller, number 2, Armed.
+135:21:5X SC (onboard): Just [garble] with it.
+135:21:58 Collins (onboard): Rotational Hand Controller, number 2, is Armed.
+The two hand controllers are ready to be used if called upon if the primary automatic systems fail.
+135:22:01 Armstrong (onboard): Alright.
+135:22:04 Collins (onboard): Ullage is going to be 16 seconds at 2 jets.
+135:22:07 Aldrin (onboard): Tape Recorder is going to Command Reset on the High Bit Rate.
+The Tape Recorder referred to here is the Data Storage Equipment (DSE) that records the data being generated by the sensors around the spacecraft and the voices of the crew. It is through this recorder that we have a voice transcript of the crew's discussions around the far side of the Moon. For the burn, they want this recorder to operate in its high speed mode of 15 inches per seconds in order to record high bit-rate data of the engine's operation.
+135:22:25 Collins (onboard): Got to go from Standby to Normal.
+135:22:28 Aldrin (onboard): I'll do that in 35 seconds.
+135:22:29 Armstrong (onboard): Ullage is 16 seconds, 2 Jets.
+135:22:30 Collins (onboard): 16 seconds, 2 jets, confirmed.
+Since the ullage burn is to be 16 seconds, they will begin it when the DET reaches 59:44.
+135:22:40 Collins (onboard): Coming up on one minute...
+135:22:42 Collins (onboard): Mark it.
+135:23:03 Collins (onboard): Okay, stand by for 35 seconds.
+This is Apollo Control. We're now less than 30 seconds from the time at which Trans-Earth Injection is scheduled, the burn to start Apollo 11 on its trajectory back to Earth. We're now 15 seconds from the scheduled ignition time. That burn will last about 2 minutes, 28 seconds and consume 10,000 pounds [4,500 kg] of propellant. The crew should be burning at this time. Of course, that maneuver is performed on the back side of the Moon. We have no data from the spacecraft here in Mission Control at this time. We won't know how the burn went for about another ten minutes, which is the time at which we're scheduled to reacquire Apollo 11. During the course of this burn the spacecraft will increase its speed by about 3,280 feet per second, or about 2,240 miles per hour [1,000 m/s].
+A conversation occurs on the air-ground circuit between Houston and two ground stations on the other side of Earth; Guam and Honeysuckle Creek, Australia.
+Houston: Tech? Houston comm tech, Net 1.
+Honeysuckle: Honeysuckle.
+Guam: Guam.
+Houston: Roger. Stand by for a keying check. Houston comm tech testing. 1 - 2 - 3 - 4 - 5 - 5 - 4 - 3 - 2 - 1. 1, 2, 3, 4, 5, 5, 4, 3, 2, 1. Test out.
+Honeysuckle: Houston comm tech, Honeysuckle Net 1.
+Houston: Go ahead.
+Honeysuckle: 100 percent on keying.
+Houston: Roger.
+Guam: This is Guam comm tech. 100 percent keying. Good modulation. How would you like the VOGAS - Voice Operated Gain Adjusting System] configured.
+Houston: Honeysuckle and Guam, we will have the VOGAS in the CSM downlink.
+Honeysuckle: Honeysuckle, wilco.
+Guam: Guam, Roger.
+Houston: Honeysuckle and Guam, this is Houston comm tech. You're Go.
+Honeysuckle: Honeysuckle, Roger.
+Guam: Guam, Roger.
+We return to the onboard conversation 30 seconds prior to the burn.
+135:23:07 Collins (onboard): Mark it...
+135:23:08 Collins (onboard): DSKY blanks. EMS is in Normal.
+The accelerometers in the IMU are now actively measuring any change in velocity and their data are being used to update the state vector. This is different to the normal state of affairs where they are in freefall (weightless) and the state vector is calculated based on the mechanics of their trajectory.
+They are now at the top of page F5-5. They select Verb 06 Noun 40 which displays the following on the three registers of the DSKY: R1 - Time from ignition and the time from cut-off; R2 - the velocity to be gained, a number that will start at 3,283.6 (fps, 1,000.8 m/s) and decrement towards zero; R3 - the accumulated velocity, a number that will start at zero and increment towards the desired Delta-V.
+135:23:13 Aldrin (onboard): Check.
+135:23:17 Collins (onboard): Coming up on 15 seconds.
+135:23:18 Collins (onboard): Okay, I'll get the 99, Neil.
+135:23:20 Armstrong (onboard): Okay.
+135:23:23 Collins (onboard): Okay. Stand by...
+135:23:25 Collins (onboard): ...stand by for ullage. Ullage.
+135:23:28 Aldrin (onboard): Got the ullage.
+Two of the rear-facing RCS thrusters are fired for 16 seconds to settle the propellants to the bottom of their tanks where the outlets are.
+135:23:42 SC (onboard): [Garble] 5, 4, 3, 2...
+Flight Plan, page 3-100a.
+The Apollo 11 Mission Report gives the time for ignition of the TEI burn as 135:23:42.3.
+Five seconds prior to ignition, the DSKY flashes '99' in the Verb display which acts as a request to the crew to enable the burn. Mike is required to press 'Proceed' before the count reaches zero, essentially saying, 'Yes, please go ahead with the burn.'
+135:23:44 Collins (onboard): Burn! A good one. Nice...
+135:23:45 Aldrin (onboard): I got two balls...
+135:23:46 Collins (onboard): ...okay, here comes the other two...
+Having allowed the computer to start the engine using the A bank of valves, the crew manually open the B set of valves. This allows the engine to run at its maximum thrust due to the slightly greater flow of propellant to the injector.
+135:23:47 Aldrin (onboard): ...barber pole, gray, the other two are on good.
+135:23:51 Collins (onboard): Man, that feels like g, doesn't it?
+135:23:56 Aldrin (onboard): I caught up - I caught up for a short while, but [garble].
+135:24:03 Collins (onboard): Go to duplex. Pressures are good. Busy in steering, but it's holding right in there.
+135:24:13 Aldrin (onboard): How is it, Mike?
+135:24:19 Collins (onboard): It's really busy in roll, but it's holding in its deadband. Looks like it's holding instead of plus or minus 5, more like plus or minus 8. It's possible that we have a roll-thruster problem, but if we have, it's taking it out. No point in worrying about it. Okay, coming up on 1 minute...
+135:24:44 Collins (onboard): Mark it...
+135:24:45 Collins (onboard): One minute. Chamber pressure's holding right on 100.
+135:24:46 Aldrin (onboard): [Garble] time looks good.
+135:24:48 Collins (onboard): Gimbals look good. Total attitude looks good. Rates are damped out - a little bit. Still a little busy, light vehicle.
+These are the gimbals upon which the SPS engine is mounted, not those that support the guidance platform.
+135:25:01 Armstrong (onboard): [Garble] still ahead.
+135:25:03 Collins (onboard): Still busy in roll.
+135:25:08 Armstrong (onboard): Should I be going [garble]?
+135:25:11 Collins (onboard): Follow the needle, fly to the needle [garble] could. Dont know. Take it off. Okay. Looking good.
+135:25:21 Aldrin (onboard): This was [garble]...
+135:25:21 SC (onboard): [Garble].
+135:25:24 Collins (onboard): How's that nitrogen pressure? Okay?
+The valves that allow propellant into the combustion chamber are operated pneumatically by nitrogen gas, stored in two tanks, one for each engine control bank. Mike is particularly interested in the tank for bank B which had displayed a slight leakage during the insertion into lunar orbit.
+135:25:25 Armstrong (onboard): Yes.
+135:25:26 Collins (onboard): Good.
+135:25:36 Armstrong (onboard): [Garble] pressures are Go.
+135:25:42 Collins (onboard): 2 minutes...
+135:25:43 Collins (onboard): Mark it...
+135:25:45 Collins (onboard): Hits the end of that roll deadband, it really comes crisply back.
+135:25:55 Collins (onboard): Okay, chamber pressure's falling off a little bit. Now it's going back up. Chamber pressure's oscillating just a tad.
+135:26:04 Armstrong (onboard): 10 seconds left, [garble]...
+Trans-Earth Injection should be completed in about 10 seconds from now.
+135:26:05 Collins (onboard): We don't care about the chamber pressure, [garble] watch yourself for - brace yourself. Standing by for Engine, Off.
+135:26:11 Armstrong (onboard): It should be shutdown now.
+135:26:15 Collins (onboard): Okay?
+135:26:16 Armstrong (onboard): Shutdown! 4...
+And we should have shut-down at this time. At this point Apollo 11 should be traveling at a speed of about 8,660 feet per second, or about 5,900 miles per hour [2,640 m/s]. It should be on its way back to Earth, headed for a splashdown in the Pacific Ocean at 195 hours, 18 minutes.
+To the crew, the burn appears to have been two seconds longer than predicted and Mike has attempted to manually shut it down, fearing an overburn. This is per the TEI Burn Chart on page 3-100a of the Flight Plan which gives a manual shutdown time of 2 seconds over the expected time and a reading of -40 on the EMS Delta-V counter. However, as reported by the PAO announcer at about 136:49:40, the burn was almost perfect. It seems likely that Mike's effort to shut the engine down was simultaneous with the computer's.
+Collins, from the 1969 Technical debrief: "The EMS counter moves out pretty swiftly and it was difficult for me to estimate exactly when I might have minus 40 on the counter. The ISP of the engine must have decreased or something; at any rate, the burn duration was longer than predicted and when burn time plus 2 seconds had elapsed, I had thought that I would have minus 40 on the EMS counter by the time I could get the thing shut down. There was some doubt in my mind as to whether it was shutting itself down automatically or not; so, at burn time plus 2 seconds and some small fraction, I turned both EMS Delta-V - or both Delta-V - Normal switches off. I think just a fraction of a second prior to this we got a good automatic shutdown. At any rate, our residuals were very small; so either we got a good automatic shutdown followed immediately by my turning the switches off or else I shut the thing down manually and was just extremely lucky in that it coincided with the PGNS residuals. For some reason, that burn duration was a little bit longer than I would have expected. LOI, you remember, was shorter than we had predicted and this was the next burn to follow LOI, so I was sort of surprised that it did take longer than normal."
+135:26:18 Aldrin (onboard): [Garble] going to gray and barber pole.
+135:26:21 Collins (onboard): Okay?
+135:26:22 Aldrin (onboard): Okay.
+On completion of the burn, the spacecraft has to return to its quiescent mode with the SPS equipment turned off. They are now halfway down page F5-6 and begin by disabling the computer's ability to control the engine valves.
+135:26:23 Collins (onboard): Let's look at what we got. Delta-V Thrust A and B are Off...
+135:26:26 Aldrin (onboard): A and B are Off.
+135:26:27 Collins (onboard): ...SPS valves, Closed?
+135:26:29 Aldrin (onboard): Okay.
+Next they remove power from the primary and secondary motors that move the engine from side to side in its gimbals.
+135:26:30 Collins (onboard): Stand by for the Gimbal Motors.
+135:26:31 Aldrin (onboard): Okay.
+135:26:32 Aldrin (onboard): Pitch 1, Off...
+135:26:34 Aldrin (onboard): Yaw 1, Off.
+135:26:38 Collins (onboard): Got it.
+135:26:39 Aldrin (onboard): Pitch 2, Off.
+135:26:41 Collins (onboard): Got it.
+135:26:42 Aldrin (onboard): Yaw 2, Off.
+135:26:44 Collins (onboard): Got it. TVC Servo Power 1 and 2 are Off?
+With a successful burn we should reacquire Apollo 11 in 7 minutes, 20 seconds from now.
+135:26:47 Aldrin (onboard): Off, Off.
+135:26:50 Collins (onboard): Main Bus Tie's coming On [should be Off] - okay.
+135:26:55 Aldrin (onboard): Proceed.
+By pressing Proceed, the DSKY is made to display the velocity that is still to be gained along the three orthogonal axes. If it is a negative value, then the value has been overshot. The TEI Burn Chart in the Flight Plan instructs that if this value for the X-axis is greater than 0.2 fps, then Mike should use the X-axis RCS thrusters to bring it into that range. This is the direction of thrust that has the most effect on the accuracy of their fall to Earth.
+What the SPS has just done can be visualised in two ways. The first is with respect to the Moon. From that perspective, it has accelerated out of lunar orbit, placing itself on an open ended hyperbolic trajectory that, to all intents and purposes, will not return.
+Columbia's new trajectory can be viewed another way, one that is seen from an Earth-centred perspective. From this viewpoint, while the spacecraft was in orbit around the Moon, its velocity included the Moon's orbital velocity around Earth. This velocity happens to be right around 1 kilometre per second. In other words, the Moon is travelling around Earth at around 1 kilometre per second. It is then worth noting that the total Delta-V imparted by the TEI burn was 3,283.6 fps, or 1,000.8 metres per second - almost exactly 1 kilometre per second. Therefore this magnitude of burn effectively removes the Moon's orbital motion from the spacecraft. It is as if the spacecraft has brought itself to a dead stop and allowed the Moon to slide away from underneath it. It then falls back down to Earth.
+135:26:59 Collins (onboard): Beautiful.
+135:27:02 Armstrong (onboard): X and - 0.2.
+135:27:06 Collins (onboard): X and Z, 0.2...
+135:27:07 Armstrong (onboard): X and Z, good.
+135:27:08 Collins (onboard): F. [?] Okay, and Z is down. Okay, then - you want to record those - five balls...
+135:27:23 Aldrin (onboard): Let me record them...
+135:27:24 Collins (onboard): ...five balls, plus 0.0, and call it 0.08. It was hanging on 0.07 for a while, and it was zeroed and down. I'd give them - it was 0.1 down - plus 0.1. Now it's on zero, shit! Can't read those residuals, they dance all over the place.
+135:27:40 Armstrong (onboard): Okay, the residuals were 0.1, 3.9, and point...
+135:27:46 Aldrin (onboard): Beautiful burn. SPS, I love you! You are a jewel! Whoosh!
+135:27:53 Armstrong (onboard): Alright. EMS Function, Off.
+135:27:54 Collins (onboard): EMS Function...
+135:27:55 Armstrong (onboard): EMS Mode to Standby.
+135:27:57 Collins (onboard): Standby.
+135:27:58 Armstrong (onboard): BMAG Mode, three, to Rate 2. Deadband, Max...
+135:28:01 Collins (onboard): Three to Rate 2. Deadband, Max...
+135:28:02 Aldrin (onboard): [Garble] Off, [garble] Off...
+135:28:03 Armstrong (onboard): Got the burn time to be about 02:30. You in Bit Rate Low?
+135:28:08 Aldrin (onboard): 02:30 or 02:31...
+135:28:15 Collins (onboard): Okay. Let's go. Rotational Control Power, Direct, two of them, Off?
+135:28:23 Aldrin (onboard): Off, Off. Good show.
+135:28:31 Collins (onboard): We want to pitch over, I guess. Don't know if it matters much which way.
+135:28:40 Armstrong (onboard): Oh, probably - up will be the best...
+135:28:43 SC (onboard): Yeah.
+135:28:44 Aldrin (onboard): Pitch up.
+135:28:46 Armstrong (onboard): ...to keep the Moon in sight.
+The crew want to be able to view the receding Moon and take some photographs.
+135:28:49 Collins (onboard): Alright, is that Rotational Control Power, Direct, two of them, Off?
+135:28:52 Armstrong (onboard): Yes, I do.
+135:28:53 Collins (onboard): Circuit breakers - SPS Pitch 1, Pitch 2, Yaw 1, Yaw 2, Open?
+135:28:56 Armstrong (onboard): They're open.
+135:28:58 Collins (onboard): Proceed.
+135:29:00 Armstrong (onboard): I think you did that already.
+135:29:04 Collins (onboard): Hey, Neil, you want to proceed on these?
+135:29:05 Armstrong (onboard): Yes.
+135:29:06 Collins (onboard): Okay, where do we go, P00? To get the High Gain?
+135:29:11 Armstrong (onboard): We want - Yes, P00's good - and we want a Verb 48.
+135:29:16 Aldrin (onboard): Yes. Get in P00 and do a Verb 83.
+135:29:18 Collins (onboard): I'm going to go to SCS and pitch up in the meantime.
+135:29:25 Aldrin (onboard): Find out where that - other state vector is.
+135:29:33 Armstrong (onboard): Okay, we're in P00, now who wants what? Verb 48?
+Verb 48 allows the DAP's settings to be altered.
+135:29:35 Aldrin (onboard): No - yes. Verb - oh, okay.
+135:29:38 Armstrong (onboard): Ah...
+135:29:40 Aldrin (onboard): I don't load the - I don't.
+135:29:41 Armstrong (onboard): Well, it says change spacecraft weight.
+135:29:44 Collins (onboard): DAP update. Well that...
+135:29:45 Armstrong (onboard): You've got your...
+135:29:46 Collins (onboard): ...10101 does change - it has been changed. Okay, we've done that.
+135:29:52 Armstrong (onboard): Verb 83.
+135:29:53 Collins (onboard): [Garble] Service Module RCS...
+135:29:55 Aldrin (onboard): I've done that. Done that.
+135:29:56 Collins (onboard): Oh. Okay...
+135:29:57 Armstrong (onboard): Verb 83.
+135:29:58 Collins (onboard): ...RCS monitors checked - [Laughter]. Okay, here comes Buzz's baby - Verb 83 - de-dum-de-dum-de-dum. Operator error. [Laughter.]
+Verb 83 means 'Start REND Param Display'. Neil elucidated after the flight.
+Armstrong, from the 1969 Technical debrief: "We tried something different on this flight. The ground computed a postburn state vector, a predicted postburn state vector and put it in the LM slot. After the end of the burn, we could call up Verb 83 and get an R and R-dot [essentially position and velocity which is the rate of change of position] from our state vector over to the predicted state vector. It came out real close - 0.7 mile and 0.8 ft/sec - indicating (it's kind of another double check) that we really did get the burn that we thought we were going to get. That's not really any kind of requirement if everything works. It is a nice kind of thing if you have an SPS problem or if you take over with the SCS in the middle of the burn when your computer is working okay, but the guidance isn't working. You can use that vector in your hip pocket to find out how good of a switchover you did and how close your SCS burn came out."
+135:30:08 Aldrin (onboard): Because you don't know how to do it.
+135:30:09 Collins (onboard): [Laughter.]
+135:30:13 Aldrin (onboard): Look at that, would you? Look at that.
+135:30:14 Collins (onboard): Isn't that beautiful?
+135:30:15 Armstrong (onboard): Pretty good.
+135:30:16 Collins (onboard): A thing of beauty is a joy forever.
+135:30:22 Aldrin (onboard): Alright, now call the Verb 89 and see which way the...
+135:30:25 Collins (onboard): Oh, come on, you're not serious.
+135:30:45 Aldrin (onboard): [Garble] what are you doing? Go to find out which way the Moon is...
+135:30:49 Collins (onboard): Okay.
+135:30:50 Aldrin (onboard): [Garble] you were wrong. [Garble].
+135:31:07 Collins (onboard): Okay, we got to visually acquire Moon, take pictures, and then you got a P52 to do.
+135:31:14 SC (onboard): You all right?
+135:31:15 Armstrong (onboard): [Garble] for some unknown reason...
+135:31:17 Aldrin (onboard): We haven't got any damned program ready to call up. [Garble]. It's the only way you can do it. Supposed to do a Verb 66 and then put numbers [garble] apogee [garble] and then look at altitude and altitude rate...
+135:31:34 Armstrong (onboard): What are you doing, Mike? What you taking pictures of...
+135:31:40 Collins (onboard): Oh, I don't know. Wasting film, I guess.
+135:31:43 Armstrong (onboard): You can take some pretty good pictures out of the hatch, here.
+135:31:46 Collins (onboard): You're right. This crapping thing - [garble] is it set on f:4 or 5.6; that's probably about right.
+135:31:57 Aldrin (onboard): Here's a ring that came from somewhere, I wonder where? (singing)
+135:32:04 Armstrong (onboard): You want to take pictures over here? Go ahead, why don't you just set up that...
+135:32:07 Collins (onboard): I'll check Window 3.
+135:32:10 Armstrong (onboard): ...set up that tape and let it do its thing. It's still got a long way to go for [garble].
+135:32:15 Aldrin (onboard): Alright, now. Do we want black and white, color, 250, or 80? I've got all options over here.
+135:32:19 Armstrong (onboard): Oh, we'll probably want - How many cameras you got?
+135:32:21 Aldrin (onboard): Let me have a camera. How many cameras?
+135:32:23 Collins (onboard): Well, only one camera, but I've got [garble] lenses.
+135:32:28 Aldrin (onboard): You're a poor [garble].
+135:32:29 Armstrong (onboard): Well, let's take some color, and...
+135:32:38 Collins (onboard): With the 80, right? On this one?
+135:32:46 Aldrin (onboard): Yeah, I think you want to get, uh...
+135:32:49 Collins (onboard): Let me know when I'm in a - in a good attitude to stop this pitch. How about right now?
+135:32:54 Armstrong (onboard): Stop. What are you doing?
+135:32:56 Collins (onboard): I'm rolling.
+135:32:58 Aldrin (onboard): What for? What do you want to roll for?
+135:33:02 Collins (onboard): I was off in roll. I'm correcting back to where it should have been. This is a pretty good attitude right here, looks to me...
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. We're now less than 1 minute from reacquiring Apollo 11. When last we heard from the spacecraft, all systems were looking very good and we were in very good shape for the Trans-Earth Injection maneuver. At this point Apollo 10 - Apollo 11 should be about 10,000 pounds [4,500 kg] lighter and on its way back to Earth. We're now 32 seconds from reacquiring. We'll stand by for communications with the spacecraft.
+135:33:14 Aldrin (onboard): Alright, I've seen enough of Verb 83, Mike...
+135:33:16 Collins (onboard): Here you go.
+135:33:20 Aldrin (onboard): ...unless you want to call a Verb 89.
+135:33:24 Collins (onboard): Not me. I'd rather take pictures.
+135:33:32 Armstrong (onboard): What time is AOS?
+135:33:35 Aldrin (onboard): Haven't the foggiest.
+135:33:36 Collins (onboard): It's 135:34.
+135:33:40 Armstrong (onboard): That's right now.
+135:33:42 Aldrin (onboard): Give me a Verb 51.
+135:33:55 Armstrong (onboard): Anybody got any choice greetings they want to make to Houston?
+135:33:58 Collins (onboard): No, I - the best burn I've ever seen in my life, I'll tell you. I guess you guys have seen two good ones today.
+135:34:09 Aldrin (onboard): Oh, a couple.
+135:34:11 Collins (onboard): Yes, more than two. AOS.
+Apollo 11 reappears around the limb of the Moon for the last time.
+135:34:14 MCC Speaker: AOS.
+And there's the cue, we have Acquisition Of Signal.
+And we have data right on schedule.
+135:34:47 MCC Speaker: Rog. Zero - minus 0.7, minus 0.2.
+135:34:34 Aldrin (onboard): Yes, we sure as hell have.
+135:34:38 Armstrong (onboard): Get the burn status.
+135:34:41 Aldrin (onboard): Hey, I hope somebody's getting the picture of the Earth coming up.
+135:34:44 Collins (onboard): [Garble]. Not quite pitched far enough. Well, maybe I can get it out...
+135:34:53 Armstrong (onboard): I can get around to here.
+135:34:54 Collins (onboard): [Garble] your window.
+135:34:57 Armstrong (onboard): Upside down, turn the camera upside down. Then it'll look right.
+Post-TEI photography appears to begin around this time on Magazine V.
+AS11-44-6644 - Crater Firsov and Firsov V below centre, Al-Khwarizmi beyond above centre. Lobachevsky cut off on right. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6645 - Earthrise. Bright crater in foreground is Al-Khwarizmi K. Mare Smythii and Mare Marginis on horizon. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6646 - Earthrise. Bright crater in foreground is Al-Khwarizmi K. Mare Smythii and Mare Marginis on horizon. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+135:35:14 Duke: Hello Apollo 11. Houston. How did it go? Over.
+135:35:22 Armstrong: Tell 'em to open up the LRL doors, Charlie.
+135:35:25 Duke: Roger. We got you coming home. It's well stocked.
+135:35:33 Armstrong: Okay, Burn status: Delta-TIG was zero, burn time was 2 plus 30. PAD angles: Delta-VGX after trim was 0.1, VGY 0.9, VGZ 0.1. Delta-VC minus 17.9, fuel 10.6, Ox 10.4, unbalance minus 50.
+135:36:01 Duke: Roger. Copy, Neil. Sounds good to us. [Long pause.]
+The camera with Magazine V is fitted with a 250-mm lens.
+AS11-44-6647 - View west over Mare Smythii after TEI. Babcock is cut off on right. 250-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6648 - Earthrise over Mare Smythii after TEI. 250-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6649 - Earthrise over Mare Smythii after TEI. Dark-floored crater Neper on right. 250-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6650 - Earthrise over Mare Smythii after TEI. Dark-floored crater Neper on right. Image out of focus, probably camera shake. 250-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6651 - Earthrise over Mare Smythii after TEI. Dark-floored crater Neper on right. 250-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6652 - Earthrise over Mare Smythii after TEI. Dark-floored crater Neper on right. 250-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+135:36:16 Duke: And Apollo 11, Houston. You - All your systems look real good to us. We'll keep you posted.
+135:36:27 Armstrong: Rog.
+135:36:28 Collins: Hey, Charlie boy, looking good here. That was a beautiful burn. They don't come any finer.
+135:36:31 Duke: Rog. [Long pause.]
+135:36:48 Duke: Apollo 11, Houston. I wondered if you've compared your pre-T - your state vector after TEI with the one in the LM slots? Over.
+135:36:59 Armstrong: Yes, sir, and that one looked very nice. Verb 83 was plus 00070 and minus 00008.
+135:37:10 Duke: Rog. [Long pause.]
+135:37:38 Duke: 11, Houston. I was looking at your bank Bravo nitrogen tank. It didn't leak a bit - correction - didn't leak a bit this time. Over.
+During the burn to insert Apollo 11 into lunar orbit, it was noted that the pressure in one of the nitrogen tanks that operates the SPS propellant valves had unexpectedly dropped, hence the interest in it performance on this burn. This is discussed more fully earlier in the journal.
+135:37:51 Armstrong: Roger. Looked good here.
+135:37:53 Collins: Chamber pressure was hanging in there around 100. The latter part of the burn, it started oscillating a little bit and got down a little bit below 100.
+135:37:59 Duke: Roger.
+135:38:00 Collins: 96 or so.
+135:38:01 Duke: Roger.
+Long comm break.
+Most of the conversations so far has been from Neil Armstrong and Mike Collins. That last comment came from Collins. Our first report after acquisition was from Neil Armstrong.
+That Trans-Earth Injection burn was very close to nominal. At this time we show the spacecraft traveling at a speed of 7,603 feet per second [2,317 m/s]. The velocity already beginning to drop off and we're at an altitude of 445 nautical miles [824 km] now from the Moon.
+Photography continues on Magazine V with the 80-mm lens having been refitted.
+AS11-44-6653 - Earthrise over Mare Smythii and Mare Marginis after TEI. Neper is the dark-floored crater between. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. We now show the spacecraft traveling at 7,378 feet per second [2,249 m/s]. Altitude; 568 nautical miles [1,052 km]. The next order of business will be to get the crew to sleep. Flight Director Gene Kranz requested his flight controllers, prior to Acquisition Of Signal, to review their procedures and to take as many steps as possible to get the crew to sleep as soon as possible. There will be a press conference in the Building 1 auditorium. We estimate the time on that at about 12:30 Central Daylight Time.
+And our LM telecommunications engineer reports that we've just had Acquisition Of Signal from Eagle which is still in lunar orbit. The last fix that we had on Eagle's orbit showed an apogee of 64.1 and a peri - apocynthion rather of 64.1 [118.7 km] and a pericynthion of 54.4 nautical miles [100.7 km]. The spacecraft altitude has now climbed to almost 700 nautical miles [1,300 km] from the Moon. We show a weight of 26,510 pounds [12,025 kg]; about 10,000 pounds [4,500 km] less than what we had - actually about 1,100 or 11,000 pounds - let's correct that - about 10,100 pounds [4,580 kg] less than what we had prior to the Trans-Earth Injection burn.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+135:47:24 Duke: Apollo 11, Houston. Would you give us P00 and Accept? We've got a REFSMMAT for you. Over. [Pause.]
+135:47:36 Collins: Okay.
+135:47:37 Duke: Thank you.
+Comm break.
+REFSMMAT is REFerence to a Stable Member MATrix. This is a definition of an orientation in space to which the guidance platform (the 'stable member' in this case) will be orientated to. A particular REFSMMAT's orientation is fixed with respect to the stars but different REFSMMATs have different orientations. While in lunar orbit, the platform was aligned per the Landing Site REFSMMAT, one that represented the orientation in space of the landing site at the moment of landing. Now that they are returning to Earth, they wish to use a new REFSMMAT, one that suits the need to rotate the spacecraft side-on to the Sun for thermal control.
+The reason for having to change the platform's orientation is to allow spacecraft operations while avoiding the gimbal lock phenomenon, a side effect of the IMU having only three gimbals.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+135:50:07 Duke: Hello, Apollo 11. Houston. We've got the load in. You can go back to Block. Over.
+135:50:16 Collins: We're there.
+135:50:18 Duke: Rog. [Long pause.]
+135:50:38 Collins: Your Command Module film seems to be working out pretty well, Charlie, the amount we carried. Looks like we carried just about what we needed.
+135:50:45 Duke: Wonderful.
+135:50:51 Collins: We have one 16-millimeter roll of the ASA-1000 color interior film. We were thinking of shooting that during the entry, out window number 4 on a bracket, and you might get the camera guys sometime in the next couple of days to give us all the good settings for that.
+135:51:09 Duke: Roger.
+Long comm break.
+This is Apollo Control. The Flight Dynamics Officer reports that the burn was very nominal; almost precisely as planned. The burn duration was about 3 seconds long, but the velocity change was almost precisely what we had been expecting. At the present time, Apollo 11 is 1,076 nautical miles [1,993 km] from the Moon. The velocity continuing to drop off; down now to 6,698 feet per second [2,042 m/s].
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+135:54:46 Duke: Hello, Apollo 11. Houston. Wondered if, during the TEI burn, you utilized the oxidizer flow valve on the PUGS? Over.
+135:55:06 Aldrin: Yes, we did. Based on your very excellent briefing I was expecting the thing to continue desiring increase for the whole time, so we started out with it in Increase. I saw that we pretty quickly crossed the line and started falling about 6, 7 percent behind, so I was still expecting it to move up, and I went down to Full Decrease and brought it back down to a difference of 2 percent. Over.
+135:55:40 Duke: Rog. Thank you very much, Buzz.
+135:55:41 Aldrin: Two-tenths of a percent, I'm sorry.
+135:55:43 Duke: Rog. Thank you.
+Long comm break.
+During a long SPS burn, it is desirable to balance the consumption of the two propellants for a nominal ratio of 1.6:1, oxidiser to fuel. This was the function of the Propellant Utilization Gauging System or PUGS which helped the LMP to manually correct for any imbalance.
+Panel 3 has the controls and displays relating to PUGS.
+The PUGS section of Panel 3 in the Apollo 13 CM, Odyssey.
+Two systems in the SPS work together to produce a measure of the propellant quantities and rates of depletion. One uses long capacitance probes, the other relies on point sensors. Their signals are processed together to drive the two digital displays at the top of the panel to indicate percentage propellant remaining. The meter on the left indicates any deviation from the desired consumption ratio and it was Buzz's job during the burn to operate a flow control valve in the oxidiser supply to achieve balance (left switch).
+Aldrin, from the 1969 Technical debrief: "The PUGS was a little bit unpredictable based upon performance during LOI. The fact that I couldn't catch up with the increase and it got ahead by about 0.4 or 0.5, something like that, plus the preflight briefing that that would be the case was why I left the switch in Increase. We lit off and got through the initial guidance and I looked at the meter and it was showing down in Decrease, which struck me as not being what it should do. I expected it to be in Increase, but I thought "Well, maybe this is a characteristic such that early in the burn it does this sort of thing." So I left the switch where it was to try to catch up. I guess in the meantime that the two numbers - where one had been bigger that the other - had changed positions, in addition to the fact that when it says Increase, you throw it in the Increase direction. It's not at all obvious during a burn if one is a little bigger than the other. You're not sure whether the needle is believable or not, so I left it in Increase and it seemed as though it was getting farther apart and the needle was staying down; so contrary to what we had been led to believe, I put the thing down to DECREASE just to see what was going to happen. Sure enough, it stopped the divergence of the two numbers. We didn't have a long enough burn for it to get right to zero, but it was within 0.2. Anyway, it was a little different than what we had expected. I guess, if you really want to play that game, you might need to write some cues or something on there so you don't misinterpret anything. It worked out well. But it was unusual and that might have something to do with burn time."
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+135:59:37 Duke: Apollo 11, Houston. You can go to PTC attitude and torque at your con - and do the P52 and torque at your convenience. Over.
+135:59:50 Collins: Hey, we got to take some more pictures, Charlie. Is there any constraint, normally, in staying here for a while?
+135:59:55 Duke: No, sir.
+Flight Plan, page 3-102.
+136:00:00 Collins: Thank you.
+Very long comm break.
+The Moon continues in its orbit at 1 km per second, leaving Apollo 11 behind to begin it three-day fall to Earth. A series of 14 photographs are taken over the next half hour. In the first seven, the Moon's image is too large to fit onto the Hasselblad frame. The next seven images do have a lunar diameter in view which allows the distance to the Moon to be calculated, as well as the approximate time.
+AS11-44-6654 - Wide view of eastern limb area after TEI. Crater Saenger P at centre of frame. Eastern edge of Mare Smythii on left. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6655 - Bright crater at centre of image is Al-Khwarizmi K. Taken after TEI. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6656 - Moon after TEI. View north to rayed crater Giordano Bruno. Dark-floored crater on left is Lomonosov and Joliot on extreme left. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6657 - Moon after TEI. View southeast to crater Tsiolkovsky. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6658 - Moon after TEI. View southeast. Crater King on lower right. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6659 - Moon after TEI. View southeast. Crater King on lower right. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6660 - Moon after TEI. View north to rayed crater Giordano Bruno. Dark-floored crater on left is Lomonosov and Joliot is cut off on extreme left. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Starting with AS11-38-5648 on magazine O, and on the assumption that the 80 mm lens is on the camera, the next six images of the Moon can have their diameters measured. This yields a value for the Moon's distance at the moment the photo was taken. Additionally, by interpolating between the PAO officer's announcements of distance, an approximate time for the exposures can be gained.
+AS11-38-5648 - Moon at about 3,100 km or 1,670 nautical miles. Photograph taken at approximately 136:04:00. South is to the right. Mare Tranquillitatis is at bottom left with Mare Crisium on the left. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5649 - Moon at about 3,100 km or 1,670 nautical miles. Photograph taken at approximately 136:04:00. South is to the right. Mare Tranquillitatis is at bottom left with Mare Crisium on the left. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5650 - Moon at about 3,100 km or 1,670 nautical miles. Photograph taken at approximately 136:04:00. South is to the right. Mare Serenitatis and Tranquillitatis are at bottom left with Mare Crisium on the left. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5651 - Moon at about 3,100 km or 1,670 nautical miles. Photograph taken at approximately 136:04:00. South is to the right. Mare Serenitatis and Tranquillitatis are at bottom left with Mare Crisium on the left. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5652 - Moon at about 3,100 km or 1,670 nautical miles. Photograph taken at approximately 136:04:00. South is to the right. Mare Serenitatis and Tranquillitatis are at bottom left with Mare Crisium on the left. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5653 - Moon at about 3,100 km or 1,670 nautical miles. Photograph taken at approximately 136:04:00. South is to the right. Mare Serenitatis and Tranquillitatis are at bottom left with Mare Crisium on the left. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+The photography continues on magazine V for another seven images, with the same lens on the camera.
+AS11-44-6661 - Moon at about 3,400 km or 1,850 nautical miles. Photograph taken at approximately 136:07:30. North is left. Mare Crisium is left of centre. A reflection of a cabin fluorescent light is visible at the top right of the lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6662 - Moon at about 3,580 km or 1,930 nautical miles. Photograph taken at approximately 136:08:30. North is left. Mare Crisium is left of centre. A reflection of a cabin fluorescent light is visible at the top right of the lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6663 - Moon at about 3,750 km or 2,030 nautical miles. Photograph taken at approximately 136:11. North is left. Mare Crisium is left of centre. A reflection of a cabin fluorescent light is visible at the top right of the lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6664 - Moon at about 4,240 km or 2,290 nautical miles. Photograph taken at approximately 136:15:40. North is left. Mare Crisium is left of centre. A reflection of a cabin fluorescent light is visible at the top right of the lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+136:20:37 Duke: Go ahead, 11. Over.
+136:20:42 Collins: How does that tracking look, or is it too early to tell?
+136:20:45 Duke: Stand by, Mike. [Long pause.]
+136:21:12 Duke: Apollo 11, Houston. FIDOs are looking at the data. It's too early to tell yet exactly. It's looking real good so far. We'll have you some answers shortly on trajectory. Over.
+136:21:27 Collins: Okay. What FIDO is it?
+136:21:33 Duke: That's Jay Greene.
+136:21:40 Collins: Howdy, Jay. [Long pause.]
+Jay Greene was one of NASA's premier Flight Controllers and had earlier been FIDO (Flight Dynamics Officer, or FDO) for the descent and landing of Eagle. He was the Flight Director for the Space Shuttle Challenger during its disastrous ascent in 1986.
+136:21:54 Duke: 11, Houston. We have a DAP CSM update for you.
+136:22:03 Collins: Go ahead.
+136:22:04 Duke: Rog. CSM weight, Mike: 26370. Over.
+136:22:12 Collins: Thank you, sir.
+136:22:14 Duke: Welcome.
+Comm break.
+AS11-44-6665 - Moon at about 4,840 km or 2,610 nautical miles. Photograph taken at approximately 136:22:30. North is left. Mare Crisium is left of centre. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+The Digital AutoPilot routine in the computer needs to know the mass of the CSM to properly control the spacecraft's rotation. 26,370 represents the mass in pounds [11,961 kg].
+136:24:11 Duke: Apollo 11, Houston. We've taken your onboard vector and propagated it forward, and it's looking real good. We only got about 24 minutes of tracking now. Really too early to tell on the radar. Over.
+136:24:26 Collins: Roger. Understand.
+Long comm break.
+The state vector currently within the computer is the result of modifying the state vector they had prior to TEI with the acceleration data measured by the IMU during the burn. The accuracy of this resultant state vector may not be as high as could be determined by radio tracking methods (or, for that matter, the cislunar navigation that Mike could carry out). However, it is sufficient for a first look at their trajectory.
+AS11-44-6666 - Moon at about 5,160 km or 2,790 nautical miles. Photograph taken at approximately 136:25:30. North is left. Mare Crisium is left of centre. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+136:28:08 Duke: Hello, Apollo 11. Houston. Mike, did you notice any transients at ignition on TEI? Over.
+136:28:21 Collins: Yeah. The transients were more noticeable than on previous burns, Charlie. I just wrote it off on the fact we had a light Command Module, but there was considerable roll activity which dampened down after the first, oh, 20 seconds, I would guess, of the burn. But there - there was also some pitch and yaw activity. I don't believe it was abnormal, and seemed to be deadbanding rather crisply in roll plus or minus about 8 degrees either side of center line. And after the first couple of - oh, after the first 20 seconds or so, the gimbals were quiet, and pitch and yaw were relatively quiet. Before that, there was some oscillation but mostly just in rates. Total attitude hung in there pretty well.
+136:29:12 Duke: Roger. Thank you much. We were looking at the playback, and we saw some things that - right at start up. We'll be back with you later on that.
+136:29:22 Collins: Okay.
+Very long comm break.
+Collins, from the 1969 Technical debrief: "At TIG, I noticed more rate-needle activity that I had seen in previous burns. I had a start transient of probably 0.4-ft/sec activity on the rate needles in both pitch and yaw; there was very little attitude deviation. It was just a fairly rapid oscillation of both the gimbal position indicators and the rate needles and it damped itself down I'd say within the first 10 or 15 seconds of the burn. In roll, the vehicle was deadbanding. Instead of plus or minus 5 degrees, it appeared on my attitude indicator to be more like plus or minus 8-degree roll deadband and it was banging against the roll stops fairly crisply. It would cruise over, hit deadband and jets would fire, and it would go back the other way. This roll deadbanding was quite obvious during this burn as opposed to the other burns. I think all these indications are normal. They were just somewhat exaggerated during the first 20 seconds of the burn compared to the more damped case of having the LM attached."
+AS11-44-6667 - Moon at about 5,500 km or 2,970 nautical miles. Photograph taken at approximately 136:29:15. North is left. Mare Crisium is left of centre. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+The following animation has four frames from colour Magazine V (AS11-44-6664 to 6667) and 26 frames from black and white Magazine O (AS11-38-5654 to 5679).
+An animation that maintains constant size to show how the spacecraft's point of view of the Moon is changing as they depart. AS11-44-6664 to 6667 and AS11-38-5654 to 5679. Image credit: Compiled from images by the Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+The photography of the Moon switches from magazine V using colour film to magazine O which is loaded with black and white film. It appears that little time passed during this changeover as between images 6667 and 5654, the point of view of the Moon is very similar. Because the spacecraft is coming around from the far side of the Moon, the view of the globe is constantly changing and the lack of change between those two photos shows that they were taken within a short period of time. It is also clear that they are still using the 80mm lens. Had the 250mm lens been fitted, then the whole Moon would not have fitted into the frame and still maintain the same point of view. The spacecraft would have to be three times further away, by which time, the view would have changed radically. And anyway, by that time, the crew will be in their rest period. Another clue that these two photos were taken at a similar time is that the calculation of the distance from the spacecraft to the Moon (using image size and triangulation) gives a very similar result of 5,000 km in both cases.
+AS11-38-5654 - Moon at about 5,500 km or 2,970 nautical miles. Photograph taken at approximately 136:30:00. North is left. Mare Crisium is left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5655 - Moon at about 5,500 km or 2,970 nautical miles. Photograph taken at approximately 136:30:00. North is left. Mare Crisium is left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5656 - Moon at about 5,500 km or 2,970 nautical miles. Photograph taken at approximately 136:30:00. North is left. Mare Crisium is left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5657 - Moon at about 5,780 km or 3,120 nautical miles. Photograph taken at approximately 136:32:00. North is left. Mare Crisium is left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5658 - Moon at about 5,900 km or 3,200 nautical miles. Photograph taken at approximately 136:33:40. North is left. Mare Crisium is left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5659 - Moon at about 5,900 km or 3,200 nautical miles. Photograph taken at approximately 136:33:40. North is left. Mare Crisium is left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5660 - Moon at about 6,000 km or 3,250 nautical miles. Photograph taken at approximately 136:34:40. North is left. Mare Crisium is left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5661 - Moon at about 6,000 km or 3,250 nautical miles. Photograph taken at approximately 136:34:40. North is left. Mare Crisium is left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5662 - Moon at about 6,200 km or 3,350 nautical miles. Photograph taken at approximately 136:36:30. North is left. Mare Crisium is left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5663 - Moon at about 6,400 km or 3,500 nautical miles. Photograph taken at approximately 136:38:40. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5664 - Moon at about 6,700 km or 3,600 nautical miles. Photograph taken at approximately 136:42:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5665 - Moon at about 6,700 km or 3,600 nautical miles. Photograph taken at approximately 136:42:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+136:42:26 Duke: Apollo 11, Houston. Have you finished taking pictures? Over.
+136:42:36 Armstrong: We're just finishing up, Charlie.
+136:42:38 Duke: Rog.
+136:42:45 Armstrong: About to get started on a P52 here pretty soon.
+136:42:48 Duke: Copy.
+136:42:50 Armstrong: Another 8 or 9 hours.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 136 hours, 44 minutes. Apollo 11 is now 3,720 nautical miles [6,889 km] from the Moon and traveling at a speed of 5,367 feet per second [1,636 m/s]. During the press conference we accumulated about 4 minutes of taped conversation with the crew. The crew reports at this time that they are completing taking pictures and are getting ready to realign their guidance system platform. We'll pick up the taped conversations and then stand by for any following live communications with the crew. We anticipate that they will be shortly beginning their presleep checklist in preparation for a well deserved rest period.
+AS11-38-5666 - Moon at about 6,850 km or 3,700 nautical miles. Photograph taken at approximately 136:43:20. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5667 - Moon at about 6,850 km or 3,700 nautical miles. Photograph taken at approximately 136:43:20. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. That brings us up to date with the taped conversation. We'll stand by for any further live communication from the crew before they begin their sleep period. We've gotten some preliminary figures from the Flight Dynamics Officer on that Trans-Earth Injection burn after a review of the telemetry data and it shows that our change in velocity was a nominal 3,283.5 feet per second [1,000.8 m/s]. We also show a nominal burn time of 2 minutes, 28 seconds. The crew reported the burn time about 2 to 3 seconds long based on their onboard data. The ground data shows the burn to have been just about nominal. Based on the preliminary tracking it would appear that the splashdown would occur almost precisely as predicted or planned in the Flight Plan. That would be at 195 hours, 18 minutes, 40 seconds Ground Elapsed Time. And we would expect that splashdown time to change somewhat during the trans-Earth coast, particularly as the need or lack of need for midcourse corrections becomes more apparent with additional tracking. At this time Apollo 11 is 4,086 nautical miles [7,567 km] from the Moon, and traveling at almost precisely 1 mile per second, 5,283 feet per second and that's just updated to 5,280 feet per second [1,609 m/s].
+AS11-38-5668 - Moon at about 6,950 km or 3,750 nautical miles. Photograph taken at approximately 136:45:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5669 - Moon at about 6,950 km or 3,750 nautical miles. Photograph taken at approximately 136:45:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5670 - Moon at about 6,950 km or 3,750 nautical miles. Photograph taken at approximately 136:45:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5671 - Moon at about 6,950 km or 3,750 nautical miles. Photograph taken at approximately 136:45:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5672 - Moon at about 6,950 km or 3,750 nautical miles. Photograph taken at approximately 136:45:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5673 - Moon at about 6,950 km or 3,750 nautical miles. Photograph taken at approximately 136:45:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5674 - Moon at about 6,950 km or 3,750 nautical miles. Photograph taken at approximately 136:45:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5675 - Moon at about 6,950 km or 3,750 nautical miles. Photograph taken at approximately 136:45:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Mike has been carrying out a realignment of the guidance platform using P52 in the computer. This realignment will also see the platform being aligned per the new REFSMMAT, one suitable for the Passive Thermal Control rotation that the spacecraft will soon adopt. The P52 exercise was achieved by Mike sighting on stars 01 (Alpheratz, Alpha Andromedae) and 43 (Deneb, Alpha Cygni). The angles through which the platform had to be rotated to compensate for drift in its orientation were +0.469° in X, -0.217° in Y and +0.383° in Z. The difference in the actual angle between these two stars and Mike's measured angle is 0.03°, an acceptable result.
+136:52:26 Duke: Hello, Apollo 11. Houston. You can crank up on the PTC at any time. Over.
+136:52:33 Armstrong: All right-oh. [Long pause.]
+136:52:45 Slayton: Apollo 11, Houston.
+136:52:50 Armstrong: Go ahead, Houston.
+136:52:52 Slayton: Rog, 11. This is the original CapCom. Congratulations on an outstanding job. You guys have really put on a great show up there. I think it's about time you powered down and got a little rest, however. You've had a mighty long day here. Hope you're all going to get a good sleep on the way back. I look forward to seeing you when you get back here. Don't fraternize with any of those bugs en route, except for the Hornet.
+The aircraft carrier USS Hornet is due to pick Apollo 11 up in the Pacific Ocean after splashdown.
+136:53:21 Armstrong: Okay. Thank you, boss. We'll - We're looking forward to a - to a little rest and a restful trip back. And see you when we get there.
+136:53:30 Slayton: Rog. You've earned it. [Long pause.]
+That exchange was between Donald K. 'Deke' Slayton, Director of Flight Crew Operations at the Manned Spacecraft Center and astronaut Neil Armstrong.
+136:54:13 Duke: Hello, Apollo 11. Houston. We'd like you to turn off O2 Tank Number 1 heaters. Over. [Pause.]
+136:54:27 Collins: It's off. Thank you.
+136:54:29 Duke: Rog. [Long pause.]
+136:54:57 Duke: Hello, Apollo 11. Houston. For your information, the LGC in Eagle just went belly up at 7 hours. Over.
+136:55:10 Armstrong: Okay. Very good. That was the death of a real winner, there. [Long pause.]
+As the crew left the LM's cabin, they stopped the cooling to the primary guidance system just to see how long it would last. The IMU lasted about 4 hours and now the LM's computer has also failed. The PAO announcer will further update this in about half an hour.
+136:55:26 Collins: Charlie, we're going to rotate about pitch 270 degrees on the way home vice 1 - or 090 on the way out. Right?
+136:55:34 Duke: Right, sir.
+136:55:39 Collins: Okay. Verb 49 maneuver to that attitude is in progress.
+136:55:43 Duke: Rog. [Long pause.]
+As outlined on page 1-18 of the Flight Plan, the CSM X-axis was pointed roughly north on the way out to the Moon and be pointed roughly south on the way home. The reason given is " to enable simultaneous viewing of the earth and moon through the side windows while maintaining a favorable high gain antenna position."
+136:56:14 Armstrong: Houston, crew status report. Radiation: CDR 11017, CMP 10019, LMP 09020. No medication.
+136:56:29 Duke: Say again, please, Neil. We - you were breaking up. We missed that. Over.
+136:56:37 Armstrong: Okay. This is a crew status report. Radiation: CDR 11017, CMP 10019, LMP 09020. No medication.
+136:56:56 Duke: Roger. Thank you.
+136:57:00 Duke: And we didn't get a crew status report from you this morning. Wondered if you could give us an estimate of sleep last night. Over.
+136:57:12 Armstrong: Okay [garble]. [Long pause.]
+136:57:48 Armstrong: Okay. We'll take a guess, Charlie, and try to give an equivalent amount and call it CDR 3 and LMP 4.
+136:58:00 Duke: Rog. Thank you very much. [Long pause.]
+136:58:25 Armstrong: And, Charlie, you want the fans cycled, I think that's right?
+136:58:30 Duke: That's affirmative, and we'd like you to disable quads Charlie and Delta. Over.
+136:58:38 Armstrong: Okay. Charlie and Delta. [Long pause.]
+As a result of disabling quads C and D, the crew will use only A and B. This will mean that any thruster firing will be uncoupled (i.e. not matched by an opposite thruster) and thus a small amount of translation will result, which will perturb their trajectory very slightly. However, it does mean that rotational control will be more gentle as they look to settle the spacecraft's attitude prior to beginning the PTC roll. Since quad A has the least propellant, as Mike is about to report, balancing the propellant usage is not the reason.
+136:59:09 Duke: Apollo 11, Houston. If it's convenient, we'd like to go through your onboard readout. Over. [Pause.]
+136:59:21 Collins: Of what?
+136:59:22 Duke: Oh, excuse me. It's on the Flight Plan, 3-102. We'd like Batts and RCS. Over.
+136:59:33 Collins: Stand by.
+Comm break.
+137:00:38 Collins: Ready to copy, Houston?
+137:00:40 Duke: Roger. Go ahead.
+137:00:44 Collins: Batt Charlie 37.0, Pyro Batt A 37.0, Batt B 37.0. RCS; 55, 65, 64, and 62. Over.
+137:00:59 Duke: Roger. We copy all that. Thank you much.
+137:01:05 Collins: Roger.
+Very long comm break.
+More photos are taken of the receding Moon. Distances and times were calculated by measurement of the Moon's image on the scan and comparing it to the full width of the photo.
+AS11-38-5676 - Moon at about 8,550 km or 4,600 nautical miles. Photograph taken at approximately 137:01:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5677 - Moon at about 8,650 km or 4,670 nautical miles. Photograph taken at approximately 137:03:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5678 - Moon at about 8,650 km or 4,670 nautical miles. Photograph taken at approximately 137:03:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5679 - Moon at about 8,800 km or 4,750 nautical miles. Photograph taken at approximately 137:04:00. North is lower left. Mare Crisium is lower left of centre of lunar disc. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+137:17:01 Duke: Apollo 11, Houston. A couple of questions for the Moonwalkers, if you got a second. Over.
+137:17:09 Armstrong: Go ahead.
+137:17:11 Duke: Rog, Neil. We're seeing some temperature rises on the Passive Seismic Experiment that are a little higher than normal and were wondering if you could verify the deployed position. We understand it's about 40 feet from the LM in the eleven o'clock position. Over. [Pause.]
+137:17:37 Armstrong: No. It's about in the nine or nine-thirty position, and I'd say it's about 50 or 60 feet.
+Armstrong's estimate is a little short, which is unsurprising due to the difficulty of judging distances on the lunar surface.
+Image of the Apollo 11 landing site taken after 2009 by Lunar Reconnaissance Orbiter from an altitude of 24 kilometres. PSEP is the Passive Seismic Experiment Package. Image credits: NASA Goddard/Arizona State University
+As indicated by this LROC photograph, the distance between the PSE and the LM body is half of the scale bar which shows that the seismometer was emplaced about 25 metres [82 feet] from the main body of the LM descent stage, at the 9.30 o'clock position, where the LM's straight forward orientation is 12 o'clock.
+137:17:50 Duke: Roger. Copy. Also, did you notice - was there any indication of any dust cloud as you lifted off? Over.
+137:18:02 Armstrong: Not very much. There was quite a bit of Kapton and parts of the LM that went out in all directions, usually for great distances, as far as I can tell. But I don't remember seeing anything of a dust cloud to speak of.
+137:18:21 Duke: Roger. Understand all you could see was parts of the LM going out. What was your - your first - first comment? Over.
+137:18:35 Armstrong: I don't remember. Just could see Kapton and other parts of the LM staging scattering all around the area for great distances, but I didn't see much dust.
+137:18:50 Duke: Rog. Thank you very much.
+Comm break.
+Unintended coverage by dust kicked up at lift-off could account for the seismometer absorbing more heat than intended. Apollo 11 did not have film coverage of the moment of lift-off but this film, taken two years later of the Apollo 15 lunar lift-off, does show that the descent stage formed an effective shield to keep the rocket blast from stirring up the surface dust. It also shows the Kapton foil insulation flying away form the descent stage on ballistic paths.
+137:21:09 Collins: Houston, Apollo 11. Could you keep me honest on the lithium hydroxide changes? When do you have the next one scheduled for?
+137:21:16 Duke: Stand by. [Long pause.]
+137:22:09 Duke: Apollo 11, Houston. Mike, on that canister, we had you due to change one at 133 before TEI, and it's on page 3-99. The next one we got is at 147. Over.
+137:22:30 Collins: Okay.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+137:25:31 Duke: Hello, Apollo 11, Houston. We'd like to extend our damping period for another 5 minutes. Let the rates get way down. Over.
+137:25:42 Armstrong: 11. Roger.
+Long comm break.
+The crew are preparing to impart a rolling motion to the spacecraft to even out temperatures across its surfaces. This is the Passive Thermal Control or PTC mode. Before they begin the roll, they want the CSM to be as still as possible, minimising as many unwanted rotations. This is thought to help the subsequent roll to be stable and allow the crew to sleep without having to be awakened to restart it.
+This is Apollo Control at 137 hours, 27 minutes. At this time, Apollo 11 is traveling at a speed of about 4,982 feet per second [1,519 m/s]. At - Is about 5,900 nautical miles [10,900 km] from the Moon, and about 198,900 nautical miles [368,400] from Earth. A short while ago, you heard Neil Armstrong make a few descriptive comments of the scene on the lunar surface at the time the LM ascent stage lifted off. Armstrong reported seeing very little dust, but quite a bit of debris from the LM. He referred to the Kapton, which is a plastic-like insulation material generally silver or gold in color which is found on the outside surfaces of the LM. And, we also had a report at 136 hours, 54 minutes, about 40 minutes or so ago that the LM guidance computer had finally stopped putting out any data, and that was about 7 hours, 13 minutes after the primary guidance system was deprived of the coolant in a test of how long the system would continue to operate without coolant. The platform apparently began to become unusable after about 4 hours, and the computer itself finally gave up after about 7 hours and 13 minutes. Both items going considerably - considerably longer than had previously been predicted. The Lunar Module ascent stage still in lunar orbit. We're continuing to get data from it. All other systems appear to be functioning well at this time. The LM orbit we show as currently 64.4 nautical miles [119.3 km] for height of apocynthion, 54.4 nautical miles [100.7 km] for pericynthion. And the LM is in its 23rd revolution, and here's a call to the crew.
+Strictly speaking the LM hasn't completed 22 revolutions of the Moon because it spent 11 of the CSM's orbits sitting on the surface.
+137:30:12 Collins: Houston, Apollo 11.
+137:30:14 Duke: Go ahead, 11. Over.
+137:30:19 Collins: Roger, Charlie. Like to bring you up to date on our chlorination status. In compartment B4, we have one, two, three, four, five, six, seven - correction, we have eight pockets for chlorine and buffer ampules, of which - let me correct that. We have seven pockets, of which one is empty and always has been empty, leaving six remaining. On the other side over there in B7, we have another container with seven pockets, so we have a total of seven plus six, and those are filled with six chlorines and seven buffers. Now, I've been using one chlorine and one buffer per day which, at this point in time, prior to this chlorination I'm about to do, leaves me one chlorine and two buffers. Seems to me I'm one chlorine short, and that being the case, I'd like to ask your advice on postponing this chlorination using the last container until some later date, like maybe tomorrow. Over.
+137:31:41 Duke: Rog. We copy, Mike. Stand by.
+137:31:46 Collins: Okay.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+137:37:21 Duke: Hello, Apollo 11. Houston. Check in A1, Mike, and see what you can find in there. Over.
+137:37:34 Duke: We think you might have some more chlorine up in A1. Over. [Long pause.]
+137:38:25 Duke: Hello, Apollo 11. Houston. [Long pause.]
+137:38:42 Collins: Houston, Apollo 11. [Pause.]
+137:38:50 Duke: Apollo 11, Houston. Do you read? You're breaking up. Over.
+137:38:57 Collins: Roger. Reading [garble].
+137:39:02 Duke: Roger, 11. You're breaking up. Mike, please look in compartment A1. We think there might be some more chlorine up there. Over.
+Comm break.
+137:40:21 Collins: Eureka!
+137:40:26 Duke: 11, Houston. Reading you about one-by. Over.
+Comm break.
+Mike has evidently found more chlorine ampules for sterilising their water supply. 'Eureka' is derived from a Greek word meaning 'I have found it.' It is often attributed to the ancient Greek polymath Archimedes who is said to have run naked from his bath shouting it as he had realised he could use the displacement of water as a way of determining volume. This would be combined with a measurement of weight to check the purity of gold.
+137:41:43 Duke: 11, Houston. We're having a downlink problem, the reason we can't read you. We're switching sites. Stand by. [Long pause.]
+137:42:02 Duke: Hello, Apollo 11. Houston. How do you read now? Over. [Pause.]
+137:42:09 Collins: Fine.
+137:42:10 Duke: Rog. You're five-by now, too, Mike. Thank you much. Did you copy that about A1 on that chlorine?
+137:42:20 Collins: Eureka!
+137:42:21 Duke: How about that, sports fans!
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+137:45:26 Duke: Apollo 11, Houston. We're having a little trouble getting the yaw rate damped out to appropriate value. We'd like y'all to be quiet like mice for a couple of minutes and let's see if that'll help it out. Over.
+137:45:45 Duke: 11, Houston. You did great work there. We're ready to spin it up. Over. [Long pause.]
+137:46:30 Duke: 11, Houston. Did you copy? Over. [Pause.]
+137:46:43 Armstrong: Yeah. We read you, Charlie. Would you stand by a minute?
+137:46:46 Duke: Rog. No hurry. [Long pause.]
+137:47:18 Duke: 11, Houston. Shift change time, here. White Team bids you good night. We'll see you tomorrow. Over.
+137:47:27 Armstrong: Good night, Charlie. Thank you.
+137:47:30 Aldrin: Good night, Charlie. Thank you.
+137:47:33 Collins: Adios.
+137:47:35 Duke: Adios. Thanks again for a great show, you guys.
+137:47:41 Collins: Thanks for a great job down there.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 137 hours, 52 minutes. Apollo 11 crew has signed off for the night, starting a long, well-deserved rest period. Duration of the rest period is programmed for 10 hours, however, the wake up time is not critical. It's very likely we'll let them sleep 'til - 'til they wake up of their own accord. At this time Columbia is 7,045 nautical miles [13,047 km] away from the Moon, headed toward home at a velocity of 4,868 feet per second [1,484 m/s].
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+Flight Plan, page 3-103.
+This is Apollo Control at 138 hours, 2 minutes. CapCom Owen Garriott has just put in a call to the crew and is passing up some antenna information to them. Here's that conversation.
+138:01:52 Garriott: Apollo 11, Houston. Over.
+Owen Garriott of the Maroon Team has taken over as CapCom from Charlie Duke of the White Team.
+138:01:59 Collins: Good morning, Owen.
+138:02:01 Garriott: Howdy there, Mike. We're ready to go ahead and have you switch to your Omni positions for your sleep period, and we would like the following High Gain switch positions: your High Gain antenna in Manual, beam width Wide, pitch is minus 50, and yaw is a plus 270. And just follow the Flight Plan for remaining Comm configuration. Over.
+138:02:37 Collins: Roger that.
+138:02:48 Collins: You Purple people keep funny hours.
+138:02:52 Garriott: Your Comm is pretty weak at this point, Mike. Please say again.
+138:02:59 Collins: Roger. Disregard. [Long pause.]
+Journal Reader Rob Bailey points out that Milt Windler named his team Maroon in honor of the colors of his Alma Mater, Virginia Tech. Mike Collins is having fun with them calling them 'purple people.'
+This is Apollo Control. Ten minutes ago we logged what we expect to be our last contact with Eagle in lunar orbit. That coming at 137 hours, 55 minutes Elapsed Time. At that time the battery power fell below the level where the secondary guidance system could hold the attitude of the vehicle within the steerable antenna limits. We do not expect to establish contact with Eagle again. We'll continue to stand by here live. There may be a little bit more conversation before the crew turns in for the night.
+138:03:39 Collins: Houston, Apollo 11.
+138:03:41 Garriott: Go ahead, 11.
+138:03:56 Collins: It's on the way now.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+138:06:20 Garriott: Apollo 11, Houston. We'd like for you to go ahead and put your S-band antenna Omni to Omni and Omni B. Over.
+Comm break.
+138:07:51 Garriott: Apollo 11, Houston. How do you read me through Honeysuckle now? Over. [Pause.]
+138:08:02 Collins: You're loud and clear, Owen.
+138:08:03 Garriott: Very good. Reading you better now. And did you copy we'd appreciate going S-band Omni and Omni B at this time? Over.
+138:08:14 Collins: That's the configuration we're in.
+138:08:17 Garriott: Okay. Thank you.
+138:08:24 Collins: I'll tell you. Purple people keep funny hours.
+Very long comm break.
+This is Apollo Control at 138 hours, 11 minutes. We do not intend to contact the crew during this rest period again. We'll take this line down now and come back up if there is further conversation. This is Mission Control, Houston.
+Four more photographs are taken on magazine O of the receding Moon. Distance and time have been calculated based on image size measurements and triangulation. In these images, we are seeing more of the lunar near side and less of the far side.
+AS11-38-5680 - Moon at about 19,400 km or 10,450 nautical miles. Photograph taken at approximately 139:05:00. North is lower left. The near-side maria, (Crisium, Fecunditatis, Nectaris, Tranquillitatis and Serenitatis) are visible towards the terminator. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5681 - Moon at about 19,400 km or 10,450 nautical miles. Photograph taken at approximately 139:05:00. North is lower left. The near-side maria, (Crisium, Fecunditatis, Nectaris, Tranquillitatis and Serenitatis) are visible towards the terminator. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5682 - Moon at about 19,400 km or 10,450 nautical miles. Photograph taken at approximately 139:05:00. North is lower left. The near-side maria, (Crisium, Fecunditatis, Nectaris, Tranquillitatis and Serenitatis) are visible towards the terminator. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-38-5683 - Moon at about 19,400 km or 10,450 nautical miles. Photograph taken at approximately 139:05:00. North is lower left. The near-side maria, (Crisium, Fecunditatis, Nectaris, Tranquillitatis and Serenitatis) are visible towards the terminator. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Now safely coasting towards Earth, the exhausted crew of Apollo 11 can finally sleep soundly and will remain out of radio contact for almost 10 hours. Mission Control continues to monitor the spacecraft systems, of course, and the astronauts can be woken up if the situation requires it.
+Day 6, part 3: Boarding Columbia and LM Jettison
+Journal Home Page
+Day 7, part 1: Leaving the Lunar Sphere of Influence

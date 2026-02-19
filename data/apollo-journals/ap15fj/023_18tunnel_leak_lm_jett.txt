@@ -1,0 +1,1174 @@
+Apollo 15 Flight Journal - Day 8, part 3: Leaking Tunnel and Jettison of the LM
+Day 8, part 2: Rendezvous and Docking
+Journal Home Page
+Day 9, part 1: Orbital Science and Crew Rest
+Apollo 15
+Day 8, part 3: Leaking Tunnel and Jettison of the LM
+Corrected Transcript and Commentary Copyright © 1998-2025 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2025-08-06
+Index to events
+Final rendezvous burn computations
+173:44:00 GET
+Lunar Module impact PAD
+173:47:58 GET
+Camera photo PAD
+173:50:45 GET
+LM jettison details
+175:48:44 GET
+Start of LGC plugs episode
+177:04:07 GET
+Go for LM jettison pyro arm
+177:22:02 GET
+Back out of LM jettison pyro arm
+177:31:32 GET
+Instruction to recheck hatch seals
+177:46:54 GET
+Instruction for tunnel vent
+178:05:58 GET
+LM jettison
+179:30:17 GET
+Scott queries P41 manoeuvre
+179:32:15 GET
+Manual Separation burn
+179:48:07 GET
+TEI-58 contingency manoeuvre PAD
+180:00:08 GET
+Slayton instructs crew to take Seconal
+180:01:47 GET
+Instruction for Irwin to wear biomed
+181:16:56 GET
+The Apollo 15 CSM, Endeavour and the ascent stage of the Lunar Module Falcon have just been reunited 110 kilometres above the Moon. Immediately after initial capture, Al follows the docking checklist reproduced in the Flight Plan.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+173:42:27 Worden: Dave, you want to verify that the dump valve's in Auto?
+173:42:33 Mitchell: Roger. Standby one. [Pause.]
+173:42:39 Scott: Verify.
+The overhead dump valve, built into the LM's overhead hatch, is in its automatic position. This position holds the valve closed until the pressure across it rises to about 37.2 kPa (5.4 psi). Al switches on the CM cabin fans to start catching particles of lunar dust if they migrate from the LM once the tunnel is open. Then he begins equalising the pressure between the two spacecraft.
+173:42:40 Worden: Okay, I'll go ahead and start equalizing the pressure.
+173:42:41 Scott: Okay, good. [Long pause.]
+173:43:12 Mitchell: And, Falcon; Flight - or rather, Falcon, Houston. FIDO's on pins and needles for your TPI solution if you can get a moment to read it to us.
+173:43:23 Scott: Rog, we'll do it right now. [Long pause.]
+173:43:38 Scott: Okay, Houston. I assume that you got the recycle before we went around the corner there.
+173:43:43 Mitchell: That's affirm.
+173:43:47 Scott: Okay, on the final [rendezvous burn] comp[utation], I'll read PGNS, AGS and CMC, if you are ready to copy them, in that order, in local-vertical coordinates.
+The three computers involved in this computation are:
+LGC - Lunar module Guidance Computer. This, as its name suggests, is in the LM and is the computer part of the PGNS - Primary Guidance & Navigation System. For verbal brevity, crews simply referred to this guidance system as "pings".
+AGS - Abort Guidance System. This is the backup system to the PGNS and crews simply referred to it as the "aggs". There is a more detailed description of it in Day 5: Preparations for Landing.
+CMC - Command Module Computer. As its name states, this is in the CM and is the computer part of the spacecraft's G&N system.
+The two primary computers are both examples of the AGC (Apollo Guidance Computer). While the machines consist of essentially identical hardware, their programming and input/output to the two spacecraft are very different. The AGC is described in Phill Parker's essay, The Apollo On-board Computers.
+173:43:56 Mitchell: Roger. Ready.
+173:44:00 Scott: Okay. For the PGNS: plus 70.3, plus 5.9, minus 17.7. For the AGS: plus 70.4, plus 5.9, minus 19.1. The CMC: minus 69.1, minus 6.1, plus 16.1. We burned the PGNS on time, and we had about a 4-foot-per-second overburn on the APS which we trimmed out to 2/10ths.
+The three computers were working on calculating the size of the final ascent engine burn which finally brought Falcon up to Endeavour. This was the TPI, or Terminal Phase Initiate burn. Each of them worked it out, in the case of the CMC using different sources of information, and each came up with slightly different results. The figures represent velocities along three axes in feet per second. That these velocities were similar across all three systems is a good check that there was good redundancy built into the procedure. Even with a double computer failure, the two spacecraft would still have had a successful rendezvous. Since all of this manoeuvring took place behind the Moon, this is the first chance for a bunch of interested flight dynamics guys in Houston to catch up with what happened.
+173:44:41 Mitchell: Copy. [Pause.]
+173:44:47 Scott: Okay, the residuals were - for the PGNS after the trim - were plus .2, plus .2, and minus .4.
+The TPI burn had been made based on the required velocity change as determined by the PGNS. As is always the case, the burn didn't achieve the computed velocities exactly. These residuals are the differences between the velocities called for by the PGNS and those actually achieved by the engine, and are in feet per second.
+173:44:56 Mitchell: Copy. And assume midcourses were...
+173:45:02 Scott: Rog. We'll give you those too. [Long pause.]
+173:45:27 Scott: Okay, and I'll give you the same answers for midcourse 1 if you're ready to copy, Houston.
+173:45:31 Mitchell: Okay.
+173:45:36 Scott: Okay, PGNS was minus 1.1, 0, and minus 1.1. AGS was minus 1.5, 0, and minus 3.0. CS - CSM, plus 1.5, minus .2, plus 1.9. And we burned the PGNS solution to 0, .1 and .2.
+Two midcourse corrections were made during the coast from the TPI burn to Endeavour.
+173:46:03 Mitchell: Thank you, Dave, that's fine. Appreciate it.
+173:46:07 Falcon: Okay, you want midcourse 2?
+173:46:11 Mitchell: No, we'll take your PGNS - we'll take all the rest of them; we'll get them later.
+173:46:17 Scott: Okay, fine. It was pretty smooth all the way, everything looked nice, and the data went in very well, and I thought it was a super rendezvous.
+173:46:27 Mitchell: Very good. Getting home's the main thing.
+173:46:32 Scott: Yeah, but you know, these systems are just magnificent.
+173:46:36 Mitchell: Yeah, they sure are, Dave. Okay, we suggest you press right along with your transfer and cleaning up.
+Ed Mitchell, the CapCom knows this from personal experience. He flew Jim's seat on Apollo 14.
+173:46:46 Scott: Rog. We're in work right now.
+173:46:48 Mitchell: And whenever Jim's ready to do the targeting, we'll read him a PAD on that.
+173:46:56 Scott: Okay, stand by, we'll give you a call. [Long pause.]
+This is Apollo Control at 173 hours, 47 minutes. The docked Falcon and Endeavour are in orbit, 64.1 by 53.8 nautical miles [118.7 by 99.6 km].
+173:47:42 Irwin: Okay, Ed. I'm ready to copy the impact PAD.
+173:47:49 Mitchell: Okay, understand you're ready for the LM impact PAD, Jim; is that correct?
+173:47:56 Irwin: Yes, if that's what you have to pass.
+173:47:58 Mitchell: Okay, it's a P30 PAD. 179:06:22.50; Noun 81s, minus 0121.9, plus 0056.0, plus 0148.8; 0071.1, minus 0037.1, 0200.3; 1:27; 047, 174. The rest is NA. And the LM weight: is 5444. [Pause.]
+This PAD provides the Lunar Module's computer with the data it needs to execute a burn that takes it out of orbit and impact at a predesignated point on Palus Putredinus. The PAD is interpreted as follows:
+Time of ignition, TIG (Noun 33): 179 hours, 6 minutes, 22.50 seconds.
+Change in velocity (Noun 81), fps (m/s): x -121.9, (-37.2); y +56.0, (+17.1); z, +148.8 (+45.4). These are expressed with respect to the local vertical.
+HA, expected apocynthion of resulting orbit: 71.1 nautical miles (131.7 km).
+HP, expected pericynthion of resulting orbit: -37.1 nautical miles (-68.7 km). Note that the pericynthion is a minus value, i.e. below the surface of the Moon. Of course, the ascent stage will impact the Moon because of this.
+Delta-VR (the resultant change in velocity): +200.3 fps (+61.1 m/s).
+Burn duration or burn time: 1 minute, 27 seconds.
+FDAI display, roll: 47°.
+FDAI display, pitch: 174°.
+Additional notes mention that further items in the PAD form are not applicable in this case, and that the weight (or mass) of the LM is 5,444 pounds (2,469 kg).
+173:48:52 Irwin: Roger, Readback for P30 PAD. 179:06:22.50; minus 0121.9, plus 0056.0, plus 0148.8; 0071.1, minus 0037.1, 0200.3; 1:27; 47, 174. And LM weight is 5444.
+173:49:22 Mitchell: Good readback, Jim. [Long pause.]
+173:49:43 Mitchell: And, Falcon; Houston. The computer's yours.
+173:49:51 Irwin: Rog.
+173:49:53 Mitchell: And we want to leave it in Data, of course. [Pause.]
+173:50:01 Scott: Okay, we'll leave it in Data. It's all yours now. [Long pause.]
+By leaving the computer in Data mode, it can accept data via the uplink from Earth and essentially be controlled from Earth.
+173:50:27 Mitchell: And, Endeavour; Houston. Before you get LOS and get too busy with the transfer, I need to give you a camera photo PAD for the next pass. [Pause.]
+173:50:41 Worden: Okay. Go ahead, Houston.
+173:50:45 Mitchell: Okay, this is the one at 174:50, Al. T-start - it's for the Map Camera - T-start, 174:50:04; T-stop, 175:49:36. Your Image Motion BP plus 4 at T-start, and BP at 175:30:00. And your Pan Camera photo PAD, to be copied at 175:20. T-start, 175:34:32; T-stop is 36:52. [Pause.]
+The Mapping Camera will be operated for the entire period of the next near-side pass while the Panoramic Camera operates for just 2½ minutes as Endeavour passes over the landing site.
+173:51:42 Worden: Roger, Ed. Understand Mapping Camera photo PAD is T-start, 174:50:04; T-stop, 175:49:26. And at T-start, you want Image Motion to go barber pole plus 4.
+173:51:59 Mitchell: That's affirm.
+173:52:00 Worden: And, at 175:30, understand you want Image Motion to go to barber pole.
+173:52:07 Mitchell: That's affirm, Al. And the correct time for the T-stop on that was 175:49:36. [Pause.]
+173:52:20 Worden: Understand, 49:36. [Long pause.]
+173:52:37 Worden: And the Pan Camera photo PAD is T-start, 175:35:42; T-stop, 175:36:52.
+173:52:48 Mitchell: Roger. The T-start, 175:34:32, T-stop is good. [Pause.]
+173:53:05 Worden: Understand, T-start is 175:34:32.
+173:53:08 Mitchell: That's a good readback now, Al.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+173:55:12 Worden: Yeah, it's pressurized, Jim. Can you read me? Okay, tunnel's pressurized and I'm up in it now, checking the latching.
+Comm break.
+The tunnel is pressurised from the air in the Command Module. The Tunnel Vent valve is set so that the pressure meter beside the forward hatch reads the pressure difference across the hatch. Al then opens the Pressure Equalization valve in the forward hatch for a while. On closing it, he watches to see if the pressure across the hatch changes. This is a check to see if there are any leaks in the tunnel area. Having made sure there is enough pressure in the CM cabin, he reopens the Pressure Equalization valve until the pressure across the hatch is zero, then he can remove the hatch, check the docking latches and begin removing the docking assembly.
+The CSM Systems Checklist, page 2-5, includes a warning that the docking probe may be hot after its extended period in lunar orbit. When it, and the drogue is removed, Al puts them out of the way. Later, when Dave is ready for them, they will be transferred to make room in the CM cabin, and ultimately jettisoned with the Lunar Module.
+The cabin pressures are equalized, now.
+173:57:41 Scott: Hello, Houston. The Falcon is back on its roost and going to sleep.
+173:57:47 Mitchell: Very good. [Pause.]
+173:57:54 Scott: She's all yours now, Ed. We're going to go off comm and put her to bed.
+173:57:59 Mitchell: Okay, one item, Dave. You're not marking these bags before you head them down, are you.
+173:58:10 Scott: The bags are all numbered. We've got the collection bags in the cover bags with the proper numbers on them, and that was all we're planning to do.
+173:58:20 Mitchell: Okay, you're not helping him with the stowage when you pass them in, are you? I would change your Flight Plan if you did; otherwise, I'll just give it to him. [Pause.]
+173:58:33 Scott: Well, I guess the best thing would be to go ahead and give it to him, because we'll just pass them over then.
+173:58:39 Mitchell: Okay, I've given them to him already. Thank you.
+173:58:43 Scott: Yeah, that fine. He - he's got a much better handle on the stowage over there anyway than we do.
+Long comm break.
+This is Apollo Control at 173 hours, 59 minutes. Dave Scott and Jim Irwin are powering down Falcon now. We'll be off communications for some time. They'll power down the LM and transfer the equipment and the samples into the Command Module.
+As Al Worden and Ed Mitchell continue conversing, Dave and Jim use the vacuum cleaner sent over from the CM to dust off their suits. A version of the Flight Plan issued five weeks before launch from Earth calls for the crew to take their suits off now. However, less than four weeks before the launch of Apollo 15, cosmonauts Viktor Patsayev, Georgi Dobrovolsky and Vladislav Volkov were found dead in their Soyuz 11 re-entry module after a successful three-week mission aboard Salyut 1 space station. The jarring of the craft by its explosive separation from the orbital and service modules was believed to have opened a repressurisation valve, venting the cabin's air and eventually killing the crew, who did not wear their suits during re-entry. This had repercussions in America where program managers feared a similar event when pyrotechnics would be used to jettison the LM and in the final version of the Flight Plan, the crew stay suited. The attitude of Apollo managers to the Soyuz situation is shown in the following exchange taken from a press briefing two day before the launch of Apollo 15.
+Jim Surrell, from 1971 premission press briefing: "Jim Surrell, KBSM News Los Angeles. Has the Soyuz 11 accident caused any, or effected any changes in wearing those environmental suits during the mission?"
+Speaker, from 1971 premission press briefing: "Yes it has. I'll let Col. McDivitt answer that question."
+Jim McDivitt, from 1971 premission press briefing: "After the Soyuz accident occurred, we went back and reviewed all of the procedures and equipment that we have in the spacecraft and other associated equipment that might in any way be affected by the same type of thing, without really knowing what that thing was. It was obviously a loss of pressure somehow, and evaluating each one of these events from lift-off to insertion, insertion to the orbital thing, translunar injection of the lunar trip operations around the Moon and back towards the Earth, and then the re-entry. We found one case were we felt that we could improve the safety of the crew, and this was at the time that we jettison the lunar module. At that time there is a - we sort of blow a ring off the end of the Command Module, and we felt that by leaving the pressure suits on at that period of time blowing the LM and it's associated ring on the Command Module off, that we could improve the crew safety. So we are changing the crew procedures for that particular period of time. It also turns out that we might just have changed the procedure anyway, because there is a limit of the amount of time between the time you can get out of the LM and into the Command Module when you have to jettison the LM. To stow, to take your suits off and stow them is a long and complicated thing, but really it will help the crew procedure time line and also increase their safety so it is a very good thing to do."
+Mark Cramer, from 1971 premission press briefing: "Mark Cramer CBS News. Dr. Berry do you have any comments on reports a few days ago from Moscow, unofficial and unconfirmed reports that one of the Soyuz cosmonauts was still alive, but in bad condition upon landing."
+Dr Chuck Berry, from 1971 premission press briefing: "Well, I've heard those, all I can say is that I have heard that same report, and I don't believe a word of it. I think that your going to hear that kind of story probably, that kind of thing will continue until we have some total exchange of the data, once we look forward to being able to do that in October. We hope that we're able to totally exchange that information and put that sort of conjecture to bed. But I certainly do no believe that in any form. I think we have good evidence that that's not so."
+Unidentified press, from 1971 premission press briefing: "Jim, why is it at this particular event, the jettison of the LM that you feel that there might be a problem. Vibrations or something."
+Jim McDivitt, from 1971 premission press briefing: "No, I didn't say that there might be a problem. It's just that we've evaluated every phase of the mission and we find that there is some increase in - say anytime that the crew has their suit on, it increases their protection against the loss of cabin pressure, but it also has so many, many detrimental effects throughout the mission, so we don't wear the pressure suits throughout the whole flight. When you jettison the LM, you actually fire an explosive device which cuts the front end of the tunnel on the Command Module off. This puts a big structural load on the tunnel. Now, it's more than adequate and we've demonstrated many, many times in qualification tests. But it is a structural event and we try to protect against any structural event like that. We haven't had any trouble in the past with it, we don't expect any trouble in the future, but it adds that ninth or tenth place of safety that we're always looking for."
+Journal reader George Giusti adds - "I went back to my newspaper clippings and contemporaneous notes taken during the Apollo 15 mission and discovered [this]. The Sunday, July 25, 1971 of the San Francisco Examiner newspaper states on page 18 of the 'datebook' section: 'In light of ... the Soviet tragedy, precautions have been unusually tight. Flight safety officials, for instance, recommend that the astronauts wear spacesuits when jettisoning their Moon-landing craft. The Flight Plan had called for the astronauts to make the maneuver in 'shirtsleeves''."
+LM Flight Plan page 3-280.
+CSM Flight Plan page 3-281.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+174:02:20 Mitchell: Endeavour, Houston.
+174:02:25 Worden: Houston, Endeavour. Go ahead.
+174:02:27 Mitchell: Al, we observed when you were in P79, just before the docking, that you got a POO DOO. Do you have any words on that. [Pause.]
+174:02:39 Worden: No, I don't, Ed. [Long pause.]
+174:02:55 Mitchell: And, Endeavour; Houston. We're going to have to update your Flight Plan with a couple of items before you go around the corner, whenever you can get around to it.
+174:03:07 Worden: Okay, Ed, let's go ahead and do them now.
+174:03:11 Mitchell: Roger. And, Al, give us a Verb 74 when I'm talking to you.
+174:03:22 Worden: Rog. Verb 74.
+Verb 74 begins dumping the contents of the computer's erasable memory to Earth via the S-band downlink.
+174:03:24 Mitchell: Okay, the first Flight Plan update is the - at 174:12. [Pause.]
+174:03:37 Worden: Okay, go ahead.
+174:03:39 Mitchell: Okay, where it says the "Mapping Camera Laser Experiment Covers, Open," et cetera, et cetera. Delete that.
+174:03:50 Worden: Rog. Go ahead.
+174:03:50 Mitchell: And the second line after that, the "Map Camera Track," et cetera, et cetera; delete that, we're going to move those to 174:40. [Pause.]
+174:04:11 Worden: Okay, understand.
+174:04:13 Mitchell: Okay, down a little bit in the next group of words where it says "Laser Altimeter, On" at 174:17; we're going to scratch that. [Pause.]
+174:04:27 Worden: Okay, scratch Laser Altimeter.
+174:04:30 Mitchell: We're going to move that to 174:49. [Pause.]
+174:04:42 Worden: Roger. Move to 174:49.
+174:04:45 Mitchell: Okay, and at 175:49, going to add a - another Laser Altimeter, Off. [Pause.]
+174:05:07 Worden: Rog, understand. At 175:49, Laser Altimeter, Off.
+174:05:13 Mitchell: Okay, the next item is at 1 - Stand by on that a minute. And at 175:54 [means 175:58], delete the Laser Altimeter, Off. [Long pause.]
+174:05:37 Worden: Understand. At 175:58, delete Laser Altimeter, Off.
+174:05:46 Mitchell: That's affirm.
+174:05:48 Worden: Okay.
+174:05:49 Mitchell: And at 176:02, the next page, right after all those words, we want to add in the "Map Camera" - that's about 176:02 - "Map Camera Laser Experiment Covers, Close, Talkback's barberpole slash gray, then Off." [Long pause.]
+174:06:25 Mitchell: Looks like that item came down there about 4 minutes later, Al. [Pause.]
+174:06:35 Worden: Roger that, I see it now.
+174:06:38 Mitchell: Yeah, I just now saw it, too. I presume they want it moved up there a few minutes. And at 178:02; Oh, sorry about that - at 177:56, put in a "Logic Power, two, Off." [Long pause.]
+174:07:15 Worden: Okay, I understand Logic Power, both of them, Off, at 177:56.
+174:07:20 Mitchell: Rog. Next page, 178:02, "Laser Altimeter, On." Delete. [Long pause.]
+174:07:40 Worden: Delete "Laser Altimeter, On," at 178:02.
+174:07:44 Mitchell: Okay. And at 179:40, following page, delete "Laser Altimeter, Off" - and about 179:41, delete those two lines, "Map Camera Laser Experiment Covers" and "Logic Power, two, Off." Delete those.
+174:08:02 Worden: Okay. Delete the three lines at 179:40, "Laser Altimeter," "Mapping Camera Covers," and "Logic Power, Off." Delete those three lines.
+174:08:12 Mitchell: Okay. I think we got them all that time, Al. Thank you.
+174:08:15 Worden: Okay.
+Comm break.
+These changes reflect the failure of the Laser Altimeter.
+174:09:17 Mitchell: And, Endeavour; Houston. If you can holler at Dave and Jim, remind them that - to get their radiation meters out of their pockets. We'd still like those readings we didn't get earlier.
+174:09:34 Worden: Roger, Houston.
+Comm break.
+174:10:48 Mitchell: Okay, Endeavour; Houston. Can we have Auto on the High Gain [Antenna]? And request Falcon to go to Aft Omni as he goes over the hill, or after he's over the hill.
+174:11:02 Worden: Okay. You want Falcon to go to Aft Omni.
+After inhibiting those thruster jets that might impinge upon the SIM bay, Al manoeuvres Endeavour into the plus-X forward SIM bay attitude in preparation for restarting the experiments within. This attitude keeps the pointy end of the spacecraft facing into the direction of travel, though with the ascent stage of the LM attached to the apex of the Command Module, it is probably better to describe it as travelling LM first. Since the spacecraft is now being rotated by P20 in orb-rate, the manual direction setting of the High Gain Antenna (HGA) no longer provides a high quality link and Al is being asked to switch it to its automatic tracking mode where the antenna will seek out and continue pointing to Earth. Mission Control also figure that when the combined spacecraft re-emerge from behind the Moon, the LM's aft omnidirectional antenna will be best placed for communication.
+174:11:04 Mitchell: Yeah, at LOS. And you're about 3 and a half minutes from LOS now.
+174:11:16 Worden: Okay, I'm in Auto and they're going to go to Aft Omni at LOS.
+174:11:20 Mitchell: That's affirm. [Pause.] And ask them when they do that to verify Track Mode, Slew.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+174:13:53 Mitchell: And, Endeavour, we're about 40 seconds from LOS; see you on the other side.
+174:14:00 Worden: Okay, Ed. Thanks much.
+Very long comm break.
+This is Apollo Control at 174 hours, 14 minutes. We've had Loss Of Signal on both spacecraft as they go behind the Moon, and on the 49th revolution for Endeavour. As we acquired Falcon on this pass, Dave Scott reported a good Terminal Phase Initiate burn. He reported he had performed two small midcourse corrections, and at that time could see the Command Module. The braking in the rendezvous went well. Al Worden brought the television up a few minutes early. We lost the picture for a while when the High Gain Antenna went to Wide Beam while Worden was maneuvering Endeavour for its inspection by Dave Scott and Jim Irwin. The picture came back in time for the docking. We copied the time of hard dock at 173 hours, 36 minutes, 27 seconds. We're showing the spacecraft in a lunar orbit of 64.1 by 53.8 nautical miles [118.7 by 99.6 km], with an orbital period of 1 hour, 58 minutes, 33 seconds. The crew of Falcon has powered down the Lunar Module and is preparing to transfer the lunar samples into the Command Module. We'll reacquire both spacecraft in 43 minutes from now. At 174 hours, 16 minutes; this is Mission Control, Houston.
+As Apollo 15 disappears behind the Moon, Al switches on the Gamma-ray Spectrometer, X-ray Spectrometer and the Alpha Particle Spectrometer. The crew transfer all required items from the LM aided by a list in the Flight Plan that includes notes on where each item should be stored. The list includes film magazines, bagged rock and soil samples, core tubes including the very long deep core, food, used urine and fecal bags, and one of the OPS packages from the surface.
+The OPS (Oxygen Purge System) is needed by Al during Apollo 15's coast home to Earth, when he will go outside the spacecraft to the SIM bay and retrieve film magazines from the cameras there. The OPS contains a high pressure oxygen bottle which can provide emergency air to a suited crewman in case a leak opens up in his suit. Both Dave and Jim carried one each on the surface throughout their EVAs in case of problems and have brought one back with them for Al.
+LM Flight Plan page 3-282.
+CSM Flight Plan page 3-283.
+At 174:32, the Flight Plan includes a realignment of Endeavour's guidance platform, the ubiquitous P52 procedure. Al does not carry out this particular realignment and will inform Mission Control of this after AOS (Acquisition Of Signal). The next P52 occurs at 193:52 GET.
+Rev 50 begins at about 174:37.
+When Apollo 15 entered lunar orbit on 29 July 1971, four days ago, the spacecraft crossed the terminator roughly midway through a far-side pass. Now the Moon is approaching full as seen from Earth and they fly over the terminator not long before AOS. As they approach the terminator, Al opens the covers for the Mapping Camera, extends it out on its track so that the Stellar Camera section can clear its field of view, then he starts the camera operating for what is meant to be the duration of this sunlit pass. In the event, at 175:26:00, about 24 minutes prior to T-stop, Mission Control will as Al to retract the Mapping Camera while it is still operating.
+This sequence of Mapping Camera images will run from AS15-M-1852 to 1945. Starting with AS15-M-1853, every tenth image is presented approximately in context with when it was taken.
+AS15-M-1853 - Metric Camera image of farside craters Neujmin and Waterman, southwest of Tsiolkovsky. Image taken at about 174:51. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+AS15-M-1863 - Metric Camera image of farside crater Alden. Image taken at about 174:55. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 174 hours, 58 minutes. We're a little over 30 seconds away from Acquisition Of Signal. There will be a news conference at 8:30 am tomorrow on the lunar surface activities conducted by astronaut Jack Schmitt. This news conference will be in the main auditorium. We'll stand by now for first words on this 50th revolution.
+AS15-M-1873 - Metric Camera image of crater Sklodowska. Image taken at about 174:59. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+LM Flight Plan page 3-284.
+CSM Flight Plan page 3-285.
+175:01:07 Mitchell: Apollo 15, Houston. Standing by.
+175:01:13 Worden: Houston, 15. [We're] still in the midst of doing a little house cleaning.
+175:01:21 Mitchell: Okay; kind of figured that, Al.
+Long comm break.
+AS15-M-1883 - Metric Camera image of crater Houtermans and the landscape south of Mare Smythii. Image taken at about 175:03. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:06:37 Mitchell: Endeavour, Houston. Would you ask Falcon to switch to Forward Omni?
+In the normal docked configuration, with the left-hand rendezvous window of the CM aligned with the docking target on the LM, the front face of the LM ascent stage faces roughly the same direction as the SIM bay. Therefore, since the SIM bay is facing the Moon, the LM windows do too. For most of the near-side pass, the rear of the LM will face Earth and so will the aft omnidirectional antenna. However, At AOS, the base of the LM and the ascent engine face Earth and Mission Control cannot be sure whether the forward or aft antenna will give the best results. Ed Mitchell will eventually ask for the aft antenna.
+175:06:46 Worden: Roger, Houston.
+Worden (onboard): Hey, Jim.
+175:06:48 Mitchell: And, Al. Do you want to verify - verify that you got your Mapping Camera started at 174:50?
+175:06:58 Worden: Roger, Ed. Was 1 minute late on that - on the Mapping Camera, but we got it started at 1 - at 174:51.
+175:07:05 Mitchell: Okay, Al. Thank you.
+Comm break.
+AS15-M-1893 - Metric Camera image of craters Kästner and Gilbert. Image taken at about 175:07. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+175:07:42 Worden (onboard): Hey, go to forward Omni.
+175:07:45 Scott (onboard): Okay.
+175:08:31 Worden: Houston, 15.
+175:08:31 Mitchell: Go ahead, 15.
+175:08:37 Worden: Roger, Ed. One other thing, I didn't get the P52 in.
+175:08:40 Mitchell: Okay, I understand, no P52.
+175:08:45 Worden: Affirm.
+175:08:50 Mitchell: Al, I'll keep track of your cameras for you and give you a warning on the stops and starts.
+175:08:56 Worden: Okay; if you would, that would help. [Long pause.]
+175:09:15 Mitchell: 15, Houston. Give me Reacq and Narrow [on the High Gain Antenna], please.
+175:09:21 Worden: Okay, Reacq and Narrow.
+Long comm break.
+175:10:48 Worden (onboard): ... the pilot valve...
+AS15-M-1903 - Metric Camera image of Mare Spumans including craters Petit, Pomortsev and Hargreaves. Image taken at about 175:11. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+Reacq(uire) is one of the automatic tracking modes of the HGA. A narrow beamwidth will focus the antenna's reception/radiation pattern more tightly, improving the system's signal to noise ratio.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:13:44 Mitchell: 15, Houston. We're having a lot of trouble with the LM comm. Apparently, we're right at the midst of the Omni. Let's try aft again, please. [Pause.]
+175:14:00 Worden: Houston, I was talking with Dave. Say again.
+175:14:03 Mitchell: Roger. Let's try the LM Aft Omni again, please.
+Comm break.
+AS15-M-1913 - Metric Camera image of the northern shore of Mare Fecunditatis including Rimae Apollonius and craters Abbot and Bombelli. Image taken at about 175:16. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:16:21 Mitchell: 15, Houston.
+175:16:26 Worden: Rog, Houston. Go ahead.
+175:16:28 Mitchell: How about the Gamma-ray Gain switch? Step it three times for us, please, Al.
+175:16:35 Worden: Okay, three times.
+Long comm break.
+AS15-M-1923 - Metric Camera image of Sinus Concordiae including crater Lyell. Image taken at about 175:20. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:22:02 Mitchell: Apollo 15, Houston.
+175:22:07 Worden: Houston, 15.
+175:22:09 Mitchell: Al, we're going to change your Mapping Camera procedures. I'm going to call them to you on time rather than read them to you now. So press on, and I'll give you a warning here in about 5 or 6 minutes.
+175:22:23 Worden: Yeah, that'd be fine, Ed. Just give me a couple minute warnings, so I can get over to the camera. As you probably know, the LEB [Lower Equipment Bay] Timer's not working.
+175:22:31 Mitchell: Rog. I'll keep you posted on time; press on.
+175:22:37 Worden: Okay.
+Comm break.
+AS15-M-1933 - Metric Camera image of northern Mare Tranquillitatis including craters Fabbroni, Vitruvius and Beketov. Image taken at about 175:24. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:24:56 Mitchell: Apollo 15, Houston.
+175:25:01 Worden: Go ahead, Houston.
+175:25:02 Mitchell: Al, we observe that your - you've got P00 up instead of P20. Better check your attitude and get her back in P20, and let's see if our camera is pointed at anything.
+P20 is a tracking program which keeps the correct side of the spacecraft, in this case the SIM bay, facing the Moon. P00 is the computer's "do nothing" mode. If the computer has been out of P20 for an extended length of time, the spacecraft will drift away from the desired attitude.
+175:25:15 Worden: Okay. [Long pause.]
+175:25:46 Worden: Houston, 15.
+175:25:48 Mitchell: Go ahead.
+175:25:52 Worden: Rog. That just happened about 15 seconds ago. You must have caught it just as it went to P00. And I don't think we're even out of the deadband.
+175:26:00 Mitchell: Very good. And Al - just stand by. We still got a couple of minutes, yet. What I'm going to do is have you retract the Mapping Camera with it still running and then turn it off. We're running a little test on it. And I'll call that for you in a couple of minutes.
+175:26:20 Worden: Okay.
+Comm break.
+P20 is the orbital rate program which we want for the camera operations in the SIM bay.
+175:28:21 Mitchell: Apollo 15, Houston. Stand by to retract the Mapping Camera.
+175:28:28 Worden: Okay, standing by.
+175:28:31 Mitchell: Mark. Start retracting. [Pause.]
+175:28:38 Worden: Okay; it's retracting now.
+175:28:40 Mitchell: [It will] take about 4 minutes, Al, and I'll call you after that.
+175:28:46 Worden: Okay.
+Long comm break.
+In the time it takes for the Mapping Camera to retract, the Metric Camera takes five images. These have been animated here to show the retraction taking place.
+Animation of the Mapping Camera assembly retracting while still taking images.
+One of these images is the last in our sequence, AS15-M-1943, with spacecraft structure visible on the right.
+AS15-M-1943 - Metric Camera image of Mare Serenitatis including crater Bessel. Image taken at about 175:28. (250 megapixel version), (labelled version) - Image by NASA/ASU.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:31:54 Mitchell: Okay. Apollo 15, Houston. Turn your Mapping Camera, Off. [Pause.]
+175:32:05 Worden: Okay, Ed. Mapping Camera going Off.
+175:32:07 Mitchell: Roger. The Laser Altimeter, Off. And the Map Camera Laser Covers, Closed.
+175:32:14 Worden: Okay, Laser Altimeter's Off.
+175:32:19 Mitchell: And I'll have the Pan Camera T-start here in just about 2 minutes. I'll call you and give you 15 or 20 seconds warning.
+175:32:28 Worden: Okay.
+Comm break.
+175:34:18 Mitchell: 15, Houston. Stand by for T-start on the Pan Camera. [Pause.]
+175:34:28 Worden: Standing by.
+175:34:32 Mitchell: Mark. T-start, Pan Camera.
+Comm break.
+The Panoramic Camera is being operated for about 2 minutes, 20 seconds as the spacecraft passes over the landing site and altogether, 19 frames are taken; AS15-P-9809 to 9827. Four frames from this sequence will be presented here; two stereo pairs.
+The first is AS15-P-9811 and 9816, a stereo pair from this sequence taken slightly west of the landing site.
+AS15-P-9811 - Panoramic Camera image of Hadley Rille, west of the landing site. This is a stereo companion to 9816. A 385 megapixel PNG format version can be had from the ASU Apollo Image Archive - Image by NASA/ASU.
+AS15-P-9816 - Panoramic Camera image of Hadley Rille, west of the landing site. This is a stereo companion to 9811. A 385 megapixel PNG format version can be had from the ASU Apollo Image Archive - Image by NASA/ASU.
+Crater Conon is at the left (south) of the frame, Rima Hadley and Hadley C crater are near the centre and to the right (north) are the Fresnel Rilles. The fading rays from the large crater Autolycus are visible on the surface of Mare Imbrium. The crater itself is just off to the top (west) of the image.
+The next stereo pair presented are AS15-P-9817 and 9822 which take a strip further west on Palus Putredinus.
+AS15-P-9817 - Panoramic Camera image of Palus Putredinus. This is a stereo companion to 9822. A 385 megapixel PNG format version can be had from the ASU Apollo Image Archive - Image by NASA/ASU.
+AS15-P-9822 - Panoramic Camera image of Palus Putredinus. This is a stereo companion to 9817. A 385 megapixel PNG format version can be had from the ASU Apollo Image Archive - Image by NASA/ASU.
+Palus Putredinus is in the centre of the image with the 39-km crater Autolycus to the right (north) and Rima Bradley to the left (south).
+One of these images, AS15-P-9814, captures Hadley Base after Dave and Jim had left it.
+Detail from AS15-P-9814 - Hadley Base post ascent. Click on image for larger unlabelled version.
+This high resolution image of the landing site shows the final resting point of the LM, visible within the light, disturbed ground at the right of the image. The elbow of Hadley Rille is at the top left of the image and the lower slopes of Mount Hadley Delta are to the far left. Note the terracing at the edge of the rille and the boulders scattered down its walls.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:36:40 Mitchell: 15, Houston; stand by for Pan Camera, Off. [Pause.]
+175:36:52 Worden: 15, Roger.
+175:36:54 Mitchell: Mark. Pan Camera, Off.
+175:36:59 Worden: It's Off.
+175:37:01 Mitchell: Okay, Al. That completes all that for us. Thank you.
+175:37:08 Worden: Okay, Ed. Thank you very much.
+175:37:13 Mitchell: Go ahead, 15. [Long pause.]
+175:38:00 Mitchell: Okay, Apollo 15; Houston. We're getting a little itchy for some LM data. We'd like for them to bring up the steerable [antenna] if they can, please, at 146 and 29.
+The steerable S-band antenna is mounted on the upper starboard side of the ascent stage and is the LM's equivalent of the CSM's High Gain Antenna. With it, a higher data rate is obtainable from Falcon's telemetry system, allowing Mission Control to monitor readings from more transducers.
+175:38:14 Worden: Okay, Ed. [I'll] have them bring up the steerable.
+175:38:17 Mitchell: Roger. Angles 146 and plus 29. [Pause.]
+175:38:26 Worden: Understand. Angles 146 and plus 29. [Long pause.]
+175:38:46 Mitchell: And, 15, we verify that your Pan Camera [lens]'s [tucked] in, and you can turn the Power, Off, on it.
+175:38:53 Worden: Okay.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:43:29 Mitchell: Apollo 15, Houston. You can start your maneuver to jettison attitude at any time. And I have a slight update to the attitude. [Pause.]
+175:43:44 Worden: Okay, Houston; 15. Standby one.
+175:43:48 Mitchell: Roger. Standing by.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:47:59 Mitchell: Apollo 15, Houston. Your Gamma-ray Gainstep, Shield, Off, please. [Pause.]
+175:48:10 Worden: Okay, Ed. Gamma-ray, Gain, Shield, going Off. [Long pause.]
+This call is about 5 minutes late. This shield is a discrimination device on the Gamma-ray Spectrometer to determine which counts are due to gamma-rays and which are induced by charged particles in the cosmic-ray flux. It is regularly switched off for 10 minutes to check its detection rate when compared to overall output from the instrument.
+175:48:31 Worden: Houston, 15.
+175:48:33 Mitchell: Go ahead, 15.
+175:48:39 Worden: Okay, Ed, it looks like the chaos is slowing down a little bit here, if you want to talk about the Flight Plan.
+175:48:44 Mitchell: Okay, Al. You can start your maneuvering to your LM jettison attitude most anytime. And I'll update the attitude for you. It's Roll, 14; Pitch, 38 and Yaw 344. [Pause.]
+175:49:13 Worden: Rog, Ed. Understand the LM jettison attitude is Roll, 014; Pitch, 038 and Yaw, 344.
+175:49:27 Mitchell: Rog. And the time is 177:20:33. [Pause.]
+175:49:35 Worden: Understand. The jettison time is 177:20:33.00.
+Mission Control have calculated the attitude angles such that at the given time of jettison, the CSM will be orientated with the SPS engine bell facing the Moon and the LM radially away from the Moon.
+175:49:40 Mitchell: That's right; and the CSM Sep time here is 177:25:33. [Long pause.]
+175:49:59 Worden: Understand. The CSM Sep is 177:25:33.
+The CSM Separation manoeuvre ensures that a good distance is put between the two craft before the Falcon fires its ascent engine.
+175:50:02 Mitchell: Rog. And your CSM weight for your DAP is 36370. [Pause.]
+175:50:15 Worden: Understand. DAP weight is 36370.
+This weight, given as 36,370 pounds (16,497 kilograms), is entered into the CM computer. Software routines for controlling the attitude of the docked spacecraft, known as the Digital Auto Pilot, will be able to calculate the moment of inertia from this weight and thence the proper duration of thruster firings to hold the spacecraft steady.
+175:50:19 Mitchell: Rog. And I'll call this Gamma-ray, Gainstep, Shield, back On, Al. We want to let it go for 10 minutes here.
+175:50:27 Worden: Okay, Gainstep comes back to Shield, On.
+175:50:30 Mitchell: Negative, negative. I'll call it back On in 10 minutes.
+175:50:38 Worden: Roger. Roger. Understand.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+175:57:06 Mitchell: Apollo 15, Houston.
+175:57:12 Worden: Houston, 15; go ahead.
+175:57:13 Mitchell: Rog. Would you ask Dave and Jim to make sure that we go ahead and get steps 4 and 5 on page 14 of their checklist before LOS here? And then, soon as we get into attitude, we can take a look at all this before we go LOS. We got about 16 minutes.
+175:57:37 Worden: Okay, understand. That's steps 4 and 5 on page 14.
+175:57:40 Mitchell: That's affirm. [Pause.]
+175:57:52 Mitchell: And, Apollo 15; Houston. Also, go ahead and get the P30 and et cetera, et cetera. [Pause.]
+175:58:05 Worden: Rog. Understand. Go ahead and get the P30 in the LM.
+175:58:08 Mitchell: And there is no update to the TIG. It's good as given to you earlier. [Pause.]
+175:58:17 Worden: Rog. Understand. TIG is good. [Pause.]
+Ed Mitchell read the P30 PAD to Jim just over two hours ago. This contained the information necessary for the ascent stage to carry out a controlled ballistic path to the surface where it will impact.
+175:58:30 Mitchell: And, Al, stand by to turn the Gamma-ray, Gainstep, Shield, On.
+175:58:38 Worden: Gamma-ray, Shield, On.
+175:58:40 Mitchell: Okay, Mark, On and let's take the Map Camera, On switch to Standby and the Map Camera, Image Motion, Off. [Pause.]
+175:58:53 Worden: Okay. Map Camera, Standby, Image Motion, Off.
+As the docked spacecraft pass over the terminator, the current period of mapping photography comes to an end.
+175:58:56 Mitchell: That about cleans us up, Al.
+175:59:01 Worden: Okay, Ed. Thank you much for your help. [Pause.]
+175:59:09 Irwin: Oh, Ed, I'm back on comm, over in the Falcon.
+175:59:13 Mitchell: Okay, Jim. Sounds good. Should be in attitude in just a minute. And your angles, 205 and 70, as in the Flight Plan, should be good. And we're about 13 minutes from LOS.
+These are the angles to which the steerable S-band antenna on Falcon should be set. Once Dave verifies that the docked spacecraft are at the correct attitude, he uses P30 in the LM computer to enter all the required information for the burn.
+175:59:32 Irwin: Okay. Do you have any updates for me before we have LOS?
+175:59:37 Mitchell: Negative. All we wanted to do was just - the guidance system's state vector's okay and configured before LOS, and I don't believe we have an update. I'll check. [Long pause.]
+LM Flight Plan page 3-286.
+CSM Flight Plan page 3-287.
+176:00:16 Mitchell: Falcon, Houston. We'd just like to complete down through step 1 or 2 of configure AGS before LOS. And, Endeavour, if you can give us an Accept, we'll shoot you an uplink before LOS.
+Though the LM's state vector is okay, Mission Control want to uplink a fresh one to Endeavour, as called for at 176:00 in the Flight Plan. To receive it, Al places the computer in P00 (program 00) and throws the Up Telemetry switch to Accept.
+176:00:34 Worden: Okay, getting Accept.
+176:00:38 Irwin: Falcon copies. [Pause.]
+176:00:48 Worden: You got Accept.
+176:00:49 Mitchell: Understand.
+Comm break.
+176:02:40 Irwin: Ed, can you get for - the P30 load here for me as I go through it.
+176:02:45 Mitchell: Okay, stand by one. [Pause.] Okay. Go ahead. Got the first one.
+176:03:04 Irwin: Okay, how does that look?
+176:03:10 Mitchell: Looks good.
+Comm break.
+176:05:02 Mitchell: Looks good here, Jim.
+176:05:06 Irwin: Okay, I'll [press] Pro[ceed] on this one. [Long pause.]
+176:05:46 Irwin: Okay, I'm going to go to P00, Ed.
+176:05:47 Mitchell: Rog, Jim. That one looks okay, too. I don't see much of it.
+176:05:54 Irwin: That's right. [Pause.] Okay, do we have a Go for closeout?
+176:06:03 Mitchell: Give us a 470 readout on the DEDA [Data Entry and Display Assembly, part of the AGS], please.
+176:06:09 Irwin: Okay. You have it. [Long pause.]
+176:06:24 Mitchell: Okay. And, Jim, can you verify that you've done all of step 2 on the comm?
+176:06:31 Irwin: Yes, I meant Slew on the Track Mode. [Long pause.]
+176:06:51 Mitchell: Okay, Jim. You're Go for closeout. The next time we see the LM, you'll all be buttoned up. So suggest you make a very careful check of the items from now on.
+176:07:03 Irwin: Okay; thank you, Ed.
+176:07:08 Mitchell: And, Endeavour. It's your computer.
+176:07:15 Worden: Roger, Ed.
+Long comm break.
+The uplink of the state vector is complete and Al can return the Up Telemetry switch to Block.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+176:11:23 Mitchell: Okay, Endeavour, Houston. We're a minute and 20 seconds from LOS. Your ascent CapCom's going off duty, and I'll see you back on Earth. It's been a lot of fun getting you up here.
+176:11:38 Worden: Okay, Ed. You're - thanks a million, pal. You've been a great help, and it was fun talking to you.
+176:11:43 Irwin: Hey, Ed; Falcon. Looks like we just about got things cleaned up here.
+176:11:47 Mitchell: Very good, guys. We'll see you in a few days. Thanks a lot.
+176:11:53 Worden: Okay, Ed, thank you.
+Very long comm break.
+This is Apollo Control at 176 hours, 12 minutes; and we've had Loss Of Signal on the 50th revolution. Dave Scott and Jim Irwin still in the Lunar Module but preparing to close it out. By the time we reacquire, they will be back in the Endeavour with the Lunar Module set up for jettison and later deorbit burn and impact on the lunar surface. During this pass, they transferred the lunar samples to the Command Module. Al Worden remarked they were doing some house cleaning, obviously a lot of dust and dirt comes up with those samples and they use the vacuum cleaner to clean up the cabin after the transfer. Al Worden in Endeavour conducted more orbital science during this pass while Dave Scott and Jim Irwin were configuring Falcon for the deorbit. Here in the Control Center, Flight Director Milt Windler is preparing to hand over to Flight Director Glynn Lunney and his team of flight controllers. We're estimating the change of shift news conference for 5:15 pm Central Daylight Time. At 176 hours, 14 minutes; this is Mission Control, Houston.
+Items not required by Endeavour for the remainder of its mission, such as used lithium hydroxide canisters and the now-useless docking probe and drogue, are left in the LM to be jettisoned with it. Even much of the tunnel will depart with the LM as, just beyond the forward hatch, pyrotechnic cord will sever the docking ring from the CSM too. The Flight Plan notes that urine and faeces should not be jettisoned. Rather, they are to be returned to Earth for analysis.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 176 hours, 23 minutes. The change of shift briefing scheduled for 5:15 has been canceled. To repeat, the change of shift briefing scheduled for 5:15 has been canceled. And to repeat an earlier announcement, a news conference on lunar surface activities will be held at 8:30 am tomorrow in the main MSC auditorium. Astronaut Jack Schmitt, the backup Lunar Module Pilot for Apollo 15, will be present at that news conference. This is Mission Control, Houston.
+Jim Irwin is the last to leave Falcon's cabin, closing its overhead hatch behind him. Once inside the CM, Al installs the forward hatch and begins a check of its integrity against leaks. To do this he makes sure fresh oxygen is not being fed into the cabin, then vents the tunnel until there is at least 21 kiloPascals (3 psi) pressure difference across the hatch. The psi reading on the LM/CM Delta-P gauge is watched to ensure its reading does not change by more than 0.2 over two minutes. Finally, the tunnel is vented for a further ten minutes and the tunnel lights are switched off.
+The final task before Apollo 15 reaches AOS is to get a movie camera prepared to record the jettison from the left hand rendezvous window. This will use film magazine D with the camera running at 12 frames per second.
+As the spacecraft is in a well-defined attitude, with respect to the stars, for jettison of the LM, the crew have a precise orientation for pointing the HGA towards Earth.
+Rev 51 begins at about 176:35.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 176 hours, 56 minutes. We'll be reacquiring the Command Module Endeavour, still docked with the Lunar Module Falcon, in about 2 minutes. At that time we expect that all three crewmen will be buttoned up inside the Command Module, and on this revolution will be preparing to jettison the Lunar Module and perform a small separation maneuver with the Command Module prior to LM impact. Glynn Lunney, the Flight Director for this shift, has completed a review of the status of the mission with each of his flight controllers, and, essentially, that status is as follows: For the Command Module, during the evening, the SIM bay will have the following experiments deployed; the Gamma-ray and Alpha Particle sensors; that'll be on this coming revolution. However we will not be getting data from those two sensors because the spacecraft will be in the separation attitude, which is not a suitable attitude for recording the particle data, and the gamma-ray data. During the sleep period, Al Worden will wear the lightweight headset and will have the watch to give Jim Irwin and Dave Scott maximum opportunity for a good night's sleep. In the way of continuing problems, the Laser Altimeter in the Scientific Instrument Module bay is still not functioning and we are about to write that off as broken. We don't expect that it will begin functioning. The Pan Camera - the Laser Altimeter, by the way, is used with the Mapping Camera to provide altitude information on each of the frames that is shot. The Panoramic Camera is generally functioning well. However about 1 frame out of 10, or about - actually about 20 per cent of the frames shot with that camera, are, we think, being smeared because of a problem with the sensor, called the A over H [means V over H] sensor, which senses the altitude at which a photograph is taken and rocks the camera on a pivot to compensate for the motion, and about 1 frame out of 8 or 9, this sensor is apparently sending either the wrong command, or the command is not being processed properly and the rocking motion is not as it should be and the frame is apparently being smeared, but all the rest of them would appear to be good frames. The Mass Spectrometer; we continue to have a problem with the boom. It doesn't appear to be a serious problem at this time. The instrument itself is functioning very well, providing very good data. We have, on several occasions when retracting the boom, the 24-foot [7.3-metre] boom that the sensor is mounted on, have found that the retraction is slower than we would expect, which gives an indication that perhaps it's hanging up. And, other than that, all of the SIM bay instruments are functioning well and providing excellent data. We just had a call to the crew. We'll stand by for that.
+176:59:38 Parker: Apollo 15, Houston. Over.
+176:59:47 Scott: Hello, Houston; 15. How are you?
+176:59:49 Parker: Roger. Doing fine down here. Can you fellows confirm LM closed out and ready for jett[ison of LM].?
+176:59:59 Scott: Rog. LM's closed out, and we're just now running our pressure integrity check, and we'll be all set in a jiffy.
+177:00:06 Parker: Roger.
+Long comm break.
+Flight Plan page 3-288.
+Dave Scott reporting that the LM is ready for jettison on time. The Spacecraft Communicator on this shift is astronaut Robert Parker. During the LM impact, Doctor David W. Streinway, Chief of the Geophysics Branch at the Manned Spacecraft Center, will be available in the MSC News Center briefing room to provide background information and answer questions on the LM impact and the seismic data that is received. That will be at 8 pm in the MSC News Center briefing room. Also, in the way of briefings, tomorrow morning at 8:30 am, there will be a lunar surface science briefing with astronaut Jack Schmitt. And that will be at 8:30 am in the main auditorium of Building 1. Also at 10 am, there will be a subsatellite briefing given by TRW. At the present time Apollo 15 is in an orbit of 52.7 [nautical miles, 97.6 km] at its low point with a high point, or apocynthion of 64.8 [nautical miles, 120.0 km].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+177:04:01 Scott: Houston, 15.
+177:04:03 Parker: Go ahead, 15.
+177:04:07 Scott: Okay, we're going to be a few minutes here. We got to put some LCG plugs in our suits and it's going to take probably about 10 or 15 minutes to get all that done.
+This communication from Dave is essentially the start of a rather confused episode which involves the checking of suit and hatch integrity. To recap, the LM hatch and the CM hatch have both been installed on either side of the tunnel and the crew are satisfied the seal is good. Also, the crew are wearing their suits throughout the preparations for and the jettison of the LM and are carrying out a pressure integrity test of the suits. They believe that Dave's suit is not holding pressure and so he wants to plug the connector port where water is fed to the LCG (Liquid Cooled Garment) using a Multiple Water Connector Receptacle plug. Normally this connector takes water from the PLSS (Portable Life Support System) but they have now been discarded and the connector port is making a poor seal, probably due to the wear and tear from the tenacious and abrasive lunar dust.
+177:04:20 Parker: Okay, and we'd like a verification from Al that [the] X-ray [Spectrometer] is in Standby and X-ray/Alpha Covers are Closed before jett and Sep burn. [Pause.]
+This is a gentle reminder from Bob Parker, that this step, due an hour ago, has been missed. As long as it is carried out before jettison of the LM and the subsequent separation burn by the CSM's RCS thrusters, there is not a problem. As mentioned in the post-flight debriefing, the crew did find that a combination of operating the SIM bay and trying to transfer items from the LM to the CSM made for an excessively busy spacecraft.
+Worden, from the 1971 Technical debrief: "Right after docking when we were trying to transfer some of this stuff, we were faced with a SIM experiment prep cue card and a lot of SIM bay activity. It really confused things because I was trying to do the SIM bay operation and you were trying to talk me through the tunnel. Our coordination was hampered quite a bit by the fact that the SIM bay was being fired up at the time, That is at least one point in the Flight Plan where maybe we should not be fooling with the SIM bay. It is the same as before PDI when we finally eliminated the SIM bay activity because there were too many other things going on."
+Scott, from the 1971 Technical debrief: "Actually, that is an absolute requirement because when we got docked with you, we were depending on you to take care of all that stuff. Every time I looked in the tunnel, you were down in the LEB or somewhere doing SIM bay stuff. I kept having to say, 'Hey, Al, how about a hand?' I think that really compromised operations. Even though we had an extra rev to get transferred [due to hatch integrity check problems], we had more gear to transfer and one less man to really help us do it."
+177:04:37 Scott: Okay. We - we'll get that for you when we get squared away here.
+177:04:40 Parker: Yeah.
+Long comm break.
+The crew are about to hear from their boss, Director of Flight Crew Operations and former Mercury astronaut, Deke Slayton. The news of the suit plugs had pricked up ears in Mission Control and Slayton's intervention may betray that management are concerned at the crew's deviation from the Flight Plan.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+177:10:02 Slayton: Apollo 15, Houston. [Pause.]
+177:10:09 Scott: Houston, Apollo 15. Go.
+177:10:11 Slayton: Say, Dave, beautiful job there today all the way around. Hey, one quick question - how come you guys need plugs for those suits?
+177:10:22 Scott: Well, because, apparently, the LCG connection on the inside won't hold an air seal, so we're getting them taken care of with these special - extra little blue plugs we got that are airtight on the inside. [Long pause.]
+177:11:13 Scott: At least that's our first guess of - of why we didn't get a good suit integrity check or didn't even get a good buildup in the suit pressure.
+177:11:22 Slayton: Rog. We - we had a complete misunderstanding on that, so that's the reason I asked the question, because we thought those plugs only were required when the LCG was not on. We're trying to crack that one for you down here, Dave. There's something screwy here. [Pause.]
+177:11:41 Scott: Okay. Well, we'll put these plugs in and run another pressure integrity check and see how it works.
+177:11:46 Slayton: Rog.
+Comm break.
+The suit integrity check is putting the crew slightly behind their timeline. As it turns out, the items they would be carrying out just now will be held off. The jettison is due in less than ten minutes and the crew are not ready yet.
+177:13:35 Parker: 15, Houston.
+177:13:41 Scott: Houston, 15. Go.
+177:13:43 Parker: Roger, Dave. You guys talking about inside plugs or outside plugs?
+177:13:50 Scott: Inside plugs.
+177:13:54 Parker: Roger.
+Long comm break.
+Scott, from 2000 correspondence: "The LCG plugs were designed to solve just exactly the problem we apparently had with the suit integrity check [see Mission Report, p. 6-12]; and based on his initial comments, it is unlikely that Slayton really understood these plugs and their use (although after our comments he did go silent as things were probably explained to him)."
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. The plugs that are being discussed between Dave Scott and Donald K. Slayton, Director of Flight Crew Operations at the Manned Spacecraft Center, is a Liquid Cooling Garment plug. It plugs the inside of the hole or the feed thru in the suit where the water is normally brought into the suit from the backpack, the Portable Life Support System [PLSS], Of course, in suited operations inside the spacecraft, the backpack is not required and there is a plug on the inside of the suit that should seal this. Apparently Scott and Irwin were having some problems getting their suits to maintain pressure and were checking this - this particular plug. Just a few moments ago the EECOM, Environmental and Electrical systems engineer for the Command Module, reported that it appeared from the telemetry data that they had gotten the problem squared away and were getting a good pressure integrity on the suits. We'll continue to follow the situation, there is no particular problem as far as the LM jettison is concerned. If the jettison is somewhat late we can make up the difference by the time of ignition for the deorbit burn, and still get impact at the desired point.
+177:18:28 Scott: Okay, Houston, 15. We've got a good suit circuit now.
+177:18:33 Parker: Roger. We've been looking at it; copy, agree.
+Comm break.
+177:19:44 Parker: And, 15, we're still looking for an X-ray/Alpha Cover door, Closed. [Pause.]
+177:19:57 Scott: Okay. Stand by one, Houston.
+177:19:59 Parker: Roger. [Long pause.]
+177:20:11 Scott: Okay, Houston. The X-ray/Alpha door is Closed.
+177:20:15 Parker: Copy.
+Comm break.
+The spacecraft is now in the proper attitude for the separation - jettison and separation. And you heard Dave Scott report that, and we confirmed through telemetry on the ground, that their suits are now holding pressure as they should. Apparently they've gotten problem, whatever it was, with the...
+The PAO commentary requires further explaining. With respect to the stars, the spacecraft has been in the correct attitude for the past hour and a half. However, they want to jettison the LM with the CSM pointing away from the Moon (i.e. the SPS engine bell pointing towards the surface) and this condition occurs only once per revolution. Therefore the PA Officer means that with respect to the Moon, the spacecraft is now in the proper attitude.
+So they can monitor the velocity changes brought about by the jettison and separation, that part of the EMS (Entry Monitor System) which displays Delta-v is preset to read +100 feet per second. As pointed out by Dave Scott earlier in this journal, the response of the EMS was rather sloppy around zero and biasing it helped tighten it up.
+Since explosives are used to detach the LM, the circuits for firing them must be carefully armed ready for operation at the required time.
+177:21:33 Worden: Houston, 15.
+177:21:34 Parker: Go.
+177:21:39 Worden: Okay, we're ready to Arm the Logic.
+177:21:44 Parker: Roger. We're looking.
+177:21:48 Worden: Okay. Logic 1. [Pause.] Logic 2. [Pause.]
+177:22:02 Parker: Roger. You're Go for Pyro Arm. [Pause.]
+177:22:06 Worden: Roger. [Long pause.]
+We do have a good seal on the plugs for the liquid-cooled garment fittings on Irwin's and Scott's suits. And we're moving toward the LM jettison at 177 hours, 20 minutes, 33 seconds and separation 5 minutes later at 177:25:33. We're counting down to separation - rather to jettison, in 2 minutes, 47 seconds.
+As the attitude of the stack with respect to the Moon is not critical, they can delay the separation for 5 minutes. However, another pressure integrity problem is about to change that.
+177:22:48 Worden: 15, LM/CM Delta-P is 2.5 - 2.0, excuse me.
+177:22:55 Parker: Copy, 2.0.
+177:23:00 Worden: Okay. [Long pause.]
+During their last far-side pass, the procedures to check the integrity of the CM's forward hatch had required that the tunnel be vented to at least 3 psi (as read on the LM/CM pressure gauge mounted beside the hatch). The venting and monitoring of the tunnel pressure is carried out with the multipurpose Tunnel Vent valve. Various cleverly arranged orifices within its structure give it the following functions:
+LM Press(urise). Despite its name, this position really pressurises the tunnel from the air in the CM cabin. If the valve in the LM overhead hatch is open, then given enough time, the LM cabin can also be also pressurised. Since the valve is shut in this case, then the name is a bit of a misnomer. The LM/CM pressure gauge should always read zero in this mode because both sides of the gauge would be connected to CM pressure.
+LM/CM Delta-P. Like the previous item, this is a misnomer and should really be called "Tunnel/CM Delta-P" as it connects the gauge to the tunnel. Since the gauge always measures relative to the Command Module cabin pressure, a higher number in this mode means more of a vacuum in the tunnel with respect to the cabin. Note that changes in this reading can just as easily be due to changes in the CM cabin's absolute pressure.
+LM Tunnel Vent. The tunnel is essentially connected to space, allowing it to vent to a vacuum, though this is a time-consuming process. The gauge is not connected to anything.
+Off. All lines leading to the valve are disconnected and the gauge reading is meaningless.
+Dave's later comm indicates he was happy to accept a reading of 2.8 as part of the hatch integrity check. For the pressure reading to change to 2.0, one of two things has happened. Either the CM cabin pressure has fallen by 0.8 psi (5.5 kPa) which is unlikely and would have been noticed by Mission Control through telemetry, or air has entered the tunnel from either the LM or CM via a poorly sealed hatch, raising its pressure and reducing the differential. Note that, unlike so many systems aboard the spacecraft, the pressure within the tunnel area is not monitored directly either in the spacecraft or, via telemetry, in Mission Control. Also, a lot of dust has been brought up from the surface and, as with the LCG connector, this may be contaminating one of the hatch seals. Just now, Dave is trying to vent the tunnel again.
+177:23:26 Scott: Houston, 15.
+177:23:28 Parker: Go. [Pause.]
+177:23:37 Scott: Houston, 15.
+177:23:39 Parker: Roger, 15. Go.
+177:23:44 Scott: Okay, the LM/CM Delta-P doesn't look exactly right to us. What do you think?
+177:23:49 Parker: Stand by. [Long pause.]
+177:24:32 Parker: 15, Houston. We'd like to get another pound [per square inch of pressure] out of there. We're showing about 3.5 [psi, 24 kPa] in there.
+Mission Control are deducing this absolute figure by subtracting the reading on the LM/CM pressure gauge from the measured CM cabin pressure (5.5 minus 2.0 equals 3.5).
+177:24:42 Scott: Okay. We had a suspicion that possibly the LM overhead dump valve was open, and it might be.
+177:24:54 Parker: We don't think so down here.
+177:25:00 Scott: Okay. Well, we'll go to Tunnel Vent for a little longer, must just be slow then; we've been in it for probably about 15 minutes.
+177:25:15 Parker: Copy. [Long pause.]
+177:25:27 Parker: 15, what position are you in when you're reading that out, in Vent or in Delta-P?
+177:25:34 Scott: Delta-P.
+This question is being asked in light of an event which occurred during the coast from Earth when the gauge was read with the valve in the wrong position. Mission Control cleared the problem up at 054:22:49. Then, the gauge was being read with the valve in the Vent position; the gauge was not connected to anything and so gave an erroneous reading and the flight controllers want to ensure this scenario is not being repeated.
+177:25:37 Parker: Roger.
+177:25:43 Scott: It's up to about 2.3 now, and I've been holding it in Tunnel Vent. [Pause.]
+177:25:59 Parker: 15, we'll take that. It'd take too long to get it down, we believe. So let's press on with Jett at that pressure.
+177:26:09 Scott: Okay, well, the strange thing about it is that we had it up to about - oh 2.7 or 2.8 at one time and then went back to LM/CM Delta-P, and for some reason it [the pressure] built back up in the tunnel. And, I guess the only conclusion we could come to was - from the LM, 'cause the hatch is pretty simple and secure in here. [Long pause.]
+177:26:47 Parker: Dave, we think that the increase in the cabin pressure during the suit integrity check could have raised it from - from your side.
+This is not correct. Adding more air to the CM cabin by inflating the suits would have the effect of increasing the pressure difference across the hatch. Dave's point is that the pressure difference has fallen.
+177:27:04 Scott: Well, okay, that's - that's true.
+177:27:11 Parker: [Stand] by, Dave; confusion reigns down here.
+This is one of the very few times during any Apollo mission that we see Mission Control and the crew get out of synch with each other and the spacecraft. The crew seem to have read the situation better but, as is the way with Apollo, will come to a collaborative decision with Mission Control who have a far greater visualisation of the spacecraft and its systems through telemetry. Remember that this is happening in the aftermath of a Soviet depressurisation tragedy.
+177:27:14 Scott: [Thinking out loud] Have you seen any ch - Well, I guess it sort of does up here, too. I wonder if you see any difference in the - you can't read the tunnel, though, can you? [Long pause.]
+177:28:24 Parker: And, 15; this is Houston. We'd like to verify that you did get a good hatch integrity check back there a ways. [Pause.]
+177:28:36 Scott: Yes, that's affirm. We got a good hatch integrity check, but - I guess what I'm thinking is there's - you know, there could be something in the seal there. And perhaps the thing to do would be to repressurize the tunnel and pull the hatch down, and take a good close look at the seal and then stick it back in. It shouldn't take too long. [Long pause.]
+177:29:33 Parker: Apollo 15, Houston. That seems to be about the best conclusion we can come to down here, but we're - [we'd] kind of like to go into a hold briefly. Another indication is that we would - we are seeing the LM cabin holding steady and not using any oxygen from the ascent tanks, which seems to say that we're not leaking into the tunnel from the LM.
+Flight Plan page 3-289.
+177:30:02 Scott: Okay, understand.
+177:30:08 Irwin: Do we? [Long pause.]
+This is Apollo Control. Recapping our situation at the moment, we're going to hold off on the LM jettison until we've gotten a more fuller, more complete understanding of the pressure rise in the LM tunnel. We've seen a slow pressure rise in that tunnel.
+177:30:44 Parker: 15, Houston. We'd like to verify that the pressure equalization valve is closed.
+177:30:54 Scott: That's verified; it's closed and on the yellow stripes.
+177:30:58 Parker: Roger. [Long pause.]
+177:31:32 Parker: And, 15, we'd like to back out of your Pyro Arm situation right now. [Pause.]
+177:31:43 Scott: Okay, Houston; 15. Pyro Arm is Safe, Logic is Off, and the Pyro Arm circuit breakers are pulled.
+The pyrotechnics to sever the docking ring and LM from the CSM cannot now be fired. An accidental firing while the forward hatch is removed would be catastrophic.
+177:31:50 Parker: Copy. [Long pause.]
+177:32:22 Parker: 15, can you give us a LM/CM Delta-P reading at this time, please?
+177:32:31 Scott: Okay, right now it's 3.0.
+177:32:33 Parker: Copy, 3.0.
+177:32:38 Scott: And, I've had the valve in Tunnel Vent for the last 5 minutes or so.
+177:32:42 Parker: Copy.
+Comm break.
+Dave has managed to bring the tunnel pressure down to the required level but there is some worry that it will rise again, reducing the difference across the hatch. They want to pin down the source of the leak or else achieve a good check of the hatch integrity.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+177:34:40 Parker: Apollo 15, Houston. Recommendation right now is to stop the - the LM Tunnel Vent, and then we will sit and monitor the CM/LM Delta-P for a short while to see what happens to it. And, after that, we're still considering opening up the tunnel to check the seal. Over.
+177:35:03 Scott: Okay, we're in LM/CM Delta-P right now, and it's reading about 3.1.
+177:35:09 Parker: Copy, 3.1.
+Comm break.
+This is Apollo Control. We're going to continue watching the pressure in the tunnel between the LM and the CSM for a pressure rise. The pressure has not dropped as we would expect and this implies that perhaps there is some leakage into the tunnel. Since the LM cabin appears to be stable, we suspect that if there is leakage, it would be coming from the Command Module side. If this is the case, the thing we would suspect is some bit of contamination in the CSM [forward] hatch. We're going to continue to watch the pressure in the tunnel, see what happens, and if necessary, we'll remove the hatch on the CSM side, inspect it for any contamination, reseal it, double check the integrity, and then try to vent the tunnel again. There hasn't been any resolution as to just what effect this will have on the LM jettison. The Flight Dynamics Officer [FIDO] has asked the Flight Director if he wanted to delay LM jettison for 1 revolution and we haven't gotten a decision on that at the present time. So we're standing by and watching, and we'll see how the pressure check goes on the LM tunnel, and if it becomes necessary to remove the hatch, we probably will have to delay jettison for 1 rev.
+177:36:35 Parker: 15, we'd like to pull the B/D Roll jets.
+177:36:35 Irwin: Roger. B/D Roll jets coming off. [Long pause.]
+177:37:44 Parker: And, 15, if one of you has a chance, would you put X-ray to Standby, please? [Pause.]
+177:37:54 Scott: Rog. X-ray, Standby. [Long pause.]
+177:38:41 Scott: Okay, Houston; it's in Standby.
+177:38:43 Parker: Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+177:40:40 Parker: 15, Houston. [Can] you give us a reading now on that? [Pause.]
+177:40:49 Scott: Okay, Houston; stand by one. [Pause.]
+177:41:00 Scott: It's just a little under 3.1, just a - just a hairline.
+177:41:07 Parker: Roger; copy. And we're still looking at the possibility of opening the hatch. We're just trying to - right now, trying to understand the situation before we open the hatch and destroy the configuration we're in.
+177:41:23 Scott: Okay, we'll stand by.
+Long comm break.
+This is Apollo Control. Flight Director Glynn Lunney has just advised the Flight Dynamics Officer [FIDO] to be prepared to go either way with the LM jettison. We're holding the option open to jettison this revolution if we get the situation with the CSM tunnel cleared up. However, it begins to look more and more likely that we will be jettisoning the next revolution which would be two hours from the Flight Plan time, and would move the subsequent activities with respect to the Lunar Module; the deorbit burn and the impact also two hours later. Again the situation here is that we're holding the option open to go either way on that, it does appear at this point more likely that we will be delaying the LM jettison for one revolution, 2 hours and this would delay the subsequent activities with the LM, the deorbit burn and the impact by a like amount, 2 hours.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+177:46:38 Parker: And, 15; Houston. Could we have another reading in 10 minutes? [Pause.]
+177:46:48 Scott: Well, it's reading right now just about the same that it was when I last called you.
+177:46:54 Parker: Roger; copy. There's certainly enough uneasiness down here that we think we ought to proceed back through and open both the Command Module hatch and the LM hatch, check the seals on both and the relief valves on both, proceed back through that, doing - doing those checks, because there could be a very slight leak from the LM that the telemeter guys would not see at - for this small volume in the tunnel. Over.
+177:47:27 Scott: Rog. We sort of think that's a good idea, too. We'll proceed.
+177:47:31 Parker: Roger. Keep us posted when convenient.
+177:47:36 Scott: Roger. Will do. [Long pause.]
+Flight Director Glynn Lunney has just made the decision that we will delay the jettison one revolution and consequently the subsequent Flight Plan relating to the Lunar Module will also slip by one revolution.
+177:47:55 Parker: 15, just in case you haven't got the idea, when I said check the seals, I mean clean them too.
+177:48:03 Scott: Rog. Understand. We'll make sure they're good and clean.
+Long comm break.
+Not only will the events surrounding the LM be delayed, those involving the CSM are also affected. Endeavour was to be maneuvered about now to an attitude that would point the SIM bay at the surface. This cannot occur as the CSM will stay in the jettison attitude, one which is constant relative to the stars, for a further two hours.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. One of the problems in diagnosing the pressure rise in the tunnel is that the tunnel volume is very small with respect to the volumes of the cabin in either the LM or the Command Module, which makes it very difficult to detect the amount of a pressure loss in either of those vehicles that would account for the pressure rises we're seeing in the tunnel. The amount of oxygen lost would be on the order of 1/100th of a pound and this is really below - as they say, below the noise level, almost undetectable. So that's one of the reasons - the principle reason that we are asking the crew to remove and inspect both the hatches from the LM side and from the CSM side since this is such a difficult problem to diagnose and we don't want to get sealed up and then find that the problem was in the LM hatch all along, so we will have them check the seals on both hatches and seal up the tunnel again and again try to vent and see if we can get a proper vent indicating that we have good tight seals on both hatches. The one revolution delay in the jettison will as we said, slip the events related to the LM impact by about 2 hours. This is an approximation and we'll have to wait for the Flight Dynamics Officer to come up with new event times. The orbital period at the present time is 1 hour, 58 minutes, 28 seconds and, for preliminary planning purposes, this would be a good number to use in computing what the slip will amount to in total time; that's 1 hour, 58 minutes, 28 seconds orbital period. Again, though, this - the precise times will have to be computed by the Flight Dynamics Officer.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+177:55:36 Scott: Okay, Houston; 15. Both hatch seals are clean, and both hatches are now closed and locked. Do you want to vent the tunnel again?
+177:55:46 Parker: Roger. Go ahead, Dave. Thank you. [Long pause.]
+177:56:12 Parker: And, 15, are you guys all still fully suited?
+177:56:19 Scott: Rog. We did not break down the suits; we're still locked up.
+177:56:23 Parker: Roger. [Pause.]
+177:56:35 Scott: And the LM overhead dump valve was verified in Auto.
+177:56:39 Parker: Copy.
+Comm break.
+And that is the proper position for that vent valve.
+In the following discussion from the post-mission debrief, the tunnel problem is discussed first, followed by the suit problem though these two episodes are intertwined in time.
+Scott, from the 1971 Technical debrief: "We ran the [planned] hatch check as per the checklist. I was doing some stowage in the Command Module, and the Delta-P when we finished with the hatch was about 3.5. We left it for a while and went over to configure for the pressure integrity check. About that time, the ground wanted to know the Delta-P, I checked the LM/CM Delta-P, and it was 2. I called and asked them if that wasn't a little low. They said they thought it was a little low and that they wanted more than that. Somehow, we got some oxygen in the tunnel. The first thought Jim had was that the LM dump valve was open and we were dumping oxygen into the tunnel. We checked the ground, and they confirmed that the LM pressure - I really don't know how we got that extra pressure - did not indicate any leak in the tunnel. We went back and checked the seals on both hatches, which we should have done earlier. I think we waited too long to do this because it was a simple thing to do. With two of us in the tunnel, it, was easy. We pulled both hatches out, and I ran my hands around both seals. I felt nothing, but had there been something in one of the seals, it could have blown out or drifted cut when the hatch was opened. Al, you looked at the Command Module hatch seal."
+Worden, from the 1971 Technical debrief: "We pulled the hatch down into the center couch, and Jim and I both went over the seals on that hatch as carefully as we could. We found only one very, very minute nick in the rubberized seal portion of it."
+Irwin, from the 1971 Technical debrief: "I think that was a manufacturing bubble."
+Worden, from the 1971 Technical debrief: "It wasn't even a nick in the seal, and we could not find anything on the hatch at all."
+Scott, from the 1971 Technical debrief: "We put the hatch back in. I might add at this point that we were trying to go very slowly and very carefully, because we knew that everybody on the ground was tired, we were tired, and we wanted to make sure everything was done exactly right. We did not want to blow it at this time. In the process of getting the pressure integrity check on the suits the first - time around, we could not get the suit pressure above 6. We had a leak somewhere, and I guess Jim called it. The first idea he had was the LCG connector. Before that, we all checked our helmets and gloves, and everything looked good. The first thought was to put one of these LCG plugs in the suit - the interior, inside plug. Jim undid my suit, reached in, disconnected the LCG, and put the little plug in. [To Irwin] You did verify that the LCG was locked?"
+Irwin, from the 1971 Technical debrief: "Yes, it was locked."
+Scott, from the 1971 Technical debrief: "You put the plug in and locked it. During this process, everybody took their helmets and gloves off. We figured it was going to take us a while. I guess we thought we were going to have to unsuit. We all suited up again to try the integrity check, and it worked fine, so whether it was somebody's glove or helmet or the LCG I don't really know. We were a little surprised that it might have been the LCG. That was the only thing we could think of at the time that was not firmly attached. Everybody checked their connectors and plugs. I might add that my restraints were pretty dingy at that time, we all had dirt on those things. They were getting a little tough to work. That was prior to the hatch operation. After the hatch operation, we ran another pressure integrity check on our suits. We had good flow for about 5 seconds - less than 1 psi, then it came down to about 6 or 7. That took about 5 seconds. The ground called and said, 'You have a good pressure integrity check. Press on.' Then the pressure went back up to 1 psi which violated our onboard 15-seconds requirement. We decided that was not a good pressure integrity check, rechecked all the helmets and gloves, and found one glove unlocked. We locked the glove and ran a fourth pressure integrity check. That one worked just fine. We finally reached the point where everybody was satisfied with the hatch seals and the suit integrity."
+From the Apollo 15 Mission Report: "During preparations for Lunar Module jettison, after an apparently successful hatch integrity check, the differential pressure decreased between the Command Module cabin and tunnel, indicating the possibility of a Command Module hatch leak. Although a subsequent 10-minute check demonstrated satisfactory hatch integrity, an inspection of both the Lunar Module and Command Module hatch seals was made. No evidence of contamination or damage was found. The hatches were reinstalled and a successful hatch integrity check was performed. The crew had also experienced difficulty in obtaining an acceptable suit circuit integrity check during the Lunar Module jettison preparations. After being unable to pressurize the suit loop more than 1 psi above cabin pressure, the crew doffed their helmets and gloves, and the Commander also unzipped his pressure garment assembly, unlocked and removed the liquid cooling garment connector, and installed a water connector plug. After rezipping the suit and donning helmets and gloves, a successful integrity check was completed. Subsequently, because of the hatch integrity problem previously mentioned, the suit integrity was again broken, and the suit check had to be repeated. This check was again unsatisfactory because one suit glove was not properly connected. After making the correct connection, a final suit circuit test was successfully completed. The delay resulted in the lunar module being jettisoned one revolution later than planned."
+177:58:30 Scott: Okay, Houston. We're 1.3 [psi] on - Delta-P and coming - coming up.
+177:58:35 Parker: Copy.
+Long comm break.
+Flight Plan page 3-290.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+178:01:37 Worden: Okay, Houston; we're about 2.2 [psi]. [Pause.]
+178:01:46 Parker: Copy. [Long pause.]
+178:01:58 Worden: And, Houston, do you want to go to 3 [psi] and let it stabilize there?
+178:02:03 Parker: I guess we'll do it per the checklist which is 3.5, right? [Pause.]
+178:02:16 Scott: Well, not really. Our checklist says before jettison only, LM Tunnel Vent valve, LM Tunnel Vent at least 10 minutes, period. [Pause.]
+178:02:27 Parker: Okay. Stand by. [Pause.]
+178:02:39 Scott: 'Course, that's after the hatch integrity check. If we want to go ahead and run through the full hatch integrity check, then we'd run up to 3.5 and then run another 10 minutes, I guess.
+178:02:48 Parker: Yeah, that's the point, Dave. We want to run a complete hatch integrity check; in fact, we'll proba - we may ask you to run it longer than usual.
+178:02:59 Scott: Okay.
+178:03:02 Parker: Obviously, what we're thinking about here is a bad hatch seal, so we're particularly interested in that.
+178:03:09 Scott: Rog. [Long pause.]
+178:04:09 Parker: And, 15, a reminder. When you're on the back side, the LM is still in 5 degree deadband, so play it cool with the Command Module. [Pause.]
+Both docked spacecraft have their attitude control systems running, both trying to keep their attitudes within defined limits. The allowed range of movement around the desired attitude is called the deadband. Outside the deadband, active steps are taken by the spacecraft control systems to bring the attitude back into the band.
+To avoid the two spacecraft both trying to control the attitude of the docked configuration, the LM is being controlled with a ±5° deadband while the CSM is using a ±0.5°. The CSM's control system should never allow the attitude to drift so far that the LM's system comes into operation. Parker's point is that if, for some unplanned reason, they try to manoeuvre the stack using the CSM thrusters, they will reach a point where the LM thrusters will fight against them.
+178:04:22 Scott: Rog.
+Comm break.
+178:05:58 Parker: And, 15, what we'd like to see you do is leave that tunnel at 3.5 for the entire back side pass, and we'll see what happens to that leak rate. That gives us a nice, long leak check on the hatch. And, we'll be satisfied with that Delta-P for Jett[ison], if that's the way it works out on the other side. [Pause.]
+178:06:21 Scott: Okay. And, I guess in that case, we'll probably break the suits down and then run another suit check before we see you around the corner. So...
+178:06:34 Parker: Okay, we'll buy that.
+178:06:39 Scott: It's about time for dinner.
+178:06:41 Parker: I knew there was a reason.
+The LM crew suited up over eighteen hours ago and have carried out a gruelling lunar EVA. They last ate eight hours ago and have been sealed in their suits with helmets and gloves on since before launch from the Moon six and a half hours ago. The problems with their suit and hatch integrity will tend to compound any tiredness; they are hungry and are keen to get settled down to a much-needed meal break, one which is scheduled to begin during this far-side pass.
+178:06:46 Scott: Rog. [Pause.] Okay, we're about 3.2 [psi] now on the Delta-P. We'll leave LM [meaning tunnel] in Vent.
+178:07:03 Parker: Rog. I understand; 3.2 and still venting.
+178:07:08 Scott: Rog. [Long pause.]
+Dave will continue to leave the tunnel venting throughout the coming farside pass which is not want Mission Control want him to do. Unfortunately, they don't pick up on Dave's statement that he will leave the Tunnel Vent Valve in the Vent position.
+178:07:54 Parker: Dave, stand by on taking your suits off; if you haven't taken them off already.
+178:08:01 Scott: Oh, we hadn't planned to take our suits off; we were just going to break off the helmets and gloves so we could get something to eat.
+178:08:11 Parker: Roger. But stand by on breaking the suits down; because it's a debate as to whether we want to do another suit integrity check.
+178:08:19 Scott: Okay.
+Comm break.
+178:09:24 Parker: 15, press on. You may - you are permitted to break the suits down, but do not do the suit integrity check until you come back around the other side; we can take another look at that tunnel. Over.
+Once again, doing a suit integrity check would alter the pressure in the CM cabin and therefore affect the reading on the LM/CM Delta-P gauge.
+178:09:38 Scott: Roger; understand. We'll break them down and hold off until we see you on the other side.
+178:09:43 Parker: Okay, good luck.
+Very long comm break.
+This is Apollo Control at 178 hours, 11 minutes. We've had Loss Of Signal now with the Command Module, with the LM still in tow. And to resummarize the situation on that last revolution front-side pass: As the spacecraft came into acquisition at the start of this revolution, they were preparing to jettison the Lunar Module on the scheduled time in the Flight Plan. However, one of the checks that we run is a pressure integrity check on the tunnel in the Command Module - the tunnel used by the crewmen to pass from one vehicle to the other - which has hatches at both ends sealing the LM from the CSM. And this tunnel, which is vented down, which in turn produces a pressure differential across the CSM hatch, is checked by seeing how well it maintains this difference in pressure. If the pressure difference changes, it indicates that there's some leakage into the tunnel area. And we saw this sort of a pressure change - a rise in pressure in the tunnel which indicated that either there was a leak across the LM hatch or across the CSM hatch into the tunnel.
+In order to assure that on jettisoning the LM, we had a good tight seal on the CSM hatch, the crew was instructed to open the tunnel up and remove the probe and drogue assembly and check the seals on both the LM and the CSM hatches. They did this, and Dave Scott reported, at 177 hours, 56 minutes, that the hatches had been checked; they were clean, resealed and ready to proceed. By this time, we had gone beyond the point which we could jettison the LM as per the Flight Plan. Flight Director Glynn Lunney decided to delay the LM jettison and subsequent activities with the LM for one revolution. After getting the hatches back in place and resealed, the crew will be going through the depressurization of the LM - the tunnel venting procedure again. They're going to let the tunnel depressurize until there is a 3½-pound [per square inch] differential in the tunnel compared with the pressure in the CSM cabin. And then they will watch this pressure and we'll read it when they come back around on the front-side again at the start of the next revolution and see how well the tunnel has held the pressure differential. If we have a good tight seal, at that point we will proceed with the jettison.
+The conversation with the crew, just prior to Loss Of Signal, about removing the suits centered around concern here in the Control Center that nothing be done to change the pressure in the Command Module cabin. In removing the suits, there would be nothing that would change the pressure, however, in running a suit integrity check, where the suits are pumped up and then the pressure bleeds off slowly, we do get a change in the cabin pressure. It was decided that there would be no problem in allowing the crew to remove their helmets and gloves so that they could get something to eat on this backside pass. They will then put their helmets and gloves back on, but will not run the pressure integrity check until after we've had a chance to look at the pressure in the LM tunnel. Once the tunnel has been verified, then they'll again run a pressure integrity check on the suits before jettisoning the Lunar Module. At 178 hours, 15 minutes; this is Apollo Control, Houston.
+Apollo 15's 52nd revolution of the Moon commences at about 178:33 GET.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 178 hours, 53 minutes and we are about 3 minutes away now from reacquiring Apollo 15 on its 52nd revolution of the Moon. The Command Module and Lunar Module are still docked at present time. We've delayed the jettison for one revolution because of an unexplained rise in the pressure in the tunnel which is used by the crewmen to pass from one vehicle to another, and which at jettison would have hatches both on the LM side and on the CSM side sealing it off. During this backside pass, while we were out of radio contact with the spacecraft, Flight Director Glynn Lunney reviewed the situation with his flight controllers and on reacquiring we'll be looking to see that the pressure difference in the tunnel has maintained an acceptable level while the spacecraft was on the backside of the Moon. The crew, just before we lost radio contact with them on the last revolution, had vented the tunnel down so that it had a pressure differential of 3½ pounds, in other words the pressure in the tunnel was 3½ pounds lower than the pressure in the Command Module and if we have a good seal on the tunnel, if we have no leakage across the LM hatch or the CSM hatch, the pressure in the tunnel should be fairly close to this number. The environmental systems engineer, the EECOM, has some acceptable leak rates which he will be looking for and will determine if the leak rate across the hatches, either of the hatches is more than acceptable. The previous time on the last revolution when the crew performed this pressure integrity check on the tunnel, part of the operation was done while we were out of radio contact with the spacecraft and on reacquiring, the pressure difference, the change in the tunnel pressure, was not one that was necessarily unacceptable except that we had not been able to see how it had occurred, and there was some concern that it might have been a rapid change in pressure rather than a slow change. A slow change, if it had been consistent, could have been perfectly acceptable, but since there was an element of uncertainty and we could not be absolutely certain that we had good hatch seals, we instructed the crew to pull the hatches, both in the LM and CSM and check them. We just had a call to the crew, we'll stand by for their response.
+178:56:04 Parker: Apollo 15, Houston. Over. [No answer.]
+178:56:26 Parker: Apollo 15, Houston. [No answer.]
+178:56:50 Parker: Apollo 15, Houston. Over. [No answer.]
+178:57:14 Parker: Apollo 15, Houston. Over. [No answer.]
+Our network controller reports that we may have a ground problem, which is why we're not getting a response from the crew to our calls, and he's checking that, at the present time, to see if we do have a problem at one of our ground - ground stations.
+178:58:13 Parker: Apollo 15, Houston. Over. [No answer.]
+We do have telemetry data from the spacecraft but we' re not getting voice communications, apparently because of a problem on the ground.
+178:58:36 Comm tech: Goddard Voice, Houston Comm tech. Net 1.
+178:58:41 Comm tech: Goddard Voice, you're loud and clear.
+178:58:43 Comm tech: Roger.
+178:58:51 Parker: Apollo 15, Houston, Reacq and Narrow. Over. [No answer.]
+Our telemetry data shows that the pressure in both the LM and the Command Module cabins is normal.
+178:59:49 Parker: Apollo 15, Houston. Over. [Pause.]
+178:59:56 Scott: Houston, Apollo 15. Go ahead.
+178:59:59 Parker: Roger. Do you - Roger. Do you have any good word for us?
+179:00:05 Scott: I'd say LM/CM Delta-P is off-scale high. [Pause.]
+There has been some confusion between the crew and Mission Control. The LM Tunnel Vent valve has been set to vent the tunnel throughout the far-side pass and Mission Control had expected it to be left monitoring a Delta-P of 3.5 on the gauge.
+Flight Plan page 3-291.
+179:00:13 Parker: Roger. And how'd the hatch integrity check go? [Long pause.]
+179:00:28 Scott: Well, we've just had it in tunnel vent all the - the way around the back side as I think you suggested. [Long pause.]
+179:00:53 Parker: 15, did you have a look at holding it in Delta-P to see how the - see how it was holding on there?
+179:01:01 Scott: No, we just left it in Tunnel Vent all the way around the back side. I - That's what we'd thought you'd said to do. We can check it now. [Long pause.]
+179:01:21 Parker: 15, why don't you bring it up to 3.5, and let us watch it for a while. I think we garbled some - and you watch it. I think we garbled something there.
+179:01:33 Scott: Okay. Our understanding was to let it go all the way, and then you get a good look out on this side. So we'll bring it up to 3.5.
+Once the tunnel pressure is brought up to read 3.5 psi less than the CM cabin, Dave begins a timed watch of the gauge's reading.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+179:03:58 Parker: 15, Houston. Two items; one, we want to make sure that you're aware that we cannot read the tunnel pressure, and so we're depending upon your readouts of this Delta-P to give us the confidence here in the hatch integrity. One other item that we do know, is that during all that period when the tunnel was vented, our O2 flow was off-scale low, which does give us some confidence in the integrity of the hatch. And, meanwhile, we're waiting for your call on a 3.5 reading so we can begin a hatch integrity check. Over. [Pause.]
+179:04:36 Scott: Roger.
+179:04:38 Scott: Mark. Two minutes and 3.5 plus or minus 0.
+179:04:44 Parker: Roger. Copy.
+179:04:50 Scott: And - and I think we have the same confidence, Bob. We noticed the low O2 flow also. The only question we had was, why did the Delta-P change? [Pause.]
+179:05:03 Parker: That's the same question that was bothering us.
+As Dave pointed out during his debriefing, any dirt contaminating the hatch seal could easily have been blown clear when the hatches were opened. The cause of the pressure rise will never be known.
+179:05:09 Scott: But, it's steady at 3.5, and has been now for about 2 and a half minutes.
+179:05:15 Parker: Copy. [Long pause.]
+179:05:43 Parker: Okay, 15. This is Houston. We'd like to run that hatch integrity check to about 5 minutes total, because of what we suspect was the problem before. And, if it passes at that point, we'll press on, per the Flight Plan, for following the normal steps. And you can plan, if we have time for it, we're looking for a jett[ison of the LM] at 179:30, at the present time. Over.
+179:06:12 Scott: Roger. 179:30, and we'll give you a call at the 5-minute point.
+179:06:17 Parker: Thank you.
+Comm break.
+At the present time, the crew has vented the tunnel to a pressure differential of 3½ pounds, and then resealed it. And we're going to continue looking at it for a total of about 5 minutes to see if it continues to hold its pressure - to hold the pressure differential. Scott reported after the first 2, 2½ minutes that it was holding well and we'll continue to look at it for another minute or so before deciding with certainty that we have a good hatch seal.
+179:07:38 Scott: Okay, Houston. There's 5 minutes at 3.5 and it looks solid.
+179:07:43 Parker: Roger, Dave. Let's press on with a nominal timeline.
+179:07:49 Scott: Roger. [Long pause.]
+179:08:16 Scott: And, Houston. Are you happy with 3.5 or would you like to bleed it down a little more?
+179:08:20 Parker: Roger, Dave. We're happy with the hatch integrity, and let's open the tunnel vent and bleed down towards 4.0 at - for the nominal setup. And I guess it's on the decal there.
+179:08:31 Scott: Rog. No, the decal says go for 10 minutes in LM tunnel vent.
+179:08:41 Parker: Roger. And I guess that means after hatch integrity, which means beginning now.
+179:08:53 Scott: Rog. Step 7, and it's in work.
+Long comm break.
+With that test, we're satisfied that we do have a good seal on the hatch and we're going to proceed now with jettison and separation. The LM jettison is scheduled to occur at 179 hours, 30 minutes, and the separation maneuver by the Command Module will be at 179:35, or 5 minutes after the jettison.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+179:17:35 Parker: 15, Houston. Your suit integrity check looks good as far as we can tell down here. [Pause.]
+179:17:48 Scott: Well, we had it for about 5 seconds there, and then the O2 flow went back up, so we'll hang on here and see if it comes back down.
+179:17:58 Parker: Rog.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+179:21:40 Scott: Okay, Houston; 15. We got a good pressure integrity check. We're ready to press on.
+179:21:46 Parker: Roger, we agree. [Long pause.]
+179:22:32 Parker: And, 15, we're still aiming for 179:30 for Jett[ison]. And be advised, of course, this means we're going to have to retarget P30 to 179:35. And, other than that, all attitudes will be the same. Although, of course, since you'll be local vertical, your inertial attitudes for the burn will be slightly different than what you've seen. [Pause.]
+P30 is the program for setting up the computer to carry out a burn. As the ignition time has changed by one revolution, it has to be re-entered through P30.
+179:22:59 Scott: Okay. Understand. And your Delta-P is off-scale high now.
+179:23:04 Parker: Roger. And you're 14 minutes past that time [that they began venting the tunnel for the last time]. [Long pause.]
+179:23:44 Worden: Houston, 15.
+179:23:45 Parker: Go. - Go ahead, 15.
+179:23:54 Worden: Roger. Understand. The retargeting on P30 - you want to target that for 179 plus 30 plus 00, and the same Delta-Vs as before?
+179:24:05 Parker: Negative, Al. It's going to be 179 plus 35 plus 00 for the Sep burn.
+179:24:16 Worden: Sorry about that. I meant 179 plus 35. Three zeros Jett, huh?
+179:24:21 Parker: That's affirm. [Long pause.]
+179:24:53 Worden: Houston, 15.
+179:24:54 Parker: Go. [Pause.] 15, go ahead.
+179:25:05 Worden: Roger. We're ready to turn the sequence arm on [to re-arm the tunnel pyrotechnics].
+179:25:08 Parker: Roger. You're Go for turning them on.
+179:25:13 Worden: Okay, and Logic 1, On; Logic 2, On. [Pause.]
+179:25:26 Parker: And, 15, you're Go for Pyro Arm.
+179:25:32 Worden: Roger. [Long pause.]
+179:25:57 Parker: And, 15, we need Direct RCS, On, please. [Pause.]
+179:26:09 Worden: Okay. Directs are on. [Long pause.]
+179:27:04 Parker: And, 15, 3 minutes to Jett[ison], and we're wait - we're watching for Pyro Arm.
+179:27:13 Scott: Okay. We're proceeding through the pre-Jett checklist at this time, and we'll get right to you.
+Comm break.
+This is Apollo Control. We're now about 2½ minutes away from the scheduled time for jettisoning the LM. At the time of jettison, the spacecraft will be in an attitude with the Service Module SPS engine pointed towards the Moon and the LM jettison will occur with the LM jettisoning away from the lunar surface. Following the jettison, the Command Module will perform a small retrograde separation maneuver to assure that there's no chance of recontacting the Lunar Module, and with separation coming at 179:30, the deorbit burn, the burn to impact the Lunar Module into the lunar surface, will occur at 181 hours, 4 minutes, 19 seconds; and we predict impact would be at 181 hours, 29 minutes, 23 seconds.
+Coming up now on 15 seconds to LM jettison.
+And we confirm jettison.
+179:30:17 Scott: And, it's away clean, Houston.
+179:30:19 Parker: Roger, copy. Hope you let her go gently. She was a nice one.
+179:30:25 Scott: Oh, she was at that.
+Comm break.
+Diagram of LM jettison configuration.
+The jettison of the Lunar Module took place at about the middle of the near-side pass. This is 2 hours, 10 minutes later and about 10 minutes further around the orbit than originally planned. The spacecraft's attitude was set with the LM ascent engine and the pointy end of the CSM facing radially away from the Moon at the planned jettison time. At the revised time, that attitude is no longer correct and the separation will not occur in the fashion simulated on Earth. The diagram above is approximate and ignores the inclination of the orbit but we can see that at this attitude, the line of sight of the rendezvous windows is only of the order of 10 to 15° away from the Sun so when a crewmember looks out of them to view the departing Falcon, he would also have had to contend with a brilliant Sun.
+179:32:15 Scott: Houston, 15. Question on the separation maneuver. Do you want us to burn the residuals in P41, or just make 1 foot per second burn?
+179:32:27 Parker: Roger, Terry. Burn them in P41, please.
+179:32:32 Scott: Rog.
+179:32:36 Parker: You understand that's burn the residuals, right?
+179:32:38 Worden: Just - just making - just making sure. [Long pause.]
+This separation maneuver will be performed using the attitude control thrusters, the RCS system, and will be 1 foot per second [0.3 m/s] velocity change.
+179:33:02 Scott: Houston, P41 says 7/10ths forward. [Long pause.]
+179:33:19 Scott: Yes, 7/10ths forward, 7/10ths up.
+179:33:25 Parker: Roger, Dave.
+179:33:29 Scott: And forward takes us right back to the LM. [Pause.]
+179:33:42 Parker: Stand by, Dave. We're looking into that, of course.
+179:33:48 Scott: Okay. We got about a minute and 15 seconds or so.
+179:33:53 Parker: Roger. [Long pause.]
+179:34:34 Scott: Average g is On [i.e. the computer is about to begin the burn and has begun measuring acceleration]. [Long pause.]
+179:34:50 Parker: Ah, hold the burn, Dave.
+179:34:54 Scott: Okay, we'll hold the burn.
+Comm break.
+Note that the spacecraft is not in the same position or attitude with respect to the Moon as it would have been had the jettison occurred on time. As they approached the time of the separation burn, the crew noticed that the computed velocity imparted by the burn would not take then directly away from the LM. They bring this to the attention of Mission Control but continue nonetheless with their preparations for the burn, even though they have reservations about the manoeuvre, trusting the people on the ground to weigh up the situation correctly.
+During our review in 2004, we tried to figure out why a one-foot-per-second backwards burn had become 0.7 fps forward, 0.7 fps up. Note that the calculated burn still represents 1 fps but in a different direction. Our conclusion was that in the two hours or so since the burn was first planned, the attitude of the spacecraft had changed. Also, perhaps small errors in the state vector had built up over that time.
+This last exchange is interesting because it illustrates the nature of the close relationship between a crew and Mission Control. The people in Houston have a very high visibility into the spacecraft, its systems and its trajectory by virtue of telemetry, available computing power and the knowledge and experience of the entire Control Center team; the crew have a high situational awareness by virtue of having their eyes and ears in situ so to speak, and the two sides work together to fulfil the mission's objectives. This is an extension of the aviation model where the pilot in command of an aircraft works with Air Traffic Control to ensure safe travel in what is a very unforgiving medium. In a sense both are in collaborative control, linked in their common purpose by the air/ground communications loop. Rarely do the two get out of phase and when they do, it is usually down to the quality of communication on this loop. Gerry Griffin was one of Apollo 15's Flight Directors.
+Griffin, from 2000 correspondence: "In aviation, pilots don't control what goes on in the airspace, they control their aircraft by a set of rules and by following instructions from the various control facilities who also operate under certain rules. For sure, the aircraft commander can take any action he/she deems necessary to safely operate the aircraft, including disobeying an instruction from an Air Traffic Control Center, Approach Control, or a Control Tower. As soon as the aircraft commander takes that overriding step, he/she will have a lot of explaining to do when they get on the ground, and if they can't convince the powers-that-be that they took the proper course of action given the conditions, they won't be flying anymore, or at least, they won't be flying for a long while. It is no different in the American manned space flight environment."
+Only on Apollo 7 was a situation similar to Griffin's aviation analogy approached when a grumpy commander, Wally Schirra, who was smitten with a head cold, gave ground controllers a hard time, bringing his crewmates into the fray. The ultimate result of this rebelliousness was that none of them ever flew in space again.
+Griffin, from 2000 correspondence: "Like the aviation analogy, the commander in Mercury-Gemini-Apollo controlled the spacecraft and could take any step he felt necessary to operate the spacecraft safely and to finish the task at hand in accordance with the flight plan and mission rules. Those of us in the MCC understood that fully and agreed with it. But when any out-of-the-ordinary situation reached a 'safe harbor' or stopping point, the commander/crew was expected to (and always did) work closely with the MCC to proceed on with the mission. Often the 'next steps' were 'directive' in nature and emanated from MCC, e.g., terminate an EVA early or extend an EVA."
+In the example in question, the crew of Apollo 15 are relying absolutely on Mission Control to be their extended eyes and ears into a complex situation. As has been seen throughout the flight, there are many times when a decision from Mission Control has been vital to the progression of the mission, typified by the 'go/no-go' call which became a media catchphrase of the Mission Operations Control Room. For example Translunar Injection, Lunar Orbit Insertion and the final decision to land on the Moon (Powered Descent Initiation).
+Griffin, from 2000 correspondence: "The MCC also had to make sure the ground-based systems and the systems the crew couldn't see (e.g., the S-IVB before TLI, or the Command Module before PDI) were ready. Then, we unequivocally told them that we were go, or no-go. If the MCC and the crew were 'go', the crew was expected to carry out the 'next step'. Of course, similar to the aviation analogy, the commander/crew could hold off performing one of those milestone events even after we both had agreed it was go if they didn't like something they saw. If they were right, so be it - good catch - but, they had better be right."
+The Mission Control Center evolved during the 1960s through the Mercury and Gemini programs, beginning with Chris Kraft as the model for the Flight Director. He defined this role as well as that of Mission Control and the crew. Around him, the very best engineers and specialists were brought together, some in the MOCR (Mission Operations Control Room), others in outlying rooms and buildings or at contractors premises, able to coordinate and run a normal mission, and to react and troubleshoot an anomalous one.
+Griffin, from 2000 correspondence: "Simply stated, it was the best flight operations team ever assembled. It was built on respect, trust and teamwork. The flight crews and flight controllers were a tight bunch who trusted each other to do the right thing. The only time it didn't work, and work extremely well, was Apollo 7; and even at that, the mission turned out to be a huge success."
+Both the crews and Mission Control became media icons during Apollo, when international TV coverage of the astronauts at their work was interspersed with a wide-angle shot of the MOCR during periods when no pictures were available from the spacecraft. Images of serious-looking people in shirt and tie, seated at high-tech consoles where screens flickered and lights blinked, became part of the public mythology of American spaceflight. A generation on, the imagery of astronauts and Mission Control turns up on film with 'Contact', 'Apollo 13', 'Deep Impact', 'Armageddon' and the TV series 'From the Earth to the Moon'. But, as is often the case, this is an incomplete image.
+Griffin, from 2000 correspondence: "I think it's important to put the flight operations team into perspective. The astronauts didn't run the Apollo program, neither did the flight controllers, and neither of the two were totally responsible for the success of Apollo. The Apollo program was run by a very capable bunch of 'guys-on-the-ground' who managed the funding for and the building of the flight and ground hardware. These same guys also got the agency enough money to hire the best people in the world at NASA and its contractors to do the work - including astronauts and flight controllers. The MCC included all of these 'guys-on-the-ground', not just the flight controllers from the Flight Control Division at JSC. When a decision was made by the entire team on the ground it was always discussed with the crew for their input, adjusted if necessary, then implemented.
+Griffin (continued): "While the astronauts and flight controllers got most of the visibility in Apollo, we both were actually very small, albeit very important, parts of the program."
+In our review of 2004, Dave Scott took this discussion further.
+Scott, from 2004 mission review: "Mission Control doesn't have any control over the spacecraft, so it's Mission Advisory. It's like air Traffic Control, that's true, they control the airspace but they don't control the airplane. They advise the airplane and the commander, pilot, whatever, is accountable for all of his actions and that's basically the way the system works. Robots are robots, and robots are controlled from the ground. When people are in there, they're not robots. So the situational awareness pretty much drives the decisions that are made. And my point is that it's a team, just like Gerry's written. He's right. He's absolutely correct in everything he says.
+Scott (continued): "I'll give you the Wally Schirra situation in Apollo 7. Wally didn't handle it right at all. It's very unfortunate because it embarrassed everybody. On the other hand, they were trying to get him to do a TV show and in his mind, on board the spacecraft, he really didn't have time to do that and he was concerned about the mission because it was so critical. 7 had to be successful or there wouldn't have been an 8. So if I take Wally's view of the thing and if I don't feel like I can do this television show, I would not do it, because it's a TV show. It's a situational awareness thing in which, I guess, Wally felt like, 'I can't do this now.' But then the way he handled it was really poor because he jumped on the Mission Control guys and he shouldn't have done that. That's the accountability part. The commander's accountable for not only his actions, but the way he handled stuff. So it was a downer for everybody but it goes back to the philosophy of the semantics and whatever. Who's in command and who's in control and who's advisory - it's a team kind of thing. Everybody has to work. I would never do anything without asking MCC, 'What do you think, man? What do you think?' Then, as the commander, you have to integrate that with the situation, which MCC can't see.
+Scott (continued): "You have to balance the situation and the situational awareness with the advice from MCC because they have much more data to look at so their advice is invaluable to the situational decision. But it's not a command. Some people in management and MCC would consider it a command but that's OK. The commander, in a situation, sometimes has to override the words that he gets from MCC in order to complete the objectives for which he's responsible."
+Woods, from 2004 mission review: "What becomes interesting then is if we do, in a generation's time, get a mission to Mars going. One of the oft-stated advantages of sending humans to Mars is that they can bring their situational awareness to the situation. We can see, with the Mars rovers, how slow it is to get signals sent, have something happen, get confirmation back, make a decision. It's a very slow process. Having people there, we're giving them the power to do things according to how they view the situation and with such a long transmission time then the equation of command and control changes. How do you think that might change then? Will that mean more control goes to the Mission commander?"
+Scott, from 2004 mission review: "Yeah. You're just extending the time. In other words, because there's a longer time delay which means that the commander has more time to exercise an action. And it's sort of like launch aborts in Apollo where, given a situation, the ground doesn't have time to say anything, although the ground has an abort command they can send. they can send Abort light - big red light comes on, says 'Abort' but you don't abort unless you have two independent cues because it could be a spurious light. So that's a decision the commander has to make in real time in which there's no time for a discussion. Somebody has to make a decision. Then it goes back to the old railroad. The guy who's driving the train, if it goes off the tracks, he's the guy who picks up the marbles. He's responsible for the train staying on the tracks. Doesn't matter who says anything from outside. If the mission gets blown because of whatever action the crew may take, the crew is going to be responsible for that. You can't go back and say, 'He told me so. I did that because he told me so.' That doesn't float, because if something goes wrong and the train comes off the tracks, they look at the guy driving the train."
+Woods, from 2004 mission review: "What comes out of the missions a lot is that you can see that there's a possibility for an awful lot of conflict. And yet that didn't happen very much. It was a very rare thing. The Apollo system and Gemini and Shuttle is remarkably team driven."
+Scott, from 2004 mission review: "Oh, absolutely. And in fact even on Apollo 7, that wasn't so much a conflict of the events and actions on the spacecraft. It was a conflict between the attitude of Wally and MCC. Because you can rationalize. I don't know what the inside part of the situation was on the spacecraft, but he probably should have said, 'Hey, I think we need to hold off on the television show because we're behind up here,' or, 'we need to do something up here to make sure we get the burn or alignment or whatever off,' in a sort of advisory sense to the ground, sort of a negotiating thing. Let's hold off because we've got a problem up here. And the ground probably would have said, 'That's fine. Hold off.' But Wally says, 'I'm gonna do what I wanna do.' That gets everybody's fur up. Got everybody inflamed. So I think it's a teamwork kind of stuff."
+O'Brien, from 2004 mission review: "A good example of that worked where the commander says not only 'No' but 'Hell, no!' was in Frank Borman. By the time they got to lunar orbit on Apollo 8, their sleep schedules were in such terrible disarray and he said, 'No. We're not going to do any more photography. We're gonna get some rest. We're gonna take care of the crew.' And that wasn't done as pounding on the panel and screaming at them. He says, 'This is my assessment of the situation up here.' I think that's a good counter to the Wally experience."
+Woods, from 2004 mission review: "He was very good at setting his authority onto the mission without riling everybody."
+Scott, from 2004 mission review: "And MCC is really advisory. It's Mission Advisory Center. They give you advice and you should take the advice. And I guess, from a commander's point of view, yeah, you could consider that an order."
+Woods, from 2004 mission review: "You will be taken to task for it."
+Scott, from 2004 mission review: "Sure, of course you are. You are responsible for your actions and you're held accountable. So as a commander, you have to make decisions and you have to take actions and you're held accountable for the positive and the negative. And if the train goes off the track because of some advice you got from MCC, you're still accountable for that. They don't go back to MCC and say, 'Your fault.' They'll criticize whatever may happen, but they go to the commander and say, 'Man, you screwed up and you didn't get the job done.' So it's the authority/responsibility trade-off too, and the commander has the authority to run the mission but he sure as hell better listen to MCC because that's where he gets a lot of his best input."
+Woods, from 2004 mission review: "Because they have the data from the spacecraft. They can see things he can't."
+Scott, from 2004 mission review: "They've got a lot more data, sure. It's sort of like, you know, in the spacecraft, the Lunar Module Pilot, you know, systems engineer, whatever, has a lot to see and a lot to say and you'd better listen to him."
+O'Brien, from 2004 mission review: "I saw the MCC/crew relationship as being a direct extension of ATC and aircraft."
+Scott, from 2004 mission review: "Not really. Because part of ATC's job is to control the airspace of other airplanes. See, there aren't any other airplanes in space. So in air traffic control, they are controlling an area, a region or whatever, with a lot of airplanes going in and out and up and down. So they issue advice to the pilot of an airliner or whatever. But it's based, not just on what the airliner's doing, but it's based on all these other objects out there. And, by golly, you'd better listen and move, or go to the altitude and heading they say, or you may run into somebody. In space, hopefully, we won't run into something. So it's a different situation. You can't draw a direct analogy because air traffic control is monitoring one more dimension, and that's all the other airplanes and the ground facilities. MCC doesn't have to worry about other objects. They gotta worry more about the complexities of the spacecraft and the systems and that stuff, whereas ATC doesn't worry about the complexities of an airplane's engine."
+O'Brien, from 2004 mission review: "Right. ATC has no knowledge of the status of the aircraft and isn't there to make a decision based on it."
+Scott, from 2004 mission review: "Yeah. And MCC does."
+Woods, from 2004 mission review: "A pilot can fly his aircraft and he can see he's keeping off the ground, keeping clear of hills. But in the spacecraft, you are so much at the mercy of Newton and you're very much trusting that people in Mission Control have done their calculations correct. You'll have some level of knowledge based on on-board navigation, but in general, you had to trust completely the numbers that were being read up by Mission Control."
+Scott, from 2004 mission review: "That's true, but in essence though, airplanes are sort of the same because a lot of times you trust the radar on the ground to take you to a place. And unfortunately, that doesn't always work right. I had a couple of guys, good friends when I was flying, who spent about six days in life rafts in the Mediterranean because the flight controller on the ground gave them the wrong instructions and they ran out of gas. And they were relying on ground control. The guide-to radar site said go the wrong direction and so they did and they ran out of gas and had to bail out. So you say, 'Boy, I'm gonna be very careful about what I listen to on the ground and I'm going to make sure that I make my decisions based on all the information but maybe more on-board than the ground.' And that sort of culture gets built into you too."
+O'Brien, from 2004 mission review: "At the same time you have to put yourselves in their shoes where you have to have your own situational awareness and try to view MCC's recommendations with that in mind. If I was on the backup crew and I was on the flight control team, what decision would I make, and project that forward to understand the rationale for that."
+Scott, from 2004 mission review: "Sometimes you don't have time to discuss it but that's true. Another mindset of those of us who were flying during those days was that we had a lot of flight experience alone in airplanes where we had to make these kind of decisions and if you don't have that, then you have a probably more open mindset to MCC's instructions or advice. In other words, if you haven't been in these situations where you got bad advice or had to make decisions on your own in flight then you would rely more totally on MCC because you don't have this experience of needing to do your own decisions on all the data."
+Woods, from 2004 mission review: "So you would accept what they're saying but give it a second thought just to make sure it fits in with your sense of what's going on around you."
+Scott, from 2004 mission review: "Yeah."
+O'Brien, from 2004 mission review: "And so the idea of flight experience is very important. The idea of you being a single seat fighter pilot versus where you have half a dozen people on the flight deck. You are the ultimate responsibility, you are the tip of the iceberg in the chain of command."
+Woods, from 2004 mission review: "It's part of what made Apollo a success from the crew and Mission Control and backroom folk and contractors. All the way down. That's good. Thank you very much for bringing that to it."
+179:36:26 Parker: 15, this is Houston. We'd like to have visual reference relative to your position to the LM. We'd like you behind the LM. And, we'll give you a burn attitude for 5 minutes from now. [Pause.]
+179:36:42 Scott: Roger. [Pause.] Okay, I guess she's 150 feet [45 metres] dead ahead.
+179:36:53 Parker: Okay. Copy, Dave. Thanks.
+Comm break.
+Scott, from the 1971 Technical debrief: "The jettison went with a bang and worked as advertised. [To Worden] You could see the LM drifting out your [rendezvous] window. Did you ever run the SEP burn in the simulator?"
+Worden, from the 1971 Technical debrief: "Yes, I did the SEP burn in the simulator per the Flight Plan. We did that the last day. If we had been at the right attitudes, it would have worked the same in flight. By the time we did the jettison, we were in a different place, and there was some confusion about which direction to make the SEP burn. We needed to get some words on that, because I was confused then as to which direction to go."
+Scott, from the 1971 Technical debrief: "Yes, the thing that was somewhat confusing was that the LM was right straight out the front window, and part of the burn was directly toward the LM. There again, we thought, let's be careful and not blow it here at the last minute. It did not look too good. I guess that is why we got into the confusion factor. Our concern was to be sure that we made a good SEP maneuver."
+Worden, from the 1971 Technical debrief: "I recall getting a call from the ground, saying burn the numbers as the SEP PAD called. When we were at that attitude and we called up P41 to do that, in body axis, that turns into a burn which was directly at and above the LM. That's when we decided that we had best get this straightened out."
+Spacecraft Communicator Bob Parker double checked the attitude - or the position of the Lunar Module relative to the Command Module. And while we were getting that double check, we delayed the separation maneuver for 5 minutes. And we're, at this point, waiting for the Flight Dynamics Officer to recompute the burn attitude. And we'll be performing that separation maneuver in about 3 to 4 minutes from now.
+179:38:14 Parker: And, Dave. Can you verify, were you behind, in local vertical, or body attitude coordinates?
+179:38:24 Scott: Well, give us a little while to figure that one out.
+179:38:26 Parker: Roger. Are you behind it in the orbit, or are you just - is it just sitting there in front of you as you sit there and look at it?
+179:38:34 Scott: It's sitting in front of us when we sit there and look at it.
+179:38:41 Worden: Bob, we're almost directly radially inward from the LM right now.
+As the diagram below will show, this is only very approximately correct. For one thing, all the windows are facing roughly forward and at this attitude, away from the Moon. Dave will use the 8-ball to get an accurate number for attitude.
+179:38:47 Parker: Copy that. [Long pause.]
+179:39:25 Scott: Houston, our attitude is 150 degrees relative to the local horizontal.
+179:39:33 Parker: Say that again, please, Dave.
+179:39:37 Scott: Rog. Our attitude, according to Verb 83 down there, is 150 degrees, relative to the local horizontal. Which means we're, I guess, fairly close to local horizontal, at least within 30 degrees. [Long pause.]
+179:40:28 Parker: Stand by, guys. Confusion still reigns, I think.
+179:40:35 Scott: Roger. Understand.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+179:43:22 Parker: 15, do you have an ORDEAL ball going at the moment?
+179:43:27 Scott: Sure do, and it's on the DSKY; you can see it right down there.
+The FDAI (Flight Director Attitude Indicator) ball displays the attitude of the spacecraft with respect to the current alignment of the IMU (Inertial Measurement Unit), the gyroscopically stabilised guidance platform which is mounted within three gimbals and which stays fixed in orientation even as the spacecraft's orientation changes. There are times when knowing this attitude is of little use. For example, often, when in orbit around Earth or Moon, the spacecraft is required to keep one side facing the surface below. Here, it is more important to know the spacecraft's attitude relative to that surface and so the ORDEAL (Orbit-Rate Display Earth And Lunar) drives the FDAI ball in step and in phase with the spacecraft's orbit. Now, by looking at the FDAI, an attitude relative to the local horizontal can be found. Additionally, this attitude can be brought up on the DSKY (Display and Keyboard).
+Currently, the spacecraft's attitude is fixed with respect to the stars so as they go around in their orbit, their attitude, relative to the local horizontal, is constantly changing. They are going further and further from the originally intended attitude of having the SPS engine bell pointing towards the Moon.
+179:43:30 Parker: Thank you. [Long pause.]
+179:44:04 Parker: Roger, Dave. We would like you to do a VFR burn, which means go - maneuver to a trailing position - and fire one foot per second retrograde. Understand?
+179:44:16 Scott: That sounds like a good burn. Rog. We'll do that. [Long pause.]
+VFR is aircraft pilot's speak for doing things by eye. It stands for Visual Flight Rules and when the weather is clear and a pilot can see the ground and horizon clearly then visual cues can be used to approach and land or avoid high ground, aerial obstacles or other aircraft. The corollary is IFR or Instrument Flight Rules when visibility is poor or even non-existent, as happened to some Apollo commanders during the final few feet of descent to the lunar surface when dust, raised by the exhaust gases from the descent engine, formed an opaque sheet of debris above the ground.
+Scott, from 2004 mission review: "'Maneuver to a trailing position...' See you can't tell that from orbit, because you're not flying through the air. You're drifting in inertial attitude and the Moon may be below you but he can't tell really whether you're trailing. You got little teeny windows. You can't see much."
+The call from the CapCom is ambiguous and illustrates the importance of language between Mission Control and the crew. In lunar orbit, with two spacecraft, the Moon, the Sun and Earth, all in a ballet of celestial mechanics, it is crucial that instructions are phrased clearly. The geometry is complicated to visualise and use of the word "trailing" is misleading. Mission Control simply want them to aim at the LM and fire backwards, but the crew interpret it as being with respect to the Moon, and currently, looking at it that way, they are not trailing it, they are leading it.
+This is Apollo Control. The separation maneuver which...
+179:45:19 Scott: Houston, 15. This ought to make for some interesting discussion, but I guess what you want us to do is point at him and burn aft to one foot per second; is that correct?
+179:45:28 Parker: Roger, Dave. That's probably the best way to keep an eye on him.
+179:45:34 Scott: Well, we're having a tough time doing that, because he's right in the Sun right now. [Long pause.]
+179:45:54 Scott: But, Houston, I think at this attitude, a one foot per second aft will give us sufficient clearance. Don't you? [Pause.]
+179:46:06 Parker: As long as you're trailing him, Dave. I guess, right now, we can't give you any sound advice down here.
+179:46:14 Scott: Okay, well, if we burn one foot per second on the local horizontal, which we are almost on right now, I think that will put us in a orbit which re - remains clear of it. [Long pause.]
+179:47:01 Scott: Okay, Houston. As far as trailing goes, right now as we look over the ground, we're leading him.
+Diagram of CSM/LM orbital configuration at separation maneuver.
+The diagram shows why the CSM is leading the LM. The original attitude for jettison and separation is being maintained as the two craft drift apart but the curve of the Moon is taking their alignment closer to the local horizontal with the CSM leading.
+Because of the use of language, the crew and Mission Control are significantly out of phase with each other.
+179:47:06 Parker: Roger. That's our...
+179:47:07 Scott: We're about on a horizontal in front of him.
+179:47:10 Parker: Roger. We need you behind him, Dave. That - we were gradually coming to that conclusion. That was the only way you could have him in the Sun. We need you behind him and then a firing of retrograde. [Pause.]
+Bob Parker has compounded the misunderstanding. He means that they should point at the LM and fire away, but the word "retrograde" has a precise meaning in celestial mechanics; opposite the orbital motion. Since they are leading the LM around the Moon, they now think that they have to manoeuvre so that they will be trailing it, and that they then want to slow down their orbital motion slightly to increase the separation.
+179:47:26 Scott: Yeah, that's going to take an awful lot. Because we're a fair ways out now, and we'll have to maneuver quite a ways to get behind him, and it'll take quite a while and a little bit of gas.
+179:47:37 Parker: Roger, Dave. Understand that. Stand by. [Long pause.]
+Mission Control now figure out the misunderstanding and tighten up the language. By firing posigrade, that is, in the same direction as Endeavour's orbital motion, they can take it further away from the LM.
+179:48:07 Parker: Okay, Dave. How about 2 foot per second posigrade, as long as you're in front of him. Understand? 2 foot per second posigrade. [Long pause.]
+179:48:32 Scott: Okay; so that'll be a minus-X Delta-V for 2 feet per second at out present attitude, right? [Long pause.]
+179:48:49 Parker: Rog. That affirm, Dave.
+179:48:53 Scott: Okay. We're all in the same frequency. We'll do that.
+Comm break.
+The usual colloquial phrase would be "We're all on the same wavelength." but the meaning is the same. Everybody now understands everyone else and the confusion has gone.
+Worden, from 2000 correspondence: "We will probably debate many of the aspects of all the Apollo flights for a hundred years, but the essential fact is that we did amazing things working as a team, not as sovereign powers maneuvering for position. I believe there were some critical mistakes made by the ground, and some slow and maybe out of focus actions on the part of the crew (and nobody will really understand the fatigue that Dave and Jim were experiencing). We also piled on too much work at critical times of the flight, such as the SIM stuff just as Dave and Jim were getting back in the CM."
+We show the separation maneuver in progress at this time.
+179:50:02 Worden: Okay, Houston. We put in 2 feet per second aft. And that was done just at local horizontal.
+179:50:10 Parker: Roger, copy. Thank you. [Long pause.]
+Scott, from the 1971 Technical debrief: "I guess we could have made that one, and you could have made sure that we did not hit by deftly maneuvering around the LM. It just didn't look right. Subsequently the ground figured it all out, and we got a 2-foot per second retro, which was a nice burn. It gave us a warm feeling, and then we all went to bed."
+Worden, from the 1971 Technical debrief: "I thought the second call was a little bit confusing, too. The second call we received from the ground said, 'We want you to burn retrograde behind the LM. Get behind the LM and burn retrograde trailing.' We were way out in front of the LM at the time, and it would really have been a major maneuver to get around behind the LM at that point. So, there was some confusion by the ground as to what our positions were in the orbit at that time."
+Scott, from the 1971 Technical debrief: "You could see the LM for quite a while afterwards."
+Worden, from the 1971 Technical debrief: "I watched the LM until we got busy doing other things."
+The timing of the separation maneuver is not critical and won't affect the events with the Lunar Module; the deorbit burn and the subsequent impact of the Lunar Module. We took some additional time to assure that the crew aboard the Command Module had good visibility of the Lunar Module at the time they performed the separation. And they completed the maneuver using the attitude control thrusters, changing their velocity [by] 2 feet per second to assure they got adequate separation from the Lunar Module.
+179:50:45 Parker: And, 15; if you can anticipate, why don't you give me a call when you get yourself partially powered down from this. Then we'll read you some Flight Plan updates, which are mostly just the deletion of activities so you can get to bed.
+179:51:03 Scott: Okay, Houston. Appreciate that. Thank you, and we'll call you back.
+Long comm break.
+By the Flight Plan, the crew should have already begun their rest period. Instead, they have to catch up on the tasks and chores which would have been completed while their pressure integrity problems were being ironed out. In particular, they can now maneuver to the SIM bay attitude with the SPS engine bell facing forward and the Mass Spectrometer's inlet facing into the direction of travel. All the particles and fields experiments are to be operated throughout the upcoming rest period as is another bistatic radar experiment using the VHF band via the left VHF antenna mounted on the side of the Service Module.
+And CapCom has just advised Dave Scott that we're going to proceed on with the power down as soon as possible to allow the crew to get some much needed rest.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+179:55:32 Parker: 15, Houston. You got a moment for this update?
+179:55:38 Scott: Just a minute, Bob. [Long pause.]
+179:56:06 Irwin: Okay, Bob. What changes do you have for us.
+179:56:07 Parker: Okay. These will start out in the Flight Plan here. And, after LM Jett, we'd like you to proceed with the activities that run on the original Flight Plan from 177:30 through 178:01. So that last entry that we will be doing will be the line that says "X-ray, On" at the very top of that next page.
+These are the activities to begin gathering data from the SIM bay.
+Parker (continued): After that - during that, though, we will delete at 177:53, the line that says "Mapping Camera/Laser Experiment Covers, Open, talkback, barber pole, then, Off, center." It's the second line in the block at the bottom. You got that?
+179:56:56 Irwin: Okay, understand. We'll delete that particular line, "Mapping Camera/Laser Experiment, Off," and we'll do all the activities up to - through 178 there, the Mass Spec. X-ray, On.
+179:57:11 Parker: Roger. And at the - on that same page, beginning at 178:20 to 178:30, we will scratch that particular - that whole block of items. And going along with that, at 178:39, it says "DAC, On;" we'll also scratch that. Over. [Pause.]
+179:57:11 Irwin: Roger. Understand. We'll scratch the activities from 178:20 to 178:30. And, at 178:39, we'll scratch "DAC, On." How about the activity there at 18:31 [means 178:31]? We - guess we'll do that, huh?
+179:57:58 Parker: Roger. At 178:31, that "Mass Spec., Multiplier, Low, Discriminator, High: Ion Source, On" will be done 30 minutes - three zero minutes after the Mass Spec. Experiment, On; Ion Source to Standby, which is over there at 178:01. [In] other words, we need a 30-minute delay between the top item on the left-hand column and the top item on the right-hand column.
+179:58:27 Irwin: Okay, we understand.
+179:58:29 Parker: Okay, we'll delete the Pan Camera activities over on 179 hours. There's one at a hundred [pause] 15, if you read, there's one item at 179:16, and another item at 179:21 that pertain to the Pan Camera. We will delete both of those. [Pause.]
+179:59:02 Irwin: Okay, understand. Delete the Pan Camera action at 179:18 and 179:21.
+179:59:11 Parker: Roger. Copy. And when your ready to sleep, I guess you can start with the Systems Checklist - pre-sleep checklist at 179:31, there.
+179:59:22 Irwin: Okay, thank you, Bob.
+179:59:24 Parker: And you'll noticed we didn't delete the eat period. [Pause.]
+179:59:32 Irwin: Thank you.
+179:59:34 Parker: And - and, Jim; do you guys want a TEI-58 PAD? [Long pause.]
+179:59:52 Irwin: Okay. We'll take one.
+179:59:54 Parker: Okay. If you got - have you got the [writing] pad out?
+179:59:59 Irwin: No, stand by.
+Flight Plan page 3-292.
+180:00:00 Parker: Give me a call.
+180:00:05 Irwin: Okay.
+180:00:08 Parker: Okay, Jim. Understand you have the [writing] pad. SPS/G&N; 36363; plus 0.61, plus 0.93; 192:13:33.30; plus 2799.7, plus 0609.5, minus 0098.0; 181, 112, 015. Rest of the PAD [is] NA. Ullage: 4 jet, 12 seconds. Over. [Pause.]
+An interpretation of the PAD follows:
+Purpose: This PAD is one of a continuing series they have received from Mission Control since leaving Earth orbit over a week ago to ensure they always have enough information available to get them home should they lose communication with Earth and have to return early. The burn defined by this PAD would only be used in an emergency and would then occur towards the end of revolution 58.
+Systems: The burn, if required, would be made using the SPS engine under control of the G&N system.
+CSM Weight (Noun 47): 36,363 pounds (16,494 kg).
+Pitch and yaw trim (Noun 48): +0.61° and +0.93°.
+Time of ignition, TIG (Noun 33): 192 hours, 13 minutes, 33.3 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +2799.7 (+853.3); y, +609.5 (+185.8); z, -98.0 (-29.9). These velocity components are expressed with respect to the local vertical frame of reference.
+Spacecraft attitude: Roll, 181°; Pitch, 112°; Yaw, 15°. The spacecraft attitude for the burn is expressed relative to the lift-off REFSMMAT.
+SPS propellants are settled in their tanks by firing the plus-X thrusters on all four quads around the Service Module for 12 seconds.
+180:01:08 Irwin: Understand. It's a TEI-84 SPS/G&N; 36363; plus 0.61, plus 0.93; 192:13:33.30; plus 2799.7, plus 0609.5, minus 0098.0; 181, 112, 015; 4 jet for 12 seconds.
+180:01:34 Parker: Roger, Jim. Except it's TEI-58.
+180:01:41 Irwin: Roger. It's 58. [Pause.]
+Jim is normally extremely accurate at taking dictation from Earth. His small slip here is another hint of his, never mind his crewmates tiredness and an illustration of the importance of as many people as possible checking each other to catch fatigue-induced errors.
+180:01:47 Slayton: Okay, Jim. And, while we got you, - this is Deke. I'd like to have you and Dave, at least, take a Seconal here before you go to sleep so you can really power down for the night. You guys need it. It's up to Al whether he wants one or not.
+180:02:04 Irwin: Okay, thank you, Deke.
+180:02:06 Slayton: Roger.
+Comm break.
+Seconal is a sedative to help the crew sleep well.
+One of the rules of Mission Control, or the MOCR as it is known to those who work there, is that only the CapCom speaks to the crew and the CapCom is always an astronaut. As Deke Slayton is an astronaut as well the flight crews' boss, he joins the loop on very rare occasions.
+Scott, from 2000 correspondence: "The CapCom policy was not a matter of etiquette, it was a matter of efficiency and discipline - the CapCom trained for his role and became very proficient; others without such training would hamper the smooth-running Mission Control machine; and might cause real problems by not being qualified or proficient - one reason Slayton makes few comments."
+Slayton had a vital role within the MOCR as well as the overall structure of Apollo as he provided a link between the upper levels of management, of which he was a part, and the nuts-and-bolts drive of the operations people, especially the flight controllers and crew. Gerry Griffin was one of the Apollo 15 Flight Directors.
+Griffin, from 2000 correspondence: "During Mercury, Gemini and Apollo those of us in flight operations were very fortunate, in that most of NASA's upper management knew they weren't familiar enough with what we did to interfere in the real time operation. For the most part, particularly when we had an in-flight problem, upper management mainly wanted to know what they could do to help us. To be sure, it took some time during a mission to 'bring along' some of NASA's upper management, but we considered it part of the job of being a Flight Director and it usually wasn't too arduous.
+Griffin (continued): "Deke was in a very unique role, though. He was a member of upper management, but Deke had a strong operations mentality. Like the rest of us in flight operations, he wanted to get the job done at an acceptable level of risk. Often he was caught in between some of the 'Let's be careful' NASA upper management and the 'Let's get the job done' flight operations team, usually represented by the Flight Director. In most instances Deke tended to lean toward the view of the Flight Director because he knew and trusted that we would never suggest or do anything to put the crew at undue risk. Deke often even helped us to 'sell' an idea to some members of NASA's upper management. He knew that the flight operations team, again usually represented by the Flight Director, had spent months, even years, working closely with the astronauts and that we knew them and their capabilities extremely well. Now, having said that, make no mistake that Deke constantly 'looked out' for the astronauts during a mission. If he thought it was time to make an input concerning the crew, including giving them some rest, medication, or whatever, he would say so. But, I don't recall a single instance where I disagreed with Deke during any Apollo mission! A few times Deke did talk directly to the astronauts, but always in full accord with the Flight Director. He had these direct conversations for three primary reasons: one, when he wanted the crew to know that he had personally looked into and approved of something unplanned (and maybe pretty bold) that we wanted them to do; two, when he wanted to solicit the crew's opinion on something as part of trying to solve a problem or make a major mission decision; and three, when he wanted the crew to know that he personally really wanted them to do, or not to do, something - about as close to a 'direct order' as he would ever issue during a flight.
+Griffin (continued): "Bottom line: in my opinion, Deke Slayton was a great asset to the space program, particularly in the role he played as Director of Flight Crew Operations during Apollo."
+In the event, the crew elect to do without sleeping pills on this occasion. We visited this topic during our mission review in 2004.
+Woods, from 2004 mission review: "You didn't feel that it was appropriate at that time to take Seconal? You felt subsequently that they should have told you about the heart problems they were seeing?"
+Scott, from 2004 mission review: "Oh, yeah."
+Woods, from 2004 mission review: "Would you then feel you would have understood better why they wanted you to take Seconal?"
+Scott, from 2004 mission review: "Yeah, probably. I'm not sure we would have taken it. I don't know what we would have done because we didn't have any information. To make any judgement other than - Slayton says, 'You guys are tired. Get a good night's sleep. Take Seconal.' We didn't need to take it. We were tired. So, in that stage of the game, that was sort of a far-out comment. Take Seconal. For what? So the fact that they were trying to correct a deficiency without explaining to us the deficiency. I mean, maybe as an example, if you have a heart problem, probably a better thing to do is take Aspirin. We had plenty of that on board."
+Harland, from 2004 mission review: "We know that now. Did we know that then?"
+Scott, from 2004 mission review: "Yeah, they knew a little bit about that then. Sure."
+See further discussion at 202:45:42 when Mission Control query whether they took them or not.
+180:03:37 Parker: 15, Houston. We have a correction to that update, if you'd get the Flight Plan back out please.
+180:03:47 Irwin: Okay, go ahead.
+180:03:48 Parker: Roger. That item 178:30, on the Mass Spec., the discriminator value there should be Low. Copy? [Pause.]
+180:04:04 Irwin: Roger. Understand, Discriminator, Low.
+180:04:07 Parker: Thank you, Jim.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+180:07:35 Slayton: Apollo 15, Houston. You're about one minute until LOS. Sleep tight.
+180:07:44 Worden: Right, Deke. Goodnight.
+Very long comm break.
+This is Apollo Control. We've had Loss Of Signal now. Again to go back over and sort out some of the activities on that revolution. We successfully completed the LM jettison and that occurred at 179:30, after reverifying that the tunnel was maintaining the proper delta pressure - pressure differential, and that we had a good tight Command Module hatch seal. We had planned to do the separation maneuver performed in the Command Module using the Reaction Control System thrusters at 179 hours, 35 minutes; and just before the maneuver was to be performed, Dave Scott gave us a call indicating that he wasn't quite sure that the attitude we had given would be in the proper direction to avoid recontact. At that point Flight Director Glynn Lunney told the CapCom to call off the burn while we sorted everything out, made sure that there was no confusion and after reviewing the position of the Lunar Module, double checking that with the crew - the relative position of the LM with respect to the Command Module - and providing them an attitude which could be a burn giving them, at the same time, a view of the LM and keeping the Sun out of their eyes, we performed the maneuver about 10 minutes late to about 14 minutes late at 179 hours, 49 minutes. The timing on this burn is not critical for separation, thus there is no concern about delaying it to make sure that everyone agreed that we were in the proper attitude and that the maneuver was in such a way that the crew would be able to see the LM and also to keep the Sun out their line of sight.
+The LM impact is scheduled now to occur at 181 hours, 29 minutes, 23 seconds; and this will be about 25 minutes after the deorbit burn which will be performed on command from the ground at 181 hours, 4 minutes, 19 seconds. The one revolution delay in performing the jettison will affect, of course, the LM impact time. This time that we've just given you is approximately one revolution later than the Flight Plan time. However, by the time we've completed the sleep period tonight and back in activities tomorrow, we should - we would expect to see no change to the Flight Plan for such events as Trans-Earth Injection and subsatellite deploy and this sort of thing. We would expect that the delay in performing the jettison tonight would have no effect on these downstream Flight Plan activities. The principal concern at the present time is to get Jim Irwin and Dave Scott to bed at the end of a very long day. The Flight Activities Officer [FAO] reported that he felt they could probably begin their sleep period, in fact may already be asleep by the time we reacquire the spacecraft on its next frontside pass. Virtually all of the activities requiring their assistance have been completed. The other activities aboard the Command Module can easily be handled by Al Worden, and Dave Scott mentioned that they were going to be getting a bite to eat and we would hope that they would either have begun their sleep period by the time we reacquire or will begin the rest period shortly after we reacquire on the 53rd revolution. At 180 hours, 13 minutes; this is Apollo Control, Houston.
+The 53rd orbit of Apollo 15 begins at about 180:30 GET.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 180 hours, 52 minutes. And we're now 2 minutes from reacquiring the spacecraft. We would hope that Jim Irwin and Dave Scott either have begun their rest period, or will shortly after we reacquire the spacecraft. And on this revolution, the major activities will be the Lunar Module deorbit burn and LM impact. The deorbit burn is scheduled to occur at 181 hours, 4 minutes, 19 seconds; with impact on the lunar surface occurring about 25 minutes later at 181 hours, 29 minutes, 23 seconds. The impact coordinates are 26.12 degrees north and 1.06 degrees east. Let's correct that to say 26 degrees, 12 minutes north, and 1 degree, 6 minutes east, rather than hundredths of degrees. So that would be 26 degrees, 12 minutes north, 1 degree, 6 minutes east; impact coordinates for the Lunar Module ascent stage.
+The ascent stage of Falcon will finally impact one degree west of this point in the middle of Palus Putredinus directly between the crater Archimedes and the Apennine mountain range, about 90 kilometres from the landing site.
+The LM, at the present time, is in an orbit 64.3 nautical miles by 52.2 [119.1 by 96.7 km]. And at the time the deorbit burn is performed, we estimate that the Command Module will be 8 [nautical] miles [15 km] behind and about 2¼ miles [4.2 km] above the LM. We should have Acquisition Of Signal from the Command Module in about 1 or 2 seconds. And our network controller, INCO, report that we have Acquisition Of Signal.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+The INCO reports that the radio contact we have is with the Lunar Module. We're still waiting to get radio lock on with the Command Module in its 53rd revolution of the Moon now. The Guidance Officer [GUIDO], just a minute or so ago, radioed the command to the LM guidance system which starts the proper computer program in process and will end with the deorbit burn, which will occur about 8 minutes, 50 seconds from now - or correction - 6 minutes, 12 seconds from now at 181 hours, 4 minutes and 19 seconds.
+180:58:39 Parker: Apollo 15, this is Houston. Standing by in the blind. [No answer.]
+INCO says we do have radio signals now from the Command Module.
+Flight Plan page 3-293.
+181:01:15 Parker: Apollo 15, this is Houston. Standing by in the blind. Over. [No answer.]
+181:02:59 Parker: Apollo 15, Houston. Calling in the blind and standing by. Over. [No answer.]
+181:03:47 Parker: Apollo 15, Houston. Calling in the blind. Standing by. Over. [No answer.]
+We're coming up now on 20 seconds until the beginning of the LM deorbit burn. It will be a 201-foot-per-second [61.3 m/s] burn, using the four Reaction Control System thrusters on the LM ascent stage.
+Our LM Guidance and Control Officers both report telemetry data indicates the LM is burning. And we should have impact at 181 hours, 29 minutes, 23 seconds. We do have lock on with the Command Module, However, the signal strength is not strong enough at the present time for us to hear any response from the crew. Apparently they're not in the attitude with the High Gain Antenna yet to give us a good - good enough signal strength for voice communications. The Guidance Officer says that the burn is progressing normally with the LM ascent stage. And again those predicted impact coordinates are 26 degrees, 12 minutes north, 1 degree, 6 minutes east.
+The Guidance Officer says we've had shutdown now. And the LM guidance system appears to have shut the burn off right on time. Guidance says the residual was .08 [fps, 2.4 cm/s], which indicates that the burn was almost precisely as planned. And at the conclusion of that burn, the ascent stage has a weight of 5,315 pounds [2,411 kg]. Currently the altitude is 61.4 nautical miles [113.7 km] and we'll be able to watch that altitude as it drops off to nothing at impact.
+181:08:14 Parker: Apollo 15, Houston, in the blind. Over. [No answer.]
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+181:10:14 Parker: Apollo 15, Houston, in the blind. Over. [No answer.]
+Falcon's altitude at the present time is 53.1 nautical miles [98.3 km] and at impact the LM ascent stage will have a velocity of 5,560 feet per second [1,695 m/s]. The flight path angle will be minus 3.2 degrees, or 3.2 degrees pitched down from horizontal; very shallow angle of impact. We're now about 17 minutes, 50 seconds away from LM impact.
+INCO reports that signal strength is coming up on the CSM antenna indicating that we're getting the antenna - the High Gain Antenna around into position where we should be able to get voice communications with the crew aboard Endeavour.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+181:15:49 Worden: Houston, 15.
+181:15:51 Parker: Go ahead, 15.
+181:15:56 Worden: Okay, we're just about getting bedded down here, Bob. I wanted to check and clarify one thing with you before we did.
+181:16:04 Parker: Please do.
+181:16:09 Worden: Okay, the Flight Plan updates that you gave to Jim a little while - earlier included Mass Spec. Experiment, On, and some switching with the discriminator and multiplier. Now, as of yesterday, we had decided not to use the Mass Spec. because of the boom deploy problems. Has somebody decided that we now should deploy the boom?
+181:16:32 Parker: Rog. My understanding is that we didn't want to do it before the plane change because we might have to jettison it and it's - now that we've got the plane change accomplished, we'll run it. And, if you have to jettison before TEI, we'll do that. Over.
+On this first flight of the SIM bay, there has been some difficulty retracting the boom which carries the Mass Spectrometer experiment. Mission Control were worried that if they had deployed it just before the plane change burn and it had become stuck, it would have had to be jettisoned then and there, losing any data that would otherwise be gathered up to Trans-Earth Injection. Major engine burns cannot be made with the booms extended due to their fragile construction.
+181:16:49 Worden: Okay, I understand. I guess I didn't understand that yesterday; and, we'll go ahead and deploy it and get the Mass - Mass Spec. going now.
+181:16:56 Parker: Roger, Al. And one more thing; we'd like to make sure tonight that Jim is on the EKG for the evening.
+181:17:08 Worden: That's affirm. Jim will stay on biomed tonight.
+Jim is scheduled to be wearing his biomedical harness tonight as detailed on page 2-2 of the Flight Plan.
+Andy Chaikin's excellent and well researched book A Man On The Moon describes doctors' alarm on seeing the EKG trace from Jim display a so-called bigeminy rhythm, this after seeing heart irregularities, called PVCs (Premature Ventricular Contractions) from both Dave and Jim while on the surface. Their common problem was blamed on a deficiency of potassium caused by a hard training schedule combined with the stress of the flight. Potassium-laced orange juice was prescribed for subsequent crews, though on Apollo 16, this caused problems of its own.
+Journal reader, Shawn Shianna MD "Bigeminy refers to an abnormal heart rhythm. It refers to the cardiac ventricles beating in couplets: beatbeat beatbeat beatbeat. Let's say a normal heart rhythm looked like this: * * * * * * *. Bigeminy looks like this: ** ** ** ** ** **. Bigeminy is not normal and could be the harbinger off of something more serious, like runs of ventricular tachycardia: ****************. These are not good things."
+The flight of Apollo 15 did provide the first sign that Jim had a heart condition. It worsened over the ensuing twenty years as he embarked on his calling as an evangelist, finally leading to his death in August 1991 from a heart attack.
+181:17:15 Parker: Rog. And, one more thing, Al, we would like to verify High Gain Antenna angles as pitch 25, yaw 185.
+181:17:26 Worden: Right. That's what they're set on now, Bob.
+181:17:28 Parker: Okay. We had a long while picking you up. I guess we were a little worried, there.
+181:17:35 Worden: No, we just got our signals crossed in here. And, we had some different numbers on them before. So I got them. We're fixed up now.
+181:17:41 Parker: Okay, and we'll be expecting you to be in VHF bistatic later on, right? [Pause.]
+181:17:51 Worden: I guess. Do you want us to go ahead and do that?
+181:17:56 Parker: Yes, please, Al.
+181:18:02 Worden: Okay. [Long pause.]
+On his first two evenings alone, Al had spent a single near-side pass with signals from Endeavour's S-band and VHF antennae being bounced off the Moon's surface and received on Earth. This bistatic radar experiment yields information about the top layers of the regolith and crust. Tonight, one of two VHF antennae, the left scimitar antenna which is mounted halfway along the SM below window 1 of the CM, will be involved in this experiment for the entire duration of their rest period.
+181:18:25 Parker: Okay, and one last little check is Optics Power is On. We'd like it Off eventually. I expect you haven't gotten that far yet, Al.
+181:18:34 Worden: That affirm. We'll get it.
+181:18:35 Parker: Okay, and otherwise you call us; we won't call you.
+181:18:42 Worden: Okay, we'll call you. Thank you, Bob. Goodnight.
+181:18:44 Parker: Goodnight.
+Comm break.
+Another task to be completed before sleep is to change the lithium hydroxide canister in receptacle B. Canister 15 replaces 12, which is stored in compartment A3.
+We're coming up now on 10 minutes until LM impact. And we currently show Falcon to be at an altitude of 31.5 nautical miles [58.3 km].
+181:20:29 Parker: 15, Houston. Over. [Pause.]
+181:20:36 Worden: Famous last words; go ahead.
+181:20:37 Parker: Yeah. How's that for broken promises. Hey, OSO [Orbital Science Officer] just came out of the woodwork and was worried because he doesn't have X-ray and Gamma-rays and all those on yet either. I'd assume you probably have - just haven't done any of that block, right?
+181:20:51 Worden: Yeah. Hey, Bob, we're still trying to get cleaned up in here and get suits put away and all that sort of stuff. We'll get with it as soon as we can, but it's awfully cramped quarters and an awful lot of stuff to move around.
+181:21:02 Parker: Rog. We were afraid you'd get used to the luxury of all that space.
+181:21:09 Worden: I kind of liked it here by myself.
+181:21:16 Parker: This time I'll keep my promise.
+181:21:20 Worden: Okay.
+Very long comm break.
+This is Apollo Control. We're nearing 6 minutes away now from LM impact. In the MSC News Center briefing room, Dr. David W. Strangway will be available to provide background information and answer questions on the LM impact and we'll have displays of the seismometer tracings that we're receiving here in Mission Control from the Apollo 15 and Apollo 14 science experiment packages - Passive Seismic Experiments. At the present time we show Falcon to be 17.4 nautical miles [32.2 km] above the lunar surface.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Falcon is now 3 minutes from LM impact. We show its altitude 9.3 nautical miles [17.2 km].
+2 minutes now from LM impact. Falcon's altitude is 6.1 nautical miles [11.3 km].
+1 minute prior to impact. Falcon's altitude now is 3 nautical miles [5.6 km].
+5 seconds to impact. And we've had LOS LM, Loss Of Signal from the LM.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Our science room reports we're getting seismic tracings now from the ALSEP at the Apollo 15 site.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. The actual time of LM impact, as computed from the time at which our displays on the LM went static and we lost radio communications from the vehicle, was 181 hours, 29 minutes, 37 seconds.
+Flight Plan page 3-294.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 182 hours, 7 minutes. We said goodnight to the crew aboard Apollo 15 about 45 minutes ago. At the time, Al Worden reported that they had a good bit of cleaning up to do, and getting things shipshape before they'd be able to actually begin their rest periods. However, we do not plan to call the spacecraft again. If there is any communications, the crew will initiate a call to Mission Control. The Flight Dynamics Officer [FIDO] is continuing to refine the impact time for the LM ascent stage. At the present time our best estimate is that impact occurred 181 hours, 29 minutes and 34 to 36 seconds, and we'll get that impact time more precise as the remote sites have a chance to refine the data and determine precisely when we lost radio contact. We've now had Loss Of Signal with the Command Module Endeavour. Spacecraft on its 53rd revolution and we'll be reacquiring in about 45 minutes as the spacecraft comes back around to the front side of the Moon on its 54th revolution of the Moon. At 182 hours, 8 minutes; this is Apollo Control.
+182:07:11 Worden (onboard): Cabin reading about 5.7 over there, Dave?
+182:07:22 Irwin (onboard): Okay. I guess we ought to wait until we complete chlorination before we get the...
+182:07:33 Worden (onboard): David.
+182:07:35 Irwin (onboard): ...the gloves and helmets off.
+182:07:47 Worden (onboard): Hello, Houston; this is 15.
+182:07:50 Irwin (onboard): Baseband.
+182:07:51 Scott (onboard): Yes. Of course.
+182:08:57 Irwin (onboard): Mine.
+182:09:01 Scott (onboard): Yes, that's yours.
+182:09:02 Irwin (onboard): Let me get that.
+182:11:52 Worden (onboard): Hey, pretty good.
+182:12:23 Worden (onboard): Help me put the other end of this guardrail on here.
+182:12:27 Irwin (onboard): MDC guard, Al.
+182:12:30 Worden (onboard): So the MDC guard.
+182:12:32 Irwin (onboard): Yes.
+182:12:33 Scott (onboard): Hope it doesn't get over [garble].
+182:12:37 Worden (onboard): Is it in the way? Huh?
+182:12:42 Irwin (onboard): Oh, the MDC guard.
+182:12:43 Scott (onboard): Did you take that down?
+182:13:40 Worden (onboard): Okay.
+Apollo 15 will commence its 54th lunar orbit at about 182:30.
+182:33:59 Scott (onboard): Got it?
+182:34:00 Worden (onboard): I got it.
+182:34:08 Scott (onboard): Okay, pal.
+182:34:12 Worden (onboard): Come here and - get this.
+182:37:40 Irwin (onboard): What time is it?
+182:37:54 Worden (onboard): 32:20.
+182:38:10 Irwin (onboard): God, 4 hours; that's...
+182:38:14 Scott (onboard): [Garble].
+182:38:16 Worden (onboard): They say go for it.
+182:38:19 Irwin (onboard): Yes, just as well. Just fiddling around and getting squared away.
+182:38:26 Scott (onboard): That's right. I guess all I'm saying is the Flight Plan really ought to reflect that.
+182:39:04 Worden (onboard): Yes, they had you learning the [garble] switch.
+182:39:21 Scott (onboard): Yes.
+182:39:27 Worden (onboard): Okay.
+182:39:51 Scott (onboard): Right there, Jimmy.
+182:40:11 Scott (onboard): Oh, Christ. I'm putting it all over your face here.
+182:40:28 Irwin (onboard): Want to use some of your soap?
+182:40:54 Worden (onboard): Hey, you're supposed to be somehow nonaffected by the CMP.
+182:42:28 Worden (onboard): Okay, Dick [sic].
+182:42:41 Irwin (onboard): Shit.
+182:43:47 Worden (onboard): Oh, yes, 7 hours left of my 9-hour rest period.
+182:44:01 Scott (onboard): Well, we...
+182:44:06 Irwin (onboard): Not interested in what he's doing. You'd like that more than this.
+182:44:18 Worden (onboard): Huh?
+182:44:28 Scott (onboard): Your urine bag? Oh, no, I got them all cleaned out so...
+182:44:57 Irwin (onboard): Yes. I've cleaned mine.
+182:45:01 Worden (onboard): Oh! Poor [garble]. I've been - I tell you, I've been rinsing everything out with water every time I pee and every time I go to sleep.
+182:45:16 Irwin (onboard): Is that a fact?
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We're now about a minute away from reestablishing radio contact with Apollo 15. The spacecraft now in it's 54th revolution of the Moon. We do not expect to have any communications with the crew. We said goodnight to them at 181 hours, 18 minutes; or about an hour and a half ago. And at that time, Al Worden said they still had a fair amount of cleaning up to do and getting sample containers stowed and the Command Module cabin cleaned up and ready for sleep. We told them that we would not call them. If they had anything for us, that they could give us a call and recommended that they get to sleep as soon as possible. We do have biomedical telemetry on Jim Irwin, and that will probably be our best indication as to whether or not they're sleeping when we reacquire. INCO says we have reestablished radio contact with the spacecraft. And the ALSEP support room here in the Control Center reported that we got seismic signals registered on all three of the active stations - the passive seismometers at Apollo - at the Apollo 12 site, the Apollo 14 site, and the Apollo 15 site from the LM impact. While we're in radio contact with the Command Module, we'll keep the - keep the lines up although we do not expect any voice communications for the duration of the sleep period.
+182:55:06 Worden: Houston, 15. [Pause.]
+182:55:11 Parker: 15, go ahead.
+182:55:16 Worden: Is it time to get up yet, Bob? [Pause.]
+This is Al's dry humour, with which Parker reciprocates. This time it is Al's turn to continue communication despite their wish to settle down for the night.
+182:55:25 Parker: Rog. We've got about 15 updates here for you, if you want to get ready in the SIM bay.
+182:55:34 Worden: Thought we'd give you a crew status report and the onboard read-outs before we called it a night. I just wanted to check and make sure we got everything turned on for you. [Pause.]
+182:55:48 Parker: Roger. We'll get the guys looking at that...
+182:55:50 Worden: We got the Mass Spec. out. Okay, Bob, we got the Mass Spec. out, and I think we've cleaned up everything else for you for tonight, and I'll give you the readings here and then we'll call it a night.
+182:56:07 Parker: Rog. We're listening, and I hope everybody else down here will be getting with me so we can give it to you at the end, if anybody wants anything. Go ahead. [Pause.]
+182:56:20 Worden: Okay. The PRDs: 25023, 23174, 08029.
+The PRDs are Passive Radiation Dosimeters. The crew are due to read the counters on these devices every morning and evening so a check can be kept of the cumulative dose of radiation received by each crewmember. The crew can be exposed to ionising radiation from the constant cosmic radiation flux passing through the spacecraft, and from an ever-present danger from solar flares (which would be spotted from Earth beforehand). Also, Dave and Jim had to manhandle a fuel element of plutonium from a storage cask on the side of the LM into the body of the RTG (Radioisotope Thermal Generator).
+182:56:32 Parker: Copy.
+182:56:33 Worden: My read-outs: Bat C, 37 [volts]; Bat A, 37.5; Bat B, 37.5. RCS quads are 63, 58, 60, 58.
+182:56:50 Parker: Copy.
+182:56:54 Worden: And, we are configured for the bistatic radar test. [Pause.]
+182:57:02 Parker: Al, that should be bistatic VHF.
+182:57:09 Worden: That's correct, Bob. The bistatic VHF radar test. [Pause.]
+182:57:25 Worden: And, can you think of anything else that needs to be done?
+182:57:29 Parker: Stand by, Al.
+182:57:33 Worden: Okay. [Long pause.]
+182:57:02 Parker: Okay, three verifies for you, Al. Can you verify the Gamma-ray's out? The X-ray is ready? And we need a verify on Jim for his EKG.
+182:58:07 Worden: Okay. He's not hooked up yet but he will be shortly. And we'll verify the Gamma-ray, out and On, and the X-ray, On.
+182:58:13 Parker: Thank you. [Pause.]
+182:58:21 Parker: And, Al, we're working a state vector uplink for you. Stand by a minute and we'll get a decision on that.
+182:58:31 Worden: Okay, Rob. I guess we didn't have a[n indication of the] Gamma-ray [boom going] out, so it's going out now.
+182:58:37 Parker: Roger. That's a verify, I guess.
+182:58:39 Worden: And the X-ray is On.
+182:58:41 Parker: Thank you. [Pause.]
+182:58:49 Worden: Okay, the X-ray is On. Seems like we had quite a few loose ends tonight. [Long pause.]
+182:59:16 Parker: And, Al, how about a verify on X-ray Covers, Open? [Long pause.]
+182:59:40 Worden: Roger. That's verified. It's Open.
+182:59:43 Parker: Thank you. We're still discussing the vector here.
+182:59:49 Worden: Okay.
+182:59:51 Parker: If you can give us P00 and Accept, we'll have a load in about a minute. Stand by, just Accept...
+182:59:58 Worden: Okay.
+182:59:59 Parker: ...sorry.
+Flight Plan page 3-295.
+183:00:00 Worden: Do you want P00?
+183:00:01 Parker: Negative. Accept only.
+183:00:05 Worden: Okay. I'll leave it P20.
+183:00:08 Parker: Swinging.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+183:02:37 Parker: Okay, and 15, you can have Block back again. Good show. Thanks for the patience this evening, and Karl will wake you when he wakes you and not a moment before. Goodnight.
+183:02:55 Worden: Okay, that sounds like a winner, Bob. Good night.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+183:14:52 Parker: Apollo 15, Houston. [Pause.]
+183:14:58 Worden: Houston, 15. Go ahead.
+183:15:00 Parker: Rog. This isn't Karl waking you up; but we don't show the Mass Spec. Experiment to On, and if the out - outgassing has been completed, we need the Ion Source, On. Over.
+183:15:16 Worden: Okay. We've got it On, and it's been on for about 45 minutes now. And we now have Multiplier, Low, and Discriminator, Low.
+183:15:35 Parker: Beautiful, Al.
+183:15:40 Worden: Stand by on that, Bob, stand by.
+183:15:42 Parker: Standing by. [Long pause.]
+183:16:04 Worden: Okay, Bob, we got it now.
+183:16:06 Parker: Understand you got Experiment, On, now...
+183:16:08 Worden: Checking [garble], it should be On now.
+183:16:11 Parker: Copy. Thank you.
+183:16:12 Worden: Right.
+183:16:14 Parker: We'll try again.
+Very long comm break.
+3½ hours after the planned commencement of their rest period, 2 hours after Parker's first "Good night," the crew finally get down to rest after the most arduous day of the mission. Dave and Jim have been awake and working at a high level for over 23 hours, Al for over 21 hours. Their original rest period was due to begin at 179:42 but as they were given an hour and a half extra sleep this morning before preparing for their final surface EVA, this was likely to slip. Yet even with their late rise, their day has been exceedingly long.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We hadn't expected to hear from the crew aboard Endeavour on this, the 54th revolution. However, we received a call from Al Worden about 30 minutes ago. Worden passed along a crew status report and mentioned that Jim Irwin was still in the process of getting set up for the sleep period, and hadn't, at that time, hooked up the biomedical sensors that we'll be using to monitor his sleep this evening. We had Worden double check some of the switching configurations for the orbital science experiments, particularly the Gamma-ray and X-ray spectrometer, and also, a bit later, put in another call to Worden to double check the switch settings for the Mass Spectrometer, which we were not receiving data on. And after a double check, Worden found a switch that was out of the proper configuration, switched it on and we are getting Mass Spectrometer data. The crew is about 3 hours late or a little more getting started on their rest period and we plan to let them get a good night's sleep. Gene Kranz, who is the Flight Director coming on duty, has asked his Flight Activities Officer [FAO] to plan for a day of orbital science based on a 10-hour rest period, which would mean that the crew would be awakened at about 193 hours, or perhaps a bit later. The Flight Dynamics Officer [FIDO] has come up with a set of impact coordinates for the Lunar Module, and they are as follows: 26.327 degrees north and 0.267 degrees east. The target coordinates were 26.2 degrees north and 1.1 degrees east. So the principal effect was to put the impact point down range approximately 9/10ths of 1 degree. And the Flight Dynamics Officer is computing an actual miss distance, in terms of kilometers and miles, and we should have that a bit later. The impact was registered on the seismometers of all three ALSEP stations which are on the Moon, the Apollo 12, 14 and 15 stations, and was, as we understand, weakest at the Apollo 12 station. Apollo 15, at the present time, is in an orbit with an apocynthion of 67 nautical miles [124.1 km] and a pericynthion of 52.8 [97.8 km]. We have about 34 minutes of acquisition time left before we lose radio contact with the spacecraft on its 54th revolution. At 183 hours, 31 minutes; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control; 183 hours, 51 minutes Ground Elapsed Time. Crew still asleep. 14 minutes remaining until Loss Of Signal with Command Module Endeavour toward the end of the 54th lunar revolution. Handover complete to Gene Kranz's White Team of flight controllers, Black Team headed by Glynn Lunney going off shift. Change of shift press conference with Flight Director Lunney will commence in about five minutes at 12:30 Houston time in the small briefing room in the News Center. We'll leave the line up through the end of this revolution until Loss Of Signal this revolution, in the off chance there might be additional conversation with the crew, but it seems it's highly unlikely. At 183:52, this is Apollo Control.
+Day 8, part 2: Rendezvous and Docking
+Journal Home Page
+Day 9, part 1: Orbital Science and Crew Rest

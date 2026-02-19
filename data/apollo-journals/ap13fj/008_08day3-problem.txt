@@ -1,0 +1,700 @@
+Apollo 13 Flight Journal - Day 3, part 2: 'Houston, we've had a problem'
+Day 3, part 1: Before the Storm
+Journal Home Page
+Day 3, part 3: Aquarius Becomes a Lifeboat
+Apollo 13
+Day 3, part 2: 'Houston, we've had a problem'
+Corrected Transcript and Commentary Copyright ©2015-2025 by W. David Woods, Johannes Kemppanen, Alexander Turhanov, Lennox J. Waugh and William Smeaton. All rights reserved.
+Last updated 2025-02-22
+It is about nine hours since the Apollo 13 crew awoke on their third day in space. The mission has progressed much like any other Apollo voyage, with its fair share of minor bugs to test the crew and the flight controllers in Mission Control, all of which are dealt with competently. Jim Lovell and Fred Haise entered the Lunar Module Aquarius earlier to check it over as per the Flight Plan and check the supercritical helium situation as well. Later they took a TV camera with them for a transmission to Earth. At this point, there is nothing that hints to the profound problems the CSM is about to endure.
+Your browser does not support the audio element. Download MP3 audio file
+Apollo Control, Houston; 55 hours, 47 minutes. Apollo 13 presently at 177,861 nautical miles [329,399 km] away. Velocity now reading 3,263 feet per second [995 m/s].
+Flight Director Gene Kranz in Mission Control at the time of the accident. NASA 16mm film still. Via NARA.
+Flight Director Gene Kranz has gone around the Mission Control stations, asking if they have any business they would like to put forward to the crew at this moment. They report to the Flight Director who then relays the requests to the CapCom, who is the only one who is generally allowed to speak up to the crew. All this is done to keep a careful check on the flow of information and procedures within Mission Control. Once various controllers relay their suggestions to Gene Kranz, he passes them over to the CapCom who will send them to the crew.
+Your browser does not support the audio element. Download MP3 audio file
+055:48:40 Lousma: Apollo 13, Houston. The next thing we'd like you to do is to...
+CapCom Jack Lousma in Mission Control, minutes before the accident. NASA 16mm film capture. Via NARA.
+055:48:45 Swigert: Go ahead.
+055:48:46 Lousma: ...we'd like you to roll right to 060 and null your rates for photography of the Comet Bennett. To do that, we'd like you to enable quads C and D. For the maneuver, use all your quads. And in precisely 1 minute, we'd like you to terminate the battery charge on battery B. One other request, we'd like to have you verify...
+055:49:12 Swigert: Okay. Will do.
+055:49:14 Lousma: One other request, we'd like you to verify your High Gain configuration. We'd like to know what track mode, what servo, and what beam width. [Pause.]
+Controls used to adjust the High Gain Antenna's orientation. Note the slant on the side of the console - this part of the console was adjacent to the docking tunnel. Panel scan from heroicrelics.org
+Jack Lousma is asking Jack Swigert about the comm system configuration used for sending the TV broadcast from the spacecraft back to Earth. This is of special interest to the INCO (Instrumentation and Communications) controller in Mission Control, considering they had trouble locking onto the signal earlier before the TV show.
+055:49:25 Swigert: Okay, Jack, during the TV, we were Auto Track, Narrow Beam Width, and the Primary Electronics. And we had a good lockup. Just after we started the maneuver, I was able to lock you up and get real good signal strength, and it just seemed that right there at about 239 degrees in yaw, that the signal strength would just drop off and yaw would go to zero and pitch would go to 90.
+055:50:05 Lousma: Roger. We copy, and the TV show was great.
+Jack is complimenting the crew of the TV show - perhaps guiltily, since it didn't air live anywhere on American TV. According to Lovell and Kluger's 'Lost Moon', none of the US networks were interested in the program, and hence only the people in Mission Control saw the transmission.
+055:50:12 Swigert: Okay, real fine. Okay, I'm going to maneuver to 060, 090, and 0. [Pause.]
+055:50:31 Lousma: And, 13, we'd like to - to check C-4 thruster. [Long pause.]
+Telemetry shows that the C-4 thruster is not enabled at the moment, and Mission Control wants it on for the upcoming PTC.
+055:51:33 Swigert: Okay, Jack. The battery charge has been terminated on the battery B.
+055:51:38 Lousma: Roger. We see it, Jack. And we got a reading of minus 2 degrees on the docking index. We'd like to know if that's 2.0 precise or if it's 2.1 or 1.9.
+055:51:54 Swigert: No. It's, uh, minus 2.0 precisely.
+055:51:56 Lousma: Thank you.
+Comm break.
+The different coordinate systems of the two spacecraft illustrated in a docking diagram.
+The docking index number indicates the relative positioning of the Command Module and the Lunar Module to each other during their current docked condition. This is important information in regards to configuring the Lunar Module's attitude reference for later navigational purposes. Since both modules were floating free in space during the docking, and the docking system is symmetrical, the two spacecraft could theoretically have docked at any angle around the CSM's X-axis. In practice, the aids used by the CMP during docking, the COAS and the docking target, constrain the relative angle to about 60°. The docking index number allows this angle to be determined more accurately and is required to be taken into account when calculating the gyroscopic reference angles for the Lunar Module's guidance system when using the Command Module's inertial platform orientation as the basis.
+The next task that Mission Control has for Jack is to have him stir the cryo tanks. This is to homogenise their contents in order to gain a more accurate reading of their quantities. EECOM Sy Liebergot has requested more frequent stirs of the tanks, in particular the two oxygen tanks, because earlier in the day the quantity sensor for tank 2 had failed. If tank 2's sensor can't be trusted, then it becomes important to keep a closer eye on tank 1's quantity and extrapolate tank 2's depletion from that. This is the reason for an evening stir when normally these would only be carried out in the crew's morning period.
+055:52:58 Lousma: 13, we've got one more item for you, when you get a chance. We'd like you to stir up your cryo tanks. In addition, I have shaft and trunnion... [Pause.]
+055:53:06 Swigert: Okay.
+055:53:07 Lousma: ...for looking at the Comet Bennett, if you need it.
+055:53:12 Swigert: Okay. Stand by.
+Long comm break.
+EECOM Sy Liebergot at his station. He made the request to Gene Kranz that he'd "sure like to have a cryo stir, all 4 tanks." Photo courtesy of Sy Liebergot.
+MDC controls and displays for the cryogenic tanks and the switches for controlling heaters and fans. Panel scan via heroicrelics.org
+Flicking the Tank 2 Fan, On switch energizes the AC power into the tank, setting events into inevitable motion.
+By throwing the switch to stir oxygen tank 2, Jack sends power to a pair of fans via Teflon-shielded wires within the tank. Unfortunately, this Teflon insulation has been damaged prior to flight by excessive heat. The heat was the result of an attempt to boil the tank empty after a ground test. During that attempt, thermostatic switches ought to have cut the power to the tank's internal heaters if the temperature within the tank had risen above 27°C (80°F) but they failed to do so. The reason they failed was that they were rated for the wrong voltage.
+When the tank was being built, an important instruction did not reach a company who was supplying thermostatic switches to the tank's subcontractor. Although the spacecraft worked on 28V DC, the ground systems at the launch pad were changed to work on 65V DC. This change to 65V occurred during Apollo's development and the word had gone out to ensure that all systems could tolerate this higher voltage. However, the supplier of the thermostatic switches had missed this change. Therefore, when their switches had been called upon to operate and interrupt the power to the heaters, thereby protecting the tank after the ground test, the devices had instead welded themselves shut due to the higher operating voltage. As a result, the heaters within the tank continued to operate, raising its internal temperature to around 500°C (1,000°F). The intense head rendered the electrical insulation within the tank cracked and brittle.
+The leading theory for why the heaters had to be called upon to empty the tank concerns an event that occurred eighteen months earlier, on 21 October 1968. The tank that became Apollo 13's No.2 oxygen tank was being removed from the Apollo 10 Service Module during modifications. As this operation was being carried out, a bolt snapped and the tank dropped about 5 centimetres. The theory suggests that the jolt could have caused slight damage to the fitting that was used to fill and drain the tank. Despite having suffered the jolt, the tank was considered to be flight ready as no problems were indicated at the time. it was then installed in Apollo 13's Service Module.
+Following the countdown demonstration test on 16 March 1970, the fill/drain system for oxygen tank No.2 failed to allow it to be emptied properly. Eleven days later, technicians at the pad decided to use the heaters to boil off the remaining oxygen in the tank and it is said that one particular technician was tasked to monitor a gauge and ensure it didn't rise above a reading of 80°F, this being despite the fact that 80°F was the highest reading the gauge could display. For eight hours, the tank's innards baked. A second test of the tank three days later repeated the mistake.
+Now 178,000 nautical miles from Earth, the cracked and flaked Teflon insulation around the wires finally fails and the wires come close enough to spark. In an environment of pure oxygen at extremely high pressure, the Teflon ignites and a vigorous fire ensues which begins to engulf every flammable substance it reaches. The pressure in the tank rises rapidly until its structure fails and, at 055:54:53 GET, the tank explodes with a force equivalent to about 7 pounds of TNT. As a result the outer skin panel of the Service Module is blown off by a pressure of about 60,000 psi. In response to the force, the spacecraft stack begins to rotate wildly and RCS thrusters fire to restore attitude.
+O2 tank test article showing the insulation in the wiring burning in liquid oxygen environment. From later forensic study of the accident. NASA photo S70-41146.
+Lovell, from 1970 Technical debrief: "To the best of my knowledge, Jack, you were in the left-hand seat."
+Swigert, from 1970 Technical debrief: "I was in the left-hand seat."
+Lovell, from 1970 Technical debrief: "I was in the LEB, and Fred was somewhere up in the LM. We all heard the explosion together."
+At 55 hours, 55 minutes, 4 seconds, INCO communications data shows that the spacecraft suddenly switches to wide beam communications. A strange crackle is heard on the otherwise very quiet recording of the radio loop, which can be interpreted as a disturbance of the radio link to the spacecraft due to the explosion.
+Lovell, from 1970 Technical debrief: "There was a dull but definite bang - not much of a vibration, though. I didn't think there was much vibration - just a noise."
+Swigert, from 1970 Technical debrief: "Just a noise."
+Lovell, from 1970 Technical debrief: "Probably came through the structure."
+Haise, from 1970 Technical debrief: "I felt just a slight shudder."
+Lovell, from 1970 Technical debrief: "Maybe I was floating at the time; I didn't feel it."
+Your browser does not support the audio element. Download MP3 audio file
+055:55:19 Swigert: Okay, Houston...
+055:55:19 Lovell: ...Houston...
+055:55:20 Swigert: ...we've had a problem here. [Pause.]
+055:55:26 Fenner (GUIDO): FLIGHT, GUIDANCE.
+055:55:27 Kranz (FLIGHT): Go GUIDANCE.
+055:55:28 Lousma: This is Houston. Say again, please.
+Although the CapCom is asking for a confirmation of the alarming radio call, in Mission Control in Houston, the flight controllers monitoring the ship have already noticed what they think are erratic readings from the ship's remote telemetry and have begun to troubleshoot the possible issues.
+EPS High Density, one of the EECOM displays in Mission Control.
+The telemetry displays in Mission Control are produced by the computers in the Real Time Computer Complex - or RTCC - on the ground floor of the Mission Control building. The TV displays are updated once a second, although many values in the systems are recorded several times per second.
+055:55:28 Fenner (GUIDO): We've had a Hardware Restart. I don't know what it was.
+055:55:30 Kranz (FLIGHT): Okay. GNC, you want to take a look at it? See if you see any problems?
+055:55:35 Lovell: [Garble.] Ah, Houston, we've had a problem. We've had a Main B Bus Undervolt.
+The legendary line delivered by Lovell is "Houston, we've had a problem" and not the familiar "Houston, we have a problem" made especially popular by the Tom Hanks movie. The writers of the movie have admitted that they had to use the line expected by the viewers, instead of the historically accurate one, for the sake of drama. This of course has perpetuated the line in the popular consciousness, putting it into the top three of misquoted movies alongside "Play it again, Sam" and "Beam me up, Scotty!" Overall, "Houston, we have a problem" surely counts among the most famous spaceflight-related quotes alongside "A small step for [a] man, one giant leap for mankind" and "That's no moon, that's a space station!"
+055:55:36 Kranz (FLIGHT): Roger, we're copying it, CapCom. We see a hardware restart.
+055:55:41 Kranz (FLIGHT): You see an AC Bus Undervolt there, GUIDANCE - ehhhm EECOM?
+055:55:42 Lousma: Roger. Main B Undervolt. [Long pause.]
+055:55:46 Liebergot (EECOM): Negative, FLIGHT
+055:55:48 Kranz (FLIGHT): I believe the crew reported it.
+055:55:50 Lousma (CAPCOM): We've got a Main Bus B undervolt.
+055:55:51 Liebergot (EECOM): Okay, flight, we've got some instrumentation funnies. Let me add them up.
+055:55:54 Kranz (FLIGHT): Roger.
+055:55:58 Lousma: Okay, stand by, 13. We're looking at it. [Pause.]
+055:56:01 Liebergot (EECOM): We may have had an instrumentation problem, FLIGHT.
+055:56:03 Kranz (FLIGHT): Rog.
+055:56:07 Glines (INCO): FLIGHT, INCO.
+055:56:08 Kranz (FLIGHT): Go, INCO.
+055:56:09 Glines (INCO): We switched to wide beam width about the time he had that problem.
+The force of the explosion has had profound effects within the Service Module. Two of the three fuel cell units that supply the spacecraft with its electrical power have been knocked out, causing a temporary dip in the supply voltage. This has been picked up by the Caution & Warning system. The remaining fuel cell, number 2, is still working and it is being fed oxygen from the other tank, tank 1. However, the pipework leading from tank 1 has also been damaged and its contents are now leaking away into space. It will be essentially empty in three hours.
+055:56:10 Haise: Okay. Right now, Houston, the voltage is - is looking good. And we had a pretty large bang associated with the Caution and Warning there. And as I recall, Main B was the one that had had an amp spike on it once before. [Pause.]
+EPS voltage and amperage gauges and selector switches. Panel scan via heroicrelics.org
+Fred has come up from the Lunar Module and taken his spot in front of the Main Display Console to report on the electrical system. Although both the crew and the mission controllers are suspecting that this is a false alarm generated by spurious sensor readings, the bang is a genuine worry. The power supply appears to be stabilizing, too, hence Fred sounds positive that this might not be anything too serious. The alarm he mentions has been tripping several times during their trip so far, and it generally does not cause the crew too much worry unless they can see an immediate cause for concern.
+055:56:40 Lousma: Roger, Fred. [Long pause.]
+In Mission Control, Flight Director Gene Kranz is getting the first news from his controllers. Intercom systems allow him to speak to the controllers in the room, as well as listen in on the Air to Ground loop, the principal channel of communication with the crew onboard the spacecraft.
+Gene Kranz' handwritten notes from the moment the first details of the incident were reported to him.
+Some of the cryogenic system telemetry sensors and their nominal range of operation.
+Sensors in the spacecraft systems monitor their status constantly. The analogue electric signals are fed into signal conditioners to process them for the onboard display and caution and warning systems as well as for telemetry, to be radioed to Earth. It would not be the first time for the instrumentation to produce faulty readings, including during this mission. The pressure transducers in the suit loop have given erratic readings earlier, as has the measurement for the quantity of drinking water in the potable water tank. None of these have been crucial for the mission, unlike the current strange readings from the cryogenic system.
+055:56:54 Haise: In the interim here, we're starting to go ahead and button up the tunnel again. [Pause.]
+The hatches connecting the Command Module to the Lunar Module are open at the moment. The developing emergency situation is prompting them to close the hatches in order to isolate the two spacecraft from one another in case that the trouble is originating in the LM or it has suffered damage, such as a hull breach from an impact.
+055:57:01 Lousma: Roger.
+055:57:04 Haise: Yeah. That - That jolt, uh, must have rocked the, uh, the sensor on - uh, see now - on O2 Quantity 2. It's, uh - was oscillating down around 20 to 60 percent. Now it's full-scale high again.
+The previously failed readout has come to life again briefly, as observed by Fred. It is now showing another obviously faulty figure.
+055:57:22 Lousma: Roger. [Pause.]
+055:57:30 Lovell: And, Houston, we had a Restart on our computer and we had a PGNCS light and the Restart Reset.
+055:57:37 Lousma: Roger. Restart and a PGNCS light. Restart on a PGNCS and Reset...
+The Restart light illuminated on the Command Module DSKY. Original scan via heroicrelics.org
+The computer has restarted itself, as indicated by a warning light on the DSKY. The sudden drop in electric current into the computer due to the explosion is the most likely cause for the restart.
+GNC warning lights and Master Alarm in the optics console in LEB.
+The optics control panel in the Lower Equipment Bay has three caution and warning lights of its own. The PGNS light has come on due to the computer restart. The red Master Alarm would have been illuminated as well.
+055:57:44 Lovell: Okay. And we're looking at our S - Service Module RCS Helium 1. We have - B is barber poled and D is barber poled; Helium 2, D is barber pole, and Secondary Propellants, I have A and C barber pole. BMAG temperatures?
+The RCS indicators, photographed in the Odyssey.
+Currently Commander Lovell is reporting that the high pressure helium gas system used to pump the rocket propellant into the RCS thrusters is showing alarms, as are some of the propellant systems. 'Barber pole' is a black and white flag in the control console that is used as the fault indicator. These indicators are called talkbacks in the Apollo lingo. A grey indicator means 'status normal', a striped one means trouble.
+The explosion has caused enough of a shock to close the magnetic solenoid valves in the propellant lines. This has been known to happen under normal flight conditions as well when the Command-Service Module is subjected to sudden, brief accelerations including separation from the S-IVB third stage. It should be an indication to the crew and Mission Control staff that the earlier reported bang was not something small.
+055:58:07 Haise: Okay, AC 2 is showing zip. I'm going to try to reconfigure on that, Jack.
+The Electric Power System configuration at the time of the accident
+Three fuel cells supply all the onboard power. Fuel cells 1 and 2 are connected to Main Bus A, and fuel cell 3 to Main Bus B. The Main Buses distribute direct current DC power to the onboard systems at 27 volts. For alternating current, one or two of the three onboard power inverters are used, which then supply the AC Buses 1 and 2. As per normal operation at the time, Main Bus A powered Inverter 1 connected to AC Bus 1 and Main Bus B provided the DC current for Inverter 2 and hence to AC Bus 2.
+Fred Haise sits on the right side couch and also acts as the engineer of the spacecraft. Currently he is reporting that the ship's alternating current supply has been cut down by the AC 2 inverter bus being unable to supply any power. Fred is trying to get the power back on by changing the distribution grid configuration. AC 2 is powered by Main Bus B, which is down.
+055:58:13 Lousma: Roger. [Pause.]
+055:58:25 Haise: Yeah. We got a Main Bus A Undervolt now, too, showing.
+055:58:29 Lousma: Main A Undervolt.
+The Alarm lights at the moment, recreated from the transcript comments.
+Jack Lousma is confirming the crew's report. Now they have an apparent malfunction in three of the spacecraft's four main power distribution systems.
+055:58:33 Haise: It's reading about 25½. Main B is reading zip right now. [Long pause.]
+The limit trigger for Main Bus Undervolt is 26.25 volts. If the main bus voltage drops below that, the alarm goes off.
+055:59:33 Lovell: And, Houston, Odyssey.
+055:59:38 Lousma: Stand by one, Jim. [Long pause.]
+Five minutes have passed since the explosion. The situation is still entirely unclear.
+Several Staff Support rooms flank the Mission Control on the third floor of the building. Additional engineers work there to support the flight controllers in Mission Control. Currently they are busy looking through the telemetry as well.
+In Mission Control, Gene Kranz consults with his team to figure out just what is going on with their spacecraft.
+055:58:13 Kranz (FLIGHT): EECOM, you see any AC problems? Looks like...
+055:58:15 Liebergot (EECOM): FLIGHT, EECOM.
+055:58:16 Kranz (FLIGHT): ...we've got a lot of instrumentation problems here. Go ahead.
+055:58:17 Liebergot (EECOM): That's affirm. He's flipping the fuel cells around, FLIGHT.
+055:58:23 Kranz (FLIGHT): Well, let's get some recommendation here, Sy, if you've got any better ideas.
+055:58:32 Kranz (FLIGHT): Sy, what do you want to do? Hold your own, and...
+055:58:40 Kranz (FLIGHT): Sy, have you got a SIG sensor type problem there, or what?
+055:58:43 Liebergot (EECOM): FLIGHT, EECOM.
+055:58:44 Kranz (FLIGHT): Go ahead.
+055:58:45 Liebergot (EECOM): He's got - fuel cells 1 and 3 are offline. We've got Main A volts, we have no Main B volts. Have them attempt to reconnect the fuel cells. Fuel Cell 1 to Main A, Fuel Cell 3 to Main B.
+055:59:02 Kranz (FLIGHT): Okay.
+055:59:03 Liebergot (EECOM): Just try that...
+055:59:03 Kranz (FLIGHT): Fuel Cell 1 ...
+055:59:05 Liebergot (EECOM): ...back to Main A, Fuel Cell 3 back to Main B.
+055:59:08 Kranz (FLIGHT): ...Main A, 3 to Main B.
+055:59:10 Liebergot (EECOM): Let's see what happens.
+055:59:11 Kranz (FLIGHT): Okay, now is there - do we have instrumentation problems?
+055:59:16 Liebergot (EECOM): Well, we've lost A - it does appear we've lost AC Bus 2 Voltage. Main B is reading - 4 volts. And that effectively takes AC 2 away from us...
+055:59:29 Kranz (FLIGHT): Okay.
+055:59:30 Liebergot (EECOM): ...the - yeah and he reported barber poles on the...
+055:59:34 Kranz (FLIGHT): Rog.
+055:59:35 Liebergot (EECOM): ...on the fuel cell onboard, too, FLIGHT.
+055:59:36 Kranz (FLIGHT): Yeah...
+055:59:38 Willoughby (GNC): FLIGHT, GNC.
+055:59:38 Liebergot (EECOM): Let's see if we can get our DC back.
+055:59:40 Kranz (FLIGHT): Rog. Go ahead, GNC.
+055:59:41 Willoughby (GNC): Verify that the Quad Delta Helium Valves are Open.
+055:59:46 Kranz (FLIGHT): You seeing an attitude problem or you seeing some BI-levels that are giving you problems?
+055:59:50 Willoughby (GNC): [Under Kranz.] No.
+055:59:51 Willoughby (GNC): No, it's some low pressures in the fuel and oxidizer which would be symptomatic of the Helium Valve closing and firing some jets.
+055:59:59 Kranz (FLIGHT): Quad number 2 helium valve, Open?
+056:00:01 Willoughby (GNC): Quad Delta.
+056:00:02 Kranz (FLIGHT): Quad Delta - Helium Valve, Open, right?
+056:00:06 Willoughby (GNC): Right.
+056:00:10 Kranz (FLIGHT): CAPCOM, do you want to verify that quad Delta Helium Valve is Open, please.
+056:00:16 Kranz (FLIGHT): Are there other problems in the RCS, Buck?
+056:00:20 Lousma (CAPCOM): Okay, is that all we've come up with for them; have we got any other recommendations?
+056:00:25 Kranz (FLIGHT): Yeah, we wanted to get Fuel Cell 1 configured to Main A, Fuel Cell 3 to Main B. Did you pass that up?
+056:00:31 Liebergot (EECOM): Let's attempt that, FLIGHT.
+056:00:36 Kranz (FLIGHT): INCO, this seems to be AC type problem, may be tied into that High Gain thing you got.
+056:00:45 Scott (INCO): We went - went to Wide Beam Width, FLIGHT, at 55:55:04, as best as we can tell.
+056:00:49 Kranz (FLIGHT): Okay.
+056:01:05 Liebergot (EECOM): I copy, FLIGHT.
+056:01:08 Liebergot (EECOM): Let me commiserate on that.
+056:01:16 Kranz (FLIGHT): Is there any kind of leads we can give them? Are we looking at instrumentation or have we got a real problem, or what?
+056:00:35 Lousma: 13, Houston. We'd like you to attempt to reconnect fuel cell 1 to Main A and fuel cell 3 to Main B. Verify that quad Delta is open. [Pause.]
+Each fuel cell can be used to power either of the DC Main Buses. Normally 1 and 2 feed Main Bus A while 3 feeds Main Bus B. The initial suggestion from Mission Control is to try to get the power grid back in working order by resetting the connections between the electricity-producing fuel cells and the power system and returning the fuel cells to their usual configuration.
+Mission Control also wants them to check the helium valve on quad Delta. The RCS thrusters do not appear to be firing properly.
+056:00:53 Haise: Okay, Houston. I'm showing - I tried to reset and fuel cell 1 and 3 are both showing gray flags, but they're both showing zip on the flows.
+Fuel cell displays for reactant flow and coolant status. Round selector switch was used to choose between the three cells. Scan via heroicrelics.org
+056:01:08 Lousma: We copy.
+Comm break.
+As the crew examine the gauges available to them, they are gaining a greater insight into the magnitude of the failure that faces them. They can see that reactants are no longer flowing to fuel cells 1 and 3.
+056:02:27 Kranz (FLIGHT): You got - can we review our status here, Sy, and see what we've got from a standpoint of status. What do you think we've got in the spacecraft that's good?
+056:02:36 Liebergot (EECOM): Main Bus A is reading 25 volts.
+056:02:38 Kranz (FLIGHT): Okay, Main A...
+056:02:39 Liebergot (EECOM): And that's reflected by the fact...Fuel Cell 2 is putting out 53 amps which is just about the most it can and keep our voltage up.
+056:02:48 Kranz (FLIGHT): Okay
+056:02:49 Liebergot (EECOM): So that's bonafide. AC Bus 2 is zero, which is reflected by the fact we lost Main B.
+056:02:55 Kranz (FLIGHT): AC Bus...
+056:02:59 Liebergot (EECOM): Standby FLIGHT.
+056:03:02 Kranz (FLIGHT): ...zero output...
+Your browser does not support the audio element. Download MP3 audio file
+056:03:17 Swigert: Okay, Houston. Are you still reading 13?
+056:03:20 Lousma: That's affirmative. We're reading you. We're trying to come up with some good ideas here for you.
+Original notes for fuel cell troubleshooting procedures, with Jack Swigert's handwritten annotations. Courtesy of the Cosmosphere, Hutchinson, KS.
+Since joining the Astronaut Corps in 1966, one of Jack Swigert's support duties in the program had been the development of troubleshooting and emergency procedures for the Command Module. As they are now into what is indeed the most serious malfunction ever encountered in Apollo so far, Jack's handbook has become exactly what they need.
+Despite their earlier optimism and suggestions that the problem might be somehow tied into the High Gain Antenna onboard Apollo 13, Gene Kranz has a very fatalistic conversation with Sy Liebergot about the spacecraft.
+Gene Kranz makes notes as he tries to troubleshoot the situation with his controllers. NASA 16mm film frame. Via NARA.
+056:03:29 Haise: Okay. Let me give you some readings, in the interim to help Main A voltage, Jack. I've got Bus Tie AC on.
+Main Bus TIE switches on Panel 5. Original scan via heroicrelics.org
+Fred has connected Battery A into the power grid to boost their failing voltage and keep their systems running. The ship's batteries are designed to be used whenever the power usage goes above what the fuel cells can comfortably provide, such as during engine thrust maneuvers. They are also the sole source of electric power during the Earth landing phase after separation from the Service Module. To prop up the power system with the batteries in an emergency situation must therefore be a temporary measure at best. Fred switched the battery on moments before EECOM Sy Liebergot was about to request that to be done to stabilize the current.
+056:03:37 Lousma: Say again, Fred.
+056:03:42 Haise: In the interim, to help out Main A voltage, I've got Main Bus Tie Bat AC, On. Or would you rather accept the 25 volts we're seeing on Main A?
+056:03:52 Lousma: Okay. Bus Tie AC, On. [Long pause.]
+056:04:09 Lousma: 13, Houston. We need Omni Charlie, please. [Pause.]
+The antennas of the CSM communications system.
+056:04:19 Haise: You got it.
+Comm break.
+It is ten minutes since the explosion occurred and the spacecraft was knocked out of its attitude, yet the RCS is failing to bring it under control. The High Gain Antenna is no longer providing a link to Earth so Mission Control are looking for an omnidirectional antenna they can use instead.
+056:05:32 Lousma: 13, Houston. We'd like you to verify couple of readings for us. We would like the nitrogen pressure on fuel cell 1. We need the oxygen pressure on fuel cell 2.
+Nitrogen is contained inside each fuel cell and is used to maintain operational pressure. The N2 pressure reflects the oxygen pressure since they are calibrated to be close to one another. Sy Liebergot has requested that they ask for the onboard readouts due to the unbelievable data coming in through the telemetry that is suggesting that two fuel cells have stopped functioning. "But surely that can't be" is what they are thinking.
+056:05:46 Haise: Okay. Nitrogen on 1 and oxygen on 2. Is that correct?
+056:05:50 Lousma: Negative. Oxygen on 3.
+056:05:54 Haise: Okay. [Long pause.]
+Only a subset of readings from the spacecraft's many sensors are available directly to the crew via their instrument panels. This is because room on the Main Display Console has limited space. All sensor readings are telemetered to Earth but the spacecraft's erratic attitude is making it difficult for that data to get through to the displays in front of the flight controllers. The crew can access an additional set of measurements via the Systems Test Meter, essentially just a voltmeter with a range of 0 to 5 volts.
+Panel 101, the Systems Test Meter. It was located in the Lower Equipment Bay, below the crew seats.
+After a measurement has been taken, the resultant signal is scaled to be represented by a voltage between 0V and 5V in prior to being digitised and sent to Earth. Two multipole switches allow a selection of these scaled measurements to be fed to the meter.
+The readouts from the Systems Test Meter were interpreted onboard and on the ground with the use of a chart. Click for bigger image.
+While Fred gets to work checking the pressure readings, Gene Kranz in Mission Control worries about their continued erratic motions.
+056:05:33 Fenner (GUIDO): FLIGHT, GUIDANCE.
+056:05:34 Kranz (FLIGHT): Go Guidance.
+056:05:35 Fenner (GUIDO): Uh, When hi - when his hardware restart, he was doing a predefined maneuver and, uh, that should have killed it but we're still moving. We ought to stop it.
+056:05:45 Kranz (FLIGHT): Are we using RCS now, Buck?
+056:05:58 Kranz (FLIGHT): GNC from FLIGHT.
+056:06:02 Kranz (FLIGHT): GNC from FLIGHT.
+056:06:04 Willoughby (GNC): GNC.
+056:06:05 Kranz (FLIGHT): Did you see any problems in Quad D Helium valve? Does that look like that's cleared up?
+056:06:08 Willoughby (GNC): Rog, that cleared up, Flight, we're in good shape there.
+056:06:10 Kranz (FLIGHT): Okay, now, are we using RCS now?
+056:06:12 Willoughby (GNC): That's affirmative, we're going to have to switch some thrusters over to Main A to hold attitude here.
+056:06:17 Kranz (FLIGHT): Okay. Aaaah... how much RCS we've used?
+056:06:22 Willoughby (GNC): Oh, We've used um - our guess 25 pounds.
+056:06:27 Kranz (FLIGHT): Okay. Give me a minimum fuel usage configuration that'll keep me attitude.
+056:06:32 Willoughby (GNC): Rog.
+The RCS fuel is carefully budgeted for each part of the mission. They are currently spending more fuel than expected for the translunar coast, doing PTC rotation. The computer has been firing the thrusters almost continuously since the explosion.
+056:06:33 Heselmeyer (TELMU): FLIGHT, TELMU.
+056:06:34 Kranz (FLIGHT): Go, TELMU.
+056:06:35 Heselmeyer (TELMU): The LM heater current's become essentially static.
+056:06:38 Kranz (FLIGHT): Rog. Let's solve one problem at a time. Come back to me later on on it.
+Although Kranz dismisses this call from TELMU - LM Electrical, Environmental and EMU Officer - it is hinting at several issues that will come up. Power from the Command Module's Main Bus B is fed into the LM through the tunnel umbilical. The telemetry now indicates that with the power out, the heaters in the LM that maintain critical equipment at constant operational temperatures have stopped working. Usually, when the power transfer is cut, the LM turns on its internal power to supply the heaters, but now that is not the case. Although this could pose a danger to the operation of the equipment later on, for now the Command Module issues are much more time critical.
+056:06:24 Haise: Okay. Systems test 1-A says zip. [Long pause.]
+056:06:44 Haise: And 2-Baker, which is 3 oxygen, says 0.6.
+Fuel cell 3's oxygen pressure reading converts to 9 psi - much below the operational pressure of 62.5 psi.
+056:06:50 Lousma: 2 Baker says 0.6, and say again the other one.
+056:06:57 Haise: Fuel cell 1 nitrogen reads zero.
+The normal nitrogen pressure value is 53 psi, about the same as the oxygen pressure. The nitrogen pressure is used to calibrate the oxygen pressure in the system and to pressurize the electrolyte. To have the nitrogen pressure read zero is highly suggestive that the oxygen press is also down, since the two readings are usually very close to one another. It may also be a sensor problem, which would only add to the confusion.
+056:07:01 Lousma: Roger. Zero.
+Comm break.
+With the prevailing problems with the electric power system, the RCS and the communications, Gene Kranz turns to EECOM Sy again.
+056:07:29 Kranz (FLIGHT): Okay, Sy - give me your - next best thing to try.
+056:07:46 Kranz (FLIGHT): EECOM, from Flight.
+056:07:47 Liebergot (EECOM): EECOM, Flight.
+056:07:48 Kranz (FLIGHT): Go ahead.
+056:07:49 Liebergot (EECOM): Uhmmm... why don't we try [sigh] leave fuel cell 2 alone and make sure that 1 and 3 are disconnected from the buses and make sure there's absolutely no load on them at all and - see what happens.
+056:08:47 Lousma: 13, Houston. We'd like you to open circuit fuel cell 1; leave 2 and 3 as is.
+Mission Control is trying to get fuel cell 1 back to function by removing it from the power grid. They hope that putting the power plant into a zero load condition will help it recover from whatever has happened to it. This is a temporary measure, for the fuel cells need to have a load on them to maintain their internal temperature that is essential for their continuous operation.
+056:08:55 Haise: Okay. I'll get to work on that.
+The fuel cell switches used to select which Main Bus they supply with power. Scan via heroicrelics.org
+The act of open circuiting fuel cell 1 is as simple as throwing the switch that applies fuel cell 1 current to Main Bus A.
+056:08:57 Lovell: And, Jack, our O2 quantity number 2 tank is reading zero. Did you get that? [Pause.]
+The sensor that was previously giving spurious readings by claiming the tank content was out of scale high has now started to show that the tank contents are gone. At this point EECOM still thinks that it could be just the power to the sensor lost due to the loss of AC Bus 2 which powers the tank 2 systems.
+056:09:04 Lousma: O2 Quantity number 2 is zero.
+056:09:05 Liebergot (EECOM): Roger, Flight. That's the AC problem.
+056:09:07 Lovell: That's AC, okay. Yeah, that's - that's a - good with AC and it looks to me, looking out the hatch, that we are venting something. We are - We are venting something out into the - into space.
+In this remarkable comment from Jim, he calmly finishes talking about the AC power situation before he announces the startling news that he can see something leaking from the ship.
+056:09:08 Kranz (FLIGHT): Roger.
+056:09:16 Kranz (FLIGHT): Crew thinks they are venting something!
+056:09:18 Liebergot (EECOM): I heard it, FLIGHT.
+056:09:22 Lousma: Roger. We copy your venting.
+056:09:27 Lousma (CAPCOM): Copy that, FLIGHT?
+056:09:29 Lovell: It's a gas of some sort. [Long pause.]
+Jim is seeing the leakage from oxygen tank 1. Readers should note that documentaries often illustrate this exchange with 16-mm footage of water being dumped during an earlier flight. No photographs were taken by the 13 crew.
+Diagram of the Command Module illustrating the windows.
+Gene Kranz, the man who landed Apollo 11 on the Moon without raising his voice, cannot help but exclaim when the news of the leak come to Mission Control.
+056:09:29 Kranz (FLIGHT): Rog. (Pause) Okay, let's everybody think of the kind of things we might be venting. GNC; you got anything that looks abnormal in your system?
+056:09:39 Willoughby (GNC): Negative, FLIGHT.
+056:09:42 Kranz (FLIGHT): How about you, EECOM? You see anything that - with the instrumentation you've got that could be venting?
+056:09:49 Haise: Okay. Fuel cell 1, you just wanted it off the line now, Jack, is that right?
+056:09:52 Lousma: We just wanted you to open the circuit on fuel cell 1.
+056:09:53 Haise (under Lousma): Open circuit it, right?
+056:09:53 Liebergot (EECOM): That's affirm FLIGHT. Let me look at the systems as far as venting is concerned.
+056:09:58 Haise: Okay. She's off the line.
+056:10:03 Kranz (FLIGHT): Okay. Let's start scanning.
+Long comm break.
+The report of the venting is causing further consternation among the Mission Control personnel. Obviously a leak is not something that can be attributed to a mere failure in the ship's instrumentation. The situation is dire enough that Flight Director Gene Kranz is already reminding his crew that the LM lifeboat option is there, but he doesn't want them to make things even worse by acting too abruptly or trying to guess what's going on.
+056:10:46 Kranz (FLIGHT): Okay now, let's everybody keep cool, we got the LM still attached, the LM spacecraft's good so if we need, uh, to get back home we've got a LM to do a good portion of it with. Okay, let's make sure that we don't do anything that's going to blow our CSM electrical power with the batteries or that will cause us to lose the main or the fuel cell number 2. Okay, we want to keep the O2 and that kind of stuff working. We'd like to have RCS, but we got the Command Module system, so we're in good shape if we need to get home. Let's solve the problem but let's not make it any worse by guessing.
+Gene Kranz considers the situation at hand. NASA 16mm film capture. Via NARA.
+Deke Slayton, Ken Mattingly, Tom Stafford, Jack Lousma (seated) and John W. Young in Mission Control, soon after the accident. NASA 16mm film capture. Via NARA.
+It was getting crowded in Mission Control at the time with both Gene Kranz's team and the upcoming flight control team present, as well as many others. The CapCom station with Jack Lousma in charge was one of the most well populated. Fellow astronauts began to converge, offering help and perhaps also unsure where else to be on such an hour when their long time comrades are fighting for their lives.
+The EECOM team considers the possibility that the purge valves in the fuel cells have opened accidentally. They think that powering down the onboard system is something they have to do soon.
+It's now 15 minutes since Apollo 13's Service Module exploded. The gravity of the crew's situation is becoming clearer.
+Your browser does not support the audio element. Download MP3 audio file
+This is Apollo Control, Houston. This rapid exchange of conversation you've heard, may the main B bus is off the line, fuel cells 1 and 3 also off the line, fuel cell 2 is presently on the line. We now show 13 in an altitude of 178,643 nautical miles [330,847 km]. We're at 56 hours, 12 minutes into the flight.
+Your browser does not support the audio element. Download MP3 audio file
+056:12:47 Lousma: 13, Houston. We see you getting close to gimbal lock there. We'd like you to bring up all quad Cs on Main A, quad C-1, C-2, C-3, C-4 on Main A, and also bring B-3 and B-4 up on Main A. [Pause.]
+056:13:14 Lousma: 13, Houston. Do you read?
+056:13:20 Haise: Yeah. We got it.
+056:13:21 Lovell: Affirm.
+Diagram of the three-axis gimbals used in the inertial measurement unit.
+The venting of the spacecraft's oxygen supplied is acting like a rocket thruster, constantly pushing them out of their desired attitude. This is then fought by the RCS thrusters. If the attitude goes too far in the wrong direction, it can cause the guidance platform to reach 'gimbal lock', a condition whereby two of the three axes of the gimbals line up, reducing the degrees of freedom of the arrangement from three to two. In this condition, the platform's orientation cannot be kept separate from the spacecraft's attitude and their attitude reference is therefore lost.
+056:13:22 Lousma: Okay. Can you tell us anything about the venting...
+056:13:24 Haise: Okay.
+056:13:25 Lousma: ...where it's coming from, what window you see it at.
+056:13:30 Haise: It's coming out of window 1, right now, Jack, and could you give me the thrusters again?
+056:13:35 Lousma: Okay, the thrusters...
+056:13:37 Haise: What buses?
+056:13:38 Lousma: We'd like - on Main A, we'd like Charlie 1, 2, 3, and 4. Also Bravo 3 and 4 on Main A.
+The left-hand panel has switches for selecting the RCS thrusters for On/Off status as well as their power source on either Main A or Main B. Panel scan via heroicrelics.org
+056:13:52 Haise: Okay. Got it. [Long pause.]
+Locations of the RCS thrusters on the Command Service Module
+The ship's continuous erratic movements prompt Mission Control to try to reconfigure the maneuvering rockets to operate on the power from the still functioning Main Bus A. The control panel for the RCS thrusters allows them to select the power source from either of the main buses.
+The reference there is to the Reaction Control System thrusters. We're at 56 hours, 14 minutes now into the flight.
+056:14:42 Lousma: 13, we need Omni Bravo.
+056:14:46 Haise: Omni Bravo.
+Comm break.
+It is twenty minutes since the explosion. The engineers are coming to terms with the idea that the CSM's Electrical Power System (EPS) is dying. Soon, all effort will be made to reduce the spacecraft's power consumption. Among the EECOM staff, they are wondering whether they have lost oxygen tank 1 pressure as well.
+056:16:08 Lousma: Okay, 13; this is Houston. We'd like you to go to your G&C checklist, the pink pages, 1-5. Do powerdown until we get a Delta of 10 amps. Over.
+In other words, the crew are to reduce their power consumption by 10 amps in order to be able to maintain the primary systems on the output of the single fuel cell and to take the entry battery offline.
+056:16:21 Haise: All right.
+056:16:21 Lovell: Roger. [Long pause.]
+Gene Kranz's Flight Director Log from this moment.
+Gene Kranz's reaction to the request of a 10-amp power down was a "phew!" whistle into his headset, in surprise of the stark demand.
+Apollo Control, Houston. That last report from Lousma asked the 13 crew to reduce the electrical load on the spacecraft.
+056:17:03 Lovell: Okay, Jack, say again that - [Garbled] for the power-down; it's not in the pink pages, the 1-5.
+056:17:10 Lousma: Okay. We'd like you to go down that power-down procedure until you get a Delta of 10 amps. Over.
+056:17:21 Lovell: Roger. Say - uh, never mind. [Long pause.]
+This is Apollo Control, Houston. We'll...
+056:17:50 Lousma: 13, Houston. Did you copy our power-down request?
+056:17:57 Swigert: Roger, Jack. We're - we're doing it right now.
+056:17:59 Lovell: Yeah, where - Where did you say that was located, Jack?
+056:18:03 Lousma: That's in your systems checklist, page 1-5. [Long pause.]
+The Flight Data File and its locations in the Command Module. AOH I
+It is no wonder that the crew might have trouble locating the emergency plans - not designed for particularly easy access. The so-called 'Flight Data File' consisted of several spiral-bound books carried onboard the Command Module, containing all their checklists, flight plans, star charts and various other references they were thought to need during the trip. Their total weight was approximately 20 pounds of paper being flown to the Moon. All the material had to be taken with them on printed form, in a hard copy, considering they did not have any way to store data onboard or display it on a monitor, for example.
+Apollo Control, Houston, we repeat again that...
+056:18:26 Lousma: And, 13, you might also check for those pages in your launch checklist. They're emergency pages; pink pages, 1-5, and we'd like you to power down until you get...
+The pages, as printed in the onboard material, were indeed pink, as seen in the corresponding page from Michael Collins' flown copy of the Command Module Systems Checklist, courtesies of the Smithsonian.
+056:18:37 Swigert: Okay. That was must be in the launch checklist, Jack.
+056:18:42 Lousma: Roger. Power down until you get a amperage of 10 amps less than what you got now. Over.
+056:18:50 Lovell: Okay.
+Long comm break.
+Page E-15 from the Apollo 13 Launch Checklist. Emergency Powerdown Procedure.
+It takes several minutes for the crew to proceed along the power-down checklist. In Mission Control, the engineers discuss the possibility of trying to establish PTC to aid with thermal control of the spacecraft. The ship's erratic movements make it impossible.
+25 minutes since the explosion.
+Apollo Control, Houston. We repeat again that Main Bus B on the Command and Service Module is now off the line. They're functioning with Main Bus A. Fuel Cells 1 and 3 connected with Bus B are now off the line.
+Your browser does not support the audio element. Download MP3 audio file
+056:22:06 Haise: Okay. Jack. Are you happy with the amps we have now?
+056:22:10 Lousma: Stand by one, Fred.
+056:22:15 Swigert: Okay, Jack, and on this page 1-5, we proceeded right down the list, all the way down; we're right now at BMAG number 2 is in Warm Up.
+056:22:26 Lousma: Roger. We copy BMAG 2 in Warm Up. We'll follow you through.
+They've gone through the first 16 steps on the checklist. The latest step has been to turn the BMAG 2's power down to Warm Up which maintains operational temperature but uses less power than having the BMAG running.
+056:22:31 Swigert: Okay, and something is giving us a reach, Jack, both in pitch and roll, so I'm suspecting that maybe it's whatever it is that's venting back there. I've had to use Direct in order to stabilize this, and as soon as I do, we're starting to pick up rates again. Can you pick up any jets firing?
+Jack complains that the ship is still moving out of control, and he's using the manual RCS function to try and stabilize them. He wonders if some of the RCS thrusters are firing on their own, and wonders if Mission Control can tell him anything about it.
+056:22:54 Lousma: Stand by. What direction are your rates in, Jack?
+056:23:06 Swigert: It's negative pitch and negative roll.
+056:23:12 Lousma: Roger.
+Comm break.
+In terrestial terms, their nose is tilting down and they are rotating to the left around the central X axis.
+Half an hour has passed since oxygen tank 2 blew up.
+056:24:42 Lousma: 13, Houston. We need to get some more instrumentation up. We'd like you to put Inverter 1 on both AC Buses. Over.
+Mission Control wants to look properly into the status of O2 tank 2. The sensors measuring the quantity and temperature in that tank draw power from AC Bus 2, an early casualty of the emergency. Mission Control wants to alleviate the situation by switching Inverter 1 to supply alternating current to both AC buses. AC Bus 2 was receiving power via Inverter 2 earlier on, and although one inverter can easily support both AC buses, there is concern that the highly burdened Main Bus A might go to Undervolt again as a result of the new load.
+056:24:53 Haise: Okay. [Pause.]
+056:25:06 Haise: Okay, you got Inverter 1 on both AC Buses now. [Pause.]
+056:25:19 Haise: And Jack, one of the items that we turned off was the - all the fuel cell pumps. Okay, and you might let us know when fuel cell 2 needs its pump back; we ought to take care of that guy.
+056:25:37 Lousma: Roger. [Pause.]
+The fuel cell pumps circulate liquid hydrogen in the fuel cell and provide pressurization as well as cooling in addition to glycol in the coolant system loop. They can be turned off for some time to conserve power, but the crew does not want to risk any drop in performance in the remaining working fuel cell.
+In Mission Control, Gene Kranz asks the Lunar Module controllers to check their systems and see if their spacecraft could be the one that is leaking after all. Meanwhile, the people monitoring Apollo's trajectory confirm that they can see the ship deviating from its flight path due to the leak.
+056:25:45 Lousma: Okay, Fred, we want Fuel Cell 2 Pumps to AC1, please.
+056:25:55 Lovell: Fuel Cell 2 to AC1. Roger.
+056:26:00 Haise: Okay, it's on AC1.
+Comm break.
+056:27:48 Lousma: Omni Charlie, please, 13.
+The ship has once again moved and Mission Control requests they switch to antenna C for communications.
+056:27:52 Lovell: Omni Charlie. [Long pause.]
+056:28:06 Lousma: Okay, 13. We've got lots and lots of people working on this; we'll give you some dope as soon as we have it, and you'll be the first one to know.
+056:28:19 Lovell: Oh, thank you. [Pause.]
+056:28:29 Swigert: Okay, Jack, and the weird configuration we're sitting in now is we have the hatch installed, we still have the probe and drogue inside the Command Module, and we're going to stay in this situation until you - kind of give us an okay to reinstall the probe and drogue.
+An initial worry was that a meteor strike had damaged the Lunar Module, prompting them to install the hatches between the craft in a hurry.
+056:28:47 Lousma: Roger. We'll give you an answer.
+056:28:48 Haise: Or, if necessary, to use the LM consumables.
+Fred is already suggesting that if things go even worse, they can use the lunar module as a lifeboat. Even though it has not been mentioned on air, it appears that both the crew and the Mission Control are considering this possibility. Although he only mentions 'consumables', since there is no way to actually transfer them from the LM to the Command Module, this effectively means that the crew may have to take shelter onboard the LM.
+056:28:52 Lousma: Roger.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+056:32:11 Lousma: 13, we'd like to have you put thruster Alpha 3 on Main A, please.
+056:32:19 Lovell: Alpha 3 on Main A.
+056:32:24 Haise: Okay, Jack, are you monitoring the quad temps in quad A - package temps?
+056:32:31 Lousma: Affirmative.
+Comm break.
+Fred is worried about the RCS quad temperatures. The prolonged firing of the thrusters due to the attitude control system trying to stabilise their attitude has caused the temperature to rise.
+056:33:37 Lousma: 13, this is Houston. We'd like to power down just a little bit more, so let's get BMAG 2, Off; and make sure your lights are down. Over.
+056:33:49 Lovell: Okay. The lights are down, and BMAG 2's going from Standby to Off.
+EECOM Sy Liebergot has requested that the crew reduces the power load in the remaining Main Bus A so that they will be able to take the reentry battery offline and then use the spare power to troubleshoot the cryo tanks further. To do so, they go through two more steps on the E1-5 power down list, and turn off BMAG 2 as well as cabin lights.
+Long pause.
+The BMAG is part of the SCS system on the Apollo Command Module, of course, we're still attached to the Lunar Module, so this is less of a crucial item to power down at this time. We're at 56 hours, 34 minutes into the flight. Continuing to monitor, this is Apollo Control, Houston.
+056:34:27 Lousma: 13, Houston...
+056:34:28 Swigert: Okay, Jack, now I've got a rate...
+056:34:29 Lousma: ...we'd like you to open circuit fuel cell 3.
+After attempting to recover fuel cell 1 by removing it from the power grid, they are now trying the same procedure on the other malfunctioning fuel cell. Sy Liebergot originally wanted both 1 and 3 open circuited simultaneously, but Gene Kranz suggested they do them one at a time, just in case the configuration change causes problems with the still working parts of the power system.
+056:34:36 Lovell: Open circuit fuel cell 3.
+056:34:37 Lousma: Go ahead, Jack. [Pause.]
+056:34:46 Haise: Okay, fuel cell 3 is off the line now. [Long pause.]
+056:35:16 Lousma: And 13, Houston. We'd like you to turn all your Bravo thrusters Off; and put all your Delta thrusters on Main A, please.
+056:35:26 Lovell: All Delta thrusters on Main A and all Bravo thrusters Off. Roger. [Long pause.]
+They want to reconfigure the RCS thruster power again to see if that will help with the continuous issues with the ship rotating when they don't want it to.
+056:35:55 Lousma: 13, Houston. Turn Battery A, Off...
+056:35:56 Lovell: Okay, Jack, we've pretty well got the [garble].
+Battery A has been connected to the power grid for about 32 minutes to supply extra power after the loss of the fuel cells. Right now Mission Control wants to save the power in the battery, knowing that it cannot be recharged.
+056:35:57 Unknown speaker: [Garble] that down to nothing
+056:36:01 Swigert: That's right; we were pulling current all the time.
+056:36:02 Lovell: Battery A, Off. Roger.
+056:36:05 Swigert: Now you have no...
+056:36:07 Lovell: I'm transmitting. I don't have any current now.
+056:36:15 Swigert: Hey, it's off - it's off. They - they killed the bus completely now. [Long pause.]
+056:36:15 Liebergot (EECOM): FLIGHT, EECOM.
+056:36:16 Kranz (FLIGHT): Go, EECOM.
+056:36:17 Liebergot (EECOM): Have them isolate the surge tank also, and save it. We'll use the cryo as much as we can.
+056:36:23 Kranz (FLIGHT): Uhh. Say that again?
+056:36:25 Liebergot (EECOM): Let's isolate the surge tank...
+056:36:26 Kranz (FLIGHT): Why that?
+056:36:26 Liebergot (EECOM): ...in the Command Module.
+056:36:28 Kranz (FLIGHT): I don't understand that, Sy.
+056:36:29 Liebergot (EECOM): I don't want to - I want to use the cryo as much as possible.
+056:36:32 Kranz (FLIGHT): But that would seem to be the opposite, if you want to keep the fuel cell going.
+056:36:36 Liebergot (EECOM): The fuel cells are fed off the tanks in the Service Module, FLIGHT. The surge tank is in the Command Module. We want to save the surge tank in which we need for entry.
+056:36:47 Kranz (FLIGHT): Okay, I'm with you. I'm with you.
+056:36:49 Liebergot (EECOM): Roger.
+056:36:50 Kranz (FLIGHT): CapCom, let's also isolate the surge tank.
+056:36:57 Lousma (CAPCOM): Okay, you want to isolate the surge tank.
+056:37:00 Kranz (FLIGHT): Yeah.
+056:37:01 Lousma (CAPCOM): O2 surge tank, right?
+056:37:02 Kranz (FLIGHT): Yeah. What we are really doing is securing our entry systems right now.
+Gene Kranz surveys Mission Control during the crisis.
+Kranz' momentary lapse in recalling the location of the surge tank was not forgotten by his Flight Control team. The post-flight unwinding party included a remix tape of the flight control loop audio where his assessment of "I don't understand that, Sy" was made into the main punchline.
+056:37:07 Lousma: 13, Houston. We'd like you to isolate your O2 surge tank. Over. [Pause.]
+056:37:19 Swigert: Surge tank off now, Jack? Okay, Jack, are you copying - O2 tank 1 cryo pressure?
+056:37:30 Lousma: That's affirmative. And we're trying to get power to that tank. Stand by; we're working on it.
+056:37:38 Swigert: Okay.
+Comm break.
+The reason for getting power to oxygen tank 1 is to raise its pressure by switching on its heaters. The oxygen system relies on the source tank pressures being within a range of values. As the gas is depleted, both temperature and pressure fall so heaters are switched on to restore the pressure. In this case, because the tank is leaking, heating it can only remedy the problem temporarily, and will actually help to empty it faster.
+The Command Module has its own small oxygen tank, known as the surge tank, that is used for the crew's oxygen supply during re-entry. By isolating it, they are preserving it for that eventuality, a sign that minds are thinking in the longer term, while the rest of the CSM's oxygen leaks away.
+056:39:05 Swigert: Okay. We had a - Service Module RCS B light, Jack, due to a package temperature.
+056:39:13 Lousma: Service Module RCS B. We copy. No problem.
+While usually the erratic temperature on a crucial system such as the maneuvering rockets would be the source of much consternation and troubleshooting, compared to the rest of their problems, they are barely blinking an eye on the issue. It is not something that will put the crew's life in danger for the moment.
+056:39:21 Swigert: Let's read you the lights we got on now; Cryo Press, Fuel Cell 1, Fuel Cell 3, Main Bus B Undervolt, Suit Compressor.
+The Caution and Warning lights panel, as read out by Swigert at the moment.
+056:39:33 Lousma: Roger, we copy them and we'd like to build up the pressure in O2 tank 1, so turn the heaters on manually; we'll watch the pressure for you.
+056:39:44 Swigert: Okay, do you want to see...
+Oxygen is normally stored at a pressure exceeding 900 psi (pounds per square inch) within the cryogenic tank. With the leak in tank 1 causing the pressure to plummet, by now to one third of the normal storage pressure, they are attempting to restore it by using the tank heaters.
+056:39:45 Lousma: Go ahead.
+056:39:46 Swigert: ...We're going to get a Main Bus A Undervolt, probably.
+Jack thinks that in their current state, the power system will be overloaded if they turn on the tank heater, a high-power item.
+056:39:49 Lousma: Roger. We realize that; we feel we can stand 5 more amps on it.
+056:39:56 Swigert: Okay.
+056:40:00 Lovell: Okay, heater on tank 1's On.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file
+056:41:52 Lousma: 13, Houston. We'd like you to additionally bring on the fans in O2 tank 1, and we can stand the additional amperage on that.
+056:42:03 Lovell: Okay - bring on the fans on O2 tank 1.
+Long comm break.
+The tank 1 fans are turned on because the cryo pressure does not show signs of increasing despite the effort to do so by operating the heaters. It is only moments later that Sy Liebergot gives a rather damning verdict on the situation.
+056:43:02 Liebergot (EECOM): FLIGHT, EECOM
+056:43:03 Kranz (FLIGHT): Go ahead, EECOM
+056:43:04 Liebergot (EECOM): The pressure in O2 tank 1 is all the way down to 297. We'd better think about getting in the LM, or using the LM systems. I'm going to have to power way down, I don't know if I'm going to be able to save the O2 for the third fuel cell - for fuel cell 2, rather.
+Your browser does not support the audio element. Download MP3 audio file
+056:44:32 Lousma: 13, Houston. We'd like you to check some circuit breakers on panel 226. Cryo O2 Heater number 1, Main A, and check the three Cryo Fan Motors, Tank 1, three phases. [Pause.]
+A separate circuit breaker panel manages power allocation into the fuel cells and the cryo tank operation systems. Gene Kranz and Sy Liebergot have conferred on the oxygen pressure situation and decided to check the circuit breakers to see if power is really getting to the systems used to try and raise the pressure in the tank. Sy did suggest that they did see the ship's electric power consumption rise accordingly when the heaters were turned on, hence the breaker theory is very much a long shot.
+Panel 226 circuit breakers.
+While the crew is checking the circuit breakers, Gene Kranz issues the order to prepare the lifeboat.
+056:44:31 Kranz (FLIGHT): EECOM, I don't think we're gonna come to any solution here until we get back to the initial set of conditions, so I hope you got a set of guys looking at the DLOG pretty soon.
+056:44:50 Kranz (FLIGHT): TELMU from FLIGHT.
+056:44:52 Heselmeyer (TELMU): Go ahead FLIGHT.
+056:44:53 Kranz (FLIGHT): I want you to get some guys figuring out minimum power in the LM to sustain life.
+056:44:56 Haise: Okay, Jack. 226 is configured just like it should be. I got three Reac breakers and three Rad breakers open. All the rest are closed.
+056:44:57 Heselmeyer (TELMU): Roger.
+056:44:58 Kranz (FLIGHT): Okay.
+056:45:11 Lousma: Okay, Fred. Thank you. [Long pause.]
+056:45:55 Swigert: Jack, looking outside, the number of particles has diminished greatly, almost ceased now, which indicates maybe what was venting has almost stopped.
+The oxygen leak is growing weaker because the pressure in the tank has dropped due to the loss of oxygen. By now a whole cloud of oxygen surrounds the spacecraft and is even visible to telescopic observers on Earth.
+056:46:09 Lousma: Roger, Jack. Thank you. We copy.
+056:46:14 Swigert: I'm still getting some rates in negative pitch, though.
+056:46:17 Lousma: Roger. [Pause.]
+056:46:28 Lousma: And, 13, we'd like to verify that both BMAGs are Off, please.
+056:46:35 Swigert: Negative. We just have one BMAG. BMAG number 1 is still On.
+056:46:43 Lousma: Okay, Jack. Let's take BMAG 1, Off.
+056:46:50 Swigert: Okay. BMAG number 1, Off, now.
+Comm break.
+Mission Control has told Jack Swigert to shut down the remaining BMAG - this stands for Body-Mounted Attitude Gyro. There are two units, Gyro Assemblies 1 and 2, each containing three BMAGs, and they can form a backup attitude reference system onboard the Command Module. Right now BMAG 1 is still on and it is an undue power drain so is switched off. In their hurried and slightly confused state, Mission Control forgot to ask to shut both of them down earlier.
+056:48:06 Lousma: 13, this is Houston. We'd like you to give us a survey of your displays on MDCs 1 and 2. Give us gauge readings and talkbacks. Over.
+The Master Display Console. Panels 1 and 2 are the leftmost and center parts of the console, respectively.
+Gene Kranz wants to know what the crew is seeing on their own instruments. At fellow Flight Director Glynn Lunney's request, Gene has requested the CapCom to ask the crew to read it all out back to Mission Control and mark it on a diagram of the control panels.
+They've barely given out this order when EECOM chimes in again.
+056:48:21 Kranz (FLIGHT): See that juice is still going down there, EECOM. You got any more suggestions?
+056:48:28 Liebergot (EECOM): Flight, EECOM
+056:48:29 Kranz (FLIGHT): Any more suggestions in trying to pump up O2 Tank 1 pressure?
+056:48:32 Liebergot (EECOM): No... (sounding exasperated) Uhh, FLIGHT, we're gonna hit 100 psi in an hour and 54 minutes. That's the end, right there.
+056:48:47 Kranz (FLIGHT): Okay, 100 psi...
+056:48:50 Liebergot (EECOM): Less than two hours now.
+Sy Liebergot at the EECOM station, demonstrating the 'death grip' common in tense situations among the controllers. Picture courtesy of Sy Liebergot.
+The picture above is from another mission. No photos or film exist of the EECOM station during the crisis situation. According to Sy Liebergot's memoirs Apollo EECOM, the on-site photographers continued to record the expressions and mood in the Flight Control and CapCom stations - sometimes even using the EECOM console as a seat to get a better shot!
+056:48:22 Lovell: Okay. We'll start with display number 1. Are, uh...
+056:48:30 Swigert: Okay, Jack. On MDC 1, there is nothing abnormal. All the rate indicators are zero. Ball number 2 is, uh, frozen, of course; we lost - lost, uh. Main B. I've got Ball number 1 appears to be working normally. Right now I'm sitting at roll 0, pitch 180, and, uh, yaw about 13 degrees. I'm going to try and hold, uh, 0, 180, and 0.
+Jack is referring to the 8-ball displays, formally known as the Flight Director/Attitude Indicator (FDAI). It tells them their attitude, how fast they are rotating (their 'rates') and it includes needles to help direct them to a desired attitude.
+056:49:08 Lovell: Okay, Houston. The center panel - I'm looking at the RCS indicator A. We have a package temperature of about 180. Our helium pressure is 3900. I'm looking at fuel pressure of about 180 and percentage of about, I'd say 85 percent. B is about the same, except that that package pressure is 190. On quad C, we're looking about the same, except that the package temperature is 100. On quad D, we're looking at package temperature of 160. All other indications about the same. CM pressure - RCS pressure is looking nominal. Helium pressure's up around 4000. And package temperature is about - a little less than 80 on ring 1 and about the same on ring 2.
+Jim has given them a quick tour of both RCS systems; that on the SM and on the CM. Both RCS systems are essentially fine except that having been used heavily to counter the venting, the temperatures of three quads on the SM are elevated.
+This is Apollo Control Houston.
+056:50:02 Lovell: And the - talkbacks on the SM RCS, I've got Helium 1 now are all gray. Helium 2 are all gray. Primary Propellant all gray. Secondary Propellant, I've got two barber pole, and A is barber pole, B gray, C barber pole, and D gray. Okay. On the ECS Radiators, barber pole is gray. On the - On the ECS, Primary indicator.
+After the dark prediction made by Sy Liebergot a moment earlier, Gene Kranz sees no option but to lay down the law in regards to the future of the mission.
+056:50:57 Kranz (FLIGHT): FIDO, from FLIGHT.
+056:50:58 Stoval (FIDO): Go ahead FLIGHT.
+056:50:59 Kranz (FLIGHT): Whatever planning you do, I wanna do assuming that we're going around the Moon and we're using the LM for performing the maneuver because in the present configuration unless we get a heck of a lot smarter I think we're wasting our time planning on using the SPS.
+056:51:13 Stoval (FIDO): Okay, FLIGHT.
+056:51:14 Kranz (FLIGHT): So I think all of our return to Earth-type planning should be assuming the use of the LM DPS and/or RCS and I think third priority down the line should be CSM RCS.
+LM DPS is pronounced 'lem dips'
+056:51:27 Stoval (FIDO): Okay, and I'm assuming you - you'd want fastest possible return?
+056:51:32 Kranz (FLIGHT): Aaah, yeah, I think that's the case.
+056:51:34 Stoval (FIDO): Okay, we'll - we'll work on it from that side line, FLIGHT. Should be no problem.
+Gene Kranz has apparently written off the engine in the Service Module. They are unsure of its status and whether it could be used to bring them home. The trajectory people will now start to calculate ways to use the Lunar Module's Descent Engine to perform a burn to return to Earth as quickly as possible.
+Although the use of the DPS for the return burn will be a triumph of Apollo 13, it is not a mere effort of brilliant improvisation. Planning for the potential use for the LM to produce propulsion for both docked spacecraft goes back at least as early as 1963. The very Flight Plan carried onboard has procedures for the use of the DPS should they be unable to enter lunar orbit due to a failure of the SPS engine. These procedures, however, were not drawn up for a scenario where the Command Service Module is also unable to support the crew.
+056:50:57 Haise: Okay, Jack. Starting at the top. Okay. The Cryo Tanks; H2 1 is reading 230 and the same for 2. Our O2 Cryo Tank 1 is - looks like it's barely holding its own at 300. And Cryo Tank 2 is reading zip. Our quantities: H2 1 is reading 73; 2, 74. On the O2 side, we're reading O2 1 at quantity 76; O2 2 pegged to full scale high. RAD Temps Primary Inlet, we're reading about 55; RAD Out is reading about 30, and, uh, Secondary Outlet is reading...
+Cryo displays, as they would have appeared at this moment. Recreated based on values given on transcript.
+Haise (continued): ...fifty - 52 degrees. And the Evap Out Temp's 45; Steam Pressure, 0.17; and Glycol Discharge, 48. Suit Compressor's reading zip. The Accum is reading 30; H2O Waste is reading about 34; Potable's reading about 98; Secondary RAD Inlet is reading about 71; and the RAD Out is about 30; Glycol Evap Temp is reading 65, Steam Pressure pegged full scale high; Discharge Pressure, 9 psi.
+This is Apollo Control...
+In Mission Control, Sy Liebergot and his support staff have come to an important realization about the Electrical Power System.
+056:51:45 Liebergot (EECOM): FLIGHT, EECOM.
+056:51:48 Kranz (FLIGHT): Go ahead, EECOM.
+056:51:49 Liebergot (EECOM): Okay, listen. There is a possibility that we blew a O2 line in one of the fuel cells, and it's effectively manifolded there, of course. Now I'm - I wanna shut off one of the reactant valves to one of the fuel cells. And that would be fuel cell 3, since its O2 pressure is gone. Now, fuel cell 1's oxygen pressure is trying to stay up there, at 45 psi. Maybe the problem is in fuel cell 3.
+056:52:24 Kranz (FLIGHT): That sounds like a good assumption right there.
+056:52:26 Liebergot (EECOM): Yeah, fuel cell 3 is lost anyways, as far as...
+056:53:06 Lousma: Excuse me, Fred; I'd like to butt in here a minute. We'd like to have Thruster C-1 off.
+056:53:17 Lovell: C-1 is off.
+056:53:18 Lousma: And proceed...
+056:53:19 Haise: Okay...
+056:53:20 Lousma: ...my last copy is Secondary RAD In. [Pause.]
+056:53:28 Haise: Okay. Your Secondary RAD In, I gave to you 70 - about 72 degrees; the RAD Out's about 30; the Glycol Evap Temp is reading about 65; Steam Pressure full scale high, Glycol Discharge Pressure about 9 psi. The Accum - Secondary Accumulator is about 30 - 34 percent. Our temperatures: Suits showing about 52 degrees; Cabin, about 58 degrees; pressures, Suit reading 4.1, Cabin at 5. Partial Pressure CO2 is up to little over 1, about 1.1. On the SPS side of the house, the temperature is 72 degrees, helium's reading 3500; N2 A is reading 2300; N2 B, about 2450. And our ullage pressures: Fuel is reading about 165; Oxidizer 170. Fuel cells: Fuel Cell 1, both Closed, they're zip; Skin Temp 405 degrees; Condenser Exhaust is lower scale. Fuel Cell 2 - right now we've got an O2 or an H2 Flow reading of 0.13 to 0.14, and the O2 Flow is right now pegged full scale high although it's been varying dependant on thruster activity which has also given us Main Bus A undervolts from a steady reading of about 1.1 up to full scale high. The T-skin is about 445 and the Condenser Exhaust, 17 - correction, 180. Let's see if you want it on the DC indicator: Fuel Cell 1 is 0 amps; 2 is reading somewhere between 44 and about - oscillating 44 to 48 again dependant on thruster activity.
+056:56:03 Lousma: Stand by.
+056:56:04 Haise: ...is 0 amps. Ah, Say again, Jack. [Long pause.]
+Apollo Control, Houston; continuing to troubleshoot with the Apollo 13 crew. Closely watching oxygen quantities and pressures in the Command Module. Isolating the surge tank leaves oxygen for entry if this should become necessary. Also, if necessary, the 13 crew could open the tunnel and use oxygen from the Lunar Module. We now...
+The Apollo 13 crew is just over one hour into the crisis.
+056:56:23 Lovell: Houston, 13. [Long pause.]
+056:56:55 Haise: Hello, Houston; Apollo 13. How do you read? [Pause.]
+056:57:07 Lousma: Okay, 13. This is Houston. It appears to us that we're losing O2 flow through fuel cell 3. So, we want you to close the Reac valve on fuel cell 3. It looks like fuel cell 1 and 2 are trying to hold up okay. You copy?
+056:57:26 Haise: Are you saying fuel cell 1 and 2 - 1 and 2 are trying to hold up but we're leaking O2 out of fuel cell 3? And you want me to shut the Reac valve on fuel cell 3? Did I hear you right?
+Fred's incredulous response was shared by Jack Lousma, who earlier asked the same questions from Gene Kranz as well.
+056:57:40 Lousma: That's affirmative. Close the Reac valve on fuel cell 3.
+056:57:48 Haise: Okay. I'll go to the SSR page. Do you want me to go through that whole smash for fuel cell shutdown? Is that correct?
+Fred Haise is apparently unable to believe that Mission Control is indeed telling him to shut down the Reac valves. This is a procedure that cannot be reversed once performed. Hence, NASA has apparently written off one third of the ship's power production capacity, and Mission Control is effectively scrubbing their mission at the moment, whatever the actual damage the ship might have sustained. It would be against mission rules to continue the mission with only 2 fuel cells, which means that even if they were able to restore the remaining fuel cells to maximum function, the lunar landing is out of the question.
+056:57:57 Lousma: Stand by. [Long pause.]
+Current thinking in Mission Control is that somehow fuel cell 3 is damaged and causing them to lose their oxygen supply through the fuel cell. Their suggested solution is to isolate the fuel cell physically by closing the valves that control the oxygen and hydrogen flow into the fuel cell.
+The thinking for the moment is sound. If they are able to shut down the leak through fuel cell 3, they would have one oxygen tank and at least one working fuel cell in fuel cell 2, enough to get the crew back home safely with power to use and oxygen to breathe.
+Apollo 13, now 180,098 nautical miles [333,541 km] from Earth. Velocity now reading 3,219 feet per second [981 m/s]. We're at 56 hours, 58 minutes now into the flight.
+056:58:24 Lousma: Okay, 13. We want you to turn the inline heaters off on fuel cell 1. Then we want you to go through the fuel cell shutdown procedure on fuel cell 3. Read back.
+056:58:40 Swigert: Okay. Shut down the inline heaters on fuel cell 1. We're proceeding with the shutdown, special subroutine, for fuel cell 3.
+The unusual nature of the fuel cell procedure gave it the name Special Subroutine, or SSR.
+Original draft of the SSR-1 page from the Operations Handbook, with Swigert's hand written annotations. Courtesy of the Cosmosphere, Hutchinson, KS.
+Jack authored the fuel cell shutdown procedure as well.
+056:58:51 Lousma: That's affirmative. [Long pause.]
+056:59:12 Lousma: 13. Omni Bravo, please. [Long pause.]
+056:59:54 Lousma: 13, Houston. Over.
+056:59:58 Swigert: Go ahead.
+056:59:59 Lousma: Okay. You got Omni Bravo and we'd like to have you verify that the tape recorder is off please.
+The CapCom is meaning exactly what it sounds like - the tape recorder, officially known as DSE or Data Storage Equipment - is used to record systems data during crucial system phases and while the ship is outside communications contact with Earth, so that this information can be passed on to Earth later on. It also has an audio track option, to record what is being said in the cockpit by the crew even when they are not talking to Earth on the radio.
+The cockpit voice recorder could even be used to pass clandestine messages to Earth. During the flight of Apollo 8, Commander Frank Borman of the mission fell sick soon after they headed for the Moon. The crew made a recording of his health situation on the audio track of the tape and then asked Mission Control to play back the tape. This way they were able to report on the sickness without using the public radio channel, and cause undue worry in anyone listening in.
+057:00:08 Swigert: That's verified. Okay, Jack. I'm sitting here with an 0618 showing and I can't get rid of it here. Oh, stand by just a... [Long pause.]
+057:00:48 Lovell: Okay. Fuel cell 3 Reac's are Off, Houston.
+057:00:52 Lousma: Roger, Jim. Thank you.
+Comm break.
+Reactant valve shutdown switches on the control panel. Scan via heroicrelics.org
+This is Apollo Control, Houston. Speaking from the spacecraft for most of that conversation has been Lunar Module Pilot, Fred Haise. We're at 57 hours, 1 minutes now in the flight.
+057:01:54 Swigert: Okay, Jack. Step 2, special subroutine 1 for the fuel cell procedure, has been completed.
+057:02:01 Lousma: Roger. Thank you.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file
+057:04:29 Swigert: Okay. Jack. I'd like to bring on jet A-4. I've got, uh, no - negative pitch control - negative pitch control, and right now neither Direct or Auto coils.
+Diagram of an RCS thruster
+The RCS attitude control jets can be fired through two control paths, Auto or Direct, each with their own individual wiring and electric solenoid valves that inject the propellant into the thrusters. In Auto, the RCS jets are fired according to automatic computer commands based on the computer programming or the crew using various switches on the control console to choose from automatic and semi-automatic control modes. In Direct mode, the automatic control is bypassed and moving the hand controller in the Command Module causes the jets to fire under manual control.
+057:04:47 Lousma: Okay. You say no pitch in either Direct or Auto? You want to bring on A-4?
+057:04:53 Swigert: Yeah. I got a - I got a positive pitch rate and I can't stop it.
+057:04:58 Lousma: Okay. [Pause.]
+057:05:08 Lousma: Okay, Jack. Bring A-4 on; stop the pitch rate.
+057:05:14 Swigert: Okay. That got it. [Long pause.]
+Positive pitch rate implies that the nose of spacecraft is tipping 'upwards' in terms of the inertial platform sensing it. By allowing the aft-facing A-4 jet to fire, they are able to push their nose back down.
+057:05:35 Lousma: And, 13, we need Omni Charlie, please.
+057:05:41 Haise: Omni Charlie.
+057:05:46 Lousma: And, Freddo, we'd like to have you, uh, verify fuel cell reactants talkback is barber poled
+057:05:54 Haise: That's affirm. I watched it and it went barber pole as I threw the switch.
+057:06:01 Lousma: Roger. [Pause.]
+057:06:12 Kranz: Okay, all Flight Controllers, I'm handing over to Glynn. I assume the majority of all the team guys are pretty much briefed and up to speed as best we can. Now what I'd suggest is the White Team do two things. They go over the D-logs...
+Comm break.
+By mistake, Kranz has come up on the air-ground loop. It is convention that only another astronaut, the designated CapCom, can speak with the crew. A flight controller has informed him of the error by calling on the flight loop "FLIGHT, you're on GOSS Conference." Kranz continues on the flight loop.
+057:06:29 Kranz (FLIGHT): Okay, let me go back over this again. We're handing over to Glynn. I'd suggest the White Team goes back and starts going through the D-log of the data. In other words, let's see if we can go back to the initial conditions and work on that problem to see if we can find out what happened and we may find some better clues as to what to do and let the fresh guys come on and try to figure out where do we go from here.
+Flight Director Glynn Lunney in Mission Control. His night shift was not going to be a quiet one.
+Although it might seem odd to do so in the middle of an emergency, there is a change of shift in Mission Control. Gene Kranz' White Team is replaced by Glynn Lunney's Black Team in Mission Control, and they continue to troubleshoot the spacecraft's problems. The White Team isn't about to just go home for the night. They are soon busy at work trying to decipher what's going on onboard the ship by looking into the telemetry logs, stored in the computers at the RTCC.
+Your browser does not support the audio element. Download MP3 audio file
+057:08:01 Swigert: Okay. Jack. Let me give you a thruster configuration right now. Able 1, Charlie 1, Able 2 are off. Charlie 2, Main A, all the thrusters that I call that are on are on Main A. Baker 1, Off. Dog 1, On; Baker 2, Off; Dog 2, On. Able 3, Charlie 3, Able 4, Charlie 4, On. Baker 3, Off; Dog 3, On; Baker 4, Off; Dog 4, on. [Long pause.]
+057:09:27 Lousma: Okay, Jack. That thruster configuration looks okay.
+057:09:35 Swigert: All right. Okay. Do you want some readings from the Systems Test Meter regarding fuel cells?
+057:09:45 Lousma: Stand by one on that, Jack. Let me ask the EECOM.
+057:09:46 Swigert: We've got some incompatibilities here. [Pause.]
+057:10:03 Lousma: Okay, 13. We'd like to have you give us those systems test readings on fuel cell 1 and 3, please.
+057:10:11 Lovell: Okay. 1 and 3 coming up.
+057:10:14 Haise: Okay. Jack, 1-A is reading, lower scale, 0; 1-B is reading. 3.45. Okay. You only want fuel cells 1 and 3. Okay. Ignore that 1-B reading. 1-C is reading 3.4. Now, 1-D is reading 2.4. 2-B is reading 0.25.
+057:11:09 Lousma: Roger. Is that 2 Bravo, Fred?
+057:11:15 Haise: That's 2 Bravo is reading - oh, about 0.25 to 0.3. [Long pause.]
+057:11:23 Lunney (FLIGHT): EECOM, I don't like the way that O2 pressure's going down. If you want do something about these other reactant valves, let's make up our mind.
+057:11:29 Burton (EECOM): Okay.
+057:11:30 Lunney (FLIGHT): Don't you think?
+057:11:30 Burton: Okay. Let me get back with you, a minute, FLIGHT. Would - Stand by on these readouts.
+057:11:36 Lunney (FLIGHT): Yeah, Okay. Anybody can copy the readouts. Be sure you - got discussing this reactants.
+This is Apollo Control, Houston, 57 hours, 11 minutes...
+057:11:39 Haise: Okay. 2-C is reading 4.1. [Long pause.]
+Glynn Lunney's handwritten log shows the O2 tank 1 pressure dropping inevitably.
+Flight Director Glynn Lunney's infamous handwriting becomes even more so as he starts to record the slowly dropping oxygen tank pressure almost minute by minute.
+We now show an altitude of 180,521 nautical miles [334,325 km]. Here in Mission Control we're looking - now looking towards an alternate mission swinging around the Moon and using the Lunar Module power systems because of the situation that has developed here this evening. We now show a velocity of 3,210 feet per second [978 m/s]. This is Apollo Control, Houston.
+Even though the crew is still troubleshooting the fuel cells, the PAO is already announcing the plans to use the Lunar Module as a lifeboat and the way to get back to Earth.
+057:11:53 Lousma (CapCom): Hey Flight, CapCom, a long time ago I heard somebody mention something about closing a Repress package and then we never made a decision on that. Do they want to do that too?
+057:12:03 Lunney (FLIGHT): EECOM?
+057:12:04 Unidentified: He's busy.
+057:12:06 Burton (EECOM): Go Flight.
+057:12:07 Lunney (FLIGHT): Uh, you want to close out the repress pack. I think that came on for 'em before.
+057:12:10 Haise: And 3-A is reading 4.0.
+057:12:11 Burton (EECOM): Uh, we indicated earlier that we'd like to get it closed off, right.
+057:12:14 Lunney (FLIGHT): Yes, Jack.
+057:12:15 Lousma: Roger. 4.0. Say again what it is, please. [Pause.]
+057:12:22 Haise: 3 Able, 3-A. [Long pause.]
+057:12:23 Burton (EECOM): Flight, EECOM.
+057:12:24 Lunney (FLIGHT): Go ahead.
+057:12:25 Burton (EECOM): Okay. On the reactants for fuel cell 1, uh, seems to me we have no choice but to go ahead and do it. The pressure continues to drop. Uh, we're not gonna have anything left soon anyway, so, uh, looks like the next best thing to try is to go ahead and turn the reactants off on fuel cell 1.
+057:12:48 Haise: 3-B is reading 1.8. [Pause.]
+057:12:58 Haise: And 3-D is reading 1.95.
+Comm break.
+Fuel cell 1's nitrogen pressure is zero, which indicates a sensor issue. Nitrogen pressure on fuel cells 2 and 3 is normal. Oxygen pressure at fuel cells 2 and 3 is abnormal, with three being close to zero at 3 psi.
+After observing the situation before taking over as the Flight Director, Glynn Lunney jumps right into action. He has to make some very quick and difficult decisions as soon as he has taken over the Flight Director's seat. With Sy Liebergot also standing down, the on-duty EECOM Clint Burton continues to report on the oxygen issue.
+057:13:35 Lunney (FLIGHT): Is there any chance that I'm just looking at a bad pressure reading here? I'm going to shut off the second fuel cell now, is there any cur - any data you can correlate that say that, yeah, that pressure's going down?
+057:13:44 Burton (EECOM): On the O2 tank?
+057:13:46 Lunney (FLIGHT): Yes. You understand my question?
+057:13:52 Burton (EECOM): Yeah, I understand your question. Uh, the temperatures are also dropping. Let me get a verification on that - stand by for just a minute.
+057:14:08 Lovell: And, Houston, 13. O2 tank pressure number 1 is less than 300 now.
+057:14:14 Lousma: Roger. We're seeing that. We confirm it. [Long pause.]
+Despite the shutdown of the reactant flow to fuel cell 3, the oxygen tank pressure is still dropping. This is bad news to the troubleshooting effort. There is still a leak going on somewhere.
+057:15:04 Lousma: 13, Houston. We're going to have to have you go through the shutdown procedure on fuel cell 1. Our O2 pressure is going down as you note and the temperature confirms it. Did you copy?
+The ship's instruments and Mission Control use a variety of sensors to calculate the quantities of fuel - not an easy feat in weightless conditions. The quantity sensors and the pressure sensors are supplemented by the temperature sensor, and the temperature data too can be used to determine the state of the tank.
+057:15:24 Swigert: Okay. Well, what bus configuration - What main bus do you want powered? [Pause.]
+Jack's comment could be interpreted as a show of disbelief at what he just heard from the Mission Control.
+057:15:36 Lousma: Okay, Jack. We want you to leave the bus configuration as it is. Fuel cell 2 on Main A, and we need Omni Bravo.
+057:15:52 Swigert: Okay, Jack. We're proceeding with the shutdown procedures for fuel cell 1. [Long pause.]
+057:16:35 Lousma: And, 13, Houston. We'd like you to isolate the Repress package, please.
+057:16:42 Swigert: Okay.
+The Repress package is a set of three small high pressure oxygen tanks in the Command Module, used for repressurizing the cabin in special situations. They can also supply oxygen into emergency breathing masks to be used in case of cabin air contamination while the crew is not wearing their spacesuits. Mission Control wants to preserve this oxygen source as well. EECOM Sy requested the procedure earlier but it was lost in the general hectic state of Mission Control.
+057:16:43 Lovell: Isolate the Repress package. Roger.
+057:16:45 Haise: I can confirm Repress package is off.
+057:16:48 Lousma: Roger. So now you've got the Repress package and the surge tank isolated. Is that affirm?
+057:16:55 Haise: That is Charlie.
+057:16:59 Swigert: Okay. Now, this is - We're ready to close the Reacs on fuel cell 1; is that right? [Long pause.]
+057:17:35 Lousma: Jack, stand by on the fuel...
+057:17:36 Swigert: On that last - confirmation. Okay.
+057:17:41 Lousma: Roger. We're - We're giving you one last...
+057:17:42 Swigert: We want to just get one last confirmation.
+057:17:45 Lousma: Okay, Jack. We're getting that last confirmation. Stand by, please.
+057:17:51 Swigert: Okay. [Pause.]
+057:18:01 Lousma: Okay, 13. We verify that we want you to close down - shut down fuel cell 1, close Reacs valve.
+After multiple seesawing back and forth, Lovell and Swigert have been convinced that they have to shut down fuel cell 1 and hope for the best. Their apparent reluctance to go through with the procedure is another display of the crew's knowledge that the power loss will be final. At best they are looking at an abortive mission with a single working fuel cell, at worst... it can only get worse.
+057:18:10 Lovell: Roger...
+057:18:11 Swigert: Okay.
+057:18:12 Lovell: ...fuel cell 1; close the Reacs valve. [Pause.]
+057:18:19 Swigert: Fuel cell...
+057:18:20 Lovell: Reacs valve on fuel cell 1 is closed. [Long pause.]
+057:18:45 Swigert: Okay, Jack. I can confirm step 2. The fuel cell shutdown procedure is complete for fuel cell 1.
+057:18:55 Lousma: Roger.
+Comm break.
+057:19:58 Lousma: 13, we recommend that you enable BD roll in the DAP. Over.
+057:20:05 Swigert: Okay. Will do...
+057:20:06 Lovell: Enable BD roll in the DAP. [Long pause.]
+DAP stands for Digital Autopilot. It is a routine in the Command Module Computer used for maintaining or changing the spacecraft's attitude. 'BD roll' refers to a configuration of the DAP that will use the RCS clusters B and D for roll maneuvers. Roll is a rotation of the spacecraft around its longitudinal axis.
+057:20:23 Lousma: 13, Houston. We're working on the big dish now, so turn the High Gain Power switch, Off, please.
+057:20:32 Lovell: Okay. [Long pause.]
+Turning off High Gain Power is saving them another 2.9 amps of power drain.
+057:20:55 Swigert: Okay, Jack. When we got the loud bang, we got also a restart. Did you copy that? Is - does GUIDO want anything, a Verb 74 or anything done with the CMC?
+GUIDO stands for Guidance, and figures out how the ship knows which way its nose is pointing. They are also responsible for the onboard computer, and Jack wants to know if they require some action on it.
+057:21:06 Lousma: Stand by. [Long pause.]
+057:21:54 Lousma: 13, Houston. We're ready with a Verb 74 now, please. [Pause.]
+057:22:05 Swigert: Coming down at you.
+Comm break.
+Verb 74 begins the dump of the computer's erasable 2K word memory to Earth.
+Glynn Lunney surveys the situation. NASA image from an earlier mission.
+057:22:57 Lunney (FLIGHT): TELMU, FLIGHT.
+057:22:58 Merritt (TELMU): Go, FLIGHT.
+057:22:59 Lunney (FLIGHT): Is there anything simple that we can refer the crew to, to get them thinking about using the LM here? Have you got anything in the checklist, paperwork that'll describe to them what your intentions are?
+057:23:12 Merritt (TELMU): Negative, there's nothing documented in contingency. We're thinking about using the LM as a lifeboat. We have some procedures here. On the ground, though.
+057:23:19 Lunney (FLIGHT): I'm sure you do. What do they amount to? Flying with the tunnel open?
+057:23:22 Merritt (TELMU): Rog. Just a LM low power - low - supplying power to the CSM.
+057:23:28 Lunney (FLIGHT): Supplying power to the CSM?
+057:23:30 Merritt (TELMU): Yes, about 5 amps.
+057:23:33 Lunney (FLIGHT): Uhh, to what?
+057:23:35 Merritt (TELMU): It's to their Main Bus B.
+057:23:36 Lunney (FLIGHT): Okay. Where did - well, Main B is in bad shape. We don't have anything on Main B right now. What's that power for TELMU?
+057:23:47 Merritt (TELMU): Just anything they might need it for.
+The situation has grown very dire, and Glynn Lunney is now questioning the LM people in Mission Control about plans on how to power up the LM quickly. His hope of a ready solution in one of their checklists that the crew can look up is not to be. However, they do have an emergency operations plan for one kind of a 'lifeboat' mode. This was designed to keep a two-man crew alive in a powered down, stranded LM Ascent stage in lunar orbit while the CMP comes in with the CSM to effect a rescue. The LM lifeboat option for the transearth coast had been investigated over the years and described in detail at least as early as August 1968. it deals with a scenario similar to what TELMU Merlin Merritt proposes here.
+The plan preceding even the flight of Apollo 8 as well as the first manned LM flights of Apollo 9 and 10, suggests that in the case of an SPS engine failure, the inert Service Module should be ejected and a return home is made using the DPS engine for the abort burn and the Lunar Module as a lifeboat to support the crew. It also includes plans for transferring power to the Command Module to maintain the onboard computer online. Yet the plan imagines the LM being used for this purpose only for the period following flying past the Moon - while now they are still 24 hours away from that moment.
+Day 3, part 1: Before the Storm
+Journal Home Page
+Day 3, part 3: Aquarius Becomes a Lifeboat

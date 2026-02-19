@@ -1,0 +1,814 @@
+Apollo 11 Flight Journal - Day 6, part 3: Boarding Columbia and LM Jettison
+Day 6, part 2: Rendezvous and Docking
+Journal Home Page
+Day 6, part 4: Trans-Earth Injection
+Apollo 11
+Day 6, part 3: Boarding Columbia and LM Jettison
+Corrected Transcript and Commentary Copyright © 2009-2025 by W. David Woods, Kenneth D. MacTaggart and Frank O'Brien. All rights reserved.
+Last updated 2025-02-22
+Index to events
+Loss Of Signal towards the end of Rev 27
+129:04:00
+Acquisition Of Signal on Rev 28
+129:50:00
+Lunar Module ascent stage jettison
+130:09:31
+Separation burn (from ascent stage)
+130:30:01
+Loss Of Signal towards the end of Rev 28
+131:02:00
+Acquisition Of Signal on Rev 29
+131:48:00
+Preliminary Trans-Earth Injection PAD - Rev 30
+132:22:10
+Loss Of Signal towards the end of Rev 29
+132:59:00
+Armstrong and Aldrin rejoin Collins in Columbia, transferring over their moon rocks, films and other equipment.
+Flight Plan, page 3-94.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+128:05:36 Collins: Houston, Apollo 11. Over.
+128:05:39 Evans: Apollo 11, Houston. Go.
+128:05:44 Collins: Roger. I'm supposed to adjust the oxygen flow in this thing to six-tenths of a pound per hour, but being as how this transducer is not working right, could you give me an updated number?
+128:05:55 Evans: Affirmative. You want to go ahead and adjust your O2 flow until it just goes off the peg, and then crank the direct O2 valve back down about 5 degrees. Over.
+128:06:14 Collins: Boy, you're really waiting for that one, aren't you? Okay, Ron. Thank you. [Long pause.]
+128:06:59 Collins: Houston, I did that, and I believe we are flowing oxygen, but the gauge is just pegged Full Scale Low.
+128:07:08 Evans: Roger. That's fine. That's what we expect.
+128:07:13 Collins: Okay. [Pause.]
+128:07:24 Collins: Okay. I'm going to go ahead with the tunnel leak check.
+128:07:32 Evans: Columbia, Houston. I have a new LM weight for you whenever you're ready to copy. [Pause.]
+128:07:45 Collins: No, not right now, Ron. Remind me of it later, would you please?
+128:07:50 Evans: Roger. We'll stand by.
+Comm break.
+128:08:56 Collins: Houston, Apollo 11. I let P47 run longer than I should. I may have deteriorated our state vector slightly.
+128:09:06 Evans: Roger, Apollo 11. That's okay. We'll get it later.
+Comm break.
+Program 47 monitors Columbia's Delta-V. Mike would have used it to monitor the effect of his thrusting towards the LM.
+This is Apollo Control. Communications are somewhat scratchy with Apollo 11. Columbia and Eagle now reunited to become Apollo 11 again. Our best estimate on the time of docking is some 3 minutes after the pre-mission time of 128 hours. Continuing to monitor this 27th lunar orbit for the two-way communications between the two spacecraft.
+128:11:03 Collins: Houston, Apollo 11. Go ahead with your DAP up, please.
+128:11:07 Evans: Roger. Your LM weight, 5785. For an R1 we'd like to have 61102; R2, 01111. Use B/D roll. Over.
+128:11:35 Collins: Roger. I'm configured now at panel 8 for B/D roll, and I have thrusters C4 and B3 turned off, and I copy Register 1 61102, 01111 and LM weight 5785. Thank you.
+128:11:52 Evans: Roger, Columbia.
+Comm break
+Page F8-3 of Mike's checklist has this table indicating what the values in Verb 48 represent when configuring the Digital AutoPilot (DAP).
+The settings for the DAP in this case are as follows: for register 1; the ascent stage is docked with the CSM, all four quads are enabled for pitch and yaw, the deadband is ±0.5°, the rate at which the spacecraft should be rotated is 0.5° per second. For Register 2; only the B and D quads will be used to roll the spacecraft, all quads are otherwise enabled.
+128:13:57 Collins: Houston, Columbia has completed the leak check, and proceeding with opening the hatch dump valve.
+128:14:07 Evans: Roger, Columbia. Understand you're doing the leak check. I missed anything after that.
+128:14:13 Collins: I say the leak check is complete, and I'm proceeding with opening the hatch dump valve.
+128:14:23 Evans: Eagle - Columbia, Roger.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+128:20:03 Collins: Eagle, Columbia.
+128:20:07 Armstrong: Go ahead.
+128:20:08 Collins: My hatch is removed. You can open yours, and I'll start passing stuff up to you.
+128:20:12 Armstrong: Okay. [Pause.]
+128:20:22 Collins: Well; stand by one, first.
+128:20:27 Armstrong: Okay.
+Long comm break.
+As well as removing the forward hatch of the Command Module, Mike will have also removed the docking paraphernalia, the probe and drogue, that would otherwise be in the way.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. Still rather noisy communications here on the 27th lunar revolution. 39 minutes remaining until Apollo 11 goes behind the Moon. We'll leave the circuit up and try to monitor the conversation between the two spacecraft or between Apollo 11 and the ground for the remainder of this pass - try to ascertain the status onboard as far as transferring the crew and other items back into the Command Module. The clean-up in the LM getting all the items dusted off prior to bringing them back into the Command Module. At 128 hours, 25 minutes Ground Elapsed Time and standing by; this is Apollo Control.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+128:28:30 Aldrin: Mike, you still there?
+128:28:32 Collins: Yeah, everything is going fine. Be with you in just a sec.
+Comm break.
+128:30:10 Evans: Eagle, Houston. Over.
+128:30:16 Aldrin: Go ahead, Houston, Eagle here.
+128:30:17 Evans: Roger. Any time prior to jettison there, we'd like an AGS to PGNS align: 400 plus 30 000. Over. [Pause.]
+128:30:34 Aldrin: Okay. Any particular attitude you'd like the PGNS in when we do that? [Pause.]
+128:30:47 Aldrin: No. We're not getting any. Could you give us some course align gimbal angles to move the PGNS to, and then we'll align the AGS to the PGNS. Over.
+128:30:58 Evans: Roger. Eagle. We concur. Stand by on the gimbal angles. And also, Eagle, while we've got the Command Module direct O2 on there, there's a possibility that your cabin relief might relieve if we get on up around cabin pressure of about 5.4 or 5.5. [Pause.]
+128:31:24 Aldrin: Roger. [Long pause.]
+Of the two guidance systems on the LM, the PGNS is the more accurate, having a full inertially stabilised platform. The AGS is more prone to drift because it uses strapped-down gyros that are inherently poorer at indicating attitude and therefore it is regularly realigned so that its idea of the spacecraft's attitude matches that of the primary system.
+Mike had brought the pressure of the CM cabin up in order to provide air to pressurise the tunnel. As a result, the CM cabin pressure might be slightly higher than the LM is set for. When the two cabins are brought to the same pressure, there is a possibility that the cabin relief valve in the LM might open to bring the overall pressure down into its range. Mission Control are unconcerned about this and are just flagging up the possibility to the LM crew so they will not be surprised by it.
+128:32:05 Evans: Eagle, Houston.
+128:32:10 Aldrin: Roger. Go ahead.
+128:32:11 Evans: Roger. All we're trying to do is get PGNS and AGS aligned together. Doesn't make any difference on the gimbal angles. [Long pause.]
+128:32:28 Collins: Hopin'?
+128:32:34 Aldrin: Okay. We're pretty close to 000. Is that all right?
+128:32:38 Evans: Eagle, that's beautiful.
+128:32:44 Aldrin: Now, you might want to take into account what'll happen when the CSM maneuvers to jettison attitude.
+128:32:56 Evans: Eagle, Houston. We don't care what the - All we are trying to do is get a drift rate and see how long it takes them to drift apart on the thing after you jettison.
+128:33:08 Aldrin: Okay. Will we be jettisoning at about this attitude? That's okay. I'll align the AGS to the PGNS. You can tell me a little later if you need some help.
+128:33:22 Evans: Eagle, Houston. That's fine.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+128:36:31 Collins: Houston, Columbia. You want me to roll over and get High Gain or anything like that?
+128:36:38 Evans: Columbia, Houston. I can give you some Reacq angles for the High Gain on the LM jettison attitude. Then you can go there whenever you want to. The angles are pitch minus 50, and yaw zero. [Pause.]
+128:37:02 Collins: Okay.
+Comm break.
+128:38:07 Collins: Houston, Columbia. Say the jettison roll, pitch, and yaw, please. [Long pause.]
+128:38:22 Evans: Columbia, Houston. Roll zero, pitch 025, and yaw zero. Over.
+128:38:36 Collins: Roger. Understand roll zero, pitch 025, yaw zero.
+128:38:40 Evans: Affirmative. [Long pause.]
+128:39:13 Collins: Maneuver in progress. We've moving. Houston. [Long pause.]
+128:40:09 Aldrin: Houston, Eagle. Over.
+128:40:12 Evans: Eagle, Houston. Go.
+128:40:18 Aldrin: Roger. It doesn't appear as though the red hose is going to be much of a competitor to the leading vacuum cleaner brands. Over.
+128:40:27 Evans: There's a little noise there, Buzz. Say again.
+Comm break.
+By dumping a little of the cabin air overboard, Neil and Buzz can use a hose as a vacuum cleaner, the flow of oxygen through its open end taking excess moondust with it. Apparently the flow is too weak to pick up much dirt.
+128:41:54 Evans: Eagle, Houston. [Pause.]
+128:42:02 Aldrin: Roger. Go ahead.
+128:42:05 Evans: Roger. Just a reminder to be sure and zero the AGS errors before you enable AGS attitude hold there after you get in burn attitude. [Long pause.]
+128:42:26 Aldrin: Roger. You mean Sep attitude? [Long pause.]
+128:42:47 Collins: Houston, how do you read Columbia on the High Gain now?
+128:42:50 Evans: Hey, Columbia, Houston. Mighty fine, loud and clear.
+128:42:56 Collins: Same here, Ron. Thanks.
+128:43:00 Evans: And Eagle, Houston. Your steerable antenna angles for jettison attitude are - Over. [Long pause.]
+128:43:22 Aldrin: Roger. Go ahead.
+128:43:23 Evans: Roger. Pitch 165, yaw 68. Over. [Pause.]
+128:43:35 Armstrong: Roger. Pitch 165, yaw 68.
+128:43:38 Evans: Eagle, Houston. Correct.
+Comm break.
+The steerable antenna is the LM's equivalent of the CSM's High Gain Antenna. It is a 66-cm (26-inch) parabolic dish that allows high bit rate data or television to be transmitted to Earth.
+AS11-40-5923 - While Eagle was on the Moon, its steerable antenna was kept pointed towards Earth as seen in this image just behind one of the LM's thruster quads. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+128:45:07 Evans: Columbia, Houston.
+128:45:13 Collins: Columbia. Go ahead.
+128:45:15 Evans: Roger, Mike. You want to tweak the O2 flow up just a bit there?
+128:45:22 Collins: Okay. Coming up. [Pause.] Houston, do you have any preferences as to what you want us to do with the probe? Over.
+128:45:36 Evans: Columbia, Houston. Stand by one.
+128:45:43 Collins: Okay. Eagle says they've got a place for it inside there, so no - no problem.
+The CM docking probe will not be needed after the LM is jettisoned, so they plan to abandon it inside the Eagle and save weight for Columbia's return journey to Earth.
+128:45:48 Evans: Roger. That's what we were assuming. [Long pause.]
+128:46:50 Evans: Eagle, Houston. [Long pause.]
+128:47:06 Armstrong: Eagle. Go ahead.
+128:47:07 Evans: Roger. Neil, it looks like your steerable's good. You can put your Track mode to Slew and high bit rate, please. Over.
+128:47:19 Armstrong: Okay. Track mode to Slew and high bit rate. [Long pause.]
+128:47:48 Collins: Okay. Stand by just one, please. [Long pause.]
+128:48:24 Collins: Okay. Shoot them on down.
+Comm break.
+128:49:28 Evans: Eagle, Houston.
+128:49:35 Armstrong: Go ahead, Houston.
+128:49:36 Evans: Roger. Neil, just a reminder again, ACA out of detent, to zero the AGS error there just in case you go to Attitude Hold shortly.
+128:49:47 Armstrong: Okay. [Long pause.]
+ACA is the Attitude Control Assembly, essentially a control joystick. Mike has rotated the stack to a new attitude for the upcoming jettison. As a result, the LM is no longer in the attitude it was at before. The AGS was being used to hold attitude prior to the docking and if it returns to this mode, it will start firing thrusters to restore the old attitude. By momentarily taking the ACA stick away from its central, detent position, the AGS should accept the new current attitude as the one it should try to keep.
+128:50:20 Collins: You say you wanted the probe now?
+128:50:30 Collins: Okay.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+128:53:46 Evans: Eagle, Houston.
+128:53:53 Armstrong: Houston, Eagle. Go ahead.
+128:53:54 Evans: Roger. That ACA out of detent didn't quite do it because the mode control switches were off. Request Guidance Control to PGNS and then back to AGS, and that will zero the AGS, there. Over. [Pause.]
+128:54:12 Armstrong: Say again, please.
+128:54:14 Evans: Roger. Request Guidance Control switch to PGNS and then back to AGS. Over.
+128:54:23 Armstrong: Okay. We still have both mode control switches off. Over.
+128:54:28 Evans: That's okay. That's good. [Pause.]
+128:54:39 Aldrin: And I thought I'd just take about 5 seconds here and see if I could get 000 gone, since we're fairly close to gimbal lock right now.
+128:54:56 Evans: Eagle, Houston. That's fine.
+Long comm break.
+This is Apollo Control. Some 6 minutes, 40 seconds remaining until Apollo 11 goes behind the Moon on the 27th revolution. The signal from the passive seismometer, which was left on the Moon by the crew of Eagle, was lost for 30 minutes beginning about 5 minutes before Eagle took off this morning. The signal was lost because of a equipment problem at the Canary Island tracking station. The seismic equipment is back on line now, and is beginning to record lunar day surface temperatures. The dust detector recorded zero dust after Eagle lift-off. The laser ground stations have not yet acquired a return signal from the Laser Ranging Retro Reflector. We're five minutes away from Loss Of Signal with Apollo 11. We'll continue to monitor the air-to-ground as the spacecraft goes over the hill. The crew now is engaged in the decontamination procedures inside the Lunar Module prior to transferring back into the Command Module.
+The surface crew took equipment for three science experiments with them to the lunar surface. A sheet of aluminium foil was exposed to the solar wind to trap its constituents. It is being returned for analysis. A solar powered seismometer and a retroreflector were left on the surface.
+AS11-40-5951 - Buzz Aldrin with the Apollo 11 seismometer. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-40-5952 - The Laser Ranging Retro Reflector, an array of 100 cube corner reflectors designed to allow the Moon-Earth distance to be measured with great precision. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Unfortunately, the seismometer was damaged by the extreme chill of the first lunar night when surface termeratures fall as low as -180°C. Although it came back to life the next lunar morning, it was switched off permanently. The retroreflector has been a very successful device. It continues to work to this day and in conjunction with other reflectors left on the lunar surface, it provides detailed data about the relative motions of Earth and the Moon
+128:58:03 Evans: Columbia and Eagle, Houston. About 5 minutes to LOS. Your LM jett time will be 131 plus 52, and I have the rest of the maneuver PAD if you want it now, or I can give it to you on the next time around. [Pause.]
+128:58:25 Collins: Stand by one. [Long pause.]
+128:58:43 Collins: Could you read it around the next time around, please?
+128:58:47 Evans: Sure, Mike. That's fine. We'll get it to you then.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+Flight Plan, page 3-95.
+129:01:52 Evans: Apollo 11, Houston. About a minute and a half to LOS. You're looking great. It's been a mighty fine day.
+129:02:02 Collins: Boy, you're not kidding.
+Very long comm break.
+This is Apollo Control. We've had Loss Of Signal as Apollo 11 went around the back side of the Moon on the 27th rev. We'll have acquisition with Apollo 11 approximately 45 minutes from now. At - let's see - would you believe they don't have the next tables up for the next rev. At any rate, 45 minutes from now. And at 129 hours, 4 minutes Ground Elapsed Time, this is Apollo Control.
+129:04:08 Aldrin (onboard): Now, here are a couple of bags - and I think it's self-explanatory what goes in them.
+129:04:14 Armstrong (onboard): Yes.
+129:04:18 Aldrin (onboard): [Garble] water.
+129:04:41 Aldrin (onboard): Now, where are those things?
+129:04:44 Armstrong (onboard): They're at the overshoot Buzz.
+129:04:45 Aldrin (onboard): Maybe I could slide out of here [garble].
+129:05:20 Aldrin (onboard): Hey, Michael, you all tied up there?
+129:05:25 Collins (onboard): [Garble].
+129:05:27 Aldrin (onboard): Get ready for those million-dollar boxes. Got a lot of weight; now, watch it.
+According to The Lunar Sourcebook (edited by Heiken, Vaniman & French), Apollo 11 returned 21.6 kilograms of rock and soil samples from the Moon. These are mostly contained in boxes that will be stored in stowage lockers B5 and B6 for the journey to Earth.
+129:05:52 Collins (onboard): You intend to keep [garble]?
+129:05:57 Armstrong (onboard): Yes.
+129:06:14 Aldrin (onboard): That's all your input, are you sure?
+129:06:17 Collins (onboard): Yes.
+129:06:18 Aldrin (onboard): Okay.
+129:06:32 Aldrin (onboard): Use what?
+129:06:34 Armstrong (onboard): Use lithium hydroxide.
+129:07:06 Aldrin (onboard): That thing still doesn't fit.
+129:07:08 Armstrong (onboard): No, they didn't fix it.
+129:07:10 Aldrin (onboard): Huh?
+129:07:11 Armstrong (onboard): They didn't fix it. I had thought somebody had mentioned it, at least.
+129:07:19 Aldrin (onboard): [Garble].
+129:07:20 Armstrong (onboard): What?
+129:07:21 Aldrin (onboard): [Garble].
+129:07:24 Armstrong (onboard): Get some tape.
+129:07:26 Aldrin (onboard): Yes.
+129:07:29 Armstrong (onboard): Still got some here?
+129:07:30 Aldrin (onboard): Yes.
+129:07:31 Collins (onboard): [Garble].
+129:07:35 Armstrong (onboard): Okay.
+129:08:54 Armstrong (onboard): Do you want to vacuum off any of those - those [garble] spills or anything?
+129:09:07 Aldrin (onboard): Well, that's [garble].
+129:09:22 Armstrong (onboard): Oh, the tape, I guess.
+129:09:25 Aldrin (onboard): Want tape?
+129:09:26 Armstrong (onboard): Yes, please.
+129:09:27 Aldrin (onboard): Here you are.
+129:10:35 Aldrin (onboard): About how many pictures did you take with - the close-up camera?
+129:10:39 Armstrong (onboard): I don't know; 30 maybe, 40?
+Buzz is asking about the Apollo Lunar Surface Closeup Camera (ALSCC). This is a twin lens stereoscopic camera contained within a hood with its own lighting. It was designed to take images of the lunar surface in closeup to help characterise its nature. Known as the Gold camera, it stemmed from physicist Thomas Gold who believed that the top surface of the Moon consisted of very fine, loosely structured material. Gold had bounced radio signals off the surface prior to the missions and interpreted his measurements to mean that the surface may be loose enough that it might allow a spacecraft or human to sink into the surface. The reality was that the very top surface is loose but quickly becomes compacted only a few centimetres down.
+AS11-40-5957 - The Apollo Lunar Surface Closeup Camera (ALSCC) on the edge of Little West Crater during the Apollo 11 surface EVA. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-45-6707 - An example of the photographs from the Apollo Lunar Surface Closeup Camera. This has been arranged as a cross-eye stereo pair. By crossing your eyes to combine the two images and focussing them, the three-dimensional nature of the images will become apparent. Image credit: NASA/JSC/ASU.
+129:10:56 Aldrin (onboard): I hope I took the thing apart correctly.
+129:11:03 Armstrong (onboard): Push the cutter bar down first?
+129:11:05 Aldrin (onboard): Yes.
+129:11:07 Armstrong (onboard): It's all right, then.
+129:11:29 Armstrong (onboard): How are you doing?
+129:11:32 Collins (onboard): Can't hear you.
+129:11:33 Armstrong (onboard): (Laughter) Well, that stuff can't not smell. Think of Bobby Goldstills?
+129:11:42 Aldrin (onboard): Say, you did get a couple of hard ones in there, didn't you?
+It's likely that Buzz is talking about the amount of dust that is in the Contingency Sample compared to the number of hard rocks.
+129:11:46 Armstrong (onboard): Yes.
+129:12:15 Aldrin (onboard): I guess we leave this here or do you want to take it up?
+129:12:19 Armstrong (onboard): I'd leave that here.
+129:12:22 Aldrin (onboard): That might be a little hard to explain.
+129:12:24 Armstrong (onboard): Yes.
+129:12:42 Collins (onboard): Hey, Neil?
+129:12:43 Armstrong (onboard): Yes?
+129:12:44 Collins (onboard): [Garble].
+129:12:53 Armstrong (onboard): Okay.
+129:12:54 Collins (onboard): [Garble] get rid of this [garble].
+129:12:58 Armstrong (onboard): Okay. If you want to have a look at what the Moon looks like, you can open that up and look. Don't open the bag, though.
+Armstrong is allowing Collins a quick look at the Contingency Sample, the first small bag of lunar soil he collected on the surface. He scooped this up and put it in a pocket, in case he and Aldrin had to depart quickly. Although he did not reach the surface, Collins becomes the third human being to get a close-up look at lunar soil. Armstrong's last comment appears to be an instruction not to open a different bag of samples.
+Like his two crewmates, Collins has almost certainly now touched and inhaled lunar dust. They will arrive healthy back on Earth in just under 3 days' time, providing some early reassurance that moondust is not toxic to humans, at least in the short term. The only three humans to have contacted lunar soil will soon be joined by a fourth. When the astronauts' still camera films arrived back in Houston after splashdown, on 25 July, NASA MSC photographic technician Terry Slezak, opened a bag sealed by Aldrin containing a Hasselblad film cartridge which Armstrong had accidentally dropped in the dust at the end of the EVA. As Slezak removed the plastic seal from magazine S, which contained all of the historic colour photos of Armstrong and Aldrin on the lunar surface, he saw that the exterior of the cartridge displayed traces of a black powdery substance, which was also on the fingers of his left hand. The bag also contained a hand-written note by Aldrin explaining the importance of magazine S. As a precaution, Slezak had to undergo a full personal decontamination and lab clean-up, and suffered no ill-effects. His main concern was that abrasive lunar dust would get inside the film cartridge and scratch the film.
+129:13:26 Collins (onboard): [Garble].
+At this point Collins possibly makes a remark, not picked up by the onboard recorder, about the grey colour of the lunar samples. That would elicit the following ironic wit from Armstrong.
+129:13:29 Armstrong (onboard): You'd never have guessed, huh? [Laughter.]
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 129 hours, 13 minutes. Apollo 11 is now 36 minutes, 40 seconds from coming around the other side of the Moon for reacquisition on the 28th revolution. We're nearing the end of the 27th revolution at this time on the back side of the Moon. Armstrong and Aldrin should be involved in preparing for transferring back to the Command Module with Mike Collins, and they'll be cleaning up equipment and vacuuming off any particles of dust that remain before transferring to the Command Module. About 15 minutes after we reacquire, we would expect Neil Armstrong to be ready for the transfer to the Command Module. Buzz Aldrin to follow along behind about 30 or 40 minutes later. Here in Mission Control, we're presently completing the shift change. Flight Director Gene Kranz is replacing Glynn Lunney, and the Capsule Communicator on this shift will be Astronaut Charlie Duke. The change of shift briefing is scheduled to occur in the news center at 6 pm Central Daylight Time. At 129 hours, 14 minutes; this is Apollo Control, Houston.
+129:14:00 Armstrong (onboard): What did you do with that checklist?
+129:14:03 Aldrin (onboard): It's back yonder.
+129:14:05 Armstrong (onboard): What?
+129:14:07 Aldrin (onboard): It's behind the hatch.
+129:14:17 Collins (onboard): What was that bag [garble]?
+129:14:20 Armstrong (onboard): Contingency sample.
+129:14:23 Collins (onboard): Rock?
+129:14:25 Armstrong (onboard): Yes, there's some rocks in it, too. You can feel them, but you can't see them; they're covered with that - graphite.
+Neil doesn't mean actual graphite. Rather, he is characterising the very finely powdered nature of the lunar dust as being similar to powdered graphite, especially in the way that it soils all surfaces that it touches.
+129:14:39 Collins (onboard): [Garble] compared to...
+129:14:45 Armstrong (onboard): Looks like powdered graphite to me.
+129:14:46 Aldrin (onboard): Say, you got a screwdriver, Mike?
+129:14:48 Collins (onboard): Yes.
+129:14:50 Aldrin (onboard): Yes?
+129:14:51 Collins (onboard): Yes, I guess I have. Just a second.
+129:14:53 Armstrong (onboard): You know, that - that one's just a bunch of trash that we want to take back - LM parts, odds and ends, and it won't stay closed by itself. We'll have to figure something out for it.
+Neil is referring to a bag of bits that he is bringing home as a memento. The bag, formally known as a Temporary Stowage Bag is often referred to as a McDivitt purse after it was first suggested by Apollo 9 commander Jim McDivitt. Neil has used it for various bits and pieces including the 16 mm camera used to film the descent and ascent, and the COAS. These items were due to have been left in the ascent stage to be destroyed in a high-speed impact on the lunar surface. Instead, the bag was kept by Neil at his home and was undiscovered until after his death in 2012. The purse and its contents are now in the care of the National Air and Space Museum on loan from the Armstrong family. A full account of the items is available on the Apollo Lunar Surface Journal as an article entitled Lunar Surface Flown Apollo 11 Artifacts From the Neil Armstrong Estate.
+129:15:16 Aldrin (onboard): Ouch! Alright, here's your checklist.
+129:16:36 Aldrin (onboard): You vacuum all this stuff?
+129:16:41 Armstrong (onboard): Which?
+129:16:42 Aldrin (onboard): Gloves, lunar stuff?
+129:16:46 Armstrong (onboard): [Garble].
+129:17:05 Aldrin (onboard): Okay. It looks to me like - what we're going to do is vacuum you out and get you out of here. I'll - throw the switches down there.
+129:17:16 Armstrong (onboard): How about the data bag?
+129:17:18 Aldrin (onboard): No, I need this bag.
+129:17:20 Armstrong (onboard): Well, I've got one here. I'll go try to get some more - when I go over. Okay?
+129:17:26 Aldrin (onboard): Okay. Give me the vacuum tube.
+129:17:38 Armstrong (onboard): Let me get my back to you first.
+129:19:02 Aldrin (onboard): Need a PPK.
+129:19:05 Armstrong (onboard): Huh? I guess they're in here. PPKs?
+Each crewman was permitted to take a small bag of personal items with them to the Moon. These were their personal preference kits, or PPKs.
+129:19:20 Aldrin (onboard): I guess they're over here.
+129:19:51 Armstrong (onboard): [Garble]. you know? [Laughter.]
+129:19:54 Aldrin (onboard): Get your circuit breakers pushed? Audio control circuit breakers?
+129:20:06 Collins (onboard): [Garble].
+129:21:13 Collins (onboard): How are you doing?
+129:21:14 Aldrin (onboard): It's filthy.
+129:21:18 Collins (onboard): Does all this stuff come in here?
+129:22:09 Armstrong (onboard): Well, I guess that ought to do it.
+129:22:20 Aldrin (onboard): Okay.
+129:26:13 Armstrong (onboard): [Garble].
+129:26:14 Aldrin (onboard): Yes.
+129:26:15 Armstrong (onboard): [Garble].
+129:26:17 Aldrin (onboard): Just a minute.
+129:26:36 Aldrin (onboard): Say, I need some of those data books.
+129:27:59 Aldrin (onboard): Where did you put the book? Where did you put the first one? In here? Okay.
+129:28:28 Armstrong (onboard): [Garble].
+129:28:33 Aldrin (onboard): No, we can leave those two here. No, I don't want either of those two. No, I think the others might be...
+129:28:55 Armstrong (onboard): [Garble] we leave these bags here.
+129:28:59 Aldrin (onboard): Okay.
+129:29:18 Aldrin (onboard): Hey, have you been over it, Mike?
+129:29:21 Collins (onboard): [Garble] really [garble].
+129:29:31 Aldrin (onboard): How about calling them and asking them for - if those angles are still good? Right at lock-lock with them?
+129:29:43 Collins (onboard): [Garble] last time [garble].
+129:29:47 Aldrin (onboard): Oh, okay. I'm sorry.
+Armstrong and Aldrin finally leave Eagle and rejoin Collins in Columbia. Mission Control's next call to Eagle, when Apollo 11 reappears from around the far side of the Moon on Rev-28, erroneously assumes Eagle is still crewed.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+129:50:55 Duke: Hello, Eagle. Houston. Do you read? Over.
+129:51:02 Collins: Houston, this is Columbia. Reading you loud and clear. We're all three back inside. The hatch is installed. We're running a pressure check - leak check. Everything's going well.
+129:51:11 Duke: Roger, Eagle. Correction - Roger, Columbia. We copy. You guys are speedy; you beat us to the punch here. We had a couple of things for you.
+129:51:25 Collins: What are they?
+129:51:26 Duke: Oh, it was just - We wanted you to close the CO2 sensor breaker and give us an RCS onboard read-out out of Eagle, but that's all. Columbia, Houston. We've got a state vector for you if you'll give us P00 and Accept. Over. [Long pause.]
+129:51:54 Collins: Buzz says the CO2 sensor circuit breaker is in.
+129:51:58 Duke: Rog. Thank you very much. [Pause.]
+129:52:09 Collins: The RCS quantity was approximately 60 at A and 45 percent at B.
+129:52:14 Duke: Roger.
+129:52:19 Collins: And we're going P00 and Accept.
+129:52:21 Duke: Roger. Thank you.
+Comm break.
+Mission Control wish to upload data into the 2 Kwords of erasable memory in the CM computer. To give them access, Mike runs program 00, a 'do nothing' program, and throws the Uptelemetry switch on panel 2 from Block to Accept. The data is a revised state vector that has been derived by radio tracking from Earth. A state vector is a numerical description of the spacecraft's position and velocity in space at a particular time.
+129:54:07 Duke: Columbia, Houston. Your friendly White Team's going to be on till we get you on the way home, and we'd like to congratulate everybody on a successful rendezvous and a beautiful EVA. It was a great show for everybody. Over.
+129:54:25 Collins: Thank you, sir. I'll tell Neil and Buzz. [Long pause.]
+129:54:39 Collins: Houston, the hatch passes its integrity check. I'm going to go to LM tunnel Vent now, and leave it there.
+129:54:51 Duke: Roger, Columbia. We copy. That's good, and we'd like a readout on the GET of about the time you - that Eagle selected the secondary loop. Over.
+129:55:05 Collins: Stand by. [Long pause.]
+129:55:17 Duke: Hello, Columbia. Houston. We got the load in. You can do the Verb 66 and the computer's yours. Over.
+129:55:24 Collins: Roger. [Long pause.]
+129:56:01 Aldrin: Houston, Apollo 11. I'd say that the secondary loop was actuated about 15 to 20 minutes ago. Over.
+129:56:11 Duke: Roger. Copy, Columbia. Thank you very much.
+Comm break.
+129:57:20 Duke: Columbia, Houston. It looks like you guys are so speedy on us that we're thinking about moving up jettison time to about a GET of 130 plus 30, if that's okay with y'all. Over.
+An hour ago at 128:58 they planned to perform the LM jettison at 131:52, so they now expect to do it about 1 hour, 20 minutes ahead of the plan.
+129:57:41 Collins: That's fine. I've still got to get a P30 PAD from you.
+129:57:49 Duke: Rog. We want to talk to you about that, Mike. We can - for your druthers, we can do it either way. We can either let you do it in, the jettison in P30 - correction P47, or we can send you a P30 target load up and then you - let you call P41, whichever you want to do. Over.
+129:58:13 Collins: Yeah, I see. Ron was going to give me a P30 PAD and the Flight Plan says P47. Of the two, I prefer to go the P30, P41 route.
+Using P47 would essentially mean that Mike would manoeuvre away from the jettisoned LM by manually firing thrusters and monitor the effect on the computer. This is the function of P47, to monitor Delta-V. Using the P30, P41 route would mean that the computer would be in control of the burn to achieve the desired Delta-V.
+129:58:20 Duke: Rog. Beautiful. we've got the load, If you'll give us P00 and Accept, we'll send you a load up. Stand - stand by. [Pause.]
+By electing to go the P30, P41 route, Mission Control will upload the desired Delta-V into the computer's erasable memory. Again, Mike must make the memory accessible to the ground by entering P00 and throwing the Uptel switch to Accept.
+129:58:41 Duke: Columbia, Houston. We'd like you to terminate direct O2 flow, and stand by on your P00 and Accept. We'll have to generate a new load due to the move-up on time. Over.
+129:58:56 Collins: Roger.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+Flight Plan, page 3-96.
+130:02:13 Duke: Columbia, Houston. Over.
+130:02:19 Collins: Go ahead.
+130:02:21 Duke: Rog, Mike. It looks like if we move up this jettison time and give you a new load, it would require a new attitude, and we can't do that due to the LM already closed out. It would fight us all the way around and we'd lose comm with it. We're thinking about separating in P47 in about 10 minutes. We're looking at trajectories and we'll be right with you momentarily. Over.
+130:02:46 Collins: Okay. It's no big thing with me either way.
+130:02:48 Duke: Rog.
+Comm break.
+130:04:34 Duke: Hello, Columbia. Houston. We'd like you to start down your jettison checklist. We recommend picking up page F11-12 and we'd like to jettison at ten minutes, that'll be 130:14:45. Over.
+130:04:54 Collins: Right.
+130:04:57 Duke: Columbia, Houston. If you can't - If that doesn't - not satisfactory, let us know. Over.
+130:05:05 Collins: Right. [Long pause.]
+130:05:36 Collins: Houston, Columbia. How about a Go for Logic Bus Arm.
+Unlike undocking, when the LM is released from the docking and capture latches, jettison requires that the LM along with the docking ring at the top of the Command Module are cut away using an explosive charge. This heavy docking ring is required to depart because it would otherwise affect the CM's centre of mass and therefore its flying characteristics upon re-entry. Additionally, it would get in the way of the jettison of the apex cover, the upper part of the CM's heatshield that must depart in order to expose the parachutes. In order to fire the explosive charge, the logic circuits of the CM's Sequential System must be armed.
+The red line shows the plane across which the docking ring is cut to jettison the LM.
+Detail of the explosive charge and where it severs the CM docking ring.
+130:05:40 Duke: Stand by. [Pause.]
+130:05:48 Duke: Columbia, Houston. You've got a Go.
+130:05:55 Collins: Thank you. [Long pause.]
+130:06:46 Duke: Columbia, Houston. You can undock at your convenience, correction, jettison at your convenience. We would like you to jettison Eagle and station-keep - in P47 and station-keep, and we'll have another attitude and a maneuver for you such that we'll be okay for TEI. Over.
+130:07:08 Collins: Roger that.
+130:07:45 Collins: And I'm standing by to go to P47 just as soon as you give me a go for Pyro Arm.
+130:07:49 Duke: Rog. I thought we gave you that, Mike. You're Go for Pyro Arm and you're Go for jettison.
+130:07:57 Collins: Okay.
+Comm break.
+130:09:13 Collins: Okay. Letting her go in 10 seconds.
+130:09:15 Duke: Copy. Out. [Long pause.]
+The Apollo 11 Mission Report gives the time for LM jettison as 130:09:31.2.
+130:09:40 Collins: Noun 83 reading minus four balls 3, minus three balls, 3 and - or correction - minus - both Register 1 and Register 2 are reading minus four balls 3. Register 3, is zeros. The EMS remained on 100.0. A fairly loud noise, and it appears to be departing - Oh, I would guess several feet per second.
+Noun 83 displays changes in velocity of the spacecraft, expressed with respect to the spacecraft's coordinate system. Thus, upon jettison, the Delta-V imparted on the CSM is measured to be 0.3 feet per second (0.1 m/s) in both the X and Y axes. Mike also had the EMS Delta-V display set to 100.0 and saw no changes in that. Any Delta-V would be caused by remaining air pressure in the tunnel at the time of jettison. However, the LM is extremely light compared to the CSM and it would gain the most speed from such pressure.
+The Flight Plan shows that Mike was supposed to film the jettison but because it occurred much earlier than planned, he hasn't had an opportunity to set the 16-mm Maurer up. This film from Apollo 10 shows the jettison event and the rough, severed remains of the docking ring are evident before the Sun hits the camera.
+H.264 MOV video file.
+130:10:06 Duke: Roger, can you kind of station-keep with it, Mike? Just stand by now.
+130:10:12 Collins: Will do. [Pause.]
+130:10:23 Duke: Columbia, Houston. Don't try to chase it, just hold what you've got.
+130:10:32 Aldrin: Charlie, did it hold cabin pressure this time?
+Buzz's question is in light of what happened when the Apollo 10 ascent stage was jettisoned (as shown above). In that instance, the tunnel between the two spacecraft could not be vented. That pressure on the LM hatch added to the pressure caused by the jettison pyrotechnics caused its latch to partially fail, slightly opening the hatch and eventually dumping the LM's cabin air.
+130:10:35 Duke: Say again, Buzz. Over.
+130:10:36 Collins: Okay. I thrusted back - I thrusted back toward it a little bit, Charlie, and I'm now reading Noun 83, plus four balls 4, minus four balls 8, and you want me to kill average G. Right?
+P47 is now showing 0.4 fps (0.12 m/s) in the X-axis and 0.8 fps (0.24 m/s) in the Y-axis. Average G is when the computer is actively taking acceleration measurements from the accelerometers in the IMU and using that information both to measure their Delta-V and to modify the state state vector in light of those measurements. Mike doesn't want to keep P47 running for any longer than required because any inaccuracies in the measurements will have an effect on the quality of the state vector. When they are in free fall and no engines are burning, it is better to modify the state vector by calculations of their trajectory.
+130:10:53 Duke: Stand by. That's affirmative. You can exit P47.
+130:11:05 Collins: There she goes. It was a good one.
+130:11:08 Duke: Roger dodger. We got Eagle looking good. It's holding cabin pressure and it picked up about 2 feet per second from that jettison.
+130:11:19 Aldrin: I believe that. I can see some cracks on the outer coating around the tunnel, in the thermal protective covering. I don't think it has anything to do with the structure.
+130:11:35 Duke: Roger.
+Comm break.
+130:12:43 Duke: Hello, Columbia, Houston. We'll have an attitude and a little blip burn for you in about 130:30, so we can separate from Eagle. Over.
+130:12:56 Collins: That's fine.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 130 hours, 16 minutes. We reacquired Apollo 11 about 25 minutes ago, at 129:51. At that time, Mike Collins reported that all three crewmen were in the Command Module, the transfer occurring while the spacecraft were on the back side of the Moon. They had closed out the LM early and had transferred to the secondary coolant loop. A decision was made in Mission Control because the secondary loop was on, the primary loop disabled in the close-out process, we did not want to have the LM docked to the CSM for an undue length of time, because the primary guidance system is not cooled. The decision was initially made to jettison the LM at 130 hours, 30 minutes. However, the crew continued ahead of schedule. They were ready to jettison ahead of that time, and Collins reported at 130:10, about 17 minutes ago, that they were - had jettisoned the LM, and said it had departed at several feet per second. And we heard a comment from Buzz Aldrin that he noticed some cracks in the thermal covering around the LM tunnel, docking area. However he said it did not appear to be a structural crack, but merely some cracks in the thermal covering. We're currently scheduled to perform the small Reaction Control System maneuver with the Command and Service Module for separation from the LM at 130 hours, 30 minutes; or about 12 minutes from now. We'll pick up this pass as it began on tape, and when we've caught up, we'll continue to follow the activities live.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+130:16:49 Duke: Columbia, Houston. Would you start a maneuver to about a pitch of 230 for this little tweak burn? Over.
+130:17:01 Collins: Roger. Pitch 230.
+130:17:03 Duke: Rog, Mike. And verify track mode in Auto for the High Gain.
+130:17:15 Collins: We're in Reacq. Is that alright?
+130:17:17 Duke: Say again. We need Auto.
+130:17:23 Collins: Say again. We're in Reacq - Auto Reacq.
+130:17:26 Duke: Roger. We need Auto, please, sir.
+130:17:31 Collins: Okay. You got it. [Pause.]
+130:17:42 Collins: Roll zero, pitch 320, yaw zero?
+130:17:47 Duke: Right now, that's what we're looking at. Stand by. We might have you roll so we can keep the High Gain. Stand by.
+130:17:56 Collins: Roger.
+Comm break.
+130:19:05 Duke: Columbia, Houston. Over.
+130:19:09 Collins: Go ahead.
+130:19:10 Duke: Rog, Mike...
+130:19:11 Collins: Apollo 11, these days.
+No longer having two separate manned spacecraft, the different CM and LM call-signs are no longer needed. However, CapCom had got used to using them.
+130:19:12 Duke: Oh! Rog, Apollo 11! We got you going to a posigrade attitude and we want you - this burn will be using the minus-X thrusters at about 2 or 3 feet per second, and we got a load for you. We'll send it up momentarily. Over.
+130:19:33 Collins: Okay.
+Comm break.
+130:20:56 Duke: Apollo 11, Houston. Would you give us P00 and Accept? We have a load for you. Over.
+130:21:02 Collins: You got it.
+130:21:04 Duke: Roger, Mike. And our pitch attitude's a little wrong here. If you're ready to copy, I'll give you the Sep PAD. Over.
+130:21:13 Collins: Go ahead. Ready to copy.
+130:21:14 Duke: Roger. Starting with Noun 33: 130:30:00.00, plus 00020, plus all zeros, plus all zeros. Roll, all zeros; pitch, 230; yaw, zero. Noun 44 is NA. Delta-VT 00020, burn time 0:07, Delta-VC 00020. We have - the rest of the PAD is NA.
+The PAD is interpreted as follows:
+Purpose: This PAD provides the details of a short burn of the RCS thrusters to take the CSM away from the jettisoned ascent stage. Due to the simplicity of the burn, the PAD is somewhat simplified.
+Time of ignition (Noun 33): 130 hours, 30 minutes, 0 seconds.
+Change in velocity (Noun 81), fps (m/s): X, +2.0 (+0.6); Y, 0; Z, 0. The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).
+Spacecraft attitude: Roll, 0°; Pitch, 230°; Yaw, 0°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform.
+HA and HP, expected shape of resulting orbit (Noun 44): Not applicable. The burn is so small that the effect on their orbit is negligible.
+Delta-VT: 2.0 fps (0.6 m/s). This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 7 seconds.
+Delta-VC: 2.0 fps. As the burn proceeds, this value in the EMS Delta-V counter will decrement to zero, giving a confirmation of the effect of the thrusters. In the event, Mike will offset the display to 100.0 and the readings will be relative to that.
+The remaining items on the standard PAD form are not applicable in this instance.
+130:22:15 Collins: Roger. GET 130 hours, 30 minutes; Delta-VX 2.0, roll zero, pitch 230, yaw zero, Delta-VT 2.0.
+130:22:32 Duke: That's affirmative, Apollo 11. And, Mike, it's similar to the Sep burn prior to the - right after undocking here. And the P41 you should see on Register 1 - 2, and then you can burn minus-X until you read 4. Over. [Long pause.]
+130:24:11 Duke: Apollo 11, Houston. Computer's yours. Over.
+130:24:19 Collins: Roger, Charlie. We switched to Omni-D - Delta, and I lost that last transmission. Would you say again, please? The thing I'm wondering about specifically is that earlier you said it would be minus-X thrusters and the PAD indicates plus-X. Do you want me to null that to zero or do you want to add 2 and leave it as a 4?
+130:24:39 Duke: Rog, Apollo 11. The way we gave it to you in the attitude we're in, it'll be just like the Sep burn that you had yesterday. You'll see - Noun 85 will give you a plus 2 and then you just burn minus-X until you read 4. Over.
+130:24:58 Collins: Understand. [Long pause.]
+130:25:50 Duke: Apollo 11, Houston. We see you in P41 now. It might take you a couple of minutes to integrate these vectors that we gave you and if you don't make TIG, it's pretty insensitive. You can just let P41 bring you up to TIG, and when you get zero, you can burn on that. Over.
+130:26:12 Collins: Okay.
+Long comm break.
+The time given in the Mission Report for the Separation burn is 130:30:01.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+130:30:24 Collins: Okay. Burn complete. Residuals: plus three balls 40, plus four balls 7, plus four balls 2, Delta-V counter 102.1. Over.
+At the end of the burn, Mike's Delta-V display on the DSKY shows 4.0 fps (1.2 m/s) in the X direction, 0.7 (0.2) in Y and 0.2 (0.06) in Z. The EMS Delta-V display shows 102.1 fps.
+130:30:38 Duke: Copy, Apollo 11. Looks good to us. Over.
+130:30:43 Collins: Okay.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+130:33:24 Collins: Houston, Apollo 11. How about coming up with a good communications attitude for us to go to between now and the time we maneuver to TEI attitude.
+130:33:33 Duke: Roger, sir. Stand by.
+Comm break.
+130:34:40 Duke: Hello, Apollo 11, Houston. A couple of things for you. Over.
+130:34:46 Collins: Go ahead.
+130:34:47 Duke: Okay. Mike, you can maneuver to your preliminary TEI attitude as shown on page 3-98 of the Flight Plan, and the High Gain angles are good as shown in the Flight Plan, and we'd like you to dump the waste water at 131:05 down to 10 percent. Over. [Pause.]
+130:35:13 Collins: Okay. Understand I'm going to go to roll 1.1, pitch zero - or 52.6, and yaw 13.8, and you want a waste-water dump 10 percent starting at 131:05.
+130:35:28 Duke: That's affirmative. Right after LOS.
+Comm break.
+Trans-Earth Injection will occur at 135:23:42, just less than 5 hours and 2.5 orbits from now.
+130:37:10 Collins: Maneuver is in progress, Houston.
+130:37:14 Duke: Copy, 11. Out.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+130:40:14 Duke: Apollo 11, Houston. Over.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 130 hours, 46 minutes. That Command Module separation maneuver, which occurred at 130 hours, 30 minutes; was a 2-foot-per-second [0.6 m/s] retrograde burn. Burn duration was 7 seconds. The Flight Dynamics Officer reports that at Trans-Earth Injection, which is scheduled to occur as per the Flight Plan, at about 135 hours, 25 minutes; and at that time, the CSM will be about 20 miles [37 km] ahead of the LM and about 1 mile [1.85 km] below.
+130:46:46 Collins: Apollo 11 on the High Gain. How do you read?
+130:46:50 Duke: Five-by, 11. How me? Over.
+130:46:54 Collins: You're loud and clear, Charlie. What - What numbers are you looking at for TEI TIG preliminary? 135 hours, 23 minutes; something like that?
+130:47:05 Duke: That's affirmative, Mike. We're looking at about nominal time. We've considered kicking it up a rev, but we don't think this rev-track is going to be any good since we had the RCS burn and we need some more tracking to get you a good TEI. Over.
+130:47:26 Collins: That's what we're looking for.
+130:47:27 Duke: All right, sir. [Pause.]
+130:47:39 Duke: 11, Houston. Looks like it's going to be pretty relaxed time here for the next couple of hours. We'll have you a PAD, of course, the next rev or so, and we'll keep you posted on TEI. Looks like nominal time. Over.
+130:47:52 Collins: Thank you, Charlie.
+130:47:57 Duke: And your little maneuver back here a moment ago will put you about 20 miles ahead of the LM at TEI.
+130:48:07 Collins: Okay. [Long pause.]
+130:48:42 Collins: Imagine the place has cleared out a little bit after that rendezvous. You can find a place to sit down almost, huh?
+130:48:47 Duke: Roger. Our MOCR's about empty right now. We're taking it a little easy. How does it feel up there to have some company?
+130:48:57 Collins: Damn good, I'll tell you.
+130:49:00 Duke: I'll bet. I bet, you'd almost be talking to yourself up there after 10 revs or so.
+130:49:07 Collins: No, no. It's a happy home up here. It'd be nice to have some company. Be - As a matter of fact, it'd be nice to have a couple of hundred million Americans up here.
+130:49:18 Duke: Rog. Well, they were with you in spirit.
+130:49:19 Collins: Let them see what they're getting for their money.
+130:49:22 Duke: Rog. They were with you in spirit anyway, at least that many. We heard on the news today, 11, that last night after you - yesterday after you made your landing, New York Times came out with a - headlines, the largest headlines they've ever used in the history of the newspaper.
+130:49:48 Collins: Save us a copy. [Pause.]
+130:49:55 Collins: I'm glad to hear it was fit to print.
+This is one of many examples of Collins' quick wit. 'All the News That's Fit to Print' is the motto of the New York Times, and it appears on the newspaper's front page.
+130:49:59 Duke: It was great.
+130:50:08 Unidentified speaker, may be Slayton or Shepard: That's why we didn't read you up any newscast. There really wasn't anything to talk about.
+130:50:15 Collins: Hello, there, boss.
+Comm break.
+130:51:36 Duke: Apollo 11, Houston. We've got 10 minutes to LOS. See you over the hill at 131:48. Over.
+130:51:45 Collins: Okay, Charlie. I'll dump the water as soon as we go around the corner.
+130:51:48 Duke: Rog. Everything's looking real good now.
+130:51:53 Collins: Yeah. Same here.
+Long comm break.
+Each time they dump liquids, be it water or urine, a minute but appreciable thrust is applied to the spacecraft. . Mike will soon dump the waste water from the CSM. On the next nearside pass, the radio dishes on Earth will measure the spacecraft's trajectory with any effect of the dump being part of that measurement.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+130:57:08 Duke: Hello, Apollo 11. Houston. Coming up to about 4:30 LOS. You're looking great on all your systems. Eagle is purring right along on a - After an hour and thirty [minutes] on, without any cooling, the PNGS is still looking good. Over.
+130:57:24 Aldrin: Roger.
+Long comm break.
+The LM's guidance system, the PGNS, is being tested to see how well it survives not being actively cooled.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+Flight Plan, page 3-97.
+131:00:26 Duke: Apollo 11, Houston. Would you verify that your Rendezvous Radar transponder is off? Over.
+131:00:38 Collins: It's not, but I'll get it off.
+131:00:40 Armstrong (onboard): Okay.
+131:00:41 Duke: Rog. We were seeing some - believe it or not, we were seeing some funnies on the Eagle's Rendezvous Radar...
+131:00:48 Aldrin (onboard): What do you do with it?
+Duke (continued): ...and that was the only theory that we had. It looked like it was a good one.
+131:00:52 Aldrin (onboard): Hey - what do you do with it?
+131:00:54 Collins (onboard): Just turn it down to off.
+131:00:55 Collins: Good theory.
+Very long comm break.
+131:00:56 Aldrin (onboard): This goes off...
+131:00:57 Collins (onboard): No, no, no, no, that's not the one - it's this switch right next to that IMU...
+131:01:00 Aldrin (onboard): Oh.
+131:01:01 Collins (onboard): ...Buzz. Okay, that one. Just turn it to - turn it to Position 1 - extreme left - that one. There you go. Thank you.
+131:01:18 Aldrin (onboard): I thought you were going to be doing VHF Ranging on the darn thing because we had it set up for - VHF [garble].
+131:01:24 Collins (onboard): I don't know where [garble] other than that.
+131:01:31 Aldrin (onboard): That was to...
+131:01:35 Collins (onboard): You ought to check the Flight Plan, it doesn't mention the [laughter] probe or the drogue. It says I remove my hatch, and then I notify you that you're clear to open your hatch.
+131:01:49 Collins (onboard): Huh?
+131:01:58 Aldrin (onboard): Oh, no.
+131:01:59 Collins (onboard): So, that's just the contingency.
+This is Apollo Control. We've had Loss Of Signal now. At the present time, we show Apollo 11 in an orbit with a high point of 62.6 nautical miles [115.9 km] and a low point or pericynthion of 54.9 [101.7 km]. The spacecraft is traveling at a speed of 5,355 feet per second [1,632 m/s]. We'll reacquire the spacecraft in a little over 45 minutes on the 21st [means 29th] revolution. At 131 hours, 3 minutes, this is Apollo Control, Houston.
+131:02:04 Aldrin (onboard): No, negative.
+131:02:06 Collins (onboard): That's the contingency.
+131:02:08 Aldrin (onboard): We move the drogue there. [Garble].
+131:02:11 Collins (onboard): We've got to reach down and grab that extension handle and all that good stuff.
+131:02:26 Aldrin (onboard): That was alright, we understand.
+131:02:47 Armstrong (onboard): Yes.
+131:03:09 Collins (onboard): Damn! My ears hurt from wearing this thing.
+131:03:15 Aldrin (onboard): How are the earpieces - inside [garble].
+131:03:22 Collins (onboard): [Garble].
+131:03:24 Aldrin (onboard): [Garble].
+131:03:26 Collins (onboard): Yes, I hate those damn [garble].
+131:03:28 Aldrin (onboard): Yes, they're not - [garble].
+131:03:32 Armstrong (onboard): Yes. I believe - Did you hear any noise during - you didn't hear any noise during descent, did you? [Garble].
+131:03:38 Collins (onboard): [Garble].
+131:03:39 Armstrong (onboard): How about during lift-off?
+131:03:41 Collins (onboard): [Garble].
+131:03:46 Collins (onboard): How was lift-off? How did lift-off feel?
+131:03:48 Aldrin (onboard): Well, there was a little - little blast - then we started moving. Then we could see all those...
+131:03:56 Collins (onboard): [Garble] were you very stable? I mean, you just sort of floated up or was there a bunch of rattling around?
+131:04:01 Aldrin (onboard): ...The floor came up to meet you. I think it multiplied g by [garble] - it was about - at lift-off - maybe - half a g or two-thirds of a g.
+131:04:25 Collins (onboard): Well, you know, - well, just looking at that one sample, it was - I'm surprised you didn't have a lot more dust. Now you saw dust during descent, I think, around 40 feet, something like that, 30 feet maybe.
+131:04:38 Aldrin (onboard): Yes it was...
+131:04:43 Collins (onboard): But its pattern is such that it sprays out horizontally, and it doesn't really come up and engulf you, huh?
+131:04:48 Aldrin (onboard): All the stuff looks like very light tan and gray, you know, that's - that's the color of it. When you get right up there to it, when you see it, why that isn't the color at all.
+131:05:01 Collins (onboard): Dark - battleship gray, isn't it?
+131:05:05 Aldrin (onboard): Maybe not - I don't know...
+131:05:08 Collins (onboard): Well, what kind of...
+131:05:09 Aldrin (onboard): ...what stuck to the spacecraft, I think you can see afterwards...
+131:05:12 Collins (onboard): What do you think it is from the - geology standpoint, is it basalt dust?
+Mike is well versed, both in the expected dynamics of the dust that was blown away from the descending LM and in the geology of the landing site. Like all the lunar maria, Mare Tranquillitatis is a huge basalt plain that was emplaced nearly four billion years ago. Since the lava solidified, impacting objects of all sizes have sandblasted and ground up the surface into a fine powder and rubble known as the regolith and which is around 10 metres deep. While some other rock types have been brought into the mix, scattered across the site from distant large impacts, most of what Neil and Buzz picked up is basalt.
+131:05:19 Armstrong (onboard): [Garble].
+131:05:21 Collins (onboard): Well, do the rocks - do the rocks all look the same? They're different - good, great. I'm glad to hear it.
+131:05:28 Aldrin (onboard): There's really a tremendous...
+131:05:42 Aldrin (onboard): Little sparkly stuff; quite a bit of it all over.
+One of the effects of the constant meteorite bombardment is the occasional production of glass from the great heat of impact.
+as11-45-6709 - A cross-eye stereo image taken with the Apollo Lunar Surface Closeup Camera (ALSCC). This images shows many rocks covered with a glassy material that was molten on arrival. Approx field of view is 72 mm by 83 mm. Image credit: NASA/JSC/ASU
+131:05:46 Collins (onboard): I'll be damned. I'm glad - I'm glad it wasn't just...
+131:05:50 Aldrin (onboard): Yes, is that right?
+131:05:59 Collins (onboard): Luckily, you were able to get a little bit of everything. I mean, were the rocks - I mean, how did you - did you go around and - just pick up rocks, put them in - in...
+131:06:08 Aldrin (onboard): We were kind of rushed, if that's what you mean.
+131:06:15 Collins (onboard): Yes.
+131:06:25 Collins (onboard): Great, great. Yes, it's - beautiful. Man, that's beautiful. It doesn't make a dip whether [garble] and all that, I mean you know, they mapped the area and all that...
+131:06:38 Aldrin (onboard): Eventually, it does...
+131:06:40 Collins (onboard): Huh?
+131:06:41 Aldrin (onboard): Well, eventually, it does - it shows the [garble] - you can see those - [garble].
+131:06:54 Collins (onboard): That's great, fantastic! That'll keep those geologists jumping for years.
+As soon as initial analysis of the Apollo 11 samples began, geologists across the world produced a blizzard of papers. Among the outstanding revelations was the extraordinary antiquity of the rocks. Dating of samples by measuring their radioisotopes was yielding dates that clustered around 3.6 billion years. Earth retains very little rock from this era so to find it to be the norm on the Moon suggested that there was very little processing occurring. Another observation was that after studying every fragment, researchers found that about 4 per cent wasn't the basalt that dominates the Mare Tranquillitatis landing site. These fragments were rich in a mineral called plagioclase. Some consisted of over 90 per cent of a calcium-rich form of plagioclase called anorthosite. This white, crystalline rock had not been expected on the Moon. Its presence would lead to a profound story of the Moon's creation, and by association, Earth's early history.
+131:07:00 Aldrin (onboard): Yes, you got to keep [garble]. No, that's right, you got a 6-foot pole, you just stick [garble]...
+131:07:07 Collins (onboard): Sort of like wet sand...
+131:07:08 Aldrin (onboard): ...about that far.
+131:07:09 Collins (onboard): Is that right? I don't know. I'm inclined to [garble].
+131:07:17 Armstrong (onboard): [Garble]. Is this yours?
+131:07:59 Collins (onboard): You yawed right 13 degrees? What's nominal?
+131:08:05 Armstrong (onboard): Yaw left 13 degrees.
+Neil is discussing the LM's yaw angle once it had settled on the lunar surface at the end of its descent. With respect to the plane of their approach trajectory, the LM was yawed 13 degrees to the left.
+131:08:08 Collins (onboard): Ah so, ah so.
+131:08:32 Armstrong (onboard): I guess the main thing on this stowage is to make sure it's reasonable for the g's we'll get during TEI, and some time on the way home we can get everything all squared away for [garble].
+131:08:46 Collins (onboard): No, I'm in no rush. Go ahead - go ahead and get everything all packed away. I hate to have - a couple of suits out. If you want to air it for a while, go ahead and get the hose to it, and - I'm in no rush. I'll take this thing off after you guys are done there.
+Armstrong and Aldrin, having worn their space suits continually since leaving Columbia the previous day, have now removed them. Collins had put his back on for the docking and is still wearing it. They will all undertake the Trans-Earth Injection engine firing without suits on.
+131:09:20 Armstrong (onboard): [Garble].
+131:09:30 Collins (onboard): Yes. Is that right?
+131:09:44 Collins (onboard): You finally got it level, huh? What was that thing that you said it was supposed to be - concave but it was convex?
+131:09:50 Aldrin (onboard): [Garble].
+131:09:53 Collins (onboard): Yes, yes.
+131:10:01 Aldrin (onboard): [Garble] looking down there [garble] sure looked like it was convex [garble] Neil walked back a little later and it was right smack in the middle [garble]...
+Collins is asking about the troublesome spirit level bubble on the Passive Seismic Experiment which Aldrin deployed on the lunar surface.
+131:10:29 Collins (onboard): But there's all different kinds of rocks, huh, or at least several different kinds? Well, how...
+131:10:32 Aldrin (onboard): ...[garble.]
+131:10:41 Collins (onboard): Well, did - when you look - when you're walking around or just looking out the window of the LM, did it appear very homogeneous? Everything sort of the same color and all, or did it look [garble]?
+131:10:56 Aldrin (onboard): [Garble].
+131:10:58 Collins (onboard): It's that dark battleship gray like?
+131:11:01 Aldrin (onboard): When you looked down-Sun, it's very tan, very tan.
+131:11:03 Armstrong (onboard): [Garble].
+131:11:14 Collins (onboard): When you looked down-Sun, it looks almost white, just a reflection from the Sun.
+131:11:21 Aldrin (onboard): Well, [garble] as it goes out [garble] while on Earth it gets [garble] in the atmosphere [garble]...
+131:11:27 Collins (onboard): Yes.
+131:11:28 Aldrin (onboard): ...[garble] that might be indicative of why [garble]...
+131:11:51 Collins (onboard): Yes.
+131:12:03 Collins (onboard): Neil, when you get a hand, would you push that little goddamn valve down to Dump? Never mind, never mind.
+131:12:14 Armstrong (onboard): [Garble] be sure and get the right one [garble]...
+131:12:20 Collins (onboard): It's the lower valve on the lower panel - lower left. That guy right there, yes, that guy right there! Put him down to Dump. Dump's easy, fine. Set the clock.
+131:13:08 Armstrong (onboard): [Garble].
+131:13:10 Aldrin (onboard): Here's one.
+131:13:12 Collins (onboard): [Garble] for the hoses? Well, check the ends of the hoses.
+131:13:22 Collins (onboard): Well, why don't you leave the vacuum cleaner. I think you just got [garble] now the other one...
+131:13:29 Aldrin (onboard): No, this one's got [garble].
+131:13:31 Armstrong (onboard): Okay. Now the one I got is for my hose over here which doesn't have...
+131:13:55 Collins (onboard): How big are the rocks that you just scurried around and picked up with the tongs? Good gravy! Beautiful! Just crack those guys open and get a - you know, virgin interior of them in a vacuum, and they'll have a ball. [Garble].
+131:14:19 Collins (onboard): Hey, the Velcro - the Velcro around them sort of [garble].
+131:14:35 Collins (onboard): Huh?
+131:14:37 Armstrong (onboard): I said, this is my field geology [garble].
+131:14:40 Collins (onboard): Right.
+131:14:49 Armstrong (onboard): [Garble].
+131:15:10 Collins (onboard): We could move - we could move that bag - it's no big thing. We can move the bag. Don't worry about it. We're going to leave it this way for TEI, right? Might as well.
+131:15:28 Armstrong (onboard): [Garble].
+131:15:32 Collins (onboard): Good day, I don't know. It's - I tell you, it's not a bad way to live, with that couch in there - I sort of - oh, yes, I agree. We can put two up and one down - [garble].
+131:15:53 Armstrong (onboard): [Garble].
+131:16:08 Collins (onboard): Yes, we could put the couch up now if you want to do that.
+While Neil and Buzz were exploring the surface, Mike had stowed the central couch underneath the left one, opening up a central aisle as a contingency in case the probe could not be removed from the tunnel, forcing his crewmates to make an EVA. With bulky suits and rock boxes, space in the CM would be at a premium as they entered by the side hatch. Happily, this is not the case and the couch can be reinstalled for the TEI burn.
+131:16:14 Aldrin (onboard): Okay.
+131:16:15 Collins (onboard): Yes. Maybe it - maybe it would make more sense to put the couch up now. Why don't you let me wrestle with the couch before we do anything more to this damn poor L-shaped bag?
+131:16:26 Aldrin (onboard): [Garble].
+131:16:29 Collins (onboard): Alright. And we're - we're LOS here for a while anyway, 131...
+131:16:54 Collins (onboard): Here's about where we are, [garble]. Yes, this is the handiest little thing you've ever seen. [Garble] goes right in the helmet side, won't come out, and you can grab hold of anything you want, and there it is. It won't [garble].
+131:17:08 Aldrin (onboard): [Laughter] [Garble]
+131:17:42 SC (onboard): [Yawn]
+131:20:23 Collins (onboard): [Garble] all this little stuff [garble].
+131:21:42 Aldrin (onboard): [Garble] is this optional - sort of - [garble]? Huh?
+131:21:54 Collins (onboard): No, optional [garble].
+131:22:11 Collins (onboard): No, no, this is - used for the intervalometer?
+The intervalometer is a mechanical timer that fires the Hasselblad's shutter at regular intervals.
+131:22:17 Aldrin (onboard): [Garble].
+131:24:27 Armstrong (onboard): [Garble] might have some layers on the wall of that crater. It just occurred to me that - that's got to be the result of [garble] of some sort [garble].
+131:28:02 Armstrong (onboard): [Garble] is looking good.
+131:28:05 Aldrin (onboard): Think so.
+131:28:12 Armstrong (onboard): A little more.
+131:28:26 Collins (onboard): You got to do what, Neil?
+131:29:27 Armstrong (onboard): I don't think it's harder to [garble] than it is - at orbital speeds. [Garble]. There just isn't any way really of [garble] altitude - or the size of this thing.
+131:29:59 Collins (onboard): We're in inertial, aren't we?
+131:30:10 Armstrong (onboard): No, you want to go to inertial?
+131:34:35 Collins (onboard): I wonder if Neil has made any preparations?
+131:35:29 Armstrong (onboard): What's your altitude?
+131:35:34 Collins (onboard): [Garble].
+131:35:52 Armstrong (onboard): I guess we could put - [garble] to [garble].
+131:37:25 Aldrin (onboard): Hey, Neil, I think this - this does have something [garble].
+131:37:30 Armstrong (onboard): Alright.
+131:37:35 Aldrin (onboard): [Garble]. Now it's on the other side. No, down, down [garble].
+131:39:18 Aldrin (onboard): What did you have on [garble]?
+131:39:24 Collins (onboard): No, that side. Yes, it was down to 3. He called 30 seconds at one time.
+131:39:32 Aldrin (onboard): Yes, [garble].
+131:39:38 Collins (onboard): Yes, he called 60 seconds. Then I heard him call 30 seconds.
+131:40:15 Collins (onboard): Yes.
+131:40:16 Aldrin (onboard): [Garble] I got it, thank you.
+131:40:21 Collins (onboard): Well, it's held under that forward-velocity unit.
+131:40:46 Collins (onboard): How's that?
+131:41:05 Collins (onboard): With the [garble], I don't see how you can...
+131:41:19 Armstrong (onboard): Leaving on your [garble] in here?
+131:41:26 Collins (onboard): I think - you had that same pair on all the time.
+131:41:57 Armstrong (onboard): Is that the [garble] - sitting there?
+131:42:05 Collins (onboard): Yes, here it is.
+131:42:06 Armstrong (onboard): Let me put it down here. Bring it on down. Over here. Put them all in one place.
+131:42:30 Armstrong (onboard): You ready for your underwear? Mike - you ready for your underwear? You ready for your underwear?
+131:42:43 Collins (onboard): Just a minute; yes.
+131:42:54 Aldrin (onboard): [Garble] - put our - LCG.
+131:42:59 Armstrong (onboard): Yes.
+131:43:10 Collins (onboard): Somehow we'll figure a way to [garble].
+131:45:22 Armstrong (onboard): 2 feet per second.
+131:45:46 Aldrin (onboard): You didn't maintain that 3½ feet per second down there.
+131:45:51 Armstrong (onboard): (Laughing)
+131:45:56 Aldrin (onboard): Well, I hope - I hope they have the data that shows just what we did have at contact when they can get photographs [garble] all the film we got.
+131:46:14 Armstrong (onboard): Yes.
+131:46:19 Aldrin (onboard): Well, I really couldn't put the [garble] no place, not that I'm sure of it, but my light came on, why, [garble] hit.
+131:47:18 Armstrong (onboard): Yes, that's sure - the way that thing was working - the way that thing was working and stayed locked on all the way down. Geeze, it was a beautiful thing.
+131:47:44 Armstrong (onboard): You mean you didn't [garble]?
+131:47:53 Aldrin (onboard): Getting all the damn alarms.
+During the LM's flight to the surface, its computer was forced to reset five times even while carrying out the task of controlling the descent. Neither Neil nor Buzz knew what the alarms meant but preparation and quick thinking by the GUIDO flight controller and Jack Garman in support yielded the correct call that the mission could proceed.
+The cause of the alarms was an electronic funny that occurred upon power-up the LM's various systems. If on switch-on, the phase between two 800-Hz AC signals happened to be near 90° or 270°, it caused noise to generated on the data lines to the computer. The computer then used up a fraction of its available cycles to dealing with the false data, incrementing or decrementing a counter. In each 2-second time slice that the computer had to complete all its tasks, the extra overhead of dealing with this noise took it over the limit. It flagged up an error code and performed a soft restart. Happily, the architecture of the software was such that it could handle the restart and continue with its tasks. It was a case of bad luck as well as a deficient design. There was every chance that upon switch-on, the problem would never have occurred. On future LMs, the phase of the two AC signals was defined.
+131:48:06 Aldrin (onboard): Boy, I thought for a while there that some of those might get a little [garble] - [garble]. I'd re-set the program alarm in time for a [garble] out of there.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 131 hours, 48 minutes. We're standing by to reacquire Apollo - Apollo 11. Acquisition should come in about 5 seconds. This revolution should be relatively quiet. We don't have a great deal of activity scheduled. The crew may have time here to get something to eat, and here on the ground, we'll be computing the information needed for their Trans-Earth Injection burn. We do have data now from the spacecraft. We'll stand by for a call to the crew.
+131:49:29 Duke: Hello, Apollo 11. Houston. We're standing by. Everything is looking great here. Over. [Pause.]
+131:49:42 Aldrin: Apollo 11. Roger.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. We suspect that the crew are having something to eat at this time which probably accounts for the relatively quiet period. One of the things that we're watching with interest here in Mission Control is the Lunar Module. At the time Aldrin and Armstrong left the LM and came back into the Command and Service Module, they switched over to the secondary coolant loop as part of a test that we are running to determine just how long the Primary Guidance and Navigation System will last without cooling. The primary guidance system is not cooled on the secondary loop which provides backup cooling for the secondary guidance system and it's always been a point of interest just how long the primary guidance system will survive without the cooling - estimates range up to several hours. The LM TelCom controller reports that at this time we are seeing some rise in the PIPAs. These are the Pulse Integrating Pendulum - Pendulous Accelerometers, which the Primary Guidance System uses to detect changes in motion and attitude, and therefore as they are an essential item in the - in the Primary Guidance System. We are seeing a gradual rise in temperature but the TelCom engineer reports that the Primary Guidance System still looks very good. At the time the crew reported they were back - that Armstrong and Aldrin reported they were back in the Command Module, we asked them at what time they had switched over to the secondary loop. Armstrong estimated that that occurred about 129 hours, 40 minutes; which was a little over 2 hours ago. We will continue to monitor the LM and to observe the performance of the Primary Guidance System. All systems on the Command and Service Module continue to function very well at this time and the same can be said for the - for the Lunar Module. At the present time, we show Apollo 11 in a orbit 62.5 nautical miles by 54.2 [115.8 by 100.4 km]. The spacecraft travelling at a speed of 5,349 feet per second [1,630 m/s].
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+Flight Plan, page 3-98.
+This is Apollo Control at 132 hours, 15 minutes. We have some preliminary figures on the Trans-Earth Injection maneuver scheduled to occur about 3 hours, 8 minutes from now. The time of ignition is - stand by just a moment. The time of ignition would be 135 hours, 23 minutes, 41 seconds.
+132:16:00 Duke: Hello, Apollo 11. Houston. If you guys want it, we've got some news, here, we can read up. Over.
+132:16:09 Armstrong: Be pleased to have it.
+132:16:11 Duke: Rog, Neil. Starting off: Congratulatory messages on the Apollo 11 mission have been pouring into the White House from world leaders in a steady stream all day. Among the latest are telegrams from Prime Minister Harold Wilson of Great Britain and the King of Belgium. The world's press has been dominated by news of Apollo 11. Some newsmen estimate that more than sixty percent of the news used in papers across the country today concerned your mission. The New York Times, which we mentioned before, has had a - such a demand for its edition of the paper today, even though it ran 950,000 copies, that it will reprint the whole thing on Thursday as a souvenir edition. And Premier Alexei Kosygin has sent congratulations to you and President Nixon through former Vice President Humphrey who is visiting Russia. The cosmonauts have also issued a statement of congratulations. Humphrey quoted Kosygin as saying: 'I want you to tell the President and the American people that the Soviet Union desires to work with the United States in the cause of peace'.
+132:17:21 Duke: And Mrs. Robert Goddard said today that her husband would have been so happy. He wouldn't have shouted or anything. He would just have glowed. She added: 'That was his dream, sending a rocket to the Moon.' People around the world have had - had many reasons to be happy about the Apollo 11 mission. The Italian police reported that Sunday night was the most crime-free night of the year. And in London, a boy who had the faith to bet $5 with a bookie that a man would reach the Moon before 1970 collected $24,000. Pretty good odds.
+132:18:00 Duke: You're probably interested in the comments your wives have made. Neil, Jan had said about yesterday's activities: 'The evening was unbelievably perfect. It is an honor and a privilege to share with my husband, the crew, the Manned Spacecraft Center, the American public, and all mankind, the magnificent experience of the beginning of lunar exploration.' She was then asked if she considered the Moon landing the greatest moment in her life. She said: 'No, that was the day we were married.' And Mike, Pat said simply: 'It was fantastically marvelous.' Buzz, Joan said - apparently couldn't quite believe the EVA on the Moon. She said: 'It was hard to think it was real until the men actually moved. After the Moon touchdown, I wept because I was so happy.' But she added: 'The best part of the mission will be the splashdown.'
+132:18:52 Duke: In other news, and there was a little bit, another explorer, Thor Heyerdahl, had to give up his attempt to sail a papyrus boat across the Atlantic. The storm-damaged boat was abandoned about 650 miles from Bermuda. The speed of the craft had been reduced to about 25 miles a day, and Heyerdahl said the object of the voyage had not meant to provide an endurance test for the crew.
+132:19:21 Duke: Looking at the world of sports, let's see here. While you were busy the other day, Joe Namath and football Commissioner Pete Rozelle made the announcement that Broadway Joe had agreed to sell his interest in the Bachelors III restaurant and report to the New York Jets. And Joe arrived at the Jets' training camp today and had his first workout. Several other Jet players, who had held out along with Joe, also reported. And Davy Hill, from Jackson, Michigan, won his third major golf in as many starts in the past week. He won the Philadelphia Classic. Hill has won four tournaments so far this year and is the leading money winner with a cool $129,000. And in baseball, the west division of the National League remains a tight race. LA and San Francisco are one game behind league-leading Atlanta. The Astros have a record of 48 wins and 48 losses, and are now in fifth place, seven games out. A twin bill between the Astros and Cincinnati last night were postponed because of rain. The Chicago Cubs are still in first place in the East Division. They led the New York Mets by four and a half games. And in the American League, Baltimore is breezing toward the Eastern Division title. They lead second-place Boston by 11 games. Looking ahead, the All-Star game - the All-Star baseball game is scheduled for tomorrow. And President Nixon was scheduled to see the game and then leave immediately after the - after the game for the Pacific splashdown area before going on his tour of Europe. And that about covers the news this day. You guys have been making most of it and I'm sure we couldn't fill you in on any of the details that you don't already know. Out. [Pause.]
+132:21:22 Armstrong: Thank you much, Charlie.
+132:21:24 Duke: You're welcome. [Long pause.]
+132:21:42 Duke: 11, Houston. We've got a preliminary TEI-30 PAD, if you're ready to copy. [Long pause.]
+132:22:06 Collins: Ready to copy.
+132:22:10 Duke: Rog. Coming at you. TEI-30, SPS/G&N: 36691; minus 0.61, plus 0.67; 135:23:41.49. Noun 81, plus 3202.0, plus 0671.3, minus 0277.3; 181, 054, 013. Noun 44, HA is NA, plus 0023.0; 3283.3, 2:28. Delta-VC, 3262.5; 24, 151.0 35.5. Next three lines are NA. Noun 61 plus 11.03, minus - minus 172.37; 1180.6, 36275, 195:04:52. Your set stars are Deneb and Vega, 242, 172, 012. We like two-jet ullage for 16 seconds. And the horizon will be on the 11-degree mark at TIG minus 2 minutes. And in the other comments: your sextant star is visible after GET of 134:50. Ready for your readback. Over.
+132:24:39 Collins: Roger. We have a TEI-30, SPS/G&N: 36691, minus 0.61, plus 0.67; 135:23:41.49. Plus 3202.0, plus 0671.3, minus 0277.3; 181, 054, 013. NA, plus 0023.0; plus 3283.3, 2:28, 3262.5; 24, 151.0, 35.5. NA three times. Plus 11.03, minus 172.37; 1180.6, 36275, 195:04:52. Deneb and Vega, 242, 172, 012. Two-jet ullage, 16 seconds. Horizon 11-degree line at TIG minus 2 minutes. Sextant star visible after 134:50. Over.
+132:25:58 Duke: Rog, Mike. Good readback. Out.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 132 hours, 29 minutes. That last string of numbers read up to the spacecraft included the information the crew will need to start them on their way back to Earth in about 2 hours, 54 minutes. The time of ignition for the Trans-Earth Injection burn again is 135 hours, 23 minutes, 42 seconds. They will burn their 20,500-pound-thrust Service Propulsion System engine for 2 minutes, 28 seconds; increasing their speed by 3,283 feet per second [1,001 m/s]. And our preliminary estimate is that that will put them into the Pacific Ocean at the primary landing site at 195 hours, 18 minutes, 47 seconds Ground Elapsed Time, or almost precisely on the Flight Plan. The spacecraft weight at the time they do the Trans-Earth Injection burn will be 36,691 pounds [16,643 kg]. We'll continue to stand by for any communication from the spacecraft. We now have about 29 minutes, 30 seconds until the Apollo 11 goes around the corner and behind the Moon out of radio contact.
+As the PAO announcer has explained, this is all the information the crew need to burn their engine and begin their return path to Earth. A fuller interpretation of the PAD follows:
+Purpose: This PAD will be used for TEI-30 Return-to-Earth burn.
+Systems: The burn would be made using the SPS (Service Propulsion System) engine under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 36,691 pounds (16,643 kg).
+Pitch and yaw trim (Noun 48): -0.61° and +0.67°.
+Time of ignition, TIG (Noun 33): 135 hours, 23 minutes, 41.49 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +3,202.0 (+976.0); y, +671.3 (+204.6); z, -277.3 (-84.5). These velocities are expressed with respect to the Local Vertical/Local Horizontal frame of reference of the Moon.
+Spacecraft attitude: Roll, 181°; Pitch, 54°; Yaw, 13°. The desired spacecraft attitude is stated relative to the alignment of the guidance platform which itself has been aligned to the lunar lift-off REFSMMAT.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable. The spacecraft will be on a trajectory coming from the Moon so any apogee figure would be meaningless.
+HP, expected perigee of resulting orbit (Noun 44): +23.0 nautical miles (+42.6 km). The perigee distance is so low, it intersects Earth's atmosphere. In other words, the spacecraft will re-enter.
+Delta-VT: 3,283.3 fps (1,000.7 m/s). This is the total change in velocity the spacecraft would experience. (It is a vector sum of the three components given above.)
+Burn duration or burn time: 2 minutes, 28 seconds.
+Delta-VC: 3,262.5 fps (994.4 m/s). The crew enter this figure into their EMS Delta-V counter display. The EMS can shut down the engine using this data if the G&N system fails to do so. Its value is lower to allow for the extra thrust imparted by the engine after shutdown, a quantity allowed for the the G&N software but not by the EMS.
+Sextant star: Star 24 (Gienah, Gamma Corvi) visible in sextant when shaft and trunnion angles are 151.0° and 35.5° respectively. This is part of an attitude check.
+The next three items, concerning a star to view through the COAS, are not applicable because the COAS will not have a clear view to the stars. The five parameters after that relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05g.
+Expected splashdown point (Noun 61): 11.03° north, 172.37° west; in the mid-Pacific.
+Range to go at the 0.05g event: 1,180.6 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05g event: 36,275 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+Predicted GET of 0.05g event: 195 hours, 4 minutes and 52 seconds GET.
+GDC Align stars: Stars to be used for GDC Align purposes are Deneb and Vega. The align angles are This is in case the IMU loses its ability to provide an orientation reference.
+GDC Align angles: Roll, 242°; pitch, 172°; yaw, 12°.
+There are a few additional notes to the PAD. The ullage burn to settle the contents of the propellant tanks is to fire two RCS (Reaction Control System) jets for 16 seconds. At the correct attitude for the burn, and two minutes to ignition, they should expect the Moon's horizon to line up with the 11° marks on the left rendezvous window. Finally in the notes, they shouldn't expect to see star 24, the sextant star until after 134:50, about 34 minutes before TIG.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+132:53:02 Duke: Hello, Apollo 11. Houston. Seven minutes to LOS. Next AOS 133:46. You're looking good going over the hill. Out.
+Very long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. We're now about 30 seconds from Loss Of Signal with Apollo 11 on the 29th revolution. We'll be reacquiring in about 46 minutes as the spacecraft comes around on its 30th revolution. That will be the next to the last full revolution in lunar orbit. The Trans-Earth Injection maneuver will be performed at the end of the 30th revolution, just after - actually, just after beginning the 31st revolution of the Moon. Apollo 11 is now in an orbit with a high point of 62.6 nautical miles [115.9 km] and a low point of 54.2 [100.4 km]. The current spacecraft velocity is 5,356 feet per second [1,633 m/s], and we show an orbital weight of 36,691 pounds [16,643 kg]. We have Loss Of Signal now. We'll be coming back up when we reacquire in about 45 minutes. At 133 hours, this is Apollo Control, Houston.
+132:59:10 Collins (onboard): Will that one do? [Garble].
+132:59:48 Aldrin (onboard): Are you staying in this inertial attitude? Let's just leave it in Reacq then. It works just like a charm.
+132:59:55 Collins (onboard): Yes, that's right.
+Flight Plan, page 3-99.
+133:00:09 Armstrong (onboard): How about that?
+133:00:55 Armstrong (onboard): Beautiful.
+133:00:59 Collins (onboard): 405 and 404 - What's the matter with it? (Laughter)
+133:01:02 Aldrin (onboard): 403 I think we [garble].
+133:01:09 Collins (onboard): [Garble] alignment, oops, I got 404 again.
+133:01:55 Collins (onboard): How about that, wise asses! Huh?
+133:01:58 Aldrin (onboard): You had a - you had to work though, didn't you? [Garble].
+133:03:08 Collins (onboard): [Garble] O2 fuel cell's [garble].
+133:03:17 Armstrong (onboard): This is not dumping.
+133:03:19 Collins (onboard): I figured that.
+133:03:25 Armstrong (onboard): Did you try the other line?
+133:03:26 Collins (onboard): Well - no, I haven't tried a whole number of alternatives. In fact, number 1 is not dumping. My guess would be that it's something to do with this connection in the UCD or something like that. When you try to dump your [garble] regular urine bag, [garble]. It's so goddamn smelly, I hate to grab it and dick around with it, but I guess I got to.
+133:03:47 Armstrong (onboard): Not entirely. I think I'd rather stick around [garble].
+133:04:40 Armstrong (onboard): [Garble].
+133:05:36 Aldrin (onboard): How long does it take to warm up this thing? 3 hours?
+133:05:38 Collins (onboard): [Garble].
+133:05:46 Armstrong (onboard): What state vector is in the LM slot? The LM?
+133:05:54 Aldrin (onboard): [Garble] minus a few feet per second. [Garble].
+133:05:59 Armstrong (onboard): Well, we got something in the LM slot not equal to us.
+133:06:03 Collins (onboard): Well, that's just an old vectors, because I never did Verb 66, I don't think, after [garble].
+133:06:32 Aldrin (onboard): We got 22 feet per second. Almost have to be LM - previous to the SEP burn.
+133:10:11 Armstrong (onboard): Well, when it gets to be light, we got to [garble].
+133:10:19 Aldrin (onboard): Well, we probably ought to - [garble] TPI.
+133:10:27 Collins (onboard): Yes, the maneuver [garble] right amount of [garble].
+133:11:24 Armstrong (onboard): [Garble] give me a waste bag. [Garble].
+133:11:31 Collins (onboard): Yes, just [garble] a lot [garble] there.
+133:12:17 Collins (onboard): It was back here.
+133:12:19 Aldrin (onboard): Yes.
+133:13:03 Collins (onboard): Who took the roll of tape?
+133:13:08 Armstrong (onboard): Isn't it in its place? Closet?
+133:13:10 Collins (onboard): No, no, it's not in there. It doesn't have that closet any more. The last I saw it, it was up on the MDC. I gave it - I handed it over to one of you guys to...
+133:13:17 Aldrin (onboard): Yes, I stuck it some place.
+133:13:25 Collins (onboard): Let's invent a new home for it because that old home is full of a smelly old urine bag.
+133:13:34 Armstrong (onboard): The floodlight isn't - hasn't even made the bottom of the package warm yet, fellows.
+133:13:39 Aldrin (onboard): Well, when it goes up there, we'll have to put it up here.
+133:17:10 Collins (onboard): I got the tape - right underneath your couch. Okay?
+133:17:19 Aldrin (onboard): Alright.
+133:17:25 Collins (onboard): Okay, we need a new home for the tape. Anybody got any good suggestions?
+133:17:30 Aldrin (onboard): What about in the [garble] space?.
+133:17:36 Collins (onboard): Okay?
+133:17:39 Aldrin (onboard): Alright.
+133:33:37 Collins (onboard): That was quite a wild gyration for docking.
+133:33:40 Aldrin (onboard): It was.
+133:33:42 Collins (onboard): Son-of-a-bitching...
+133:33:43 Aldrin (onboard): You did a pretty good [garble].
+133:33:49 Collins (onboard): If I'd known how it was going to develop, I wouldn't have gone as far with the bottle as I did. I was in the habit of it, you know, as soon as contact is made, I look at it. It looks okay, I fire the bottle right away.
+When Mike docked with the LM, the situation was stable once softdock was achieved with the probe extended and the LM held by the capture latches. What Mike didn't know was that the LM's attitude was being held by the AGS after Neil had put the craft's IMU into gimbal lock. When he used a bottle of compressed nitrogen to retract the probe, small attitude changes brought about by this caused the LM to start firing thrusters and fight the changes, making things worse as these motions can be complex. Until the two craft were hard docked, Mike got a significant surprise at the LM's gyrations. The docking occurred at 128:03:00 GET.
+133:33:56 Armstrong (onboard): [Garble].
+133:33:57 Collins (onboard): No, I would.
+133:33:58 Armstrong (onboard): [Garble].
+133:33:59 Collins (onboard): No, no.
+133:34:00 Armstrong (onboard): [Garble].
+133:34:01 Collins (onboard): [Garble]. No sooner than I fired that goddamned bottle, than wow! And away we went.
+133:34:10 Aldrin (onboard): [Garble].
+133:34:32 Armstrong (onboard): No - they're way down so, I don't know - just [garble].
+133:34:34 Collins (onboard): At contact I went free. Then, when I - then I fired the bottle, and then, just about all that came [garble] since the thing started, I went back to CMC, Auto, it bought it. And just about that time all - all those lights were flashing. And I thought maybe [garble]. I thought we were [garble].
+133:35:10 Armstrong (onboard): [Garble] I mean later on [garble] all those [garble].
+133:37:06 Aldrin (onboard): Pretty good.
+133:37:08 Armstrong (onboard): Yes.
+133:37:09 Aldrin (onboard): Figured nobody could - knew where we were. [Garble].
+133:38:08 Collins (onboard): Hey, did we decide the window shade back?
+133:38:38 Collins (onboard): No, the data should go to the log [garble]. The only good thing to say about it is [garble].
+133:38:55 Aldrin (onboard): [Garble] you guys. [Garble] love them [garble].
+133:39:51 Collins (onboard): All that probe and drogue and claptrap works. All that EVA transfer, you can forget about that and all those crazy procedures for taking that probe apart.
+133:40:12 Aldrin (onboard): At least, we can forget them until the debriefing.
+133:40:14 Collins (onboard): Yes (laughter).
+133:40:55 Aldrin (onboard): [Garble].
+133:41:23 Collins (onboard): This thing [garble] make a great [garble].
+133:42:04 Armstrong (onboard): Picked up the CSM problem.
+133:42:38 Collins (onboard): I've never thought about it.
+133:42:50 Armstrong (onboard): [Garble]?
+133:42:51 Collins (onboard): No.
+133:42:54 Aldrin (onboard): All at once.
+133:43:19 Armstrong (onboard): None of them.
+133:44:31 Armstrong (onboard): Yes.
+133:44:44 Armstrong (onboard): [Garble] long time.
+133:44:51 Collins (onboard): It's [garble]?
+133:45:34 Armstrong (onboard): You got something [garble]?
+133:45:38 Collins (onboard): Yes. Right across the breach. Okay. Look at that. [Garble]
+Apollo 11 is now about to reappear from behind the Moon on its 30th lunar orbit. They crew have stowed their equipment and received from Mission Control the necessary data to perform the Trans-Earth Injection engine firing which will send them homeward. That event is now about 1 hour and 40 minutes away, and they have little to do but wait.
+Day 6, part 2: Rendezvous and Docking
+Journal Home Page
+Day 6, part 4: Trans-Earth Injection

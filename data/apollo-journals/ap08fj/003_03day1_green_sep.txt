@@ -1,0 +1,1187 @@
+A8FJ - Day 1: The Green Team and Separation
+Day 1: Earth Orbit and Translunar Injection
+Journal Home Page
+Day 1: The Maroon Team
+Apollo 8
+Day 1: The Green Team and Separation
+Corrected Transcript and Commentary Copyright © 2002-2025 by W. David Woods, Frank O'Brien and William Smeaton. All rights reserved.
+Last updated 2025-02-21
+It is 21 December 1968 and nearly 3 hours into the flight of Apollo 8. The spacecraft has just been sent on its way to the Moon by the third stage of the Saturn V launch vehicle, to which it is still attached. Though it is still quite close to the Earth and apparently moving horizontally, the vehicle's very great speed is overcoming Earth's gravity taking it away from its former circular path. Very soon, the CSM (Command Service Module) will separate from the S-IVB stage and after some formation flying, the two entities will take somewhat different paths towards the Moon.
+Communications with the spacecraft were established through the Hawaii tracking station as the burn progressed.
+At the moment of cut-off, Jim pressed the Verb key on the DSKY (Display and Keyboard), freezing the displayed values in Noun 62 from the thrust monitor program, P47. This lets them record values relating to their trajectory in spaces in the TLI checklist.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+002:56:22 Anders (onboard): S-IVB will maneuver to orb-rate, heads down at 0.3 of a degree per second.
+The S-IVB is pretty much autonomous from the spacecraft. Now that the burn is complete, the APS (Auxiliary Propulsion System) thrusters at the base of the stage are commanded by the computer in the IU (Instrument Unit) to rotate the vehicle in orb-rate.
+002:56:27 Anders (onboard): Okay, record VI.
+002:56:30 Lovell (onboard): VI.
+002:56:31 Anders (onboard): Give it to me.
+002:56:32 Lovell (onboard): I'll give it to you. VI was 34 - 35452.
+This is their final inertial velocity at the moment of cut-off in feet per second (10,806 m/s). To put that into more familiar numbers, this crew have become the fastest ever humans at nearly 24,200 miles per hour, or 38,900 kilometres per hour. I live on the very edge of the largest Scottish city, Glasgow, which with its dormitory suburbs is home to a million folk. It takes me about twenty minutes to get through the seven miles of city streets to the city centre. The Apollo 8 crew would do it in a single second.
+002:56:34 Anders (onboard): 35452. H-dot?
+002:56:37 Lovell (onboard): 04550.
+This is the rate of change of height, or their speed in the direction away from the Earth at the moment of cut-off. It is 4,450 fps (1,356 m/s) but will increase quickly as the Earth curves away.
+002:56:40 Anders (onboard): H-pad?
+002:56:41 Lovell (onboard): Plus 01791.
+This is their height at cut-off. The reference for this measurement is not mean sea-level, but rather the altitude of the launch pad (which is nearly at sea-level anyway), hence "H-pad". At cut-off, their computer had them at 179.1 nautical miles (331.7 km). This is slightly different from values obtained by ground-based analysis of the trajectory at actual cut-off.
+Based on their best data, and as reported in the post-mission report, if no changes were made to their current trajectory, they will impact the Moon in three days time. Their approach path intersects the lunar surface because they do not have quite enough velocity to pass over the far-side by 110 km, their preferred altitude. However, tiny changes to the trajectory at this stage will have a profound effect on its end conditions. The manoeuvres they are about to make will change things markedly.
+002:56:44 Borman (onboard): Let's not go out of there. You leave it like it is.
+Frank may be asking for the DSKY display to be left in its current state, i.e. displaying the details of their trajectory at cut-off.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+At 2 hours and 57 minutes here, just - all the sources again are being looked at, compared. They all are exactly what we'd hoped to see and more than once we've heard Chris Kraft, the Director of Flight Operations say, 'You're on your way. You're really on your way now.' We don't have an exact cut-off - cut-off figure yet in feet per second, but we should be getting it very soon from the Flight Dynamics Officer.
+002:56:46 Anders (onboard): Okay, Key Release.
+002:56:47 Lovell (onboard): I've got to go to my Key Release [garble].
+002:56:49 Anders (onboard): [Verb] 16 [Noun] 92 (means 62) for Key Release?
+002:56:50 Lovell (onboard): Yes.
+002:56:52 Anders (onboard): Key Release was [Verb] 16 [Noun] 83.
+They change the computer's display to show Noun 83. This displays Delta-V, the change in velocity caused by the engine burn, not as a single figure, but as resolved into three orthogonal components, measured by three accelerometers mounted on the guidance platform.
+002:56:55 Lovell (onboard): Okay, [Verb] 16 [Noun] 83; Delta-VX is 9,548.5 [fps, 2,910.3 m/s].
+002:57:02 Anders (onboard): Y?
+002:57:03 Lovell (onboard): Minus 1,683.3 [fps, 513.1 m/s].
+002:57:07 Anders (onboard): Z?
+002:57:09 Lovell (onboard): Plus 4,112.4 [fps, 1,253.5 m/s].
+002:57:13 Anders (onboard): And Delta-VC, Frank?
+A reading for Delta-VC does not come from the computer. Rather, it comes from the EMS (Entry Monitor System) Delta-V read-out. Prior to the TLI burn, a figure of 10,519.6 was entered in this Panel 1 instrument as the total Delta-V (in feet per second) that the engine had to make. As the burn progressed, an accelerometer within the EMS generated a signal that caused this figure to decrease, essentially telling the crew how much Delta-V still had to be achieved. At engine cut-off, this would ideally read zero.
+002:57:16 Lovell (onboard): What's Delta-VC, Frank?
+002:57:16 Borman (onboard): Minus 20.6.
+A 20.6 fps overshoot represents only 0.2% error over the whole burn, within the biases inherent in the instrument.
+002:57:19 Lovell (onboard): Okay, this - this...
+002:57:22 Anders (onboard): The Flight Recorder is Off; Tape Recorder is stopped...
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+002:57:27 Collins: Apollo 8, Houston. Looks like a good cut-off. Everything's looking real good down here. [Pause.]
+002:57:41 Comm Tech: California, inhibit VHF downlink.
+002:57:53 Comm Tech: Inhibited. [Pause.]
+As the vehicle moves away from the Earth, its ground track approaches the western United States. Communications are transferred to the tracking station at Goldstone in California where they will stay for some considerable time. Increasingly, as it rises, the vehicle's ground speed (the speed of the point on Earth directly beneath the spacecraft) is decreasing. Eventually the turning Earth will catch up and their ground track will begin to move westwards.
+002:58:04 Collins: Apollo 8, Houston.
+002:58:06 Borman: Go ahead, Houston. Apollo 8.
+002:58:07 Collins: Your cut-off looked very good down here. We got a whole room full of people that say you look good.
+002:58:11 Borman: Roger. Thank you. The only situation we have here is the O2 flow is pegged high, O2 flow pegged high.
+002:58:22 Collins: Roger. Understand; O2 flow high. [Pause.]
+002:58:24 Lovell: We'll get you the burn status report here shortly.
+002:58:26 Collins: Roger. [Long pause.]
+002:58:57 Collins: Apollo 8, Houston. Your booster is configured normally, and we're not concerned with the O2 high flow. We think its normal.
+002:59:05 Borman: Okay. [Long pause.]
+002:59:52 Lovell: Houston, Apollo 8.
+002:59:54 Collins: Go ahead, Apollo 8.
+002:59:56 Lovell: Roger. The Delta-TIG looked like it was right on. Burn time appeared to us to be about 2 seconds longer, 517. VGX was reading 95485 when we got it. The attitude was nominal. VI was reading 35452 at cut-off, H-dot 04552, and H is 01791. Delta-VC on the EMS was minus 20.6.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We - we're getting a post-TLI report from the crew. I apologize. I quoted some erroneous figures during the course of the burn. Our present altitude is about 240 [nautical] miles [444 kilometres] and very shortly we'll get a more precise fix on that. I believe in the course of the burn I quoted some features in thousands of miles which should have been in thousands of feet [in fact he was reporting the current apogee]. I apologize. Our new displays are getting a good workout and some of the people reading those new displays are getting a very good workout.
+In the ensuing press conference at the change of shift, PAO announcer Paul Haney further elaborated and again apologized for these initially confusing reports. The readings being given by the announcer were good but there had been no explanation of what they meant. While the figures represented the instantaneous apogee of the orbit, PAO was quoting them as if they were spacecraft's actual altitude at that moment.
+003:00:35 Collins: Alright, we copy that, Jim, and I've got some times here for you.
+003:00:41 Lovell: Roger. Go ahead.
+003:00:42 Collins: Booster begins maneuver to Sep[aration] attitude at 03:10:55. Takes 5 minutes, so it arrives at 03:15:55, and Sep time, 03:20:55. Your Sep attitude, the gimbal angles on the PAD remain good.
+Mike Collins is referring to the separation attitude he read up to the crew as part of the TLI PAD at 001:48:17. The angles given then are 359°, 77°, 320°. The S-IVB will use its own thrusters to achieve this and the crew can check it on their displays.
+003:01:06 Lovell: Roger. I have those times. The Sep time will be 03:20:55.
+003:01:10 Collins: Right.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control here. We're watching the altitude plot now. Now it's a good solid trace coming to us through Goldstone. We're up to 879 [nautical] miles. Our present Ground Elapsed Time into the flight is 3 hours, 3 minutes. At the same time we're already beginning to see the velocity begin to recede slightly. It's now 32,418 feet per second, and we'll continue to see that slight lowering in the velocity reading and a constant elevation of the apogee [means altitude]. Now 934, 961, and every 10 seconds it seems to be adding about 30 to 40 miles. That spacecraft right now, in relation to the Earth, is just south of the Goldstone station which has it in solid lock. We're now seeing our first midcourse charts, early estimates of what we will - what we'll be working with, numbers at midcourse, and like so many of our data displays, by the time we get locked up on it with our own eye balls it moves to another channel. At 3 hours and 5 minutes into the flight, this seems to be a convenient stopping point for the action right now. We will be back shortly.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:03:08 Anders: Houston, Apollo 8. Over.
+003:03:10 Collins: Apollo 8, Houston. Go ahead.
+003:03:12 Anders: Roger. Going to start charging battery B.
+003:03:15 Collins: Okay. Battery B.
+Bill is at the bottom of page L-14 in the TLI Checklist.
+The Command Module carries a total of five batteries. Two silver oxide-zinc batteries are mounted in the Lower Equipment Bay and are used only for energising the pyrotechnic devices for CM/SM separation, parachute deployment and separation, S-IVB separation, launch escape tower separation among other functions. They are not recharged. Three more silver oxide-zinc batteries supplement the power from the fuel cells during busy periods such as engine burns and can be recharged from the fuel cells when demand is low. They also provide power for the CM after the SM has been jettisoned, through entry, landing and post-landing operations. The controls for the electrical system are on the right of the Main Display Console, where Bill is seated. To charge battery B, he must ensure it is not online to the spacecraft's power distribution buses before switching it to the output from the battery charger. The voltage of the battery can be monitored while it is charging by switching the DC indicator to the charger.
+003:03:17 Anders: And would you keep a special eye on the surge tank and cryo O2 tank 1 Delta-P for us since our flowmeter is pegged out, we got no warning on O2 high flow.
+High pressure oxygen enters the CM and before its pressure is reduced, it fills a surge tank mounted within the CM's periphery. The surge tank will provide the crew's oxygen supply during re-entry and it also makes up for periods of high usage when flow restrictors in the feed from the Service Module's tanks cannot meet demand.
+003:03:29 Collins: Roger, Bill. We'll do that for you.
+003:03:31 Anders: Thank you.
+Long comm break.
+At 003:10:55. the Saturn's control system in the IU begins firing the APS thrusters at the base of the stage to place the vehicle in the correct attitude for the separation. The attitude has been chosen for reasons of lighting and communication.
+Borman, from the 1969 Technical Debrief: "The S-IVB maneuver to separation attitude was as expected, with the possible exception that the S-IVB stopped 10 degrees short of the final pitch attitude. We had been given a pitch attitude of 91.7 degrees, and it stopped at 81.7 degrees. This, of course, had no significance.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:11:08 Borman: Okay. Maneuver's started to separation attitude.
+003:11:12 Collins: Roger, Apollo 8. [Pause.]
+003:11:21 Borman: Houston, Apollo 8. How do you read?
+003:11:23 Collins: Yeah, reading you loud and clear, Frank. Understand you've started the maneuver to Sep attitude.
+003:11:27 Borman: Right.
+003:11:28 Collins: Are you reading us all right?
+003:11:30 Borman: Loud and clear.
+003:11:31 Collins: Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston. We estimate another 7 or 8 minutes before the spacecraft will separate from the S-IVB. We have not heard from the crew in the last few minutes, they're busy with doing their post TLI duties and we're looking at data here and everything we see is quite comforting. That's the next major event, separation from the booster. For now, we've - the pool has asked us to replay the communication during Translunar injection, which you heard live. Here it is.
+For this and many other PAO updates in the coming days, portions of the air to ground communication were not heard as they occurred, but replayed some time later after being introduced by the Public Affairs Officer, as he has done here. For the purposes of this journal, all such communications are inserted into the transcript at the point which they occurred, and not repeated. Hence the frequent utterances along the lines of "let's listen to that now."
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:14:16 Collins: Apollo 8. Houston.
+003:14:18 Borman: Go ahead, Houston. Apollo 8.
+003:14:19 Collins: Okay. Coming up on 3 hours and 15 minutes as per Flight Plan; we have you Go.
+003:14:26 Borman: Roger. Go.
+This Go/No-Go call is relevant to the first of their abort modes after TLI. Prior to the burn, two abort PADs were read up to the crew in case of problems immediately after it. A 'No-Go' call at this point would have had them using the 'TLI plus 90-minute' abort.
+003:14:29 Borman: You got any reading on this O2 flow?
+003:14:32 Collins: Stand by one. [Long pause.]
+003:14:50 Collins: Apollo 8, Houston.
+003:14:51 Borman: Go ahead.
+003:14:52 Collins: We're reading about the same as we were before on that oxygen flow. The reason that it's that high is due to the cabin gas changeover. According to Apollo 7, if your data repeats theirs, you can expect it to be high for another few hours.
+003:15:10 Borman: Roger. Thank you. [Long pause.]
+On the ground, prior to flight, the Apollo Command Module has an atmosphere which is maintained at 60% oxygen and 40% nitrogen. This mixture is sufficient to inhibit the kind of oxygen-fed fire that claimed the lives of the Apollo 1 crew. Once in space, the mixed cabin air is replaced with pure oxygen, supplied from two tanks in the Service Module.
+003:15:43 Collins: Apollo 8, Houston.
+003:15:47 Borman: Go ahead.
+003:15:48 Collins: You can expect that the S-IVB will be 10 degrees off in pitch at Sep attitude; however, that is Go. There is no problem involved.
+003:15:57 Borman: Roger.
+Long comm break.
+The CSM is about to fly free for the first time in the flight and must be ready to control itself in space rather than being stuck on the end of a launch vehicle. The procedures for configuring the spacecraft begin at the bottom of page L-15. The first of these is to configure the Digital Auto Pilot or DAP.]
+Throughout most of the mission, the attitude of the spacecraft is controlled so that the crew can properly carry out their various tasks, like sighting stars, photographing the lunar surface or protecting the spacecraft from extremes of temperature. The physical forces that turn the spacecraft to the correct attitude are provided by the firing of thrusters mounted around the Service Module. Control of which thruster to fire when comes from the DAP, a software routine running in the computer. The crew can configure the DAP's status by changing digits within registers in the computer's memory. This table explains the meaning of each digit in two of them.
+Register R1
+Parameter
+Value
+Meaning
+Vehicle Configuration
+0
+No DAP
+1
+CSM
+2
+CSM & LM
+3
+CSM & S-IVB
+6
+CSM & LM (ascent stage only)
+Quad A/C
+0
+Fail A/C
+1
+Use A/C
+Quad B/D
+0
+Fail B/D
+1
+Use B/D
+Deadband
+0
+±0.5°
+1
+±5.0°
+Rotation Rate Select
+0
+0.05° per second
+1
+0.2° per second
+2
+0.5° per second
+3
+2.0° per second
+Register R2
+Parameter
+Value
+Meaning
+Roll Quad Select
+0
+Use B/D
+1
+Use A/C
+Quad A
+0
+Fail
+1
+Use
+Quad B
+0
+Fail
+1
+Use
+Quad C
+0
+Fail
+1
+Use
+Quad D
+0
+Fail
+1
+Use
+At this time, only the first register is to be altered, in this case to "11103". We can interpret the new settings thus:
+1: Vehicle configuration is the CSM only. The routine needs to take account of the distribution of mass and, for example, having a Lunar Module attached to one end makes a huge difference to the effectiveness of the thrusters and whether they are acting near the centre-of-gravity. This mission need not concern itself with a Lunar Module.
+11: Quads A/C and B/D are used as coupled pairs. By firing opposing thrusters in opposing directions, a rotation can be started without there being any significant thrusting that will effect the spacecraft's trajectory.
+0: The deadband will be ±0.5° for tight control of the spacecraft's attitude. The deadband is the range of error from the ideal attitude that will be allowed before active correction is made. As long as the spacecraft stays within half a degree of the desired attitude, the thrusters will not fire.
+3: The fast rotation rate of 2° per second will be used for any corrective manoeuvres.
+This change is made by calling up Verb 48 on the computer, entering the digits and finally, activating the DAP with Verb 46. Other values that can be altered include the spacecraft weight and the trim angles of the gimbal-mounted SPS engine. The crew verify that the spacecraft's control systems are all powered up and that cameras have been readied for photography of the S-IVB. Then at 003:18:55, with two minutes to go to separation, they start their event timer counting up from 58:00 to help co-ordinate tasks before and after the event. They set the EMS to record changes in their velocity, and since a manoeuvring spacecraft can have communication problems in certain attitudes, they place the flight recorder into Record mode to ensure a solid telemetry stream can be recovered if required.
+Your browser does not support the audio element.
+[Download MP3 audio file of onboard audio. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:19:57 Anders (onboard): Manual Attitude, three, Rate Command.
+003:19:58 Borman (onboard): Rate Command.
+Having come from military jet pilot backgrounds, Bill and Frank are well used to the strict challenge and response method of carrying out a checklist. Bill reads out a line from the checklist and Frank responds by confirming the instruction has been carried out.
+At the far left of Panel 1, three switches define the control modes for the roll, pitch and yaw motions. Setting them all to Rate Command gives full control of the spacecraft attitude to the computer. The other options are Accel(eration) Command, where the hand controls can be used to rotate the ship; and Minimum Impulse, which allows single thrusters and very short firings to control attitude with greater precision.
+003:20:01 Anders (onboard): Okay, turn controller counterclockwise, plus X, and hold at zero.
+003:20:03 Lovell (onboard): Going to zero.
+This may be a rehearsal. Turning the translational controller counter clockwise, pushing forward and holding in this way performs the actual separation which isn't due for a few seconds yet.
+003:20:04 Anders (onboard): Turn it clockwise...
+003:20:05 Lovell (onboard): Now, wait a second. (Garble.)
+003:20:14 Lovell (onboard): Yeah.
+003:20:15 Borman (onboard): What, this?
+003:20:16 Anders (onboard): Let me attempt to turn it Off. Give me a 10-second warning on the flight recorder.
+There is an On/Off switch on the side of the controller, which is probably being used to prevent inadvertent separation.
+003:20:20 Lovell (onboard): Yes. Okay.
+003:20:23 Anders (onboard): 13920 [garble]...
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:20:25 Collins: Apollo 8, Houston.
+003:20:25 Anders (onboard): ...30.
+003:20:27 Borman: Go ahead, Houston.
+003:20:28 Collins: Roger. We have you about 30 seconds prior to separation, and everything's looking good.
+003:20:33 Borman: Roger.
+Comm break.
+003:20:39 Lovell (onboard): Okay, I'm coming up on 15 seconds to Sep.
+003:20:42 Borman (onboard): Alright.
+003:20:45 Lovell (onboard): 10 seconds to go.
+003:20:48 Anders (onboard): You in Auto?
+003:20:50 Borman (onboard): Yes, Auto, Auto, right.
+003:20:52 Anders (onboard): Okay, at zero, turn Hand Controller counterclockwise, plus-X, and hold.
+Frank is occupying the left-hand seat and has access to the Translation Hand Controller. By turning the controller and pushing it forward, he fires the plus-X thrusters so that when separation occurs, the CSM will immediately begin moving away from the S-IVB. After three seconds, the vehicles separate and Frank continues firing forward for a further five seconds.
+003:21:00 Anders (onboard): 3 seconds, Launch Vehicle Tank Pressure indicator, zero; CM/LV Sep; Translational Contr, Neutral; plus-X, Off; TVC Servo Power 1, Off.
+Confirmation of separation comes from the pressure gauge of the launch vehicle tanks going to zero as the circuit to the sensors is broken.
+Separation of the CSM from the SLA (Spacecraft (or Service Module)/Lunar Module Adapter) is a fast but complex event. A guillotine severs the electrical connections between the Service Module and the S-IVB; a train of explosive cords cut the metal structure joining the SM to the SLA to allow the spacecraft to come free; they cut the upper 75% of the conical SLA into four long sections which are now only joined to the S-IVB by spring loaded partial hinges at the centre of their lower edge; they set off pyrotechnic thrusters, mounted within the intact portion of the SLA, which force pistons to push on the outside edge of each SLA panel, causing them to begin rotating away from the vehicle's centreline. Once the panels have rotated about 45°, the hinges disengage, allowing the springs within the hinge assembly to push the panels away at about 2.5 m/s. Sitting on top of the S-IVB, and revealed for the first time is LTA (Lunar Test Article)-B, a nine-tonne instrumented cylinder installed to provide the Saturn V with a more representative load.
+This is the first flight to use partial hinges to jettison the SLA panels. During Apollo 7, the panels stayed attached but the Commander, Wally Schirra, reported that one of them had not fully deployed. He pointed out that manoeuvring near that wayward panel was worrisome and suggested dropping a planned docking test for fear of a panel hitting the spacecraft. NASA subsequently arranged for SLA panels to be jettisoned completely away from the vicinity.
+LTA-B is actually much lighter than a normal Lunar Module (9 tonnes compared to 15 tonnes). NASA were not happy to fly the Saturn V with only the load of the CSM on top. Further ballast was required to bring the payload's mass towards a figure that the launch vehicle's control system could handle and tests had shown that LTA-B fulfilled this role. There were concerns that the weight would affect the vehicle's pogo performance but management decided that since AS-503 had originally been meant to fly with a full LM, the lighter and more symmetrical LTA-B would not cause a problem.
+It's not yet half an hour since TLI and at the point of separation, they have ascended to 7033.5 km and their velocity has dropped from 10,822 m/s to 7,612 m/s.
+Borman, from the 1969 Technical Debrief: "Now one thing that we did notice at separation: the EMS meter jumped to over 100 feet per second due to the g administered by the separation of the CSM from the S-IVB. We were going to use the EMS to monitor the velocity, and we did use it. But rather than use zero as the basis, we decided to use a 100 feet per second bias and then fly the velocity from that point."
+Frank's suggestion of biasing the EMS Delta-V display to read 100 feet per second for the separation event became standard procedure for the rest of the Apollo program. The post-mission report had more on this point.
+From the 1969 Mission Report: "Velocity counter jumps on the order of that seen at spacecraft/S-IVB separation have been produced when an ordered series of positive and negative pulses enter the counter logic from the accelerometer output with the counter reading essentially zero. The jumps are the result of a logic race involving the sign change circuit in the counter and, therefore, cannot occur unless the counter reading is near zero. In the normal modes of operation (Delta-V and entry ranging) large values of velocity or range are set in and driven toward zero; therefore, no logic race occurs. If the system is used for monitoring accrued velocity, such as at separation, the counter can be manually biased away from zero to avoid the problem.
+003:21:09 Borman (onboard): Alright.
+003:21:10 Anders (onboard): Okay, Verb 62, Enter.
+003:21:12 Lovell (onboard): Verb 62, Enter.
+Verb 62 is used to display the total attitude error that exists between the desired and current attitude.
+003:21:13 Anders (onboard): Verb 49, Enter.
+003:21:14 Lovell (onboard): Verb 49, Enter.
+Verb 49 is the DSKY entry to begin an automatic manoeuvre to a specific attitude.
+003:21:16 Anders (onboard): Okay, desired gimbal angles and proceed.
+003:21:20 Lovell (onboard): Rog; proceed, now.
+Bill and Jim are continuing through page L-17 of the checklist, recalling previously loaded attitude angles to which Frank will manoeuvre the spacecraft so they can view the S-IVB. This is a partial rehearsal of the transposition manoeuvre that later Apollo flights will execute to dock with and extract a LM from the S-IVB. The desired gimbal angles are stored as Noun 22.
+Borman, from the 1969 Technical Debrief: "The transposition and return to the S-IVB was accomplished using the SCS [Stabilisation Control System]. We used a Verb 62 and a Noun [means Verb] 49 to give us steering signals, and in my opinion, this gave no problem at all in performing a docking maneuver. However we should point out that there would be a greater usage of the SM/RCS fuel in an actual docking maneuver. Since we did not have an LM, we did not close the docking distance. We did close enough to evaluate the lighting, but we did not perform the final maneuvers that would be required for docking.
+003:21:22 Anders (onboard): Okay, you're notched up by 30 seconds so a minus-X of 2½.
+003:21:26 Lovell (onboard): [Garble] Sep.
+003:21:27 Anders (onboard): Okay, you put your other - you're not around by 30 seconds, so minus-X is your roll.
+Bill is interpreting an instruction in the checklist. If they haven't begun to turn around by the 30-second mark, Frank needs to arrest their movement from the S-IVB by firing their minus-X thrusters for 2½ seconds. However, Frank has already begun their turnaround.
+003:21:31 Borman (onboard): Why can't you call it yaw?
+003:21:31 Anders (onboard): Because we're not - see, we're not...
+003:21:37 Lovell (onboard): There's one [SLA] panel.
+003:21:39 Anders (onboard): After this camera [garble].
+003:21:46 Borman (onboard): Man, where's the S-IVB? Anybody see it, now?
+003:21:49 Lovell (onboard): There it is!
+003:21:50 Borman (onboard): You found it?
+003:21:51 Lovell (onboard): Right in the middle. Right in the middle of my window. There's not a panel around.
+003:21:55 Borman: What a view!
+003:21:58 Collins: Looks pretty good, huh?
+003:21:58 Lovell (onboard): Give me the camera.
+003:21:59 Anders (onboard): Well, we've got some still pictures we can take...
+003:22:01 Lovell (onboard): Could you pitch a little more?
+003:22:02 Borman (onboard): Yes.
+003:22:03 Anders (onboard): We haven't got in here, yet.
+003:22:08 Anders (onboard): f/11, 1/250th.
+003:22:10 Lovell (onboard): f/11.
+003:22:12 Anders: We've Sep'd Houston. We got the IVB, right in sight.
+003:22:16 Collins: Roger, Apollo 8. [Long pause.]
+The mission's photography task begins with the crew's spectacular view of the Earth from their rapidly ascending perch. Onboard photos are taken with a 70-mm Hasselblad camera, in this case fitted with an 80-mm lens and magazine A of colour film. Bill would normally take on the photography task but Jim has the camera and is snapping away.
+AS08-16-2581 - The Earth has already shrunk to show a distinct curve at the top left of the image. Jamaica and Cuba are to the bottom - Image by NASA/Johnson Space Center.
+Over the next few minutes, Jim takes five photos of the S-IVB as the two vehicles slowly separate.
+AS08-16-2582 - The S-IVB with the camera looking directly onto the Lunar Test Article. The stage is beyond it - Image by NASA/Johnson Space Center.
+AS08-16-2583 - The form of the LTA is clearer and one of the APS modules at the base of the stage is also well shown. Note the swarm of particles drifting around the stage - Image by NASA/Johnson Space Center.
+AS08-16-2584 - The S-IVB is further into the distance and more side on - Image by NASA/Johnson Space Center.
+AS08-16-2585 - The S-IVB and the Lunar Test Article after they have drifted some distance - Image by NASA/Johnson Space Center.
+AS08-16-2585 - The S-IVB and the Lunar Test Article after they have drifted some distance - Image by NASA/Johnson Space Center.
+Borman, from the 1969 Technical Debrief: "Lighting at separation was very adequate for docking. The S-IVB was stable. One incident, one that I think is important on this flight, was that the SLA panels jettisoned very, very well. We saw them floating to the rear. There was no danger of recontact from the SLA panels."
+Frank's point about the SLA panels answers the observation on Apollo 7 that it's panels had not properly deployed. Wally Schirra had described how he would not have been happy to try docking had Apollo 7 carried a LM.
+003:22:19 Anders (onboard): Could you pitch just a little more or [garble].
+003:22:21 Borman (onboard): Which way?
+003:22:22 Anders (onboard): Pitch up, pitch up a little more.
+003:22:27 Borman (onboard): How's that?
+003:22:33 Lovell (onboard): I don't see the [garble]. Maybe I can get it in a minute.
+003:22:46 Lovell (onboard): Easy on the thrusters.
+Borman, from the 1969 Technical Debrief: "Formation flight, of course, was nothing different than we experienced in Gemini. The control systems of the SM are absolutely superb. It was no problem to fly formation with the S-IVB."
+The phrase "Easy on the thrusters," probably is a reference to fuel usage. Throughout the flight, the crew often manually manoeuvred the spacecraft to improve their view. This, of course, generated fuel consumption that was higher than preflight predictions. Later missions would have a more experience with what attitudes work best, and manoeuvring could be planned accordingly.
+003:22:48 Anders (onboard): Don't you think that's enough pictures of it?
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 3 hours, 22 minutes into the flight. Exactly 1 minute ago we observed separation from the S-IVB. The crew immediately turned around and had a look at the S-IVB and we're watching that pitch - pitch attitude right now and telemetry coming through over the Eastern Test Range. And as the vehicle climbs, it will - from a flat map projection appear to swing to the south and west which, of course is a little unusual for our usu - for our past flight, the Earth orbital tracks which invariably take us to the east. But we will observe a swing down starting across the Atlantic and then back across the upper part of South America. We are now trying to establish a call with Apollo 8. Let's - let's see what we can get.
+003:22:52 Anders: Houston, do you read Apollo 8?
+003:22:53 Collins: Go ahead, Apollo 8. [Pause.]
+003:22:55 Lovell (onboard): How far away do you think it is?
+003:22:59 Anders (onboard): [Garble].
+003:23:00 Borman (onboard): How about the S-band, Bill?
+003:23:01 Collins: Apollo 8, Houston. Over. [No answer.]
+003:23:02 Anders (onboard): Let me switch the antenna here.
+003:23:07 Borman (onboard): I'm not going to fly around the damn thing. I don't think there's any - do you?
+003:23:12 Lovell (onboard): No.
+003:23:16 Collins: Apollo 8, this is Houston. Over. [Pause.]
+003:23:23 Borman (onboard): You got lock-on?
+003:23:24 Anders (onboard): Yes.
+003:23:26 Borman: Houston, this is Apollo 8 on VHF and S-band. How do you read?
+003:23:29 Collins: Hear loud and clear, Bill. How me?
+003:23:31 Borman: Read you loud and clear. We've Sep'd and looking good.
+003:23:34 Collins: Roger. Looking good here.
+Long comm break.
+003:23:35 Anders (onboard): You read him loud and clear? I don't...
+003:23:37 Borman (onboard): Turn your VHF up and your [garble].
+003:23:44 Anders (onboard): Okay, let's make sure we've done everything here. Get that Flight Recorder, Off.
+003:23:49 Borman (onboard): Off or On?
+003:23:50 Anders (onboard): Off. Okay, about 23:50, I want it Off.
+003:23:53 Lovell (onboard): Okay.
+003:23:54 Anders (onboard): 23:50, Off.
+003:23:57 Anders (onboard): At 35:50, I turn it back On. [Garble] 23:50 [garble].
+003:24:05 Lovell (onboard): Okay, let me see here.
+003:24:07 Anders (onboard): Okay...
+003:24:09 Lovell (onboard): Our EDS Power is Off?
+003:24:10 Borman (onboard): EDS Power is going Off.
+The crew are halfway down page L-17 in the TLI Checklist. Now that the CSM and the S-IVB have separated, the EDS (Emergency Detection System, that could automatically abort the launch vehicle) is no longer viable so a power switch on panel 7 that feeds it with power from the entry batteries is switched off.
+003:24:12 Anders (onboard): Att 1/Rate 2.
+003:24:14 Borman (onboard): Att 1/Rate 2.
+The two backup gyro assemblies are switched so that one provides attitude information and the other delivers rate of rotation information, both of these being fed to the FDAIs (Flight Director Attitude Indicators).
+003:24:15 Anders (onboard): Okay, Tape Recorder is stopped...
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control here. No additional communications from the crew, but while we've been sitting here in the last few minutes, the Mission Control Center has gone to what we call the translunar phase map. It's a new display. Those of you watching in the News Center will observe a long, elongated figure 8 map which shows the Earth-Moon transit and it also shows the numbers, the small flashing light now being portrayed to us in black and white. And we would estimate our distance at something on the order of 3,000 - 3,500 [nautical] miles [6,200 km] from Earth. It will carry us out in increments of 20,000 [nautical] miles out to - on out to lunar distance. And we'll be able to observe the declination or the general angle in relation to the Earth-Moon system for the entire flight path of the spacecraft. Again, we confirmed S-IVB spacecraft separation at about 3 hours, 21 minutes into the flight. And at this time; 3 hours, 27 minutes into the flight; all looks satisfactory. This is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:28:23 Borman: Houston, Apollo 8. How do you read?
+003:28:25 Collins: Read you loud and clear, Frank. How us?
+003:28:27 Borman: Roger. We're loud and clear. We're taking pictures of the S-IVB; the post-separation sequence is completed, and we seem to have a High Gain [Antenna].
+003:28:39 Collins: Okay; fine.
+Comm break.
+Near to the Earth, the spacecraft's omni-directional antennae (and a VHF backup) provide all the communications required. As they leave the Earth's vicinity, the signal strength weakens to the point that only low-speed comms are possible. High-speed comms require an antenna with a higher gain than the omnis. The High Gain Antenna (HGA) fulfils this role.
+S68-52190 - Apollo 8's High Gain Antenna seen during pre-launch preparations.
+During launch, the HGA was stowed, folded behind the Service Module alongside the SPS engine bell. After separation from the S-IVB, it is deployed to the side of the SM. It consists of four 79-cm (31-inch) parabolic dishes clustered around a 28-cm (11-inch) square feedhorn. The dish assembly is mounted on an articulated joint at the end of the support arm and can be pointed at Earth under manual or automatic control. The antenna works in the 2 gigahertz range (within what is known as the S-band) and has three modes of operation: wide, intended for near-Earth operation; medium, for distances up to halfway to the Moon; narrow, for up to lunar distances though even here a wide beamwidth was often used to help the automatic systems acquire Earth.
+HGA controls on panel 2 of the Apollo 13 Command Module Odyssey.
+Of the two switches to the top left of this photo, the beam width is selected by the rightmost one. The choice of beamwidth is a compromise between signal to noise ratio, antenna pointing accuracy and distance. Additionally, there are occasions when the narrow mode of the HGA locks onto a side-lobe of its radiation pattern, usually when reflections from the spacecraft's skin interfere with reception. When this occurs, a fix is to switch to wide beam, let the antenna repoint, then return to narrow.
+The photograph also shows the other controls and displays for operation of the HGA including two knobs to manually point the antenna, two dials for indicating where the antenna is actually pointing and a signal strength meter to help the crewman know when the antenna is squarely aimed at Earth.
+003:29:41 Lovell (onboard): There she is [garble].
+003:30:29 Lovell (onboard): 03:36 [garble] 03:36 [garble].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:30:38 Collins: Apollo 8, Houston.
+003:30:40 Borman: Go ahead, Houston. Apollo 8.
+003:30:41 Collins: Roger. Is Bill ready for his VHF test? We can configure any time he is.
+VHF communications provides a backup to the S-band system and during recovery operations but it cannot be used much beyond 30,000 km. Having a longer wavelength, it isn't practical to provide a focussed antenna in the style of the HGA. However, engineers are interested to know just how far they can make the system work with the two omni-directional antennae mounted on either side of the Service Module.
+003:30:48 Borman: Okay. Stand by.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:35:21 Collins: Apollo 8, Houston.
+003:35:22 Borman: Go ahead, Houston. Apollo 8.
+003:35:24 Collins: Rog. We would like to ask whether you did a Verb 66 Enter to transfer the state vector from CSM to LM slot. We didn't copy that down here.
+003:35:32 Borman: We did not.
+003:35:33 Collins: Okay.
+003:35:34 Borman: Do you want us to do that now?
+003:35:36 Collins: At your convenience.
+003:35:38 Lovell: Roger. [Pause.]
+There was an instruction in the Flight Plan at 003:10:00 to make a copy of the CSM state vector in the memory slots normally reserved for the LM's state vector.
+003:35:44 Borman: We see the Earth now, almost as a disk.
+003:35:49 Collins: Good show. Get a picture of it.
+003:35:51 Borman: We are.
+Four images from magazine A, AS08-16-2587 to 2590, may come from this period. Showing the Atlantic and South America.
+AS08-16-2587 - Partial Earth, showing the Atlantic Ocean and the northwest coast of Africa; Western Sahara, Mauritania, Senegal and The Gambia - Image by NASA/Johnson Space Center.
+AS08-16-2588 - Partial Earth, showing the Atlantic Ocean and the northwest coast of Africa; Western Sahara, Mauritania, Senegal and The Gambia - Image by NASA/Johnson Space Center.
+AS08-16-2589 - Partial Earth, showing the Atlantic Ocean and the northwest coast of Africa; Western Sahara, Mauritania, Senegal and The Gambia - Image by NASA/Johnson Space Center.
+AS08-16-2590 - Partial Earth, showing the Atlantic Ocean and the northwest coast of Africa; Western Sahara, Mauritania, Senegal and The Gambia - Image by NASA/Johnson Space Center.
+003:35:54 Borman: Tell Conrad he lost his record.
+Up to this time, no one in history had departed further from the Earth than Pete Conrad and Richard Gordon during their three-day flight aboard Gemini XI which launched 12 September 1966. Having docked to an Agena target vehicle, they used its engine to raise the apogee of their orbit to a maximum of 1,368.9 kilometres.
+003:35:59 Lovell: We have a beautiful view of Florida now. We can see the Cape, just the point.
+003:36:05 Collins: Roger.
+003:36:06 Lovell: And at the same time, we can see Africa. West Africa is beautiful. I can also see Gibraltar at the same time I'm looking at Florida.
+In other words, Jim can see clean across the Atlantic Ocean in one eyeful.
+003:36:20 Collins: Sounds good. Get a picture of it. What window are you looking out?
+003:36:29 Lovell: The center window.
+003:36:30 Collins: Rog. [Pause.]
+003:36:39 Collins: Are your windows clear so far? [Long pause.]
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston. The crew seems to be pretty well settled down in their translunar - after their Translunar Injection burn and they're - they're getting some time on the window. We just heard Jim Lovell report he could see Florida perfectly. By the way, they're out about 6,500 [nautical] miles [12,000 km] above the Earth now. He said he had a beautiful view of Florida and then he - his gaze roamed a little bit to the other side of the window and he said he could also see Gibraltar. The crew reminded the Control Center here that Pete Conrad and Dick Gordon would have to step aside. Their altitude record has been exceeded. Let's - let's pick up this conversation now as it unfolds.
+It is only 40 minutes since the TLI burn and at 12,000 km altitude, Apollo 8 is just about a full Earth's diameter away from the home planet.
+003:37:08 Collins: Apollo 8, Houston.
+003:37:10 Borman: Go ahead, Houston.
+003:37:11 Collins: How about this VHF check? We would like to get that done before you get too much further away.
+003:37:17 Borman: Okay. [Long pause.]
+003:37:38 Borman: Roger, we're listening on VHF Alpha Simplex.
+003:37:42 Collins: Apollo 8, Houston. Say again.
+003:37:45 Borman: We're listening for VHF Alpha Simplex.
+There are redundant receivers and transmitters for VHF and Frank is using the primary system. By being in Simplex mode, they use the same frequency for both receiving and transmitting.
+003:37:48 Collins: Okay, good. Thank you. VHF Alpha Simplex, and we will get configured for it; and in between times, give us a clue as to what it looks like from way up there.
+003:38:00 Lovell: Roger. Well, Mike, I can see the entire Earth now out of the center window. I can see Florida, Cuba, Central America, the whole northern half of Central America, in fact, all the way down through Argentina and down through Chile.
+003:38:25 Collins: They picked a good day for it.
+003:38:30 Borman: Stand by. We're going through the separation maneuver checklist here.
+003:38:34 Collins: Roger. Standing by. [Long pause.]
+By the Flight Plan, Jim should be starting to remove and stow his suit. However, he waits for another three hours until after his first navigation task before he does so.
+003:39:20 Borman: Houston, this is Apollo 8. We've lost sight of the S-IVB here. The separation maneuver may be delayed slightly, or else we'll go ahead and make it without having her in sight.
+003:39:30 Collins: Roger. Understand, Frank.
+Comm break.
+Pilots do not like to manoeuvre blind. The Flight Plan calls for the spacecraft to be manoeuvred so that the pointy end is facing Earth. Then at 003:40:00, they fire the minus-X thrusters for a 1.5 fps (0.45 m/s) change in velocity to help separate them from the S-IVB. Frank would feel happier if he could see the third stage while manoeuvring about.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:41:58 Borman: Houston, this is Apollo 8.
+003:42:01 Collins: Apollo 8, Houston. Go ahead.
+003:42:03 Borman: When does the S-IVB do their blowdown maneuver?
+Now that the S-IVB is on its own, it has a separate mission. Later S-IVBs were deliberately impacted on the Moon to provide shock events for arrays of seismometers which later Apollo crews would leave. This one, S-IVB-3, will miss the Moon but it will not follow the same flight path as the spacecraft. Whereas Apollo 8 will aim for near the leading edge of the Moon (an approach path that reduces the work needed to get it into orbit), the S-IVB will be aimed for just beyond the trailing edge. This trajectory is a sling-shot, whereby the stage gains a little of the Moon's momentum to throw it out of the Earth-Moon system and into a long-term solar orbit. It is orbiting the Sun to this day though no-one knows of its exact whereabouts.
+To reach the Moon near its trailing edge, the S-IVB must essentially arrive late with respect to the spacecraft. Its flight path must be altered to achieve this so the remaining LOX in the tank will be vented through the engine bell. This dump will begin at 005:07:56. Additionally, the APS thrusters will fire until depletion and the various bottles and spheres of pressurising gases will be vented. Overall the S-IVB's velocity will be changed by 41.9 metres/second. The "blowdown maneuver" Frank mentions is this venting of LOX. Another reason for all this venting of the stage is to make it safe. Contemporary with Apollo 8, many rocket stages were shutdown with small amounts of propellants still aboard. Through time, pressures in the tanks would rise and many discarded stages have exploded as a result. As this particular stage will be flying in the vicinity of the spacecraft for some time, making it safe is of some importance.
+003:42:05 Collins: Stand by one. [Long pause.]
+003:42:42 Collins: Apollo 8, Houston.
+003:42:46 Borman: Standby.
+003:42:48 Collins: Your blowdown will be 1 hour from now, a little over 1 hour from now.
+003:42:51 Borman: Roger. We have the S-IVB in sight again now, and we've done the separation maneuver.
+003:42:55 Collins: Good show. Thank you. [Long pause.]
+The Hasselblad collection can only be correlated with mission time by context and a calculation based on the size of Earth's image and the known angle of view of the 80-mm Hasselblad lens. Given the imprecision in such calculations, the timing of following photographs is only approximate.
+AS08-16-2591 - S-IVB - Image by NASA/Johnson Space Center.
+AS08-16-2592 - Final shot of the S-IVB - Image by NASA/Johnson Space Center.
+Anders, from the 1969 Technical Debrief: "The first photographic exercise was the S-IVB photography. Prior to TLI, the 70-mm and 16-mm cameras were prepared for S-IVB photography according to the Flight Plan. The 16-mm camera was started just after pitchover was initiated, and one panel was photographed. Since the CSM was not pointed with the S-IVB on the X-axis, the 16mm camera was stopped. Several pictures, using the 70-mm Hasselblad, were taken of the S-IVB. Later, S-IVB venting was photographed with both the Data Acquisition Camera and the 70-mm camera."
+003:43:25 Collins: Apollo 8, Houston.
+003:43:31 Anders: Go ahead, Houston.
+003:43:32 Collins: We'd like to take control of the DSE for a while, Bill.
+Bill had the DSE (Data Storage Equipment) recording while the CSM was separating from the launch vehicle. Mission Control want to download the spacecraft data recorded on it to fill in any gaps in their telemetry.
+003:43:35 Anders: Go ahead.
+003:43:36 Collins: Thank you. [Long pause.]
+003:43:54 Collins: Apollo 8, Houston. We'd like to get an approximate GET of your Sep maneuver to use for our ephemeris tracking data.
+Mission Control would like to know the details of any burn that affects the spacecraft's trajectory. Small changes now will have a huge influence on Apollo 8's position and speed at lunar arrival. After TLI, their trajectory intersected the Moon. Now with all the thrusting of separation from the S-IVB and their subsequent manoeuvring, it is estimated they would just skim over the Moon's far side.
+003:44:06 Borman: Roger. It was 3 hours, 40 minutes, zero seconds.
+003:44:10 Collins: Good, 03:40 and a foot and a half - feet per second. Right?
+003:44:15 Borman: Roger. About that.
+003:44:16 Collins: Okay.
+003:44:18 Borman: We have the - Mike, we have the exact call-out here for you and a burn status report.
+003:44:22 Collins: Alright.
+003:44:28 Borman: Alright, Delta-VX minus 00011, Delta-VY plus 0002, Delta-VZ minus 0002; roll, 0; pitch, 180; yaw, 0. Over.
+003:44:46 Collins: Roger, Apollo 8.
+Comm break.
+Frank has quoted the values for Delta-VY and Delta-VZ to only four digits. It seems likely that both values were 00002. Nevertheless, this is a very small burn. The spacecraft was pointing towards the Earth for the burn.
+While compiling the Apollo 8 Flight Journal, it has been striking to compare the documentation associated with the mission with Apollo 15, the journal we worked on prior to this. Throughout Apollo 15, the spacecraft's orientation reference, the REFSMMAT, was always explicit, and was changed regularly as the mission progressed. On Apollo 8, these procedures are much more primitive, presumably because of the mission's pioneering nature. Three REFSMMATS were used through the mission. For launch, right up to where they approached the Moon, the REFSMMAT matched the launch pad's orientation including the launch azimuth. For their time around the Moon, they used a REFSMMAT that matched the orienttion of their orbit insertion burns. This made it easier to monitor their attitude during those crucial burns. As soon as they left the moon, they realigned their guidance platform according to a REFSMMAT that helped with re-entry.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:46:25 Collins: Apollo 8, Houston.
+003:46:29 Borman: Go ahead, Houston. Apollo 8.
+003:46:31 Collins: Roger. At your convenience, would you please go P00 and Accept? We're going to update to your W-matrix.
+Apollo 8's computer is at the cutting edge of 1960s computer technology and that includes the programming that went into it. A particular mathematical tool, the Kalman filter, was developed for early navigation software with the problem of navigating Apollo to the Moon its first serious application.
+We've already met the state vector which are numbers in the computer that tell where they are and how fast they are going. The data on which the state vector is calculated is not perfect. There is a difference between the value most recently presented to the system and the true value of whatever is being measured, partly through measurement imprecision, and partly because the measurements are taken at discrete times. This "noise" is inherent in any system for measuring varying quantities. The Kalman filter is used to "smooth out" this data and it includes terms that allow the estimated degree of noise to be accounted for. These terms are known as the W-matrix and Mission Control wishes to adjust them slightly.
+After Apollo, the Kalman filter came to be used in a diverse range of applications from navigation, instrumentation, process control and on to problems in fuzzy logic and neural network training.
+Selecting program 00 puts the computer in a "do nothing" state. By placing the Up Telemetry switch to Accept, Mission Control gain access to the computers 2-kiloword memory where they can change the required values. A copy of the Flight Plan available to us, serial number 1005, includes handwritten values used to reinitialise the W-matrix: R1 = plus 00094, R2 = plus 00057, R3 = 00003.
+Collins (continued): And also when you get a chance, we'd like to know about the SLA panels. Did they all depart? And do you have any comments about the SLA?
+003:46:43 Borman: They all departed, and it worked fine.
+003:46:47 Collins: Okay. Thank you. [Pause.]
+003:46:58 Borman: We're in P00 and Accept.
+003:47:00 Collins: Thank you.
+Comm break.
+003:48:26 Borman: Houston, Apollo 8. Will you give us the information when you want us to stop the venting and so on?
+003:48:32 Collins: Apollo 8, Houston. Roger.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:50:39 Collins: Apollo 8, Houston.
+003:50:42 Borman: Go ahead, Houston. Apollo 8.
+003:50:44 Collins: Rog. Which venting information are you inquiring about: the O2 flow high out through the waste tank or waste compartment, or are you talking about your evaporator?
+003:50:53 Borman: Evaporator. We're configuring now to stop boiling.
+003:50:56 Collins: Okay.
+003:50:58 Collins: We concur in that.
+During times of high activity like the launch, Earth orbit, TLI and separation periods they have just gone through, extra heat is generated by the spacecraft's electronic systems. The cooling system takes care of most of this heat by radiating it into space via the two large radiator panels near the base of the Service Module. If the heat load is higher than these panels can deal with, an evaporator can be brought into play to supplement them.
+Evaporators, often referred to by the crew as "boilers", rely on that fact that energy is required to convert a liquid to a gas. When water is exposed to a vacuum, it quickly evaporates, and in so doing, takes heat from its surroundings. In the evaporator, spare water generated by the fuel cells is fed through metal plates via tiny holes in the plate. Once through, it encounters a mass of porous stainless steel known as a wick, the other side of which is exposed to space. Pipes from the coolant system are passed through this assembly where they give up their heat to the vaporisation process. There are two evaporators, one each for the primary and secondary cooling systems. Similar units built into the backpacks of their spacesuits will be used for cooling the crews who explore the lunar surface on later flights except these will use the sublimation of ice to vapour as the cooling mechanism.
+Automatic controls exist for the evaporators, or the crew can intervene in their operation if required. Bill will have some trouble keeping Apollo 8's evaporators working properly as they will be prone to drying out, requiring him to service them regularly. In the process of venting water vapour, the evaporators impart a slight thrust on the spacecraft that, over the course of a coast to the Moon, can significantly affect their trajectory.
+003:51:02 Collins: Apollo 8, Houston. You can go back to Block. We've gotten in the load to the W-matrix update.
+003:51:10 Borman: Right. [Long pause.]
+003:51:58 Borman: Houston, Apollo 8. The back pressure valve is closed, and the water flow (to the evaporator) is Off.
+003:52:03 Collins: Back pressure valve, Closed, and water flow, Off. Thank you. [Long pause.]
+003:53:04 Borman: Houston, Apollo 8 here.
+003:53:05 Collins: Apollo 8, Houston. Go ahead.
+003:53:07 Borman: Roger. It looks like I might have to do a couple more small maneuvers to stay away from the front of this S-IVB, the way we're ending up now. Do you want me to do these with a P47 if we have to do them?
+Program 47 in the computer has the relatively simple task of monitoring velocity changes. Specifically, it monitors the effect of thrusting manoeuvres that are not controlled by the guidance system.
+003:53:19 Collins: Stand by one, Frank. [Pause.]
+003:53:28 Collins: That's affirmative, Frank, on the P47.
+003:53:30 Borman: Okay. And give me the time again when it [the S-IVB] starts to dump [its LOX], please.
+003:53:35 Collins: Roger. [Pause.] We're working on an exact GET [Ground Elapsed Time] of that, Frank.
+003:53:48 Borman: Right.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+003:54:54 Collins: Apollo 8, Houston.
+003:54:57 Borman: Go ahead.
+003:54:58 Collins: I'd like to give you some idea about your trajectory. It looks like a midcourse correction number 1, projected out to TLI plus 6 hours, would be only 7 feet per second. So, of course, any further maneuvers you do would add to that, which is probably good.
+Testing the SPS is one of the early requirements for this mission. By intentionally taking Apollo 8 off its ideal course through its evasive manoeuvres, engineers will be able to get a good picture of SPS performance when the big engine is used for midcourse correction 1 (MCC-1).
+003:55:24 Borman: I just want to stay from away from in front of this thing.
+Since the LOX dump is going to be through the engine bell of the S-IVB, the stage will travel in its normal sense of forward. Frank does not to be in the way when it does.
+003:55:27 Collins: Rog. We concur. Looks like it is chasing you, huh?
+003:55:32 Borman: Yeah. [Long pause.]
+003:55:53 Anders: Omni-D. [Pause.]
+003:56:01 Borman: Boy, it's starting to vent now, blowing down.
+003:56:07 Collins: Apollo 8, Houston. Say again.
+003:56:09 Borman: The S-IVB is really venting.
+003:56:13 Collins: Rog. Understand; that is supposedly a nonpropulsive vent. The big blowdown maneuver, it starts maneuvering to blowdown attitude at 04:44:55, and the vent occurs at 05:07:55.
+Frank is seeing one of the venting events that are part of the S-IVB safing procedure. In this case, it is LH2 that is being vented through two outlets on opposite sides of the stage. The thrust imparted at each outlet is counteracted by the opposing thrust from the other. The S-IVB's propulsive manoeuvres are over an hour away.
+003:56:32 Borman: 05:07:55.
+003:56:34 Collins: Roger.
+003:56:35 Borman: That is the nonpropulsive vent, but it's pretty spectacular. It's spewing out from all sides like a huge water sprinkler.
+003:56:45 Collins: Rog. Get some pictures of it.
+003:56:48 Borman: We are. [Long pause.]
+The Apollo 8 Hasselblad record does not include any images that show the venting taking place. Viewers in Hawaii, where it is pre-dawn night, can see the cloud of propellant coming from the stage.
+003:57:07 Borman: Say again that big vent time, so I can write it down please, Houston.
+003:57:11 Collins: Rog. Big vent time: 05:07:55, and it will be maneuvering to vent attitude beginning at 04:44:55. And Bill's got the tape recorder back.
+003:57:32 Borman: Thank you. Roger. [Long pause.]
+003:58:31 Borman: We're receiving VHF music now, Houston. Thank you.
+003:58:35 Collins: Yeah, you took the words right out of my mouth, Frank, and we would like to know also how far away from the S-IVB you are now.
+003:58:48 Borman: I guess we're between 500 to 1,000 feet.
+003:58:51 Collins: Roger. [Pause.]
+003:58:57 Borman: Herb Alpert seems pretty good.
+003:59:00 Collins: Rog.
+Long comm break.
+One way of determining the maximum range of the VHF comm system is to keep playing music on the carrier and note the time at which it is lost. Bill had given Mission Control some music prior to the mission which could be played to the spacecraft. Herb Alpert with his Tijuana Brass is a popular recording artist of the time and his music is being played to the crew.
+004:01:42 Borman (onboard): Houston, Apollo 8. I [garble] suggest [garble] essentially separation maneuver, if it's all right with you.
+004:02:04 Borman: Houston, Apollo 8.
+004:02:06 Collins: Apollo 8, Houston.
+004:02:10 Borman: Roger. I believe we're going to have to vent or thrust away from this thing; we seem to be getting closer.
+004:02:18 Collins: Rog. Understand, Frank; go ahead whenever - just give us some idea of when you did it and how much.
+004:02:24 Borman: Roger. [Pause.]
+004:02:32 Collins: Apollo 8, Houston. Could you stand by one? We're working on something here.
+004:02:37 Borman: Okay.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:05:10 Collins: Apollo 8, Houston. [Pause.]
+004:05:16 Collins: Apollo 8, this is Houston. Over. [No answer.]
+004:05:18 Borman (onboard): Go ahead, Houston.
+004:05:21 Borman (onboard): Go ahead, Houston; Apollo 8.
+004:05:31 Borman (onboard): Go ahead, Houston; Apollo 8.
+004:05:39 Collins: Apollo 8, this is Houston. Over.
+004:05:40 Borman: You're loud and clear, Mike. Go ahead.
+004:05:43 Collins: Okay, Frank. On your additional separation maneuver, we recommend that you make a radial burn, point your plus-X axis toward the Earth and thrust minus-X for 3 feet per second. Over.
+The CSM has a coordinate frame of reference.
+Diagram of the CSM's coordinate system.
+The plus-X axis matches the pointy end of the Command Module. Therefore the instruction is to point the CSM at the Earth. The minus-X thrusters fire towards the plus-X axis, adding velocity to the spacecraft in the minus-X direction.
+004:05:57 Borman: I don't want to do that; I'll lose sight of the S-IVB.
+004:06:01 Collins: Okay. The reason we want a radial burn is to increase your midcourse correction so we can use the SPS. Stand by one. [Long pause.]
+The SPS is not suited to making very small adjustments to the spacecraft's velocity. Its thrust is large, about 100 kiloNewtons, whereas the RCS thrusters exert less than 0.5 kN each. However, everyone is keen to exercise the SPS before they trust it to take the spacecraft in and out of lunar orbit. Therefore, they want to build a larger velocity error so the SPS can be used to correct it and give the engineers a chance to see it perform.
+004:06:33 Collins: Apollo 8. Houston.
+004:06:35 Borman: Go ahead.
+004:06:36 Collins: How close to a radial burn can you get without losing sight of the S-IVB, Frank?
+004:06:41 Borman: Well, I don't know because I can't see the Earth now, Mike.
+004:06:43 Lovell (onboard): The Earth's out here. Can you see it?
+Jim can see the Earth through the spacecraft optics. Since all the windows are on the opposite side of the CM from the optics, we can infer that the Earth and the S-IVB are quite widely separated as the crew see them.
+004:06:44 Collins: Okay. [Pause.]
+004:06:48 Borman (onboard): Yes.
+004:06:51 Borman: We can pitch down some. Jim has the Earth in the optics so we could pitch some and get pretty close to one (a radial burn), I guess. [Long pause.]
+004:07:18 Borman (onboard): You got the Earth focused in?
+004:07:22 Lovell (onboard): [Garble.]
+004:07:31 Collins: Apollo 8, Houston.
+004:07:32 Borman: Go ahead, Houston. Apollo 8.
+004:07:34 Collins: We can give you a pitch gimbal angle on the radial direction if that would be a help. It's 181 degrees; pitch gimbal angle would be exactly radial at 4 hours and 10 minutes. I don't know whether that solves your visibility problem or not.
+Essentially, Collins is saying that if they manoeuvre to show pitch of 181° on the FDAI, then in two and a half minutes, they will be exactly pointing at the Earth. The implication from this is that an FDAI is displaying their attitude with respect to the local horizontal.
+004:07:46 Borman: 181?
+004:07:47 Collins: That's affirmative.
+004:07:49 MCC: Go ahead, SPAN.
+004:07:54 Borman: Well, that zero would be just as good, wouldn't it?
+Frank seems to be suggesting that they could point directly away from the Earth, and make the opposite burn with the same result. This may keep the S-IVB in sight. He may be thinking out loud.
+004:08:05 Collins: Frank, if you use zero, then make the Sep if possible with the plus-X thrusters. That's the direction of the burn we'd like.
+004:08:13 Borman: Well, I can't do that. I'll thrust right square into that S-IVB.
+Frank's implication is that the spacecraft is between the S-IVB and the Earth.
+004:08:16 Collins: Yeah, okay, understand,
+004:08:21 Borman (onboard): What effect...
+004:08:22 Borman: What it is - what will he [the S-IVB] maneuver to, as far as the gimbal angle for this blowdown? [Long pause.]
+004:09:03 Collins: Apollo 8, Houston. At blowdown, that S-IVB should be oriented to perform a retrograde blowdown along the local horizontal.
+When it vents the LOX, it will do so against its direction of travel, slowing it down.
+004:08:58 Lovell (onboard): [Garble] that S-IV ought [garble].
+004:09:14 Borman: Okay.
+004:09:22 Collins: Is it still chasing? Does it look like it is closing on you, Frank?
+004:09:25 Borman: It is about the same. The trouble is it is pointed at us pretty well.
+004:09:30 Collins: Rog. Understand. [Long pause.]
+004:09:52 Borman (onboard): So...
+004:09:58 Borman (onboard): Has it maneuvered yet?
+004:10:01 Borman (onboard): No.
+004:10:00 Collins: Frank, what we want to do is get a radial upward burn; and as long as you can, through the optics or some other means out the window, figure out where the Earth is, then use the appropriate thrusters to thrust upward, radially upward for 3 feet per second. That's what we are looking for, for trajectory reasons.
+004:10:18 Borman: Okay. Understand. I just - as I say, I just can't very well do that now. I don't want to lose sight of this S-IVB.
+004:10:26 Collins: Rog. We concur with that. I just thought perhaps Jim, through his optics, or you could get some feel for where the Earth is. That's what we want to do, is radially upward.
+During NASA's previous manned project, Gemini, attitude references were based on the ground below and crews tended to think in terms of relationship to their local vertical; up/down, left/right, forward/aft. Mike Collins' reference to "radially upward" may be a carry-over from this time. During the coast between Earth and Moon, such concepts are less relevant.
+004:10:35 Borman: Okay. As soon as we find the Earth, we'll do it.
+004:10:37 Collins: Thank you. [Long pause.]
+004:10:38 Anders (onboard): [Garble] would you please pitch outside?
+004:10:44 Lovell (onboard): No, the Earth's below us, now.
+004:10:49 Anders (onboard): Why don't you roll to your left? That way, you could put the Earth out of your [garble].
+004:10:56 Borman (onboard): Do you see the Earth with your sextant, Jim?
+004:10:58 Lovell (onboard): No, I don't [garble] S-IVB [garble].
+004:11:03 Borman: Houston. The venting on the S-IVB is terminated.
+004:11:08 Collins: Roger. Thank you.
+Comm break.
+This is the end of the nonpropulsive LH2 vent.
+004:11:28 Lovell (onboard): I think you ought to roll [garble].
+004:11:49 Lovell (onboard): [Garble] should be right on the optics.
+004:13:27 Borman (onboard): I'm not getting a zero, [garble].
+004:13:53 Collins: Apollo 8, Houston.
+004:13:55 Borman: Go ahead, Houston. Apollo 8.
+004:13:56 Collins: Rog. Frank, do you think you are going to be able to do this burn radially? We would like to add to its magnitude if you are going to make it in some other direction. Over.
+004:14:08 Borman: Well, I'm - I'm not even sure we're going to do it yet, Mike. If I can get - we seem to be drifting away from this thing a little bit, although it is still pointing at us quite closer than I'd like.
+004:14:20 Collins: Roger. Understand. [Pause.]
+004:14:25 Collins: Apollo 8, Houston. We would like you to do some additional maneuver; it's just a question of how much and in which direction.
+Mission Control accede to Frank's wish to keep the S-IVB in sight. As long as they know the duration and direction of a burn, then any separation burn is possible. The SPS can be used later to return them to the most desirable trajectory.
+004:14:33 Borman: Okay. Well, right now, our gimbal angles are about - roll's about 190 and pitch is about 320 and yaw is about 340. We could certainly do it in this position. That would be alright.
+004:14:51 Collins: Stand by. We'll check those.
+Comm break.
+004:15:30 Borman (onboard): And it started to [garble].
+004:15:40 Borman (onboard): How high are the temperatures, Jim?
+004:16:05 Lovell (onboard): Hey, you started to [garble] there, huh?
+004:17:06 Lovell (onboard): [Garble] which way it's going to pitch with respect to the Earth.
+004:17:06 Collins: Apollo 8, Houston.
+004:17:09 Borman: Go ahead, Houston. Apollo 8.
+004:17:11 Collins: Rog, Frank. You could help us out if you would explain where you are relative to the booster. In other words, with respect to the Earth and the radius vector, are you above or below or to one side, or where exactly is the booster relative to you?
+004:17:27 Borman: Well, the trouble is, as I said before, we can't definitely find the Earth. I think we are in front and a little bit above - a little bit above the - almost in front of the - directly in the front of the booster.
+004:17:41 Collins: Roger. Understand; almost directly in front of the booster.
+004:17:45 Borman: Perhaps a little bit horizontally displaced toward the - let's see...
+004:18:02 Lovell (onboard): The Earth should be right over there. Is the Earth over there?
+004:18:09 Lovell (onboard): Okay, we'll take it to the other side. We don't know [garble].
+004:18:21 Borman: Houston, to help you, we're looking right directly above the S-IVB with - the Sun is - it's on the right side of the S-IVB and on our - coming in our left number 1 window.
+Mission Control know that since the Moon is just past new, the Sun is only a few degrees away from it. The Earth is almost opposite the Sun. If the Sun is shining in their number 1 window, the Earth will approximately be on the opposite side of the spacecraft. Window 1 is on the Commander's side, to the upper left as the crew sit facing forward. The Earth is therefore to their lower right.
+004:18:34 Collins: Okay. Understand; the Sun is on the right side of the S-IVB and coming in your number 1 window. And are you - when you give us those angles, that means that your plus-X axis is pointed at it with those angles. Is that affirm?
+004:18:47 Borman: Rog.
+004:18:48 Collins: Okay. [Pause.]
+004:18:52 Lovell (onboard): Oh, here it is. There's the Earth over here [garble].
+004:18:54 Borman (onboard): To the right?
+004:18:55 Anders (onboard): Yes, the Earth's kind of low. That will be - It's in our plus-Y, plus-Z direction.
+004:19:04 Borman: The Earth is in our plus-Y, plus-Z direction now, Mike.
+004:19:09 Collins: Thank you. Earth is plus-Y, plus-Z.
+004:19:12 Borman: Right, and a little minus-X.
+004:19:16 Collins: Okay.
+Comm break.
+This direction is almost exactly opposite window 1.
+004:19:24 Anders (onboard): [Garble], do you want to do a realign?
+004:19:36 Lovell (onboard): GDC align, IMU is [garble].
+004:20:13 Anders (onboard): What did you do? Did you do the P50 [means P52 realignment]?
+004:20:15 Lovell (onboard): Yes.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 4 hours, 21 minutes into the flight. In the last half an hour, we've had a very interesting interchange with the crew. They've given us a good description of what has been going on; but more than that, we've been occupied with trying to understand what a proper maneuver would be to give us added separation from the S-IVB. Borman reported some 15 to 20 minutes ago, that he thought the S-IVB was staying a little bit to close for comfort. He estimated that its distance from the spacecraft, 500 to 1,000 feet, and he said he was viewing quite a lot of venting, not propulsive venting, but just great clouds of venting coming from the S-IVB. He later reported that it stopped. In the course of the last 20 to 25 minutes, we have been playing music on the VHF by VHF out of California, and the crew reports Herb Alpert sounds great. It's being beamed to him just a little bit north of his native Tijuana. So that system, we're trying to find out just how far out in space the VHF will carry. Certainly the quote that stopped us all, more so than anything else came from Borman. I'm sure it was by accident, but at one point he, in trying to configure for a slight burn to give him added separation from the S-IVB, Borman says 'as soon as we find the Earth, we'll do it', and that - that brought a loud clap of laughter here. Here's quite a lot of tape going back over the 17 or 18 minutes.
+004:20:52 Lovell: Houston, for information, I'm looking through the scanning telescope now, and I see millions of stars; most of them - the venting from the S-IVB.
+004:21:02 Anders (onboard): There you are, Frank.
+004:21:04 Collins: Right. Are you having any trouble telling which are the stars and which are the S-IVB particles?
+004:21:09 Lovell: Oh yeah, definitely. We are in sunlight, and it looks like they are all S-IVB, but we don't know. I am going to attempt a P52 realign at this time and see what I can do.
+004:21:18 Collins: Understand you.
+Long comm break.
+Platform realignment becomes very tricky when there are other small particles in the vicinity of the spacecraft which catch the Sun and make star recognition difficult.
+004:21:22 Borman (onboard): Let me talk about the [garble].
+004:22:31 Anders (onboard): Are you through with this?
+004:22:37 Anders (onboard): Jim always falls that way.
+004:24:28 Lovell (onboard): Okay, two balls 54. You see, when you read them [garble] three balls [garble] minus 00086, plus 00141, [garble]. Okay, [garble].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:26:37 Borman: Mike, anything more on this separation maneuver you're on?
+004:26:41 Collins: We are working on it, Frank. We're trying to compute what radially outward will be in close terms. Now, you still have the Earth - as I understand plus-Y and plus-Z quadrant. In other words, it's down below you on your right and slightly to your rear? Is that still true?
+004:26:59 Borman: That's right. Quite a bit to our rear and down below us. Off to the right.
+004:27:03 Collins: Okay. Well, we - of course, in that attitude, you want to burn some upward and some to the left, and we are trying to be more precise than that. [Pause.] Frank, is it still about the same distance away? Are you opening or closing?
+Upward and to the left is a direction opposite to the Earth. Mission Control are working out a manoeuvre that will translate the craft in a direction opposite the Earth, yet still keep it pointing at the S-IVB.
+004:27:17 Borman (onboard): [Garble] of us and slightly below us.
+004:27:23 Borman: It sure is staying close to us.
+004:27:25 Collins: Understand. [Long pause.]
+004:27:27 Borman (onboard): Jim, doesn't it look slightly below us and slightly?
+004:27:55 Lovell (onboard): Which way does the - Does anyone know which way the S-IVB pitches?
+004:28:03 Borman: Mike, can you just tell us which way the S-IVB pitches and how far it'll pitch to the sling shot maneuver attitude?
+004:28:11 Collins: Roger. Stand by. [Long pause.]
+004:28:46 Collins: Frank, your S-IVB is within 10 degrees of its final attitude at this time.
+This is all the more reason for Frank to want to get the spacecraft out of the way.
+004:28:52 Borman: Okay. Thank you. [Pause.]
+004:29:00 Anders: Houston, you ready to copy the IMU align information?
+004:29:03 Collins: Go ahead.
+004:29:05 Anders: Alright. Star ID is 03, and star 36, star angle difference 0.01, torquing angle; X, minus 00034; Y, minus 0027; Z, plus 00100. Over.
+004:29:33 Collins: Okay. Thank you. For Y, I just got four digits here: 0027.
+004:29:39 Anders: Roger. Three zeros: 00027.
+004:29:43 Collins: Thank you.
+This is the second realignment of the platform since launch and the first since TLI. Jim has used the stars Navi and Vega to let the computer work out how much to move the gimbals and regain correct alignment.
+Now Vega, the prime star of the constellation of Lyra, has an ancient name that comes from Arabic astronomy. Navi, on the other hand, is one of three bright stars in the Apollo list that had no common name and so were given names by the Apollo 1 crew, derived from the crew members themselves. Navi is Gus Grissom's middle name, Ivan, spelled backwards. It is the middle star of the "W" shape of Cassiopeia and is also known as Gamma Cassiopeiae. The other two stars names by the Apollo 1 crew are Dnoces ("second" spelled backwards) for Edward White II, and Regor ("Roger" spelled backwards) for Roger Chaffee. Though these names were entirely unofficial, they have found their way into astronomical literature.
+Other points to note from the realignment are that Jim measured the angle between the two stars with an accuracy of 0.01°, a good sighting, and that the gimbals that support the platform had to be rotated by 0.034°, 0.027° and 0.1° in the X, Y and Z axes respectively.
+004:29:46 Lovell: And Houston, we're going to have to hold up on the cislunar navigation until after this next little maneuver.
+004:29:53 Collins: Roger, Jim. We understand.
+Comm break.
+The need to hold attitude for a second separation burn precludes Jim commencing his cislunar navigation program.
+004:29:56 Lovell (onboard): What did you say your [garble] was?
+004:30:14 Lovell (onboard): [Garble] 00016 [garble].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:31:20 Collins: Apollo 8, Houston.
+004:31:22 Borman: Go ahead now, Mike.
+004:31:23 Collins: Could you give us an updated read-out of your gimbal angles. When your plus-X axis is pointed toward the booster, please?
+If they point the spacecraft at the booster and read out their gimbal angles, Mission Control can get a good idea of how the two vehicles are placed with respect to the Earth.
+004:31:29 Borman: Rog. Stand by.
+Comm break.
+004:33:48 Lovell (onboard): Okay.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:34:08 Collins: Apollo 8, Houston.
+004:34:10 Borman: Go ahead, Houston.
+004:34:11 Collins: Could you give us those gimbal angles, Frank, when you have a chance?
+004:34:13 Borman: I'm getting the COAS right on it now so it'll be accurate.
+The function of the COAS (Crew Optical Alignment Sight) is to give the crew a fixed line of sight that is parallel to the spacecraft's X-axis. If Frank manoeuvres the CSM to sight the S-IVB through the COAS, he will be sure that the spacecraft is pointing accurately at the discarded stage. This will allow him to give accurate gimbal angles to Mission Control.
+004:34:17 Collins: Thank you. [Pause.]
+004:34:27 Borman: Okay. With the COAS right on the S-IVB, the roll reads 105, the pitch is 275, and the yaw is about 325.
+004:34:46 Collins: Roger. Copy roll 105, pitch 275, and yaw 325.
+004:34:52 Borman: Roger. That should be 115 for the roll.
+004:34:55 Collins: Thank you. 115 roll. [Long pause.]
+004:35:52 Anders: Houston, Apollo 8. Over. [Pause.]
+004:35:58 Collins: Apollo 8, Houston. Go ahead.
+004:36:00 Anders: Roger. If it will help you any, Mike, the Earth is plus-Y about 45 degrees in a minus-X. I can see it out my side window, and it's a beautiful view with numerous cloud vortex.
+Based on evidence that is admittedly a little loose, this may be the time when an excellent whole Earth shot is taken, presumably by Bill. If so, It would give him the distinction of being the first human to directly photograph Earth in a single frame.
+AS08-16-2593 - Whole Earth favouring South America. This is the first image of the whole Earth taken by a human in space - Image by NASA/Johnson Space Center.
+South is approximately to the right and the image favours South America. Central America and Florida is towards the bottom of the image with the west coast of Africa at top left.
+The diameter of Earth's image in this shot compared to the size of frame suggests it was taken about 33,300 kilometres out. Here's how this was arrived at. In the high resolution scans made by JSC, the whole height of an imaged frame is 4177 pixels, measured using one of the later shots on the film, AS08-16-2615. The Earth image on 2593, after a small rotation to ensure measurement across the limb, is 2,304 pixels, a factor of 0.5516 smaller. A negative from a Hasselblad 500C camera was measured to have a vertical height of 55.5 mm. If this is the same for the camera used on Apollo 8, then the image of Earth should have been 30.6 mm across on the film. We can use an equation to determine the angle that Earth subtended at the time the photo was taken. This is "angle = 2arctan(dimension/2 times focal length)". This works out at 21.66°. Since we know Earth's radius to be 6,371 km, basic trigonometry gives us a distance of about 33,300 km. However, that is the distance to the limb, not to the sub-spacecraft point on Earth. For that we deduct the planet's radius which yields approximately 27,000 km.
+The next picture in the sequence, 2594, has a similarly sized partial image of Earth and it is reasonable to assume that it was taken at about 004:55:12. It seems to be Frank's attempt to capture both Earth and the S-IVB at the same time. However, direct comparison of 2594 with 2593 shows a substantial size difference that suggests some minutes have passed. Further, inspection of the terminator shows that some rotation of Earth between the two images, very roughly of the order of 20 minutes.
+Bill occupies the right-hand seat and has use of window 5. Being on the right, this window can view objects that are oriented about the spacecraft's plus-Y axis and, perhaps with the help of a mirror, he will have some visibility to the rear.
+004:36:15 Collins: Roger, Bill. Thank you. Understand; plus-X 45 degrees between - halfway between plus-Y and plus-Z and slightly minus-X.
+Collins has got the coordinate system somewhat confused.
+Diagram of the relationship between CSM's coordinate system, the S-IVB and Earth.
+This diagram tries to make clear what Bill is explaining to Mike Collins. It shows the relationship between the CSM, which is pointing at the S-IVB, and Earth.
+004:36:26 Anders: Negative. It's 45 degrees in the plus-Y, in the X-Y plane towards minus-X. Over.
+004:36:37 Collins: Rog. Understand in the X-Y plane, toward X, 45 degrees.
+004:36:43 Anders: Forty-five degrees from plus-Y to minus-X.
+004:36:48 Collins: Roger. Thank you.
+004:36:51 Anders: It's behind us to the right, if that'll help.
+004:36:54 Collins: Roger. [Long pause.]
+004:37:15 Borman: I can still see the Cape and isthmus of Central America.
+004:37:22 Collins: Rog. Understand. Frank, what we want on this burn is 8 feet per second now, 8 feet per second. We want it radially upward, and we want you to use whatever thrusters are required to burn radially upward at 8 feet per second.
+004:37:37 Borman: Why do you want to use - do so much, Mike?
+004:37:42 Collins: Because of the separation distance we would like to achieve between now and the time of S-IVB blowdown.
+004:37:53 Borman: Okay.
+Comm break.
+Mission Control appear to have decided that since the CSM is evidently not directly between the S-IVB and Earth, it is safe to do a separation burn directly away from the planet.
+004:37:55 Anders (onboard): Why don't you attempt to yaw - Yaw right [garble]. See the Earth [garble].
+004:38:16 Anders (onboard): No, all you got to do is just [garble] yaw - yaw to the right, and, you'll be [garble] You'll be over in this direction [garble].
+004:38:56 Borman: Mike, do you want me to go ahead and try to do this, or are you going to give us some gimbal angles?
+004:39:05 Collins: Apollo 8, Houston. If you can go ahead and do it without gimbal angles, if you can do that. Over.
+004:39:11 Borman: Okay. I don't understand why you want so many feet per second on it, but I think I can - with just a little maneuvering, I can get away from it a lot simpler than that.
+004:39:22 Collins: Well, we'd like the radial upward for trajectory reasons, and the magnitude we'd like because of the separation distance which we're predicting you will have at S-IVB blowdown.
+004:39:31 Borman: Okay. [Long pause.]
+004:39:54 Borman: VHF sounds good.
+004:39:57 Collins: Roger. On the VHF.
+Comm break.
+004:40:02 Borman (onboard): Could you yaw about 10 degrees to your - your left?
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:41:25 Borman: Omni-B.
+004:41:27 Collins: Understand; Omni-B Baker. [Long pause.]
+While the redundant VHF system becomes progressively less useful, communication with Earth continues to be exclusively through the S-Band system. Two antenna systems are associated with this; the HGA, which was discussed earlier, and the four omni-directional antennae. These four antennae are distributed equidistant around the periphery of the Command Module. Despite their name, their radiation pattern is not really omni-directional, but rather hemispherical as the structure of the CM gets in the way. As a result, four of them are required to give good coverage on all sides.
+No more than one omni is ever in use at any time and two switches on panel 3 allow the crew to switch between the HGA and any one of the omnis. In later missions, when the crew went to sleep at the same time, Mission Control could use a facility whereby if the crew selected Omni-B, the ground could remotely switch between it and Omni-D, the antenna on the opposite side of the spacecraft. This allowed continuous monitoring of the spacecraft, even when the HGA was not in use.
+While the HGA allowed high data rates from lunar distances, the omnis could only manage low data rates unless they were relatively near the Earth.
+004:41:59 Collins: Apollo 8, Houston.
+004:42:01 Anders: Go ahead, Houston. Apollo 8.
+004:42:03 Collins: Rog. About 12 minutes before your big blowdown, there is a small continuous vent which opens at a GET of 04:55:55. You may notice that on the booster, 12- or 15-pound thrust.
+004:42:19 Anders: Okay.
+004:42:25 Collins: And, Apollo 8, could you give us your burn information whenever you have it?
+004:42:30 Anders: Roger. We're maneuvering to the attitude now.
+They are manoeuvring to point directly away from the Earth, prior to making an 8 fps (2.4 m/s) burn.
+004:42:33 Collins: Okay. [Long pause.]
+004:43:10 Lovell (onboard): That look pretty good now?
+004:43:12 Borman (onboard): Yes.
+004:43:18 Borman: Okay. Houston. I understand you want 8 feet per second burn, is that right?
+004:43:21 Collins: Right. Eight feet per second, radially upward.
+004:43:33 Borman: Well, we are as close to being radially upward as we can determine.
+004:43:36 Collins: Roger. [Long pause.]
+004:44:03 Collins: Apollo 8, Houston. Are you going to use P47 to monitor the burn?
+004:44:07 Borman: Yeah, Roger. We're putting it in now.
+004:44:09 Collins: Thank you. [Long pause.]
+004:45:05 Borman: Maneuvering now.
+004:45:06 Collins: Thank you. [Long pause.]
+004:45:46 Anders (onboard): Okay, why don't you... window and do that P47?
+004:45:54 Borman: Houston, we made the burn at 7.7 plus-X, plus 00001 Y, and Z's are all zeros. The gimbal angles: roll, 180; pitch, 310; and yaw, 020.
+004:46:19 Anders (onboard): Okay, Frank, whenever you're ready [garble].
+004:46:19 Collins: Rog. I copy plus-X, 7.7; Y, 0.1; and roll, pitch, and yaw 180, 310, and 20.
+004:46:30 Borman: Did you get that information, Houston?
+004:46:33 Collins: Apollo 8, Houston. How are you reading?
+004:46:36 Borman: Read you loud and clear. Did you get the information?
+004:46:38 Collins: That's affirmative. I say again, we copied plus-X, 7.7; one-tenth in Y, no Z; roll, pitch, and yaw; 180, 310, 020.
+004:46:52 Borman: Roger. [Pause.] The burn was made at - initiated at 04:45.
+004:47:06 Collins: Roger. Copy 04:45 TIG. [Long pause.]
+The burn was monitored using program 47 in the computer. With the CSM pointing away from the Earth, they fired those thrusters that point in the same direction as the large engine bell, adding 7.7 fps (2.3 m/s) along their longitudinal, or plus-X axis. They also showed 0.1 fps (0.03 m/s) added along the plus-Y axis (to their right). Their attitude in roll, pitch and yaw was 180°, 310°, and 20° respectively. At the time of writing, it has not been possible to determine the reference orientation against which these angles are measured.
+Borman, from the 1969 Technical Debrief: "One item that we had a little difficulty with was evasive maneuvers. In order to orient myself or the spacecraft, toward the center of the Earth, we lost sight of the S-IVB. When we thrusted back 1.5 feet per second and re-acquired the S-IVB, we found that we were not separating from the S-IVB as expected. This resulted in some concern, and actually a delay in starting PTC [Passive Thermal Control] as required by the Flight Plan for the translunar portion of the flight. We ended up doing a 9-foot-per-second evasive maneuver which was considerably greater than planned. But, this was effective in providing separation between the S-IVB and the spacecraft. The S-IVB prior to the slingshot maneuver was extremely stable during venting. It was very apparent that the S-IVB did not move."
+Lovell, from the 1969 Technical Debrief: "A suggestion that we have concerning the evasive maneuver appropriate for future spacecraft is having the LM's attached. Get close enough to the S-IVB after the docking has been accomplished so that the Earth and the S-IVB are both in sight. Then do your evasive maneuver by backing away, say, from the center of the Earth and always keep the S-IVB in sight. Then you can assure yourself of adequate separation."
+Borman, from the 1969 Technical Debrief: "I think, in reality, it may be more appropriate to just fly to a predetermined angle on the eight ball, and provide Delta-V in that respect. When you have a LM on the front trying to find the center of the Earth is going to be very impractical. So what you probably ought to do is fly to a predetermined attitude and apply the proper Delta-V."
+Computations about the spacecraft's trajectory are made using mathematical models which necessarily simplify what is happening in reality. Therefore, when calculating their closest approach to the Moon based on their trajectory at TLI, the computers blankly return a value of minus 130.2 nautical miles (-241.1 km). These machines have no concept that this figure is actually deep within the Moon itself! After the first separation manoeuvre, their calculated closest approach (or pericynthion as it is known to the people of Apollo) becomes plus 1.5 km, skimming the lunar surface. This latest burn of only 7.7 fps has raised their calculated pericynthion to 848.4 km.
+At this early stage of the flight, not only are the effects of small velocity changes profound, so are the effects of inevitable errors in the determination of their velocity and position. As both the ground and Jim check and update the spacecraft's state vector, the effects of these errors will minimise and further manoeuvres will be made to bring their final approach to the desired pericynthion of 110 km.
+004:47:15 Anders (onboard): We're in good shape. Roll right. [Garble] back where the Earth used to be.
+004:47:30 Borman: Okay. Do you want us to transfer that to the CS - to the LM state vector or just leave it alone, Houston?
+004:47:39 Collins: Affirmative, Frank. We'd like you to transfer from the CSM to the LM state vector.
+The time taken for their second separation manoeuvre has put them nearly an hour behind their schedule. This has little impact on the mission progress as they are on a three-day coast to the Moon. The instruction to transfer the CSM state vector to the LM slots in memory was just prior to 4 hours GET.
+004:47:43 Borman: Roger.
+Comm break.
+004:47:45 Anders (onboard): You got Verb 66 entered?
+Verb 66 is the command to copy the CSM state vector across.
+004:48:59 Borman (onboard): You still got it [the S-IVB], Bill?
+004:49:04 Anders (onboard): We're going right to it. (Garble.)
+004:49:14 Borman (onboard): Can you roll at all?
+004:49:19 Anders (onboard): Huh? I don't want to.... now.
+004:49:44 Anders (onboard): It's about - in the XYZ plane, it's about 10 degrees [garble]. Yes, right out here [garble].
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+And this is Apollo Control. That brings us up to the live action at 4 hours, 49 minutes into the flight. You heard Jim Lovell say we'd have to postpone his navigation - cislunar navigation task which involved plotting several stars, which had been planned during this last half hour and in its place went the separation maneuver, an 8-foot-per-second separation maneuver to ensure adequate separation from the S-IVB. In the course of the last half hour, we lost, the ground lost lock with the beacon on the S-IVB. That was a VHF beacon. Our present altitude, their distance from Earth is 17,200 [nautical] miles [31,850 km] and they're still hearing VHF, which is being piped music via VHF out of the Goldstone, California, station. Now we're asking them again about the booster. Let's listen.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:50:33 Collins: Apollo 8, Houston.
+004:50:35 Borman: Go ahead, Houston. Apollo 8.
+004:50:37 Collins: How's that booster looking now? Is it drifting away rapidly, or how does it look?
+004:50:41 Borman: Bill's the only one that can see it. Just a minute.
+004:50:45 Borman: We're 90 degrees from its X-axis, and we must be out 1,000 feet [300 metres] and moving out.
+004:50:33 Collins: Roger. Understand; 90 degrees from its X-axis and about 1,000 feet and separating.
+004:50:59 Anders: Plus or minus a couple of thousand.
+004:51:03 Collins: Understand. [Long pause.]
+004:51:58 Borman: Houston, this is Apollo 8. I think we've got clearance now; we got a little behind on our P23s, but I suggest we go ahead and start those now.
+004:52:06 Collins: Roger. Stand by. [Long pause.]
+Apollo Control here. As we started to say, the distance from Earth, 17,400 [nautical] miles [32,200 km]. Our velocity now has slowed in relation to the Earth down to 14,384 feet per second [4,384 m/s] and constantly slowing. We just heard from the Command Pilot [means Commander] and he says they will resume the Flight Plan now with their navigation tasks. At 4 hours and 52 minutes into the flight, this is Apollo Control, Houston.
+"Command Pilot" is terminology from the Gemini program. Apollo 8 is only the second manned Apollo flight and the PAO announcer may have slipped into old habits when referring to Frank.
+004:52:38 Borman: We're well clear of the S-IVB now, Houston.
+004:52:40 Collins: Roger, Bill. Thank you, and at your convenience, could you give us the PRD reading?
+Over the last hour or so, Apollo 8 has passed through the Van Allen Belts. These were discovered by Explorer I in 1958 and named after the Principal Investigator of the radiation detection experiment, James van Allen. They consist of two belts around the Earth where charged particles, mostly protons and electrons from the Sun and deep space, become trapped by Earth's magnetic field. They oscillate from pole to pole as they spiral around the magnetic field lines. The lower belt extends from about 1,000 to 5,000 km and the upper belt from about 15,000 to 25,000 km.
+Apollo 8 is the first manned mission to traverse these belts and there is much interest in the radiation dosage the crew receives. For this, each crewmember carries a PRD (Personal Radiation Dosimeter and Collins would like a reading from each. The crew can keep these in pockets either on their suits, or on the constant-wear garments they have on under their suits. In addition, they wear three passive film dosimeters which will be developed after the flight to measure cumulative dose. These are placed at their chest, thighs and ankles. A radiation survey meter is kept within the spacecraft beside the optics and two more meters are mounted in the CSM structure which telemeter their data to Earth.
+Collins (continued): And as far as the P23 goes, that's just fine to get started with it. It looks like your first star, which is number 14, should be good until about 05:15 GET. Over.
+004:53:02 Lovell: Roger. We'll start P23.
+Comm break.
+It is one of the beautiful truisms of Apollo that each voyage was, to some extent, guided across the sea of space by the same stars that the great explorers navigated by for hundreds of years before. It is the unchanging nature of the stars, at least as far as the journeys of humans are concerned, that make them so suitable in the role of guidance and navigation.
+Apollo's system for navigating by the stars was developed at the Massachusetts Institute of Technology (MIT) under contract from NASA. Derived from systems already implemented in intercontinental missiles and circumnavigating submarines, it uses a gyroscopically stabilised platform to measure orientation and acceleration, and thus velocity and position. Given a known starting point, it can derive a knowledge of all subsequent movements due to powered flight. Then, in the realm of interplanetary travel, where gravity rules and spacecraft coast along on free-fall trajectories, the computer can calculate the spacecraft's flight path, given a knowledge of celestial bodies like the Earth and Moon and their gravitational effects. However, there must be a means of checking that the correct trajectory is being followed. Small errors early in a flight path tend to mount as the great distances are traversed.
+Apollo was originally conceived in the distrustful early years of the Cold War when it seemed to the designers that there was every chance the Soviet Union might try jamming any radio communications between the ground and a Moon-bound spacecraft. Also, in the early 1960s, techniques for Earth-based tracking of Moon-bound spacecraft were in their infancy. It was considered that navigation would be a crew task. By the time Apollo 8 came to launch, experience had been gained in ground-based radio and radar tracking with the flights of the Ranger, Surveyor and Lunar Orbiter probes. Tracking from Earth became the prime navigation method. However, navigation sightings carried out by the crew would provide a cross-check of the trajectory and provide a backup in case the crew lost radio contact with the ground. Apollo 8 is NASA's first opportunity to prove that onboard celestial navigation works. Neil Armstrong who was the backup Commander for Apollo 8, spoke about the fears that this flight would hold for a pilot during an oral history interview given on 19 September 2001 with historians Dr. Douglas Brinkley and Dr. Stephen E. Ambrose.
+Brinkley, from 2001 oral history interview: "What immediate new concerns would somebody like yourself have, let's just say that you're a pilot, a top-flight pilot would have about leaving Earth's immediate gravitational influence? What would frighten a pilot about that?"
+Armstrong, from 2001 oral history interview: "Well, I suppose that everyone would have concerns, but I don't know that they'd all be the same. People would worry about different things. I remember that one of the things that I was concerned with at the time was whether our navigation was sufficiently accurate, that we could, in fact, devise a trajectory that would get us around the Moon at the right distance without, say, hitting the Moon on the back side or something like that, and if we lost communication with Earth, for whatever reason, could we navigate by ourselves using celestial navigation. We thought we could, but these were undemonstrated skills."
+Brinkley, from 2001 oral history interview: "That's something to think about. [Laughter]"
+Ambrose, from 2001 oral history interview: "You've got me thinking about - [unaware that navigation is carried out using dedicated inbuilt optical instruments] you didn't have a very big window to look out of to do celestial navigation."
+Armstrong, from 2001 oral history interview: "NASA's probably the only organization in history that's been sold a one-power telescope. And that's what we used for doing the sextant shots and doing the star shots."
+It is worth mentioning here that while the scanning telescope is indeed a one-power instrument, the sextant had a magnification of 28 times.
+The Command Module Pilot is the navigator on board Apollo. It is his responsibility to make sightings with the sextant that help define where the spacecraft is, how fast it is travelling and where it is headed. Jim is the first human to demonstrate this technique in what is essentially a test of Apollo's navigational abilities. He uses Program 23 in the computer to achieve this and the result is a more accurate state vector and a better idea of whether they will arrive at their destination as they expect.
+Imagine the Earth-Moon system with an Apollo spacecraft one day out from Earth:-
+Diagram to explain the geometry of P23 navigation sightings.
+The spacecraft is coasting along on a trajectory which depends on the engine burns that propelled it earlier in the flight. At any particular moment in time, the spacecraft will be in a certain position and it will have a certain velocity. If the trajectory were any different, the position and velocity at the same moment in time would be different. Therefore, position is one of the parameters dependant on their trajectory and measuring it will help pin down the true nature of their flight path. An indirect way of measuring position is to measure the angle between a star and the horizon of the Earth or Moon. The exact value of this angle at a particular moment in time is entirely dependant on their trajectory. Were the trajectory to be substantially different, the angle would also be different.
+Since the trajectory is defined by the state vector (i.e. their position and velocity at a particular time) the computer can use an Earth/star angle or a Moon/star angle to calculate a current state vector. Multiple sightings are used to refine the vector by averaging out the errors inherent in the measurement.
+Once he gets past some initial calibration problems, Jim will make 11 separate measurements in this, his first tranche of P23 sightings. He will measure the angle between Canopus (Alpha Carinae) and that part of Earth's horizon nearest the star. One of the difficulties he faces is that the limb of the Earth does not present a solid edge. The atmosphere softens the transition from Earth's surface to the black of space and currently, ground controllers are unsure at what height above the true horizon Jim will tend to mark. Prior to launch, Jim spent some time in a navigation simulator at MIT in an attempt to calibrate the horizon he prefers. These simulations showed he could consistently mark 17.7 nautical miles (32.8 km) above the true horizon and the computer within Apollo was configured to take account of this.
+The purpose of these first P23 sightings is only to compare Jim's navigation with that determined by tracking from Earth, so as to derive an estimate of the horizon Jim is actually marking on when faced with a real Earth. Controllers will come up with a figure of 9.8 nautical miles (18.2 km, later revised to 12.4 nautical miles (23 km)) and the computer will be updated with this figure.
+Lovell from correspondence with Journal contributor Dave Hardin: "As best as I can recall these Earth horizon sightings were to determine how navigations could determine the actual or surmised Earth's horizon. The idea was to place the sextant's cross hair on the horizon over a period of sightings. The resulting surmised horizon would then be used for horizon - star navigation (similar to shipboard navigation). Actually the Apollo flights relied on the ground to navigate and keep track of our position. The navigation basically used only star sighting to correct the drift of the guidance gyros. At a long distance in our Apollo flights, the atmosphere was insignificant. I placed the center of the crosshair of the sextant directly on the Earth's horizon. In Gemini flights the atmosphere represents about a half of degree and this has to be factored in when taking sightings."
+004:54:18 Anders: Houston. Apollo 8 with a PRD reading.
+004:54:21 Collins: Go ahead.
+004:54:23 Anders: Roger. At 4 hours, 4 minutes; Commander is 0, CMP 0.64, LMP 0.02.
+004:54:34 Collins: Got that. Copy left to right: 0, 0.64, and 0.02 at 4 hours and 4 minutes. Thank you.
+004:54:43 Anders: Roger. At 04:53, it was 0.01, 0.64, 0.03, and negligible on the survey meter.
+004:54:53 Collins: Roger. Thank you. [Long pause.]
+Journal Contributor Dave Hardin - "In the Apollo 8 context we find ourselves examining, between 4:04 and 4:54 GET and the passage through the van Allen Belt, Frank and Bill's dosimeters have each moved ahead by one in the last digit, signifying 0.01 rad. Somehow, Jim has escaped this, as his dosimeter held at 0.64. (Why? I have the impression Jim was down in the LEB during much of this time, from the transcripts. Is he somehow better shielded down there and that's the reason? You probably could not venture to say without more research.) In any event, I asked my wife, who is a registered nurse, for information on radiation dosages. We consulted her source books and the amount of exposure from the average chest x-ray, 0.1 rad, is ten times the amount which Frank and Bill experienced between 4:04 and 4:54. And humans pick up .2 to .3 a year just living here on Terra Firma.
+004:55:12 Borman: I have a beautiful view of the S-IVB and the Earth here in one. I'll try and get a picture for you.
+004:55:18 Collins: Hope so. [Pause.]
+Frame AS08-16-2594 on magazine A, shows cropped images of the S-IVB and Earth on opposite sides as Frank tries to get both into a single shot. Unfortunately, the 80-mm lens attached to the Hasselblad camera does not have a particularly wide field of view (38.26° vertically and horizontally) he is unable to fully capture both.
+AS08-16-2594 - Earth and S-IVB, both cropped at the edge of frame - Image by NASA/Johnson Space Center.
+AS08-16-2594 with expanded image of the S-IVB which was cropped at the edge of frame.
+004:55:27 Collins: Apollo 8, Houston. We've got you about a minute away from the Continuous Vent, Open, and 14 minutes away from the big dump, and we'd like an estimate on your distance now if you can give it.
+Mission Control are about to start venting the remains of the liquid hydrogen in the S-IVB's fuel tank. This vent will make little difference to the stage's trajectory.
+004:55:46 Borman: Stand by. Our distance is about 3,000 feet [900 metres] we'd estimate.
+004:55:50 Collins: Thank you. [Long pause.]
+004:56:38 Borman: And we can see the vent.
+004:56:44 Collins: Apollo 8. Houston. Say again.
+004:56:47 Borman: We can see the vent.
+004:56:49 Collins: Rog. Thank you.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+004:58:31 Lovell: Houston, Apollo 8.
+004:58:33 Collins: Go ahead, Jim.
+004:58:35 Lovell: Boy, it's really hard to describe what this Earth looks like. I'm looking out my center window, which is a round window, and the window is bigger than the Earth is right now. I can clearly see the terminator. I can see most of South America, all the way up through Central America, Yucatan, and the peninsula of Florida. There is a big swirling motion just off the East Coast, and then going on over toward the east, I can still see West Africa, which has few clouds right now. We can see all the way down to Cape Horn in South America.
+004:59:21 Collins: Good grief, that must be quite a view.
+004:59:24 Borman: Yeah. Tell the people in Tierra Del Fuego to put on their raincoats; looks like a storm is out there.
+004:59:31 Collins: Rog. Will do. Do you care to give them a 24-hour forecast?
+004:59:41 Borman: Probably as good as any other.
+Long comm break.
+The Flight Plan calls for Program 21 to be used by Jim to determine what the spacecraft's motion over the Moon will be at arrival. This will be delayed until 007:21:31 GET.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 5 hours, 3 minutes into the flight. The spacecraft is 18 - nearly 19,000 [nautical] miles [35,000 km] from Earth nearing the synchronous point, which it'll just dart on through, of course. Velocity continues to slow, it's now 13,860 feet per second [4,225 m/s]. In the last 10 minutes, we got another beautiful view type statement from the crew. We heard from both Lovell and Frank Borman, and the view indeed must be extraordinary. They described the cloud cover over Africa, over all of South America, and the effects over much of North America. Frank Borman issued a special little weather warning. He suggested the people in the Tierra del Fuego area at the tip of South America better get their rain coats out. Here's the tape of that conversation.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:05:13 Borman: Houston, Apollo 8.
+005:05:17 Collins: Apollo 8, Houston. Go ahead.
+005:05:22 Borman: Rog. You might be interested to know the center window is pretty well fogged up, but the other four seem to be in pretty good shape.
+The Apollo Command Module has five windows.
+AS17-145-22272 from Apollo 17 showing layout and numbering of windows on an Apollo Command Module.
+This image of Apollo 17's Command Module, America from frame AS17-145-22272 shows the location of all five windows. Windows 1 and 5 are approximately square panes and are flush with the CM surface. Windows 2 and 4 are the rendezvous windows and are recessed to allow them to face forward. Window 3 is circular (despite the squareish external appearance) and is built into the main hatch.
+During the flight of Apollo 7, the crew reported that three of their windows, 1, 3 and 5 had fogged up. On 19 November 1968, the problem was raised at a Flight Readiness Review for Apollo 8 and was believed to be due to silicon rubber sealant outgassing within the panes and condensing on the glass surfaces, or perhaps to moisture from crew urine dumps condensing on one of the panes. It is perhaps a sign of Apollo's hectic schedule that the reviewees deemed the problem acceptable for flight, probably because it did not impact on crew safety. However, the fogging of the windows will come to seriously affect the program of photography planned for lunar orbit requiring that the spacecraft be manoeuvred to aim the rendezvous windows at the target. This is a shame because one of Apollo 8's greatest rewards would be the imagery caught out of its windows.
+005:05:29 Collins: Glad to hear you've got four out of five [windows], and your big dump will be coming up in 2 minutes or so.
+005:05:35 Borman: Roger. We're standing by.
+Comm break.
+005:06:48 Borman: The S-IVB has started [to] dump. [Long pause.]
+According to the Flight Evaluation Report, issued by MSFC, the LOX dump was begun at 005:07:56, still a minute away. The S-IVB is roughly between the spacecraft and the Earth an slowing down with respect to it. However, Jim is about to try and sight on a star whose line of sight is not very far from Earth's and in about 8 minutes, the Earth will occult it. Floating particles from the dump are about to make his task much more difficult.
+As well as the LOX being dumped from the S-IVB, the remaining contents of the start bottle on the J-2 engine are also dumped at this time.
+005:07:19 Lovell: Houston, Apollo 8.
+005:07:20 Collins: Go ahead, Apollo 8.
+005:07:22 Lovell: Roger. Mike, did you say star 14 was good till about 05:30 or something?
+005:07:27 Collins: Yeah. Stand by while I give you that time again. Star number 14 should be good for about another 8 minutes, Jim - 7 minutes.
+005:07:41 Lovell: Okay. Now be advised, the optics calibration is very difficult to do because of all the other little stars floating around here. I'm going to [garble] bypass it and do it at the end of this.
+005:07:59 Collins: Roger, Apollo 8. Understand. [Pause.]
+Jim is electing to forego the first step in the P23 procedure which would calibrate the movement of the side-to-side part of the sextant, the trunnion.
+Like its Earth-based counterpart, the sextant has two lines of sight. The version used by sailors for hundreds of years works by the user viewing the horizon through a small telescope mounted on an arc which is one sixth of a circle (hence the name "sextant"). A mirror arrangement on a radial arm permits the image of a celestial body (the Sun, Moon or a star) to be aligned with the horizon through the eyepiece, the angle between the two being read off a scale at the circumference of the arc.
+Schematic of the Apollo Sextant optical system.
+The Apollo sextant works in much the same way, though with huge refinements. It also has a fixed and a movable line of sight. The movable line of sight can be swung up to 57° away from the fixed line of sight to yield the "trunnion angle" or the "navigation angle". The fixed line of sight (also called the Landmark Line Of Sight (LLOS)) has to be lined up on an object by controlling the attitude of the spacecraft. The entire optical head can be rotated about this line of sight to yield the "shaft angle".
+The servo system that drives the movable line of sight (also called the Star Line Of Sight (SLOS)) should to be calibrated by having the LLOS point to a star and superimposing the same star over it using the movable line of sight. This means the trunnion angle is at a true zero and the computer can store a value for difference between this and the mechanical zero (known as the "trunnion bias"). However, Jim is going to skip this step because of the huge number of star-like particles from the S-IVB visible in the optics.
+005:08:10 Collins: You should have the LOX dump now, Apollo 8. [Pause.]
+005:08:21 Lovell: Houston, this is 8. I'm looking through the scanning telescope and that LOX dump just blanked out completely the entire scanning telescope.
+005:08:30 Collins: Understand.
+Lovell, from the 1969 Technical Debrief: "Now, the first thing I noticed was that it was almost impossible to get a star calibration, with the technique that we had planned to use, mainly because of the tremendous venting of the S-IVB and the particles that left the optics when we jettisoned the covers.
+005:08:32 Borman: It's a fantastic sight, Bill. Looks like the S-IVB, [made] a small attitude excursion while it's dumping.
+005:08:38 Collins: Roger. Understand.
+Comm break.
+Anders, from the 1969 Technical Debrief: "During the slingshot maneuver, venting was quite noticeable from the LMP side of the spacecraft. You could see the cone formed by the angles on the engines, the propellant going out for several miles behind the booster. The booster was observed throughout the venting. There did seem to be some slight attitude excursions during the vent sequence.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Apollo Control here. And we're 5 hours, 9 minutes into the flight and we, as you heard the crew record, the S-IVB is doing its propulsive vent. Now we should see a pretty dramatic separation between the two vehicles. The S-IVB will remain on a path which will take it essentially, if you consider the Moon straight ahead of you for analogy purposes, it will take the S-IVB to the right of the Moon while the spacecraft will veer into the left and slightly ahead of the Moon. Earlier in that conversation you heard Anders reporting his PRD readings. That's the Personal Radiation Dosimeter, and perhaps another dosimeter and they were down on the negligible range as we anticipated they'd be, although the crew at this point has passed through probably the thickest portion of the van Allen radiation belt as it departs the Earth. It'll continue to go through some residual background radiation on out to about 40,000 miles. The - That's the new position in this flight, the flight controller named radiation has been instituted because of our passage through the belt. And at this point we've heard nothing from him which is about what we expected to do. At 5 hours, 10 minutes into the flight; this is Apollo Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:11:31 Collins: Apollo 8, Houston.
+005:11:34 Borman: Go ahead, Houston. Apollo 8.
+005:11:36 Collins: Rog. I've got a Flight Plan update for Bill if he's ready to copy.
+005:11:41 Borman: Stand by.
+005:11:42 Lovell: Stand by. [Long pause.]
+005:11:54 Anders: Ready to copy.
+005:11:55 Collins: Okay. We're about 05:10 GET where we will record the block data, TLI plus four and TLI plus 11. The TLI plus four PAD that we gave you before is perfectly all right. We will not require that one, and we'll have the TLI plus 11 hour PAD for you shortly. Then at 05:45 or 6 hours on that High Gain Antenna checkout. Roger. Standing by.
+Mike Collins read up the TLI plus 4 PAD at 001:43:21, prior to the injection burn. Mission Control are happy that the parameters it carried for a return to Earth are still valid. They continue their policy, that of ensuring the crew have the data they need to get home should an emergency arise, by reading up another abort PAD, this one intended to send them to Earth at 11 hours GET should a problem arise.
+005:12:28 Anders: We are on Omni-D, and we heard - we lost you after - TLI plus four was okay.
+The crew are using one of the omnidirectional antennae which, as Jim is currently swinging the spacecraft around for one of his sightings, may not be best placed for good performance.
+005:12:32 Collins: Okay. The TLI plus 4-hour PAD is okay. We'll have the TLI plus 11-hour PAD for you shortly, and at 05:50, for your High Gain Antenna checkout, we'd like you to leave that switch in Wide Beam with reference to our conversation the other day; leave it in Wide.
+005:12:52 Anders: Roger. Don't want to zap your receivers.
+005:12:55 Collins: No, it has to do with some loss of tracking data, so it is better to leave it Wide.
+005:13:00 Anders: Okay.
+Long comm break.
+The beamwidth of the HGA can be set to Narrow, Medium or Wide. Frank jokes that on Narrow, the increased gain of the antenna when transmitting might be too much for the receivers on Earth, impossible, of course. The truth is that while on Narrow, the beam can easily miss its target as they set it up and if it is the sole connection with Earth, the radio beam's secondary function of providing tracking information will be lost, albeit, temporarily.
+The S-IVB has stopped hosing LOX into cislunar space. According to the Flight Evaluation Report, this was at 005:12:56. Observers at the Spain station of the Smithsonian Astrophysical Observatory used a Baker-Nunn camera to photograph the ice-cloud emanating from the Saturn stage. Estimates from these observations show the cloud expanding at about 150 metres/second to appear several hundred kilometres in diameter.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:16:41 Lovell: Houston, Apollo 8. Are you recording what we're getting out of (P)23?
+005:16:44 Collins: Stand by one, Jim; I'll check. [Long pause.]
+005:17:27 Collins: That's affirmative, Jim; we are copying your P23.
+005:17:32 Lovell: Pretty big numbers there.
+005:17:34 Collins: Well, we think that's because you bypassed the trunnion check.
+005:17:40 Lovell: Roger.
+Long comm break.
+As Jim works on his P23 sightings, Mission Control can watch what appears on the DSKY read-outs in the spacecraft. The sightings Jim is making at the moment are unusable. The movement of the trunnion axis of the sextant has not been calibrated and the angles being measured are not precise enough. At the end of each P23 cycle, the computer displays Delta-R and Delta-V; these being the differences in position (or range) and velocity when comparing Jim's state vector with the one in the computer that was based on ground tracking. The large numbers he is getting show that his calculated state vector differs greatly from Houston's.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:22:18 Lovell: Houston, we are getting some really big numbers in Delta-R and Delta-V.
+005:22:23 Collins: Rog. Understand, Jim.
+005:22:25 Lovell: Suggest, do you want us to proceed with this, or should we just leave them alone?
+005:22:32 Collins: Apollo 8, say again.
+005:22:34 Lovell: Do you want us to accept these, or should we leave them alone?
+005:22:37 Collins: Stand by.
+Comm break.
+005:23:46 Collins: Apollo 8, Houston.
+005:23:49 Borman: Go ahead, Houston.
+005:23:50 Collins: Roger. We do not wish you to accept those marks. This is due to the fact that in bypassing the trunnion bias check, you still have big numbers left in those registers, so if you go ahead when you - after you do the trunnion bias check, then those numbers will become small later, but do not accept them right now.
+005:24:11 Borman: Understand, Houston.
+005:24:13 Collins: And we have a TLI plus 11-hour update for you when you're ready to copy.
+005:24:20 Borman: Stand by. [Long pause.]
+005:25:00 Anders: Roger. Ready to copy TLI plus 11.
+005:25:04 Collins: Roger, Bill. TLI plus 11, and this assumes no midcourse correction number 1: it's an SPS/G&N; 63330; minus 1.63, plus 1.29. Are you with me so far?
+005:25:30 Anders: Roger.
+005:25:32 Collins: Okay. 013:56:47.59; minus 0048.9, plus 0000.0, plus 4725.0; 177, 144, 000; not applicable, plus 0019.7; 4725.3, 5:54, 4705.0; 12, 127.8, 25.6; 023, up 26.5, left 1.8. Are you with me so far?
+005:27:03 Anders: Roger.
+While Mike Collins is reading up the PAD, the ullage motors within the APS engines at the base of the S-IVB begin firing to add their remaining impulse to the stage's slingshot manoeuvre. The engines will burn for just over 12 minutes until their propellant is depleted. Added together, the LH2 continuous vent, the LOX dump and the APS ullage depletion burn will alter the S-IVB's velocity by 41.9 metres/second.
+005:27:05 Collins: Okay. Plus 11.97, minus 165.00; 1268.1, 35608, 050:46:53; GDC Align, north set stars; roll, 068; pitch, 097; yaw, 356; ullage none; other: one, fast return, P37, Delta-V equals 7,900 for Indian Ocean; number 2, high-speed procedure not required; number 3, assumes no midcourse corrections number 1. Over.
+As is normal procedure, the PAD is read back to ensure it has been copied correctly.
+005:28:38 Anders: Roger. TLI plus 11. SPS/G&N; 63330; minus 1.63, plus 1.29; 013:56:47.59; minus 0048.9, plus 0000, plus 4725.0. You copy so far?
+005:29:06 Collins: Yeah, I'm with you so far. [Pause.]
+005:29:11 Collins: Apollo 8, Houston, affirmative. I'm with you.
+005:29:14 Anders: Roll 177, 144, 00; N/A, plus 0019.7; 4725.3, 5:54, 4705.0; 12, 127.8, 2.6 - correction - 25.6; 023, up 26.5, left 1.8. Copy so far?
+005:29:49 Collins: Yeah, I'm with you so far, Bill; go ahead.
+005:29:54 Anders: Plus 11.97, minus 165.00; 1268.1, 35608, 050:6 - correction - 050:46:53; north set, 068, 097, 356; zero ullage. Note one: fast return, P37, Delta-V 7900 Indian Ocean; two, high-speed procedure not required; three, PAD assumes no MCC-1. Over.
+005:30:42 Collins: That's all correct, Bill.
+005:30:49 Anders: Roger. [Long pause.]
+The PAD is interpreted as follows:
+Purpose: The PAD is intended for an abort scenario where Apollo 8 would return to Earth by performing a burn 11 hours after having left for the Moon. The values it presents are calculated assuming that the crew have not made their first midcourse correction burn.
+Systems: The burn would be made using the SPS engine under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 63,330 pounds (28,726 kg). Note that this really represents the mass of the CSM, weight being a poor term to use in these "weightless" circumstances.
+Pitch and yaw trim (Noun 48): -1.63° and +1.29°. These angles represent an initial direction for the gimbal-mounted engine. As the burn progresses, the nozzle will be slowly steered to track shifts in the stack's centre of mass.
+Time of ignition (Noun 33): 13 hours, 56 minutes, 47.59 seconds. This is about 11 hours after the TLI burn.
+Change in velocity (Noun 81), fps (m/s): X, -48.9 (-14.9); Y, 0; Z, +4,725 (1,440.2). The change in velocity is resolved into three components which are quoted relative to the Local Vertical.
+Spacecraft attitude: Roll, 177°; Pitch, 144°; Yaw, 0°. This attitude is measured relative to the alignment of the guidance platform, itself having been aligned per the launch pad REFSMMAT.
+HA, expected apogee of resulting orbit (Noun 44): Not applicable. The apogee of the resulting orbit is higher than the computer's ability to display it. The value isn't of importance anyway.
+HP, expected perigee of resulting orbit (Noun 44): 19.7 nautical miles (36.5 km). With such a low perigee, the returning spacecraft would intersect the atmosphere and re-enter.
+Delta-VT, the total velocity change resulting from the burn: 4,725.3 fps (1,440.3 m/s). This is a vector sum of the three components given above.
+Burn duration or burn time: 5 minutes, 54 seconds.
+Delta-VC: 4,705 fps. Using its ability to independently measure acceleration, the EMS can shut down the engine in case the G&N system fails to do so. This figure, Delta-VC, is entered into the EMS velocity display for this purpose and is slightly lower than Delta-VT because the EMS does not take account of the engine's tail-off thrust.
+Sextant star: Star 12 (Rigel, the bright, bluish star towards the bottom right of Orion) visible in sextant when shaft and trunnion angles are 127.8° and 25.6° respectively. This would be one check of their attitude prior to the burn.
+Boresight star: 23, Denebola (Beta Leonis), the star at the lion's tail. This gives a second attitude check with the COAS, when set to the appropriate angles.
+COAS Pitch Angle: Up 26.5°.
+COAS X Position Angle: Left 1.8°.
+The next five parameters all relate to re-entry, during which an important milestone is "Entry Interface," defined as being 400,000 feet (121.92 km) altitude. In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.
+Expected splashdown point (Noun 61): 11.97° north, 165° west; which is in the mid-Pacific Ocean.
+Range to go after reaching a deceleration of 0.05g: 1,268.1 nautical miles. To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing. This figure will be decremented by the EMS based on signals from its own accelerometer.
+Expected velocity at the 0.05 g event: 35,608 fps. This is another entry for the EMS. It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.
+Time of of 0.05g event: 50 hours, 46 minutes and 53 seconds GET.
+This is the predicted time at which the computer would begin the re-entry software, triggered by reaching 0.05g.
+GDC Align stars: Stars to be used for GDC Align purposes are the north set (Deneb and Vega). This is in case the IMU cannot be used as an attitude reference. When these two stars are viewed through the telescope in the correct manner, the spacecraft's attitude will be as given by the following angles.
+GDC Align angles: 68°; pitch, 97°; yaw, 356°.
+The final notes from Collins begin with the point that, since the SPS propellant tanks are full, there is no need to perform an ullage burn to settle their contents. Collins adds some additional points. If they need to make a fast return, they should set a figure of 7,900 feet per second into P37 to make the burn and this will bring them down in the Indian Ocean. The 'high speed procedure, outlined in the previous chapter by journal reader Niklas Beug, is not required in this case.
+005:31:08 Lovell: Houston, Apollo 8.
+005:31:10 Collins: Go ahead, Apollo 8.
+005:31:13 Lovell: Roger, Mike. I might give some comments on P23 data. The auto maneuver was quite accurate. Looks like we got some substellar point in the maneuver; auto optics put Canopus straight where it should be; minimum impulse control worked as advertised.
+When working through a single cycle of program 23, Jim uses the automaneuver capability twice; once is to point the optics' LLOS at a star for the optics calibration, another is to point the LLOS at the horizon. For this manoeuvre, the computer controls the attitude of the spacecraft, swinging it round until the LLOS is pointing where the computer thinks it should. Jim skipped the first automaneuver. Having used it to point the LLOS at the horizon, he used the auto optics capability to have the computer steer the SLOS (the movable or Star Line Of Sight) to bring the desired star, Canopus in this case, into the same field of view as the horizon.
+Having used automaneuver to swing the spacecraft around to where he wants it, Jim can manually control the spacecraft's attitude, which he does using minimum impulse mode.
+Diagram comparing coupled RCS control with minimum impulse control.
+In most situations, attitude control is achieved using a pair of RCS thrusters on opposite sides of the spacecraft. This mode of coupling thrusters together causes only rotation and cancels out any thrust that might tend to translate the spacecraft, affecting its trajectory. However, when the most delicate control is required, selecting minimum impulse causes only single thrusters to be used. On these occasions, a small degree of uncoupled translation is accepted and taken account of in the next midcourse correction.
+Lovell (continued): At the altitudes at which I started to do the sightings, they have a definite hazy band line. The filter gives the Earth a glow, sort of an orangey glow. It's very indefinite where to put the star, but there does seem to be a solid line where you might expect the horizon to be that appears through the haze where we expect the atmosphere to be. I followed the procedure which we had done up at MIT, about two lines atop the haze layer a definite line for these sightings. In regards to the optics calibration, it was very difficult to find a star in the landmark line of sight due to the venting of the S-IVB.
+To try and make it easier for Jim to tell where the horizon is, an orange filter cuts out blue light from the Earth. This is not considered successful.
+005:32:33 Collins: Roger, Apollo 8. We copied that, and we'd like for you to do that trunnion check, that calibration, prior to your next set of sightings.
+005:32:44 Lovell: Roger. Will do. Canopus just disappeared from view, and maybe when we get a little time here, I'll try to get a calibration the first time.
+005:32:56 Collins: Roger. Understand.
+Canopus has, in fact, gone behind the Earth.
+005:33:00 Anders: And, Houston. We've rewound the [DSE] tape; you can dump it at your convenience.
+005:33:07 Collins: Roger, Bill. Thank you. Are you still picking up anything on the VHF?
+005:33:15 Anders: Are you playing anything?
+005:33:17 Collins: Affirmative. [Long pause.]
+005:33:41 Anders: No, I'm not picking anything up.
+005:33:43 Collins: Roger. Thank you.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 5 hours, 33 minutes into the flight. We are now 22,500 [nautical] miles [41,700 km] from Earth, our velocity 12,700 feet per second [3,870 m/s]. In the - in the course of his recent remarks, Jim Lovell said that it was - he had a lot of difficulty in finding the proper stars during his star checks from - because of the competition of the S-IVB venting. Apparently that's setting off big splashes of light, which drown out the stars; however, they should be separating. At the last reading they were 3,000 feet [900 metres] from the S-IVB, and that distance should be growing. The crew has just advised that they can no longer hear the music we'd been piping to them by VHF out of California. The last report, they were getting our 18 - 19,000 miles. We just queried them and they said they were not hearing it. We've got quite a lot of tape backed up - we'll play it for you now.
+005:33:44 Anders: What's our altitude now?
+005:33:50 Collins: Well, you're about 22,000 miles.
+005:33:55 Anders: Okay.
+005:33:56 Collins: Give or take a thousand feet.
+005:33:59 Anders: I'll go ahead and turn VHF-A off and High Gain.
+005:34:03 Collins: Roger, Bill. Thank you.
+005:34:06 Anders: That was some pretty nice music while it lasted.
+005:34:09 Collins: Yes, I bet so. [Long pause.]
+Mission Control were piping music to the spacecraft using the VHF system to see how far out it would work. Evidently, the crew are no longer hearing it.
+005:35:01 Collins: Apollo 8, Houston.
+005:35:04 Lovell: Go ahead, Houston.
+005:35:07 Collins: We're going to have to wait until we get the High Gain Antenna locked on again to dump the tape.
+Already at this distance, the omni antennae may not give a clear enough signal to send the tape contents. The HGA will give a clearer signal once it is pointed at Earth. It is due to be checked out in 15 minutes anyway.
+005:35:15 Borman: Okay. And you about ready for us to go to the PTC attitude?
+005:35:23 Collins: Stand by one.
+005:35:26 Borman: Okay. [Long pause.]
+005:35:57 Collins: Apollo 8, Houston.
+005:36:00 Borman: Go ahead.
+005:36:01 Collins: We'd like to hold off on the PTC and get some more P23 information. We'll have some more details of that for you shortly.
+005:36:09 Borman: Alright.
+Mission Control want the crew to delay the start of PTC so Jim can take more marks for his navigation exercises.
+005:36:10 Lovell: Mike, what I'm doing now, I'm going over to the star Sirius [garble].
+005:36:28 Collins: Apollo 8, Houston. You faded out completely on that, Jim. I heard Frank, but it faded when you began talking. Say again.
+005:36:38 Lovell: Roger. I have switched to Sirius, the second star in the first set, to see if I can't get an optics calibration on it, at least.
+005:36:49 Collins: Roger. That's fine. We'll have some more good words for you shortly.
+Comm break.
+Jim was scheduled to carry out three separate groups of navigation sightings. The first was to use star 14, Canopus, and that part of Earth's horizon nearest it. He was to take one set of three marks. The interference from the S-IVB propellant dump has thwarted that first group and Canopus has now gone behind the Earth. The second group uses star 15, Sirius, the brightest star in the heavens, in association with that part of Earth's horizon furthest away from it. Jim will attempt to calibrate the movement of the trunnion axis within the optics before taking two sets of three marks each. The Flight Plan then calls for him to use star 16, Procyon, for the third group working with Earth's far horizon, again taking two sets of three marks each.
+005:38:15 Collins: Apollo 8, Houston.
+005:38:18 Borman: Go ahead.
+005:38:19 Collins: Jim, on your P23, we'd like you to go ahead and do the calibration and then use star number 15 and take three sets, followed by star number 16, two sets. Over.
+By taking three sets using Sirius, Mission Control hope to compensate for the loss of data when the first group of sightings was abandoned.
+005:38:38 Lovell: Roger, Houston. That's what we're trying to do. I'm trying to get [star] 15 for an optics cal. It's was very difficult with the bright Earth to find a star that we can get into the sextant. I'm trying to use the auto optics in P23 to get the star. We have that now; we're trying to maneuver the spacecraft to bring the trunnion to zero so we can get the landmark line of sight.
+Jim wants to get Sirius into the sextant's fixed line of sight (LLOS) so he can use the trunnion to superimpose the star on itself, thereby giving him a reading for the trunnion bias. By using auto optics, he has brought the star into view with the movable line of sight (SLOS). He is now trying to manoeuvre the spacecraft in such a way as to reduce the trunnion angle until the star appears in the LLOS also.
+005:39:01 Collins: Roger. Understand. And I also have your PTC attitude, which is different than you have. I'll give that to you whenever you get a free moment. [Pause.]
+005:39:16 Borman: Ready to copy.
+005:39:18 Collins: Alright. PTC attitude will be pitch, 242; yaw is 020. Over.
+005:39:29 Anders: Pitch, 242; yaw, 020. Copy.
+005:39:33 Collins: Very good; thank you.
+Very long comm break.
+The manoeuvre to an appropriate attitude to start the PTC was scheduled in the Flight Plan at 005:20 at an attitude of 331° for both pitch and yaw.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:50:56 Anders: Houston, Apollo 8. Over.
+005:51:00 Collins: Apollo 8, Houston. Go ahead.
+005:51:03 Anders: Roger. We'll hold up on the High-Gain check until we get out of P23.
+005:51:07 Collins: Roger, Bill. Thank you. [Pause.]
+005:51:15 Collins: You may have to delay your lunch a little bit. Are you hungry?
+005:51:19 Anders: No.
+005:51:22 Collins: First time I ever heard you say that. [Long pause.]
+005:52:11 Collins: Apollo 8, Houston.
+005:52:13 Borman: Go ahead, Houston. Apollo 8.
+005:52:14 Collins: Rog. It looks to us like the S-IVB is behaving completely normally in regard to all the blowdowns and other sequential events that take place. It looks good.
+005:52:24 Borman: Roger. How far away is it from us now?
+005:52:29 Collins: We were going to ask you.
+005:52:31 Borman: (Laughter) Okay.
+005:52:33 Anders: Fifty miles.
+005:52:34 Collins: Roger. Copy.
+005:52:41 Anders: Let's make that 80 kilometers, since there are some international aspects to this flight.
+005:52:49 Collins: Roger.
+Comm break.
+Bill's quick conversion of 50 miles to 80 kilometres implies that he is thinking in statute miles, in view of the easy 5:8 ratio.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston; 5 hours, 52 minutes into the flight. You undoubtedly heard Frank Borman say that they would delay temporarily the checkout of the High Gain Antenna. And that - we just got an estimate from the crew on the distance of the S-IVB. Frank Borman estimates 50 miles, about 50 miles away. And then he corrected it and said in view of the international aspects of this flight, let's make it 80 kilometers. Meanwhile, Lovell is checking his navigational programs and assuring that he can see the - making sure that his optics are operating properly. At 5 hours - the High Gain Antenna, by the way, is of course of considerable interest to many of our data transmissions including the transmission of televised data. So it was programmed to be checked out at 5 hours and 40 minutes into the flight. It will be delayed slightly, perhaps 15, 20 minutes. This is Apollo Control, Houston.
+005:53:52 Lovell: Okay, Houston. We did an optics calibration; we get zeros all the time.
+005:53:58 Collins: Roger. Understand; optics calibration and zeros all the time. Good.
+005:54:03 Lovell: It takes a lot longer to do it, though. I had to go to a star like Sirius to finally see it.
+005:54:09 Collins: Rog. Understand. We're real glad you got that so we can get a horizon calibration to put in the computer. [Long pause.]
+005:54:55 Borman: Looks like the number 5 window is starting to fog up, Houston.
+005:55:01 Collins: Roger, Houston. Understand it's the number 5 that's fogging up. [Long pause.]
+Window 5 is to the extreme right as the crew face them from their couches.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:58:48 Lovell: Houston, P23 coming through with Sirius.
+005:58:53 Collins: Roger. Thank you.
+005:58:54 Lovell: A little better, these numbers are a little better.
+005:58:57 Collins: We would expect so.
+Very long comm break.
+With the trunnion axis of the optics properly calibrated, Jim is finding that the state vector he is producing compares well with the version generated by the ground.
+The crew is scheduled to commence an hour-long meal break at 6 hours. However, it will slip until other tasks are completed.
+Meanwhile, the receding S-IVB is continuing its dump of onboard substances. A dump of the remaining helium from the ambient (i.e. not temperature controlled) tanks begins at 006:03:04 and the helium from the engine control bottle (within the start tank) begins at 006:06:24.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+006:07:16 Borman: Houston, how do you read? Apollo 8.
+006:07:18 Collins: Apollo 8, Houston. Go ahead.
+006:07:21 Borman: Roger. Have you been getting the downlink on the P23?
+Mission Control has been able to watch Jim's progress with his navigation via telemetry.
+006:07:25 Collins: That's affirmative.
+006:07:28 Borman: Okay. Now how much longer do you want us to hold off going to PTC?
+006:07:33 Collins: Stand by one, Frank.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 6 hours, 8 minutes into the flight. We've pretty well settled here in the Control Center on the first midcourse correction, which is presently planned as an SPS burn. Purposely wanted to get some early indication of its performance, the Service Propulsion System, and fortunately, the other events seemed to have worked in their favor. Presently planning an SPS burn of 2 to 3 seconds duration. We'll be putting 24 feet per second into the overall velocity. And this event is presently scheduled to occur at about 9 hours into the flight. And, let's see, beyond that, we still have no other indication of - we don't know any better just when the High Gain Antenna checkout will be made, but it should be done shortly. We have some tape from the last few minutes; we'll play it for you now.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+006:13:16 Lovell: Houston, Apollo 8.
+006:13:18 Collins: Apollo 8, Houston.
+006:13:24 Collins: Apollo 8, this is Houston. Over.
+006:13:26 Lovell: Roger. Are you recording all of the data from 23, or do you want some read down to you?
+006:13:37 Collins: Stand by, Jim. We think we're getting it all. We're confirming now. That is affirmative, Jim. We are getting all that's coming down. How is it going?
+006:13:47 Lovell: It's working very nicely. I finished - one set was Sirius, three stars [means marks], and one set with Procyon, or two sightings; three sightings with Sirius and two with Procyon.
+Jim appears to have made only five marks in total, somewhat short of the 15 asked for in the Flight Plan.
+006:14:03 Borman: Okay, Houston. This is Apollo 8. We are ready to go to the PTC attitude.
+006:14:10 Collins: Roger, Frank. Understand. And we understand you've completed all five sets, three on one and two on another in P23. Is that right?
+006:14:18 Borman: That's affirmative. But we've finished the five sightings, three on [star] 15 and two on [star] 16.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+006:16:18 Collins: Apollo 8, Houston.
+006:16:20 Borman: Go ahead, Houston. Apollo 8.
+006:16:22 Collins: Rog, Frank. What we're doing down here is this. We'd really like, for horizon calibration, we'd like a total of 15 marks; you know, three sets on one star, two on the other. On the other hand, we're balancing that with the need to go to PTC, and we're not losing sight of the fact that you want to go to PTC right away. So if you'll bear with us another couple of minutes, we are trying to decide whether to ask you to go back and do some more of P23 or whether to clear you at this time to go to PTC. Over.
+006:16:50 Borman: Okay. We started maneuvering to PTC. We're getting kind of far behind, is one thing I'm concerned about, Mike. Jim is now taking off his pressure suit.
+006:17:00 Collins: Roger. Understand. How about you and Bill?
+006:17:03 Borman: Well, we're standing by till he gets through.
+006:17:04 Collins: Understand. And you are maneuvering to PTC. That's fine.
+006:17:09 Borman: Well, I would prefer to do that, but we will...
+006:17:14 Collins: Okay. Stand by just one.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+006:22:12 Collins: Apollo 8, Houston.
+006:22:14 Borman: Go ahead, Houston. Apollo 8.
+006:22:17 Collins: Roger. We would like to hold off on the Passive Thermal Control until 7 hours GET and, in the meantime, to get as many more P23 marks as Lovell can give us, starting again with the first star and doing two sets of three marks each, and then going to the second star we gave you. And concurrent with that, if possible, we'd like Bill to run this High Gain Antenna check-out if Lovell's attitude is compatible with that. Over.
+They are getting somewhat behind their timeline. However, they have plenty of time until they get to the Moon.
+As explained earlier in this journal, the purpose of this initial set of sightings by Jim is not to navigate as such, but rather to determine from the angles he measures exactly what part of the Earth's horizon he is sighting on. Mission Control have only five marks from Jim and they would like more to give them a statistically more significant sample.
+Bill was scheduled to checkout the High Gain Antenna over half an hour ago. He can proceed with it now but only if the attitudes Jim uses for his P23 sightings do not take the HGA to the wrong side of the spacecraft. It cannot aim in certain directions by virtue of the spacecraft body being in the way.
+006:22:49 Borman: Okay. But they have not been to date. We are almost to the Passive Thermal Control attitude now, and Jim is just half way through taking his suit off.
+006:22:58 Collins: Roger. Understand.
+006:23:01 Borman: We'll have to hold off for a minute here. [Pause.]
+006:23:10 Collins: Roger, Frank. And the reason for this, of course, is the horizon calibration requires a number of points to give you good data for the onboard Nav coming on.
+Using the sextant, as mentioned before, involves using the optics in the instrument to superimpose the star on the horizon of the Earth. Although the star's position is well known, and it is a "point source" of light, the same cannot be said of the Earth. The horizon to be used is particularly difficult to define, partly due to the thickness of the atmosphere, and also because the Earth is relatively close. As the spacecraft moves further away from the Earth, the atmosphere appears progressively thinner, and the horizon becomes much better defined.
+Simulations done at MIT demonstrated that each crewmember "saw" this vague horizon line differently, that is, they defined the horizon as being at different "altitudes" above the Earth. However, each crewmember was reasonably consistent in their assessment of where the horizon was. From this information, it was relatively easy to set a variable in the computer as to where the crewmember "saw" the horizon. This value, expressed as the height above the Earth, is then used in determining the angles between the Earth, the stars and the spacecraft. A small error at this point in the flight is often seen as a large navigation error onboard the spacecraft.
+The horizon calibration check is used to let the staff on the ground know the point that Jim is using as the horizon. From this information, they can check the consistency of the angles he is measuring for the P23, and consequently, the validity of its navigation solutions.
+006:23:21 Borman: Roger. We understand. We'll be right back with you; just - just have to wait a minute here.
+006:23:26 Collins: Roger. Thank you.
+006:23:28 Borman: That failing to separate from the S-IVB kind of fouled us up a little.
+006:23:32 Collins: Understand.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+006:27:21 Borman: Houston, Apollo 8. How do you read?
+006:27:24 Mattingly: Apollo 8. Go ahead.
+006:27:27 Borman: Roger. We're standing by. Are you about ready for the High Gain Antenna trial?
+006:27:33 Mattingly: Okay. Just a second; we will check on that. Then are you in a position where you can go back to the star sightings?
+006:27:40 Borman: Well, we will be, but we can't until Jim gets ready.
+006:27:44 Mattingly: Okay. We'll stand by, and you give us a mark on that. In just a second, I will check on the antenna. Okay. It looks like we are ready to go on the High Gain Antenna check. And we can either go with commands called out from the ground, and you can monitor it, or you can be talked through it, whichever you prefer.
+006:28:11 Borman: Well, stand by. I guess we're not quite in a proper attitude yet.
+006:28:15 Mattingly: Roger.
+006:28:17 Borman: We are slowly getting it.
+Long comm break.
+Attitude control with an Apollo spacecraft is not a quick affair. At its fastest, the spacecraft rotates at 2° per second which means it take three minutes to complete a rotation.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO announcer recording. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control, Houston at 6 hours, 29 minutes into the flight. At the present time, here in Mission Control Center, we're in the process of changing shifts. Flight Director Milton Windler and his Maroon Team of flight controllers coming on to relieve Flight Director Clifford Charlesworth and the Green Team.
+A few moments later, the first change of shift press conference was held, during which PAO Paul Haney rather sheepishly opened by apologizing for the erroneous numbers he was quoting during TLI. The press conference also features some commentary by Green Team Flight Director Clifford Charlesworth, coming off shift. Full audio of the press conference is below.
+Your browser does not support the audio element.
+[Download MP3 audio file of PAO change of shift press conference. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+Day 1: Earth Orbit and Translunar Injection
+Journal Home Page
+Day 1: The Maroon Team

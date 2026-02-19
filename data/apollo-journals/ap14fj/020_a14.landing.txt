@@ -1,0 +1,1162 @@
+Landing at Fra Mauro
+Apollo 14 Flight Journal
+Post-Landing Activities
+Landing at Fra Mauro
+Corrected Transcript and Commentary Copyright © 1995 by Eric M. Jones.
+All rights reserved. MP3 audio clips by Thomas Schwagmeier.
+Last revised 12 January 2016.
+[There was a 40 minute 2 second launch delay from Earth because of weather. Times given in the first column are measured from the time of actual launch (Ground Elapsed Time or GET). Times given in the text refer to the planned launch time (Mission Elapsed Time or MET). On the way to the Moon, the Apollo 14 trajectory was changed slightly to get the crew to the Moon at the planned time.]
+[Note that Apollo 14 was the first mission used the CSM engine to put the LM in the low-perigee, "descent" orbit. Using the CSM to lower the LM perigee to 50,000 feet conserved LM fuel.]
+[After Al Shepard and Ed Mitchell undocked the Lunar Module and began preparations for the descent, Houston noticed that a single bit in the memory was incorrectly set. This bit indicated whether or not the "abort push button" was open or closed. Normally, the button was open because, with the button in the closed position, the computer would use the Descent Engine to put the LM back in orbit. The abort switch bit indicated that the switch was closed. Houston asked the crew to physically tap the panel around the abort button and the result was that the bit cleared. This suggested that the abort switch problem was caused by a stray piece of solder floating around in the switch in weightless conditions. Later, however, the condition returned and, in order to prevent an occurrence of the problem at just the wrong time during the descent, Houston decided to devise a set of modified computer procedures that would bypass the faulty bit. The new procedures weren't quite ready by the time Al and Ed went behind the Moon for the last time prior to the scheduled descent and, consequently, once they reappeared, Ed would have to copy the procedures in just a few moments and then, during the first few seconds of the descent engine burn, enter the new steps into the computer in the proper sequence and at the right times. Fortunately, there were few of the astronauts who knew the LM systems as thoroughly as Ed did and he did an outstanding job. Ed's knowledge of the LM was appreciated by other crews and, for example, Apollo 15 Commander David Scott specifically requested that Ed serve as CapCom during the Apollo 15 LM descent and lift-off.]
+[Mitchell - "We disabled that circuit so that the system would
+not recognize the single point of the abort button. So that circuit was bypassed"]
+Ed Mitchell begins implementation of the new procedures at 108:02:58.]
+[Commentary in this chapter regarding the abort-bit problem is derived, in part, from pages 361-4 in Frank O'Brien's authoritative book, The Apollo Guidance Computer and from a discussion provided by Journal Contributor Paul Fjeld. Online discussions with O'Brien, Fjeld, David Woods, and Thomas Schwagmeier were invaluable.]
+[We begin with Houston's discovery of the problem with the abort bit.]
+MP3 Audio Clip 2 mins 46 secs
+Your browser does not support the audio element.
+104:29:57 Haise: Okay, Antares; Houston. We'd like you to back out of that (P)52. We need to look at a bit here.
+104:30:07 Mitchell: Roger. Do you have some pads ready for me this pass, Fred?
+104:30:15 Haise: Okay. They're coming up in a minute, Ed. You ready to copy a couple of steps here?
+104:30:25 Mitchell: Yes. Go ahead.
+104:30:26 Haise: Okay. We'd like a VERB 11 NOUN 10 ENTER, 30 ENTER. (Pause)
+104:30:37 Mitchell: You got it. (Long Pause)
+104:30:57 Mitchell: Do you read the DSKY, Houston? (Pause)
+104:31:02 Haise: Antares, Houston. What we're looking at there is the abort bit, and it looks set. And we'd like to proceed with the following to reset it.
+104:31:13 Mitchell: Okay. Give me the words.
+104:31:15 Haise: Okay. We need the STOP pushbutton, push. And the next thing is the ABORT pushbutton, depress. And wait on that one.
+104:31:28 Mitchell: Okay. Standing by on that one.
+104:31:34 Haise: Okay. I meant you can go ahead and press the ABORT button, Ed; but stand by for our word on the reset. (Pause)
+104:31:45 Mitchell: Okay. It's set.
+104:31:48 Haise: Okay. Stand by. (Long Pause)
+104:32:08 Haise: Antares, Houston. You can reset the ABORT pushbutton. (Pause)
+104:32:15 Shepard: Okay. It's reset. (Pause)
+104:32:25 Haise: Okay. You can reset the STOP button...
+104:32:27 Mitchell: (Garbled under Haise) ...Fredo?
+104:32:29 Haise: You can reset the STOP button now, Ed, and press on with the P52.
+104:32:36 Mitchell: Okay.
+104:32:37 Shepard: Okay. STOP button is reset.
+[About an hour later, Fred has another conversation with the Ed about the abort bit.]
+MP3 Audio Clip 3 mins 17 secs
+Your browser does not support the audio element.
+105:41:09 Haise: Okay. And, Antares, we're showing the abort bit set again, and we're working on a procedure to reset it. And, also, another procedure to lock it out after starting PDI.
+105:41:29 Mitchell: Okay. That'll be great, thank you. We're pressing on with the DPS (Descent Propulsion System) pressurization. (Long Pause)
+105:41:52 Haise: Okay. Antares, you can go ahead with the DPS pressurization.
+105:41:59 Mitchell: Okay.
+[Comm Break]
+105:45:38 Haise: Antares, Houston. (Pause)
+105:45:46 Mitchell: Go ahead.
+105:45:49 Haise: Okay. I see you're back to P00 (program zero-zero, pronounced 'pooh') now. We'd like to do a VERB 11 NOUN 10 ENTER; 30 ENTER; and look at that bit again. (Pause)
+105:46:05 Mitchell: Okay. VERB 11 NOUN 10. (Long Pause)
+105:46:21 Roosa: Houston, Kitty Hawk. Are you through with the computer?
+105:46:23 Haise: Roger, Kitty Hawk. (To Ed) And, while we got that display up, Ed, could you tap on the panel around the ABORT pushbutton and see if we can shake something loose? (Long Pause)
+105:46:51 Mitchell: Yeah, Houston, it just changed while I was tapping there.
+105:46:54 Haise: You sure tap nicely.
+105:47:00 Mitchell: I'm pretty good at that. (Pause)
+105:47:09 Haise: Okay. Antares, we'd like to kind of sit here a minute and watch it.
+105:47:18 Mitchell: Okay.
+[Comm Break]
+105:50:03 Haise: Antares, Houston.
+105:50:07 Mitchell: Go ahead.
+105:50:08 Haise: Okay, why don't y'all proceed on, Ed, with the landing radar checkout?
+105:50:15 Mitchell: Okay.
+[About half an hour later, Fred has another conversation with the Ed about the abort bit.]
+MP3 Audio Clip 2 mins 28 secs
+Your browser does not support the audio element.
+106:23:40 Haise: Okay. Antares, Houston. (Pause)
+106:23:47 Mitchell: Go ahead.
+106:23:48 Haise: Okay, Ed. That bit just showed up again. Wonder if you could try tapping the panel there by the ABORT switch again.
+106:23:59 Mitchell: Okay. (Long Pause)
+106:24:20 Mitchell: Anything yet, Fredo?
+106:24:23 Haise: Okay, Ed. You did good work again. (Pause)
+106:24:31 Mitchell: Okay. (Long Pause)
+106:25:19 Mitchell: Houston, Antares.
+[Fred Haise is away from the CapCom console, probably in a discussion about procedures to block the abort bit from having an effect should it get set after PDI. Tom Stafford, who became Chief of the Astronaut Office after Shepard was assigned to the Apollo 14, sits in for Haise.]
+106:25:24 Stafford: Antares, Houston. Go ahead.
+106:25:29 Mitchell: Hello, Tom. Do you think we're going to come up with something on this problem with the ABORT button?
+106:25:35 Stafford: Roger. We're working it right now and also MIT's working it. Needless to say, we're busy here, but we think we got a solution.
+106:25:44 Mitchell: Good enough. Something - is it something like a solder ball?
+106:25:48 Stafford: Well, we don't know yet. We got about 19 minutes until loss-of-signal here, so we'll have something to you before then, and we'll have some time to pick it up on the other side.
+106:25:58 Mitchell: Thank you, Tom.
+106:25:59 Stafford: Roger.
+[In a 2009 page for the ALSJ page prepared by Paul Fjeld writes:
+"The intermittent short circuit of the ABORT button
+represented the most dramatic moment for the MIT computer folks in the
+entire Apollo program. They had between three and four hours to find a
+way for the computer to ignore it, test the fix at Grumman, then test
+it in Houston before sending it to the crew in time for PDI .
+In the LM Guidance Computer (LGC) a "discrete" was set
+when either the ABORT or ABORT STAGE button was pushed. Every 1/4 of a
+second an Abort Monitor Routine would first verify that the LETABORT
+flag was set, indicating that aborts were allowed, and then, at the
+first sign of one of these discretes, automatically select an abort
+program: either P70, a main engine abort, or P71, a staged abort with
+the ascent engine.
+Don Eyles at MIT first thought that simply
+disallowing aborts by resetting LETABORT through the bit manipulation
+noun, NOUN 7, would do the trick. Unfortunately, 0.2 seconds after
+engine start, the Ignition Routine automatically set the LETABORT
+flag! In the middle of all the excitement of engine start, the
+crew would have to quickly enter the reset sequence and, for those few
+seconds, would still be vulnerable to the ABORT button signal."]
+[About 4 minutes after Stafford's conversation with Mitchell, Fred Haise has another conversation with the the LM crew about the abort bit.]
+MP3 Audio Clip 8 mins 26 secs
+Your browser does not support the audio element.
+106:30:07 Haise: Antares, Houston.
+106:30:13 Mitchell: Go ahead.
+106:30:14 Haise: Okay, Ed, you and Al ready to listen to some words on the abort bit business?
+106:30:24 Mitchell: Roger. We sure are. And did you get our torquing angles?
+106:30:32 Haise: That's affirm, Ed. (Pause) Okay, Ed. And before I start in here, would you try tapping the panel again? The abort bit came back. (Long Pause)
+106:30:55 Haise: Okay. You tapped it right again, Ed.
+106:31:02 Mitchell: Okay.
+106:31:03 Haise: Okay. I guess you've surmised already that we have some sort of a contamination in the ABORT switch. And the implications of that bit being set, I guess you also realize, means that in (program P)63 we're going to find ourselves in P70.
+106:31:27 Haise: Okay, so...
+106:31:28 Mitchell: (Garbled under Haise) Fred.
+106:31:30 Haise: Say again, Ed. How do you read me now, Ed?
+106:31:38 Mitchell: That's affirm. We read you. Go ahead.
+106:31:40 Haise: Okay. Did you hear my last about the implications of that bit being set?
+106:31:48 Mitchell: That's affirm. We understand.
+106:31:49 Haise: Okay. So, directly, I'll be giving you some...
+106:31:52 Shepard: Affirmative.
+106:31:53 Haise: Roger, Al. I'll be giving you some changes to the time line here, whereby we'll be starting initiating PDI in PNGS, ATT HOLD, and MANUAL THROTTLE. The next consideration is if the bit sets during ullage, your procedure will be: STOP pushbutton to set and exit P63, or rather P70 in this case. And we'll have some further words on how you're to do that exit.
+106:32:36 Mitchell: Okay. We understand the strategy, I believe.
+[Thomas Schwagmeier notes that Fred's reference to MANUAL THROTTLE specifically refers to the 'THR(ottle) CONT(rol)' switch at the bottom left of Panel 1. On page 5 in the LM Timeline book, a few lines below the middle of the lefthand column, it appears that Ed scratched out "AUTO" and wrote "MAN(ual)" for the "THROT CONT" setting. Later, possibly at 107:35:16 when Fred outlined the revised procedure, Ed appears to have scratched out "MAN" and wrote "AUTO".]
+106:32:38 Haise: Okay. Then we - we got some more. Assuming we - we get by ignition, like you to copy the following procedures.
+106:32:54 Shepard: Stand by one, Fred. And, while he's getting something to write on, I understand that you're going to be looking at the - you want us to be looking at the bit during the ullage cycle?
+106:33:12 Haise: Negative, Al. You'll get the program switched to P70, which is your cue. We'll be - we'll be looking at it down here, too, to pass the word up.
+106:33:26 Shepard: Okay. I misunderstood you. I understand. We just go to a regular (P)63. Okay.
+106:33:29 Haise: Okay. And I just got corrected, Al. The switch to P70 would occur at ignition, at ignition.
+106:33:40 Shepard: Okay. I understand.
+106:33:42 Mitchell: Okay, Fred. Do I have enough room to write just in the space on my PDI chart?
+106:33:47 Haise: Stand by. (Long Pause) Okay. You mean the time line, Ed, or your pad?
+106:34:06 Mitchell: The time line. (Pause)
+106:34:13 Haise: Ah, Roger, Ed...
+106:34:14 Mitchell: (Garbled under Fred) room on the DPS burn card, Fred. Go ahead with it.
+106:34:17 Haise: Okay. The procedure is VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. (Long Pause)
+[This is the Don Eyles procedure to reset the LETABORT bit immediately after ignition.]
+106:34:55 Mitchell: Okay. I'll read back. VERB 25 NOUN 07 ENTER; 05 ENTER. Is it 4000 ENTER? 0 ENTER.
+106:35:08 Haise: Okay, Ed, it's VERB 25 NOUN 7 ENTER. Then, 105 ENTER; 400, four zero zero, ENTER; 0 ENTER.
+106:35:25 Mitchell: Okay. VERB 25 NOUN 07 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. And when do I do this?
+106:35:34 Haise: Okay. You to do this as soon as you can after ignition. We're trying to get this in - to - before there's any chance of the bit getting set in this interval.
+[As we will see during discussions between Fred and the crew after the backside pass, this procedure would lock out P70/71. Frank O'Brien writes,"At any time after the master ignition routine began executing, the solder ball could make contact in the abort switch, irrevocably causing a P70 or P71 abort. Manually entering the commands to reset the LETABORT flag immediately after descent engine ignition to block P70/71 would take several seconds, an unacceptable exposure to risk when success of the mission was at stake."]
+[During the backside pass, MIT comes up with a better solution that will allow Ed to change the Mode Register setting from P63 to P70/P71 before ignition and then, at a more leisurely pace, some additonal entries after throttle up at 26 seconds.]
+106:35:49 Mitchell: Okay. We have to let P63 call up normally, get ignition in ATT HOLD, MANUAL THROTTLE, and then reset the bit, hopefully, before it gets - or rather, lock out the bit, hopefully, before it gets set. Is that right?
+106:36:03 Haise: That's affirm, Ed. And, if somehow you get hung up a little further downstream, you can go ahead and throttle up manually at 26. I'd like to explain the implications of this. What we've done, then, is locked out P70 and P71, so any aborts have to be done on the AGS. And, while you got the card handle [sic, means 'handy] you can - I'll give you something that will reenable P70, P71.
+106:36:36 Shepard: Okay. We understand, and go ahead with your words.
+106:36:41 Haise: Okay. It's VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 1 ENTER. (Pause)
+106:36:57 Mitchell: Okay. Readback: VERB 25 NOUN 07 ENTER; 105 ENTER; 400 ENTER; 1 ENTER. That's all straightforward enough.
+106:37:06 Haise: Okay, Ed. Once we're by that initial disabling step, we got it made. We'll comment that if, in the process of your keying that in, the abort bit sets, we'll be in P70; and, if that happens, we need the same as before ignition; we'll need the stop button set and exit the program, and we'll try it on the second pass.
+106:37:36 Mitchell: Okay. Are you going to give me the words on exiting now?
+106:37:40 Haise: Okay. They're still - they're still working on that... (Pause) Right. And, Antares; Houston.
+106:37:58 Mitchell: Go ahead.
+106:37:59 Haise: Okay. Assuming we get through the disabling procedure, after that time you can go back to AUTO on the THROTTLE (CONTROL switch) and the MODE CONTROL switch.
+106:38:15 Mitchell: Understand, Fredo. Thank you.
+[This exchange is probably related to the handwritten changes - later scratched out - near the bottom of the lefthand column of page 5 in the timeline book.]
+106:38:17 Haise: Okay. One other word. The same holds for any surface NO STAY. The abort there would have to be on AGS.
+106:38:30 Mitchell: Understand, Fred.
+106:38:31 Haise: Okay.
+106:38:33 Shepard: Roger. We understand. Sounds like you all have been busy down there.
+[Mitchell - "After the abort switch problem occurred, and we went behind the Moon, Al and I got ahead on our checklist because we knew we were going to be short on time before we started the burn to go to the lunar surface. And we did shift some of my duties to him, because I was the one who had to re-program the computer when they radioed up the changes, particularly the...Let's see. We had to do changes in both the main computer and the abort system computer. And I was the guy that changed them. Al flew the spacecraft and I did the programming changes that could not be done from the ground. So we departed from normal procedures in this period and, basically, Al was getting the spacecraft ready for descent and I was getting the computers ready for the descent as well."]
+[Before beginning our review of the descent, I asked Ed to talk about normal LM cockpit procedures.]
+[Mitchell - "Al controlled the DSKY (Display and Keyboard Assembly) and the main computer. And I double-checked him. As long as he was doing the entry on the computer and flying and controlling the spacecraft, I was acting as co-pilot and checking every entry that he made and keeping him straight and honest on the checklist. And there were certain periods of time when I would take over the DSKY, but we both knew I was going to do that. I mean, I never handled the DSKY at a period when he was handling it; and if he was doing something else and I was handling it, he never interfered with that. So we never reached across each other to throw any switches or make any entries, in any ad-hoc sort of fashion. It's just good cockpit procedure."]
+[Ed was on the backup crew for Apollo 10, the final dress rehearsal for the first landing. During that flight, Tom Stafford and Gene Cernan flew their LM down to 50,000 feet above the lunar surface and then rehearsed the return to orbit by jettisoning the descent stage and firing up the ascent engine for a rendezvous with John Young in the Command Module. Although the maneuver had been successfully practiced in Earth orbit by the Apollo 9 crew, staging did not go smoothly on Apollo 10. As they approached the critical moment, the setting of a switch called the AGS (Abort Guidance Computer) Mode Control had to be changed and, unfortunately, Cernan and Stafford had a communications breakdown. According to Cernan (pp. 216-217 in his book The Last Man on the Moon), when the moment came, he changed the switch position and then Stafford, unaware that Cernan had already changed the setting, switched it back. Neither of them realized what had happened and, at staging, the erroneous switch setting resulted in unplanned thruster firings that soon had the LM spinning wildly. It took several seconds for the astronauts to diagnose the problem and regain control. The lesson, of course, is that they should have paid more careful attention in training to the details of who was going to do what and when and to make sure that, when switches were thrown, both of them knew what was happening. As Mitchell says, this is good cockpit procedure and it seems likely that he and many others paid close attention to the Apollo 10 lesson.]
+[Mitchell - "I was on the backup crew for 10. Also, I'd been on
+the support crew for 9. Fred Haise and I probably knew more about the lunar module than any two guys alive at that point, since we helped build it at Grumman/Bethpage (the facility at Bethpage, New York, where the LMs were designed and built). And had been through all the cycles with all the spacecraft - with all of the lunar modules. And, of course, Stu Roosa and I were originally on Apollo 13 with Gordon Cooper. Then, when Al Shepard replaced Gordon on that flight, we switched flights with Jim Lovell's crew."]
+[Jones - "Lovell's crew had been backup for 11 and, in the normal rotation, they would have flown 14."]
+[Mitchell - "They'd been backup for 11 and, when Shepard came on the crew, we switched 14 and 13. So, by the time it came around to Apollo 14, I'd had a lot of simulator time on the lunar module and Fred Haise and I helped build the darn thing. And I'd been through Apollo 13 prime crew training. So there weren't many people around who knew the lunar module better than I did. And, during the Apollo 13 experience, where Fred and Jim had to bring their lunar module back as a lifeboat, I spent the 5 days of that emergency in the lunar module simulator, creating the procedures they had to use. And radioing 'em up to them in space. So, at this point, I could personally fly the lunar module blindfolded. Al was a very quick learner and a hell of a pilot, but he still didn't know the lunar module like I did. So our cockpit procedures were such that, when things were on his side of the cockpit and he was handling it, I kept hands off. But we double-checked everything, all the way down the line. And he knew what I was doing and I knew what he was doing, and we just double-checked each other all the way."]
+[Fred Haise calls the LM crew at AOS after the backside pass.]
+MP3 Audio Clip 30 mins 27 secs
+Your browser does not support the audio element.
+107:28:14 Haise: Antares, Houston.
+107:28:19 Shepard: Go ahead, Houston.
+[During the backside pass, MIT came up with a better procedure. Fjeld tells us:
+"Fortunately, another path in the Abort Monitor
+Routine to close this window of vulnerability was found --
+MODREG: the Mode Register memory location that held the number of the
+program or "major mode" that was currently running. That register
+was accessed mainly for the PROG display on the DSKY, but was also
+checked by the Abort Monitor Routine in case P70 or P71 was already
+running. If an abort was the current major mode, there was no need to
+start a new one.
+"So the plan was: fake out the Abort Monitor Routine
+with P71 in MODREG immediately after manuevering to the burn attitude,
+wait for ignition to automatically set LETABORT, reset LETABORT
+(disabling aborts), and then restore MODREG (to P63). However, two
+further complications had to be added to this simple plan. The
+Ignition Routine also checked MODREG, and if it didn't find P63 there,
+it didn't "zoom" the engine to full throttle after 26 seconds of thrust
+vector trimming, nor did it set ZOOMFLAG which permitted the descent
+guidance to take over. So now the final plan was: Ed would put P71 in
+MODREG before ignition, they'd do everything normally through ignition
+and the 26 second trim, then Al would push his thottle control up to
+full, then Ed would set ZOOMFLAG, then reset LETABORT to disable any
+abort signal, then restore P63 in MODREG, and, finally, Al would put
+his thrust controller to minimum to let the Guidance routine take over
+the engine.
+"The reason P63 had to be in MODREG, even after the
+ignition sequence didn't need it, was that the State Vector update
+routine also checked this register to see what weighting to give the
+Landing Radar data. The routine corrected their calculated height
+with only a portion of the difference between the radar measured height
+and that measured by the accelerometers (delta H). At 50,000 feet
+it would add 0% of the delta H then increase that to 35% as they got
+down to 10,000 feet. If MODREG didn't have the number for P63,
+the update routine would think they were in P66 and incorporate a full
+35% of the delta H, which, at high altitude, would make for a bumpy
+ride. Grumman's Performance Evaluation Report claimed that the
+entire procedure did not affect the radar in any way. The later
+Landing Radar problem was caused by a scale bit which had switched 38
+seconds before any of these abort masking procedures where entered.
+"Finally, if an abort was required, Ed would have to
+set LETABORT by punching all of this into the DSKY: Verb 25, Noun 7
+Enter, 105 Enter, 400 Enter, 1 Enter. Then they could get out of
+Dodge!"
+The expression "Get out of Dodge" means 'leave a difficult or dangerous environment with all possible haste. It is a reference to Dodge City, Kansas, which was a busy cattle town in the late 19th century and gained a reputation from a number of prominent gunfighters who were there, some as deputy law officers. Here is a clip from TV's Gunsmoke that features the phrase.]
+107:28:23 Haise: Okay. Read you loud and clear. And we got some more procedures to pump up that are going to alter what you already copied, and Ed might ought to get something a little bigger than the DPS card to write this down.
+107:28:45 Shepard: Okay, stand by. Let's get locked up on the main lobe first.
+107:28:48 Haise: Okay. (Long Pause)
+107:29:08 Shepard: Now, in the meantime, do you still read me?
+107:29:11 Haise: Roger, Al.
+107:29:16 Shepard: Okay, ASCENT BATTs went on at 108:01:45.
+["108:01:45" is relative to the planned time of launch. The actual launch was delayed by 40 minutes and 2 seconds. Relative to the actual time of launch, the ASCENT BATTS went on at 107:21:43, which is ignition minus 40 min 46 sec. The corresponding item is "*BATS 5&6 Norm Feed - ON" near the top of the lefthand column on Timeline page 5, shortly after the '-40' line.]
+107:29:24 Haise: Roger. 108:01:45. (Pause)
+107:29:35 Shepard: And NOUN 93's as follows: plus 40, minus 52, minus 16.
+107:29:45 Haise: Okay. Copied plus 40, minus 52, and minus 16.
+107:29:53 Shepard: That's right. GET (Ground Elapsed Time of NOUN 93 is) 107:08:30.
+[See the N93 section under 'IMU Fine Align' in the left-hand column of page 4 of the LM Timeline.)
+107:30:00 Haise: 107:08:30. (Pause)
+[The next line on page 5 is to set the THROT CONT Switch. At the moment, that line reads THROT CONT - MAN as a result of instructions Fred gave them at 1063153. They may actually set the switch to Manual at about this time. They may also continue on and take care of the tasks in the CDR TTCA - Throttle - Min paragraph. They probably finish before Fred asks that they enable Updata Link - Data at 107:32:36.]
+107:30:12 Haise: Okay, Antares; Houston. And, before we start here, the bit is set again; could you... (Intermittent static) You still there, Antares? (Long Pause)
+107:30:46 Shepard: Okay, I believe we're locked up now, Houston.
+107:30:53 Haise: Okay, Antares; Houston. If you get locked up there, you might just stay in SLEW.
+107:31:04 Shepard: Okay, we're locked up in AUTO TRACK, now.
+107:31:08 Haise: Okay. I don't know if you heard, the bit appeared to be set again, and we need you to rap on the panel again by the ABORT button. (Long Pause)
+107:31:40 Haise: Okay, Antares. The bit is reset. And... (intermittent static) are you still reading, Al? (Pause)
+107:31:50 Shepard: That's affirmative.
+107:31:51 Haise: Okay, Al. The... the reason for the... some changes I'm going to feed you up on the procedure is, we found, in the interim of time around the backside there, a little slicker way of doing this. And what it does is allows us to start PDI in the right configuration, switchwise. And, we can make an entry before we get to ullage or ignition that will get us by that problem area.
+107:32:26 Shepard: Sounds very good. Go ahead; we're ready. (Pause)
+[Frank O'Brien writes: "In a nutshell, the idea was to 'fake out' the computer before ignition in P63. The beauty of this is that the design of the computer did not allow sophisticated checking of critical variables/information all the time. Hence, you could 'spoof' it. The Abort Monitor Routine was checking the Mode Reg to see if an abort mode - either P70 or P71 - was indicated. If so, the Abort said 'OK, we're good, we're aborting, and other programs will worry about the details'. Meanwhile, other programs were happily running P63 functions: DPS ignition, landing targeting, etc. It turns out, that setting the 'Mode Flag' (the Major Mode) to indicate P70/P71 rather than P63 meant very little. It was just a 'placeholder'. Honestly, the most important other role the Mode Reg served was to display the program number on the DSKY. In today's idea of software, you could *NEVER* do anything like this. It's now far too tightly written."]
+107:32:36 Haise: Okay. And in the interim here, Antares, could you give us P00 (Program zero-zero, pronounced 'pooh') and DATA, so we can start getting the uplinks in?
+[This is the step at minus 30 (-30) at the start of the UPDATE FROM MSFN section at the bottom of the lefthand column of page 5.]
+107:32:44 Shepard: Okay. You have P00 and DATA.
+107:32:49 Mitchell: And, Fred, I am having to stay on the OMNIs. I'm popping the S-BAND ANTENNA circuit breaker.
+[David Woods tells us, "Regarding the circuit breakers for the S-band antenna, I got a little bit of insight on that from Stephen Slater, who has been busy syncing up 16-mm film of MCC with audio tracks for A11. In one that he shared with me, we have this exchange between Charlie Duke and Buzz Aldrin:
+101:17:07 Duke: Eagle, Houston. It appeared to us when you're doing the P52, maneuvering the S-band, the High Gain went into the stop. Verify that both S-band breakers are in. Over.
+101:17:23 Aldrin: Rog. I think I'd got it to 90.0 before it went there. The one on this side is in, and I'll check the other later.
+"I think what is happening is that when the S-band steerable antenna reaches the end of its articulation, it is mechanically limited from moving further, yet the motor keeps trying to move it. The current rises as it stalls, popping the breaker. I guess Mitchell was working close to the steerable's range. He keeps popping the breaker so it becomes easier to use the omnidirectional antennae until they get into an attitude that gives the steerable a clear view to Earth."]
+107:32:55 Haise: Okay, Ed. The first (of the procedure changes) is after P63 selected and you're to NOUN 92, which, in the time line, is right aft(er)... correction NOUN 62 which is right after your ENTER at minus 4 minutes. (Pause)
+[What Fred is saying is that, after they do Pro-Final Trim at minus four ('-4') minutes and they do the next line, 'ENTER, ✓ DET', they need to wait until Noun 62 appears on the DSKY before they do the procedure Fred will give them at 107:33:49. He will tell them two more time that they need to wait for Noun 62 to appear before putting the new procedure in the computer. Those times are 107:40:39 and 107:47:30. Ed's statement at 107:34:22 indicates that he understood what Fred was saying. Because of the critical nature of this change, repetions are not surprising.]
+[Frank O'Brien comments: "I've looked over the software, and in particular the "A15 Delco Manual". P63 is the essential landing targeting routine, in addition to managing the early descent burn. It is started ~10 minutes before PDI. This amount of time is necessary to do all the targeting work and see what attitude adjustments are necessary in preparation for the burn. When it completes, it will display Verb 06, Noun 62, indicating the time before ignition for PDI. It will stay with that display until Verb 99 (permission for ignition). I can now see how this is key to the 'fix'.
+"If P63 needed to complete before any other work is done (reasonable), it is likely that any work P63 did might have interfered with the fix. Looking quickly, I can't see how, but it might have the back room was being conservative. I haven't checked, but my suspicion is that if the fix was entered during P63 (faking the computer to think it was in P70) it might have had some serious adverse effect, such as aborting. By the time Noun 62 was displayed, all of the sensitive processing was complete. At that point, all the computer was doing is waiting for ignition, and was probably in its most benign state before Powered Descent.
+"P63 is a really complex beast, and I'll have to take a look at it in more detail before I pass judgement. So these are just reasonable, but not confirmed thoughts."]
+107:33:25 Mitchell: Go ahead. (Long Pause) Go ahead!
+107:33:41 Haise: Okay, Antares. I've got a lot of static in the background here. How do you read?
+107:33:47 Mitchell: Loud and clear. Keep going.
+[The following info is clearly what is written in the right-hand margin of page 5.]
+107:33:49 Haise: Okay. After the ENTER and check (✓) DET (second line after '-4 PRO-FINAL TRIM'), Ed; we need a VERB 21 NOUN 1 ENTER; 10 10 ENTER; 107 ENTER. (Long Pause)
+[Having started P63, and once the DSKY shows Noun 62, they will enter the code (107) for an abort routine into the Mode Register. The consequence is that the Abort Monitor will think they are in an abort mode and will ignore the abort bit if it does get set.]
+107:34:22 Mitchell: Okay, Fred, I understand. After P63 and NOUN 9... (correcting himself) NOUN 62 (appears) at about 4 minutes (before PDI), we want to enter VERB 21 NOUN 1; 101 ENTER; 107 ENTER.
+107:34:38 Haise: Antares, Houston. Correction on your readback. It's VERB 21 NOUN 1 ENTER; 10 10 ENTER; 107 ENTER.
+107:34:54 Mitchell: Roger; got you. 10 10 ENTER; 107 ENTER.
+107:35:01 Haise: Okay, that's correct. From there on, you can follow the nominal procedures through ignition. After ignition...
+107:35:13 Mitchell: Okay.
+107:35:16 Haise: Okay. After ignition, at plus 26 seconds on page 6, we need MANUAL THROTTLE UP. And, so you don't misconstrue what I'm saying, we're... we have the THROTTLE (Control) switch in AUTO (Timeline page 5 about halfway down the lefthand column), but we're going to manually override it to FULL THROTTLE at 26 seconds.
+107:35:39 Mitchell: Okay. We understand that at ignition plus 26, we will MANUAL THROTTLE UP, overriding the AUTO.
+[At this time, Ed may scratch out the changes he made regarding the Throttle Control Switch (middle of lefthand column on page 5) and restored the line to THROT CONT - AUTO'. However, they are currently at ignition minus 27 and are about to get the new procedures from Fred and may not scratch out 'MAN" and write 'AUTO' until 107:39:57. They will not revisit to the 'THROT CONT' step until Fred reminds them at 107:48:23. If they have not yet taken care of the CDR TTCA - THROTTLE - MIN paragraph, there is another opportunity after Al asks Fred at 107:41:40 if Houston is "through with the computer".]
+107:35:52 Haise: That's correct. Okay. After we... after we get by THROTTLE UP, it's VERB 25 NOUN 7 ENTER; 101 ENTER; 200 ENTER; 1 ENTER. And this will enable guidance and give you steering at that time. (Pause)
+107:36:23 Mitchell: Okay. Understand after THROTTLE up, we enter VERB 25 NOUN 7; 101 ENTER; 200 ENTER; 1 ENTER. And this enables guidance steering at that point.
+[Paul Fjeld notes that this sets ZOOMFLAG to
+permit Guidance Steering. They will enter this at 108:02:58.]
+107:36:40 Haise: Roger. Okay the next entry. VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. (Pause)
+107:37:07 Mitchell: Okay. Understand VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. And this looks like our procedures you gave us earlier (at 106:34:17 Ed will do the entry at 108:03:23).
+[This resets LETABORT to inhibit aborts originating from the Abort buttons.]
+107:37:18 Haise: That's right, Ed. This'll disable P70, P71 . Okay, the next entry: VERB 21 NOUN 1 ENTER; 10 10 ENTER; 77 ENTER. (Pause)
+107:37:45 Mitchell: Okay. VERB 21 NOUN 1 ENTER; 10 10 ENTER; 77 ENTER.
+[Paul Fjeld - 77 is the number for P63 in MODREG. Ed will make the entry at 108:03:32. This will be the last of the changes, unless they actually have to do an abort.]
+107:37:56 Haise: Okay. This gets the P63 in the MODREG which gets us right for landing radar. Now, the same words apply if...
+107:38:08 Mitchell: Okay.
+107:38:08 Haise: ...an abort requirement exists. We're going to be on the AGS. And one thing maybe I didn't make clear before, is the procedure for re-enabling P70, P71. You're not to perform (those procedures), unless you do abort on AGS.
+107:38:35 Mitchell: Roger. Roger. Understand that, in an abort situation, we will abort on AGS and use the re-enable procedure previously given up (at 106:36:03).
+107:38:48 Haise: Okay. And the only other thing I can say is, as you already know, be sure and get MANUAL THROTTLE UP at 26; and after the last entry, Ed, add one more thing; we need THROTTLE to MINIMUM setting. (Pause)
+107:39:10 Mitchell: Okay. Got that. The last entry we return the COMMANDER's THROTTLE to MINIMUM setting.
+107:39:16 Haise: That's affirm. (Pause) Antares, Houston. We'd like FORWARD OMNI.
+107:39:21 Shepard: Hey, let me just recheck one... (Pause)
+107:39:27 Mitchell: Antares. You have FORWARD OMNI.
+107:39:30 Haise: Okay. I'm sorry I cut you out. Say again, Al.
+107:39 35 Shepard: Let me just recheck one thing, now. With this new procedure; you want us to have the THROTTLE CONTROL in AUTO, MANUAL THROTTLE in COMMANDER's. Even though we're going to make the override to full throttle at 26 seconds.
+107:39:50 Haise: That's affirm. And also the MODE CONTROL switch PNGS's in AUTO.
+107:39:57 Shepard: All right, sir. Fine.
+[They make the handwritten changes near the bottom of the lefthand column on page 5 at this time.]
+107:40:01 Mitchell: Fredo, we need a few words on what you want to do with this S-band. I don't think you can fight it all the way down. Can we go with the OMNI?
+107:40:10 Haise: Stand by, Ed. (Long Pause)
+107:40:24 Mitchell: And, Fredo, one more question. Does this procedure, now, safe us until such time as we get the abort disable to feed in, or do we still need to rush right along to get that in?
+107:40:39 Haise: Ed, this procedure is good as long as we can get by the first entry with the bit not set. That is, the entry right after you get NOUN 62 (displayed on the DSKY). If you get that in with the bit not set, we're in good shape.
+107:40:58 Mitchell: Okay. Is the bit not set now? (Pause)
+107:41:05 Haise: That's affirm. The bit is not set now.
+107:41:11 Mitchell: Okay. And I'm standing by for words about this (Omni) antenna. (Long Pause)
+107:41:40 Shepard: Houston, are you through with the computer?
+107:41:47 Haise: Antares, Houston. The computer's yours.
+107:41:52 Shepard: Okay. (Long Pause)
+[This is another opportunity for the crew to complete the CDR TTCA - Throttle - Min paragraph just before "Updata from MSFN" on page 5.]
+107:42:13 Mitchell: Houston, our VOICE BACKUP is giving us a hell of a squeal. (Pause)
+107:42:20 Haise: Go ahead, Antares.
+107:42:25 Mitchell: I say our VOICE BACKUP position of the UPDATA LINK switch is giving us quite a squeal. You ready for us to go DOWN VOICE BACKUP now? (Pause)
+107:42:37 Haise: Okay. Stand by one, Ed. (Long Pause)
+107:42:55 Haise: Okay, Antares. They're configured. Now, you can try it one more time, Ed. (Pause)
+107:43:02 Mitchell: Okay. (garbled)
+107:43:04 Haise: Roger.
+107:43:07 Haise: Kitty Hawk, Kitty Hawk, Houston. How do you read? (Long Pause)
+107:43:28 Haise: Kitty Hawk, Houston. How do you read?
+107:43:34 Roosa: (garbled)
+107:43:35 Haise: Okay, you're way down in the mud, Stu. We're getting an awful lot of noise. We're going to drop the downlink... we're going to drop your downlink; and, if you call, call two times, so we can get it cranked back in here.
+107:43:51 Roosa: Okay. (Pause)
+107:44:00 Haise: And, Antares; Houston.
+107:44:06 Mitchell: Go ahead.
+107:44:07 Haise: Okay. And, since we dropped Kitty Hawk here, we're not going to be in that relay mode for this period; so, you probably won't get an answer from him, if you call him at 2 minutes (before PDI PRO for the comm check).
+107:44:16 Mitchell: Okay. (Pause)
+107:44:22 Shepard: Okay.
+107:44:24 Mitchell: Okay. I've got the downlink.
+107:44:26 Shepard: Okay. (Garbled) How do you read in VOX, Houston?
+107:44:34 Haise: Okay, Al. You're about 2 by 2.
+107:44:40 Mitchell: Okay. How do you read Ed?
+107:44:42 Haise: Okay, Ed. You're about 3 by 3 there. You're still getting a lot of background static there.
+[The static disapears.]
+107:44:51 Mitchell: Okay.
+107:44:52 Haise: Okay. Now, you're loud and clear.
+107:44:53 Shepard: (To Ed, garbled under Haise) here's your VERB 83 coming up.
+107:44:57 Mitchell: Very good. (Pause)
+[Verb 83 is the second item under 'AGS Initialize' in the righthand column of page 5 in the Timeline book. They are about 30 seconds late in starting the AGS Initialization, but will finish it with 5 minutes remaining before they start the Powered Descent Initiation section at -10.]
+107:45:07 Mitchell: (To Al) Okay, that looks good. 317, looks good; 3883 (?), that looks good. Let's go to 277, that looks good. Great. All right, I can start loading the AGS pad, now. 231, plus 56963 ...6963 ENTER. 240 is the same...
+107:45:35 Shepard: Right.
+107:45:37 Mitchell: ...plus 56963.
+107:45:42 Shepard: Okay, 254.
+107:45:45 Mitchell: Okay, 254, plus 05428.
+107:45:49 Shepard: Right.
+107:45:50 Mitchell: 05428.
+107:45:53 Shepard: (2)61, plus 00037.
+107:45:57 Mitchell: 00037, (2)61, 00037 ENTER. 6...
+107:46:04 Shepard: (2)62 minus...
+107:46:07 Mitchell: (2)62 minus...
+107:46:10 Shepard: ...00147.
+107:46:11 Mitchell: ...00...0147. (2)62, minus 00147.
+107:46:16 Shepard: Right. 404.
+107:46:19 Mitchell: (4)04.
+107:46:21 Shepard: Minus 12345.
+107:46:22 Mitchell: Minus 12345.
+107:46:26 Mitchell: Okay. That's entered. Let me run back through them very quickly.
+107:46:37 Shepard: Okay.
+107:46:38 Mitchell: 231 read-out 56963. That's good. 240 read-out 56963. That's good. 254 read-out - Check me on these - plus 5 - 05428.
+107:46:46 Shepard: GO.
+107:46:47 Mitchell: (2)61 read-out, plus 00037.
+107:46:52 Shepard: That looks good.
+107:46:53 Mitchell: 262 read-out, minus 00147.
+107:46:58 Shepard: Okay.
+107:47:00 Mitchell: And 404 is a large negative number. It's (minus) 12345.
+107:47:04 Shepard: Okay.
+107:47:06 Mitchell: That's good. Okay. Let's press on...
+107:47:08 Shepard: Beginning on minus 10 (minutes).
+[They have reached 'Powered Descent Initiation' at '-10'.]
+107:47:11 Mitchell: Okay. We're a little ahead of time.
+[Descent Engine ignition will be at 108:02:29, so they are at minus 15 minutes.]
+107:47:15 Shepard: Okay. I think, Houston, what we'll do just before we ENTER on the Final Trim (at minus four minutes) is to call you to see if the bit is set at that time. Do you concur?
+107:47:30 Haise: Okay. It... it doesn't matter, Al. You can go ahead and make the ENTER (next line after '-4 Pro-Final Trim') and make the first entry at that time, after you get NOUN 62 up.
+[This is Fred's clearest statement that they need to wait until Noun 62 appears on the DSKY before they enter VERB 21 NOUN 1 ENTER; 10 10 ENTER; 107 ENTER.]
+107:47:44 Shepard: Okay. But we seem to be fairly successful that resetting by tapping; so, if it shows up prior to that time, then let us know.
+107:47:51 Haise: Okay. (Pause)
+107:48:02 Mitchell: Okay, let me read this. (Confirming with Shepard and Haise what he needs to do) At (minus) 4 minutes, that (first entry, namely,VERB 21 NOUN 1 ENTER; 10 10 ENTER; 107 ENTER ) goes in; (and at) ignition plus 26 (go to) MANUAL THROTTLE (UP as per 107:35:16).
+107:48:07 Shepard: Rog.
+107:48:08 Mitchell: And (then) I'll put these other calls in just as quick as I can get them in.
+107:48:12 Shepard: Yes. One right after the other. I'll tell you what 's going on.
+107:48:15 Mitchell: Okay.
+107:48:16 Haise: Antares, Houston.
+107:48:20 Shepard: Go ahead.
+107:48:21 Mitchell: Go ahead.
+107:48:23 Haise: Okay. I see you're already past that point, and we need the throttle to... THROTTLE CONTROL to AUTO.
+[Fred is referring to The Throt(tle) Cont(rol) switch, which is on the left side of the top row in the Engine Thrust Control section at the bottom left on Panel 1. The 'up' switch position is 'AUTO'. Apparently, Houston is not seeing that switch in Auto. That switch setting was to have been done immediately after the Ascent battery report at 107:29:16 but may not have been done because the crew was busy getting new procedures from Houston.]
+107:48:32 Mitchell: Okay. We're... we'll get it when... We've got it on our checklist, Fred. We're not quite there yet.
+[Ed is referring to lines 6 and 7 on the DPS Burn Card.]
+107:48:37 Haise: Okay, Ed. And one other thing the...
+107:48:39 Shepard: (Let's) go ahead and change our DPS Burn (Card).
+[What Al means is that he will start the original, printed procedures on the front of the DPS Burn Card.]
+107:48:41 Haise: ...the value of 231 (seventh line up from the bottom of the lefthand column on page 5) has changed, Ed; so, we need you to reload 231 and 240 with the following number: plus 56978. That's an update to your RLS (Radius of Landing Site or Reference Landing Site).
+107:49:00 Mitchell: Roger. 56978, CLEAR 231; 56978, ENTER; (2)40, plus 56978, ENTER. Okay, Fred. They are in.
+107:49:22 Haise: Roger, Ed. (Pause)
+107:49:27 Mitchell: (Taking care of the sixth and seventh lines of the DPS Burn Card) Okay, AUTO/COMMANDER. AUTO again. (Pause)
+107:49:42 Shepard: Okay, we're done with that (DPS Burn Card) down to the point where we check out ABORT and ABORT STAGE, RESET. DEAD BAND, MIN, MODE CONTROL 3 (ATT CONT switches).
+[These steps start seven lines above "For PDI Go To Timeline Book."]
+107:49:54 Mitchell: (Referring to the first line on the DPS Burn Card) Okay. Did you get your circuit breaker to GIMBAL AC.
+107:49:56 Shepard: Yes. They... they're all set.
+107:49:58 Mitchell: All right. Let me check mine then. ...
+107:50:01 Shepard: I already checked yours.
+107:50:02 Mitchell: Okay.
+107:50:06 Shepard: Okay. (Pause) (Taking care of the last four lines before 'For PDI GO TO TIMELINE BOOK') PGNS in... PGNS AUTO and AGS AUTO. STOP pushbuttons are RESET. (Garbled, but referring to the final line: CDR TTCA - THROT) is in MIN. (Pause)
+[Thomas Schwagmeier notes that this setting is accomplished by a combination of 'Select Lever to THROTTLE' and 'T-Handle to Minimum' (lowermost position).]
+107:50:33 Mitchell: Okay, how far down are we on the DPS configuration card now, down to...
+107:50:37 Shepard: There.
+107:50:38 Mitchell: ...down to there. Okay.
+107:50:41 Shepard: We're through with that card.
+107:50:44 Mitchell: Okay.
+107:50:46 Shepard: Back on this one? (Timeline Book page 5)
+107:50:47 Mitchell: Roger. We have 10 minutes (until ignition).
+107:50:48 Shepard: Standing by for the landing radar (circuit breaker to be closed, as per first line below POWERED DESCENT INITIATION). (Long Pause)
+107:51:17 Shepard: I'm a little (20 seconds) early here.
+107:51:21 Mitchell: Ah, Fred, if you're going to give me any words on the antenna operation, I'd appreciate them very soon. (Pause)
+107:51:32 Haise: Okay, Antares. The OMNI is GO.
+107:51:38 Mitchell: Okay. We're going on OMNI. (To Al) (We are at minus) 10 minutes; give me circuit breaker LANDING RADAR, CLOSE ('CB LR - Close'). Check the ALTITUDE TRANSMITTER ('✓ALT XMTR).
+107:51:49 Shepard: Okay. It's closed. And the VELOCITY TRANSMITTER is reading 4.0, and the ALTITUDE TRANSMITTER is reading 4.0.
+107:51:55 Mitchell: Okay. Let's call P63. (Third line under 'Powered Descent Initiation')
+107:51:58 Shepard: Let's do. (Long Pause)
+[On page 277 in his book The Apollo Guidance Computer, Frank O"Brien writes "Program 63 was entered about ten to fiftenn minutes before ignitiion, to give the computer time to calculate the ignition time and ensure that the LM is at the correct attitude for descent. On the DSKY, Verb 37, Enter, 63, Enter is keyed. P63 replies with several important pieces of information, starting with a flashing V06N61. The time to go in the Braking Phase, the time from ignition, and crossrange distance are displayed on the DSKY. (See, also, page 43 in Frank's AGC write-up.) "]
+107:52:10 Shepard: Bum-bum, Bum-bum, Bum. (Pause)
+107:52:24 Mitchell: (Comparing the time to ignition on the DSKY with the Digital Event Timer) It looks like it (the DET)'s about 1 second off.
+107:52:26 Shepard: (garbled) (Pause)
+107:52:31 Mitchell: Right on. Okay, timer's set. It's right on.
+107:52:34 Shepard: Okay.
+107:52:37 Mitchell: Okay. And we're looking for NOUN 63; go ahead.
+[Although the DSKY will display Noun 63 after ignition - see page 44 in Frank O'Brien's AGC write-up - Ed may mean Noun 62. After Noun 62 is displayed, Ed will enter the first of the new procedures. That will happen at 107:58:10.]
+107:52:41 Shepard: Hold on. (Pause)
+107:52:50 Shepard: (As per 'Okay, your DPS burn card is all complete. (Long Pause)
+107:53:25 Haise: Antares, Houston.
+107:53:30 Mitchell: Go ahead, Fredo.
+107:53:31 Haise: Okay, somewhere down a little past 10 minutes (after ignition), Ed, we're going to need to switch to AFT OMNI. We'll try to give you a call on it.
+107:53:41 Mitchell: Okay, if I hear it, I'll switch... If I hear it start to break up, I'll switch it, unless you'd... rather I wait for the call (from Fred).
+107:53:49 Haise: Okay, you can go ahead and initiate it on your own, Ed. I think that'll work out better.
+107:53:56 Mitchell: Okay.
+[At 107:39:16, Fred had Ed switch comm to Forward Omni. If Ed hears the signal degrade, he'll switch to Aft Omni.]
+107:54:00 Shepard: Okay, the FDAI (Flight Director Attitude Indicator). PRO?
+[The line on page 5 immediately above 'Verify FDAI' gives the roll (R), pitch (P), and Yaw (Y) angles (0, 113, 0) the LM should have at ignition. This is confirmed by the first entry in the table on the left on page 6, which gives a pitch angle (θ) of 113. For the descent phase of the mission, Pitch is zero when the LM is sitting vertically on a level surface at the landing site. Pitching the LM back 90 degrees puts the thrust axis parallel to the surface. Because the Moon is spherical, in the coordinate system defined at the landing site, the LM is tilted back an additional angle equal to the great-circle arc between the landing site and the point of ignition. Table 6-III in the Apollo 14 Mission Report gives the ignition location as 7.38S/1.57W. The landing site is at 0.673S/17.465W. Using online software (written for locations on Earth) to compute the great circle distance between the two, the distance in kilometers is converted easily (360 x distance / Earth circumference) to an angular distance of 17 degrees. For a situation in which the thrust axis is parallel to the surface at ignition, the LM pitch would be 107 degrees. Clearly, at ignition the thrust axis is being set 6 degrees above horizontal.]
+[David Woods adds, "My basic premise is that there is no particular reason why the thrust axis has to be exactly parallel to the surface for ignition and onwards. As we know, Apollo 16 started high due to the delay brought about by their SPS engine gimbals. Then, for the first few minutes of the descent, the DPS is in its high throttle setting. This means that the computer cannot use the throttle to adjust their flight path. The only variable it has available to it is attitude. So I see the following from Charlie as he compares their actual altitude and descent rate with the expected values printed on their cue cards:
+104:18:32 Duke: Okay, we're way high, John; we got to get down. Way high on the H-dot.
+This tells me that during the high throttle phase of P63, the computer has been able to do something to compensate for their high starting altitude and is bringing Orion down faster than the cue cards show. I would suggest that what it adjusts is attitude. Therefore, given that the computer seems to use attitude as part of its control algorithm, it is certainly possible that the LM pitch at PDI is always set a few degrees 'engine-up' to get the descent off to a positive start."]
+107:54:08 Mitchell: Okay.
+107:54:09 Shepard: (Apparently reading the current LM pitch on the FDAI) 111 and about...
+107:54:14 Mitchell: (garbled) (Pause)
+107:54:18 Shepard: (garbled)
+107:54:19 Shepard: FDAI looks good. We'll zero the CDU (Coupling Data Unit)s.
+[Which is accomplished by keying in V40N20E.]
+[On page 50 in his authoritative book, The Apollo Guidance Computer (AGC): Architecture and Operation, Frank O'Brien writes, "As the spacecraft rotates, a sensor called a resolver in the (IMU gimbal) pivot bearing senses the angle between the gimbal and the platform and sends it to the Coupling Data Unit (CDU). The CDU, essentially an analog-to-digital converter, takes data from the resolver, converts it to digital pulses and sends them to the AGC ... A CDU is dedicated to each of the three rotational axes of the IMU, plus the shaft and trunnion of the sextant (Command Module) or the rendezvous radar (Lunar Module)." Consequently, the computer had separate storage for two distinct sets of CDU angles.]
+107:54:22 Mitchell: Okay.
+107:54:27 Shepard: Your (CDU) zeros in?
+107:54:28 Mitchell: Roger. Standing by. (Pause)
+107:54:37 Shepard: Your zeros complete.
+107:54:39 Mitchell: Okay.
+[Paul Fjeld explains that the next three entries are: (1) 400+3 puts 30000 in address 400 for PGNS to AGS alignment; (2) 410+0 puts 00000 in address 410 for orbit insertion in the Guidance Mode in case there is a PGNS failure; and (3) 400+1 puts 10000 in address 400 to make sure attitude follows guidance (steering) and the Flight Director needles will be active.]
+107:54:40 Shepard: 400 to plus 30,000.
+107:54:41 Mitchell: It's entered.
+107:54:43 Shepard: 410 to plus all zeros. (Pause)
+107:54:50 Mitchell: 410 to plus all zeros is entered.
+107:54:52 Shepard: 400 to plus 10,000.
+107:54:54 Mitchell: Plus 10,000 is entered.
+107:54:58 LM Crew: (garbled)
+107:54:59 Mitchell: It went in. We have needles.
+107:55:00 Shepard: Get a read-out at 433, at your pleasure.
+107:55:05 Mitchell: Okay. 433 inertial velocity. (Pause)
+[They have completed all the timeline steps under 'Verify FDAI'.]
+107:55:11 Shepard: Okay, we're sitting on FINAL TRIM, waiting (for minus) 4 minutes. (Pause)
+107:55:21 Shepard: Got a VERB 21 NOUN 01, 10 10 and a 107 is your first call (meaning the first abort-bit change which Ed will enter via the DSKY at 107:58:10).
+107:55:27 Mitchell: Okay. (I) have it there, and I've got it there. Good enough. (Long Pause)
+[Ed saying that he has the first entry handwritten in two places: perhaps in the Timeline book and on the back of the DPS card.]
+107:55:47 Shepard: Okay, we're starting now with 96 on A and (garbled, possibly '94') on B. (Cough, Pause) Still good. (Pause) Steady as a rock. (Pause)
+[This may be a reference to propellant quantities in the two, independent RCS systems.]
+107:56:13 Mitchell: Okay, Al, your RCS system looks good.
+107:56:16 Shepard: Ascent Helium (tank pressures) 1 and 2 look good. B tank's still good. And the (garbled) is good.
+107:56:26 Mitchell: EPS (Electrical Power) system is good. EPS, all indications are normal.
+107:56:31 Shepard: Okay.
+107:56:33 Mitchell: We're ready.
+107:56:37 Shepard: (garbled) Okay, a minute and 50 seconds away from Final Trim.
+107:56:43 Mitchell: Okay.
+107:56:47 Shepard: (Garbled).
+107:56:50 Mitchell: All right. (Long Pause)
+107:57:06 Shepard: Okay. We'll go into FINAL TRIM 30 seconds early. It'll allow you to get that... (VERB 21 NOUN 1 ENTER; 10 10 ENTER; 107 ENTER entered to put P70/71 in the Mode Register).
+107:57:11 Mitchell: Okay.
+107:57:13 Shepard: (Garbled) (Pause)
+107:57:22 Shepard: Let me do the FINAL TRIM, and then you can take it over.
+107:57:24 Mitchell: Yeah. Good.
+107:57:28 Shepard: Rather have me put it in?
+107:57:29 Mitchell: No, I've got it. I just wanted to adjust this locking harness and still reach (the DSKY). (Pause)
+107:57:37 Shepard: Okay.
+[Ed is probably referring to restraint system that each of them wears during powered flight.]
+107:57:39 Mitchell: Pro. (Pause)
+107:57:42 Mitchell: (garbled)
+107:57:42 Shepard: (garbled) there.
+107:57:45 Mitchell: Do it? Says we're there, and we are.
+107:57:50 Shepard: (Garbled) Okay, you're ready?
+107:57:52 Mitchell: I'm ready. ENTER.
+107:57:55 Shepard: Okay, ENTER. (Pause)
+107:57:59 Mitchell: (garbled) display comes up. (Pause)
+107:58:10 Mitchell: Okay, there it (Noun 62) is.
+107:58:11 Shepard: NOUN 62 is VERB 21, NOUN 01 ENTER, 10 10, ENTER; 107, ENTER.
+107:58:26 Mitchell: Okay, Houston. It's in. (Pause)
+107:58:34 Haise: Roger, Antares.
+[They have now put the code (107) the Mode Register so that, if the abort-bit becomes set by the floating solder ball, the Abort Monitor will think they are already in P71 and won't interfer with P63, which is what is actually running.]
+MP3 Audio Clip 16 mins 45 secs
+Your browser does not support the audio element.
+107:58:37 Shepard: And Antares is standing by for a PDI Go. (Long Pause)
+[The Flight Director is Gerry Griffin. Pre-flight photo S71-16804 (scan by J.L. Pickering) shows Apollo 14 Flight Directors Pete Frank (left), Milt Windler, Griffin, and Glynn Lunney posing in the MOCR.]
+107:58:51 Haise: And, Antares; Houston. You're Go for Fra Mauro.
+107:58:57 Mitchell: Good show, Fredo. Thank you.
+107:59:00 Shepard: Thank you. You troops do a nice job down
+there...
+107:59:02 Mitchell: That was beautiful. (Pause)
+[The crew is thanking the ground for the quick fix to the
+abort switch problem.]
+107:59:11 Shepard: Okay, if your watch is reset, we'll flip the
+page.
+107:59:15 Mitchell: Let's go.
+107:59:16 Shepard: Okay. (Pause)
+[Al's reference is to the line "RESET WATCH", ninth up from the bottom of the righthand column on page 5 in the LM Timeline Book. This item is repeated at the top of the lefthand column on page 6.]
+107:59:25 Mitchell: (Garbled).
+107:59:27 Shepard: Okay. All procedures are normal from here on in
+except at 26 (seconds into the engine burn), I actuate the Manual Throttle
+to Full on my side.
+107:59:34 Mitchell: That's correct. I'll start reentering the DPS
+(Descent Propulsion System, pronounced "dips") after you have
+throttled up.
+107:59:39 Shepard: Okay.
+[As indicated above, Ed will complete the steps of the
+procedure designed to circumvent the abort bit problem after Al does
+the manual throttle-up. Fred read up these steps at 107:35:16]
+107:59:42 Mitchell: Won't have guidance until after I give it to
+you, after the first entry. (Pause) Okay. We covered everything on that
+last one (that is, on the page in the checklist they've just discussed)?
+107:59:55 Shepard: Yes, sir. (Pause)
+108:00:00 Mitchell: At 10 feet per second, we (garbled).
+108:00:08 Shepard: You're breaking up to me. Would you run your
+(microphone) sensitivity up full?
+108:00:10 Mitchell: Okay. VOX sensitivity is full up.
+108:00:13 Shepard: Okay. (Long Pause)
+[They are wearing suits, helmets, and gloves, albeit
+unpressurized because of the near impossibility of flying the spacecraft
+with a stiff suit.]
+[Mitchell - "We were wearing suits, absolutely, but did we have
+helmets and gloves on?"]
+[Jones - "The reason I think you do is that when you get down -
+after T-2, I think - you take them off."]
+[Mitchell - "That sounds right. I can't imagine us going
+down...God, 20 years is a long time! I can't imagine us going down without
+helmets or gloves on. So it must be the case."]
+108:00:25 Shepard: All righty; it's a beautiful day to land at Fra Mauro. (Long Pause) Okay, we'll bring Master Arm on 30 seconds (early) in case simulations hit us again.
+108:00:50 Mitchell: Okay.
+[Mitchell - "What he's referring to there is that if we were going to get a malfunction introduced in a mission simulation, it was normally at this time. And the actual mission was a lot simpler than the simulations because (in the simulations) they were always playing war games and failure-games and what-if games. And there was nearly always one that took place at that time. I can't remember the exact failure, but we had the procedure there as to the exact point that Master Arm switch came on. And I don't recall what failure would take place if you didn't do that one
+sequence."]
+[Jones - "And the Master Arm switch basically enabled the descent engine to fire and also enabled the explosive bolts in case you wanted to abort the descent."]
+[Mitchell - "Right. And, as I recall, the Master Arm had to be
+on before the Engine Arm had any effect. Now, Al tended, quite often, to make cryptic remarks about simulations - well, we all did - because we tended to think of this as just a giant simulation and we'd think: 'Are the guys who induce the failures getting ready to induce another failure at this point?' And we were trying to be a little lighthearted about the fact that the abort switch problem was really a disaster. I mean, it had us pretty ginchy (apprehensive) and gun-shy. God only knows what could happen next. And we suspected, in the back of our minds but didn't know for sure, that when you re-write a system and re-engineer a system as we did to get around that
+abort switch, you could create side effects. And it turns out we created one: the landing radar. But you never know that in advance. You don't know until it hits you. So we were a little nervous about all of that."]
+[As indicated at the top of the lefthand column of page 6 in the LM Timeline Book, the Master Arm switch was to be turned to 'ON' one minute before Powered Descent Initiation (PDI or Descent Engine Ignition). Ignition will come at 108:02:29. In his next transmission, Al reports "Master Arm is On", 1 minute 47 seconds before ignition or 47 seconds before the nominal time. They have turned it on early. They will arm the descent engine at 108:01:58, which is about 30 seconds before Ignition, as planned.]
+108:00:52 Shepard: Houston, the Master Arm is On, and the A and B Lights are On.
+108:00:57 Haise: Roger, Antares. (Long Pause)
+[The electrical system - with which they will fire explosive charges to open the fuel valves or, in the event of an aborted landing, would detonate the explosive bolts that hold the two LM stages together - actually consists of a pair of redundant circuits. The A and B lights indicate that both circuits are healthy.]
+108:01:19 Shepard: Looks quiet; looks good. (Pause)
+108:01:28 Mitchell: Mark; 1 minute (before ignition).
+108:01:31 Shepard: Okay. Landing radar temperature's coming up. (Pause) Okay. (Pause)
+[This remark indicates that the radar circuitry, especially the device that actually generated the radar pulses, required a finite warm-up time. There is a radar temperature gauge on the instrument panel.]
+108:01:45 Mitchell: Put that to Off?
+108:01:50 Shepard: (I) see it. (Changing the switch position) There you go.
+108:01:51 Mitchell: (Garbled under Al) it got bumped.
+[Mitchell - "I don't know which one it was, but
+something got bumped to the wrong position."]
+[Jones - "There were guards on the switches?"]
+[Mitchell - "On the real critical
+switches."]
+[David Woods has released an annotated version of the DAC (16-mm film) footage that includes the air-to-ground audio and transcript plus commentary. Synchronization is superb, of course. Available on YouTube (16 min 15 seconds).]
+108:01:54 Shepard: Okay....
+108:01:55 Mitchell: (Garbled)
+108:01:55 Shepard: ...(the) DSKY's on time.
+[The DSKY is the Display and Keyboard Assembly for the Primary Guidance and Navigation System or PGNS, pronounced
+"pings".]
+[Jones - "DSKY's on time? What does that mean?"]
+[Mitchell - "It's counting down to time. And we ran independent checks - stopwatch checks. I was timing and checking the DSKY against the Abort Guidance System (AGS) computer...I was continuously checking. So, essentially, when he's saying the DSKY's on time, it really means it compares with stopwatch time."]
+[Jones - "The AGS computer was designed to give you an abort capability in the event of a failure of the PGNS."]
+[Mitchell - "The AGS was operable at any time when you went into abort. It didn't do a darn thing for you going down. But, when you went into abort, it continuously computed the trajectory back to orbit. What was missing was that we had to do the separation and the pitchover manually...Well, AGS might have done the pitchover. But we had to do the separation and the initiation of abort. Instead of a single-point abort switch, we had to go through a number of steps to do that."]
+[Jones - "Jack Schmitt and Gene Cernan both talk about working during training for Apollo 17 to get the AGS in a condition where they could have used it to land had the PGNS failed. Did any thinking like that go into the preparations for Apollo 14?"]
+[Mitchell - "The only thing we would have used it for would have been to get the descent velocity...well, to get velocity on all axes. We could do that. As I remember, the AGS only had one readout - instead of three like the DSKY. So, to get velocities in different directions, I'd have to call up a different program. I was pretty slick on the AGS. So I could call up programs pretty fast. And the main thing you would be interested in - landing with AGS - would be your descent velocity, because the guy flying it could pick up your horizontal velocity. What you didn't have a good (visual) feel for was descent velocity. Yeah, we could do that. We
+did a lot of things like that, that I don't know had been done on previous missions. And we did them only because I was so darn familiar with the systems that I could play games with them, you know, like a computer hacker. Those things were never designed into it. But I could do things with the AGS and with the main guidance system that really weren't in there, that weren't even in the checklist. But, here, what I'm doing is a double check, a double backup by timing procedures. I generally had a stopwatch going, checking the DSKY and the AGS against each other and
+playing all sorts of games."]
+108:01:58 Mitchell: Engine Arm to Descent.
+108:02:00 Shepard: Average g is On. The Descent Engine is armed.
+108:02:04 Haise: Roger, Antares.
+108:02:05 Shepard: There's Altitude and Velocity light(s). R3 looks quiet. (Pause) Okay. We're waiting for Ullage, Auto Ullage. (Pause)
+108:02:18 Shepard: Okay, R(egister)3 looks good.
+[David Woods notes that the Altitude and Velocity lights are immediately above the 7-4-1 key column of keys on the DSKY. They will remain lit until the computer starts getting good radar data. If Noun 62 is still showing on the DSKY, Register 3 is the accumulated velocity which, until ignition, is unvarying at 0.]
+108:02:21 Mitchell: Ullage.
+108:02:22 Shepard: Auto Ullage.
+[The propellant tanks contain a mixture of propellant and helium used to provide pressure. In the absence of any acceleration against the direction of motion, there is no way of ensuring that it is propellant that flows through the valves and not helium. Consequently, the computer fires the RCS thrusters against the direction of motion, creating a small amount of acceleration which separates the lower density helium from the propellant. "Ullage" is literally the unfilled portion of a cask but, here, is used to describe the process of forcing the heavy
+propellant "down" toward the valve and the light helium
+"up" away from it. In the event that the computer did not give ullage, Shepard was prepared to do a manual backup.]
+108:02:26 LM Crew: Pro(ceed).
+[They are telling the computer to initiate engine
+ignition.]
+108:02:27 Shepard: 3, 2, 1, 0...
+108:02:29 Mitchell: Ignition.
+108:02:30 Shepard: And we have Auto Ignition.
+108:02:32 Mitchell: Ignition looks good.
+108:02:33 Haise: Roger, Antares.
+108:02:35 Shepard: We have an Auto Ignition.
+108:02:39 Mitchell: Okay. Engine Arm, Override...(correcting himself) Engine Command, Override.
+108:02:41 Shepard: Okay. And the Master Arm is Off.
+108:02:43 Mitchell: All right. Standing by for 26 (seconds into the burn).
+108:02:45 Shepard: Okay. (Pause) We'll take the Throttle up at 26. (Pause)
+108:02:54 Mitchell: Throttle up.
+[Journal Contributor Paul Fjeld notes that, as can be seen in Table 8-V in the Apollo 14 Mission Report ( 9Mb PDF ), Al achieved the manual throttle up at 27.28 second after ignition, only about 1 1/4 seconds late.]
+108:02:56 Shepard: Okay. We're at full throttle, Houston.
+108:02:58 Mitchell: Command is Down. Verb (garbled) 5...
+108:03:01 Haise: Roger, Antares.
+[Fjeld - "Ed is starting to punch the sequence Verb 25 Noun 7 Enter, 101 Enter, 200 Enter, 1 Enter. This sequence sets ZOOMFLAG to permit Guidance Steering."]
+[Note that, during my discussions with Ed in the early 1990s, we started at 107:58:37 and did not have transcripts, audio, or input obtained a quarter century later from knowledgeable Journal Contributors. Consequently, Ed had to rely on old memories of the abort-switch procedures. In the circumstances, he did very well. I deeply regret that I wasn't prepared to discuss this material during my time with Ed.]
+[Jones - "All this down to about 108:03:32 are the manual
+procedures?"]
+[Mitchell - "We're making changes to compensate for the fact that we've disabled the automatic system and are doing a whole series of things in a manual fashion...Not really manual. I mean, the computer was still flying the spacecraft down. But, as I recall, it was a modified manual/automatic procedure in order to get the ullage and to get the thing ignited. And, as I recall the throttle was in full instead of in"� (correcting himself) I don't know whether, on the normal procedures, we backed up this descent engine or not. But, in this case, it's clear that Al went up to full throttle and then, when we changed the internal logic, that disabled whatever we were doing at that point and returned it to an automatic procedure within the
+DSKY system."]
+[Jones - "Because the computer was not getting some signals that it normally would have gotten, to trigger certain programs."]
+[Mitchell - "That's right. Either that or we modified the procedure for safety sake, to make sure it didn't get spurious commands at that point. There were a number of things to consider. The first thing to consider was : we wanted to make sure, at this point, that we had a smooth descent engine startup. The guidance system worked and did start us down on our trajectory. The second thing: we backed that up with whatever
+procedures were necessary. All with a mind that it could either not work or it could throttle up and take us off on a different trajectory. So we were trying to box it in, so that it wouldn't fail out on the bottom side and it wouldn't go crazy on the upper side. And these procedures had to do with that."]
+108:03:03 Mitchell: ...Noun 7, Enter 101.
+108:03:09 Shepard: 1.7.
+108:03:12 Mitchell: 001, Enter. Should have guidance. And you have Command and Throttle.
+[Fjeld - "ZOOMFLAG is set."]
+108:03:19 Shepard: Okay. We have guidance.
+[Mitchell - "I think that all of this is change
+procedure, instead of automatic. I think that the computer would not automatically start guidance until I gave it control. And I think that's what these two or three lines is all about here."]
+108:03:23 Mitchell: All right. I'm Disabling (aborts). Verb 25 Noun 7 Enter, 105 Enter,...
+[Fjeld - "Ed is punching the sequence for resetting LETABORT, disabling aborts."]
+108:03:31 Haise: You're Go at one (minute) Antares.
+108:03:32 Mitchell: 400, Enter; 0, Enter. Okay. Landing radar enable: Verb 21 Noun 1 Enter, 1010 Enter, 77, Enter. The landing radar is there. Al, you can reduce your Throttle to Minimum.
+[Fjeld - "Ed has now restored P63 in MODREG so the State Vector routine will use the correct weighting function to apply to the radar delta H. '77' is the number for P63 in MODREG."]
+108:03:56 Shepard: Okay. It's coming down.
+108:03:57 Mitchell: You have Command and Thrust (garbled) (Pause) Okay, Houston. The procedure is complete.
+108:04:04 Haise: Roger, Ed.
+108:04:06 Shepard: And we're standing by for Noun 69. As appropriate. (Pause)
+[They are asking if Houston has an update on their targeting based on tracking data.]
+[Mitchell - "Well, I'm pretty sure that the Noun 69 portion was a normal part of our procedures. (True) The onboard system did its thing and started us down toward the programmed landing site, but Houston had the ability, of course, with that highly sophisticated tracking system they had...They had the capability very quickly after we ignited to see whether we were on what they computed was the desired trajectory. And, as I recall, Noun 69 was a standard program update - if needed - to correct for
+the landing site."]
+[See Paul Fjeld's comments after 108:04:53.]
+108:04:15 Haise: And, Antares, Noun 69...
+108:04:15 Shepard: (Garbled under Haise) back to normal now, huh?
+108:04:16 Mitchell: (Garbled under Haise).
+108:04:18 Haise: ...is plus (+) 02800.
+108:04:30 Shepard: Plus...What is it?
+108:04:31 Mitchell: 02 - no, (only) one zero - plus 02800.
+[The original 1971 NASA transcription of Ed's transmission (on page 376) is "02 - no, 10 - plus 028 00." While reviewing David Woods' 2015 draft of his annotated version of the landing film, I was puzzled by the original transcription until I realized that, while Al was entering the new value of Noun 69, Ed was monitoring what was being entered. Evidently, Al started by entering +00, rather than +0. Ed immediately called Al's attention to the error by saying "(only) one zero" and then repeated the entire sequence, "+02800". David and I exchanged e-mail about the transmission. In particular, David described Ed's "no, one zero" as a 'mild admonishion' and added that the incident 'goes with the idea that Al leaned on Ed's immense knowledge and competence with the LM throughout their time with Antares.']
+108:04:42 Shepard: Okay, Houston, how does that look? (Pause)
+[Mitchell - "As I recall now, (with regard to)
+virtually all of the change procedures as a result of the abort switch
+problem, I did the work on that. Al followed the normal procedures on the checklist and I did virtually all of the change procedures. And the way he's entering this (Noun 69), I can tell from the tone of his voice, that's something he'd practiced doing. That was our agreed upon way of doing it. So that Noun 69 was a part of our normal procedures."]
+[Jones - "And I take it that Houston has the ability to look at
+what the computer's got and, at 108:04:42 when he asks Houston, 'How does that look?', Al is asking them to take a look and confirm that he's entered the correct value."]
+[Mitchell - "Oh, yeah. They could read our DSKY, just like we
+could. And, of course, the difference is a two-and-a half second delay time."]
+108:04:48 Haise: Okay; go for Enter.
+108:04:53 Shepard: Okay, it's in.
+[Journal Contributor Paul Fjeld notes that the ability to update the LM targeting was added on Apollo 12. He writes, "NOUN 69 was an unusual vector. Every two seconds, among many other things, each pass of the computer through Guidance would update the Landing Site position in the Platform Coordinate frame to account for the turning of the moon, and reconstruct the Guidance Coordinate frame. On every pass, the computer would also add the vector DLAND to the Landing Site Position and then set DLAND to zero. DLAND is NOUN 69 and the astronauts could completely mess things up if they set it wrong. NOUN 69 was loaded into the computer before PDI as all zeros (all balls), and, a couple of minutes into the descent, Houston would give them a Z (downrange) value (only) of the NOUN 69 vector to add to the Landing Site Position. They would punch the number into the first register only and wait for Houston to tell them it was okay before they hit Enter."]
+108:04:55 Mitchell: Okay. Give me a two-minute-30-second hack, Al.
+108:04:58 Shepard: Okay; my mark.
+108:05:00 Mitchell: 2:30. Okay, we're a little fast. (The
+horizontal velocity is) about 10 feet per second (too fast). Little slow on H-dot and a little low. PGNS and AGS, that was in 2 foot per second; it looks good, it looks good.
+[H-dot is the rate of descent, the time derivative of altitude. Ed is comparing their velocities and altitude with a chart which he has in front of him showing the desired values at particular moments of the descent. They are a bit lower than planned and, to compensate, the computer is giving them a slightly lower than normal descent rate. Ed is also comparing the descent rate estimates being displayed by the two computer systems and is finding only a very small difference of 2 fps.]
+108:05:19 Shepard: Okay, it's almost back on the track.
+108:05:20 Mitchell: Yep. (Pause) I'll give it a 3-minute mark, again.
+108:05:28 Shepard: (Garbled).
+108:05:29 Haise: And, Antares; you're Go at 3.
+108:05:31 Mitchell: Go at 3. Okay, V-sub-i (total velocity) is good.
+108:05:36 Shepard: Okay; understand. Go at 3.
+108:05:37 Mitchell: H-dot is low; H is a little low; PGNS and AGS (have) a foot per second difference.
+108:05:46 Shepard: Okay. (Pause) A little higher than AGS at the moment. (Pause) Okay, you want to get those ED Batts out of the way.
+108:05:57 Mitchell: Yeah. I was going to wait just another 10 seconds here.
+108:06:02 Shepard: I'll look at the throttle convergence.
+108:06:04 Mitchell: Take a look at ED Batts.
+[Ed is going to check the voltages on the batteries which would provide current to the Explosive Devices (ED's) with which they would jettison the Descent Stage in the event of an abort using the ascent engine for the return to lunar orbit.]
+[Mitchell - "We had a problem with one of the batteries on the
+way out. They'd noticed that one of the LM batteries was running a volt and half low as I recall. (Actually, LM battery 5 was running at about 36.7 volts, compared with a normal value of 37.0) And that concerned everybody, but it did seem to stabilize. We were particularly sensitive to the descent batteries. And, even though this was a planned step in the checklist, we wanted to take a hard look at it."]
+[David Woods has provided scans of pages 15 (1.0Mb) and 16 (1.0Mb) from the Apollo 15 Lunar Module Cue Cards, which cover various abort scenarios. On page 16, for a return to orbit using either the descent engine (lefthand column) or the ascent engine (righthand column), The Commander would check the position of the Guidance Switch and then push either the Abort button or Abort Stage button, respectively.]
+108:06:11 Shepard: Okay, throttle's converging; looks nice.
+108:06:14 Mitchell: Houston, my ED Batts are Go, all in the
+green.
+108:06:17 Haise: Roger, Ed. (Pause)
+108:06:24 Mitchell: Isn't it a smooth ride?
+108:06:25 Shepard: Yeah, it's great.
+[Fjeld - "On Apollo 11 and 12, the propellant tank slosh baffles were not very effective so that, at about half empty, the swirling fluids would torque the LM out of its deadband with enough force that the Autopilot would have to use jets to correct their attitude. The jerking around also caused their LPD grid to be essentially useless. For Apollo 14, better baffles were cleverly installed through a two-inch hole at the base of each welded tank, like a ship in a bottle. They worked beautifully!"]
+108:06:26 Haise: Antares, you're Go at 4 (minutes).
+108:06:28 Shepard: Guidance is good. (Responds to Haise) Rog.
+108:06:33 Mitchell: Four (minutes). V-sub-i is good. H-dot still
+low. H is converging (that is, the altitude is closer to the planned
+value at this point in the descent). PGNS and AGS are about 2 and a half
+foot (per second) apart. Good. Down to 32,000 (feet altitude). We should
+be getting landing radar in very soon. (Pause) They're good; they're Go.
+(Pause) Okay, I will give an update at 12,000. There's a little
+difference in them. (Pause)
+[The PGNS and AGS computers are in close agreement, a fact
+that gives confidence in both the trajectory and in both computers.]
+[Mitchell - "V-sub-i is total velocity. What does "i"
+stand for? Inertial velocity. That's a guess, but it makes sense. Yeah,
+that would be our velocity along the trajectory. It's the magnitude of the
+velocity vector relative to something. So, if it's inertial, it should be
+with regard to a lunar-centered system."]
+108:07:15 Mitchell: Come on radar, (garbled) lock on. (Pause)
+(Insistent) Come on radar. (Garbled) thousand.
+[The landing radar is not getting any returns from the
+surface. Unbeknownst to the crew, the radar is operating in a short-range mode instead of the long-range mode which it should be in at this
+point.]
+108:07:34 Haise: Antares, Houston. You're Go at 5.
+108:07:36 Mitchell: (Garbled) the radar in.
+108:07:39 Shepard: (To Haise) Roger. (Long Pause)
+108:08:02 Mitchell: 5:30 (into the burn). (Pause) We're on
+profile.
+108:08:08 Haise: Okay, 6 plus 40...
+108:08:09 Mitchell: (Garbled).
+108:08:09 Haise: ...is throttle down, Antares.
+108:08:15 Shepard: Roger.
+108:08:16 Mitchell: Roger, Houston. We still have Altitude (and)
+Velocity lights.
+108:08:19 Haise: Roger. (Pause)
+[Jones - "Does the fact that the lights are still on
+indicate that you don't have radar data?"]
+[Mitchell - "That's the problem we're approaching. The radar has
+not come in. Now, let's review this. When I say at 108:06:33 'We're
+down to 32,000' - that's 32 thousand feet altitude - and the radar was
+designed to come in at 30 thousand feet. I started looking at it at 40
+thousand feet because some missions had had it come in at 40 thousand. But
+it should be in by 30 thousand. When it didn't come in by 30 thousand, we
+got alarmed. And at 20 thousand feet, that's when we were frantically
+trying to get it to come in because, at 10 thousand feet, there was
+automatic (meaning 'mandatory') abort without landing radar. As I recall,
+we got it in about 18 thousand feet by cycling the breaker. The DR
+(descent rate) profile was very, very close (to the planned profile).
+There was very little update as a result of the radar."]
+[The descent rate profile is, in essence, a plot of the descent rate versus altitude.]
+108:08:24 Shepard: I'll bet they know that.
+108:08:26 Mitchell: What?
+108:08:28 Shepard: I bet they know that. Stand by for six
+(minutes). Mark, six.
+108:08:33 Mitchell: Six. V-sub-i is good; H-dot is low; H
+(altitude) is high, now. We're running high on H. PGNS and AGS are
+together.
+Audio Clip
+( 1 min 01 sec )
+108:08:42 Haise: Antares, Houston. We'd like
+you to cycle the Landing Radar (circuit) breaker.
+108:08:49 Mitchell: Cycle the Radar Landing breaker.
+[Al pulls the breaker and then puts it back
+in.]
+108:08:52 Shepard: Okay. Been cycled. (Pause)
+108:09:04 Mitchell: (To the radar) Come on in! (Pause) Okay!
+108:09:14 Shepard: Velocity light (is out). Verb 57 Enter. How's
+it look, Houston? (Pause)
+[According the Apollo 14 Mission Report, page 14-37: "The scale switching (that was preventing lock-on) occurred at a slant range of 63,000 feet (corresponding to an altitude of about 36,500 feet) with a beam 4 velocity of 3000 ft/sec at an incidence angle of 35.4 degrees. Operating the landing radar under these
+conditions exceeds the maximum gain and the system will be sensitive
+to any received noise. A test was performed with a radar operating under
+the Apollo 14 conditions - two range-rate beams locked up and the
+range beam unlocked. By inserting low-level noise for a fraction of a
+second into the receiver, range-scale switching occurred."]
+["On future spacecraft, a wiring modification will be made to enable holding the system in high scale while in antenna position 1. Low scale will only be enabled in position 2. Position 2 of the (radar) antenna is automatically selected by the computer at high gate - 7500 feet altitude. The manual selection of antenna positions 1 and 2 will also control high- scale and enable low-scale switching, respectively."
+[Jones - "And then, having set up Verb 57, Houston's looking at
+the radar information, making sure it agrees with their tracking."]
+[Mitchell - "They're checking the radar information to see if
+they like it. If we all agree at this point, then we tell the computer to
+accept the data."]
+108:09:27 Mitchell: Can we Accept?
+108:09:29 Haise: Okay. We'd like to Accept the radar.
+108:09:33 Shepard: Okay. Pro(ceed). Converging. Pro.
+108:09:39 Mitchell: Great. Whew; that was close.
+[Shepard, from the February 17, 1971 Technical Debrief -
+"Everything looked normal up until we began to get concerned about why the landing radar wasn't getting a good data signal into the computer,
+because the light stayed on on the DSKY. I'm sure that was being discussed
+on the ground, as well as in the cockpit. The call (to cycle the landing
+radar circuit breaker) obviously was an excellent call and that saved the
+day. So we pressed on down after that. I can't say enough for the ground
+people on that particular call. The updates after we went to the Verb 57
+converged immediately and made us feel pretty good. We watched them for a while, of course, but pressed ahead."]
+[Journal Contributor Tom Neal calls our attention to the following from page 351 in Gene Kranz's Failure in Not an Option: "After the (post-flight) debriefing, Shepard took (Flight Director Gerry) Griffin aside and confided, 'I had come too far to abandon the Moon. I would have continued the approach even without the radar.' On Apollo 14, the error in the LM computers' knowledge of the actual altitude was almost 4,000 feet before the landing radar data update. With an error this great in the computer, Griffin and the trench were convinced Shepard would have run out of fuel before landing. But everyone who knew Al never doubted he would have given it a shot. We also never doubted he would have had to abort. The fuel budget was just too tight."]
+[In contrast, we learn from the Mission Report that, after the circuit breaker was cycled, "the initial slant range reading
+was approximately 13,000 feet greater than that calculated from the
+operational trajectory. Several seconds later, the indicated slant
+range jumped (down) from 32,000 feet to 25,000 feet (corresponding to altitudes of 18,500 feet and 14,500 feet, respectively). Subsequently,
+the landing radar readings compared favorably with the operational
+trajectory (fig. 14-22)."]
+["The high slant range indicated at lock-on by the landing radar was
+most likely caused by the radar locking onto energy returned into the
+antenna side lobe. Based on the pre-flight terrain profile and the pre-fligh
+operational trajectory, side lobe lock-on can be expected. Checklist
+procedures exist to correct a sustained side lobe lock-on. Once the
+radar is locked on the main lobe (as seems to be indicated by the
+sudden drop in slant range from 32,000 feet to 25,000 feet as mentioned
+above), side lobe lock-on can not occur."]
+[This discussion and, especially, the figure, suggest that the PGNS and AGS altitude were very close to being correct and, indeed, once the radar had locked on with the main lobe and the data was accepted, the update involved a slant-range correction of less than 500 feet or so and an altitude correction of no more than 300 feet.]
+108:09:40 Haise: Okay, and monitor...
+108:09:41 Mitchell: (Garbled).
+108:09:41 Haise: ...Descent Fuel 2.
+[Jones - "The way I understand it is that there were
+two indicators of fuel in the descent, and they are telling you that they
+like the readings on gauge 2 better."]
+[Mitchell - "They would take the lowest one. So the one that was
+shortest on fuel was the one you monitored."]
+[Jones - "Unless it was nonsense."]
+[Gerry Griffin, who was a Flight Director on several of the lunar
+missions, confirms that they chose the more conservative (lower) of the
+two propellant readings.]
+108:09:45 Shepard: Okay, the throttle-down was on time, essentially.
+And we're on Descent Fuel 2.
+108:09:53 Haise: Roger, Al.
+[Fjeld - "Essentially is right. Throttle-down came 14 seconds early, about three seconds of that was due to the downrange site correction, but the rest of it was because Antares' engine performed better than predicted. The thrust of the DPS could be 50 or so lbs off the engine tag values that TRW (the maker) supplied the LGC programmers. The thrust also degraded as the chamber and throat protection ablated away and subtly changed the shape of the throat. The actual thrust was calculated with data from the three little accelerometers in the Inertial Measurement Unit and with an updated mass estimate. Apollo 14's engine thrust was 9862 lbs, 69 lbs greater than predicted, and this shortened the full-throttle burn time by 11 seconds."]
+108:09:55 Mitchell: (Garbled). (Pause)
+[Shepard, from the 1971 Technical Debrief - "Normally,
+after throttle-down, I had made a habit (in training) of switching to PGNS
+attitude hold to practice flying the error needles a little bit during that
+period. It helped to get a feel for how the vehicle was going to handle in
+that mode later on. We did not do that this time, because we were wrapped
+around the landing radar updating problem. However, I would still suggest
+it, I think. From my point of view, it gave me confidence being in the
+suited mode in the real world for the first time in the vehicle flying just
+about like it was supposed to."]
+108:10:04 Haise: And, Antares; Houston. Your PGNS H-dot is the good
+one.
+108:10:11 Mitchell: Okay, thank you. (Pause) Give you PGNS.
+108:10:15 Shepard: (Garbled) leave that up?
+108:10:23 Mitchell: (Static) 14,000.
+108:10:26 Haise: Antares, Houston. You're Go at 8.
+108:10:30 Mitchell: Roger. (Pause) Okay; AGS (garbled). (Static; garbled) looks good, Al. I'm starting the camera. (Pause) (Garbled)
+[Mitchell - "That's the (16-mm movie) camera mounted in the right window, probably set on 6 frames a second or something. No, it's faster than that. Because, in the official photography...in fact, in the 'Trip to Fra Mauro' report, there's a part of that film in there and that shows Cone Crater going by. So it's on 24 frames per second."]
+[The accompanying
+NASA photo, shows a portion of the plaster-of-paris landing site model used during training simulations. The area shown is centered on the landing target and shows Cone Crater at the lower right. My thanks to Journal Contributor David Harland who noticed that this is not a photo taken from lunar orbit. Compare with the corresponding mosaic of Lunar Orbiter strips.]
+[Journal Contributor Gerald Megason has captured a sequence of four frames from the 16-mm film that show the approach to Cone Crater during the actual Apollo 14 landing. These are frames
+Cone-1,
+Cone-2,
+Cone-3, and
+Cone-4.]
+DivX Film clip
+(6 min 05 sec) by Garry Neff
+[A free download of the standard DivX player is available on the World Wide Web.]
+108:11:04 Shepard: 10 seconds to go. (Pause) (Sixty) four. (Pause)
+108:11:13 Mitchell: Okay, there's pitchover.
+[Program 64 controls the "approach phase" of the landing and what happens first in P64 is that the LM pitches into a more upright position - from about 55 degrees off vertical to about 45 degrees, and then continues to pitch upright, but at a faster rate than was the case before P64. The sudden change in spacecraft attitude at pitchover gives Shepard his first look at the landing site.]
+108:11:14 Shepard: 64 and we have pitchover, Houston.
+108:11:15 Mitchell: There's PRO...
+108:11:16 Haise: Roger, Al.
+108:11:17 Shepard: There's Cone Crater.
+108:11:19 Mitchell: And there it is.
+108:11:20 Shepard: Right on the money!
+108:11:21 Mitchell: That's it. Right on the money.
+[Because of the distinctive landmarks available at this
+site, particularly Cone Crater which sits up on a ridge about 1.5
+kilometers east and a little north of the planned landing site, Al has no
+difficulty figuring out where he is. Map "LSM Fra Mauro" shows Cone Crater filling the square at coordinates 90/DF. The planned landing site is at about 65/CQ, just west of the north-south string of three craters called Triplet which runs from 68/CL to 68/CQ. A pair of craters called Doublet is beyond the landing site at about 60/CS.]
+[Shepard, from the 1971 Technical Debrief - "We came down to P64,
+pitchover, and there it was. The landing area model was excellent in that
+respect. It was an excellent training tool, and there was no problem in
+recognizing immediately where we were. I think that was probably obvious
+from the in-flight voice comments. There was no question about where we were. If we hadn't been there (that is, close to the planned trajectory), there might have been some question about where we were. But, fortunately, we didn't have to make that kind of in-flight test."]
+[The landing area model - known as the L&A (Landing and Ascent) - was a model of the landing site which was hung from a ceiling in a training building so that a TV camera could be "flown" to and around it to give the crew in a LM simulator a feel for the view that they would have during the approach. Because there had been good pre-mission photo coverage of Fra Mauro, the Apollo 14 L&A was quite accurate.]
+108:11:22 Shepard: What's the
+LPD (Landing Point Designator angle), babe?
+108:11:23 Mitchell: LPD, 41.
+[Shepard is looking through a set of
+scribe marks on his
+window and the LPD angle, which Ed will give him from the PGNS, will tell
+him where to look along the vertical scale to find the place where the
+computer thinks they are going to land. If Shepard doesn't like the spot,
+he can move his handcontroller to tell the computer that he wants to
+change the landing spot up or back or to either side. A single movement of
+the handcontroller forward or back, which moves the landing point by a half degree downrange/uprange, or to one side or the other, which moves the landing point by two degrees crossrange, is usually referred to by the astronauts as a "click".]
+[Randy Attwood has provide a photo of the LPD scale in LM-9, the H-mission-capable vehicle scheduled for Apollo 15 before that flight became a J-mission.]
+[Fjeld - "MIT referred to single movements of the handcontroller as 'blips' and referred to the Rate of Descent switch toggling as 'clicks.' MIT also referred to the hand controller as an RHC - Rotational Hand Controller, same as in the Command Module, while Grumman insisted it was an ACA - Attitude Control Assembly - which they built unique to the LM)."]
+[The flown handcontroller from Anteres is on display at the Astronaut Hall of Fame, Titusville, Florida. Photo and scan courtesy Ulrich Lotzmann.]
+[Mitchell - "He's looking out a grid, here. A scribe mark on his
+window and, by looking at 41, he should be able to see - from his eye
+height - the landing site."]
+[Jones - "Now, let's see. You were wearing restraint cords, that tied
+you down to the floor, but you could move front to back a little
+bit."]
+[Mitchell - "Oh, yeah."]
+[Jones - "I know that you could lean forward, because I know that
+several of the Commanders, prior to pitchover, would lean forward and try
+and sneak a peek. So, was it a matter in training and getting used to a
+certain position so that, when you looked through the window, you were
+looking at the right place."]
+[Mitchell - "And, as I recall, it wasn't that sensitive. Because
+there were marks on the inside and the outside (that is, two sets of marks
+separated by the thickness of the window). If you moved your head right or
+left, backwards or forward, the inside and outside scribe marks wouldn't
+line up. You couldn't, just by changing position, mess it up."]
+[Mitchell - "I haven't thought about the mission at this level of
+detail in a long time. But it is popping back in. It's just coming out
+like it's correct. It's like I've suddenly tapped into that portion of the
+memory bank. But I couldn't swear from a logical, memory point of view
+that what I'm saying is an accurate memory. But it sounds right; it feels
+right."]
+108:11:25 Shepard: Okay. Fat. Fat as a goose.
+[The audio at this point in the mission is difficult to
+understand and I was originally unable to pull anything useful out of the
+noise that covers Al's transmission. My thanks to Journal Contributor William
+Bianco who pointed out that Andrew Chaikin had successfully transcribed
+"Fat as a goose". After re-listening to the tape, I am
+comfortable with Chaikin's interpretation.]
+108:11:29 Mitchell: 41.
+108:11:30 Shepard: Beautiful!
+108:11:32 Mitchell: Right out the window, just like it should to be.
+(Heavy static until 108:11:50)
+108:11:34 Shepard: Outstanding!
+108:11:35 Mitchell: Great.
+108:11:37 Haise: Okay, Antares; Houston. You're go for landing.
+108:11:40 Mitchell: Okay. Here we go.
+108:11:42 Shepard: (To Haise) Thank you, sir.
+108:11:44 Mitchell: 3000 (feet altitude).
+108:11:45 Shepard: (Garbled, possibly "Ground's next")
+108:11:46 Mitchell: Okay, you're out at 3000, Al; 75 feet a second
+(descent rate).
+108:11:50 Shepard: Okay, that
+LPD is (static clears) real good.
+108:11:54 Mitchell: Houston, I'm on AFT (omni-directional antenna).
+[Jones - "The 11 guys had a problem because the
+computer had a bad map of the LM for the high gain. Now, I seem to
+remember that you had had some problems with the high gain on the LM, and were anticipating using the Omni."]
+[Mitchell - "Right. We thought we'd cleared up the high-gain problems
+for our mission, as I recall. But we were prepared for the high-gain
+antenna to give us trouble."]
+108:11:56 Haise: Roger, Ed.
+108:11:57 Mitchell: Okay, 2000; 48 feet (per second descent
+rate)...
+108:11:59 Shepard: One click left.
+108:12:01 Mitchell: ...coming down a little fast.
+108:12:02 Shepard: One click left.
+[Shepard, from the 1971 Technical Debrief - "One
+LPD
+(redesignation) was used - I think one left - to designate to the point
+that I'd originally thought was the right one, slightly south of
+track."]
+[According to the Apollo 14 Mission Report, "a redesignation of the
+target point 350 feet to the south was made at an altitude of 2700 feet to
+allow a landing on what had appeared to be smoother terrain in the
+pre-flight studies of charts and maps. Several cross-references between the
+target and the landing point designator were made until an altitude of 2000
+feet was reached, and good agreement was noted."]
+108:12:03 Mitchell: 2000; 60 feet a second, a little bit fast, but
+not bad.
+108:12:07 Shepard: Okay. (Pause) Outstanding!
+108:12:11 Mitchell: Okay. 1500 (feet altitude). A little fast; not
+bad. Holding in well. LPD's 40, Al.
+108:12:21 Shepard: Okay.
+108:12:23 Mitchell: Coming through a 1000 feet; 27 feet (per
+second), right on schedule. Right on schedule, now.
+[Among other things, Mitchell is consulting a descent
+profile chart which shows the desired descent rate as a function of
+altitude. According to the Pilot's Report section of the Apollo 14
+Mission Report, "at some altitude less than 1500 feet, two things
+became apparent. First, that the redesignated (south) landing point was
+too rough and, second, that the automatic landing was to occur short (east)
+of the target."]
+[Journal Contributor Frank O'Brien offered the following comment on the fact
+that "you want to target the landing site short - to get a good view
+of the surrounding area - and then head forward towards the real landing
+site. It turns out this was a major design criteria for the LM descent software.
+Pitchover was timed to give a minimum of landing site visibility - usually
+around 200 seconds. Given the angles of the LM during the descent, and the implications on visibility of the landing site, your options if you didn't like your landing site were that you went long or to the right or left.
+Landing short was possible, but not a great idea since it left you with
+very little time to size up the landing site.
+There is a paper with a great discussion of this in the Journal of
+Spacecraft and Rockets, written by Allan Klumpp, (who wrote P63 and P64 at MIT). It goes into the design issues, all the way to the guidance equations
+used for landing."]
+[Paul Fjeld adds, "This paper by Klumpp is perhaps the best description of what is happening in the descent. There were several versions of it, the final one in "Automatica" Vol. 10, '74. Things were changed after the JS&R version (Vol. 5, No. 2 '68) so that the target was always at the desired Landing Site. Going short was okay, but it was best done early in P64 so you didn't have the target disappear below the window when the LM pitched back to put the brakes on. The technique in going right was to go past your target a couple of degrees so that you could trim up the crossrange corrections to the left, where the view was good."
+108:12:32 Mitchell: Going by
+Cone Crater right outside to my right.
+[Cone is about 1.5 kilometers east of the landing site.]
+[Jones - "You seem to be glancing out the window more than the other
+LMPs. Or, at least commenting on things outside more often than anyone I
+can think of - with the possible exception of Charlie Duke on 16."]
+[Mitchell - "I was a test pilot and my fundamental consideration was
+flying the machine. However, having been a pilot for many, many years,
+I've learned a scan pattern where I could hit the instruments, scan out,
+hit the instruments, scan out.
+But the primary task is to fly the machine. So my concentration was
+fundamentally on flying the machine. But I was stealing glances out the
+window with virtually every sweep.
+Although I wasn't getting to look out as much as I would like to, I took
+two looks at Cone Crater and I saw 'Yes, we're on course with respect to
+Cone Crater'.
+But my looking out the window was fundamentally a navigational thing, so I
+could back up Al's observation and help him identify where he was. Let's
+see; our landmarks were Cone Crater on the right, Doublet Crater and
+Triplet Crater (on the left).
+So, when I was looking out the window, it was a matter of backing up the
+navigation and advising Al, from my point of view, and it's the old...He's
+looking out the LPD and checking it.
+I'm looking out my window and checking it. And checking one against the
+other. So I was using it as part of my routine navigational backup to him,
+as well as monitoring the computer readouts on the
+descent."]
+108:12:35 Shepard: Okay, the best spot is a little south of track,
+about halfway between Triplet and Doublet. Little south of track.
+108:12:43 Mitchell: Okay.
+108:12:44 Shepard: About 60 meters (south of track); that's where
+we're going.
+[Shepard, from the 1971 Technical Debrief - "The
+LPD
+stayed good up until the point we got below 1000 feet. Then, it appeared
+as though it was going to be a little bit short, right about in the middle
+of Triplet."]
+[Fjeld - "This was a classic problem with the LPD. The height is being updated by radar data, and when they are on an unmodelled slope, the target will tend to pull down or push up on the Index Line (window scribe marks). The technique is to overcorrect. Al redesignated once left for 350 feet, but then flew it out in P66."]
+[On the various site maps such as LSE-5 and Landing Site 1 EVA-1 Traverse Map, the planned
+landing point is at CQ/65 and they will actually land near CQ.3/65.9. See a discussion after 110:05:15. South Triplet is the crater at CL/69 and North Triplet is at CP.5/68.5. The
+fresher of the two Doublet Craters (aka South Doublet) is at CS/60.5.]
+108:12:45 Mitchell: It looks good from here. (Pause) Looks good
+from here. Okay, Al; you're through 550 feet.
+108:12:54 Shepard: Okay.
+108:12:56 Mitchell: 16 feet per second (descent rate), 500 feet
+(altitude), 15 feet per second. It looks good. Your fuel is good at 10
+percent (remaining). (Pause)
+[At PDI they had about 18417 pounds of propellant and, at
+landing will have about 794 pounds remaining. Only Neil Armstrong landed
+with less fuel remaining, about 770 pounds.]
+[Journal Contributor Paul Fjeld - "Up on the CDR's main panel beside the timers were two small digital EL (Electro-Luminescent) displays that showed fuel and oxidizer percent remaining. The crew could monitor either set of tanks by pushing the PRPLNT QTY MON switch to DES 1 or DES 2 depending on which was more conservative (Houston would make the call). The LMP would just look over and call out the lowest number."]
+108:13:05 Shepard: Let's take it over and move up a little.
+[Shepard has decided to take over manual control so that he
+can fly downrange.]
+108:13:07 Mitchell: Okay. I think so; you're through 340 feet.
+108:13:10 Shepard: Att(itude) Hold. (Pause)
+[Shepard has now taken over manual control of the spacecraft
+and is using the handcontroller to fly the spacecraft like a
+helicopter.]
+[Shepard, from the 1971 Technical Debrief - "It became obvious to me
+that I didn't want to land south of track because the (average) crater size
+(in that area) was a little too large, I thought. So, I flew her on over,
+using bank angle, (toward a point closer) to the nominal,
+original-intended landing point where it looked a little smoother. We used
+the same technique that we used in the LMS (Lunar Module Simulator). Ed
+was (reading instruments) in the cockpit, mostly, giving me values of
+velocities; and I was (looking at the scene) outside the cockpit,
+mostly."]
+108:13:11 Mitchell: Okay. Okay; I'd give it a few clicks. You're
+through 200 feet, 5 feet...
+108:13:19 Shepard: Go level.
+108:13:19 Mitchell: ...per second. That looks good.
+108:13:24 Shepard: Go level here.
+[Al is killing his descent rate.]
+108:13:26 Mitchell: Nine percent fuel, looks great. (Pause) Okay,
+you look like you're going right over the middle of Triplet. (Pause)
+[Journal Contributor Gerald Megason has captured frames from the 16-mm movie which show the approach to Triplet. One of these, frame Triplet-1 shows North Triplet on the right and Center Triplet on the left.]
+108:13:38 Mitchell: You're 170 feet, Al; 2 feet per second down; 8
+percent fuel. You're looking good.
+108:13:43 Shepard: Okay, babe.
+108:13:44 Mitchell: 170 feet and holding (altitude). About 1 foot
+per second down. You want to speed it up a little bit.
+[Ed is warning Shepard that he needs to start down so that
+they can land before the fuel supply reaches a critical level.]
+[Jones - "Here is where he was hovering for a bit."]
+[Mitchell - "It really wasn't quite hovering. He was simply holding
+that altitude. He'd brought it down and was continuing to slow down (along
+the trajectory) but he'd stopped the rate of descent. Before that, up at
+108:13:11, it's 5 fps and he says 'level'. Okay. When you're down to one
+or two feet per second, you're flying pretty level. One or two feet per
+second isn't very much descent rate. And we were still moving forward.
+But, when I said 'you want to speed it up a little bit' he was slowing
+down, getting too close to a hover for the fuel that we had. And we needed
+to move on up a little bit (that is, descend more rapidly) and so that's
+when I urged him to get on up there. We were starting to get too
+slow."]
+[From the time that Shepard takes over manual control through to touchdown,
+he flies the LM 1600 feet forward and about 1000 feet past the point at
+which they would have landed had he stayed on the unmodified decent
+trajectory. For comparison, Neil Armstrong flew the Apollo 11 LM about
+1100 feet downrange from his target point because the computer was taking
+him into a boulder field surrounding a 100-meter-diameter
+crater.]
+108:13:50 Shepard: Okay, I'm going to move forward a little.
+108:13:52 Mitchell: Okay. (Pause)
+108:14:01 Mitchell: Seven percent fuel. Okay, you're still at 170
+feet indicated.
+108:14:06 Shepard: Starting down.
+108:14:08 Mitchell: Okay, you can move on forward. You're just
+barely crossing North Triplet. Barely crossing North Triplet. Six percent fuel; okay, 150 feet. There's (the) Descent Quantity light.
+108:14:21 Shepard: Okay. (Pause)
+[Mitchell - "I don't remember exactly what the Quantity Light meant (in terms of time remaining), but it meant you'd better get your ass down on the ground pretty quick."]
+[The quantity light came on at 108:14:18, indicating 5.6 percent fuel remaining, enough for nearly two minutes of flight.]
+[The Descent Quantity Light - labeled DES QTY - is one of a group of fourteen warning lights at the top of Panel 1, which is to the right of the CDR's window. All are Aircraft Red when illuminated. A similar group of caution lights are at the top of Panel 2. All are Aircraft Yellow when illuminated. Dave Scott writes, "Red was for 'emergencies'. We spent considerable time with the contractors defining the color, title, and placement of C&W lights"]
+108:14:25 Haise: Low level.
+108:14:27 Shepard: All right.
+108:14:28 Mitchell: If you could land over here; there's some dust, Al; 110 feet. Three feet per second down. You're looking great.
+108:14:34 Shepard: (Garbled).
+108:14:35 Mitchell: Six percent; there's good dust. You're on your own. (Garbled).
+108:14:41 Shepard: Starting down, starting down.
+108:14:43 Mitchell: Okay. It says 90 feet, 4 feet per second; 5 feet per second, down.
+108:14:49 Shepard: Okay.
+108:14:50 Mitchell: Going down; looking great.
+108:14:52 Haise: 60 seconds (of fuel remaining).
+[Fjeld - "Haise, being the consummate LM Pilot himself, makes this call EXACTLY on time. 60 seconds to a BINGO fuel call, which means land in 20 seconds or abort immediately."]
+108:14:53 Shepard: We're in good shape.
+108:14:55 Mitchell: Okay. 50 feet down, 50 feet.
+108:14:58 Shepard: We're in good shape, troops.
+108:14:59 Mitchell: 3 feet per second (down), 40 feet (altitude); 3 feet per second, 30; 3 feet per second, looking great, 20 feet; 10, 3 feet
+per second.
+108:15:11 Mitchell: Contact, Al.
+[Note that the time indicated here - 108:15:11 - is the time since launch. The time given in the Apollo 14 Mission Report is only slightly different: 108:15:09 or 09:18:11 GMT/UTC on 5 February 1971.]
+108:15:12 Shepard: (Garbled), Stop. Great, Pro, Auto, Auto.
+[Fjeld - "Al left the engine on through contact and for about 1.7 seconds after touchdown, cooking the landing gear in the process."]
+108:15:18 Mitchell: We're on the surface.
+108:15:19 Shepard: Okay, we made a good landing.
+108:15:23 Haise: Roger, Antares.
+[Shepard, from the 1971 Technical Debrief - "The control of the vehicle, I thought, was good. Here again, of course, I did practice with the LLTV (Lunar Landing Training Vehicle), as well as the LLRV (Lunar Landing Research Vehicle), and in the LMS (Lunar Module Simulator). I felt completely comfortable and completely in control of the vehicle all the time."]
+[The LLRV and LLTV were free flying vehicles equipped with jet engines that fired continuously toward the ground to remove 5/6th of the vehicle weight.
+A brief history of the LLRV has been produced by
+the Dryden Flight Research Center.]
+[The Lunar Module Simulator was a stationary, shirtsleeve trainer, not
+unlike the flight simulators used in training airline pilots. It consisted
+of a cabin mock-up with a full suite of computer-linked instruments and controls and, in the windows, projected views of a lunar surface mock-up that changed as the pilot "flew" the simulator. During training, Al and backup Commander Gene Cernan each made 26 LLTV flights, the last on January 5, 1971, one month before the landing. NASA photo
+S70-56287 shows Al standing in front of an LLTV at Ellington Air Force Base prior to a 14 December 1970
+flight.]
+[Shepard, from the 1971 Technical Debrief - "I felt completely
+comfortable and completely in control of the vehicle all the time. The landing spot did turn out to be slightly on a slope. I don't think that was because of touchdown velocity, which must have been pretty low. We didn't have any stroking (that is, compression) of the landing gear at all. The LM ended up in about a 7-degree, right-wing-down attitude, which was exactly that of the slope in which we landed. In retrospect, maybe a little higher H-dot (descent rate or, literally, the time derivative {"dot"} of the height {"H"}) would have been better. We'd have ended with the vehicle at a more level attitude. But, in any event, with the combinations of slope (in the area), 7 degrees was not bad."]
+["For touchdown, we had the habit of waiting (in training) about 2 seconds after the contact light came on before shutting the engine down. From the looks of things, we actually were on the ground and stopped before the engine shut off. It must have been a pretty light touchdown."]
+[Mitchell, from the 1971 Technical Debrief - "From my point of view, after the last part of the descent, from the time the radar came in, things were fairly nominal. The AGS was updated on schedule. The (16-mm) camera was started on schedule and the checklist was followed completely the rest of the way down. It appeared to me that, when we pitched over, Cone Crater was right where it should have been. Al went ahead and made his redesignations. It appeared that the program was taking us to a point just short of North Triplet; at which point, Al took over and flew it on across North Triplet. From that point on, the landing was absolutely nominal, nothing different than we practiced in nominal Sims."]
+[Shepard, from the 1971 Technical Debrief - "During the final
+approach, the visible landmarks were great. The zero-phase (the direction opposite the Sun, where shadows are largely invisible because they are hidden by the objects that cast them) was not a problem because we were approximately 14 degrees off the Sun angle. And at no time did I notice any problem at all with zero-phase during the final approach. The elevation and distance estimation of landmarks is always a problem as far as I am concerned. And the only thing I can recommend is that the CDR (Commander) carry in his head the geometry of the landing site, the size of the craters, and the difference between the crater landmarks that are used. He should know exactly what those distances and dimensions are ahead of time. That's one thing you've got to memorize because, as far as I'm concerned, at least, the L&A doesn't give you the feeling of...looking at a crater which is unfamiliar to you and saying that I'm 5000 feet above the ground or 2000 feet above the ground. It's just something that you can't do. You can't relate it to your Earth-bound experience."]
+["I believe that we had less problem with dust than they've had before. I think it's because, as we comment later on, the surface of the general area in which we landed was less dusty - that is, exclusive of the dust around the rim of craters. The general area appeared to have less dust and we certainly had no problem with dust at touchdown. I referred to the cross pointers (velocity indicators) during the final stages of the descent at less than 100 feet, but only to assure myself that I had done the best I could as far as cross velocity (left or right) was concerned. The dust was obvious, but you could also see the rocks through the dust. We had no problems here. I think we had a touchdown that was very light, just a little plop when we hit the ground."]
+[Mitchell, from the 1971 Technical Debrief - "That's what we had practiced because of the dust problems (experienced by the earlier crews, particularly Apollo 12). When we went into the ROD (Rate-of-Descent) mode, we leveled out on ROD and kept it flying on over until I was sure we were to Triplet and into that area where we wanted to land. Then we started down. I might add that, looking at the film of the descent last night, the dust problem appears a lot worse on the film than it appeared to me out the window. I thought I could see it (the ground) a lot better."]
+[Shepard, from the 1971 Technical Debrief - "You probably would, in any event, because the camera is only looking at one spot and you don't have the more general feeling that your eyeball gives you."]
+[Mitchell, from the 1971 Technical Debrief - "Right. But, just
+looking out the window, you can see the dust is no great problem at all."]
+[Shepard, from the 1971 Technical Debrief - "Touchdown velocity was less than 3 ft/sec in all three axes, I would say. We were going slightly forward at approximately 2 ft/sec and 1 ft/sec to the right. The H-dot has got to be approximately 2 ft/sec."]
+[Mitchell, from the 1971 Technical Debrief - "I don't think we were moving that fast forward."]
+[Shepard, from the 1971 Technical Debrief - "It was pretty slow. That was one thing that I'd wanted to do as a result of using the L&A and also looking at the Apollo 12 touchdown (film). I think it's better to have a slight forward velocity because that way you're sure that, if you have just crossed over a crater, you're continuing to move away from it. You can only see about 60 degrees down by getting all the way up (that is, all the way forward) and looking at the (forward foot)pad, and that's not straight down. So, I had decided ahead of time that I was going to have a slight forward velocity just to assure myself that I wasn't backing it into something. I think that's the way to go. Certainly, a forward velocity of 1 or 2 ft/sec is well within the envelope, the other parameters being equal. It's my personal recommendation to make the landing that way."]
+[During our 1991 mission review, I asked Ed about the preponderance of Navy people in the Commander's seat on the landing missions and if, in his mind, there was any particular reason for that fact.]
+[Mitchell - "No, the makeup of the astronaut program - all over the program - was pretty well balanced. On Apollo 8, Frank Borman was Air Force, Jim Lovell was Navy, Bill Anders was Air Force. And then 10: Stafford was Air Force, Cernan was Navy (and on through the list)"]
+[Jones - "The curiosity question was that the preponderance of the Commanders - the guys handling the stick - were Navy and Gene's thought was that perhaps it had something to do with carrier backgrounds."]
+[Mitchell - "Well, it might have. But it really had more to do with getting in the pipeline. And, once you were in the pipeline, it had more to do with serendipity as to what happened. You went from backup crew to prime crew and you were programmed into the pipeline a couple of missions ahead; and who was available and who was doing what at that time...I don't think there was much politics in that or in programming of Navy or Air Force or whatever. On the other hand, there's not much question that the Navy guys with carrier experience had a little more fine motor skills -
+let's put it that way - with regard to the touchiness of some of these vehicles. We all had to transition and took helicopter training which peaked up the skill level. But all the guys were pretty qualified, pretty superb pilots. With very few exceptions. You were talking about the creme de la creme as far as pilots were concerned."]
+[Jones - "So you're saying that it's a small set and just random
+chance could skew it."]
+[Mitchell - "If you (were to) run across all of us, you'd find about as many Air Force as you do Navy. And its just kind of random chance as to what circumstances and what mission, etc. Once you were in that pipeline, then it's kind of like going down any pipeline and, wherever the holes occur, that's where you squirt out. That's the way it goes."]
+[We then talked about assignments that people got when they first entered the Astronaut Corps.]
+[Mitchell - "Our group had the opportunity, when we came in, of at least requesting our technical assignments. And I specifically requested the LM. And some of the guys specifically requested the Command Module as their area of expertise. And I felt that if I selected the Lunar Module, the chance of being a lunar surface participant was greatly enhanced by that. And, of course, it was. And, of our group, Fred and I...well I was the senior militarily in our group - and the oldest - and, as far as I know, there may have been some younger guys who had the qualifications - but, as far as I know, I was the only guy - up to that point and, perhaps, still am - that had both a doctor's degree in engineering and was a qualified, certified test pilot. I had pushed for those qualifications because I was going to go (to the Moon) one way or the other. And building up my qualifications level was the way I chose to do that. I just barely got into the program because of age. I was almost 36 when I was selected in and 36 was the cutoff, at least in my selection (group). But I had been pointing toward selection since about 1958. But, in 1958, I was too young and too junior and didn't have enough flight time. And they did learn, on some of the earlier selections that the younger fellows didn't perform as well. They didn't have the maturity and judgment. So, by the time I came
+along, you had to be between 32 and 36. And, building up my
+qualifications, getting my doctor's degree, and then I got shanghaied off to work in the military space program which I was a little frustrated about."]
+[Jones - "Did you come out of MOL (Manned Orbiting Laboratory, a
+military version of Gemini which was canceled in 1969)?"]
+[Mitchell - "Right. I was the Navy technical director for MOL. Now,
+I wasn't an MOL astronaut. After I finished my MIT doctorate, I requested
+assignment into the G&C (Guidance and Control) Division with Cliff
+Johnson. He was head of Guidance and Control at Houston when I finished my
+doctorate. And he was the first guy through the MIT doctoral program in
+Aeronautics and Astronautics. And I'd requested assignment to his
+division, while waiting for selection in the Astronaut Corps. I got
+shanghaied on the way from Boston to Houston. I was sent to the MOL
+program in Los Angeles as chief of the Navy MOL office. And I spent a year
+at that and then finagled my way out to Edwards to go through the Space
+School, and I taught the MOL astronauts out there in several subjects - in
+optimization theory and a few other things - and it was from Edwards that I
+got selected into the Astronaut program, just short of my 36th birthday.
+That was on my last go at it. You see, I'd applied at every opportunity
+from 1958 on. But my jet hours weren't enough, since I'd started out in
+props (that is, in propeller-driven aircraft). I started out flying in
+1943, as a teenager. So I had a lot of prop time. But I didn't have
+enough jet time. So the combination of building up my jet hours - and, when
+you were on shore duty, it was tough to get jet time - and then getting my
+test pilot credentials. That's what pushed me over. But with normal Navy
+rotation, it took me until I was 36 to get all of that pulled together,
+even though I'd started in 1957. It took me damn near nine years to get
+all the qualifications pulled together that I wanted in order to be
+selected."]
+[Ed was a member of the fifth group of astronauts. The group was selected
+in April 1966 and also included LMPs Fred Haise, Jim Irwin, and Charlie
+Duke.]
+Apollo 14 Flight Journal
+Apollo 14 Journal
+Post-Landing Activities

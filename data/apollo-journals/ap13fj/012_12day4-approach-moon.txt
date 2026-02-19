@@ -1,0 +1,1232 @@
+﻿
+Apollo 13 Flight Journal - Day 4, part 1: Approaching the Moon
+Day 3, part 5: Minimising Power
+Journal Home Page
+Day 4, part 2: Leaving the Moon
+Apollo 13
+Day 4, part 1: Approaching the Moon
+Corrected Transcript and Commentary Copyright ©2019-2025 by W. David Woods, Johannes Kemppanen, Alexander Turhanov and Lennox J. Waugh. All rights reserved.
+Last updated 2025-02-22
+Just over 16 hours ago, at 055:54:53 GET, Apollo 13's Service Module was severely damaged when a fire within an oxygen tank caused it to catastrophically burst. The crew don't know the reason for their crippled craft but they are well aware of its implications and have moved into Aquarius, their Lunar Module and now their lifeboat. Ten hours ago, they burned the LM's descent engine for 31 seconds to place the spacecraft onto a trajectory that would swing them around the Moon and bring them back to Earth. Specifically, it would land them in the Indian Ocean at about 152 hours Ground Elapsed Time. MCC are now planning another burn that will occur two hours after they pass the Moon. This is intended to shorten their drop to Earth and have them land in the Pacific Ocean at about 142 hours GET, at a landing site near to where the US Navy's recovery fleet were planning to recover them anyway.
+An additional reason for this timing concerns a graphite cask on the side of the LM. It carries and protects a fuel element containing plutonium which had been intended to power experiments on the lunar surface. NASA would like to safely dispose of this material and intend to do so by having the LM re-enter Earth's atmosphere in such a way as to allow the cask to sink to the bottom of the Tonga Trench which, at over 10 kilometres, is one of the deepest parts of the world's oceans. With the graphite cask designed to survive reentry, this would also alleviate the fears of the Atomic Energy Commission.
+Photo AS12-46-6790 shows LMP Alan Bean removing a plutonium fuel element from its storage cask on the Lunar Module Intrepid. The Radioisotope Thermoelectric Generator is awaiting by his feet and is designed to use the heat of the element to produce electricity. Fred Haise would have performed this procedure on Fra Mauro on their identical unit. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Computer-generated image of how Moon would have appeared viewed from the Apollo spacecraft at this time.
+072:05:32 Comm tech (woman's voice): Hello, hello, je t'entendre.
+Long comm break.
+072:08:08 Comm tech: Madrid Comm Tech Net 1.
+072:08:10 Comm tech: Roger. Madrid Comm Tech. Read you loud and clear. How me?
+072:08:13 Comm tech: Read you loud and clear.
+072:08:15 Comm tech: Okay, thank you.
+Very long comm break.
+The Air to Ground loop tape has captured some conversation between the MSFN land station operators. Specific channels allowed the stations to talk to one another to keep everything running smoothly.
+072:27:43 Kerwin: Aquarius, Houston. Over.
+072:27:49 Haise: Go ahead, Joe.
+072:27:51 Kerwin: Roger. Listen, Charlie Duke wants to talk to you - to you about the AOT star check; and, so that we can have good comm, I'd like to reconfigure with the Power Amplifier circuit breaker, In, and the Voice Function switch to Voice and while we're at it, we'd like the Ranging Function switch to Ranging. Over.
+Charlie Duke is the Backup LMP for the mission and hence the perfect person to relay information about Lunar Module procedures to his compatriot Fred Haise. They would have trained closely together throughout the preparation for Apollo 13.
+LM Comms Selection switches
+They crank up the primary communications gear and the ranging system for the duration of the navigation talk with Duke.
+072:28:15 Haise: Okay. [Long pause.]
+072:28:47 Duke: Aquarius, Houston. Over.
+072:28:49 Haise: Houston, Aquarius.
+072:28:51 Duke: Roger, Freddo. Reading you-
+072:28:52 Haise: Okay, Houston, Aquarius. Go ahead.
+072:28:54 Duke: Okay, Freddo. Reading you 5-by. The procedure I'm going to read up to you is a Sun check for the - to see if we're going to need an alignment or not. If you'll get out your G&N dictionary and open it to P52, page 34, we'll start at the bottom. Over. [Pause.]
+What they begin here is not a typical P52 realignment, but instead they are using the software's capacity to aim their optics at any point, as long as they have the correct time and the coordinates available. This was the procedure they were using earlier during the mission to attempt to spot Comet Bennett. The P52 was selected for the Sun check due to it being more fuel efficient than the other automatic maneuver modes.
+The CapCom is Charlie Duke.
+072:29:23 Haise: Okay. Stand by 1. [Pause.]
+072:29:32 Haise: Sounds like you broke out, Charlie.
+Fred Haise is not talking about the comm signal breaking, but instead comments on Charlie Duke's fateful German measles that put the whole Apollo program into temporary turmoil and caused Fred's prime crew crewmate Ken Mattingly to be replaced by the backup Jack Swigert, from Duke's crew.
+072:29:36 Duke: Yes, finally, Freddo. I've no longer got the red spots. [Pause.]
+Charlie confirms the situation.
+Charlie Duke's Apollo 16 portrait. NASA photo S71-51289
+Apollo 13 backup Lunar Module Pilot Charlie Duke flew in that role as prime LMP on board Apollo 16, along with Apollo 13 backup Commander John Young and Ken Mattingly, finally getting his chance at the role of Command Module Pilot. 35-year-old Duke was a test pilot before being chosen for astronaut training in 1966 in Astronaut Group 5.
+072:29:48 Duke: Okay. Stand by, Aquarius. We'll be back with you momentarily.
+072:29:55 Haise: Okay.
+Comm break.
+072:31:16 Duke: Aquarius, Houston. You ready with your G&N dictionary?
+G&N Dictionary table of contents.
+The LM Guidance and Navigation (or G&N) Dictionary serves as an onboard reference for the crew on the various procedures for using the Lunar Module Guidance Computer (LGC) and the Abort Guidance System (AGS).
+072:31:24 Haise: Okay. I'm on page 34 now, looking at P52.
+Page 34 on the G&N Dictionary
+The IMU Align procedure in the checklist has multiple possibilities - different options and techniques call for different procedures, and hence the checklist may command you to jump from Step 1 to Step 2 or 6, for example.
+072:31:28 Duke: Okay, Freddo. At the bottom of the page, we want step 1, on the flashing 0406, we want an option 3, and that'll pull us over to 6; and, on the 5025, we want you to do the Enter on the 5025, and that'll bring up flashing 0170, and load in R1, 200. Over. [Pause.]
+P52 IMU Realign, Step 1
+To start the IMU realign, the first move is to make sure that the AOT telescope's internal lighting is enabled by putting in the circuit breaker. Afterwards, the LGC is selected to run the associated program in its memory. To do this, they key in Verb 37, which is the Change Program command, hit Enter, and then type in 52, for the IMU Align program.
+P52, Step 1 starts with entering Verb 04 Noun 06 (Display Decimal - Option Code), which allows them to choose from the options presented to them as choices such as listed on the procedure here. They select option 3, REFSMMAT and hit Pro to move to Step 6. Naturally all they would see on their computer is numbers on the green display, hence the paper checklist would be crucial on interpreting the computer output, and selecting their preferred input.
+P52, Step 6
+P52, Step 6 begins with entering Verb 50 Noun 25 (Please Perform - Checklist), and here they are to choose the manner of acquiring the stars they desire for the sightings to align the inertial platform. They choose the Manual Acquisition mode by hitting Enter at this point. Another option would be to allow the computer to choose suitable stars with the PICAPAR routine, but this is not what they need right now, since they are looking for a specific target and do not require the shortcut that is PICAPAR. It selects two stars close to each other within the telescope's field of view, so as to save RCS fuel by not needing to turn the spacecraft around to look for suitable navigational stars.
+P52, Step 7
+P52, Step 7 moves on by entering Verb 01 Noun 70. (Display Octal Component - AOT Star Code/Detent) This is where the crew specifies what viewing device and what sighting star they wish to use for the alignment. The choice is coded onto Register 1 of the LGC with the 00CDE code, where the letters are codes for the various numeric values the string can have. The letters on the checklist are there to help with interpreting the printed checklist. Duke's command of entering '200' here means that they pick the number 2 option, which is the F for Forward detent on the AOT, and '00' is for the star code of the star to be sighted, which here signifies planet. Starcode 00 is used as placeholder, of sorts, and requires them to input the vector values of the location where this object might be found. It could also be a star not in the in-built catalogue, too.
+It is of interest to note that should the AOT not be available, the P52 alignment could also be done by using the COAS monocular on the forward window or the overhead docking window.
+AOT Detents. They will use Forward option.
+072:32:03 Haise: Okay. Let me see if I'm with you. We call up P52 and, on the flashing 0406, we Pro on a 3 REFSMMAT which leads us to a flashing 5025. We Enter on that. On the flashing 0170, we want to Enter a 200.
+072:32:24 Duke: That's affirmative; and after that, you Pro on that, and you come up with a flashing 0688, and we'll have to load Noun 88. And if you're ready to copy, I have the Sun half-unit vectors at 74 hours GET. Over. [Pause.]
+P52, Step 7
+Step 7 continues with another Pro from the operator that is followed by entering the command Verb 06 Noun 88 - (Display Decimal in R1, R2, R3 - Celestial Body Vector X, Y, Z) as per their earlier choice of 'option 00' on the star code selection, and this allows them to enter the expected vector values for the sighting at the time of the AOT check. This way the computer will know where they should be looking at at the time of the Sun check - although it is up to the crew to identify and confirm it by looking into the telescope! This time, their target being the Sun, there ought to be no difficulty in interpreting the results.
+072:32:47 Haise: Okay. Go ahead.
+072:32:48 Duke: Okay. At Sun half-unit vectors, X, R1, is plus 0.45498, Y plus 19024, Z plus 08250. Over. [Pause.]
+By halving the unit vectors, the values can be stored in the computer with a higher number of significant numbers, and hence more precision.
+072:33:20 Haise: Okay. We Pro on - after entering the 200. We'll get a flashing 0688. We then load the Sun unit vectors for 74 hours, which are R1 plus 5 - correction, plus 45498, R2 plus 19024, R3 plus 08250.
+072:33:48 Duke: Roger. That's good, Freddo. And that'll bring you to step 8, and you get a flashing 5018 when you Pro on the Noun 88. Okay. At 5018, we want to do an Auto maneuver to - to the attitude, so just do the - the Pro with the Guidance Control, PNGS; Mode Control, PNGS, Auto; and we'll take this attitude. Now, that's going to put us at - at attitude for the Sun check. Now, we're being a 1.4-degree dead band in this program in a docked configuration; so, to help you out, you could call Verb 62 to get your needles - and it - when the needles go through zero or null out and - in that dead band - then you take a look in the AOT and see how close the Sun is. And we want within plus or minus 1 degree. Over.
+P52, Step 8
+At Step 8 it is time to maneuver the ship to an attitude as specified by the FDAI. Entering the command Verb 50 Noun 18 (Please Perform - Desired Maneuver To FDAI RPY Angles) allows them to program their desired attitude into the computer. They choose to use the Auto mode on the PGNS computer instead of going manual so that the LGC will then try to fly them into this attitude. It is important to note here that Verb 50 Noun 18 requires them to input roll, pitch and yaw angles to be read from the 8-ball, which means that these values are not identical to the alignment on these axes for the inertial measuring platform.
+072:34:52 Haise: Okay. So we Pro on the Noun 88, and we end up with a flashing 5018; and you want an Auto maneuver here rather than using the TTCA, so we Pro with Guidance, PNGS; Mode Control, Auto. We've got a 1.4-degree dead band with a Verb 62 will give us the needles to try to zero them in and, at that time I look through the AOT and, if it's like Apollo 11 Sun check, all we've got to have is the Sun somewhere in the - out there somewhere on the Sun as it passes. Is that correct?
+Apollo 11's Neil Armstrong and Buzz Aldrin performed a Sun check to confirm their LM IMU alignment as well, before heading for the surface.
+Verb 62 commands the computer to Display Total Attitude Error. In this context error refers to the difference between their desired attitude and their present attitude. The FDAI 8-ball has mechanical needles that the computer can drive to give a visual and intuitive reference for the pilot on how to make their attitude as close as possible to that they wish to move to or maintain. During the automatic maneuver, they would see these error needles move towards the zero position.
+The Lunar Module FDAI 8-ball.
+072:35:30 Duke: I think that's a little tight; that's about a quarter degree. We can go a little bit out of that. Stand by 1. Fred, we'll get you an answer on that one. And also, if you'll stand by, we'll give you a DAP load for this maneuver. Over.
+072:35:51 Haise: Okay. We'll - You'll give us a DAP load.
+072:35:54 Duke: Roger. Stand by.
+Comm break.
+072:37:39 Duke: Aquarius, Houston. Freddo, on that - to pass that check, the Sun is at - will subtend an arc of one-half degree in the AOT, so you can be two diameters off and still pass the check. Over.
+072:37:59 Haise: Okay. It's a half a degree, and so we can be two Sun diameters off and still pass.
+072:38:07 Duke: That's affirmative. And we want you to maneuver with a DAP of 0.2 of a degree a second. Over. [Pause.]
+072:38:19 Haise: Okay. You want us to use a DAP of 0.2.
+072:38:24 Duke: Okay. That DAP load, Freddo, is 31120. Over. [Pause.]
+072:38:38 Haise: Okay. 31120.
+The DAP, or Digital AutoPilot, is a routine in the computer that runs in the background to automatically keep control of the spacecraft's attitude. Various parameters concerning its operation can be set by altering the contents of a register. For example, whether its controlling just the CSM or whether there is another vehicle docked to it, which thrusters to use, what size of dead band and how fast it should correct any error. '31120' reads as docked configuration (CSM and LM), 2 jets from system B, normal scaling at 2 degrees per second, 5-degree dead band, and .2 degrees per second rates allowed.
+072:38:41 Duke: Roger. Now, if we pass that check, you can just terminate P52 right there, and we'll give you an attitude to go to a burn attitude, and from this we can get a star check. If you don't pass, we'd like you to do an alignment at 75 hours. And, if you're ready to copy, we have some Sun half-unit vectors and some Earth half-unit vectors at 75 hours. Over. [Long pause.]
+If the Sun is found at the correct time, they can simply stop the P52 without doing any changes to their platform. If the Sun check does not pass, they plan to do a P52 realignment using sightings of the Sun and the Earth instead of stars. For this they require another set of three-dimensional coordinates for each spatial body.
+072:39:25 Haise: Stand by 1, Charlie. [Long pause.]
+072:40:00 Haise: Okay. Go ahead for 75 hours - Sun and Earth half-unit vectors.
+072:40:05 Duke: Roger. First with the Sun; for X, plus 45483; for Y, plus 19053; for Zebra, plus 08262; Earth half-unit vector at 75 hours, plus 32120, minus 34155, minus 17370. Over. [Pause.]
+072:40:56 Haise: Okay. Sun half-unit vectors: R1, plus 45483; R2, plus 19053; R3, plus 08262. Earth half-unit vectors: R1, plus 32120; R2, minus 34155; R3, minus 17370.
+072:41:24 Duke: Roger, Freddo. Good readback. Now, on the Earth, we estimate it - if you have to do this alignment, that the Earth will be about a 2-degree Earth. And it'll be approximately three-quarters lighted. Now, to mark on the Earth, we'd like you to take an imaginary line between the horns of the crescent and mark midway between the horns. Over.
+Charlie is referring to the apparent size of Earth in the field of view of the AOT, as well as how much of its surface is lit by the Sun at the time.
+072:42:00 Haise: Okay. We got a 2-degree Earth that's three-quarter lighted, and we're to imagine a line between the horns of the Earth and mark right in the center of that line.
+072:42:14 Duke: That's affirmative. Now, on - on this star check - correction, the Sun check, Fred, at - On the 5018, I got some FDAI angles for you if you're ready to copy. Over. [Pause.]
+072:42:34 Haise: Okay. You're talking about the check at 74 hours GET, right?
+072:42:39 Duke: Roger. Okay. At 74 hours when you start this maneuver, the 5018 should look like R1 of 2703 degrees, pitch R2 is 0903, and R3 of 2908. Over. [Pause.]
+Verb 50/Noun 18
+On Step 8 they use Verb 50 Noun 18 (Please Perform - Desired Maneuver To FDAI RPY Angles) to enter the FDAI angles. Each angle occupies one register (or one line) on their computer display. The input RPY or Roll/Pitch/Yaw angles will take the spacecraft to the desired position for the Sun check, manually or automatically using computer control.
+072:43:11 Haise: Okay. How about making those all five digit readouts; read them again, Charlie.
+072:43:16 Duke: Okay. Pardon me. It's 27030, 09030, 29080.
+Charlie Duke caused a brief confusion by giving the angles in the wrong format to support them being input into the computer in the form required by the procedure.
+072:43:33 Haise: Okay. The 50 18 should look like R1 plus 27030, R2 plus 09030, R3 plus 29080.
+R1, R2 and R3 refers to each register, or display lines on the computer's three lines of numeric display.
+072:43:48 Duke: Roger. That's good readback. Now, we got one more procedure for you; and, right now, we got the Rendezvous Radar stowed and we won't be able to see anything out of detent 2, so we'd like you to position the radar to 0283; and we have a procedure for that. And we'd like you to do that right before you get the attitude. Over.
+The Rendezvous Radar dish is currently blocking the AOT and they need to drive it to a new position using the computer.
+072:44:22 Haise: Okay. Stand by. [Long pause.]
+072:44:45 Haise: Okay. Go ahead.
+072:44:47 Duke: Stand by. [Long pause.]
+072:45:25 Duke: Aquarius, Houston. On those 50 18 angles we had at 74 hours, Fred, that was based on a Verb 49 to this attitude, and they will be incorrect for the two axis maneuvers, so you can just scratch them. Over.
+072:45:47 Haise: Okay. You're saying the angles you gave me for the 50 18, that was for a Verb 49, so they won't be good for the 50 18, and we should scratch them.
+Verb 49 maneuvers utilize movement in three axes, while the P52 is a two-axis maneuver.
+072:45:56 Duke: That's affirmative. Okay. If you're ready to copy, I've got this Rendezvous Radar procedure. Over.
+072:46:09 Haise: Okay. Go ahead.
+072:46:11 Duke: Okay. It's about a 10-stepper, but real easy. Okay. On CB 16, EPS Inverter 2, Close. CB 11, AC Bus A, Bus Tie Inverter 2, Close. Panel 14, verify Inverter switch 2. CB 11 Rendezvous Radar 2, close. Rendezvous Radar, release. Rendezvous Radar to LGC on panel 3. Are you with me? Over. [Pause.]
+072:47:26 Haise: Roger. I'm right up with you at step 6. Go ahead.
+So far this procedure gets up Inverter 2 to provide alternating current for the power-hungry radar, and enables primary computer control of the radar antenna.
+072:47:29 Duke: Okay, Fred. Good show. Step 6: Verb 41 Noun 72, Enter, plus all balls, plus 28300. Step 7: Monitor movement with Verb 16 Noun 72. Step 8: CB 11 Rendezvous Radar 2, Open. Are you with me? Over. [Pause.]
+Next step is to use Verb 41 Noun 72 to input the desired shaft and trunnion angles to position the radar antenna. The antenna has two degrees of motion, hence they input values for both of them.
+Hence they would input the following:
++00000 - the angle of the shaft (up and down motion) goes to zero
++28300 - the angle of the trunnion (left and right motion) is set to 283 degrees, which moves it to the left and outside the field of view of the AOT during the upcoming Sun check. It is interesting to note the nomenclature for the radar's axes. The word 'trunnion' is derived from the tilt axis of a cannon and its usage would imply the pitch axis (as occurs in the CM's sextant.
+Structure of the LM Rendezvous Radar
+The Rendezvous Radar. It has two degrees of motion, along the shaft axis (for pitch, or up and down) and the trunnion axis (for yaw, for left and right).
+The limits of motion of the LM Rendezvous Radar
+Inputting Verb 16 Noun 72 displays the current angle of the Rendezvous Radar on the computer's R1 and R2 registers, i.e. the first and second lines on the DSKY.
+072:48:13 Haise: Stand by 1. [Long pause.]
+072:48:28 Haise: Okay. Go ahead now.
+072:48:30 Duke: Roger. Step 9 is a Verb 44. Step 10: CB 16, EPS Inverter 2, Open. Over. [Pause.]
+072:48:53 Haise: Okay. I got it.
+Verb 44 is the command to terminate the Rendezvous Radar operation via the computer and release it for other functions. The last step is to take out the Inverter 2 circuit breaker to turn off the AC power.
+072:48:56 Duke: Okay.
+072:48:57 Haise: Do you want me to read it back now?
+072:48:58 Duke: I got one more for you. You'll copy this and give me it all on the readback. Okay. Once you get the attitude and you want to use the - you want to get the AOT lamp, we got to go CB 16 EPS Inverter 2, Close; CB 11, AC Bus A AOT Lamp, close. After the P52, you can open CB 16 EPS Inverter 2, and open CB 11 AC Bus A AOT Lamp and AC Bus A Bus Tie Inverter 2. Over. [Pause.]
+072:50:01 Haise: Okay. Stand by 1.
+Comm break.
+The AOT has an internal lamp that illuminates the reticle inside. They have to enable the lamp's power supply and crank up the AC inverter to provide the lamp with AC power.
+072:51:10 Haise: Okay. Let's see if I got it all. For Rendezvous Radar parking: first of all we want CB 16 EPS Inverter 2, Closed; CB 11 AC Bus A Bus Tie Inverter 2, Closed. Then on panel 14, verify Inverter 2 selected. And CB 11 Rendezvous Radar 2, Closed, both breakers. Then we are to pull the Rendezvous Radar Release handle. On panel 3, we then want Rendezvous Radar to LGC. A Verb 41 Noun 72, Enter, with plus all zips, plus 28300 in registers 1 and 2. Go on that. Then we monitor movement with the 16 72. After it gets parked, CB 11 Rendezvous Radar 2, Open; followed by Verb 44, Enter. And CB 16 EPS Inverter 2, Open. Now, when it comes time for the alignment to get an AOT lamp, CB 16, EPS Inverter 2, Closed; CB 11 AC Bus A AOT Lamp, Closed; and after the alignment is completed at CB 16, EPS Inverter 2, Open; CB 11 AC Bus A AOT Lamp, Open, CB 11 AC Bus A Bus Tie Inverter 2, Open.
+072:52:54 Duke: Good readback, Aquarius. We'll - To get those needles on the Verb 62, we got to power up the commander's FDAI. We'll have that procedure for you shortly. Over.
+072:53:11 Haise: Okay. [Long pause.]
+The FDAIs have been powered off to save battery power during the coast to the burn, and need to be brought back up for their maneuvers.
+072:53:29 Lovell: Charlie, Jim here.
+072:53:32 Duke: Roger. Go ahead.
+072:53:36 Lovell: Have you run a Earth set alignment in the simulator with a docked configuration?
+072:53:43 Duke: Is the question, "Have we run a - an alignment in the docked configuration?" That is affirmative.
+072:53:54 Lovell: Okay. Did you have any trouble controlling the vehicle, and what techniques did you use?
+072:54:02 Duke: Briefly, to control pitch and roll, use the TTCA, as we've practiced; for yaw, you can use the ACA. Over.
+072:54:24 Lovell: Okay. You have no special techniques going back and forth between the yaw and the X and Y lines. Over.
+072:54:33 Duke: Not right now, Jim. Dave Scott's been running these things and we'll get them up to you shortly. Over. [Pause.]
+Gemini and Apollo astronaut David Scott is supporting the mission by running simulations on ways to control the spacecraft in its unusual state.
+Dave Scott's Apollo 15 crew portrait.
+Dave Scott would later serve as a technical advisor on the set of the Ron Howard movie, Apollo 13.
+072:54:43 Lovell: Okay.
+072:54:44 Duke: We think the alignment's going to be okay, so we don't have to do this P52 full-up alignment. We think the check is going to be okay. Like to remind you since you are in Att - if check does not pass, since you are in attitude for the Sun, that we'd - We want the Sun half-unit vectors first. Over.
+072:55:07 Lovell: Roger. Understand.
+Comm break.
+072:56:14 Lovell: Okay, Houston. It's been over an hour since we did our last PTC. You want us to do another one now?
+072:56:22 Duke: Stand by 1. Over. [Long pause.]
+072:57:09 Duke: Aquarius, Houston. We'd like you to go ahead and yaw 90 for the PTC. Keep a close eye out on your middle gimbal angle. You're about 30 degrees from gimbal lock, and we'll call you an Omni switch halfway through the maneuver. Over.
+072:57:30 Lovell: Roger.
+Comm break.
+The inertial measurement platform gimbals - normal and locked state
+The rings that support the guidance platform act as gimbals which let the spacecraft rotate as the platform maintains a constant orientation with respect to the stars. This is achieved because the hinges between each gimbal afford the arrangement three degrees of freedom. Unfortunately, thanks to the (deliberate) choice of using only three gimbals, there is an orientation which can be adopted whereby the middle gimbal moves in such a way that the axes for the outer and inner gimbals line up.
+If this occurs, all the axes are now in the same plane and so the arrangement has essentially lost one of its degrees of freedom. It is no longer capable of isolating the rotation of the spacecraft from the platform. This condition is termed gimbal lock. If it is inadvertently adopted, it will require a realignment of the platform, something they don't want the crew to have to do. Hence, both the crew and Mission Control are keeping a careful eye on the middle gimbal. Should its angle exceed 70 degrees, the computer will light the Gimbal Lock warning light. 85 degrees is the absolute limit, after which a gimbal lock condition does exist and their attitude reference is lost.
+The LM and IMU axes. The IMU itself is located above the astronauts' heads, in the space over the cabin.
+The middle gimbal monitors the roll axis, (also known as R, or the Z axis). It is a conscious design choice to implement the inherent limit of the three-gimbal design to the middle gimbal, since rotations on the roll axis are the least required, and easiest to avoid in mission planning. The advantages gained are in the mass of the IMU and a lesser tendency to drift out of alignment.
+072:59:27 Haise: Okay. And, Houston, Aquarius. You might know when you've had enough ranging so we can get the power amp back off again.
+072:59:36 Duke: Roger, Freddo. We got one more procedure, and we can shut it down, and that's to get the needles and the FDAI for this maneuver. That 5018 could take you to gimbal lock, and we think it's a good idea to power up the commander's ball. We've got a four-stepper, if you're ready to copy. Over. [Long pause.]
+073:00:15 Haise: Okay. Go ahead.
+073:00:16 Duke: Okay. Verify that you got AC power; in other words, the Inverter 2 selected and the Bus Tie Inverter 2 AC Bus A, Closed. We'll be under Flight Displays, GASTA, Closed, Commander FDAI, Closed. On the AC Bus A, CBs, GASTA, Closed, Commander FDAI, Closed. Over. [Long pause.]
+073:01:04 Haise: Okay. It's verify we have AC, which is panel 16, Inverter 2, Closed. CB Inverter 2 closed. Then on panel 11 under Flight Displays, we want the GASTA and the Commander's FDAI breakers closed. Also under panel 11, AC Bus A GASTA and Commander's FDAI breakers, Closed.
+Circuit breaker configuration to power up the FDAI
+They need DC and AC power to the FDAI as well as the GASTA electronics that interface between the IMU and the 8-ball.
+073:01:25 Duke: That's affirmative. Over. [Long pause.]
+073:02:11 Duke: Aquarius, Houston. After the Omni switch, we would like you to get the ranging off, the Voice switch to Down Voice Backup, and the Power Amp CB on 16, Open. Over.
+073:02:31 Haise: Okay. After the Omni switch, we'll get the Power Amp, off, and go back to Down Voice Backup FTA and the Ranging off. It's your call.
+073:02:43 Duke: Roger. Stand by. [Pause.]
+073:02:55 Duke: Freddo, we got about 2 minutes to the Omni switch. You can go ahead and power the Ranging down and and the Down Voice Backup, and we'll give you a call on Omni switch. Over.
+073:03:09 Haise: Okay. [Pause.]
+073:03:19 Haise: How do you read Aquarius now on Down Voice Backup?
+073:03:24 Duke: Roger, Aquarius. We are reading you about the same, about 2-by.
+073:03:34 Haise: Okay. [Long pause.]
+Their return to the low power comm configuration has also returned the poor audio quality.
+073:04:16 Duke: Aquarius, Houston. Select Forward Omni. Over.
+073:04:26 Haise: You got it.
+073:04:28 Duke: Roger.
+Long comm break.
+073:08:55 Haise: Do you read down there, Houston? [Pause.]
+073:09:03 Brand: Apollo 13, Houston. We read you weakly. Go ahead.
+073:09:11 Haise: Okay. Vance, if Buzz or Neil are around you might ask them if they had to use the AOT lamps to shoot the Sun like they did on 11.
+Fred is of course referring to the Apollo 11 astronauts. Besides Tom Stafford and Gene Cernan of Apollo 10 and Apollo 12's Pete Conrad and Alan Bean, these six astronauts are the ones with experience operating the AOT in the actual near-lunar environment.
+Astronaut Vance Brand is back for his first CapCom duty shift since the beginning of the emergency.
+073:09:25 Lovell: Well, where's the [garble].
+073:09:34 Haise: Right down below me here?
+073:09:37 Brand: Fred, breaking in. You're very weak. Understand if Buzz or Nell are down here, you'd like to ask them if they used the AOT lamp to what? Over.
+073:09:52 Lovell: To see the Sun, Vance. It might be possible to see the reticle without even having the light on.
+073:09:58 Brand: Oh, I see. See if it's possible to see the reticle without the light on. Okay. We'll make a check. And one other thing, you might move that Rendezvous Radar antenna to park any time now. You can start any time you want.
+073:10:19 Lovell: Okay.
+073:10:30 Haise: [Garble] it's out of the way. [Long pause.]
+073:10:54 Brand: Apollo 13, Houston. [Pause.]
+073:11:01 Lovell: Go ahead, Vance.
+073:11:03 Brand: Jim, Neil is here. He advises that you will not need the lamp on for the Sun check but that you will need it on for the Earth check. Over.
+073:11:18 Lovell: Understand. [Long pause.]
+073:11:32 Haise: Okay. Let's park the radar. Are you ready?
+073:11:35 Lovell: Okay. Let me - First of all, let me see how we're doing here. That's going down. That's better. That's coming up. That's right. Let's - Okay. Let's park the radar. How - How long is it going to take?
+073:11:48 Haise: Not too long. Okay, Inverter 2 [garble]. Here, hold the light for me, Jim. Right here on the [garble] panel. Hold it still. [Garble] AC Bus A Bus Tie.
+073:12:13 Lovell: Okay.
+073:12:14 Haise: AC Bus A.
+073:12:15 Lovell: Okay.
+073:12:17 Haise: Bus Tie Inverter 2.
+073:12:18 Lovell: Bus Tie Inverter 2. Pro.
+073:12:22 Haise: Okay. Panel 16 verify and select Inverter 2.
+073:12:28 Lovell: Okay.
+073:12:31 Haise: Okay. On CB 11, give me the Rendezvous Radar breakers, with 30-second spread.
+073:12:37 Lovell: Okay. [Garble] at 15, I [garble]. [Pause.]
+073:12:45 Haise: Okay. [Garble] 30 seconds.
+073:12:48 Lovell: Okay. Go ahead.
+073:12:50 Haise: Right. [Long pause.]
+073:13:16 Haise: Okay. Thirty seconds. AC breaker.
+073:13:19 Lovell: Okay. Got a big dip.
+073:13:21 Haise: Okay. Reach up here and give me the [garble] panel [garble]
+073:13:24 Lovell: Okay. She's pulled. [Pause.]
+073:13:33 Haise: Okay. Panel 3, check the LGC.
+073:13:36 Lovell: LGC.
+073:13:37 Haise: Okay. Give me a Verb 41 Noun 72.
+073:13:40 Lovell: Still going good, right?
+073:13:46 Haise: Okay. And they're all zips, 28300. [Pause.]
+073:13:55 Lovell: 00.
+073:13:56 Haise: Go.
+073:13:57 Haise: [Garble] 16 72 [garble]. [Long pause.]
+073:14:14 Lovell: It's going now. [Garble] signal light.
+073:14:15 Haise: Right. [Pause.]
+073:14:23 Lovell: [Garble] is running away. Docking light.
+073:14:26 Haise: What?
+073:14:27 Lovell: Command Module docking light. Okay. You got them. They're in. [Long pause.]
+073:14:41 Haise: Okay. Two Rendezvous Radar breakers, pull them. [Garble]. [Pause.]
+073:14:49 Lovell: [Garble].
+073:14:55 Haise: CB 16 Inverter 2, Open.
+073:15:02 Haise: Okay. [Pause.]
+073:15:10 Lovell: You know that light on the Command Module [garble]? [Long pause.]
+073:15:43 Brand: Apollo 13, Houston. Over.
+073:15:46 Lovell: [Garble] get that thing [garble].
+073:15:51 Brand: Roger. One correction. We think that the cheapest way for you to maneuver to change attitude is with minimum pulse ACA. That's to do the star mark.
+073:16:10 Lovell: We had - Okay. As soon as possible we'll get that star data [garble] we can get to maneuver attitude by using TTCA.
+073:16:23 Brand: Roger.
+073:16:25 Lovell: And, just out of curiosity, we got rid of the radar very nicely. It's hanging right in the middle of the - the forward digit is the docking light on the Command Module. Can you believe that? I don't think it will hurt our Sun check, but it'll sure make P52 [garble].
+Jim thinks that the radar antenna could still cause trouble when they are trying to spot the Sun and the Earth for their P52 realignment.
+073:16:53 Brand: Sorry, Jim, but we are only reading you about 1 by 1.
+073:16:56 Lovell: Look at that big [garble] out there. [Pause.]
+073:17:04 Lovell: [Garble] out there.
+Comm break.
+073:18:21 Lovell: It looks like a piece of wrapping for [garble] line. [Long pause.]
+It sounds like Jim has spotted some debris moving along with them.
+073:18:49 Lovell: You're watching that. Right?
+Comm break.
+073:19:52 Lovell: It's going to get smaller before it gets larger.
+Comm break.
+073:21:10 Lovell: Okay. I guess they can close it. [Long pause.]
+073:22:03 Lovell: Okay. Did you read your figures [garble]?
+073:22:06 Haise: Yes.
+073:22:07 Lovell: Okay. [Long pause.]
+073:22:45 Lovell: Okay. [Garble] P22. What's our next time line?
+073:22:50 Haise: [Garble] about 73:30 [Garble].
+Comm break.
+073:23:56 Lovell: Did you get that or did he give it to you?
+073:23:58 Haise: He gave it to me.
+073:24:01 Lovell: Okay. Because I thought he said 2 degrees per second. Like to check on that.
+073:24:09 Haise: Okay, Houston; Aquarius.
+073:24:11 Brand: Go ahead, Fred.
+073:24:16 Haise: Okay. Jim thinks he heard something different than I copied on the DAP load. Is Register 1 supposed to be 31120? [Pause.]
+073:24:32 Brand: That's correct, Fred. That was to be 31120.
+073:24:40 Lovell: Okay.
+073:24:41 Haise: Okay.
+073:24:47 Lovell: And, Houston, how do you want us to [Garble]? [Long pause.]
+073:25:13 Lovell: [Garble] 3, 2, C and D, 2, 2, 0, [garble]. Okay. We're at high bit rate. [Long pause.]
+073:25:53 Haise: Okay. [Garble] give [garble] a call. [Pause.]
+073:26:01 Lovell: Well, they probably don't know what to do there.
+073:26:06 Lovell: Okay. And, Houston; Vance.
+073:26:09 Brand: Go ahead, Jim.
+073:26:13 Lovell: Just want to get a time check with you. When do you want us to start powering up the ball? We just got to our PTC attitude.
+073:26:21 Brand: Understand you'd like to know when to power up the...
+073:26:24 Lovell: We think to take about 15...
+073:26:25 Haise: [Garble].
+073:26:29 Lovell: Yes. The ball inside the maneuver, we think it will take us about 15 minutes to get there. We'd like you to confirm that.
+073:26:40 Brand: Stand by 1. [Long pause.]
+073:26:54 Haise: [Garble] god damn [garble]. [Long pause.]
+073:27:28 Lovell: What would that take to use [garble] use the Command Module or what? To load the PLSS [garble].
+073:27:30 Haise: [Garble]. [Garble]. Let's see, about 10 or 11 [garble].
+Long comm break.
+While they wait the upcoming Sun check, the astronauts go back to their common topic of using the PLSS backpacks for extra water supplies or for transferring water supplies.
+073:31:29 Lovell: When is that Sun check time supposed to take place?
+073:31:32 Haise: 74 hours, 29 minutes [garble].
+073:31:40 Lovell: Okay, Houston; Aquarius. I'd just like to do the little Sun check. Do you want me to do it now?
+073:31:45 Brand: Jim, Roger. We just came up with a maneuver time of approximately 15 minutes, so if you start any time between now and about the next 2 minutes it would get you into attitude by 73:15. Over.
+073:32:06 Lovell: Roger. We'll start the maneuver at this time. Okay. Let's go.
+073:32:12 Haise: Okay. SPS [garble]...
+073:32:13 Lovell: If we don't keep working, we'll never develop it. [Pause.]
+073:32:29 Haise: [Garble] now, Power up your FDAI.
+073:32:31 Lovell: All right.
+073:32:34 Haise: Okay. Give me 16 [garble]. Apparently. [Garble] panel 11 [garble].
+073:32:42 Lovell: Yes.
+073:32:43 Haise: [Garble] GASTA.
+073:32:45 Lovell: Okay.
+073:32:47 Haise: And Commander FDAI.
+073:32:49 Lovell: Okay.
+073:32:51 Haise: And on your HA, yaw right side, lift main line [garble]. [Garble].
+073:33:01 Lovell: Okay.
+073:33:04 Haise: Now [garble] 30 second [Garble]. Okay. Now let's get ready to run this back. [Garble].
+073:33:16 Lovell: Okay. [Pause.]
+073:33:26 Lovell: Okay. Dead band Option. [Long pause.]
+073:33:48 Haise: Okay. [Garble]. [Garble]. [Long pause.]
+073:34:04 Haise: Okay. [Garble] on this [Garble] vector. Okay; R1, plus 45498 [garble] Okay, plus 190 [garble], plus 08256. Okay, now we show zips [garble]. Okay. Verb 62, Enter. Okay. [Garble] and the main [garble] in Auto [Garble]. [Garble]. [Long pause.]
+073:36:09 Lovell: Houston, are you monitoring our P52 technique?
+073:36:20 Brand: ...Apollo 13...
+073:36:24 Lovell: Roll, yaw, roll, pitch, and yaw.
+073:36:29 Brand: Jim, that's negative. We don't have any data on you. Low bit rate.
+Mission Control can't read their computer display or the gyroscopic information indicating their attitude due to the telemetry being on the Low Bit Rate mode.
+073:36:36 Brand: We don't have high bit rate. [Pause.]
+073:36:49 Haise: Houston, do you read Aquarius?
+073:36:51 Brand: Roger. Reading you, Fred. Go ahead. [Pause.]
+073:37:05 Brand: Go ahead. Houston is reading you.
+073:37:06 Haise: Houston, Aquarius.
+073:37:08 Brand: Reading you loud and clear. Go ahead.
+073:37:14 Lovell: Are you monitoring our P52 technique?
+073:37:19 Brand: That's negative, Jim. We do not have high bit rate data on you now. Over.
+073:37:28 Lovell: Okay. Thank you.
+073:37:30 Brand: Roger.
+073:37:33 Haise: And be advised, Vance, that we are getting several echoes in our comm downlink here.
+073:37:42 Brand: Roger. We'll check into it. [Long pause.]
+073:37:58 Lovell: [Garble]. [Garble] and [garble] alignment.
+073:38:04 Brand: Apollo 13, Houston. [Pause.]
+073:38:11 Lovell: Go ahead, Houston.
+073:38:12 Brand: Jim, request you give us high bit rate now. We might be able to fix you up on the 120 antenna.
+073:38:21 Lovell: Okay. High bit rate.
+073:38:25 Brand: Roger. [Long pause.]
+073:39:10 Haise: And, zero, zero, zero.
+073:39:15 Lovell: Yes.
+073:39:20 Brand: Apollo 13, Houston.
+073:39:26 Haise: Go ahead.
+073:39:27 Brand: Fred, we can't lock up on your high bit rate. Request you go back low bit rate.
+Mission Control attempted to use a larger antenna to receive the weak signal from the spacecraft, with no success. They have to switch back to low bit rate to receive at least some telemetry.
+073:39:36 Haise: Hey, we lost you there, Vance.
+073:39:39 Brand: Roger. Advise, we are not locking up on your high bit rate, so you can go back low bit rate. Over.
+073:39:49 Haise: Low bit rate.
+Comm break.
+073:41:14 Haise: Right here, Jim. There it is. Looks like it [garble].
+073:41:25 Lovell: I don't have all the confidence in the world in this Earth-Sun P52. [Long pause.]
+Jim does not sound entirely convinced about the plan to use sightings of the Earth and the Sun to align the IMU, if it should come to that. As the Earth and the Sun are not only much larger targets to get a fix on, they are also extremely close in comparison to the stars they usually use for navigational purposes, hence there is further potential for errors.
+073:42:18 Lovell: You know how many times I screwed up on my arithmetic.
+073:42:24 Haise: Yes. Don't count your chickens before they hatch.
+073:42:28 Lovell: Listen, I'm not. [Pause.]
+073:42:40 Lovell: We're [garble] going to be two diameters out, huh?
+073:42:42 Haise: Yes.
+073:42:43 Lovell: Okay. Tell me what that technique is to get the lamp on, in case I don't see it.
+073:42:48 Haise: They'll have to give you AC again and you punch in your breaker - Well, let's see - I've still got HP On for the FDIs, so you're in business now. All you need is the lamp breaker, the AC Bus A AOT lamp breaker, that is. [Long pause.]
+073:43:57 Lovell: Let me know when these start going. There's the Sun. Give me the - Give me the AOT.
+073:44:08 Haise: Okay.
+073:44:09 Lovell: Never mind. I don't need it. Go ahead. I got it. Never mind.
+073:44:16 Haise: Reticle brightness, want it up? Got the reticle?
+073:44:19 Lovell: I got the reticle [garble]. [Pause.]
+073:44:29 Haise: [Garble]. Call it, Jack; you can see it better.
+073:44:33 Swigert: [Garble].
+073:44:35 Lovell: Okay.
+073:44:37 Haise: [Garble]. [Garble]. [Long pause.]
+073:44:52 Lovell: [Garble] we got it a great big one.
+073:45:00 Haise: Yes. I show it about maybe a third of a diameter to the left.
+073:45:11 Lovell: Okay. Take a look.
+073:45:14 Haise: Check your needles. You're off in roll, Jim. [Long pause.]
+073:45:32 Haise: Pitch and yaw are in, but we're off in your roll needle. Better get that [garble]. [Pause.]
+073:45:41 Lovell: Okay. It brings it in. Say when. [Long pause.]
+073:46:05 Lovell: Okay. We got it. I think we got it. What diameter was it? [Pause.]
+073:46:16 Haise: Yes. It's coming back in. Just a second. [Pause.]
+073:46:25 Lovell: Yes, yaw's coming back in. [Long pause.]
+073:46:40 Lovell: Just about it.
+073:46:44 Haise: Okay. Yaw is in [garble].
+073:46:46 Lovell: What have you got?
+073:46:47 Haise: [Garble] upper right corner of the Sun.
+073:46:52 Lovell: We've got it.
+073:46:59 Haise: You're hot [garble].
+073:46:59 Lovell: Houston, Aquarius.
+073:47:01 Brand: Go ahead, Aquarius.
+073:47:05 Lovell: Okay. It looks like the Sun check passes.
+073:47:10 Brand: We understand it checks out. We're kind of glad to hear that.
+Jim later remembered the Sun check in an official NASA history of the mission. Here he painted it in a rather more dramatic light than is immediately evident from the transcription.
+Lovell, from Apollo Expeditions to the Moon (NASA SP-350, 1975): "We had many crises on Apollo 13, but the biggest heart-stopper has hardly been noticed, partly because the transcription released to the press was garbled, and partly because there wasn't much point in talking about a crisis that had been averted earlier."
+Lovell, from Apollo Expeditions to the Moon (NASA SP-350, 1975): "We had transferred the CM platform alignment to the LM, but we had to make sure that this alignment was accurate before we made the long P.C.+2 burn."
+Lovell, from Apollo Expeditions to the Moon (NASA SP-350, 1975): "So what to do? A genius in Mission Control came up with the idea of using the Sun to check accuracy of our alignment. No amount of debris could blot out that star! Its large diameter could result in considerable error, but nobody had a better plan."
+Lovell, from Apollo Expeditions to the Moon (NASA SP-350, 1975): "When I looked through the AOT, the Sun just had to be there. It really had to be. And it was. At 73:46 hours, the air-to-ground transcript sounds like a song from 'My Fair Lady'. [...] If we raised our voices, I submit it was justified."
+Jim is most likely referring to the song 'The Rain in Spain' from the popular 1956 musical and its 1964 film adaptation.
+Lovell, from Apollo Expeditions to the Moon (NASA SP-350, 1975): "I'm told the cheer of the year went up in Mission Control. Flight Director Gerald Griffin, a man not easily shaken, recalls: 'Some years later I went back to the log and looked up that mission. My writing was almost illegible I was so damned nervous. And I remember the exhilaration running through me: My God, that's kinda the last hurdle—if we can do that, I know we can make it. It was funny, because only the people involved knew how important it was to have that platform properly aligned.' Yet Gerry Griffin barely mentioned the alignment in his change-of-shift briefing. 'That check turned out real well' is all he said an hour after his penmanship failed him. Neither did we, as crew members, refer to it as a crisis in our press conference nor in later articles."
+The Sun Check, as recorded in the Flight Director's Log, in Gerry Griffin's hand.
+073:47:17 Lovell: It's not quite centered, but it's about a diameter, a little bit less than a diameter, just to one side.
+073:47:24 Brand: Sounds good.
+073:47:31 Lovell: Now. Let's get the AOT lamp on.
+073:47:34 Haise: Okay, Jim.
+073:47:36 Lovell: Which [garble] to get the AOT lamp on?
+073:47:38 Haise: Okay. Pull the - your AOT lamp breaker.
+073:47:44 Lovell: Got it.
+073:47:45 Haise: Okay. And, Houston, can we proceed with our powerdown now? Getting the ball back off and AOT lamp, et cetera, AC secured.
+073:47:57 Brand: Stand by on that one for a minute, Fred.
+073:48:00 Haise: ...the ball [garble] get back to - Okay. What we'd like now, I guess, is the next attitude to go to, Vance, and we will work on getting there while we still have the ball.
+073:48:21 Brand: Roger. We copy.
+073:48:24 Lovell: [Garble]. [Long pause.]
+073:49:04 Lovell: Okay. Seventy-four hours. [Pause.]
+073:49:14 Haise: Yes. We're not there yet, really. I've got 11 minutes to check [garble] out. [Long pause.]
+073:50:05 Haise: Yes. Bring your [garble] down. [Long pause.]
+073:50:57 Haise: Get set. Keep [garble]. It's better in here. Slow now [garble]. [Long pause.]
+073:51:31 Brand: Apollo 13, Houston.
+073:51:36 Lovell: Go ahead.
+073:51:38 Brand: Jim, in a moment we will have an attitude for you to go to, and recommend that you keep your FDI up while maneuvering to that attitude. After you get there, then we will have you widen the dead band and eventually go into a PTC about the burn attitude. [Pause.]
+073:52:05 Lovell: You were cut off slightly, Vance.
+073:52:08 Brand: Roger. We will have an attitude for you to maneuver to in a moment. And you should leave your FDAI up for that. The attitude is as follows if you are ready to copy. Over.
+073:52:26 Haise: Got the book.
+073:52:32 Haise: Go ahead, Vance.
+073:52:34 Brand: Okay. This is FDAI attitudes for the maneuver. Yaw, 060 degrees; pitch, 083 degrees; roll, 272 degrees. [Pause.]
+073:52:59 Lovell: Let's not read that in the R1, R2. I don't want Verb 69 twice. I want Verb 49, 58g's so I can fly the needle. [Pause.]
+073:53:18 Brand: Jim. Those are not Verb 49 angles. Those are strictly FDAI attitudes. Over.
+073:53:30 Lovell: Okay. I understand, Vance. It's much easier if the ball is up to fly the needles; that gives me a drift of Verb 49, 58g maneuver. We could fly that manually.
+073:53:50 Brand: Stand by. We'll try to get you a Verb 49 angle. [Long pause.]
+There appears to be some confusion as to what kind of angles Vance is offering to the crew.
+Verb 49 Crew Defined Maneuver checklist.
+073:54:06 Lovell: Flying on maneuvers.
+073:54:08 Lovell: [Garble]. [Long pause.]
+073:54:50 Lovell: On that last check, what did it look like?
+073:54:57 Haise: [Garble]. [Garble]. [Garble].
+Comm break.
+073:56:20 Lovell: This is the first three-man LM we've had.
+073:56:25 Brand: Apollo 13, Houston.
+073:56:26 Haise: And, Vance, which - What hack you got now on GET?
+073:56:33 Brand: Okay. Stand by on that, Fred. First, let me read up your Verb 49 attitude, if you are ready to copy.
+Verb 49 activates the computer routine that can be used to input a desired attitude into the computer, and then used as a reference for flying into that attitude.
+073:56:45 Haise: Go ahead.
+073:56:46 Brand: Okay. Yaw, 27100; pitch, 35500; roll, 33000. Over.
+073:57:05 Lovell: Ask him if you keep it in Auto maneuver there.
+073:57:09 Haise: Okay. Verb 49: yaw, plus 27100; pitch, plus 35500; roll, plus 33000. And do you think it's cheaper to manually make that maneuver or take the 0.2-degree range and go in Auto maneuver? [Long pause.]
+073:57:50 Brand: Fred, we're recommending Auto maneuver. Over.
+073:57:57 Haise: Okay. Auto maneuver, and could you give me a GET right now.
+073:58:04 Brand: Okay. I understand you want GET of the burn. Stand by 1.
+073:58:10 Haise: That's negative, Vance. What is you clock reading right now?
+073:58:14 Brand: Okay. When I give you a hack, it will be 73:59, and that's about 40 seconds away.
+073:58:27 Haise: Okay. I think we will make one last check there with the half-unit vectors for 74 hours before we leave this attitude.
+073:58:36 Brand: Okay. And I'm going to calculate in the 2 seconds in giving you the time hack coming up on 73:59:00 when I give the mark. [Long pause.]
+073:58:57 Brand: Okay. Stand by.
+073:58:59 Brand: Mark. [Pause.]
+073:59:06 Haise: Looked good.
+073:59:09 Brand: Okay. I understand you got it.
+073:59:11 Lovell: You want me to Proceed one more time on that, Jack?
+073:59:15 Swigert: Roger. Yes, go ahead. [Long pause.]
+073:59:45 Lovell: Oh, it's on; it's a center. [Pause.]
+073:59:56 Lovell: That's it, she's right on still. Okay. I have too. That's better than I expected.
+074:00:05 Haise: Okay. Let's do a Verb 74 and get out of here.
+074:00:12 Lovell: If we can. Go to P00? Okay. I'm going to go to...
+074:00:19 Haise: [Garble]. [Pause.]
+074:00:31 Haise: 737100. Roger. 35500, plus 33000. [Garble].
+074:00:52 Lovell: Okay. That's...
+074:00:56 Haise: Yaw, pitch, and roll.
+074:01:01 Lovell: Let me see. No, that's yaw, pitch, and - Okay. Everything's [garble]. [Garble]. That's roll, pitch, and yaw. [Long pause.]
+074:01:29 Haise: Roll, pitch, and yaw.
+074:01:32 Lovell: Everything [garble] yaw. [Pause.]
+074:01:46 Lovell: The roll's going to be down here, but the yaw will be off the bellyband. [Garble] procedure, or don't you have a procedure? [Long pause.]
+074:02:08 Lovell: Roll, pitch, and yaw, but drift's the one. That would be gimbal lock if it wasn't for being off [garble]. [Long pause.]
+074:02:32 Lovell: And, Houston, I see that this maneuver gives us a roll of 27172, a pitch of 08301. Is that what they gave us?
+074:02:47 Brand: This is Houston. Please repeat.
+074:02:55 Lovell: Houston, did you give us Verb 49 in yaw, pitch, and roll, or register 1, 2, and 3?
+074:03:03 Brand: We gave it as yaw, pitch, and roll.
+074:03:09 Lovell: Okay. We wrote it as roll, pitch, and yaw. [Long pause.]
+074:03:23 Brand: Okay, Jim. We read it to you as yaw, pitch, and roll, and we should have given it to you registers l, 2, and 3; but we did not. So register 1 is 33000, register 2 is 35500, and register 3 is 27100. [Pause.]
+074:03:52 Haise: Okay, Vance. Register 1 will be 33000; register 2, 35500; register 3, 27100.
+074:04:05 Brand: Hey, Fred? Stand by on that.
+074:04:11 Haise: Okay. Plus 27100. Okay. Stand by. Right now you can enter [garble]. [Long pause.]
+074:04:43 Brand: Okay. Apollo 13, Houston.
+074:04:49 Lovell: Go ahead.
+074:04:51 Brand: Okay, Jim. We sorted it out, and it is correct the way we gave you the first time. So, R1, 27100, and in the LM, that's yaw; R2, 35500, and that's pitch; R3, 33000, and that's roll in the LM. Over.
+A momentary confusion has ensued from Vance's attempt to read the crew the angles for their preferred attitude. It turns out that the reason was due to the different way the Command Module and the Lunar Module handles the input of the angles into the guidance computer. While the Command Module Computer takes them in the order of RPY - Roll-Pitch-Yaw, the Lunar Module uses YPR - Yaw-Pitch-Roll.
+Another reason for this questioning is that the angles given are the ICDU - Inertial Coupling Data Unit angles, which refer to the angles of the IMU gimbals, not the FDAI 8-ball indicator, which would give its own readings.
+074:05:24 Lovell: I agree with you. Okay. 50 18, it's there, and 50 18, and that's what it will be. Okay.
+Verb 50 Noun 18 is the Auto maneuver they want to take to the new attitude.
+074:05:32 Brand: That's right. That's Verb 49. [Pause.]
+074:05:46 Haise: There are 25. 25, Enter.
+074:05:51 Haise: Okay. Plus 27100, plus 35500, plus 33000.
+074:06:07 Haise: Okay. [Long pause.]
+074:06:57 Lovell: So far we're [garble] what can we do about it? [Long pause.]
+074:07:48 Young: Apollo 13, Houston. You better watch that middle gimbal. Over.
+The middle gimbal senses their motion and acceleration on the roll axis, and is the one prone for the infamous gimbal lock.
+074:07:56 Lovell: Roger. We're watching that middle gimbal. We have as a roll, 27172. Our yaw is - that's register 3 - 3300. How did we get this? [Long pause.]
+074:08:36 Brand: And, Apollo 13. We have a procedure for you describing how to widen the dead band to 5 degrees later on. But stand by for that.
+074:08:51 Young: Apollo 13, you're heading for gimbal lock. You better stop everything. [Pause.]
+The gimbal lock is closer than ever, resulting in a quick warning from John Young, who is monitoring in Mission Control again.
+074:09:01 Haise: Yes, we're back in Att Hold now. We're trying to stop it.
+074:09:04 Young: Roger.
+074:09:09 Lovell: I'm going to roll it. [Long pause.]
+074:09:25 Haise: Can you give it a roll up now, Jim?
+074:09:27 Lovell: Yes.
+074:09:28 Haise: That's great. [Pause.]
+074:09:39 Lovell: I don't understand why we got that. [Long pause.]
+074:10:01 Haise: [Garble]. [Pause.]
+074:10:11 Lovell: Pitch.
+074:10:13 Lovell: It's down.
+074:10:15 Haise: Yeah.
+074:10:26 Lovell: What?
+074:10:30 Young: Apollo 13, Houston. It looks like Verb 49 maneuver will just take you right through there. You're going to have to go around it. Over.
+Verb 49's automatic maneuver is trying to fly them right into gimbal lock. They have to try to do it under crew control.
+074:10:41 Haise: Okay. That's what we're in the process of doing.
+074:10:43 Young: Si, si.
+074:10:47 Haise: We're manually working our way around it, Vance.
+074:10:53 Brand: Okay.
+074:10:54 Lovell: Pitch is 083. [Pause.]
+That's John Young talking to Apollo 13 now.
+Astronauts supporting Apollo 13. NASA photo S70-34902
+Mission Control photo from during the emergency shows many key players in returning the crew home. Seated are Deke Slayton, Director of Flight Crew Operations, Jack Lousma serving as the CapCom and backup Commander John Young, smoking a pipe. Grounded Command Module Pilot Ken Mattingly and CapCom astronaut Vance Brand are standing up.
+074:11:02 Lovell: How do I work my way around it? I'm 58g's, and I want yaw 231, right? I think they screwed up on our - our numbers again.
+074:11:26 Haise: Zero out the needles; we're heading that way, and then we'll stop and talk about it. [Long pause.]
+074:11:53 Lovell: No. Pitch is 83. Pitch should be up here. [Garble]. [Garble]. What's the number, 552?
+074:12:11 Haise: Pitch should be 83 degrees. [Garble]. [Pause.]
+074:12:24 Lovell: Roll 232; that's a long way to roll, [garble] yaw is 62 [garble].
+074:12:30 Haise: [Garble] yaw. [Long pause.]
+074:13:20 Lovell: [Garble] roll. [Pause.]
+074:13:28 Haise: [Garble]. [Long pause.]
+074:13:44 Lovell: Okay. What's that read; there's 180. [Pause.]
+074:13:57 Haise: Roger.
+074:14:04 Lovell: [Garble] is over here. Houston, 13.
+074:14:10 Brand: Go ahead, 13.
+074:14:15 Lovell: There's something screwed up on our burn attitude. We're not getting the proper readings on the ball and the needles are centered. I'm not too sure what's wrong. Let's go through this procedure again.
+074:14:30 Brand: Okay. Stand by 1. Let us look at it.
+074:14:31 Haise: It was - angles you gave us, Vance, aren't correlating the Verb 49 numbers.
+074:14:38 Brand: Okay. We'll check into it. [Long pause.]
+074:14:53 Lovell: We know the ball is good. Why don't we just get a 40? [Long pause.]
+074:15:38 Haise: You better watch out; it's heading that way. [Pause.]
+074:15:50 Brand: Apollo 13, Houston.
+074:15:56 Lovell: Go ahead, Houston.
+074:15:57 Brand: Okay, Jim. To answer your last question, do you have PGNS checklist page 57 handy?
+074:16:09 Lovell: Right, we do. I'll check it.
+074:16:12 Brand: As soon as you open up to that, I'll explain it. [Long pause.]
+074:16:40 Haise: Okay. Go ahead, Vance.
+074:16:42 Brand: Okay. Under Verb 49, crew-defined maneuver, the flashing 06 22 are the angles that we gave you that were loaded. The flashing 50 18 actually represents FDAI angles, and so what you read on 50 18 should...
+074:17:05 Lovell: Right. I understand.
+A further confusion has ensued among the crew about whether the angles were for the IMU or the FDAI.
+074:17:06 Brand: ...should not correspond with Noun 22. [Pause.]
+074:17:13 Haise: Yes. We appreciate that, Vance. It's just that right now we're trying to follow center needles that appear to be possibly taking us away from the place we know we want to be in the ball. [Pause.]
+074:17:34 Brand: Okay, You're tending toward the gimbal lock area again. Heads up.
+074:17:42 Haise: Roger. [Long pause.]
+074:18:34 Lovell: There's our 83... [Long pause.]
+074:18:36 Brand: Apollo 13, Houston.
+074:18:41 Haise and Lovell: Go ahead.
+074:18:43 Brand: 13, request you put in the Power Ampl circuit breakers so that we can take a look at your angles. [Pause.]
+074:18:54 Haise: You got it.
+074:18:56 Brand: Thank you. And now high bit rate. [Long pause.]
+074:19:47 Brand: Okay, 13; we're getting your high bit rate now and taking a look at your angles.
+Long comm break.
+They need improved signal strength to be able to transmit the high bit rate telemetry Mission Control requires to monitor the gimbal angles.
+074:23:01 Brand: Apollo 13, Houston. [Pause.]
+074:23:11 Lovell: Go ahead.
+074:23:12 Brand: Okay, Jim, we just took a look at your angles, and you're looking good here. Your PGNS is looking good. We can't yet explain the attitude error needle thing, but I suggest you continue on in your maneuver.
+074:23:32 Lovell: Roger. Okay. We've just about got roll.
+Long comm break.
+074:26:41 Brand: 13, Houston. We see you now in the Auto maneuver. How are your error needles looking now?
+074:26:50 Lovell: Okay. They look like they are working their way in, Vance.
+074:26:54 Brand: Okay. You think maybe they are working right now?
+074:27:00 Lovell: Yes. Because we got a 270-degree roll, our pitch and yaw needles are reversed.
+074:27:06 Brand: Okay. [Long pause.]
+074:27:22 Haise: Say, how do you read, Vance? [Garble].
+074:27:28 Brand: Fred, you are starting to fade out. Request Aft Omni, Omni Aft.
+LM comms control panel. Bottom right dial selects between the S-Band antennas. Original scan via heroicrelics.org.
+074:27:37 Haise: Okay. You've got Aft Omni.
+074:27:39 Brand: Thank you. [Long pause.]
+074:28:34 Brand: 13, Houston. [Long pause.]
+074:28:53 Lovell: Okay, Houston; Aquarius. We appear to be there - at the burn attitude. And now do you want us to change the DAP?
+074:29:01 Brand: Roger, Jim. We have a procedure to give you for widening the dead band to 5 degrees for the PTC in the next 3 or 4 hours, if you're ready to copy.
+074:29:13 Lovell: Okay, stand by. [Long pause.]
+074:29:29 Lovell: Go ahead.
+074:29:30 Brand: Okay. Verb 21, Noun 01, Enter; 3011, Enter; 44, Enter. Now, that's the procedure for widening the dead band to 5 degrees with the DAP. Later on, prior to the burn, you would return the dead band to 1.4 degrees, and if you're ready to copy, I'll read you that. [Pause.]
+074:30:11 Lovell: Stand by.
+074:30:13 Brand: Okay. [Long pause.]
+074:30:38 Lovell: Go ahead.
+074:30:40 Brand: Okay. To return the dead band later to 1.4 degrees: Verb 21, Noun 01, Enter; 3011, Enter; 200, Enter. Over. [Pause.]
+074:31:03 Haise: Okay, Vance. To widen the dead band, we'll enter a Verb 21, Noun 01, Enter; 3011, Enter; 44, Enter. Before the burn to go back to narrow dead band, it's Verb 21, Noun 01, Enter; 3011, Enter; 200, Enter.
+074:31:22 Brand: Roger. Readback correct.
+Comm break.
+Verb 21 Noun 01 procedure to change erasable data
+Vance's cryptic-sounding instructions are used to change the dead band maintained by the DAP. To do so, they use the Verb 21 Noun 01 command to change information in the computer's 2 kilobytes of erasable memory. They first input the known memory location - or address - of the computer instruction they want to access, and then input a new value for the program to take so that the DAP will perfom as desired.
+MIT computer programmer and Apollo guidance computer software development director Margaret Hamilton poses next to the printed out source code of the guidance program.
+074:32:30 Lovell: And, Houston, I'll guess we'll do this PTC in yaw, and do you want them all powered down? [Pause.]
+074:32:45 Brand: Stand by. [Long pause.]
+074:33:06 Brand: Okay, Apollo 13. Over.
+074:33:11 Lovell: Go ahead.
+074:33:13 Brand: Okay, that's affirm. You'll be doing the PTC in yaw, and we'll give you a call at each time you change yaw - yaw attitude. Aside from that, request low bit rate, Off; then Down Voice Backup, Off; then Power Ampl, Off; and then FDAI, Off. [Pause.]
+074:33:42 Haise: Okay, Vance. On the power down, we go low bit rate; Down Voice Backup, we'll pull the Power Ampl breaker; and we'll power down the FDAI and the AC.
+074:33:55 Brand: That's affirm. And the AOT, too.
+Comm break.
+074:34:59 Lovell: Okay, are you all set for old a...
+074:35:02 Haise: Okay, Houston; Aquarius. How do you read Down Voice Backup?
+074:35:07 Brand: Reading you loud - loud and clear now, Fred.
+They go back to the low power comms configuration and also power off the FDAI to save some power.
+074:35:13 Haise: Okay.
+074:35:18 Lovell: Oh, Vance, do you want to stay in this attitude for a certain length of time before we start maneuvering?
+074:35:26 Brand: Roger. Jim, we'll keep you there for about an hour, and then we'll have our first 90-degree rotation.
+074:35:36 Lovell: Okay. How wide do I make the dead band? [Pause.]
+074:35:52 Brand: Say again.
+Comm break.
+074:37:15 Haise: [Garble] the other Omni's in. [Pause.]
+074:37:27 Haise: Yes. My forward Omni is in.
+074:37:29 Brand: Apollo 13, Houston. Forward Omni should be best.
+074:37:36 Haise: We're there.
+Comm break.
+074:39:14 Lovell: I don't see why the hell he [garble].
+074:39:18 Haise: I know.
+074:39:19 Lovell: I don't know. I don't know where that 5 degrees [garble]. [Long pause.]
+074:39:40 Haise: Cut it. [Pause.]
+074:39:48 Lovell: [Garble] [Long pause.]
+074:40:24 Lovell: Oh-h. [Garble] that thing against the [garble].
+Comm break.
+074:42:15 Lovell: I'm just going to try and close my eyes for a little.
+074:42:19 Haise: Go ahead.
+Long comm break.
+074:50:32 Brand: Aquarius, Houston.
+074:50:37 Haise: Go ahead.
+074:50:39 Brand: Fred, one - one point on the PTC requests that, about an hour or less from now when you make your 90-degree change, that you do it in PGNS Auto as opposed to Att Hold. Reason is that if you're in Att Hold, it establishes a new null point each time you stop the - the maneuver. Over. [Pause.]
+074:51:10 Haise: Okay. You want us to make the maneuver with PGNS Auto rather than the PGNS Att Hold. Is that right?
+074:51:18 Brand: Yes. That's correct. [Long pause.]
+074:51:33 Brand: And, Fred, advise that it - it is a manual maneuver. [Long pause.]
+074:51:53 Brand: 13, Houston. You'd be using X-axis override. It will be a manual maneuver, but with the PGNS Auto mode.
+074:52:07 Haise: Okay.
+074:52:10 Brand: And if you're ready to copy, Charlie is going to be on in a minute with some recommended checklist changes for your upcoming burn. Over.
+074:52:25 Haise: Okay. Stand by 1.
+074:52:26 Lovell: I'm going to erase this. [Long pause.]
+This is Apollo Control, Houston. It's 74 hours, 53 minutes. In Mission Control we've had a change of shift. Gene Kranz White Team now aboard. Presently our space digital display...
+074:53:19 Duke: Hello, Aquarius; Houston. Do you read? Over.
+074:53:28 Haise: Yes. Stand by 1, Charlie. [Long pause.]
+074:53:48 Haise: Okay. Which book are you going to give me some words in, Charlie? [Long pause.]
+074:54:04 Haise: Houston, Aquarius. Which book do you want us to have out? [Garble] contingency [garble]?
+074:54:16 Duke: Houston. This is Houston, Aquarius. Say again. Over.
+074:54:23 Haise: Houston, Aquarius. Which book do you want me to update here, Charlie, the contingency two hour DPS? [Pause.]
+The original transcript transcribes Fred's question as 'contingency QR DPS?' but upon close listening of the tape it is clearly heard that he says 'two hour' instead.
+074:54:38 Duke: Okay, Freddo, we'd like you to get out the contingency checklist; turn to page 1, the 2-hour activation. Over. [Pause.]
+The LM 2-hour activation checklist, page 1
+To prepare for the PC+2 burn, they are using the LM Contingency Activation Handbook's pre-written procedures and altering them as required.
+074:54:51 Haise: Okay. I'm right there.
+074:54:54 Duke: Okay. On page 1, the only thing we have to do is EPS Activation, step 2, CB(16) EPS: Display, Close. Over. [Pause.]
+074:55:18 Haise: Okay. On page 1, we need EPS Display, Close, under EPS Activation, step 2.
+This simply activates the EPS displays, which have been powered down to save up their batteries.
+074:55:27 Duke: Okay. Turning over to page 2, we'd like you to complete step 5 and step 6 with the following changes: Power/Temp Monitor, AC Bus, Inverter 2, then Inverter 1. Fourth line CB(11), EPS: Inverter 2, Open. Over.
+074:56:08 Haise: Okay, on step number - or page 2, we should do step 5 and modify step 6 second line to read Inverter 2, then Inverter 1, to the last line of step 6 CB(11), EPS Inverter 2, Open. [Long pause.]
+The only real procedures here are changing the desired inverter configuration.
+074:56:30 Duke: Okay. That will be on CB(16), Freddo, but it's Inverter 2, Open. Okay, on the Mission Timer Activation. Do step 1, correction, lines 1 and 2. Omit "set mission timer on CSM mark" and insert a Verb 16, Noun 65, set mission timer. Over. [Pause.]
+074:57:04 Haise: Okay. We'll do the Mission Timer Activation except we'll set it on Verb 16, Noun 65.
+Mission timer setup from the Contingency Checklist
+Normally this procedure assumes a fully functioning Command Module, including its mission timer and onboard clock. While usually the time would be input by having someone in the CM communicate it to the LM by shouting it down the hatch, they will now use the LM computer to display the time and then input it into the mission timer.
+074:57:11 Duke: Okay. Proceeding on to step, correction, page 3, CWEA checkout. Step 1, perform step 1. Warning lights will be Ascent Press, CES AC, and CES DC. Under the caution lights, we may have a heater light. And that's all. Okay, perform - under the circuit breaker 16...
+2-Hour Activation Page 3
+Page 3 offers procedures for activating the Caution and Warning system for the burn. Their warning lights will light up if any trouble comes up with the engine pressures or the electric power delivered to the CES - the engine control electronics.
+074:57:46 Haise: I can't understand you. I'll switch Omnis.
+074:57:49 Duke: Say again. Over.
+074:57:54 Haise: I'm going to switch to Omnis here, Charlie, you're starting to fade out.
+074:58:00 Duke: Understand. Switching Omnis. Over.
+074:58:02 Haise: Okay. How do you read? [Garble], how do you read me now?
+074:58:08 Duke: Okay, you're a little better. How me? Over.
+074:58:14 Haise: Okay, Houston. Coming in loud and clear. I got your caution/warning checkout, step 1, do; the warning lights we'll have will be Ascent Press, CES AC, CES DC. The only caution lights we may have will be a heater light and go ahead and proceed from there.
+074:58:32 Duke: Okay, good. The component light, we won't have the H2O Sep. Okay, on CB(16) right under that, "Heater Display, Close," you can scratch that out. Perform all of step 2 and perform step 4 with the following changes. On panel 11, under AC Bus B, are you ready to copy? Over.
+074:59:09 Haise: Go ahead.
+074:59:10 Duke: Okay. Under AC Bus B: S-Band Antenna, Open; ORDEAL, Open. Under AC Bus A: Tape Recorder, Open. Row 2 under RCS System A: Main SOV. Starting with a Quad TCA; all four Closed. Under Flight Displays: Cross - Commander Cross-Pointer, Open; COAS, Open; ORDEAL, Open. For row 3 under Heaters: Rendezvous Radar Standby, Open; Landing Radar, Open. Under Stab/Control: Attitude Direct Control, Close. Under ED: Logic Power A, Open; and under Lighting: Utility, Open. Are you with me? Over.
+This circuit breaker configuration only leaves the RCS thrusters and their control systems powered.
+075:00:37 Haise: Yes. I'm still with you, Charlie; go ahead.
+075:00:39 Duke: Okay, Freddo, good show. On row 4, starting with ECS: Suit Fan 1, Close; Glycol Pump Auto Transfer, Close. Under comm: VHF B Transmitter, Open; VHF A Receiver, Open. Under PGNS: Signal Strength Display, Open; IMU Operate, Close. Under EPS, row 5: Cross Tie Bus, Open; and Inverter 1, Close. Over. [Pause.]
+This configuration leaves suit fan 1, the glycol pump transfer, the IMU and Inverter 1 powered.
+075:01:35 Haise: Okay, stand by just 1. [Long pause.]
+That's Charlie Duke at the capsule communicator's position, passing up contingent - changes to the contingency procedures to Fred Haise aboard Aquarius. We're at 75 hours, 2 minutes now into the flight; continuing to monitor. This is Apollo Control.
+075:02:01 Haise: Okay, panel 11 configuration, top row: AC Bus B, I want the S-Band Antenna, Open, ORDEAL, Open; AC Bus A, Tape Recorder, Open. Second row, under RCS System A, I want Main SOV through Quad 1 TCA, all Closed. Commander's X-Pointer under Flight Displays, Open; COAS, Open; ORDEAL, Open. Third row: Rendezvous Radar Standby Heater, Open; Landing Radar Heater, Open. Under Stab/Control: Attitude Direct breaker, Closed; ED: Logic Power A, Open; Lighting: Utility, Open. Under ECS: Suit Fan 1, Closed; Auto Transfer, Closed. Under comm: VHF B Transmitter, Open; VHF A Receiver, Open. Under PGNS: Signal Strength Display, Open; IMU Operate, Closed. Bottom row, EPS: Cross Tie Bus, Open; Inverter 1, Closed.
+A large diagram of LM Panel 11 can be viewed here. From heroicrelics.org.
+075:03:19 Duke: Roger, Fred. Good readback. Starting with panel 16. Under Flight Displays, row 1: SE Cross-Pointers, Open; RCS System Bravo - Quad 1 TCAs, Close; Quad 2, Close; Quad 3, Close; Quad 4, Close. Second row, under Lighting: Flood is your choice. You can either use them or not. Under ED: Logic Power Bravo, Open; ECS: Suit Flow Control, Open. Third row, under comm: Display, Open; VHF A Transmitter, Open; VHF B Receiver, Open; S-Band Antenna, Open. Fourth row, under Heaters: Display, Open; under EPS: Inverter 2, Open. And that's it. Readback. Over.
+075:04:52 Haise: Okay, panel 16, top row, Flight Displays: System Engineer Cross-Pointer, Open; RCS System B: QUADs 1 through 4 TCAs, all Closed. Second row, Lighting: Floods we'll probably have open - our choice. ED: Logic Power B, Open; ECS: Suit Flow Control, Open. Under comm: Display, Open; VHF A Transmitter, Open; VHF B Receiver, Open; S-Band Antenna, Open. Bottom row, Heaters: Display, Open. Under EPS: Inverter 2, Open.
+Charlie moves on to talk about the configuration desired for the LMP's side of the circuit breaker panels. Again only the RCS thrusters remain powered, with the crew able to choose whether they want to use the internal lighting or not. A large diagram of LM Panel 16 can be viewed here, from heroicrelics.org.
+075:05:34 Duke: Roger. Good readback. Okay, continuing on. Nothing on page 6; nothing on page 7. Nothing on page 8 or 9. Nothing on page 10 or 11. On page 12, we want the - to perform...
+No changes are made on the pages concerning the computer, the communications or the RCS systems, since these are up and running since they powered up the Lunar Module.
+075:05:59 Haise: Hold it. Hold on just a minute, Charlie.
+075:06:01 Duke: Okay. [Long pause.]
+We're now at 75 hours, 6 minutes; and show a distance away from the Moon of 5,828 nautical miles [10,793 km]. 13 now traveling at 4,497 feet per second [1,371 m/s] relative to the Moon.
+075:06:18 Haise: Okay. Go ahead, page 12. I'm there.
+075:06:21 Duke: Okay Freddo. On page 12, we want the MSFN updates. We've got some vectors for you and a P30 PAD. And we'll - when you get to that state, we'll let you know when we want to uplink. Okay. Under "AGS Activation and Self Test," perform the entire procedure. On page 13, under "AGS Align," do step 1; under "DAP Set, Gimbal/Throttle Test," do step 1 with the following change. Under "Throttle Control," we want it "Auto." Over. [Pause.]
+The DEDA (Data Entry and Display Assembly)
+The AGS user interface may seem baffling at first, but is down to a simple operational logic. The Address Indicator is used to display the octal numeric address of the location in the computer memory either for inputting a new value into it or to reading out its current contents on the DEDA display.
+All data input follows a simple procedure:
+Press CLR (Clear) button to empty the display
+Input the three-digit memory address
+Press + or - sign
+Input five-digit data in either decimal or octal numbers
+Press ENTR (Enter)
+To access data in the AGS computer memory, the procedure consists of pressing CLR to empty the display, then enter the three-digit address of the data to be viewed, followed by pressing the Readout button to display the stored value on the DEDA screen.
+The Hold button can be used to keep the current readout on the screen where it will refresh twice a second, until CLR is pressed again to reset the DEDA and to allow the crewman to begin a new DEDA input or readout.
+075:07:13 Haise: Okay. I'll catch up here. On page 12, you'll give us MSFN updates, some vectors, and a P30; and we're to do the entire "AGS Activation and Self Test." On page 13, we'll do the "AGS Align" and under "DAP Set, Gimbal/Throttle Test," step 1, I've changed "Throttle Control Manual" to "Throttle Control Auto.
+2-hour Activation, page 12
+An abbreviated AGS startup follows on page 12. It begins by selecting the appropriate switches to power up the Abort Guidance System electronics. Once the AGS computer is hence turned on steps 2,3 and 4 perform a brief procedure to test it and then to input a few basic values the AGS needs to operate successfully.
+All of the following commands are given with the normal procedure:
+CLR/DEDA Address/Plus Or Minus/Five-Digit Code/Enter
+CLR 000 +888888 Enter - lights up all the digits on the DEDA electroluminescent display and ensures that they are working properly
+CLR 123 -45679 Enter - tests the DEDA keyboard by pressing all the numeric keys on it
+CLR 412 +00000 Enter - runs the AGS Self Test
+A successful test is indicated by the DEDA displaying 412 +10000
+The other possible displays indicate failures of the AGS electronics. Steps 5,6,7 conclude an initial setup of the AGS.
+574 - Descent Stage Flag (indicates whether the LM has staged or not)
++00000 Enter is input
+604 Lunar Surface Flag (tells the AGS whether the LM is landed on the Moon)
++00000 Enter is input
+612 Staging Sequence Counter (status check)
++00000 Enter is input
+2-hour Activation, page 13
+The IMU align on page 13 is not done, since they have a properly aligned platform already.
+For the AGS Align procedure, they input 400 +50000 into the DEDA. This aligns the AGS inertial reference frame with the XYZ body axes of the Lunar Module.
+They change the gimbal/throttle setup only in that automatic computer control mode is used instead of manual firing.
+075:07:43 Duke: Good readback. Turning over to page 14, step 2, we want you to change the DAP Noun 46 to 31021. Then after the Noun 47, insert "Verb 34, Enter." Over.
+075:08:15 Haise: Okay. On page 14, a Verb 48, DAP load, Noun 46 changed to 31021. I assume you will give us any updated weights if we need any, and after the Noun 47, a "Verb 34, Enter." So, I - you're saying our gimbals look all right.
+2-hour Activation, page 14
+The Verb 48 loads DAP data into the LGC. Noun 46 allows them to input the five-digit DAP configuration code into the register. In this case, it is 31021 instead of the 32021 suggested by the checklist. The difference is that they want to use two RCS jets instead of four and hence the second digit is changed to correspond to the DAP setup for this configuration.
+Verb 47 is used to load the known mass (referred to as weight) of the CSM and the LM. While the LM mass is printed on the checklist, it tells the astronaut to ask the CSM mass from either the docked spacecraft or Mission Control. The LM would have been essentially inert until this point, hence its mass is known.
+They insert a Verb 34 Enter after the mass input, which is the code to terminate the operation. They do not wish to proceed with the Noun 48 on the checklist, which would be used to change the orientation of the Descent Engine Gimbals that control the position of the engine nozzle.
+075:08:35 Duke: That's affirmative on the gimbals, Fred. Nothing else on page 14. Proceed to page 15, and under "RCS Checkout," we'd like to scratch that wording and just say "Verify the following switches: Guidance Control, PGNS;" step 3 - correction, it's line 3, change "Attitude CONTROL (3)" to "Mode Control;" "Mode Control (BOTH)" to "Auto." Verify ACA Prop, LMP Enable; ACA/4 JET, LMP Enable; TTCA/Translation, LMP, Enable. That is all on page 15. Over. [Pause.]
+075:09:45 Haise: Okay. On page 15, we'll change the heading "RCS Checkout" to "Verify following switches ," and those switches are "Guidance Control, PGNS;" third line, "Attitude CONTROL (3)" to "Mode Control" now; and then "Mode Control (BOTH)" to "Auto" and ACA Prop, LMP Enable; ACA/4 JET, LMP Enable; and TTCA/Translation, LMP Enable.
+Instead of the procedure that would be used to test fire newly started RCS jets, they use this part of the checklist to make sure that the attitude control options and the manual controllers are properly configured.
+075:10:11 Duke: Roger. Now stand by 1.
+075:10:17 Lovell: Okay. Hand me the eyepiece. I got Scorpio.
+075:10:22 Haise: You have?
+075:10:23 Lovell: Yes. And Antares.
+Jim is probably referring to the COAS monocular.
+075:10:30 Haise: Where's the other one? I'll put it back in here.
+075:10:32 Duke: Hello, Aquarius. Houston. On activation page 16, if you are ready. Over.
+075:10:41 Haise: Okay. Stand by just 1, Charlie. Jim's going to fish around and see if he's got - he thinks he's got Scorpio. I'm the AOT now. Okay, Charlie, go ahead. I'm on 16 now.
+075:11:01 Duke: Okay. Fred. On page 16, perform the "Docked DPS Burn (PGNS)," that entire sequence down - down through the end of the page, except cross out that "CSM Maneuver to Burn Attitude, then CMC - Free." Over.
+The long procedure on the top of the page is the Program 30 or Crew-defined Maneuver, which allows them to input the engine burn data they have written down on the PC+2 PAD into the LGC so that the computer can calculate the burn commands.
+The CSM Maneuver is removed, since they will use the LM to maneuver into the burn attitude, having no operational CSM.
+075:11:27 Haise: Yes. I kind of deduced that one, Charlie. Page 16, "Docked DPS Burn (PGNS)," except we'll forget the CSM maneuver.
+Again Fred shows that he is following Charlie Duke's instructions carefully, and that he is intimately knowledgeable of all the procedures and systems involved with the LM.
+075:11:35 Duke: Okay. And you can forget the "APS Follow-up," too. Okay, on page 17, perform all of the AGS entries and at 4 minutes, we got a change. First line, CB(16) Inverter 2, Close; line 2, scratch out "Select Inverter 1." At - proceeding on down the page, after "Attitude Monitor," we'd like you to place the Rate Scale to "25 degrees a second." Okay, proceeding on down four more lines to "Balance Couple," we'd like to turn "Balance Couple-Off." That's to keep the upfiring jets off of the CSM, in case we have to damp any rates in AGS, though we don't think we will. Then perform the rest of that page as written. Over.
+The checklist makes preparations for using the Ascent Propulsion System in case the DPS fails or is not sufficient to put them on a return trajectory. This is not the plan for the moment and hence this procedure is axed.
+075:12:44 Haise: Okay, on page 17. Do the AGS load at minus 4 minutes; it's CB(11), Inverter 2, Close, and scratch "Select Inverter 1." Rate Scale changed to "25 degrees a second." "Balance Couple," we'll turn "Off;" and, incidentally, on the AGS dampen rates point, it brings up the discussion we'd had before, Charlie, on takeovers. You might discuss what it's going to cost us Delta-V wise, if we get a control problem, to just shut her off and it take 30 minutes to regroup for a good manual burn.
+The top of the page 17 of the checklist contains instructions on how to set up the Abort Guidance System for the upcoming engine burn. These will be used to monitor the PC+2 burn as well as provide backup in case of primary system failure. The first four instructions are input with the CLR/DEDA Address/Plus Or Minus/Five-Digit Code/Enter procedure.
+400 +00000 - sets up AGS Attitude Hold
+404 +00000 - Delta-V on the X axis
+405 +00000 - Delta-V on the Y axis
+406 +00000 - Delta-V on the Z axis
+These four AGS commands order the Abort Guidance System to monitor the LM's acceleration on all three axes of motion during the engine burn.
+The last thing input is the address 470 which is the AGS address for Monitor Delta-V X. By pressing Readout they instruct the AGS to display the change in the spacecraft acceleration on the DEDA along the X-axis. This way the AGS produces another way for them to display the amount of velocity change generated by the firing of the DPS engine during the PC+2 burn.
+Pre-closeout photo of the DEDA as installed onboard the Apollo 12 LM Intrepid
+075:13:26 Duke: Fred, we already got that story for you, pretty well in hand. We're reviewing it right now. And I'd like to defer that question until later on. Basically, we're just going to shut down and take what we got, and we got a midcourse of about - the maximum of 5 foot per second, anywhere in the burn to get back to free return. That - that's basically the story. We'll give you the mission rules for this burn momentarily. I'd like to proceed on to page 18, at minus 1 minute, scratch "Master Arm - On." Stand by.
+Fred is curious about what they should do if the PC+2 burn fails. Duke's advice is to shut down the engine in case of trouble and they'll handle any required changes to their trajectory later on.
+075:14:07 Haise: Okay, on page 18, and I've already done that at 1 minute; "Master Arm - On," I'll scratch...
+Page 18 of the 2-hour Contingency Activation, continued.
+Master Arm is required to be On only during the first DPS engine burn so that the supercritical helium can be released via pyrotechnic valve. Since they have already burned the engine once, it is not required here at this time for PC+2.
+075:14:14 Lovell: ...Slipped that [garble] and I won't have anything to do...
+075:14:15 Haise: ...I've already scratched "CB(16) Abort Stage Close" for the previous burn.
+075:14:20 Duke: Okay. We want you to close the CB(16) Abort Stage. Over. [Pause.]
+075:14:33 Haise: Okay. You got some special reason for that?
+Here comes a rare disagreement between Fred's view of the procedure to take, and Mission Control's.
+075:14:36 Duke: Yes, sir. We like - In case we don't get a manual On - I mean, an Auto On, we're going to back up using the abort stage in the descent engine command override at ignition plus 1 second. Backing up to page 17, at minus 4 minutes, you read "CB(11) Inverter 2," it should be "CB(16) Inverter 2." Over.
+075:15:03 Haise: Okay, I got you, Charlie. 17, "CB(16) Inverter 2, Close.
+Fred comes to a quick realization of the logic behind Mission Control's thinking, and has no qualms about it.
+075:15:08 Duke: Okay, back to page 18. We'll continue on as is at 30 seconds, 10 seconds, 7 seconds, minus 5 seconds. At "ignition," no ignition and we'll add here, "no ignition, Start pushbutton - push; still no ignition, Descent Engine Command Override, On." Over. [Long pause.]
+075:15:45 Lovell: I got it out there, but I can't get to see it closer. [Pause.]
+075:15:58 Haise: Okay, on channel - on page 18, right on down the line, everything holds until after "ignition"; "if no ignition, Start pushbutton - push; still no ignition, Descent Engine Command Override switch On.
+In the run-up to the engine start, they will enable Engine Arm and then perform the ullage by firing the RCS thrusters to settle the fuel in the Descent Engine tanks.
+At minus 5 seconds, the computer flashes Verb 99 Noun 40 (Enable Engine Ignition - Time From Ignition). Once the ullage burn is complete, the crew hit Pro to let the computer continue the engine firing under automatic control.
+Charlie offers not one but two different ways to start the DPS should the automatic computer start not occur.
+LM Panel 5. Scan via heroicrelics.org
+Panel 5 has the protected manual engine start button, to be used in case the automatic system won't work.
+LM Panel 3. Scan via heroicrelics.org
+Duke suggests that in case the manual engine start fails, they can use the DES ENG CMD OVRD (Descent Engine Command Override) switch to fire the engine.
+075:16:14 Duke: Okay, good readback, Freddo. At plus 15 seconds, scratch "Master Arm - Off;" and at - proceeding on down to "At Engine Cutoff," it's - after the "Mode Control: PGNS to Att Hold," we'd like a "Verb 76," and the "Damp Excessive Rates via the LM Y, Z Translation." Over.
+075:16:48 Haise: Okay, scratch "Master Arm - Off" at plus 15, and "At Engine Cutoff" after "Mode Control: PGNS - Att Hold," we want a "Verb 76 Enter," and "Damp Excessive rates via LM Y, Z translation." And a question on the - propellant quantity, we expect it to get down below 37 percent on this burn. Does that compare with that burn time when you get down to it.
+They add the command Verb 76 (Set Minimum Impulse Mode In DAP) here to go to such mode in the Digital Autopilot after their engine burn.
+075:17:16 Duke: That's negative. At this - this burn, we're looking at - not reaching 37 percent, so I don't think we'll have to perform that step. We will verify that for you. Okay. One other statement: "At Engine Cutoff, if manual start, then at 30 feet per second to go, throttle to 40 percent. At Delta-V equals zero, stop pushbutton, push." Over. [Long pause.]
+Charlie describes here, should the computer fail to perform the engine stop and start, how to do it manually using the buttons and the manual throttle.
+075:18:11 Haise: Okay, Charlie. If a manual start, that was throttle to 40 percent at - Was that 30 foot per second to go?
+075:18:19 Duke: That's affirmative. At 30 foot per second to go. [Pause.]
+This is Apollo Control, Houston...
+075:18:30 Haise: Okay. Then it's stop pushbutton at VGo equals zero?
+075:18:36 Duke: That's affirmative. What we want to do, if we got a manual start, we're going to have to shut down manually, and, to get a better guided cut-off at 30 foot per second to go, we want you to throttle at 40 and acceleration is within reason there, and we feel like we can get a good manual cut-off. Over.
+075:18:56 Haise: Okay.
+075:18:59 Duke: Okay. Now, Fred, that was good in the checklist. That's all. We'll have the powerdown checklist for you momentarily, and we'd like to ask you if you plan to use the DPS burn card. If you do, we have some changes to that. Over.
+075:19:20 Haise: Okay. Let me get a hold of this [garble] right now.
+075:19:26 Duke: Let me know when you are ready to copy. Over.
+075:19:31 Haise: I'm ready.
+DPS Burn cue card. Click picture for larger image.
+Charlie Duke wants to give Fred advice on how to modify the onboard DPS burn cue card to accommodate the changes made to the procedures for the PC+2 burn. The card is meant to be used for normal Powered Descent operations. These kind of cue cards could be Velcro'd to various parts of the LM cabin to provide a quick reference to crucial procedures and information at times of high activity.
+Neil Armstrong in the LM Simulator. NASA photo S69-38677.
+This in-training photo shows several sticky cue cards attached to the LM console. There are further cards on the DSKY platform as well as what appears to be a checklist clipped onto the yellow handles around the AOT.
+075:19:32 Duke: Okay. The first two lines are okay. CB - third line, CB(11) and (16): Stab/Control, all Closed except CB(11) AEA, Open; Abort Stage, Open; AELD, Open. CB(16) AELD, Open. Over. [Pause.]
+075:20:09 Haise: Okay, on the DPS burn card, third line should read CB(11) and (16): Stab/Control CBs all Closed, except CB(11) AEA, Open; Abort Stage, Open; AELD, Open; CB (16) AELD, Open.
+075:20:25 Duke: Okay. Good readback. Proceeding on down the page. "Balance Couple" switch, "Balance Couple, Off." Okay, down to the TTCA - it's the last line before minus 2 minutes - "TTCA Commander Throttle, Minimum; LMP TTCA to Jets." At minus 2 minutes, scratch "400 plus 1." At minus 1 minute, scratch "Master Arm, On." At minus 10 seconds, add "Manual Ullage." At plus 5 seconds, scratch "Descent Engine Command Override, On;" add "TTCA, 40 percent." Okay, the same comments apply about the manual start: "At the ignition time, if no start, manual Start pushbutton, push; if still no start, Descent Engine Command Override, On." And the same comments apply to shutting down at manual start. Over.
+075:21:54 Haise: Okay. The same comments. I'll start at the top again here. Okay. "Balance Couple" should be changed to "Off." Under TTCA, it should be "LMP TTCA" to "Jet." Scratch "400 plus 1" at minus 2; scratch "Master Arm, On" at minus 1. Add at minus 10 seconds "Manual Ullage"; add ignition - can add the comment about "If no start, Start pushbutton, push; still no start, Descent Engine Command Override, On." At the plus 5-second point, scratch "Descent Engine Command Override, On," and add "TTCA to 40 percent," and the same comment applies at engine stop to perform.
+075:22:39 Haise: We really don't use this card at that time.
+Jim suggests that the changes to the card are perhaps superfluous, considering that he does not plan to use the card.
+075:22:42 Duke: Roger, Freddo. Now we aren't - also at minus 30 seconds, we aren't looking at an AGS burn so you can scratch "Abort pushbutton, push," and at Delta-V equal to zero, scratch "Abort pushbutton, reset." Over.
+We estimate the change of shift briefing to start in about 10 minutes. Dr. Paine will be available to meet with newsmen in the auditorium immediately after the change of shift briefing.
+075:23:02 Haise: Okay. Minus 30 for AGS burn, "Abort pushbutton, push" is scratched, and at Delta-V equals zero, "Abort pushbutton, reset" is scratched.
+075:23:11 Duke: Okay, you got it, babe. We'll have some mission rules for you momentarily, and the powerdown checklist and also a PTC setup. Over.
+075:23:24 Haise: Okay.
+075:23:27 Lovell: Houston, Aquarius.
+075:23:29 Duke: Go ahead, Jim. Over.
+075:23:34 Lovell: Roger. Be advised I'm now seeing Antares and Nunki in the AOT, and I just wanted to know whether you want me to try to do a P52.
+List of navigational stars
+The G&N Dictionary contains a list of the navigational sighting stars. Jim has identified 33 (Antares) and 37 (Nunki)
+075:23:48 Duke: Roger. Stand by. We copy the stars you are seeing. Stand by on a P52.
+075:23:56 Haise: Not very far apart. Put the card back up, Jim...
+075:24:01 Lovell: It's better than Antares and Shaula.
+075:24:05 Haise: Yes. Sure is. That's right. [Pause.]
+That's Jim Lovell reporting star sightings through the eyepiece of, in the Lunar Module. We're at 75 hours, 24 minutes.
+075:24:16 Lovell: We got pretty good [garble] I'll do an Auto P52 to Antares. That's the way I'll get it up there.
+075:24:23 Duke: Hey, Houston - correction - Aquarius, Houston. We're satisfied with our present alignment. We don't want you to waste any more RCS gas trying to do this P52, and be advised you guys are hot mike, if you haven't heard. Over.
+075:24:44 Lovell: Okay, understand.
+Mission Control thinks that they do not need to do any further refinements to the inertial platform. They want to save up RCS fuel by not making more maneuvers at the moment. Jim was enthusiastic about performing a proper P52 inertial platform alignment by star sightings.
+075:24:47 Lovell: How's your memory there, Charlie?
+075:24:51 Duke: Okay, we're putting Vance back on. Stand by. [Long pause.]
+075:25:10 Lovell: What was that...[Pause.]
+075:25:20 Lovell: Okay, okay, let's go back to that P52 [garble] now the attitude.
+075:25:26 Haise: The burn attitude?
+075:25:28 Lovell: Yes. I want to make sure I got it.
+075:25:30 Haise: Oh, you strayed off?
+075:25:31 Lovell: Yes.
+075:25:34 Haise: Okay. [Garble]. Okay. You want these numbers? Or do you want the numbers from these.
+075:25:47 Lovell: What?
+075:25:48 Haise: PADs. You got the G&N dictionary?
+075:25:51 Lovell: I got 13 20 going now.
+075:25:57 Haise: Wait a minute. [Pause.]
+Apollo Control, Houston; 75 hours, 26 minutes. Apollo 13, now 4,968 nautical miles [9,201 km] out from the Moon; traveling at a speed of 4,631 feet per second [1,412 m/s].
+075:26:10 Lovell: [Garble]. Just a [garble]. These are those 13 20 angles here. Up here. Right here. [Long pause.]
+075:26:56 Lovell: Hey, great. [Long pause.]
+075:27:20 Haise: One on. And Houston, Aquarius.
+075:27:27 Brand: Go ahead, Fred.
+075:27:32 Haise: Oh, about how long we got before we're going to have to go to work here, Vance. Kind of like to get a bite to eat, maybe.
+075:27:40 Brand: Okay. We have a - a couple of PADs to give you and stand by. Let's - we'll check to see if we have anything else.
+075:27:56 Haise: Hold on to that, baby. Where's that G&N book? You got it over there?
+075:28:02 Lovell: Here we go. Here, you want me to start copying...
+075:28:06 Haise: ...[garble] the bag...
+075:28:07 Lovell: ...off there.
+075:28:09 Brand: Aquarius, Houston.
+075:28:11 Haise: No, you've got it right here.
+075:28:14 Lovell: Go ahead.
+075:28:15 Brand: Okay. About all we have to do is to send up your state vectors and target loads, and that will have to wait a couple of minutes until we get ready to do so. And if you're ready to copy, I can give you the P30 maneuver PAD for PC plus 2, and after that, probably you should eat and then we'll regroup again to send up other things. Over.
+075:28:45 Haise: Okay. I'm ready to copy a P30, a PC plus 2.
+075:28:49 Brand: Okay. Okay, this is a preliminary P30 LM maneuver PC plus 2. Starting Noun 33: 079:27:40.07; plus 0819.2, minus 0020.0, minus 0218.9; NA; plus 0020.9, 0848.2; 420, 274, 082; plus 0820.3, minus 0020.0, minus 0215.0. Comments. Ullage is two jets for 10 seconds. CSM weight, 62480. LM weight 33576. And the following is the DPS throttle profile: 5 seconds at minimum followed by 21 seconds at 40 percent, and the remainder at Max. Over. [Long pause.]
+075:31:21 Haise: Okay. PC plus 2. 079:27:40.07; plus 0819.2, minus 0020.0, minus 0218.9; N/A; plus 0020.9, 0848.2; 420, 274, 082; plus 0820.3, minus 0020.0, minus 0215.0; the rest N/A. Under remarks: ullage, two jets, 10 seconds; CSM weight, 62480; LM weight, 33576. DPS throttle profile: 5 seconds at idle; 21 seconds at 40 percent; remainder at Max. [Pause.]
+The PAD is interpreted as follows:
+Purpose: This PAD is for a burn of the LM's main engine two hours after pericynthion (their closest approach to the Moon) in order to return them to a specific place on Earth; in this case the Mid-Pacific Landing site or MPL, and to do so faster than would have been the case with their current return trajectory.
+Time of ignition (Noun 33): 79 hours, 27 minutes, 40.07 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +819.2 (+ 249,7 m/s); y, -20.0 (- 6.0 m/s); z, -218.9 (-66,7 m/s). The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).
+HA, expected apogee of resulting orbit (Noun 42): Not applicable. This burn is to place Apollo 13 on a Earth-bound trajectory, the apogee of which would be over 9999.9 nautical miles above the local body (the Moon), beyond the limit of the computer's display.
+HP, expected perigee of resulting orbit (Noun 42): 20.9 nautical miles (38.7 km). The perigee distance is so low, it will take the spacecraft well into Earth's atmosphere and thereby cause the spacecraft to re-enter.
+Delta-VR: 848.2 fps (258.53 m/s). This is the total resultant change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 4 minutes, 20 seconds.
+Spacecraft attitude: Roll, 274°; Pitch, 82°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform and is therefore set using the FDAI display in its inertial mode. Unlike a CSM PAD, yaw is not stated for the LM. Procedures for a lunar landing allowed the spacecraft to yaw around the thrust axis as required for operational reasons.
+Change in velocity for the AGS (Noun 86), fps (m/s): x, +820.3 (+); y, -20.0 (-); z, -215.0 (-).
+GDA angles: Not applicable. These would normally be the angles to which the nozzle of the descent engine would be aimed to place its thrust axis through the stack's estimated centre of mass.
+The throttle settings that should be used during the burn are; 5 seconds at 10 per cent thrust to give the computer time to sense if the GDA angles ought to be trimmed. The next 21 seconds will be at a 40 per cent setting with the rest at full throttle.
+075:32:50 Brand: Roger; that's correct, Fred. If you'll take out a maneuver PAD, I'll give you some landing information. Over. [Pause.]
+075:33:04 Haise: Okay, you're talking in the CSM update book?
+075:33:08 Brand: Yes, that's affirm.
+075:33:13 Haise: You got it right here. Make sure and scratch the [garble]...
+075:33:19 Lovell: [Garble]...
+075:33:20 Haise: ...though. [Long pause.]
+075:33:43 Haise: Okay, which - which one we want? P37?
+075:33:50 Lovell: What kind of a maneuver PAD do you want, Vance?
+075:33:54 Brand: This is a CSM maneuver PAD for - to monitor PC plus 2. And it's going to be mainly blank except I want to give you your Noun 61 latitude and longitude, range to go for the EMS and that sort of thing.
+075:34:15 Haise: Okay, go ahead.
+075:34:18 Brand: Okay, at the top, purpose is monitor PC plus 2; everything is blank until you get down to Noun 61. Latitude as follows: minus 21.47, minus 165.00; 1166.0, 36291, 142:39:20. Over. [Pause.]
+075:35:07 Haise: Okay, monitor PC plus 2 PAD. Noun 81: minus 21.47, minus 165.00; 1166.0, 36291, 142:39:20.
+Conventionally, a return-to-Earth PAD would be for the CSM and it would include information pertaining to re-entry. However, the PAD given above was for the LM and those PADs don't include re-entry information so Brand is reading up that part of a CSM PAD that is relevant in this case. Many of the items relate to the moment when the EMS accelerometer detects a deceleration of 0.05g (one-twentieth of a g). The precise timing of this moment will depend on atmospheric conditions at the time but it is estimated for the purposes of the PAD. It is usually about 30 seconds after the CM reaches Entry Interface, an arbitrary moment on their trajectory when they are 400,000 feet [121.92 km] above Earth.
+Expected splashdown point (Noun 61): 21.47° south, 165.0° west; in the mid-Pacific.
+Range to go at the 0.05 g event: 1,166.0 nautical miles (2,159.4 km). To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel after the 0.05g event is triggered. This would be decremented later based on the readings from the EMS' own accelerometer measuring the change in their velocity and hence ability to fly downrange.
+Expected velocity at the 0.05 g event: 36,291 fps (11,062 m/s).
+Predicted GET of 0.05 g event: 142 hours, 39 minutes and 20 seconds GET.
+075:35:28 Brand: Roger; that's correct, Freddo. And we - now would like to get you in a configuration to uplink your state vector and target load. So, if you're ready to copy, I have some circuit breaker changes for you. Over.
+075:35:47 Haise: Okay, go ahead.
+075:35:50 Brand: Okay, circuit breaker panel 11 Updata Link, Close; Primary Power Ampl, panel 16, Close; Voice Function to Voice; Range - Rangine Function to Ranging; TM bit rate, Hi; and then P00 and Data. [Long pause.]
+They are cranking up the normal communications mode and select the power amplifier to ensure a good transfer of the computer update via the Up Data Link.
+We have a reminder announcement, the change of shift briefing is be - ready to start right now. The participants are in the Auditorium. Ready to start right now.
+075:36:28 Haise: Okay, we're now in P00 and Data, and switches and breakers are configured. You got it.
+075:36:32 Brand: Okay, thank you. You're coming in loud and clear.
+Very long comm break.
+Apollo Control, Houston; 75 hours, 37 minutes. That preliminary PC plus 2 hour PAD indicated a time of ignition for the DPS burn of 79 hours, 27 minutes, 40 seconds. Burn duration; 4 minutes, 20 seconds. Delta-V, 850 feet per second. Standing by, continuing to monitor; this is Apollo Control, Houston.
+Apollo Control, Houston, 75 hours, 38 minutes. Our LOS clock in Mission Control shows we're 1 hours, 29 minutes, 45 seconds from time of Loss Of Signal from 13 as the spacecraft passes over the back side of the Moon. This is Apollo Control, Houston; continuing to monitor.
+075:43:36 Brand: Aquarius, Houston. Over.
+075:43:42 Lovell: Go ahead, Houston.
+075:43:44 Brand: Hey, Jim, I have about three things. First thing, the computer is yours again. The second thing, no PTC maneuvering will be required from now until burn, so you can just sit in the burn attitude. And the third thing is we'd like to back out of this procedure we just put you into to updata link, which would mean going from TM bit rate Hi back to Lo, Ranging to Off, Voice to Down Voice, Primary Power Ampl to Close.
+They are reversing the comms configuration back to the low power mode.
+075:44:25 Haise: Hold up, Vance.
+075:44:26 Brand: Okay.
+075:44:29 Lovell: We have a Program Alarm, Vance. 1106. [Pause.]
+075:44:38 Brand: Stand by...
+075:44:39 Haise: ...that high bit rate. [Pause.]
+075:44:49 Haise: Okay, that apparently was just my putting the Updata Link switch Off that set that bit.
+075:44:54 Brand: Roger. We concur on that. And I'll read this back to you a little more slowly, Fred.
+075:45:05 Brand: Okay, are you ready to copy?
+075:45:06 Haise: Okay. Go ahead.
+075:45:07 Brand: Okay. TM bit rate to Lo; Ranging to Off, Voice to Down Voice, Primary Power Ampl to Off - that's on panel 16 - and - or Open - and circuit breaker 11 Updata Link to Close - or to Open. Over. [Long pause.]
+075:46:16 Haise: Okay, Vance, how do you read on Down Voice Backup now?
+075:46:20 Brand: Okay, Fred, reading you loud and clear now.
+075:46:26 Haise: Okay. I've got the Power Ampl off, Down Voice Backup, PCM to Lo bit rate, and the Updata Link breaker on 11 is pulled. [Pause.]
+PCM refers to Pulse Code Modulation. It is the contemporary term for digitally coded information. The telemetry system gathers the analogue electric signals from the onboard monitoring equipment, converts it into digital data to form the PCM data stream, and then transmits it to Mission Control.
+075:46:47 Brand: Okay. Copy. Thank you. [Long pause.]
+075:47:16 Brand: Apollo 13, Houston.
+075:47:21 Lovell: Go ahead.
+075:47:22 Brand: Okay. On this last readback, we'd just like to verify that the Primary Power Ampl was pulled opened. Over.
+075:47:37 Haise: That's affirm. I used the breaker on 16, Primary S-Band Power Ampl breaker is Open.
+075:47:44 Brand: Okay. Thank you.
+Comm break.
+The program alarm 1106 is in the computer and it's for uplink too fast. The indication was there when Jim Lovell took over the computer that possibly he flipped a switch too fast. Looking at our DSKY - our computer displays in Mission Control, we noticed that a program alarm has been showing from an earlier event that occurred yesterday evening. It was not unexpected. We're at 75 hours, 48 minutes into the flight and this is Apollo Control, Houston.
+- 75 hours, 49 minutes; Apollo 13.
+075:49:00 Lovell: Boy, we must be getting pretty close to the Moon.
+075:49:03 Haise: What's that? [Long pause.]
+075:49:19 Lovell: It's in a Att Hold.
+075:49:21 Haise: Five degrees.
+Comm break.
+075:50:24 Haise: Hey, Jack. Bring me down one of the [garble]. [Pause.]
+075:50:37 Haise: And [garble].
+075:50:40 Swigert: [Garble] need two of them, I guess [garble].
+075:50:49 Haise: [Garble].
+075:50:52 Lovell: Yes. I've been meaning to tell you about that, yes. [Pause.]
+075:51:05 Lovell: You know where this [garble] water?
+075:51:07 Haise: What's that?
+075:51:09 Lovell: You know where this [garble] water?
+075:51:10 Haise: Where?
+075:51:11 Lovell: The LGC. [Pause.]
+075:51:18 Haise: [Garble].
+075:51:22 Lovell: [Garble]. [Long pause.]
+075:51:56 Haise: [Garble] there she is [garble].
+Long comm break.
+075:54:19 Swigert: Pretty close? How's the hoses coming? [Long pause.]
+075:54:35 Lovell: That screen goes - goes on - Fred's hose up there.
+075:54:39 Swigert: Yes. Here, take that one. [Garble] another few minutes [garble].
+075:54:49 Swigert: Let's not forget to haul these out of here. [Pause.]
+075:55:03 Swigert: Thank you.
+075:55:04 Lovell: Get the hose screens?
+075:55:06 Swigert: Yes.
+075:55:10 Lovell: I'll [garble].
+075:55:12 Haise: Houston, Aquarius. How do you read? [Long pause.]
+075:55:33 Haise: Hello, Houston; Aquarius. How do you read?
+075:55:37 Brand: Aquarius, Houston. Loud and clear.
+075:55:42 Haise: Okay. Vance, I guess I understood you all were amassing a couple of - list of things that you were thinking about later on - we'd be taking back from the LM across into the CSM. A couple of items to add to that list, we've pilfered the - the intake hose screens out of the CSM and we have them mounted on the LM hoses now to catch the debris in here. We probably ought to take those back.
+075:56:16 Brand: Okay. We got that. Intake hose screens. [Long pause.]
+In zero gravity, any loose particles float endlessly around, propelled by the flow of air within the cabin. The suction created by the ECS air flow can pull these particles into the system and damage it. They could also be accidentally inhaled by the crew. The crew is using simple screens in front of the hose openings to catch the dirt.
+075:57:10 Brand: I guess that item isn't going to change your c.g. too much, Freddo. [Pause.]
+075:57:19 Haise: Let's hope not.
+Comm break.
+Vance Brand is referring to center of gravity, more accurately called 'center of mass'. It is essential to know the center of mass for the spacecraft, considering all of its maneuverability - and the predictability of it thereof - is dependent on it. A moment earlier, Fred asked if the Mission Control personnel were keeping book on everything that was removed from Command Module into the Lunar Module. The crew thinks that once they are about to return to Earth, they must know exactly what equipment has been taken back to the CM and what is left in the LM, so as to know the exact mass distribution of the Command Module. This has ramifications for their orientation during re-entry. Right now Vance suggests that the negligible mass of the hose caps will not have an effect.
+This is Apollo Control, Houston; 75 hours, 58 minutes now into the flight. Apollo 13 presently at 3,573 nautical miles [6,617 km] out from the Moon, traveling at a velocity of 4,943 feet per second [1,507 m/s]. Our clock in Mission Control shows we're 1 hour, 10 minutes, 30 seconds away from time of Loss Of Signal as Aquarius and Odyssey pass above the backside of the Moon. 75 hours, 58 minutes; continuing to monitor. This is Apollo Control, Houston.
+075:58:25 Lovell: [Garble] Command Module water.
+075:58:32 Haise: Yes. No, I haven't. [Long pause.]
+075:58:59 Haise: Yes.
+Comm break.
+076:01:18 Swigert: [Garble]. Get out one of those big [garble] bags.
+076:01:27 Lovell: Much debris in there?
+076:01:29 Swigert: Yes.
+076:01:30 Lovell: Trying to put debris in?
+076:01:31 Swigert: Yes.
+It sounds like the crew is doing some cleaning up while they are waiting for their next maneuver.
+076:01:34 Swigert: [Garble] Jim. Ready to go.
+Comm break.
+076:03:53 Swigert: How's that for [garble]. [Laughter]. [Long pause.]
+076:04:21 Swigert: [Garble] didn't see any [garble]. [Long pause.]
+076:04:53 Lovell: Yes. Oh, what I'd like to do is find out how many - Yes - What happened to the two little midcourses that's got to be with this vehicle.
+076:04:58 Swigert: Yes. [Garble].
+076:05:03 Lovell: Now we just take the CSM and strip it down. Start putting the [garble] stuff in here. [Pause.]
+076:05:14 Swigert: Why are you worrying about that? Why are you worried about stripping down the vehicle?
+076:05:19 Lovell: Well, you don't want - You don't want the drogue and the probe in.
+076:05:23 Swigert: Oh, yes.
+076:05:26 Lovell: And, you do want room for the PLSSs. So, we'll grab this [garble] suit valve and [garble] them in there. [Pause.]
+It sounds like Jim wants to take the PLSS backpacks into the Command Module once they begin re-entry.
+076:05:43 Swigert: General [garble].
+076:05:47 Lovell: Well, the suit [garble] oxygen [garble] the cabin. [Pause.]
+076:05:57 Haise: [garble].
+076:06:04 Lovell: [Clears throat] We're not planning to reenter with suits. [Pause.]
+076:06:17 Lovell: [Garble] a suit would help you out is for protection.
+They are debating whether to wear their spacesuits for the Earth landing. No crew has landed in suits since Apollo 7.
+076:06:20 Haise: Yes, [garble]. [Long pause.]
+076:06:41 Lovell: They work on the Repress valve.
+076:06:43 Swigert: Yes, [garble]. [Pause.]
+076:06:59 Swigert: You know [garble] suit [garble].
+076:07:10 Lovell: Breathe through the canister.
+076:07:11 Swigert: [Garble].
+076:07:14 Lovell: Yes, breathe through the canister. [Long pause.]
+Jim might be planning ways on how to hook up their spacesuits to the PLSS while in the Command Module.
+076:08:12 Swigert: My job is to maintain [garble]. [Pause.]
+076:08:21 Haise: You got all those things [garble]?
+076:08:24 Lovell: Roger.
+Comm break.
+076:10:45 Haise: [Garble].
+076:10:48 Swigert: Yes, I think they forgot that.
+076:10:54 Lovell: Sun must be coming back.
+076:10:57 Swigert: Yes. [Garble]. [Pause.]
+076:11:12 Lovell: Yes, I got two stars, circling back, Nunki and Antares [garble] back up again. [Long pause.]
+Jim has located the navigational stars again.
+076:11:45 Swigert: Actually, you can see [garble]. [Pause.]
+076:12:04 Swigert: What? Huh? [Long pause.]
+076:12:30 Swigert: That's the one you put up there, [garble] I would like to [garble].
+076:12:39 Lovell: Ready to trade it in.
+076:12:40 Swigert: Right.
+076:12:42 Lovell: Doesn't that also fit this big container back here?
+076:12:46 Swigert: [Garble].
+076:12:48 Lovell: That's a little [garble].
+076:12:56 Swigert: I wouldn't mind - dumping this [garble] [Pause.]
+076:13:08 Swigert: Okay. [Garble]. [Long pause.]
+076:13:45 Swigert: [Garble] seems to me. [Pause.]
+076:13:57 Swigert: Guaranteed to work. [Pause.]
+076:14:07 Haise: Okay. [Garble].
+076:14:12 Lovell: Hey, can't you pilfer more there? Yes. [Garble].
+076:14:18 Swigert: [Garble] what you do - what you do, you put your... [Pause.]
+076:14:36 Swigert: Not bad [garble]. [Long pause.]
+076:14:56 Lovell: Now, let's see, this burn's [garble] to our back, I suppose. Let's hope it works. [Long pause.]
+076:15:49 Lovell: Now, let's see. What should we be doing here now?
+076:15:56 Lovell: Okay. The next thing is power for the burn. Did they give you a time to start powerup?
+076:16:01 Haise: No. [Garble]. [Pause.]
+076:16:08 Swigert: Yes, we ought to get a [garble]. You know, we ought to get [garble]...
+076:16:16 Lovell: They will.
+They want to know when they should start powering up the LM's systems for the PC+2 burn.
+076:16:17 Swigert: ...[garble].
+076:16:21 Lovell: Hello, Houston; Aquarius.
+076:16:26 Brand: Go, Aquarius.
+076:16:32 Lovell: Let's just recap the situation now. We're not going to do any more PTC. We'll maintain this attitude. You have already updated us on P30 load. We would like from you an LOS time, and a power-up start time for the PC plus 2. And an AOS time. [Pause.]
+076:17:02 Brand: Okay. We copy that. [Long pause.]
+076:17:26 Brand: We're going to also get back with you shortly, Jim, for - with some burn guidelines for PC plus 2.
+076:17:38 Lovell: All right. Very well.
+Comm break.
+Apollo Control, Houston; 76 hours, 18 minutes. Apollo 13 now 2,623 nautical miles [4,858 km] away from the Moon. And traveling at a velocity of 5,277 feet per second [1,608 m/s]. Our display shows an altitude...
+The distance of Apollo 13 from the Moon is now less than the distance between New York and London (3,008 nautical miles)
+076:18:51 Lovell: Have they powered up the mission timer - the event timer?
+...at a closest approach of 137.5 nautical miles [254.7 km].
+076:18:57 Haise: [Garble].
+076:18:59 Lovell: Oh, I see. Are they going to?
+Long comm break.
+076:22:13 Brand: Apollo 13, Houston. [Pause.]
+076:22:20 Lovell: Go ahead, Houston.
+076:22:22 Brand: Jim, we were just discussing burn star monitoring and we were curious to know if you can see Nunki in detent 2 at this time. Over. [Long pause.]
+A computer-generated simulated view through the AOT, during portion of Apollo 11 mission. Similar views would have been used in Mission Control to give advice to the crew.
+Mission Control appears to have been using the computerized image processor to create simulations on what the expected view is through the LM's optical instruments and the windows, hence they are able to tell the crew what they should see to confirm their attitude.
+076:22:45 Lovell: That's affirmative. I can see Nunki in detent 2,
+076:22:49 Brand: Okay. Thank you. Roughly, in what part of the field of view? [Pause.]
+076:23:01 Lovell: Nunki is in the upper right-hand corner.
+076:23:05 Brand: Okay. Thank you.
+076:23:10 Lovell: And Scorp - And Antares is barely visible in the bottom of the field of view.
+076:23:17 Brand: Okay.
+Comm break.
+They can view the navigational stars to ensure that they are maintaining proper attitude during the engine burn.
+076:24:24 Swigert: Yup, Gerry. [Long pause.]
+076:24:39 Lovell: Hey, I bet I know how I could get an alignment. Give them a cursor spiral angle. Instead of maneuvering the spacecraft, I'll give them cursor spiral. [Pause.]
+Through the eyepiece of the AOT, a crewman sees a graticule or reticle that shows a radial line and a spiral.
+AOT reticle
+The pattern can be rotated so that, first, the radial line coincides with a star, yielding a 'shaft' angle, then it it rotated again to make the spiral coincide with the star which yields the 'reticle' angle. The computer can combine these to derive an accurate vector to the star. An alternative means of deriving a vector to the star is to manoeuvre the spacecraft so that the star crosses the X and Y lines, marking each time it does so. It is this method that Mission Control are not wanting the crew to use as it means taking the spacecraft out of its current attitude.
+076:24:58 Haise: Do that for AGS and [garble]. [Pause.]
+076:25:09 Haise: [Garble] How's the Earth?
+Comm break.
+076:27:17 Lovell: Houston, for what it's worth, we can probably give you a cursor spiral angle on Nunki and possibly Antares or more than likely Shaula.
+076:27:34 Brand: Roger, Jim. According to our calculations, Nunki should be, at burn time, pretty close to the center of the AOT. We've been talking that possibility. Over. [Pause.]
+076:27:50 Lovell: Roger.
+076:27:55 Brand: Also, as a matter of general interest, the Sun should be in - at the bottom part of the CDR's window at the bottom of the LPD vertical line. [Pause.]
+Lunar Module window.
+The LM windows have lines painted on both the inside and outside. If the commander positions his head in just the right place, the two sets of lines line up for him. In this position, they become relevant to the operation of the Landing Point Designator (LPD). This is a routine in the computer that is run during the approach phase of a landing and it allows the computer to indicate the spot on the ground to which it is flying the LM. If the commander doesn't like this spot, he has the ability to redesignate by moving his controller. The LPD lines are formed from a horizontal line that matches the view directly forward, and a vertical line calibrated in degrees down from the horizontal.
+076:28:15 Haise: Be at TIG, which is at...
+076:28:19 Brand: That's affirm at TIG.
+This refers to the Time of Ignition.
+076:28:21 Lovell: It must be that - You're right, because it's behind us now. [Pause.]
+076:28:31 Swigert: Wait a minute, we're holding inertial attitude.
+076:28:38 Lovell: Yes, we're not at the TIG attitude.
+076:28:40 Swigert: Oh.
+Comm break.
+076:29:44 Brand: Apollo 13, Houston.
+076:29:49 Lovell: Go ahead.
+076:29:51 Brand: Jim, whenever you're through eating and ready to copy the info, I can send you the burn rules. [Pause.]
+076:30:05 Lovell: Do you want this?
+076:30:08 Swigert: Write them right on - [garble]?
+076:30:10 Lovell: Why don't you write them right in here?
+076:30:12 Haise: Okay. [Pause.]
+This is Apollo Control, Houston. 76 hours, 30 minutes now.
+076:30:22 Haise: Okay. I'll start on that.
+We show 13 at 2,074 nautical miles [3,841 km] away.
+076:30:25 Lovell: Okay, Vance.
+076:30:27 Haise: Go ahead.
+076:30:28 Lovell: We're all set to go.
+076:30:31 Brand: Okay. Okay. First of all, general philosophy is that these rules should be similar to LOI mode I abort with the tight limits. Now, I'll go through them one by one for you to copy. Okay. You should shut down, if any of the following happen. Thrust monitor readout, 77 percent or below; DPS propellant tank pressure - that's the inlet pressure - onboard readout, 160 or below; fuel to OX Delta-P, greater than 25 psi - and that would have to be a ground call to you. Attitude error plus or minus 10 degrees, with the exception of the start transient; attitude-rate limits, plus or minus 10 degrees a second. And you should shut down if you get any of the following alarms: Engine Gimbal, ISS, plus Program Alarm, LGC, CES DC, and if you get an inverter light after switching inverters. Are you with me?
+076:32:52 Haise: Roger.
+They are drawing from pre-existing abort plans to decide the conditions under which the PC+2 maneuver should be stopped. These include abnormal fuel pressure, movement outside their set limits for the attitude, as well as failures in the power system, the guidance computer, or the control electronics.
+LOI Mode I abort
+Lunar Orbit Insertion Mode I abort scenario assumes that instead of a LOI maneuver behind the Moon, they continue past the LOI point and perform the abort burn at PC+2 point.
+DPS aborts table from Apollo 13 flight plan
+The various Lunar Orbit Insertion (LOI) abort scenarios are presented in a table in the Flight Plan, should they be needed to cancel the maneuver to enter lunar orbit. These were designated for an otherwise fully functional pair of spacecraft, rather than a LM hauling an inert CSM.
+076:32:54 Brand: Okay...
+076:32:55 Lovell: Affirmative.
+076:32:57 Brand: And proceeding on. If, during the burn, the engine stops, if you have a flashing Noun 97, you should Proceed, then ullage, Engine Start to Push, and Descent Engine Override On. Okay. Now just general information. If you didn't burn PC plus 2, probably P - C plus 4 would be the earliest MCC. AGS is going to backup in a rate-fail mode only, which you know. We're talking over the star check. Will have to get back with you on that. If, for some reason, there is no PC-2, you have a free-return trajectory with the landing at 152:02:00, and that would be after a small midcourse-5, which would probably be around 4 feet per second at 93 hours. And you have recovery forces in the Indian Ocean; you're in good shape there. And the Indian Ocean is where this landing would be. Okay. You still with me?
+076:35:13 Haise: Roger.
+They are to use manual start should the engine not start automatically. If the PC+2 does not succeed, they have an opportunity to try again two hours later.
+If for some reason the PC+2 burn fails to happen completely, they are still on the free return trajectory they established earlier, and would end up splashing down into the Indian Ocean at 152 hours GET.
+076:35:15 Brand: Okay. After...
+076:35:17 Haise: Yes. I'm with you.
+076:35:19 Brand: Okay. After PC plus 2, there are no trim requirements; and, if you have a shutdown during PC plus 2, subsequent midcourse maneuvers required with - Well, the earliest one would be PC plus 4. If you don't do a PC plus 2, but we still want to do one - MCC later. At PC plus 4, the increase in Delt - in Delta-V, or the penalty, would be about 24 feet per second, with a landing in the mid-Pacific at 142:46:30. Now, you should expect new PADs, state vectors, and targets for PC plus 2 at about GET 78. Over. [Pause.]
+076:36:56 Swigert: Tell them to stand by.
+076:36:57 Haise: Stand by, Vance.
+076:36:58 Brand: Okay. [Pause.]
+076:37:07 Haise: Okay. How do you read?
+076:37:09 Brand: Loud and clear.
+076:37:13 Haise: Okay. Burn rules. We should shut down for the following: if we have the thrust monitor at 77 percent or below; number 2, if the DPS propellant ullage pressure is less than 160 psi; 3, if the fuel oxidizer Delta-P is greater than 25, and that'll be a ground callout; 4, if the attitude error is plus or minus 10 degrees except for starting transients. Okay. Rate limits are plus or minus 10 degrees per second. And we're to shut down with the following alarms: an Engine Gimbal light, an ISS with a Program Alarm, an LGC, a CES DC, and an inverter light, if it's still on after we've tried switching inverters. If, during the burn, the engine shuts down when the Noun 97 flashes, we should Pro, do manual ullage, and Start pushbutton, push, and Descent Engine Command Override, open. If we don't do a PC-2, our next burn will it be at PC-4 for an added 24 foot per second. We'll land mid-PAC at 142:46:30. Okay. We'll have the AGS up for backup rate command, or rate damping, I guess. And the free return that we're on, if we don't - that we're on now, if we don't do PC-2 or 4, lands us at 152:02:00 in the Indian Ocean. And there's no trim requirements on this burn, and we should expect a new uplink and a new final maneuver PAD from you at 178 hours.
+076:39:23 Brand: 78.
+076:39:29 Haise: Okay. I'm sorry, 1 - Yes, 78 hours. It only seems like it's been that long.
+076:39:35 Brand: I can understand. [Long pause.]
+Fred's Freudian slip can surely be excused here.
+This is Apollo Control, Houston; 76 hours, 39 minutes. You heard Capsule Communicator Vance Brand passing to Apollo 13 the mission rules worked out...
+076:39:54 Brand: Okay, Fred. Your readback was correct.
+076:40:00 Haise: Okay. [Long pause.]
+...the mission rules for this burn worked out by Gene Kranz with his flight control team and support rooms in Mission Control. These rules are akin...
+076:40:16 Haise: Okay. And, Vance, did you ever have any LOS/AOS times, and - and a startup time for us to jump into this activation checklist?
+076:40:29 Brand: Okay. Let me - Let me poll the house again on that one. [Pause.]
+076:40:37 Lovell: What?
+076:40:39 Haise: Okay. One word is that the - In an optimum fashion there, going through that 2-hour activation generally took somewhere from about an hour and 15 to an hour 20. [Pause.]
+076:40:56 Brand: Okay. I guess then we ought to allow you a little more than that, huh?
+076:41:06 Haise: No, I was thinking that we don't have to do about four pages of it, that we probably need just about that, and that will make up for the difference of any added time we need maneuvering et cetera.
+076:41:19 Brand: Okay. [Long pause.]
+The mentioned rules for the burn are akin to those on an LOI-1 with a Service Propulsion System Mode 1 abort assuming that we had no burn, no burn on the engine. We are at 76 hours, 42 minutes into the flight. This is Apollo Control, Houston.
+076:42:07 Lovell: We'll need a - Can I get a flashlight? You got a flashlight. We might need a spare flashlight - Yes. Okay. We might need a spare flashlight: have you got one? Okay. Okay. The Sun has gone [garble] down. [Pause.]
+Each crewman has a personal flashlight, and there are two spares in the Command Module.
+076:42:31 Lovell: Man, look at those stars. Houston.
+076:42:40 Brand: Go ahead, Aquarius.
+076:42:45 Lovell: Roger. We are in the shadow of the Moon now. The Sun is just about set as far as I can see and the stars are all coming out.
+The long-awaited lunar shadow is making the false stars caused by the surrounding debris to disappear, leaving the real stars to become visible.
+076:42:54 Brand: Okay. And if you are ready to copy, we have LOS/AOS times for you.
+076:43:04 Swigert: Flashlight. Okay. [Pause.]
+076:43:16 Haise: Go ahead, Vance.
+076:43:18 Brand: Okay. LOS 77:08:35, AOS 77:33:10. Sunrise - First I'll give you sunset which is past, but that was supposed to be at 76:32:45 and sunrise 77:16:48. [Pause.]
+076:43:58 Haise: Okay. LOS at 77:08:35, AOS at 77:33:10. Sunset at 76:32:45, sunrise at 77:16:48.
+076:44:13 Brand: Roger. We'll get back with you on the powerup time and, if you're ready to copy, have angles to load into Noun 22 for your Verb 49 maneuver to burn attitude. Over. [Pause.]
+076:44:35 Haise: Okay. Go ahead with the Verb 49 value.
+076:44:38 Brand: Okay. R1, plus 27210; R2, plus 35570; R3, plus 33010. Second item, as you know, due to maneuver with a Proceed and a Proceed; and, after your attitude, a reminder that P40 will not set you back to a narrow dead band. To get back to the 1.40-degree dead band, you have to use the procedure I gave you, which is Verb 21, Noun 01, Enter, 3011, Enter. And 200, Enter. [Pause.]
+076:45:47 Haise: Okay. Verb 49, register 1, plus 27218; register 2, plus 35570; register 3, plus 33010; and to get the narrow dead band back we want a Verb 21, Noun 01, Enter, 3011, Enter, 200, Enter.
+Vance Brand is reminding them that since they have modified the DAP programming by accessing the code in the computer memory, they will have to re-program it to return to the usual values for the DAP dead band.
+076:46:11 Brand: Roger. And a correction on your - on your first number for register 1. That should be plus 27210. And another comment; after you get into the narrow dead band at that attitude, why, you might tell us where you see Nunki.
+076:46:34 Lovell: Roger. Will do, Vance.
+076:46:36 Brand: Thank you.
+076:46:37 Haise: Okay. And you corrected register 1; it's plus 27210.
+076:46:43 Brand: Roger.
+076:46:45 Lovell: And would you like us to make that maneuver at this time? [Long pause.]
+076:47:10 Lovell: It's down below us, isn't it?
+076:47:13 Brand: Stand by.
+076:47:19 Haise: Can't see it.
+076:47:26 Swigert: Can we have some more light in here now?
+076:47:29 Lovell: I have a light. [Long pause.]
+076:48:20 Haise: What do you see out your upper window? [Pause.]
+076:48:32 Lovell: Stars.
+076:48:37 Haise: Yes. It looks like - looks like the light is coming from around those clouds.
+076:48:48 Lovell: Well, you won't get AOS/LOS until 77.
+076:48:53 Haise: [Garble]. [Long pause.]
+Apollo Control, Houston; 76 hours, 49 minutes. Less than 20 minutes now away from LOS.
+076:49:18 Swigert: Yes.
+076:49:19 Lovell: [Garble].
+Apollo 13 now 1,184 nautical miles [2,193 km] away from the Moon traveling at a velocity of 6,218 feet per second [1,895 m/s].
+076:49:22 Swigert: Yes. [Long pause.]
+076:49:37 Lovell: Let's see, AOS is at 2 hours before the burn?
+076:49:45 Haise: Just about. [Long pause.]
+076:50:01 Brand: Apollo 13, Houston.
+076:50:05 Lovell: Go ahead, Houston.
+076:50:08 Brand: Jim, we recommend you go ahead and make your Verb 49 maneuver, but just stay there in Verb 49 and don't go ahead to narrow the dead band just yet. And, when you're in that attitude, why, of course, then you can make your star check. And one other item is, I don't think we got back with you, but that hour-fifteen for powerup sounds fine with us.
+076:50:40 Lovell: Okay. At this time, I'll start my Verb 49 maneuver, but will not narrow the dead band, and we will take a look at Nunki. Okay, Vance.
+076:50:52 Brand: Roger. [Long pause.]
+076:51:09 Lovell: Almost, huh? [Long pause.]
+076:51:46 Haise: Jim? Jim? [Long pause.]
+076:52:30 Swigert: [Garble].
+076:52:32 Lovell: No, it shouldn't. [Long pause.]
+076:52:45 Swigert: [Garble].
+076:52:46 Lovell: It shouldn't.
+076:52:54 Lovell: I was below that [garble].
+076:52:57 Swigert: [Garble].
+076:52:58 Lovell: That's a good idea. [Long pause.]
+076:53:33 Swigert: [Garble].
+076:53:34 Haise: [Garble] how many lights you're going to see. You can coach Jim on that.
+076:53:44 Lovell: Sure. We're there. [Long pause.]
+076:54:22 Haise: Nunki?
+076:54:24 Lovell: Yes. I can just barely see it. I see Antares much better. [Pause.]
+076:54:37 Lovell: Why is the wide dead band on? Stand by. Is - Is Scorpio moving down? [Long pause.]
+076:55:20 Lovell: What's that cloud I see over there?
+076:55:23 Haise: I don't know. It looks like a Milky Way.
+076:55:27 Lovell: Just a... [Pause.]
+076:55:36 Lovell: Huh! [Pause.]
+076:55:48 Lovell: Houston, Aquarius. [Pause.]
+076:55:55 Brand: Aquarius, Houston. Go ahead.
+076:56:00 Lovell: Okay. We have completed our maneuver. We're in our wide dead band, and Nunki is close to the top of my display of the AOT. Right now, Antares seems to be more closer towards the center. However, we are in our wide dead band.
+076:56:18 Brand: Right; understand. We'll have to make a better check later, I guess.
+Comm break.
+076:57:26 Lovell: I can't for the life of me figure out what that dark stuff is. [Pause.]
+076:57:38 Haise: Yes. Did you look at it, Jack? [Pause.]
+076:57:46 Swigert: Yes. Okay. But I didn't recall what [garble]. [Long pause.]
+076:58:17 Swigert: See it there. Like two black clouds.
+076:58:24 Lovell: Well, you know what this burn is buying us; 10 hours.
+076:58:29 Swigert: Yes.
+076:58:32 Haise: And how. [Long pause.]
+Jim is reminding his crewmates of the high stakes of the PC+2 maneuver. Those 10 hours off their travel time back home could be the difference between survival and being lost in space.
+Less than 10 minutes away now from predicted time of LOS. We're at 76 hours, 59 minutes into the mission and we see the velocity on our displays for Apollo 13 really building now. Now reading 6,736 feet per second [2,053 m/s]...
+076:58:54 Lovell: Might be a good idea. [Long pause.]
+...relative to the Moon. Apollo 13 now 750 nautical miles [1,389 km] away from the Moon.
+076:59:41 Swigert: Hey, that's pretty extensive, Jim. You can locate it and get it halfway through the [garble]. [Long pause.]
+077:00:25 Swigert: Strange. [Long pause.]
+077:00:53 Lovell: It's on the AOT. Well, may be not.
+077:01:02 Haise: I don't think so.
+Long comm break.
+Seven minutes away now from Loss Of Signal. Gene Kranz going around the room checking with his flight controllers as to a status of systems. We now show 77 hours, 1 minute into the flight of Apollo 13. This is Apollo Control, Houston.
+Gene Kranz, Glynn Lunney and Gerry Griffin in Mission Control.
+077:03:08 Lovell: I know what that is. That might be the debris that was thrown out there.
+077:03:15 Haise: ...into the cloud?
+077:03:19 Lovell: It's all dark now.
+077:03:24 Lovell: From the explosion.
+077:03:27 Lovell: [Garble] we made a maneuver.
+077:03:30 Lovell: No, from our explosion.
+077:03:32 Haise: Take a look. It covers a wide area.
+Less than 5 minutes away now from Loss Of Signal. 77 hours, 4 minutes into the flight.
+077:03:42 Haise: God, that dark cloud. [Garble]. Like a pair of contrails. Only if you switch the detent, they go on around. How long to LOS? Is that right?
+077:04:06 Lovell: I'd sure like to try the detent 2, but I guess our damn platform's okay, isn't it?
+Jim is still itching to do some star sightings for a platform alignment.
+077:04:11 Swigert: Yes.
+077:04:17 Lovell: Yes. [Long pause.]
+77 hours, 4 minutes; Apollo 13 526 nautical miles [974] away from the Moon, traveling at a speed of 7,122 feet per second [2,171 m/s]. Four minutes now from time of Loss Of Signal with Apollo 13 as it passes over the back side of the Moon.
+077:05:03 Swigert: [Garble]. [Long pause.]
+077:05:38 Swigert: [Garble]. [Long pause.]
+077:06:03 Brand: Aquarius, Houston. Over.
+077:06:09 Lovell: Go ahead, Houston.
+077:06:11 Brand: Okay, Jim. We have a little over 2 minutes until LOS, and everything's looking good here.
+077:06:21 Lovell: Roger. Yes. I take it that we don't have to start our activations until we receive AOS from you.
+077:06:39 Brand: Roger. That's correct.
+Comm break.
+Apollo 13 now 421 nautical miles [780 km] above the Moon. Just a little over 1 minute now from time of Loss Of Signal with the spacecraft. This is Apollo Control, Houston; 77 hours, 7 minutes.
+077:08:08 Lovell: You [garble] up our edibles? [Garble] water? [Garble].
+Very long comm break.
+The last topic caught on the comm loop before Loss of Signal is Jim talking about food.
+We've had Loss Of Signal with Apollo 13 as it passes above the back side of the Moon. We're at 77 hours, 9 minutes now into the flight of Apollo 13.
+Apollo 13 has slipped beyond radio contact. Normally this would be the time of feverish waiting in Mission Control, to learn of the news whether the spacecraft was able to burn its SPS engine behind the Moon to put them into a lunar orbit. This time they are only swinging around, already on the free return trajectory. The flight controllers already know to the second when Apollo 13 will reappear around the opposite limb of the Moon.
+Day 3, part 5: Minimising Power
+Journal Home Page
+Day 4, part 2: Leaving the Moon

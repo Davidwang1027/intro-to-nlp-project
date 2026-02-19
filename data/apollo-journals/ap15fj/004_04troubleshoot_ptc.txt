@@ -1,0 +1,835 @@
+Apollo 15 Flight Journal - SPS Troubleshooting and the PTC
+Transposition, Docking and Extraction
+Journal Home Page
+Day 2, part 1: Checking the SPS
+Apollo 15
+SPS Troubleshooting and the PTC
+Corrected Transcript and Commentary Copyright © 1998-2025 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2025-02-22
+Index to events
+Lift-off plus 15 abort PAD (P37)
+005:52:46 GET
+SPS Thrust light check
+005:55:28 GET
+UV photo update
+009:22:36 GET
+SPS Thrust light problem isolated
+009:45:41 GET
+Sequence of UV photography of Earth
+009:59:41 GET
+Sequence of UV photography of Moon
+010:30:45 GET
+P37 Return to Earth updates
+010:40:50 GET
+P27 computer memory update
+010:43:15 GET
+Initiate Passive Thermal Control (PTC)
+013:08:19 GET
+Second attempt at PTC
+014:00:20 GET
+Apollo 15's crew is settling into their three-day coast to the Moon. Thus far, the mission has been running very smooth through one of the busiest periods - the first few hours of flight. The only problem causing concern is the illumination of a light which should only come on when the spacecraft's main engine is firing.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:25:53 Fullerton: Apollo 15, Houston. Over.
+005:25:56 Irwin: Go ahead, Houston.
+005:25:58 Fullerton: When you get a free moment, we have a reasonably short procedure in align with checking out the SPS Thrust light. Over.
+005:26:10 Irwin: Okay. Stand by. [Long pause.]
+It is one and a quarter hours since the problem with the erroneous SPS (Service Propulsion System) Thrust light was spotted.
+When a problem occurred during an Apollo flight, its initial analysis was by Mission Control (or more precisely MOCR [Mission Operations Control Room]). As well as the effort by the flight controllers in the MOCR, who may also have more immediate concerns, deeper analysis of spacecraft anomalies was carried out in two other areas at NASA's Houston complex. The SPAN room (SPacecraft ANalysis) was in the same building as Mission Control and it essentially acted as a clearing house for information about the spacecraft systems between the contractors, the NASA design people and MOCR to allow the nature of the problem to be identified. The detailed understanding and solving of a problem was carried out in the MER (Mission Evaluation Room) in another building. Here, dozens of engineers brainstormed through the available data to try and provide an answer for the crew aboard the spacecraft before the problem became serious. This intellectual mill has been grinding away at the SPS Thrust light problem since the crew reported it and the first fruits of their effort have arrived at the CapCom's console.
+005:26:43 Irwin: Go ahead, Gordo. Ready to copy.
+005:26:45 Fullerton: Okay. We see you're starting the P52 [platform realignment program]. This shouldn't interfere, but it - We can wait if you wish.
+005:26:54 Irwin: I was just going to copy the procedure, and we'll do it later.
+005:26:56 Fullerton: Okay. It's - it's the kind of thing we have to watch on the ground as you do it, so it's probably not even worth writing down.
+005:27:05 Irwin: Okay. Let's wait then until after [the] P52 [is finished].
+005:27:07 Fullerton: All right.
+Comm break.
+There will be two P52 realignments of the IMU platform. The first is with respect to the obsolete "Launch Orientation" REFSMMAT so that the platform's drift since the last P52 can be measured. The second uses the "PTC Orientation REFSMMAT" which was uplinked to the spacecraft about 25 minutes ago.
+Scott, from the 1971 Technical debrief: "[To Worden.] Every time you had two P52s due there was only one box to fill in the numbers, and I thought it would be handy to have two boxes."
+Worden, from the 1971 Technical debrief: "Yes. The second one is the starting point for the next series of drift checks."
+Scott, from the 1971 Technical debrief: "They have stars."
+Worden, from the 1971 Technical debrief: "I couldn't agree with you more, but I'm so conditioned to writing down the gyro torquing angles in any P52 that I write them down even if there isn't a box in there. I'm sure it might be helpful to go ahead and write them down. As a matter of fact, it does give an indication of performance of the IMU because it tells how the coarse align is working; how accurately you're getting a coarse align."
+Scott, from the 1971 Technical debrief: "They have a place for shaft and trunnion angle for the stars. Do you know why?"
+Worden, from the 1971 Technical debrief: "Yes. You go to SCS narrow deadband and do your first P52. Then you take shaft and trunnion angles on those two stars. You do your second P52 with an option 1, and then if you have any problem locating the star, you go to the shaft and trunnion angles because you're still there at the attitude. It's just a warm feeling kind of thing. You should see those same shaft and trunnion angles come up on the second P52 within the deadband of the SCS."
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:29:13 Worden: Houston, 15.
+005:29:16 Fullerton: Go ahead.
+005:29:18 Worden: Okay, Gordo. If you're reading, I've got the gyro torquing angles up [on the DSKY display] and I'll torque them out at 5:30.
+005:29:22 Fullerton: Okay; we're reading the DSKY [via telemetry]. Understand [you will torque the platform around to the correct alignment at] 5:30.
+Very long comm break.
+Soon after the platform is torqued to the "Launch Orientation" REFSMMAT, it is swung around to the "PTC Orientation" REFSMMAT.
+Diagram illustrating the line between Earth and Moon at TEI and the relationship of the IMU axes to it when aligned per the PTC REFSMMAT
+When aligned per the PTC REFSMMAT, the platform's X-axis is aligned along the ecliptic plane, perpendicular to the line between Earth and Moon at the time of Trans-Earth Injection (TEI). Its Z-axis is aligned perpendicular to the ecliptic plane, directed southward. The Y-axis is therefore directed towards the Earth end of the line. This alignment is used for all translunar and trans-Earth coast maneuvers and is used as the reference for easy alignment of the PTC (Passive Thermal Control) maneuver. Note that the axes shown do not represent the orientation of the spacecraft during PTC, only that of the platform.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 5 hours, 32 minutes Ground Elapsed Time. Apollo 15 now 22,102 nautical miles [40,933 km] out from Earth. Velocity; 12,844 feet per second [3,915 m/s]. Crew most likely - it's pretty hard to tell what they're doing at this time. Most likely though, they're in an eat period, scheduled in the Flight Plan to start at 6 hours. Here in the Control Center, the Systems Engineers are devising a simple test to track down some apparent short-circuit indications in the valve system to the Service Propulsion System. It's what is known in Flight Control vernacular as 'funnies.' There's no great concern over the on board and telemetered indications of these two valve positions. The crew was instructed to open some circuit breakers upstream of the two valves, but at some time in the not too distant future the CapCom will relay to the crew, instructions for troubleshooting the anomaly. And at 5 hours, 34 minutes Ground Elapsed Time; this is Apollo Control.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+005:51:59 Fullerton: Apollo 15, Houston. Standing by with a lift-off plus 15 abort PAD.
+In the front row of Mission Control sits the flight controller known to all as RETRO, short for Retrofire Officer, a title carried over from earlier Earth orbit missions when his role was to provide crews with data that would allow them to "retrofire", an engine burn that causes them to de-orbit and splashdown. On a lunar mission, he spends his time continuously calculating maneuvers which he and everyone else hopes will never be used; for all these maneuvers are intended to bring the crew home as quickly and safely as possible in case of an emergency. Sources vary on who were the RETROs for Apollo 15 and which shifts they were on, but they include Chuck Deiterich, Ed Pavelka, Bobby Spencer, James l'Anson and Jerry Elliot.
+Two PADs already read up to the crew, the "TLI plus 90" and "lift-off plus 8" PADs are examples of RETRO's work. The CapCom has informed the crew that RETRO has worked out a maneuver for a return to Earth, if required, with an ignition time of 15 hours GET, and he is ready to read up the details as a PAD. The planned ignition time for all these PADs is arbitrary, simply giving the controllers a time on which to base calculations for a return to Earth.
+RETRO, of course, doesn't do the calculations himself, but is fed the numbers from the Real-Time Computer Complex (RTCC), a group of five IBM series 360 state-of-the-art mainframe computers of the era, one of which was dedicated to making calculations for the mission, with another as a dynamic standby. James Summers was one of the people who ran the RTCC machines during the early Apollo missions.
+James Summers, from a 1998 sci.space.history newsgroup posting: "One of the functions we provided in the Real-Time Computer Complex in Houston was the "abort maneuver" calculations. I remember two modes that the guys flogged for hours on end - "time critical" and "fuel critical". Each had the option of "to a specified target" (Lat/Long on Earth). A "Fuel critical to a specified target" made a S360/75 run for about an hour. Solid number crunching. They ran these things regularly during the coast out, just so they would be ready."
+005:52:06 Irwin: Stand by. [Long pause.]
+005:52:40 Irwin: Okay, Gordo. I'm standing by for the PAD.
+005:52:46 Fullerton: Okay. It's GET of ignition [is a time] of 015:00. Delta-VT, 4926; minus 175; 051:20. Go ahead.
+005:53:12 Irwin: Stand by. [Long pause.]
+005:53:55 Irwin: All right, Gordo, give me that - it's a P37 PAD that you have there?
+005:53:59 Fullerton: That's right, Jim. I should have used that terminology.
+005:54:03 Irwin: Go ahead.
+005:54:05 Fullerton: Okay; 015:00, time of ignition; 4926; longitude is minus 175, and GET for 400K is 051:20. Over.
+This PAD, like the 'lift-off + 8' PAD read up earlier, provides data for the P37 'Return to Earth' program. These values which act as a set of constraints and P37 would then work out the parameters for an abort burn to make an immediate return to Earth.
+The PAD is interpreted as follows:
+Time of ignition: 15 hours GET
+Change in velocity: 4,926 fps (1,501 m/s)
+Longitude of Earth landing point: -175° or 175° West.
+Time of entry into Earth atmosphere; defined as 400,000 feet (122 km) altitude: 51 hours, 20 minutes GET.
+An important condition for P37 is that the spacecraft must still be in Earth's sphere of influence, thus simplifying the calculations. It will only be used in an emergency situation.
+005:54:30 Irwin: I copied, 015:00, 4926, minus 175, 051:20.
+005:54:41 Fullerton: That's correct, Jim. [Long pause.]
+005:55:14 Fullerton: Go ahead. [Long pause.]
+005:55:28 Fullerton: 15, Houston. When you - when ya'll get a chance, we'd like to go with this SPS Thrust light check.
+005:55:37 Worden: Okay, Gordo. I'm over in the left couch now; let's go ahead and try it.
+The controls for the SPS and the SPS Thrust light on the EMS (Entry Monitor System) are most easily accessed from the left-hand couch. Al is going to work through the tests with CapCom, Gordon Fullerton. As the Command Module Pilot, Al is responsible for the Command/Service Module and for flying the SPS and has a thorough and current knowledge of the spacecraft's systems and procedures, including working with the team at Mission Control during many individual simulations in the CMS (Command Module Simulator). He is in the best position to interpret the results of the tests for Mission Control although Dave, as the CMP on Apollo 9, is also very aware of CSM systems. However, Al will have a very intimate knowledge of this particular spacecraft and the way it has been set up.
+Woods, from 1998 correspondence with Scott: "Do you have any comments about whether you found your previous experience in this post to be a hindrance or a help when it came to Al 'driving' the CM."
+Scott, from 1998 correspondence: "The A-9 experience probably helped me appreciate and understand the magnitude of Al's job - the first time one man flies the CSM for 3 days, including a critical solo plane change, is a major challenge. He also had to prepare and conduct the first intergalactic EVA!"
+These two latter events occur much later in the Journal; the plane change maneuver comes just before the LM lifts off from the Moon, the EVA is during the coast home when Al goes out to collect film magazines from the side of the Service Module.
+Scott, from 1998 correspondence: "The SPS Thrust light is Al's responsibility; and he does indeed know this particular spacecraft better than anyone (a very important point in the 'culture' of a new program such as Apollo). However, I did stay close to this one, the (SPS Thrust On) light."
+005:55:37 Fullerton: Okay. Stand by; I'll get everybody watching [their consoles, in Mission Control]. Okay. First of all, I'd like to be sure that both the Pilot Valve circuit breakers on panel 8 [to the far left of the Main Display Console] and both Delta-V Thrust switches are Off - both circuit breakers.
+005:56:04 Worden: Okay, Houston. Both Pilot Valves [circuit breakers] are Open, and the Delta-V Thrust switches are Off.
+005:56:10 Fullerton: Okay. Now when we do the following steps, we'd like you to watch the SPS Thrust light, and watch it for changes either going out or changes in intensity. We're trying to determine if it's a high resistance or a low resistance short; and if it gets brighter, that'll tell us something about this short with any one of these actions.
+005:56:34 Worden: Okay.
+005:56:35 Fullerton: Okay. First item is: put the thrust hand controller clockwise, and watch the light.
+005:56:51 Worden: Ah, Gordo. Do you mean the THC, the translation hand controller?
+Scott, from 1998 correspondence: "Illustrates the need for absolute precision in terminology and clear understanding of instructions before taking any action."
+005:56:54 Fullerton: Rog. That's what I meant. THC, clockwise.
+005:56:58 Worden: Okay. We'll go clockwise with it. We're clockwise, and no change.
+005:57:06 Fullerton: Okay. Put the THC back to neutral.
+005:57:09 Worden: Rog. [Pause.]
+That was a test for a possible short circuit in the THC (Translation Hand Controller).
+005:57:20 Fullerton: Okay. SPS Thrust switch, Direct On.
+005:57:32 Worden: Okay. SPS Thrust, Direct On.
+005:57:37 Fullerton: And any change in the light?
+005:57:39 Worden: I didn't see any change. And it's Off.
+005:57:46 Fullerton: Okay. Back to Normal.
+005:57:47 Worden: Rog. Back to Normal.
+Now they have tested the SPS Thrust switch for a short.
+005:57:50 Fullerton: Okay. We'd like you to do the first part of an EMS Delta-V check - from page G2-5 and just the first steps - down to the - you don't have to do the bias check, but the first six steps there.
+005:58:11 Worden: Right. [Pause.]
+005:58:22 Fullerton: [The] idea here is to check for a possible short in the Delta-V test circuits. It might be causing the light [to come] on. [Long pause.]
+The steps in the EMS Delta-V check are meant to force the light to come on for the 10 seconds of the test. If the short is in the test circuits, there should be no change in brightness. A brightening of the light would show that the EMS test circuits are switching normally and that the short is elsewhere.
+005:58:45 Worden: Okay, Gordo. That part of the check's been run and it's shut off at a minus 21.4 in ten seconds, and the SPS light - the SPS Thrust light got distinctly brighter during the decelerat... or during the acceleration period.
+005:59:02 Fullerton: Roger, Al, copy. And I'll see if there is anything else they [the engineers in Mission Control] want to do here.
+005:59:11 Worden: Roger. [Long pause.]
+005:59:34 Fullerton: Okay, Al. I guess no more questions right now. We'll mull that over a little bit.
+005:59:39 Worden: Okay, Gordo.
+Very long comm break.
+Flight Plan page 3-11.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 6 hours, 16 minutes Ground Elapsed Time.
+006:16:20 Fullerton: Apollo 15, Houston.
+006:16:24 Scott: Houston, 15.
+006:16:26 Fullerton: I've got a short update for your erasable load update as contained in the back of the G&C Checklist. Three num - three addresses to update. Over.
+006:16:41 Scott: Okay; go ahead.
+006:16:43 Fullerton: Turn to page G9-4.
+006:16:51 Scott: Stand by. [Long pause.]
+006:17:31 Worden: Okay, Gordo; go ahead. I've got the G&C Checklist out now.
+006:17:35 Fullerton: Okay; on that 9-4, the first one is changing NBD-X, the static drift compensation for the X-gyro. Under load Alpha, the octal ID number 11, which now reads 77332, change that to 00377. Over.
+006:18:00 Worden: Understand. That's Alpha octal ID 11, where it now says 77332, change that to read 00377.
+006:18:10 Fullerton: That's affirmative. And on load Bravo, IDs four and five are changed. This changes Tephem[erides] to correspond with actual lift-off. And load 4, which is now 30560, change that to 32251. And while you're still writing, change the next one, load - or ID number 5, from 10000 to 26157.
+006:18:49 Worden: Roger; understand. That's column Bravo, IDs 4 and 5, change 4 to 32251, and 5 to 26157.
+006:19:00 Fullerton: That's correct. That's - that takes care of it, Al.
+006:19:05 Worden: Okay.
+Very long comm break.
+The time between 6 and 7 hours GET is set aside for the crew's first meal break of the mission.
+This is Apollo Control. Apollo 15 now 27,621 nautical miles [51,154 km] out from Earth. Velocity now 11,498 feet per second [3,506 m/s]. Spacecraft communicator Gordon Fullerton passed up some troubleshooting procedures on the apparent short circuits that are causing some spurious indications not only in the spacecraft cockpit, but also here in the Control Center through telemetry. The pilot valves were opened, the Delta-V lights turned off on the EMS, or the Entry Monitor System, thrust controller was rotated clockwise and back to neutral, The SPS Thrust switch was turned to Direct On and then back to Normal, and the first six steps of the entry monitoring - Entry Monitor System Delta-V check were run. It was noticed the SPS engine [Thrust] light On was brighter during the deceleration [means acceleration] period, and at that point the troubleshooting was terminated for the time being while the systems engineers here in Mission Control mull over the situation. Also the people in the Spacecraft Analysis Office, the so-called SPAN room. No great amount of concern here over the apparent short circuit that's causing these indications. But further attempts will be made to isolate what the cause of the indications are. Guidance, Navigation, and Control Officer should be briefing the Flight Director before too long on what his recommendations are. And at 6 hours, 22 minutes Ground Elapsed Time, still live on air/ground, this is Apollo Control.
+The GNC officers in Mission Control are Gary Coen and Watson in the outgoing Gold team, Kamman and Canin in the incoming Maroon team, and Deatkine in the White team. Though their title includes the words "Guidance", "Navigation" and "Control"; they have no direct responsibility for any of these functions. Rather, they watch the health of the equipment and systems with which these functions are carried out - the guidance hardware and the spacecraft's engines.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+006:43:49 Fullerton: 15, Houston. Over.
+006:43:53 Scott: Houston, 15. Go.
+006:43:55 Fullerton: If you're not using the optics, we suggest you zero them; they're - we noticed them drifting.
+006:44:01 Scott: Okay; thank you. [Long pause.]
+006:44:21 Scott: We've been taking turns looking at the Earth through the telescope. It's a fantastic sight.
+006:44:28 Fullerton: Rog, Dave. [Long pause.]
+006:44:45 Scott: As a matter of fact, this sure would be a neat place for a space station out here.
+006:44:53 Fullerton: Roger.
+Very long comm break.
+Flight Plan page 3-12.
+Compared with others Apollo crews, this one, and especially its commander, Dave Scott, is not shy about making the most of the experience of space flight and talking about it. Throughout the mission, and with almost naive enthusiasm, Dave will express his pure delight at the sights he is seeing and the position he finds himself in. Of course, he is an experienced space traveller compared to the other two rookies on the flight. He flew on the near-disastrous Gemini VIII mission with Neil Armstrong, when a stuck thruster spun the spacecraft to dangerous rates. He flew as CMP on the successful Apollo 9 Earth orbital test of the complete Apollo system, including the Lunar Module. Although this is the first time he has seen Earth from 60,000 kilometres, he has had time to reflect on the sights and sensations of space travel, whereas Jim Irwin and Al Worden are discovering them for the first time.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 7 hours, 14 minutes. Flight Director Gerry Griffin and his Gold team of flight directors - flight controllers have completed a handover to Flight Director Milton Windler and the Maroon team. CapCom for the Maroon team is astronaut Karl Henize. We're estimating the change of shift news conference for 4 pm Central Daylight Time, 4 pm Central Daylight Time. Apollo 15 is 10,526 nautical miles from Earth. Velocity - ah, belay that. Distance is 33,154 [nautical] miles [61,401 km], velocity is 10,526 feet per second [3,208 m/s].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. The change of shift news conference will begin momentarily in the MSC News Center Briefing Room. We will take down the release line during this news conference. We will tape any air/ground transmissions and play those back following the news conference. At 7 hours, 30 minutes; this is Mission Control, Houston.
+After they finish their meal, the crew are due to deactivate the primary evaporator. Waste heat from the spacecraft's systems is carried away by a mixture of water and glycol and fed to radiators of stainless steel tubing which radiate the heat to the cold of space. To cope with peak periods of power usage, and the extra heat thus generated, two evaporators can be brought online if required. The evaporators work by passing the coolant through passages in a stack which has alternate layers of a porous metal wick. The wick is vented to a vacuum. Separate from the coolant flow, water is fed through the wick material where it evaporates on reaching the vacuum, carrying heat away with it and cooling the fluid in the coolant pipes.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+007:34:59 Henize: Apollo 15, this is Houston.
+007:35:03 Scott: Hello, Houston, Apollo 15. Go.
+007:35:10 Henize: Hey, the results that we got out of that last test procedure - didn't solve many problems for us. I guess the best we found out was that we don't have a simple problem like a stuck EMS relay. And there's a lot of thinking going on down here, and at the present time, we line up three - three possibilities, depending on where the [electrical] ground is in the system. And the first one is that it's still a ground that simply turns on the light and affects nothing else. Second possibility, that it's a ground that's going to light the engine early when you put on the Delta-V Thrust switches. And there's a third possibility, that the - the ground is upstream of the pilot valves, and that we'll bro - we'll blow the Pilot Valve circuit breakers and lose that bank, if - if we're unlucky. We're busy down here working on a procedure that we could use at Midcourse Correction 1 to decide which - which of these three possibilities is the right one. And we're talking about getting this all worked out and sent up to you in about 2 hours.
+007:35:28 Scott: Okay; understand. Good luck.
+007:35:30 Henize: Righto.
+Long comm break.
+The explanation read up to the crew by CapCom Karl Henize highlights the concern Mission Control has about the apparent short circuit. They believe it is possible that when the engine is armed, the engine could ignite immediately and not at the commanded time. Uncontrolled firings of the engine would take the spacecraft from its desired trajectory and threaten the safe return of the crew. At this stage, Mission Control does not have enough information from their telemetry to determine where the short is occurring and they intend to use the firing of the SPS engine, at the first MCC (Midcourse Correction), to garner more data on the problem. At least then, if there is an early ignition, the spacecraft will already have been correctly aimed as part of the MCC procedures and the errant firing can be manually shut down.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+007:40:51 Scott: Houston, this is 15.
+007:41:01 Henize: 15, this is Houston.
+007:41:04 Scott: You have down [in the Flight Plan] a null bias check [of the EMS]. Delta-V with .9.
+007:41:13 Henize: Roger. We read Delta-V .9.
+Very long comm break.
+The check Dave is referring to is the first in a series of regular checks of the EMS (Entry Monitor System) during the flight. Specifically, it is a check of the Delta-V monitoring portion of the EMS which uses signals from accelerometers to display the progress of engine burns to the crew in terms of the change in velocity.
+There are two parts to the test. The first ensures it can determine the magnitude of any Delta-V. A predetermined reading of 1,586.8 fps is dialled into the Delta-V display. Then it is switched to a test mode where a known signal is applied for ten seconds. At the end of this time, the reading should have come down to nearly zero, within prescribed limits.
+The second part of the test, and the one Dave has just reported on, determines how far the Delta-V reading drifts over a period of time. The computer's control of the spacecraft attitude is disabled for the duration of the test so as not to influence the reading with any real velocity changes. A reading of 100 fps is dialled in and, for 100 seconds, the EMS is allowed to respond to the signals from the accelerometers. As the spacecraft is not being accelerated at this point, there should be no change in the display. A change of less than 1 fps in the reading is deemed okay and no compensation for the bias is required. A result of 0.9 fps, reported by Dave, is just inside that range.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+007:52:26 Henize: 15, this is Houston.
+007:52:30 Scott: Houston, 15.
+007:52:33 Henize: We're seeing a low O2 repress package pressure down here. Okay; we'll take that back. We have a suspicion that we have a low O2 repress package, and I would like to have an onboard readout of your pressure there.
+To allow rapid repressurisation of the cabin, an oxygen repressurisation package is built into the CM. After use, it is refilled from the cryogenic tanks within the SM. The package consists of three tanks, each of which can contain nearly half a kilogram of O2. By discharging these into the cabin together, and with the O2 surge tank still feeding them, they can bring the pressure in the spacecraft from a vacuum to 20 kPa (3 psi) in about a minute.
+007:52:50 Scott: Okay. [Pause.]
+007:53:03 Scott: Houston, it is a little low. We just never finished filling it after we pressurized the tunnel.
+007:53:09 Henize: Rog. [Pause.]
+007:53:14 Henize: They say they'd like to go to Fill now and get it filled up.
+007:53:18 Scott: Rog. We'll do that.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 7 hours, 59 minutes. During the change of shift news conference, there were three brief air/ground conversations totalling 2 minutes, 40 seconds. Most significan of these was the first one, about 20 minutes ago, in which CapCom Karl Henize passed up the three possibilities on the short circuit causing the SPS light and advising the crew we will pass up a procedure to them about 6 pm Central Time. We'll play that tape now and then stay up live.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We're back now on the release line. Apollo 15 is maneuvering to the attitude to perform the P23 cislunar navigation sightings.
+Flight Plan page 3-13.
+The space between Earth and the Moon is known as cislunar space and it must be accurately navigated if a spacecraft is to successfully voyage across it. By taking sightings of the stars, along with fixes of Earth and Moon, a voyager can determine if his craft will reach the far side of the Moon at precisely the right time and with the correct velocity necessary to make a safe arrival. These sightings, combined with the laws of orbital motion, provide an accurate fix of the spacecraft's position. Any observed errors in position or velocity can be corrected by thrusting the spacecraft in the appropriate direction.
+Having been conceived during the Cold War, Apollo's navigation was originally to have been an entirely self-contained exercise carried out by the crew without communication with the ground for fear of interference by the Soviets. This thinking extended even to the landing on the Moon. The requirement was dropped as the perceived threat receded, and as flights by earlier unmanned probes refined tracking techniques by ground based radar. Meanwhile, with programmers running out of memory in the spacecraft's computer, onboard navigation was scaled back to the return-to-Earth scenario in which communications with Earth were lost. For this contingency, the CMP continued to practise the skills of navigation.
+Al uses P23 for cislunar midcourse navigation. With this program's help, he can calculate the position and velocity vectors (collectively known as the state vector) of the CSM/LM stack, using Earth or Moon as one reference, and a combination of stars (or stars and planets) for additional references. Ground controllers also calculate the state vector independently using radar and tracking data. If the ground result is considered to be more accurate than that in the spacecraft, Mission Control will uplink it to the onboard computer which they do when they ask the crew to select POO (Program 00) and the Accept mode.
+Scott, from 1998 correspondence: "[Whether] ground['s state vector is] more accurate depends on when and where - e.g., the onboard state is more accurate immediately after a maneuver. Also, a certain amount of ground tracking is required for the vector to converge. Also, given enough onboard SXT [Sextant] sightings, especially at lunar distances, maybe the onboard state would be better?"
+Should an abort situation include the spacecraft losing radio contact with Earth, the CMP would have to navigate himself. Therefore Al Worden makes a series of cislunar navigation sightings to keep him trained in the procedures and also to give him experience in using a horizon for a reference. Prior to experience gained during the Gemini program, sightings of Earth were to be taken using known landmarks until it was shown that many were obscured by cloud. To get around this, and to simplify crew training, Earth's horizon was chosen, though it is ill-defined due to the hazy atmosphere. Experiments found that, with practise, astronauts could learn to mark their sightings at a consistent level on the horizon, a level that varied from person to person. This is only a problem with marking on Earth, as the Moon is airless and its horizon is stark and sharply defined.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 8 hours, 19 minutes. Apollo 15 is 39,282 nautical miles [72,750 km] from Earth. Velocity; 9,629 feet per second [2,935 m/s]. Command Module Pilot Al Worden is now performing the cislunar navigation task scheduled in the Flight Plan. It's going well.
+Worden, from the 1971 Technical debrief: "We ran all the P23s the same way. We did an automatic maneuver to the optics calibration attitude and then an optics calibration, which is the first part of the P23 series. We had no problems doing the optics calibration, and I don't recall now what the exact numbers were on the calibration, but they were within 3/1000ths of being zero. Then we did a Verb 49 maneuver to the P23 attitude so that we made sure we had a good view from the LM [may mean past the LM as the LM is filling a substantial portion of their field of view] and that the subsequent star horizon sightings would be done at approximately the same attitude and the same roll angle. I thought [that the] P23s went very well. I used minimum impulse to control attitude while I was doing the P23s. With the LM on, minimum impulse was very slow in correcting any attitude errors that we had, but it was very positive, and there were certainly no problems with that particular mode of operation for P23s. Outside of recalibrating myself on which horizon I wanted to mark on, the P23s were quite straightforward.
+Worden (continued) "Incidentally, I might add here, we haven't yet found out what the results of the P23s were. I felt that one of the biggest helps I had in doing the P23s was in flying the really accurate simulator at MIT, where they have very accurate calibration and good slides and they can tell you within tenths of kilometers what altitude you're marking on. I spent a good session with Ivan Johnson [MIT] doing nothing but P23s - all the way through the flight, right from translunar coast back into trans-Earth coast. I thought the P23s in flight were very close to what we practised in the simulator. I really had a fairly warm feeling about that P23 system."
+Scott, from the 1971 Technical debrief: "[Speaking to Worden] I think the updates you were giving there, particularly on the way home, sort of verify that."
+Worden, from the 1971 Technical debrief: "The Command Module Simulator [CMS] is just not set up to do P23s accurately. There's just no way you can build that kind of procedure into that part of the simulator. The simulator is good for procedures, in that case; but, if you really want a fine calibration on the altitude, on the horizons you're looking at, then the MIT simulator is the place to go, really. That's really a must. I was really impressed with the whole thing."
+The simulator at MIT, where the Apollo navigation system was designed, was specifically set up to allow crews, and the CMPs in particular, to practise marking on a consistent horizon.
+Scott, from the 1971 Technical debrief: "Yes. I really think you could have got us home."
+Worden, from the 1971 Technical debrief: "Yes. They kept telling us all the way home that our vector was as good as theirs."
+At the end of each P23 operation, the crew and controllers can see the difference between the estimated and newly calculated state vector. These results, displayed through Noun 49, are usually very small.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 8 hours, 51 minutes. Apollo 15 is 42,124 nautical miles [78,013 km] from Earth. Velocity; 9,269 feet per second [2,825 m/s]. The evaluation of the troubleshooting and operational procedures to be taken because of the SPS Thrust On light problem is continuing. We expect the procedure that will be used during the midcourse correction 1 time to be ready to pass up to the crew by 6 pm Central Daylight Time. There is the possibility that we will continue with another troubleshooting procedure prior to the midcourse time. The backrooms are taking a look at that right now. We'll continue to stand by live for any air/ground. This is Mission Control, Houston.
+Flight Plan page 3-14.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 9 hours, 6 minutes. The cislunar navigation sightings are continuing aboard Apollo 15. We do plan, tonight, to go through the procedures in an attempt to isolate the suspected short circuit in the SPS [Thrust-on] light. These procedures will be passed up to the crew shortly, and they will be performed at the time of the midcourse correction number 1, at 11 hours, 55 minutes [Ground] Elapsed Time, that's about 8:30 pm Central Daylight Time. There is a possibility that some additional troubleshooting will precede these procedures. That has not yet been determined, but the plan is to definitely go through the procedures tonight in an attempt to isolate the location of the short circuit. Continuing to monitor live; this is Mission Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+009:09:59 Henize: Apollo 15, this is Houston.
+009:10:03 Scott: Houston, 15. Go.
+009:10:06 Henize: Hey, would you ask Al to give us about 3 seconds on the Noun 49, so we can read them out down here.
+009:10:13 Scott: Oh, very well.
+Long comm break.
+By having Noun 49 brought up on the DSKY, Mission Control will see the onboard computer's values for Delta-R and Delta-V, the difference between the previous estimated range and velocity of the state vector, and the newly calculated one.
+Scott, from 1998 correspondence: "When one is proficient on the DSKY, one can read and clear the three registers in fractions of a second - which is what Al is probably doing with the N49. It is not really necessary for the ground to see all of the N49s, but they are curious and like to be part of the happenings!"
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+009:19:43 Henize: 15, this is Houston with an update for your procedures for UV photos.
+009:19:52 Worden: [Faint] Stand by one.
+009:19:58 Irwin: And, Houston, that last Noun 49 looked like 60 and 16.
+Jim didn't need to read the Noun 49 values as Mission Control can monitor the displays via telemetry. However, it is likely he was ensuring they received the data they were looking for. The values he gave them translate as 0.6 nautical miles (1.1 km) and 1.6 feet per second (0.5 m/s) difference between old and new values of the state vector.
+009:20:06 Henize: [Acknowledging Jim's Noun 49] We copy.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+009:22:36 Worden: Houston, this is 15. Ready on that update concerning the UV photos.
+The second period of UV photography of both Earth and the Moon is due to begin at 9:45 GET. The whole of page 3-15 in the Flight Plan is devoted to the procedures for this session.
+009:22:42 Henize: Roger. On page 3-15 in the Flight Plan, in the left column, about the 17th line down, we have 2 frames with filter number 2.
+009:22:58 Worden: I found that line.
+009:23:00 Henize: Roger. And instead of 2 frames at 20 seconds, we would like one frame at 20 seconds; and we would like a second frame at 2 seconds. [Pause.]
+009:23:21 Worden: Roger. I copy one at 20 seconds and one at 2 seconds.
+009:23:31 Henize: Roger. The reason for that is that they have recently measured a secondary light leak in that filter, and they need a - two different exposures like this to really separate the two peaks in the filter transmissitivity. [Pause.] Incidentally, this is going to pertain to all the UV photography of the Earth on down the line, but we'll - we'll update it as we come to them. [Long pause.]
+009:24:16 Henize: And, 15. We have a preliminary procedure about to come up to you to see if we can isolate whether this ground in the SPS system is in bank A or bank B. And that'll be coming up in just a few minutes. We...
+009:24:34 Worden: Okay. I understand.
+009:24:35 Henize: And we would like to do that before we start the UV photography.
+009:24:40 Worden: Very well.
+Comm break.
+009:26:38 Henize: 15, this is Houston. I have the preliminary procedure I spoke about and we're hoping you might be able to do it while Al works with the P23.
+Al is continuing with his cislunar navigation sightings.
+009:26:48 Scott: Okay; go ahead.
+009:26:53 Henize: You might refer, if you want to see what's going on, to Drawing 8.9 down in area E-3. We're playing with the - Delta-V Thrust switch, and the idea is this: First of all, let's open the - the Group 5 circuit breakers on panel 229, both Main A and Main B. That's a back-up to the SPS Pilot Valves on Panel 8, which we also want open. Verify that.
+009:27:25 Scott: Okay. Group 5, Main A and Main B on 229. Stand by.
+The Group 5 circuit breakers are on the far right mounted on the spacecraft wall, next to the LMP's couch. Power can be distributed to all the spacecraft systems through two independent electrical buses, Main A and Main B. Jim is making sure that the SPS engine's control system is isolated from these buses by opening the circuit breakers that supply power to it before Al begins troubleshooting the Delta-V Thrust switches. These switches are on the left side of the Main Display Console, just below the FDAI and EMS displays. They are both guarded to prevent accidental operation.
+009:27:33 Scott: Okay, both those are open.
+009:27:35 Henize: Roger. We've verified Group 5, both open; and the SPS Pilot Valves both open. Then, we'd like to take the Delta-V Thrust A switch and try to balance it right in a center position. Tease it back and forth a little bit to see if you can get any flickering in the SPS Thrust - Thrust On light.
+009:27:58 Scott: Okay. Stand by.
+The Apollo 15 DSE transcript details the voice conversations that were recorded on the voice track of the tape within the Data Storage Equipment (DSE). The contents of the voice track were transmitted to Earth at regular intervals so the tape could be reused. Transcribed separately after the flight and often indistinct, the DSE transcript often showed differences in text and attribution when it covered the same conversation as the air/ground transcript.
+Raw transcripts for all the Apollo missions are available from the JSC History website.
+009:28:05 Henize: Ah, Jim, let's - let's hold up a little bit before we do that. We don't - We're not all set up down here to watch that also. So let's - let me read on through the procedure.
+Mission Control can monitor currents/voltages/pressures/etc. only on specific components. Digging deep into the wiring is far beyond the scope of telemetry but careful analysis can shed light on the nature of a problem.
+009:28:15 Scott: Okeydoke.
+009:28:16 Henize: If the light does flicker, of course, that's going to isolate, in this case, if we were playing with - with the Delta-V Thrust A switch, that'll isolate the problem into the - to the A bank of valves. If we don't see any flicker, then we'll go ahead and try it with the B - well, with the B bank. Actually, we would like to go ahead and do it with the B bank also. So, stand by a moment.
+009:28:41 Scott: Okay, understand. Standing by. [Pause.]
+009:28:49 Scott (onboard): Eight - 8.9-E3.
+009:28:55 Henize: We'd like to have a [setting of the] High Gain [antenna], [to] Medium [beamwidth].
+009:29:01 Scott: High Gain, Medium.
+Comm break.
+The rapidly increasing distance from Earth requires that the beamwidth of the High Gain Antenna be switched from Wide to Medium. This improves the strength and signal-to-noise ratio of the received signal. It also means that the antenna has a good lock on Earth. Wider beamwidths can be used to get the initial lock onto Earth, then switching to a narrower one to increase signal strength.
+009:29:22 Irwin (onboard): [Garble].
+009:29:28 Scott (onboard): No. No. It's not under EMS.
+009:29:30 Irwin (onboard): [Garble].
+009:29:31 Scott (onboard): What?
+009:29:33 Irwin (onboard): [Garble].
+009:29:37 Scott (onboard): No, we're not. We're talking about Group 5, on 229.
+009:29:42 Worden (onboard): [Garble].
+009:29:47 Scott (onboard): No, he's also - he's talking about pilot valves.
+009:29:49 Worden (onboard): Oh, he is? [Garble] circuit breakers [garble]. That light.
+009:30:05 Scott (onboard): Huh! EPS Group 3. He said Group 5.
+009:30:14 Irwin (onboard): He said Group 5?
+009:30:15 Scott (onboard): Group 5. It's Group 3 here. That's not what he's working on. He's working on the Delta-V thrust. 8.9-E3.
+009:30:24 Worden (onboard): 229, GROUP 3.
+009:30:37 Scott (onboard): Huh!
+009:30:41 Henize: 15, this is Houston. We're ready to go ahead. Verify again the Group 5 breakers and the SPS Pilot Valve breakers, and then let's tease that Delta-V Thrust A switch. Try to balance it in a central position.
+009:30:56 Scott: Okay. Will do. We - we note that drawing 8.9 Echo 3 doesn't seem to fit what you're doing. [Long pause.]
+009:31:17 Henize: Actually, it's area Echo 3 and 4, and it simply shows you the Delta-V Thrust switches there.
+009:31:24 Scott: Oh, okay. Okay.
+009:31:26 Scott (onboard): Shoot!
+Scott, from 1998 correspondence: "Note that these comments refer to the onboard schematics - very valuable to the crew."
+009:31:27 Henize: The light has a contact, whether that switch is On or Off and we would like to balance it half way between so that we don't have a contact.
+Each pole of the A and B Delta-V Thrust switches consists of three terminals in a row with a see-saw arrangement pivoted over the central terminal. Current is switched from that terminal to either of the two outer terminals. The see-saw is moved by a roller on the end of the switch's lever. Being spring loaded, the bistable lever prefers to be at either end of its travel. Mission Control would like the switch to be positioned in the middle of its travel to try and achieve no contact to either outer terminal. That would isolate all the wiring upstream of the switch.
+009:31:36 Scott: Okay. Here goes Delta-V [switch] A now. [Pause.] Okay, A is up and on, and the SPS Thrust light is off. [Long pause.]
+009:31:51 Worden (onboard): It is? Gee! Good grief!
+009:32:00 Henize: Would you confirm that the Delta-V Thrust A switch is up and the light went out. Is that correct?
+009:32:06 Scott: That's correct. It's still in the up and On position, and when I went to the On position, the light went out.
+009:32:13 Henize: Thank you.
+009:32:17 Scott: I'll just leave it there while you think about it.
+009:32:19 Henize: Thank you. That's - stand by.
+Comm break.
+009:32:28 Worden (onboard): Wonder why it'll do that?
+009:32:30 Scott (onboard): [Snicker.] I can only think of one reason - that it's really in backwards. Did you cycle those switches [garble], Jim?
+009:32:39 Worden (onboard): Aah...
+009:32:41 Scott (onboard): Yes, you did - pulled the circuit breakers out to see if the light would change any.
+009:32:45 Worden (onboard): Yes.
+009:33:04 Irwin (onboard): I think I would've, too. But he...
+009:33:06 Scott (onboard): [Garble] contact [garble] that contact - [laughter]. That's amazing. No. In either position, though, the light should come on.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+009:34:48 Henize: 15, this is Houston. We'd like to feel our way ahead here, and we'd like to have you put Delta-V Thrust A back to Off.
+009:35:01 Scott: A is Off, and the light remains off.
+009:35:02 Scott (onboard): Momentary.
+009:35:07 Henize: We copy. [Long pause.]
+009:35:12 Worden (onboard): Huh! Is the light still off?
+009:35:22 Scott (onboard): It's a switch problem. Yes, the light's still off. I bet it was a - when we did that Sep, bet we got a little solder ball in that switch or something.
+009:35:31 Worden (onboard): Bet we did, too.
+009:35:39 Henize: 15, this is Houston. Our telemetry confirms both of your observations, and we would now like to have you cycle [switch] Bravo.
+009:35:47 Scott: Roger. [Pause.] Bravo is up and On; the light is off. [Pause.] Now Bravo is Off and the light remains off.
+In the transcript taken from the onboard DSE recording, Scott is supposed to have said the light remains on, with "[sic]" added.
+009:36:00 Henize: We copy. [Long pause.]
+009:36:24 Scott (onboard): Change out the switch.
+009:36:25 Worden (onboard): Huh?
+009:36:26 Scott (onboard): All we got to do is change out that switch.
+009:36:28 Worden (onboard): Yes. All we got to do is bring that bank on late, and turn it off early.
+009:36:39 Scott (onboard): Yes, unless you get a contact in there, we wouldn't have the ignition signal, though.
+009:36:45 Henize: 15, we'll sit tight and think about that for a while, thank you.
+009:36:49 Worden (onboard): [Snicker.]
+009:36:50 Scott: Rog.
+Long comm break.
+Soon, a crewmember will prepare to take a sequence of UV photographs of Earth and Moon.
+009:37:39 Scott (onboard): The good thing about it, though, is that apparently the SPS Thrust light - Thrust light works okay.
+009:37:44 Worden (onboard): Yes.
+009:37:45 Scott (onboard): And that's - your cue. You know, all you need, I guess, is the ignition signal - when the light's on.
+009:38:00 Worden (onboard): Yes. Right now [garble] give guidance the ignition signal.
+009:39:50 Worden (onboard): Aaah - Whooo! [Garble].
+009:39:54 Scott (onboard): I think you're about checked out.
+009:39:59 Worden (onboard): I'll do one more.
+009:40:17 Worden (onboard): O2 Flow.
+009:41:12 Worden (onboard): Whoo. [Garble] much of that crap.
+009:41:16 Scott (onboard): You feel pretty good about those?
+009:41:17 Worden (onboard): Yes.
+009:41:19 Scott (onboard): Good.
+009:41:23 Irwin (onboard): He's doing all that.
+009:41:24 Worden (onboard): You better believe it!
+009:41:25 Scott (onboard): You want that optics calibration, don't you?
+009:41:27 Worden (onboard): Uh-huh. What's the attitude?
+009:41:35 Scott (onboard): Okay, the attitude is - well, wait until you get to P00 and you can do a little work on it.
+009:41:48 Scott (onboard): Okay, now, the attitude of Verb 49 to - it's 210, 339, 330. Okay. Going CMC, Auto.
+009:42:07 Worden (onboard): Okay.
+009:42:20 Scott (onboard): A long way to go. 142 [garble] up to [garble] start the UVs. [Garble].
+009:42:39 Worden (onboard): Yes, we've got several of those.
+009:42:55 Worden (onboard): [Garble].
+009:43:07 Worden (onboard): You ready for the UV stuff there, Dave? Well, I'm not quite through (yawn) with my stuff though. [Garble].
+009:43:36 Worden (onboard): So you have black on one side and white on the other.
+009:43:39 Scott (onboard): Yes, [garble].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+009:44:21 Henize: 15, this is Houston. As a final check as to what's happening in that switch, we'd like to have you tap around the Delta-V Thrust switches a bit. See if any light flickering comes on.
+009:44:33 Scott: Roger. In work. [Pause.]
+009:44:38 Scott (onboard): Good. It just came on.
+009:44:41 Scott: Would you believe? It came on.
+009:44:44 Henize: We copy, and we saw it down here. [Pause.] Okay. With the light on now, let's cycle Bravo on and try to tease it in the middle if it stays on.
+009:45:01 Scott (onboard): That's good.
+009:45:02 Scott: Okay. Cycling Bravo. [Long pause.]
+009:45:16 Scott: Okay. No change at all with the Bravo on, cycling several times through the middle.
+009:45:20 Henize: We copy. [Pause.] Okay. Leave Bravo Off, and let's cycle A again.
+009:45:31 Scott: Roger. [Pause.]
+009:45:41 Scott: Okay. Right in the center of - the contacts with A, right between the two, I can get the light to go out. But now, when I go on up - up and On, the light comes on again. And now, I've come back to the Off position, and the light's off. So, I think you've isolated your problem.
+009:45:59 Henize: Roger.
+Comm break.
+The problem has indeed been isolated. There appears to be a short circuit within the Delta-V Thrust switch.
+009:46:03 Worden (onboard): Think so, too. That just says we're going to have to use - ban - bank B this time.
+009:46:16 Scott (onboard): It says you're going to have to pull the circuit breakers on A.
+009:46:20 Worden (onboard): Yes.
+009:46:21 Scott (onboard): Before the shutdown.
+009:46:22 Worden (onboard): Yes. Well, either that or - yes, that's right, see.
+009:46:25 Scott (onboard): Because if it doesn't, there's no guarantee the switch is going to do you any good.
+009:46:30 Worden (onboard): That's right. Okay, we got an ap - optics calibration here? What - what star is it?
+009:46:49 Worden (onboard): We're at that attitude now.
+009:46:51 Scott (onboard): Oh, okay. That's - star number 1.
+009:46:53 Worden (onboard): Star number 1 again, huh? Okay.
+009:47:08 Worden (onboard): Okay; we should be looking right at it.
+009:47:46 Scott (onboard): Why do we get...
+009:48:07 Scott (onboard): I don't - I don't know why I get an ignition. We got the light on, but that doesn't say we have an ig - ignition signal. Threw that switch. How could that switch affect the ignition signal unless it was there from someplace else?
+009:48:24 Worden (onboard): Yes. Hey, that's right.
+009:48:27 Scott (onboard): The switch can't produce an ignition signal without something else producing the ignition signal. It sounds to me like the light circuit breaker switch.
+009:48:37 Worden (onboard): Yes.
+009:48:38 Scott (onboard): You know they took the FCSM out.
+009:48:40 Worden (onboard): I know it.
+009:48:41 Scott (onboard): [Garble] they really got a complicated system.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+009:48:47 Henize: 15, this is Houston. We're willing to stop playing with the - with the light problem at the present time. We'd like to verify that both Delta-V Thrust switches are Off. And we'd like to have the Group 5 circuit breakers both Closed, but please keep the Pilot Valve circuit breakers Open.
+Scott, from 1998 correspondence: "As a point of interest here, note that switches are always 'On' or 'Off' - and that circuit breakers are always 'open' or 'closed' - always! - a circuit breaker would never be turned 'off.' Another small item associated with the absolute precision of the Apollo program."
+009:49:05 Scott: Okay. Delta-V Thrust verified Off. Pilot Valves verified Open, and we'll Close the Group 5s.
+009:49:14 Worden (onboard): Okay. We're done - 20C.
+009:49:15 Henize: Thank you.
+Long comm break.
+009:49:17 Scott (onboard): Okay, let's go to UV then. Jim, watch the Itek.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 9 hours, 53 minutes. This troubleshooting with the [Apollo] 15 crew has just [been] completed. It does give us confidence that the Delta-V Thrust switch A is faulty; whether through contamination or whether something is loose in the switch, we don't know, but it does give us confidence that both banks of ball valves in the Service Propulsion System are okay. We do not now plan to proceed with the procedure that had previously been planned for midcourse correction 1. We're confident that we can develop procedures to operate bank A safely whenever we burn the engine.
+See 028:45:23 for an explanation of the fault.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+009:57:17 Henize: Omni Delta, please.
+009:57:20 Scott: Rog. Omni Delta. [Long pause.]
+By asking the crew to select Omni D, Mission Control will not be able to switch away from that when the attitude of the spacecraft changes. Therefore, they will ask the crew to select another antenna later.
+009:57:48 Henize: 15, this is Houston.
+009:57:52 Crew Member: Houston, 15.
+009:57:54 Henize: Let's - summarize our situation with that - with that Thrust - Thrust On light. The telemetry we got down here - we actually have two lights which show up in that area, E-4 and 5 on diagram 8.9 - gave us some rather confusing data that we don't understand yet, but we'll be working on it. But we - we do feel confident enough that there's no need to fire the engine at the present time, and since the midcourse [correction number] 1 is a correction of 2.8 feet per second we don't think that we'll be having a midcourse 1. For your information, at the present time, midcourse 2 looks about like 5.0 feet per second.
+009:58:42 Scott: Okay; understand. We'll just hold tight; skip midcourse 1; stand by for [midcourse correction] 2.
+Flying to the Moon, when you don't have fuel to throw around, is a ballistic lob, a large scale stone throw across nearly 400,000 kilometres of cislunar space. Having achieved the throw, using the last firing of the S-IVB, it is important to know that you are going to end up where you intended at the end of the coast. Taking the analogy of throwing a stone further, if you could tell that the stone was travelling a little too fast or too slow to reach its target, you might want to slightly impede it or give it an extra little push during its flight to achieve an accurate hit.
+So it is with lunar or interplanetary travel. By knowing very accurately the three dimensional position of the spacecraft at an instant of time, and knowing the velocity vectors in three axes with which it is moving at that time - a matrix of six values (plus time) collectively known as the state vector - you can use computers to calculate where the spacecraft is heading. A little too fast and Apollo 15 would reach the Moon's distance before the Moon had got to where it was supposed to be. It would be deflected around the far-side at a higher altitude than intended. It would be more difficult to get into the desired orbit - and be costly in fuel. A little too slow, and their altitude around the Moon's far-side would be lower than intended - in a worst case, they may even impact the lunar surface - and again the desired orbit would only be achieved at the cost of maneuvering fuel. The midcourse correction maneuvers are intended to modify the spacecraft's velocity during the coast so that the final outcome will be a perfect arrival in the vicinity of the Moon, at an altitude of 110 km (60 nautical miles), from where they can achieve their lunar orbit as planned. The earlier a correction is made, the greater its effect on the final outcome for a given use of propellant.
+On Apollo 15, there are four planned midcourse corrections during the translunar coast which can be used if required. The firing of the S-IVB was sufficiently accurate, that Mission Control do not feel it is worthwhile carrying out a correction on the first opportunity and are prepared to wait until the velocity error has built up to make the firing of the SPS engine worthwhile, allowing them to test its faulty control bank. Normally, the RCS thrusters could have been used to correct the velocity error at this first opportunity.
+009:58:47 Henize: Roger. [Pause.] And, 15, be advised we'll have a Flight Plan update in the near future.
+009:59:01 Scott: Roger. [Pause.] That was a pretty good S-IVB, wasn't it?
+Dave is referring to the accuracy with which the S-IVB stage put Apollo 15 on its moonbound trajectory.
+009:59:09 Henize: Roger. [Long pause.]
+009:59:32 Henize: Hey, and you can tell Al up there that those look like real good P23 markings.
+009:59:38 Scott: Okay. He's glad to hear that.
+009:59:41 Worden: Very good, Karl.
+Long comm break.
+Flight Plan page 3-17.
+While Al has been practising his cislunar navigation sightings and using them to calculate a state vector, Mission Control have been watching his progress by monitoring the activity on the computer.
+James Summers worked in Mission Control's RTCC (Real-Time Computer Complex) during the early lunar flights.
+James Summers, from 1998 correspondence: "[The crew] computed a state vector onboard. [Mission Control] computed one on the ground, based on radar data. They were compared. If different, go back and do it again. If still different, debug both of them. If still different, use the one from the ground."
+Page 3-15 of the Flight Plan has detailed instructions for a series of photographs to be taken of Earth using film that is sensitive to ultraviolet light.
+Flight Plan page 3-15.
+To accomodate this photography, the spacecraft must be maneuvered so that the UV transmitting window, window 5, is facing the target, which is due to occur at 009:55. Window 5 is to the right of the spacecraft as viewed from the couches. A Hasselblad camera is fitted with a 105-mm UV-transmitting lens and magazine N, which contains the specialised film. This is mounted in a bracket in the window. After a few minutes waiting for the motions of the spacecraft to die down, eight shots were to be taken, two through each of four filters. Only seven were actually taken, perhaps due to the change read up at 009:23:00 causing confusion and it appears there is only one image taken through filter 1. The images are AS15-99-13410 to 13416.
+By a little bit of home-grown photogrammetry and careful measurement, the distance at which these photographs were taken can be determined. This relies on knowing a few parameters: the size of the film gate in the Hasselblad (55.5mm), the number of pixels in a scan from one side of the film gate to the other (11,254 in the scans being used in this example) and hence the size of an individual pixel (4.93 microns). This allows the size of Earth's image to be determined (typically 14.17mm in this case) and, knowing the focal length of the lens (105mm) and the radius of Earth (6,371 km), the distance can be calculated. Except for AS15-99-13411, which has an indistinct image, the results yield values that do increase slightly as the pictures are taken. This is as would be expected for a receding planet and the results vary from from 47,522 nautical miles (88,011 km) to 47,734 nautical miles (88,404 km).
+Using the distances and times given by the PAO announcer, it is possible to interpolate approximately when these pictures were taken. The results cluster nicely around 10 hours GET.
+AS15-99-13410 - Ultraviolet photograph of Earth taken through filter 1 - Image by NASA/JSC/Arizona State University.
+AS15-99-13411 - Ultraviolet photograph of Earth taken through filter 2 - Image by NASA/JSC/Arizona State University.
+AS15-99-13412 - Ultraviolet photograph of Earth taken through filter 2 - Image by NASA/JSC/Arizona State University.
+AS15-99-13413 - Ultraviolet photograph of Earth taken through filter 3 - Image by NASA/JSC/Arizona State University.
+AS15-99-13414 - Ultraviolet photograph of Earth taken through filter 3 - Image by NASA/JSC/Arizona State University.
+AS15-99-13415 - Ultraviolet photograph of Earth taken through filter 4 - Image by NASA/JSC/Arizona State University.
+AS15-99-13416 - Ultraviolet photograph of Earth taken through filter 4 - Image by NASA/JSC/Arizona State University.
+Next, by the Flight Plan, the magazine on the back of the Hasselblad camera body is changed to magazine M containing conventional colour film. A reference shot, AS15-91-12344, is then taken through the same camera/lens combination. By applying the same measurement technique as before yields a similar result for distance, 47,737 nautical miles (88,408 km).
+AS15-91-12344 - Comparison image of Earth on colour film - Image by NASA/Johnson Space Center.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+010:05:50 Henize: 15, if you'll give us Accept, we'll send up a new state vector.
+010:xx:xx (May be Worden): [Garble.]
+010:06:04 Henize: Say again 15.
+010:06:11 Worden: Okay. You have P00 and Accept.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+010:09:57 Henize: 15, you can have your computer back. [Pause.]
+010:10:07 Worden: Roger.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 10 hours, 20 minutes. The Apollo 15 crew now taking ultraviolet photographs of the Earth as scheduled in the Flight Plan. Apollo 15 is 49,511 nautical miles [91,694 km] from Earth now. Travelling at a velocity of 8,407 feet per second [2,562 m/s].
+010:23:52 Henize: We would like to have Omni Bravo, please.
+Long comm break.
+The request for the crew to change their S-band communication to the B omni-directional antenna goes unanswered. By having the crew manually select B, Mission Control can now switch between B and D as the attitude of the spacecraft determines.
+Scott, from 1998 correspondence: "Perhaps the transmission never got to the CSM - often happened. (We would never ignore our good friends in MCC intentionally!)"
+Recordings of the air/ground line didn't become available until many years after Dave's correspondence. It then wasn't until 2021 that a cross check of the transcript was made with these audio recordings. From that, it is clear that five seconds after Henize's request, the static disappears and a clear signal is restored.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+010:30:10 Irwin: Houston, [Apollo] 15.
+010:30:13 Henize: 15, This is Houston.
+010:30:16 Irwin: Rog, Karl. Would you go back and recheck the attitude - the attitude for the UV pictures of the Moon?
+010:30:30 Henize: Stand by. We'll check that. The numbers you have in the DSKY are what we have in the Flight Plan. [Pause.]
+010:30:41 Irwin: Houston, 15. As you were on that. Looks like we are all set up.
+010:30:45 Henize: Roger.
+Long comm break.
+The spacecraft has been maneuvered so that the UV camera in window 5 is facing the Moon. Jim may have been querying the validity of the numbers in the Flight Plan rather than whether the DSKY matched the them. Again, there is a wait for the spacecraft's rotational motion to settle before another series of images are taken, this time of the Moon. Magazine N, the UV film magazine, has been re-affixed to the Hasselblad so that calibration UV pictures can be taken of the Moon, repeating the sequence of eight shots as instructed on page 3-15 of the Flight Plan. These are AS15-99-13417 to 13424. The Moon is still very far away and with this lens/camera combination, appears only as a small crescent. There is a great deal of flare, perhaps due to the proximity of the Sun in the window.
+AS15-99-13417 - Ultraviolet photograph of the Moon taken through filter 1 - Image by NASA/JSC/Arizona State University.
+AS15-99-13418 - Ultraviolet photograph of the Moon taken through filter 1 - Image by NASA/JSC/Arizona State University.
+AS15-99-13419 - Ultraviolet photograph of the Moon taken through filter 2 - Image by NASA/JSC/Arizona State University.
+AS15-99-13420 - Ultraviolet photograph of the Moon taken through filter 2 - Image by NASA/JSC/Arizona State University.
+AS15-99-13421 - Ultraviolet photograph of the Moon taken through filter 3 - Image by NASA/JSC/Arizona State University.
+AS15-99-13422 - Ultraviolet photograph of the Moon taken through filter 3 - Image by NASA/JSC/Arizona State University.
+AS15-99-13423 - Ultraviolet photograph of the Moon taken through filter 4 - Image by NASA/JSC/Arizona State University.
+AS15-99-13424 - Ultraviolet photograph of the Moon taken through filter 4 - Image by NASA/JSC/Arizona State University.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+010:35:35 Henize: 15, this is Houston. Could we bring up the High Gain [Antenna] with the angles in the Flight Plan?
+010:35:43 Irwin: Roger, Houston. Stand by.
+Long comm break.
+The procedure in the Flight Plan for taking the lunar UV photographs not only includes attitude angles for pointing the UV window towards the Moon, but also gives pitch and yaw angles which can be dialled up on the Main Display Console to point the HGA towards Earth.
+010:35:47 Worden (onboard): What are the angles in the Flight Plan? Isn't that where we're supposed to do this?
+010:35:59 Worden (onboard): Says "Omni D, High Gain, minus 33 and 213."
+010:36:13 Worden (onboard): Check out 1, 2. Minus 33 and 214. 211 is what the DSKY says. Close enough.
+010:36:37 Worden (onboard): That's real.
+010:36:38 Scott (onboard): Yes, [garble]. Ooooh.
+010:36:46 Worden (onboard): There, David.
+010:36:52 Scott (onboard): All I got to say, Al, is good luck.
+010:36:56 Worden (onboard): Good luck with what?
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+010:39:31 Henize: 15, This is Houston. I have a Flight Plan update whenever you can copy it - to be followed by a P27 update and P37 block data.
+010:39:44 Irwin: Stand by. [Long pause.]
+010:40:02 Irwin: Okay, Karl. I'm [garble] you a Flight Plan.
+010:40:06 Henize: Okay. As is obvious [because of the cancelled midcourse correction maneuver], you can delete all of the midcourse activities, beginning there at 11:21, running through the burn status report. And the other activities this evening can be moved up so that you can go to bed as early as 12 hours GET, if you wish. A couple of notes here is that we do want you to stay up to 12 hours in order that we can finish a battery charge that's in progress. And, also, that waste water dump; be sure to - to do the water dump before you start PTC [Passive Thermal Control].
+Jim Irwin began charging battery B at about 4:36, with Mission Control continuing to monitor its progress.
+Various tasks which were interspersed with the midcourse correction procedures can now be completed without delay. They include a P52 IMU realignment, which they will carry out in 25 minutes, a purge of the fuel cells with oxygen and a dump of waste water generated by the fuel cells.
+Strong, unfiltered sunlight, with its large infrared component, heats one side of the spacecraft. Meanwhile, the great heatsink of deep space chills the other side as energy is radiated away at infrared wavelengths. The story is told in the excellent book, Apollo: The Race to the Moon, by Murray and Cox, of the difficulties the spacecraft designers were having with the heatshield material around the Command Module, trying to make it withstand extreme cold as well as heat. Joe Shea, a brilliant and intuitive engineer who was the NASA chief overseeing the CSM's difficult birth, asked how long it took for the heatshield to cool to the point where it began to crack and flake. The answer of thirteen hours prompted him to suggest that they simply keep changing the spacecraft's attitude by rotating it slowly in the sunlight. The maneuver which resulted was PTC or Passive Thermal Control, dubbed by many the 'barbecue' mode. The integrity of the heatshield is not the only reason for PTC. The RCS quads, SPS propellant tanks and the structure, propellant and battery systems of the LM also needed to be evenly heated or cooled.
+Journal contributor Phil Karn adds the following detailed discussion of the PTC maneuver and why it could be difficult to establish and maintain.
+Journal contributor Phil Karn: "The desired pure roll about the X (longitudinal) axis often degenerated into a complex coning motion. When this got too severe, the crew (usually the CMP) had to re-establish the PTC. This was especially hard to do on Apollo 13 with the LM's RCS. Why does this happen? Because the Apollo stack just doesn't want to roll cleanly around its X axis. It's inherently unstable. No matter how it turns or tumbles, every object in space eventually settles down into a stable spin around the axis with the largest moment of inertia. For Apollo that is most definitely not the X (roll) axis. After TLI, the Y (pitch) and Z (yaw) axes of the docked CSM/LM had moments of inertia nearly ten times that of the X axis! That's why the PTC was so unstable.
+"Technically, this is true only for non-rigid objects. Isn't the Apollo stack rigid? No. The spacecraft can flex somewhat, but more importantly propellants and other fluids can slosh in their incompletely filled tanks. Propellants account for most of the spacecraft mass at launch. Flexing and sloshing turn mechanical energy into heat that is eventually radiated to space. Even the astronauts contacting the inside walls of the CM and LM contributed to this process. Conservation of energy dictates that the spacecraft must lose an equal amount of energy, so it spins more slowly. But angular momentum must also be conserved. How is this done? This is where the different moments of inertia come in.
+"Moment of inertia is the angular counterpart to mass. There is one important difference between mass and moment of inertia: unlike mass, moment of inertia need not be conserved. The classic example is an ice skater moving her arms in or away from her body. So while linear momentum is mass times velocity, angular momentum is moment of inertia times angular velocity (rotation rate). You calculate the kinetic energy in a rotating system analogously to a linear system. The kinetic energy in a linear system is one half times mass times velocity squared; the energy in a rotating system is one half times moment of inertia times angular velocity squared. That's the entire key to the puzzle: angular momentum varies linearly with angular velocity but ENERGY varies with angular velocity SQUARED. (It's crucial to not confuse momentum and energy. The linear and angular momentum in a closed system are conserved vectors; neither their magnitude nor direction can be changed without an outside force. Energy, including linear and rotational kinetic energy, is always a scalar. Energy is also conserved in a closed system, but in practice a spacecraft can easily gain or lose energy by radiation.)
+"As a rotating, flexing and sloshing spacecraft turns some of its rotational kinetic energy into heat, it seeks the lowest energy state consistent with conserving its original angular momentum. When the spacecraft can no longer lower its energy without also decreasing its angular momentum, it has reached its minimum energy state. Dissipation stops and the spacecraft remains forever in a stable, unchanging spin. (Until acted on by an outside force, of course.) Because energy varies with the square of the spin rate while angular momentum only varies linearly, the minimum energy state is reached when the spacecraft spins as slowly as possible. For that to happen, the spacecraft must spin entirely around the axis with the largest moment of inertia. If that isn't the axis you want, tough! So that's all there is to it. Start any spacecraft spinning or tumbling, and even a tiny energy dissipation mechanism will cause it to slow down and eventually settle into a stable spin around the spacecraft axis with the largest moment of inertia.
+"Apollo mission reports have 'mass reports', the vehicle masses and moments of inertia at each flight stage. As an example, after transposition, docking and extraction from the S-IVB, the Apollo 16 stack had the following moments of inertia: X: 62,580 slug-feet^2; Y: 576,734 slug-feet^2; Z: 579,385 slug-feet^2. Since the Z axis had the largest moment of inertia, the most stable spin state would be end-over-end -- a flat spin -- parallel to the Z axis, that is, in a continuous yaw. (Of course the spin axis would pass through the spacecraft center of gravity.) Actually, the spin axis would only be nearly parallel to the Z axis; the stack would find its own maximum moment of inertia axis that won't necessarily match one of our arbitrarily chosen axes. It is unfortunate that good Apollo passive thermal control could not be achieved with a flat spin as that would have been far easier to establish and maintain than the X-axis roll actually used. If the sun were in the X/Y plane, then points in the X/Y plane would be evenly "cooked". But points away from the X/Y plane would not receive the same benefit, and they might become very cold.
+010:40:45 Irwin: Okay. We understand that.
+010:40:50 Henize: And, I'm - I've got a P37 for you - plus 25 hours, if you're ready.
+010:40:59 Irwin: Stand by one. [Long pause.]
+010:41:29 Irwin: I'm ready for the P37 for 25 hours.
+010:41:33 Henize: Roger. 025:00, 4621, minus 175, 075:21; 035:00, 6821, minus 174, 074:51; 045:00, 5605, minus 175, 099:06; 060:00, 5448, minus 175, 123:06 and that's the end. [Pause.]
+Now that the spacecraft has settled into its Moon-bound trajectory, RETRO and the RTCC can calculate abort PADs for the Return-To-Earth program, P37. This program is only relevant for that portion of the translunar coast that the Moon's gravity is negligible and so PADs are generated for the planned times of 25, 35, 45 and 60 hours GET. An interpretation of the PADs follows:
+Lift-off plus 25 hours
+Time of ignition: 25 hours GET
+Change in velocity: 4,621 fps (1,408 m/s)
+Longitude of Earth landing point: 175° West
+Time of entry into Earth atmosphere: Defined as 400,000 feet (122 km) altitude; 75 hours, 21 minutes GET.
+Lift-off plus 35 hours
+Time of ignition: 35 hours GET
+Change in velocity: 6,821 fps (2,079 m/s)
+Longitude of Earth landing point: 174° West
+Time of entry into Earth atmosphere: 74 hours, 51 minutes GET.
+Lift-off plus 45 hours
+Time of ignition: 45 hours GET
+Change in velocity: 5,605 fps (1,708 m/s)
+Longitude of Earth landing point: 175° West
+Time of entry into Earth atmosphere: 99 hours, 06 minutes GET.
+Lift-off plus 60 hours
+Time of ignition: 60 hours GET
+Change in velocity: 5,448 fps (1,501 m/s)
+Longitude of Earth landing point: 175° West
+Time of entry into Earth atmosphere: 123 hours, 06 minutes GET.
+Jim then reads the PADs back.
+010:42:13 Irwin: Readback. 025:00, 4621, minus 175, 075:21; 035:00, 6821, minus 174, 074:51; 045:00, 5605, minus 175, 099:06; 060:00, 5448, minus 175, 123:06.
+010:43:15 Henize: That's all correct. The next one I have is a P27 update.
+010:43:22 Irwin: Stand by. [Long pause.]
+010:43:35 Irwin: Okay; I'm ready on the P27.
+010:43:37 Henize: Roger. It's - the purpose, V71; GET 11:45:00; INDEX 21, 01501, 00001, 71465, 41437, 76654, 45425, 77003, 52553, 72602, 54007, 75455, 55217, 76267, 55324, 00402, 05560, and that's all.
+010:45:02 Irwin: Okay. On the P27s; 71, 11:45:00; 21, 01501, 00001, 71465, 41437, 76654, 45425, 77003, 52553, 72602, 54007, 75455, 55217, 76267, 55324, 00402, and 05560.
+010:45:55 Henize: That's all correct. Thank you, Jim.
+Very long comm break.
+Updating the computer's memory is performed in two different ways. The first, and the most common is to enter POO (program 00, which puts the computer into an idle state) and place the Uplink Telemetry switch to Accept. At the start of the update, the computer switches to Program 27 to perform the update. The other, and less common method (and it's not clear why it is being done here) is to enter Program 27 directly, then enter the data manually using Verb 71. Afterwards, the data is recalled onto the DSKY, one item at a time, to verify it.
+Flight Plan page 3-19.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 11 hours, 2 minutes. Apollo 15 is 52,749 [nautical] miles [97,691 km] from Earth. Velocity; 8,101 feet per second [2,469 m/s]. A short time ago we advised the crew that they could delete all of the midcourse correction 1 activities, and move up the other activities so that if they wish they may go to bed at 12 hours elapsed time, about 1 hour from now. As yet, we do not have an indication from the crew what they plan to do. We'll continue to stand by and monitor live for any air/ground conversations. This is Mission Control, Houston.
+It is only eight hours since Translunar Injection and the spacecraft has already travelled about a quarter of the distance to the Moon, yet the remainder of the coast will take another three days. This helps to illustrate the ballistic nature of their flight. Earth's gravity is slowing them down but is itself weakening as they gain distance. It will be two and a half days before the Moon's gravity overcomes that of Earth's and the spacecraft's velocity will begin to increase, by which time their velocity will be about 900 m/s (just under 3,000 fps).
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+011:14:00 Worden: Houston - Houston, 15.
+011:14:04 Henize: 15, this is Houston.
+011:14:07 Worden: Roger, Karl. We've got the gyro torquing angles up for the P52. And we'll torque them out on the minute.
+011:14:12 Henize: Roger. We've copied them. [Long pause.]
+The P52 realignment Al has just completed is with respect to the PTC Orientation REFSMMAT.
+011:14:30 Irwin: And, Houston, this is 15 now. Looking at the Oxidizer Pressure on the SPS, looks like it's a little low; I just wondered what you all are reading down there? [Long pause.]
+011:14:55 Henize: 15, this is Houston. We're reading a pressure of 168 [psi] down here on the SPS Oxidizer and that's normal at this time. We expect it to be a bit low because of absorption in the helium.
+011:15:09 Irwin: Okay; thank you. [Long pause.]
+The Service Module is constructed as six pie-shaped sectors around a central tunnel (which despite its name, is not accessible by the crew). Four of these sectors contain large, cylindrical propellant tanks, two each for fuel and oxidizer. Propellant is pumped to the engine by pressurizing the tanks with helium, supplied from two spheres in the central tunnel via control valves and regulator. Since pressurisation of the oxidiser tanks just prior to launch, some of the helium has been absorbed by the nitrogen tetroxide, lowering the pressure in the tanks and prompting the query from Jim Irwin.
+011:15:34 Henize: And, 15, this is Houston. When you doff your biomed harnesses, we'd very much like to have you double check those sensors. We've been getting poor readings in respiration from all three of you, and we'd like to have you report any anomalies in - in how they're rigged on you.
+011:15:57 Scott: Roger. We'll do that.
+When the crew was suited up before launch, a harness of sensors was glued to the surface of the astronauts' skin to monitor, via telemetry, their heart rate and respiration. During the early Apollo missions, these harnesses were kept on full-time, much to the annoyance of the crews who found them sore and uncomfortable after a time. The astronauts argued that they could apply the sensors themselves, and to be allowed to take them off during the mission to allow the areas where the pads were applied to rest. By the time of Apollo 15, a schedule had been agreed whereby only one astronaut need be monitored at any given time during the translunar and trans-Earth coasts. A schedule in the Flight Plan indicated that Dave and Al can remove their sensors, while Jim is to keep his on over the coming rest period. On the Moon, the CDR and LMP were continually monitored during their forays onto the lunar surface though, again, only one crewmember had to wear the harness during sleep periods.
+011:15:58 Henize: You can send that down with the evening report.
+011:16:02 Scott: Okay.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+011:35:23 MCC: Right on. CapCom's hearing it. Just a little fainter than it was.
+011:35:33 MCC: Roger.
+011:35:50 MCC: A little bit earlier, ah...
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+011:38:11 Henize: 15, this is Houston. Anytime you have the time to copy down about six lines of information, I could give you a general update on the UV filter photography. [Pause.]
+011:38:27 Scott: Okay; stand by one, Karl. [Long pause.]
+011:38:54 Henize: And, 15, we'd like to have you verify that the waste water dump has been terminated.
+011:39:00 Worden: That's a verify. [Long pause.]
+The waste water dump is one of the tasks which has been brought forward due to the cancellation of midcourse correction 1. At 010:40:06, CapCom Karl Henize reminded them that this dump should be finished before the PTC is started as the small propulsive effect from the water being vented from the spacecraft could upset the smooth roll of the barbecue maneuver. Note also, however, that the dump occurs after the P52 realignment to avoid ice crystals around the spacecraft interfering with the CMP's view of the stars.
+011:39:55 Irwin: Okay, Karl; I'm ready to copy [the] Flight Plan change relative to the UV [photography].
+011:40:01 Henize: Roger. The change is the same as I gave you before. When you're shooting the Earth, two frames with filter 2, at - what was formerly 2 frames with filter 2, exposure time 20 seconds, in the future, it will be one frame, filter 2 with an exposure time of 20 seconds. And one frame, filter 2, exposure time 2 seconds. And the following is the places that this occurs in the Flight Plan in the future. First is page 3-38, line 17. I believe we've probably passed that one already. The next one is - Negative, we haven't passed that one yet. The next one is page 3-57, line 16. The third is page 3-167 - both at 123 hours, 49 minutes and 123 hours, 56 minutes. The next is page 3-352, line 16. The next is page 3-378, line 16, and the final one is page 3-402 parenthesis, it says here, Earth UV line 16.
+Karl Henize is expanding on the changes in the UV photography read up at 9:23.
+011:40:44 Irwin: Roger. I copied all that, Karl.
+011:40:56 Henize: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+011:44:04 Worden: Houston, 15.
+011:44:07 Henize: 15, this is Houston. Go ahead.
+011:44:10 Worden: Okay, Karl. Would you check the page for PTC, and let me know what that Verb 49 attitude is? It says, Verb 49 maneuver to PTC, Noun 20, 090 and 000. [Long pause.]
+011:44:45 Henize: 15, this is Houston. I understand that you used the present roll [angle]. The one you have now, I believe, is 169.6 [degrees] and, then, the other two numbers give you pitch and yaw.
+011:44:58 Worden: Affirm. Roger, Karl; thank you. [Long pause.]
+The PTC maneuver requires the spacecraft to be rotated around the X, or longitudinal axis, in a slow roll of 0.35° per second. A complete roll of 360° should take about 17 minutes at that speed.
+The X-axis of the CSM is an imaginary line which runs from the centre of the SPS engine bell, through the centre of the SM and out through the apex of the CM's cone. Incidentally, in the docked configuration, the LM's X-axis is colinear with the CSM's but is in the opposite direction, running from the descent engine to the docking hatch and, because of this, the Y- and Z-axes of each spacecraft are also opposed. The 'front doors' of each spacecraft are aligned 60° around the X-axis from each other. Readers should be careful to distinguish between the spacecraft axes and those of the IMU.
+The last P52 aligned the X-axis of the IMU platform with the ecliptic and at right angles to the Earth-Moon line; its Z-axis was aligned southward, perpendicular to the ecliptic. If the spacecraft were aligned to match the platform, it would have its longitudinal axis aligned with the ecliptic with Earth and Moon to either side. By pitching 90°, as called for in the Flight Plan, the longitudinal axis of the spacecraft is brought perpendicular to the ecliptic which guarantees that the Sun (which is always in the plane of the ecliptic) will strike the spacecraft side on as it rotates.
+011:45:49 Worden: And, Houston, 15; we're maneuvering to PTC attitude now.
+011:45:54 Henize: Roger, 15. We copy.
+Comm break.
+Maneuvering the combined CSM/LM stack is a slow process, only 0.2 degrees per second. Rates are kept slow to save propellant. After Al has maneuvered the spacecraft to the PTC attitude, he must ensure that all discernible motions have died down before he initiates the roll maneuver, otherwise the roll will have an element of unwanted wobble, or coning, which will have to be taken out by starting over.
+011:47:16 Henize: 15, this is Houston. We'd like to have a LM/CM Delta-P whenever you can check that number for us?
+011:47:24 Worden: Okay, Karl. Stand by one.
+Comm break.
+The hatches between the two spacecraft are still in place and the two cabins are sealed. A gauge mounted between the Main Display Console and the tunnel displays the difference in pressure on both sides of the CM forward hatch.
+011:49:17 Irwin: Okay, Houston; the Delta-P is point - plus .4 and we're going to secure the High Gain and give you Omni Bravo. [Pause.]
+011:49:30 Henize: Roger, 15; we copy.
+Even though the overhead dump valve in the LM overhead hatch is open, the CM cabin pressure is 0.4 psi greater than the LM cabin pressure. The crew are switching to omni-directional antenna B as requested in the Flight Plan and thereby allowing Mission Control to switch between B and D for them. The audio from the spacecraft becomes noise as Jim begins to speak.
+011:49:36 Irwin: And, Houston, we're doing an O2 purge on the fuel cell. Presently purging fuel cell 3, and I'm getting a Fuel Cell 3 caution light.
+011:49:48 Henize: Roger. We copy.
+Comm break.
+This is Apollo Control at 11 hours, 50 minutes. Apollo 15 is 56,527 nautical miles [104,688 km] from Earth. Velocity; 7,844 feet per second [2,391 m/s].
+011:50:58 Henize: 15, this is Houston; we'd like to have Omni Charlie. [Long pause.]
+011:51:43 Worden: Houston, 15. Say again your last [transmission].
+011:51:47 Henize: Roger. That last comment was to give us Omni Charlie [instead of Omni Bravo].
+011:51:53 Worden: Rog. Charlie.
+Very long comm break.
+Flight Plan page 3-20.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+012:04:54 Henize: 15, this is Houston.
+012:04:57 Worden: Houston, 15; go ahead.
+012:04:59 Henize: Your spacecraft [rotation] rates are low enough now to spin up for PTC, but we'd like for you to verify first that all of your dumping has been finished. [Pause.]
+012:05:17 Worden: Karl, we'll hold off for a little bit here and finish up the dumping before we go into PTC.
+012:05:24 Henize: Roger.
+Very long comm break.
+To the left of the LEB (Lower Equipment Bay) is the LHEB (left-hand Equipment Bay), where panel 350 contains two square receptacles, labelled A and B. These receptacles share common inlet and outlet manifolds to the rest of the ECS (Environmental Control System) Pressure Suit Circuit and each contains a neatly fitting filter canister. When the pressure suits are not being used, a valve allows cabin air to enter the circuit where it will be cleansed of particles, cooled, dried and scrubbed of exhaled carbon dioxide (CO2) and odours. The filter canisters contain granules of lithium hydroxide (chemical formula - LiOH) to absorb CO2, and activated charcoal to remove odours. The canisters are changed, one at a time, at roughly twelve hour intervals so that each canister is in situ for around 24 hours. Twenty four canisters are carried in all, two installed for launch and the others stowed in various compartments around the CM cabin. The Flight Plan advises the crew on changes and where to store exhausted canisters. About now, canister 1 is being replaced by number 3, with 1 going into stowage compartment B5.
+The Lunar Module also carries LiOH canisters, two installed for launch and replacements kept within the MESA (Modular Experiment Stowage Assembly), a section of the LM Descent Stage which is accessed during the lunar EVAs (Extra Vehicular Activity). The Apollo 13 emergency highlighted the incompatibility between the square canisters used in the CM, and the round ones used in the LM. It also demonstrated that having the LM's spare canisters outside the cabin was unfortunate. As was well illustrated in the movie, Apollo 13, the crew of this extraordinary mission had to build a rig out of available items in the cabin to allow the CM canisters to work in the LM's air circuit.
+It is interesting to note that although the two canisters in the Command Module are identical, the two in the LM are incompatible with each other. Of the two, only the cartridge in the "primary" circuit is used, with the "secondary" only for emergencies. The secondary LiOH cartridge is actually interchangeable with the PLSS LiOH canister, allowing 12-14 hours of purification capacity while the PLSS's are onboard.
+Scott, from 1998 correspondence: "Maybe this implication becomes the same as in the movie Apollo 13 - whereby it appears to be some form of mistake or oversight. Not so! As with all of Apollo (and to continuously emphasize this point), everything was very carefully planned and very precise in its objective. In this case, as you point out, the secondary cartridge will fit in the PLSS; and the LM was designed for only one primary cartridge - two people, smaller cabin, shorter life, etc., etc. Pretty clever to have the LM secondary and PLSS cartridges interchangeable!"
+This is Apollo Control at 12 hours, 6 minutes. The spacecraft rate of revolution that we've set up for this Passive Thermal Control throughout the rest period is 3 tenths of a degree per second. This will provide thermal balance for the spacecraft and its systems during the rest period. Apollo 15 now 57,742 nautical miles [106,938 km] from Earth, travelling at a velocity of 7,745 feet per second [2,361 m/s].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+012:18:39 Henize: 15, this is Houston. In connection with the respiration sensor problem, we'd like for you to - go through a special procedure for us before you - you doff your biomed harnesses.
+012:18:59 Scott: Okay. Stand by one, Karl. [Long pause.]
+012:19:25 Scott: Okay, Houston; ready to copy special procedure.
+012:19:29 Henize: I'm sorry. I didn't - I don't think it needs copying, but we'd like all three of you - when you go into the doffing phase here, we'd like all three of you to pull off the impedance pneumograms. Those are the two respiration sensors back on your kidneys there. Pull them off, and let any - let any trapped air get out, and then reseal them and give us a couple minutes of read-out down here to see if that improves the situation.
+012:20:01 Scott: Roger. We'll do that. [Long pause.]
+012:20:31 Henize: 15, this is Houston. We can terminate the battery Bravo charging.
+012:20:38 Scott: Roger.
+Long comm break.
+Battery B began charging at about 4:36. Mission Control have been monitoring its progress via telemetry, and are now satisfied that it is fully charged.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+012:29:14 Worden: Houston, this is 15. We've terminated the charge on battery B.
+012:29:21 Henize: Roger, 15. We copy.
+Very long comm break.
+The PTC mode was intended to be started about now but the crew has got behind the Flight Plan, probably because of the SPS Thrust light problem.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 12 hours, 40 minutes. Apollo 15 has just passed the 60,000 [nautical] mile [111,120 km] mark outbound to the Moon. Distance now 60,188 nautical miles [111,468 km]. Velocity; 7,555 feet per second [2,303 m/s].
+Flight Plan page 3-21.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+013:03:09 Worden: Houston, 15.
+013:03:13 Henize: 15, This is Houston.
+013:03:17 Worden: Okay, Karlos. Looks like we're getting organized, and we'll go ahead with the PTC now. Do you have any preference on which [RCS] jets to use?
+013:03:25 Henize: Roger. We'd like to use the B/D jets.
+013:03:31 Worden: Understand. B/Ds. I guess that would be B-2, D-2, huh?
+013:03:35 Henize: Say again, Al.
+013:03:39 Worden: Guess that means you want us to use B-2 and D-2, huh?
+The four quad clusters, which form the Service Module's RCS system, are labelled A to D with quad A being situated on the SM wall directly below the main hatch of the CM. Each carries four thrusters, or jets, apiece. The number 1 or 2 thruster on each quad can be used to start a clockwise or counterclockwise roll rotation around the spacecraft X-axis respectively. Firing those thrusters on either side of the SM that are pointing in opposite directions gives a balanced couple which will produce only rotation. Firing single thrusters would also cause unwanted translation motions. Jets on all four clusters could be used to produce a higher acceleration but two will suffice and will allow finer control for the very slow roll of 0.35° per second required to put the spacecraft in PTC mode.
+The RCS jets on the SM are 445 Newton (100 pound) rocket motors powered by the hypergolic combustion of MMH (monomethyl hydrazine) fuel and N2O4 (nitrogen tetroxide) oxidizer. The term 'hypergolic' indicates combustion which is self-igniting purely through the propellants coming into contact with one other. The propellant tanks for the RCS are pressurised by feeding helium between the hard tank wall and a flexible bladder which contains the propellant. This positive expulsion technique provides the pressure in weightlessness to feed fuel and oxidiser to the engines, via solenoid control valves, and ensures (in principle) that no ullage gases can reach the combustion chamber.
+013:03:43 Henize: That's affirmative. And we'd like you to - to hold the spin-up until we - Okay; we're able to give you a Go for spin-up now.
+013:03:55 Worden: Okay; understand the rates are favorable for a spin-up DAP.
+When the spacecraft's control system is being used to hold a particular attitude, there is a small range of attitude error around the ideal which is deemed acceptable and within which the thrusters do not fire. This error band is called the deadband and is usually set to be either ±5 degrees or ±0.5 degrees, depending on how accurately the spacecraft needs to be pointed. A narrower deadband will use more RCS fuel, as the thrusters will tend to fire more often when the spacecraft drifts through the small range. The required attitude is maintained by a series of algorithms in the spacecraft's computer called the DAP (Digital AutoPilot).
+The PTC mode is controlled either by the G&N (Guidance and Navigation system) or by the SCS, with the former being used in this case. The spacecraft was maneuvered to the PTC attitude at 11:46 using Verb 49, a routine which moves the spacecraft to a desired attitude. With the FDAI set to its maximum sensitivity and with a 0.5° deadband, the motion rates of the spacecraft are monitored until they settle down.
+This process is aided by using only uncoupled firings of the RCS jets. In the normal course of things, opposing pairs of thrusters are used for rotational manoeuvres because any translational impulse is cancelled out. These are so-called 'coupled' firings. However, that means that two 100-pound thrusters applying torque to the rotation. For finer control on some occasions, they use single thrusters (uncoupled mode) and accept the effect this will have on the trajectory. The easiest way to achieve this was to inhibit two of the quads. This means two adjacent quads are disabled so that the opposing quads (which are also adjacent to each other) can do the work uncoupled. This way, only half the impulse is applied giving finer control of the spacecraft's attitude. After the spacecraft's attitude motions have been damped, with only two opposing roll thrusters enabled, a roll rate of 0.35° per second and an attitude deadband of 0.5° is entered into P20 (option 2) along with a time at which the maneuver is to commence. Program 20 in the CMC (Command Module Computer) sets up a desired rate of rotation; this program is also used to set up "orb rate" rotation (where the rate of rotation matches the orbital period, thereby keeping one side of the spacecraft facing the surface) when the spacecraft is in orbit around the Moon.
+013:03:59 Henize: That's affirmative.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+013:08:19 Worden: Okay, Karl, this is Apollo 15. If the rates still look good down there, we're ready to go to PTC.
+Mission Control is also monitoring the settling of the motion rates as Al waits to start the PTC roll.
+013:08:28 Henize: That's affirmative, Al. Go ahead and spin her up. [Pause.]
+013:08:35 Worden: Okay. [Long pause.]
+013:08:57 Henize: We'd like to select Omni Bravo now. [Pause.]
+013:09:05 Worden: Rog, Houston. Omni Bravo.
+Very long comm break.
+Changing the selected omni-directional antenna from C to B will restore Mission Control's capability to switch between antennas B and D. Since these are on opposite sides of the spacecraft, Houston will be able to maintain communications as the spacecraft rolls slowly around.
+The crew is scheduled to take some exercise as part of a flight-long program to keep them fit in the lazy, weightless world of the Command Module. However, the late initialisation of the PTC mode has delayed this, if not completely cancelled it.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 13 hours, 14 minutes. Apollo 15 [is] now 62,606 nautical miles [115,946 km] from Earth. Velocity; 7,377 feet per second [2,249 m/s].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+013:25:40 Henize: 15, this is Houston. How's the view up there?
+Already, Earth has receded to appear as a ball only 6° across from the crew's point of view. For comparison, the span of your hand on your outstretched arm subtends about 20° to your eye and the Moon, seen from Earth, is a disc about ½° across.
+013:25:47 Worden: Houston, 15. It is fantastic, Karl. You ought to be here, man.
+013:25:55 Henize: I'm eating my heart out. [Long pause.]
+Karl Henize waited a further 14 years and three days before entering space on 29th July, 1985. Karl's single space flight was as a Mission Specialist on board Space Shuttle Challenger for its eighth mission, known at the time as STS-26, also known as 51F, but now, in the aftermath of the subsequent Challenger tragedy, redesignated STS-19, the 19th flight of the Space Shuttle. Note that the STS-26 designation was reused for the first Space Shuttle flight after Challenger was destroyed.
+013:26:07 Scott: Karl, I think you said that just to be mean. [Long pause.]
+013:26:23 Henize: And how does 13 hours of continuous zero-g feel? [Pause.]
+013:26:33 Scott: Well, I think everybody is pretty well adjusted, Karl; no problems at all, and we've finished dinner and we're happy. [Pause.]
+013:26:44 Henize: Very good.
+Very long comm break.
+The crew have had their dinner much earlier than their scheduled 14:00 to 15:00 GET eat period. Their rest period is scheduled for 15:00 to 25:00 GET.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+013:37:48 Henize: 15, this is Houston. On your PTC, when it started out, it looked okay; but we find that it's diverging now, and we're going to have to reinitialize it. We suggest this time around that we use a - a rate of .375 [degrees per second] in Noun 79, that might help.
+013:38:11 Scott: Okay; .375 in Noun 79.
+Very long comm break.
+It seems the spacecraft was not sufficiently stabilised in the pitch and yaw axes when the PTC roll was started. Thus, instead of achieving a clean roll, the motion displays a wobble.
+This is Apollo Control at 13 hours, 39 minutes. We've asked the crew to try again on Passive Thermal Control. [We] did not achieve the 3/10ths of a degree per second that we were looking for after the PTC stabilized. We've asked them to spin it up a little faster to begin this time. That should achieve the rate we're looking for after they stabilize.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+013:51:54 Worden: Houston, 15.
+013:51:57 Henize: 15, this is Houston.
+013:52:01 Worden: Roger, Karl. When the rates look like they're down again, we'll try PTC again.
+013:52:06 Henize: Roger. We'd like to have you verify that all the vents are secured before we spin it up again.
+Mission Control are thinking of possible causes of the wobble. Two strong possibilities are that the damping of the pitch and yaw axes was not complete when PTC was initialised; or that one of the spacecraft vents was in operation at the time, imparting a small thrust in an unwanted direction.
+013:52:18 Scott: In work. [Pause.]
+013:52:28 Henize: And, 15, in this damping process, we'd like to make sure that all of the jets on two adjacent quads are disabled.
+Prior to this second attempt to start the PTC mode, Mission Control want to make sure that the damping of the spacecraft's attitude rates is completed as accurately as possible and are checking that, with two adjacent quads disabled, the control system will be able to fire just one thruster at a time to very gently stabilise its motion.
+013:52:38 Worden: Roger [garble]. [Long pause.]
+013:53:19 Henize: And, 15, as a part of trying to figure out what went wrong with that first PTC, we'd like to know whether or not you went into any [gymnastic] exercise period after - after we spun it up.
+013:53:33 Worden: That is negative, Karl.
+Evidently, exercise is the last thing on their mind. It is possible that physical activity in the spacecraft could have slightly altered its attitude if, for example, a crewmember were to push against part of the structure to spin himself up. In the pure Newtonian regime of space, an action gives an equal and opposite reaction. The light astronaut would spin at a relatively fast speed; the heavy spacecraft would have a very slow motion rate imparted to it. If the spacecraft were itself spinning, a push could induce coning to the rotation.
+013:53:36 Henize: Roger. [Long pause.]
+013:53:49 Scott: And, Houston, the LMP and CDR have recycled their impedance pneumograms. You can give us a word if you see - if you see any improvement in data. [Long pause.]
+013:54:30 Henize: Dave, we missed that last transmission. Could you say again?
+013:54:35 Scott: Rog. The LMP and CDR have recycled the impedance pneumogram, and we just wondered if you'd seen any improvement in the data [coming from it].
+013:54:45 Henize: Okay; he[SURGEON]'s looking at it now, and he says, yes, it has improved. [Long pause.]
+At the far left of the second row in Mission Control, sat SURGEON, the flight control position filled by a physician who watched telemetry from the biomedical sensors attached to the astronauts. By this, and other means, he monitored the health and well-being of the crew.
+Apollo 15's Surgeons were John Zieglschmid on the current Maroon shift, W.D. Hawkins on the Gold team and M.K. Baird on the White team.
+This is Apollo Control at 13 hours, 55 minutes. Apollo 15's distance [is] now 65,120 nautical miles [120,602 km]. Velocity; 7,118 feet per second [2,170 m/s].
+013:55:45 Henize: 15, the Surgeon says it's okay for the CDR and the CMP to doff their biomed harnesses now. Thank you.
+013:55:54 Scott: Okay. Did that - did that recycling [of the biomedical sensors] do any good?
+013:55:58 Henize: Roger. The recycling cleared up the respiration data we have down here very nicely.
+013:56:07 Scott: Okay, good.
+Long comm break.
+Flight Plan page 3-22.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+014:00:20 Henize: 15, this is Houston. Everything down here looks good for the [PTC] spin-up.
+014:00:28 Worden: Okay, Karl. We'll spin 'em up then.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+014:03:39 Henize: 15, this is Houston. I'm sorry to tell you that that spin-up didn't work very well. We're going to have to reinitialize again. [Long pause.]
+014:04:03 Worden: Okay, Houston. We'll try it again.
+014:04:06 Henize: And, Al, the - Stand by.
+014:04:12 Worden: Rog, Karl. Hey, Houston, 15,
+014:04:19 Henize: Go ahead.
+014:04:21 Worden: Yeah, Karl, I think if there was a problem that time, it was because I hesitated just momentarily, thinking I had it Free, and I ended up in Hold.
+Al is referring to the CMC Mode switch. This switch has three settings:
+Auto: The computer controls the attitude of the spacecraft completely, without input from the crewmembers.
+Hold: (Also called Attitude Hold and which is the centre position of the switch) The computer maintains whatever attitude the spacecraft is in, as previously set by the computer (when in Auto mode) or manually by the astronaut.
+Free: No computer control - completely manual.
+The problem was that while Al was maneuvering the spacecraft into its roll, he momentarily placed the switch in Hold, as he went from Auto to Free. This was sufficient for the computer to begin firing unintended thrusters, as it tried to maintain a half degree deadband, and the thrust induced a wobble into the rotation. Right now, they are probably in a minimum impulse mode (for fine maneuverings) so that the spacecraft can be stabilised prior to their next attempt at beginning the PTC roll.
+014:04:29 Henize: Ah ha, thanks; thanks for the information.
+014:04:34 Worden: Okay. [Long pause.]
+014:05:20 Henize: And, 15, we think that your jet configurations were all okay that time around, but we'd like to confirm that, during damping, you disable all jets on two adjacent quads, and then for the spin-up, you use only B-2 and D-2.
+014:05:38 Worden: That's affirm, Houston; that's affirm.
+Long comm break.
+For the third time, the spacecraft's movements must be allowed to stabilise, before the PTC spin is restarted.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+014:15:34 Henize: 15, this is Houston. Everything down here looks Go for the spinup.
+014:15:42 Worden: Okay, Karl. We'll try it once more.
+Comm break.
+014:17:14 Henize: 15, that looked like a very good start.
+014:17:19 Worden: Okay, Karl.
+Long comm break.
+From the 1971 Mission Report: "Passive Thermal Control was employed to insure uniform surface heating as on previous flights. Because a new computer program was used to establish the spin rate, new procedures were developed for the initiation of Passive Thermal Control. On the first two attempts, the pitch and yaw rates were not satisfactorily damped before starting the spin-up. However, passive thermal control was satisfactorily established on the third and all subsequent attempts."
+The Mission Report simplifies the cause of the second PTC failure. Al had a better handle on the problem, as he explained during post mission debriefings.
+Worden, from the 1971 Technical debrief: "We had arrived at [a new] PTC procedure preflight, which was different, than the PTC procedures that had been used before because of the new universal tracking program [P20]. We didn't have the same kind of Orb Rate DAP that we had before. To make the thing work right, we had to load 0.35 deg/sec in the rates and a half degree deadband into that, so that the thing would spin up when you first turned the DAP on. We got the [correct] attitude and used two adjacent quads to get the attitude to damp the rates. I'm trying to think now why. We eventually ended up getting the PTC going on the third try. On the first one the rates hadn't damped properly, I guess. When we got the PTC going, it wandered off. And on the second one, because of the half-degree deadband in the DAP, as soon as you get the first firing to spin the spacecraft up in PTC, you have to take the [CMC] mode switch and go to Free so that you don't get another firing from the DAP, which could give you some cross-coupling. As I recall, I hesitated, I didn't go from Auto to Free in one motion. I hesitated in Hold just a second. That split second was just enough time for the thing to fire the jet, and it somehow got the roll rate screwed up because we drifted off attitude again. But I could definitely hear the jets firing when I went to Hold. The third time, we finally got the thing started. We did everything just as per the checklist. The third try worked beautifully, and I guess it was one of the best PTCs we've seen. It worked just as advertised. And I don't think we ever had any trouble with PTC after that either. So it was just a question of getting that new procedure straightened out. The half-degree deadband was the big thing. We used to load 30-degree deadband in there and when you first proceed on the DAP you get a forced firing, which gives 80 percent of the rate that you loaded in. With the universal tracking now, that's all been changed and it doesn't work that way. So we had to go to the half-degree dead-band. And it's just a question of getting used to that program, that's all."
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+014:25:41 Henize: Fif - 15, this is Houston. [No answer.]
+014:25:56 Henize: 15, this is Houston.
+014:26:00 Scott: Houston, 15. Go.
+014:26:02 Henize: It looks like we've got it pretty well wrapped up for your rest period. We've got three or four small items to remind you here. Crew status report is outstanding; onboard readouts, we'd like; and whenever your ready, we're ready for an E-memory dump.
+014:26:24 Scott: Okay. We're about that point of the checklist, and we'll give you the whole page at one time. Stand by one.
+014:26:30 Henize: Okay.
+Long comm break.
+On either side of the crew's rest period, there is a presleep and a postsleep checklist to be followed. With the planned rest period due to commence at 15:00 GET, Mission Control are looking to get the day's final activities out of the way. In the presleep checklist, a crew status report requires a statement on the general health and well being of the crew and whether they are taking any medication; a readout of gauges for some critical systems is needed as a check of the values being telemetered to Earth; the cryogenic hydrogen tanks are stirred by internal fans to homogenise their density; the potable water tank is chlorinated to ensure there is no bacterial growth within it; the positions of nearly a dozen valves and switches are checked; the computer's memory is read to Earth and the communication system is configured for the night.
+Until the time of the Apollo 13 abort, the stirring of the spacecraft's cryogenic storage tanks was just another of the many, almost unnoticed procedures carried out by flight crews. Seymour ("Sy") Liebergot was at the EECOM console post when Apollo 13 struck disaster. (EECOM is Electrical, Environmental and Communications officer, though the comms part had long passed to another console.)
+Sy Liebergot, from 1998 correspondence: "Each tank was essentially mechanically and electrically identical except for size and sensor calibrations: a 'tube within a tube' quantity capacitance probe spanned the full diameter of the tank; next to this was another tube around which was wound a heating element for tank pressurizing and a small fan/motor at each end. The cryogen, when in the tank, has been described as a very 'dense fog' rather than a liquid; in zero G it tended to separate into layers of different densities around the quantity gaging system's capacitive probe creating a false quantity reading. The two small fans were used to periodically (once/day) stir up the cryogen (H2 or O2) to make it homogenous and allow the capacitive probe to produce an accurate signal/reading. As the tank emptied, the overall density changed which was reflected as a change in capacitance which was calibrated to an analog quantity reading and displayed to the crew."
+On Apollo 13, the stirring of O2 tank 2 is thought to have disturbed wiring within the tank which had been bared by inadvertent, excessive heating before the flight. The result was believed to have been fierce burning within the tank which led to its subsequent explosion and near loss of the crew.
+The Apollo 15 Press Kit states that changes to the CSM, in the light of the Apollo 13 abort, include "the removal of destratification fans in the cryogenic oxygen tanks", though other evidence, including the appropriate switches shown in diagrams of the Main Display Console and the wording of the checklists seem to betray the fact that the O2 tanks did indeed have the fans installed.
+Sy Liebergot, from 1998 correspondence: "Post Apollo 13, H2 and O2 tank 'stirs' were eliminated as a crew procedure. However, in checking the electrical schematics in the Apollo 14 Systems Handbook, they do show that the fans and associated wiring/switches/circuit breakers were still there. However, I don't believe the cryos were ever 'stirred' again after Apollo 13.
+Dave's report in a couple of minutes shows that only the hydrogen tanks were stirred.
+This is Apollo Control at 14 hours, 28 minutes. As the Apollo 15 crew prepares to wind up a long day, the spacecraft is 67,080 nautical miles [124,232 km] from Earth. Velocity; 6,992 feet per second [2,131 m/s].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+014:32:44 Scott: Okay, Houston, 15. We're ready for the E-memory dump for you, if you're ready.
+014:32:53 Henize: Okay, 15. We're ready to go with it.
+014:32:58 Scott: Okay, here it comes. [Long pause.]
+The E (Erasable)-memory dump is the exact opposite of the computer update. Put the computer in POO and let the ground dump the memory to Earth. Although Mission Control can see the DSKY displays, they can't casually read the 2048 words of erasable memory that are in the computer. Dumping the contents of the computer's erasable memory is the only way of completely understanding its internal state. Since there aren't any changes occurring, the Accept/Block switch does not have to be placed in Accept.
+014:33:52 Scott: And, Houston, 15. We've got the rest of the presleep checklist if you're ready to copy. [Pause.]
+014:34:07 Henize: Roger, 15. We're ready to copy.
+014:34:12 Scott: Okay. Crew status report: everybody's in good shape; no medication today. Onboard readouts: Bat[tery] C, 37.0 [volts], Pyro Bat A, 37.2; Pyro Bat B, 37.2; RCS [tank] A, 94 [percent]; B ,92; C, 94; D, 94. And the water has been chlorinated; the H2 fans have been cycled; the valves are all verified; got your E-memory dump [done]. The cabin is at 5.7 [psi]. Direct O2 [valve] is closed, and I guess we're ready to go to sleep communications configurations. [Long pause.]
+Note that there is no mention of the O2 fans though it is believed they were installed.
+The presleep checklist includes a line which calls for the Direct O2 valve to be opened until the cabin pressure has reached 5.7 psi, at which point it should be closed.
+014:35:23 Henize: Roger, 15. We copy all of that, and the Surgeon has a question about - was - were there any obvious anomalies in the biomed harness?
+014:35:34 Scott: No, as a matter fact, we were just discussing that. Al and I both have taken them off, and the sponges are all still quite damp and have their color and they're all sticking very well. I think the system looks real good.
+014:35:47 Henize: Very good. Thank you.
+014:35:51 Scott: Rog. [Long pause.]
+014:36:03 Henize: 15, this is Houston. I guess we're ready to go to the presleep comm configuration.
+014:36:12 Scott: Roger.
+Two notable items in the presleep comm configuration are the selection of the omni-directional antenna and the pointing of the HGA. By selecting Omni B, the crew are allowing Mission Control to switch between that antenna and antenna D. Nearly constant coverage is maintained during the PTC roll as these antennae are on opposite sides of the CM.
+The High Gain Antenna is also brought online for the rest period. Despite the spacecraft's rotation, it must be operated in a mode whereby it keeps contact with Earth as much as possible without intervention from the crew. This is achieved by operating it in the "Reacquire" mode where the antenna will track Earth regardless of changes in the spacecraft's attitude. However, when it reaches the limits of its articulation, it will position itself to the angles set on dials in the cabin, awaiting a moment when Earth reappears in its line of sight. As the attitude and movement of the spacecraft is well defined during PTC, a pair of angles are given in the CSM Systems Checklist which have been pre-calculated to bring Earth into its line of sight each time the rotation of the spacecraft brings the HGA around. Angles are given to cover left and right roll.
+014:36:14 Henize: Good night.
+014:36:17 Scott: Okay; good night.
+014:36:21 Henize: Incidentally, 15, your PTC's looking very good.
+014:36:26 Scott: Oh, that's good. [Long pause.]
+014:36:46 Scott: By the way, Karl, it's about time for you to get some sleep too, isn't it?
+014:36:50 Henize: Rog. It's been a long day for all of us.
+014:36:53 Scott: Yeah, I think you're a couple - three hours ahead of us.
+014:36:57 Henize: Not that much.
+Comm break.
+This is Apollo Control at 14 hours, 38 minutes. We've said good night to the crew after a long day. We'll stay up live for a little while yet in case there are any postscripts to the air/ground. You heard Dave Scott, the Apollo 15 Commander, report the crew was in good shape. They've taken no medication. He gave an onboard read-out of the battery and the Reaction Control System status. Passive Thermal Control appears to be working very well now after three tries to get it established.
+014:39:54 Scott: Houston, 15. One more thing here. We note on page 1-24 of the Systems book in the comm sleep configuration, you've got the S-band Norm Voice [correcting himself] Norm Mode Voice, Off. Is that correct?
+014:40:14 Henize: 15, this is Houston. The noise was very bad then; are you reading me?
+014:40:21 Scott: Okay, I'm reading you 5 by. Just had a question to verify the sleep configuration of the S-band. Is Mode Voice to Off?
+014:40:32 Henize: That's affirmative.
+014:40:33 Scott: That gives [garble] to Down Voice [Back-up].
+014:40:35 Henize: That's affirmative.
+014:40:36 Scott: Okay.
+014:40:37 Henize: That gives us a little cleaner TM [telemetry].
+014:40:41 Scott: Roger.
+Very long comm break.
+This is Apollo Control at 14 hours, 40 minutes, and the crew has just turned the Voice Off. The light has gone out on the INCO's [Instrumentation and Communications Officer] console indicating the crew has thrown the switch.
+We'll take this line down now. If there is any further conversation we'll come back up. At 14 hours, 41 minutes into the flight of Apollo 15, this is Mission Control, Houston.
+Transposition, Docking and Extraction
+Journal Home Page
+Day 2, part 1: Checking the SPS

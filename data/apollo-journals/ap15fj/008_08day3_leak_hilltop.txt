@@ -1,0 +1,816 @@
+A15FJ - Day 3, part 2: Leaking Water and the Top of the Hill
+Day 3, part 1: Flashing Lights
+Journal Home Page
+Day 4, part 1: Lunar Encounter
+Apollo 15
+Day 3, part 2: Leaking Water and the Top of the Hill
+Corrected Transcript and Commentary Copyright © 1998-2026 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2026-01-30
+Index to events
+SIM Bay camera cycling
+055:39:42 GET
+UV photography of Earth
+055:48:22 GET
+Revised P40 procedures
+058:58:09 GET
+Scott reports chlorination port leak
+061:12:44 GET
+The CapCom position has been handed over from Joe Allen to Karl Henize.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+055:20:09 Scott: Houston. Apol... [Long pause.]
+055:20:23 Henize: 15, this is Houston.
+055:20:30 Scott: Yes, Houston. Go ahead.
+055:20:34 Henize: I was informed that you called. Did you call?
+055:20:35 Scott: Roger. We were wondering if you've got the High Gain angles for us...
+Sector 1 of the Service Module is occupied by a large package of scientific instruments and cameras, known as the SIM bay (Scientific Instrument Module). Dave is about to cycle the films in the Mapping and Panoramic Cameras mounted in the SIM bay to prevent them becoming set in their current position around the idlers and guides of the camera systems. This operation is set out in page 3-054 of the Flight Plan and was deferred from 54:00. As part of this operation, Houston is supposed to give the crew a set of angles for the HGA (High Gain Antenna) so that Mission Control can monitor the cameras during the cycling.
+055:20:38 Henize: Stand by.
+055:20:39 Scott: Yeah, we called you. [Long pause.]
+055:21:11 Scott: Houston, Apollo 15. [Pause.]
+055:21:18 Henize: 15, go ahead.
+055:21:23 Scott: Okay. We are ready to cycle the cameras, now, if you've got some High Gain [Antenna] angles for us.
+055:21:28 Henize: Stand by on the High Gain angles. [Long pause.]
+055:21:47 Henize: Roger, 15. Your High Gain angles are Pitch, minus 75; Yaw, plus 36.
+055:21:59 Scott: Okay; understand. Pitch, minus 75; and yaw, plus 346 [sic].
+055:22:06 Henize: Plus 36. Affirmative. [Long pause.]
+055:22:19 Scott: Okay; tell you what, Houston, we'll go back to 50 degrees roll and pick up the UV for you. Do it there. [Long pause.]
+Dave is carrying out the changes read up at 049:34:51, which were to stop the PTC roll at 50° in preparation for the second set of cislunar UV photographs of Earth. They will then use that attitude and the HGA angles associated with it for the camera cycling. Also, Al has performed a realignment of the Command Module's inertial measuring platform, using P52 on the computer.
+055:22:49 Henize: 15, this is Houston...
+055:22:50 Scott: And, Houston, 15. Did you copy the P52?
+055:22:54 Henize: Roger. We got your torquing angles. Thank you. And they say down here that you don't need to roll at the present time. We'd just as soon save the propellant.
+055:23:06 Scott: Well, we'll pick it up at the 50-degree mark, when we come around.
+055:23:11 Henize: Okay; that'll be fine.
+Comm break.
+It would use more RCS propellant to stop the PTC rotation at its present angle and then move the spacecraft to 50° roll, than it would to wait until the rotation takes the spacecraft to 50° and then stop the PTC.
+This is Apollo Control. Maroon team Flight Director Milt Windler now taking over from Gerry Griffin. Going around the room talking to the various console positions. Being brought up to speed on what the next 8 hours' activities will be. Meanwhile, Apollo 15 is now 175,450 nautical miles [324,933 kilometres] from Earth. Velocity [is] now 3,227 feet per second [984 m/s] relative to Earth. Before too long the displays here in the Control Center should go to Moon reference data. They'll have a crossing into the lunar sphere of influence at about 63 hours, 52 minutes. This is an arbitrary figure, because it's not really a line out in space that can be felt or seen. Still up live on air/ground at 55 hours, 25 minutes; this is Apollo Control.
+055:25:00 Irwin: Okay, Houston. We've got you on the High Gain [Antenna] now, and we'll check our circuit breakers, be ready to cycle the cameras when you're ready
+055:25:10 Henize: We copy, 15.
+Comm break.
+The HGA is aimed at Earth and giving a high data transmission rate. Sector 1 of the SIM bay is powered up and once Mission Control are ready to watch the telemetry, the film in the two SIM bay cameras will be cycled.
+055:26:47 Scott: Okay, Houston; 15. If you've got telemetry, we'll cycle the film on your cue. [Pause.]
+055:26:56 Henize: Roger. Stand by, 15.
+055:27:01 Scott: Rog. [Long pause.]
+055:27:24 Henize: 15, this is Houston. Before we cycle the cameras, we need to stop [the] PTC [mode]. You can either do that immediately - or else go through the - go through the 50-degree roll and use the angle[s] that are in your Flight Plan. That's your choice.
+055:27:43 Scott: Oh, we'll just press on to 50 degrees, and stop there. We thought you could pick it up on the way around.
+055:27:49 Henize: That'll be fine. Thank you.
+Comm break.
+055:29:12 Scott: Houston, Apollo 15.
+055:29:14 Henize: 15, this is Houston. Go ahead.
+055:29:18 Scott: Okay. I'm taking a look at our attitude for the UV photos. We see we need a roll of 153 [degrees], and your update today gave us a roll of 050 degrees. And, it seems like we probably ought to stop the roll at 153, and just skip that 050 degree attitude so we can save the maneuver.
+The checklist for the UV photos procedure is on page 3-57 of the Flight Plan. The attitude for the photos is given in the first line, followed by an instruction to use omni antenna D, the most appropriate antenna for that attitude.
+055:29:48 Henize: 15, the High Gain won't be available to us at the angle 153. [Pause.]
+Mission Control want to use the HGA while they cycle the cameras.
+055:30:00 Scott: Okay. [Long pause.]
+055:30:15 Scott: And, Houston; 15. For future reference, I - I guess we are to understand that you cannot do the camera cycling while we're in PTC, even though you have High Gain. Is that correct? [Long pause.]
+055:30:57 Henize: Dave, there are pros and cons to that. We could do it if we finessed it just right. But since it's difficult, and we have to stop rolling anyhow, it's better to stop the roll this time.
+055:31:12 Scott: Well, that - that's true. We're just trying to save you a maneuver. We [have] got to stop the roll and then start the roll again to get back to another spot. But, we'll go that way.
+Long comm break.
+It may be that by stopping the roll of the spacecraft, the HGA can point to Earth more accurately, giving a higher signal to noise ratio and better quality telemetry on the ground with fewer dropouts.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 55 hours, 36 minutes. We're estimating the change of shift news conference in the News Center for 10 minutes from now, about 4:20 pm Central Daylight Time. Change of shift news conference approximately 4:20 pm.
+055:38:59 Scott: Okay, Houston; Apollo 15. Standing by for the Map and Pan Camera, On, on your cue. [Pause.]
+055:39:08 Henize: Roger, 15. We have a good High Gain lock on, and we're Go for the cycling of the cameras. [Long pause.]
+055:39:30 Scott: Houston, Apollo 15.
+055:39:33 Henize: 15, this is Houston.
+055:39:37 Scott: Roger, Houston. We're standing by for your cue to cycle the Map and Pan Cameras.
+Evidently, Dave missed Mission Control's first cue.
+055:39:42 Henize: Roger. We are ready to cycle the Man and Pan - the - the pan and mapping cameras. Go ahead.
+055:39:52 Scott: Okay. The Man and Pap [sic] cameras are coming up now.
+Long comm break.
+Perhaps Dave is indulging in a little spoonerism here when he says 'man and pap' instead of 'map and pan'.
+055:40:01 SC (onboard): (Laughter)
+055:40:03 Scott (onboard): Okay, Jim. How do you cycle those?
+055:40:05 SC (onboard): (Laughter)
+055:40:06 Scott (onboard): Okay. Map Camera on to On for 2 minutes and then Off, and I'll set the camera.
+055:40:10 Irwin (onboard): Okay. we're going to On...
+055:40:11 Scott (onboard): Okay.
+055:40:12 Irwin (onboard): Mark.
+055:40:13 Scott (onboard): The clock is running. Pan Camera Self Test to on (up). Talkback barber pole, to five frames, and then gray.
+055:40:21 Irwin (onboard): Okay, Self Test.
+055:40:24 Scott (onboard): And then five. Then you do five frames.
+055:40:26 Irwin (onboard): Okay.
+055:40:27 Worden (onboard): ... he doesn't. I think you - you'll - you'll see at 5 - about 5 seconds - and then gray.
+055:40:34 Scott (onboard): Okay. Is it gray?
+055:40:36 Irwin (onboard): Not yet.
+055:40:53 Scott (onboard): Still not gray?
+055:40:55 Irwin (onboard): No.
+055:41:00 Scott (onboard): It is barber pole?
+055:41:01 Irwin (onboard): Yes, it's barber pole.
+055:41:02 Scott (onboard): Did it go barber pole when you put it - put it on?
+055:41:04 Irwin (onboard): Yes.
+055:41:05 Worden (onboard): ...
+055:41:07 Scott (onboard): Oh, I see, Al. It does five frames automatically, and then it automatically goes gray.
+055:41:09 Worden (onboard): Yes.
+055:41:10 Irwin (onboard): Okay. It's gray.
+055:41:12 Scott (onboard): Good. Pan Camera Self Test to Heaters.
+055:41:15 Worden (onboard): We still don't know whether it - what - anything about the craters.
+055:41:18 Irwin (onboard): Okay, Pan Camera Self Test going to Heaters.
+055:41:20 Scott (onboard): Pan Camera Power to Off.
+055:41:22 Irwin (onboard): Pan Camera Power, Off.
+055:41:25 Scott (onboard): Okay. After mapping camera - Oh, wait a minute. Stand by for the bell.
+055:41:30 Irwin (onboard): Okay.
+055:41:32 Scott (onboard): And when the bell rings, you want to go Mapping Camera to Off.
+055:41:36 Irwin (onboard): Okay.
+055:41:45 Scott (onboard): Oh, boy.
+055:41:55 Irwin (onboard): Too bad they didn't put this panel over on Al's side.
+055:41:59 Scott (onboard): I think it'd been a lot easier for him during the flight - or during the...
+055:42:01 Irwin (onboard): Yes.
+055:42:02 Scott (onboard): ...solo time, too.
+055:42:03 Irwin (onboard): Yes. Yes, it would have, too.
+055:42:06 Scott (onboard): Probably didn't have the wiring.
+055:42:08 Irwin (onboard): Didn't have any room for it ...
+055:42:10 Scott (onboard): Well, they probably - the wire ... probably were all built for this, you know.
+055:42:16 Scott (onboard): Yup, yup. There you go.
+055:42:17 Irwin (onboard): Okay, Mapping Camera going Off.
+055:42:19 Scott (onboard): Map Camera, Off. Okay, and then for 1 minute, we time the Mapping Camera, Off. And after it's been Off for 1 minute, Map Camera goes - the Map Camera, On, goes to Standby, and we should get a gray talkback. And the clock is running.
+055:42:43 Scott (onboard): You have another 49 maneuver, or you want to recoup -
+055:42:46 Worden (onboard): ... that other ... 49 maneuver ... again.
+055:42:48 Scott (onboard): Oh, oh, it says - Well, you get the idea that the - Let's see - it says secure the high gain antenna.
+055:42:56 Worden (onboard): Yes.
+055:42:57 Scott (onboard): So why don't we wait?
+055:43:21 Scott (onboard): Okay, Jim. Map Camera, On, to Standby.
+055:43:24 Irwin (onboard): Verified.
+055:43:25 Scott (onboard): Talkback gray.
+055:43:26 Irwin (onboard): Verified.
+055:43:27 Scott (onboard): Okay.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+055:43:30 Scott: Houston, Apollo 15. That completes the Man and Pap Camera operation. And if you're through, we'll secure the High Gain and maneuver to the UV attitude. [Pause.]
+To secure the HGA, the arm carrying the four dish reflectors at the end is rotated aft to bring the assembly alongside the SPS engine bell.
+055:43:46 Worden (onboard): Nothing like rubbing it in. [Laughter.]
+055:43:48 Henize: Okay. You're Go to maneuver to UV photo attitude.
+053:43:56 Scott: Okay. On the way. Thank you.
+Comm break.
+055:43:57 Worden (onboard): What's the attitude there, Jim?
+055:43:59 Irwin (onboard): Uh...
+This is Apollo Control at 55 hours, 45 minutes. The change of shift news conference is ready to begin. We'll take the air/ground off the release line and tape for later replay.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+055:47:03 Henize: 15, this is Houston.
+055:47:08 Scott: Houston, 15. Go ahead.
+055:47:11 Henize: We wonder if you can give us an estimate of how long it takes between removing the Lexan shade and getting the cardboard shade back into the window, when you go into the UV experiment. We need something rough to, say, plus or minus 30 seconds.
+The Lexan shade is a visually transparent cover for the UV transmitting window 5. Lexan, a brand name for a polycarbonate resin which can be formed into shapes with good optical properties, is almost opaque to all wavelengths below 385 nanometres, around the transition from visible to ultraviolet light. The shade blocks the ultraviolet radiation that would otherwise pass through the quartz panes. Mission Control may be trying to quantify how much UV the crew are being exposed to between the removal of one shade and the emplacement of another. Excessive exposure to the high flux and wide range of UV wavelengths passed by the window can cause sunburn and eye cataracts.
+Journal Contributor David Harland: "On the Salyuts [precursors to the Russian Mir Space Station but many years after Apollo], there was a UV-transmitting window, used to sterilise the place... and the crew would spend time at it deliberately sunbathing, and it proved very satisfying when they were otherwise 'down' with head colds. So a few seconds in Apollo ain't gonna hurt!"
+055:47:32 Scott: Karl, this is 15. Looks like you just barely got started when we - when we lost the S-band. How about saying that over again, please.
+055:47:41 Henize: Roger. We'd like to have an estimate of how much time it takes between removal of the Lexan shade, and installation of the cardboard shade, when you go into the UV experiment. Something rough to, say, plus or minus 30 seconds.
+055:48:03 Scott: Karl, we've kept the cardboard in the window up to now. We've had no need to put in the Lexan, so we can't give you the number right now.
+055:48:13 Henize: Okay.
+055:48:17 Scott: But we will - the next time we change it, [we'll] keep it in mind, and we'll give you the [garble].
+055:48:22 Henize: Okay. We'd like to have an estimate on that, when you get a chance.
+Long comm break.
+During this comm break, the crew are taking the UV photographs of Earth. The checklist for this is on page 3-57 and this is the fourth time they have done it. The first was while Apollo 15 was in Earth orbit, the second was 8.5 hours later when the spacecraft was 90,000 km from Earth. The third was at about 32:45 and 240,000 km out; and this, the final set to be taken during the coast to the Moon, will be from 330,000 km. This set of images follow the pattern set by the previous batches.
+Composite of AS15-99-13433 to 13440, 8 UV photos of Earth.
+This is the full set.
+AS15-99-13433 - Ultraviolet image of Earth, taken through filter 1 - Image from National Archives
+AS15-99-13434 - Ultraviolet image of Earth, taken through filter 1 - Image from National Archives
+AS15-99-13435 - Ultraviolet image of Earth, taken through filter 2, 20 second exposure - Image from National Archives
+AS15-99-13436 - Ultraviolet image of Earth, taken through filter 2, 2 second exposure - Image from National Archives
+AS15-99-13437 - Ultraviolet image of Earth, taken through filter 3 - Image from National Archives
+AS15-99-13438 - Ultraviolet image of Earth, taken through filter 3 - Image from National Archives
+AS15-99-13439 - Ultraviolet image of Earth, taken through filter 4 - Image from National Archives
+AS15-99-13440 - Ultraviolet image of Earth, taken through filter 4 - Image from National Archives
+Afterwards, magazine M is used on the camera to take a photograph using 64 ASA Ektachrome film.
+AS15-91-12350 - Visible light image of Earth to match ultraviolet sequence - Image by NASA/Johnson Space Center.
+Irwin, from the 1971 Technical debrief: "We did a lot of UV photography on the way out. In a way, that was good because we always maneuvered to a position where we could view the Earth or the Moon at the various stages."
+Worden, from the 1971 Technical debrief: "The procedure that we established preflight to do the UV photography worked okay in flight - putting the cardboard window shade up, pulling the Lexan shield down, and all that; but it's a cumbersome procedure, and we've got to be careful about a bunch of things all at the same time. You've got to juggle the camera and the Lexan shield and the cardboard and a whole bunch of things."
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+055:57:49 Worden: Houston, 15. [No answer.]
+055:58:11 Worden: Hello, Houston; 15.
+055:58:13 Henize: 15, this is Houston.
+055:58:18 Worden: Okay, Karl. We're through with the UV photos, and the window number 5 is still clear.
+A report on the condition of window 5 was one of the final items in the UV photos checklist. The window may be clear but the delicate Lexan shield is suffering.
+Worden, from the 1971 Technical debrief: "I guess that's really my major complaint; the Lexan shield. That thing was fine the first day, maybe the first couple of days. But that Lexan is so soft and it scratches so easily that after a couple of days it was worthless as a window to take any photography out of. I sure hope that, if we do that kind of photography on the next flight, there's a better system of protecting the interior from ultraviolet than with Lexan."
+Irwin, from the 1971 Technical debrief: "The nominal mode was to leave the metal shield over the cardboard, leave the cardboard up all the time and leave the metal shield up. Then, when we wanted to take the UV photography, that didn't work very well in lunar orbit."
+Worden, from the 1971 Technical debrief: "That's right, because in SIM bay attitude, that particular window is the very one that you see almost all the targets out of. And you're sitting there with the Lexan shield in place, and you're trying to take pictures through it, and all you've got to do is touch it with a camera lens and it's scratched. I ended up using the Lexan shield as a shield, not necessarily in the window, but putting it between myself and the surface and taking pictures around it, so that I could get some decent pictures."
+055:58:25 Henize: Thank you very much for the report.
+Comm break.
+055:59:30 Henize: 15, this is Houston. You can terminate the charge - charging of battery Bravo. And, when you have a moment, we'd like to get a read-out on the LM/CM Delta-P. And, in about 20 seconds, we're going to have a handover and a loss of comm for 1 minute.
+Battery B has been charging for just over three hours. This is much shorter than the eight to nine hours that both batteries A and B required after the demands of launch, Earth orbit and Translunar Injection and it reflects the much lower demands for power during this stage of the mission.
+Communication with Earth is maintained on the ground by a network of large radio dishes scattered around the planet at roughly 120° intervals. Collectively, these installations are called the MSFN (Manned Space Flight Network). Later, in an altered form, the name was changed to the DSN (Deep Space Network) as they serviced the communications needs of the many probes which were sent around the Solar System. As Earth turns daily, there is overlapping coverage from these sites and about every eight hours, depending on the activity on the comm, the main circuit for spacecraft communication would be routed via another dish in a "handover". This is the first time in the mission that CapCom has referred to the handover.
+055:59:49 Scott: Okay, Karl. We're terminating battery B charge now.
+Long comm break.
+Flight Plan page 3-61.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+056:08:45 Henize: 15, we'd like to have Omni Charlie, please. [No answer.] [Pause.]
+056:XX:XX Henize: 15, this is Houston. We'd like to have Omni Charlie, please. [No answer.]
+056:09:27 Henize: 15, this is Houston. How do you read? [No answer.]
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+056:13:49 Henize: 15, this is Houston. [No answer.]
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 56 hours, 18 minutes. Apollo 15 now 177,110 nautical miles [328,007 km] from Earth. Velocity; 3,193 feet per second [973 m/s]. We accumulated 3 minutes, 37 seconds in tape during the news conference. We'll play that for you now.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+We're back live on air to ground now. To clarify a couple of points in the Flight Plan update read to the crew late in the last shift. The start of the CSM's Systems Checklist for the intravehicular transfer [IVT] to the Lunar Module has been moved up from 57 hours, 20 minutes to 56 hours, 50 minutes. The actual IVT to the LM by the LMP and the spacecraft Commander has been moved up from 58 hours, 10 minutes to 57 hours, 30 minutes. This will not prohibit, however, the LMP and the CDR transferring into the LM earlier if they're ready to go earlier. At 56 hours, 23 minutes; this is Mission Control, Houston.
+Tasks in the Flight Plan just now include: an oxygen purge of the fuel cells to clear out contamination due to impurities in the cryogenic supply; a dump of waste water, most of which will be excess produced by the fuel cells; raising of the CM cabin air pressure to an indicated figure of 5.7 psia (39.3 kPa absolute) by opening the Direct O2 valve on panel 7 in preparation for repressurising the LM. Panel 7 is one of the wing panels at the left and right extremes of the Main Display Console. It is to be found on the left at the Commander's launch station.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+056:25:45 Henize: 15, this is Houston. How do you read? [No answer.]
+056:25:59 Henize: 15, this is Houston. Are you reading us? [No answer.]
+056:26:23 Henize: 15, this is Houston. How do you read?
+056:26:28 Scott: Yeah; Rog, Houston. We're 5 by. Our LM/CM Delta-P is off scale high. And I wonder if you're happy with the depress of the LM, and may we get on with repressurizing it and go to our housekeeping. [Pause.]
+The pressure gauge for reading the difference in pressure between the LM and the CM, only indicates up to 4 psid (pounds per square inch differential). If the CM cabin is around 5.7 psia (an absolute pressure reading) then the LM interior is essentially a vacuum.
+Entry to the LM was originally scheduled for 058:10:00. The changes to the Flight Plan brought this forward to 057:45:00 but the crew are ready to commence immediately; more than an hour early.
+056:26:48 Henize: Roger, 15. You have a Go to proceed.
+056:26:54 Scott: Roger. Thank you. [Pause.]
+056:27:02 Henize: And, Al, can you tell us how the - the shade on window 5 - how the hole is being blocked. Do you have the Lexan over it, or do you have the camera in there? [Pause.]
+056:27:21 Scott: Okay. We have the cardboard on it and the metal shade behind that. [Pause.]
+056:27:31 Henize: We copy. Thank you.
+056:27:35 Scott: We've been keeping the metal shade on that window to try and keep the temperature in the cabin down a little bit. When the Sun's coming in the windows, it warms things up pretty well.
+056:27:44 Henize: Okay. We copy.
+Long comm break.
+As the PAO is about to confirm, the LM is being repressurised prior to the Dave and Jim reentering it. LM pressurisation is from the air in the CM. There are two ways to achieve this; slow and quick, with the slow method providing a back-up. Rotating the Tunnel Vent valve to the "LM Press" position would bleed CM air through that valve to the LM, taking about 10 hours to pressurise the tunnel and LM cabin. Normally the Tunnel Vent valve would be set to "LM/CM Delta-P" which allows the adjacent gauge to measure that value, while the Pressure Equalization valve in the centre of the CM forward hatch is opened. Having ensured that the CM cabin pressure is indicating 5.7 psia (39.3 kPa) and, as in this case, the LM/CM Delta-P is showing greater than 2.4 psid (16.5 kPa), then the LM will be repressurised in stages. The LM/CM Delta-P brought up to read 2 psi (13.8 kPa). The gauge is then watched for three minutes to check for leakage. More air is allowed into the LM until the CM cabin pressure registers 4 psi (27.6 kPa). Then the CM is repressurised to 5.7 via the Direct O2 valve and the cycle is repeated until both spacecraft cabins are at the same air pressure.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 56 hours, 31 minutes. The Guidance, Navigation, and Control Officer reports the Command Module and Lunar Module cabin pressures are now equalized.
+056:33:21 Henize: 15, this is Houston. If you would go to a 5-degree med - deadband, they say down here we might save a little bit of propellant.
+056:33:33 Scott: Roger.
+Very long comm break.
+The deadband is the error range in the spacecraft's attitude, outside of which, the SCS (Stabilization Control System) will fire RCS thrusters to effect a return. It is usually set to 5° or 0.5° depending on how accurately the spacecraft needs to be pointed. Maintaining a wider deadband will use less propellant as the spacecraft will drift for longer between successive corrections.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+056:45:31 Henize: 15, this is Houston. If you've got a little cry - Cryo Press light up there - we see that down here, and that's expected at the moment.
+056:45:42 Worden: Okay. Thank you.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 56 hours, 52 minutes. Apollo 15 is 178,180 nautical miles [329,989 km] from Earth. Velocity; 3,171 feet per second [967 m/s]. Crew is busy now, making preparations to enter the Lunar Module. We'll continue to stand by live for any air/ground.
+Early entry was originally desired so the ground controllers could gain more data on the performance of the LM batteries.
+Flight Plan page 3-62.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 57 hours, 2 minutes. Telemetry shows power on the LM now and we've just had acquisition of LM data on telemetry now.
+Activation of the LM is based on the same checklist that was used during yesterday's checkout at 033:53:00. However, most of that checklist has already been carried out and does not need to be repeated. The crew will follow the modified version which was read up at 049:45:14. They are primarily interested in setting up telemetry for Mission Control to monitor the lander's batteries, and in trying to remove as much glass, resulting from the broken tape meter face, as they can. Telemetry from the LM is beginning to come into Mission Control about now.
+057:03:58 Worden: Houston, 15.
+057:04:03 Henize: Go ahead, 15.
+057:04:07 Worden: Roger, Houston. [The] Falcon's all set up for data [telemetry to Earth], and want to know if you're getting it.
+057:04:11 Henize: Roger. We're getting data from Falcon.
+057:04:17 Worden: Rog.
+Comm break.
+057:06:15 Worden: Houston, 15.
+057:06:18 Henize: Go ahead, 15.
+057:06:22 Worden: Okay. If you'll let me know - when you've gotten enough data from Falcon, then I can tell Jim to power that down.
+057:06:29 Henize: Roger, Al. Stand by.
+Comm break.
+That's Al Worden communicating from the Endeavour to CapCom Karl Henize.
+057:08:22 Henize: 15, this is Houston. The batteries and the SHe all look to be in excellent shape, and we're ready to secure the instrumentation. They can go ahead to page 1-18.
+057:08:34 Worden: Rog. Understand, Houston. We go on to 1-18. Thank you, sir. [Long pause.]
+The ground have now had a chance to observe the telemetry from the LM concerning the batteries and the supercritical helium. Using the revised LM activation checklist read up to them this morning, they can move on to page 1-18 of the full Activation Checklist to begin powering down the few systems they have switched on.
+057:08:49 Henize: 15, Houston. Is it possible to get the ED bat[tery] readings?
+On lift-off from the Moon, separation of the LM's ascent stage from the descent stage is achieved with EDs (explosive devices). These are powered by separate batteries and because of their critical role, are closely monitored.
+057:08:56 Worden: Stand by one, Houston. [Long pause.]
+057:09:37 Worden: Houston, the ED batteries are reading 37 on both.
+057:09:42 Henize: Thank you.
+057:09:46 Worden: Rog.
+Very long comm break.
+This is Apollo Control. SHe is a synchronym [means acronym] for supercritical helium, which is used to pressurize the descent propulsion tanks on the Lunar Module.
+SHe is helium whose temperature and/or pressure has been raised above its critical point, the point at which the phase transition between liquid and gas occurs. In this state, the material is neither liquid or gas, and can be compressed to high densities. The use of supercritical helium was one of the major technological advances in the Apollo program, and was necessitated by the weight restrictions of the LM.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+057:26:43 Henize: 15, this is Houston. Would you please put O2 Heaters 1, 2, and 3 all to Auto.
+057:26:52 Worden: Rog, Karl. O2 Heaters 1, 2, and 3, all Auto.
+057:26:56 Henize: Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+057:34:42 Worden: Houston, 15.
+057:34:45 Henize: 15, go ahead.
+057:34:50 Worden: Rog, Karl. Looks like the - the LM checkout's coming along pretty good. We've checked out all the batteries now. When do you want us to start in the PTC? [Long pause.]
+Changes in the Flight Plan read up this morning included delaying the restart of the Passive Thermal Control mode until after the LM batteries had been checked out.
+057:35:15 Henize: Rog, Al. We - we want to get a few minutes, about 5 minutes of SIM bay data there at - it's 15:45 in your Flight Plan, and then we're - then we can go into PTC.
+Comm break.
+This step in the Flight Plan was read up this morning, at 049:53:38. The auxiliary data channel on the S-band radio link is to be switched to Science while the Panoramic Camera is powered up. In this mode, Mission Control receives telemetry from the SIM bay and they want to look at the temperature in that camera.
+057:37:09 Worden: Houston, 15.
+057:37:12 Henize: Go ahead, Al.
+057:37:15 Worden: Okay, Karl. If you're ready, we'll give you the SIM Bay data, now.
+057:37:19 Henize: Hang on just 1 or 2 minutes. We're not completely set up down here.
+057:37:25 Worden: Okay.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+057:40:42 Henize: Al, we're ready for the SIM bay data.
+057:40:47 Worden: Okay, Karl. Coming your way.
+Comm break.
+057:42:38 Henize: 15, Houston. We'd like to have you turn O2 Heaters 1 and 2, Off at this time and leave number 3 on Auto.
+057:42:48 Worden: Okay, Houston. Coming Off with 1 and 2 and leaving 3 in Auto.
+057:42:52 Henize: Very good.
+Comm break.
+057:44:11 Henize: 15, this is Houston. We have enough SIM bay data and you can terminate that procedure, and we're ready, then, to go into PTC, and we would like - [RCS quads] Alpha and Delta for damping and Bravo and Delta for spin-up. [Pause.]
+057:44:38 Worden: Okay, Houston; 15. Understand you've got enough SIM bay data so we'll turn it off. Going into PTC and using Alpha and Delta for damping and Bravo and Delta for spin-up.
+057:44:51 Henize: That's correct.
+Very long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 57 hours, 48 minutes. Command Module Pilot Al Worden will spin-up the spacecraft now to reestablish Passive Thermal Control mode. It'll take some time to determine whether we've achieved the proper rate of 3 tenths of a degree per second. Dave Scott and Jim Irwin will remain in the Lunar Module performing their housekeeping chores while Al Worden establishes PTC. We don't expect to hear from the spacecraft Commander or the Lunar Module Pilot until they do return to the Command Module. At 57 hours, 49 minutes; this is Mission Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+057:56:46 Henize: 15, this is Houston. How are we coming along on closing up the LM?
+057:56:53 Worden: Houston, 15. We're coming along, taking our time doing it, Karl, while we're getting going on [the] PTC [mode].
+057:57:00 Henize: Okay.
+057:57:01 Worden: And we'll be a few more minutes - stabilizing the rates here for the PTC 'til we get all the dumps done.
+Waste water and urine are dumped out of single outlets that were not designed to be non-propulsive. Although there is little force imposed on the spacecraft from the dumps, it may still be enough to upset the PTC.
+057:57:10 Henize: Roger. And be advised that we're prepared to read up a fairly extensive revision to the SPS burns, and we'd like for you guys to - let us know when you're ready to - discuss it and copy it.
+057:57:28 Worden: Okay, Karl. It'll be a while yet.
+Very long comm break.
+Al is carefully ensuring that the spacecraft is as stable as possible before beginning the slow roll that constitutes the PTC maneuver. Readers can refer to 010:40:06, 011:44:58 and 013:03:39 for fuller commentary of this mode.
+This is Apollo Control at 57 hours, 57 minutes. Apollo 15 [is] now 180,124 nautical miles [333,589 km] from Earth. Velocity; 3,131 feet per second [954 m/s].
+Flight Plan page 3-063.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+058:12:35 Worden: Houston, 15.
+058:12:38 Henize: Go ahead, 15.
+058:12:42 Worden: Okay, Karl. How do the [rotation] rates look to you now? [Pause.]
+058:12:53 Henize: Okay. They - Okay, Al; they look good to us, and you can go ahead and spin her up.
+058:12:00 Worden: Okay, Karl.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+058:15:03 Henize: 15. We'd like to have Omni Bravo, please.
+058:15:10 Worden: Omni Bravo.
+Very long comm break.
+With the spacecraft in PTC, Mission Control are asking for Omni B so they can command switching between B and D themselves. As Al places the joined spacecraft in the PTC mode, Dave and Jim are trying to rid the Lunar Module's cabin of any trace of glass particles resulting from the broken face of the tapemeter.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 58 hours, 43 minutes. Apollo 15 isnow 181,521 nautical miles [336,176 km] away from the Earth. Velocity; 3,103 feet per second [946 m/s]. We'll continue to stand by live to monitor any air/ground.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+058:53:40 Henize: Al, this is Houston. Could we have High Gain, Manual and Wide.
+058:53:49 Worden: Roger. Stand by.
+058:53:53 Henize: We don't want to bring it up. We simply want to select Manual and Wide.
+It is unclear why the HGA is being configured in this way though it may be connected with an upcoming measurement of its frequency as part of a radar experiment scheduled for lunar orbit. See commentary at 060:06:16.
+058:54:00 Worden: Okay; you have it.
+058:54:02 Henize: Thank you.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+058:57:11 Scott: Houston, Apollo 15. [Pause.]
+058:57:17 Henize: 15, this is Houston.
+058:57:22 Scott: Rog. We're all up on the comm and ready to talk about the SPS.
+Mission Control want to read up a set of modified procedures for operating the SPS engine in the wake of the discovery of a short in its primary, or A, control system. The short in the A bank will ignite the engine simply by arming it. Therefore, the automatic controls only work through bank B.
+058:57:27 Henize: Roger, Al. Dick Gordon's here and he's been involved in hashing all of this out, and I'd like to have him read it up to you and argue with you about it.
+Richard Gordon, the back-up Commander, first flew in space with Pete Conrad on Gemini XI, and again with Pete and Alan Bean on Apollo 12, on which he served as the Command Module Pilot. If Apollo 18 had not been cancelled, he would undoubtedly have commanded that mission, based on Deke Slayton's crew rotation system of backing a mission, missing two missions and being on the prime crew of the third.
+058:57:40 Scott: I'll do that. Go ahead, Richard. [Long pause.]
+058:57:58 Gordon: Hello, Dave. No argument; what are you doing way out there?
+058:58:04 Scott: Oh, we're just sort of checking out the old LM...
+058:58:07 Gordon: Okay.
+058:58:08 Scott: ...taking a look at the pretty scenery.
+058:58:09 Gordon: Okay. Listen, we've been, as you might guess, been talking a great deal about P40 procedures, and we do have some changes to talk to you about and if you've got your G&N Dictionary [sic] handy and page 5-1 where the P40 thrusting goes, I'd like to go ahead and go through it and discuss it with you.
+058:58:31 Scott: Okay, let's pull it out, Dick. [Long pause.]
+058:58:59 Scott: Okay. We've got 5-1 out. Go.
+058:59:03 Gordon: Okay, Dave. Right below the "Verify the SIM Powerdown" line there, I'd like for you to insert two lines. "Circuit breakers, SPS Pilot valves, two of them, Open," and that should be a "Verify." [Pause.]
+058:59:23 Scott: Okay. "CB SPS Pilot valve, two, Open; Verify."
+058:59:26 Gordon: And then the next line would be "Circuit breakers EPS [Electrical Power System], Group 5, two of them, Closed; Verify." [Pause.]
+058:59:36 Scott: Okay. CB EPS, Group 5, two, Closed, Verify.
+058:59:41 Gordon: Okay. Right there in the same column, underneath "Test Caution and Warning lamps," insert "EMS Function, Off; Verify."
+058:59:54 Scott: Okay. Beneath "Test Caution and Warning lamps," "EMS Function, Off; Verify."
+058:59:58 Gordon: Roger. Then the next line would be "Circuit breakers, EMS Main A and B, two of them, Closed." [Long pause.]
+Flight Plan page 3-064.
+059:00:31 Scott: Okay. "CB EMS A and B, both, Closed."
+059:00:34 Gordon: Okay, Dave, That'll finish up that page. The next comment's on page 5-2, where it starts in with a TVC [Thrust Vector Control] check and prep, second line, "Circuit breakers, SPS 10, vice 12, Closed."
+059:00:52 Scott: Okay; understand. "CB SPS 10, vice 12, Closed," and those are the two pilot valves?
+In other words; instead of closing 12 circuit breakers for the SPS system, they should only close 10, leaving the two pilot valve breakers open.
+059:00:59 Gordon: That's affirmative. Okay. Page 5-3 at the two minute point - 58 with 2 minutes in parentheses - I'd like for you to scratch the line that says "Delta-V thrust A paren[thesis] B, Normal" and substitute "Circuit breaker, SPS Pilot Valve Main B, Closed."
+Bank B is the good one and its breaker is closed first to allow it to be operated by the computer.
+059:01:31 Scott: Okay. "CB SPS Pilot Valve Main B, Closed," instead of the "Delta-V Thrust A and B to Normal."
+059:01:40 Gordon: Okay. [Long pause.]
+059:01:52 Gordon: We got an Omni...
+059:01:53 Scott: Okay. Go ahead; we got it.
+059:01:54 Gordon: ...Okay; we got an Omni switch; just hang on. [Pause.] Okay, Dave. The - the next one is on page 5-4 and it's an insert, where you get the flashing 99, below the line that says "Pro at TFI [Time From Ignition] greater than zero seconds," insert "Delta-V Thrust A and B, two of them, to Normal," and we'll come back and discuss that in a minute.
+When the computer's display (the DSKY panel) flashes 99, it means the computer is standing by for the astronaut to press "Proceed" so as to execute the next function, usually automatic ignition of an engine. The modification to the procedure here is to throw the Delta-V Thrust switches for both banks at a time that the computer wishes to ignite the engine. As Dick Gordon explains at 059:11:24, this circumvents the unlikely possibility that an unseen fault in Bank B prematurely ignites the engine.
+059:04:03 Gordon: Okay, Dave. Did you get that? "Delta-V Thrust A and B, two of them, to Normal" right after the Pro at the flashing 99.
+059:04:12 Scott: No, we - we lost you on the comm there, Dick. At minus 2 minutes, and we verified that we scratched the "Delta-V Thrust A or B, to Normal," and substituted "CB SPS Pilot Valve Main B, Closed." That's the last we heard from you.
+059:04:25 Gordon: Okay. On page 5-4. I was just talking about that line where you get the flashing 99, and the line that says "Pro at TFI greater than zero seconds." Under that line, insert "Delta-V Thrust A and B, two of them, to Normal," and I'm sure we'll want to discuss this in a little bit.
+059:04:51 Scott: Yeah, it sounds like it. Okay. After "Auto Ignition, Pro at TFI greater than 7 - greater than zero seconds," insert "Delta-V Thrust" - Did you mean A or B or do you mean A and B, Normal.
+059:05:05 Gordon: I mean - I mean at this time A and B, and we'll talk about different burns on this very subject a little later.
+059:05:13 Scott: Okay. A and B, Normal.
+059:05:17 Gordon: Okay. Down in the next paragraph where it's got the 06 40 and the emergency procedures for the flashing 97 40 for the SPS thrust fail, scratch the line that reads "Delta-V Thrust B paren[thesis] A, Normal," and insert "Circuit breaker, SPS Pilot Valve Main A, Closed." [Pause.]
+Interfacing with the computer is such a common activity that the crews and CapComs have evolved a verbal shorthand for the commands they use. In most cases, the basic set of interface commands, the Verb and Noun, are simply condensed to a series of numbers that makes sense in the current context. Here, "06 40" refers to Verb 06, Noun 40 on the DSKY. This is the display of the time of ignition and cut-off, the velocity to be gained, and the accumulated velocity. Brought up by Program 40 shortly before, and all during the burn, it is the primary means of monitoring the burn. In the event of an engine ignition failure, the DSKY display will change to a "flashing 97 40", that is, the Verb 97 Noun 40 will be displayed, and the codes will be flashing on the display. Unlike the "regular" verbs used by the crew, Verb 97 instructs the crew to perform their engine failure activities.
+O'Brien, from 2004 mission review: "I would imagine you being a representative over at MIT working with them [on the computer design]. I just think that the Verb/Noun language of the computer is just wonderfully efficient. Was that already in place?"
+Scott, from 2004 mission review: "The MIT guys came up with that. We spent a lot of time sort of manipulating it. I worked with a guy at MIT, name of Jim Nevins who was really good, and David Hoag, but Nevins was a sort of link to all that. And, as you know, there's a lot of programs and a lot of complexity. But on the other hand, it was pretty smooth and it was mostly our inputs to the MIT guys. But the Verb/Noun thing came from them in the beginning."
+059:05:46 Scott: Okay. Stand by one.
+059:05:48 Gordon: Okay. [Long pause.]
+059:06:14 Scott: Okay. On the flashing 97, scratch "Delta-V Thrust B paren[thesis] A, Normal," and insert "CB SPS Pilot Valve B, Closed."
+059:06:25 Gordon: That was SPS Pilot Valve Main A, Closed.
+059:06:27 Scott: That right?
+059:06:29 Gordon: That was Main A, Closed, Dave.
+059:06:30 Scott: Okay. Main - Rog. Sorry about that, Main A, Closed; right.
+059:06:37 Gordon: Okay. What we're saying - if you don't get an ignition on [bank] B, we want you to go ahead and use [bank] A.
+059:06:43 Scott: Okay.
+059:06:44 Gordon: Okay. The next change is at 3 seconds. Scratch the line that says "Delta-V Thrust B paren[thesis] A, Normal," and insert "Circuit breaker SPS Pilot Valve Main A, Closed."
+059:07:06 Scott: Okay. At 3 seconds, scratch "Delta-V Thrust B, A, Normal," and insert "CBS - CB SPS Pilot Valve Main A, Closed."
+In other words, on long burns, the A bank is to be brought in manually three seconds after the B bank ignites the engine, by closing the A pilot valve circuit breaker.
+059:07:18 Gordon: Okay. In the bottom of the page, this is applicable to LOI only. And at 6 minutes into the burn, we want the line "Circuit breakers, SPS Pilot Valve Main A, Open."
+059:07:38 Scott: Okay. At 6 minutes into the burn, "SPS Pilot Valve Main A, Open."
+During the LOI (Lunar Orbit Insertion) burn, the crew are to disable the A bank after 6 minutes. The automatic systems will then cut-off the engine by controlling the B bank. The A bank has to be brought into play because the calibrated thrust of the engine is achieved when both banks are feeding propellant to the combustion chamber. However, the LOI burn is expected to last about 6 minutes and 40 seconds. Mission Control want to gather data on how the engine performs with only one bank in operation and they will get 40 seconds of telemetry after the A bank is shut off.
+059:07:45 Gordon: Okay. And then a note there for Jim. At that point, we do - we no longer want any PUGS manipulation for fuel valves.
+To ensure matched use of propellant in the SPS, the flow of oxidiser can be manually adjusted, based on the display of a gauge on the right-hand side of the Main Display Console. PUGS stands for Propellant Utilization Gauging System. Mission Control do not want Jim to operate the PUGS control after bank A is disabled, probably because they are unsure of its performance during single bank operation.
+059:07:57 Scott: Okay; understand. No PUGS after 6 minutes.
+059:08:02 Gordon: Okay. We'll talk about the reason for that in a second. I've got one more line [to add] in your P40 checklist, and then we can discuss some things. It's on page 5-5, it's in the cleanup column there, about halfway - no, almost to the "Pro" underneath the line that reads "Circuit breakers SPS Pitch 1 and Yaw 1, Open," insert "Circuit breakers SPS Pilot Valve Main B, Open."
+059:08:33 Scott: Okay. Beneath "CB SPS Pitch 1, Yaw 1, Open," insert "CB SPS Pilot Valve Main B, Open."
+059:08:40 Gordon: Okay. That cleans up the - the checklist items. Take the easy one first. And the reason we want to - to secure bank A during the LOI burn at 6 minutes is so we can get a handle on the single bank performance, and we anticipate making all of the other burns with the good bank, bank B, with the exception of TEI [Trans-Earth Injection]. [Pause.]
+059:09:09 Scott: Okay; that makes sense.
+059:09:12 Gordon: Okay. And I guess the - the other things we might talk about just - just briefly is that the procedures that we just gave to you are for LOI. For midcourse 4 and DOI [Descent Orbit Insertion], we'll use the same procedures, but we'll do it on bank B only, single bank burn; we'll use the good bank. And we won't do anything with the Pilot Valve for Main A or the Delta-V Thrust A. We'll just go ahead and do these procedures, but not use bank A at all. [Pause.]
+059:09:54 Scott: Okay; understand. We'll use dual bank for LOI and TEI, and all other burns will be on bank B only, with no manipulation of the Delta-V Thrust A switch.
+LOI and TEI are long duration burns. The others are short so they will avoid using bank A for these burns.
+059:10:04 Gordon: Okay. And after we do our LOI and DOI, we should have some real good visibility into [that is: understanding of] bank B; and for Al's planning, when he's up there by himself for the Circ[ularization] and plane change burns, we'll use normal procedures. The old procedures Delta-V Thrust B, Normal at TIG minus 2 minutes, with the exception that we will make those burns [using a] single bank, and we will not attempt to use bank A. [Pause.]
+059:10:34 Scott: Oh, okay. Well, then, we - we've got three groups and when Al solos, he's going to use single bank B just like he's always done with the circuit breakers with CB SPS Pilot Valve B in at the beginning of the procedures. Is that right?
+By "three groups" Dave Scott seems to be referring to three types of procedure for performing burns; long duration, short duration and Al's solo burns.
+059:10:51 Gordon: That's correct. And for TEI, the only change we'll probably make is the procedure we just passed. We'll probably let bank A - we'll probably leave bank A in the burn until we get down to about 5 seconds to go, and the reason for this - if something happens to the banks then, we're within our RCS capability for midcourses. [Pause.]
+Dick is looking well into the future, when Apollo 15 is leaving the Moon. If a fault in bank B occurs, the Trans-Earth Injection burn can to continue on bank A and be terminated manually. This contingency will exist up to the final 5 seconds of the planned duration. Should a fault take bank B out during those 5 seconds, any shortfall in the velocity is within the capability of the RCS to correct.
+059:11:16 Scott: Okay. I guess - Okay; we - we can press on here, but we'll probably talk it over with you before each burn anyway, too.
+059:11:24 Gordon: Yes, I'm sure we will. And I guess the thing to talk about now is our reasoning, our thought processes on having you proceed at 5 seconds, and then having Al throw on both the Delta-V Thrust switches right after that. And let me go through it, and let you think about it then. The reason we want to do that now - even though we do have a great deal of confidence in bank B - but the SPS Engine Thrust light - we have no visibility into that system as long as that light is on. And, if for some reason, since we do have this suspect system here in A, we don't want to take the chance with B. And when that thing fires off, we want you to be on a good guidance. You won't have to do anything as far as your guidance is concerned. You can continue the burn, and press on even though it - it may have ignited prematurely. It does require procedure change, and I think you and Al [should] think about how you might handle this, and - and come back to us. But those are the reasons we didn't want to turn either Delta-V Thrust on earlier than the point where you'll get good G&N-guided burns.
+059:12:38 Scott: Okay. That sounds like you been doing some good deep thinking on it all. That fits pretty well, Dick.
+059:12:38 Henize: Okay, Dave. We'll let you guys think about those - Hang on.
+As the prime and back-up Commanders of Apollo 15 have been talking over the procedures for up coming SPS burns, the slow rotation of the spacecraft in its PTC roll is taking the Omni antenna they are using around and away from Earth. Mission Control will carry out the switch as the antennae are in the B-D set-up.
+059:14:19 Gordon: 15, Houston. [No answer.]
+059:14:36 Gordon: 15, Houston. [No answer.]
+059:15:38 Gordon: 15, Houston.
+059:15:42 Scott: Okay. We've got signal strength back, also, Dick. Go ahead.
+059:15:45 Gordon: Okay, Dave. I guess we might talk about MCC 4 [Mid-Course Correction number 4] just a little bit. We haven't really gone into this...
+059:15:52 Scott: Okay.
+059:15:53 Gordon: ...too deeply. We haven't gone into MCC 4 too deeply yet. Right now, it looks like it's a Delta-V of about, oh, 4.2 [feet per second, 1.3 m/s], and our intentions are at this moment to make that single bank burn with bank Bravo. And if something happens there, we're looking at possibly finishing that up with - with RCS. But we're not definite on that, and just wanted you kind of have a feel for it.
+059:16:26 Scott: Okay; that makes sense. I guess we've got one point here, and looking at the post-ignition sequence on the LOI burn. In order to monitor start transients and retain Al's capability to take over in case we have a gimbal hardover at start or something like that, perhaps it might be better to push that circuit breaker, the SPS Pilot Valve Main A, closed, as soon as we get ignition. And then that would enable Al to get back over in the THC in case he's got a problem there. How about that?
+The SPS engine is gimbal mounted to allow the direction of thrust to be aimed through the spacecraft's centre of gravity. Dave seems to be worried that if there are problems with the guidance system pointing the engine properly, Al might not be in a position to take over with the THC (Translation Hand Controller) fast enough to guide the spacecraft manually - as he will be over at the left-hand circuit breaker panel 8, bringing in bank A. Note that if there were a problem with the engine gimbals, Al would also have to switch the THC to command the pitch and yaw functions of the RCS.
+059:17:04 Gordon: Okay. We did discuss that little bit down here about that time. We felt that we'd like to have the - the engine stable out - stabilize out to [be under full] guidance [control] and the engine on bank B before he even goes over and tries to get that Pilot Valve circuit breaker in. That will give us visibility on - on the DSE dump on how bank B is performing.
+The LOI burn occurs while Apollo 15 is around the far-side of the Moon and out of radio contact with Earth. As there will be no direct telemetry link to Mission Control, telemetry will be recorded on the DSE recorder, to be subsequently replayed once radio contact is reestablished.
+059:17:30 Scott: Okay. Then why don't we move it down sometime past 3 seconds, a little later. How would that fit you?
+After TD&E, the normal seating positions for the crew changed by Dave and Al swapping over so that Dave now occupies the centre couch during burns. The crew had practised the procedures for the LOI burn in these positions. As part of these procedures, Dave was to reach over to the SPS Delta-V Thrust switches to bring on the second bank 3 seconds after ignition. This allowed Al, in the left couch, to monitor the health of the engine in the initial stages of the burn, the so-called start transients. This procedure has been modified in light of the short in switch A and instead the second bank is brought in by closing a circuit breaker on panel 8. Panel 8 is to the left of the Main Display Console and cannot be reached by Dave so Al will have to operate it, increasing his workload at the start of the burn.
+059:17:36 Gordon: Well, we discussed that one too, and 5 seconds was used. What would you like? [Pause.]
+059:17:44 Scott: Well, 5 seconds sounds a tad better than 3, and it gives - gives us a chance to get stable in here, and gives Al a chance to take a look at what kind of start transients we've got.
+Dave's comment at 059:16:26 seems to be calling for the A bank breaker to be closed immediately after ignition. Now, having been convinced that the engine needs time to stabilise, he seems to prefer a wait of 5 seconds.
+059:17:58 Gordon: Okay. Dave, I guess our discussion around here - We had proposed 5 [seconds] at one time, and it was a change to your normal procedures of putting the other bank on, so I guess it's really your choice in this regard; 5 seconds is just as good as 3. [Pause.]
+059:18:20 Scott: Yeah, okay. Well, [laughter] Al made the point that it's all changed anyway, because normally I bring on bank - the second bank in 3 seconds, and he doesn't have to worry about it. He's concentrating on the start transients and everything. So it's a complete change at any rate, and I think it might be a tad better to go to the 5 seconds with Al on the circuit breaker.
+059:18:43 Gordon: Okay; that sounds good to us. Yeah, Dave; the point's being made that it can be even longer than that, if you really feel like you need it. [Pause.]
+059:18:56 Scott: Okay. Well, we'll shoot for 5 seconds and if Al feels uncomfortable about the start transients and wants to hang on to the T-handle, I think that ought to be his option.
+059:19:05 Gordon: I couldn't agree more.
+059:19:09 Scott: Okay.
+059:19:10 Gordon: Okay. Karl's got some things here, I guess, on the LEB lighting and stuff, and my question to Al is how he wants to handle the timing if he doesn't have that LEB timer for P24's and those good things that he's doing. [Pause.]
+The LEB (Lower Equipment Bay) includes one of the two Mission Timers on board the spacecraft, the other being on the Main Display Console. The timer in the LEB is inoperative since 33:48 GET, after a short in its electronics popped the circuit breaker that protects the circuit from which it drew power. Portions of the mission where Al uses it as a timing reference will have to altered slightly. Indeed, there are subtle repercussions from the loss of the timer which will come to light during Al's solo mission in lunar orbit.
+059:19:32 Scott: He's thinking. Just a minute.
+059:19:35 Gordon: Okay. We don't need an answer now. Karl's got some things on - on that. We can use this as a discussion period, I guess.
+059:19:44 Scott: Okay. [Long pause.]
+059:19:59 Gordon: Dave, I'm going to go get dinner. We'll talk to you later.
+059:20:05 Scott: Oh, okay. Thanks a lot, Dick; appreciate it.
+059:20:07 Gordon: Okay. We'll be looking at you.
+059:20:11 Scott: Good.
+Comm break.
+This is Apollo Control at 59 hours, 20 minutes. That was astronaut Dick Gordon, Commander of the back-up crew for Apollo 15, passing up to Dave Scott changes in procedures for the Service Propulsion System maneuvers. The P40 checklist he referred to; P40 is the SPS thrusting program in the computer.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+059:23:39 Scott: Houston, 15. [Pause.]
+059:23:49 Henize: 15, go ahead.
+059:23:52 Scott: Okay; we're standing by for the rest of the comments you may have on the circuit breaker, et al.
+059:23:59 Henize: Roger. We'll be with you in just a couple of minutes.
+Long comm break.
+This is Apollo Control. It appears that Dave Scott and Jim Irwin spent about 2 hours in the Lunar Module. We copied the start of LM data as 57 hours, 2 minutes, and the first call from Dave Scott back in the Command Module came at 58 hours, 57 minutes. We'll continue to stand by live for more air to ground. CapCom Karl Henize is waiting to pass up some more information to the crew shortly. At 59 hours, 26 minutes; this is Mission Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+059:33:54 Henize: 15, this is Houston.
+059:34:03 Scott: Houston, 15; go.
+059:34:08 Henize: Just a quick note on the - on the circuit breaker on the illumination, and then a procedure that might clarify a couple of things for us. First of all, there's a - a number of numeric and electroluminescent lights that are out, but we won't go into all of that. The main thing is the panel 122 DSKY down there [in the LEB]. The - As far as we can see at the moment, there is some possibility that we still have illumination on your status lights on that DSKY, and if we go through a small procedures here, we may find out whether or not there will be illumination on this. Stand by.
+There are two DSKYs (Display and Keyboards) aboard the CM; one in the Main Display Console and the other in the LEB. These panels, looking like prototype electronic calculators, are the crew's way into the spacecraft's computer.
+Communication has been lost via the current omni-directional antenna and it will be reestablished once another is switched to.
+059:35:27 Henize: 15, this is Houston. Are you reading. [No answer.]
+059:36:13 Henize: 15, this is Houston. [No answer.]
+059:37:58 Henize: 15, This is Houston. [Pause.]
+059:38:09 Scott: Go ahead, Karl.
+059:38:11 Henize: Right. Back to our lighting circuit breaker. Let me emphasize two main points to start with. I guess, under no circumstances, do we want to close that circuit breaker. And a second - problem is a - a - a second point is that we don't want to change the Integral Lighting, or the Numerics lighting rheostats on panel 100. Let's leave them just as they are. And then there's the - there is a possibility due to the fact that there is a very low amperage shunt going around that circuit breaker, there is a possibility that we do have lights on the DSKY status lights; that is, the Uplink Activity lights, et cetera. And if we can go through a quick procedure here, we'll find out whether or not we do have lights there. Shall we go ahead?
+Panel 100
+Panel 100, to the left of the LEB, has three rotary controls to adjust the lighting of the cabin and the displays. It also has control switches for the cabin lighting and power switches for IMU, optics, rendezvous transponder and a utility outlet.
+The status lights on the DSKY are the information lights above the keyboard and to the left of the display. Essential information on the status and operation of the computer and guidance system are presented, such as if the inertial platform has gone into gimbal lock, if there is any uplink activity or if a crew member made an error entering a command. As there are two DSKY's in the Command Module, this information is still available to the crew. Although the status lights are inoperative, the important numeric displays are still functional. This is not trivial, as the LEB DSKY is used for the star sightings required for aligning the inertial platform. Without a functional DSKY these critical sightings could still be done, but it would greatly complicate the process.
+059:39:14 Scott: Okay. Go ahead, Karl; we'll take a look at it.
+059:39:17 Henize: Okay. First of all, on panel 100, again making sure that we do not change the Numerics and Integral lighting switches [means rheostats], can you tell us the position of those two switches, those two - rheostats?
+059:39:34 Scott: Okay, we'll tape them into [the] position they are right now. [Long pause.]
+Houston is awaiting a reply concerning the knob positions but the crew may be finding out for themselves what lights are working on the LEB DSKY.
+059:40:19 Scott: Houston, 15.
+059:40:20 Henize: Go ahead. [Pause.] 15, this is Houston. Go ahead. [Pause.]
+059:40:43 Scott: Okay, Houston. We just did a little checkout for your LEB DSKY, and the key release light doesn't work - for one - does not work.
+059:40:56 Henize: Roger. I guess you are a couple of steps ahead of us there. Can you tell us the position of - of the Numerics knob over on panel 100?
+059:41:09 Scott: About 2 o'clock. [Pause.]
+059:41:18 Henize: Roger, I guess that's - that's one of our weak points. If - if that switch had - if that knob had been over close to full Bright, we had some chance of getting enough energy into those lights to make them work, but in that position, that's probably not possible. And we should leave things as they are.
+059:41:39 Scott: Well - well, I - I'm not sure those Integral lighting rheostats have not been moved since the circuit breaker popped. I guess if you want to, we could run it over to full Bright, or I guess you probably prefer to leave it as it is, and if so, we'll give up on the status lights.
+059:42:08 Henize: The word at the present time is let's leave them just as they are, Dave.
+059:42:13 Scott: Okay. We'll put a piece of tape across so that we don't accidentally run into them.
+059:42:20 Henize: Okay. [Long pause.]
+059:43:05 Henize: That's all we have on that subject, 15. You probably know as well as we, what lights you're missing up there. We could give you a list if you would like.
+059:43:17 Scott: Oh, no. We've got a good handle on it, Karl. Thank you.
+059:43:21 Henize: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+059:48:02 Henize: 15, This is Houston.
+059:48:08 Scott: Go ahead.
+059:48:10 Henize: I've got one small comment for you, and then a small update to the Flight Plan. First of all, they've init - they've gone through a very thorough test on the range-rate [tape]meter and how it operates under those pressures and in that pure oxygen atmosphere, and so far as we can see at the present time, there's no problem whatever in its operation, but we'll continue that test. In the Flight Plan at 60 hours on the - on the SIM bay procedure to get some data from the cameras there, I have a small change, if you have the Flight Plan out. [Pause.]
+CapCom Karl Henize is referring back to the Range/Range-Rate tapemeter in the Lunar Module which was found to have a broken front pane of glass when the Dave and Jim first entered the LM during the second day of the flight. The breakage breached the instrument's seal, allowing the helium gas within to escape, to be replaced by oxygen each time the cabin is repressurised. It is more than likely that the subcontractors, under NASA supervision, will have been checking a copy of the meter to see if its operation is compromised by the unintentional conditions.
+Scott, from the 1971 Technical debrief: "Having the LM housekeeping day moved up a day, or the day after TLI, gave them a chance to do all that testing on the tape meter. That gave me a warm feeling to know that they checked the thing out and it would work with a broken outer pane of glass.
+Scott (continued): "I think it is a good idea to go take a look at the LM early and - analyze your problems and get a good handle on them before you get too far down the road. Then if they do want to take another look at batteries, the second housekeeping day is no problem. It is nice, to go back to the LM and take another look around anyway. We got another chance to clean up some more glass. We did find a number of pieces on the second day. I think we got most of the glass cleaned up; don't you, Jim?"
+Irwin, from the 1971 Technical debrief: "Yes, I think the use of the vacuum cleaner from the CM was probably just as effective or more effective than the LM cabin thing."
+059:48:53 Scott: Go ahead, Karl.
+059:48:56 Henize: Right. That procedure should go in this order. First, the "S-band AUX, TV to Science," as is already there. Then the "Pan Camera Power, On for 5 minutes, and then Off." After the power goes off, wait for a MSFN cue [i.e. a cue from Mission Control via the MSFN] because we want to pick up some data in that - in that state as well. After you get a MSFN cue, then we go to the "Pan Camera, Self Test, Off," the "Mapping Camera, On switch to Off," and then the "S-band Auxiliary, TV, Off," in that order. And we're going to need the High Gain Antenna for this job. And we're going to have a Pitch, minus 30 [degrees]; and a Yaw of 90, and we're going to have to give you cue as to when to start this, so that everything will be lined up right. [Log pause.]
+Mission Control want to watch telemetry after the cameras have been switched off.
+The spacecraft is in the PTC mode, slowly rotating to evenly distribute the Sun's heat. The angles given for the HGA will therefore not point it to Earth until the rotation brings it around. At that point, the HGA will lock on and the test can commence, to be completed before the spacecraft carries the HGA beyond its tracking limits.
+059:50:05 Irwin: Okay. We copied all that. [Long pause.]
+059:50:18 Irwin: Houston, we copied that.
+059:50:20 Henize: Roger. And when we come close to the right time, let us know when you're ready to start, and then we'll let you know when we're ready.
+059:50:35 Irwin: 15; Roger. [Long pause.]
+Those last few exchanges have been with Jim Irwin.
+059:51:14 Irwin: Karl, this is 15. We're ready to do that now, or whenever you're ready. [Long pause.]
+059:51:40 Irwin: Houston, this is 15.
+059:51:42 Henize: 15, we copied. And stand by; within 1 or 2 minutes, we'll be able to give you a Go.
+059:51:52 Irwin: Roger.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+059:54:06 Henize: 15, this is Houston. It looks like we have a 2 to 3 minute wait yet.
+Either this wait is for Houston to prepare themselves to look at the telemetry or for PTC to bring the HGA around so that the requested angles will work.
+059:54:13 Irwin: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+059:57:22 Henize: 15, this is Houston. You're Go to turn on the Pan Camera telemetry. We need to bring up the High Gain Antenna first and then turn on the Pan Camera telemetry.
+059:57:36 Irwin: Roger. We copy.
+Comm break.
+059:59:33 Irwin: Pan Camera Power is on now.
+059:59:38 Henize: We copy.
+Comm break.
+Flight Plan page 3-65.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+060:01:57 Henize: 15, this is Houston. We're ready for the "Pan Camera Power switch, to Off."
+060:02:06 Scott: Oh, very well. Pan Camera Power is coming Off. [Pause.]
+060:02:16 Irwin: Pan Camera Power is Off. [Long pause.]
+Mission Control is now looking at the telemetry from the SIM bay cameras to look at their condition after they have been powered down.
+060:02:42 Henize: 15, Houston. You can proceed with the rest of that procedure.
+060:02:50 Scott: Roger. In work. [Long pause.]
+060:03:28 Henize: 15, Houston. We'd like to have Omni Bravo.
+Comm break.
+060:05:33 Henize: 15, this is Houston. [Pause.]
+060:05:40 Scott: Houston, 15. Go.
+060:05:42 Henize: At your convenience, give - give us the Wide Beam on the High Gain Antenna. And the system down here says that your PTC is excellent. In fact, it's one of the best they've ever seen.
+At the first attempt at a PTC maneuver on the first day of the flight, Al Worden took three attempts to get the rotation right. Changes to the computer software which control the roll took a little more getting acquainted with than the simulator had provided. Al is now familiar with the new procedures and his PTC rolls are good.
+060:05:56 Scott: Oh, very good. Okay; you want High Gain [Antenna], Wide Beam, huh?
+060:06:02 Henize: That's affirmative. [Pause.]
+060:06:07 Scott: Okay.
+060:06:08 Henize: We - we don't want to bring up High Gain; we just want to select Wide and Manual.
+060:06:16 Scott: Oh, okay. Okay, we - we['ll] do that.
+Very long comm break.
+The crew is scheduled for an exercise period about now. Dave should have donned his biomedical harness, with Jim taking his off, though, as we see at 061:45:06, Jim doesn't get around to that for a while. After that, there is to be a frequency check of the S-band radio system. This is a preliminary step of one of the science experiments which is to be carried out with the spacecraft while it is in lunar orbit. Using the well known properties of the HGA and the VHF antennae on the Service Module, their radio signals will be bounced off the Moon. These will be received on Earth and by analysing the frequency, amplitude, phase and polarisation of this reflected wave, the nature of the lunar surface can be deduced. Characteristics which can be measured by this method include surface roughness, slope, dielectric constant of lunar material and the presence of buried rocks to a depth of 20 metres.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. Apollo 15 now 184,029 nautical miles [340,821 km] from Earth. Velocity; 3,055 feet per second [931 m/s]. The recent discussion on the circuit breaker and the lighting in the Command Module, that is the circuit breaker that popped open last night. The DSKY they were referring to - the lighting in the DSKY - is the display and keyboard in the computer in the lower equipment bay. The DSKY on the main panel in the Command Module is not affected.
+The crew apparently found nothing amiss in the Lunar Module during this latest visit. The Flight Plan calls for negative reporting, that is, if something is different from the normal, they will report it, otherwise they will not. They haven't reported anything concerning the Lunar Module housekeeping. We did monitor, by telemetry, the LM systems for a period of 5 minutes, early - right soon after the crew had gone into the LM. All the LM Flight Controllers reported the systems looked very good. At 60 hours, 11 minutes; this is Mission Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+060:34:11 Henize: 15, this is Houston. How are we set for the Bistatic Radar Frequency Check? [Long pause.]
+060:34:29 Scott: Karl, we're just about ready for it.
+060:34:33 Henize: Okay; we're about ready down here, too. Let us know when you're Go. [Pause.]
+060:34:41 Scott: Roger. [Long pause.]
+060:35:10 Scott: Okay; we're configured. [Pause.]
+060:35:21 Scott: Houston, this is 15. We're all configured up here.
+060:35:24 Henize: Roger. We copy, and stand by. [Pause.] 15, we're turning off the uplink now.
+060:35:38 Scott: Roger.
+Long comm break.
+The uplink, the signal from Earth to the spacecraft, is being turned off while the precise frequency of the S-band transmitter is measured. The frequency of the spacecraft's VHF transmitter is also being determined.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+060:43:23 Henize: 15, this is Houston. How do you read? [No answer.]
+060:44:07 Henize: 15, this is Houston. How do you read? [Pause.]
+060:44:16 Scott: Five square, Houston.
+060:44:19 Henize: Good; it sounds like we've got our uplink going again. That next bit down there about ground cue, it'll be about 20 minutes before we get - get down to that.
+Mission Control are due to give a cue for when the VHF transmitter can be turned off.
+060:44:32 Scott: Okay. We'll be standing by.
+Very long comm break.
+There is very little left in the Flight Plan for Day 3 of the mission. The crew is due to have supper, at 61:00, before changing a lithium hydroxide canister and completing the presleep checklist. So far, the mission has pulled few surprises on the crew.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 60 hours, 49 minutes. Apollo 15 now 185,078 nautical miles [342,764 km] from Earth. Velocity; 3,035 feet per second [925 m/s].
+Flight Plan page 3-66.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+061:03:58 Henize: 15, this is Houston. [Pause.]
+061:04:05 Scott: Houston, 15.
+061:04:09 Henize: I guess we've got all the data we need down here. You can go ahead and turn the VHF off.
+061:04:17 Scott: Roger; VHF coming off.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+061:07:36 Henize: 15, this is Houston. [Pause.]
+061:07:43 Scott: Houston, 15. Go.
+061:07:45 Henize: Looks like a very quiet night tonight. About the only question we've got for you at the present time is your assessment of the glass clean-up. How did it go? [Pause.]
+The comment from Karl Henize, about how quiet things are, is, perhaps, the sort of comment which ought to have been banned after the Apollo 13 incident. It seems to tempt fate.
+061:08:01 Scott: Well, we got a - a few more pieces just by looking around over there. Some of the smaller like - oh, I guess the largest piece we found was about a centimeter or so, and the vacuum cleaner picked up a bunch of small chips. I guess - In total, we may have 60, 70 percent of the portion that broke, and I think we've really picked up all that is practical at this stage.
+The vacuum cleaner was left running in the LM to try and catch any pieces of the tapemeter glass still floating in the cabin.
+061:08:29 Henize: Roger. Any special places this stuff seems to collect that you can tell? [Pause.]
+061:08:39 Scott: I think, initially, we found most of it was - up near the COAS [Crew Optical Alignment Sight] mount and behind the panel on the left side - near - near the forward part of the window. We found several - several larger pieces there and also one large piece just above the data file, which was about an inch long or so. The small pieces seem to have been drifting all about.
+061:09:07 Henize: Roger. [Long pause.]
+061:09:25 Henize: And 15, we didn't forget your state vector. It's just that the one you've got on board is very good. We don't need - we feel we don't need an update.
+The state vector, a set of seven values that define the vehicle's position (relative to a well defined reference) and velocity (relative to Earth or Moon) at a defined time, is constantly being revised by the guidance computer every two seconds. Occasionally it is updated by empirical means.
+When the CMP practises cislunar navigation, as Al Worden does during both of the coasting phases of the flight, his Earth/star or Moon/star sightings are used to update the state vector. At the same time, ground stations track the spacecraft by deriving its velocity and range from careful measurements of its returned radio signal, allowing controllers to calculate very accurate state vectors. The onboard state vector solutions are usually very good and are compared with those computed from the ground based data. If there are differences, the computations are debugged and if differences persist, the result from the ground is uplinked to the guidance computer. If there was a communications failure, the crew's own navigation would be sufficiently accurate for a safe return to Earth.
+061:09:36 Scott: Okay.
+061:09:38 Henize: Just polishing off a hamburger and French fries down here. What's on the menu up there tonight?
+061:09:46 Scott: Oh, stand by a minute, Karl.
+Comm break.
+As well having their final meal of the day, the crew is beginning to complete some of the tasks in their presleep checklist. One of these tasks is to chlorinate their water supply. This is stored in the Potable Water Tank, an aluminium sphere, about 31 centimetres across which holds about 19 litres of water. The water comes from fuel cell operation, whereby hydrogen and oxygen react to provide the spacecraft's electricity, with water as an incredibly useful by-product. The water is contained in a flexible bladder within the tank. Between the bladder and the tank wall, pressurising oxygen is fed at 140 kPa (20 psi) to provide a constant pressure in the water supply systems. It feeds a hot water tank, a chiller unit, and a port through which the crew can chlorinate the supply. The tank resides in the Command Module's aft compartment, a space around the periphery of the spacecraft.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+061:12:36 Scott: Hey, Houston, 15.
+061:12:40 Henize: 15, go ahead.
+061:12:44 Scott: Okay, we're just getting ready to do some chlorination here, and we find we've got a leak around the chlorine port - with a cap on it - seems to be leaking water. And you might take a look at that real quick and see if you can come up with any ideas on the thing. The cap is on and Jim was just getting ready to take the cap off and noticed a little water; and, in trying to clean it up, it seems like we're accumulating a fair size - fair amount of water right now, right around the cap.
+061:13:13 Henize: Can you give an - give us an estimate of how many drips per second it is?
+From his Earthbound perspective, Henize has not yet grasped that drips don't occur in zero-g, except where pressure is causing a jet to stream out. Instead, surface tension forms the escaping water into an ever-growing globe around the chlorination port.
+061:13:20 Irwin: Yeah, it's a - it's a pretty good flow right now. Drips per second, it's hard to measure; it's a whole ball of water right around that valve right now.
+061:13:29 Henize: Rog... [Pause.]
+061:13:37 Scott: What we need is a check valve that we can close or get to, to isolate that port, if we can get one.
+In space, small problems can turn into very big ones quickly, and this leak is threatening to do just that. The crew don't yet know where the water is coming from. It could be something as simple as a part needing tightened. Conversely, there may be a crack in a pipe that would present a much more intractable problem.
+Scott, from 1998 correspondence: "When the leak occurred during the flight, there was just no indication of its source - all of the tubes, pipes, boxes, panels, etc., anywhere near the chlorine valve were wet, there was no evidence of any localized source - almost like osmosis, the water creeped along any surface in a random manner (remember, we are in a zero gravity field, and water does very strange things!)"
+061:13:43 Henize: Dave, I - I had a problem when I chlorinated on launch day. And, when I first took the valve off, I had about what you've got - quite a strong flow. The cap - the cap stops it from flowing when you put it back on, and after I chlorinated, the flow decreased down to a very slow drip, say once a minute.
+061:14:05 Scott: Oh, this is a big run, Karl, and the cap is on tight, and it - you can almost feel something flowing beneath the cap.
+061:14:14 Henize: Okay, stand by. Lots of people [are] thinking down here now.
+061:14:17 Scott: [Garble]. [Long pause.]
+As with all technical problems during any Apollo flight, a huge intellectual machine suddenly goes into gear, not only in Mission Control but throughout the entire NASA and contractor network; gathering knowledge, experience and creativity to try and 'work the problem' before it gets out of hand.
+Scott, from 1998 correspondence: "Based on the very meager information that we could provide at the time, MCC [Mission Control Center] would begin looking at all of the possible causes - they would not just assume that the pre-launch event was the cause, or the only cause - even when they did find out about the specifics of the pre-launch event - they would then have had to verify these with the Cape CSM systems people, as well as with RI [Rockwell International]/Downey. Then the systems people and the procedures folks in MCC would have had to develop, and verify, a solution using whatever tools we had onboard."
+"The 'system' (MCC et al) was very cautious not to send up some procedure that either did not apply or did not work - always the philosophy 'if it ain't broke, don't fix it.'"
+"To improperly screw [around] with the chlorination cap may have made the situation worse; and without a thorough analysis, may have deviated everybody from the real cause (which could very well have been a cracked tube (pipe, joint) in some inaccessible location - for which there probably would have been no in-flight fix)."
+061:15:25 Scott: Houston, 15. It seems to be leaking from behind that panel there, right behind where the waste tank servicing valve is, and the potable tank inlet - and it's accumulating at a pretty good rate.
+061:15:38 Henize: We copy.
+Comm break.
+While the zero-g environment helps in confining the escaped water to a ball around the chlorination port, it will become less stable as it gets larger. Eventually, if unchecked, it will begin to break up and drift around the cabin. Although all the electrics are waterproofed, large quantities of water loose in the spacecraft is undesirable and will be uncomfortable for the crew.
+061:17:25 Scott: Hey, Houston; 15. Got any suggestions yet? We need to isolate this thing pretty quick.
+Scott, from 1998 correspondence - "Onboard, it appeared that we had a very serious situation. With no water, we would have had no cooling, and hence many critical CSM systems would be lost. And the LM is not an especially good Earth lander! And, unlike Apollo 13, there would probably have been no need for a free-return trajectory."
+061:17:31 Henize: In - just a minute. [Long pause.]
+061:17:54 Henize: What was... [Long pause.]
+061:18:08 Henize: 15, this is Houston. Our recommendation is that on [panel] 351, you turn the Water and Glycol Tanks Pressure, Regulator, Off. On [panel] 352, turn the Potable Tank Inlet, Off. [Pause.]
+Panels 351 and 352
+Panels 351 and 352 are situated on the Left-Hand Equipment Bay. They are to be found on the very right-hand side of this bay, just below where Dave Scott's feet would be during launch. Mission Control wants to stop the supply of pressurising oxygen to the gap between the Potable Water Tank wall and the bladder within, and to stop the supply of water to the tank. Pressure within the tank will decrease, though only through the loss of more water through the chlorination port.
+The crew, whose heads will have been crammed with information regarding abort modes, lunar procedures and general operations of their exquisite craft, will not have the knowledge to hand to deal with the leak problem. It would have been part of the early stages of their training, but long submerged below layers of more recent instruction. The crew have to fall back on the considerable knowledge base of Mission Control and their support.
+061:18:27 Scott: Okay. Potable Tank Inlet is now closed, and say again the other one.
+061:18:34 Henize: Up on panel 351, Water and Glycol Tanks Pressure, Regulator, Off. [Long pause.]
+061:18:51 Scott: Okay, Water and Glycol Tanks Pressure, Regulator is Off. [Long pause.]
+061:19:47 Henize: 15, Houston. That should - that should have taken the pressure off of the Potable Water Tank; is it helping the situation any?
+061:19:58 Scott: No, it's still leaking, Karl; pretty good rate. [Pause.]
+061:20:07 Henize: Roger; stand by.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+061:22:57 Scott: Houston, [it] looks like maybe we ought to start dumping out of the waste [water tank] so we can dump out of the potable tanks. It's still leaking and we've got everything but the check valve between the Potable Tank and the chlorine nozzle isolated. [Long pause.]
+Water from the fuel cells goes directly into the Potable Water tank, but since there is usually more water available than the crew can drink, the Potable Water tank essentially overflows into the Waste Water tank. Dave wants to dump the water in the Potable Water tank into the Waste Water tank, but that tank is close to full and due to be dumped in the morning.
+061:23:26 Henize: We copy, Dave. No comments yet. Stand by.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+061:25:39 Henize: 15, Houston. We note the pressure in your tank coming down. In the meantime, we suspect that the [pause] we suspect that the fitting there on your chlorine injector outlet is loose, and we have - we have a procedure here for tightening it up.
+061:26:04 Scott: Okay; give it, quick.
+It is nearly a quarter of an hour since the leak was first reported.
+061:26:06 Henize: Roger. We need tool number 3 and tool number W out of the toolkit.
+061:26:14 Scott: Okay; 3 and W out of the toolkit.
+Apollo 11 carried a similar toolkit, the contents of which are in the possession of the Smithsonian Institution. This is Apollo 11's Tool 3:
+Tool 3 from the Apollo 11 toolkit. Image: NASM
+This is Apollo 11's Tool W:
+Tool W from the Apollo 11 toolkit. Image: NASM
+061:26:17 Henize: Right; put - put number 3 in the tool W ratchet, and insuit - sert tool 3 in the hex opening in the chlorine injector port.
+061:26:28 Scott: Okay. That's - that looks like where it's probably leaking. [Long pause.]
+061:26:53 Henize: And, once we have the number 3 tool in the hex opening, it should go in about a quarter of an inch to really engage. It also says "use caution when inserting the tool because it comes in contact with a rubber diaphragm." [Pause.]
+It is through this diaphragm that the chlorine is injected to sterilise the crew's drinking water.
+061:27:10 Scott: Okay. [Pause.]
+061:27:16 Henize: We've agreed down here it's a good idea to take the water gun to fill up a food bag or something of that sort.
+061:27:24 Scott: Okay. [Pause.]
+061:27:30 Henize: Once you've got tool number 3 well engaged in that injection port, turn it about a quarter turn.
+Comm break.
+061:29:55 Scott: Okay, Houston. It looks like that did it.
+061:29:59 Henize: Wonderful. [Long pause.]
+061:30:09 Scott: Nice to have the quick response you guys have down there.
+061:30:14 Henize: Well, you'll never believe it, but after we had the leakage on the morning of the 26th [launch day], somebody sat down and wrote up a special procedure, just in case.
+061:30:25 Scott: Well, that was good thinking because we about had a small flood up here.
+Comm break.
+The care with which those involved with Apollo went about their business is well illustrated by this incident.
+Scott, from 1998 correspondence: "Now the story I heard when we returned illustrates one of the better examples of the conscientiousness and dedication of all of the people who worked on Apollo. I never had a chance to actually verify the story, but this is how it went: A tech driving home from the pad, very late at night after a long day, heard the problem on his car radio. He stopped at a pay phone and called his boss at home to explain the prelaunch leak and its solution; as well as that this may have been the same leak that had occurred several weeks before, for which the ground-fix procedure had already been written. His boss then called the Staff Support Room at MCC and relayed this information. The entire 'system' then went to work to prepare and verify the fix that was eventually passed up to us."
+Scott (continued): "Now Karl Henize may have indeed executed this special prelaunch procedure in response to the Pad Leader's direction [Gunter Wendt], as a result of the earlier ground-fix procedure, or perhaps the on-site tech's input, along with his on-site CSM boss at the time."
+Scott (continued): "But I like to think that the guy who really saved the day was the tech who heard the problem and immediately took action within a finely honed and truly efficient system - at least this is the way I like the story, because it reflects most of the credit on the little guy, who is always there with you, and 'who' (collectively with the rest of the 'system') will always get it right! Fortunately, throughout Apollo, we had about 400,000 of these folks - or we would still be looking for the Moon; or for somebody(s) who was still on, or around, the Moon! It's just another great example of 'What Made Apollo a Success?'"
+It could be argued that the crew ought to have been briefed about the leakage so they might be prepared. Dave certainly felt this way after the event, as did Seymour ("Sy") Liebergot who occupies the EECOM position in Mission Control. (EECOM is Electrical, Environmental and Communications though the term is historic as he is no longer responsible for communications.) He achieved some fame as the controller whose responsibility it was to diagnose Apollo 13's problems when that spacecraft's oxygen tank 2 exploded. He was closely portrayed in Ron Howard's movie of the mission.
+Seymour Liebergot, from 1998 correspondence: "Let me add a bit of history to the chlorination port story: I was the EECOM on console at the time of the chlorination port water leak and passed the corrective procedure up to the crew. It was all very straightforward, in that I/we already were aware of the prelaunch leak problem and the corrective procedure had been agreed upon, which I had on my console. It was a simple matter to get it agreed on (again) and voiced up to the crew. However, it still took more than 15 minutes to run it around the management track again, albeit this is pretty darn fast 'Management' had decided not to bother the crew with this pre-knowledge in the form of an added written crew procedure, instead to tell them when it occurred again, since it was such a simple fix. IMO, a poor decision."
+Scott, from 1998 correspondence: "Who knows why it took 'management' so long to get to an answer - except that the 'system' just works that way, and when the answer does come, it is usually consensus, and not a miss. Maybe 'management' was on the phone with the technician's boss!"
+Scott (continued): "It's just a nice story, the technician part. And MCC must have obtained the procedure from somewhere! They certainly did not use only Henize's comments; it was the normal team effort. And better they took 15 minutes than to send us something too soon that fouled up the system because it was wrong."
+Scott (continued): "But Sy is correct, they should have told us before the launch. Which is another philosophical area to discuss - just how much should be sent up to the crew - three schools of thought (1) don't worry them; (2) don't worry them yet; and (3) tell them everything all the time. We favored the latter - give us the bad news first, the good news can wait - big boys need to learn how to deal with the bad news. But of course, don't complicate things with unnecessary details (which this was not; because of its potential consequences)."
+Irwin, from the 1971 Technical debrief: "We were just getting ready to chlorinate. We had just taken the cap off when the leak appeared. I guess it had been leaking before that. But I don't know; it's hard to tell."
+Scott, from the 1971 Technical debrief: "It was found, subsequently, that Karl Henize had experienced the same type leak pre-launch, which is another thing we hadn't heard about. It would have been nice to have known that there was some sort of expected problem in the chlorination and how to take care of it before the problem occurred because I think, leaking at the rate it was leaking, it was really pouring out. I guess we'd just got the dump turned on to suck the stuff out. We were going to dump it overboard during the PTC when the ground came up with the procedure to tighten down that little valve in there. It was a very simple procedure, and had we known that it might occur, we could have taken care of it and saved a lot of anxiety and a lot of wet towels here."
+Worden, from the 1971 Technical debrief: "Unfortunately, we looked for a break in the line. It's the chlorination port in panel 352, and that thing comes out of the panel, straight out, and then it angles; it has about a 45-degree angle on the vent and the first thought I had was that we had cracked that tube right there."
+Irwin, from the 1971 Technical debrief: "You know, if we'd suspected that they'd had a problem before, we could have left the injector screwed on there so that it wouldn't have messed up that valve. Left it on there all the time."
+Scott, from the 1971 Technical debrief: "I don't think it was an injector problem, Jim."
+Irwin, from the 1971 Technical debrief: "Well, I think you aggravate the situation by taking the injector valve off and on each time you chlorinate. You loosen that little valve."
+Scott, from the 1971 Technical debrief: "In looking at that little valve, it's a rubber seated valve. It seems to me that that wouldn't be a bad thing to take along as a spare because if you ever tore up that rubber seal there, you'd be in trouble. It was obvious that there's no way to check that off, because we closed everything. Al got out the systems book and we closed everything, and it turns out there's only one check valve between the Potable Tank and that valve there. And if you lost that check valve and the thing started leaking, it'd be all over. So I think, in summary, it would be good to know about those things, even if they do happen just before you go. If somebody could just pass the word and say, 'Hey, we had a little trouble with the water system.' And if you take a tool, E3 or whatever it was, and tighten it down, it would be just fine. But there were a few anxious moments there mopping up."
+From the 1971 Mission Report: "Postflight inspection and dimensional checks of the injection port assembly showed that all components were within established tolerances. However, when the insert was tightened in accordance with the drawing requirements, the resulting septum compression was apparently insufficient to prevent the insert from loosening as a result of 'O-ring drag' when the cap was removed. This allowed water leakage past the relaxed septums."
+061:31:51 Henize: 15, Houston. We're looking now at the best procedure for getting the water system operating again. In the meantime, we trust you have your hands full of water up there.
+061:32:04 Scott: Oh yeah. All we have to do now is hang out a few towels to dry, but it looks like we're in good shape.
+061:32:10 Henize: Very good. [Long pause.]
+061:33:11 Henize: 15, Houston. We'd like for you to turn the Regulator back on, on panel 351.
+This will restore pressure from the oxygen system to the Potable Water Tank, between the tank wall and the bladder containing the water.
+061:33:18 Scott: Okay. Regulator coming back on.
+Comm break.
+061:34:28 Henize: 15, Houston. Is everything looking all right on the leak now?
+061:34:34 Scott: Yeah; it looks okay. That fitting there that we tightened up went somewhere between - 180 - 270 degrees of turn. And that - that was where the water was coming from, and it looks like it's secure now.
+061:34:48 Henize: We copy.
+Comm break.
+061:36:37 Scott: Hey, Karl. We just ran a little check with our slide rule here, and it was something like 3,000 drips per minute.
+Dave doesn't usually display a sardonic wit but here he is gently mocking Karl Henize who, when the leak first occurred, asked for a 'drips per second' figure from the crew, forgetting for a moment, that there is an absence of drips in zero-g.
+061:36:47 Henize: Okay guy...; glad to hear that good news. I - I guess up there you don't get drips, do you; that's an interesting fact.
+061:36:57 Scott: Rog. [Pause.]
+061:37:03 Henize: Okay, Dave. We're ready to open the Inlet valve to the Potable Water Tank.
+061:37:10 Scott: Okay; Potable Water Inlet coming open.
+061:37:15 Henize: Incidentally, Dick [Gordon] was over at Lurton's [Dave's wife] and they called up to say "Hey, it's about time you take a bath up there."
+A riposte perhaps?
+061:37:24 Scott: Well, we were sort of discussing that a little earlier tonight anyway. And, as a result, well, I guess we all got cleaned up.
+061:37:33 Henize: Good enough. [Long pause.]
+061:38:30 Scott: And, Houston, with the fitting secure now and everything ship-shape, what do you think about proceeding ahead with the chlorination. [Pause.]
+061:38:48 Henize: Okay, Dave. Go ahead. [Long pause.]
+061:39:02 Scott: Houston, 15.
+061:39:06 Henize: 15, this is Houston. The word here is to go ahead. [Long pause.]
+Comms deteriorate for a short time.
+061:39:56 Scott: Houston, 15.
+061:39:58 Henize: 15, this is Houston. Are - are we in comm[unication] now?
+061:40:06 Scott: Rog. And we've got you. With everything looking ship-shape down here, what do you think about proceeding with the chlorination?
+061:40:12 Henize: Okay, Dave. Go ahead.
+061:40:16 Scott: All righty.
+Long comm break.
+This is Apollo Control at 61 hours, 41 minutes. That in-flight repair of the chlorination port on the water tank was accomplished with 2 tools in the onboard toolkit. Tool 3 that you heard reference to is a hexagonal Allen wrench. Tool W is a ratchet that fits on to provide leverage for the wrench.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+061:45:06 Henize: 15, this is Houston. Is Jim doing some exercising now? We're doing a little medical detective work down here.
+061:45:16 Scott: Why, yes, as a matter of fact, he is. He's trying to get one of the compartments open.
+061:45:20 Henize: Roger.
+Comm break.
+Irwin, from the 1971 Technical debrief: "One other humorous note [about the leak incident]. [To Dave] You know, you were yelling for towels and I couldn't get into that compartment that had all the dry towels."
+Deke Slayton, from the 1971 Technical debrief: "You couldn't get into the compartment?"
+Scott, from the 1971 Technical debrief: "It was stuck, and we got into it a little later."
+Worden, from the 1971 Technical debrief: "Yes, we had a 'funny' with the latch on that compartment, and once we got it open, it worked fine the rest of the time, I guess it was jammed. Something was jammed underneath that latch. You know, those are those radial latches, and the one under the head-end of the couch was jammed."
+Scott, from the 1971 Technical debrief: "Those compartments are too big and they're not partitioned. Once you open one-half of one door, well, everything in there comes floating out unless it's tied down. To try and restrap things when you get through with them is a pretty good job because those straps aren't that easy to use. I think it would be very helpful if somebody could partition the various sections within the compartment with Beta cloth and a snap, or something, because we were forever and a day opening one of those things up to get one item out. Everything else came out and it was just floating, and, as you know, everything floats up plus-x-wise and you just have to leap on the whole compartment with all your arms and legs to hold everything down while you search for the one item you're wanting. They've grown to such large size, it's almost like having a whole aft bulkhead in one compartment. It was sort of a nagging problem all the way through. It just took that much more time."
+Worden, from the 1971 Technical debrief: "Yes, it did. These straps are very good at holding things down, but they're really designed to strap everything down prelaunch. They're not very well designed for use in flight. They have a very difficult little button fastener in them and the straps themselves have a rubberized feel to them that makes it hard to cinch those things down and get that little button into the loop. I agree with Dave. I think with compartments that large, and with so many small pieces that we're fooling with inside the spacecraft, there ought to be some smaller compartments."
+Scott, from the 1971 Technical debrief: "Every time you opened a compartment, everything just jumped right out at you."
+Journal contributor Henry Spencer: "The stowage problems that the crew is complaining about recurred, on a larger scale, on Skylab. So JSC wasn't paying attention..."
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+061:48:03 Henize: CapCom's with you. [Pause.]
+061:48:13 Scott: Houston, 15. Go ahead.
+061:48:18 Henize: 15, this is Houston. Please disregard. [Pause.]
+061:48:26 Scott: Okay, I'll disregard.
+Very long comm break.
+The crew's rest period of eight hours is due to begin at 62 hours.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 61 hours, 54 minutes. Apollo 15 now 187,163 nautical miles [346,625 km] from Earth. Velocity; 2,995 feet per second [913 m/s].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 62 hours, 4 minutes. Apollo 15 is 187,464 nautical miles [347,183 km] from Earth. Velocity; 2,990 feet per second [911 m/s]. To recap the water tank problem: at 61 hours, 15 minutes, Dave Scott reported a leak in the chlorination port of the water tank, just as he was getting ready to chlorinate the water for the evening. He reported it was a pretty good leak. Water was balling up around the port fairly rapidly. We had the crew close some pressure regulators to relieve the pressure inside the tank to slow the leak, then passed up a procedure involving the use of two of the tools in the onboard toolkit. To the best recollection of people in the Control Center at the present time, this is the first in-flight use of the tool kit for something like this. With these two tools, identified as tool 3 and tool W, tool 3 is an Allen wrench, hexagonal wrench, tool W is a ratchet which enables the crewmen to get the proper leverage on the wrench. With these tools they were able to tighten the chlorination port, and stop the leak. The crew reports that this procedure was - was successful. They're not having a problem with the leak at this time. They've apparently mopped up the water that did leak out of the tank. Dave Scott reported that they'd had a few towels hanging up to dry but other than that he didn't see any problem. At 62 hours, 7 minutes; this is Mission Control, Houston.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+062:14:34 Scott: Houston, Apollo 15.
+062:14:39 Henize: 15, go ahead.
+062:14:44 Scott: Okay; we've got the presleep checklist if you're ready to copy. [Pause.]
+062:14:52 Henize: Gko ahead, Dave.
+062:14:56 Scott: Okay; crew status is good. No medication today. Onboard read-outs: Bat C, 37.0 [volts]; Pyro Bat A, 37.2; B, 37.2; RCS A, 89 [per cent remaining]; B, 86; C, 89; and D, 86. And the H2 fans have been cycled, and the potable water has been chlorinated, and the vents and switches are all set. The cabin's [pressure] at 5.7 [psia, 39.3 kPa], and I'll give you an E-memory dump any time you're ready.
+062:15:40 Henize: We copy; and stand by on memory dump.
+The contents of the erasable memory in the spacecraft's computer will be transmitted to Earth to allow controllers to analyse its state overnight.
+062:15:46 Scott: Okay. You might be interested in another little item. All the meals have been consumed on schedule, and the - the pantry's even had a pretty rigid test so far.
+062:15:59 Henize: Excellent. [Pause.]
+062:16:05 Scott: And our trusty LMP came up with an interesting analogy relative to the last event. He wondered if the original Endeavour had ever sprung a leak like that.
+Jim is referring to the Endeavour, captained 200 years before Apollo 15 by James Cook on a three year voyage of scientific discovery, primarily to record the transit of Venus across the face of the Sun so as to calculate the scale of the Solar System.
+062:16:16 Henize: Hey; that's a good question. We'll get our historians out to check that one. [Pause.] Hey, what did you do with all that extra water? Stick it overboard, or drink it, or what?
+062:16:31 Scott: Oh, no; we've got a bunch of towels hanging up in the tunnel right now. Looks like somebody's laundry. [Pause.]
+062:16:45 Henize: Sy [Liebergot]'s down here guessing that you hosed some of it overboard.
+062:16:52 Scott: Well, you probably saw the motion of the spacecraft. We were just in that process when you came up with a procedure.
+The easiest way to dump water overboard would be through the urine dump system, into space. The discharge would impart a small but detectable force on the spacecraft which would be noticed in the telemetry from the guidance system.
+062:16:58 Henize: [Laughter.] Okay; fine. The PTC's still looking great.
+062:17:04 Scott: Oh, good. [Long pause.]
+The movement that Sy Liebergot noticed has not been large enough to upset the quality of the PTC motion.
+062:17:18 Henize: Okay, Dave. We're ready for the E-mod dump.
+062:17:23 Scott: Okay; here it comes.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+062:20:35 Henize: 15, Houston. We finished the E-memory dump. The Surgeon - the Surgeon says that it's - it's your turn in that biomed harness. And, otherwise, we - don't have any - anything more down here. And, we're ready to secure - the - the voice communications any time you like.
+Changing of the biomedical harness from Jim to Dave was scheduled at 60 hours but it is not a time critical item. It is primarily so that a particular crew member can be monitored overnight.
+062:21:05 Scott: Okay; very well. By the way, how are the biomed harnesses working out for the Surgeons? [Pause.]
+062:21:15 Henize: The word is that we're getting good clean data, and they're very happy with it.
+062:21:21 Scott: Okay; very well. See you in the morning.
+062:21:24 Henize: Roger. Good night.
+Very long comm break.
+This is Apollo Control at 62 hours, 21 minutes. We have secured voice communications with Apollo 15, now. [We] do not expect any more air/ground conversation tonight. Apollo 15 now 187,962 nautical miles [348,105 km] from Earth. Velocity; 2,981 [fps, 909 m/s]. We'll take the air/ground line down now. If there are any more conversations, we'll come back up. At 62 hours, 22 minutes; this is Mission Control, Houston.
+Flight Plan page 3-67.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This Apollo Control at 63 hours, 8 minutes. Flight Director Glynn Lunney and his team of flight controllers are preparing to relieve the Maroon team headed by Flight Director Milton Windler. There will be no change of shift briefing following this shift change. The next change of shift briefing is estimated for 7:15 am Central Daylight Time. We'll summarize the activities during this past 8 hours that the Maroon team has been on duty. [The] spacecraft was taken out of the Passive Thermal Control mode shortly after this team came on duty and Command Module Pilot Al Worden completed a series of ultraviolet photographs of the Earth. Shortly after that, the spacecraft Commander Dave Scott and the Lunar Module Pilot Jim Irwin entered the LM for the second time during this mission. We did not have communication with the LM, and the crew did not give us time hacks on entering or leaving the LM. However from the best cues that we do have, we believe they spent approximately 2 hours in the LM. We saw the first LM data at 57 hours and 2 minutes, which would indicate that, we think, that they powered up soon after entering at that time. We took data for only about 5 minutes and the flight controllers monitoring LM systems reported they all looked good. The batteries are good. The supercritical helium pressures are good. The other cryogenic consumables look good on the LM. We had a call from Dave Scott at 58 hours, 57 minutes when he was back in the Command Module. So it appeared that he and Jim Irwin spent about 2 hours in the Lunar Module, performing housekeeping and inspection chores. They reported later that they did find a few more pieces of glass from the shattered outer pane of the tapemeter. That was first reported yesterday - last night during the first transferring of [means to] the LM. They picked up a few pieces a centimeter or so. And then, with the vacuum cleaner, picked up some smaller chips. They believe they've collected up to 70 per cent of the glass; they've gotten all that is practical. They commented most of the glass appeared to be concentrated near the Crew Optical Alignment Sight and up around the panel on the left side of the cockpit and that the very tiny pieces, the small pieces were drifting about. Shortly after we heard from Dave Scott, when they returned to the Command Module, the back-up crew Commander, astronaut Dick Gordon, passed up procedures for operating the Service Propulsion System, the big Service Module engine. Some updates on those procedures caused by the Delta-V switch problem of day-before-yesterday. We also passed up the information that, as a result of tests run so far here on the ground of the tape meter, we believe there will be no problem with its operation. Those tests are continuing. We're subjecting them to 5 psi oxygen, in a vacuum, and no problems so far during the tests with the tape meter. We powered up some of the equipment in the SIM bay, a Scientific Instrument Module, in the Service Module; primarily the cameras. [We] read out the data on those. That all looks good. Then at 61 hours, 15 minutes elapsed time, Dave Scott reported as he was beginning to chlorinate the potable water on the Command Module, a leak developed in the chlorination port, a rather substantial leak. We advised them to turn off some regulators to reduce the pressure in the tank immediately. And then passed up a procedure which corrected the leak. Consisted of using two of the onboard tools. An Allen wrench and a ratchet to tighten up the port. The leak is attributed to the backing out of a nut, which holds some washers in that port. The crew seemed pleased that they got the procedure fairly rapidly. For that they can thank the subsystem manager for the Command and Service Module crew station. His name is Cris Perner - Perner, from the Flight Crew Integration Division here at the Manned Spacecraft Center. He recognized, prelaunch, the possibility of a leak in this port and had already written out the procedures on what to do if it did develop in flight. As it turned out those procedures did solve the problem. The leak has been stopped, the water has been chlorinated properly now and the crew commented they wondered that if, whether Captain James Cook, the skipper of the original Endeavour, had ever sprung a leak on his ship. They've mopped up the interior of the Command Module with towels that are now hanging in the tunnel, looking like someone's laundry according to Dave Scott.
+We said goodnight to the crew and secured communications at 62 hours, 21 minutes, shortly after Dave Scott reported that the crew status was good, they have taken no medication, that they've consumed all their meals on schedule, and that the cabin pressure was reading 5.7 pounds per square inch for the evening. He also gave readouts on - for batteries and the Reaction Control System quantities, all of which are good. We have, from the Flight Dynamics Officer [FIDO] on the Maroon team, Bill Boone, some updates on estimated - on predicted numbers during the next few maneuvers. This time, it appears that midcourse correction number 4 will require a Delta-V or a change in velocity of 4.1 feet per second [1.25 m/s]; be performed with the Service Module engine, the SPS. The burn duration will be .73 seconds and the ignition time: 73 hours, 30 minutes, 59 seconds. The latest update on the Lunar Orbit Insertion; ignition time, 78 hours, 31 minutes, 34 seconds. A Delta-V of 2,997.5 feet per second [913.6 m/s], again using the SPS. Duration of the burn: 6 minutes, 41 seconds. The predicted lunar orbit resulting from that maneuver: an apolune of 169.5 nautical miles [313.9 km]; perilune, 58.3 nautical miles [108 km]. Descent Orbit Insertion; ignition time, 82 hours 39 minutes 48 seconds. Delta-V, 207.6 feet per second [63.3 m/s]; SPS engine - duration of the burn, 23 seconds. Resulting orbit, 58.5 by 9.3 nautical miles [108.3 by 17.2 km]. The predicted entrance into the lunar sphere of influence has moved up about 2 minutes. Now 63 hours, 55 minutes, 20 seconds. And, here's the latest update on the S-IVB lunar impact. The time of impact; 79 hours, 24 minutes, 38 seconds. The coordinates: 1 degree, 7 minutes south; 11 degrees, 41 minutes west. Apollo 15 now 189,655 nautical miles [351,240 km] from Earth. Velocity; 2,950 feet per second [899 m/s]. At 63 hours, 21 minutes; this is Mission Control, Houston.
+The PAO announcer has given a large amount of information relating to the expected progress of the mission. Important among these is the LOI burn. Apollo 15 will swing around the far-side of the Moon on a trajectory which, if it were unaltered, would have the spacecraft travelling back towards the general direction of Earth as it would be moving too fast to stay in the Moon's vicinity. This LOI burn occurs at around the closest approach on the far-side and it reduces the velocity enough that the spacecraft stays in lunar orbit.
+Once the spacecraft has been established in a safe path around the Moon, the DOI burn modifies the orbit so that the low point of 17 km occurs just east the landing site, placing the LM on the correct trajectory for PDI (Powered Descent Initiation) from where the lander can make the final descent with full tanks. Prior to Apollo 14, the LM made its own DOI burn but mission planners found that it was more efficient, in terms of weight landed, to have the CSM's big engine do this maneuver.
+Since the S-IVB set Apollo 15 on a trajectory for the Moon, the spacecraft's velocity has been steadily decreasing; quickly at first, near Earth with its strong gravitational field; but slower now, as that field weakens with increasing distance. If the spacecraft had not been sent to rendezvous with the Moon, it would have risen to an apogee of over half a million kilometres before falling back to Earth in a highly eccentric orbit. The intervention of the Moon heavily modifies that trajectory. It's gravitational field is increasing its pull on Apollo 15, and soon, gradually, it will have a stronger influence on the spacecraft than Earth's. At an arbitrary point in the middle of a gradual transition, Mission Control will begin measuring and quoting velocity and position with respect to the Moon. Then Apollo 15's velocity will slowly begin to increase as it begins a fall to the Moon. Since the Moon is also travelling towards the point in its orbit where it and the spacecraft rendezvous, their relative velocity will be greater than the spacecraft's velocity relative to Earth. The spacecraft will pass behind the western limb of the Moon and all contact with Earth will be lost (LOS or Loss Of Signal). It will miss the Moon by about 110 km (60 nautical miles) midway through its swing around the far-side and this is when the LOI burn occurs.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 64 hours. We said goodnight to the crew about an hour and 40 minutes ago. The Flight Surgeon reported just a few minutes ago that it appears Dave Scott has now settled down and is asleep. Scott is the only crewman on whom we'll have biomedical data during the rest period. Just a few minutes ago, we passed into the lunar sphere of influence, a point at which for computational purposes, we begin computing the spacecraft's position with respect to the Moon rather than with respect to the Earth. And it's also the point at which the Moon's gravity becomes the dominant force acting upon the spacecraft. We begin to see the velocity increase as the spacecraft accelerates toward the Moon. The Flight Dynamics Officer [FIDO] will shortly be switching his displays over to Moon reference. At the present time, we're still reading velocity and altitude with respect to Earth showing the spacecraft at a speed of 2,930 feet per second [893 m/s] and at an altitude from the Earth at 190,807 nautical miles [353,374 km]. During this shift, principal activities will be to monitor the trajectory of the spacecraft; make any modifications necessary to the planned maneuvers for MidCourse Correction 4 at 73 hours, 31 minutes; and for Lunar Orbit Insertion and the Descent Orbit Insertion burns which occur at about 78 hours, 32 minutes; and 82 hours, 40 minutes [respectively]. Those times precisely are 73 hours, 30 minutes, 59 seconds for midcourse correction 4; 78 hours, 31 minutes, 34 seconds for Lunar Orbit Insertion; and 82 hours, 39 minutes, 48 seconds for Descent Orbit Insertion; all to be performed with the Service Propulsion System engine on the Command and Service Module. The sphere entrance time, entering the lunar sphere of influence was 63 hours, 55 minutes, 20 seconds. During the crew sleep period, we'll be standing by and monitoring for any possible conversation, although during this flight we've had no conversations with the crew during a rest period, and would not anticipate any this evening. We'll be coming up hourly for status reports. At 64 hours, 2 minutes; this is Apollo Control.
+Day 3, part 1: Flashing Lights
+Journal Home Page
+Day 4, part 1: Lunar Encounter

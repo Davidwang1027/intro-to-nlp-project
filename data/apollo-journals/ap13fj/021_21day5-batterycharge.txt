@@ -1,0 +1,775 @@
+Apollo 13 Flight Journal - Day 5, part 5: Starting the Battery Charge
+Day 5, part 4: Wobbles and Bursts
+Journal Home Page
+Day 6, part 1: Packing Up
+Apollo 13
+Day 5, part 5: Starting the Battery Charge
+Corrected Transcript and Commentary Copyright ©2020-2025 by W. David Woods, Johannes Kemppanen, Alexander Turhanov and Lennox J. Waugh. All rights reserved.
+Last updated 2025-02-22
+It is nearing the end of the fifth day of the mission. Their latest efforts have included making a manually fired course correction, and setting up a new Passive Thermal Control rotation before pulling the power from all systems besides life support and the radio. While the crew has been given instructions on how to transfer power from the LM batteries into the Command Module, they are still missing the plan on how to re-start the Odyssey's systems for their Earth reentry some 32 hours away.
+Jack Lousma was advising Lovell that we have ... as I said before, about 161 hours of water on the LM ascent/descent stage based on current consumption rates and this does not include water in which we have available in the command and Service Module or in the portable life support systems, which would extend that margin somewhat beyond the 161 hours.
+And for some 45 minutes or so a fairly sizable group ... about a dozen people or so, have been gathered around the flight director's console, discussing the procedures to be followed during reentry. Lovell just asked Jack Lousma what their procedure was being planned for the oxygen purge systems, the emergency oxygen supply carried with the backpack and lithium hydroxide canisters available. On these, Lousma told him that we haven't reached a conclusion on that. The meeting going on around the flight director's console at this time, is involved with that sort of thing. As well as what procedures to be followed as far as jettisoning the LM and Service Modules ... all of these things being considered and discussed. At the present time Apollo 13 is 139,164 nautical miles from the Earth travelling at a speed of 4,745 feet per second. Also like to clarify again the situation with respect to the super critical helium tank and the burst disk which ruptured at about 180 [means 108] hours ... when the pressure got up to some 1937 pounds per square inch. This burst disk is in the tank for the express purpose of keeping pressure from going above levels which the tank can withstand. Had the disk failed to rupture, we had a backup procedure worked out whereby the tank would be vented manually. Of course, it was not necessary to put this backup into effect because the disk ruptured at about the level it was expected it would. With the burst disk rupturing, what we have effectively lost is the ability to resupply a pressure to the tanks as this pressure is drained off by burning the descent propulsion system engine. However, we do have what is called blow down capability in the engine. That's the pressurization that already exists and which is not lost by depressurizing the supercritical helium tank. This ... the pressure that is in the propellant tanks remains there, is isolated from the supercritical helium tank and is not lost when the burst disk ruptures. With this pressurization we still have some 800 feet per second of Delta-V remaining and usable in the Descent Propulsion System engine.
+Distance to go 257,732 km, velocity, 1446,3 m/s, up some 14 m/s from the previous PAO checkpoint.
+Even with the supercritical helium gone, the residual gas pressure in the DPS propellant system allows them some 244 m/s of thrust for any last minute course correction needs, besides the capacity in the LM RCS.
+110:14:58 Lousma: Everything's running real smooth over in Timber Cove, Jim.
+Jim Lovell's family home is in Timber Cove, near Houston. It is on the western shore of Taylor Lake, northeast from the Manned Spacecraft Center about 4 miles away.
+110:15:05 Lovell: Sounds pretty good. How about at El Lago?
+110:15:11 Lousma: Same. Everything's smooth there, too.
+110:15:16 Lovell: Good.
+Very long comm break.
+El Lago is the home of Jack Lousma, Fred Haise's family, and many other astronauts who have been involved in the mission. It sits on the eastern shore of Taylor Lake, right across from Timber Cove.
+110:23:19 Lousma: Jim, we've had a lot of people working on the entry procedures, and they'll be continuing to do so. We got a few ideas we'd like to toss at you so you can start thinking about them if you think you're in a position to discuss them without waking up the other guys. What do you think? [Long pause.]
+110:23:36 Lovell: Yes, go ahead. It's okay.
+110:23:40 Lousma: One of the first things we want to do is charge the battery in CSM, so we can get some LM power over there to do that, and we have procedures ginned up to do it. In regards to reentry, we're planning our last midcourse at 5 hours before Entry Interface, and, if we have to make one, that is. And then we'd like to jettison the Service Module at 4 hours and a half, roughly, before Entry Interface, and take the next 3 to 3½ hours for taking pictures, cranking up the Command Module G&N, taking care of stowage, and other odds and ends. And we'd hang on to the LM until 1 hour before Entry Interface, and then we'd jettison that. And these procedures are going to be run integrated in the CMS and LMS tomorrow morning, and, hopefully, later on in the day, we'll do it again with Mission Control on the loop. A couple of other things we'd like to toss at you: one question is what do we do with the OPS. The thought is that there is adequate O2 in the Command Module and that the OPS represents high pressure source and a stowage problem, and people are thinking about leaving them in the LM. The other thing is that we think you might want to make this a suited entry, suiting up prior to LM jettison, because what we're doing is, when we jettison the LM, we're going to do it like we did in Apollo 10 ... just let the beauty go, and if we weren't suited, why, we'd be betting on the hatch seal to take care of us. So we thought we'd toss these few ideas at you. Some of them are ones that are particularly pertinent questions at this time. [Pause.]
+There are several interesting points in this long read up from Jack, including many open operational questions that need to be solved before the reentry.
+Spacecraft simulators have been essential during the mission, both in testing upcoming checklist procedures and for simulating the unusual maneuvering characteristics of the LM-CSM stack. Both the Command Module and the Lunar Module Simulators have been busy in this regard, and they have also taken part in "integrated" simulations - meaning that both simulators have been manned and the crews have tested procedures where both spacecraft are simultaneously involved. Lousma envisions that a future simulation will also involve Mission Control, where the controllers may view the simulator-generated data on their consoles the same way as if they were receiving telemetry from the MSFN and the real ship in space.
+The OPS are the backup oxygen supplies for the moonwalkers. The crew has contemplated whether they should take them onboard the Command Module for reentry to supply them with oxygen besides the surge tank and the repress package in the CM. They do also pose problems if they should be used for this purpose. They are heavy, at 40 pounds (18.1 kg) each, and contain extremely high pressure oxygen. The crew would have to be able to strap them on carefully so as not to have the OPS fly around the cabin once they begin to experience deceleration.
+No Apollo crew has reentered with suits since Apollo 7. Right now, there are some doubts over whether they can fully trust the Command Module docking hatch.
+The LM separation is usually a combination of firing pyrotechnics and using the Service Module RCS for an evasive maneuver. During Apollo 10, a mechanical failure in the docking tunnel venting system forced them to jettison the LM with the tunnel pressurized. This created a burst of thrust from the volume of gas in the tunnel and pushed the LM away at a higher speed than usual.
+Exploded view of the OPS, or the Oxygen Purge System. It is a relatively simple device, consisting of two oxygen spheres that contain a total of 4 pounds of usable oxygen at the extremely high pressure of 7,500 ±750 psia. A small regulator unit and a self-contained electric heater complete the system. It supplies oxygen for approximately 30 minutes, allowing an astronaut with a malfunctioning PLSS backpack to return to the LM. Their other envisioned use would be for transferring between the LM and the CM should there be a need for an emergency EVA due to inability to dock or repressurize the LM after their moonwalk.
+110:25:46 Lovell: Okay. A suited entry would sort of [garble] the 1-hour LM jettison back and [garble] back and forth up to that time. [Garble] impede our progress back and forth. [Garble] [Pause.]
+Although Lovell keeps breaking up at first due to the poor radio signal, it is obvious that he is not very keen on a suited entry. The bulky suits, even when unpressurized, would severely hamper their ability to move between the two docked spacecraft.
+110:26:10 Lousma: We're losing you, Jim.
+110:26:13 Lovell: Okay. I think I've got you back. I guess the midcourse at 5 hours prior to [garble]
+110:26:25 Lousma: Affirmative, Jim. Midcourse 5 hours prior to Entry Interface. [Pause.]
+110:26:35 Lovell: If that's the case, all I'm worried about is having that all squared away. It's long before that [garble] I want everything in its place. All the stowage cleared away, all the [garble] ready to go and know exactly what to do and [garble] so that we can do the midcourse, and [garble] get into the Command Module [garble] jettison the Service Module, and then know exactly how to get into the LM.
+110:27:13 Lousma: Roger. All those procedures will work - will be worked out precisely, and we agree that the stowage and all of those peripheral details ought to be taken care of before midcourse. [Pause.]
+110:27:31 Lovell: And, I guess, that last midcourse, we'd want to start looking at midcourse fairly early, if we have the power to do so, mainly because of attitude control. This last time was fairly easy, but I'm not too sure how long we can continue to [garble]. I have the confidence that if everything is under control as it is now, we'll probably be going long before entry. [Long pause.]
+110:28:09 Lovell: I have [garble] in, and it seems about as cold as it is now, we'll probably be going into suits long before entry. [Pause.]
+110:28:22 Lousma: Yes. That's what we were thinking. [Long pause.]
+110:28:50 Lousma: I guess the two things which are somewhat unresolved at the moment are what to do with the OPS and what to do about the suited entry. We thought we'd toss those at you to see what you thought about them.
+110:29:06 Lovell: Okay. As far as the OPS is concerned, we have enough oxygen in the spacecraft [garble] to get us through. I have no [garble] Command Module [garble] suit loop prior to entry. I was looking at [garble] OPS [garble] sources of oxygen [garble] also in the - in the front of the suit loop or [garble] circulate [garble] [Long pause.]
+110:30:06 Lousma: Jim, I'm sorry. We're not catching what you're saying. The comm is getting kind of bad right now.
+110:30:15 Lovell: Okay, Jack. How do you read now?
+110:30:18 Lousma: I've still got you with quite a bit of background noise, but if you talk up like that, I think we can hear you.
+110:30:26 Lovell: Okay. My only concern about leaving the OPS and/or the PLSS in the Command Module is how soon do we have to live off the Command Module consumables prior to entry, and the PLSS has a fan and has a lithium hydroxide [garble] use the Command Module system. Also, the OPS [garble] right now [garble] Command Module [garble] Command Module oxygen and electrical power is [garble] but I had just as soon be [garble] back in the LM.
+110:31:10 Lousma: It sounds like the general gist of your comments are that if things remain pretty much as they are now in the Command Module, you'd just as soon leave the OPS in the LM. Is that affirm?
+110:31:24 Lovell: That's affirm. [Pause.]
+Jim suggests that they could save power and resources by using the PLSS inside the Command Module to provide them with oxygen and CO2 removal. However, knowing how much oxygen remains in the CM's own stores, he doesn't see this as something they must do.
+110:31:31 Lousma: Okay. And maybe you'd like to think over the suited entry bit a little while. [Pause.]
+110:31:40 Lovell: Okay. [Long pause.]
+110:32:01 Lovell: Houston, Aquarius.
+110:32:02 Lousma: Go ahead.
+110:32:06 Lovell: Okay [garble]. How we align the Command Module right for entry, especially if you have the LM in back. Over.
+110:32:21 Lousma: Roger. That's one subject that's been getting a lot of attention, and let me see if I can get some general ideas on that at the moment. [Pause.]
+110:32:33 Lovell: Okay.
+Long comm break.
+110:35:36 Lousma: Jim, I can give you the general idea of the proposed procedure for bringing the Command Module G&N up. It's the presently proposed one. We may come up with a better one, but there's what we're looking at right now. First thing we plan to do is to - using the LM COAS, sight on the Earth with the LM just as we did in the midcourse. Then we'll do a body-axis align, 400 plus 5 on the AGS, to put the AGS ball at 000. And then we can give you an AGS ball attitude to fly to, to point the CSM optics at the Moon. And, if you can see stars, why, we can use those too. Then we can give you an equivalent set of CDU angles to put into NOUN 20 and to torque the platform over. So, now we're coarse aligned. Then we do a fine align by shooting at the Moon and then at the Sun. Do you follow all that? [Long pause.]
+Lousma suggests that they can produce a rough attitude reference by once again lining up the COAS with the Earth terminator, to align the AGS into a known body reference.
+The AGS can be programmed to establish its attitude reference along the LM body axes, which means that they correspond to the physical axes of the spacecraft, as detailed in the diagram.
+This initial idea proposed by Jack Lousma here is that they would use the Earth terminator to align the LM and then use the AGS' 400 +50000 function to align the AGS' attitude reference to the body axes of the spacecraft. With the 8-ball enabled via the AGS, they can then maneuver the stack and offer them a chance to do a coarse align of the Command Module's IMU using sightings of the Moon, and later do a Moon-Sun check for the fine alignment of the CM inertial platform.
+110:37:05 Lovell: Okay, Jack. Let me see if I have it. What we do is point the LM at the Earth as we did for the midcourse COAS, and we do a body-axis aline on the AGS. Then you give us an AGS ball attitude to fly to. [Garble] the LM, and then we [garble] point the [garble] at the Moon. Then you would update the - give us some CDUs to coarse align. [Garble] fine align [garble] on stars or the Moon or the Earth. Stand by. Okay. We had another Master Alarm, Jack. I don't see any lights down there, except the battery light's still there. You want - [garble] ECS display . Okay. And the number 2 battery still has a light on it. I suspect it may be the same problem that we had before [garble]. [Garble].
+LM battery display. Original scan via heroicrelics.org
+110:38:30 Lousma: Okay. Let us talk it over a second, and we'll tell you what to do. [Long pause.]
+110:39:00 Lousma: Jim, is the battery light kind of flickering?
+110:39:06 Lovell: Yes. That's affirm, Jack. [Pause.]
+110:39:16 Lovell: Yes. The battery light's flickering, and it triggers off the Master Alarm.
+110:39:21 Lousma: Okay. Well, that ... temperature sensor on battery 2 is kind of cycling back and forth and every time it does, it triggers a Master Alarm, Jim.
+110:39:37 Lovell: Okay. Same old problem, huh?
+110:39:39 Lousma: Yes. [Long pause.]
+110:40:13 Lousma: And, Jim, finally on the P52, we're considering using the ... the Moon and then the Sun for the fine align.
+110:40:24 Lovell: Okay. The Moon and the Sun for the fine align. Understand. We'll go through this again here [garble]. [Long pause.]
+110:40:55 Lovell: Okay, Jack. Once ... Once I get the spacecraft at the proper attitude [garble]. [Long pause.]
+110:41:22 Lousma: Jim, I didn't copy your last question due to background noise. [Pause.]
+110:41:29 Lovell: Okay. Once ... Once you get the AGS ball aligned [garble] Command Module [garble]. [Pause.]
+110:41:49 Lousma: After we do the body axis align on the AGS, we can tell you what attitude on the AGS ball to fly to in order to point the CSM optics at the Moon or at some star. And then we can, knowing where the optics are pointed, give you an equivalent set of CDU angles to put in Noun 20 to torque the platform.
+Diagram of the various ways to determine the three axes of motion onboard the Command Module. The angles detected by the IMU are off-set from the physical axes due to the positioning of the IMU, and are taken into account. The optics' placement and angles are also computed into the system when using star and other sightings for aligning the platform.
+Lousma describes an interesting way to coarse align the IMU here. The plan is to activate the AGS and align it to the Earth terminator, hence the LM has an attitude reference. AGS can be then used to rotate the spacecraft stack so that the Command Module optics have the Moon, or possibly a star - centered in the sextant. From this, they can derive the values of Noun 20 (ICDU Angles Y, P, R) for the Command Module Computer. Normally they would use the optics to tell the computer where the Moon is at the particular time, by pressing the 'Mark' button on the Optics console. This sends the computer angular information on the pointing angle of the sextant, which is then fed into the CDU - the Coupling Data Unit - and the information is sent to the computer to derive the present IMU orientation based on the angle. Here they skip the whole marking routine by providing this information from Mission Control where it can be derived mathematically using the angular information they already have.
+110:42:22 Lovell: Okay. I see. [Pause.]
+110:42:30 Lousma: That's the current thinking. It may change between now and tomorrow, but right now, that's the way it looks, Jim. It'll probably be some take-off on that anyway.
+110:42:43 Lovell: Okay. Are they planning on a G&N entry or using another system, like EMS or something like that?
+G&N is the Guidance and Navigation system aboard the spacecraft.
+110:42:54 Lousma: It will be a G&N entry.
+110:43:01 Lovell: Nothing like going first class.
+They are joking about the fact that they plan to use the computer-controlled guidance system for the landing, instead of the more rudimentary, if functional Stabilization Control System-based backup of using the EMS display to guide them to a manual landing.
+110:43:06 Lousma: Yes. That'll be a switch, won't it?
+Long comm break.
+Lousma probably joins in on the joking by suggesting that usually in their simulations, the primary guidance is the one to fail and they are forced to go for a manual SCS-assisted reentry instead of using PGNCS.
+110:46:00 Lousma: Jim, are you broken into the food locker in the LM yet?
+110:46:06 Lovell: That's affirm, Jack. I sure have. I just put a meal away.
+110:46:14 Lousma: You say you did find everything in order in there, huh?
+110:46:20 Lovell: Yes, everything was great.
+110:46:22 Lousma: Okay. I'll pass it. [Long pause.]
+110:46:40 Lousma: I had a question about that earlier.
+110:46:46 Lovell: Right.
+Comm break.
+Once again they are implying that something special must've been in the food locker, but we are not privy to this information.
+110:48:13 Lovell: Houston, Aquarius.
+110:48:16 Lousma: Go ahead.
+110:48:19 Lovell: I understand that one of your reasons for a suited entry is the fact that the Command Module hatch [garble] hasn't been good. It doesn't seem to be any different, but in the other [garble] our hatch is no better than other spacecraft. [Long pause.]
+110:48:58 Lousma: No, the situation, Jim, is that your hatch is as good as any other hatch but that we won't have a chance to verify it until so late in the game, like 1 hour before Entry Interface, in this case; whereas before, why, we had a chance to evaluate it in lunar orbit. Over.
+Although the crew was unable to install the hatch earlier, during the accident, Lousma implies that the main reason for the Mission Control's doubts about its integrity is the fact that the hatch has not been used in the mission-specified manner, including depressurizations and repressurizations as well as undocking and redocking at the lunar orbit. All these procedures, plus the three-day coast back home, gives the crew ample time to perform tests on the seal to make sure that the Command Module is indeed airtight.
+110:49:23 Lovell: Oh, okay.
+110:49:27 Lousma: And that might make your time line a little too crowded, getting your suits on there at the last minute; say, less than an hour before Entry Interface. [Pause.]
+Data documents for the Apollo program contain figures for many standard and non-standard values, including the approximate time that it should take for the crew to don their space suits. 9 minutes, 17 seconds is apparently the fastest one has been put on in zero-G. During normal operations, each crewmember is allocated 20 minutes to put on their suit - doing it one by one, presumably due to the wriggle room required. Hence the Flight Plan always has a one-hour block for all three to suit up, each in turn.
+110:49:44 Lovell: Okay. [Long pause.]
+110:50:30 Lousma: Jim, the next action item we want to pursue is transferring some LM power up to the Command Module Main B so we can start charging battery, and I guess what we ought to do is start on that one when somebody else gets up to help you there. So, when you decide to get the other guys up, or to have someone help, why, let us know and we'll start working on that.
+110:51:03 Lovell: Okay. I'll let you have Jack, and Fred's [garble]. When in the time line [garble]? [Pause.]
+110:51:18 Lousma: Say again, Jimm. I did't catch that.
+110:51:23 Lovell: When in our time ... What's the GET do you plan on [garble]. [Long pause.]
+110:52:07 Lousma: Jim, I didn't catch all of what you said, but I think you wanted to know when the procedure for entry are going to be available and read up to you. If that's the case, why, we're talking about 120 hours or so. As far as the ... charging battery A, we want to do that as soon as the other guys get up to help you. We've already passed up some of that procedure, and we have a couple of Deltas to it.
+110:52:37 Lovell: Roger. Jack's already up. He asked [garble] curious when you want to do it. Did you understand that? [Garble]. Is that correct? [Long pause.]
+110:53:00 Lousma: Jim, we're having trouble hearing you. The next order of business is to charge battery A, and when you get somebody to help you there, why, we'll go ahead and get done with it.
+110:53:13 Lovell: Okay. Sounds good.
+110:53:17 Lousma: And, before you start working on it let us know, because we've got some Deltas to the battery charging procedure.
+110:53:26 Lovell: Roger. I'm putting Jack on the line now to copy down the Deltas [garble]. [Long pause.]
+110:53:54 Swigert: Okay, Jack. Go ahead. [Pause.]
+110:54:02 Lousma: Aquarius, did you call?
+110:54:06 Swigert: Yes, Jack. I'm on the line. [Garble] [Pause.]
+110:54:17 Lousma: Okay. Go ahead now. I can hear better.
+110:54:22 Swigert: Okay, Jack. Joe Kerwin passed me up the procedure for powering the CSM from the LM. Has it changed?
+110:54:32 Lousma: Yes. If you'll get that out, I'll read you the Deltas. [Pause.]
+110:54:42 Swigert: Okay. I've got it.
+Jack with the checklist. 16mm onboard film capture.
+A preliminary checklist was read up to the crew earlier at 095:13 GET, and is going to be amended now. Jack is in charge of the Command Module documentation, including the new procedures.
+110:54:47 Lousma: Okay, The second step was in the LM circuit breakers panel 11 and 16: Ascent ECA Control, close, two of them. Cross that out. In the next line, we had Battery 5 Normal Feed, on; cross out Battery 5 and put Battery 6 in there. In the next line was ...
+The previous checklist started with Ascent ECA breakers being closed, followed by the aforementioned Ascent ECA Cont breakers. This step is now eliminated.
+110:55:17 Swigert: [Garble] Jack [garble]. Hey, Jack; I have for step 3, I have Bat 5 and Bat 6 Normal Feed, on. You just want Bat 6?
+The new checklist only switches one of the two Ascent Stage batteries into the EPS.
+110:55:30 Lousma: That's affirmative. Just Bat 6, Jack. And the next line, you had Battery 1 and 3. Make that Battery 1, 2, 3, and 4. Just add Bats 2 and 4. All four descent Bats. And then the next two lines about waiting 30 minutes, cross that out. And the next line about Batteries 2 and 4 Off/Reset, cross that out, too. [Pause.]
+The new procedure resets all the four Descent Stage batteries and removes the period of conditioning that had been previously considered for them.
+110:56:09 Lousma: And, Jack, the ...
+110:56:10 Swigert: Okay. Let me read ...
+110:56:12 Lousma: Go ahead.
+110:56:14 Swigert: Let me read you all the steps as I've got them, Jack, and make sure we've got them right. [Garble] Ascent ECA, two, closed. Step 2 will now be Bat 6, Normal Feed, on. Step 3, Bats 1, 2, 3, and 4, Off/Reset. [Pause.]
+110:56:44 Lousma: Okay. That part's all right, Jack. And we had ... about 11 or 12 steps for the Command Module. They go as is with no change. And then we had a couple of more procedures for the LM. Stand by 1.
+110:57:12 Swigert: Okay. Jack, let me read you Command Module procedures just to make sure I have them right, also.
+110:57:18 Lousma: Okay. Go ahead with the Command Module procedures.
+110:57:23 Swigert: Okay. Connect LM and CSM umbilicals. Step 2, panel 5: LM Power 1 AC and 2 AC, closed, circuit breakers. Step 3, panel 5: EPS Sensor Signal, Main B, closed. Step 4, panel [garble] Power Entry/Postlanding closed. Then there's step 5: Main B Bat Bus B, closed. Verify Main Bus voltage, then switch the LM power to CSM. Step 7: CB Main B Bat Bus B, open. And on panel 250, Bat B Power Entry and Postlanding, open. Verify Main Bus voltage. [Long pause.]
+Jack recalls the procedure to set up the Command Module's power system to receive current from the LM. This amounts to connecting the two spacecraft together with the umbilicals and setting the circuit breakers and switches into the correct position so that an electrical current can flow from the LM to the Command Module once battery charge begins.
+110:58:49 Lousma: Okay, Jack. The CSM procedure's okay, and, then we had to go back to the LM and do something. And the first line is okay, cross out "Bat 5 and 6 Off," delete that. And delete the next line also, that says "Panell 11 to 16 Ascent ECA Control, open." Then we had a couple of notes which remain the same. Go ahead.
+110:59:20 Swigert: Okay. I didn't get the notes, but I'll read you the steps as I have them now. One step, Bat 1, 2, 3, and 4 [garble] and at this point should have Batteries 1, 2, 3, 4, and 6 On. Is that affirmative?
+This leaves 5 of the 6 LM batteries on the line.
+110:59:39 Lousma: That's affirmative. So now we have Bat 1, 2, 3, 4, and 6, On, and I got two notes. Number 1 is: your circuit breaker protection limits ... your circuit breaker protection ... limits the current to 15 amps. Number 2 note is: now the umbilical between the LM and the Command Module is hot. And the Main Bus voltage can be monitored by selecting Main B. [Long pause.]
+111:00:46 Swigert: Okay, Jack. These notes are: circuit breaker protection limits current to 15 amps. The tube, the umbilical between the CSM and LM is hot. I can monitor Main B for the bus voltage.
+The electric current in the LM umbilical during normal coasting flight does not usually go past approximately 5 amps, used by the LM equipment heaters. Working the umbilical at the maximum capacity allowed by the circuit breakers will cause more of the electric current to be wasted as heat, and hence heat up the cable.
+111:01:04 Lousma: That's affirm, Jack. [Long pause.]
+111:01:22 Swigert: Okay, Jack. One question here. If we transfer power like this, we're not going to cut us short on power remaining in the CSM [garble], are we [garble]?
+Jack is probably meaning to ask about the LM here, rather than the Command Module.
+111:01:37 Lousma: Say it again, Jack. I didn't get it.
+111:01:43 Swigert: Okay. Stand by. If we configure the CSM for powering up the LM, we aren't going to cut it short on LM power requirements to get us back in the Entry Interface, are we?
+111:02:03 Lousma: That's a negative, Jack. According to the latest update, we've got ampere-hours out to 203 hours. [Long pause.]
+111:02:20 Swigert: Stand by. [Garble] [Long pause.]
+111:02:40 Swigert: Okay, Jack. One question from Jim is, he wants to know whether the procedure has been tried [garble]. [Pause.]
+111:03:04 Lousma: Okay. Try it again, now, Jack. What did Jim want to know?
+111:03:10 Swigert: Okay. He would like to know whether the procedure has been tried and whether it has been found to be okay; and there's no danger of shorting out any of our batteries or anything we have on board the LM now. [Long pause.]
+111:04:20 Lousma: Okay, Jack. This procedure has not been tried out as such; however, the hardware paths through which the current flows are the same ones which we used during translunar trajectory, and there's not a problem with shorting out a descent battery. Over. [Pause.]
+Lousma's reply is a diplomatic 'no' at best to Jack's concerns.
+111:04:47 Swigert: Okay. I'll relay that to Jim. [Long pause.]
+Jack is relaying his Commander's worries here, although he must have shared them with both of his crewmates. Using the LM umbilical essentially in reverse like this is not what it has been designed to do, but thanks to the emergency planning, its capacity to supply power the other way around is a known variable and has been ready to be implemented at least since Apollo 11. It is likely that the crews had not practiced it during simulations, however. The word from Mission Control is that everything should go fine, since they are not abusing the hardware.
+111:05:09 Lousma: Jack, of course, the reason for all of this is that we see we're 20 amp-hours short on one of the entry batteries, and we've got to juice that up to get you home with.
+111:05:25 Swigert: Okay.
+These 20 amp-hours are really what stands between their safe return and possibly running out of power during reentry.
+111:05:30 Lousma: Okay. Now, what we owe you from here on out is the actual battery A charge procedure, and then a procedure to turn this all around, again. [Pause.]
+111:05:48 Swigert: Okay. Do you have it there, and how long is it [garble]. [Long pause.]
+111:06:15 Lousma: Okay, Jack. I have the procedure in front of me. It's about 18 steps, and the reason it's so long is because we're starting from this basic configuration which we gave you earlier. It concerns a charge on battery A, of course, which is our low one. So, when you're ready to copy it, let me know.
+111:06:40 Swigert: Okay. Let's go at it.
+Battery charge procedure from the Flight Operations Report.
+111:06:46 Lousma: Okay. Are you ready to read ... copy it?
+111:06:53 Swigert: Go ahead.
+111:06:54 Lousma: Okay. On panel 250, circuit breaker Bat A, Power Entry/Postlanding, close; on panel 275, circuit breaker Inverter Power 2, Main B, close. Next several circuit breakers are on panel 5; circuit breaker Bat Relay Bus, Bat A, close; circuit breaker EPS Sensor Unit, AC Bus 2, close; CB EPS Sensor Signal, AC2, close; CB Battery Charger, Main B, close. Are you still with me? [Pause.]
+111:08:28 Swigert: Okay, Jack. I'll read back those steps you gave me so far. Panel 250 CB Bat A, Power Entry/Postlanding, close, panel 275, CB Inverter Power 2, Main B, close; panel 5, CB Bat Relay Bus, Bat A, close; CB EPS Sensor Unit, AC Bus 2, close; CB EPS Sensor Signal, AC2, close, CB Bat Charger, Main B, close. [Pause.]
+This lengthy procedure connects the depleted Battery A into the power bus in the Command Module, powers the instrumentation needed to monitor the battery charging, plus connects inverter 2 and the battery charger to Main Bus B.
+111:09:06 Lousma: Okay. Good readback, Jack. The only one is number 1 ... number 4. I didn't get your readback, but it's EPS Sensor Unit AC Bus 2, close. You got that?
+111:09:22 Swigert: Yes. I read that back CB EPS Sensor Unit, close.
+111:09:30 Lousma: Okay. To continue ... to continue on ... the same panel, panel 5: circuit breaker, Battery Charger, AC Power, close; circuit breaker Battery Charger, Bat A Charge, close; circuit breaker Inverter Control 2, close; circuit breaker Inverter Control 3, close; I've got a switch for you, Main Bus Tie, Bat A/C, Off; and another switch, Battery Charge to AC2. Read those back. [Long pause.]
+111:10:51 Swigert: Okay, Jack. CB Bat Charger to AC Power, close. Stand by. Okay. I had to get a light here. CB Bat Charger, Bat A Charge, close; CB Inverter Control 2, close; CB Inverter Control 3, close; the two switches, Main Bus Tie, Bat A/C, Off; and the second one, Bat Charger to AC2.
+These steps set up battery A to be charged, and for AC Bus 2 to power the battery charger.
+111:11:30 Lousma: Okay. That's a good readback. How about reaching over there on your right-hand side and turning the Biomed off? See if we can improve the Comm a little bit. [Long pause.]
+111:12:02 Swigert: Okay. How do you read, now?
+111:12:03 Lousma: Okay. I'm reading you real good now, and I want to verify that the main bus tie that we switched Off was Bat Alpha Charlie.
+111:12:15 Swigert: That's verified; Main Bus Tie, Bat Alpha Charlie, Off. And that should [garble].
+The Main Bus Tie switches connect the batteries to the main buses. They want the batteries to be offline, of course, while being charged.
+111:12:22 Lousma: Okey. And in panel 3, I've got a switch for you. AC Inverter 2 to Main B. [Pause.]
+111:12:39 Swigert: Okay. AC Inverter 2 to Main B.
+This switch selects the AC Inverter 2 to supply alternating current to Main Bus B.
+111:12:42 Lousma: Okay. And switch Inverter 2, AC Bus 2 to on; and another switch, AC Bus 2 Reset, to reset and center; switch Battery Charge to Alpha; switch DC Indicator select Bat Charger, and then what we want you to do is to report the charger current and voltage to MSFN every l0 minutes for the first half hour, and then once every 30 minutes after that. And that'll be on our call, Jack. Read back the switches that I just gave you. [Long pause.]
+111:13:58 Swigert: Okay, Jack. It's panel 3, AC Inverter 2, Main B; Inverter 2, AC Bus 2, on; AC Bus 2 Reset to reset and center, Bat Charger to A, AC Indicator select to Bat Charger. Report amps and volts to MSFN every 10 minutes for the first 30 minutes, and then every 30 minutes on a MSFN call.
+These final steps start the actual battery charger. They power up the AC Bus 2, select the battery charger mode to battery A, and then rotate the DC display selector so that the instrument on the console will show the voltage and amperage of the battery charge.
+Since the telecommunications and telemetry remains unpowered, the crew is in charge of reporting the progress of the battery charge to Mission Control with regular updates.
+Flow chart of the Command Module Electric Power System. To charge the battery A for now, they need to set up the circuit breakers and switches so that electric current may flow from the LM Umbilical to DC Main Bus B. From, there, the LM battery current is connected to the battery charger through Main Bus B for the DC power, and to one of the inverters to supply AC power to the charger. The battery A itself is connected to the system through the Battery Bus. The charge procedure is normal besides the source of the electric power coming into the charger, which would normally be supplied by the fuel cells.
+111:14:29 Lousma: Okay. That's a good readback, Jack. Now the only thing we owe you is a turnaround from this, which we will have.
+111:14:40 Swigert: Okay. Let me ask one question, here. About how long do you think it'll take to charge these batteries?
+111:14:45 Lousma: It's going to take you about 15 hours. [Long pause.]
+111:15:09 Swigert: Jack, about how many amperes of LM power will this 15 hours [garble]? [Pause.]
+111:15:21 Lousma: Stand by. We'll get it for you ...
+111:15:22 Swigert: How many, Jack?
+111:15:26 Swigert: Okay. He got it. He got the question. [Long pause.]
+111:15:49 Lousma: Okay, Jack. That's going to take 120 amp-hours out of the LM, which is equivalent to 10 hours, which will put us back to 193 hours, and that's plenty.
+The nature of the power transfer and the battery charger means that for the 20 amp-hours transferred, they spend 120 amp-hours overall, with those 100 amps lost to the process.
+111:16:07 Swigert: Okay. Let me relay that to Jim here. It'll be 120 amp-hours, which leaves us ... which puts us back from 203 hours [garble] to 193 hours.
+111:16:20 Haise: Yes, there's that much to spare. [Pause.]
+111:16:35 Haise: Okay, Jack. One question here. If we have any problem setting up this LM power to the CSM, is the quickest way to get out of it, return to the normal configuration, as it is for me to just switch the LM Power to CSM to Reset then Off? [Pause.]
+111:16:57 Lousma: Stand by 1.
+111:17:02 Swigert: I would like to give one quick step in case that gave Jim report some sort of problem for us to get out of it quickly.
+111:17:11 Lousma: Okay. Let us talk it over for a minute, Jack.
+111:17:16 Swigert: Okay. Real fine. And while you guys are talking it over, you might read back ... Have you got the procedure for reversing this? I'll copy that.
+Long comm break.
+111:20:00 Swigert: Okay, Jack. Are you with me?
+111:20:03 Lousma: Yes. We're still here, Jack. What we want to do is follow you through on this, so we're going to get high bit rate to do it. In answer to your question, to undo this procedure quickly, in the event a problem develops, be sure that you don't touch the LM Power switch because it's got a Reset position. But the way to undo it; is go into the CSM and on panel 5 open two circuit breakers. And they're some of the first ones we read to you. Open LM Power-1 Main B, and open LM Power-2 Main B. You copy that?
+Jack wants to know how to stop the battery charge in an emergency. He is told not to touch the LM power selector switch in the Command Module, because the Reset position could cut off the connection. Hence he is told to simply pull the two LM Power breakers that connect the LM umbilical directly to Main Bus B.
+111:20:45 Swigert: Okay. Understand. If I want to get out of this real quickly, I have to open just two circuit breakers in the CSM; that's on panel 5, LM Power-1 Main B, LM Power-2 Main B.
+111:20:58 Lousma: Okay. And before you go ahead with this, let's establish high bit rate and wait 1 on that. And then as we go through the procedure we want you to wait when you get power on Main B so we can take a look at Main B without any loads on it before we start charging the batteries. [Pause.]
+111:21:31 Swigert: Okay. I understand you want high bit rate on the LM or CSM just before we start this?
+111:21:40 Lousma: That will be high bit rate on the LM, and stand by for it.
+111:21:45 Swigert: Okay. [Pause.]
+111:21:52 Lousma: Okay, Jack. Before we go ahead with this, what we want to do is read you the reverse ... the normal reverse procedure.
+111:22:00 Swigert: Okay. I'm ready to copy. [Long pause.]
+111:22:56 Lousma: Okay, Jack. I got the start on how you reverse this procedure. Ready to copy?
+111:23:04 Swigert: Go ahead, Jack.
+Battery charge reverse procedure from the Flight Operations Report.
+111:23:06 Lousma: Okay. First you want to reverse the battery charge procedure. To do that, on panel 3, switch Battery Charge, Off; AC Inverter 2, Off; panel 5, Main Bus Tie Bat Alpha Charlie, On, up; panel 250, circuit breaker Bat Alpha, Power Entry, and Postlanding, Open. Read back. [Long pause.]
+111:23:59 Swigert: Okay, Jack. On panel 3, Battery Charger, Off, AC Inverter 2, Off; on panel 5, Main Bus Tie Alpha Charlie, On; panel 250, CB Bat A, Power Entry and Postlanding, Open.
+These steps simply turn off the charger and removes battery A from the power system.
+111:24:23 Lousma: That's affirmative, Jack, and then if you'll go back to the rest of the circuit breakers on that list, and just opposite ... Open them all up. Stand by 1. [Long pause.]
+111:24:52 Lousma: Okay, Jack. Go back to the battery charge procedure I gave you. And, in order to terminate charge, just ... You'll just have to write "Open" or "Off" next to the circuit switch that I gave you. So on panel 250, that circuit breaker you've already opened; on panel 275, Inverter Power-2 Main B, open; panel 5, Bat Relay Bus Bat A, open; EPS Sensor Unit AC Bus 2, open, EPS Sensor Signal AC2, open; Battery Charger, Main B, open; Battery Charger AC Power, open; Battery Charger, Bat A Charge, open; Inverter Control 2, open; Inverter Control 3, open; you've already done the Main Bus Tie; and then Bat Charge switch to AC 1. Over on panel 3, you have already set the AC Inverter 2 to Off and then Inverter 2 AC Bus 2, Off; AC Bus 2 Reset to Off. You have already put the Battery Charger switch to Off; and your DC Indicator select to Main B. Over. [Pause.]
+This is reversal of the earlier procedure, which amounts to opening the breakers they closed earlier to power up the system.
+111:26:46 Swigert: Okay, Jack. Do you want me to read it back to you?
+111:26:51 Lousma: No, if you've got something in the right-hand column for all of those, we don't want to have to do it. And now one more thing I owe you is how to untransfer LM power to the CSM, and I'll get that for you in a jiffy.
+111:27:22 Swigert: Okay. I'll be standing by to copy it.
+111:27:25 Lousma: Okay. We have a last minute change to that.
+Very long comm break.
+This is Apollo Control at 111 hours, 30 minutes. The procedure being read up to the crew by CapCom Jack Lousma, is for recharging one of the three entry batteries on the Command Module; battery A which is down about 20 amp-hours. A full load on the entry batteries is nominally about 40 amp-hours, and we understand the other two batteries, B and C are essentially fully charged. Battery A is down about 20 amp-hours and their plan is to replace the energy in the Command Module battery A with electrical energy from the Lunar Module. This procedure will require about 15 hours of charging time, and will draw a total of about 8 amps from the LM.
+111:32:23 Swigert [Garble] but I just want you to figure up [garble] and show me when to power up and [garble]. Yes I think so. [Garble]. [Long pause.]
+111:33:12 Swigert: Houston, 13. [Pause.]
+111:33:23 Lousma: Go ahead.
+111:33:27 Swigert: Okay, Jack. One thing ... I guess you probably all have considered it, but what heavy things can we store down there where the SRCs normally go to help increase our L over D?
+111:33:43 Lousma: I understand the question is what kind of heavy things can you store where the SRCs go.
+111:33:50 Swigert: Yes. They go down in the LEB underneath the computer, and the heavier things you have down there increases the L over D. We don't have any SRCs, so I was just wondering what heavy things ... We could probably put some cameras, television cameras, things like that that normally pretty heavy down there in ... that, in our SRC. No, we can't, put the in our SRC, but we could put them in that container down there which would help decrease our L over D. Anything else you can think of would be greatly appreciated because we don't even have a throw away station, so we're down a little bit in L over D.
+111:34:33 Lousma: Okay. Let me pass that question along, and get somebody working on it. [Long pause.]
+During re-entry, the center of gravity in the Command Module is deliberately offset so that the capsule attempts to maintain a lopsided attitude with respect to the airflow. This allows them to modify the relationship of the drag (how much the atmosphere is slowing them d own) and the lift (how much their hull, acting as a wing, is working to keep them flying instead of plummeting down.) To maintain this position, the weight onboard is unevenly distributed.
+This issue was dramatized in the Ron Howard film, but with some inaccuracy. The movie implied that they needed to add ballast to the Command Module to alter their approach corridor before re-entering Earth atmosphere. Their true concern is, however, of weighing down one part of the Command Module so that they would approximate their normal return weight distribution, for which the whole landing profile is designed for. Jack is concerned that without the usual ballast there - the moon rocks in their heavy boxes - they will need to come up with something else to put there to maintain this weight ratio.
+111:35:03 Lousma: Souvenirs, I guess.
+111:35:09 Swigert: What souvenirs? [Laughter.] All I've got is a Marine Corps foxhole-digging shovel.
+111:35:19 Lousma: You've got all you need then, buddy. [Pause.]
+Jack is probably taking a playful jab at Lousma, who is a member of the US Marine Corps while Swigert himself is a US Air Force pilot.
+111:35:27 Lousma: Okay. Ready to copy the power removal from the Command Module/LM umbilical.
+111:35:35 Swigert: I'm ready to copy. Go ahead.
+111:35:40 Lousma: Okay. This assumes that all the descent batteries are on line and Ascent Battery 6 is on Normal Feed, as we said earlier. First thing you do is go in the CSM and look on panel 5 circuit breaker. LM Power-2 Main B, open; LM Power-1 Main A, open; circuit breaker EPS Sensor Signal Main B, open.
+This opens the two circuit breakers that govern the power flow between the two spacecraft. The third breaker supplies power to the EPS instrumentation.
+111:36:18 Swigert: Hey, Jack.
+111:36:20 Lousma: Go ahead. [Pause.]
+111:36:31 Swigert: [Garble]. You got just a little bit scratchy there because of the antenna problem. Let me read this back to you. [Long pause.]
+111:36:53 Swigert: Okay. What I got, Jack, was the procedure assumes that all Descent Batteries are On, and Bat 6 is on Normal Feed. Now we're going into the LM and on panel 5, we take LM, or CB LM Power-2, Main B, open. And that's as far as I got.
+111:37:18 Lousma: Okay, the second one is on panel 5 also. Circuit breaker, LM Power-1, Main A, open; circuit breaker EPS Sensor Signal, Main B, open. Okay, read those back for the CSM, and I'll give you some steps in the LM. [Pause.]
+111:37:40 Swigert: Okay. [Long pause.]
+111:37:58 Swigert: Okay. CB LM Power-2, Main B, open; CB LM Power-1, Main A, open; CB EPS Sensor Signal, Main B, open. Stand by 1, Jack. [Pause.]
+111:38:15 Swigert: Jack, I don't think we ever closed CB LM Power-1, Main A. We closed LM Power-2, Main B, and LM Power-1, Main B. Both of them on Main B. [Pause.]
+111:38:36 Lousma: Yes, you're right. Both of them should be Main B.
+111:38:42 Swigert: Okay. Copy that.
+Swigert has noticed an issue in the nomenclature being used. The two LM Power circuit breakers are called LM Power 1 and LM Power 2, and they both supply power from Main Bus B. It is uncertain where the confusion arose in Mission Control, but Jack is quick to catch onto it.
+111:38:47 Lousma: Okay. Ready to copy the LM?
+111:38:52 Swigert: Okay. Go ahead.
+111:38:55 Lousma: Okay. On panel 16 circuit breaker, EPS, Bat Feed Ties, two, open; and now you've got to listen real carefully for high volts and low volts, Battery 1, High Volts, to Off/Reset; Battery 2, Low Volts, to Off/Reset and then On: Battery 2, High Volts, to Off/Reset and then On; Battery 1, High Volts, On; and then the circuit breaker on panel 16, EPS: Bat Feed Ties, both of them, closed. Read back. [Pause.]
+111:40:20 Swigert: Okay. On the LM side of the house is on panel 16. CB EPS Bat Feed Ties, two, open; Battery 1, High Voltage, Off/Reset; Battery 2, Low Voltage, Off/ Reset then On; Battery 2, High Voltage, Off/Reset then On; Battery 1, High Voltage, On. Panel 16, CB Bat Feed Ties, two, closed.
+This procedure momentarily disconnects the LM's Battery 1 and Battery 2, first by turning on the low volt taps and then returning to the high volt taps.
+111:40:56 Lousma: Okay. That's a good readback. It concludes the procedure going both ways and now we just have to stand by.
+111:41:06 Swigert: Okay, when do you plan to start this?
+111:41:10 Lousma: Darn soon.
+111:41:15 Swigert: Did you say not soon?
+111:41:17 Lousma: No, we're going to do it pretty soon, but we want to have high bit rate, and we don't want you to give that to us until we tell you.
+111:41:29 Swigert: Okay. I think I'll go back and try to undamp up there. Do you have anything more for the Command Module?
+111:41:43 Lousma: We're discussing two items, but we don't have them ready right now. [Pause.]
+111:41:56 Swigert: One of them, I hope, is a foolproof alignment procedure. [Long pause.]
+111:42:37 Swigert: Okay, Jack. Just for curiosity's sake, does FIDO have any information as to whether that helium ... that SHe tank dump affected our trajectory at all? [Long pause.]
+111:43:21 Lousma: Okay, Aquarius. Our tracking data shows that since the helium dump, our entry angle has not changed from its value of 6.24, and somebody calculated that if we had a propulsive vent, that helium could roughly, at the maximum, only impart a Delta-V of a half a foot per second or less, anyway. But we're continuing to track and as soon as we get some more info, we'll pass it along.
+The much-feared helium venting from the supercritical pressurization tank has thankfully not caused any changes to their entry trajectory.
+111:43:57 Swigert: Okay. That's swell, Jack. Thank you.
+111:44:00 Lousma: Sure.
+111:44:01 Swigert: Your 6.24 sounds good. [Long pause.]
+111:44:14 Swigert: I'm still awake, I guess. [Pause.]
+111:44:22 Swigert: They said that it would be a while because they want to get high bit rate. They don't want to put high bit rate. [Garble].
+Long comm break.
+111:46:40 Lousma: Okay, Aquarius. We're ready. So we want some high bit rate. To do that, go over to panel 16 under Comm and close the Primary S-Band Power Amplifier. On your Comm panel ...
+111:46:56 Swigert: Okay. Okay, Jack. Wait 1. While ... I'd like to get the whole crew up for this if you don't mind.
+111:47:04 Lousma: Okay.
+111:47:09 Swigert: [Garble] they're ready to start. Yes, you want to get Freddo up. [Pause.]
+111:47:20 Swigert: We want to transfer some power ... I want to go to high bit rate here first, then want to transfer LM power to CSM, Fred. [Pause.]
+111:47:39 Swigert: Okay, Jim, I'll give you the Comm.
+111:47:40 Lousma: Aquarius, there's no great big rush. If you want to let Fred come up to speed slowly, why maybe that'll help out. [Long pause.]
+111:47:55 Swigert: Okay. [Garble]. [Long pause.]
+111:48:47 Lovell: And Houston, Jack is showing Fred the procedures before we start up. [Pause.]
+111:48:57 Lousma: Say again, Jim.
+111:49:02 Lovell: [Garble].
+Comm break.
+Since only one comm headset is being used at any given time, the mic captures partial conversations between the crew here.
+111:50:27 Lousma: Aquarius, How do you read?
+111:50:32 Lovell: Loud and clear.
+111:50:33 Lousma: Okay. I'm hearing you now. I think I missed your last transmission, Jim.
+111:50:41 Lovell: Okay. Jack is showing Fred the procedures. Want to get him familiarized with them, and how to get out of any problems before we proceed.
+111:50:54 Lousma: Roger. No rush. Just let us know when you're ready. We don't want old Freddo to slip a gimbal there. [Pause.]
+111:51:05 Lovell: Yes. We're watching him.
+Long comm break.
+Albeit spoken in joking terms, they could be referring to Fred's increasingly unwell state due to his worsening urinary infection.
+111:53:24 Lovell: Boy, if you took 120 hours out. Oh. [Garble]. Okay. [Garble]. Have I done what? [Long pause.]
+111:54:15 Haise: Houston, Aquarius.
+111:54:18 Lousma: Hello, Fred. Go ahead.
+111:54:23 Haise: Okay, I guess the only question I have is in the first ... the very first portion involving the LM here where it has me turn on the only Bat 6, and then turn off all the Descent Batteries. Are you still reading me?
+111:54:53 Lousma: Okay. I read you until after turn off Bat 6 ... Correction, turn on only Bat 6.
+111:55:03 Haise: Okay, the question is "Only one Ascent Battery Bat 6 on the line," immediately followed by turning off four Descent Bats. Is that correct?
+111:55:18 Lousma: That's affirmative, Fred. That question has been banged around and we decided to go that way. [Long pause.]
+111:55:38 Haise: Let's see, we will be powering other Bus via the Cross Tie Balance Loads breaker. Is that correct?
+111:55:47 Lousma: That's affirmative, and we're reading a current of 11 amps right now. [Pause.]
+LM Ascent Battery switches. Original scan via heroicrelics.org
+Fred's question concerns a peculiarity of the LM's Electric Power System, and especially the part that is in the Ascent Stage. Each of the Ascent batteries usually powers one of the power distribution systems, known as Commander's and System Engineer's Buses. Battery 6, which is to be the only one remaining online, supplies only its usual half, the Commander's side, although a switch exists to switch it over to the other bus in case of a bus failure. For now, however, they are using the cross tie connection between the two buses to share the load on both buses with only one battery. The small load of 11 amps makes this not an issue at all.
+111:55:55 Haise: Okay. Okay. I guess I'm ready, then. That's how many amps?
+111:56:00 Lousma: And after you turn Bat 6 on the line, you might as well take a look at the Bats 1 through 4 and so forth, and make sure that it's okay to turn them off. [Pause.]
+111:56:16 Haise: Roger. Are your ready, gang?
+111:56:21 Lousma: Yes, we're ready for the Power Amplifier and the High Bit Rate, and Normal Voice, on the Function switch, please.
+111:56:32 Haise: Okay. [Long pause.]
+LM comms control panel. They turn on the power amplifier so as to able to consistently transmit the high bit rate telemetry and use the normal voice on the S-Band. Mission Control wants the high bit rate so that they can monitor the batteries during the beginning of the power transfer procedure. Original scan via heroicrelics.org
+111:56:58 Lousma: Okay, gang; we've got High Bit Rate, now.
+Jack confirms that Fred has reconfigured the communications systems to provide normal voice function and high bit telemetry.
+111:57:04 Haise: Roger. [Long pause.]
+111:57:29 Lousma: Okay, we see Bat 6, On, and it looks good, Freddo.
+111:57:38 Haise: Okay. Am I cleared to proceed with the next step, getting 1, 2, 3, and 4, Off/Reset?
+111:57:46 Lousma: Affirmative. You're cleared for Bats 1 through 4, Off/Reset.
+111:57:54 Haise: Okay.
+111:58:13 Lousma: Okay. Still looks good. [Long pause.]
+111:59:13 Haise: Okay, Houston. We need a call from you when to have Jack to proceed up into the Odyssey and start up there. [Pause.]
+111:59:31 Lousma: Okay, Aquarius; and Jack can get with it right now.
+111:59:38 Haise: Okay.
+Very long comm break.
+With Fred operating the LM batteries, Jack heads to the Command Module to set up his breakers and switches for the charge.
+112:06:11 Haise: Okay, Houston; Aquarius. We've completed the powerup and things look good upstairs. Are we Go for proceeding with battery charge? [Pause.]
+112:06:28 Lousma: Okay, Aquarius; you're Go on the battery charge.
+112:06:34 Haise: Roger.
+Comm break.
+Command Module battery arrangement. Three silver-zinc rechargable 40-amp-hour batteries are located at the bottom of the CM, sandwiched between three AC inverters and control equipment. The two Pyro batteries (A and B) are located there as well and provide a separate source of power for the sequential systems. A gas line is connected to each of the battery containers in order to vent out any hydrogen gas that the batteries may produce.
+112:07:36 Haise: Boy, this is really a switch, isn't it, Jack? [Pause.]
+112:07:48 Lousma: That's an understatement. You're not known for that.
+112:07:54 Haise: Yes. I think if you add up the ... Yes ... if you add up the operating time, I think the LM beats the CSM by a considerable margin on this flight. [Long pause.]
+The accident happened at 55:55:00 GET, or so. The LM was powered up at 57:41:00 GET, which means that by now it has operated for almost 55 hours. The original flight plan designated LM operations for between 96:30 GET and 143:04 GET, or just 47 hours. They've already passed that well by now.
+112:08:34 Lousma: Grumman just hired you.
+112:08:38 Haise: Yes. [Long pause.]
+The joke hits very close to home. Fred spent a great amount of time at the LM construction plant, being one of the astronauts in charge of the development of the spacecraft that would land him and his colleagues on the Moon one day.
+The LM builders at Grumman were rightfully proud of the performance of their spacecraft. They even issued a joke invoice to the CM builders at North American Rockwell, charging them for such items as towing the Command Module back to Earth for 400,000 miles, a battery charge (with customer's own booster cables) and sleeping quarters for 2 with an extra bed for a third guest.
+One iteration of the infamous towing bill. Via NASA History Office.
+Various versions of the towing invoice exist, many with dubious provenance. Contemporary photos do exist and are held in the archive of the LIFE magazine.. Newspapers mentioned the invoice already at the time of their landing, hence we can assume that it was made in public already at the time. Whether it was actually sent to North American Rockwell remains unknown. However, the invoice does exist and provides a rare moment of levity in the narrative of Apollo 13.
+112:08:51 Lousma: You're out there at 134,000, coming in at about 4,900 feet a second. [Pause.]
+Distance to go, 248,168 km, velocity clocking in at 1,493 m/s.
+112:08:58 Haise: Very good.
+Comm break.
+112:10:04 Lousma: The Supercrit tank went off at about 1937 just about like it expected.
+Jack is referring to the pressure being 1,937 psia at the time the burst disk popped.
+112:10:11 Haise: Yes. It ... it also must of not did very much, except the rates. I was asleep then and I didn't hear a thing. [Pause.]
+112:10:25 Lousma: Is the command ... Service Module still venting? [Pause.]
+112:10:36 Haise: Jack said it was just before he went up. Right now, the Sun's over there, and I can't really tell ...
+112:10:42 Lousma: And...
+112:10:36 Haise: ... I'll look again in a minute.
+112:10:44 Lousma: We asked him a long time ago if he was able to see any stars out the optics. I don't think we ever got an answer.
+112:10:52 Haise: Okay. [Pause.]
+112:11:04 Haise: That's a pretty good sleep station I had rigged up, Jack. I took one of the sleep restraints out of the Command Module, zipped up in it, and then hooked the tie, right at the top of the zipper, onto the LM upper hatch handle. So it kind of held me there, and then just drifted up in the tunnel upside down with my face toward the hatch, so the sunlight didn't get in my eyes and that worked pretty good.
+112:11:35 Lousma: Did you sleep pretty well that way?
+112:11:39 Haise: Yes, no problem at all.
+That's Fred Haise talking.
+112:11:44 Lousma: Is Jim sleeping that way now, or is he standing next to you?
+112:11:49 Haise: He's standing next to me.
+112:11:51 Lousma: About time for him to go to bed.
+112:11:57 Haise: Okay. The voltage upstairs is 34.3 and the charger is reading 2.5 amps.
+Command Module DC Bus power displays, which are also used to monitor the battery charge. The amperage of the battery charge is read from the special inner scale running from 0 to 5 amps. Original scan via heroicrelics.org.
+112:12:06 Lousma: Okay 34.3 and 2.5. And [garble] says [garble] ...
+112:12:11 Haise: ... pretty cold. Good.
+112:12:12 Lousma: Say again your last.
+112:12:16 Haise: They came ... both came down here rubbing their hands, shivering. It's pretty cool upstairs. [Pause.]
+112:12:26 Lousma: Are you keeping warm in the LM? [Pause.]
+112:12:41 Haise: Yes. It's pretty reasonable down here. [Long pause.]
+112:13:25 Haise: Okay. And right now, it looks like [garble] right now, it looks like the Command Module isn't venting, Jack, so I'm going to try to take a look at the optics.
+112:13:48 Lousma: Okay. You say it is not venting?
+112:13:52 Haise: Yes. That's the word. We've just looked through the AOT and you can't see anything back there.
+112:14:00 Lousma: Okay. And everything's fine in El Lago.
+112:14:06 Haise: Very good.
+Comm break.
+El Lago is the Haise family's home in Houston as well. Jack and Jim were discussing home life earlier on, and now Lousma is passing the same news to Fred as well.
+112:15:42 Lousma: Aquarius, we're ready to secure the high bit rate.
+112:15:48 Haise: Okay. [Long pause.]
+112:16:32 Haise: Houston, Aquarius; how do you read?
+112:16:38 Lousma: I'm hearing you with a lot of background noise, Freddo.
+112:16:42 Haise: Okay. How now? I just switched Omnis again.
+Very long comm break.
+The comm quality has degraded once again due to the switch to the low power mode.
+This is Apollo Control at 112 hours, 18 minutes. The crew at this point has successfully completed the transfer of power from the LM onto the Command Module Main Bus B, and from there into the Battery Charger which is charging Battery A, one of the 3 entry batteries used for entry and post landing electrical power aboard the Command Module. The hope is to bring this battery from its current level of 20 amp-hours up to about 40 amp-hours which would be essentially a full charge on Battery A, the other two batteries, Battery B and C, already being at full charge. The charging operation on Battery A is expected to require about 15 hours, and it began at 112 hours, 12 minutes Ground Elapsed Time. You heard Fred Haise report that Jim Lovell and Jack Swigert had gone into the Command Module to power up the Battery Charger and check on the readings there. When they came back down, Fred said they were rubbing their hands, and noted that it was a bit chilly in the Command Module. At the present time Apollo 13 is 133,158 nautical miles from Earth and the spacecraft velocity is up now to 4,891 feet per second. We're 30 hours, 20 minutes, 50 seconds from reentry, and according to the revised Flight Plan at 112 hours the three crewmen should be getting something to eat and also you heard CapCom Jack Lousma advise Jim Lovell that it appears to be about time for him to get a bit of rest. The crew rest cycle has been left up to them. Our Flight Plan on one of the large displays here in Mission Control has some suggested times for sleep, but the crew has generally been working out their own sleep schedules as convenient for them, and following it, and we don't have an extremely good idea of when they plan to in advance, but only add to the fact when they report to us that they have gotten some sleep. At 112 hours, 21 minutes; this is Apollo Control, Houston.
+Distance to go is 246,609 km and their velocity has increased to 1,491 m/s.
+PAO talks about the state of the Flight Plan here, and implies that despite the Mission Control's attempts at maintaining their work and rest cycle, it's up to the crew to actually do so.
+Lousma: Aquarius, could you get a ... amps and volts readout from Odyssey, please? [Pause.].
+112:23:45 Haise: Okay. Stand by. [Long pause.].
+112:24:08 Haise: The CMP is dotting across there. You'd be amazed at how proficient you get at transfering to the tunnel after the first 1000 times. [Long pause.].
+112:24:31 Lousma: I didn't get your last there, Freddo. We'd like you to verify that your Power Amplifier circuit breaker is open. [Pause.].
+112:24:44 Haise: Okay. That's verified. Power AMPL breaker is open.
+Jack is checking up whether they have pulled the circuit breaker on the S-Band power amplifier, to save that power.
+112:24:48 Lousma: Roger. [Pause.]
+112:25:00 Haise: Okay, Jack; that's 34.6 volts and just a little bit under 2.5 amps.
+112:25:08 Lousma: Okay, Fred. I copied 2.5 amps. Say again the volts, please.
+112:25:15 Haise: 34.3 and that was just a little bit below 2.5.
+112:25:21 Lousma: 34.3; thank you. [Pause.]
+112:25:33 Haise: Okay. [Garble] point [garble]. [Long pause.]
+112:26:06 Lousma: Freddo, I didn't copy the last. Say again the voltage, please. [Pause.]
+112:26:17 Haise: Okay, and the voltage is 34.6 ... 34.6, amps slightly less than 2.5.
+112:26:26 Lousma: 34.6 and a little below 2.5. Thank you.
+112:26:34 Haise: We're ... the way we are torquing around to the side here, Jack ... We are getting some intervals where I can't hardly get to it with either of the Omnis.
+Very long comm break.
+Removing the power amplifier from the line has reduced the comm quality again. Besides that, their PTC rotation is angled in a manner that means that they are having a hard time keeping one of the two antennas continuously pointed at Earth.
+112:32:52 Haise: Houston, Aquarius.
+112:32:54 Lousma: Go ahead, Hous ... Aquarius.
+112:32:59 Haise: Okay. Jack reports from upstairs that he can see stars and constellations out of the optics but the Sun angle is such that it is reflecting off the LM ... portion of the LM quad and other thruster [garble] right now. [Garble] really moving around [garble].
+112:33:29 Lousma: Okay. The part I got was that he can see stars and constellations and there is some sunlight reflected off the quads. That's all I got.
+112:33:41 Haise: Yes. The point being that, at least in the present orientation, you have to kind of wait until Sun isn't reflected off the LM to see them. [Long pause.]
+112:33:59 Lousma: Okay. What you're saying is you kind of have to wait until the ... there is no Sun reflection on the LM to see the stars. Is that right?
+112:34:08 Haise: Yes. That's for the present orientation, of course. [Long pause.]
+112:34:25 Haise: But later on, if you can stop it moving around and [garble]. [Garble].
+112:34:35 Lousma: Okay ...
+112:34:36 Haise: [Garble]. [Pause.]
+112:34:47 Lousma: Okay, Freddo. And we need a volts and amps reading. [Pause.]
+112:34:56 Haise: Okay. And bring it back upstairs. [Long pause.]
+112:35:36 Haise: Okay. The volts, 35.0; amps, 2.4.
+112:35:39 Lousma: Okay. 35.0 and 2.4. Thanks, Fred.
+Long comm break.
+The voltage has rised a little, which is a sign that the battery charge procedure is working.
+112:38:39 Lousma: The weather prediction for your landing area is still good; 2000 scattered, high scattered; 4-foot seas, 15-knots wind. There's a hurricane 500 miles to the west, which doesn't pose a problem.
+112:39:02 Haise: A hurricane or a typhoon?
+Long comm break.
+112:41:24 Lousma: Belay my last. It's degraded to a tropical storm.
+Very long comm break.
+112:47:17 Lousma: Aquarius, Houston. We need another readout amps and volts, and that will be our last one for a half hour. Over.
+Comm break.
+112:48:33 Haise: Okay. The reading is 37.8 volts, 2.3 amps. [Pause.]
+112:48:40 Lousma: Say again, Fred.
+112:48:43 Haise: 37.8 volts, 2.3 amps.
+112:48:49 Lousma: 37.8 and 2.3. And that will be our last one for a half hour. Thank you. And I'm about to exercise my fifth general order here, and pass it along to Joe. [Long pause.]
+112:49:07 Haise: Yes. It must be getting around a mealtime.
+Very long comm break.
+It's just past 6 in the morning in Houston.
+Jack makes a military joke here, as a United States Marine Corps officer, by quoting the Fifth General Order for Sentries, which states that they are "To quit my post only when properly relieved."
+This is Apollo Control at 112 hours, 50 minutes. We're in the process of a shift handover at the present time in Mission Control. Flight Director Glynn Lunney is replacing Flight Director Milton Windler. The capsule communicator on the upcoming shift will be astronaut Joe Kerwin. At the present time Apollo 13 is 131,712 nautical miles from Earth. The spacecraft velocity is up now to 4,928 feet per second.
+Way to go, 243,930 km; velocity, 1,502 m/s.
+Repeating a figure passed on a little while ago, the Flight Dynamics Officer reports that as a result of the midcourse correction, the flight path angle at entry is within the entry corridor. The flight path angle currently appears to be minus 6.24 degrees at Entry Interface. The nominal flight path angle is 6.5 and that is what the midcourse correction was targeted for 6.24, a negative 6.24 degrees is within the entry corridor and a descision has not been at this time as to whether any subsequent midcourse corrections will be required. At 112 hours, 51 minutes, this is Mission Control, Houston.
+This is Apollo Control at 112 hours, 55 minutes. EECOM, the Command Module electrical and environmental control engineer reported that the power transfer to the Command Module main bus B is continuing to function smoothly and the battery charging operation also progressing well at this time. Battery A, one of three entry batteries aboard the Command Module, is being recharged, and EECOM reports that it appears to be taking a charge well. At 112 hours, 56 minutes, Apollo 13 is 131,426 nautical miles from Earth and travelling at a speed of 4,935 feet per second. We're now 29 hours, 44 minutes from reentry.
+243,400 km to go, 1,504 m/s.
+113:13:46 Kerwin: Aquarius, Houston. Over. [Pause.]
+113:13:53 Haise: [Garble].
+113:13:55 Kerwin: Okay. This is your friendly do-it-yourself kit Comm with a suggested procedure in the lithium hydroxide situation. You're looking good. We read 1.8 millimeters, and you do have sufficient LM [garble] to last you the rest of the flight. However, being on the conservative side, we would like to use one more set of Command Module canisters to guard against some possible problems with the LM, primary canister. And I have a simplified procedure for doing that, if you want to listen to it now. Over.
+Comm break.
+113:15:15 Kerwin: Okay. I think I read that you were ready. I forgot [garble] earphones. This simply consists of getting a second pair of cartridges out of the Command Module, putting one band of sticky tape, that is the gray tape, with the sticky side out, around the sides of each new canister near the top, taking a piece of EVA cue card and cutting it into four squares about 2 or 3 inches on a side, bending those at a right angle to form corner support, attaching them to the sticky tape, so that they'll stick up and overlap the old canister, and then simply putting the old canister next to the new canister and taping it up real good so it sticks together. The only other procedure is to remove the towel plug from the old cartridges and put it in the bottom of the new cartridge. And that's it. Over. [Pause.]
+To ensure that they have enough capacity to remove the carbon dioxide, Joe Kerwin is giving the crew a procedure on how to tape up a second LiOH canister onto the one already in place so that air will be drawn through both of the canisters.
+113:16:29 Haise: Okay. As I read you, we get the gray tape and fold it so that we get ... the back sticks around the outside of the canisters, then we mount to that four sides of our [garble] cards like our EVA [garble] cards; then we overlap those cards down around the base of the canister. Then we ... then we [garble] over the [garble] at the top. [Garble]. Then we take the towel from the old ones and put them in the bottom of the new ones. [Garble]. [Garble].
+113:17:35 Kerwin: Okay, Fred. I think you got it. I didn't completely copy your readback, but it's just that simple. We're just putting the new cartridge ... the top of the new cartridge against the bottom of the old one, moving that towel plug, using the cue cards as little corner stiffeners, and taping her up.
+113:17:59 Haise: Okay. The top of the new against the bottom of the old.
+113:18:03 Kerwin: Roger that. That way you don't have to touch the hose.
+Long comm break.
+113:20:08 Haise: Hey, for a change, I took the [garble] LM [garble] this morning, Joe.
+113:20:16 Kerwin: Okay. Go ahead.
+113:20:20 Haise: I got [Garble]. [Long pause.]
+113:20:46 Kerwin: I'm afraid I didn't copy that, Fred, and while I was listening, EECOM told me that he'd like another battery charge [Garble] readout.
+Comm break.
+113:22:31 Haise: Houston, Aquarius.
+113:22:34 Kerwin: Aquarius, Houston. Go.
+113:22:38 Haise: You want us to start on this lithium right now, Joe, or is it necessary?
+113:22:45 Kerwin: It's not time-critical, Fred, but if you have the people awake now, you might go ahead and do it. Incidentally, you probably know this, but the next several hours are going to be pretty quiet from our point of view. We're working on the entry procedures and should be ready to read them up to you in about 8 hours; and between now and then there's not an awful lot going to be going on, so you guys could be catching up on your sleep schedule. Over.
+113:23:22 Haise: Okay, Joe.
+113:23:24 Kerwin: And we would like another readout on the amps and volts. [Pause.]
+113:23:31 Haise: Roger.
+Comm break.
+113:24:53 Haise: Okay. The volts, Joe, are 38.9 and the amps are 1.9. [Pause.]
+113:25:01 Kerwin: Okay. Copy that, Fred. Thank you very much; 38.9 and 1.9. And EECOM is simply making as smooth a plot as he can to verify the amount of amps we're putting back into the battery. That's why he wants it at half-hour intervals. If that schedule begins to interfere seriously with your rest cycle or so, give us a call. Over. [Pause.]
+Joe's comment implies that the recharge is being recorded with a hand drawn graph in Mission Control.
+113:25:34 Haise: Okay. [Long pause.]
+113:25:55 Haise: Yes. Jim's sleeping now, and Jack and I are awake and I just finished sleeping around, I guess, about another 5 or 6 hours, so I'm not particularly inclined to go back to sleep right now.
+113:26:09 Kerwin: Okay.
+Very long comm break.
+This is Apollo Control; 113 hours, 28 minutes Ground Elapsed Time. The Black Team of flight controllers is presently taking over here in the Mission Control Center. We're estimating about 15 minutes for the Change of Shift Press Briefing with Maroon Team Flight Director Milton Windler in the MSC main autorium. It appears that the shift will be primarily a sleep shift with a few minor items to be taken care of by the crew such as attaching additional lithium hydroxide canisters to the devices that were fabricated on board the spacecraft yesterday. Instead of taking the canisters out, they will simply attach another one in parallel with the canisters that are in the plastic bags attached to the suit hoses. Presently, Apollo 13 129,791 nautical miles out from Earth. Approaching at a velocity of 4,977 feet per second. At 113 hours, 30 minutes Ground Elapsed Time and standing by; this is Apollo Control.
+113:38:29 Haise: Houston, Aquarius.
+113:38:32 Kerwin: Aquarius, Houston. Go ahead.
+113:38:37 Haise: Okay. We've got one of them ready to go, and it looks like we could do a pretty good job just using the tape strips. First combining them together and then just using a piece of paper and the bag [Garble] get a pretty good seal [garble].
+113:38:54 Kerwin: Hey; okay, Fred. We suspected that you'd gotten at least one on. We've noticed a partial pressure drop from the 1.8 to 0.8, which is real good.
+113:39:10 Haise: Okay. You might run that by the CPCB and see if they approve our in-house [garble]. [Pause.]
+113:39:17 Kerwin: Roger that. [Long pause.]
+113:39:35 Kerwin: Aquarius, Houston. [Long pause.]
+113:40:22 Kerwin: Aquarius, Houston.
+113:40:26 Haise: Go ahead, Joe.
+113:40:28 Kerwin: Roger. We're convening the CPCB on that change, Fred, but Flight has given you an interim go ahead. Over. [Pause.]
+The CPCB is the Crew Procedures Control Board, a body responsible for planning every onboard operation of their equipment and gear. Since usually such things are decided months in advance, Joe and Fred are having a bit of fun on that matter.
+113:40:38 Haise: Okay.
+Very long comm break.
+This is Apollo Control. Participants in today's - this morning's change of shift press conference, Milton Windler, Maroon Team Flight Director, is now en route to the main auditorium, should be starting within the next few minutes and this is Apollo Control.
+113:55:51 Haise: And, how do you read now?
+113:55:55 Kerwin: Not too bad, Fred..
+113:55:59 Haise: Okay. We've got both canisters completed now.
+113:56:03 Kerwin: Okay. Roger that, Fred. And you're reading 0.1 again on the CO2. Incidentally, are you guys having good luck getting water out of the Command Module?
+113:56:17 Haise: We ... We haven't tried that yet today.
+113:56:20 Kerwin: Okay. [Pause.]
+113:56:27 Haise: Yes. This is quite an apparatus hanging on to these hoses now. And that ECS design engineer [garble] because it sure seems to work.
+113:56:42 Kerwin: Roger that. [Long pause.]
+113:57:27 Kerwin: And, Aquarius, Houston. At your convenience, we'd like another volts and amps readout.
+113:57:36 Haise: Okay.
+Comm break.
+113:59:08 Haise: How do you read, Joe?
+113:59:11 Kerwin: Pretty good, Fred.
+113:59:14 Haise: Okay. Volts, 39.0; amps, 1.7.
+113:59:21 Kerwin: 39.0, 1.7. Thank you.
+Very long comm break.
+In normal procedure, 39 volts would indicate that the battery is fully charged.
+114:05:24 Kerwin: Aquarius, Houston. Go ahead. You're pretty weak.
+114:05:30 Swigert: I didn't call you, Joe.
+114:05:35 Kerwin: Say again.
+114:05:39 Swigert: I didn't call.
+114:05:41 Kerwin: Oh, sorry about that. Incidentally, Fred, if switching Omnis every couple of minutes bugs you, you can skip it for now. We can always wait until you come around.
+114:05:54 Swigert: No, it doesn't. This is Jack, Joe. Fred [garble]. It doesn't bother me at all. [Pause.]
+114:06:02 Kerwin: Okay.
+114:06:03 Swigert: Just happy to know that you're standing by.
+114:06:06 Kerwin: Roger that. Except I'm sitting by. [Pause.]
+114:06:19 Swigert: Did that CO2 drop?
+Very long comm break.
+114:18:30 Swigert: Joe, how far out are we now and how fast are we closing?
+114:18:35 Kerwin: Okay, Jack. The plot shows you about 130 000 miles out, which is about, gee, 10 000 closer than you were when I came on a couple of hours ago. And let me check with FIDO for your rate of closure. [Long pause.]
+They've travelled 24,076 kilometers closer to home during Joe's CapCom shift.
+114:19:23 Kerwin: Hey, Jack. Over.
+114:19:29 Swigert: Go ahead.
+114:19:30 Kerwin: Your smiling FIDO says you're making 5040 in a 5000-mile zone.
+114:19:39 Swigert: I can't [garble] I [garble].
+Very long comm break.
+Their current velocity is 9,334 kilometers per hour, and increasing.
+114:29:41 Kerwin: Aquarius, Houston. Over.
+114:29:46 Swigert: Go ahead, Joe.
+114:29:48 Kerwin: Roger, Jack. Hate to keep bugging you, but we would like another volts and amps reading. Over.
+114:29:56 Swigert: Okay. We'll get it for you.
+114:29:58 Kerwin: Good show.
+Comm break.
+114:30:59 Swigert: Joe, did our sticky MOD on that ... those CO2 canisters work? I'm sorry ... [garble].
+114:31:07 Kerwin: Jack, I think you asked if the canister MOD was working and the answer is, it sure as hell is. [Long pause.]
+The crew offered their opinion on this scheme afterwards.
+Lovell, from 1970 Technical debrief: "Houston came through with a technique for using CM LiOH canisters in the LM, which worked probably as well as the basic system. We ended up with a complete primary LiOH canister that we didn't use. And that was 40 hours worth of running."
+Swigert, from 1970 Technical debrief: "We had more canisters in the CM which we could have just added onto this thing. I felt we had an unlimited supply of LiOH canisters."
+Lovell, from 1970 Technical debrief: "So even though we probably didn't even have to go through that other mode, it kept us busy. It's like putting up the antenna in a liferaft. Does it work? Maybe it'll keep you busy for a while."
+114:31:49 Swigert: Okay, Joe. I got the voltage. It's 39.0 [volts] and 1.75 [amps]. [Pause.]
+114:31:58 Kerwin: Copy 39.0 and 1.75.
+Very long comm break.
+This is Apollo Control; 114 hours, 46 minutes Ground Elapsed Time. Rather quiet at the present time, very little communications with the spacecraft, which now is 126,029 nautical miles out from Earth, approach velocity 5,076 feet per second. Electrical power usage hovering around 12, 13 amps, partial pressure carbon dioxide in the Lunar Module cabin 1/10th of a millimeter of mercury. The addition of the 2 Command Module lithium hydroxide scrubber canisters to the homemade device rigged up yesterday by the crew of Apollo 13 has reduced this quantity of carbon dioxide from slightly over 1 millimeter piped down to 1/10th. Apollo 13 total weight standing at 87,740 pounds [39,798 kg]. There goes a call I believe to the spacecraft.
+Distance to go, 233,406 km, velocity is up to 1,547 m/s.
+Apparently it was an accidental nudge of the king switch at the capsule communicator's console causing the familiar beep beep sound. In some other spacecraft onboard readings, we're showing now 33.17 pounds [15.05 kg] of oxygen in the descent stage, 2.25 pounds [1.02 kg] is ascent tank 1, 2.67 pounds [1.21 kg] ascent tank 2. Water quantities: Descent, 51.9 pounds [23.5 kg]; ascent tank 1, 42.1 [19.1 kg]; ascent tank 2, 42.1 pounds [19.1 kg]; cabin pressure, 4.98 pounds per square inch, showing a temperature of 51 degrees [Fahrenheit, 10.6°C], which is - the measurement is taken at the outlet and does not represent the free air temperature in the cabin, which is probably up around 70[F, 21°C]. As mentioned earlier, Apollo 13 gross weight of both vehicles is now 87,740 pounds. Of this weight 58,728 pounds [26,639 kg] are rocket propellant, about 29 tons. This computes out to 67 percent of the total vehicle weight in propellants. Apollo 13 is the fifth time that a manned spacecraft has made the return from the Moon. Apollo 8 back in December of 68 was a somewhat conservative approach using the Command and Service Module only, and going into lunar orbit, having quite a large margin of propellant available to go into lunar orbit and to make Trans-Earth Injection out of lunar orbit back toward Earth. Apollo 10, the all-up spacecraft, went into lunar orbit, did everything but the actual landing, including the descent orbit down to about 8 [nautical] miles [13 km] above the Moon, stopped short of making the descent and here again there were adequate margins of propellant and with Apollo 11 the landing was made. And Apollo 12 was essentially a repeat as far as the amount of propellants and the spacecraft performance were concerned. At any rate, all of these had smaller amounts or smaller quantities of propellant available than Apollo 13 does at the present time. The Service Propulsion System propellant on Apollo 13 stand untapped at 40,796 pounds [18,505 kg]. This was for planned total Delta-V or velocity change of some 6,975 feet per second [2,126 m/s] with various vehicle combinations, not just Command/Service Module alone, but in some cases, such as Lunar Orbit Insertion and DOI where you have the total LM and Command Module combination, and others, the Trans-Earth Injection where only the Command and Service Module would use up some 3,147 feet per second [959 m/s]. There are 11,093 pounds [5,032 kg] of Descent Propulsion propellant remaining. However, not all of this is available since the supercritical helium burst disc relief valve blew during the night. There's about 800 feet per second [240 m/s] blowdown or ullage volume in the Descent Propulsion tanks so not all of this 11,000 pounds [5,000 kg] are available. In the untapped ascent propellant tanks, we have 5,242 pounds [2,378 kg] loaded. Service Module Reaction Control System, 1,342 pounds [609 kg] are still relatively untapped except for the small attitude usage that was made during the translunar coast prior to the time that the fuel cells gave up the ghost. In the Command Module Reaction Control System, this is still a sealed dual ring system in the Command Module for attitude control during entry. There are 245 pounds [111 kg] of propellant available there. When the Service Module and Lunar Module are jettisoned prior to entry approximately, 29 tons [26.6 metric tons] of what is jettisoned to enter the atmosphere and burn up will be propellant. The spaceflight meteorology group of the weather bureau said this morning that weather conditions would be acceptable for Apollo 13's landing in the Pacific Ocean, Friday, April 17, and the planned recovery area which is centered about 560 [nautical] miles [1,037 km] Southeast of Samoa, skies will be partly cloudly with widely scattered showers. Easterly winds at 15 knots and seas about 4 feet are expected with 75 degree [Fahrenheit, 24°C] temperature. Helen a small, weak, tropical storm is predicted to be about 500 miles west of the recovery area and should not affect the landing or recovery of Apollo 13. Conversation underway with Apollo 13, let's join in.
+114:55:46 Swigert: Houston, do you read Aquarius?
+114:55:51 Kerwin: Aquarius, Houston. That's affirmative.
+114:55:55 Swigert: Okay. We had a dropout there for a few minutes. [Garble] on either antenna.
+114:56:04 Kerwin: Gee whiz, Jack, I ... when did it happen? Over.
+114:56:13 Swigert: Just now. I just got you back.
+114:56:16 Kerwin: Okay. We had a handover, but that was about a half an hour ago, and I didn't call you on it. Let me check with INCO and see if he thinks everything's okay. Your Comm sounds just as good as it's ever been.
+114:56:31 Swigert: Yes. I'm in real good shape. [Long pause.]
+114:56:54 Kerwin: Jack, Houston. Over.
+114:56:58 Swigert: Go ahead.
+114:57:00 Kerwin: Roger. We're checking into it. We think we lost lock in Madrid for a while, and we've got it back now.
+114:57:07 Swigert: Okay. Real fine. [Garble].
+114:57:11 Kerwin: Okay.
+114:57:13 Swigert: You might also check with FIDO whether we [garble] perigee [garble]. [Pause.]
+114:57:23 Kerwin: You're getting a little weak. Did you say you wanted to verify what ... what your vacuum perigee is? Over. [Pause.]
+114:57:30 Swigert: Yes. [Garble].
+Comm break.
+114:58:35 Kerwin: Jack, Houston. Over.
+114:58:39 Swigert: Go ahead.
+114:58:41 Kerwin: Okay. The good FIDO gives us a vacuum perigee at the present time of 23.6 with a flight path angle of minus 6.25 degrees. That's without a midcourse. He's kind of tossing around the idea of doing a midcourse-7 maneuver at 5 hours before entry. If we do it, it looks like it won't be more than 2 feet per second. Over.
+The vacuum perigee stands at 43,7 km.
+114:59:15 Swigert: Okay. [Long pause.]
+114:59:50 Kerwin: And, Jack, Houston. We verified that that Comm problem was a ground problem. [Pause.]
+114:59:59 Swigert: Okay. Thank you. That FIDO is really cooking today.
+115:00:03 Kerwin: Oh, he's having a ball.
+115:00:08 Swigert: It must be because we haven't made any waste water dumps.
+115:00:11 Kerwin: (Laughter)
+115:00:17 Swigert: You can tell Jay and David that I went for a whole flight and didn't use the bathroom. [Pause.]
+115:00:24 Kerwin: (Laughter) He copies that. David's here; he says you've kept him so busy he hasn't had time to work on his stereo all week.
+Very long comm break.
+The waste water dumps could create a small but perceivable alteration in their trajectory, due to the fact that anything coming out of the spacecraft will impart a propulsive force. These waste water dumps had hence to be taken into account while planning and monitoring the trajectory.
+The crew offered some notes about their toilet habits in the debriefing, besides Jack's joking on air.
+Haise, from 1970 Technical debrief: "I would have approached the last item a lot differently if I had known the way this mission was going to turn out. If I had known the mission was going to last less than 6 days, I would have gone the route of no bulk foods, and I'd have cavitated the whole system back to the tummy as best I could with enemas and everything else, and I think we'd probably got by the whole time without having to worry about it. As it was, I went three times in 5 days. It's a terrible inconvenience. Jack did the same, and I think that was just because he continued to eat. With a 10-day mission, I don't think you're going to avoid the issue."
+Lovell, from 1970 Technical debrief: "That's the way I felt before launch. I'd gone through this low-residue-food, clean-yourself-out-good routine at night. Then, I went through the entire flight without going. I said to myself, "One of these days, you're going to face facts that you just can't last 28 days or 56 days without going. You might as well start living normally again." So, that's what I did. I went once."
+It does not come as a surprise that the astronauts were concerned about their bowel habits, considering the onboard facilities consisted of a plastic bag taped into place for use. The messy and unpleasant procedure would take at least 45 minutes.
+115:07:54 Kerwin: Aquarius, Houston. Over.
+115:07:59 Swigert: Go ahead.
+115:08:01 Kerwin: Jack, we'd like another volts and amps reading at your convenience.
+Comm break.
+115:09:25 Swigert: Okay, Houston. It's 39.2 volts; 1.6 amps.
+115:09:34 Kerwin: Okay. Thank you. We copy; 39.2 volts, and 1.6 amps.
+115:09:42 Swigert: Right.
+Very long comm break.
+This is Apollo Control; 115 hours, 14 minutes Ground Elapsed Time. Some of the other clocks in the mission control operations room here showing time to entry, 27 hours, 25 minutes, time to ignition on midcourse correction number 7, I suppose, 9 hours, 56 minutes, this would be if done, it would be about 2 feet per second to lower the vacuum perigee from its present 23.6 miles to around 20 nautical miles. Apollo 13 now 124,626 miles out from Earth, approaching at 5,114 feet per second. Predicted velocity at 400 000 feet, or entry innerface, 36,210 feet per second; velocity would build up at the time of perigee of 23 miles to 36,431 feet per second. The prime recovery vessel Iwo Jima is steaming toward the aiming point in the Southcentral Pacific and its estimated arrival time at the aiming point is at 9 AM Central Time on the 17th. Partial pressure of carbon dioxide still holding at 1/10th of a millimeter of mercury in the Lunar Module cabin; cabin pressure 4.98 pounds. Holding steady. At 115 hours, 16 minutes - 115 hours, 17 minutes Ground Elapsed Time and standing by; this is Apollo Control.
+They're 230,807 km out and coming in at 1,559 m/s.
+This is Apollo Control; 115 hours, 28 minutes Ground Elapsed Time. To correct an earlier error regarding mid-course correction burn number 7, the clock at that time was showing 9 hours to ignition. Now it's showing the correct value of 22 hours, 11 minutes which is Entry Interface minus 5 hours. At 115 hours, 29 minutes; this is Apollo Control, standing by.
+115:38:41 Lovell: Houston, Aquarius.
+115:38:46 Kerwin: Aquarius, Houston. Go.
+115:38:50 Lovell: I just relieved the watch; just thought I'd find out how things are going.
+115:38:56 Kerwin: Okay, Jim. Good morning; and understand you relieved the watch, and the rest was kind of blurry. Did you have any questions?
+115:39:09 Lovell: No questions, Joe. Just one of those [garble] communications.
+115:39:10 Kerwin: Okay. That was ... That was loud and clear, that one there. Now we don't have a heck of a lot going on as you know we're working on the entry procedures. I've got preliminary copies, but we're not ready to pass ... to pass it up to you. Looks like you're about 125,000 miles out, starting to ... starting to really pick up speed, and the Astros won last night, and that's about all I've got. Over.
+Long comm break.
+115:42:21 Kerwin: Aquarius, Houston. Over.
+115:42:26 Lovell: Go ahead.
+115:42:29 Kerwin: Okay, Jim. It's about time, at your convenience, for another volts and amps reading on the Command Module. For your information, we put 6 amp-hours back in the battery already and we've got about 14 to go. It's looking real good, and I also just got the word that the entry weather tomorrow is looking better all the time. Really looks great.
+115:42:55 Lovell: That's good. When I went to bed last night, [garble] a lot of rain [garble]. [Pause.]
+115:43:04 Kerwin: Didn't copy that, Jim. Sorry.
+Comm break.
+115:44:11 Lovell: Houston, Aquarius.
+115:44:14 Kerwin: Aquarius, Houston. Go ahead.
+115:44:17 Lovell: Roger. 39.2 on the volts; 1.4 on the amps.
+115:44:23 Kerwin: 39.2 and 1.4. Thank you. [Long pause.]
+115:44:54 Kerwin: Aquarius, Houston.
+115:45:00 Lovell: Go ahead, Joe.
+115:45:01 Kerwin: Roger. Just for your information, in case it happened when you were off watch, the master caution circuit breaker is still pulled, and we're seeing the ... the malfunction indication on the descent battery now, but all the parameters still look just as good as ever, and that's just for information.
+115:45:28 Lovell: Okay. I see the battery light flickering now.
+115:45:33 Kerwin: Okay. Recommend you ignore it.
+115:45:37 Lovell: Okay.
+Very long comm break.
+Battery 2 is once again showing indications of malfunction on the warning system, although all readouts are still normal.
+116:26:40 Kerwin: Aquarius, Houston. Over.
+116:26:44 Lovell: Go ahead, Houston.
+116:26:46 Kerwin: Jim, it's volts and amps time again, at your convenience.
+116:26:53 Lovell: Okay.
+Comm break.
+116:28:31 Lovell: Houston, Aquarius.
+116:28:35 Kerwin: Go ahead, Aquarius. [Long pause.]
+116:29:27 Kerwin: Aquarius, Houston. If you gave me those readings, I didn't copy them. Over. [Long pause.]
+116:29:51 Lovell: Houston, Aquarius. Do you read?
+116:29:53 Kerwin: Aquarius, Houston. Okay; go ahead.
+116:29:58 Lovell: Volts, 39.3; amps, 1.25. [Pause.]
+116:30:06 Kerwin: Okay. Copied 39.3 and 1.25. Jim, did Jack tell you what your trajectory looks like? Over. [Pause.]
+116:30:18 Lovell: Haven't got up to [garble] on it. How about giving me a rundown?
+116:30:21 Kerwin: Okay. We are looking at a vacuum perigee right now of 23.6; flight path angle of minus 6.25; and if we decide we want to trim that up, we're looking at a midcourse of about 2 feet per second. Your consumables, of course, are getting better all the time; we've got 163 hours of water, 230 hours of oxygen, and 172 hours worth of electrical power. Over.
+Vacuum perigee refers to the closest point to Earth sea level, with consideration to an imaginary Earth with no atmosphere on it. Should that be the case, they would zoom around the Earth at that altitude and then head to a new trajectory. With the atmosphere very much present, however, this will take them deep into it, enough for them to decelerate to landing.
+116:30:55 Lovell: That sounds good.
+116:30:56 Kerwin: Roger.
+Very long comm break.
+This is Apollo Control; 116 hours, 35 minutes Ground Elapsed Time. The spacecraft position now 120,598 nautical miles out from Earth, approach velocity 5,227 feet per second, countdown clocks now showing 26 hours 4 minutes to Entry Interface or 400,000 feet above the surface of the Earth. Time to ignition or mid-course correction burn number 7 now tentatively 21 hours 4 minutes. This is Entry Interface minus 5 hours. Cabin pressure still holding at 4.78 in the Lunar Module, average voltage or amperage usage still hovering around 12, 13, 14 amps in the Lunar Module, vehicle weight still 87,740 pounds. At 116 hours, 37 minutes Ground Elapsed Time; this is Apollo Control.
+They're 223,347 km away, and clocking in at 1,593 m/s.
+This is Apollo Control. An advisory to newsmen in the Houston News Center. Donald K. (Deke) Slayton, Flight Crew Operations Director at Manned Spacecraft Center is now enroute to the main auditorium for the 10:00 briefing. Should arrive there within about 5 minutes. This is Apollo Control.
+Deke Slayton filmed at the news conference. The journalists got to face a somewhat cranky, cigarillo-smoking Director Slayton who dodged their questions and kept saying that everything was proceeding according to the plan.
+117:00:36 Kerwin: Aquarius, Houston. Over.
+117:00:40 Lovell: Go ahead, Houston.
+117:00:42 Kerwin: Okay, Jim. We would like to get another check from you on the propellant tank temperatures, as we did yesterday. And the procedure is to, on panel 16, circuit breaker Propellant, Display/Engine, Override/Logic to close. Then go to your display and read the tank 1 and tank 2 temperatures for us, and then open the circuit breaker again. Over.
+117:01:14 Lovell: Okay. I'm closing now ... the Display/Engine, Override/Logic.
+117:01:18 Kerwin: Roger. [Pause.]
+117:01:26 Lovell: Okay. And the reaction control temperatures are 65 in A and 65 in B.
+117:01:34 Kerwin: Okay, Jim. We'd like the descent tank temperatures, too. Over. [Long pause.]
+117:01:59 Lovell: 67; oxidizer is 63; descent tank 1 [garble] is 64; the oxidizer is [garble] Did you copy? Over. [Long pause.]
+117:02:22 Lovell: Hello, Houston. Did you copy the ... the DPS display temperatures?
+117:02:27 Kerwin: Jim, I copied 63 and 64, which I think were the descent 1 temps, and that's all I got.
+117:02:37 Lovell: Okay. I'll go over it again. I'm on descent 1, now and fuel is about 64, and oxidizer is 65, and I'll go to descent 2 ...
+117:02:47 Kerwin: Okay. Thank you very much ...
+117:02:48 Lovell: ... our descent 2. Okay. I've got descent 2 now right up on 67 and 66.
+117:02:55 Kerwin: Roger. We copy that, and once again we'd like to get the volts and amps check in the Command Module. Over.
+117:03:07 Lovell: Okay. I'm going to go up there and get it. Jack is ... and Fred are asleep, so I'll be off the air a minute.
+117:03:12 Kerwin: Okay. Real good.
+Long comm break.
+117:05:31 Lovell: Houston, Aquarius.
+117:05:33 Kerwin: Aquarius, Houston. Go.
+117:05:37 Lovell: Volts, 39.3; amps, 1.2 zip.
+117:05:45 Kerwin: Okay. We copy 39.3 and 1.20. And, Jim, I've got one more item for information for you. At ... In about 45 minutes or so, you will get an H2O quantity caution light on the descent tank. We expect this. It occurs at 16 percent. And it's no problem, because we intend to run the tank dry just for drill. To reset the ... the light, on panel 2, just set the O2 H2O Quantity Monitor to the Caution/Warning Reset position and the light will go away. Over.
+117:06:26 Lovell: Okay. I understand. We're going to get a H2O warning light here shortly, and I'll reset it. [Pause.]
+117:06:35 Kerwin: Okay. Good deal.
+Very long comm break.
+The water warning is set to go off when the quantity of water in the Descent Stage water tank drops below 16%. They have used up most of the water in the big Descent tank. Sufficient water remains in the Ascent stage tanks to complete their trip home.
+This is Apollo Control; 117 hours, 30 minutes Ground Elapsed Time. Apollo 13 now 117,810 nautical miles out from Earth. Approach velocity 5,308 feet per second. Entry flight path angle still holding at minus 6.24 degrees. Countdown clocks: entry 25 hours and 9 minutes from now; ignition on the proposed midcourse correction burn number 7 now 20 hours and 9 minutes away. Lunar Module cabin temperature [means pressure] hovering around 4.74, 4.78 pounds per square inch. Flight plan now showing rest period forthe Command Module pilot to begin at 116 hours, about an hour and a half ago. At 3 PM in the main auditorium at the Manned Spacecraft Center, Neil Armstrong, commander of Apollo 11 will hold a press conference to discuss the various aspects of Apollo 13. And at 117 hours, 32 minutes Ground Elapsed Time; this is Apollo Control.
+218,184 kilometers remain, with their speed now up to 1,618 m/s.
+117:34:07 Lovell: Houston, Apollo 13.
+117:34:12 Kerwin: Aquarius, Houston; go ahead.
+117:34:16 Lovell: Okay, Joe, we got the Water warning light.
+117:34:20 Kerwin: Okay. Roger that.
+Very long comm break.
+117:46:57 Kerwin: Aquarius, Houston. Over.
+117:47:02 Lovell: Go ahead, Houston.
+117:47:04 Kerwin: Okay, Jim. The experts would like another volt and amp reading. [Pause.]
+117:47:11 Lovell: Okay; have them stand by.
+117:47:13 Kerwin: Okay, no rush.
+Long comm break.
+117:49:46 Lovell: Houston, Aquarius.
+117:49:49 Kerwin: Aquarius, Houston; go ahead.
+117:49:53 Lovell: Voltage is 39.3; amps, 1.26. [Pause.]
+117:50:00 Kerwin: Copy 39.3 and 1.26.
+Comm break.
+This is Apollo Control; 117 hours, 51 minutes Ground Elapsed Time. Distance from Earth, 116,748 nautical miles.
+117:51:17 Lovell: Houston, Aquarius.
+117:51:19 Kerwin: Aquarius, Houston; go.
+117:51:24 Lovell: Joe, you might pass to our friends in Crew Systems that lunar boots make great footwarmers.
+Diagram of the lunar overshoe. They are mostly made of Beta cloth with multiple layers of Mylar and Kapton for micrometeroid and thermal insulation. They were designed to be slipped over the space suit boots to protect them from abrasion and thermal differences while on the lunar surface.
+117:51:31 Kerwin: I guess you need them up there, too. Is ... is anybody sleeping in the Command Module right now, Jim?
+117:51:39 Lovell: Negative, Joe. It's just too cold in there. I got Fred stashed over here to my left. He's asleep and Jack's [garble]. [Pause.]
+117:51:46 Kerwin: Roger. [Long pause.]
+This film shows Fred sleeping strapped to the commander's station in the LM. This view has made its way into many Apollo 13 documentaries and books. 16mm film capture. JSC
+Jim Lovell at the LMP's station. 16mm film capture. JSC
+Jack Swigert sleeping between the ascent engine and the tunnel. 16mm film capture. JSC
+Jack attempts to sleep in the back of the Lunar Module, on top of the Ascent Engine cover. According to Fred Haise, the LM ECS unit produced some precious heat for anyone sleeping in that part of the cabin.
+117:52:22 Lovell: You can eliminate the chilldown procedure for reentry.
+During normal landing operations, the Command Module's cooling systems are brought to maximum power before re-entry so that the spacecraft will act as a heat sink for the onboard equipment during the reentry. This does not affect the heat shield or the actual skin of the spacecraft, however, which are not subject to active cooling. The whole spacecraft is more than likely much colder now than at any point during a normal mission.
+117:52:27 Kerwin: (Laughter) Well, we figured we were in that mode now.
+Very long comm break.
+Velocity now 5,342 feet per second. Henry H. Wilson, Jr., President of the Chicago Board of Trade has forwarded the following message to the Mission Control Center: "The Chicago Board of Trade will suspend trading at 11 A.M. today for a moment of tribute to the courage and gallantry of America's Astronauts and a prayer for their safe return to Earth." At 117 hours, 53 minutes Ground Elapsed Time and standing by; this is Apollo Control.
+This is Apollo Control; 118 hours, 8 minutes Ground Elapsed Time. At the present time in the Houston News Center main auditorium, is a briefing just beginning with Mr. Keith McClung of North American Rockwell who will discuss the various hardware aspects of the Friday morning entry of Apollo 13. This is Apollo Control, standing by.
+North American Rockwell is the primary contractor for the Command and Service Module.
+118:25:50 Kerwin: Aquarius, this is Earth. Over.
+118:25:55 Lovell: Go ahead, Earth; Aquarius here.
+118:25:57 Kerwin: Roger. Earth is here, also; and, Jim, it is time for another one of those volt/amp checks. For your information, we've got that battery back up to 30 amp-hours now. Over.
+118:26:10 Lovell: Hey, that sounds great. Jack's gone up to check it.
+118:26:17 Kerwin: Roger. [Long pause.]
+118:26:34 Lovell: Aquarius, Earth.
+118:26:37 Kerwin: Go ahead.
+118:26:41 Lovell: You know, I think Aquarius is [garble].
+118:26:49 Kerwin: We've got [garble] now, Jim; I'm sorry.
+118:26:55 Lovell: I said Aquarius [garble].
+118:26:57 Kerwin: Roger. [Long pause.]
+118:27:25 Lovell: Houston, Aquarius.
+118:27:27 Kerwin: Go ahead.
+118:27:30 Lovell: Voltage 39.3, amps 1.26.
+118:27:36 Kerwin: Okay. Copy that, Jim. [Long pause.]
+118:27:56 Kerwin: Jim, Houston. Have you guys put on any extra clothes to try and ward off the nip of Jack Frost? Over.
+118:28:06 Lovell: Well, the lunar boots and two pair of underwear, and everyone is [garble] crawl into their sleep restraints. [Pause.]
+118:28:14 Kerwin: Yes.
+The sleep restraints were there for comfort, not for producing warmth, as they are, and offer little protection from the cold in the 51 Fahrenheit (10.5-degrees Celsius) LM cabin.
+118:28:15 Lovell: We're a little reluctant to break out the suits.
+118:28:18 Kerwin: Yes, that's understandable. You can always use them if you have to. I guess it's pretty hard to get extra coveralls on, huh? [Long pause.]
+118:28:44 Lovell: Well, Joe, I didn't think we had any extra inflight garments aboard, but we're going to check right now.
+118:28:50 Kerwin: Well, stand by.
+Very long comm break.
+Although it might sound like a perfect idea to put on their space suits to keep warm, the crew had their reasoning against it as well.
+Lovell, from 1970 Technical debrief: "Right now it's still a little bit hazy in my mind whether we should have donned the suits. Without the suits, we were so much more maneuverable, especially in getting rid of urine and moving around, that I was reluctant to put on the suits."
+Haise, from 1970 Technical debrief: "The problem with suits is that your body can't breathe in them. With no hoses plugged in, there is no flow. Even as cold as it was, inside the suit one starts getting hot and sweaty. You've got to crawl out of them about every 2 hours. Then, you're exposed soaking wet to that chilly atmosphere."
+118:43:33 Kerwin: Aquarius, Houston.
+118:43:36 Lovell: Go ahead, Houston.
+118:43:38 Kerwin: Roger. Jim, we noticed you just went to Auto and back to Close on the Suit Relief valve. Is everything okay?
+118:43:48 Lovell: We didn't do that intentionally. Stand by.
+118:43:54 Kerwin: Okay, maybe you didn't. Incidentally, you're less than 24 hours to go.
+118:44:00 Lovell: Roger. What happened was, our lithium hydroxide device here got caught in the suit relief valve. It is closed now. That's where you want it, right? [Pause.]
+118:44:12 Kerwin: Okay. [Long pause.]
+118:44:30 Kerwin: Okay. [Long pause.]
+118:44:45 Lovell: And, Joe, just a reminder; now that you mention it ... that it's less than 24 hours to go, what I'd like to do, and I have aboard all the procedures that you are working up; so I can run through them with the crew, and make sure that we get all our signals straight.
+Jim is starting to sound impatient over the fact that with less and less time remaining before reentry, they are still without the procedures for their return.
+118:45:05 Kerwin: Roger that, Jim. We are trying to get the procedures finished and up to you as quickly as we can. They exist. What's going on now is the guys are running them in the CMS/LMS, integrate, to make darn sure that the attitudes are correct and the time line is nice and relaxed and all that good stuff. And they won't be finished that run for another few hours. However, we expect to have an overall time line and a sequence of events for you before that time, and we'll start with the procedures as soon as they get ready. Over.
+118:45:50 Lovell: Okay. That's good. I think [garble] ought to go back to the original procedures we have on board and modify them as we have the time to. [Long pause.]
+118:46:18 Kerwin: Okay, Jim. Roger. We're going to do that to the maximum extent possible. And it looks reasonably feasible. To begin with in the Command Module we're going to have to send you some separate sequences for powering it up a little bit at a time. The closer we get to entry the more we get on the checklist. By the time we're about at EI minus 45 we're on the checklist all the way.
+118:46:39 Lovell: Okay. [Pause.]
+118:46:49 Lovell: And just as a reminder, don't forget our stowage problem. We ... We still have to do quite a bit of stowage of the drogue and probe in the LM, and, et cetera.
+118:46:59 Kerwin: Roger that. We've got a team working on that, and incidentally, one of the information items that they want to know is which lithium hydroxide containers in the Command Module are empty. They just want to know that for weight and balance ... and there's no rush about it ...
+118:47:18 Lovell: [Garble].
+Very long comm break.
+118:56:43 Lovell: Aquarius, Houston.
+118:56:46 Kerwin: Go ahead, Aquarius.
+118:56:50 Lovell: Another note of interest to the crew systems people ... Tell them that they don't have to bother putting the refrigerator onboard. I just brought out some hot dogs, and they're practically frozen.
+118:57:05 Kerwin: (Laughter) Okay. We copy that, Jim.
+Very long comm break.
+This moment was reenacted humorously in the Ron Howard film of Apollo 13. Here Tom Hanks' Jim Lovell tapped the frozen solid sausage against the AOT handles, resulting in a resounding noise.
+The Technical Crew Debriefing related another funny sausage-related incident.
+Haise, from 1970 Technical debrief: "We had one emergency in the LM that you didn't know about."
+Swigert, from 1970 Technical debrief: "Fred went up to get a volts and amps reading, and he said 'Here, hold my Frankfurter.' When he came back I said, 'Fred, I got an emergency here. I squeezed too hard and it drifted off someplace.' I said, 'Check around for two loose frankfurters.' That broke Fred up for about 5 minutes. I was still holding that empty package when he came back. We had a few laughs over this one."
+Haise, from 1970 Technical debrief: "I thought you had eaten them, that's why. You just can't trust these CMPs when you leave them in charge of the LM. The Spoon-bowl packages worked pretty well."
+Lovell, from 1970 Technical debrief: "That's a step in the right direction."
+119:11:05 Kerwin: Aquarius, Houston.
+119:11:10 Lovell: Go ahead.
+119:11:11 Kerwin: Okay. We'd like another volt, amp reading, Jim.
+119:11:16 Lovell: Okay. Stand by, Joe.
+119:11:18 Kerwin: Roger.
+Comm break.
+119:12:40 Lovell: Houston, Aquarius.
+119:12:41 Kerwin: Go ahead, Jim.
+119:12:44 Lovell: Volt 39.4, amp 1.23.
+119:12:49 Kerwin: Okay. Roger that. And, Jim, we ought to have a ... an entry time line to discuss with you in one hour.
+Very long comm break.
+This is Apollo Control; 119 hours, 17 minutes Ground Elapsed Time. Spacecraft position, 112,224 nautical miles out from Earth. Velocity continuing to build up. Now 5,478 feet per second. Looking now at Entry Interface time of 142 hours, 40 minutes, 42 seconds which according to the countdown clock is some 23 hours, 22 minutes from now. Got a midcourse correction burn something less than 2 feet per second which may or may not be done some 18 hours, 22 minutes from now, which is entry minus 5 hours. Cabin pressure aboard Aquarius holding around 4.7 pounds. Communication still rather scratchy, from time to time, spacecraft communicator Joe Kerwin requests the crew to give amp, pressure and voltage readouts on the battery charge going on and has been underway since about 112 hours. At 119 hours, 19 minutes Ground Elapsed Time; this is Apollo Control.
+207,839 kilometers remain, while their velocity has increased to 1,670 m/s.
+This is Apollo Control; 119 hours, 44 minutes Ground Elapsed Time. 22 hours, 56 minutes to Entry Interface, 400,000 feet. 17 hours, 56 minutes to next midcourse correction, if it is indeed performed. Cabin pressure in the Lunar Module holding at 4.94 pounds per square inch. Partial pressure of carbon dioxide in the cabin, 1/10 of a millimeter of mercury. And in the consumables for the Lunar Module, the remaining lifetime of various consumables; total usable remaining water, 111.4 pounds. The present usage rate is 2½ pounds an hour and the time remaining at this present rate, 163 hours Ground Elapsed Time when the water would be defunct. Oxygen aboard, 33.43 pounds, using 0.26 pounds per hour. This oxygen would run out at 247 hours. Electrical power total usable remaining, amp-hours, 974, using about 17.9 amp-hours or amps at the present time. This would be exhausted at 173 hours Ground Elapsed Time. Lithium hydroxide cartridges total remaining 180 hours. This is for the Lunar Module standard consumables, does not include the life time on the portable life support systems. At 119 hours, 46 minutes Ground Elapsed Time and standing by; this is Apollo Control.
+Day 5, part 4: Wobbles and Bursts
+Journal Home Page
+Day 6, part 1: Packing Up

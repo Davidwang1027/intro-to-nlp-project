@@ -1,0 +1,1467 @@
+Apollo 10 Flight Journal - Day 5, part 18: Undocking & DOI, 'Snoopy' goes solo
+Day 5, part 17: Snoopy prepares for the main event
+Journal Home Page
+Day 5, part 19: 'We is down among them'
+Apollo 10
+Day 5, part 18: Undocking & DOI, Snoopy goes solo
+Corrected Transcript and Commentary Copyright © 2014-2025 by W. David Woods, Robin Wheeler and Ian Roberts. All rights reserved.
+Last updated 2025-02-21
+Planned Revolution 12 Events and Attitude.
+097:55:49 Stafford (onboard Snoopy): [Cough.]
+097:56:10 Cernan (onboard Snoopy): Okay, Tom, let's just verify these last few things except helmets and gloves, huh?
+097:56:13 Stafford (onboard Snoopy): Okay.
+097:56:15 Cernan (onboard Snoopy): Mission time? Set?
+097:56:16 Stafford (onboard Snoopy): Yes.
+097:56:17 Cernan (onboard Snoopy): Event timer? Set?
+097:56:18 Stafford (onboard Snoopy): Yes.
+The CDR runs through a routine to load the mission time into the LGC from the CMC. Using Verb 26 Noun36 Enter, a nominated elapsed time is entered into the DSKY. The CMP will call the Mark when the loaded time is reached, and the CDR hits the Enter button on the DSKY. Using Verb 55, this time is then incorporated into the LGC. The Mission Timer on panel 1 is powered up using the circuit breaker on panel 11. The Mission Timer is set to correspond to the LGC mission time using the Mission Timer Slew Controls on panel 5. The CDR presets an appropriate mission time and when this time is reached the Mission Timer is commanded to begin counting up by placing the Mission Time Cont switch also on panel 5 in the Start position. The Mission Timer can only count up from its start time.
+Mission Timer and Event Timer displays - LM panel 1.
+Mission Timer, Timer Cont switch and Slew Cont switches - LM panel 5.
+The Event Timer is set by the CDR to help co-ordinate events. It can count up or down. The Event Timer Display is also on panel 1 and is set using the Reset/Count, Timer Cont and Slew Cont switches on panel 3.
+Event Timer control switches - LM panel 3.
+097:56:19 Cernan (onboard Snoopy): Overhead hatch locked?
+097:56:20 Stafford (onboard Snoopy): Yes.
+LM upper hatch locking handle and Overhead Cabin Relief Dump valve handle.
+097:56:21 Cernan (onboard Snoopy): Overhead Cabin Relief Dump valve, Auto?
+097:56:24 Stafford (onboard Snoopy): Let's leave it closed. We don't want any...
+097:56:26 Cernan (onboard Snoopy): Okay. Well, put that lock in so it doesn't go to the Open position.
+097:56:39 Cernan (onboard Snoopy): That one right there is Auto.
+097:56:43 Stafford (onboard Snoopy): Yes.
+The Overhead Dump valve is situated on the LM overhead docking hatch. It provides for automatic LM cabin depressurization and cabin pressure relief. In the Auto position, the valve can operate normally as a automatic pressure relief device.
+097:56:45 Cernan (onboard Snoopy): Regs A and B, Cabin?
+097:56:46 Stafford (onboard Snoopy): Yes.
+With the Pressure Regulator A and B on the ECS oxygen control panel, in the Cabin position, regulated oxygen flow is permitted into the suit circuit at a maintained pressure of 4.8, plus or minus 0.2 psia.
+097:57:00 Cernan (onboard Snoopy): Guidance Control, AGS?
+097:57:02 Stafford (onboard Snoopy): Yes.
+Guidance Control switch on panel 1 selects whether the PGNS or AGS provide the guidance control commands.
+097:57:03 Cernan (onboard Snoopy): Mode Select, Landing Radar?
+097:57:05 Stafford (onboard Snoopy): Yes.
+The Mode Select switch on panel 1 selects radar or computer data for display on X-Pointer and altitude/range indicators.
+097:57:06 Cernan (onboard Snoopy): Range/Altitude Monitor, Range Rate?
+097:57:08 Stafford (onboard Snoopy): Go.
+The RNG/ALT Mon switch on panel 1 when set to the RNG/RNG RT position, selects the display legend on the altitude/range indicator and displays rendezvous radar range/range rate data or LR or computer altitude/altitude rate data.
+097:57:09 Cernan (onboard Snoopy): Rate/Error Monitor, Landing Radar/Computer?
+097:57:13 Stafford (onboard Snoopy): Yes.
+Cernan is referring to the Rate/Error Monitor switch on the LMP side of the central control panels, panel 2, which selects the input for the FDAI and X-Pointer indicators. When placed in the Landing Radar/Computer position, vehicle attitude errors are displayed on the FDAI error needles. Forward and lateral velocities from the landing radar are displayed on the X-pointer indicator (illuminating the LAT VEL and FWD VEL labels on the indicator scales).
+097:57:14 Cernan (onboard Snoopy): CDR, Rendezvous Radar?
+097:57:16 Stafford (onboard Snoopy): Right.
+The Rate/Error Monitor switch on the CDR side of the central control panels, on panel 1, again selects the input for the FDAI and X-Pointer indicators. When placed in the RNDZ Radar position, the shaft and trunnion angles from the Rendezvous Radar are displayed by pitch and yaw error needles of FDAI; LOS (line of sight) azimuth and elevation rates are displayed on the X-Pointer indicator (illuminating LOS AZ and LOS ELEV).
+097:57:17 Cernan (onboard Snoopy): Attitude Monitor, Commander PGNS, and LMP, AGS?
+097:57:19 Stafford (onboard Snoopy): Go.
+The Attitude Monitor switch on panel 1 for the CDR and panel 2 for the LMP are set to each of the two guidance systems, to ensure that the FDAI total attitude displays and input for the attitude error needles (panels 1 & 2) is provided in the event that one of the guidance systems malfunctions.
+097:57:21 Cernan (onboard Snoopy): Rate Scale, 5 degrees?
+097:57:24 Stafford (onboard Snoopy): Right.
+The Rate Scale switch on panel 1, selects the scale factors of roll, pitch, and yaw rate scales of the FDAI. The two options are 25°/sec or 5°/sec.
+Rate Scale switch - LM panel 1.
+097:57:25 Cernan (onboard Snoopy): X-Translation, 2 Jets?
+097:57:27 Stafford (onboard Snoopy): Yes.
+X-Translation using 2 RCS jets is selected using the switch on panel 1. This is for controlling translations along the LM's X axis (up or down from the crew's perspective). The pair of RCS jets will be on diagonally opposing sides of the LM.
+097:57:28 Cernan (onboard Snoopy): Balance Couple, On?
+097:57:31 Stafford (onboard Snoopy): Yes.
+The BAL CPL switch at the bottom of panel 1 selects either balanced pairs of RCS jets as a couple to maintain pitch and roll attitude control during use of the ascent engine, when the AGS is in the guidance control loop. This switch is placed in the On position in preparation for the initial use of the ascent engine for the insertion maneuver and also its possible use in the event an abort was necessary. In this position the maximum degree of stabilization and control is afforded for any center of gravity thrust vector misalignments.
+Balance Couple switch - LM panel 1.
+097:57:32 Cernan (onboard Snoopy): Deadband, Max; Attitude Control, three, Pulse; Mode Control, both, Attitude Hold: You just turned AGS off, huh?
+The Deadband switch on panel 3 is set to the Max position to provide a large deadband limit of 5°. This is to help conserve RCS propellant during coasting flight, when the PGNS is not functional. In conjunction with this switch setting, the FDAI error needle scaling is plus or minus 14.4°.
+With the three (roll, pitch and yaw) Attitude Control switches also on panel 3 in the Pulse position, two RCS jets in the selected axis fire at a constant pulsed rate as long as the ACA (Attitude Control Assembly) is displaced by more than a quarter of its full displacement. The attitude rates induced must be nulled to zero by inputting the opposite command manually.
+The Mode Control switches also on panel 3 when set to Attitude Hold for both PGNS & AGS will allow the commander to command angular attitude rates proportional to the displacement of the ACA. Stafford has switched the AGS Mode Control switch to Off temporarily so that if he inadvertently moves the ACA, it will have no effect as they are currently in AGS control.
+097:57:38 Stafford (onboard Snoopy): Yes. I don't want to hit the stick.
+097:57:41 Cernan (onboard Snoopy): Okay. Turn these off for now, huh?
+097:57:47 Stafford (onboard Snoopy): Yes.
+097:57:49 Cernan (onboard Snoopy): Are you in jets over there?
+097:57:50 Stafford (onboard Snoopy): I'm in jets.
+Cernan is confirming whether Stafford has selected the Jets position on the TTCA (Thrust/Translation Controller) selection level on his side of the cabin. In this position, the TTCA is used to command RCS X-axis translation manoeuvres. His next remark is in regards to the effort required to move this selection level to the Throttle position.
+097:57:52 Cernan (onboard Snoopy): When you go to Throttle, you've really got to go hard. Rendezvous Radar, Slew?
+097:58:02 Stafford (onboard Snoopy): Yes.
+The Rendezvous Radar mode selector rotary switch on panel 3 is placed in the SLEW position to enable manual control of the rendezvous radar antenna drive using the Slew switch, which is also on panel 3.
+097:58:03 Cernan (onboard Snoopy): ACA/4 Jet Enable, Okay. You want to put your AOT heater On before we undock.
+Cernan is checking whether the ACA/4 Jet switch on the CDR side of panel 4 is in the Enable position. This enables the nominal operation of the ACA (Attitude Control Assembly) on the CDR side of the cabin.
+097:58:12 Stafford (onboard Snoopy): Yes.
+Stafford is closing the AOT (optics) HEATERS circuit breaker on panel 11 to avoid fogging.
+AOT Heaters circuit breaker - LM panel 11.
+097:58:13 Cernan (onboard Snoopy): You can see our track light.
+097:58:14 Cernan (onboard Snoopy): Oh, no. Oh, God, no. Oh, you son of a bitch!
+097:58:18 Stafford (onboard Snoopy): Yes.
+097:58:26 Cernan (onboard Snoopy): Helmets and gloves.
+097:58:27 Stafford (onboard Snoopy): [Cough.] Oh, man, is that bright.
+097:58:46 Cernan (onboard Snoopy): Tom, why don't you keep this over there somewhere.
+097:58:51 Stafford (onboard Snoopy): Okay. I wish I had some tape.
+097:59:26 Stafford (onboard Snoopy): I can't stay down without a restraint, can you?
+097:59:29 Cernan (onboard Snoopy): What?
+097:59:30 Stafford (onboard Snoopy): I can't stay down, here, can you?
+The crew restraint assembly consists of ropes, restraint rings, and a constant-force reel system. The ropes attach to D-rings on either side of the crewman's pressure suit, at waist height. The constant-force reel control provides a downward, anchoring force of approximately 30 pounds (13.6 kg). It is locked during landing and docking operations. When the constant-force reel is locked, the ropes are allowed to reel in, and a ratchet stop prevents paying out of the ropes, thus providing restraint in zero-g. During the docking manoeuvres, the commander uses a pin adjuster to enable him to use the COAS (crewman optical alignment sight) in the overhead docking window.
+Restraint system.
+Crew Restraint Assembly.
+097:59:31 Cernan (onboard Snoopy): You see our landing gear out there?
+097:59:40 Stafford (onboard Snoopy): I can't - I'm not going to look out...
+097:59:41 Cernan (onboard Snoopy): Hey, I can damn near see one.
+097:59:42 Stafford (onboard Snoopy): You're in the shadows. I can't. Can you set up at f:11?
+097:59:47 Cernan (onboard Snoopy): f:8.
+097:59:52 Stafford (onboard Snoopy): Your f is f:8, huh? Oh, got this thing all knocked around. That's what I had.
+Flight Plan page 3-56.
+098:00:08 Stafford (onboard Snoopy): [Garble] go ahead and put my helmet and gloves on.
+098:00:28 Cernan (onboard Snoopy): There was something else I just wanted to do, and I don't remember what it was.
+098:00:51 Stafford (onboard Snoopy): Give me a hand here, and I'll get this out of the way.
+098:01:09 Cernan (onboard Snoopy): All in?
+098:01:10 Stafford (onboard Snoopy): Yes. Tunnel lock.
+098:01:14 Young (onboard): Okay, when was undocking, 98:22?
+098:01:17 Stafford (onboard Snoopy): Right. 98:22, and I'll give you a hack at 20 minutes to go. You've got 20 minutes and 30 seconds.
+098:01:23 Young (onboard): Okay.
+098:01:35 Cernan (onboard Snoopy): Put your AOT breaker in, Tom.
+098:01:37 Stafford (onboard Snoopy): Okay. I've already got my AOT heater breaker in.
+098:01:40 Cernan (onboard Snoopy): Huh?
+098:01:42 Stafford (onboard Snoopy): You want the AOT breaker in? You got it? [Garble]...
+098:01:47 Cernan (onboard Snoopy): Looking right back at the Command Module, right now
+098:01:48 Stafford (onboard Snoopy): 3, 2, 1...
+098:01:57 Stafford (onboard Snoopy): Mark it. We've got 20 minutes to go.
+098:02:01 Young (onboard): Okay. And you said you want to go 5 minutes early?
+098:02:03 Stafford (onboard Snoopy): Yes, at least 5 minutes early, in case we have to go to some attitude. Okay?
+098:02:07 Young (onboard): Okay.
+098:04:01 Cernan (onboard Snoopy): Hey, John, while you're sitting there, do you want to try VHF A Simplex again?
+098:04:07 Young (onboard): Roger. Let's do it.
+098:04:09 Cernan (onboard Snoopy): Okay.
+098:04:10 Young (onboard): Going to VHF A Simplex now.
+Placing the VHF AM A switch on panel 3 in the Simplex position provides voice only communications between MSFN and the CSM, and between the LM and CSM at 296.8 MHz. This voice transmission can be triggered using the PTT switch on the electrical umbilical assembly and in VOX mode.
+VHF AM switch - Panel 3.
+098:04:22 Young (onboard): Snoopy, Charlie Brown, how do you read?
+098:04:24 Stafford (onboard Snoopy): Beautiful.
+098:04:25 Cernan (onboard Snoopy): Roger, I'm reading you loud and clear. How me?
+098:04:28 Young (onboard): I read you the same.
+098:04:31 Stafford (onboard Snoopy): You're coming in great John.
+098:04:34 Cernan (onboard Snoopy): Okay, John, let's try VHF - let's try the Duplex Ranging mode except I won't give you Ranging; I'll just give you Voice.
+By placing the LM VHF A XMTR switch on panel 12 for this test in the Voice position, only the VHF voice function is enabled. In the proper VHF Ranging mode the VHF A XMTR switch will be placed in the Voice/RNG position which enables the ranging capability via the VHF A transmitter. This ranging mode is only available through the VHF A transmitter in the lunar module.
+VHF A XMTR (transmitter) switch - LM panel 12.
+098:04:42 Young (onboard): Okay. Let's go to Duplex at B, Okay?
+098:04:46 Cernan (onboard Snoopy): Okay. John, how do you read us?
+098:04:53 Young (onboard): Read you loud and clear, Gene-o.
+The VHF/AM transmitter-receiver equipment provides the capability for two-way voice communications between the CSM, MSFN, LM, and an EVA astronaut. It can be used as a voice relay between the LM or astronaut on EVA and MSFN, and ranging (distance measuring) with the LM. The crew will be using it in the ranging mode during undocked operations. In the Duplex B setting the VHF/AM transmits at 259.7 MHz and receives 296.8 MHz for both voice and ranging. Duplex B is selected using the VHF AM switches on panel 3.
+098:04:55 Cernan (onboard Snoopy): Okay, this is the mode we're going to operate in except my Transmit switch will be in Voice/Ranging instead of Voice, so maybe we're in.
+098:05:02 Young (onboard): Yes. What happened all of a sudden, like?
+098:05:05 Cernan (onboard Snoopy): I don't know.
+098:05:07 Stafford (onboard Snoopy): That could be what they were talking about on this corona build-up.
+The crew were briefed pre-flight that Apollo 9 had encountered some coronal build-up around the LM VHF antenna which had degraded its operation.
+098:05:12 Cernan (onboard Snoopy): Okay, John, let's go to VHF Simplex Data. That's where we should be now. Let's go back there.
+098:05:19 Young (onboard): Okay. A Data.
+098:05:24 Cernan (onboard Snoopy): Are you in A, T/R and B, Receive, Tom?
+098:05:27 Stafford (onboard Snoopy): On A, T/R and B, Receive.
+098:05:29 Cernan (onboard Snoopy): John, how do you read us?
+098:05:31 Young (onboard): It's loud and clear.
+Stafford is confirming that the VHF A mode switch on panel 8 is in the T/R (transmit/receive) position which enables any audio received on VHF A to be routed to the CDR audio headset amplifier and outputs from his microphone will be sent to the VHF A transmitter. In this mode, any VOX keyed voice output would also be routed to the VHF A transmitter. The VHF B switch also on panel 8 when in the RCV (receive) position enable any audio received on VHF B to be routed to the CDR audio headset amplifier.
+098:05:32 Cernan (onboard Snoopy): Okay, let's stay here.
+098:05:35 Stafford (onboard Snoopy): John, you're so loud in these earplugs I have my volume down to 2. You're really booming through.
+098:05:43 Young (onboard): Good.
+098:05:53 Cernan (onboard Snoopy): We ought to be in for six exciting hours.
+098:05:57 Stafford (onboard Snoopy): It should be interesting.
+098:06:00 Young (onboard): Man, I hope that docking thing don't have anything to do with the probe working or not working.
+098:06:08 Stafford (onboard Snoopy): Oh, yes.
+098:06:09 Cernan (onboard Snoopy): How's Delta-P these days?
+098:06:14 Young (onboard): The tunnel?
+098:06:15 Cernan (onboard Snoopy): Yes.
+098:06:19 Young (onboard): 0.8, just what it was a couple or 3 minutes ago. It's still solid.
+098:06:27 Stafford (onboard Snoopy): Looks like those three capture latches do a pretty good job.
+098:06:30 Young (onboard): Yes, they do.
+Young has confirmed that pressure difference between the CM cabin and the docking tunnel has not changed over the last few minutes. Now that the main docking latches have been cocked, the docking probe capture latches are the only mechanism holding the two spacecraft securely together. The stable pressure differential is a good indicator that the pressure seal between the two vehicles is being held tight.
+098:06:33 Stafford (onboard Snoopy): John, I think 5 minutes should be enough for us to get squared away, right?
+098:06:38 Young (onboard): Yes, I hope so.
+098:06:40 Stafford (onboard Snoopy): Or do you want to do it more than 5 minutes early, babe?
+098:06:41 Young (onboard): I'd kind of like to.
+098:06:42 Stafford (onboard Snoopy): Okay, do you want - you say when, 8 or 10.
+098:06:48 Young (onboard): Okay, I'll make it, I'll vote for 10.
+Stafford and Young are anxious to get undocked as soon as they are ready, so they can keep well ahead of the Flight Plan timeline just in case they have any issues regarding the apparent docking ring slippage during the station keeping, LM inspection and preparation for the separation burn.
+098:06:51 Stafford (onboard Snoopy): Okay, we're with you, we've got plenty of field.
+098:06:54 Cernan (onboard Snoopy): Okay, let me start putting my helmet and gloves on, then.
+098:06:56 Stafford (onboard Snoopy): We've got this 15 mark; we'll undock in 5 more minutes.
+098:07:00 Young (onboard): Roger.
+098:07:09 Cernan (onboard Snoopy): How's that look?
+098:07:10 Stafford (onboard Snoopy): Gene-o, yes, Gene-o, you're getting it.
+098:07:31 Stafford (onboard Snoopy): That Sun could really be a bitch in a few more minutes. John, will you stand by to take over and vice versa?
+098:07:44 Stafford (onboard Snoopy): John, what do you think about the Sun? Do you think that's going to be hurting you, babe?
+098:07:49 Young (onboard): Yes, but there ain't nothing I can do about it.
+098:07:51 Stafford (onboard Snoopy): Let me know if you lose us in the - in the bright glint.
+The view of the LM from the CSM immediately after undocking will be straight into the Sun. Stafford is advising Young that he should be ready to maneuver the CSM at short notice if the two vehicles get too close when visibility is impaired.
+098:07:55 Young (onboard): Okay, I won't turn that thing off if it's going to get in the Sun, Okay?
+098:07:58 Stafford (onboard Snoopy): Do what?
+098:08:00 Young (onboard): I won't turn that other thing on if it's going to get the Sun on it. Okay?
+098:08:04 Stafford (onboard Snoopy): Yes, don't turn it on until we make sure that there's no Sun on it.
+098:08:05 Young (onboard): Okay.
+098:08:07 Stafford (onboard Snoopy): Just leave it covered up right now. Did you stick some tape over the end of it?
+098:08:15 Young (onboard): Gene-o did.
+Due to the relative position of the Sun, the TV camera, which has been mounted in the right hand docking window, to televise the station keeping, will remain off and its lens covered up to avoid damage to the vidicon tube. Once the Sun has moved from the camera's field of view, the camera will be activated.
+098:08:17 Stafford (onboard Snoopy): Well, Okay, just before you take it off make sure you don't turn the other settings. We're all set on the others.
+098:08:30 Young (onboard): The only thing I do is go to TV, right?
+098:08:33 Stafford (onboard Snoopy): All you do is go to - take the lens cap off and go to TV. You may have to turn the horizontal adjust on your monitor a little bit. You usually do.
+The S-Band AUX SCI/TV switch on panel 3 is placed in the TV position. This activates the FM transmitter of the USBE (Unified S Band Equipment) and connects the TV output to the power amplifier now selected on the S-Band Normal PWR AMPL Prim/Sec switch. It activates the power amplifier in the high power mode. It also connects the TV output to the FM transmitter modulator.
+The horizontal hold on the onboard TV monitor may need to be adjusted as the TV is switched on.
+098:08:42 Young (onboard): Okay.
+098:08:46 Stafford (onboard Snoopy): Okay, 3 minutes to undocking.
+098:08:49 Young (onboard): Roger.
+098:08:51 Stafford (onboard Snoopy): Do you want to use the Hasselblad?
+098:08:53 Cernan (onboard Snoopy): John, what have you got for an AOS, coming around the horn? About 23? John, what do you have. For AOS, about 23?
+098:09:11 Young (onboard): Say again.
+098:09:12 Cernan (onboard Snoopy): What do you have for AOS, about 98:23?
+098:09:18 Young (onboard): Yes, he said he'd pick us up at 98:25.
+098:09:22 Cernan (onboard Snoopy): Okay.
+098:09:26 Stafford (onboard Snoopy): Okay, 2 minutes, coming around to undocking. 02:30, pardon me.
+098:09:32 Cernan (onboard Snoopy): Boy, that Sun is treacherous. Could you push way down and snap in, Tom?
+098:09:56 Stafford (onboard Snoopy): There. Well, maybe I wasn't pushing hard enough.
+098:10:05 Stafford (onboard Snoopy): Okay, when we undock, to review, I'm going to yaw right 120 and pitch up 90. Are you going to make any maneuvers at all after undock until I get around?
+098:10:13 Young (onboard): Roger. Now it's going to be different for you. Like I say, you're in a different attitude than you used to be.
+Young is reminding Stafford that the combined spacecraft have not manoeuvred to the planned undocking attitude due to the docking interface slippage.
+098:10:20 Stafford (onboard Snoopy): Yes. But I still need to yaw right 120, don't I? I've got to let them match up with your X-axis.
+098:10:29 Young (onboard): Yes, you - yes, you - Well, I don't know- I don't think it's - it's not 120. I tell you what. Is that what you want to do? Match up with my X-axis and then pitch up?
+The LM plus-Z axis points out through the forward hatch. It is offset 120° from the CSM plus-Z axis, which points straight down through the crew's feet. The LM yaw 120° to the right will align these axis. The LM will then be pitched up 90° so that the crew are looking straight at the CSM, with the CSM looking straight at them.
+098:10:40 Stafford (onboard Snoopy): Yes. I need to match up with your X-axis and then I'll pitch up to my Z.
+098:10:42 Young (onboard): Okay. Why don't you let me maneuver to 0, 0, 0 and then tell you.
+Young is suggesting that post undocking he place all 3 of the CSM axis in the 0° position.
+098:10:48 Stafford (onboard Snoopy): Okay. I thought we weren't supposed to maneuver.
+098:10:51 Young (onboard): Not until after we undock, is what I'm saying.
+098:10:55 Stafford (onboard Snoopy): Okay. Okay. We've got 1 minute to go, babe.
+098:11:01 Young (onboard): Roger. Docking Probe circuit breakers coming In.
+Closing the Docking Probe circuit breakers on panel 8, provides 10 amps power supply from each bus to systems A & B capture latches motors, the Docking Probe talk back indicators and the Docking Probe temperature telemetry.
+Docking Probe circuit breakers - Panel 8.
+098:11:05 Stafford (onboard Snoopy): Roger.
+098:11:16 Stafford (onboard Snoopy): We'll go out for about 40 seconds and then kill our rates - our opening rates, Okay?
+098:11:21 Young (onboard): Okay.
+098:11:30 Stafford (onboard Snoopy): 30 seconds, John.
+098:11:49 Stafford (onboard Snoopy): 8, 7, 6, 5, 4, 3, 2, 1...
+098:11:57 Stafford (onboard Snoopy): Go.
+CMP Young, using the Docking Probe, EXTD/REL switch on panel 2, commands the capture latch release motor to withdraw the three latches, hence allowing the probe head to come free from the center of the drogue in the LM. The probe indicators also on panel 2 momentarily go to barber pole and then to gray to indicate release of the capture latches.
+Docking Probe EXTD/REL switch and indicators - Panel 2.
+Extended docking probe and drogue, showing the configuration following undocking.
+098:11:58 Stafford (onboard Snoopy): Now that wasn't bad, just a little more Delta-V. We opened quite a bit. It's faster than the simulator, babe. Halt. I'm thrusting up to kill it.
+098:12:08 Young (onboard): Yes.
+098:12:17 Stafford (onboard Snoopy): Okay, I'm thrusting up to kill it.
+The LM Snoopy is moving away from the CSM Charlie Brown, due in part to the residual pressure in the docking tunnel being released as the docking probe capture latches released. The motion is along the LM's minus-X axis, therefore the LM crew are pulsing the LM minus-X RCS thrusters to halt this motion.
+Three of the four minus-X RCS thrusters are highlighted in red.
+098:12:25 Stafford (onboard Snoopy): We're still opening.
+098:12:31 Cernan (onboard Snoopy): Read us, John?
+098:12:33 Stafford (onboard Snoopy): John, do you read us? Oh, shoot.
+098:12:38 Young (onboard): Yes, I read you.
+098:12:39 Cernan (onboard Snoopy): Okay, great.
+098:12:40 Stafford (onboard Snoopy): Okay, now you want me to yaw right? Go ahead and start this...
+098:12:50 Young (onboard): Yes, take a look at my docking probe and see if it's [garble] extended all the way or not.
+098:12:53 Stafford (onboard Snoopy): Okay. I'm starting to yaw right, babe.
+098:13:00 Young (onboard): Okay. I'm going to yaw to [garble] roll to 180 myself.
+098:13:06 Cernan (onboard Snoopy): Get the Hasselblad, Tom, I'll catch him when we come around.
+098:13:08 Stafford (onboard Snoopy): Okay, I've already got the thing out of it.
+098:13:27 Stafford (onboard Snoopy): We're in a completely different attitude from where we were. Completely different I know what you mean about a completely different attitude.
+098:13:39 Young (onboard): Yes...
+098:13:40 Stafford (onboard Snoopy): John, we're opening a little bit; can you thrust towards me?
+098:14:00 Stafford (onboard Snoopy): Oh, shit, look at that.
+098:14:03 Young (onboard): [Garble.]
+098:14:09 Stafford (onboard Snoopy): Is that going to be your Sep attitude, John?
+098:14:13 Young (onboard): Negative.
+098:14:17 Stafford (onboard Snoopy): Okay, I'm going to have to roll around here and try to keep out of gimbal lock to stay with you.
+098:14:24 Young (onboard): Okay, I'm going to my Sep attitude now.
+098:14:27 Stafford (onboard Snoopy): Okay. What is it going to be?
+098:14:28 Young (onboard): It's going to be 014.
+The CSM separation attitude read up to John Young is Roll 0°, Pitch 14°, Yaw 0°. These values are relative to the current LLS-2 REFSMMAT. In relation to the LHLV the values are Roll 0°, Pitch 268.8°, Yaw 0°.
+098:14:30 Stafford (onboard Snoopy): I can't tell what data - anything like that over here.
+098:14:34 Young (onboard): Okay, it's just the same one that we had in the simulator.
+098:14:37 Stafford (onboard Snoopy): Okay. You going to it now?
+098:14:38 Young (onboard): Yes. Why don't you pitch up, Tom?
+098:14:44 Stafford (onboard Snoopy): This is wild, Gene-o. We've never seen anything like this before.
+098:14:52 Young (onboard): Pitch up. And get me out your front window.
+AS10-34-5082 is an image of LM Snoopy just after undocking from the CSM Charlie Brown].
+098:15:31 Stafford (onboard Snoopy): It's Okay, I know, about the attitude we're going to be now.
+098:15:35 Cernan (onboard Snoopy): The same attitude, Tom, as on your book there for undocking.
+AS10-34-5083 shows LM Snoopy during station keeping following undocking.
+098:15:37 Stafford (onboard Snoopy): Yes.
+098:16:00 Cernan (onboard Snoopy): Got him out there?
+098:16:01 Stafford (onboard Snoopy): Yes.
+098:16:02 Cernan (onboard Snoopy): Oh, beautiful. I can't see him from here, but if I can't...
+098:16:11 Stafford (onboard Snoopy): I'm trying to match you, John. Should I be upside down to you, babe?
+098:16:15 Cernan (onboard Snoopy): No, this is good.
+098:16:16 Young (onboard): Yes, you should be, but that's alright.
+AS10-34-5084 - LM Snoopy during station keeping. - Image by NASA/Johnson Space Center.
+AS10-34-5085 - LM Snoopy during station keeping. - Image by NASA/Johnson Space Center.
+In these photos, taken during station keeping, notice that Snoopy, also known as LM-4, has four lunar surface probes installed. Prior to Apollo 11, it was decided to remove the probe from the forward plus-Z footpad, due to concerns that the forward probe may snag up under the footpad and make it difficult for the astronauts as they egress the LM on the lunar surface at the beginning of the EVA.
+098:16:22 Stafford (onboard Snoopy): Okay, can you close with your plus-X, and we'll look at that probe.
+098:16:26 Cernan (onboard Snoopy): Don't tell me this dammed thing isn't working again. God damn it.
+098:16:27 Stafford (onboard Snoopy): You can take off your helmets and gloves.
+098:16:35 Stafford (onboard Snoopy): Are you in your SEP attitude yet, babe?
+098:16:40 Young (onboard): Just about.
+098:16:50 Stafford (onboard Snoopy): Okay, you need to translate a little laterally for me.
+098:17:00 Young (onboard): Okay, I'm coming - coming forward.
+098:17:07 Stafford (onboard Snoopy): Okay. Did you get it?
+098:17:12 Cernan (onboard Snoopy): They say f:8, but he's awful bright out there.
+098:17:13 Stafford (onboard Snoopy): Yes.
+098:17:24 Stafford (onboard Snoopy): You're out a little bit too far. I'll try to thrust in a little bit, but I - it really offsets me in pitch, as you can see. Can you thrust toward me?
+098:17:35 Young (onboard): Roger, I'm thrusting towards you.
+098:17:39 Stafford (onboard Snoopy): Man, that fuel is going down like mad, too.
+098:17:59 Stafford (onboard Snoopy): I'll take care of the up and down, John.
+098:18:21 Cernan (onboard Snoopy): Take some at f:8 and f - oh, you're putting that up there. Taking you, John, babe, you're a weird-looking machine
+098:18:44 Stafford (onboard Snoopy): [Cough.]
+098:19:01 Stafford (onboard Snoopy): How's the landing gear look, José, down and locked? [Cough.]
+098:19:06 Young (onboard): Yes.
+098:19:07 Cernan (onboard Snoopy): I'm going to take my helmet and gloves off, Tom.
+098:19:11 Stafford (onboard Snoopy): Yes. We're going to take our helmets and gloves off.
+098:19:14 Young (onboard): Roger.
+098:19:16 Stafford (onboard Snoopy): I'm drifting out laterally to you. Can you make one little thrust correction? Every time I do that it really costs me.
+098:19:23 Young (onboard): Okay, I'll get to you.
+098:19:26 Stafford (onboard Snoopy): Okay. I'll take care of the up and down. That's real easy. [Cough.]
+098:19:58 Cernan (onboard Snoopy): Tom, reset your...
+098:20:11 Cernan (onboard Snoopy): John, you're the first vehicle photographed by another around the Moon. How does that grab you?
+098:20:16 Young (onboard): That grabs me good.
+098:20:49 Stafford (onboard Snoopy): Can you come in a little ways here just slowly.
+098:20:52 Young (onboard): Yes. I'm coming in.
+098:21:14 Stafford (onboard Snoopy): Gene-o, something is wrong with our alignment. We're going...
+098:21:23 Cernan (onboard Snoopy): It's Orb-rate, Tom.
+The ORDEAL is providing the attitude display inputs to the FDAI and at this time is set to the Orb Rate position. In this position the FDAI output displays the attitude with respect to the local horizontal reference framework.
+098:21:24 Stafford (onboard Snoopy): Yes. Okay. Right now we're going - John, right now I'm going BEF, right? You're going BEF, right?
+098:21:37 Young (onboard): Yes.
+098:21:44 Stafford (onboard Snoopy): Yes, but we're not upside down.
+098:22:05 Cernan (onboard Snoopy): Tom, that will be BEF...
+BEF is Blunt End Forward.
+098:22:06 Stafford (onboard Snoopy): Yes, but we're - that shows we're upside down.
+098:22:10 Cernan (onboard Snoopy): I know, but that's wrong. ORB rate needle 100 - that's great. Now that's better. We're facing up in the air. That's [garble].
+Cernan is setting the ORDEAL Alt Set dial to the 100 position. This setting dictates the rate at which the ORDEAL torques the FDAI ball, which is dependent on the LM altitude. The Alt Set setting is usually provided by MCC-H. It can also be obtained onboard by following the LGC Orbit Parameter Display routine 30 or the Ground Track Determination program 21. Cernan has now set the Alt Set dial correctly and the FDAI balls have both responded.
+ORDEAL control to the left and behind the commander.
+098:22:20 Young (onboard): [Garble.]
+098:22:23 Cernan (onboard Snoopy): Okay, babe.
+098:22:24 Stafford (onboard Snoopy): That's good.
+098:22:25 Cernan (onboard Snoopy): That's great! That's better, we're facing up in the air, that's BEF.
+098:22:30 Stafford (onboard Snoopy): Yes. There we go.
+098:22:33 Cernan (onboard Snoopy): That's BEF.
+098:22:34 Stafford (onboard Snoopy): There we go. I believe that.
+098:22:58 Cernan (onboard Snoopy): Okay, [garble]?
+098:23:13 Young (onboard): Okay.
+098:23:27 Cernan (onboard Snoopy): It would be good if John could get a picture of us against the lunar surface right like this, you know it?
+098:23:30 Stafford (onboard Snoopy): Yes.
+098:23:31 Young (onboard): Okay, I'm at the Sep attitude, Tom.
+098:23:33 Stafford (onboard Snoopy): You're now at the Sep attitude, huh?
+098:23:36 Young (onboard): Now, I'm in Sep attitude. I can't see you. Will you come up a little bit?
+098:23:40 Stafford (onboard Snoopy): Translate up. You need to translate left a little bit.
+098:23:46 Young (onboard): You mean right, don't you?
+098:23:48 Stafford (onboard Snoopy): Okay. Yes, Okay, it'll be to your - right.
+098:23:52 Young (onboard): Okay, I can't see you and I don't know whether I am even closing on you or not.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 98 hours, 24 minutes. We're about 1 minute away from acquisition of Apollo 10 on its 12th revolution of the Moon. We'll find out at acquisition how this undocking went. We'll stand by here live to pick up the first communication.
+Madrid has acquisition.
+098:24:02 Young (onboard): Now I got you.
+098:24:27 Stafford (onboard Snoopy): I'll take care of the up and down.
+098:24:30 Young (onboard): Okay, I'll get rid of - I'll get the left and right, and in and out.
+098:24:33 Stafford (onboard Snoopy): Okay.
+098:24:34 Young (onboard): Your gear is all down and locked, babe.
+098:24:36 Stafford (onboard Snoopy): Good.
+098:24:38 Cernan (onboard Snoopy): You going to take a picture of it?
+098:24:44 Young (onboard): Yes, if I could see it, I could.
+098:24:55 Stafford (onboard Snoopy): That's good.
+16-mm film from Lunar Module Snoopy.
+H.264 MP4 video file.
+098:25:31 Stafford (onboard Snoopy): Yes, now we're getting in pretty good shape, babe. You really make a beautiful background against the Moon down there, John.
+098:25:41 Cernan (onboard Snoopy): I'll tell you, John, these pictures of you against that Moon ought to be fantastic.
+098:25:56 Cernan (onboard Snoopy): We got some ice on our - on our urine dump area over there - under your head.
+Ice has been noticed building up around the urine dump nozzle outlet which is situated alongside the CM roll RCS thrusters.
+Apollo 10 Command Module on display at the London Science Museum, showing the Urine Dump Nozzle.
+Urine dump nozzle contamination.
+The area of contamination described by Cernan can clearly be seen in image AS10-27-3874 above, which was taken during the station keeping just after undocking.
+098:26:06 Stafford (onboard Snoopy): I'll tell you - If you get a chance, I think we're pretty well stabilized now, you can go ahead and flip on the TV and take off the cover.
+098:26:14 Young (onboard): Roger.
+During station keeping, LM Snoopy has moved in closer to the CSM Charlie Brown to enable Young to make a detailed examination of the LM prior to separation.
+AS10-34-5086 - LM Snoopy during station keeping. - Image by NASA/Johnson Space Center.
+AS10-34-5087 - LM Snoopy during station keeping. - Image by NASA/Johnson Space Center.
+098:26:16 Cernan (onboard Snoopy): We ought to have a MSFN about now.
+098:26:25 Cernan (onboard Snoopy): [Garble] antenna...
+098:26:26 Stafford (onboard Snoopy): There goes your antenna.
+098:26:27 Cernan (onboard Snoopy): Your antenna is going to Reacq, babe.
+The LM crew have noticed the CSM High Gain Antenna manoeuvring automatically to reacquire MSFN as the two spacecraft come around the Moon and Earth comes back into view. The HGA Track switch on panel 2 is in the Reacq position. In this position the HGA will automatically point toward MSFN stations, provided the MSFN stations are within ±60° of the antenna boresight axis.
+098:26:40 Young (onboard): Okay, Houston, Charlie Brown on the high gain. How do you read? Over.
+098:26:58 Stafford (onboard Snoopy): Houston...
+098:27:00 Young (onboard): Houston, Charlie Brown on the high gain. How do you read? Over.
+098:27:07 Cernan (in Snoopy): Yes, we got him right away, Tom.
+098:27:10 Duke: Hello, Snoop. How you doing?
+098:27:17 Cernan (in Snoopy): This is Snoop on high gain. How are you reading, now?
+098:27:19 Duke: Five-by. How me?
+Frame from 16-mm Maurer camera of CSM Charlie Brown during station keeping following undocking.
+098:27:23 Cernan (in Snoopy): Reading you loud and clear. We're about 30 or 40 feet [9 or 12 meters] away from him. Been station keeping for about 5 or 10 minutes here.
+098:27:29 Duke: Roger. Could you give us P00 and Data? We've got a load for you, and are you ready to copy some PADs?
+098:27:39 Cernan (in Snoopy): I sure am. I'm going to give you P00 and Data.
+098:27:51 Cernan (in Snoopy): And I'm ready to copy.
+098:27:52 Duke: Roger, Gene-o. It's DOI's first PAD, and we've got three PADs for you, starting with DOI. I'll read them all - through all of them and then you can read me back. Okay? Okay.
+098:28:04 Cernan (in Snoopy): [Garble] go ahead...
+098:28:05 Duke: It's DOI 099:46:00.89, minus 00699, plus all balls, minus 00138; Delta-VR, 00713; 027, 3 balls, 275; minus 00698, plus all balls, minus 00144; COAS star is Scorpii Delta, minus 023, minus 146; CSI time 103:45:34; TPI time 105:21:01, with an N equal to 1. Phasing PAD is next if you're ready to copy. Over.
+H.264 MP4 video file.
+TV transmission screen capture from the CSM Charlie Brown during station keeping prior to the CSM Sep manoeuvre.
+Frame from LM 16-mm Maurer camera of the CSM Charlie Brown during station keeping following undocking.
+AS10-27-3876 - CSM Charlie Brown shortly after undocking - Image by NASA/Johnson Space Center.
+CSM Charlie Brown shortly after undocking, during station keeping, taken using a Hasselblad camera by Tom Stafford in the LM Snoopy. Note the extended docking probe.
+098:28:26 Young (onboard): Okay, Gene-o, are you reading anything he says?
+098:29:40 Cernan (in Snoopy): Roger. I'm ready to copy. Go ahead with phasing.
+098:29:42 Young (onboard): Okay, Houston, here's a picture of the LM if you want to take a look at it on TV.
+098:29:43 Duke: Roger. 100:58:25.20, plus 0...
+098:29:55 Cernan (in Snoopy): Charlie?
+098:29:56 Duke: Go ahead.
+098:29:57 Cernan (in Snoopy): Okay. John said he's not reading you. While I'm copying this, he said he's got a picture of the LM if you want to look at it on TV.
+098:30:06 Duke: We have it, Gene-o. We're ready to continue with Noun 81 if you're ready.
+098:30:14 Cernan (in Snoopy): I'm ready to copy. Go ahead.
+098:30:17 Duke: Plus 01666, plus all balls, minus 00594, 01769; 040, 3 balls, 255. Noun 86 is plus 01675, plus all balls, minus 00568. COAS star is Libra Alpha, that's Libra Alpha, plus 004, minus 119. Okay. Your 100-degree east time...
+098:31:20 Cernan (in Snoopy): AOT breaker in, Tom?
+098:31:23 Duke: Your 100-degree east time is 33:31. Your phasing Delta is minus 5 seconds - 05 seconds. Site 2 time is 10:30. Over.
+098:31:26 Stafford (onboard Snoopy): AOT breaker is in.
+098:31:49 Cernan (in Snoopy): Okay, Charlie. I got everything except Delta-VX on Noun 81.
+098:31:55 Duke: Roger. Delta-VX on Noun 81 is plus 01666. I've got a PDI abort PAD if you'll just stand by. Over.
+098:32:08 Cernan (in Snoopy): I'm waiting for you.
+098:32:09 Duke: Roger. Let me try to raise Charlie Brown.
+098:32:12 Duke: Charlie Brown, Houston. Over.
+098:32:20 Young (onboard): Roger, go ahead. Go ahead, Houston.
+098:32:26 Duke: Charlie Brown, Houston. Over.
+098:32:30 Young (onboard): Go ahead, Houston. Over.
+098:32:31 Stafford (in Snoopy): Houston, this is Snoop. He's reading you loud and clear.
+098:32:34 Duke: Roger. He's copying the PAD then; we're not reading him at all, Snoop, and I'm ready with a PDI abort PAD if you're ready to copy. Over.
+098:32:45 Cernan (in Snoopy): Okay. PDI abort. Go ahead.
+098:32:48 Duke: 100:43:45.50; plus 00931, plus all balls, plus 3 balls 1.1 00931. Burn time is 0:22, 3 balls 283, plus 00931, plus 00000, plus 3 balls 22. NA on the rest of the PAD. Thrust profile is 15 seconds at 10 per cent and then manually throttled to full thrust until completion. CSI time, 101:44:25. TPI time, 103:22:25 with an N equal to 1, and I'm standing by for your readback. And, Snoopy, you've got the computer back. We're through with the load.
+TV transmission screen capture from the CSM Charlie Brown showing LM Snoopy prior to the CSM Sep manoeuvre.
+098:34:19 Cernan (in Snoopy): Okay, Charlie. Here they - Roger. Thank you. Here they come at you: DOI is 099:46:00.89, minus 00699, plus all balls, minus 00138; 00713, 027, 3 balls, 275. Noun 86 is minus 00698, plus all balls, minus 0014. Verb 5 Delta, minus 023, and minus l46.
+098:34:52 Duke: Go.
+098:34:53 Cernan (in Snoopy): Phasing is at 100:58:25.20. Are you with me?
+098:34:57 Duke: Go.
+098:35:04 Cernan (in Snoopy): Okay. I'll back up and give you CSI time and TPI time for DOI. CSI is 103:45:34; TPI is 105:21:01 with an N equal 1. Phasing - Phasing is 100:58:25.20, plus 01666, plus all balls, minus 00594, 01769, 040, 000255, plus 01675, plus all balls, minus 00568. Libra Alpha is the star. It's plus 004 and minus 119; and 100 degrees east is 33 plus 31; phasing Delta is minus 5 seconds; Site 2 is 10 plus 30. Are you with me?
+098:35:57 Duke: Go.
+098:36:02 Cernan (in Snoopy): Okay. PDI abort is 100:43:4550, plus 00931, plus all balls, plus 00011, 00931, 022, 000283, plus 00931, plus all balls, plus 00022. The star is NA; 15 seconds at 10 percent, then manual to full thrust. CSI is 101:44:25; TPI is 103:22:25 with an N equal 1.
+Duke has read up the PADs for DOI, Phasing, and PDI abort. All of these manoeuvres are carried out using the DPS. The details are:
+DOI (Program 30 LM Manoeuvre.)
+Time of ignition, TIG (Noun 33): 099:46:00.89
+Change in velocity (Noun 81), fps (m/s): X, -0069.9 (-21.3); Y, -0000.0 (-0.0); Z, -0013.8 (-4.2). The change in velocity is resolved into three components expressed relative to the Local Vertical frame of reference.
+Total required change in velocity, Delta-VR, fps (m/s): 0071.3 (21.7)
+Burn duration, BT (min:sec): 0:27
+Attitude angles that should be displayed on the FDAI eight ball in the Inertial mode: Roll, 000°; Pitch, 275°.
+Change in velocity values used to target the AGS (Noun 86), fps (m/s): X, -0069.8 (-21.2), Y, -0000.0 (-0.0), Z, -0014.4 (-4.4). These velocities are expressed relative to the Local Vertical frame of reference.
+The COAS star used to verify that the spacecraft attitude is at the burn attitude: Scorpii Delta.
+Azimuth angle of the COAS star: -023°
+Elevation angle of the COAS star: -146°
+The TIG times for CSI manoeuvre if the DOI occurs as planned: 103:45:34.
+The TIG times for TPI manoeuvre if the DOI occurs as planned: 105:21:01.
+Phasing (Program 30 LM Manoeuvre.)
+Time of ignition, TIG Noun 33): 100:58:25.20
+Change in velocity (Noun 81), fps (m/s): X, +0166.6 (-50.8); Y, +0000.0 (+0.0); Z, -0059.4 (-18.1). The change in velocity is resolved into three components expressed relative to the Local Vertical frame of reference.
+Total required change in velocity, Delta-VR, fps (m/s): 0176.9 (53.9)
+Burn duration, BT (min:sec): 0:40
+Attitude angles that should be displayed on the FDAI eight ball in the Inertial mode: Roll, 000°; Pitch, 255°.
+Change in velocity values used to target the AGS (Noun 86), fps (m/s): X, +0167.5 (-51.1); Y, +0000.0 (+0.0); Z, -0056.8 (-17.3). These velocities are expressed relative to the Local Vertical frame of reference.
+The COAS star used to verify that the spacecraft is at the burn attitude: Libra Alpha.
+Azimuth angle of the COAS star: +004°
+Elevation angle of the COAS star: -119°
+Time when the spacecraft will pass the 100° East longitude line (min:sec): 33:31.
+Phasing Delta (sec): -5.
+Time before ignition when the spacecraft with be over Apollo Site 2 (min:sec): 10:30.
+PDI abort (Program 30 LM Manoeuvre.)
+Time of ignition, TIG (Noun 33): 100:43:45.50
+Change in velocity (Noun 81), fps (m/s): X, +0093.1 (-28.4); Y, +0000.0 (+0.0); Z, +0001.1 (+0.3). The change in velocity is resolved into three components expressed relative to the Local Vertical frame of reference.
+Total required change in velocity, Delta-VR, fps (m/s): 0093.1 (28.4).
+Burn duration, BT (min:sec): 0:22
+Attitude angles that should be displayed on the FDAI eight ball in the Inertial mode: Roll, 000°; Pitch, 283°.
+Change in velocity values used to target the AGS (Noun 86), fps (m/s): X, +0093.1 (28.4); Y, +0000.0 (+0.0); Z, -0002.2 (-0.7). These velocities are expressed relative to the Local Vertical frame of reference.
+The PAD includes a note that the DPS thrust profile for this manoeuvre is 15 seconds and 10% throttle, then manually throttle up to maximum for the remainder of the burn.
+098:36:35 Young (onboard): Houston, this is Charlie Brown...
+098:36:36 Duke: Good readback, Snoop. Over.
+098:36:40 Young (onboard): Houston, this is Charlie Brown. Over.
+098:36:49 Stafford (in Snoopy): Houston, this is Snoop. Charlie Brown's trying to call you.
+098:36:52 Young (onboard): You guys give me the Delta-Vs and times for the [garble].
+098:36:53 Duke: Roger, Snoop. We don't read him. Charlie Brown, verify your S-band switch is in T/R. Over.
+098:37:03 Cernan (in Snoopy): John, is your S-band switch in T/R, and I'll give you anything you need? Just ask. Go ahead.
+098:37:07 Young (onboard): Delta-Vs and the times for DOI and phasing.
+098:37:11 Young (onboard): Delta-Vs and times.
+098:37:12 Cernan (in Snoopy): Okay. The time of DOI, Charlie Brown, is 099:46:00.89, minus 00699, plus all zeros, and minus 00138. That's Noun 81 for DOI. Okay. Phasing is 100:58:25.20. Noun 81 is plus 01666, plus all balls, and minus 00594. And verify your T/R switch is in S-band T/R, John.
+Noun 81 is the change in velocity.
+098:37:38 Young (onboard): Roger.
+098:37:39 Cernan (in Snoopy): Okay, phasing is 100:58:25.20. Noun 81 is plus 01666, plus all balls, and minus 00594.
+098:38:01 Young (onboard): I got you.
+098:38:04 Cernan (in Snoopy): And verify your T/R switch is in S-Band T/R, John.
+098:38:07 Young (onboard): Roger, I'm in S-Band T/R.
+098:38:07 Duke: Snoopy, Houston.
+098:38:10 Cernan (in Snoopy): Okay.
+098:38:11 Young (onboard): I hear them loud and clear.
+098:38:11 Duke: Snoopy, Houston. And I'm breaking in. It's a ground problem with the C - with the CSM. We're losing his - We got the downlink to Goldstone, but we're not getting it here in the MCC.
+098:38:18 Young (onboard): Shoot, I could have told him that.
+098:38:26 Cernan (in Snoopy): Okay.
+098:38:28 Stafford (in Snoopy): I'll tell you, this comm has got to be fixed within the next couple of hours, Charlie, so tell them to get with it.
+Stafford is expressing his frustration with the quality of the communications, both between both spacecraft and MCC-H and between the spacecraft themselves. He is anxious that it is improved before the solo LM operations start in earnest. This is one of the key requirements for the mission and must be mastered before the Apollo 11 landing mission.
+098:38:33 Duke: Roger.
+098:38:38 Stafford (in Snoopy): Everything else is going good here.
+098:38:52 Stafford (onboard Snoopy): How long to John's Sep maneuver?
+098:39:01 Cernan (in Snoopy): Houston, this is Snoopy. Is that 69.2 by 57.5 good?
+098:39:09 Duke: Stand by.
+098:39:19 Duke: Snoop, Houston. We aren't with you on the 69.2. Say again.
+098:39:27 Cernan (in Snoopy): I'm reading Verb 82 out of the DSKY 69.9 by - or 62.9 by 57.5.
+Verb 82 gives a readout of the current orbital parameters, 62.9 by 57.5 miles (116.5 x 106.5 km).
+098:39:34 Duke: Stand by. We'll have it for you.
+098:39:42 Duke: Snoop, Houston. FIDO's checking. Stand by. Snoop, Houston. That's a...
+098:39:50 Cernan (in Snoopy): The reason I asked is I saw...
+098:39:52 Duke: Go on the apogee and perigee.
+098:39:54 Cernan (in Snoopy): Okay.
+Whilst the LM prepares for the SEP manoeuvre, John Young in the CSM Charlie Brown is using routine 03 to load the DAP with 11102. This breaks down as:
+1 - CSM only.
+1 - Use RCS quadrants A&C for +X translation.
+1 - Use RCS quadrants B&D for +X translation.
+0 - 0.5° deadband.
+2 - 0.5° manoeuvre rate.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+We're about 7 minutes away from the separation burn.
+098:40:27 Stafford (in Snoopy): Looks like we're pretty steady out here on the station keeping, John, once we got squared away on our attitude.
+098:40:37 Young (onboard): Okay, Tom, I've got 6 minutes and 30 seconds to Sep. 6 minutes and 30.
+098:40:42 Stafford (in Snoopy): Okay.
+098:40:50 Duke: Snoop, Houston. We got a beautiful picture out there of you.
+098:40:53 Stafford (in Snoopy): Give me a mark at 6.
+LM Snoopy continues to stationkeep close to the CSM Charlie Brown as shown in images AS10-34-5088 and AS10-34-5089.
+098:41:00 Young: Roger. I'll - mark at 6 minutes.
+098:41:03 Duke: Charlie Brown...
+098:41:04 Stafford (in Snoopy): Okay. We're counting down.
+098:41:05 Duke: ...We finally got you. Over.
+098:41:07 Young: No, that wasn't 6 minutes.
+098:41:11 Stafford (in Snoopy): What was it, José?
+098:41:14 Young: Okay. I've got 5 seconds to 6 minutes.
+098:41:18 Stafford (in Snoopy): Okay.
+098:41:20 Young: Okay. Six minutes and counting down to Sep.
+098:41:21 Stafford (in Snoopy): Got you, babe.
+098:41:26 Duke: Charlie Brown, Houston. We're reading you five-by now. Over.
+098:41:32 Young: Roger. I've got 5 minutes and 45 seconds to Sep: 44, 43, 42.
+098:41:38 Duke: We're right with you.
+Young is preparing the CSM for the Sep manoeuvre using Program 30 - External Delta-V, and Program 40 RCS manoeuvre.
+098:41:45 Cernan (in Snoopy): Houston, this is Snoopy. With that drift you saw, how do you expect our platform to be, how close to good alignment?
+098:41:56 Duke: Roger. We expect very small torquing angles in all axes. Over.
+098:42:03 Cernan (in Snoopy): That's good to hear. Thank you.
+098:42:07 Stafford (in Snoopy): Well, I hope we can get back on the nominal after that insulation kind of goofed us up, Charlie. But everything's looking good here.
+098:42:12 Cernan (onboard Snoopy): Time to get my AOT breaker in?
+AOT is the Alignment Optical Telescope. Though not as sophisticated as the sextant and telescope optics in the CSM, it fulfils some of the same functions, particularly the alignment of the LM's inertial platform.
+098:42:14 Stafford (onboard Snoopy): Yes.
+098:42:15 Duke: Roger, Tom. Could you - One question on the tracking light. Have you tried it?
+098:42:22 Stafford (in Snoopy): Stand by. John, there's the tracking light for you.
+098:42:28 Young: Yes! Please turn it off.
+098:42:30 Stafford (in Snoopy): It works.
+098:42:32 Duke: Great. Thank you. We saw it.
+098:42:41 Stafford (onboard Snoopy): Man, it's just beautiful.
+098:42:52 Stafford (in Snoopy): John, why don't you toss on your tracking light for a minute?
+098:43:02 Stafford (onboard Snoopy): Oh, don't tell me this film is jammed again. [Laughter.]
+098:43:08 Cernan (onboard Snoopy): What's wrong?
+098:43:09 Stafford (onboard Snoopy): Oh, this bastard.
+098:43:12 Cernan (onboard Snoopy): It should stay on about 4 times. Can you see it?
+098:43:15 Stafford (onboard Snoopy): We got it.
+098:43:14 Young: Roger. That's mine. It may be underneath the vehicle; I don't think you can see it.
+Three photos of LM Snoopy during stationkeeping:
+AS10-34-5090 - LM Snoopy during station keeping. - Image by NASA/Johnson Space Center.
+AS10-34-5091 - LM Snoopy during station keeping. - Image by NASA/Johnson Space Center.
+AS10-34-5092 - LM Snoopy during station keeping. - Image by NASA/Johnson Space Center.
+098:43:21 Stafford (in Snoopy): Yes. I saw one reflection here. We're Okay.
+098:43:42 Cernan (onboard Snoopy): AOT is dirty as hell, I'll tell you.
+098:43:46 Stafford (onboard Snoopy): I can't get this going. We're going to have to wind film here.
+098:43:51 Cernan (onboard Snoopy): What are you going to do? I'd sure like to get him while he moves away. Where is he?
+098:43:55 Stafford (onboard Snoopy): Yes.
+098:44:18 Stafford (onboard Snoopy): Boy, that Hasselblad!
+098:44:34 Cernan (onboard Snoopy): That thing failed three or four times already. Failed to work; let me put it that way. Does it work yet?
+098:44:44 Stafford (onboard Snoopy): No.
+098:44:46 Cernan (onboard Snoopy): Let me play with the son of a bitch.
+098:44:47 Stafford (onboard Snoopy): Go ahead. Got 2 minutes.
+098:44:52 Stafford (in Snoopy): Okay, John. It looks like about 2:30 [2 minutes 30 seconds] coming up set, babe.
+098:44:55 Young: Roger. I agree.
+098:45:00 Cernan (onboard Snoopy): God-danged thing has failed about four times!
+098:45:03 Stafford (in Snoopy): Houston, you can pass on to our Support Division this Hasselblad film pack has failed about three or four times on us.
+098:45:10 Duke: Roger. Snoop. We copy.
+098:45:12 Stafford (in Snoopy): We're still getting some pictures, though. The magazine and the camera's good - It's just the packing of the film in the magazines.
+098:45:17 Duke: Roger.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+098:45:23 Cernan (onboard Snoopy): Where'd the slide go; I'll take it off.
+098:45:30 Cernan (onboard Snoopy): Son of a bitch! That's inexcusable. Get out here a million miles from nowhere, and the god-dang film packs won't work.
+098:45:40 Stafford (onboard Snoopy): Suppose John's taking - there it is.
+098:45:46 Cernan (onboard Snoopy): No, that's - God-dang it, Tom, I can't get the damned thing to work!
+The Hasselblad 70mm film magazines have been giving the crew issues with the film binding in the magazine housing. The following description of the problem is taken from the post mission report
+From the Apollo 10 Mission Report: "During the low-altitude lunar pass, the Hasselblad 70-mm camera, which had the last magazine installed, stopped because of film binding in the magazine. The binding resulted from internal damage to the film advance mechanism, including burrs on the film guide (see fig. 15-45). The emulsion scraped from the film by the burrs built up on the rollers, decreasing the clearance. This condition continuously overloaded the drive motor until the motor failed approximately five frames from the end of film. The 1.6-ampere fuse in the camera would have protected the motor against a direct short, but not against a continuous overload."
+From the Apollo 10 Mission Report: "The cameras are handled a number of times before launch, and the following actions will be taken to preclude a similar occurrence on Apollo 11: a. Cameras and magazines will be inspected for damage, clearances, and contamination. b. High-reliability, 1.2 ampere fuses will be installed (each camera will have one fuse and one slug)."
+From the Apollo 10 Mission Report: "This anomaly is closed."
+70mm film mag malfunction
+Stafford is becoming quite aggravated with the repeated problems they are encountering with the 70-mm film magazine. This is especially so as the phase of the mission they are about to undertake is very busy and several photographic targets are planned, but the photography is time critical, so the crew can ill afford to be manually cranking the film forward by 3 or 4 frames to overcome the problem.
+098:46:08 Young: Okay, Houston, coming up on 2 minutes to Sep. How about a Sync Mark?
+098:46:08 Cernan (onboard Snoopy): I can't get the son of a bitch to work. God...
+098:46:14 Stafford (onboard Snoopy): Is this black and white? Try the black and white.
+098:46:15 Duke: Roger, We copied 1 minute.
+098:46:20 Young: Roger. You're right.
+098:46:24 Cernan (onboard Snoopy): Give me the black and white. Give me the black and white.
+098:46:25 Duke: Big Brother's watching.
+098:46:30 Young: Keep up the good work, boys. You will never know how big this thing gets when there ain't nothing in here but one guy.
+098:46:36 Stafford (onboard Snoopy): [Laughter.]
+098:46:40 Cernan (in Snoopy): You will never know how small it looks when you are as far as we are.
+098:46:41 Stafford (onboard Snoopy): [Laughter.]
+098:46:43 Cernan (onboard Snoopy): Take him with that. It's not set right. Check the setting, Tom. I didn't set it.
+098:47:05 Cernan (onboard Snoopy): Here's another black and white right here, in case that one doesn't work.
+098:47:07 Stafford (onboard Snoopy): This one is working good now.
+098:47:09 Cernan (onboard Snoopy): I don't know what the hell is wrong with that damned thing.
+098:47:14 Stafford (onboard Snoopy): We got them.
+098:47:18 Young: Okay. Separation.
+098:47:25 Stafford (in Snoopy): Okay. Can see your thrusters firing there, John, and we're moving away.
+098:47:31 Young: Okay. Show 5.3 on the DSKY and 5.0 on the EMS and I - Zero on the EMS. I'd be inclined to believe the EMS today.
+Young is reading out the separation rate following the Sep RCS manoeuvre. The PGNS DSKY is displaying 5.3 feet per second (1.6 m/sec), whereas the Entry Monitoring System (EMS) is indicating 5.0 fps (1.5 m/sec). See Young's remarks at 099:01:44.
+098:47:44 Duke: We copy, Charlie Brown.
+098:47:52 Stafford (in Snoopy): Okay, José. Say adios and we'll see you back in about 6 hours.
+098:48:00 Young: Rog.
+098:48:06 Duke: Snoop and Charlie Brown, we see you separating on the big tube.
+098:48:10 Cernan (in Snoopy): See you, John, [garble].
+098:48:13 Young: Roger.
+098:48:14 Cernan (in Snoopy): Have a good time while we're gone, babe.
+098:48:17 Stafford (in Snoopy): Yes. Don't get lonesome out there, John.
+098:48:21 Cernan (in Snoopy): And don't accept any TEI updates.
+Cernan is making the point that the LM crew want the CMP to stay in lunar orbit and wait for them to return, rather than leave without them.
+098:48:22 Stafford (in Snoopy): [Laughter.]
+098:48:27 Young (in Snoopy): Don't you worry. Until you get back, I ain't - I ain't copying any more PADs.
+098:48:31 Stafford (in Snoopy): [Laughter.]
+098:48:46 Young: Houston, this is Charlie Brown. Over.
+098:48:46 Cernan (onboard Snoopy): Get some good black and white of that.
+098:48:47 Stafford (onboard Snoopy): Yes.
+098:48:48 Duke: Go ahead, Charlie Brown.
+Frame from LM 16-mm Maurer camera of the CSM Charlie Brown following the CSM Sep burn over Maskelyne T (see map below).
+Maskelyne T locator map. (MAP source: ACT-REACT QuickMap.)
+098:48:54 Young: Roger. While we were waiting to come over the hill, we checked out VHF and we're right now on VHF A - A and receive only B data.
+098:48:55 Stafford (onboard Snoopy): You got your camera?
+098:49:01 Stafford (onboard Snoopy): You seen the Hasselblad. Shit!
+098:49:06 Duke: Beautiful. Sounds good. Thanks a lot.
+098:49:08 Stafford (onboard Snoopy): Do you have the Hasselblad?
+098:49:09 Cernan (onboard Snoopy): No, babe, you were just taking pictures with it.
+098:49:17 Young: And don't ask me to tell you what the dickens the trouble was.
+098:49:24 Cernan (in Snoopy): Houston, one other interesting little fact. I could never get my AGS local vertical angle and Verb 83 [Request Rendezvous Parameter Display] to agree until after we undocked.
+One of Gene's tasks is to operate the AGS and check that it can fulfil its role of being a backup to the PGNS. For this he is using the DEDA (Data Entry and Display Assembly), a simple keyboard and display that is his interface with the computer. By depressing the CLR button on the DEDA, then entering address 277, then depressing the Readout button, he can display a readout of the in-plane angle between the Z body axis and the local horizontal (to 0.01° accuracy)].
+To compare this to the main guidance system, the PGNS, he enters Verb 83 on the DSKY which calls up routine 31. This displays the computer's calculated rendezvous parameters across three registers: on R1, range (to 0.01nm); on R2, range rate (to 0.1fps); on R3, Theta (to 0.01°). Theta represents the angle between the LM plus-Z axis and the local horizontal plane.
+Diagram of the Theta angle as displayed using LGC routine 31. (Source: R-567 Guidance System Operations Plan for Manned LM Earth Orbital and Program Luminary lC - Section 5.6.7.1 Guidance Equations.)
+098:49:34 Duke: Roger. We copy that, Snoop, and so logged.
+098:49:46 Young: Charlie, how about giving me a 3 or 5 minute hack before LOS all the time today, will you, because this S-band's working so well I don't want to break it.
+098:49:54 Duke: Roger, Snoop. Will do. Over.
+098:50:10 Young: Okay, there, Snoopy babe. Let's check out this duplex ranging. Okay?
+16-mm frame of the CSM now obviously separating from the LM, as it passes over landing site 2 (Apollo 11 landing site) following the CSM Sep burn.
+098:50:16 Cernan (in Snoopy): Okay. I'll go to duplex ranging on your Mark, and we will be quiet and wait for your call.
+098:50:21 Young (in Snoopy): Roger. Going duplex ranging, on my Mark.
+098:50:23 Young: Mark.
+098:50:26 Cernan (onboard Snoopy): Okay, Tom, let's...
+098:50:28 Stafford (onboard Snoopy): There he is right over the - right over...
+098:50:34 Cernan (onboard Snoopy): Make sure you're not talking.
+098:50:35 Stafford (onboard Snoopy): Yes.
+098:50:38 Young: You guys shut up, because I can hear you. You have to maintain silence about the ship on that VOX mode. I'll give you - I'm going to range a Reset right now.
+The VHF RNG (ranging) switch on panel 9 is momentarily placed in the Reset position. This initiates an automatic tracking phase and resets the digital ranging generator.
+VHF Range switch - Panel 9.
+098:51:02 Stafford (onboard Snoopy): Rendezvous Radar In?
+The PNGS RNDZ RDR circuit breaker on panel 11, applies DC power and acts as an on-off switch to the RR electronics assembly.
+PNGS RNDZ RDR circuit breaker - LM panel 11.
+098:51:06 Young: How about that? 800, 700...
+098:51:07 Cernan (onboard Snoopy): Got it John?
+098:51:08 Young: ...420 feet, 540 feet - (130 meters, 165 meters).
+098:51:18 Cernan (in Snoopy): Okay, babe...
+098:51:20 Cernan (onboard Snoopy): ...do you hear me right now? I just want to check out whether we're hot on ICS. Do you hear me?
+098:51:24 Young: Roger. I hear you.
+ICS - Intercommunication system.
+098:51:25 Cernan (onboard Snoopy): Okay, we are hot on ICS in this mode; so how's the background noise?
+098:51:32 Young: I don't hear any background noise, just you.
+098:51:35 Cernan (onboard Snoopy): Okay, well, we may just operate this way then.
+098:51:48 Stafford (in Snoopy): Hey, John, if you get a chance, you can turn on the radar transponder and we'll correlate the VHF ranging with it.
+098:51:54 Young: Roger. My transponder is On. Transponder is On, and the Test switch is in Operate.
+Young is confirming that the RNDZ XPNDR switch on panel 100 is already in the PWR (power) position, and that the RNDZ XPNDR switch on panel 101 is also in the Operate position which disables the self-test oscillator, allowing normal operation of the rendezvous radar.
+Rendezvous Radar Transponder power switch - Panel 100.
+Rendezvous Transponder switch - Panel 101.
+098:52:04 Stafford (in Snoopy): I should be getting a radar signal here and I sure don't.
+098:52:11 Cernan (onboard Snoopy): You are in that stowed position?
+098:52:16 Stafford (onboard Snoopy): Yes, I know. I pulled it up.
+098:52:27 Cernan (in Snoopy): Hello, Houston. How soon will you have our new uplink on the CSM state vector up?
+098:52:33 Duke: Stand by. We will have it in a moment.
+098:52:36 Stafford (onboard Snoopy): [Garble.]
+098:53:09 Stafford (onboard Snoopy): Man, this is serious.
+Stafford is expressing his concern about the CSM RR transponder malfunction, which would be a No-Go for solo operations by the LM Snoopy.
+098:53:10 Duke: Snoopy, Houston. We are ready with the load, P00 and Data. Over.
+098:53:22 Cernan (in Snoopy): P00 and Data. You've got it.
+098:53:28 Stafford (onboard Snoopy): It's going to be upside down, but...
+098:53:39 Cernan (onboard Snoopy): We should be counting down to - to DOI, Tom.
+098:53:44 Stafford (in Snoopy): John, can you get any signal strength on your transponder there? I've got you locked boresight on [AOT] - I don't get any rendezvous radar signal strength.
+098:53:52 Young: Okay. Am I below you, or above you?
+098:53:55 Stafford (in Snoopy): No, you're right at me. Okay. Pitch up maybe a little bit.
+098:53:59 Young: Roger.
+098:54:03 Cernan (onboard Snoopy): You get those breakers In, huh?
+098:54:04 Stafford (onboard Snoopy): Yes, AC Rendezvous Radar.
+098:54:06 Cernan (onboard Snoopy): Put that AOT Lamp breaker In for me, will you?
+The AOT Lamp circuit breakers on panel 11, acts as the on-off switch for the lamp providing AC power to the AOT reticle illuminating lamps, from both of the AC buses. The AOT reticle is illuminated by 10 red lamps mounted around the reticle pattern. These lamps can be dimmed by using a thumbwheel mounted on the AOT.
+AOT LAMP circuit breaker - LM panel 11.
+098:54:07 Stafford (onboard Snoopy): It's already in.
+098:54:08 Cernan (onboard Snoopy): Now, right here.
+098:54:08 Stafford (onboard Snoopy): Where?
+098:54:09 Cernan (onboard Snoopy): What you...
+098:54:10 Stafford (onboard Snoopy): Oh. I got two of them. Either one of them does it.
+098:54:11 Cernan (onboard Snoopy): Oh, Okay.
+098:54:15 Stafford (in Snoopy): Pitch up a little more now.
+098:54:17 Young: Say when.
+098:54:18 Stafford (in Snoopy): Okay. I'm looking right at - I'm boresighted on your transponder; I don't get any AGC strength.
+098:54:24 Young: Okay, Tom. I checked it out this morning and AGC was good.
+098:54:31 Cernan (onboard Snoopy): Look at the needles, babe.
+Young: I got 3.6 volts on Systems switch - Systems Test 1A - system test B, I got 2.1 volts on test, and then on C, I got 0.4 of a volt, and I guess that was unlocked.
+Using the Systems Test meter on panel 101, Young is checking the health of the radar transponder. The systems test meter rotary selector dials are set to give three outputs on the meter.
+XPNDR A displays power output.
+XPNDR B displays the AGC (Automatic Gain Control) signal strength.
+XPNDR C displays the phase lockup, meter reading >4.0V DC indicates locked, <0.8V DC indicates unlocked.
+All of the readings obtained are nominal.
+System Test meter XPNDR test position - Panel 101.
+098:54:54 Cernan (onboard Snoopy): Oh, come on radar. Work baby.
+098:54:59 Stafford (in Snoopy): Houston, do you have us on telemetry? I can't get the AGC signal here, and we're only about a 1,000 feet away [300 meters].
+098:55:07 Duke: Roger, Snoopy. We've been copying your problems. We are working it down here, and we've got your load in. The computer is yours again. Stand by on the radar.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+098:55:36 Stafford (onboard Snoopy): Transmitter Power, Shaft Error, Trunnion Error. [Garble] What's that? Real good Auto Track.
+Stafford is scanning over the rendezvous radar controls on panel 3, specifically the RNDZ Radar, Test Monitor rotary selector switch, checking that everything is in order.
+098:55:44 Cernan (onboard Snoopy): We got - we're just bouncing around there, babe.
+098:55:54 Cernan (onboard Snoopy): Come on, baby, lock on!
+098:55:56 Stafford (onboard Snoopy): Nothing.
+098:56:02 Cernan (onboard Snoopy): Are the breakers in over there?
+098:56:03 Stafford (onboard Snoopy): Yes, I got AC Roll...
+Stafford continues to scan the switches on panel 3, he is here referring to the Attitude Control-Roll switch.
+098:56:04 Cernan (onboard Snoopy): It passed the radar self-test.
+098:56:09 Stafford (in Snoopy): Houston, we had a real good radar self-test. Everything worked. I'm getting transmitting power that's reading 3.2. We get the shaft error, the trunnion error, the AGC; I've got the needle boresighted and centered, but we get no AGC.
+098:56:24 Duke: Roger. We copy. Your PGNS needles are moving?
+Duke is referring to the rendezvous radar signal strength indicator also on panel 3, the output of which is control by the PGNS. The indicator is showing that the LM rendezvous radar is transmitting.
+098:56:32 Stafford (in Snoopy): Yes. I can Slew Up and Down, in High Rate and Low Rate; everything. I've got him boresighted there.
+Stafford confirms that he can control the rendezvous radar using the Slew Rate and Slew controls, again on panel 3.
+098:56:40 Duke: Roger. Stand by.
+098:56:47 Young: Houston, I'll run through the self-test again, if you think that'll help any, from this end.
+098:56:53 Stafford (in Snoopy): Roger. Go down and look at it again. You might give it another try, John.
+098:56:59 Young: Okay.
+098:57:00 Stafford (in Snoopy): So this is a No-Go for DOI.
+The Apollo 10 mission rules dictate that loss of the LM rendezvous radar or the CSM transponder prior to DOI, would render DOI No-Go. If either should fail after the DOI burn, the mission should continue as they are now committed to solo operations.
+098:57:05 Cernan (onboard Snoopy): Oh, come on, baby: doggone it!
+098:57:09 Stafford (in Snoopy): You're boresighted right there; the needles are centered, and nothing.
+098:57:14 Stafford (in Snoopy): My AC Rendezvous Radar A is In, and my PGNS Rendezvous Radar is In.
+Stafford now checks that the AC, Bus A RNDZ RDR and PGNS RNDZ RDR circuit breakers on panel 11 are closed.
+098:57:18 Duke: Break, break, Snoop - this is- correction - Charlie Brown, this is Houston. We need you in a Transponder position on the Systems Test before you get the proper readouts. Over. For the self-test of the rendezvous...
+098:57:31 Young: I'm in that Transponder position.
+Young is repeating the radar transponder self-test using the systems test meter on panel 101, see notes at 098:54:34
+098:57:32 Duke: Okay.
+098:57:38 Young: Okay. I'm reading...
+098:57:40 Stafford (onboard Snoopy): What happened?
+098:57:41 Young: ...Test A is reading zero, but it was working a few minutes ago.
+Systems test meter reading XPNDR A displays the transponder power output. It is now displaying 0.0 VDC, whereas it previously displayed 2.6 VDC.
+098:57:42 Stafford (onboard Snoopy): What did you do?
+098:57:44 Cernan (onboard Snoopy): [Garble
+098:57:45 Stafford (onboard Snoopy): Okay. I didn't get a fire then.
+098:57:50 Young (onboard): Test B is reading zero. It's also reading zero, but it was working alright a few minutes ago.
+Systems test meter reading XPNDR B displays the transponder AGC signal strength. It is now displaying 0.0 VDC, whereas it previously displayed 2.1 VDC.
+098:58:05 Duke: Roger.
+098:58:06 Young: On the original test self-test.
+098:58:12 Duke: Roger. Stand by.
+098:58:27 Cernan (onboard Snoopy): [Garble] on it, babe.
+098:58:28 Stafford (onboard Snoopy): Sounds like his Transponder may be Out.
+098:58:31 Cernan (onboard Snoopy): It sure does.
+098:58:32 Young: Yes. This thing is reading zero. Let me check the circuit breaker.
+098:58:37 Duke: Roger.
+098:58:50 Young: Okay. The Rendezvous Radar Bus circuit breaker is In.
+The RNDZ XPNDR FLT Bus circuit breaker is on panel 225.
+RNDZ XPNDR FLT BUS circuit breaker - Panel 225.
+098:58:59 Duke: Roger. How about trying to recycle the power switch, Charlie Brown?
+098:59:09 Cernan (onboard Snoopy): God-darn it, Tom. That's...
+098:59:11 Young: Hey, that did it you guys. It's on.
+098:59:13 Stafford (in Snoopy): Oh, and I got signal strength, old buddy.
+098:59:15 Cernan (onboard Snoopy): ...babe, that's great!
+The CSM Rendezvous Radar Transponder has come to life following the recycling of its power switch on panel 100. The cause of the malfunction could not be located during post flight investigations.
+098:59:18 Young: What do you know about that?
+098:59:20 Stafford (in Snoopy): And I've got 3.2 on my AG [garble].
+098:59:24 Young: You got so much AGC, I don't know what to do with it.
+098:59:30 Cernan (onboard Snoopy): Stick this in your pocket. Babe, that makes...
+098:59:31 Stafford (onboard Snoopy): [Laughter.]
+098:59:32 Cernan (in Snoopy): John I could kiss you!
+098:59:35 Young: It was Charlie's idea to cycle the switch; that would never occur to me.
+098:59:40 Duke: It was - it was Ed's idea...
+Ed is Edgar Mitchell, the backup LMP.
+098:59:43 Stafford (onboard Snoopy): Okay. We're locked on pretty good...
+098:59:49 Duke: Charlie Brown, Houston. We're ready to go with your load if you'll give us...
+098:59:51 Stafford (in Snoopy): Okay. I'm reading opening at 3.5 feet per second (1.06 m/s).
+098:59:52 Duke: ...if you'll give us P00 and Accept, Charlie Brown.
+098:59:58 Cernan (onboard Snoopy): Okay. Okay.
+098:59:59 Young: You have it.
+Flight Plan page 3-57.
+099:00:19 Cernan (onboard Snoopy): Let's do this.
+099:00:23 Stafford (onboard Snoopy): No, that thing...
+099:00:24 Cernan (onboard Snoopy): Verb 63.
+099:00:27 Stafford (onboard Snoopy): Okay.
+099:00:29 Young (onboard): [Garble] verify those things right there.
+099:00:30 Stafford (onboard Snoopy): Yes. Beautiful.
+099:00:32 Cernan (onboard Snoopy): Oh, boy, I tell you - How's this look, Tom? I'm saying he's opening at what, 4.3 (fps)?
+099:00:43 Stafford (onboard Snoopy): Yes.
+099:00:45 Cernan (onboard Snoopy): And he's a half mile (0.9 km).
+099:00:48 Stafford (onboard Snoopy): [Garble] Oh!
+099:00:50 Young: What you guys got for range?
+099:00:53 Stafford (in Snoopy): Roger. We've got 2,500 feet (760 meters). We're going to get you some raw data here, John, and my optical boresight is absolutely fantastic. It's right with the needle.
+099:01:03 Young: It's got 0.37 miles (0.68 km). This is going to be very interesting. It keeps jumping.
+099:01:13 Cernan (onboard Snoopy): This thing takes a long time, Tom.
+099:01:16 Stafford (onboard Snoopy): Yes.
+099:01:25 Stafford (onboard Snoopy): You need to go to LGC? No, you can't until you get Verb...
+099:01:29 Young: Point 4 miles (0.74 km).
+099:01:31 Stafford (in Snoopy): Okay. That looks real good on my tape, here.
+099:01:40 Cernan (onboard Snoopy): Okay, go ahead.
+099:01:44 Young: Houston, Charlie Brown. The reason I believed the EMS over the CMC was I had three-tenths of a foot per second [0.1 m/s] of PIPA bias before I ever started the maneuver. Over.
+Young noted that the PIPAs (Pulsed Integrating Pendulous Accelerometers), which are a major element of the IMU (Inertial Measurement Unit), were displaying a 0.3 fps (0.1 m/s) bias so he is more inclined to trust the EMS accelerometer read-out. The three PIPAs measure accelerating forces on the spacecraft in all three axis. They do have a tendency to display a drift from the optimum accuracy. This drift value had been establish during pre-flight qualification and the CMC is loaded with bias values to compensate for this drift.
+099:01:56 Stafford (in Snoopy): Here comes the lunar sunset.
+099:01:56 Stafford (in Snoopy): Okay, John. We're out here in Earthshine.
+099:01:58 Duke: Roger. We copy. Over.
+099:01:59 Stafford (in Snoopy): How about turning on your flashing light, José? Beautiful. You've got a nice one. It looks like the old Gemini Agena, would you believe.
+099:02:11 Cernan (onboard Snoopy): Have you got our light, John?
+099:02:15 Young: Roger.
+099:02:16 Cernan (onboard Snoopy): We are reading 0.46 miles (0.85 km) at 3 feet per second (0.9 m/s).
+099:02:24 Cernan (onboard Snoopy): And the AGS is right with us.
+099:02:38 Cernan (onboard Snoopy): John, whenever you're satisfied with the ranging, I'd like to go ahead and start in on a P52 here.
+099:02:46 Young: Roger. You can go start on P52. I saw your tracking light there briefly, but I haven't seen it since.
+099:02:51 Cernan (onboard Snoopy): I just turned it on. It's still on. Let me turn the docking light on.
+099:03:00 Duke: Charlie Brown. Houston. CMC is yours.
+099:03:08 Young: Roger. Thank you.
+099:03:10 Stafford (in Snoopy): John, do you see the tracking light now? It's on?
+099:03:13 Young (in Snoopy): Can you guys see it flashing?
+099:03:16 Stafford (in Snoopy): No.
+099:03:17 Cernan (in Snoopy): No.
+099:03:27 Stafford (onboard Snoopy): Oh, shit. Okay. You want to...
+099:03:37 Cernan (in Snoopy): Okay, John. I'm ready when you are to VHF A Simplex and Data.
+099:03:45 Young: Okay. On your Mark, Simplex and Data.
+099:03:48 Cernan (in Snoopy): And I'll wait for you to give us a call.
+099:03:52 Young: Okay. Simplex Data.
+099:03:53 Cernan (onboard Snoopy): Mark it.
+099:04:01 Young: Snoopy, Charlie Brown. How do you read?
+099:04:04 Stafford (in Snoopy): Roger. Loud and clear, John.
+099:04:06 Cernan (in Snoopy): How us, John?
+099:04:08 Young: You're the same.
+099:04:10 Cernan (in Snoopy): Okay. We're going to terminate our - our radar track here to go on a P52.
+The crew using LGC program P52 will align the IMU to the known orientation of the landing site 2 (Mare Tranquillitatis) REFSMMAT. The process is initiated on the DSKY by keying in Verb 37 Enter, Noun 52 Enter. Verb 04 Noun 06 will now be displayed flashing, requesting the crew to advise the LGC which of the 4 P52 options they wish to use. On this occasion option 3 is used to align to a known REFSMMAT.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+099:04:29 Cernan (onboard Snoopy): You had that sitting back here, Tom, like...
+099:04:31 Stafford (onboard Snoopy): Yes.
+099:04:32 Cernan (onboard Snoopy): ...leaning into this thing.
+099:04:33 Stafford (onboard Snoopy): I'll go to LGC.
+099:04:35 Cernan (onboard Snoopy): Oh, I thought you were. Okay. I'm sorry. You should be in LGC before we do this.
+099:04:41 Stafford (onboard Snoopy): I can slew it out of the way [garble].
+099:04:44 Cernan (onboard Snoopy): That's alright. Leave it there. See whether it does it.
+099:04:50 Stafford (onboard Snoopy): Nothing's done. Huh uh.
+099:04:53 Cernan (onboard Snoopy): Okay. Plus 00000, Enter.
+099:05:04 Stafford (onboard Snoopy): There it goes.
+099:05:22 Cernan (onboard Snoopy): Okay, pull your breaker, Tom.
+099:05:24 Stafford (onboard Snoopy): Okay, Rendezvous Radar there. Okay.
+The Rendezvous Radar breaker on panel 11, is being pulled so that the crew can perform a P52 IMU realign. The rendezvous radar antenna will remain in its current position, whilst the crew are using the AOT during the P52.
+The rendezvous radar antenna can obscure some of the field of view of the AOT, so it is parked pointing down whilst sightings are being made using the AOT.
+Diagram showing the interference caused by the CSM and LM Rendezvous Radar antenna when using the AOT.
+099:05:31 Cernan (onboard Snoopy): Okay, AOT Lamp breakers, Closed?
+099:05:34 Stafford (onboard Snoopy): Yes. Are we out of contact with MSFN?
+099:05:38 Cernan (onboard Snoopy): No, we've still got them. They're going to call us before we lose them.
+099:05:40 Stafford (onboard Snoopy): Okay.
+099:05:50 Stafford (in Snoopy): Charlie Brown, Snoop. You can go ahead and kill the tube any time you want to and put the cover over it.
+099:05:54 Young: Say again. Over.
+099:05:56 Stafford (in Snoopy): Roger. You can go ahead and kill the TV and put the cover over the tube
+099:06:01 Young: Have already.
+099:06:03 Stafford (in Snoopy): Roger, boy.
+099:06:05 Cernan (onboard Snoopy): What kind of deal is that?
+099:06:15 Stafford (onboard Snoopy): Are you in the forward position?
+099:06:16 Cernan (onboard Snoopy): I'm in the forward position.
+The AOT has six detent predetermined azimuth positions. The crewman selects the required detent using the selector knob. For this particular P52 alignment, the forward detent position is required.
+AOT detent positions.
+099:06:17 Stafford (onboard Snoopy): Okay, let's see what...
+099:06:24 Cernan (onboard Snoopy): How's it look to you?
+099:06:25 Stafford (onboard Snoopy): [Garble] 190 degrees roll, 40 - yaw to an Automaneuver.
+099:06:30 Cernan (onboard Snoopy): Yes.
+099:06:36 Stafford (onboard Snoopy): Okay, let's watch it real close. Okay go. Flashing 50 [garble] shows a 190 roll, which is good. Pitch is 41. It's going to take you around quite a ways and - Do you want to do it?
+The reference to 'flashing 50' relates to the step in P52 where Verb 50 Noun 18 is flashing on the DSKY displaying the FDAI angles required for viewing the target star.
+099:06:54 Cernan (onboard Snoopy): Go ahead.
+099:06:55 Stafford (onboard Snoopy): Okay, ready. [Garble] the DAP's all set? Did you get the DAP set after undocking?
+099:07:03 Cernan (onboard Snoopy): Yes, I set it after - I set it after...
+099:07:07 Stafford (onboard Snoopy): For 2-1?
+099:07:08 Cernan (onboard Snoopy): I set it, yes, 21002. Check it.
+The post undocking DAP was loaded using LGC routine 03. The data code entered into the DSKY register 1, 21002 breaks down as follows:
+2 - Ascent and Descent stages still combined.
+1 - 2-jet translation using RCS system B.
+0 - Fine scaling ACA (4°/sec).
+0 - Attitude deadband, 0.3°.
+2 - KALCMANU rate, 2°/sec.
+KALCMANU is a routine which generates commands for the LM DAP to change the attitude of the spacecraft during free fall. It is designed to manoeuvre the spacecraft from its initial orientation to some desired orientation specified by the program which calls KALCMANU, avoiding gimbal lock in the process.
+If the DAP was set whilst docked to the CSM, the ACA scaling would be lower by a factor of 10.
+099:07:13 Young: I follow your tracking light now. Are you able to do a P52 with that light on?
+099:07:17 Cernan (in Snoopy): I think so, John. I'm going to try it.
+099:07:19 Young: That's beautiful. Can you see mine?
+099:07:21 Stafford (in Snoopy): Oh yes, John. You're absolutely great.
+099:07:25 Stafford (in Snoopy): Your maneuver. Yes, it's flashing about every second. Just beautiful.
+099:07:30 Cernan (onboard Snoopy): Okay, let's maneuver.
+099:07:32 Stafford (in Snoopy): Okay. We're going to Auto maneuver acquire a star.
+099:07:36 Cernan (onboard Snoopy): Keep looking out the window to help me find this mother.
+099:07:41 Stafford (onboard Snoopy): Son of a bitch. I've got a picture.
+099:07:44 Cernan (onboard Snoopy): This reticle is terrible; it's got a - it's not smooth. It goes from very bright to dim.
+099:07:52 Stafford (onboard Snoopy): We ought to turn some of these lights down.
+099:07:53 Cernan (in Snoopy): I got you in the sextant, John. In my telescope, right now, you're passing through it.
+099:07:58 Young: Roger.
+099:08:05 Cernan (in Snoopy): Boy, I'll tell you. That's black out there, isn't it?
+099:08:08 Stafford (onboard Snoopy): Here comes Scorpio. That's what you head in. Stand by.
+099:08:10 Young: No other color to describe that.
+099:08:12 Stafford (onboard Snoopy): Here it comes. Here it comes, babe; it's going to stop us. Watch it.
+099:08:26 Cernan (onboard Snoopy): I'm not night-adapted yet, that's my problem.
+099:08:30 Duke: Snoop, Houston. We've reached the limits on the high gain. Go to omnis. Over.
+099:08:38 Cernan (onboard Snoopy): There it is, there it is.
+099:08:41 Stafford (onboard Snoopy): Stop!
+099:08:42 Duke: Charlie Brown, Houston. Pass to Snoop that he has reached the tracking limits on the high gain and please go to omnis. Over.
+The high gain S-band antenna on the LM, although steerable, cannot be pointed in every direction and has limits to its articulation. If the direction to Earth is outside these limits, the omnidirectional antennae must be used instead to maintain communications. There are two of these; one forward and one aft and together they give better than 90% good coverage around the LM. As the LM orbits across the lunar Earth-facing surface, the steerable antenna has tracked Earth to the limit of its available motion. It has reached the stops and the crew are instructed to switch to the Omni antennae.
+The geometric tracking limits of the LM S-band steerable antenna.
+099:08:42 Cernan (onboard Snoopy): There it is - beautiful, beautiful, beautiful!
+099:08:46 Stafford (onboard Snoopy): And there's the Earth.
+099:08:47 Cernan (onboard Snoopy): Give me PGNS pulse, babe.
+099:08:49 Stafford (onboard Snoopy): Okay, you are in Attitude Hold [garble].
+Stafford is confirming that the PGNS Mode Control switch on panel 3 is in the Attitude Hold position. In this mode the crew can command angular rates proportional to the displacement of the ACA.
+099:08:50 Cernan (onboard Snoopy): Beautiful, good alignment.
+099:08:52 Stafford (onboard Snoopy): [Garble.
+099:08:52 Young: Okay. Hey - Hey, Gene-o, go to Omnis. Your high gain has reached its limits.
+099:09:00 Stafford (onboard Snoopy): Okay, tell me how far it's off.
+099:09:13 Duke: Charlie Brown, Houston. Pass to Snoop that we'd like...
+099:09:15 Young: I tell you, I've got a beautiful sight.
+Young is performing a P52 at this time to realign the IMU in relation to the current REFSMMAT.
+099:09:19 Duke: Charlie Brown, Houston. Pass to Snoop that we'd like...
+099:09:21 Young: Go ahead there...
+099:09:24 Duke: Okay. I'm talking. [Laughter.] Pass the - pass the - on to Snoop that we'd like the aft antenna. Over.
+099:09:33 Stafford (onboard Snoopy): Is it locked out?
+099:09:34 Cernan (onboard Snoopy): [Garble] breakers here.
+When the S-band steerable antenna reached the limit of its available tracking arc, it hit the stops which caused its circuit breaker on panel 16 to pop open.
+S-BD Ant circuit breaker on panel 16.
+099:09:39 Cernan (onboard Snoopy): Here it goes.
+099:09:40 Stafford (onboard Snoopy): Okay.
+099:09:41 Young: Roger. They want the aft antenna there, Snoop, babe.
+099:09:42 Cernan (onboard Snoopy): Tell Houston I've [garble] S-band antenna breaker out [garble] side.
+099:09:49 Stafford (onboard Snoopy): Do you want your...?
+099:09:50 Cernan (onboard Snoopy): Oh, Tom, get a picture of that - the world.
+099:09:52 Stafford (onboard Snoopy): I don't have any color!
+099:09:54 Cernan (onboard Snoopy): There's the world.
+099:09:57 Stafford (onboard Snoopy): We don't have any color.
+Loaded camera film magazine.
+099:10:00 Cernan (onboard Snoopy): John, we just saw the world and is it fantastic!
+099:10:03 Stafford (onboard Snoopy): You want [garble].
+099:10:05 Young: Yes. I can see it myself. Hey, did you hear they want the aft antenna?
+Now that the S-band steerable is no longer able to track the Earth MSFN station, MCC-H is advising the LM should switch to the aft S-band omnidirectional spiral antenna. There are two S-band omni antennae, one on the front and one on the aft of the LM. Each antenna covers a 170° cone.
+Position of the two S-band omnidirectional antennae.
+099:10:10 Cernan (onboard Snoopy): I'll give it to them.
+099:10:11 Stafford (in Snoopy): Roger.
+099:10:13 Stafford (onboard Snoopy): You blew your breaker?
+099:10:15 Cernan (onboard Snoopy): [Garble] It's alright now though. I've put it back in.
+099:10:21 Stafford (onboard Snoopy): [Garble] fuel, baby. You want to Enter to mark X and mark Y yet? Hey, how about telling me how far it's off.
+The vertical cross hair, an orientation line designated the Y-line, is parallel to the LM X-axis when the reticle is at the 0 degree reference position. The horizontal cross hair, an auxiliary line designated the X-line, is perpendicular to the orientation line. Using the mark X and mark Y pushbuttons on the AOT enables the astronauts to send discrete signals to the primary guidance computer when star sightings are made.
+At the moment a star image crosses the Y-line, the astronaut presses the mark Y pushbutton; when it is crosses the X-line, he presses the mark X pushbutton. The astronaut can do this in either order and, if necessary, he may erase the latest mark by pressing the reject pushbutton. When a mark pushbutton is pressed, a discrete is sent to the guidance computer. The guidance computer then records the time of mark and the inertial measurement unit gimbal angles at the instant of the mark.
+Diagram of the AOT Reticle pattern, showing the X and Y reference lines.
+AOT X, Y and Reject buttons also showing the Detent selector knob.
+099:10:36 Cernan (onboard Snoopy): Tom, it's drifting. Give me it so I can mark, quick. Enter. Proceed. 54.
+The reference to 54 relates to Verb 54, used as part of the P52 IMU realignment program to enter a mark on a object (star or landmark) being sighted through the AOT in both the X and Y axis.
+099:10:59 Stafford (onboard Snoopy): Okay. Got one. Mark Y.
+099:11:30 Stafford (onboard Snoopy): [Garble] You got one pair.
+099:11:48 Cernan (onboard Snoopy): X up next.
+099:11:49 Stafford (onboard Snoopy): X. Okay.
+099:12:12 Stafford (onboard Snoopy): That makes two [garble]. Mark either one.
+099:12:23 Stafford (onboard Snoopy): Okay, mark Y.
+099:13:00 Cernan (onboard Snoopy): [Garble] is next, isn't it?
+099:13:01 Stafford (onboard Snoopy): Yes.
+099:13:18 Stafford (onboard Snoopy): [Garble]. That makes three. Mark either one.
+099:13:27 Stafford (onboard Snoopy): Okay. X is next.
+099:13:37 Cernan (onboard Snoopy): [Garble] better than in the simulator [garble] mark because, I'll tell you, they're right on it.
+This is Apollo Control at 99 hours, 14 minutes. We still have 23 minutes left in this pass before we lose signal. Just prior to the Loss of Signal, Snoopy will be given a Go/No-Go for the Descent Orbit Insertion which will take place behind the Moon.
+099:14:04 Stafford (onboard Snoopy): Okay. That makes four pairs - four sets; mark one more on each one.
+099:14:45 Cernan (onboard Snoopy): Turn the outside lights off, Tom.
+Cernan needs the external tracking lights turned off to aid his star sightings.
+099:14:46 Stafford (onboard Snoopy): Okay.
+099:14:54 Cernan (onboard Snoopy): COAS [garble] Altitude [garble]. Can you turn them down some more?
+099:15:04 Stafford (onboard Snoopy): What? Which ones?
+099:15:05 Cernan (onboard Snoopy): My side panel lights up there.
+Cernan needs the integral lights illuminating the panels to the right of his station in the LM turned off to aid his vision through the AOT. The switch controlling these lights is on panel 3.
+Side Panels - Lighting switch - LM panel 3.
+099:15:12 Stafford (onboard Snoopy): Okay. Mark Y.
+099:15:47 Stafford (onboard Snoopy): Okay, you got them. Proceed.
+099:15:50 Cernan (onboard Snoopy): How about Acrux (PGNS star code 25)?
+099:15:51 Stafford (onboard Snoopy): Okay.
+099:15:52 Cernan (onboard Snoopy): [Garble.]
+099:16:03 Stafford (onboard Snoopy): Yes.
+099:16:06 Cernan (onboard Snoopy): Acrux.
+099:16:07 Stafford (onboard Snoopy): Now let's see what angle it wants. It may take us - what's that saying?
+099:16:09 Cernan (onboard Snoopy): 212.
+099:16:10 Stafford (onboard Snoopy): 212. Okay, we're Okay; go.
+099:16:12 Cernan (onboard Snoopy): [Garble.]
+099:16:13 Stafford (onboard Snoopy): Looks alright. Proceed.
+099:16:29 Cernan (onboard Snoopy): Turn all the lights down a little bit, Tom, will you?
+099:16:31 Stafford (onboard Snoopy): I got them. Something's wrong here. This damn thing won't...
+099:16:34 Cernan (onboard Snoopy): You've got your [garble] in probably.
+099:16:36 Stafford (onboard Snoopy): I don't have any of them on.
+099:16:38 Cernan (onboard Snoopy): All these integral lights are what are killing me.
+099:16:44 Stafford (onboard Snoopy): There. That really goes "boom, boom," doesn't it?
+Stafford is referring to the sound the RCS motors make as they fire.
+099:16:47 Cernan (onboard Snoopy): [Garble.]
+099:16:49 Stafford (onboard Snoopy): Can you tell me how far it's off, for evaluation of our platform align? How far is the other one off?
+099:16:59 Cernan (onboard Snoopy): [Garble] done enough alignment to do the mission right now, Tom. I'd say [garble] degrees on [garble].
+099:17:04 Stafford (onboard Snoopy): Which one? Proceed.
+099:17:12 Cernan (onboard Snoopy): They are both the same. Let me get [garble] on that.
+099:17:21 Cernan (onboard Snoopy): [Garble] on [garble]?
+099:17:24 Stafford (onboard Snoopy): I'm not sure.
+099:17:25 Cernan (onboard Snoopy): I'm not sure either, but [garble] get the AOT, it isn't more than [garble].
+099:17:30 Stafford (onboard Snoopy): [Garble].
+099:17:32 Cernan (onboard Snoopy): [Garble] about [garble]...
+099:17:34 Stafford (onboard Snoopy): 10 star widths?
+Whilst in P52 and using auto optics to bring the target star in to the field of view of the AOT optics, the target star was assessed to be within 10 star widths of the crosshairs, which showed that the IMU docked alignment was satisfactory.
+099:17:36 Cernan (onboard Snoopy): ...which is practically as good as, you know, you can get an alignment on this [garble].
+Both vehicles are now in small equal period orbits. The separation maneuver was performed by the Command and Service Module, Charlie Brown. It sent Charlie Brown down in ahead of Snoopy. However, on the relative motion plot, and from Charlie Brown's point of view, Snoopy was going above and behind him. Maximum distance in this orbit would be about differential heights would be close to 5 miles and not quite 2 nautical miles distance separating them.
+099:17:44 Duke: Hello, Charlie Brown. Houston. A couple of reminders. We'd like the Delta-VCG to go to CSM and the BMAGs to either rate 1 or rate 2; your choice.
+Placing the Delta-V/CG switch on panel 1 in the CSM position enables different filtering in the SC Auto TVC control path, which is part of the stabilization and control system. This is required as the CSM is now flying solo, and therefore its centre of gravity (or more correctly 'centre of mass') has changed from that of the two docked spacecraft.
+The selection of a particular BMAG rate, 1 or 2, using the switch on panel 1, dictates which BMAG is used as the source for the attitude rate display.
+099:18:00 Young: Thank you kindly.
+099:18:02 Cernan (onboard Snoopy): [Garble].
+099:18:02 Duke: Roger. Roger. Out.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+The Descent Orbit Insertion will be performed one half a revolution after the separation maneuver. Time for the Descent Orbit Insertion 99 hour, 46 minutes.
+099:18:38 Cernan (onboard Snoopy): Ready to mark [garble]?
+099:18:39 Stafford (onboard Snoopy): Yes.
+099:18:49 Cernan (onboard Snoopy): [Garble] knew where Acrux was.
+099:19:27 Stafford (onboard Snoopy): You mark yet?
+099:19:29 Cernan (onboard Snoopy): Ready to mark Y?
+099:19:34 Stafford (onboard Snoopy): Yes.
+099:19:35 Cernan (onboard Snoopy): [Garble] Y.
+099:19:52 Cernan (onboard Snoopy): That antenna banging the stops blew the S-band antenna breaker over here, so it will do it.
+099:20:10 Cernan (onboard Snoopy): Ready to mark?
+099:20:12 Stafford (onboard Snoopy): Go.
+099:20:15 Cernan (onboard Snoopy): Okay, [garble]. I'm going to mark [garble].
+099:20:19 Stafford (onboard Snoopy): Go.
+099:20:20 Cernan (onboard Snoopy): Still ready to mark Y?
+099:20:21 Stafford (onboard Snoopy): Still ready to mark.
+099:20:41 Cernan (onboard Snoopy): There it is.
+099:20:43 Stafford (onboard Snoopy): Okay. Okay, [garble] right?
+099:20:45 Cernan (onboard Snoopy): [Garble] four right now [garble] second.
+099:20:51 Stafford (onboard Snoopy): Okay.
+099:20:52 Young: Houston, this is Charlie Brown. What time is LOS? Over.
+099:20:56 Duke: Roger, Charlie Brown. Coming up LOS to you 16 minutes and 30 seconds.
+099:21:00 Duke: Mark.
+099:21:03 Duke: And we'll see you AOS at 100:24.
+099:21:10 Cernan (onboard Snoopy): Two more stars to mark. (Garble.) That should be (Verb) 54, there.
+099:21:14 Stafford (onboard Snoopy): Yes.
+099:21:17 Duke: Charlie Brown?...
+099:21:18 Young: Could you give me the LOS in GET?
+099:21:21 Duke: Roger. LOS GET is 99:37:32. Over.
+099:21:26 Young: Roger. Thank you. Houston.
+099:21:30 Cernan (onboard Snoopy): Mark Y and we'll see what happens.
+099:21:31 Stafford (onboard Snoopy): Yes.
+099:21:38 Duke: And, Charlie Brown, Houston. We noticed the readout temp(erature) a little high, and if you get a little stuffy in there, we recommend you activate the secondary evaporator and the secondary pump. And then when you cool down, you can just turn off the Evap and leave the pump running. Your choice. Over.
+099:22:00 Young: The cabin temperature is 74 and the suit temperature is 51. Can't beat that.
+The Secondary Coolant Loop switch is situated on panel 2 and when in the Evap position it supplies power to the secondary glycol evaporator temperature control. The Secondary Coolant Loop-Pump switch also on panel 2 allows the crew to select which AC bus should be powering the pump.
+099:22:04 Stafford (onboard Snoopy): Go to Y.
+099:22:05 Cernan (onboard Snoopy): Ready to mark Y?
+099:22:08 Duke: Sounds like uptown. Over.
+099:22:16 Young: It's some place. I mean to tell you.
+099:22:18 Stafford (onboard Snoopy): Okay, proceed.
+099:22:19 Duke: And, Charlie Brown, if you have some good word from Snoop - We still don't have any data and if they pass on to you about the P52, we'd be interested. Over.
+099:22:22 Stafford (onboard Snoopy): That's good enough.
+099:22:23 Cernan (onboard Snoopy): That's good, Tom. Those are good marks. Are you ready?
+099:22:27 Stafford (onboard Snoopy): Okay. 00, four balls 9. Okay. Go, Proceed...
+099:22:32 Young: Roger.
+099:22:35 Stafford (onboard Snoopy): ...Okay, minus 662 (roll torquing angle), minus 1...
+099:22:37 Young: Hey, Snoopy. How's your P52 going?
+P52 is the platform realignment in the Lunar Module. Gene Cernan is doing that while Tom Stafford is running checks on other systems.
+099:22:42 Cernan (onboard Snoopy): Just about done with it. Stand by 1.
+099:22:46 Stafford (onboard Snoopy): Proceed, go.
+099:22:52 Cernan (onboard Snoopy): Now, we want to double check with [garble] make sure.
+099:23:03 Cernan (onboard Snoopy): And to save gas I'm going to call up...
+099:23:06 Stafford (onboard Snoopy): Call up Acrux again.
+099:23:07 Cernan (onboard Snoopy): [Garble.]
+099:23:18 Stafford (onboard Snoopy): Okay. Okay. Auto. Go ahead; we've got 22 minutes to DOI. That does it.
+099:23:27 Duke: Charlie Brown, Houston. You can go back to Block on your Up Telemetry switch.
+099:23:36 Young: Okay. I wouldn't want anybody to zip me in any bad data on the back side.
+099:23:38 Cernan (onboard Snoopy): We are drifting around in the deadband, but if you trim it up, it'll go right through center [garble].
+099:23:41 Duke: Roger.
+099:23:46 Stafford (onboard Snoopy): I got you.
+099:23:47 Cernan (onboard Snoopy): That's about half again as close as we come in before [garble] but it's drifted down. Watch.
+099:23:47 Duke: Did you talk to Snoop there Charlie Brown? Over.
+099:23:50 Stafford (onboard Snoopy): I got you. That's damn close. Boy, it's right in there.
+099:23:55 Cernan (onboard Snoopy): Yes, [garble].
+099:23:55 Young: Hey, Snoopy. This is Charlie Brown. Over. Is Gene-o keying his mike all the time? Sometimes I hear him, and sometimes I don't. Maybe that feed-through problem isn't as bad as they thought.
+099:24:06 Cernan (onboard Snoopy): No, I'm not, I'm not. No.
+099:24:10 Cernan (onboard Snoopy): Okay, you can give me integral lights back. Here.
+099:24:15 Stafford (onboard Snoopy): Let's get...
+099:24:16 Young (onboard): [Garble] problem isn't as bad as they thought.
+099:24:17 Stafford (onboard Snoopy): ...Let's get the DOI attitude first and then do the landing radar check, babe.
+099:24:23 Stafford (onboard Snoopy): Let's check P30 [external Delta-V program] and P40 (DPS thrust program).
+The P30 program takes the required time of ignition and the impulsive Delta-V along the local vertical axes at ignition and computes the required velocity and other initial conditions required by the LGC for execution of the desired manoeuvre.
+The P40 program computes a preferred IMU orientation and a vehicle attitude for a LM DPS thrusting manoeuvre and procedure to manoeuvre the vehicle to that attitude. It also controls the PGNS during countdown, ignition, thrusting, and thrust termination of a PGNS controlled DPS manoeuvre.
+099:24:26 Cernan (onboard Snoopy): AOT Lamp breaker, Open?
+099:24:28 Stafford (onboard Snoopy): Yes.
+099:24:30 Cernan (onboard Snoopy): Okay. Okay, I've gone through P30 one time.
+099:24:39 Stafford (onboard Snoopy): We been through it one time?
+099:24:40 Cernan (onboard Snoopy): Yes, I looked at it once.
+099:24:42 Stafford (onboard Snoopy): Let's go maneuver to the at - What was it? What did they give for roll, pitch, and yaw angles?
+099:24:47 Cernan (onboard Snoopy): Okay. Roll is 0 and - and pitch is 275.
+099:24:54 Stafford (onboard Snoopy): Roll is 0 and pitch is 275, huh?
+Attitude angles for DOI that should be displayed on the FDAI eight ball in the Inertial mode: roll 000.00°, pitch 275.00°.
+099:24:57 Cernan (onboard Snoopy): Yes.
+099:25:03 Cernan (onboard Snoopy): Look at that Earth.
+099:25:23 Stafford (onboard Snoopy): [Garble.]
+099:25:23 Cernan (onboard Snoopy): What happened to this pressure? Fuel pressure?
+099:25:35 Stafford (onboard Snoopy): Shit!
+099:25:36 Cernan (onboard Snoopy): Hello. Houston, Houston, this is Snoopy, over.
+099:25:46 Young: Houston, Snoop's calling you.
+099:25:49 Duke: Charlie Brown, Houston. We don't read Snoop. We haven't locked up on his data yet. Over.
+099:25:56 Cernan (onboard Snoopy): Hey, John, ask them if they've been monitoring our descent fuel pressure. Our gauge went to zero somewhere during the P52.
+099:26:04 Young: Roger. Did you hear that, Houston?
+099:26:07 Duke: That's negative, Charlie Brown. Over.
+099:26:09 Young: They say, have you been monitoring their descent fuel? You've been monitoring his descent stage fuel pressure. His gauge went to zero during a P52... burn.
+The Main Propulsion Press meter on panel 1, displays the pressure of both the fuel and oxidizer of either the ascent or descent stage. At this time the descent stage values were being displayed in preparation for DOI. Whilst the crew were performing the P52 IMU realignment, the descent stage oxidizer pressure readout has fallen to zero psi although the actual tank pressures were nominal. The pressure meter gave accurate readouts when displaying the ascent oxidizer reading. The cause of the failure was either a failed transducer in the descent stage oxidizer tanks or a wiring failure from those tanks. Cernan has erroneously called out that the problem reading is from the descent fuel tank, but the problem really lies in the descent oxidiser tanks.
+Main Propulsion Pressure meter - LM panel 1.
+099:26:21 Stafford (onboard Snoopy): P52.
+099:26:21 Duke: Roger, Charlie Brown, We have no data at all. Over.
+099:26:28 Young: The alignment. Okay, Snoopy. This is Charlie Brown. Houston doesn't have any data from you today, right now.
+099:26:39 Cernan (onboard Snoopy): Okay, maybe I can try and get them some.
+099:26:47 Duke: Charlie Brown, Houston. Tell Snoop to do a Verb 64 to get us to high gain, and we got another transducer that we can verify that pressure. Over.
+Verb 64 initiates LCG routine 05 which is used to compute and display the two gimbal angles which will point the steerable high-gain antenna at the center of the Earth. The pitch angle will be displayed on register 1, and the yaw angle on register 2, given to 0.01°. If the crew consider these angles will result in an unobstructed LOS to the Earth, they set these angles into the S-band steerable antenna position control selectors on panel 12.
+S-band steerable antenna position control selectors - LM panel 12.
+099:27:00 Cernan (in Snoopy): Houston, you're looking at high gain right now, or you will be in a second? How about checking it? It's out on descent 1 and descent 2.
+099:27:14 Stafford (onboard Snoopy): We can hear some gurgling.
+099:27:19 Cernan (onboard Snoopy): Hold this attitude a second, Tom, so I can verify that mother.
+099:27:22 Stafford (onboard Snoopy): I'm near gimbal lock. I don't want to [garble].
+099:27:23 Cernan (onboard Snoopy): Okay. Charlie Brown, this is Snoopy. Will you tell them they're looking at high gain, to verify their transducer?
+099:27:29 Duke: Charlie?
+099:27:30 Young: Yes, sir.
+099:27:31 Duke: Snoopy?
+099:27:32 Stafford (in Snoopy): Yes sir. Charlie...
+099:27:33 Duke: Snoopy, Houston.
+099:27:34 Young: Snoopy is calling you, and he says that you have high gain.
+099:27:39 Duke: Roger, We got the...
+099:27:40 Young: And they are looking at you right now with it.
+099:27:42 Duke: Roger. We got the data, Snoopy.
+099:27:43 Young: Houston, Go...
+099:27:44 Duke: Roger, we got the data, Snoopy, and the descent pressure looks fine. Over.
+099:27:50 Stafford (in Snoopy): Okay, I figure it was a gauge because I got...
+099:27:51 Young: He said the pressure looks fine, Tom.
+099:27:52 Stafford (in Snoopy): Descent 1 and descent 2 both out.
+099:27:54 Young: Descent...
+099:27:55 Duke: We got data, Snoopy, and the descent pressure looks fine. Over.
+099:27:56 Young: ...1 and 2 are both out?
+099:28:00 Duke: Copy.
+099:28:03 Cernan (in Snoopy): Okay. And you are giving me a Go on descent pressure. Is that correct?
+099:28:06 Duke: That's correct.
+099:28:12 Young: They said both descent pressures look good there, Snoop.
+099:28:16 Cernan (in Snoopy): Okay. I can read them, John. That's what I wanted to hear from them.
+099:28:22 Duke: Snoop, Houston. Could you...
+099:28:24 Young: I don't kind of - I don't know exactly what kind of a...
+099:28:29 Duke: Snoop, Houston. Could you give us your P52 results? Over.
+099:28:38 Cernan (in Snoopy): Roger. Stand by.
+099:28:40 Stafford (in Snoopy): Okay. The stars were 33 (Antares) and 25 (Acrux). Star angle difference was 4 balls 9 (000.09°). Gyro torquing angles are minus 668, minus 195, minus 055 (roll, -000.668° pitch, -000.195° yaw, 000.055°). Over.
+099:29:00 Duke: Roger. We copy Snoop. Out.
+099:29:07 Stafford (in Snoopy): Roger. And initial acquisition of the star for the docked IMU align look pretty good.
+099:29:14 Cernan (onboard Snoopy): Hey, Tom, you want to get my Landing Radar circuit breaker Closed?
+The PGNS LDG RDR circuit breaker is on panel 11 and provides DC power to the antenna and its control electronics.
+Landing Radar circuit breaker - LM panel 11.
+099:29:18 Stafford (onboard Snoopy): Okay.
+099:29:21 Cernan (in Snoopy): Houston, this is Snoopy. When's AOS - or LOS, rather?
+099:29:26 Duke: Roger. We're coming up on LOS for you at 99:37 - correction 99:38. We'll see you AOS at 100:26. Over.
+099:29:42 Young: Hey, Tom. What was your biggest Gyro torquing angle? Over.
+099:29:46 Cernan (in Snoopy): I got them, Charlie.
+099:29:48 Stafford (in Snoopy): Roger. Biggest Gyro torquing angle was - registered 1 minus 668.
+099:29:57 Young: Is that 0.66?
+099:29:59 Stafford (in Snoopy): It was 2 balls 668, 2 balls 195, and 3 balls 55. All minus.
+099:30:08 Young: Roger.
+Your browser does not support the audio element. Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+099:30:11 Cernan (onboard Snoopy): Have you got that Landing Radar breaker In, babe?
+099:30:12 Stafford (onboard Snoopy): Yes.
+099:30:13 Cernan (onboard Snoopy): Okay. Mode Select, Landing Radar.
+099:30:16 Cernan (onboard Snoopy): Radar Test, Landing?
+The Radar Test switch on panel 3 is placed in the LDG position. This imitates the test circuitry. The landing radar performance is checked by monitoring the Signal Strength meter after placing the Test Monitor rotary selector, also on panel 3, in the appropriate position. This could be ALT XMTR which provides the altitude range transmitter power for display on the Signal Strength meter, or VEL XMTR which does the same with the velocity transmitter.
+Radar Signal Strength indicator - LM panel 3.
+099:30:19 Stafford (onboard Snoopy): Yes.
+099:30:31 Cernan (onboard Snoopy): Reading 38.
+099:30:32 Duke: Snoopy, Houston. We got us some word on your Hasselblad problem - on the magazine problem. We'd like you to react the magazine flag so that the red just disappears and no further. If this doesn't work consistently, then change magazines. Over.
+099:30:55 Young: They already know that technique [garble].
+099:30:56 Stafford (in Snoopy): Well, that didn't work consistently, and that's why we changed magazines. Over.
+099:31:01 Duke: Roger. We copy. Out.
+099:31:44 Duke: Hello, Snoop and Charlie Brown, This is Houston...
+099:31:48 Cernan (in Snoopy): Houston, you are satisfied with the descent...
+099:31:50 Duke: Snoop, Houston. You are Go for a DOI. Recommend you check on CB 16 Display Engine Override breaker. It might recover your descent monitoring capability. Over.
+The DISP/ENG OVRD Logic circuit breaker on panel 16, provides DC power to the Main Propulsion Temp and Press indicators (panel 1), the Ascent and Descent He Reg talkbacks (panel 1), and the DES Propulsion Vent talkbacks (panel 8.
+099:32:05 Stafford (in Snoopy): Roger [garble].
+099:32:07 Stafford (onboard Snoopy): And, if - Display Engine Override - Understood. Right there. Next one.
+099:32:28 Cernan (in Snoopy): No, There's no breakers out there that'd hurt that, Charlie. I'm going, as long as you're satisfied, I'm going Omni this time.
+099:32:36 Duke: Roger. We copy. Got 4 minutes.
+099:32:40 Cernan (in Snoopy): Okay. I did - when I went in that P52 and when I slammed the S-band into the stops, I did pop my S-band antenna breaker under Comm on panel 16.
+See explanation at 099:08:42.
+099:32:50 Duke: Roger. Copy.
+099:32:52 Stafford (onboard Snoopy): Okay.
+099:32:59 Cernan (onboard Snoopy): Okay, Tom. We got to hustle through this, babe. Landing Antenna, Auto?
+With the Landing Radar antenna switch in the Auto position, the LGC can control its position, either Descent (position 1) or Hover (position 2). This can be overridden manually.
+Landing Antenna switch - LM panel 3.
+099:33:09 Stafford (onboard Snoopy): Yes. Go.
+099:33:16 Cernan (onboard Snoopy): Okay, Verb 60, and we'll wait. Might want to start getting your helmet and gloves on.
+Selecting Verb 60 Enter on the DSKY, enables the FDAI error needles to display the vehicle's PNGS-derived attitude rates.
+099:33:20 Stafford (onboard Snoopy): Yes.
+099:33:35 Cernan (onboard Snoopy): Are you at the attitude, babe?
+099:33:37 Stafford (onboard Snoopy): Yes, 275.
+Stafford is confirming the LM is at the DOI pitch angle of 275°.
+099:33:38 Cernan (onboard Snoopy): Okay, I guess we'll - that's right. You want to check the back of mine, Tom?
+099:33:47 Stafford (onboard Snoopy): The what? There you go.
+099:35:46 Duke: Snoop, Houston. We show 2 minutes to LOS for you. Do you read me? Over.
+099:35:59 Young: Snoopy, Houston wonders if you're reading him. I guess you're not, or you would answer him.
+099:36:06 Duke: Charlie Brown, Houston. No sweat.
+099:36:14 Young: Okay, Snoopy. Charlie Brown. Do you read? Over.
+099:36:19 Stafford (onboard Snoopy): Roger, John. We can read you loud and clear.
+099:36:23 Young: Alright.
+099:36:27 Young: We need to keep at least one set of communications open at all times.
+099:36:34 Stafford (onboard Snoopy): Yes. I think that's a very prudent idea.
+099:36:40 Young: Somehow.
+099:36:47 Duke: Charlie Brown, Houston. Forty-five seconds to LOS. You're still Go for DOI.
+099:36:56 Young: Roger. What - what is my P20 doing? Can anybody tell me?
+Young has observed computer activity on the DSKY in program 20. CSM program 20 is the rendezvous navigation program. It is used to control the CSM attitude and optics to acquire the LM in the sextant field-of-view and to point the CSM radar transponder at the LM or control the CSM attitude to the LM along the plus-X axis. It also can be used to update the CSM state vector on the basis of optical tracking data and/or VHF ranging data.
+099:37:03 Duke: Stand by.
+099:37:05 Stafford (onboard Snoopy): Okay. How are we doing? Ready?
+099:37:09 Young: Well, it's made up its mind.
+099:37:11 Cernan (in Snoopy): What are we doing, running?
+099:37:14 Cernan (onboard Snoopy): Houston, and Landing Antenna test is complete.
+099:37:18 Duke: Charlie Brown...
+099:37:20 Stafford (onboard Snoopy): Where do you want to leave this? In Hover?
+099:37:21 Duke: Charlie Brown, Houston. Charlie Brown, Houston. It's integrating a state vector, P20.
+099:37:24 Stafford (onboard Snoopy): Go ahead.
+099:37:28 Stafford (in Snoopy): You want to leave this in Hover? The landing...
+099:37:30 Young (onboard): Thank you.
+099:37:30 Cernan (in Snoopy): What? Yes, yes. That's where it's supposed to...
+099:37:32 Stafford (onboard Snoopy): To be in Hover.
+The LM landing radar has two positions, position 1 (descent) or position 2 (hover). In position 1 (descent), the LR antenna orientation is boresighted 24° with respect to the LM's X axis. In position 2 (hover), the LR antenna is boresighted parallel to the LM's X axis and perpendicular to the Z axis. As Apollo 10 is not making the final descent to the lunar surface and this is only a flight test of the landing radar as the LM passes the low point of its solo orbit, the positions used are not typical at this phase of the mission.
+The required LR position is selected using the LDG ANT switch on panel 3. The switch also has an Auto position which enables the LGC to position the LR antenna based on its knowledge of the mission phase.
+LR positions showing the relative geometry.
+099:37:33 Cernan (in Snoopy): Well, wait a minute. It goes to - Tom, read through. I don't know. I - I thought I got it - Let me go through...
+099:37:41 Stafford (in Snoopy): You're on VOX.
+099:37:44 Cernan (in Snoopy): Huh? I'm not on VOX.
+099:37:45 Stafford (onboard Snoopy): You're on - Are you on Down-Voice Backup?
+This is Apollo Control at 99 hours, 38 minutes; and we have Loss Of Signal on both vehicles. Charlie Brown going around the corner 25 seconds before Snoopy. This separation maneuver has put the Command Module, Charlie Brown, ahead of Snoopy.
+Acquisition times for Charlie Brown: 100 hours, 24 minutes. For Snoopy: 100 hours, 26 minutes. To recap, the situation during this 12th revolution, while we were in contact with Charlie Brown and Snoopy, as we acquired the vehicles, had undocked and were 30 to 40 feet away in station keeping. We passed up a number of maneuver PADs, times, and Delta-Vs for the maneuvers that will take place in the rendezvous sequence and I'll recap those times in a short time. Tom Stafford reported some trouble with the Hasselblad film pack. Apparently film jamming. We did pass up, later in the pass, a procedure to try to correct this situation. Advised him that if it did not correct it to change magazines. The separation maneuver was performed on time and the controllers here on the ground said that it was at the proper Delta-V, 2.5 (fps). We copied the orbital parameters just prior to separation as 62.5 by 57.5 nautical miles (100.6 by 92.5 km). The Lunar Module, Snoopy, would have stayed in that essentially that same orbit. The separation maneuver for Charlie Brown was targeted for an orbit of 62.1 by 57.9 nautical miles (115.0 by 107.2 km), essentially the same orbit because 2½ feet per second (0.76 m/s) would not change that very much.
+We had a television pass during the separation and as the vehicles separated you heard Gene Cernan caution John Young not to accept any TEI updates while they were gone. TEI, of course, is Trans Earth Injection and Tom Stafford and Gene Cernan want to find John Young there when they get back and complete this rendezvous. We then appear to have a rendezvous radar problem which eventually was traced to the transponder in the Command Module. Some concern at the time that we would not be able to perform DOI and we would not have been able to give Snoopy a Go for DOI if the transponder had not become operable. We need the rendezvous radar for the rendezvous sequence. John Young recycled a power switch and got power back into the transponder and the system is working fine. Snoopy cannot monitor the propellant tank pressures for the Descent Propulsion System on board. However, we can look at them from the ground. We checked them prior to giving Snoopy a Go for DOI and those pressures are very good and we're not concerned about them.
+Several of the burn duration times and resultant Delta-V values given in this PAO commentary are do not match those from the Apollo 10 Mission Report, perhaps because they are preliminary. Where this occurs, the correct real-time values are shown.
+So Snoopy will be performing the Descent Orbit Insertion burn at 99 hours, 46 minutes at Delta-V of 71.3 feet per second (21.7 m/s). The duration of the burn 59 seconds (real-time planned duration 27.4 sec). This will he performed by the Descent Propulsion System, at 10% throttle for the first 15 seconds and then throttling to 40% for the remainder of the burn. The orbit targeted as a result of the DOI for Snoopy: 61.2 by 8.4 nautical miles (113.3 by 15.6 km) and as a result of this maneuver Snoopy will start coming down to swoop over the lunar landscape at this low point. Pericynthion, 8.4 miles (15.6 km) coming 15 degrees prior to reaching landing site 2.
+Times on the remainder of maneuvers in the rendezvous sequence: Phasing; 100 hours, 58 minutes 25 seconds - again a Descent Propulsion System burn; duration, 1 minute, 12 seconds (real-time planned duration 40.1 sec); Delta-V, 176.8 feet per second (53.9 m/s). We are targeting for an orbit for Snoopy at 189.8 by 11.7 nautical miles (351.5 by 21.7 km). The time for staging, at which time Snoopy will jettison the descent stage; 102 hours, 45 minutes. Ten minutes later; at 102 hours, 55 minutes and 1 second; the insertion maneuver will be performed. Duration of that maneuver is 10 seconds (real-time planned duration 15.3 sec); Delta-V, 220.9 feet per second (67.3 m/s). This will be performed with the Ascent Propulsion System. We are targeting for an orbit 45.9 by 10.7 nautical miles (85.0 by 19.8 km). The concentric sequence initiation maneuver, CSI, at 103 hours, 45 minutes, 33 seconds. Duration of the burn, 51 seconds (real-time planned duration 27.3 sec); Delta-V, 44.9 feet per second (13.7 m/s) (real-time planned Delta-V, 45.3 fps (13.8 m/s)). This will be performed with the Lunar Module Reaction Control System. Targeting for 47.7 by 41.9 nautical miles (88.3 by 77.6 km). The Constant Delta Height, CDH maneuver, at 104 hours, 43 minutes, 31 seconds. Duration, 58 seconds (real-time planned duration 3.4 sec), Delta-V of 2 feet per second (0.61 m/s. Real-time planned Delta-V 2.8 fps [0.85 m/s]). Again, with the RCS system of the Lunar Module, targeting for 47.8 by 42.1 nautical miles (88.5 by 78.0 km). Terminal Phase Initiation, TPI, at 105 hours, 21 minutes, 1 second. Duration, 38 seconds (real-time planned 14.7 sec), with the Lunar Module Reaction Control System Delta-V, 24.7 feet per second (real-time planned Delta-V, 24.3 fps). Resulting orbit, 58.7 by 47.5 nautical miles (108.7 by 88.0 km). The terminal phase braking to begin at 106 hours, 3 minutes, 57 seconds. Again an RCS maneuver in which the Lunar Module will null its velocity and start station keeping with Charlie Brown. This is Mission Control, Houston; at 99 hours, 48 minutes.
+099:37:48 Cernan (onboard Snoopy): I got to talk to you, babe. I'm in a helmet.
+099:37:49 Stafford (onboard Snoopy): Okay, but you were coming - you were transmitting to the ground, and everybody.
+099:38:02 Cernan (onboard Snoopy): Double check that with your...
+099:38:03 Stafford (onboard Snoopy): No. I know what we need for the - for the...
+099:38:05 Cernan (onboard Snoopy): We've lost contact with the ground. Double check that.
+099:38:07 Stafford (onboard Snoopy): Okay. We've got the 7 minutes. I know what I need for the a - Okay, I'm going to go ahead, and go up to throttle.
+099:38:54 Stafford (onboard Snoopy): Whoops!
+099:39:01 Cernan (onboard Snoopy): Probably got to wait until it runs: its course. Call them up again, Tom.
+099:39:05 Stafford (onboard Snoopy): What's that? Verb 47?
+099:39:06 Cernan (onboard Snoopy): Yes, 47.
+Verb 47 starts routine 47 which initializes the AGS. This routine is used to provide the AGS AEA (Abort Electronics Assembly) with the LM and CSM state vector in LM IMU co-ordinates. In other words, it tells the AGS where the PNGS thinks it is and fast it thinks it is going.
+099:39:10 Stafford (onboard Snoopy): [Garble]. Ready.
+099:39:11 Cernan (onboard Snoopy): No, let me - Okay, now go ahead. Go ahead.
+099:39:18 Stafford (onboard Snoopy): Okay, Proceed. We got to get in the P40 right away. Take a look at that attitude again.
+099:39:30 Cernan (onboard Snoopy): Orb-rate, I should be looking at 090.
+099:39:32 Stafford (onboard Snoopy): You're coming up to it. You can...
+099:39:33 Cernan (onboard Snoopy): [Garble] looking about 285 right side up. Are you correct?
+099:39:36 Stafford (onboard Snoopy): Yes, yes. We're Okay. Now the main thing is - what altitude should that landing radar be in? The last one is Auto. There is Auto?
+099:39:51 Cernan (onboard Snoopy): Landing Antenna Descent for 10 seconds. Landing Antenna, Auto.
+099:39:55 Stafford (onboard Snoopy): Okay, that's the last one. Okay. It's Auto.
+099:39:58 Cernan (onboard Snoopy): It's Auto for this burn. It's Hover for the phasing burn, Tom.
+099:40:01 Stafford (onboard Snoopy): Yes.
+099:40:08 Cernan (onboard Snoopy): Okay. Let's start going through the 4-minute check.
+099:40:12 Stafford (onboard Snoopy): Okay. I got to call P40 as soon as this bear gets...
+Stafford is frustrated at the length of time the AGS initialization is taking, preventing use of the PGNS to call up P40.
+099:40:14 Cernan (onboard Snoopy): I know it. Engine - Engine Gimbal, Enable?
+099:40:19 Stafford (onboard Snoopy): Engine Gimbal, Enable. Yes.
+The Engine Gimbal switch on panel 3, in the Enable position enables the DPS engine gimbal drive capability, to displace the descent engine along the Y and Z axes.
+Engine Gimbal switch - LM panel 3.
+099:40:20 Cernan (onboard Snoopy): Throttle, Min?
+099:40:21 Stafford (onboard Snoopy): Throttle is Min.
+The TTCA is placed in the 10-per-cent minimum thrust position. It must be in this position as the automatic thrust level control by the LGC cannot be at a level below that set by the TTCA.
+TTCA thrust level positions.
+099:40:22 Cernan (onboard Snoopy): Throttle Control - Throttle Control, Auto.
+With the Throttle Control switch on panel 1 in the Auto position, the LGC command signals are summed with manual command signals from the particular TTCA selected with Man Throt (CDR or SE) switch for descent engine throttle control. TTCA always provides minimum 10 per cent command; it cannot be set below this level.
+When the switch is set to Auto, the Thrust indicator, also on panel 1, displays the LGC command plus 10 pre cent fixed bias. Manual throttle commands may be introduced by displacing active TTCA. This causes the displayed per cent Thrust CMD to decrease because only the LGC commands plus fixed bias are displayed.
+099:40:25 Stafford (onboard Snoopy): Yes.
+099:40:26 Cernan (onboard Snoopy): Manual, Throttle, Commander.
+The Man Throt switch selects which TTCA will be used to manually adjust the DPS throttle level, in this case CDR.
+099:40:28 Stafford (onboard Snoopy): Go.
+099:40:29 Cernan (onboard Snoopy): Balance Couple, On.
+099:40:31 Stafford (onboard Snoopy): Balance Couple, On.
+See explanation of BAL CPL at 97:57:31.
+099:40:32 Cernan (onboard Snoopy): Descent Command Engine Override, Off.
+The DESC ENG CMD OVRD switch on panel 3 is used to keep the DPS engine shut off valves open if DECA power fails. In the Off position, power is removed from these valves.
+Descent Engine Command Override switch - LM panel 3.
+099:40:34 Stafford (onboard Snoopy): Go.
+099:40:35 Cernan (onboard Snoopy): Engine Stop buttons, Reset.
+Resetting the Engine Stop push buttons on panels 5 and 6, removes the engine start inhibit in preparation for the DOI, DPS burn. The Engine Stop button can be used to manually command an engine shutdown of both the DPS and APS by either astronaut.
+CDR's Engine Stop push button - LM panel 5. A similar switch for the LMP is situated on panel 6.
+CDR's Engine Stop push button on panel 5. Photograph taken at closeout of LM-12.
+099:40:37 Stafford (onboard Snoopy): Go.
+099:40:39 Cernan (onboard Snoopy): Abort/Abort pushbutton stage, Reset.
+The Abort pushbutton on panel 1 is used to initiate a DPS abort. Resetting the button at this time, arms the DPS if under AGS control, resets the computer abort discrete to preclude an erroneous bit in the computer program initiating an abort when the DPS is ignited, and provides attitude hold at the end of any DPS burn if under AGS control. Pushing the Abort Stage push button, also on panel 1, initiates a APS abort. Resetting the button at this time, arms the APS if under AGS control, resets the computer abort discrete to preclude an erroneous bit in the computer program initiating an abort when the APS is ignited, and provides attitude hold at the end of any APS burn controlled by AGS.
+Abort and Abort Stage push buttons - LM panel 1.
+099:40:40 Stafford (onboard Snoopy): Yes.
+099:40:44 Cernan (onboard Snoopy): Temp Monitor, Landing Radar - screw it! Come on - God dang this son of a bitch!
+The Temp Monitor rotary selector on panel 3 is placed in the LDG Radar position to display the temperature of the landing radar antenna on the Temp gauge also on panel 3. The operating temperature range is between +50° to +150° F (10° to 66° Celsius)
+099:40:48 Stafford (onboard Snoopy): Did you get that Verb 79 or did we do that?
+Verb 79 is used to terminate routine 77. Routine 77 is the landing radar spurious test. It is used to to read out the LR range and velocity data and put this data on the LGC downlink.
+099:40:52 Cernan (onboard Snoopy): It takes so long to do this.
+099:40:54 Stafford (onboard Snoopy): We're down to 5 minutes.
+099:40:55 Cernan (onboard Snoopy): Well, we'll be alright.
+099:40:57 Stafford (onboard Snoopy): We ought to do that before 7 minutes anymore.
+099:41:08 Stafford (onboard Snoopy): Hey, on rendezvous - that could screw us real bad. Get to an Auto maneuver.
+099:41:12 Cernan (onboard Snoopy): Okay, it - it'll be off in a minute.
+099:41:21 Young (onboard): Snoopy, this is Charlie Brown. Over.
+099:41:26 Cernan (onboard Snoopy): Go ahead.
+099:41:27 Stafford (onboard Snoopy): Shit.
+099:41:28 Young (onboard): Roger. Do you have your [garble] on? Over.
+099:41:29 Stafford (onboard Snoopy): Shit! Gene-o, look at that son of a bitch. We're gonna be...
+099:41:36 Cernan (onboard Snoopy): It'll - it'll do it, Tom. Yes, John, we do.
+099:41:39 Stafford (onboard Snoopy): It's taken us 3 minutes. Proceed. Okay.
+099:41:53 Cernan (onboard Snoopy): 0686 - You can give it to me. Real quick.
+099:41:59 Stafford (onboard Snoopy): Okay. Minus 69.90.
+Cernan is requesting a readout of the Verb 06 Noun 86 values given to the crew as part of the DOI PAD at 098:36:02.
+These values are the local vertical Delta-V components of the DOI manoeuvre used to target the AGS expressed in fps (m/s).
+ΔVX, -0069.8 (-21.2)
+ΔVY, -0000.0 (-0.0)
+ΔVZ, -0014.4 (-4.4)
+These are the values given on the DOI PAD. The figures Stafford is passing to Cernan; X, -69.9 fps (21.3 m/s); Y -000.0 fps (0.0 m/s); Z, -14.1 fps (4.3 m/s); are the live values given by the PNGS via the DSKY displays when calling up Verb 06 Noun 86. Cernan requires this information to load the delta-V values into the AGS.
+099:42:03 Cernan (onboard Snoopy): Okay. Go.
+099:42:04 Stafford (onboard Snoopy): Minus 14.1. Key Release. Proceed. Automaneuver.
+Stafford is initiating a PGNS Automaneuver to the final FDAI attitude for the DOI burn. He starts this manoeuvre by keying Proceed when Verb 50 Noun 18 flashes on the DSKY. Once Proceed has been pushed, Verb 06 Noun 18 will appear displaying the final FDAI attitude parameters, so the crew can monitor the Automaneuver and avoid gimbal lock. If it was apparent that this manoeuvre was taking them towards gimbal lock, the crew could stop the Automaneuver by placing the PNGS switch in the ATT Hold position. An Automaneuver is more fuel efficient than a manually controller attitude manoeuvre.
+099:42:16 Cernan (onboard Snoopy): AGS or PGNS and everything squared away?
+099:42:18 Stafford (onboard Snoopy): Yes. Hey, from now on, let's do that at 8 minutes or 9 minutes; that's just cutting it too short.
+099:42:32 Cernan (onboard Snoopy): I agree, that takes a long time.
+099:42:34 Stafford (onboard Snoopy): Just too damn long. Throttle up after 15 seconds.
+The crew are concerned that the AGS alignment and update has taken too long and been completed to close to the DOI manoeuvre time, so they agree to start this procedure earlier for subsequent manoeuvres.
+099:43:15 Cernan (onboard Snoopy): Son of a bitch, babe, I don't like the way this AGS is loading. It ain't loading right.
+099:43:24 Stafford (onboard Snoopy): Okay. 2 minutes. I'm going to the final thing on my PGNS. 02:34. Let's pick up the checklist. Screw the AGS...
+099:43:33 Cernan (onboard Snoopy): I don't like the way the AGS loaded, babe, at all.
+099:43:34 Stafford (onboard Snoopy): Screw the AGS.
+The crew performed the DOI manoeuvre without the AGS monitoring the PGNS performance. Cernan described the problem he was having with the AGS during the post flight crew debriefing.
+Cernan, from the 1969 Technical debrief: "I could not get the proper numbers loaded into the AGS for this particular burn. The reason I could not get the proper numbers loaded in to the AGS for this particular burn was because I failed to put the external Delta-V flag in the AGS, which is address 410, to 5000. I realized this after the burn, so the AGS was not available to monitor the DOI burn. That was a problem induced by the LMP."
+Cernan is referring to the Entry Code associated with the EXT Delta-V address 410 on the AGS DEDA on panel 6. For an external ΔV manoeuvre, this should be entered as 5000 on the DEDA, Data Indicator display. He probably used the entry code 00000, which is used in conjunction with address 410 to enter the ΔV value for LM orbital insertion manoeuvres.
+DEDA, Data Entry Display Assembly - LM panel 6.
+099:43:40 Cernan (onboard Snoopy): Okay.
+099:43:41 Stafford (onboard Snoopy): Got to have my Master Arm, On.
+Stafford is reminding himself he must set the Master Arm on panel 8 to On at the ignition minus 35-second point to enable actuation of any required explosive devices during the DPS DOI manoeuvre.
+099:43:42 Cernan (onboard Snoopy): Okay. 1 minute.
+Countdown time called out is incorrect, Stafford corrects Cernan who is distracted by problems with the AGS.
+099:43:44 Stafford (onboard Snoopy): 2 minutes.
+099:43:45 Cernan (onboard Snoopy): Okay. Can't get it, babe. The AGS is no good.
+099:44:07 Stafford (onboard Snoopy): [Garble] it's 01:53; let it go. Just make the PGNS burn. 01:45, let's go.
+099:44:19 Cernan (onboard Snoopy): Okay. Stab/Control, DECA Power, Closed?
+Closing the Stab/Cont, DECA Power circuit breaker on panel 11, provides power to the descent engine control assembly.
+Stab/Cont, DECA PWR circuit breaker - LM panel 11.
+099:44:20 Stafford (onboard Snoopy): Yes.
+099:44:25 Cernan (onboard Snoopy): Okay. And EPS Inverter Number 1, Closed?
+Closing the EPS Inverter 1 circuit breaker on panel 11, provides DC power to inverter 1 for generation of 115V AC.
+EPS Inverter 1 circuit breaker - LM panel 11.
+099:44:29 Stafford (onboard Snoopy): Go.
+099:44:35 Cernan (onboard Snoopy): Master Arm, On?
+The Master Arm switch on panel 8 is placed in the On position to enable SHe pressurization of the DPS propellants. The explosive valves can now be fired when required.
+099:44:36 Stafford (onboard Snoopy): Got it.
+099:44:38 Cernan (onboard Snoopy): Go to VOX. John can hear us. So he'll know we're burning. John, do you read us?
+099:44:42 Young (onboard): Roger. Loud and clear.
+099:44:43 Cernan (onboard Snoopy): Tom, the AGS is No-Go on this one, babe.
+099:44:46 Young (onboard): The AGS is No-Go?
+099:44:47 Cernan (onboard Snoopy): No, I'm talking to Tom.
+099:45:08 Cernan (onboard Snoopy): Okay, at 35 seconds, Engine Arm to Descent.
+The Engine Arm switch on panel 1, arms the engine selected, in this case the Descent engine, and informs the LGC that this engine is armed.
+099:45:20 Cernan (onboard Snoopy): Tom?
+099:45:21 Stafford (onboard Snoopy): Go.
+099:45:23 Cernan (onboard Snoopy): Tom, I can barely read you.
+099:45:24 Stafford (onboard Snoopy): (Garble.) Is that better?
+099:45:29 Cernan (onboard Snoopy): Just shout into the VOX. Blanks at 35 seconds.
+The DSKY displays go blank at ignition minus 35 seconds for 5 seconds.
+099:45:38 Stafford (onboard Snoopy): Don't back this up with the start button.
+099:45:42 Cernan (onboard Snoopy): Okay, I'll hit Proceed, and I'll start the clock.
+Cernan is confirming he will key Proceed on the DSKY when Verb 99 Noun 40 flashes at TIG minus 5 seconds and that he will start the Event Timer at DPS ignition.
+099:45:51 Stafford (onboard Snoopy): Stand by to Proceed. Tape should be coming Off.
+099:45:57 Cernan (onboard Snoopy): There's a 99!
+PGNS displays a flashing Verb 99 Noun 40 on the DSKY at TIG minus 5 seconds, requesting that the crew push Proceed to confirm they wish to start this DPS maneuver. The three registers on the DSKY at this time are displaying:
+R1: Time from ignition (min/sec)
+R2: Magnitude of velocity to be gained (fps)
+R3: Delta-V accumulated so far (fps)
+099:46:02 Stafford (onboard Snoopy): We're burning, John.
+DOI DPS ignition. As the DPS ignites the DSKY display changes to Verb 06 Noun 40. The three registers on the DSKY at this time are displaying:
+R1: Time from cut-off (min/sec)
+R2: Velocity left to be gained (fps)
+R3: Delta-V accumulated so far (fps)
+The display quickly changes to a flashing Verb 16 Noun 40 with the three registers displaying the same information as above. The DPS ignites at a 11.3 per cent throttle setting.
+099:46:05 Young (onboard): Roger; I see you.
+Young is tracking the LM using the CM optics.
+099:46:08 Stafford (onboard Snoopy): 5, 6...
+099:46:12 Cernan (onboard Snoopy): Stand by, babe.
+099:46:13 Stafford (onboard Snoopy): 9, 11, 12.
+099:46:16 Cernan (onboard Snoopy): [Garble]?
+Stafford advances the DPS throttle to the 40 per cent level for the remainder of the DOI burn.
+099:46:17 Stafford (onboard Snoopy): [Garble]. I've been counting down.
+099:46:20 Cernan (onboard Snoopy): Nice and smooth. 9 seconds, 8 seconds, 4, 3, 2,,,
+099:46:26 Stafford (onboard Snoopy): Mark it.
+DOI DPS cut-off. Burn duration: 27.4 seconds. Delta-V: 71.3 fps (21.7 m/s).
+099:46:28 Cernan (onboard Snoopy): Okay, let's see what we got. Okay, zero on the residuals.
+The DSKY displays a flashing Verb 16 Noun 85 and displays the maneuver residuals in all three axis.
+099:46:33 Stafford (onboard Snoopy): Beautiful.
+099:46:34 Cernan (onboard Snoopy): Okay, let me write that down. Minus 1 - minus point minus 0.1, minus 0.3, and minus 0.5. The burn's over, John.
+The velocity residuals from the DOI burn displayed were expressed in fps (m/s). X, -0.1 (0.03); Y, -0.3 (0.9); Z, -0.5 (0.15). The crew would null the X residual if it was significant, but on this occasion it was to small to require nulling.
+099:46:46 Young (onboard): Roger; good show. Okay, you guys want to do a - go to Simplex B, Data [garble] Simplex A (Voice/RNG) [garble]?
+Young is requesting that the crew of Snoopy configure for VHF ranging.
+099:47:09 Cernan (onboard Snoopy): That's affirm. On your mark.
+099:47:05 Young (onboard): Okay.
+099:47:06 Young (onboard): Mark it.
+099:47:17 Cernan (onboard Snoopy): [Garble].
+099:47:55 Cernan (onboard Snoopy): Rendezvous Radar is Off.
+Stafford (onboard Snoopy): Off?
+099:48:08 Cernan (onboard Snoopy): Okay. T.P., got your Thrust, Off?
+099:48:09 Stafford (onboard Snoopy): Off?
+Cernan is referring to the Engine Arm switch on panel 1.
+099:48:11 Cernan (onboard Snoopy): Engine Arm. Off?
+099:48:15 Stafford (onboard Snoopy): [Garble] Off.
+099:48:16 Cernan (onboard Snoopy): Engine Arm. OFF; Master Arm. Off?
+099:48:24 Stafford (onboard Snoopy): Off.
+099:48:25 Cernan (onboard Snoopy): Master Arm. Off? Got your Rendezvous Radar AC breaker Closed? Pitch down to where you're looking at a 180 - right about there. Tom, you ought to be having them. There's - there's - you're coming up on it right now.
+099:48:52 Young (onboard): Okay. I had you - At 3.81 miles (7.06 km), you were doing 73 feet a second (22.2 m/s).
+099:49:01 Cernan (onboard Snoopy): Okay. Great, John.
+099:49:06 Cernan (onboard Snoopy): Close that. There we go.
+099:49:08 Stafford (onboard Snoopy): Okay.
+099:49:23 Cernan (onboard Snoopy): You got all your radar breakers In. babe? Goddam Master Alarm.
+099:49:32 Stafford (onboard Snoopy): Beautiful burn.
+099:49:35 Young (onboard): Sure looked pretty through the optics.
+099:49:41 Stafford (onboard Snoopy): Are we in VOX?
+099:49:43 Cernan (onboard Snoopy): Well. it's up to you whether you're on VOX or not. No, you're hot to John in this mode, in VHF Ranging.
+099:49:47 Stafford (onboard Snoopy): Oh, yes.
+With VHF Simplex A in Voice/RNG, the crews microphones are live for communications between the two spacecraft.
+099:50:02 Cernan (onboard Snoopy): John. what's your 4-minute mark? Do you have it?
+099:50:05 Young (onboard): Not yet.
+099:50:14 Young (onboard): Okay. at 4.82 miles (8.93 km). I have you at 70 feet per second (21.3 m/s).
+099:50:20 Stafford (onboard Snoopy): Roger...
+099:50:21 Cernan (onboard Snoopy): Okay, fine.
+099:50:22 Stafford (onboard Snoopy): ...we're reading 70 (fps (21.3 m/s)) here.
+099:50:31 Young (onboard): I [garble] you another [garble].
+099:50:48 Cernan (onboard Snoopy): We never did call up Verb 82. We ought to call that up.
+Verb 82 is used to initiate routine 30 to display the current orbital parameters.
+099:50:52 Stafford (onboard Snoopy): Yes. We got plenty of time now.
+099:51:15 Stafford (onboard Snoopy): The DPS did good, didn't it. Just beautiful.
+099:51:21 Cernan (onboard Snoopy): I hope so, babe, because we're going down.
+099:51:24 Stafford (onboard Snoopy): Says what? The 60.5 by 6.8 (nm (97.4 x 10.9 km))? No that's - pardon me, that...
+099:51:32 Cernan (onboard Snoopy): I guess you could pull that Landing Radar breaker, too, if you - if you can.
+The landing radar test for this period is now complete, so the crew have run Verb 79 to stop the LR spurious test, and are now opening the LR circuit breaker on panel 11.
+099:51:37 Stafford (onboard Snoopy): Pulled.
+099:51:46 Cernan (onboard Snoopy): That Sun is wild.
+099:52:04 Stafford (onboard Snoopy): You know what really gets me? The basic vehicles are just beautiful, these little things are just completely - get to you. Just like the [garble] breathing this stuff...
+099:52:14 Young (onboard): It looks now, you guys are slowed to 65 feet a second (19.8 m/s). Does that sound about right? It sounds right to me.
+099:52:21 Cernan (onboard Snoopy): Yes, that sounds right, John.
+099:52:44 Stafford (onboard Snoopy): Shit! Here we go.
+099:52:45 Cernan (onboard Snoopy): Looks like a little bit of an overburn to me.
+099:52:48 Stafford (onboard Snoopy): Shit! That'll take us a little lower.
+099:52:49 Cernan (onboard Snoopy): Did you get - you got that Landing breaker, huh?
+099:52:52 Stafford (onboard Snoopy): Yes.
+099:52:53 Cernan (onboard Snoopy): Huh?
+099:52:54 Stafford (onboard Snoopy): The DSKY finally read minus 0.1.
+099:52:56 Cernan (onboard Snoopy): I - I recorded that.
+099:53:11 Stafford (onboard Snoopy): Okay. Gene-o, give me the time to the phasing burn, and I'll Sync the clock.
+099:53:16 Cernan (onboard Snoopy): Okay. Stand by a half.
+099:53:33 Cernan (onboard Snoopy): Phasing burn time - You might want to write this - Here's the phasing dope - You can be looking - looking at that. I want to - oh, you reset that clock. Okay.
+099:53:38 Stafford (onboard Snoopy): Okay. [Garble]. I'm sorry.
+099:53:39 Cernan (onboard Snoopy): That's right.
+099:53:40 Stafford (onboard Snoopy): Call it. Then get a Verb 82.
+099:53:46 Cernan (onboard Snoopy): God damn that Master Alarm.
+099:53:54 Stafford (onboard Snoopy): We've got over an hour to go to phasing.
+099:53:56 Cernan (onboard Snoopy): How'd SHe pressure do?
+SHe stands for supercritical helium.
+099:53:59 Cernan (onboard Snoopy): Good.
+099:54:00 Stafford (onboard Snoopy): Looks good.
+099:54:01 Cernan (onboard Snoopy): SHe came down.
+The Apollo 10 Mission Reported, states that the measured supercritical helium tank pressure profile was essentially nominal.
+099:54:02 Stafford (onboard Snoopy): Beautiful.
+099:54:25 Cernan (onboard Snoopy): Hello, Charlie Brown; this is Snoopy. Do you read?
+099:54:30 Young (onboard): Yes. Go ahead.
+099:54:32 Cernan (onboard Snoopy): Man, we's getting down among them.
+099:55:07 Cernan (onboard Snoopy): You got that clock counting now?
+099:55:09 Stafford (onboard Snoopy): No, it's over an hour. The phasing burn is at 100:58:25.
+099:55:14 Cernan (onboard Snoopy): I've got that updated right here. 100:58:25. You might want to start getting your clock set up. I'm going to see if there are some addresses I didn't leave out in this god-dang AGS up here.
+099:55:25 Stafford (onboard Snoopy): Okay. We'll get all this stuff off here.
+099:55:34 Cernan (onboard Snoopy): Okay, Tom. I've got to get out those books and find out when the hell...
+099:55:37 Stafford (onboard Snoopy): Did you ever call Verb 82?
+The Verb 82 has given the resultant orbit after the DOI burn.
+099:55:38 Cernan (onboard Snoopy): I called it. We're in 69 - Charlie Brown, we're in a 69.2 - a - 61.2 by 9.2 (113.3 by 17.0 km).
+MSFN tracking refined the post DOI orbit to 60.9 by 8.5 nautical miles (112.8 by 15.7 km).
+099:55:46 Young (onboard): Roger.
+099:55:58 Cernan (onboard Snoopy): How'd the DPS look to you?
+099:55:-- BEGIN LUNAR REV 13
+Day 5, part 17: Snoopy prepares for the main event
+Journal Home Page
+Day 5, part 19: 'We is down among them'

@@ -1,0 +1,1206 @@
+Apollo 15 Flight Journal - Day 4, part 3: The Descent Orbit
+Day 4, part 2: Lunar Orbits 1 & 2
+Journal Home Page
+Day 5, part 1: Waking In the Descent Orbit
+Apollo 15
+Day 4, part 3: The Descent Orbit
+Corrected Transcript and Commentary Copyright © 1998-2026 by W. David Woods and Frank O'Brien. All rights reserved.
+Last updated 2026-01-25
+Index to events
+Descent Orbit Insertion (DOI) manoeuver
+082:39:49 GET
+Rev 3, Acquisition of signal
+083:15:05 GET
+Rev 3, Loss of signal
+084:20:42 GET
+Rev 4, Acquisition of signal
+085:10:26 GET
+TEI-12 contingency manoeuvre PAD
+085:49:09 GET
+Apollo 15 has just gone behind the Moon near the end of their second orbit. While out of contact with Earth, the only planned item is the Descent Orbit Insertion (DOI) burn which is quite critical, so just in case they burn the SPS for slightly too long and lose too much velocity, the Flight Plan includes details of the adjustments they should make if the change in velocity is greater than planned.
+Since LOI, their orbit has measured about 294 by 109 km (159 by 59 nautical miles) with the high point, or apocynthion, occurring near the landing site at Hadley Rille. The DOI burn will occur at this orbit's low point, or pericynthion, on the opposite side of the Moon from Hadley. The burn, which is intended to slow the spacecraft by 213.9 fps (65.2 m/s), will have the effect of dropping the high point until it becomes the orbit's low point of only about 16 kilometres. Since an accurate landing depends on the precision of this velocity change, the crew must adjust for any errors manually. Also, as there is some uncertainty about the shape of the Moon, and considering that some of the mountains adjacent to the landing site rise 3.4 km (1.8 nm) above the plain at Hadley, burning the SPS longer than planned is particularly undesirable. A small overburn of the 24.5-second SPS firing could risk the spacecraft impacting with the lunar surface.
+If the velocity is 1 to 2.2 feet per second under what is desired, the minus-X thrusters would be used to increase the stack's velocity (remember, the docked CSM-LM is facing backwards). As these thrusters impinge upon the LM, they cannot be used for larger velocity corrections. The Flight Plan instructs that if the velocity correction is more than 2.2 feet per second, the entire stack should be turned 180 degrees so that the forward facing engines can be used. Correcting for a velocity between 2.2 and 10 feet per second low can be accomplished using the plus-X thrusters. Corrections larger than 10 feet per second are performed using the SPS.
+In case there is a gross error in the burn which is not picked up by the crew, provision is made for a "bail-out burn". Soon after the DOI burn, the spacecraft is maneuvered into the correct attitude for the bail-out burn should it be needed. Immediately after AOS, Mission Control will use radio tracking information to independently check the geometry of their new orbit. If they are not happy with it they will instruct the crew to carry out the bail-out burn, based on details given at 83:26 in the Flight Plan.
+After a nominal burn, the new pericynthion will actually be about 250 miles to the east, or uprange of Hadley, and this will be the point from which Falcon's descent will eventually commence in a maneuver called Powered Descent Initiation or PDI.
+Although many terms are used for the high and low points in a lunar orbit, such as "apolune" and "perilune" or "aposelene" and "periselene" respectively, the correct terms in this context are "apocynthion" and "pericynthion" because they refer to an orbit around the Moon of a spacecraft that came from Earth as opposed to one that was launched from the lunar surface.
+082:28:06 Scott (onboard): Do you feel all right? You okay?
+082:28:09 Irwin (onboard): [Garble] spacecraft roll [garble].
+082:28:13 Scott (onboard): Okay. [Garble] it up to 10 degrees; [garble] to zero.
+082:28:55 Irwin (onboard): [Garble].
+082:29:00 Worden (onboard): [Garble] 8.
+082:29:02 Irwin (onboard): [Garble] burn [garble].
+082:29:03 Worden (onboard): 159.
+082:29:05 Irwin (onboard): [Garble] junk.
+082:29:13 Worden (onboard): Yes. You're right. Why don't you [Garble]. These are yours.
+082:29:33 Irwin (onboard): [Garble] steady this [garble].
+082:29:35 Scott (onboard): No.
+082:29:58 Irwin (onboard): How much time we got before the burn - l0 minutes?
+082:30:01 Scott (onboard): Ten minutes.
+082:30:02 Worden (onboard): Nine minutes.
+082:30:04 Scott (onboard): Okay. GDC's aligned.
+082:30:07 Irwin (onboard): Do you want to call P40? [Garble]?
+082:30:11 Scott (onboard): Okay. P40.
+082:30:22 Irwin (onboard): Okay. BMAG Mode, three, to Rate 2.
+082:30:26 Scott (onboard): Rate 2.
+082:30:28 Irwin (onboard): Spacecraft Control, CMC, in Auto.
+082:30:30 Scott (onboard): CMC, Auto.
+082:30:31 Irwin (onboard): Pro.
+082:30:34 Scott (onboard): Okay, we'll wait a little here. Maybe we [garble]...
+082:30:36 Irwin (onboard): You got roll align?
+082:30:37 Scott (onboard): Yes. It's all aligned. We're all [garble]...
+082:30:38 Irwin (onboard): GDC and roll? Okay. TVC check and prep. Circuit breakers Stab Control System, all closed on panel 8.
+082:30:43 Scott (onboard): Okay. [Garble] going in. Okay?
+082:30:49 Irwin (onboard): CB SPS. Should be 11 closed.
+082:30:53 Scott (onboard): Okay, 11 closed; Main A is out.
+082:30:55 Irwin (onboard): Okay. You got Delta-VC set.
+082:30:58 Scott (onboard): Delta-VC is set; 208.4.
+082:31:01 Irwin (onboard): EMS FUNCTION, Delta-V.
+082:31:03 Scott (onboard): Delta-V.
+082:31:05 Irwin (onboard): Man Att, three, to Rate Command.
+082:31:06 Scott (onboard): Rate Command.
+082:31:07 Irwin (onboard): Deadband, Min.
+082:31:08 Scott (onboard): Min.
+082:31:09 Irwin (onboard): Rate, Low.
+082:31:10 Scott (onboard): Low.
+082:31:11 Irwin (onboard): Translation Control Power, On.
+082:31:12 Scott (onboard): On.
+082:31:13 Irwin (onboard): SCS TVC, two, to Rate Command.
+082:31:15 Scott (onboard): SCS TVC to Rate Command.
+082:31:19 Irwin (onboard): Delta-VCG to LM/CSM.
+082:31:20 Scott (onboard): LM/CSM.
+082:31:21 Irwin (onboard): TVC Gimbal Drive, Pitch and Yaw, to Auto.
+082:31:23 Scott (onboard): Auto.
+082:31:24 Irwin (onboard): [Garble]. Okay. [Garble].
+082:31:28 Scott (onboard): [Laughter.] Going about it the hard way, maybe.
+082:32:14 Irwin (onboard): Did you [garble]?
+082:32:16 Scott (onboard): Yes.
+082:32:31 Worden (onboard): [Garble]?
+082:32:33 Irwin (onboard): Four jets and 15 seconds.
+082:32:35 Scott (onboard): Four jets, 15 seconds on the ullage. Okay.
+082:32:43 Scott (onboard): Coming up on 7 minutes.
+082:32:50 Scott (onboard): Mark; 7 minutes.
+082:33:09 Irwin (onboard): [Garble].
+082:33:11 Scott (onboard): Right. Well, we're not going to have any overburn.
+082:33:25 Scott (onboard): Okay, Jim. Coming up on 6 minutes.
+082:33:27 Irwin (onboard): Okay.
+082:33:28 Scott (onboard): Start.
+082:33:29 Irwin (onboard): Main Bus Ties coming on.
+082:33:34 Irwin (onboard): TVC Servo Power 1, to AC 1/Main A; 2 to AC 2/Main B.
+082:33:39 Scott (onboard): 1 is AC 1/Main A and 2 is AC 2/Main B.
+082:33:42 Irwin (onboard): Rot Control Power, Normal, two, to AC.
+082:33:45 Scott (onboard): Rot Control Power, two, Normal, AC.
+082:33:47 Irwin (onboard): Rot Control Power Direct, two, Off.
+082:33:49 Scott (onboard): Direct, two, Off.
+082:33:51 Irwin (onboard): BMAG Mode, three to Att 1/Rate 2.
+082:33:53 Scott (onboard): BMAG Mode, three of them, to Att 1/Rate 2.
+082:33:56 Irwin (onboard): Spacecraft Control, SCS.
+082:33:57 Scott (onboard): SCS.
+082:33:59 Irwin (onboard): RHC number 2, armed.
+082:34:01 Scott (onboard): RHC number 2, armed.
+082:34:03 Irwin (onboard): [Garble] at 5.
+082:34:06 Scott (onboard): Okay.
+082:34:32 Scott (onboard): Okay. Let's go ahead.
+082:34:33 Irwin (onboard): Okay. Gimbal Motors Pitch 1 and Yaw 1, on.
+082:34:36 Scott (onboard): Coming on.
+082:34:38 Irwin (onboard): 1, 2.
+082:34:41 Scott (onboard): Okay.
+082:34:42 Irwin (onboard): Verify trim control and set.
+082:34:44 Scott (onboard): Okay. Verify the trim and set at 1.68 and minus .55. Verified.
+082:34:53 Irwin (onboard): Verify MTVC.
+082:34:56 Scott (onboard): MTVC.
+082:35:06 Scott (onboard): Verified.
+082:35:07 Irwin (onboard): Spacecraft Control, CMC.
+082:35:08 Scott (onboard): CMC.
+082:35:09 Irwin (onboard): THC, clockwise. And verify no MTVC.
+082:35:12 Scott (onboard): Clockwise.
+082:35:16 Irwin (onboard): Getting roll out of that.
+082:35:19 Scott (onboard): No MTVC.
+082:35:20 Irwin (onboard): Secondary TVC check. Gimbal Motors Pitch 2 and Yaw 2, on.
+082:35:24 Scott (onboard): Pitch 2 and Yaw 2 coming on.
+082:35:26 Irwin (onboard): 2 - on. Set GPI trim.
+082:35:36 Scott (onboard): Okay.
+082:35:37 Irwin (onboard): Verify MTVC.
+082:35:43 Scott (onboard): Verified.
+082:35:44 Irwin (onboard): THC neutral. Verify no MTVC.
+082:35:48 Scott (onboard): No MTVC.
+082:35:49 Irwin (onboard): Verify GPI returns to zero, zero.
+082:35:52 Scott (onboard): Zero, zero.
+082:35:53 Irwin (onboard): Rot Control Power, Normal, two, to AC/DC.
+082:35:57 Scott (onboard): AC/DC.
+082:35:58 Irwin (onboard): Rot Control Power, Direct, two, to Main A/Main B.
+082:36:01 Scott (onboard): Direct, Main A/Main B.
+082:36:02 Irwin (onboard): BMAG Mode, three, to Rate 2.
+082:36:04 Scott (onboard): BMAG Mode, three, to Rate 2.
+082:36:06 Irwin (onboard): Pro. [Garble].
+082:36:08 Scott (onboard): Okay. [Garble].
+082:36:18 Irwin (onboard): Okay?
+082:36:20 Scott (onboard): That's okay. Yes. Looks good.
+082:36:22 Irwin (onboard): Okay. Next...
+082:36:23 Scott (onboard): Okay?
+082:36:24 Irwin (onboard): ...to BMAG Mode...
+082:36:25 Scott (onboard): Ready?
+082:36:26 Irwin (onboard): ...three, to - Att 1/Rate 2.
+082:36:28 Scott (onboard): Att 1/Rate 2. Okay?
+082:36:34 Irwin (onboard): Let's see, if I remember, the next line is Enter. Yes. Yes, we're right there. [Garble].
+082:36:49 Scott (onboard): Yes.
+082:36:53 Irwin (onboard): Okay. FDAI Scale, 5/5.
+082:36:55 Scott (onboard): 5/5.
+082:36:56 Irwin (onboard): Rate, High.
+082:36:57 Scott (onboard): Rate, High.
+082:36:59 Irwin (onboard): Update the DET, if necessary.
+082:37:04 Scott (onboard): [Garble] we're right on it.
+082:37:06 Irwin (onboard): Okay. Helium Valves are Auto; N2 A and B are good at 2,500. Okay, [garble] are minus 2 - you get Delta-V Thrust B to Normal.
+082:37:23 Scott (onboard): Roger.
+082:37:31 Scott (onboard): Let's get this [garble] here.
+082:37:41 Worden (onboard): [Garble] probably [garble] and follow if you can...
+082:37:44 Irwin (onboard): Right. Hey, let me do the...
+082:37:49 Scott (onboard): Okay; 2 minutes.
+082:37:51 Irwin (onboard): Okay. Delta-V Thrust B to Normal.
+082:37:52 Scott (onboard): Delta-V Thrust B to Normal.
+082:37:56 Irwin (onboard): THC, armed.
+082:37:58 Scott (onboard): THC, armed.
+082:38:00 Irwin (onboard): RHC, both armed.
+082:38:02 Scott (onboard): Both armed.
+082:38:20 Irwin (onboard): Stand by for minus 35.
+082:38:22 Scott (onboard): Okay, that's 35 to go.
+082:39:09 Scott (onboard): Okay, it looks like we're coming up to average g.
+082:39:11 Irwin (onboard): Yes.
+082:39:13 Scott (onboard): [Cleared throat.]
+082:39:16 Irwin (onboard): Average g is on.
+082:39:19 Scott (onboard): Okay, standing by for a 15-second [garble].
+082:39:22 Irwin (onboard): EMS Mode, Normal.
+082:39:23 Scott (onboard): Normal.
+082:39:35 Worden (onboard): Ullage.
+082:39:40 Scott (onboard): Okay. Go for the burn?
+082:39:41 Worden (onboard): You're Go.
+082:39:46 Scott (onboard): Ready for the Pro.
+082:39:50 Worden (onboard): B valves.
+082:39:51 Scott (onboard): B valves.
+082:39:52 Irwin (onboard): Okay. The clock is running.
+082:39:56 Worden (onboard): Oh, she goes.
+082:39:59 Scott (onboard): Okay.
+082:40:05 Irwin (onboard): 10, 9, 8, 7, 6, 5, 4, 3, 2, 1...
+082:40:14 Worden (onboard): Zero; Thrust off; automatic. Gimbal motors.
+082:40:21 Irwin (onboard): Stand by, Al. 1, 2, 3, 4.
+082:40:30 Worden (onboard): You don't trim?
+082:40:31 Scott (onboard): Uh-huh.
+082:40:32 Worden (onboard): ...took us to within 1? Good. Now TVC...
+082:40:36 Irwin (onboard): TVC Servo Power 1 and 2, Off.
+082:40:39 Worden (onboard): Off.
+082:40:40 Irwin (onboard): Main Bus Ties coming Off.
+082:40:41 Worden (onboard): Roger.
+082:40:48 Worden (onboard): [Garble] burns to within 1 foot per second.
+082:40:51 Scott (onboard): Okay.
+082:40:52 Irwin (onboard): Pressure's down.
+082:40:53 Worden (onboard): Pressure's still coming [garble] down.
+082:40:57 Irwin (onboard): [Garble].
+082:41:02 Worden (onboard): Okay, Jim.
+082:41:03 Irwin (onboard): Okay, you got everything?
+082:41:05 Worden (onboard): Let's clean them up.
+082:41:06 Irwin (onboard): Okay, EMS Function's off.
+082:41:07 Worden (onboard): Off.
+082:41:08 Irwin (onboard): EMS Mode, Standby.
+082:41:09 Worden (onboard): Standby.
+082:41:10 Irwin (onboard): RHC and THC locked.
+082:41:11 Worden (onboard): Locked.
+082:41:12 Irwin (onboard): Deadband, Max.
+082:41:13 Worden (onboard): Max.
+082:41:14 Irwin (onboard): Translation Control Power, Off.
+082:41:15 Worden (onboard): Off.
+082:41:16 Irwin (onboard): Rot Control Power, Direct, Off.
+082:41:18 Worden (onboard): TWO - that's two Off.
+082:41:20 Irwin (onboard): BMAG Mode, three, to Rate 2.
+082:41:21 Worden (onboard): Rate 2.
+082:41:22 Irwin (onboard): CB, Direct Ullage, two, open.
+082:41:22 Worden (onboard): Direct Ullage, open.
+082:41:26 Irwin (onboard): CB, SPS Pitch 1 and Yaw 1, open.
+082:41:29 Worden (onboard): Pitch 1, Yaw 1, open.
+082:41:30 Irwin (onboard): PCM Bit Rate going Low.
+082:41:32 Worden (onboard): A and B also open.
+082:41:34 Scott (onboard): [Garble] by 10 miles.
+082:41:44 Irwin (onboard): Let's see [garble]. That's got to be Tsiolkovsky.
+082:41:47 Worden (onboard): [Garble] overburned just a little bit, but the little [garble] was 10 seconds short.
+082:41:52 Scott (onboard): [Garble] second burst, and we overburned just a bit.
+082:42:09 Irwin (onboard): Okay, I'm going to go down and [garble] up the SIM bay here.
+082:42:23 Scott (onboard): Look at this [garble].
+082:42:26 Worden (onboard): See where it says 2 5 [garble] 25 [garble].
+082:42:37 Worden (onboard): Okay, let's see what it says here.
+082:42:38 Scott (onboard): Okay.
+082:42:58 Scott (onboard): You know what the [garble], don't you? [Garble].
+082:43:01 Worden (onboard): What?
+082:43:02 Scott (onboard): [Garble] seconds to go. Probably [garble] and [garble]. 10 seconds.
+082:43:08 Worden (onboard): That's right. We did [garble] over.
+082:43:10 Scott (onboard): Yes. We did - especially when [garble] getting [garble].
+082:43:16 Worden (onboard): [Garble] I could - I could tell [garble] - not [garble] on.
+082:43:21 Scott (onboard): Yes.
+082:43:22 Worden (onboard): I thought about that, you know?
+082:43:23 Scott (onboard): Yes. Yes.
+082:43:24 Worden (onboard): It was just right after [garble].
+082:43:25 Scott (onboard): I could - I could see your hand start to go. And I looked at the DSKY and looked up, and then I could see it was going to shut off. But I could see your hand - you were - you were waiting for it. I knew I wasn't going to be more than half a second after.
+082:43:35 Worden (onboard): Yes. That - that's pretty close.
+082:43:36 Scott (onboard): Yes.
+082:43:37 Worden (onboard): But you could see it - I could see when (cleared throat) when it automatically shut down before I could [garble].
+082:43:44 Scott (onboard): Oh, yes.
+082:43:46 Worden (onboard): Well, you know the ball valve actually opened up [garble] like that [garble]. And I usually...
+082:43:52 Scott (onboard): Yes.
+082:43:53 Worden (onboard): ...can't see that. I started to watch the [garble] PC started [garble].
+082:44:00 Scott (onboard): [Garble] shut down [garble].
+082:44:03 Worden (onboard): [Garble] I know what you mean...
+082:44:04 Scott (onboard): [Garble].
+082:44:05 Worden (onboard): Yes, I know. I keep telling them it's going to be ...
+082:44:12 Scott (onboard): Oh yes. Right [garble] nothing like a [garble], wouldn't you say?
+082:44:23 Worden (onboard): Yes. Okay. [Garble]. Verb [garble] get it in [garble].
+082:44:26 Scott (onboard): All right. What do you want to do?
+082:44:29 Worden (onboard): [Garble] a [garble]. [Garble]?
+082:44:38 Scott (onboard): Yes. Yes. [Garble].
+082:44:54 Worden (onboard): [Garble].
+082:44:56 Scott (onboard): Yes. Oh, here comes [garble] That terminator is just like something out of the movies.
+082:45:11 Worden (onboard): Yes. [Garble]...
+082:45:12 Scott (onboard): I mean it's just a - just a strip all the way across.
+082:45:15 Irwin (onboard): Yes, boy.
+082:45:18 Scott (onboard): Hold your breath on this one, Jim?
+082:45:21 Irwin (onboard): What in the hell would you [garble]?
+082:45:25 Scott (onboard): Yes. Yes, but I wouldn't say it [garble].
+082:45:34 Irwin (onboard): Oh, [garble]. [Garble].
+082:45:38 Scott (onboard): Huh?
+082:45:39 Irwin (onboard): Do you know what we have to do yet?
+082:45:41 Scott (onboard): Yes. [Garble].
+082:45:45 Irwin (onboard): Gee. This is [garble]. We're not even down in the [garble].
+082:45:49 Scott (onboard): [Laughter.]
+082:45:51 Irwin (onboard): Wait until we get down in the [garble], then we're [garble].
+082:45:54 Scott (onboard): 240,000 miles and [garble] [laughter].
+082:45:57 Worden (onboard): What do you want?
+082:45:58 Scott (onboard): [Laughter.]
+082:45:59 Irwin (onboard): [Garble] you know, but [garble]...
+082:46:00 Worden (onboard): You want me to put you on the surface?
+082:46:02 Scott (onboard): [Laughter.]
+082:46:03 Irwin (onboard): [Garble]...
+082:46:04 Scott (onboard): Why don't you, Al? [Laughter.]
+082:46:05 Irwin (onboard): ...[garble]
+082:46:06 Scott (onboard): That's true [laughter].
+082:46:08 Irwin (onboard): [Garble]?
+082:46:09 Scott (onboard): Yes, that's right [laughter].
+082:46:11 Irwin (onboard): [Garble]...
+082:46:12 Scott (onboard): No. I want to be safe [laughter].
+082:46:13 Irwin (onboard): [Garble].
+082:46:16 Scott (onboard): Yes, you're right, boy, you're right. [Garble].
+082:46:24 SC [Yawn.]
+082:46:26 Scott (onboard): [Garble]?
+082:46:28 Irwin (onboard): That's right.
+082:46:29 Scott (onboard): Go on to sleep, Al.
+082:46:30 Irwin (onboard): [Garble].
+082:46:31 Scott (onboard): [Garble] I think you're about ready for bed.
+082:46:55 Worden (onboard): [Garble] P52.
+082:46:57 Scott (onboard): No.
+082:46:58 Irwin (onboard): Yes. [Garble].
+082:47:00 Worden (onboard): [Garble].
+082:47:01 Irwin (onboard): Let's see if we can't help Al a little bit.
+082:47:03 Scott (onboard): Sure. Let's [garble].
+082:47:06 Worden (onboard): No. [Garble].
+082:47:10 Scott (onboard): If you're going to be operating this [garble] for 3 days, we ought to try and set up a system to square it away.
+082:47:13 Worden (onboard): [Garble].
+082:47:15 Irwin (onboard): Yes. [Garble].
+082:47:16 Worden (onboard): [Garble].
+082:47:17 Irwin (onboard): [Garble].
+082:47:22 Worden (onboard): [Garble], [garble], and tomorrow night [garble], except most of those pictures would be in the open. [Garble] pictures of the lunar surface. I think it'll probably [garble] a couple of days [garble].
+082:47:37 Scott (onboard): I think so, too.
+082:47:38 Worden (onboard): [Garble] situation [garble], fill it up, and [garble].
+082:47:48 Scott (onboard): Yes.
+082:47:49 Worden (onboard): You really need to do that. You can't just [garble].
+082:47:58 Irwin (onboard): If you're at all worried about the Flight Plan, [garble].
+082:48:05 Worden (onboard): Hey, that looks black. Wouldn't you say that's black?
+082:48:09 Scott (onboard): I'd say it's a dark gray.
+082:48:11 Irwin (onboard): There's something up here that's dark gray?
+082:48:13 Scott (onboard): Well, this looks like it's [garble].
+082:48:20 Irwin (onboard): Man, it already looks like we're lower. Whoo.
+082:48:25 Worden (onboard): [Garble] looks black over there.
+082:48:29 Scott (onboard): Hey, that's right. It looks real dark way down there.
+082:48:33 Worden (onboard): [Garble].
+082:48:35 Irwin (onboard): They say then it looks like you're just going to dive.
+082:48:38 Scott (onboard): It sure does.
+082:48:39 Irwin (onboard): [Garble] going at 50 feet per second.
+082:48:41 Scott (onboard): Yes, siree-bob. Hey, look at that big mound over here, son of a gun. Hey, hey, check the mound [garble] over here.
+082:48:51 Irwin (onboard): Oh, yes?
+082:48:53 Worden (onboard): That's Van De Graaff.
+082:48:54 Irwin (onboard): That's bigger than Van De Graaff.
+082:48:55 Scott (onboard): The one right under us?
+082:48:56 Worden (onboard): No, the one just out there at 11 o'clock.
+082:48:58 Scott (onboard): Oh, yes.
+082:48:59 Worden (onboard): The long - elongate one. That's Van De Graaff. And just out in the distance there, off to the left is - is the Mare Ingen-u-ity.
+Rev 3 begins at about 080:41.
+082:49:12 Scott (onboard): Oh, yes. [Garble] to the left?
+082:49:14 SC (Yawn)
+082:49:15 Worden (onboard): That's [garble]. It's just as [garble].
+082:49:16 Irwin (onboard): [Garble] mountain's [garble], and the [garble] mountain's [garble].
+082:49:19 Scott (onboard): Whoo-ho-ho! Oh, ho, no. [Laughter.]
+082:49:23 Irwin (onboard): He's already [garble]. Hey, what do we - what do we have to do?
+082:49:28 Scott (onboard): Hold on a minute.
+082:49:29 Irwin (onboard): [Garble]?
+082:49:30 Scott (onboard): Roger. We already look low, and we got 180 degrees to go, babe.
+082:49:39 Irwin (onboard): What time do we [garble]?
+082:49:41 Worden (onboard): Another 25 minutes.
+082:49:43 Irwin (onboard): Holy cow.
+082:49:47 Scott (onboard): Hey, you can [garble]. It's a great place to take a bunch of pictures of the - of the [garble] and all that. We ought to do that [garble].
+082:50:01 Worden (onboard): Look at that [garble] down there, underneath us. About [garble]. [Garble] there.
+082:50:08 Irwin (onboard): [Garble].
+082:50:17 Scott (onboard): Well, old buddy, I guess that's all very [garble].
+082:50:21 Irwin (onboard): Yes.
+082:50:22 Worden (onboard): Is this [garble] rille that - or is this a rille?
+082:50:28 Scott (onboard): What?
+082:50:29 Worden (onboard): This [garble] flat piece we're coming up on.
+082:50:30 Irwin (onboard): No.
+082:50:31 Scott (onboard): Hey, no, that's that rille I was talking about before.
+082:50:32 Irwin (onboard): Yes, Al.
+082:50:33 Scott (onboard): Yes. This one [garble] here. [Garble] first time [garble]? Where is that crater?
+082:50:39 Worden (onboard): We ought to get a picture of that [garble].
+082:50:42 Scott (onboard): [Garble] reading?
+082:50:45 Worden (onboard): [Garble] 08. It's close to Kepler.
+082:50:49 Irwin (onboard): It almost looks like it's a [garble] feature rather than a rille.
+082:50:52 Scott (onboard): The one we're going over right now?
+082:50:54 Irwin (onboard): Yes.
+082:50:55 Scott (onboard): Yes. Who's got the 80? Is it CMP?
+082:50:58 Irwin (onboard): I'm looking.
+082:51:05 Worden (onboard): See out here at 10 o'clock, Dave?
+082:51:07 Scott (onboard): Yes. I do.
+082:51:08 Worden (onboard): That's the one we picked up on the map, we called [garble].
+082:51:11 Scott (onboard): The rille?
+082:51:12 Worden (onboard): Yes, because it just kind of - slopes on the inside; looks like most of the [garble] turns up even though there isn't any rille.
+082:51:21 Scott (onboard): [Garble].
+082:51:23 Irwin (onboard): Okay, Al. Here's the - the 80.
+082:51:35 Scott (onboard): I don't [garble]...
+082:51:36 Irwin (onboard): You'll get a much better picture from this attitude.
+082:51:38 Scott (onboard): Is that right?
+082:51:44 Irwin (onboard): Just like a low-level flight.
+082:51:54 Irwin (onboard): [Garble] this is really [garble].
+082:51:56 Worden (onboard): We must be [garble] here.
+082:51:59 Scott (onboard): Oh, what's the [garble]? How much time we got before [garble]?
+082:52:02 Worden (onboard): [Garble] showing 63 and 1 [garble].
+082:52:09 Scott (onboard): [Garble] use the 250 or do you want to go to...
+082:52:11 Worden (onboard): Let me get - let me get one here with the 250. [Garble].
+082:52:23 Irwin (onboard): [Garble], Dave?
+082:52:25 Scott (onboard): [Garble].
+082:52:57 Irwin (onboard): Yes, sir! [Garble].
+082:52:39 Worden (onboard): That was a [garble] continuous [garble].
+082:52:55 Irwin (onboard): [Garble] low.
+082:53:00 Worden (onboard): [Garble].
+082:53:05 Scott (onboard): You know, we are going [garble].
+082:53:23 Scott (onboard): Look at that.
+082:53:24 Irwin (onboard): [Garble].
+082:53:26 Scott (onboard): It's really [garble].
+082:53:28 Worden (onboard): [Garble]...
+082:53:31 Scott (onboard): Yes...
+082:53:32 Irwin (onboard): ...[garble]
+082:53:33 Worden (onboard): ...[garble]
+082:53:36 Scott (onboard): Yes.
+082:53:40 Worden (onboard): Wouldn't that be something? [Garble] right over there [Garble].
+082:53:57 Worden (onboard): [Garble].
+082:54:05 Scott (onboard): Did you ever check those photo things for me, Jim?
+082:54:07 Irwin (onboard): Yes. [Garble]?
+082:54:09 Scott (onboard): Quite sure. Yes. There should be two that were like that.
+082:54:15 Irwin (onboard): Just a minute here.
+082:54:22 Irwin (onboard): Well, you're looking for [garble].
+082:54:27 Scott (onboard): Sea of Ingenuity?
+082:54:29 Irwin (onboard): Yes; 5.6 at a 250th.
+082:54:31 Scott (onboard): Okay.
+082:54:32 Irwin (onboard): And then at Keyhole, you look [garble]. And The Bright One, you look to the left.
+082:54:59 Scott (onboard): You know, I think this is [garble] down here. Look at [garble]...
+082:55:00 Worden (onboard): [Garble].
+082:55:02 Scott (onboard): ...[garble] We'll get a couple of pictures here.
+082:55:10 Scott (onboard): [Garble] though.
+082:55:30 Scott (onboard): You got a roll in there?
+082:55:31 Worden (onboard): Yes. P [garble].
+082:55:33 Scott (onboard): [Garble].
+082:56:07 Scott (onboard): You might say some of those craters are really ...
+082:56:11 Worden (onboard): [Garble] navigation is a little more difficult down at this altitude.
+082:56:14 Scott (onboard): Huh?
+082:56:15 Worden (onboard): Navigation is more difficult at this altitude.
+082:56:17 Scott (onboard): [Garble].
+082:56:20 Worden (onboard): Low-level navigation.
+082:56:21 Scott (onboard): Oh, I don't know.
+082:56:24 Worden (onboard): Did you get yourself located?
+082:56:27 Scott (onboard): [Garble] pretty well - set.
+082:56:36 Scott (onboard): [Garble].
+082:56:39 Irwin (onboard): At least you can follow them, now that we're going forward.
+082:56:44 Worden (onboard): You should be coming upon Gagarin [garble].
+082:56:53 Scott (onboard): There's sure a good-sized one off to the north.
+082:56:58 Irwin (onboard): Well, Gagarin is very shallow, oval.
+082:57:03 Scott (onboard): See that? Off to the north?
+082:58:15 Scott (onboard): Have you see it yet? Jim apparently has the right idea.
+082:58:24 Irwin (onboard): Yes.
+082:58:25 Worden (onboard): [Garble].
+082:58:42 Scott (onboard): Well, it's in the right attitude. Can you see anyhing over there, Jim?
+082:58:45 Irwin (onboard): Yes. [Garble] all right.
+082:58:50 Worden (onboard): It looks that way, but it sure is [garble].
+082:58:52 Scott (onboard): Watch the TV.
+082:59:13 Scott (onboard): Look for the [garble] one over on the left side.
+082:59:15 Worden (onboard): Yes.
+082:59:16 Scott (onboard): Should come over the horizon.
+082:59:18 Irwin (onboard): [Garble].
+082:59:20 Scott (onboard): [Garble].
+082:59:22 Irwin (onboard): No, I [garble].
+082:59:26 Worden (onboard): Yes. That is the central peak of Tsiolkovsky, I bet you 10 dollars.
+082:59:34 Scott (onboard): Really?
+082:59:35 Worden (onboard): Yes.
+082:59:36 Scott (onboard): And that is...
+082:59:37 Worden (onboard): [Garble]...
+082:59:38 Scott (onboard): ...sort of a big [garble].
+082:59:39 Worden (onboard): [Garble] in the rim.
+082:59:40 Irwin (onboard): [Garble]?
+082:59:41 Scott (onboard): Huh?
+082:59:42 Worden (onboard): No.
+082:59:51 Scott (onboard): Think there's [garble] in the [garble]?
+082:59:54 Worden (onboard): Well, there's - Yes, there's parts of it that are very small, such as the peak.
+082:59:58 Irwin (onboard): But I guess it doesn't really strike home until you get down to something like this [garble].
+Flight Plan page 3-089.
+083:00:05 Scott (onboard): Good idea. I'll [garble].
+083:00:13 Worden (onboard): [Garble].
+083:00:16 Scott (onboard): Oh, boy. I'll never sleep [garble] open.
+083:00:21 Irwin (onboard): No, that's a pretty good theory, though.
+083:00:22 Worden (onboard): Yes, I want to - I want to wade through [garble] - go through this.
+083:00:26 Scott (onboard): [Garble].
+083:00:28 Worden (onboard): Yes. Yes, [garble].
+083:00:41 Worden (onboard): Okay. We got two developing [garble] over there.
+083:00:54 Scott (onboard): God damn, that's just like being on a poor bus!
+083:00:56 Worden (onboard): [Laughter.] [Garble].
+083:00:57 Scott (onboard): ...
+083:00:58 Worden (onboard): Hard enough?
+083:00:59 Scott (onboard): Dark?
+083:01:00 Irwin (onboard): Yes.
+083:01:01 Worden (onboard): [Garble]. Up on the ridge line.
+083:01:04 Scott (onboard): I think that's shadows, isn't it?
+083:01:08 Irwin (onboard): I don't think that's shadow [garble].
+083:01:12 Scott (onboard): [Garble] good idea. [Garble].
+083:01:15 Worden (onboard): Yes.
+083:01:37 Scott (onboard): Oops, over here [garble].
+083:01:40 Worden (onboard): What the hell is it?
+083:01:41 Scott (onboard): Two old compasses.
+083:01:51 Worden (onboard): Oh, good grief [garble].
+083:01:57 Irwin (onboard): Oh, man. That sure is a great landmark.
+083:02:08 Worden (onboard): Isn't it?
+083:02:09 Scott (onboard): [Garble] supposed to do that, you know where we are.
+083:02:10 Worden (onboard): Yes. Boy, you sure got a good attitude, Dave. It [garble].
+083:02:17 Scott (onboard): Isn't it beautiful!
+083:02:18 Worden (onboard): No, I couldn't - I couldn't have picked a better one myself.
+083:02:30 Scott (onboard): I'm trying here to figure out where those two [garble] are.
+083:02:33 Worden (onboard): They should be...
+083:02:48 Worden (onboard): [Garble] - Look at that - that one right there. Right there.
+083:02:52 Scott (onboard): [Garble].
+083:02:53 Irwin/Worden (onboard): Whoa.
+083:02:54 Worden (onboard): Now look out.
+083:02:55 Scott (onboard): Oh, yes. Hey, yes. That's Mount [garble].
+083:02:56 Worden (onboard): Yes, yes.
+083:02:58 Scott (onboard): [Garble]. Say, you can really see, can't you?
+083:03:49 Worden (onboard): Light's on.
+083:04:14 Worden (onboard): Why don't you take you some pictures?
+083:04:15 Irwin (onboard): Okay.
+083:04:20 Worden (onboard): Let's see, we're right at [garble]. No, let's see. [Garble].
+083:04:27 Scott (onboard): We're heading just a little bit to the ri - to the left of our Flight Plan.
+083:04:31 Worden (onboard): What?
+083:04:32 Scott (onboard): And maybe a few deg - around the curve, there.
+083:04:34 Worden (onboard): Curve?
+083:04:35 Scott (onboard): Yes, don't you...
+083:04:36 Worden (onboard): You want to show me it?
+083:04:37 Scott (onboard): Yes. My pleasure. Look. There it is. Look.
+083:04:43 Worden (onboard): Maybe you should [garble] on the end there.
+083:04:45 Scott (onboard): Oh, nothing.
+083:04:46 Worden (onboard): [Garble]. Everyone says [garble] that you're not allowed to do it, but you have to do it if [garble].
+083:05:10 Worden (onboard): Does it look like anything?
+083:05:11 Scott (onboard): Yes.
+083:05:48 Worden (onboard): [Garble].
+083:05:55 Scott (onboard): Move the fans over,
+083:05:58 Worden (onboard): Will the [garble]?
+083:05:59 Scott (onboard): Yes.
+083:06:01 Worden (onboard): Okay.
+083:06:04 Irwin (onboard): Hey, you guys really [garble].
+083:06:07 Worden (onboard): Yes.
+083:06:08 Irwin (onboard): That's when you [garble]. You can feel it.
+083:06:10 Scott (onboard): Yes.
+083:06:12 Worden (onboard): [Garble] [coughing] [garble].
+083:06:15 Scott (onboard): What?
+083:06:16 Worden (onboard): [Garble] that long.
+083:06:18 Irwin (onboard): You going to be able to look at it through your sextant? Did you...
+083:06:22 Worden (onboard): I'm not sure.
+083:06:24 Scott (onboard): [Garble].
+083:06:30 Irwin (onboard): [Garble].
+083:06:35 Worden (onboard): Yes, do you mean we got to go up through the [garble]?
+083:06:37 Scott (onboard): If you're not going to make it?
+083:06:38 Worden (onboard): No, I - I figured you'd rather do it.
+083:06:40 Scott (onboard): No, it's up to you. You do whatever you'd like.
+083:06:41 Worden (onboard): No. Oh, no, I'm not going [garble]...
+083:06:44 Scott (onboard): Okay, very good.
+083:06:45 Worden (onboard): [Garble]...
+083:06:46 Scott (onboard): That's right.
+083:06:47 Worden (onboard): [Garble] you got to give a [garble] that you'll get over it. You - you do everything you want to do.
+083:06:49 Irwin (onboard): [Garble].
+083:06:50 Scott (onboard): [Laughter.]
+083:06:51 Worden (onboard): I - If I'm in your way, just [garble] it down.
+083:06:53 Scott (onboard): Oh, sure.
+083:06:54 Irwin/Worden (onboard): [Laughter.]
+083:06:55 Worden (onboard): [Garble]...
+083:06:56 Irwin (onboard): You're too hard for him. You be easy on him, or he'll [garble]...
+083:06:59 Worden (onboard): Oh, yes. Very good.
+083:07:08 Scott (onboard): Where is [garble], by the way?
+083:07:10 Worden (onboard): It's out in the middle of [garble].
+083:07:12 Scott (onboard): Is it really?
+083:07:13 Worden (onboard): Yes.
+083:07:14 Scott (onboard): The same crater as we were [garble]?
+083:07:15 Worden (onboard): Yes.
+083:07:16 Scott (onboard): The same patterns as [garble] Crater?
+083:07:18 Worden (onboard): As a matter of fact, I could have gone through [garble].
+083:07:20 Scott (onboard): Why don't you do that?
+083:07:21 Worden (onboard): Okay.
+083:07:22 Scott (onboard): That'd give us an idea of [garble]. [Garble] what you're going to be looking at. [Garble] - you know you [garble].
+083:07:31 Worden (onboard): Well, I tell you, it's not a very - it's not a very colorful crater.
+083:07:41 Scott (onboard): [Garble], Jim. Did you see [garble] over there?
+083:07:45 Irwin (onboard): Yes.
+083:07:47 Worden (onboard): It's sure going to be [garble] stick to the time line. Yes, that would.
+083:07:54 Irwin (onboard): One-half hour.
+083:07:56 Scott (onboard): [Garble].
+083:07:58 Worden (onboard): Hey, you [garble].
+083:08:05 Irwin (onboard): You got a [garble] space.
+083:08:09 Worden (onboard): Yes; can't even see the horizon.
+083:08:13 Scott (onboard): Yes.
+083:08:14 Worden (onboard): [Garble] in the Orb-rate. [Garble] get back to the [garble].
+083:08:32 Scott (onboard): [Garble] Verb 67.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 83 hours, 9 minutes. We're about a minute, 45 seconds away from the no-burn acquisition time. We'll stay up through that period, and up to the normal time. We're about 5 and a half minutes away from the nominal AOS time given a DOI burn. We do have an announcement. Astronaut Jack Schmitt who is the backup Lunar Module Pilot for Apollo 15, will hold a news conference at 8 am tomorrow in the MSC main auditorium. Subject will be the Apollo 15 EVAs on the lunar surface.
+We've passed the no-burn AOS time now, with no signal. 3 minutes, 30 seconds away from AOS on a nominal burn.
+083:09:50 Scott (onboard): [Garble] we can get to this [garble]. The - Can you move that thing?
+083:09:58 Worden (onboard): Yes.
+083:09:59 Scott (onboard): You really don't need [garble].
+083:10:00 Worden (onboard): Yes.
+083:10:01 Scott (onboard): Isn't that the truth? You really don't need it.
+083:10:22 Scott (onboard): There it is.
+083:10:28 Worden (onboard): [Garble].
+083:10:37 Scott (onboard): Wait a minute. [Garble].
+083:10:43 Worden (onboard): Yes, well, even that [garble]. That's why we had trouble finding anything at all that we could use, because there isn't anything.
+083:10:49 Scott (onboard): Nothing to change it over here at all. Nothing to change it, Al, [garble] that we could use.
+083:10:55 Worden (onboard): How about a - Let's see, what kind of [garble] we use. 25.958?
+083:11:01 Scott (onboard): Uh-huh. And we've got [garble].
+083:11:02 Worden (onboard): Yes, and you got [garble]. Five point [garble] here. [Garble].
+083:11:14 Worden (onboard): [Garble].
+083:11:20 Worden (onboard): [Garble] here. [Garble].
+083:11:23 Scott (onboard): Huh?
+083:11:24 Worden (onboard): [Garble] .3 [garble].
+083:11:33 Scott (onboard): [Garble].
+083:11:35 Worden (onboard): [Garble].
+083:11:37 Scott (onboard): [Garble].
+083:11:39 Worden (onboard): Yes.
+083:11:41 Scott (onboard): There'd be a lot more.
+083:11:44 Worden (onboard): Yes.
+083:12:03 Worden (onboard): [Garble]. And - I'm going to push these back in.
+083:12:21 Scott (onboard): [Garble] to be all set up with your G&C Checklist [garble] GDC Align.
+083:12:26 Worden (onboard): [Garble].
+083:12:36 Worden (onboard): [Garble].
+083:12:42 Scott (onboard): [Garble].
+083:13:05 Worden (onboard): [Garble].
+083:13:08 Scott (onboard): Yes.
+083:13:14 Worden (onboard): Got that.
+083:13:23 Scott (onboard): I get that initial downhill impression. We're supposed to be [garble].
+083:13:27 Worden (onboard): [Garble] did.
+083:13:37 Worden (onboard): [Garble].
+083:14:56 Worden (onboard): Darn it. Right there.
+083:14:58 Scott (onboard): There it was, whatever it was.
+083:15:00 Worden (onboard): Hum. [Garble].
+083:15:04 Scott (onboard): Yes.
+083:15:05 Worden (onboard): Good. [Garble].
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+We have AOS on the Command Module.
+083:15:24 Scott (onboard): Did you get this [garble] on, Jim?
+083:15:27 Irwin (onboard): Yes, but I never could tell [garble], when it went on.
+083:15:31 Scott (onboard): Okay.
+083:15:33 Henize: 15, this is Houston.
+083:15:41 Scott: Hello, Houston, Apollo 15. The Falcon is on its perch.
+Which is another way of saying that they believe they are in the correct orbit for the LM, Falcon, to fly off and do its stuff tomorrow.
+083:15:46 Henize: Good to hear you coming around that corner. How do things look?
+083:15:53 Scott: Okay. Burn status report. Burn was on time. The burn time was about 24.0 - about half a second shorter than predicted. There was no trim; residuals were plus .6 [fps], plus .0, minus .1; Delta-VC, minus 4.4; fuel 29 - 29.25 [per cent of full]; and the oxidizer was 29.55; unbalance, 100 increase. [Pause.]
+As it monitored the progress of the burn, the computer decided when there had been enough change in the spacecraft's velocity and shutdown the engine when appropriate which was half a second before the estimated time.
+Scott, from the 1971 Technical debrief: "The DOI was again a nominal burn. We shut down on time manually, but the G&N beat us to it. I guess, Al, you could see I put my hands on the switches and timed it. When the time ran out, I put the switches down. Al could watch the PC [combustion pressure], and I guess he saw it. [To Worden] Why don't you just say what you saw?"
+Worden, from the 1971 Technical debrief: "Well, I heard Jim counting down. I knew Dave was ready to throw the switches, and just as his hand started to move, the PC dropped off. So the automatic shutdown and Dave's shutdown were almost simultaneous; except the automatic shutdown was, I think, just before his. It was perfect."
+Scott, from the 1971 Technical debrief: "I took a stopwatch along because we were timing it in tenths of seconds, [which] was necessary for DOI. I think that unless you really have a double failure, you can't get in trouble on DOI, I don't think that is the problem that some people might have thought it was some time ago. That is a good, solid method of getting into a low orbit. Very little chance of getting into a bail-out situation."
+083:16:34 Henize: Thank you, Dave. We copy all that. [Pause.]
+083:16:41 Scott: And I'll tell you, it's really spectacular, when you can see the central peak of Tsiolkovsky coming up over the horizon before you see the rim.
+083:16:51 Henize: Hey, that's an interesting astrophysical observation.
+Comm break.
+Tsiolkovsky is a large, 200-km crater on the far Moon's side which was first photographed by the Soviet probe Luna 3 on 7 October 1959. In the poor imagery of the time, its dark, mare-like interior made it stand out from the other craters that pepper the far-side. The triumphant Soviets, in the manner of all explorers, promptly and appropriately named it after the Polish-Russian pioneer of spaceflight theory, Konstantin Tsiolkovsky (1857-1935). A dominant, W-shaped central peak of light coloured highland material rising out of the dark material makes this crater particularly distinctive and striking and it will be one of Al's major subjects for visual observation during his solo scientific program. As the spacecraft approaches a pericynthion of 18.5 km (10 nautical miles), its altitude is falling and Dave is noticing how the spherical shape of the Moon causes the central peak of Tsiolkovsky to appear to rise above the crater's rim.
+AS15-91-12381 - Tsiolkovsky Crater just after it appears over the lunar horizon. One of the LM's RCS thrusters obscures the part of the foreground. The comparative height of the central peak is apparent - Image by NASA/Johnson Space Center.
+AS15-91-12382 - Tsiolkovsky Crater - Image by NASA/Johnson Space Center.
+AS15-91-12383 - A view of Tsiolkovsky much closer to the spacecraft showing the spectacular albedo difference between the dark interior and the light-coloured peak - Image by NASA/Johnson Space Center.
+AS15-91-12397 was taken later in the mission using a wider-angle lens and looks south into Tsiolkovsky showing the irregular shape of the dark area.
+AS15-91-12397 - A view of Tsiolkovsky much closer to the spacecraft showing the spectacular albedo difference between the dark interior and the light-coloured peak - Image by NASA/Johnson Space Center.
+083:17:59 Scott: And, Houston, 15. The G&N [Guidance and Navigation computer] had us in a 58.4 by 10.0 [nautical mile, 108.2 by 18.5 km orbit].
+083:18:08 Henize: We copy, 15.
+Long comm break.
+After the execution of the burn, the last item detailed in the checklist for the thrusting operations is Verb 16, Noun 44. This command displays the altitudes, in nautical miles, of the orbit's pericynthion and apocynthion, relative to the height of the landing site. It also shows the time taken to make one orbit, the orbital period.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+083:21:14 Scott: Houston, 15. We're in an attitude now in which we cannot see the surface. But our initial impressions after the burn, when we could see the surface, is that we were rolling in on a high-angle pass.
+083:21:29 Henize: We copy, 15. [Pause.]
+A "high-angle pass" comes from a phrase used by tactical fighter pilots.
+Scott, from 1999 correspondence: "This generally means beginning a steep-angle dive-bombing run, as it might apply to a feature on the surface."
+As the father of one of the editors of the Apollo Flight Journal is a retired fighter pilot, we thought we would seek his explanation of the term.
+Lt. Col. Frank J. O'Brien, USAF, Ret.: "A high angle pass is a method of dive bombing that minimizes your exposure to ground fire, and is used for what we called 'slick' bombs, or those with no retarding device. In other words, for all dumb bombs of the 500#, 2000# variety. (When we were dropping napalm or 500# high drag bombs, we used about a 15 degree dive angle and started the run from about 3,000 feet. A lot more exciting experience.) You started by circling the target at about 13-15 thousand feet, depending on terrain elevation and your planned drop altitude. When cleared by the FAC (the Forward Air Controller; a pilot in a small, slow and low-flying aircraft who identifies targets on the ground), you started a diving 90 degree turn to the attack heading, and tried to establish a 60 degree dive angle. Shallower dive angles were not used because of more exposure to ground fire. The first few times you try this steep dive angle it seems a bit hairy, since we trained at George [Air Force Base, in the Mojave desert of California] with 45 degree dive angles, but when they are shooting at you it is a great motivator."
+Lt. Col O'Brien added that for a more detailed explanation of dive bombing he would refer us to an "excellent work by a little known local author." The title is The Hungry Tigers, the topic in question being on pages 106-122. He did not add that the book was, in fact, written by Lt. Col Frank J. O'Brien, USAF, Ret.
+083:21:42 Scott: And, Al just added, we were.
+083:21:45 Henize: True enough. True enough. [Long pause.]
+083:22:20 Henize: 15, this is Houston. You're Stay in the DOI orbit, and we have an orbit for you of 58.8 by 9.5 [nautical miles, 108.9 by 17.6 km].
+083:22:31 Scott: Very good, Houston. 58.8 - 9.5 and we're Stay. Thank you. [Long pause.]
+On reacquiring the spacecraft around the Moon's eastern limb, the tracking stations on Earth began measuring its velocity and distance from Earth from frequency and delay changes in the received radio signal. From this, they calculated the orbit achieved by the DOI burn. They are in good agreement with the values calculated by the spacecraft's computer. Had Mission Control been unhappy with the orbit, they would have instructed the crew to "bail out". The crew would then have used the emergency burn given at 83:26 in the Flight Plan to alter their orbit.
+Woods, from 1999 correspondence with Scott: "Since the DOI burn has the same effect as the LM DOI burns of Apollos 11 and 12, do you know why they did not have a bail-out contingency when A15 did?"
+Scott, from 1999 correspondence: "For one thing, with the CSM we could go back up to 60 nautical miles and try DOI again - but with a LM DOI, the LM is committed and the only alternative is an abort. With the CSM, by going to the bail-out attitude immediately, we would be ready for such a contingency and would lose very little orbital motion and timing - to set up a second LOI."
+083:22:56 Henize: 15. You have a Go to proceed to the landmark observation attitude.
+083:23:06 Scott: Roger, Houston. Thank you.
+083:23:08 Henize: And would you please give us Auto on the High Gain [Antenna]?
+083:23:13 Scott: Auto.
+Long comm break.
+Apollo 15's attitude is currently fixed with respect to the stars, and as it orbits, the Moon has gradually moved away from its windows. The "landmark observation attitude" will reorient the spacecraft in preparation for viewing landmark J-1 such that the optics are facing the Moon as they pass over Mare Serenitatis. For a while they can see the Moon's surface again as the spacecraft changes attitude.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+083:29:54 Scott: Okay, Houston, 15. We've got a little bit of visual - visibility now, and we're down in Crisium. [Pause.]
+Dave is literal in his use of "down" as they are approaching their pericynthion and are descending as they cross Mare Crisium.
+083:30:03 Henize: Roger, 15. [Long pause.]
+083:30:16 Scott: And it looks like we have enough altitude to get up over the [mountains on the] western rim!
+083:30:20 Henize: You know, I sure hope so. [Long pause.]
+083:30:34 Scott: But it sure looks like we're looking up at some of those fellows [the mountains] down there.
+083:30:38 Henize: That must be sort of exciting, skimming along down there over the waves.
+083:30:46 Scott: That's a mild word for it. [Pause.]
+Woods, from 1999 correspondence with Scott: "Was it the spacecraft's apparent speed that struck you, or a sense of low-flying rather than orbiting or some other impression that prompted your comm?"
+Scott, from 1999 correspondence: "This comment is due to not so much the speed, as speed is not apparent when still that high over the surface - its the elevation, or angle, of the horizon (mountains) above the 'normal' horizon, whereby the horizon is now higher in the window due to the mountains."
+083:30:55 Henize: Hey, can you see anything more about those sw - swirls? Anything...
+083:31:04 Scott: I think I...
+083:31:05 Henize: ...interesting?
+083:31:02 Scott: No, we're too close. And right now I've just finally picked out the rim of Proclus, and we're just about level, altitude-wise, with the - the rim of Proclus. I cannot see down into it. I can see just a tad of the southern wall. I guess we're just north of it. I can see some large blocks on the outer walls.
+083:31:24 Henize: Roger.
+083:31:28 Scott: But I'd say we're definitely at an altitude even with the top of the rim of Proclus.
+Long comm break.
+Dave's comment illustrates the low altitude of their flight path at this point, and their altitude is dropping yet as they approach their pericynthion just east of Hadley. However, they are not really as low as the rim of Proclus. Rather, the curve of the Moon between them and Proclus means that the crater, sited south of them, will be slightly tilted away from them.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+083:36:10 Irwin: Okay, Houston, we're coming up on the edge of Serenitatis now and I can look out and see a rille that runs parallel with the eastern edge. We're taking some pictures.
+083:36:20 Henize: Roger, I suspect that's Littrow Rille. [Long pause.]
+Although Littrow Rille is beyond the shore of Mare Serenitatis, its arcuate form, roughly parallel to the basin rim, suggests it is related to Serenitatis as a result of extensional tectonics, probably as a result of sinking of the mare basalt.
+083:36:45 Henize: And after Littrow Rille, you should be coming up on le Monnier. Do you have much chance of seeing down at that angle? [Pause.]
+083:36:56 Scott: I doubt it, Karl. At this attitude for the landmark tracking, the windows are almost out of it. Jim's got some visibility out window 5.
+AS15-91-12386 - le Monnier, a partial crater whose interior is fill with the basalts from Mare Serenitatis and whose western rim is missing - Image by NASA/Johnson Space Center.
+AS15-91-12387 - The eastern shore of Mare Serenitatis with the northern part of le Monnier on the lower right. The distinct crater is le Monnier K. On the upper left is the dish antenna of the LM's Rendezvous Radar - Image by NASA/Johnson Space Center.
+During landmark tracking, the crew uses the 28-power sextant to view the lunar surface. Since the sextant has a limited field of view, the spacecraft must have the optics pointed towards the surface, and, unfortunately for the sightseeing crew, the placement of the optics, on the opposite side of the spacecraft from the windows, makes it more difficult to see out. This may explain why these two photos are a little foggy, if the camera was viewing obliquely through the window glass.
+083:38:15 Irwin: Karl, we just passed the wrinkle ridges about a quarter of the way across Serenitatis, and the - there is a - definitely a topographic high in the middle of the wrinkled portions. [Pause.]
+083:38:34 Henize: Roger, 15, we copy. [Pause.]
+083:38:46 Henize: Are those ridges smooth, or do they show signs of lots of cracks in them?
+083:38:54 Irwin: I was impressed with the smoothness of the - the raised portion.
+083:39:02 Henize: Roger. [Long pause.]
+Jim is describing Dorsa Smirnov, a very prominent ridge running about 130 km in a roughly north-south direction across the mare as they view it. From further away, the ridge is seen to form an arc which is concentric with the rim of the Serenitatis basin. Henize is prompting him to look for features which will pin down their origin, now known to be the result of compression.
+Mare Serenitatis exhibits some of the best examples of wrinkle ridges and arcuate rilles on the Moon. These features are related and both are caused by the sinking of the relatively dense mare lavas with respect to the surrounding terrain. The centre of the mare sinks further than the edges. In the case of Mare Serenitatis, there is a smooth drop of 200 metres from the shore to the centre. Wrinkle ridges form where compression of the mare surface takes place and causes uplift. The very centre of the mare may display a circular formation of wrinkle ridges which can be mistaken for a ghost crater. Radial ridges may also form. Sometimes wrinkle ridges can betray the existence of features in the basin, especially ancient crater rings, now overlain by the layers of solidified lava which filled the basin to form the mare.
+Both inside and outside the mare shore, rimae or rilles are often seen running roughly parallel to the basin rim, forming arc-shaped grooves where expansion has occurred. Often the land between two parallel faults drops slightly to produce a feature known as a 'graben'. Rimae Littrow, mentioned by Jim before he reached Serenitatis is a good example of this type of rille.
+083:39:34 Irwin: Okay. I'm taking several pictures of the wrinkled ridges that run roughly north and south in Serenitatis.
+AS15-91-12388 - The eastern shore of Mare Serenitatis and the northern part of le Monnier's rim on the right. The wrinkle ridge running through the centre of the frame is a northern extension of Dorsa Aldrovandi (named after Ulisse Aldrovandi (1522-1605), and Italian naturalist) - Image by NASA/Johnson Space Center.
+AS15-91-12389 - The eastern portion of Mare Serenitatis - Image by NASA/Johnson Space Center.
+AS15-91-12390 - Mare Serenitatis looking north along the wrinkle ridge Dorsa Smirnov. The rayed crater, Posidonius Y, punctures the ridge in the distance - Image by NASA/Johnson Space Center.
+AS15-91-12391 - View north across Mare Serenitatis. The crater is Bessel D and Dorsum Azara is on the left, named after Felix Azara (1746-1811), a Spanish naturalist - Image by NASA/Johnson Space Center.
+Readers should note that many of the smaller craters on the Moon visible from Earth are given the name of a prominent adjacent crater followed by letters of the alphabet.
+083:39:45 Henize: Excellent, Jim.
+083:39:49 Irwin: In the one we just passed over, there were some vertical fractures, definite vertical relief, in the smooth portion of the raised wrinkled ridge. The fractures were also running north and south.
+083:40:07 Henize: Roger, Jim. We copy. [Long pause.]
+083:40:43 Irwin: Karl, just a spectacular view as we glide across the Sea of Serenity, and I'm taking a picture now of a sinuous rille out to the north.
+083:40:55 Henize: Roger, Jim.
+Comm break.
+Al is attempting to track landmark J-1, a feature on the surface of Mare Serenitatis just east of Dorsum Owen, to check the accuracy of the guidance system's knowledge of the spacecraft's orbit.
+The spacecraft is approaching its 18-km pericynthion. To make an earthly comparison, the supersonic aircraft, Concorde, cruises at about the same altitude above Earth, but Apollo 15 is travelling three times faster at 5,960 km/h.
+083:42:10 Irwin: Okay. We're approaching the mountains now on the western side of Serenitatis. At this point, there's a wrinkle ridge running to the - the northwest. [Pause.]
+This ridge is an exception to the predominant north-south run of ridges in this area of the mare. It may reflect subsurface structure connected with the hills to which it is joined.
+083:42:30 Worden: Karl, this is Al.
+083:42:32 Henize: Go ahead Al.
+083:42:36 Worden: Okay, Karl. I just finished the observation on J-1, and everything looked fine from my standpoint. [I] could track it very smoothly. And in fact, I took a couple of marks on it, if anyone's interested.
+083:42:51 Henize: Very good, and we have them down here.
+083:42:56 Worden: Okay. [Pause.]
+083:43:07 Henize: We were sitting down here wondering how you were ever going to find that little bugger. No trouble, huh? [Pause.]
+083:43:18 Worden: Not that much trouble, Karl.
+083:43:20 Henize: Very good.
+083:43:21 Worden: Seemed like there was plenty of time waiting on it. [Long pause.]
+083:44:25 Henize: 15, does it look like you are going to clear the mountain range ahead?
+083:44:33 Irwin: Karl, we've all got our eyes closed. We're pulling our feet up.
+083:44:44 Henize: Open your eyes. That's like going to the Grand Canyon and not looking.
+Comm break.
+The mountains of the Apennines reach almost a quarter of the spacecraft's altitude and the sensation of speed is enhanced by their proximity to the surface.
+Bodies in elliptical orbits, like Apollo 15's descent orbit, move faster when they are nearest to the object around which they are orbiting. However, compared to the size of the Moon, the difference between their pericynthion and apocynthion heights is small with little difference in their absolute velocity between these points. However, their close proximity to the Moon does affect their apparent speed. At apocynthion, 110 km up, the terrain parades past at a gentle 0.1° per second. At pericynthion, only 17.6 km altitude, craters and rilles sweep by at over 5° per second, mountain peaks even faster and, being much lower, the sense of perspective is more dramatic.
+Al is completing a P52 platform realignment, option 3, using the landing site's orientation as the reference point for the platform.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+083:47:15 Henize: 15, This is Houston. I have the camera photo PADs.
+083:47:21 Scott: Okay, stand by. We're just noticing the cabin temp here, and also that the outlet temp is up to about - the glycol about - outlet temp's up to about 70[° Fahrenheit]. [Long pause.]
+083:47:47 Henize: We copy, and EECOM says that's normal and they're on their way down now.
+083:47:55 Scott: Okay, fine. Thank you.
+083:47:57 Irwin: And, Karl, I'm ready to copy the - the Map Camera PAD.
+083:48:01 Henize: Roger. They're in the Flight Plan at 84:32 and 84:39. Mapping Camera: T-start, 84:42:23; T-stop 84:54:14. The Pan Camera times are the same as the Mapping Camera's times and we would like to change a shutter speed at 84:24. Instead of 125th, we want 1/250th at 84:24.
+Camera PADs will become a regular occurrence during lunar orbit when Al will start and stop the two main cameras in the SIM bay, the Mapping Camera (which is two cameras in one; the Metric Camera and the Stellar Camera) and the Panoramic Camera. Most photography with these two cameras takes place just to the daylit side of the terminator to take advantage of the low Sun angle and the long shadows which help to make topographic features stand out. The above times refer to when the spacecraft passes from lunar night to day over the far-side, just as they begin their fourth revolution. The change in shutter speed refers to photography, using the onboard Hasselblad and very high speed black and white film, which will occur at the same time as the Mapping and Panoramic Camera operation.
+083:48:45 Irwin: Okay. Understand 84:24. We'll change to F 250 [means 1/250] rather than 125; and on the Map PAD, it's 84:42:23 and 84:54:14, and the Pan Camera PAD's the same.
+083:49:00 Henize: That's all correct.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+083:55:08 Henize: 15, we have your torquing angles.
+Very long comm break.
+Flight Plan page 3-90.
+084:15:25 Worden (onboard): Okay. Laser Altimeter, On.
+084:15:27 Scott (onboard): Yes.
+084:15:28 Scott (onboard): Mark.
+084:15:29 Worden (onboard): Okay, let me talk to Karl here for a minute.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+084:15:32 Worden: Houston, 15.
+084:15:35 Henize: Go ahead, 15.
+084:15:40 Worden: Okay, Karl. Got a few numbers for you on the [boom] extension times. We started the whole thing off at 84:06:30, and got the covers open, the Mapping Camera extended, and the extension was about 3 minutes instead of 4. Then we deployed the Gamma-ray and the Mass Spec. booms for barber pole plus 2 seconds [to release the tiedowns]. The Gamma-ray turned barber pole after 6 seconds, and Mass Spec. turned barber pole immediately. And I was suspicious of the Mass Spec., so we tried it again and got the same results. Turned the X-ray, On, at 84:15:10 and the Laser Altimeter, On, at 84:15:30.
+The above report is as required in the Flight Plan. Apollo 15 is the first mission to carry the SIM bay and is essentially a test flight for it. Everyone involved is therefore very interested to learn how well it performs, especially its various mechanical devices which have never been tested in the freefall vacuum of space. Throughout, Al will keep a note of the time it takes for the three deployable instruments to extend and retract and Mission Control can watch changes in the current going to the motors to monitor the health of these mechanisms. Al will also keep a note of when the non-imaging experiments are switched on and off. Investigators can then relate their data to the timeline and the absolute position of the spacecraft, a data analysis process that will take months to complete.
+084:16:25 Henize: Roger, Al. We copy.
+084:16:30 Worden (onboard): Looks like that stuff's working fine. Tch, tch.
+084:16:32 Scott (onboard): Great! Super!
+084:16:34 Irwin (onboard): Good enough.
+084:16:36 Worden (onboard): That's it. Verify DSE tape motion at 84:20, and then we get the cameras ready for terminator photos.
+084:16:44 Scott (onboard): That a boy!
+084:16:50 Worden (onboard): Pan camera, we go - we already got our terminator photos. Did you get - Let's see, we want mag R. That's this mag here.
+084:17:07 Scott (onboard): With the Hasselblad? You got the Hasselblad over there?
+084:17:12 Worden (onboard): Yes. And, let's see, we want the Hasselblad 80 millimeter, intervalometer--
+084:17:21 Scott (onboard): Let's see, intervalometer's down there, Jim, in the - Let's see - It's in the camera - It's right in front of the camera compartment.
+084:17:36 Worden (onboard): Oh, boy.
+084:17:38 Scott (onboard): It's right there; that's it.
+084:17:43 Worden (onboard): Okay. What do you want to do now, get the Hasselblad?
+084:18:01 Unknown speaker (onboard): Jim, you're all right.
+084:18:08 Worden (onboard): Well, the way to do that is just to play it straight from now on.
+084:18:17 Worden (onboard): [Garble] I need somebody to take care of me.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+084:18:25 Henize: 15, This is Houston. Would you verify that the X-ray is On? [Pause.]
+084:18:30 Worden (onboard): [Garble].
+084:18:31 Irwin (onboard): Yes.
+084:18:33 Worden (onboard): [Garble] an earful of that.
+084:18:36 Worden: 15, Roger. That's verified.
+084:18:40 Henize: Thank you. [Long pause.]
+Worden (onboard): Is that right, Dave?
+084:18:42 Scott (onboard): Yes.
+084:18:46 Irwin (onboard): If [garble] orders, I can get it.
+084:18:49 Scott (onboard): Okay.
+084:19:01 Worden (onboard): Man, that's really good and stuck!
+084:19:04 Irwin (onboard): [Garble] all right.
+084:19:06 Worden (onboard): Pork and scalloped potatoes!
+084:19:10 Henize: We have not.
+This may be a miskeying by Karl Henize.
+Comm break.
+084:19:15 Scott (onboard): You'll have what?
+084:19:18 Worden (onboard): I'm going to order pork and scalloped potatoes; I don't whether you do or not, but I am.
+084:19:23 Scott (onboard): Okay, f - 2.8, 1/250th, and infinity. Take six frames. Okay. Right out of this window here. And we're going to get the pan camera going in there, too.
+084:19:54 Worden (onboard): [Garble].
+084:20:00 Scott (onboard): That's frame number - 14.
+084:20:20 Henize: 15, this is Houston. All systems are looking good down here, and until we tell you otherwise, all the AOS's are as in your Flight Plan.
+084:20:35 Scott: Roger.
+084:20:36 Irwin: We're ready to go. [Laughter.]
+084:20:36 Irwin (onboard): That's right [laughter].
+084:20:38 Scott: We both like to hear that.
+084:20:42 Henize: Roger.
+Very long comm break.
+This is Apollo Control at 84 hours, 21 minutes. We've had Loss Of Signal as Apollo 15 turns the corner to go behind the Moon. We'll acquire on the 4th revolution at 85 hours, 8 minutes, 47 seconds, and as you heard in that last [but one] exchange, the scientific instrument bay, the SIM bay is in business now. At 84 hours, 21 minutes; this is Mission Control, Houston.
+Apollo 15 has gone behind the Moon and will commence its fourth revolution while over the far side. As the spacecraft crosses the terminator from night to day, the Panoramic and Mapping Cameras are activated for 11 minutes and 51 seconds to take advantage of the low angle lighting. The onboard Hasselblad is configured with the 80-mm lens and magazine R, containing very high speed (6,000 ASA) black and white film. Compare this to the film used aboard the Lunar Orbiter probes of 5 years earlier which was rated at only 2 ASA to give it some tolerance to radiation in the lightweight construction of that pioneering series of spacecraft. 6 images are scheduled to be taken right on the terminator. These are AS15-98-13303 to 13308.
+AS15-98-13303 - Terminator image on high speed film, possibly Montes Haemus area - Image from National Archives.
+AS15-98-13304 - Terminator image on high speed film - Image from National Archives.
+AS15-98-13305 - Terminator image on high speed film - Image from National Archives.
+AS15-98-13306 - Terminator image on high speed film - Image from National Archives.
+AS15-98-13307 - Terminator image on high speed film - Image from National Archives.
+AS15-98-13308 - Terminator image on high speed film - Image from National Archives.
+The compilers of the Apollo 15 Index of 70-mm Photographs guess that the first of these very contrasty images may be of the Montes Haemus, the range of mountains on the rim of Serenitatis, but it seems likely that all six images are of the same, unidentified far-side landscape. AS15-98-13308 is one of the clearest of these images which are otherwise difficult to distinguish. Meanwhile, the crew begin their meal period.
+With the photography completed, the two booms, each more than 7 metres long, are extended from the SIM bay. One boom carries the Gamma-ray Spectrometer and the other, the Mass Spectrometer. The booms take the instruments away from possible sources of contamination near the spacecraft and this is their first deployment. Again, Al times how long it takes for these to extend by monitoring the talkback indicators adjacent to the deploy switches. He records the results in the Flight Plan. The booms will be retracted during burns as they are not designed to withstand the forces of engine firings.
+The same ingenious mechanism is employed for both booms.
+Boom mechanism
+Each has two spools of tempered steel tape which, when unrolled, form themselves into a 'c' profile; much like the way a handyman's measuring tape unrolls to form a curved cross-section which stiffens it. The spools are arranged so that as the two tapes come off and take up their tubular profile, one does so inside the other. A cable to connect the instrument to the SIM bay is wound around the mechanism's housing and is pulled out around the boom during deployment.
+Flight Plan page 3-91.
+The final task on this far-side pass is to switch the Mass Spectrometer's ion source to Standby. This brings on heaters to drive out gases within the instrument for the next hour until it is switched on at 086:00:00.
+084:20:46 Worden (onboard): Now, I'm going to show you how I'm going to handle this stuff here. Well, it looks like we just lost them. (Cleared throat).
+084:21:14 Worden (onboard): That won't be the same from now on.
+084:21:17 Scott (onboard): It won't?
+084:21:18 Worden (onboard): No. Minus 5 and 25.
+084:21:25 Scott (onboard): [Garble]?
+084:21:27 Worden (onboard): Yes. Because we're in SIM bay attitude now.
+084:21:31 Scott (onboard): [Garble] A and B.
+084:21:32 Worden (onboard): That's the stowed position only. It - it's minus 5 and 25 for Reacq when we come around the other side.
+084:21:39 Irwin (onboard): Okay. [Garble]?
+084:21:41 Worden (onboard): Yes.
+084:21:45 Irwin (onboard): I'll tell you, this Moon flying could be fun.
+084:21:48 Worden (onboard): This what?
+084:21:49 Irwin (onboard): I said, "This Moon flying could be fun."
+084:21:50 Worden (onboard): Yes, yes, yes, yes.
+084:21:53 Scott (onboard): Hey, listen, Al, we got to get the pan camera going here, right?
+084:21:57 Worden (onboard): Okay, T-start is the [cleared throat]...
+084:22:01 Scott (onboard): [Garble].
+084:22:03 Worden (onboard): Yes. T - T-start is the big time, and everything's hinged around T-start, so I take that time and punch it into P30 (cleared throat). And just load Noun 33 to that time.
+084:22:19 Scott (onboard): [Garble].
+084:22:23 Worden (onboard): We're gaining 4 - plus 42 23, I guess.
+084:22:40 Worden (onboard): Yes, I'm going to do it like that on all of them. Now, when you come up on a thing like that, EL says T-start minus 1:40 -
+084:22:57 Scott (onboard): Yes.
+084:22:58 Worden (onboard): Well, it's right on the DSKY there.
+084:23:00 Scott (onboard): [Garble].
+084:23:02 Worden (onboard): And the Mapping Camera, Image Motion, On. Talkback barber pole 3 to 5 seconds, then gray. That can be done anytime; that's not important. EL Off at T-start; Mapping Camera, On, at T-start; Pan Camera, Operate, at T-start. Jesus, they got all kinds of things going on here at T-start. Motion Increase - talkback barber pole plus 2 steps. I better do that mapping-camera thing.
+084:23:26 Irwin (onboard): [Garble].
+084:23:34 Worden (onboard): You got 18 minutes [garble] - If you'll take the EL, and all you got to do is - point the - point the Hasselblad straight down and start the intervalometer going, and start it at - at - at minus 1:40 on the clock and stop it as zero.
+084:23:48 Irwin (onboard): All right.
+084:23:52 Worden (onboard): And it would be much appreciated.
+084:23:56 Irwin (onboard): [Garble].
+084:23:57 Worden (onboard): Okay.
+084:24:04 Scott (onboard): Jim, is my spoon up there somewhere? Spoon. Yes, it should be back in there.
+084:24:18 Irwin (onboard): [Garble].
+084:24:22 Scott (onboard): Find it anywhere?
+084:24:38 Worden (onboard): [Laughter] No, I'm not. I just didn't want to get in your way, believe it or not.
+084:24:57 Worden (onboard): Ah, let's see; yes, we're ready to go over here; 84:24; at about 84:33, we better do all that business. In the meantime, grab a bite. What are we having?
+084:25:14 Scott (onboard): Pork and scalloped potatoes.
+084:25:15 Irwin (onboard): It's not bad.
+084:25:16 Scott (onboard): You know, I don't know why it is, every night at this time, my nose gets stuffy.
+084:25:18 Irwin (onboard): Mine does, too.
+084:25:20 Scott (onboard): Every night, my - my nose starts getting stuffy along about this time, and then it cleans up after a bit.
+084:25:25 Irwin (onboard): [Garble].
+084:25:27 Scott (onboard): Yes, give me another squirt of hot juice there - when you get a chance.
+084:25:38 Scott (onboard): Hey, Jim, you know what I do tomorrow?
+084:25:41 Irwin (onboard): Can't guess.
+084:25:42 Scott (onboard): Let's go shoot a landing. I'm ready. I'm ready to put that baby right in there, right now. I haven't had a TV flight in months.
+084:25:59 Worden (onboard): Yes, sir, you better. You'll lose you [garble].
+084:26:02 Irwin (onboard): That's right.
+084:26:56 Worden (onboard): 0ooh, that one's stretched. Pork and scalloped potatoes!
+084:27:02 Scott (onboard): Sounds good.
+084:27:03 Worden (onboard): Just like down home.
+084:27:06 Scott (onboard): Mm-hmm.
+084:27:25 Irwin (onboard): [Garble].
+084:27:30 Scott (onboard): [Laughter.] Yes, you - you know, it really works - works just fine if you - if you pop it and just keep pulling.
+084:27:43 Scott (onboard): Hey, Jim?
+084:27:47 Irwin (onboard): [Garble] water here [garble].
+084:28:30 Irwin (onboard): [Garble] I think, the first thing I'm going to do when we get back?
+084:28:34 Scott (onboard): What's that?
+084:28:35 Irwin (onboard): Have a beautiful night in Tahiti.
+084:28:37 Worden (onboard): Hey, you're on, buddy. You're on - you're on! [Garble].
+084:28:41 Irwin (onboard): No, really. You ought to really think about it.
+084:28:44 Scott (onboard): Me, too. Big airliner.
+084:28:47 Irwin (onboard): Without the aviation,
+084:28:49 Scott (onboard): Hey, you know what they tell you when you get to the [garble].
+084:28:50 Worden (onboard): No.
+084:28:51 Scott (onboard): [Garble].
+084:28:53 Irwin (onboard): Is that right?
+084:28:54 Scott (onboard): [Garble]. They got up a special menu; it has everything that you want on it. You can eat steak and eggs [garble].
+084:29:05 Irwin (onboard): Is that right?
+084:29:06 Scott (onboard): [Garble] steak and eggs, or scrambled. [Garble].
+084:29:12 Worden (onboard): You don't [garble] scrambled eggs, do you, Jim?
+084:29:15 Irwin (onboard): Yes.
+084:29:16 Worden (onboard): [Garble].
+084:29:18 Scott (onboard): Huh.
+084:29:19 Worden (onboard): [Garble].
+084:29:22 Irwin (onboard): All right.
+084:29:23 Worden (onboard): [Garble].
+084:29:24 Irwin (onboard): [Laughter.]
+084:29:27 Worden (onboard): [Garble], Dave.
+084:29:28 Irwin (onboard): [Laughter.]
+084:29:30 Scott (onboard): You've been away too long, Jim!
+084:29:32 Irwin (onboard): [Laughter.]
+084:29:35 Scott (onboard): Golly.
+084:29:38 Worden (onboard): Yes. [Garble].
+084:29:58 Scott (onboard): Is that all we get to eat?
+084:30:01 Irwin (onboard): Yes, I think so. [Garble].
+084:30:08 Worden (onboard): We ought to be about through with that food locker.
+084:30:38 Scott (onboard): [Garble] pictures. Do we just take them from straight down?
+084:30:42 Worden (onboard): [Garble].
+084:30:54 Worden (onboard): [Garble] you want to [garble]. You - you got that [garble]?
+084:31:21 Worden (onboard): Okay, there's rev 3 [garble].
+084:31:25 Scott (onboard): Take it out of window 4.
+084:31:30 Worden (onboard): These will be the LM. You got all of them?
+084:31:32 Scott (onboard): Yes.
+084:31:33 Worden (onboard): And right at - the start of the [garble]. You want to start looking out the window, window 4. [Garble].
+084:31:44 Scott (onboard): [Garble].
+084:31:49 Worden (onboard): And then you want to [garble] off [garble].
+084:31:54 Scott (onboard): That's right. Switch them back in stereo now?
+084:32:00 Worden (onboard): Yes. [Garble].
+084:34:11 Worden (onboard): [Garble] now. [Garble].
+084:34:38 Worden (onboard): You know, that feels funny to look down.
+084:34:41 Scott (onboard): Yes, [garble].
+084:36:03 Irwin (onboard): [Garble].
+084:36:05 Scott (onboard): What's wrong, Jim. [Garble] doing the dishes?
+084:36:08 Irwin (onboard): [Garble].
+084:36:34 Scott (onboard): [Garble].
+084:36:36 Worden (onboard): [Garble].
+084:36:44 Scott (onboard): [Garble].
+084:36:56 Scott (onboard): I got mine right over to here.
+084:37:09 Scott (onboard): Yes, I have them.
+084:38:44 Scott (onboard): Okay. [Garble].
+084:38:59 Worden (onboard): Ah, man. [Garble].
+084:39:15 Scott (onboard): Looks to me like we're roll.
+084:39:18 Worden (onboard): We're roll.
+084:39:19 Irwin (onboard): Yes.
+084:39:22 Scott (onboard): Is - is this picture supposed to be an oblique?
+084:39:28 Worden (onboard): It's not a - a vertical picture.
+084:39:30 Scott (onboard): It's an oblique picture, really.
+084:39:36 Worden (onboard): Minus 1:40?
+084:39:41 Scott (onboard): Okay. [Garble].
+084:39:47 Worden (onboard): Straight down?
+084:40:50 Worden (onboard): No, you're [garble].
+084:41:03 Worden (onboard): Pretty dark.
+084:41:25 Scott (onboard): Yes. Okay. I see where we are. Okay. [Garble].
+084:41:30 Worden (onboard): Yes.
+084:41:34 Scott (onboard): Yes, but I - I seem to have it located myself here.
+084:41:37 Worden (onboard): Oh.
+084:41:38 Scott (onboard): I don't [garble], but it's dark in here.
+084:41:51 Worden (onboard): Nassau Bay was in the dark, I'm sorry to say.
+084:41:55 Scott (onboard): Yes.
+084:42:05 Worden (onboard): [Garble].
+Rev 4 begins at about 080:42:30.
+084:42:43 Scott (onboard): I want to take one more for good measure...
+084:42:46 Worden (onboard): All right.
+084:42:47 Scott (onboard): ...but now it's getting in an area where you're getting something.
+084:43:02 Scott (onboard): Okay.
+084:44:11 Worden (onboard): Okay, let me turn this over here on the - Let me put this back under here - the bracket; it's a good place for it to be.
+084:44:38 Scott (onboard): Okay. [Garble].
+084:44:40 Irwin (onboard): Your next [garble] - is -
+084:44:56 Scott (onboard): [Garble] 228.
+084:44:58 Worden (onboard): But that's a - that's a good place for it.
+084:45:03 Scott (onboard): Yes. Good idea. Run them back in here.
+084:45:11 Scott (onboard): Really?
+084:45:14 Irwin (onboard): Yes.
+084:45:20 Worden (onboard): Oh, [garble]. [Garble] I'm starving.
+084:45:29 Scott (onboard): Okay.
+084:45:30 Worden (onboard): Give me a lunch pack, and I'll eat it.
+084:46:08 Scott (onboard): What is it?
+084:46:10 Worden (onboard): Meatballs and sauce.
+084:46:37 Scott (onboard): [Garble]. Need any help?
+084:46:46 Worden (onboard): Do what?
+084:46:53 Scott (onboard): Oh, isn't that sweet?
+084:47:28 Scott (onboard): You want me to move? You want to get over here?
+084:47:47 Irwin (onboard): [Garble].
+084:47:49 Worden (onboard): Meatballs and sauce.
+084:47:51 Irwin (onboard): Give me a spoon [garble]. You got something for those?
+084:47:59 Scott (onboard): No wonder you never lose it.
+084:48:01 Irwin (onboard): [Garble].
+084:48:24 Scott (onboard): One thing you're going to learn how to do is fly upside down.
+084:48:26 Irwin (onboard): [Laughter.]
+084:48:45 Scott (onboard): Yes. Yes. You'll be able to fly right-side up.
+084:49:12 Irwin (onboard): [Garble].
+084:49:21 Worden (onboard): Now I can see a bunch of [garble].
+084:49:25 Irwin (onboard): What [garble]?
+084:49:27 Worden (onboard): [Garble]. Put it on the [garble].
+084:49:49 Scott (onboard): Okay. Let me go to the movie.
+084:49:58 Worden (onboard): No, by golly, there are lineaments down there all over the place, going - Well, northeast - Yes, northeast, southwest. See it? Right up on the ridge. Right along all the [garble], by golly. Look at that.
+084:50:16 Scott (onboard): Look out the window, Al.
+084:50:18 Worden (onboard): What's over there?
+084:50:19 Scott (onboard): What? Right here. Look out the center window, right down this way. We'll be parking right over - right over the grid.
+084:50:30 Worden (onboard): You mean right over the - the ridge here? Right along the lunar [garble].
+084:51:13 Scott (onboard): As long as you [garble] having a - the ground track that changes every rev, you're never going to get tired of looking at new things. You know, you'll have something new to look at the whole way.
+084:51:41 Scott (onboard): That looks dangerous.
+084:51:42 Irwin (onboard): [Laughter.]
+084:51:43 Scott (onboard): You know, I about had meatballs all over the place.
+084:52:02 Scott (onboard): What are you waiting for 2 minutes from now?
+084:54:12 Irwin (onboard): [Garble].
+084:54:59 Worden (onboard): Yes. I'll [garble] a couple [garble].
+084:55:04 Irwin (onboard): [Garble].
+084:55:10 Worden (onboard): I didn't mean to.
+084:55:24 Worden (onboard): One minute to go.
+084:55:42 Scott (onboard): You want me to get the mass spec and do what?
+084:55:43 Irwin (onboard): No, the boom out.
+084:55:44 Scott (onboard): Oh.
+084:56:25 Scott (onboard): Well, I was just thinking about that. I think what we need to do - is - You might take a little bath [Garble]. By golly, let's go do some around the Moon [garble].
+084:56:42 Irwin (onboard): One.
+084:56:48 Scott (onboard): Huh?
+084:56:49 Worden (onboard): [Garble] putting them on.
+084:56:57 Scott (onboard): I figure we're far enough ahead - now. You can stop it - if you want to, you know, to live it up. Really live it up. Get clean, fresh...
+084:57:42 Irwin (onboard): [Garble].
+084:57:45 Worden (onboard): Oh, you might [garble], I guess.
+084:57:48 Irwin (onboard): Okay.
+084:58:50 Scott (onboard): [Garble].
+084:58:58 Scott (onboard): Oh, look at - look at the one coming up, Al. Look at the debris in the bottom of that crater and over at the side there. Look at that!
+084:59:10 Worden (onboard): [Garble] a tree stump [garble].
+084:59:13 Irwin (onboard): Yes.
+084:59:14 Scott (onboard): It's got a big [garble] on the side.
+084:59:17 Worden (onboard): [Garble].
+084:59:19 Scott (onboard): [Garble]. Check The Bright One? Boy, look at the junk coming out of it.
+084:59:54 Scott (onboard): See this one wall here - how it's completely collapsed, straight down, and a bunch - bunch of little benches go down even farther - towards the bottom.
+085:00:23 Worden (onboard): The way that one [garble].
+085:00:25 Scott (onboard): Which direction?
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control at 85 hours, 8 minutes. We're about 20 seconds away from Acquisition Of Signal. We'll stand by.
+085:10:26 Henize: 15, this is Houston.
+085:10:33 Scott: Hello, Houston. 15. Five by [five, meaning 'reading you loud and clear.']
+085:10:37 Henize: Roger. Like to remind you to configure the DSE as per the Flight Plan.
+085:10:48 Scott: Roger.
+Comm break.
+Karl is asking the crew to rewind the DSE tape so the ground can play it back to check the spacecraft's performance and collect the SIM bay data gathered during LOS.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+This is Apollo Control. We're getting good data both from spacecraft systems and from the SIM bay.
+085:13:45 Scott: Houston, 15.
+085:13:47 Henize: Go ahead, 15.
+085:13:51 Scott: Say when we get down to the presleep checklist here in about 50 minutes or so, I wonder if you might give us your best guess on the probability of a DOI trim tomorrow.
+085:14:04 Henize: Okay. We'll work on that information.
+085:14:11 Scott: Okay. Appreciate it. [Long pause.]
+085:14:35 Henize: Dave, we can give you a pretty good guess at that now. It seems to be unlikely that we're going to need a DOI trim. I've got a couple of trajectory numbers here if you'd like to copy them.
+085:14:50 Scott: Yeah, it'd be interesting. Go ahead.
+085:14:54 Henize: Our tracking data tells us that your current orbit is 58.2 by 9.1 [nautical miles, 107.7 by 16.8 km]. And, tomorrow morning at wakeup time, it'll be 58.6 by 8.7 [nautical miles, 108.5 by 16.1 km]. [Pause.]
+Events in the Moon's past bequeathed it with a gravity field which, to scientists of the late 1960s, seemed unexpectedly uneven. Regional concentrations of mass intensify the gravity over certain areas. Consequently, the orbits of small bodies like spacecraft are unstable in the long term. Known as "mascons," short for "mass concentrations," these mascons are mostly associated with some of the great circular impact basins (Imbrium, Serenitatis, Crisium and Orientale) and are believed to be primarily due to dense mantle material being brought nearer to the surface by the basin-forming impact events, and, to a lesser extent, by the bulk of dense lavas now lying within those basins.
+Since mascons are largely on the near-side, they accelerate spacecraft slightly when compared to the far-side. Over time, orbits are modified by being lowered on the near-side and raised on the far-side until, if not corrected, they cause the spacecraft to impact the Moon.
+No previous spacecraft have matched Apollo 15's ground track and ground controllers have not accurately characterised the effect of mascons on its orbit. Based on what they know, Mission Control estimates the pericynthion of the orbit will drop by 0.7 km to 16.1 km. However, these predictions will turn out to be conservative.
+085:15:14 Scott: Okay; that looks pretty fair. How about the - the out-of-plane or the cross track?
+Dave is asking about another parameter of orbital mechanics. If their orbit's inclination is not correct, then when it comes to the time of the descent to the surface, the spacecraft will aim to the north or south of the landing site rather than directly towards it.
+085:15:21 Henize: Stand by. [Long pause.]
+085:16:03 Henize: Dave, our out-of-plane data looks like about 2/10ths of a [nautical] mile [0.37 km] at PDI [Powered Descent Initiation] time.
+085:16:13 Scott: Okay; that sounds pretty good. Thank you. [Long pause.]
+Henize does not say whether this error is to the north or south but in 23 hours time, just before PDI, there will be a cross track error of 6.1 km (3.3 nautical miles) to the south.
+The Gamma-ray Spectrometer is due another ten-minute period when the Gain Step Shield is switched off so the operation of its discriminator can be calibrated.
+085:16:49 Henize: 15, we'd like High Gain [Antenna] to Auto, please.
+085:16:55 Scott: Roger. Hign Gain to Auto. [Long pause.]
+085:17:48 Henize: Dave, thinking about trajectories, you probably noticed the out-of-plane part of the DOI [burn]. They're telling me here that you burned a perfect LOI, but the state vector they gave you was slightly in error. So, they got rid of - they - they made corrections for that during DOI so that we're standing pretty close to perfect now.
+085:18:13 Scott: Okay. I got to admit we did have some question about that [out-of-plane component] but figured you all had it in hand, as you usually do.
+085:18:21 Henize: Roger. Between a perfect crew in orbit up there and a perfect crew down here, we're doing pretty good so far. Knock on wood.
+085:18:33 Scott: Yeah. We got a few miles to cover though.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+085:20:36 Irwin: Houston, 15.
+085:20:40 Henize: Go ahead, 15.
+085:20:44 Worden: Okay, Karl. Guess I should bring you up to date on a couple of things here. Everything went as planned on the - on the [far-side] terminator photos. The Pan Camera and the Mapping Camera pass started on time and stopped on time. Turn - Got the Mass Spec. boom deployed and Gamma-ray boom deployed; the Mass Spec. deployed in 2 minutes, 20 seconds; and the Gamma-ray deployed in 2 minutes, 28 seconds. Got the Ion Source, On [means Standby], and the Logic Power, Off, at 85:05. And that brings you up to date.
+The Flight Plan included approximate expected times for the two booms to deploy and both of Al's reported times are about 20 seconds quicker than this.
+085:21:26 Henize: Beautiful, Al. Sounds like all of that nice equipment is working real nice for us.
+085:21:34 Worden: Sure does, Karl. Be interested in what kind of data you're getting down there on it. [Pause.]
+085:21:45 Henize: OSO's [Orbital Science Officer's] two-word summary of it is that we're getting "beautiful data". Incidentally, Al, if - if you'd like sometime, let us have, say - 12 to 24 hours operation, would you like to have a summary sometime tomorrow on some of the details?
+085:22:10 Worden: Yes, indeed, Karl; sure would.
+085:22:12 Henize: Okay; we'll get one together.
+085:22:14 Worden: Yes, listen. Skip it tomorrow; and, maybe day after tomorrow, we'll get a summary on that. I'll be kind of interested in how it goes myself.
+085:22:24 Henize: Very good.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+085:25:20 Worden: Houston, 15.
+085:25:23 Henize: Go ahead, 15.
+085:25:28 Worden: Roger, Karl. For your information, you can see both of the - both of the booms at full extension out of window 5.
+This is quite useful information as it will allow the crew to check by eye that the booms are extending properly throughout the orbital science period.
+About now, the Mass Spectrometer is powered up, though it will continue outgassing for another half hour. The ion source, which is at the heart of the instrument's operation, has not yet been switched on.
+085:25:37 Henize: Hey, we're glad to hear that.
+085:25:42 Worden: Yeah; they sure do look pretty sitting out there.
+085:25:46 Henize: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+085:34:20 Henize: 15, this is Houston. We'd like to have you hold off on putting the Mass Spec. Experiment switch to Standby, and we'd like to have the Discriminator, Low. [Pause.]
+According to the Flight Plan, the Mass Spectrometer Experiment switch was due to go to On at 85:25. At 86:00, the Ion Source is due to be switched to On. It is unclear why the Experiment switch is being put in Standby instead.
+085:34:38 Worden: Roger, Karl. We'll hold off till you - cue us, and going Discriminator, Low, now.
+085:34:44 Henize: Thank you, Al.
+Comm break.
+085:35:47 Henize: 15, this is Houston. If you'll give us Accept, we'll send up a new state vector. [Pause.]
+085:35:57 Worden: Roger, Houston. You've got it.
+085:36:01 Henize: And, - and if you've finished with dinner up there, and somebody can copy, I have a TEI-12 PAD.
+Both of these requests, the uplink and the TEI-12 PAD, are as directed in the Flight Plan. The latter is another abort PAD which, if required, would be used towards the end of the 12th revolution.
+Apollo 15 is nearing the Hadley landing site within the Apennine range. These mountains are experiencing lunar dawn.
+085:36:12 Worden: Okay. Stand by a minute, Karl. [Long pause.]
+085:37:05 Scott: Houston, we're making a low pass over the Apennines [mountains], and they're really something.
+085:37:12 Henize: Roger. [Pause.] Do they look like any terrestrial mountains you've ever seen? [Pause.]
+085:37:28 Scott: No. [Pause.]
+085:37:36 Henize: How about the slopes? Are they generally steeper than you expect, or shallower than you expect on something like the Tetons? [Pause.]
+085:37:52 Scott: Say again, Karl. I'm sorry; we were discussing the rille at that time - Hadley, that is.
+085:37:56 Henize: Roger. I - I was just trying to get a better feel for how the mountains look. Are there - are they more - more craggy and rougher than something like the Tetons or do they give you some other appearance?
+085:38:12 Scott: No. As a matter of fact, from this altitude, even though we're low, they appear to be smooth and rounded. There aren't any jagged peaks that we can see. And even though they're cratered, and rough in texture on a small scale, they really don't look anything like the Alps or the San Juan's or any of the other familiar ranges we know.
+085:38:38 Henize: Roger. Is there anything that looks like bare rock on them. [Pause.]
+085:38:48 Scott: I think we can see some boulders, but there are no apparent jagged peaks that we can tell or that we can see from this - this particular altitude yet, although some of the - the shadows look fairly sharp.
+085:39:02 Henize: Roger.
+085:39:05 Irwin: And, Karl, speaking of shadows, there seems to be enough light being reflected off the sides of the mountains around to supply some light down on the landing site. And the rille is quite distinctive as we pass right over it.
+085:39:20 Henize: Beautiful. That must be an eerie sight in a half-light.
+The middle of the day on the Moon is searingly hot while the night is cold to great extremes. Landing at Hadley is timed so that the Sun will have risen just 12°, giving oblique lighting with lots of shadows and aiding landmark identification during the final phase of the landing itself. It also ensures that, as well as the Sun, the landscape isn't radiating huge amounts of heat to overload the EVA suit's cooling ability. Though the Sun is illuminating the mountain peaks around the landing site, it has yet to reach the plain at Hadley. The crew's ability to see detail in the shadows of the Moon is unmatched by the much narrower dynamic range of their cameras, and part of their brief is to describe that which cameras cannot record.
+The use of magazine R and its load of very fast black and white film at the last terminator crossing is an attempt to record these details on film.
+085:39:27 Irwin: Well, it was, sort of.
+085:39:33 Henize: And, 15, you can have your computer back.
+085:39:38 Scott: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+085:43:21 Henize: 15, this is Houston. [Long pause.]
+085:44:09 Henize: 15, this is Houston. How do you read.
+085:44:14 Irwin: Loud and clear, Houston.
+085:44:16 Henize: Roger. We've finished picking up data on the Mass Spectrometer. Leave the discriminator as it is, and we're ready to go to put the Experiment [switch] in Standby now. [Pause.]
+085:44:38 Irwin: Understand; you're ready to put the Mass Spec. in Standby.
+085:44:41 Henize: Roger. And then you can start to put the blunt end forward, anytime you care to.
+085:44:49 Irwin: Roger; we're maneuvering now.
+Comm break.
+Since 84:00 GET, the spacecraft has been flying "sharp end forward" or plus-X forward attitude with the CM's apex pointing in the direction of flight. Throughout the coming rest period it will be flying in the "blunt end forward" or minus-X forward attitude with the SPS engine facing the direction of flight. This latter attitude is required for the proper operation of the Mass Spectrometer.
+085:46:42 Henize: 15, this is Houston. Dave, the Surgeon would like to have a special reading of the PRD [Personal Radiation Dosimeter] from you tonight. Your reading last night was not in agreement with the other two crew members and they'd like to get another data point on you.
+085:47:05 Irwin: Okay. We copy, Karl. We'll give you all three readings.
+085:47:09 Henize: Roger. They'll accept them gladly.
+Comm break.
+085:48:28 Henize: 15, this is Houston. Whenever you can copy, I have the TEI-12 PAD.
+085:48:38 Irwin: Stand by, Karl. [Long pause.]
+085:49:04 Irwin: Okay, Karl. I'm ready to copy TEI-12.
+085:49:09 Henize: Roger. TEI-12, SPS G&N; 38110; plus 0.58, plus 1.00; 101:36:08.38; plus 2845.0, minus 0380.2, minus 0063.8; 180, 107, 354; the rest is NA; 4-jet ullage for 12 seconds. And this assumes the burn undocked and no circular burn, and the GET of landing is 196 hours at MPL.
+An interpretation of the TEI-12 PAD follows:
+Purpose: This PAD specifies the information required for an early return to Earth, if necessary, towards the end of the twelfth lunar orbit.
+System: It would utilise the SPS engine under the control of the G&N system.
+CSM Weight (Noun 47): 38,110 pounds (17,287 kg).
+Pitch and yaw trim (Noun 48): +0.58° and +1.00°.
+Time of ignition, TIG (Noun 33): 101 hours, 36 minutes, 8.38 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +2,845.0 (+867.2); y, -380.2 (-115.9); z, -63.8 (-19.4). These velocity components are expressed with respect to the local vertical.
+Spacecraft attitude: Roll, 180°; Pitch, 107°; Yaw, 354°. These attitude would be with respect to the orientation of the guidance platform.
+Henize notes that other items on the standard form are not applicable (NA) to this PAD. Additional notes include the settlement of the SPS propellants be achieved by firing the plus-X thrusters on all four quads around the Service Module for 12 seconds. The burn, if required, would be made after jettisoning the Lunar Module and with the spacecraft still in the descent orbit; i.e. without a circularisation burn having been made. Finally, Earth landing would then occur at about 196 hours into the mission and in the mid-Pacific landing area. Note that this last item was not specified in the TEI-5 abort PAD, read up at 081:34:19 GET.
+085:50:22 Irwin: Okay. TEI-12 readback: SPS/G&N 38110; plus 0.58, plus 1.00; 101:36:08.38; plus 2845.0, minus 0380.2, minus 0063.8; 180, 107, 354; 4 jets for 12 seconds. Undocked, no circular burn. Assumes landing at 196 GET at the MPL.
+085:50:58 Henize: That's all correct. [Long pause.]
+085:51:31 Henize: 15, we need the mode switch in Auto please. [Long pause.]
+085:51:48 Worden: Houston, 15. What - what switch you talking about, Karl? [Pause.]
+085:51:57 Henize: That's the CMC Mode switch. I guess we need to get into Auto before we can execute this maneuver.
+085:52:05 Scott: That's affirmative. And I'll go into Auto as soon as I complete the 40 degrees roll.
+085:52:10 Henize: Roger.
+Comm break.
+A fresh lithium hydroxide canister, number 9, is being placed in receptacle A while the exhausted one, number 7, is stowed in compartment B6.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+085:55:07 Henize: 15, Houston. On the Mass Spectrometer operations down there at 59 minutes, we'd like to have you keep the Discriminator, Low, as it is now. And, as the Ion Source goes On, we would like to have you pause in the Off position until you get our cue. [Pause.]
+Off is the central position of the Ion Source switch between Standby, its current position, and On.
+Mission Control are requesting that they keep the Discriminator for the Mass Spectrometer in its Low setting because of scattered sunlight causing excessive background counts in the instrument's detection electronics.
+085:55:30 Worden: Roger; understand. You want the Discriminator left in Low, and want us to pause in Off on the Ion Source on your cue.
+085:55:37 Henize: Roger. And I - I - think you know that we'd probably - that we - we don't want to go into those operations until we have got into the correct attitude.
+Comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+085:58:09 Henize: 15, this is Houston.
+085:58:14 Worden: Houston, 15; go ahead.
+085:58:17 Henize: Couple of special notes on the hardware. First of all, on - on the Systems Test Meter - we don't fully understand why that switch did funny things for us, and we have some back in - the fairly extensive tests going on down here still trying to understand it. And we suggest that you leave the meter in the 5-B position until we do get some handle on what happened there.
+085:58:46 Worden: Okay, Karl. We copy that.
+Even the smallest anomaly in one of the spacecraft's systems is exhaustively analysed to try and ensure there will be no surprises. Both the SPAN (Spacecraft Analysis) room and the MER (Mission Evaluation Room) will be beavering away at diagrams and specifications of the Systems Test Meter switch, as well as working with the spacecraft contractors, trying to leave nothing to chance.
+085:58:48 Henize: Okay. And I just heard the word that, if you really need it, go ahead and use it, but if you don't have a strong reason for moving it, leave it as it is. And on - We're - we're observing the radiator temperature - occasionally cycling above 80 degrees. This is out of limits, and we don't really have a good solution for this at the present time. We could think about turning on the evaporator, but that would foul up the Mass Spectrometer, and we'd rather not do that. The only things that it's - that the high temperature would be bothering are the IMU PIPAs [Pulse Integrating Pendulous Accelerometers], and we have - we - Since the temperature is cycling up and down, cools off on the back side of the Moon, we - or on the dark side of the Moon, we - we think there's no - no imminent danger to that system. So, our feeling on that is to leave the system as it is. [Pause.]
+As the Mass Spectrometer is intended to sample the very tenuous lunar atmosphere, it is highly susceptible to contamination from the spacecraft. The two large radiators on the spacecraft are designed to lose only a certain amount of heat. As the spacecraft cycles between lunar night and day, a supplemental cooling system mounted on the SM uses the evaporation of water in a vacuum to carry away excess heat, essentially dealing with the temperature peaks. Although the Mass Spectrometer is carried on the end of a boom, it is feared the resulting water vapour cloud from the evaporator would saturate the experiment.
+085:59:52 Scott: Okay. We understand.
+Comm break.
+Flight Plan page 3-92.
+86 hours into the mission is the official time for the crew to begin a 7.7 hour rest period. It will be ten minutes before conversation with Karl Henize finishes and they will have a call seven and a quarter hours later. The presleep checklist is being worked on just now which includes reading the status of batteries, RCS tanks and the PRDs.
+086:00:58 Irwin: Houston, this is 15 with some onboard read-outs for you and PRD's.
+086:01:04 Henize: Go ahead, 15.
+086:01:11 Irwin: Roger. Bat C is 37 [volts]; pyros A and B are both 37.5 [volts]; RCS 83, 82, 82 and 83 [per cent]. The PRD readings; 23072, 25014, and 08016. [Long pause.]
+086:01:56 Henize: Roger, 15. We copy all that. [Long pause.]
+086:02:41 Irwin: Houston, this is 15. The Ion Source is Off, and we're standing by for your word. [Pause.]
+086:02:52 Henize: We copy, 15. Stand by.
+Comm break.
+086:04:14 Henize: 15, this is Houston. Let's continue standing by on that Ion Source switch. We'd like to get all the way into attitude before we go into the On position.
+086:04:27 Irwin: Roger.
+Long comm break.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+086:07:57 Henize: 15, this is Houston. We're ready for the E-memory dump.
+086:08:05 Worden: Okay, Karl. Coming at you. [Pause.]
+The E-Memory dump is the final item on the presleep checklist. It allows Mission Control to study the computer's memory and check its contents.
+086:08:13 Henize: And, 15, we're ready now for the Ion Source switch, On.
+086:08:20 Worden: Ion Source going On.
+With the Ion Source, On, the Mass Spectrometer begins full operation which will continue for the next nine hours.
+Designed to characterise the lunar atmosphere, the Mass Spectrometer measures the atomic weight of the atoms and molecules which enter an aperture on one side of the instrument.
+Cutaway diagram of Mass Spectrometer.
+When the spacecraft is flown in an attitude that has the minus-X axis facing forward (i.e. the SPS engine bell facing forward), particles from the lunar atmosphere are rammed into an inlet where they are electrically charged (ionised) by electrons from a filament source. A magnet diverts the path of the resultant ion stream towards two detectors. Simply stated, the heavier an atom or molecule, the more resistant its motion is to change by a magnetic field. By measuring the deflection of the particle stream, the masses of its constituent parts can be determined. The two detectors will detect particles in the mass range of 12 to 66 atomic mass units.
+The inlet is mounted on the opposite side of the instrument from the CSM to shield it from gases emanating from the spacecraft. By changing the angle of attack of the inlet, it is possible to discriminate between CSM contaminants and genuine lunar atmosphere.
+According to the 'Apollo 15 Preliminary Science Report', little difference was detected between the inlet pointing into the flight path and pointing into the spacecraft's wake. This implies that most of what the instrument detects is, essentially, pollution from the spacecraft.
+The later reference work, the 'Lunar Sourcebook' by Heiken, Vaniman and French, elaborates on this by pointing out how longer term surface experiments placed by Apollo 12, 14, 15 and 17 were deluged with contaminants from Apollo operations which made it very difficult to extract natural data from their results. This is hardly surprising considering that estimates for the total mass of the natural lunar atmosphere are around 10 metric tonnes and a similar quantity of gases are released during each Apollo mission, mostly from operation of the descent and ascent engines.
+Your browser does not support the audio element.
+[Download MP3 audio file. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.]
+086:10:29 Irwin: Houston, 15. We're going to configure communications for sleep. [Long pause.]
+086:10:50 Henize: 15, Houston. Could you hold off on that until just after LOS.
+086:10:58 Irwin: Okay. [Long pause.]
+086:11:18 Henize: Okay, 15. Our last worry seems to be cleared up down here. We've got nothing more to bother you with, and all we can do is wish you a good night's sleep.
+086:11:30 Irwin: Thank you, Karl. Good night.
+086:11:32 Henize: Good night.
+This is Apollo Control at 86 hours, 13 minutes. We have lost the signal now on revolution 4. We've said 'good night' to the crew. Don't expect to talk to them until morning. The voice carrier has been turned off. We'll take this line down now at 86 hours, 14 minutes. We're estimating the change of shift news conference for 11:15 pm Central Daylight Time in the News Center briefing room. Flight Director Gene Kranz is preparing to relieve Milt Windler and his Flight Controller team. At 86 hours, 14 minutes; this is Mission Control, Houston.
+Apollo 15 will begin Rev 5 at about 086:36 during the next far-side pass. The crew's rest period will continue until nearly the end of revolution 8.
+Day 4, part 2: Lunar Orbits 1 & 2
+Journal Home Page
+Day 5, part 1: Waking In the Descent Orbit

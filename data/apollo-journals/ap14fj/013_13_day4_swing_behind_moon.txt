@@ -1,0 +1,244 @@
+A14FJ - Day 4, part 4: Apollo 14 Swings Behind the Moon
+Day 4, part 3: Checking the LM EPS
+Journal Home Page
+Day 4, part 5: Lunar Orbit Insertion and First Impressions
+Apollo 14
+Day 4, part 4: Apollo 14 Swings Behind the Moon
+Corrected Transcript and Commentary Copyright © 2020-2025 by W. David Woods, Ben Feist, Ronald Hansen and Johannes Kemppanen. All rights reserved.
+Last updated 2025-04-21
+The Moon is about to welcome the sixth manned spacecraft to visit our natural satellite, with Apollo 14 and Al Shepard, Stu Roosa and Ed Mitchell preparing to enter lunar orbit. All systems are Go at the moment, and previous concerns about the Lunar Module's electrical power system have been proven unfounded with a series of extra checks.
+Editor's note: All transcript times are presented according to the GET update at 054:53:36 that saw the mission timer moved forward 40 minutes, 2.90 seconds.
+This is Apollo Control. 78 hours 57 minutes Ground Elapsed Time. Apollo 14 some 3 hours 26 minutes from loss of signal as it passes behind the Moon on the first coasting in to Lunar Orbit Insertion burn coming up later this evening. Lunar Module Pilot Ed Mitchell crossed over into the Lunar Module earlier and just - has completed a checkout of the electrical system in the Lunar Module in which the concern is on the low ... In which the concern was on the low voltage reading of about 3 tenths of a volt under normal of ascent battery number 5. By selectively switching the various loads back and forth between this battery and the other ascent battery, measuring the load sharing capability, the voltage readings with the various loads, it was determined as mentioned by the acting spacecraft communicator, Joe Engle, that the battery looks okay at this time, and as of now they're go for continuing toward a lunar landing mission. There's an extensive checkout of Lunar Module systems prior to the undocking and our descent maneuver on up till landing, but as of now, the ascent batteries, especially battery number 5 is go at this time. Some gee whiz numbers, would you believe they've disappeared from my display. At 78 hours 59 minutes Ground Elapsed Time this is Apollo Control.
+Flight Plan page 3-075
+079:24:46 Haise: 14, Houston.
+079:24:52 Shepard: Go ahead.
+079:24:54 Haise: Okay, we'd like P00 and Accept, and we'll pump you up the state vector, preliminary target load and REFSMMAT. [Long pause.]
+079:25:27 Haise: Did you copy, 14?
+079:25:33 Shepard/Mitchell: We've got it.
+079:25:35 Haise: Okay.
+Long comm break.
+079:31:42 Haise: 14, Houston. The computer is yours now.
+079:31:48 Shepard: Okay.
+Long comm break.
+079:38:26 Haise: 14, Houston.
+079:38:31 Mitchell: Go ahead.
+079:38:33 Haise: Okay, I have a preliminary LOI maneuver PAD ready. [Long pause.]
+079:39:31 Mitchell: Okay, Freddo. I'm ready to copy your preliminary LOI-1 PAD.
+079:39:38 Haise: Okay, it's SPS/G&N, 63306, plus 0.90, minus 0.33; 082:36:46.55; minus 2801.9, minus 1105.3, minus 0227.3; 351, 258, 326; 0172.3, plus 0058.4; 3020.6, 6:12, 3013.1; 12, 288.3, 27.1; and the rest of the column N/A. Star 15, Sirius, and star 12, Rigel.
+Comm break.
+079:41:18 Haise: Okay, on the zero mark, the set stars R-align, 127; P-align, 148; Y-align, 015; no ullage; LM weight, 33675. [Long pause.]
+079:41:54 Mitchell: Freddo, would you give me the minutes of Noun 33 again, please?
+079:42:00 Haise: Okay, 36.
+079:42:08 Mitchell: Okay, it's an LOI preliminary SPS/G&N, 63306, plus 0.90, minus 0.33; 082:36:46.55; minus 2801.9, minus 1105.3, minus 0227.3; 351, 258, 326; 0172.3, plus 0058.4; 3020.6, 6:12, 3013.1; 12, 288.3, 27.1; the rest NA. Set stars, Sirius and Rigel, at 127, 148, 015; no Ullage; LM weight, 33675. [Long pause.]
+A fuller interpretation of the PAD follows:
+Purpose: The maneuver is a preliminary LOI PAD which can be used to get the spacecraft into lunar orbit. It will be refined later as more tracking data is obtained.
+System: The burn will use the SPS engine, controlled by the spacecraft's Guidance and Navigation system.
+CSM weight (Noun 47): 63,306 pounds (28,715 kg).
+Pitch and yaw trim (Noun 48): +0.90° and -0.33°.
+Time of ignition, TIG (Noun 33): 82 hours, 36 minutes, 46.55 seconds.
+Change in velocity (Noun 81), fps (m/s): X, -2,801.9 (-854.0); Y, -1,105.3 (-336.9); Z, -227.3 (-69.3) These velocity components are all given with respect to the local vertical frame of reference.
+Local vertical is a frame of reference that is relative to a line drawn from the spacecraft to the centre of the body it is orbiting, or whose sphere of influence it is in. In later years, it would be referred to as 'local vertical/local horizontal'.
+Diagram to explain the Local Vertical frame of reference
+Imagine the point where this line intersects the planet's surface. We can further imagine a flat plane at this point parallel to the horizontal. Obviously, as the spacecraft moves across the planet, the absolute orientation of this plane keeps changing but it provides a useful reference for orbital velocity computation. In this arrangement, the plus-Z axis is along the vertical line towards the planetary centre, the plus-X axis is in the direction of orbital motion parallel to the local horizontal and the plus-Y axis is perpendicular to the orbital plane.
+With this, we can make more sense of the velocity components given in the PAD. The large figure for X shows that the burn is largely retrograde, against the spacecraft's motion. The figure for Y shows a degree of velocity is being added out of the spacecraft's arrival orbital plane. This will be part of ensuring it ends up in the correct plane for the landing site. The figure for Z is small in comparison and is away from the Moon's centre. Returning to the PAD data:
+Spacecraft attitude at TIG: Roll, 351°; Pitch, 258°; Yaw, 326°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform.
+HA, expected apocynthion of resulting orbit: 172.3 nautical miles (319.1 km) - this is the highest point of the new orbit.
+HP, expected pericynthion of resulting orbit: 58.4 nautical miles (108.2 km) - this is the lowest point of the new orbit.
+Delta-VT: 3,020.6 fps (920.7 m/s). This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 6 minutes, 12 seconds.
+Delta-VC: 3,013.1 fps. Using its ability to independently measure acceleration, the EMS can shut down the engine in case the G&N system fails to do so. This figure, Delta-VC, is entered into the EMS's Delta-V counter (hence Delta-VC) and the value is slightly lower than Delta-VT because the EMS does not take account of the engine's tail-off thrust.
+Sextant star: Star 12 (Rigel, Beta Orionis) visible in sextant when shaft and trunnion angles are 288.3° and 27.1° respectively. This is a check that the spacecraft is in the proper attitude.
+Boresight star: Not applicable. This is a second attitude check which is made by sighting on another celestial object with the COAS (Crew Optical Alignment Sight).
+GDC Align stars: The stars to be used for GDC Align purposes are Sirius and Rigel should the IMU fail.
+GDC Align angles: Roll, 127°; pitch, 148°; yaw, 15°.
+Since the tanks in the Service Module are full, there is no need to perform a ullage burn to settle their contents. The weight of the LM is stated at 33,675 pounds (15,275 kg). This information is required for the guidance software to incorporate into the burn equation.
+079:43:08 Haise: Okay, Ed; was good readback.
+079:43:17 Mitchell: Okay.
+079:43:22 Shepard: And, Houston; 14. Did you get the 93s and the torquing time?
+079:43:29 Haise: We've got the 93s, Al, but we need the torque time.
+079:43:37 Shepard: Okay, 079:39:20.
+079:43:43 Haise: Copy, 079:39:20.
+Comm break.
+079:46:27 Haise: 14, Houston.
+079:46:33 Shepard: Go ahead.
+079:46:34 Haise: Al, while you still maybe got that PAD book handy, I got a TEI-4 PAD ready to come up. [Long pause.]
+079:47:07 Shepard: Okay. Go ahead with your PAD.
+079:47:10 Haise: Roger. TEI-4: SPS/G&N; 38242; plus 0.90, minus 0.33; 091:17:38.52; plus 3903.4, plus 0706.3, minus 0165.8; 181, 069, 012. Rest of column N/A. Ullage four jets, 14 seconds. Other remarks: assumes burn undocked, and assumes no DOI. Okay and ... [Long pause.]
+079:48:07 Shepard: TEI-4 and SPS/G&N ... [Long pause.]
+079:48:22 Haise: Okay, I've got one correction before you read back, Al. They gave me the docked pitch and yaw trim, the Noun 48s, and I need to change those on you right now. Okay. The pitch should be minus 0.57, and the yaw trim, plus 0.40. [Long pause.]
+The SPS engine nozzle can be pointed to compensate for variations in the center of mass during the burn. These might be due to the differing amount of fuel inside the SPS tanks for each burn, for example, or whether the burn is made with the LM attached. Fred's initial values read up to the crew were for a burn to be made with a docked LM.
+079:49:01 Shepard: Okay, I have it as follows: TEI-4: SPS/G&N, plus 38242; minus 0.57, plus 0.40; 091:17:38.52, plus 3903.4, plus 0706.8. I need Delta-VZ; 181,069,012; four-jet ullage, 14 seconds, burn undocked. [Long pause.]
+079:49:41 Haise: Okay, Al. Noun 81, I maybe heard you wrong. Delta-VY, first, should be plus 0706.3; and the Delta-VZ, minus 0165.8, and the last remark is "assumes no DOI." [Long pause.]
+079:50:15 Shepard: All right, will repeat Delta-VY, plus 0706.3, and minus 0165.8; last remark, "assumes no DOI."
+The PAD is interpreted as follows:
+Purpose: This PAD is for an abort burn that would be made at the start of the fourth orbit around the Moon, in case they would need to make an emergency return to Earth.
+System: The burn would be made using the large SPS (Service Propulsion System) engine at the rear of the Service Module, under the control of the Guidance and Navigation system.
+CSM weight (Noun 47): 38,242 pounds (17,346 kg). Notice that this value is substantially less than has been seen in previous abort PADs. This is because the burn would be used only after entry into lunar orbit when roughly half of the SM propellants would have been used up on the LOI burn.
+Pitch and yaw trim (Noun 48): -0.57° and +0.40°. These angles represent an initial direction for the gimbal-mounted engine in order to fire through the predicted centre of mass of the spacecraft.
+Time of ignition, TIG (Noun 33): 91 hours, 17 minutes, 38.52 seconds.
+Change in velocity (Noun 81), fps (m/s): X, +3,903.4 (+1,189.8); Y, +706.3 (+215.3); Z, -165.8 (-50.5). These velocities are expressed with respect to the local vertical frame of reference. We can see that the burn would be mostly prograde, in the same direction as the orbital motion.
+Spacecraft attitude at TIG: Roll, 181°; Pitch, 69°; Yaw, 12°. The desired spacecraft attitude would be relative to the alignment of the guidance platform at that time.
+This is an abbreviated P30 PAD. SPS propellants are settled in their tanks by firing the plus-X thrusters on all four quads around the Service Module for 14 seconds. The details of the burn assumes that the CSM is without the LM and that the spacecraft has not been placed in the descent orbit, one in which the low point is only 17 kilometres.
+079:50:26 Haise: Okay. Good readback.
+Long comm break.
+This is Apollo Control at 79 hours, 51 minutes GET. The countdown clock showing 2 hours and 45 minutes, 37 seconds until lunar orbit insertion ignition and 2 hours, 32 minutes until the spacecraft passes behind the Moon on the beginning of the first revolution. Earlier, you heard the spacecraft communicator pass up to the crew all the numbers necessary for the lunar orbit insertion burn, which is now scheduled for Ground Elapsed Time of 82 hours 36 minutes 46 seconds with a retrograde of velocity decrease of 3020 feet per second [920 m/s]. The Lunar Module Pilot, Ed Mitchell went into the Lunar Module earlier in the evening and checked out the electrical system and in watching the telemet - telemeter displays here in Mission Control, Apollo program Director Rocco Petrone made the following comment: "We are happy with what we saw. We haven't found anything to preclude descent. Other ground tests are under way to further verify battery performance. During the test, battery 5 shared the loads applied very well without draining power from battery 6. The battery recovered readily after the load was removed. At one time the load was pushed to 30 amps during the test. The entire LM battery system will be thoroughly checked out during the power up of the Lunar Module on descent day. We did however, determine that the .3 of a volt low reading recorded earlier in the mission was not an instrumentation fault." Presently Apollo 14 is 6,863 nautical miles [12,710 km] out from the Moon increasing in velocity as it falls inward toward lunar orbit. Velocity now reading 4,083 feet per second [1,244 m/s]. At 79 hours, 53 minutes Ground Elapsed Time, this is Apollo Control.
+079:56:56 Haise: 14, Houston.
+079:57:01 Shepard: Go ahead, Houston.
+079:57:03 Haise: Okay, if Ed's got a minute there, I'd like to proceed through a little bit of looking at the high gain.
+079:57:16 Mitchell: Okay, Freddo. Just 1, please.
+079:57:18 Haise: Okay. [Long pause.]
+079:57:34 Mitchell: Okay, I'm ready. What do you want to do?
+079:57:36 Haise: Okay, first match your dial of pitch and yaw indications with what you're reading on the indicators. [Long pause.]
+079:57:59 Mitchell: Okay.
+079:58:00 Haise: Now, Manual and Wide. [Long pause.]
+079:58:12 Mitchell: Okay, you have it.
+079:58:14 Haise: Okay, put the High Gain Servo Electronics switch back to Primary, and after that go through another normal acquisition.
+079:58:28 Mitchell: Okeydoke.
+079:58:38 Mitchell: It locked up, immediately, Freddo.
+079:58:41 Haise: Very good.
+079:58:47 Mitchell: The only thing different than what it was doing this morning was that, it was not increasing signal strength immediately upon going to Medium or Narrow.
+079:58:56 Haise: Roger, Ed.
+079:58:59 Mitchell: And - and, of course, it seemed to be oscillating after that. It's steady now.
+079:59:06 Haise: Okay.
+Very long comm break.
+Flight Plan page 3-076
+080:09:53 Haise: 14, Houston.
+080:09:57 Shepard: Go ahead.
+080:10:00 Haise: Is everybody on the line now, Al, so I can pass up this docking probe status?
+080:10:09 Shepard: Stand by 1.
+080:10:11 Haise: Okay. [Long pause.]
+080:10:37 Shepard: Houston, can we give you a call in about 20 minutes?
+080:10:41 Haise: Okay.
+Very long comm break.
+080:24:55 Shepard: Houston, 14. I have the null bias check figures for you.
+080:25:00 Haise: Go ahead, Al.
+080:25:06 Shepard: Okay, we went from minus 100, to minus 985.
+080:25:16 Haise: Okay, we got that, Al.
+Very long comm break.
+080:47:04 Shepard: Houston, Apollo 14. We're ready for the discussion of the probe, now.
+080:47:10 Haise: Okay, Al. Okay, the conclusion down here is that on your final attempt, the probe spring started to compress slightly, followed by the capture latch engagement talkbacks going barber pole. The bottle then fired and the retraction looked normal, although the time was somewhat shorter due to the contingent firing of the Command Module RCS jets. The talkback operation during the initial extension in the final docking, plus the accelerometer data, and also the look-see at the capture latch release motor currents during the extension, all indicated a normal extension, capture, and retract sequence. Some consideration, Al, was given to the possibility that the RCS thrusting compressed the drogue/probe maybe until the docking latches engaged, but the final word was that this would require more force than the RCS could provide. And I guess the most important fact is - as discussed yesterday, we're Go for the mission.
+080:47:56 Shepard: Okay. Do you suggest any special docking technique for the final docking and rendezvous?
+Comm break.
+080:49:06 Haise: Yes, we're, we're still ...
+080:49:07 Shepard: I'm thinking of course in ...
+080:49:11 Haise: Okay, we don't have any ...
+080:49:12 Shepard: ... I'm thinking, of course, in terms of the different masses.
+080:49:15 Haise: Roger, Al. We don't have any procedure ready at this time. We're still thinking about the possibilities, and we'll have that ready for you before the time.
+080:49:31 Shepard: Okay.
+080:49:33 Roosa: Hey, Fred?
+080:49:34 Haise: Go ahead.
+080:49:38 Roosa: Okay, could we hit that again, now? I guess I don't understand why - why it didn't work on the other - on the other docking.
+080:49:52 Haise: Yes, I guess we don't have that answer for you, Stu.
+080:50:00 Haise: All, all we can say is ...
+080:50:02 Roosa: Are - are we saying that the ...
+080:50:07 Haise: Yes. We can't explain the preceding attempts, but all we're saying is that the one that worked looked normal.
+080:50:22 Roosa: Okay, I guess I disagree with it looking normal, but the probe sure does look good now. Are you saying there's no correlation between the retraction and the - I mean, using the retract bottle and getting the docking? [Long pause.]
+080:50:57 Haise: Stand by 1, Stu. [Long pause.]
+080:51:25 Haise: Okay. I'm not sure if I'm answering the question you, you, asked, Stu, but what the data showed is that the - the bottle had fired, and started to pull things in before you all actually worked the switch and maybe you thought the reverse was true. [Long pause.]
+080:51:51 Roosa: What? Let me see - say that again, Fred. I don't understand that one.
+080:52:04 Haise: Okay, I guess there's a distinction in, maybe your impressions, and what the data said was that you did get captured, normally before the bottle was fired. Did you all have a different impression? [Long pause.]
+080:52:24 Roosa: Yes. Stand by 1.
+080:52:34 Roosa: Yes, Fred, our impression was that - see the talkbacks going barber pole, which would indicate the capture by the latches - didn't happen until, oh, I think as Al said the other time, several seconds after he hit the Retract switch. [Long pause.]
+080:53:04 Roosa: Hey, but we're not trying to talk you out of anything that - we think the probe is - is - fine, we just want to make sure we're clarified on the procedures.
+080:53:16 Haise: Okay, Stu.
+Very long comm break.
+Flight Plan page 3-077
+081:09:59 Haise: 14, Houston.
+081:10:04 Roosa: Go ahead, Houston.
+081:10:06 Haise: Okay. We'd like P00 and Accept, and we'll get you in the final vector and target load.
+081:10:18 Roosa: Okay, Freddo. You got it.
+081:10:20 Haise: Okay. And I'm ready with the LOI PAD now.
+081:10:26 Mitchell: Stand by 1, Freddo. [Long pause.]
+081:10:42 Mitchell: Just a minute, Fred. Is this going to be a correction to the previous PAD, or a complete new PAD?
+081:10:47 Haise: Well, it's a final one, and I think there's enough difference, you probably ought to use another sheet there.
+081:11:00 Mitchell: Okay.
+081:11:07 Mitchell: Ready to copy.
+081:11:09 Haise: Okay. SPS/G&N; 63306; plus 0.90, minus 0.33; 082:36:42.70; minus 2804.9, minus 1103.5, minus 0227.0; 351, 258, 326; 0169.3, plus 0058.1; 3022.7, 6:12, 3015.2; 12, 288.3, 27.1. The rest of column N/A, and all the comments in the set stars information is the same as before.
+Comm break.
+081:12:35 Mitchell: Okay. On the LOI PAD, SPS/G&N; 63306; plus 0.90, minus 0.33; 082:36:42.70; minus 2804.9, minus 1103.5, minus 0227.0; 351, 258, 326; 0169.3, plus 0058.1; 3022.7, 6:12, 3015.2; 12, 288.3, 27.1; the rest, N/A, and set stars and ullage, and LM weight remain the same. [Long pause.]
+A preliminary PAD for Lunar Orbit Insertion was read up about 1½ hours ago. This is the final version and is based on more recent tracking data. The preliminary PAD would be perfectly adequate to perform the LOI task but to a lesser accuracy. An interpretation of the PAD follows:
+Purpose: This PAD is for a burn behind the Moon to slow their velocity enough to enter into lunar orbit.
+System: The burn would be made using the large SPS (Service Propulsion System) engine at the rear of the Service Module, under the control of the Guidance and Navigation system.
+CSM Weight (Noun 47): 63,306 pounds (28,715 kg).
+Pitch and yaw trim (Noun 48): +0.90° and -0.33°. These angles represent an initial direction for the gimbal-mounted engine in order to fire through the predicted centre of mass of the spacecraft.
+Time of ignition, TIG (Noun 33): 82 hours, 36 minutes, 42.70 seconds.
+Change in velocity (Noun 81), fps (m/s): X, -2,804.9 (-854.9); Y, -1,103.5 (-336.3); Z, -227.0 (-69.2). These velocities are expressed with respect to the local vertical. The large negative X component indicates the retrograde nature of the burn and there is a sizeable out-of-plane or Y component.
+Spacecraft attitude at TIG: Roll, 351°; Pitch, 258°; Yaw, 326°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform.
+HA, expected apocynthion of resulting orbit: 169.3 nautical miles (313.5 km).
+HP, expected pericynthion of resulting orbit: +58.1 nautical miles (+107.6 km). Note that Mission Control are explicit in the sign of this value, a 'plus' confirming that it is above, not below the surface.
+Delta-VT (Noun 81): 3,022.7 fps (921.3 m/s). This is the total velocity change after vector summation of the three velocities.
+Burn duration or burn time: 6 minutes, 12 seconds.
+Delta-VC: 3,015.2 fps. Using its ability to independently measure acceleration, the EMS can shut down the engine in case the G&N system fails to do so. This figure, Delta-VC, is entered into the EMS's Delta-V counter (hence Delta-VC) and the value is a little lower than Delta-VT because the EMS does not take account of the engine's tail-off thrust.
+Sextant star: Star 12 (Rigel, Beta Orionis) visible in sextant when shaft and trunnion angles are 288.3° and 27.1° respectively. This is part of an attitude check.
+GDC Align stars: The stars to be used for GDC Align purposes are Sirius and Rigel should the IMU fail.
+GDC Align angles: Roll, 127°; pitch, 148°; yaw, 15°.
+The accompanying notes for this PAD remain as with the preliminary LOI PAD. They are that since the tanks in the Service Module are full, there is no need to perform a ullage burn to settle their contents. The weight of the LM is 33,675 pounds (15,275 kg), information required for the guidance software to incorporate into the burn equation.
+081:13:44 Haise: Good readback, Ed.
+081:13:55 Haise: And, 14; Houston. The computer's yours.
+081:14:01 Shepard: Okay, Houston. Good. [Long pause.]
+081:14:50 Haise: 14, Houston.
+081:14:55 Mitchell: Go ahead.
+081:14:57 Haise: Ed, if you have any problem acquiring with the High Gain back at LOS - or AOS - in Auto, just put her in Manual and Wide, and we can get the dump and everything there.
+081:15:13 Mitchell: Okay, Freddo. Will - will do. [Long pause.]
+081:16:12 Haise: 14, Houston. When you can work it in, I got the map updates for Rev 1.
+081:16:20 Roosa: Okay, Freddo. I'm ready to copy.
+081:16:23 Haise: Okay. LOS, 82:23:58; 180: 82:38:30; AOS with, 82:56:27; and AOS without, 82:49:15. [Long pause.]
+081:16:53 Mitchell: Okay, Freddo. 82:23:58; 82:38:30; and the one we'll use 82:56:27; and 82:49:15.
+The Map Update PAD is interpreted as follows:
+REV: 1
+LOS: 82:23:58 GET
+180°: 82:38:30
+AOS: 82:56:27
+These are timing references for the crew's first pass around the far side.
+081:17:06 Haise: Good readback.
+Long comm break.
+081:22:08 Haise: 14, Houston.
+081:22:13 Mitchell: Go ahead.
+081:22:15 Haise: Okay. When you get to the - or it's convenient in here, Ed - when you're fiddling with the O2 heater switches, we'd like the 50-Watt Heater breaker on 226 for tank 3 that you have open, we'd like that one closed now. [Long pause.]
+081:22:56 Mitchell: You have it, Freddo.
+081:22:58 Haise: Okay.
+Very long comm break.
+This is Apollo Control 81 hours 27 minutes Ground Elapsed Time. Still 1 hour 9 minutes out from lunar orbit insertion maneuver which will be service propulsion system burn behind the Moon. To recapitulate the maneuver PAD or the numbers used by the crew in loading the - conversation here, stand by.
+At any rate picking up again, and recapitulating the maneuver PAD for Lunar Orbit Insertion. The time of ignition will be 82 hours 36 minutes 46 seconds, burn time 6 minutes 12 seconds. Total delta V or change of velocity retrograde, 3022 feet per second [921 m/s]. This is calculated to produce an elliptical lunar orbit with a pericynthion of 58.1 nautical miles [107.6 km] and an apocynthion of 169.3 nautical miles [313.5 km]. Assuming the normal burn for lunar orbit insertion, the spacecraft will again be acquired by the ground tracking stations at 82 hours 56 minutes 27 seconds Ground Elapsed Time. But without a burn the AOS time will be 82 49 15. Apollo 14 will settle into a lunar orbit after the LOI burn with a velocity in orbit of 5548 feet per second [1,691 m/s]. Another event coming up is the S-IVB impact at around 82 hours 37 minutes Ground Elapsed Time. The S-IVB stage will thump into the Moon at about 8347 feet per second [2,544 m/s], which should give the seismometer at the Apollo 12 site a pretty good workout. Present altitude above the Moon 2858 nautical miles [5,293 km], velocity continuing to increase as the spacecraft nears the Moon, now showing 4941 feet per second [1,506 m/s]. At 81 hours 30 minutes Ground Elapsed Time this is Apollo Control.
+081:43:13 Mitchell: Houston, Apollo 14. How do you read now?
+081:43:15 Haise: Loud and clear, Ed.
+081:43:20 Mitchell: Okay, I am on Omni Charlie.
+081:43:23 Haise: Okay, Ed.
+081:43:27 Mitchell: Say again.
+081:43:28 Haise: Okay, Ed. Copied Omni Charlie.
+081:43:33 Mitchell: Okay.
+081:43:35 Shepard: And, Houston, we're in burn attitude.
+081:43:38 Haise: Roger. In burn attitude.
+Long comm break.
+081:47:56 Roosa: And, Houston; 14. The sextant star check is real good.
+081:48:01 Haise: Roger, Stu.
+Long comm break.
+081:53:23 Haise: 14, Houston. We've got your VGs and P40, and they look mighty fine.
+081:53:31 Roosa: Okay.
+081:53:32 Shepard: Okay.
+081:53:36 Mitchell: How you doing today, Ron?
+081:53:37 Haise: Hey, real good.
+Very long comm break.
+Flight Plan page 3-079
+082:07:20 Haise: Hey, 14; Houston.
+082:07:25 Mitchell: Go ahead.
+082:07:27 Haise: Okay, Ed. We're still showing the O2 flow up a little bit for about an hour now. I just wondered there. You still venting something maybe?
+082:07:37 Mitchell: We turned it off a few minutes ago. It should be coming down shortly.
+082:07:40 Haise: Okay, Ed.
+082:07:42 Roosa: It's already started to drop down Freddo. I think it'll be down normal real soon.
+082:07:48 Haise: Okay.
+Long comm break.
+082:12:31 Haise: 14, Houston.
+082:12:37 Shepard: Go ahead, Houston.
+082:12:38 Haise: Hey, Al. Everything looks good down here and you have a GO for LOI.
+082:12:46 Shepard: Thank you. We'll give it a GO for LOI.
+Very long comm break.
+082:22:57 Shepard (onboard): S-IVB lunar impact, 83:07.
+082:23:06 Haise: 14, Houston.
+082:23:12 Mitchell: Go ahead.
+082:23:14 Haise: Okay. We're about 45 seconds now to LOS, Ed. We'll see you on the other side.
+082:23:23 Mitchell: Roger, Freddo. Thank you.
+Very long comm break.
+Day 4, part 3: Checking the LM EPS
+Journal Home Page
+Day 4, part 5: Lunar Orbit Insertion and First Impressions

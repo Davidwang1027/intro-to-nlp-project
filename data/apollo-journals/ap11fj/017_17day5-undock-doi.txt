@@ -1,0 +1,767 @@
+Apollo 11 Flight Journal - Day 5, part 2: Undocking and the Descent Orbit
+Day 5, part 1:
+Preparations for Landing
+Journal Home Page
+The First Lunar Landing
+(ALSJ)
+Day 6, part 2:
+Rendezvous and Docking
+Apollo 11
+Day 5, part 2: Undocking and the Descent Orbit
+Corrected Transcript and Commentary Copyright © 2009-2025 by W. David Woods, Kenneth D. MacTaggart and Frank O'Brien. All rights reserved.
+Last updated 2025-07-23
+Index to events
+Undocking
+100:12:03 GET
+Acquisition Of Signal on Rev 13
+100:16:00 GET
+Descent Orbit Insertion (DOI) PAD
+100:20:32 GET
+Powered Descent Initiation (PDI) PAD
+100:22:05 GET
+P52 LM platform realignment
+101:17:07 GET
+Loss Of Signal towards the end of Rev 13
+101:28:00 GET
+Descent Orbit Insertion
+101:36:14 GET
+Acquisition Of Signal for CSM on Rev 14
+102:14:38 GET
+Acquisition Of Signal for LM on Rev 14
+102:16:25 GET
+This part of the transcript commences as Apollo 11 passes behind the Moon on its last orbit before undocking. It re-emerges as two separate spacecraft with their own call signs, Columbia and Eagle. They make one further lunar orbit, then the Eagle enters its descent orbit by firing its main engine behind the Moon. This section of the transcript ends with the spacecraft re-appearing from behind the Moon, prior to the Eagle making its final descent and the first lunar landing in the Sea of Tranquillity, an account of which is continued in the Apollo Lunar Surface Journal.
+Though the two spacecraft are still joined at their docking ports, the docking equipment has been installed in the tunnel and the hatches on either side are in place. Neil and Buzz in the LM are separated from Mike in the CM and can only communicate by radio.
+099:31:42 Collins (onboard): It's nice and quiet over here, isn't it?
+099:31:56 Collins (onboard): Eagle, you read Columbia?
+099:31:58 Aldrin (onboard): Roger. Loud and clear.
+099:32:03 Collins (onboard): Okay, everything's going well. Everything's quiet over on this side.
+099:32:07 Aldrin (onboard): You bet.
+099:32:09 Collins (onboard): Okay. I'm standing by to record your data any time it's convenient for you. Angles coming up in another 2 minutes.
+099:32:31 Aldrin (onboard): Okay, I'm ready to go to B-Data now.
+099:32:35 Collins (onboard): Roger and out.
+099:33:00 Aldrin (onboard): Columbia, Eagle. How do you read?
+099:33:04 Collins (onboard): Read you loud and clear, Buzz.
+099:33:06 Aldrin (onboard): Very good.
+099:33:10 Collins (onboard): [Garble.]
+099:34:48 Aldrin (onboard): Mike, are you in AGS Cal attitude now?
+099:34:54 Collins (onboard): That's affirm. I'm holding you there with the DAP, getting the deadband. When you get ready to do the AGS Cal, I will sort of quiet down the thruster firing and then hope to stop it altogether, but I don't even think that'll get it.
+099:35:09 Aldrin (onboard): Okay. Well, I'm just about ready to do that. Whenever you're ready to let it go free, why just tell me.
+099:35:40 Collins (onboard): Okay, it looks real quiet now. I'm ready to go right now.
+The Abort Guidance System (AGS) is less sophisticated than the primary system. It's only intention is to get the LM to a safe orbit should the primary system fail. It has no inertially stabilised platform for accurate attitude determination and its computer is much simpler than the LGC machine that will control the landing. It gets its sense of orientation from a set of strapped-down gyroscopes, units that are affixed to the spacecraft body and which derive rate of rotation rather than absolute rotation by measuring the forces that any rotation will place on their mountings. They are inherently more prone to drift and an attempt is made during their calibration to compensate for this drift. The idea is that the spacecraft holds a steady attitude using the primary system and the amount of drift in the AGS gyros is measured over a 302-second time frame. This should yield a measure of their drift which is stored and used in subsequent computations. At the same time, the accelerometers in the AGS are also calibrated. Since the craft is in freefall, they should indicate zero acceleration and any reading from them would indicate their inherent bias. This can also be compensated for.
+099:36:00 Collins (onboard): Buzz, you copy?
+099:36:10 Collins (onboard): Buzz, you copy?
+099:36:13 Aldrin (onboard): Okay, Mike. Thanks.
+099:36:17 Collins (onboard): Now, [garble] might check me on this, I - it's - I'm ready to go any time you're ready.
+099:36:24 Aldrin (onboard): Roger. We'll be ready to go in just a minute.
+099:37:46 Aldrin (onboard): Okay, I'm starting my 5-minute rate - right now.
+099:40:00 Collins (onboard): As a matter of interest, I appear to be drifting in my roll. I'm holding my pitch and yaw pretty constant, and I'm staying a good 15 degrees late in the program.
+099:40:15 Aldrin (onboard): Roger.
+099:40:17 Collins (onboard): Looks like a [garble].
+099:40:31 Collins (onboard): Halfway through it, it looks like I have [garble] degrees in roll is about all.
+099:40:39 Aldrin (onboard): Yes, those look like good ones right now.
+099:41:22 Aldrin (onboard): Mike, what's your Sep time?
+099:41:26 Collins (onboard): A few minutes.
+099:41:49 Collins (onboard): GET of the separation burn is 100:39:50 even.
+099:42:01 Collins (onboard): I haven't gotten the updates for undocking time; I'm still carrying 100 hours 15 minutes, I guess, [garble].
+099:42:23 Collins (onboard): I'm surprised they didn't update it by 3 or 4 minutes to, you know, make that Delta-V be in the same position that they wanted.
+099:42:33 Aldrin (onboard): Yes, I agree.
+099:42:38 Collins (onboard): So we're about 3 minutes ahead of the printed Flight Plan. It might be wise to try to Sep about 3 minutes early, and we can give them a GET of Sep that's precise, whenever they want it.
+099:43:06 Collins (onboard): I have 5 minutes and 15 seconds since we started. Attitude is holding very well.
+099:43:21 Aldrin (onboard): Roger, Mike. Just hold it a little bit longer.
+099:43:25 Collins (onboard): No sweat, I can hold it all day. Take your sweet time. How's the Czar over there? He's so quiet.
+Neil is the Czar of the ship - or has been since yesterday at 072:29:46 when Fred Haise read up a news item to the crew from Pravda, the newspaper of the Soviet Union that described Neil in those terms.
+099:43:45 Armstrong (onboard): Just hanging on - and punching.
+099:43:49 Collins (onboard): I didn't know [garble] radio. [Garble] I've ever seen a radio. All I can say is, "Beware the revolution."
+099:46:21 Collins (onboard): You cats take it easy on the lunar surface. If I hear you huffing and puffing, I'm going to start bitching at you.
+099:46:28 Aldrin (onboard): Okay, Mike.
+099:46:37 Armstrong (onboard): I just pressurized the DPS. [Garble] looks okay, Mike.
+The tanks of the Descent Propulsion System (DPS, pronounced 'dips') are pressurised by helium that is stored in two tanks; one at an ambient temperature, the other storing the gas in an extremely cold, high pressure state called supercritical. This condition allows the density of helium in the supercritical tank to be eight times that in the ambient tank. Because the supercritical helium is so cold, it will not be permitted to flow to the propellant tanks until after the engine has started. This is because the fuel itself is used to warm and expand the supercritical helium in a heat exchanger. Opening the supercritical helium valves too early can cause the fuel to freeze. Instead, this initial pressurisation is achieved with helium from the ambient tank.
+099:46:40 Collins (onboard): Roger that.
+099:49:19 Aldrin (onboard): Hey, Mike, can you see where our radar's pointing now?
+099:49:29 Collins (onboard): Well, it looks like it's pointed right at my head - that's hard south. So's your radio beacon.
+099:49:34 Aldrin (onboard): Okay. It should really - it should be pointing from the - you know, our forward axis? It should be pointing up at 40 degrees and, you know...
+099:49:48 Collins (onboard): Okay. We've wandered back over the bellyband now - let me assure that AGS Cal.
+099:49:54 Aldrin (onboard): [Garble.]
+099:50:19 Collins (onboard): How'd the AGS Cal work out?
+099:50:23 Aldrin (onboard): Oh, it danced around a little bit, but seemed to go right back to the original numbers.
+099:50:33 Collins (onboard): Okay. I'm going to start a maneuver now to our undocking attitude.
+099:51:21 Collins (onboard): Now the undock attitude and the SEP attitude ought to be the same, so I'm going to go to what they gave me for the updated separation burn attitude. That's just about 7 degrees off, but it's in your Flight Plan for the undock attitude.
+099:51:38 Aldrin (onboard): Okay.
+099:53:12 Collins (onboard): When your rendezvous radar self-test is complete, let me know and I'll check out my transponder.
+099:53:30 Aldrin (onboard): Excuse me, Mike, what did you say?
+099:53:33 Collins (onboard): I say, when your rendezvous radar self-test is complete, let me know and I'll check out my transponder.
+When Eagle leaves the Moon's surface, it must return to Columbia as the CSM is the crew's only means to return to Earth. A primary means of locating the CSM is the Rendezvous Radar.
+A crop of image AS11-44-6642 taken by Mike Collins as Eagle approaches Columbia. This is Eagle's ascent stage and shows the location of the Rendezvous Radar antenna.
+The Rendezvous Radar works with a transponder on board Columbia to determine the range between the two spacecraft, the rate at which the range is changing and the direction or angle to Columbia. This data can then be used to compute the burns required to bring the two craft together.
+099:53:38 Aldrin (onboard): Yes, we're through with that now.
+099:53:41 Collins (onboard): Thank you. I'm maneuvering the [garble].
+099:58:44 Collins (onboard): That transponder checked out. I hope they've got a nice, big, strong [garble] for you.
+099:58:49 Aldrin (onboard): Very good.
+099:59:56 Aldrin (onboard): Hey, Mike, what would you recommend as a good setting on the 16 millimeter?
+Flight Plan, page 3-67.
+100:00:02 Collins (onboard): Well, what they recommend for you is f:8 at 1/250th and put it not on infinity, but on 7 feet, which covers all the way from infinity down to a very short distance to keep it in focus, and 6 frames per second, I guess.
+Buzz has a 16-mm Maurer movie camera mounted in his window. As well as filming the landing, he will use it to film the CSM soon after undocking. What Mike is talking about is depth of field. His experience and training has told him that there are a range of distances in front of a camera that, to all intents and purposes, are in focus. This is known as depth of field and it varies with the aperture of the lens. Use a large aperture (for example f:2.8) and the depth of field will be very narrow. Out-of-focus objects beyond and nearer than the focus distance are more blurry. Make the aperture smaller (f:8) and the depth of field increases. For the setup they have, Mike reckons that if they set the focus to only 7 feet, then everything will be in focus whether it is infinitely far away right down to being only a few feet away.
+100:00:25 Aldrin (onboard): Yes, what you say, f:8 at 1/250th?
+100:00:28 Collins (onboard): Yes, f:8 at l/250th. And after you get it all set up, check that f-stop again because it slides and slips off with very little twist.
+100:03:53 Collins (onboard): How about using, as an undocking time, 100 hours and 12 minutes? That suit your fancy?
+This would be about 4 minutes prior to Acquisition Of Signal
+100:03:59 Armstrong (onboard): That'll be fine.
+100:04:05 Collins (onboard): Okay.
+100:04:11 Armstrong (onboard): What have you got for AOS, Mike?
+100:04:14 Collins (onboard): I have 100 hours and 16 minutes.
+100:04:20 Armstrong (onboard): Okay.
+100:10:44 Collins (onboard): We got just about a minute to go. You guys all set?
+100:10:48 Armstrong (onboard): Yes, I think we're about ready.
+100:11:47 Armstrong (onboard): We're all set when you are, Mike.
+100:11:51 Collins (onboard): 15 seconds.
+Mike films the undocking using a 16-mm Maurer movie camera. Known by NASA as a Data Acquisition Camera (DAC), its removable magazine, serial 'C', is loaded with Ektachrome-type reversal film. As the LM moves away, Neil rotates the lander to allow Mike to inspect its exterior and in particular, to ensure that the four landing gear are properly deployed.
+H.264 MOV video file.
+Simultaneously with his cine filming, Mike takes a sequence of 36 stills of the undocking on the Hasselblad camera with magazine V. This is also loaded with Ektachrome-type colour reversal film known as SO-368.
+AS11-44-6565 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6566 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6567 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6568 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6569 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6570 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6571 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6572 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6573 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6574 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6575 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6576 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6577 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6578 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6579 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6580 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6581 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6582 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6583 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6584 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6585 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6586 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6587 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6588 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6589 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6590 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6591 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6592 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6593 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6594 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6595 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6596 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6597 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6598 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6599 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6600 - Eagle after undocking. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+100:12:03 Collins (onboard): Okay, there you go. Beautiful!
+100:12:06 Armstrong (onboard): [Garble.]
+100:12:10 Aldrin (onboard): Looks like a good Sep.
+100:12:19 Collins (onboard): Looks good to me.
+100:12:59 Armstrong (onboard): Okay. I've killed my rate, Mike, so you drift out to the distance you like and then stop your rate.
+100:13:13 Armstrong (onboard): Starting my yaw.
+100:13:30 Armstrong (onboard): There's sure a better visual in the simulator.
+100:13:38 Collins (onboard): Okay. I picked up a little roll. I'm going to get rid of it.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 100 hours, 14 minutes. We're now less than 2 minutes from reacquiring the spacecraft on the thirteenth revolution. When next we hear from them, the Lunar Module should be undocked from the Command and Service Module. We're presently about 25 minutes away from the separation burn which will be performed by Mike Collins in the Command Module to give the LM and the CSM a separation distance at the Descent Orbit Insertion maneuver of about 2 miles. We have some times on the upcoming events. The separation maneuver is scheduled to occur at a Ground Elapsed Time of 100 hours, 39 minutes, 50 seconds; the Descent Orbit Insertion maneuver, which will be performed on the backside of the Moon, set for 101 hours, 36 minutes, 14 seconds; and the beginning of the powered descent at 102 hours, 33 minutes, 4 seconds. We're now 55 seconds from reacquiring Apollo 11 on the thirteenth revolution. During this revolution we will be doing the separation maneuver. We'll also be giving the crew on the Lunar - on the Lunar Module a Go/No-Go for the Descent Orbit Insertion maneuver. We'll stand by now to reacquire the spacecraft.
+100:14:22 Armstrong (onboard): Okay with you if I start my pitch, or you think you're not far enough away yet, Mike?
+100:14:31 Collins (onboard): I'd prefer you stand by just a couple of seconds, Neil.
+100:14:34 Armstrong (onboard): Okay. I'll wait for when you're ready - when you think you've got your rates killed perfectly.
+100:14:39 Collins (onboard): Okay. I'm still holding [garble].
+100:14:41 Armstrong (onboard): [Garble.]
+100:15:26 Collins (onboard): Okay, looks pretty good to me now.
+100:15:30 Armstrong (onboard): Okay.
+We have confirmation of Acquisition Of Signal. We'll stand by for a call to the crew.
+AS11-44-6601 - Earthrise over Mare Smythii. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6602 - Earthrise over Mare Smythii. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6603 - Earthrise over Mare Smythii. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6604 - Earthrise over Mare Smythii. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-44-6605 - Earthrise over Mare Smythii. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+100:16:34 Collins (onboard): Just like in the simulator, you're drifting off to one side and down below a little bit.
+100:16:39 Armstrong (onboard): Yes.
+100:17:06 Duke: Hello, Eagle. Houston. We're standing by. Over. [No answer.]
+Around now, while both spacecraft are over the crater Saenger, Buzz begins to film Columbia on 16-mm magazine G as it orbits alongside the LM. At this point, it is trailing the LM but as their separate orbits continue, Columbia will increasingly go below Eagle. Buzz will film the CSM on 6 separate occasions including its pass over the landing site.
+100:17:06 Collins (onboard): The gear are looking good. I've seen three of them.
+100:17:11 Armstrong (onboard): The MESA is not down, right?
+100:17:14 Collins (onboard): Say again.
+100:17:15 Armstrong (onboard): The MESA's still up?
+100:17:19 Collins (onboard): Yes.
+100:17:20 Armstrong (onboard): Good.
+The MESA is the Modularized Equipment Stowage Assembly, a panel on the side of the LM's descent stage between two of the landing gear. The MESA is hinged so that on the surface, the crew can access the items that are mounted within.
+Full view of the training MESA. Scan by Kipp Teague.
+100:17:21 Unknown speaker (may be a previous utterance): [Garble].
+100:17:49 Collins (onboard): Now, you're looking good.
+100:17:51 Duke: Eagle, Houston. We - Houston. We see you on the steerable. Over. [Pause.]
+100:18:01 Armstrong: Roger. Eagle's undocked.
+100:18:03 Duke: Roger. How does it look, Neil?
+100:18:04 Armstrong: The Eagle has wings.
+100:18:06 Duke: Rog.
+100:18:08 Armstrong: Looking good.
+100:18:09 Duke: Roger, Neil. We got a - If you'll give us P00 and Data, we've got some loads for you. [Pause.]
+100:18:20 Aldrin: Okay. You've got it. P00 and Data.
+The computer's major mode is set to program 00 (pronounced 'pooh') and Mission Control given permission to access the computer's erasable memory by the Updata Link switch on panel 12 being placed in Data.
+100:18:24 Duke: Roger. Let us know when you're ready to copy. We have a DOI PAD, the - and the PDI PAD. Over. [Long pause.]
+100:18:41 Armstrong: You check our tracking light, Mike? [Long pause.]
+100:18:44 Collins (onboard): It came on.
+100:18:56 Collins (onboard): Camera's working beautifully.
+100:19:02 Armstrong: Track off?
+100:19:04 Collins (onboard): It's off.
+100:19:05 Armstrong: Okay, I'm ready to start my yaw maneuver if it suits you, Mike. [Long pause.]
+100:20:06 Armstrong: Does it look like you're gonna be able to do this without burning thrusters, Mike? [Long pause.]
+100:20:11 Collins (onboard): I'd have to fire laterally once or twice.
+100:20:22 Collins (onboard): Very small.
+100:20:28 Aldrin: Go ahead, Houston. Eagle is ready to copy.
+100:20:32 Duke: Roger, Eagle. Coming at you with a DOI PAD: 101:36:14.07. Noun 81, minus 00758, plus all balls, plus 00098, plus - correction, 00572, perigee plus 00085 00764 030 000 293. Noun 86, minus 00759, plus all balls, plus 00090. Rest of the PAD is NA. Stand by on your readback. If you are ready to copy the PDI data, I have it for you. Over.
+Fans of the NASA film, Moonwalk One, directed by Theo Kamecki, may be familiar with this PAD as Duke's reading of it was used in the film's soundtrack. The data is entered into a P30 PAD, an example of which is on page 2-35 of the Flight Plan.
+DOI P30 PAD from page 2-35 of the Flight Plan
+An interpretation of the PAD follows.
+Purpose: Descent Orbit Insertion. A short burn that changes their trajectory from a roughly circular orbit at an altitude about 60 nautical miles (110 km) to an elliptical orbit that has a low point or perilune of about 50,000 feet (15,000 metres). The shape of that orbit will place the perilune about 500 km east of the landing site, about over Mount Marilyn.
+Time of ignition (TIG, Noun 33): 101 hours, 36 minutes, 14.07 seconds GET.
+Change in velocity (Noun 81), fps (m/s): x, -75.8 (-23.1); y, 0; z, +9.8 (+3.0). The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal). In this case, the major change is retrograde, slowing the LM down slightly and therefore lowering its perilune.
+HA, expected apolune of resulting orbit (Noun 42): 57.2 nautical miles (105.9 km).
+HP, expected perilune of resulting orbit (Noun 42): 8.5 nautical miles (15.7 km).
+Delta-VR: 76.4 fps (23.3 m/s). This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.
+Burn duration or burn time: 30 seconds.
+Inertial attitude: Roll, 0°; pitch, 293°
+Velocity to be gained (Noun 86), fps (m/s): VGX, -75.9 (-23.1); VGY, 0 (0); VGZ, +9.0 (+2.7). We believe Noun 86 is being used as a holding register for velocity data to be entered into the AGS. Like the way that the EMS is used in the Command Module as a backup measurement of Delta-V, we think the AGS is fulfilling the same role in the LM.
+The remaining fields on the P30 PAD would have been the details of a star and how it could be viewed as an additional attitude check. It is not being used for this burn, presumably because the windows will be filled with the Moon at that time.
+100:20:51 Aldrin: Go ahead.
+100:21:55 Duke: Understand you are ready to copy the PDI data, Eagle. Over.
+100:22:01 Aldrin: That's affirmative. Go ahead with the PDI.
+Two cameraman are in the Mission Operations Control Room (MOCR) to film the events. Courtesy of journal contributor Stephen Slater, these clips, which were filmed mute, have been synchronised with the air/ground audio and, where appropriate, the Flight Director's loop.
+H.264 MOV video file.
+This clip shows Charlie Duke at the CapCom console reading out the PDI abort PADs. Deke Slayton (foreground) and Jim Lovell look on.
+100:22:05 Duke: Roger. PDI PAD: TIG 102:33:04.36; 09:50, minus 00021; 182, 287, 000; plus 56919. PDI abort, less than 10 minutes, 105:12:30.00. PDI abort, greater than 10 minutes, 103:40:00.00, 107:11:30.00. No PDI plus 12: 102:44:27.00. Noun 81, plus 01223, minus all balls, plus 01889; 01520, plus 00110, 02250. Burn time, 0:46; 000, 190; plus 01187, plus all balls, plus 01911. Noun 11, 103:31:07.00. Noun 37, 105:12:30.00. Ready for your readbacks, Over.
+The forms for filling in the PDI PAD are on page 2-37 of the Flight Plan.
+PDI PAD from page 2-37 of the Flight Plan
+Here is how the PAD is interpreted.
+Purpose: The first part of the PAD gives details of the burn that will take the crew to the lunar surface. The manoeuvre is known as powered descent and so the start of the burn is called Powered Descent Initiation or PDI.
+Time of ignition, TIG: 102 hours, 33 minutes, 4.36 seconds.
+Time for burn in P63: 9 minutes, 50 seconds estimated.
+Crossrange: 2.1 nautical miles south. The spacecraft is travelling east to west. This is how far Mission Control believe their flight path will be to the north or south of ideal. The spacecraft's guidance will take this out as part of the burn.
+Spacecraft attitude at TIG: Roll, 182°; Pitch, 287°; Yaw, 0°. The desired spacecraft attitude is measured relative to the alignment of the guidance platform. In this case the alignment will be per the Landing Site REFSMMAT.
+Finally there is an entry for the AGS that would be made with the keyboard for this computer, the DEDA (Data Entry and Display Assembly. The value is plus 56919.
+Next come a series of PADs for burns that would be used to return to the Command Module in the event of an abort. We think it assumes that the AGS has carried out an automatic return to orbit. First is a PDI abort less than 10 minutes. Currently we believe that this means in the first 10 minutes after PDI.
+TPI (Terminal Phase Initiate): 105 hours, 12 minutes, 30.00 seconds. This is the time of a burn that would lead to an intercept trajectory with the CSM.
+Now two times for an abort occurring more than 10 minutes into the descent.
+Time of ignition, TIG: 103 hours, 40 minutes, 0.00 seconds. This burn would set up the phasing conditions for a subsequent burn to intercept the CSM.
+TPI (Terminal Phase Initiate): 107 hours, 11 minutes, 30.00 seconds. This is the time of a burn that would lead to an intercept trajectory with the CSM.
+Finally comes a list of data to execute a return to the CSM in the event that the descent is aborted without PDI occurring.
+Purpose: No-PDI abort burn timed to occur 12 minutes after PDI would have taken place.
+Time of ignition, TIG: 102 hours, 44 minutes, 27.00 seconds.
+Change in velocity (Noun 81), fps (m/s): x, +122.3 (+37.3); y, 0; z, +188.9 (+57.6). The change in velocity is resolved into three components expressed relative to the Local Vertical/Local Horizontal frame of reference, in this case, relative to the Moon.
+HA, expected apocynthion of resulting orbit (Noun 44): 152.0 nautical miles (281.5 km).
+HP, expected pericynthion of resulting orbit (Noun 44): 11.0 nautical miles (20.4 km).
+Delta-VR: 225.0 fps (68.6 m/s). This is the total change in velocity the spacecraft would experience. (It is a vector sum of the three components given above.)
+Burn duration or burn time: 46 seconds.
+Spacecraft attitude at TIG: Roll, 0°; Pitch, 190°. Yaw is not included because it does not affect the pointing of the engine. The desired spacecraft attitude is measured relative to the alignment of the guidance platform. In this case the alignment will be per the Landing Site REFSMMAT.
+Change in velocity (Noun 86) for the AGS, fps (m/s): x, +118.7 (+36.2); y, 0; z, +191.1 (+58.2). These values are similar to those for the primary guidance system. The difference is perhaps due to the AGS using its own attitude reference.
+Time of ignition, TIG for CSI burn (Noun 11): 103 hours, 31 minutes, 7.00 seconds.
+Time of ignition, TIG for TPI burn (Noun 37): 105 hours, 12 minutes, 30.00 seconds.
+That completes the interpretation of the PDI PAD data.
+100:24:39 Duke: Eagle, Houston. We're through with the computer. You can go back to Block. Over.
+100:24:46 Aldrin: Roger. Back to Block, and DOI: 101:36:14.07. Minus 0075.8, plus all zeros, plus 0009.8, 0057.2, plus 0008.5, 0076.4, 030, 000, 293; minus 0075.9, plus all zeros, plus 0009.0; NA. Over.
+100:25:33 Duke: That was a good readback, Buzz. Go ahead. Over.
+100:25:39 Aldrin: Okay, PDI PAD: 102:33:04.36; 09:50; minus 0002.1; 182, 287, 000; plus 56919. PDI less than 10: 105:12:30.00. PDI abort greater than 10: 103:40:00.00, 107:11:30.00. No PDI plus 12 abort: 102:44:27.00; plus 0122.3, minus all zeros, plus 0188.9; 0152.0, plus 0011.0, 0225.0, 0:46; 000, 190; plus 0118.7, plus 0000.0, plus 0191.1; 103:31:07.00; 105:12:30.00. Over.
+100:27:24 Duke: Roger. Good readback, Buzz. Out.
+Comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+100:29:02 Collins: Neil, I'm maneuvering in roll.
+100:29:04 Armstrong: Rog. I see you.
+100:29:08 Aldrin: Houston, Eagle. Are you copying the fairly large numbers for range and range rate in - Verb 83? And did - did you just give us a state vector that changed one of the two vehicles? Over.
+100:29:28 Duke: Roger, Eagle. We gave you a LM state vector. We have not changed the CSM state vector, however. Over.
+100:29:38 Aldrin: Okay. That explains the difference. [Long pause.]
+100:30:16 Duke: Columbia, Houston. On my Mark, 9:30 to ignition.
+Duke means 9 minutes, 30 seconds until his engine firing which will separate the CSM from the LM.
+100:30:19 Duke: Mark.
+100:30:20 Duke: 9:30. [Long pause.]
+100:30:53 Duke: Eagle, Houston. Would you have Columbia go to the High Gain, yaw 0, pitch minus 20. Over. [Pause.
+100:31:03 Armstrong: You want him to go to High Gain, yaw, zero, ah - say again the numbers.
+100:31:13 Duke: Rog, Neil. Yaw 0, pitch minus 20, High Gain angles. Over.
+100:31:17 Armstrong: Okay. Yaw zero, pitch minus 20, on the High Gain.
+100:31:23 Duke: That's affirmative. We've lost all data with him.
+100:31:24 Collins (onboard): Yes, I copy that, and I'll do it just as soon as I get to it.
+100:31:25 Armstrong: To Columbia?
+100:31:27 Armstrong: Okay, he says he'll do that as soon as he gets around there.
+100:31:32 Duke: Rog.
+100:31:38 Collins (onboard): Okay, Neil, I'm all set for the Sep burn, and we're looking good on this phasing.
+100:31:45 Armstrong: Okay. [Long pause.]
+100:32:36 Duke: Columbia, Houston. How do you read?
+100:32:40 Collins: Columbia reading you loud and clear, Houston. How me?
+100:32:43 Duke: Roger, Mike. Five-by. On my mark, 7 minutes 'til ignition.
+100:32:49 Duke: Mark.
+100:32:50 Duke: Seven minutes.
+100:32:55 Collins: I agree. Everything's looking real good. [Long pause.]
+This is Apollo Control. We're now 6 minutes, 8 seconds from ignition and...
+100:33:47 Duke: Apollo 11, Houston. You are looking good for separation. You are Go for separation, Columbia. Over.
+100:33:55 Collins: Columbia understands. [Long pause.]
+100:34:38 Collins: We're really stabilized, Neil. I haven't fired a thruster in 5 minutes. [Long pause.]
+100:35:26 Collins: I'll make a small trim maneuver? [Long pause.]
+As they continue to coast across the Moon's near side, Buzz starts another shot on the 16-mm camera of Columbia passing above Mare Fecunditatis and the crater Anville.
+Around this time, he is also taking still photographs of Columbia using the Hasselblad camera.
+AS11-37-5443 - CSM Columbia over Sinus Successus, Mare Fecunditatis. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-37-5444 - CSM Columbia over Sinus Successus, Mare Fecunditatis. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-37-5445 - CSM Columbia over Mare Fecunditatis. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+AS11-37-5446 - CSM Columbia over southeastern Mare Tranquillitatis. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+100:36:21 Armstrong: Mike, what's going to be your pitch angle at Sep?
+100:36:27 Collins: 007 degrees.
+100:36:28 Armstrong: Okay. [Long pause.]
+100:36:44 Collins: Is that close enough for you, or do you want it to a couple of decimal places?
+100:36:46 Armstrong: No. That's good. [Long pause.]
+100:37:31 Collins: I think you've got a fine looking flying machine there, Eagle, despite the fact you're upside down.
+100:37:36 Armstrong: Somebody's upside down.
+Comm break.
+100:38:56 Collins: There you go. One minute 'til TIG. You guys take care.
+100:38:58 Armstrong: See you later. [Long Pause.]
+100:39:56 Collins: Thrusting. [Long pause.]
+100:40:19 Collins: Houston, Columbia. My DSKY is reading 4.9 in X, 5.0 make it, and EMS 105.4. Over.
+100:40:32 Duke: Roger. Copy. Columbia, it looks good to us. Over.
+100:40:36 Collins: Thanks. [Long pause.]
+As is normal for CSM burns, not only is the Delta-V monitored using the primary guidance system, Mike also has the Entry Monitor System (EMS) and its own accelerometer measure the effect of the burn. It is convention to offset the EMS's Delta-V display by 100 and measure the burn relative to that, hence 105.4, meaning 5.4 fps.
+100:41:07 Duke: Columbia, Houston. We'd like you to terminate average G. Over.
+100:41:16 Collins: Roger. In P00.
+Comm break.
+Essentially, Mike hadn't yet stopped P41, the program that controls the RCS for burns like this.
+This is Apollo Control. That separation maneuver was performed as scheduled, giving the Command Module a Delta-V of about 2.5 feet per second, which should give a separation to the two vehicles of about 1,100 feet at the beginning of the Descent Orbit Insertion maneuver.
+Buzz takes more footage of the CSM orbiting below. He starts the camera as they approach the crater Maskelyne and the feature known as Boot Hill.
+100:43:00 Armstrong: You're going right down US-1, Mike.
+Long comm break.
+The last of the six cine shots that Buzz takes of Columbia on this pass begins as Mike appears to cross Sidewinder Rille. The shot continues as he passes abeam of the crater that will later be named Armstrong. The shot ends just after he passes what will become Tranquillity Base, the Apollo 11 landing site.
+A still shot is taken on the Hasselblad that shows the CSM above the landing site.
+AS11-37-5447 - CSM Columbia over the Apollo 11 landing site, Mare Tranquillitatis. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+And another as they near the terminator.
+AS11-37-5448 - CSM Columbia over the crater Schmidt at the southwestern corner of Mare Tranquillitatis. 80-mm lens. Image credit: Image Science and Analysis Laboratory, NASA-Johnson Space Center.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+100:47:20 Collins: Eagle, Columbia. At your convenience, I'd like to switch over to VHF ranging mode.
+100:47:29 Aldrin: Roger. Let's go to VHF ranging now.
+100:47:31 Collins: Okay.
+100:47:32 Collins: Mark. [Long pause.]
+The primary purpose of the VHF radio system is to provide alternative short range voice communications between the two spacecraft. However, it also has the ability to be used in a ranging mode whereby it will use the delay in the return time of transmitted tones to calculate range. It must be switched to this mode and cannot then be used for voice. It is intended as a backup in case the LM's Rendezvous Radar fails.
+100:47:58 Collins: Eagle, Columbia. I'm reading you loud and scratchy. Neil is not coming through too well on his VOX. Could you stay quiet for 15 seconds while I get this locked on.
+100:48:13 Collins: Okay. [Long pause.]
+100:48:33 Collins: I've got a solid lock on. I have you at 0.27 miles. [Long pause.]
+100:49:07 Duke: Eagle, Houston. We've got a state vector for you. We'd like P00 and Data. Over.
+100:49:15 Armstrong: You have it.
+100:49:16 Duke: Thank you, sir. [Long pause.]
+100:49:29 Duke: Columbia, Houston. We have a CSM rescue PAD if you're ready to copy. Over.
+100:49:37 Collins: Ready to copy.
+100:49:39 Duke: Rog, Mike. Phasing TIG 103:40:00.00. TPI for PDI less than 10, 105:12:30.00. TPI for PDI greater than 10, 107:11:30.00. Over.
+100:50:14 Collins: Roger. TIGs follow: phasing 103:40. PDI less than 10, 105:12:30. More than 10, 107:11:30. Over.
+100:50:25 Duke: Good readback. Out.
+100:50:30 Collins: Okay. [Long pause.]
+These are the same ignition times for rendezvous that have just been read up to the LM crew.
+100:50:57 Duke: Eagle, Houston. When you're ready to copy, I have a lunar surface data PAD for you. Over. [Pause.]
+100:51:08 Aldrin: Roger. Stand by.
+100:51:10 Duke: We've got the load in, Eagle. You can go back Up-data link Off. Over. [Pause.]
+100:51:21 Aldrin: Roger. [Long pause.]
+100:52:16 Duke: Columbia, Houston. At your convenience we'd like P00 and Accept. We have a couple of state vectors for you. Over.
+100:52:24 Collins: Okay. Going to P00 and Accept, and I just got some unexplained roll thruster activity. I might have bumped the hand controller.
+100:52:32 Duke: Roger. We'll look at it. Out
+100:52:33 Collins: You might look at those systems...
+100:52:38 Aldrin: And Eagle is ready to copy lunar surface data card.
+100:52:43 Duke: Rog, Buzz. Starting with the T-2; T-2 TIG, 102:54:29.00, 103:51:56.00, 106:37:35.00, 109:10:00.00. In the remarks: T-2 occurs at PDI plus 21:26. T-3 time - correction T-3, T-3 TIG: 104:39:41.00, 001:58:15.00, 001:58:54.00. Noun 11: 105:36:23.00, 107:11:30.00. Ready for your readback. Over.
+100:54:20 Aldrin: Roger. T-2: 102:54:29.00, 103:51:56.00, 106:37:35.00, 109:10:00.00; T-2 is PDI plus 21:26. T-3: 104:39:41.00, 001:58:15.00, 001:58:54.00, 105:36:23.00, 107:11:30.00. Over.
+Once Eagle lands on the Moon, Neil and Buzz must be prepared to launch in case a problem arises. Studies of the situation have defined a number of points in time when a launch would be desirable depending on the position of Columbia in its 2-hour orbit and their ability to catch up with it within the capability of the LM's ascent propulsion. The first opportunity is T-1 which is based on an immediate decision on whether to stay on the Moon as soon as they land. A few minutes later, Mission Control would again decide whether Neil and Buzz should stay. If not, they would launch at T-2, about 8 minutes, 50 seconds after landing, still within their capability to catch up with Columbia. If they do stay at T-2, their next opportunity to launch would be T-3 which waits about 2 hours for Columbia to orbit once around the Moon and return to a favourable position. The subsequent times given with T-2 and T-3 refer mostly to the burns that would be made in order to rendezvous with the CSM.
+All this data is entered into a form, available on page 2-40 of the Flight Plan, called the Lunar Surface Data Card.
+Lunar Surface Data Card from page 2-40 of the Flight Plan
+The card data is interpreted as follows:
+T-2
+T-2 TIG: 102 hours, 54 minutes, 29.00 seconds.
+Phasing burn TIG: 103 hours, 51 minutes, 56.00 seconds.
+CSI burn TIG: 106 hours, 37 minutes, 35.00 seconds.
+TPI burn TIG: 109 hours, 10 minutes, 00.00 seconds.
+An additional note points out that the T-2 lift-off would occur 21 minutes and 26 seconds after PDI. This may be because the crew will have a timer running that was started at PDI.
+T-3
+T-2 TIG: 104 hours, 39 minutes, 41.00 seconds.
+CSM orbital period: 1 hour, 58 minutes, 15.00 seconds.
+P+Delta-T: 1 hour, 58 minutes, 54.00 seconds.
+CSI burn TIG: 105 hours, 36 minutes, 23.00 seconds.
+TPI burn TIG: 107 hours, 11 minutes, 30.00 seconds.
+As indicated on page 2-41 of the Flight Plan, 'P+Delta-T' is the CSM's orbital period plus the time interval between the CSM's closest approach and the LM's lift-off.
+100:55:10 Duke: Rog. Good readback, Eagle. Out. [Long pause.]
+100:55:50 Collins: Would you put your tracking light on, please?
+100:55:53 Armstrong: It's on, Mike.
+100:55:54 Collins: Thank you. [Long pause.]
+100:56:20 Duke: Columbia, Houston. We got the load in. You can go back to Block. Over. [Pause.]
+100:56:30 Collins: Is that for Columbia?
+100:56:32 Duke: That's affirmative, Columbia.
+100:56:37 Collins: Okay. Thank you, Houston.
+Comm break.
+100:58:31 Aldrin: Mike, you want to give us a Mark when you're right at 7 miles - I mean seven-tenths of a mile?
+100:58:36 Collins: Will do. [Long pause.]
+Buzz and Mike are comparing their ranging systems, Buzz using the Rendezvous Radar and Mike using the VHF ranging system.
+100:58:57 Aldrin: Okay. We just got seven-tenths on the radar.
+100:58:59 Collins: Mark.
+100:59:00 Collins: Yeah. I'm oscillating between 0.69 and seven-tenths.
+100:59:05 Aldrin: Very good. We've got 4,200 on the tapemeter.
+4,200 feet is 0.69 nautical miles.
+100:59:11 Collins: I'm steady on 0.70 now. Yeah. I read you sort of scratchy, but I read you. [Long pause.]
+Flight Plan, page 3-68.
+101:00:01 Collins: Houston, Apollo - or Houston, Columbia. Over.
+101:00:04 Duke: Roger. Go, Columbia. Over.
+101:00:08 Collins: Rog. I still need a DOI P76 PAD, and a PDI-1 plus 12 P76 PAD, some time at your convenience.
+101:00:16 Duke: Roger. Stand by. [Long pause.]
+101:01:05 Duke: Columbia, Houston. DOI P76 PAD, if you're ready to copy. Over.
+101:01:13 Collins: Ready to copy.
+101:01:14 Duke: Rog, Mike. Noun 80 - correction, Noun 84: minus 00758, plus all zeros, plus 00098; Noun 33: 101:36:14.00, and stand by for the PDI plus 12.
+101:01:43 Collins: Roger.
+P76 in the CM computer is called Target Delta-V. It is interpreted as follows:
+Delta-V (Noun 84), fps (m/s): X, -75.8 (-23.1); Y, 0; Z, +9.8 (+3.0). The change in velocity is resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).
+Time of ignition (TIG, Noun 33): 101 hours, 36 minutes, 14.0 seconds GET.
+The data is essentially the LM's DOI PAD and its purpose is to inform the CM's computer what the LM is doing in case the CSM has to rescue the LM.
+101:01:47 Duke: Columbia, Houston, with the PDI plus 12 Noun 84, if you're ready to copy.
+101:01:54 Collins: Ready to copy.
+101:01:56 Duke: Roger. Noun 84: plus 0122.3, minus all zeros, plus 0188.9; Noun 33, 102:44:27.00, PDI plus 12 burn time is 0:46, burn time for DOI is 0:30. Ready for your readback. Over.
+101:02:40 Collins: Roger. DOI P76: 84 is minus 00758, all balls, plus 00098, at 101:36:14.00; plus 0122.3, minus all balls, plus 0188.9; 102:44:27.00; burn time 46 and 30 seconds.
+101:03:09 Duke: Roger. One error, Columbia, on the TIG for DOI; seconds was 14.07. Over.
+The error is Mission Control's, not that of Collins.
+101:03:21 Collins: Rog. 14.07.
+101:03:23 Duke: Rog. [Long pause.]
+This PAD is interpreted as follows:
+Delta-V (Noun 84), fps (m/s): X, +122.3 (+37.3); Y, 0; Z, +188.9 (+57.6).
+Time of ignition (TIG, Noun 33): 102 hours, 44 minutes, 14.07 seconds GET.
+That completes the P76 updates.
+101:03:37 Duke: Columbia, Houston. We'd like you to turn off your Rotational direct - Rotational Control Power Direct number 2, Off. Over.
+101:03:49 Collins: It's Off. Thank you.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+101:06:58 Duke: Columbia, Houston. On those P76s, a friendly reminder from your FIDO: add half the burn time to the TIG. Over.
+101:07:10 Collins: Roger.
+Long comm break.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control. We're coming up on 15 minutes now until Loss Of Signal with the Lunar Module. Flight Director Gene Kranz has just advised his flight controllers to review all of their data, take a good close look at the spacecraft, in preparation for a Go/No-Go decision on the Descent Orbit Insertion.
+101:14:09 Duke: Columbia, Houston. We've lost data with Eagle. Will you please have him select aft Omni? Over.
+101:14:22 Collins: Eagle, this is Columbia. Houston would like you to select aft Omni. [Pause.]
+101:14:37 Aldrin: Rog. I got it now. Houston, you reading Eagle now on aft Omni?
+101:14:41 Duke: That's affirmative, Eagle. Reading you five-by. [Long pause.]
+101:14:58 Collins: Roger.
+Comm break.
+H.264 MOV video file.
+This clip is focussed on Jim Lovell as Charlie Duke reads out the LOS and AOS times.
+101:16:17 Duke: Columbia, Houston. We'll have LOS at 101:28. AOS for you, 102:15. Over.
+101:16:30 Collins: Thank you. [Long pause.]
+H.264 MOV video file.
+This video clip shows Charlie Duke as he speaks to Buzz. Jim Lovell is seated next to him with Fred Haise beyond.
+101:17:07 Duke: Eagle, Houston. It appeared to us when you're doing the P52, maneuvering, the S-band - the High Gain went into the stop. Verify that both S-band breakers are in. Over.
+The Mission Report lists the platform realignments made by Eagle in a table. The first realignment in its list is marked as occurring at 100:15. This time is incorrect as Eagle had just undocked and was manoeuvring to allow Mike to inspect the spacecraft. Neil will read out the gyro torquing angles in a few minutes which indicate that the time ought to have been listed as 101:15, which is around now. The star angle difference, Noun 93, is 0.03°, this being a comparison of the measured angle between the two stars and the actual angle based on its internal data. The gyro torquing angles were -0.292° in X, +0.289° in Y and -0.094° in Z. The stars used were 25 (Acrux, Alpha Crucis) and 33 (Antares, Alpha Scorpii).
+When Neil first aligned the platform, he used the spiral and cursor technique through the AOT. Now that the LM is flying as a free spacecraft (not docked to the CSM or sat on the Moon), he used the second technique where he manoeuvred the LM to cause his selected stars to cross the X and Y lines as seen through the AOT eyepiece.
+According to the Mission Report, Mike is also carrying out a realignment of the CSM's guidance platform around this time. Mike sighted on stars 01 (Alpheratz, Alpha Andromedae) and 06 (Acamar. Theta Eridani). The angles through which the platform had to be rotated to restore its ideal orientation were +0.084° in X, +0.124° in Y and -0.010° in Z. The difference in the actual angle between these two stars and Mike's measured angle is 0.01°, a good result.
+101:17:23 Aldrin: Rog. I think I'd got it to 90.0 before it went there. The one on this side is in, and I'll check the other later.
+101:17:29 Duke: Okay. Thank you, Buzz. [Long pause.]
+101:17:53 Duke: Eagle, Houston. You are Go for DOI. Over.
+101:18:00 Aldrin: Roger. Go for DOI. Do you have LOS and AOS times?
+101:18:03 Duke: Roger. For you, LOS at 101:28. AOS, 102:16. Over.
+101:18:16 Aldrin: Roger. Copy.
+101:18:18 Duke: And, Buzz, S-band steerable update for you on the angles at AOS: 219 and yaw 30. Over.
+101:18:31 Aldrin: Rog. That's in the Flight Plan. Thank you. [Long pause.]
+101:19:08 Collins: Houston, Columbia. How are all the systems looking?
+101:19:13 Duke: Say again, Over.
+101:19:19 Collins: Just wanted to get a systems check from you sometime prior to LOS.
+101:19:23 Duke: Roger. [Long pause.]
+101:19:46 Armstrong: Houston, Eagle. You - Our torquing angles, Noun 93, on four zeros and a 3 are minus 00292, plus 00289, minus 00094.
+101:20:04 Duke: Roger. Copy. Stand by. [Pause.] Roger, Eagle. You can torque it. Over.
+101:20:18 Armstrong: Roger. Torquing. [Long pause.]
+101:20:44 Duke: Columbia, Houston. Your systems are looking good going over the hill. About 7 minutes to LOS.
+101:20:53 Collins: Thank you.
+Comm break.
+101:22:37 Duke: Eagle, Houston. Place the Biomed to Commander. Over. [Pause.]
+101:22:48 Aldrin: Roger. You got him.
+101:22:51 Duke: Thank you, sir. [Long pause.]
+101:23:43 Duke: Eagle, Houston. We've lost the high bit rate. Would you please select low bit rate? Over.
+101:23:52 Aldrin: You got it.
+101:23:54 Duke: And, Eagle, on my Mark we'll have 12 minutes 'til ignition. Over. [Pause.]
+101:24:06 Aldrin: Rog.
+101:24:08 Duke: Eagle, Houston. Stand by for my Mark.
+101:24:13 Duke: Mark.
+101:24:14 Duke: Twelve minutes 'til ignition.
+101:24:18 Aldrin: We copy.
+Comm break.
+H.264 MOV video file.
+Charlie Duke is shown in this clip as he speaks to the crew prior to LOS.
+101:25:27 Duke: Columbia/Eagle, Houston. Three minutes to LOS. Both looking good going over the hill.
+101:25:34 Collins: Columbia. Rog.
+101:25:38 Armstrong: Eagle. Rog.
+Very long comm break.
+101:26:54 Aldrin (onboard): Burn time, 30 seconds.
+This is Apollo Control. We've had Loss Of Signal now, and the spacecraft Eagle has been given a Go for Descent Orbit Insertion. That maneuver to occur in 7 minutes, 40 seconds; out of contact - out of radio contact, the DOI maneuver scheduled to come at 101 hours, 36 minutes, 14 seconds; and it will be a 76.4-foot-per-second [23.3-metres/second] burn. The burn duration, 29.8 seconds. And the resulting orbit for the LM will be 57.2 by 8.5 nautical miles [105.9 by 15.7 km]. When next we acquire the Lunar Module, it should be at an altitude of about 18 nautical miles [33 km] on its way down to the low point of about 50,000 feet [15,000 metres] from where the powered descent to the lunar surface will begin. As the spacecraft went around the corner, all systems on both vehicles looked very good. Everything is Go here in Mission Control, and aboard the spacecraft for the Descent Orbit Insertion to occur in 6 minutes, 38 seconds. This is Apollo Control, Houston, at 101 hours, 29 minutes.
+101:28:44 Aldrin (onboard): Okay, state vector looks relatively good. [Garble.]
+101:29:01 Armstrong (onboard): Mike, how do you read?
+101:29:10 Aldrin (onboard): Columbia, Eagle. How do you read?
+101:29:12 Collins (onboard): Very good. How do you read me?
+101:29:13 Aldrin (onboard): Very good. If you are ready, give the mark and we'll go to B-Data. Over.
+Channel B of the VHF communications system allows engineering data from the LM to be sent to the CSM for recording and subsequent transmission to Earth.
+101:29:19 Collins (onboard): Stand by one. I'm [garble].
+101:29:22 Aldrin (onboard): Are you [garble]?
+101:29:27 Armstrong (onboard): 63.
+101:29:56 Collins (onboard): [Garble]; they look good.
+101:29:59 Aldrin (onboard): Okay, let's switch to B-Data now.
+101:30:02 Collins (onboard): Okay.
+101:30:25 Collins (onboard): Eagle, Columbia.
+101:30:29 Armstrong (onboard): Go ahead.
+101:30:31 Collins (onboard): Columbia's [garble].
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 101 hours, 35 minutes. We're now less than one minute from the scheduled time for the Descent Orbit Insertion maneuver, to be performed by the Lunar Module on the back side of the Moon, where of course, we don't have radio contact with the spacecraft. In Mission Control here, where normally maneuvers of that sort would be monitored on plot boards in front; we have the boards set up, but they're for the powered descent to occur about one half rev from now over Landing Site 1. Flight controllers standing around in little groups. Not much that we can do at this point until reacquiring the spacecraft. We're now 20 minutes - or 20 seconds rather - from ignition on the Descent Orbit Insertion. It will be a 29.8-second burn of the 9,800-pound thrust [43.6 kN] Descent Propulsion System.
+While the PAO announcer has his microphone keyed, a voice in the background can be heard counting down, '3, 2, 1...'.
+>We should be burning at this time. The result of this maneuver will be to put the spacecraft into an orbit 57.2 by 8.5 nautical miles [105.9 by 15.7 km]. It would remain in that orbit until powered descent.
+We should have cut-off by this time. That should have completed Descent Orbit Insertion maneuver. We would expect to reacquire the Command Module first. Command Module acquisition time is 102 hours, 14 minutes, 38 seconds. That will be just about 2 minutes prior to the time that we will have reacquired the Lunar Module. LM acquisition time is 102 hours, 16 minutes, 25 secomds. That is about 37 minutes, 20 seconds from now on the CSM, and about a little less than 2 minutes longer than that for the LM. At 101 hours, 37 minutes; this is Apollo Control, Houston.
+101:37:45 Collins (onboard): Eagle, Columbia. How's it going?
+101:37:47 Armstrong (onboard): Mike, the burn's complete. It was on time - residuals are nulled, and AGS's free.
+The accuracy of this burn is important. Thirty seconds of burn has brought the altitude of the LM's orbit on the opposite side down from about 60 nautical miles to only 8.5 nautical miles. Each second of the burn took 1.7 nautical miles off this altitude and at a coarse level, it is easy to see that it wouldn't take much of an overburn to risk impact with the lunar surface. But more importantly, they want to reach a perilune as near to 50,000 feet (15,000 metres) as possible because this is the altitude from which the descent to the surface has been planned. For this reason, when the main burn was complete, they consulted the DSKY's Delta-V display, saw what velocity still had to be gained or lost and fired their RCS thrusters to achieve as near to zero on all three displays as possible. This is known as nulling the residuals.
+101:37:55 Collins (onboard): Beautiful.
+101:42:58 Collins (onboard): Eagle, Columbia.
+101:42:59 Aldrin (onboard): Go ahead.
+101:43:02 Collins (onboard): Roger. I'm ready to go back to VHF Ranging configuration. Be alright ?
+101:43:08 Aldrin (onboard): Roger. Let's go now to VHF Ranging.
+101:43:11 Collins (onboard): Over and out.
+101:43:20 Collins (onboard): Okay.
+101:43:24 Aldrin (onboard): And you got Verb 76 in?
+101:43:27 Collins (onboard): Yes, 76 is in [garble] locked up.
+We believe Buzz misspoke and meant Program 76 for which Duke read up a PAD at 101:01:05. The program is called Target Delta-V and it would allow Mike to reproduce the LM's DOI burn.
+101:43:47 Collins (onboard): And we're [garble] 7.5 [garble].
+101:43:52 Aldrin (onboard): Roger. That's just what we got, 7.6.
+We assume this is their range from the CSM in nautical miles.
+101:43:55 Collins (onboard): Okay.
+101:43:59 Armstrong (onboard): P00?
+101:44:10 Armstrong (onboard): 8 minutes...
+101:44:11 Aldrin (onboard): We're in good shape...
+101:44:12 Armstrong (onboard): ...coming up on 8 minutes.
+101:44:13 Aldrin (onboard): ...for [garble]...
+101:44:15 Armstrong (onboard): High Bit, 8 minutes.
+101:44:17 Aldrin (onboard): You don't have an 8-minute mark.
+101:44:18 Armstrong (onboard): 67 feet per second. Go ahead with the [garble].
+101:44:23 Aldrin (onboard): Can't beat that. Okay, through with that?
+101:44:26 Armstrong (onboard): Yep. I like it.
+101:44:31 Aldrin (onboard): Hold on to the [garble] below.
+101:44:35 Armstrong (onboard): Okay. And I'll pull the breakers - think we can [garble] roll.
+101:44:51 Aldrin (onboard): Yeah.
+101:45:03 Aldrin (onboard): Got them both?
+101:45:05 Armstrong (onboard): What?
+101:45:06 Aldrin (onboard): Got them both?
+101:45:07 Armstrong (onboard): Yes. [Garble.]
+101:45:34 Aldrin (onboard): Okay, it [garble].
+101:45:42 Armstrong (onboard): Going to load the PDI plus 12, right?
+This is the PDI plus 12-minute abort PAD. If PDI doesn't occur, they will make a burn 12 minutes later to begin a rendezvous with the CSM.
+101:45:52 Aldrin (onboard): Right.
+101:45:54 Armstrong (onboard): Okay. I'm going to start pitching down to 125.
+He is pitching the Lunar Module forward so that the engine thrust axis is correctly aimed for PDI when they arrive at their perilune. This will be about 500 km east of the landing site.
+101:46:15 Aldrin (onboard): No PDI plus 12.
+101:46:34 Collins (onboard): I have you right down [garble] 65 feet per second.
+101:46:38 Armstrong (onboard): Sounds good.
+101:47:03 Aldrin (onboard): Okay, the camera is set. And ought to be ready to do the P52.
+101:47:13 Armstrong (onboard): Yes.
+101:47:15 Aldrin (onboard): Not going to be much of a drift check.
+101:47:23 Armstrong (onboard): It - it torques them late enough to ensure that - [garble] the drift check.
+101:47:32 Aldrin (onboard): Sure seems like we're going the wrong way.
+101:47:42 Aldrin (onboard): How much do we got to go to pick it up?
+101:47:46 Armstrong (onboard): Got to go - oh, half the Moon to go, I guess.
+Eagle is flying in an inertial attitude, one which stays fixed with respect to the stars rather than rotating to maintain one side facing the Moon as it goes around. When it reaches its perilune, they want it to be flying engine first but because they are on the opposite side of the Moon, it is flying engine trailing.
+101:48:05 Armstrong (onboard): Coming down already.
+101:48:06 Aldrin (onboard): Okay. It's got us 152. It's 151, there's [garble], okay? [Garble.]
+101:48:44 Aldrin (onboard): There's 52.
+101:48:54 Armstrong (onboard): Got 8 minutes [garble].
+101:48:59 Aldrin (onboard): Now we can let us take - let it take us there.
+101:49:03 Armstrong (onboard): No, wait. Don't do that.
+101:49:05 Aldrin (onboard): Why not?
+101:49:06 Armstrong (onboard): I have to roll.
+101:49:09 Aldrin (onboard): Yes, that's right.
+101:49:11 Armstrong (onboard): In 2 more minutes.
+101:49:32 Aldrin (onboard): Well, I did [garble] attitude.
+101:49:37 Armstrong (onboard): Yes, you'll have to roll over. Well, I guess I might as well do that.
+101:49:45 Aldrin (onboard): Where's your watch? Got your stopwatch?
+101:49:48 Armstrong (onboard): Got it in my pocket.
+101:50:03 Aldrin (onboard): Well, the [garble] us over, huh?
+101:50:06 Armstrong (onboard): [Garble.]
+101:50:16 Armstrong (onboard): And, one thing I'd appreciate if you could - see if you could - find the...
+101:50:30 Aldrin (onboard): What?
+101:50:34 Armstrong (onboard): The map.
+101:50:36 Aldrin (onboard): Yes. Which one do you want? I've got...
+101:50:37 Armstrong (onboard): [Garble.]
+101:50:40 Aldrin (onboard): That it? Where do you want it?
+101:50:52 Aldrin (onboard): Trade you that for a piece of gum. There it is.
+101:50:59 Armstrong (onboard): [Garble.]
+101:51:17 Armstrong (onboard): When do we have to get these? Alright, go on.
+101:51:40 Aldrin (onboard): What do you mean by bringing - bringing CSM trash in here?
+101:51:42 Armstrong (onboard): Well, that's stuff I had left over in my pocket.
+101:53:30 Armstrong (onboard): You want [garble]?
+101:53:44 Armstrong (onboard): Screen [garble].
+101:53:53 Armstrong (onboard): You in Auto?
+101:53:54 Aldrin (onboard): No, I'm not Auto. I'll be there in just a minute.
+101:54:09 Armstrong (onboard): 312, it likes.
+101:54:13 Aldrin (onboard): Well, we ought to proceed on that for a while.
+101:54:18 Armstrong (onboard): Okay.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 101 hours, 54 minutes. We're now about 20 minutes, 45 seconds from reacquiring the Command Module on the 14th revolution. The time until the ignition for the powered descent is 38 minutes, 55 seconds. Here in Mission Control, people still standing and waiting. I believe back in the viewing room, we probably have one of the largest assemblages of space officials that we've ever seen in one place. Included among the viewers are Dr. Thomas Paine, NASA Administrator; Jim Elms, Director of the Electronic Research Center at Cambridge; Dr. Abe Silverstein, Director of NASA's Lewis Research Center; Rocco Petrone, Director of Launch Operations at Kennedy Space Center is there. From Marshall Space Flight Center, we have Dr. Wernher von Braun, the Director, and his Deputy, Dr. Eberhard Rees. Also a large number of astronauts including Tom Stafford, Gene Cernan, Jim McDivitt and John Glenn. We also see Dr. Kurt Debus, Director of the Kennedy Space Center; and Dr. Edgar Cortright, Director of the Langley Research Center. Dr. Stark Draper, Director of the Massachusetts Institute of Technology Instrumentation Laboratory, is also in the viewing room. Here in the control room proper, down on the floor, a number of astronauts including Pete Conrad, Fred Haise, Jim Lovell, and Bill Anders; and Donald K. Slayton, Director of Flight Crew Operations at the Manned Spacecraft Center. Sitting beside us in the back row of consoles here is Dr. Robert Gilruth, Director of the Manned Spacecraft Center. Further down along the line is General Sam Phillips, Director of the Apollo Program. Also Chris Kraft is here, Director of Flight Operations at the Manned Spacecraft Center; and George Low of the Apollo Spacecraft Program Manager. We also see in the back viewing room, Secretary of the Air Force Seamans, and many others who I'm sure we can't see through the glass. We're now 18 minutes, 10 seconds until reacquisition of the spacecraft. Ignition for the powered descent to the lunar surface is 36 minutes, 30 seconds away. At 101 hours, 57 minutes; this is Apollo Control, Houston.
+101:54:27 Aldrin (onboard): These clocks you can't move like you can some. Let me try and get that clock set for PDI. [Garble] 33 [garble].
+101:54:38 Collins (onboard): [Garble] updates [garble].
+101:54:47 Armstrong (onboard): Yes, we're keeping busy down here.
+101:54:52 Collins (onboard): Okay.
+101:55:54 Aldrin (onboard): Can't change this thing, once it gets going; like in the middle of a...
+101:56:00 Armstrong (onboard): You can't?
+101:56:01 Aldrin (onboard): No.
+101:56:08 Armstrong (onboard): PGNS Mode Control in Auto.
+101:56:34 Armstrong (onboard): Okay. Well, I can [garble] - the radar antenna.
+101:56:46 Aldrin (onboard): No, that's the wrong circuit - that's [garble].
+101:56:53 Armstrong (onboard): There's the Sun in the COAS.
+101:56:57 Aldrin (onboard): In the COAS?
+101:56:59 Armstrong (onboard): In the - I mean, in the reticle.
+101:57:02 Aldrin (onboard): Alright, let me - let me do my rain dance with the DSKY here.
+101:57:08 Armstrong (onboard): Okay.
+101:57:09 Aldrin (onboard): Got it on?
+101:57:14 Armstrong (onboard): Now I need a Verb 76. I'm right on in pitch.
+101:57:21 Aldrin (onboard): You want a Verb 76? Okay, you got it.
+Verb 76 is Minimum impulse command mode.
+101:57:33 Armstrong (onboard): Hmm.
+101:57:40 Armstrong (onboard): How are you doing - you going to be about ready to mark?
+101:57:46 Aldrin (onboard): Yes.
+101:57:55 Aldrin (onboard): Say, how about you remembering the number that I read to you. Don't have to write it down. Roll right just a little.
+101:58:08 Armstrong (onboard): Just about ready to mark.
+101:58:10 Aldrin (onboard): Go ahead.
+101:58:12 Armstrong (onboard): Oh, this cotton picking - thought I was.
+101:58:20 Aldrin (onboard): Give me a [garble] check.
+101:58:29 Aldrin (onboard): Ready?
+101:58:31 Armstrong (onboard): Getting close.
+101:58:33 Aldrin (onboard): Okay.
+101:58:42 Armstrong (onboard): Ready?
+101:58:43 Aldrin (onboard): Yes.
+101:58:45 Armstrong (onboard): Mark it.
+101:58:46 Aldrin (onboard): 124 19, 124 19. Well, it should have been - 124 00.
+101:59:05 Armstrong (onboard): Do another one?
+101:59:06 Aldrin (onboard): Yes.
+101:59:12 Armstrong (onboard): Okay. I'm about ready.
+101:59:21 Aldrin (onboard): Tell me when.
+101:59:31 Armstrong (onboard): Ready...
+101:59:33 Armstrong (onboard): Mark it.
+101:59:34 Aldrin (onboard): Okay. 134 17, Key Release, Proceed. [Garble] it should have been - 124 01. One more. Getting closer.
+Flight Plan, page 3-69.
+102:00:18 Aldrin (onboard): Ready whenever you are.
+102:00:29 Armstrong (onboard): Stand by. How's our roll?
+102:00:36 Aldrin (onboard): Okay.
+102:00:43 Armstrong (onboard): Mark it.
+102:00:44 Aldrin (onboard): Okay, 13; Key Release; Proceed. 413 - [garble] it should have been - closer yet.
+102:01:00 Armstrong (onboard): Okay, Mike, we passed the star check. Foxtrot.
+102:01:04 Collins (onboard): Very good. [Garble.]
+102:01:16 Armstrong (onboard): Very good. Okay? [Garble.]
+102:01:29 Aldrin (onboard): Alright, let's go to - pitch to 180, 285, and zero.
+102:01:47 Armstrong (onboard): Okay. We'll [garble].
+102:02:11 Armstrong (onboard): Cotton picker just won't stay - try it!
+102:02:16 Aldrin (onboard): Well, wait until we lose that descent stage, man.
+102:02:19 Armstrong (onboard): We'd better take - a - piece of tape. Hold that down.
+102:02:25 Aldrin (onboard): How about if you get the bottom in the - get the bottom underneath this cover? That help?
+102:02:34 Armstrong (onboard): Well, it - it's still not. I've had it in there real good a couple of times.
+102:02:42 Aldrin (onboard): Your - hoses are tearing hell out of my board.
+102:02:47 Armstrong (onboard): Sorry.
+102:02:50 Aldrin (onboard): You got Inverter 1 circuit breaker in, right?
+102:02:53 Armstrong (onboard): Checked in.
+102:02:54 Aldrin (onboard): Okay. I'm going to check Inverter 1. Inverter 2 is good; and Inverter 1 is good, and we're on Inverter 1.
+102:03:05 Armstrong (onboard): [Garble] look good.
+102:03:16 Aldrin (onboard): Okay, get your AELD circuit breaker in and Abort Stage circuit breaker in.
+AELD is the Ascent Engine Latching Device.
+102:03:19 Armstrong (onboard): AELD is in. Abort Stage is in.
+102:03:24 Aldrin (onboard): Cycle the CWEA? No, we must have lost one.
+CWEA is the Caution and Warning Electronics Assembly.
+102:03:28 Armstrong (onboard): Yep. That cottonpicker may be trouble.
+102:03:35 Aldrin (onboard): Well, we'll have to tell them about that. I don't know when it - when it went out, because we didn't get any light that I saw, did you?
+102:03:45 Armstrong (onboard): I think it's just a switch. I [garble] if it doesn't trigger a light...
+102:03:50 Aldrin (onboard): Something...
+102:03:51 Armstrong (onboard): Oh, we're in Pulse, and we're not commanding any firing...
+102:03:55 Aldrin (onboard): I don't know. That could have come under DOI, but I doubt it.
+102:04:02 Armstrong (onboard): I just think that's one of those sticky flags. [Garble] got a good engine.
+102:04:11 Aldrin (onboard): Alright, let's see.
+102:04:12 Armstrong (onboard): [Garble.]
+102:04:18 Aldrin (onboard): Engine Stop button was reset?
+102:04:24 Armstrong (onboard): Engine Stop button is Start, but it is going to be now.
+102:04:31 Aldrin (onboard): Alright. Window bars. Throttle Control to Auto.
+102:04:39 Armstrong (onboard): Okay. Throttle Control to Auto.
+102:04:42 Aldrin (onboard): Alright, TTCA...
+102:04:44 Armstrong (onboard): Throttle on Minimum.
+102:04:45 Aldrin (onboard): ...Enable - Enable - Throttle in Minimum. Okay, in 35 minutes, we'll get the BAT feeds On and...
+102:04:56 Armstrong (onboard): That's the wrong time, right?
+102:04:57 Aldrin (onboard): No, no, no.
+102:04:59 Armstrong (onboard): [Garble]? PDI?
+102:05:00 Aldrin (onboard): It's - oh - about - probably maybe a second, right here, [garble] 32. Okay?
+102:05:09 Armstrong (onboard): Yes, it's about a second off.
+102:05:13 Aldrin (onboard): If it's fast, I'll stop it. If it isn't, why, forget it.
+102:05:50 Aldrin (onboard): You want this one over there?
+102:05:51 Armstrong (onboard): I need this out. Burn in 46 minutes.
+It is actually 27:20 to the PDI burn. This may be a mistranscription.
+102:05:57 Aldrin (onboard): You want this one?
+102:06:00 Armstrong (onboard): Yes. I don't - think - it'll be helpful, but I'll stick it here and pull it out if I need it.
+102:06:20 Aldrin (onboard): Let's see. We haven't got P20 going yet, have we?
+102:06:23 Armstrong (onboard): No.
+102:06:24 Aldrin (onboard): Let's do that. Let's get the Rendezvous Radar circuit breaker in.
+102:06:27 Armstrong (onboard): Okay.
+The Rendezvous Radar is powered up so that by the time of the descent, it is warmed up and operational in case it is called upon to help with rendezvous after an abort. Over the decades, a myth has built up that Buzz had powered up the Rendezvous Radar when he wasn't supposed to and that this was the cause of the computer alarms that would dog the descent to the surface by virtue of the computer being overloaded. However, as shown by the fact that the Flight Plan indicates that the radar should be on, this notion is incorrect. Further, the computer overload was caused by an unfortunate electronic 'funny' that came about when the system was switched on. Had they switched it off and on again, the funny would likely have cleared.
+102:06:34 Aldrin (onboard): In. Might look at the DPS.
+102:06:51 Armstrong (onboard): What do you hear?
+102:07:00 Aldrin (onboard): [Garble] glycol pumps.
+102:07:03 Armstrong (onboard): Alright.
+102:07:10 Armstrong (onboard): Look at that. Oh, that must have been - [garble].
+102:07:20 Aldrin (onboard): Okay, ascent - tank pressure - temperature's up, changed to - I don't know.
+102:07:28 Armstrong (onboard): DPS's good...
+102:07:30 Aldrin (onboard): Look at all that RCS we got.
+102:07:35 Armstrong (onboard): That's more than we've ever had in the simulator, isn't it?
+102:07:38 Aldrin (onboard): Yes.
+102:07:51 Armstrong (onboard): Got your camera rigged?
+102:07:54 Aldrin (onboard): The other circuit breaker? Camera's all set to go. I hope the others just don't fall out. Got them both in?
+102:08:01 Armstrong (onboard): Yes.
+102:08:17 Aldrin (onboard): Well, let's hope he's in Mode 2.
+Mode 2 seems to be referring to P20, the rendezvous navigation program. Since the Rendezvous Radar works with a transponder in the CSM, Buzz may be referring to Mike.
+102:08:33 Aldrin (onboard): Okay, I'm going to get the Ascent Batts, On. Battery 5, On, looks good. Battery 6, On, that's good.
+102:09:08 Armstrong (onboard): Yes, we've lost it.
+102:09:14 Aldrin (onboard): Well, did it go to Mode 2? That's where I want it to go.
+102:09:22 Armstrong (onboard): No - I can't tell.
+102:09:26 Aldrin (onboard): Yes, it's going to Mode 2. Hasn't it?
+102:09:33 Armstrong (onboard): Yes.
+102:09:34 Aldrin (onboard): Yes. There we are. Beautiful.
+102:09:38 Armstrong (onboard): Go to Auto Track?
+102:09:39 Aldrin (onboard): No, not yet - wait until the light goes out. Did that thing want to - Hey, I didn't know that could do that. You don't hear that, huh? (Laughter)
+102:10:01 Aldrin (onboard): Hear that, too, huh?
+102:10:06 Armstrong (onboard): Sounds like wind whipping around the trees.
+102:10:16 Aldrin (onboard): Okay, Auto Track.
+102:10:32 Aldrin (onboard): Okay, we ready to go to P63?
+P63 is the first of three programs (63, 64 and 66) which will control the descent to the lunar surface. P63 is started long before PDI and it initiates the burn, the moment of PDI itself. It then controls the braking phase of the descent for about 9 minutes, taking care of the LM's attitude and the throttle setting of the descent engine.
+102:10:36 Armstrong (onboard): Yes.
+102:11:07 Aldrin (onboard): Okay, get a - get a - Need to compare a TIG time. 09:50. That's right.
+102:11:25 Armstrong (onboard): See that Big Dipper there?
+102:11:27 Aldrin (onboard): That's a big out of plane, but I don't know which way it is.
+102:11:33 Armstrong (onboard): I believe minus - but they were expecting it.
+102:11:36 Aldrin (onboard): Okay, four...
+102:11:38 Armstrong (onboard): That's within 7 [garble] seconds. Okay?
+102:11:53 Aldrin (onboard): Okay. These should not be in Auto, right?
+102:11:57 Armstrong (onboard): Yes. Remember that one.
+Your browser does not support the audio element. Download MP3 audio file. PAO loop. Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson.
+This is Apollo Control at 102 hours, 12 minutes into the flight of Apollo 11. We're now 2 minutes, 53 seconds from reacquiring the spacecraft; 21 minutes, 23 seconds from the beginning of the powered descent to the lunar surface. It's grown quite quiet here in Mission Control. A few moments ago, Flight Director Gene Kranz requested that everyone sit down, get prepared for events that are coming, and he closed with a remark 'Good luck to all of you'. Here in the - on the front of our display boards we have a number of big plot boards which will be used to keep track of the burn progress. Among the more important of those is one which will show the performance of the onboard guidance systems, both the primary and the back-up guidance system, and compare the guidance systems with the Manned Space Flight Network tracking. These displays, by the time this is all over, will look a good deal like a combination of Christmas tree and Fourth of July. We're now 1 minute, 39 seconds from reacquiring the Command Module Columbia. Acquisition of the Lunar Module will come a little less than 2 minutes after that. At the time we acquire the LM it should be at an altitude of about 18 nautical miles, descending toward the 50,000-foot [15,000-metre] pericynthion from which point the powered descent to the lunar surface will be initiated. If for any reason the crew does not like the way things look as they are coming across the pericynthion, simply by not initiating the maneuver they will remain in a safe orbit of 60 miles by 50,000 feet [111 by 15 km], and if they desired they would be able to attempt the powered descent on a following revolution at a Ground Elapsed Time of about 104 hours, 26 minutes. We are now coming up on 30 seconds to acquisition of the Command Module. We'll stand by for that event.
+102:12:13 Aldrin (onboard): 180, 287, 0. Here goes.
+102:12:46 Aldrin (onboard): Give me...
+102:12:47 Armstrong (onboard): You'll get them before we will.
+102:12:50 Collins (onboard): Ready to give them a status report? DOI?
+102:12:54 Aldrin (onboard): Well, I hope it's on the right page.
+102:13:24 Aldrin (onboard): Okay, I'm going to get Descent Quantity, On, [garble] On.
+102:14:19 Armstrong (onboard): Okay, you want to give it - Okay, we've lost it. In Auto now.
+Network controller says we have Acquisition Of Signal from the Command Module.
+102:14:42 Aldrin (onboard): [Garble] Range Rate.
+102:14:59 Armstrong (onboard): How about that?
+At this point, this edition of the Apollo 11 Flight Journal hands over to the first chapter of the Apollo Lunar Surface Journal, The First Lunar Landing. The following 2 minutes or so of dialogue are provided as overlap with the ALSJ to facilitate read-across, and to bring the Flight Journal up to the point of Acquisition Of Signal on the last occasion before landing.
+102:15:02 Duke: Columbia, Houston. We're standing by. Over. [No answer.]
+102:15:36 Duke: Columbia, Houston. Over.
+102:15:41 Collins: Houston, Columbia. Reading you loud and clear. How me?
+102:15:43 Duke: Roger. Five-by, Mike. How did it go? Over.
+102:15:49 Collins: Listen, babe. Everything's going just swimmingly. Beautiful.
+102:15:52 Duke: Great. We're standing by for Eagle.
+102:15:57 Collins: Okay. He's coming along.
+102:16:00 Duke: We copy. Out.
+Being in a higher orbit, Columbia regains contact with Mission Control first. Eagle is now flying faster in its lower descent orbit, dropping towards the surface. Although somewhat closer to Earth than Columbia, Eagle is more closely hugging the surface and remains hidden behind the Moon for almost two minutes longer.
+102:16:09 Duke: And Columbia, Houston. We expect to lose your High Gain some time during the powered descent. Over.
+102:16:19 Collins: Columbia. Roger. You don't much care do you?
+102:16:22 Duke: No, sir.
+Comm break.
+We have Acquisition Of Signal from the LM.
+102:17:27 Aldrin: Houston, Eagle. How do you read?
+102:17:29 Duke: Five-by, Eagle. We're standing by for your burn report. Over.
+Having now re-acquired signal, first from Columbia then from Eagle, Mission Control starts to monitor closely the Eagle's continuing descent, leading up to engine re-ignition as it approaches the landing site. The flight transcript continues in the Apollo Lunar Surface Journal, first chapter.
+Day 5, part 1:
+Preparations for Landing
+Journal Home Page
+The First Lunar Landing
+(ALSJ)
+Day 6, part 2:
+Rendezvous and Docking

@@ -1,0 +1,603 @@
+﻿
+Apollo 13 Flight Journal - Day 3, part 5: Minimising Power
+Day 3, part 4: Free Return
+Journal Home Page
+Day 4, part 1: Approaching the Moon
+Apollo 13
+Day 3, part 5: Minimising Power
+Corrected Transcript and Commentary Copyright ©2019-2025 by W. David Woods, Johannes Kemppanen, Alexander Turhanov and Lennox J. Waugh. All rights reserved.
+Last updated 2025-02-22
+The crew of Apollo 13 are still approaching the Moon with their compromised spacecraft. The Service Module is severely damaged and the Command Module has been powered down to preserve its scarce consumables for re-entry. Only the Lunar Module Aquarius is fully fit but it has the task of housing three men for four days of coasting towards Earth instead of two men for less than two days on the Moon.
+Another task for the LM is to provide the propulsion needed to get back to Earth safely. When one of the Service Module's oxygen tanks exploded, Apollo 13 was on a hybrid free-return trajectory, one that would require significant rocket thrust to get back on a path to Earth. This was achieved at 061:29:42. However, Mission Control is keen to get the crew home faster than will be achieved by their current trajectory, which would return them home at 152 hours GET. Details of a burn to occur two hours after they swing around the Moon have been passed up to them to be burned at 079:27:40. This PC+2 burn is to bring them home at 143 hours GET.
+Handwritten notes on the burns required to get the crew home, timed to around this hour by the document.
+This is Apollo Control at 64 hours, 28 minutes Ground Elapsed Time. Briefly the situation with Apollo 13. The crew in the last hour was passed up a pericynthion plus 2 hours maneuver which actually is primarily a speed up maneuver to get them back to Earth somewhat earlier than the normal free return would bring them. This maneuver would come at 79 hours, 27 minutes Ground Elapsed Time. Would involve 845 feet per second velocity change. Splashdown would be in the southwest Pacific, north of New Zealand at about 142 hours, 47 minutes Ground Elapsed Time. At the present time, the LM oxygen quantity is 50.6 pounds and 300 pounds of water on board. Cabin pressure holding steadily and 4.7 up to 5 pounds in both spacecraft. The tunnel between the two is open so they share a common atmosphere. Apollo 13 now 193,700 nautical miles [358,700 km] out from Earth; velocity, 3,005 feet per second [916 m/s]. Discussions here in the control room have to do with the power down procedures. How to conserve electrical power, the water used in the coolant, for cooling the various electronic systems in the spacecraft. How to husband all these consumables to get the most mileage from them. And it's 64 hours, 30 minutes Ground Elapsed Time and standing by; this is Apollo Control.
+064:37:40 Lovell: Houston, Aquarius.
+064:37:43 Kerwin: Aquarius, Houston. Go.
+Scientist astronaut Joe Kerwin, MD, has taken over the CapCom position from Jack Lousma. This is the first change of the CapCom during the crisis part of the mission. It's almost six in the morning in Houston, Texas, where Mission Control staff have worked through the night.
+064:37:48 Lovell: Roger, Jack. We're asking whether P51 and a P52 are required in the back side of the Moon.
+Jim makes a rare misidentification here, referring to Kerwin by the name of the previous CapCom, Lousma. His question refers to whether they are required to realign the inertial platform in the shadow of the Moon using programs 51 and 52.
+064:37:56 Kerwin: I think so, Jim, but stand by while I verify it. [Long pause.]
+064:38:23 Kerwin: Aquarius, Houston.
+064:38:28 Lovell: Go ahead.
+064:38:30 Kerwin: We think we know where the platform is, Jim. The tracking looks real good from the last burn. We feel just a P52 will be required.
+064:38:39 Lovell: Okay. [Long pause.]
+Program 51 involves what is essentially a 'clean slate' state on the IMU; i.e. they have no knowledge of the orientation of the platform. However, Mission Control believe that they are close enough to a good alignment as they are, that a P52 realignment is the needed option. This will merely make a fine realignment, instead of trying to create one from scratch.
+064:38:54 Swigert: Joe, has your continued tracking changed our pericynthion altitude any?
+064:39:01 Kerwin: Stand by. We'll get the latest on that, Jack. [Long pause.]
+064:39:50 Kerwin: Aquarius, Houston.
+064:39:54 Swigert: Go ahead.
+064:39:56 Kerwin: Roger, Jack. We're still looking at 137 [nautical] miles and Doppler's confirming it. We will have a good update after 67 hours.
+Mission Control is tracking the spacecraft using the radio carrier wave sent on the S-Band. They have determined that the closest approach to the surface of the Moon will be at 137 nautical miles, or 253.7 kilometers.
+064:40:08 Swigert: That's good. I want to say you guys are doing real good work.
+064:40:13 Kerwin: So are you guys, Jack.
+Long comm break.
+064:47:06 Kerwin: Aquarius, Houston.
+064:47:13 Lovell: Go ahead, Houston.
+064:47:14 Kerwin: Okay, Jim. We've come up with a comm recommendation which we hope will save some power by powering down the power amplifier, if it works. And I'd like to read up the steps to you and have you think about them for a minute, and we recommend trying it before the first yaw maneuver. Over.
+Lunar Module telecommunications system flow diagram from the LM News Reference. Notice the Grumman logo on the bottom!
+The communications system on the LM provides radio links between the LM and the Earth, between the LM and the Command Module while they are performing separated ops, and also to spacesuited astronauts while on the lunar surface. The VHF radio is only used over short ranges, but the S-Band radio is active throughout the mission during the LM operations. The radio signal from either system goes through the signal processing equipment and the audio centers before reaching the astronauts' comms headsets. The outgoing S-Band signal usually passes through the S-Band power amplifier to produce a more powerful signal required for uninterrupted contact at the high distances involved.
+The radio power amplifier is a high power item, using 2.57 amps while operating. Cutting off that power drain would save them a considerable amount of battery power for any future needs.
+064:47:43 Lovell: Okay. You can read up the steps.
+064:47:48 Kerwin: Okay. Step 1; Biomed, Off; step 2, go to Low Bit Rate; step 3, go to Down Voice Backup; step 4, Power Amp to Prime; step 5, panel 16, Power Amp Circuit Breaker, Open; step 6, Range Function switch, Off. Read those back to me, and then I'll have a remark. [Pause.]
+064:48:39 Lovell: Okay. Biomed, Off; Low Bit Rate; Down Voice Backup; Power Amp to Prime; circuit breakers, panel 16, Power Amp Circuit Breaker, Open. Range Function switch, Off.
+064:48:56 Kerwin: Okay. And the note says that you should be able to hear us. If we can't hear you in a couple of minutes, you should close the Power Amp circuit breaker on panel 16, and we expect to save an amp or more on this. It should work in the present attitude. When we go to the new yaw attitude, we're thinking about powering up the steerable, leaving the Power Amp off and, if we can get good comm in that mode, we'll still save some power. So if you concur, why don't you go ahead. [Pause.]
+064:49:44 Lovell: Okay. In this mode, you should hear us - or we should hear you, but if you can't hear us, then we ought to close Power Amp circuit breaker again. Is that right.
+064:49:54 Kerwin: That's affirm. We'll just run a little comm check after you get done and see how we're doing.
+064:50:03 Lovell: Okay, fine. And if that all fails, we'll go back to our original configuration.
+064:50:06 Kerwin: That's affirm. [Long pause.]
+064:51:01 Lovell: All amps Primary.
+LM communications selection switches. Scan via heroicrelics.org
+The steps of the comm procedure to be attempted are as follows:
+Biomed to Off - The radio link that transmits crew ECG and respiration rates is turned off.
+Select Low Bit Rate - Telemetry bit rate is switched to low.
+Choose Down Voice Backup - Selects the backup mode which bypasses the primary electronics on the S-Band signal processor.
+Power Amplifier to Prime - Selects the primary power amplifier.
+Open Power Amp circuit breaker on Panel 16 - power to the power amplifier is removed from the circuit breaker.
+Range Function switch to Off - the radio ranging function is turned off.
+Jim and Jack carry out the steps.
+064:51:04 Swigert: Power amps in Primary.
+064:51:06 Lovell: Okay. Circuit breakers 16, Power Amp circuit breaker, Open; comm; Power Amp circuit breaker, Open.
+064:51:18 Swigert: There's only one. Ready?
+064:51:23 Lovell: Range Function switch, Off.
+064:51:28 Lovell: It is off [garble].
+064:51:35 Swigert: Yes, I think so; yes, that's off.
+As soon as they switch their comm mode, the communications loop becomes extremely noisy. Removing the power amplifier causes the signal strength to drop from 18.6 watts to .76 watts.
+064:51:49 Lovell: [Garble] Okay, Houston; Aquarius. How do you read me?
+064:51:53 Kerwin: Aquarius, this is Houston. We read you with a lot [garble] static. How do you read us? Over.
+064:52:03 Lovell: We read you with a lot of noise, the noise seems to indicate [garble] read you better. [Pause.]
+064:52:15 Kerwin: I didn't copy your last remark, Jim. I heard that you had a lot of noise in the background also.
+064:52:23 Lovell: Okay, Houston; Aquarius. How do you read us now?
+064:52:27 Kerwin: Just the same, Jim. You're readable but it's very noisy. [Pause.]
+064:52:45 Lovell: Okay. We can still read you. Do you want us to remain in this configuration?
+064:52:51 Kerwin: Stay there for the next minute or two anyway, Jim, while we evaluate it. [Long pause.]
+064:53:23 Lovell: Okay. I'll tell you what we need, Jack. Try to get this squared away again. We - See if you can't report the right procedures here [garble] the procedures, the whole works, before we get all balled up here.
+064:53:41 Swigert: Yes. Okay. You guessed it. [Pause.]
+064:53:53 Lovell: I've come up with nothing here. [Long pause.]
+064:54:47 Swigert: [Garble] we can use.
+064:54:54 Swigert: Stand by for [garble] Give me - [garble] over on my side there. My - [garble] [Pause.]
+064:55:21 Swigert: Find anything back in there?
+064:55:23 Lovell: No, wait a minute. [Long pause.]
+064:55:40 Swigert: Better get a [garble] there, a paper towel [garble]. [Pause.]
+064:55:47 Lovell: Let's just check in here [garble].
+064:55:53 Swigert: Yes.
+064:55:54 Lovell: [Garble]. Well, we should have some around here somewhere.
+064:55:57 Swigert: Yes. They are [garble].
+064:56:07 Lovell: Oh, here they are. [Garble]. [Long pause.]
+064:56:52 Lovell: Why don't you put that right up there, just like that. Is that all you've got on it? There you go.
+Comm break.
+064:58:01 Swigert: [Garble].
+064:58:09 Lovell: It sure stays on, I'll tell you that. It's built like a regular [garble].
+064:58:20 Lovell: Hey, look out that left-hand window, [Garble] I can't see a thing. [Long pause.]
+064:58:35 Swigert: [Garble] [Long pause.]
+064:58:49 Lovell: Well, is there anything [garble] done earlier? [Long pause.]
+064:59:22 Lovell: Okay. What we do here is, [garble]?
+064:59:29 Swigert: [Garble].
+064:59:33 Lovell: [Garble] the Command Module. [Long pause.]
+064:59:56 Lovell: Find the Flight Plan, too, while up there.
+Comm break.
+It sounds like Jim might be sending Jack up to the Command Module to fetch some of their supplies or equipment.
+065:02:48 Lovell: Okay. Why don't you recopy this procedure on page 4-42.
+065:02:59 Lovell: We going to keep a log of all the procedures? [Pause.]
+065:03:15 Lovell: We ought to copy down the ones that get water, too. [Garble]. Keep them all in one spot.
+065:03:23 Kerwin: Aquarius, Houston. Over.
+065:03:29 Lovell: Go ahead, Houston.
+065:03:31 Kerwin: Okay. Speak slow because there's a lot of noise in the background. Have you completed your first 90-degree yaw maneuver? And, if you haven't, we recommend it. Over.
+065:03:45 Lovell: Okay. We have not. We have not completed it. We will start. We want you to monitor the maneuver. Over.
+065:03:53 Kerwin: Okay, Jim. And I want to pass you up a short procedure for activating the S-band steerable antenna, which we'd like you to do after you complete the 90-degree yaw. Are you ready to copy? Over. [Pause.]
+065:04:14 Lovell: Ready to copy.
+They plan to turn on the S-Band steerable antenna, which can be aimed at the source of the signal from Earth either manually or automatically, with the antenna following the radio signal on its motorized mount.
+065:04:16 Kerwin: Okay. First, on panel 11, close the S-Band Antenna circuit breaker. Then go to Activation, page 28, steerable antenna activation...
+065:04:30 Lovell: Roger. Copy.
+These pages are references to the LM Activation Checklist.
+065:04:34 Kerwin: ...and complete steps 2, 3, and 4 of Activation 28. You'll have to do a Verb 64 to get the pitch and yaw angles, and the last step is on panel 16, S-Band Antenna Heater circuit breaker to Close. Over.
+Verb 64 would display the antenna's position on the computer screen.
+065:05:03 Lovell: Joe, we didn't get all of that. We just have, "Complete steps 2, 3, and 4 of activation" and then 68 or 28.
+065:05:11 Swigert: 28.
+065:05:13 Kerwin: Jim, that's...
+065:05:15 Lovell: Then do a Verb 64 to get... [Long pause.]
+065:05:39 Kerwin: Aquarius, Houston. That procedure I just passed you, please disregard it. Over.
+As soon as Joe managed to get the antenna activation procedure read up to the crew, they are pulling the plug on the plan to use the steerable antenna.
+065:05:50 Lovell: Disregard it. Okay. Do you want me to start my yaw maneuver now? And I'll be yawing to my right. One-way maneuver.
+065:05:59 Kerwin: Roger. Right yaw is acceptable, but wait one before you start the maneuver.
+065:06:09 Lovell: Roger. [Long pause.]
+065:06:33 Kerwin: Aquarius, Houston.
+065:06:38 Lovell: Go ahead.
+065:06:39 Kerwin: Okay. You are Go to commence the yaw maneuver. If we don't have comm after you complete the yaw maneuver, bring the power amplifier back on. Over.
+065:06:54 Lovell: Roger. Understand. We'll start the yaw.
+065:06:57 Kerwin: Okay. [Long pause.]
+This is the first of the dynamic PTC rotations made to try to manage the thermal status of the spacecraft during their coast.
+065:07:19 Swigert: [Garble]. [Pause.]
+065:07:28 Lovell: [Garble] 277.
+Long comm break.
+065:11:20 Lovell: They're almost getting bigger and bigger, Jack. It's over here now. [Long pause.]
+065:11:52 Lovell: Hey, you got a list [garble] off over here.
+065:11:55 Swigert: All that stuff [garble].
+065:11:57 Lovell: [Garble] to do is put water in it.
+Comm break.
+065:13:43 Lovell: What do I turn that to? [Pause.]
+065:13:51 Swigert: [Garble].
+065:14:17 Lovell: [Garble]. Yes [garble] down to 270 [garble].
+Comm break.
+065:15:32 Lovell: It's jumping now.
+Comm break.
+065:17:15 Lovell: Why don't you go Rate/Rate now, before we [garble].
+Comm break.
+065:19:28 Swigert: We're on the ascent tank, too.
+Jack is reminding his compatriots that they have the Ascent stage O2 tank selected as per the earlier order from Mission Control. They want to use some of it to lower the pressure in the tank which was seen to be rising earlier.
+065:19:33 Kerwin: Houston, Aquarius. Did you call?
+065:19:38 Lovell: Negative, Houston. We did not call. How you reading us?
+065:19:42 Swigert: Get up front and turn that antenna [garble].
+065:19:49 Lovell: And, Houston, could you give us an approximate time to turn off the ascent O2 in case we're losing point with you?
+065:19:59 Kerwin: Roger, Jim; and copying about half your words. [Pause.]
+065:20:08 Lovell: Roger, Houston. We'd like a time to go back to descent O2 in case we lose communications with you.
+065:20:20 Kerwin: Jim, Houston. That's affirmative. You may go back to descent O2. Over.
+065:20:30 Lovell: Roger. Going back now.
+065:20:33 Kerwin: Copy that.
+Comm break.
+065:21:37 Lovell: We're [garble] up-side down.
+065:21:39 Swigert: Yes. [Long pause.]
+065:22:13 Swigert: Think we'll have any trouble getting that [garble] with that [garble] in there?
+065:22:19 Lovell: Probably not, if everything holds together because we already made one burn.
+065:22:24 Swigert: And the temperatures look good. When you make a burn, does that do something [garble]?
+065:22:32 Lovell: [Garble]. [Pause.]
+065:22:46 Lovell: Well, Jack. This is going to be difficult.
+065:22:55 Swigert: [Garble] [garble]. [Pause.]
+065:23:09 Swigert: I'll tell you, we'll have to start thinking about [garble].
+The crew is on VOX mode and only parts of their conversation are caught on the recording due to clipping and the terrible quality. The snippets captured offer tantalizing suggestions to how the crew would be contemplating their various options at the moment, in semi-privacy.
+065:23:19 Lovell: How about [garble]? [Long pause.]
+065:23:53 Lovell: How about [garble]? [Pause.]
+065:24:09 Lovell: Yes, we got [garble].
+Comm break.
+065:26:47 Lovell: [Garble] once every hour?
+Long comm break.
+This is Apollo Control. Rather noisy communications at the present time on the air-to-ground circuit to Apollo 13. Meanwhile the spaceflight meteorology group of the Environmental Service - Environmental Sciences Services Administration has issued - forecast that weather conditions will be satisfactory for Apollo 13's landing in the Pacific Ocean next Friday, April 17. Along the planned recovery line in the Central South Pacific, skies will be partly cloudy with southerly winds at 15 knots. Seas up to 4 feet are expected. The temperature is near 80 degrees [F, 27°C]. Apollo 13 is now 195,375 nautical miles [361,835 km] out from Earth. Velocity is 2,981 feet per second [909 m/s]. At 65 hours, 27 minutes Ground Elapsed Time; this is Apollo Control, standing by.
+065:30:14 Lovell: How about that [garble] tank [garble]?
+065:30:23 Lovell: How much of that oxygen are you going to use for...
+065:30:30 Swigert: We got - water glycol [garble] off. [Garble] need any more water? [Garble] again? [Long pause.]
+Jim seems to be concerned about the amount of oxygen they use from the Command Module surge tank whenever they pressurize the water tank.
+065:31:36 Lovell: [Garble] out there?
+065:31:38 Swigert: Yes, why don't we [garble]?
+065:31:53 Swigert: [Garble] out? Can you get that? [Long pause.]
+065:32:44 Lovell: [Garble] down there [garble].
+Comm break.
+065:33:56 Lovell: Houston, Aquarius. Are you [garble]?
+065:34:02 Kerwin: Aquarius, Houston. Say again, please. [Garble].
+065:34:09 Lovell: Roger. We have a radio check at a new attitude.
+065:34:14 Kerwin: Okay, Jim. We copy the angles. How are you receiving the voice now? Over.
+065:34:23 Lovell: Your voice is excellent.
+065:34:28 Kerwin: Okay. Real good. You are clear. We still have a lot of noise, but if you talk slow I think we can manage. [Long pause.]
+065:35:20 Kerwin: Aquarius, Houston.
+065:35:28 Lovell: This is Aquarius. Go ahead.
+065:35:31 Kerwin: Roger, Jim. We're trying to improve our comm down here. We'd like to try going function switch from Down Voice Backup to Voice. Over.
+065:35:48 Lovell: [Garble] Down Voice Backup [garble] switch going from Down Voice Backup to Voice.
+They reverse the earlier experimental mode by switching to the normal signal processing path.
+065:36:00 Kerwin: Roger that. [Long pause.]
+065:36:57 Kerwin: How do you read now, Jim? [Long pause.]
+065:37:37 Kerwin: Aquarius, Houston. Request a short count. Over. [Long pause.]
+065:38:16 Kerwin: Aquarius, Houston. We're not reading you at all. Request you go back to Down Voice Backup. Over. [Pause.]
+065:38:34 Lovell: All right. Houston, Aquarius in Down Voice Backup. How do you read? Over.
+065:38:41 Kerwin: Okay, Jim, we read you now and you'd better stay in this configuration. [Long pause.]
+065:39:03 Lovell: Well, [garble] try [garble].
+065:39:13 Swigert: [Garble]. [Long pause.]
+065:39:43 Kerwin: Aquarius, Houston. Over.
+065:39:50 Lovell: Go ahead, Houston.
+065:39:52 Kerwin: Okay, Jim, since we're in Low Bit Rate now, we cannot monitor the DSKY for program alarms, et cetera, and we recommend that, in order for you to do so on board, you push in the following circuit breakers: On panel 11 and panel 16, the Annunciator/Dock/Component circuit breakers. That will allow you to monitor your DSKY warning lights. Over. [Pause.]
+The selected telemetry bit rate affects the number of times the systems data is refreshed over the digital radio signal as well as whether all sensors are used to send updates to Mission Control. Low Bit Rate means that Mission Control has lost the ability to see everything going on with the Lunar Module computer - not unlike a remote desktop, being mirrored on their end. Their suggestion now is to enable the various warning lights on the DSKY so that the crew can watch out for the alarms instead.
+065:40:34 Lovell: Okay [garble].
+065:40:37 Swigert: [Garble], Off.
+065:40:42 Lovell: Roger, Houston. Would you say one more time [garble] please?
+065:40:47 Kerwin: Okay, Jim. The circuit breakers are the Annunciator/Dock/Component circuit breakers on panel 11, third row, far right, under Lighting; and on panel 16, also under Lighting, second row, third from the left. Over. [Pause.]
+065:41:23 Lovell: Roger, Houston. We have those two circuit breakers - engaged.
+065:41:30 Kerwin: Okay, real good.
+Long comm break.
+A diagram of the LM DSKY (Display and Keyboard) with the various warning lights named.
+The DSKY's numeric display and the various warning lights on the panel are powered by different circuitry. Hence their search for the right breakers to make sure they've got power, even if the display itself is unpowered.
+This is Apollo Control; 65 hours, 45 minutes Ground Elapsed Time. Communications are rather scratchy at this time. Back over the past 8 or 10 hours of the mission: The problem first cropped up at about 55 hours and 58 minutes Ground Elapsed Time last evening when the crew first reported an under voltage alarm on the Command Module Main Bus B. This was their first hint that something was amiss. The pressure rapidly dropped in the Service Module liquid oxygen tank number 2 and fuel cells 1 and 3 failed shortly thereafter. A decision was made to scrub any attempt at landing and continue on a lunar fly-by deep space abort type mission. The increased load on fuel cell 2 and the dropping pressure in the remaining liquid oxygen tank led to the decision to use the Lunar Module for a sort of lifeboat to come back to Earth using its consumables for life support. The remainder of the evening was spent in trying to get the power and water profile pared down to get the most mileage out of these items. And at 61 hours, 30 minutes Ground Elapsed Time, a 38 feet per second [11.6 m/s] mid-course correction burn using the Descent Propulsion System of the Lunar Module put the spacecraft back onto a free return trajectory which, if nothing more were done, would cause the Command Module to enter in the - to reenter the Earth's atmosphere in the Indian Ocean south of Mauritius at about 152 hours Ground Elapsed Time. However, another DPS or Descent Propulsion System burn is being planned at approximately 79 hours, 27 minutes Ground Elapsed Time with a velocity change posigrade of 845.5 feet per second [257.7 m/s], which would bring the spacecraft home somewhat more rapidly, about 10 hours sooner, as a matter of fact, to splash down in the southwest Pacific at 142 hours, north of New Zealand and that's where the situation stands at the moment. We'll be handing over to the Gold team shortly here in Mission Control. And at 65 hours, 49 minutes Ground Elapsed Time; this is Apollo Control, standing by.
+Gerry Griffin's Gold Team is taking over Mission Control now from Glynn Lunney's Black Team.
+065:51:02 Lovell: Houston, Aquarius. [Long pause.]
+065:51:16 Kerwin: Aquarius, this is Houston. Go ahead.
+065:51:21 Lovell: Joe, it appears that the best detent possibly to put the stars in the AOT, would be either number 2 or 4. The Rendezvous Radar antenna is now in the way. You might think of a procedure to get rid of it with minimum power and then we maybe we'll be able to see stars in a couple of minutes here in a lower detent.
+The LM. The AOT periscope's opening is on top of the curved portion of the 'roof' of the Lunar Module, above the Commander's (left side) window.
+065:51:48 Kerwin: Okay, Jim. I think I understood that the Rendezvous Radar antenna is in the way and you would like a procedure to get it out of the way. Is that right?
+065:52:00 Lovell: That's affirm; at the proper time, and with minimum power.
+065:52:06 Kerwin: Roger. Understand. We'll work that.
+Long comm break.
+The possible positions of the AOT.
+Fine alignment of the LM's guidance platform is achieved using the Alignment Optical Telescope whose external optics are sited at the top of the LM just behind the the antenna for the Rendezvous Radar. In use, the optics are aimed in one of six positions or 'detents' set at 60° intervals. It is possible for the antenna's dish to obstruct the optics at some of these detents if it is not parked out of the way.
+065:58:28 Kerwin: Aquarius, Houston. Over.
+065:58:34 Lovell: Go ahead.
+065:58:36 Kerwin: Okay. Jim, we have a handover coming up on the hour; that's in a minute and a half. On the hour, we would like you to turn the S-Band Transmitter/Receiver switch to Off, and 5 minutes later turn it back to Primary. Over. [Long pause.]
+065:59:17 Lovell: Okay, Houston. Shortly you want us to turn the S-Band Transmitter/Receiver to Off; 5 minutes later, turn it back to Primary.
+065:59:29 Kerwin: That's affirmative, Jim. After the handover apparently they want to make sure that they lockup with you and not the IU.
+Apollo 13's unusual situation caused a conflict between two radio systems because the LM and the Saturn's Instrument Unit (IU) both used the same frequency for radio communication. The expectation was that because the S-IVB/IU was being targeted to impact the Moon, and the LM wouldn't be activated until after that point, there would be no conflict between the two systems. Now there was. The solution was to have the radio on the IU lock to a particular ground station and have that ground station gradually move its transmission frequency off to a different value. This would take the IU's transmission frequency with it (because the downlink frequecy is directly derived from the uplink frequency). More details can be found from this splendid essay on Apollo 13 written by one of the Australian comms engineers, Hamish Lindsay, who was based at the Honeysuckle Creek Tracking Station.
+065:59:43 Lovell: Roger. And let me know when you want me to turn it off.
+065:59:51 Kerwin: Roger. You can turn it off now. [Long pause.]
+066:00:18 Lovell: And, Houston, when do you want me to turn that S-Band Transmitter/Receiver off?
+066:00:24 Kerwin: Aquarius, Houston. Turn it off now.
+066:00:31 Lovell: Turning it off now.
+Long comm break.
+066:08:25 Kerwin: Okay, Aquarius; Houston. We have data back and I assume we have comm. Over.
+066:08:35 Lovell: Houston, This is Aquarius. The comm is very, very, very noisy. Over.
+066:08:41 Kerwin: Aquarius, Houston. Copy that. It's noisy on our end, too; stand by while we think about it. [Long pause.]
+066:09:08 Lovell: Houston, Aquarius. I am unable to [garble] now [garble]. [Pause.]
+066:09:17 Kerwin: Jim, Houston. I think you just called, but I didn't copy you.
+Comm break.
+066:10:32 Kerwin: Aquarius, Houston. Over.
+066:10:38 Lovell: Go ahead, Houston.
+066:10:41 Kerwin: Jim, recommend you push the Power Amplifier circuit breaker on panel 16 in. Over.
+066:10:51 Lovell: Roger. Power Amplifier circuit breaker panel 16 going in. [Long pause.]
+They attempt to improve the perilous comms situation by enabling the power-hungry power amplifier again, out of necessity.
+066:11:16 Lovell: Power Amplifier circuit breaker is in.
+066:11:19 Kerwin: Okay, Jim. How is the comm now? Over.
+066:11:27 Lovell: A lot of background noise. Let me turn off the Squelch.
+066:11:32 Kerwin: Okay. You're quite a bit better.
+066:11:41 Lovell: Whenever I enable Squelch, I lose you. Over.
+066:11:45 Kerwin: Roger. Stand by. You are much better downlink. [Pause.]
+066:12:01 Swigert: Look at Noun 65.
+066:12:04 Lovell: Okay. [Long pause.]
+066:12:28 Kerwin: Okay, Jim. This is Houston. We recommend that you set the Function switch from Down Voice Backup to Voice. Over.
+066:12:40 Lovell: Roger. Function switch going from Backup to Voice. [Long pause.]
+066:13:10 Kerwin: Okay, Jim. How's the comm now?
+066:13:12 Lovell: Function switch [garble]. There's still a lot of background noise, Joe.
+066:13:21 Kerwin: Okay. We'll look at it some more. Your comm down to us is excellent now.
+Long comm break.
+This is Apollo Control. Hand over from the Black team headed up by Glynn Lunney to the Gold team headed up by Flight Director Gerry Griffin is under way at the moment. We're anticipating within the next several minutes, change of shift press briefing in the News Center Auditorium or News Center Briefing Room, which will be localized to the briefing room only. The Air-Ground will be left up on the PAO release circuit. We understand it will be in the big Auditorium. And further advice of the time and participants of this press conference will be forthcoming. This is Apollo Control standing by.
+066:18:27 Lovell: Houston, Aquarius.
+066:18:31 Kerwin: Aquarius, Houston. Go ahead.
+066:18:36 Lovell: The noise we're experiencing is similar to what we had sometime before when you switched stations. [Pause.]
+066:18:56 Kerwin: Roger, Jim. INCO is checking into what we can do about the noise. It may be a problem with the new site.
+066:19:12 Lovell: Roger.
+Long comm break.
+066:23:07 Kerwin: Aquarius, Houston. Is the noise any better now? Over.
+066:23:17 Lovell: This is Aquarius. Negative.
+066:23:20 Kerwin: Roger.
+Very long comm break.
+066:33:34 Lovell: Houston, Aquarius.
+066:33:36 Kerwin: Aquarius, Houston. Go ahead.
+066:33:42 Lovell: Roger. Will you let us know when you want us to yaw another 90 degrees right?
+066:33:49 Kerwin: Will do, Jim. Stand by one.
+066:33:54 Kerwin: Okay, Jim. We're ready now to yaw another 90 degrees to the right.
+066:34:02 Lovell: Roger.
+Comm break.
+They begin another of their makeshift PTC maneuvers again, rotating once more to maintain thermal equilibrium.
+066:36:14 Kerwin: Aquarius, Houston.
+066:36:20 Lovell: Go ahead.
+066:36:21 Kerwin: We are going to try to improve the comm and telemetry by temporarily breaking lock and reacquiring. You may hear some noise in your headset.
+066:36:33 Lovell: Okay. Couldn't be any more noise than we're getting now.
+The crew is starting to sound frustrated with the communications situation.
+066:36:36 Kerwin: Right.
+Comm break.
+This is Apollo Control at 66 hours, 37 minutes. Flight Director Glynn Lunney is still in the Control's PAO center. We will notify newsmen on this line when he leaves for the MSC Auditorium. Apollo 13 now is 197,424 nautical miles [365,629 km] from Earth. It's velocity is 2,953 feet per second [900 m/s].
+066:38:56 Lovell: Hello, Houston; Aquarius.
+066:38:59 Kerwin: Aquarius, Houston. Go ahead.
+066:39:03 Lovell: Okay. Now that there's no noise, you can give [garble]. [Pause.]
+066:39:15 Kerwin: Jim, I didn't copy that. Your comm is pretty good, though. How is it with us? [Pause.]
+066:39:26 Ground technician: Good. Okay. [Long pause.]
+066:40:07 Lovell: Houston, do you want to reconfigure the Down Voice Backup again?
+066:40:12 Kerwin: Aquarius, Houston. I don't think so at this time. Our voice is good now. How's yours?
+066:40:22 Lovell: Ours is very good.
+066:40:26 Kerwin: Okay, why don't we stay where we are for a few minutes.
+Very long comm break.
+067:02:42 Lovell: Okay. Houston, Aquarius. We're dead banding in the new attitude.
+067:02:48 Kerwin: Aquarius, Houston. Roger that, and your comm is good.
+Very long comm break.
+They have moved to the new attitude, with a 90 degrees rotation on the yaw axis, and have stabilized their movement to that attitude.
+This is Apollo Control at 67 hours, 23 minutes. Flight Director Glynn Lunney is still in the Mission Control Center. There has been considerable discussions and meetings on the floor here since his shift changed. He and Flight Director Gerry Griffin, Director of Flight Operations - Flight Crew Operations Deke Slayton, the Apollo Mission Director Chet Lee, the Apollo Program Director Rocco Petrone and other management officials have been holding some discussions. We have no estimate on when Mr. Lunney will be able to get away at this time. We will attempt to summarize for you some of the discussions that have been going on here. We are still leaning toward the burn at pericynthion plus 2 hours, that is the Descent Propulsion burn at 79 hours, 27 minutes; 850 feet per second [259 m/s] as an option. A number of people are taking a look at the - what is being termed as super fast return, would require a larger burn at pericynthion plus an hour and a half. This would bring us to a splash time of 118 hours vs. 142 hours. However, to accomplish this, we would have to jettison the Service Module. Preliminary data indicates that we may have a thermal problem on the way back without the Service Module. There are also some other aspects that need to be looked into. This option is being held open and is being worked and will be for the next several hours. However, as I say, all the officials here are still leaning toward the pericynthion plus 2 hours, with a 142-hour return. In connection with the super fast return, Astronaut Gene Cernan has been doing some work in the trainer on star visibility problems, manual reaction control, manual throttle work, and this option will be kept open for some time. Another problem with the super fast return is that we can't stand as much misalignment with the inertial platform on a long burn as we can with the 142-hour return. At the present time, we would feel more comfortable with the 142 hours return. We expect to be able to get a program 52 or a platform align, the program for aligning the inertial platform with the Alignment Optical Telescope in the Lunar Module, after the spacecraft arrives in the shadow of the Moon. There is a 30-minutes period where we can look at the spacecraft through telemetry and watch the - how the alignment goes prior to the time that we lose signal. We are 9 hours, 41 minutes away from LOS, but there is a half-hour period when the spacecraft will be in the shadow of the Moon and an alignment can be attempted. If we are unable to align, we think that we can do the burn with the present alignment. The result so far of tracking since the last Descent Propulsion burn indicates that the present alignment is good. We are looking at a plan now that after the burn, we would power down to 17 amps; that's a minimum power down. With that power down, we have enough water to last to 155 hours, Ground Elapsed Time. In addition to that, we would have the water from the Portable Life Support Systems. The water use rate at this 17-amp power usage would be 2.68 pounds per hour. These projections also include two power-ups for midcourse corrections on their way home. And a procedure has been worked out to use the Command Module's lithium hydroxide cartridge for CO2 removal and we are presently yawing manually 90 degrees every hour for Passive Thermal Control; after the burn, we may put a rate into the spacecraft, or roll rate into the spacecraft, and let it go and attempt to set up some type of Passive Thermal Control that does not require complete manual operation. The Flight Dynamics Officer reports that if the burn is a reasonable one, that they would schedule midcourse probably at 24 hours out, instead of 12 hours. That would be an elapsed time of 4 hours. Stand by please.
+It is interesting to note here that the PAO is quite free in his discussion of the various return plans, while the crew only gets the procedures once they have eventually been decided upon. It makes sense not to burden them even further at this point with speculation.
+And we expect communications to improve a little bit after S-IVB impact on the lunar surface; the S-IVB frequency is giving us a little trouble with communications. After the impact we will not have to turn the transponder in the spacecraft off, during handovers between tracking stations. That's the situation as it stands now; we will keep you advised as to Flight Director Lunney's availability. This is Mission Control Houston.
+067:32:09 Kerwin: Aquarius, Houston. Over.
+067:32:15 Lovell: Go ahead, Houston.
+067:32:16 Kerwin: Okay, Jim. In order to save on an amp or 2 of power here, we'd like you to go to the Down Voice Backup comm configuration, which is pulling the power and circuit breaker and going to Down Voice Backup. If we get into a comm problem, all you have to do is reverse that configuration, and it should be good again. Over. [Pause.]
+067:32:50 Lovell: Okay, we'll go to Down Voice Backup and pull the Power Ampl circuit breaker, and if we get into trouble, we'll come back again.
+This suggested procedure is essentially what was attempted earlier, although with poor results at the time.
+067:32:57 Kerwin: Okay, real fine, and we estimate the next yaw maneuver should start at about 68:02. Over.
+067:33:08 Lovell: Okay. Could you give me that in minutes?
+067:33:12 Kerwin: I sure can. That's going to be in 29 minutes from now, Jim.
+067:33:18 Lovell: Okay. Thank you.
+They likely are noting the time on their onboard clock, or on one of their wristwatches.
+067:33:20 Kerwin: Okay. [Long pause.]
+067:33:51 Lovell: Okay, Houston. We're in Down Voice Backup and the Power Amplifier is pulled.
+067:34:00 Kerwin: Jim, Houston. Roger that. You are readable through the noise. How are we? Over.
+067:34:09 Lovell: You are loud and clear.
+067:34:12 Kerwin: Very good. [Long pause.]
+067:34:30 Swigert: Yes, I guess [garble] at this time [garble] out [garble] configuration [garble], and we have to get [garble]. [Long pause.]
+067:34:58 Lovell: Okay. What else do we have to [garble].
+Comm break.
+067:36:18 Swigert: [Garble]. [Pause.]
+067:36:30 Lovell: Okay.
+067:36:35 Swigert: [Garble]. [Long pause.]
+067:37:21 Swigert: [Garble]. [Long pause.]
+This is Apollo Control at 67 hours, 38 minutes. President Nixon talked with NASA Administrator Dr. Thomas O. Paine at 7:45 am CST today. Dr. Paine, who arrived in Houston by NASA aircraft at 6:40 am CST from Washington, was in Mission Control and gave the President an update on the Apollo 13 Mission. Mission Control is in direct contact with the White House. We'll continue to stand by now for live air-to-ground transmissions.
+President Nixon would have been busy for the past few days, hosting the West German Chancellor Willy Brandt on an official visit to the US. Chancellor Brandt was present at the Cape for the launch of Apollo 13 - which he witnessed with the US Vice President Spiro Agnew and Wernher von Braun.
+067:38:19 Swigert: [Garble]. [Pause.]
+067:38:30 Lovell: I guess they're going to take [garble].
+067:38:35 Swigert: [Garble]. [Long pause.]
+067:39:12 Swigert: Well, there's another good one [garble].
+067:39:17 Lovell: [Garble] going off?
+067:39:20 Swigert: [Garble].
+067:39:28 Lovell: No. [Garble] we had battery power for a while, we could [garble].
+067:39:33 Swigert: It's locked.
+067:39:35 Lovell: [Garble].
+067:39:40 Swigert: I don't think that was [garble].
+067:39:55 Swigert: [Garble] powered up [garble].
+067:40:01 Lovell: [Garble] got one.
+067:40:03 Swigert: [Garble]. [Garble] all powered down.
+067:40:07 Lovell: [Garble].
+067:40:10 Swigert: [Garble] have to get [garble]. [Long pause.]
+067:41:02 Lovell: [Garble] get our [garble] are off.
+067:41:05 Swigert: Yes.
+067:41:08 Lovell: [Garble] all three [garble].
+067:41:15 Swigert: [Garble]. [Pause.]
+067:41:25 Swigert: Seems like [garble] the burn [garble].
+Comm break.
+This is Apollo Control. It's 67 hours, 43 minutes. The Lunar Module is configured in a VOX mode of communication and what you are hearing is the crewmen talking among themselves. They are not calling Houston. We are not in air-to-ground transmission but you will be able to hear the crewmen talking among themselves when they are in this mode.
+067:44:24 Lovell: [Garble]. [Garble].[Long pause.]
+067:45:01 Swigert: [Garble].
+Comm break.
+067:46:11 Swigert: [Garble].
+067:46:19 Lovell: [Garble]. We're going to have to do something to get all this water out of here.
+067:46:23 Swigert: I'll set up [garble] before I turn the thing on.
+067:46:27 Lovell: Okay, we'll get this thing...
+067:46:32 Swigert: [Garble].
+067:46:34 Lovell: [Garble].
+067:46:47 Swigert: [Garble]?
+067:46:48 Lovell: Yes.
+067:46:56 Swigert: [Garble]. [Garble].
+067:47:02 Swigert: There you go.
+067:47:06 Lovell: [Garble]?
+Comm break.
+067:48:50 Swigert: [Garble] this one.
+067:48:53 Lovell: Okay.
+Long comm break.
+067:52:20 Swigert: [Garble]?
+067:52:21 Lovell: That's right.
+067:52:22 Swigert: Thank you.
+067:52:26 Swigert: [Garble]?
+067:52:28 Swigert: I'll wake you up.
+067:52:30 Lovell: [Garble].
+067:52:31 Swigert: All right.
+Long comm break.
+067:58:37 Unrecognized crewman: (Coughing)
+067:58:44 Swigert: About four [garble].
+067:58:53 Lovell: Okay. [Pause.]
+067:59:07 Swigert: Go ahead. [Pause.]
+067:59:19 Lovell: [Garble]. [Long pause.]
+067:59:44 Swigert: [Garble]. [Pause.]
+067:59:56 Swigert: [Garble]. [Garble]?
+068:00:01 Lovell: Yes. [Pause.]
+068:00:13 Lovell: [Garble]. Over on the [garble].
+Long comm break.
+068:03:33 Lovell: Well, I'm afraid this is going to be the last lunar mission for a long time.
+Despite Jim’s gloomy remark here, Apollo 14 with Alan Shepard, Stuart Roosa and Edgar Mitchell launched in January 31st, 1971 - nine months later. Their mission landed at the Fra Mauro site originally slated for Apollo 13, and they fulfilled all their goals. Their spacecraft was equipped with three modified oxygen tanks and an auxiliary battery in the Service Module, both to better withstand any emergency situations as well as to enable for longer lunar stays during the more elaborate 3-day 'J' type missions to the Moon.
+James Lovell at the Senate hearing.
+Jim’s fatalism was even noted in the Senate, where he had to explain his wording to the politicians during the official Committee hearing on Apollo 13.
+068:03:40 Swigert: [Garble] copy. [Long pause.]
+068:04:37 Lovell: Are we in Down Voice Backup [garble]
+068:04:39 Swigert: Yes.
+Long comm break.
+068:08:27 Lovell: Maybe it should reverse itself. I think [garble].
+068:08:31 Swigert: [Garble].
+068:08:33 Lovell: Yes.
+Very long comm break.
+This is Apollo Control at 68 hours, 13 minutes. Flight Director Glynn Lunney and four of his Flight Controllers are on their way now to Building 1 for the News Conference. Flight Director Glynn Lunney and four of the flight controllers from his team are enroute to the Building 1 Auditorium for a News Conference. Accompanying Glynn Lunney will be Tom Weichel, the Retrofire Officer; Clint Burton, EECOM; Hal Loden, Control; and Merlin Merritt.
+This is Apollo Control at 68 hours, 17 minutes. An additional participant of the news conference will be Major General David O. Jones, United States Air Force, who commands the Department of Defense Recovery Forces.
+This is Apollo Control at 68 hours, 21 minutes. Apollo 13's distance from Earth now is 200,396 nautical miles [371,133 km]. Velocity 2,919 feet per second [890 m/s].
+068:25:48 Lovell: Aquarius, radio check.
+068:25:52 Kerwin: Aquarius, this is Houston. Go ahead.
+068:25:59 Lovell: Maneuver complete.
+068:26:02 Kerwin: Roger, Jim. We show you on telemetry. Looks solid at the new attitude. Just by the way of information, the latest tracking data shows the pericynthion to be holding somewhere above 136 [nautical] miles [252 km], and the PAD you have is still good. Over.
+Ground tracking has established their closest approach to the surface of the Moon - the pericynthion point - to be around 136 miles or 252 km, and their calculations for the PC+2 burn are still valid based on that data. This mean that the PAD - the Preadvisory Data read up to them earlier is a Go.
+068:26:24 Lovell: Roger. Understand.
+068:26:28 Kerwin: Okay, and, Jim, we wonder whether you've attempted to get drinking water out of the Command Module po-ti [sic] tank yet. It's - Is that going all right or do you have any questions on it. Over.
+068:26:42 Swigert: [Garble] do it at 169 hours.
+068:26:46 Lovell: We're all [garble] do it at 169 hours - or 69 hours.
+Long comm break.
+068:32:32 Swigert: I need a Command Module activation [garble].
+068:32:38 Lovell: Houston, Aquarius. Over.
+Long comm break.
+068:37:52 Lovell: Houston, Aquarius.
+068:37:55 Kerwin: Aquarius, Houston. Go ahead.
+068:38:01 Lovell: As we approach the burn, you want to go through the same check that we did for the last burn. That is, we want to make sure we have everything powered up [garble] circuit breaker by circuit breaker in conjunction with your direction. And for [garble] we ought to have a procedure for powering up the Command Module again when we have to go back into the Command Module [garble].
+Jim is showing his position as the Captain of the boat by demanding that Mission Control gives him the procedures that he needs. He goes beyond their immediate desire to make sure that the PC+2 burn is performed properly. Jim is also thinking about their eventual Earth landing which will involve reactivating the dead Command Module.
+068:38:29 Kerwin: Okay, Jim. We copied that. First of all, you want to go through the circuit by circuit breaker careful powered-up procedure for the next DPS burn, and we're working on that. Secondly, you want a procedure for powering the Command Module up again when you have to re-enter it and power it up and we're talking about that and working one up, and we'll get both those for you [garble]
+068:39:00 Lovell: Roger.
+068:39:06 Swigert: Joe, can you also get us an idea about how far out we can expect to make it on the Command Module batteries?
+Jack's concern is one of paramount important to all of them. The batteries can support them for two hours or so, when fully charged. They know that a part of that capacity has already been spent during the emergency.
+068:39:16 Kerwin: Okay, Jack. It sounds as though we probably don't want to power up the Command Module before EI minus 2 hours. That doesn't mean we can't start our procedure a good deal before that, but we don't want to power it up much before EI minus 2. Over.
+068:39:42 Swigert: Okay. I was just thinking in case something - we had the sort of problem here about how we would go about getting in the Command Module [garble] we need to power up - and - in order to make it back into Earth.
+068:40:00 Kerwin: Right, Jack. It's quite clear that we're going to have to very carefully make up a full checklist for you on that; we'll do it. [Pause.]
+The checklist will be the work of many minds supporting the mission, and will be the source of much consternation and debate through the rest of the mission. However even this earlier on, preliminary thinking has already been done, and hence Kerwin is able to give them such information.
+068:40:26 Swigert: What they're going to do is [garble] power Aquarius up [garble].
+068:40:38 Lovell: Oh, well, we've got to have something to [garble]. Besides, we can get rid of the LM [garble] decide then what they'll do.
+068:40:51 Swigert: My guess is what they'll do - Well, I guess, align the GDC [garble] and get EMS [garble].
+Jack speculates on the guidance options for the Earth re-entry, which would involve them powering up the Command Module and possibly getting inertial guidance using the Gyro Display Coupler (and BMAGs) as a backup to the IMU and then use the EMS - the Entry Monitoring System based on that data.
+068:42:21 Swigert: And we haven't even figured out yet the [garble] batteries, have we?
+068:42:26 Lovell: Oh, I'm sure we have.
+068:42:30 Swigert: [Garble] ... hundred ampere-hours. We had it figured out that we had 550 ampere-hours left. [Garble].
+068:42:43 Lovell: [Garble]
+068:42:48 Swigert: [Garble] bigger than 133 hours. [Garble]. Oh, yes, I guess - Yes, he's [garble] the descent Thursday afternoon. He had it figured out that - for a splashdown at [garble] number of hours - 74 hours, and we've figured out that we - I don't know how we arrived at this - but he added up all the [garble].
+Comm break.
+This partially captured remark seems to indicate that the crew onboard has been performing their own calculations on how long their electric power supply would last.
+068:45:01 Kerwin: Aquarius, Houston. Over.
+068:45:07 Lovell: Go ahead, Houston.
+068:45:09 Kerwin: Roger, Jim. We just thought of something; namely, that we probably should get the lithium hydroxide canisters out of the Command Module reasonably soon just to make certain that they don't stay in there and possibly swell up until they'd be hard to get out. I wouldn't wake up Fred for that, but it's something you should do possibly before you go to sleep.
+068:45:45 Lovell: Roger. Will do.
+068:45:47 Kerwin: Okay.
+Comm break.
+It appears that Mission Control has reason to fear that the lithium hydroxide canisters might swell up from absorbing moisture and then deform, potentially becoming unusable. With the Environmental Control System offline in the Command Module, the moisture levels are rapidly rising.
+068:47:00 Swigert: Good morning, Freddo. We're 68 hours, about, and 46 minutes. Did you sleep good? [Long pause.]
+068:47:17 Lovell: [Garble] lithium hydroxide [garble].
+068:47:19 Swigert: Yes, I think I'll do that right now. Freddo, get on the [garble].
+068:47:25 Lovell: Okay, Jack, take the lithium hydroxide canisters out. Tie them down, or something like that [garble] Command Module. And then get us some food [garble].
+Comm break.
+Sample astronaut menu from the Apollo 13 Press Kit.
+Each crewmember had a personalized menu, rotated every 4 days. They could select the most appealing foodstuffs to be taken to space to ensure that they would be most likely to eat all the food despite the difficulties in preparation and the altered taste and texture caused by the various preservation methods.
+068:48:53 Lovell: How much time did you say these batteries had?
+068:48:56 Swigert: [Garble] 800 ampere [garble].
+Comm break.
+They are presumably talking about the LM batteries, with the figures involved. The CM batteries have a total capacity of about 120 amp-hours.
+068:50:21 Haise: Aa-ah. Think I'll get an aspirin - a couple of aspirin again [garble].
+Comm break.
+068:51:43 Haise: I'd like a couple of aspirin, too.
+Fred has been suffering from headaches earlier in the mission, leading to him vomiting a couple times during the translunar coast, while probably suffering from space sickness. He’s going to be feeling even worse later on once he develops a urinary tract infection.
+They a have medical kit in the Command Module and a smaller one in the LM. Aspirin is one of the over the counter medications carried, besides eye drops, decongestants, and stronger stuff like amphetamines and Demerol.
+068:51:49 Haise: Well, would you like some pictures?
+Comm break.
+068:54:06 Lovell: Be sure you get all the water out you can. [Garble].
+Comm break.
+068:55:49 Haise: You're holding your attitude right now. What time have you got to [garble]?
+068:55:57 Lovell: Probably another 5 minutes.
+Comm break.
+068:58:35 Lovell: How much water in the [garble]? [Long pause.]
+068:59:30 Haise: What time was it when we powered up the LM, do you recall? 58 hours?
+Long comm break.
+069:06:38 Lovell: How did the water come out?
+069:06:43 Swigert: Okay, [garble]. That's another big [garble], man. If we have to start drinking water out of the [garble] drink damn near a gallon a day. [Long pause.]
+Jack is most likely thinking about the possibility of the water in the Command Module running out and them having to start consuming water from LM tanks which they need for the cooling as much as for their own sustenance.
+069:07:54 Lovell: I'm also figuring that when we've got to go back in there, we'll [garble] take the drogue and the food [garble] back here - take these - put these back in there. [Garble].
+Long comm break.
+069:12:53 Haise: Hello, Houston. How do you read? [Long pause.]
+069:13:27 Haise: Hello, Houston; Aquarius.
+069:13:34 Kerwin: Aquarius, Houston; did you call
+069:13:43 Haise: Okay, you hear me, Joe?
+069:13:46 Kerwin: Oh, not very good, Jack; suggest that for communication here, we go to Power Amplifier circuit breaker In and Function switch to Voice.
+The plan to improve the comm situation is to switch the power amplifier back on and go to the normal Voice option.
+069:14:03 Haise: Okay, I didn't want to get through or anything. I just wanted to check and see if we had you at all in this mode.
+069:14:10 Kerwin: Oh, yes, we do have comm. You're extremely noisy but if you read loud and slow we can easily copy it.
+069:14:25 Haise: Okay. Joe, I read you loud and clear on this mode.
+069:14:29 Kerwin: Roger, we understand that. It is strictly a downlink problem and you can stay in the Down Voice Backup mode if you want. If we get involved in conversation, I think we'll want to go back to Normal voice.
+Long comm break.
+069:16:42 Lovell: How you doing, Jack? [Long pause.]
+069:17:35 Lovell: Do you have an hour on your clock for [garble]? [Long pause.]
+069:18:00 Haise: Joe, this is Aquarius; wonder if you can give me the GET time of initial power-up?
+069:18:13 Kerwin: Fred, Houston. Understand you'd like to know the GET of your initial powerup, is that correct?
+069:18:23 Haise: Yes, the second time in here.
+069:18:26 Kerwin: Okay, stand by.
+Comm break.
+Fred is hoping to hear the time of their startup of the LM during the emergency. Joe Kerwin misunderstands this, however.
+069:19:48 Ground technician: [Garble] in flight.
+069:19:56 Kerwin: Aquarius, Houston. Over.
+069:20:02 Lovell: Go ahead.
+069:20:05 Kerwin: Okay, we don't have a precise time for the starting of that procedure yet; we are working on it real hard. It won't be for several hours; and we'll pass it up to you just as soon as we get it. Over.
+Joe is talking about their plans for performing the PC+2 burn, thinking that it's what the crew wants to hear.
+069:20:21 Lovell: Okay, and, Joe, you want us to start a PTC maneuver at this time?
+069:20:27 Kerwin: Stand by and I'll check. [Long pause.]
+069:20:34 Ground technician: Okay. [Long pause.]
+069:21:06 Kerwin: Aquarius, Houston.
+069:21:12 Lovell: Go ahead.
+069:21:13 Kerwin: Roger, Jim. We would like the next yaw maneuver in about 6 minutes. Over.
+069:21:20 Lovell: Roger.
+069:21:22 Kerwin: Okay.
+Comm break.
+069:23:10 Lovell: Oh, yes, yes. Keep opening - open the jets slowly [garble]. Keep working at it. [Long pause.]
+069:24:02 Lovell: Is there some way that we could [garble] water in the PLSS? [Long pause.]
+The crew appears to be wondering about the PLSS once again. Throughout the mission, they keep coming up with schemes on either using the water contained in the PLSS to transfer it into the LM Ascent Stage, or use the PLSS to transfer water from the CM into the LM.
+069:24:16 Kerwin: Aquarius, Houston. Over.
+069:24:21 Lovell: Go ahead.
+069:24:23 Kerwin: Okay. Our estimate is that we will start powering up for the DPS burn at about 76 hours elapsed, which is about 6¾ hours from now.
+069:24:40 Lovell: Roger, Joe. Understand.
+069:24:42 Haise: Okay, Joe, about 76 hours or so and I guess you misunderstood. My question was what was the GET way back when, when I first came across to the LM and transferred to LM power? How long have we been living on the LM, now?
+069:25:00 Kerwin: Oh; Roger. Stand by. I'll give you that. Yeah, I did misunderstand.
+Long comm break.
+Albeit only an annoyance here, such misunderstandings could put their life in peril. The poor communications link does not help the issue at all.
+069:29:28 Kerwin: Aquarius, Houston. Over.
+069:29:35 Lovell: Go ahead, Houston.
+069:29:36 Kerwin: Okay, the time of transfer to LM power was 57 hours, 11 minutes. For your information, we seem to be reasonably fat on power. In fact, we are looking at a procedure that we might recommend to you later on after the burn and so forth of powering up one of the Command Module main buses via the LM umbilical. This would enable us possibly to charge up the Command Module batteries. Over.
+069:30:16 Haise: Okay, Joe. That sounds great. I just thought that to pass the time, I'd do a little backseat quarterbacking, here.
+069:30:29 Kerwin: Roger.
+Long comm break.
+Both of the procedures speculated on by Joe Kerwin will eventually be performed, first to check the condition of the Command Module Main Bus B and then to recharge the re-entry batteries.
+069:34:22 Lovell: How's the water doing?
+069:34:39 Haise: How are you going to get it? Press the tank
+069:35:17 Haise: How am I [garble] Jack?
+069:35:25 Lovell: Take a check, Jack, and see how and see how we can [garble].
+Very long comm break.
+069:47:30 Kerwin: Aquarius, Houston. Over.
+069:47:35 Lovell: Go ahead, Houston.
+069:47:37 Kerwin: Roger. We request Aft Omni at this time. Over.
+069:47:43 Lovell: Aft Omni.
+069:47:45 Kerwin: That's affirm. [Long pause.]
+069:48:35 Lovell: Yes. [Garble] is going to be 123.
+069:48:40 Haise: You mean you're [garble] 12247? [Pause.]
+069:48:55 Haise: [Garble].
+069:48:59 Lovell: Yes.
+069:49:06 Haise: I'm trying to [garble] this heater over here.
+069:49:08 Lovell: Yes. I'll [garble] that. [Long pause.]
+069:49:34 Haise: Jim, that spacecraft's looking pretty close; a about 86 or [garble]. [Pause.]
+069:49:50 Lovell: Well, [garble].
+Very long comm break.
+This is Apollo Control at 70 hours, 12 minutes. Apollo 13 now 203,670 nautical miles [377,197 km] from Earth; velocity, 2,910 feet per second [887 m/s]. We'll continue to stay up live for any air-to-ground transmissions.
+This is Apollo Control at 70 hours, 24 minutes. A decision has been made to perform the pericynthion plus 2-hour maneuver. This will be a DAP Descent Propulsion System burn of approximately 900 feet a second [274 m/s], and will bring landing in the Pacific Ocean at 142 hours elapsed time. We'll be passing up to the crew a procedure shortly for them to perform a Sun check in the alignment optical telescope of the Lunar Module so that we may better understand what the present LM inertial platform alignment is. If, as a result of this Sun check, the platform looks good, we will perform the maneuver without a platform realignment. If it does not look good and the limits on this have been defined as plus or minus 1 degree, we will do what is termed an Earth-Sun option alignment before going into the dark behind the Moon, and set up the attitude of the spacecraft so that the crew can mark on a good star while they're in the dark to check the Earth-Sun alignment that they will perform previously. Apollo 13 now is 203,957 nautical miles [377,728 km] from Earth; velocity is 2,894 feet per second [882 m/s]. Jim Lovell, the spacecraft commander, and Jack Swigert the Command Module Pilot have just started a 6-hour rest period. Lunar Module Pilot Fred Haise is awake at the present time. We will be passing information on this decision up to the crew very shortly. This is Mission Control, Houston."
+This is Apollo Control at 70 hours 32 minutes. The elapsed time of this planned Lunar Module engine manuever is approximately 79 hours, 25 minutes. We expect to do the Sun check at about 74 hours elapsed time. We're now 6 hours, 36 minutes away from Loss Of Signal, when the spacecraft will go behind the Moon. We'll stand by for any air-ground now.
+070:52:15 Kerwin: Aquarius, Houston. Over.
+070:52:20 Haise: Go ahead, Houston.
+070:52:23 Kerwin: Okay, Fred. I have a few words for you on some things we want to do in the next few hours, and in order to get good comm for that and also in order to give FIDO a few minutes of ranging, I want to have you put the Power Amplifier circuit breaker in panel 16 in, the Voice Function switch to Voice, and Ranging Function switch to Ranging. Over. [Long pause.]
+070:53:17 Haise: Now I'm in Normal voice and Ranging is up.
+070:53:22 Kerwin: Okay, Fred. And you're loud and clear down here now. Okay. What we're getting a procedure ready for you is to do an AOT Sun check at approximately 74 hours or in just a little over 3 hours. That will be a detent 2; we'll have a detail procedure up shortly and it will include a Rendezvous Radar redesignation to get it out of the way and a P52 maneuver to the attitude. It's our feeling that if that checks out within 1 degree that your platform will be okay for the burn without a subsequent P52. If it's not within 1 degree, we are working up an Earth/Sun alignment procedure to align the platform, and we'll have that up to you later. Okay. Assuming that the Sun check is okay, we will then give you a star for a confidence check on the back side when you're in the darkness. We'll be updating a burn PAD to you prior to LOS going around the Moon. We'll have another look at you after AOS, and we'll update the PAD if required. Right now that update should be very small. Over.
+This very long readout from Mission Control tells a lot about the upcoming plan to make sure their navigation systems are working properly. The ground controllers have calculated an attitude for the spacecraft to take, in which at a given moment, the Sun should be visible through the AOT telescope in the Lunar Module. By having the computer fly the spacecraft into this attitude, using the onboard navigational reference to do so, the crew can determine whether the inertial platform is still accurate enough to perform the crucial burn to take them home. If they can’t see the Sun at the moment the computer thinks they should be able to do so, a P52 inertial platform realignment could be performed later while they move into the shadow of the Moon.
+Another problem to solve is the radar antenna, which is locked into place and would be in the way of the telescopic sightings. They have to use the computer to drive the antenna to another position.
+070:54:48 Haise: Okay. Stand by one.
+Comm break.
+070:55:52 Haise: Okay. Joe. As I read that, at 74 hours we're going to do an AOT Sun check at detent 2, which is going to require the Rendezvous Radar out of the way. And we use P52 Auto maneuver to get there, or at least the angles out of that, and if this passes within 1 degree, you're saying the platform is okay for the maneuver, and we won't need a subsequent P52. But even if it is okay, you'll give us a star which we can use for our check when we're in darkness. If this check flunks, you'll pass us on up then an Earth/Moon align procedure.
+070:56:45 Kerwin: Okay, Fred. That's correct, except the align procedure that we're working on is an Earth/Sun align, and other than that, that's correct. Incidentally, this PC plus 2 maneuver looks like it will still be around a 900-foot-per-second maneuver and that it will get you back to the mid-Pacific line at 142 hours. [Pause.]
+070:57:15 Haise: Okay. That was an Earth/Sun check, Joe. We're getting a little close to the Moon now. And the PC plus 2 maneuver still looks about 900 foot per second to get us at mid-PAC, at about 142 hours.
+070:57:32 Kerwin: That's right.
+Long comm break.
+The purpose of the PC+2 burn at 79 hours is to boost their speed coming away from the Moon and to target them to their Pacific landing zone around 142 hours GET. This maneuver ought to cut out 10 hours from their return time and give them a much more comfortable margin when it comes to their consumables.
+071:05:12 Kerwin: Aquarius, Houston.
+071:05:19 Haise: Go ahead, Joe.
+071:05:21 Kerwin: Okay, Fred. We got a good batch of ranging and now we'd like you to reverse the configuration, Ranging to Off, Voice Function to Down Voice Backup, Power Amplifier circuit breaker out; we'll be talking to you.
+071:05:41 Haise: Down Voice Backup with the Power Amp breaker open now. How do you read?
+071:05:47 Kerwin: We read you satisfactorily, Fred.
+071:05:53 Haise: Okay. [Long pause.]
+This noisy but workable state of the radio will remain the norm for the rest of the mission. They will turn up the high power equipment only when involved in crucial conversations, such as passing on procedures, checklists or PADs.
+Comparison of the low and high power communications configurations from the Apollo 13 Mission Operations Report.
+071:06:17 Haise: Jim and Jack are in the upstairs bedroom taking a nap now.
+071:06:24 Kerwin: I didn't know that was upstairs [Pause.].
+071:06:34 Haise: We have the first space station.
+071:06:37 Kerwin: (Laughter.)
+Comm break.
+Joe Kerwin is joking gently along with Fred here, lightening the mood during a very tense time. Interestingly, only three years later, Kerwin would be part of the crew of the very first American space station, Skylab. Their one-month space mission broke the American space endurance record previously held by none other than Jim Lovell.
+S71-52264 - Joe Kerwin's official Skylab 2 crew portrait.
+071:09:04 Haise: And, Houston, Aquarius.
+071:09:08 Kerwin: Aquarius, Houston. Go ahead.
+071:09:13 Haise: One other thing you might have somebody look at - I don't want to bother the guys upstairs - the drain hose that we've got in the Command Module, I wonder if we can find out if it will plug into the PLSS and in which case we can keep transferring - later on at least - the Command Module water into the LM via the PLSS.
+071:09:43 Kerwin: Okay, Fred. You're almost up with us. We are looking real hard at getting water from the Command Module waste tank into the PLSS, using that hose and then dumping it from the PLSS into the LM ascent tank, and we think it is feasible; we're checking it out to make sure.
+The waste tank contains water produced by the fuel cells, not human wastes.
+071:10:08 Haise: Okay. [Long pause.]
+071:10:29 Haise: Okay. I have time to do another maneuver here, Joe.
+071:10:36 Kerwin: Okay, Fred. Let me verify that. [Long pause.]
+071:10:55 Kerwin: Fred, Houston. That is verified. You can go ahead with the yaw maneuver.
+071:11:02 Swigert: Roger.
+Very long comm break.
+071:29:06 Haise: Okay. Just made another maneuver. We allowed for a little too much roll, there. I wonder if that's too much, or should I try to take it out now that I got it stopped.
+071:29:18 Kerwin: Fred, this is Houston...
+071:29:19 Haise: Twenty degrees roll left - Yes. All right; go ahead.
+071:29:27 Kerwin: Okay, Fred. I didn't copy the beginning of your message.
+071:29:38 Haise: Okay, I - I was talking to Jim, there.
+071:29:42 Kerwin: Sorry.
+Very long comm break.
+Silence falls for almost an hour again. They pass onto the fourth day of the mission, with 72 hours elapsed time in space. It is 17 hours since the accident. It is April 14th in Houston, half past 1 in the afternoon.
+Day 3, part 4: Free Return
+Journal Home Page
+Day 4, part 1: Approaching the Moon
