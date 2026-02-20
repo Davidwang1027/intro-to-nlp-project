@@ -181,7 +181,7 @@ Roger. And we have a picture now; however, it's moving around quite a bit, if yo
 - - Okay, Joe. There's nothing but clouds outside, and when we get some land down there coming up, I'll switch back to the window. I thought I'd just show you Jim here, to make sure he's still here.
 Okay; real fine. We had a good picture of Jim there for a minute. I have the lift-off plus 8 pad, Fred. If you're ready.
 Go ahead, Joe.
-Okay. GETI, 008:00; DELTA-VT, 7835; longitude, minus 165; GET 400 K, 022:36. Over.
+Okay. GETI, 008:00; DELTA-V<sub>T</sub>, 7835; longitude, minus 165; GET 400 K, 022:36. Over.
 Okay. 008:00, 7835, minus 165, 022:36.
 Okay, then. And I have a TLI pad for you.
 Okay. I'm ready.
@@ -227,11 +227,11 @@ Roger.
 Apollo 13, Houston through Carnarvon.
 Okay, Joe. Read you loud and clear. We are sitting here monitoring time base 6 ... countdown; we're 20 seconds away.
 Okay. We're just starting to get data, and everything still looks good to us.
-Hey, Joe. At 2 hours and 12 minutes, the O2 FLOW HIGH light came on, and it's been pegged high ever since, so it's been on about 14 minutes now.
+Hey, Joe. At 2 hours and 12 minutes, the O<sub>2</sub> FLOW HIGH light came on, and it's been pegged high ever since, so it's been on about 14 minutes now.
 Roger, 13. We're looking at it.
 Time base 6.
 Copy. Time base 6.
-Okay. Apollo 13, Houston. You have a GO for all systems, and the O2 FLOW HIGH check is nominal with the WASTE TANK VENT open at this time, and it's no sweat.
+Okay. Apollo 13, Houston. You have a GO for all systems, and the O<sub>2</sub> FLOW HIGH check is nominal with the WASTE TANK VENT open at this time, and it's no sweat.
 Okay. Just wanted you all to check it for me.
 Okay. We did.
 Thank you.
@@ -259,7 +259,7 @@ Roger.
 13, Houston. The booster reports that everything looks good with the S-IV.
 Sounds good, Houston. The ride was very nominal. We a little vibration, though, during most of the run.
 Okay. We copied your call on that, Jim.
-Okay, Joe. the DSKY read 35560, plus 04445, plus 01769, and DELTA-VC was minus 3.0.
+Okay, Joe. the DSKY read 35560, plus 04445, plus 01769, and DELTA-V<sub>C</sub> was minus 3.0.
 Roger. You can't ask for much better than that. How about the burn time? Did you notice?
 Okay. On my trusty watch, I had about 3-3/4 seconds long.
 Okay. Copy that.
@@ -453,7 +453,7 @@ Roger.
 Okay.
 Yes, yes. More like that. That's nice. It's off our screen to the right, now.
 Oh, that's very nice, very nice.
-Okay, Joe. Is EECOM monitoring the O2 FLOW HIGH light again? We haven't yet started the venting yet.
+Okay, Joe. Is EECOM monitoring the O<sub>2</sub> FLOW HIGH light again? We haven't yet started the venting yet.
 Okay. Stand by. I'll check.
 13, Houston.
 Go ahead.
@@ -576,7 +576,7 @@ Hey, Joe. Do you want to dump waste water down to 25 percent. Is that right?
 That's affirm.
 Okay, in work.
 Okay.
-Do you know we're also purging fuel cells O2 now.
+Do you know we're also purging fuel cells O<sub>2</sub> now.
 Okay, Jack.
 Okay, Houston. The fuel cell purge and waste water dump are complete.
 Roger, Apollo 13. And this is your relief CAP COMM shift on now.
@@ -653,7 +653,7 @@ Apollo 13, Houston.
 Go ahead, ...
 Roger, You're coming in a little weak. Have a recommended roll rate for this PTC, if you could copy.
 Alright. Go ahead.
-Okay. Recommend that you put in R1 the following: 03750, and that should give you exactly a rate of 0.3 degrees per second. Over.
+Okay. Recommend that you put in R<sub>1</sub> the following: 03750, and that should give you exactly a rate of 0.3 degrees per second. Over.
 Okay. Enter 03750. Is plus or minus our choice?
 Roger. The same direction you rolled the last time, which I believe is plus.
 Okay.
@@ -811,7 +811,7 @@ Yes. I just did a P21 and we had 55 900.
 Okay. That's pretty good.
 I'll let you look at it again here.
 Incidentally, we're looking at a replay of your TD&E stuff here and the TV looks pretty good. First chance some of us had had to see it.
-Okay, Vance. In R1, there's our altitude in tens of miles, 55 290.
+Okay, Vance. In R<sub>1</sub>, there's our altitude in tens of miles, 55 290.
 Okay.
 Apollo 13, Houston.
 Go ahead, Houston.
@@ -865,7 +865,7 @@ Yes, you're right.
 Apollo 13, Houston.
 Go ahead.
 Fred, did you get any MASTER ALARMS up there about 5 or 10 minutes ago? Folks thought they saw some here and they were curious about it.
-Yes. We got another O2 FLOW HIGH on - I guess it was about 5 minutes ago.
+Yes. We got another O<sub>2</sub> FLOW HIGH on - I guess it was about 5 minutes ago.
 Okay.
 Vance, what the people down there might have been seeing is our testing.
 Roger. Testing the CAUTION and WARNING?
@@ -959,11 +959,11 @@ Okay. Copy that. Let's see what else we have for you, Jim. Midcourse-2 looks lik
 That's fine, Joe. Just as long as it doesn't hit Cone Crater.
 Okay. And I'll have a consumables update for you in a little while, and I have a small flight plan update for you sometime a little later on when you're ready to copy. There's no big deals in it.
 Roger.
-And, 13, Houston. We'd like to verify that you cycled the O2 cryo fans. We saw the H2, but we didn't see the O2 get stirred up.
+And, 13, Houston. We'd like to verify that you cycled the O<sub>2</sub> cryo fans. We saw the H<sub>2</sub>, but we didn't see the O<sub>2</sub> get stirred up.
 Yes, Joe. We did, and it kind of looked like we might have had a little stratification because right after we put them on, we had a CRYO PRESS light.
 Okay. EECOM told me that might happen, and he was right.
 Okay, Joe. We're ready to copy a flight plan update and your consumables.
-Okay, Jack. The flight plan update has a couple of items in it, and the first one we'd like to do is to update the Tephem values in the G&C checklist on page G/9-2. These are fairly small changes, but in case you need them, we'd like you to have the exact numbers. Over.
+Okay, Jack. The flight plan update has a couple of items in it, and the first one we'd like to do is to update the T<sub>ephem</sub> values in the G&C checklist on page G/9-2. These are fairly small changes, but in case you need them, we'd like you to have the exact numbers. Over.
 Okay. Just a minute. I'll get it out.
 Joe, was that the G&C checklist, page 9-2?
 That's affirmative. G&C, page G/9-2.
@@ -982,7 +982,7 @@ Roger. And the last additional question is what did the ORDEAL ball look like du
 Okay. Will do. We'll describe the ORDEAL ball.
 Okay. That's it, and that's the whole flight plan update. I have a consumables update now if you want to listen to that.
 Okay, Joe. We're ready to copy.
-Okay. At 23 hours the total RCS is 1121, quad A is 274, quad Bravo is 286, quad Charlie is 274, quad Delta is 287, and the cryos are as follows: H2 tank 1, 83 percent; H2 tank 2, 86 percent; O2 tank 1, 87 percent; O2 tank 2, 87 percent. Over.
+Okay. At 23 hours the total RCS is 1121, quad A is 274, quad Bravo is 286, quad Charlie is 274, quad Delta is 287, and the cryos are as follows: H<sub>2</sub> tank 1, 83 percent; H<sub>2</sub> tank 2, 86 percent; O<sub>2</sub> tank 1, 87 percent; O<sub>2</sub> tank 2, 87 percent. Over.
 Okay, Joe. We got all those, and how do we compare them with where we should be in the time line?
 As I understand it, Jack, you're running slightly ahead of nominal in both those areas.
 Okay; real fine.
@@ -1038,7 +1038,7 @@ We should have a lot more hover time, huh?
 That's right.
 Okay, crew. About the only other thing I've got for you right now is an update to your P37 pad for lift-off plus 35. This is a change to the pad we gave you yesterday. The reason for the update is for weather avoidance in the mid-Pacific landing area at 70 hours, which is the return time for this pad, and in case the question arises in your mind, we don't expect any problem there for the end of the mission. The weather area is 20 degrees south of your end-of-mission landing point, and it appears to be moving to the south.
 Okay, Joe. I'm ready to copy the pad.
-Okay. GET of ignition is 035:00, DELTA-VT 7883, Longitude minus 155, and the GET 400K 069:54. Over.
+Okay. GET of ignition is 035:00, DELTA-V<sub>T</sub> 7883, Longitude minus 155, and the GET 400K 069:54. Over.
 GETI is 035:00, 7883, minus 155, 069:54.
 Okay.
 And, Houston, Jack's going to try donning his suit now for practice, himself, and when he gets it out, we'll give you a dosimeter reading.
@@ -1181,7 +1181,7 @@ Roger. Readback correct. I have two more short comments on them, but I want to w
 Okay.
 Okay, Fred; Houston.
 Go ahead.
-The two additional comments were just that, first of all, they biased DELTA-VC by minus 0.34 feet per second based on your EMS null bias cheeks. That's just for information. And the second one also for information is that your targeted pericynthion is 60 miles after this correction.
+The two additional comments were just that, first of all, they biased DELTA-V<sub>C</sub> by minus 0.34 feet per second based on your EMS null bias cheeks. That's just for information. And the second one also for information is that your targeted pericynthion is 60 miles after this correction.
 Okay, understand. For Jack's information the EMS DELTA-V bias is 3.4, and our targeted pericynthion after this maneuver is 60 miles.
 That's correct on the pericynthion. The EMS bias is 0.34, very small.
 Okay. 0.34 on the EMS DELTA-V bias.
@@ -1419,8 +1419,8 @@ That's good.
 PITCH 1.
 Okay.
 TVC SERVO POWER, OFF.
-- - is OFF. Okay. Record the DELTA-VC. You got that?
-Okay. You got the - You got the DELTA-VC in minus 3.7.
+- - is OFF. Okay. Record the DELTA-V<sub>C</sub>. You got that?
+Okay. You got the - You got the DELTA-V<sub>C</sub> in minus 3.7.
 Okay. FUNCTION, OFF. MODE STANDBY.
 Proceeding now.
 OFF. MODE, STANDBY - -
@@ -1442,7 +1442,7 @@ Okay.
 I'm asking the computer how far away we are. And the computer is telling me we're 121 490 miles out.
 Okay. That agrees fairly closely with our map on the wall.
 I'm glad. That means you're tracking us too.
-And if you didn't see our residuals, it was 0.1 X, 0.2 on Y, and 0.1 Z, and DELTA-VC was minus 3.8.
+And if you didn't see our residuals, it was 0.1 X, 0.2 on Y, and 0.1 Z, and DELTA-V<sub>C</sub> was minus 3.8.
 Jack, Houston. We show you down here 121 thousand miles 520 out. So I guess we all agree.
 Okay. Real good, Vance. What I'm going to do is give you a shot of Fred.
 If we can get all the wiring out of the way.
@@ -1526,10 +1526,10 @@ Okay. At your convenience we have an item to give you which will have to be copi
 Okay. Stand by 1 minute.
 Okay.
 Okay, Vance. Go ahead.
-Okay. Time 32 hours 00 minutes GET. Instructions at completion of P23, maneuver to following attitude: roll 101.0, pitch 090.0, yaw 000.0. High gain antenna angles will be: pitch minus 23, yaw 93. Use normal PTC procedures to dampen rates. After vehicle's stable, and before spinup, take photographs of Comet Bennett. Use the DAC on the sextant with magazine G. That is, very high-speed black-and-white film, right? That's the dim-light film. Take three photos, one each at 5-, 20-, and 60-seconds' time exposure. Use AUTO optics. NOUN 88 values are R1 plus 34717, R2 minus 08028; R3 plus 35075. Take three photos one each at 5-, 20-, and 60-second time exposure using manual optics. Shaft will be 000.8 degrees, trunnion 12.5 degrees. Comment: Strip off about 50 frames; that is, 2 seconds of - at 24 feet per second before the first frame and after the last frame of the photos. That is, 2 second - 2 seconds at 24 frames per second - before the first frame and after the last frame of photos.
+Okay. Time 32 hours 00 minutes GET. Instructions at completion of P23, maneuver to following attitude: roll 101.0, pitch 090.0, yaw 000.0. High gain antenna angles will be: pitch minus 23, yaw 93. Use normal PTC procedures to dampen rates. After vehicle's stable, and before spinup, take photographs of Comet Bennett. Use the DAC on the sextant with magazine G. That is, very high-speed black-and-white film, right? That's the dim-light film. Take three photos, one each at 5-, 20-, and 60-seconds' time exposure. Use AUTO optics. NOUN 88 values are R<sub>1</sub> plus 34717, R<sub>2</sub> minus 08028; R<sub>3</sub> plus 35075. Take three photos one each at 5-, 20-, and 60-second time exposure using manual optics. Shaft will be 000.8 degrees, trunnion 12.5 degrees. Comment: Strip off about 50 frames; that is, 2 seconds of - at 24 feet per second before the first frame and after the last frame of the photos. That is, 2 second - 2 seconds at 24 frames per second - before the first frame and after the last frame of photos.
 Is that it, Vance?
 And that's all.
-Okay. The time is - The event will be at 01:08:00:00; and we're to maneuver to the following attitude; roll 101.0, pitch 090.0, yaw all zips. High gain angles will be pitch minus 23, yaw 93. And we're to use normal PTC procedures to damp the rates. And after damping the rates and before spinup, we're to put the DAC on the sextant with the magazine G, very high-speed black and white film. Then, we're to take three photos, one each at 5-, 20-, and 60-seconds' time exposure using audio - AUTO optics. Our NOUN 88 values R1 plus 34717, R2 minus 08028, R3 plus 35075. Thence, three more photos, one each at 5-, 20-, 60-seconds' time exposure using manual optics. Shaft 0.8 degrees, trunnion 12.5 degrees. And we're to take 2 - second bursts at 24 frames per second, before and after these pictures.
+Okay. The time is - The event will be at 01:08:00:00; and we're to maneuver to the following attitude; roll 101.0, pitch 090.0, yaw all zips. High gain angles will be pitch minus 23, yaw 93. And we're to use normal PTC procedures to damp the rates. And after damping the rates and before spinup, we're to put the DAC on the sextant with the magazine G, very high-speed black and white film. Then, we're to take three photos, one each at 5-, 20-, and 60-seconds' time exposure using audio - AUTO optics. Our NOUN 88 values R<sub>1</sub> plus 34717, R<sub>2</sub> minus 08028, R<sub>3</sub> plus 35075. Thence, three more photos, one each at 5-, 20-, 60-seconds' time exposure using manual optics. Shaft 0.8 degrees, trunnion 12.5 degrees. And we're to take 2 - second bursts at 24 frames per second, before and after these pictures.
 Your readback is correct, Fred.
 Apollo 13, Houston.
 Go ahead, Houston.
@@ -1565,7 +1565,7 @@ Okay, the first star: the corrected altitude, 15 kilometers plus or minus 4; eff
 Apollo 13, Houston.
 Go ahead.
 Go ahead.
-Okay. We have several items, here. First, is a reminder on the PTC that R1 should be 375 - 0.375 degrees as last night, to get 0.3-degree rotation rate. The second one - -
+Okay. We have several items, here. First, is a reminder on the PTC that R<sub>1</sub> should be 375 - 0.375 degrees as last night, to get 0.3-degree rotation rate. The second one - -
 Okay. Copy that.
 Okay. The second one, at 32 hours looking at Bennett's Comet - we want the pictures taken when the spacecraft is as stable as it's going to be before starting PTC. The stability requirement is very high. We weren't sure if you understood that from what we passed up. In addition, the photographs might not show as much as the eye can see of the comet, so if you see anything interesting about the structure of the comet, why, sketching it is in order and is encouraged. Over.
 Okay, Vance. What we'll do is, when we get to attitude, we'll disable the quads and do like we did last night; we'll let GUIDO and you people down there tell us when you think we are stable enough; then we'll do all this work with the DAC on the sextant, first; and then when we get that done, we'll go back and put the sextant eyepiece back on and see what we can observe visually.
@@ -1719,7 +1719,7 @@ Okay, go ahead.
 Okay. First a comment. In the middle of the page is where the zodiacal light stuff ends, just under VERB 48. And then, if you'll go down to the bottom of the page, cross out the line "Photo target 12 on track," et cetera, and cross out the "E5" that is below that line.
 Okay, Vance, can I break in a minute?
 Sure.
-We have the CRYO PRESSURE light on now. The H2 has hit its lower bound, so do you want us to go back to AUTO on the H2 HEATER 1?
+We have the CRYO PRESSURE light on now. The H<sub>2</sub> has hit its lower bound, so do you want us to go back to AUTO on the H<sub>2</sub> HEATER 1?
 Stand by.
 13, Houston.
 All right, go ahead.
@@ -1793,8 +1793,8 @@ Okay. Stand by.
 Go ahead, Vance.
 Okay, maneuver pad, purpose: fly-by, SPS/G&N; 63385; plus 0.97, minus 0.23; 03:00:24:33; plus 0212.7, minus 0141.7, minus 0254.8; 148, 316, 050; NA, plus 0022.5; 0360.9, 0:53, 0356.3; 33, 352.7, 15.0; NA, NA, NA. Starting with latitude, minus 23.26, minus 165.00; 1147.7, 36172; 166:54:02. Comments, GDC aline stars are 31, Arcturus; and 23, Denebola. R aline 288, pitch aline 205, yaw aline 034; ullage, none; other, burn is SPS docked. LM weight, 33499. Over.
 Our pad as follows: fly-by, SPS/G&N; 63385; plus 0.97, minus 0.23; 03:00:24:33; plus 0212.7, minus 0141.7, minus 0254.8; 148, 316, 050; NA, plus 0022.5; 0360.9, 0:53, 0356.3; 33, 352.7, 15.0; NA, NA, NA; minus 23.26, minus 165.00; 1147.7, 36172; 166:54:02; set stars 31, 23; roll is 288, pitch 205, yaw 034; no ullage; SPS docked; and LM weight, 33499.
-Roger. That's correct. Want to verify under NOUN 81 that DELTA-VX is plus 02127. You cut out right there.
-Roger. DELTA-VX is 02127.
+Roger. That's correct. Want to verify under NOUN 81 that DELTA-V<sub>X</sub> is plus 02127. You cut out right there.
+Roger. DELTA-V<sub>X</sub> is 02127.
 Roger. And your rates are low. Looks like you can start the PTC.
 Okay. In work.
 Okay. And when the computer is available, request P00 and ACCEPT and we'll ship you your state vector.
@@ -1901,7 +1901,7 @@ Okay - -
 Jack's dosimeter - Jack's dosimeter is reading 02026.
 Okay. We got it.
 It might be interesting that just after we went to sleep last night we had a MASTER ALARM and it really scared us. And we were all over the cockpit like a wet noodle.
-(Laughter) Sorry it wasn't something more significant. I've also got a procedure for you on that H2 tank; simple thing after you get done stirring up the cryos.
+(Laughter) Sorry it wasn't something more significant. I've also got a procedure for you on that H<sub>2</sub> tank; simple thing after you get done stirring up the cryos.
 Okay.
 (Music - With Their Eyes on the Stars)
 That was beautiful. What was it?
@@ -1912,17 +1912,17 @@ Houston, Apollo 13. Over.
 13, Houston. Go ahead.
 13, this is Houston. Go.
 Roger, Joe. We're standing by for that P37 block data if you have it for us.
-Okay. Got it right here, Jim, and it follows. This is the P37 pad for lift-off plus 60. The reason for the update is for weather avoidance in the MPL at 119 hours. It's the same one we passed you yesterday, and it's the same weather, but we still don't expect a problem at the end of the mission. GETI is 060:00, DELTA-VT 6079, longitude minus 153, GET 400K 118:04. Over.
+Okay. Got it right here, Jim, and it follows. This is the P37 pad for lift-off plus 60. The reason for the update is for weather avoidance in the MPL at 119 hours. It's the same one we passed you yesterday, and it's the same weather, but we still don't expect a problem at the end of the mission. GETI is 060:00, DELTA-V<sub>T</sub> 6079, longitude minus 153, GET 400K 118:04. Over.
 GETI of 060:00, 6079, minus 153, 118:04.
 Roger. That's correct. I've got a consumables update for you, Jim, if you're ready for that.
 Ready to copy.
-Okay. As of 47 hours, RCS total 1096, quad Alfa 270, Bravo 278, Charlie 270, Delta 278, and the H2 - - They gave me the H2s in percent, 76 percent; and on the O2 we have 81 percent. However, we show the O2 tank 2 reading off-scale high now. We're quite sure it's a sensor failure. We'd like you to verify it with your onboard reading.
+Okay. As of 47 hours, RCS total 1096, quad Alfa 270, Bravo 278, Charlie 270, Delta 278, and the H<sub>2</sub> - - They gave me the H<sub>2</sub>s in percent, 76 percent; and on the O<sub>2</sub> we have 81 percent. However, we show the O<sub>2</sub> tank 2 reading off-scale high now. We're quite sure it's a sensor failure. We'd like you to verify it with your onboard reading.
 Okay. Stand by.
-Joe, we confirm. Our gage reading is - on the number 2 O2 tank is reading off-scale high now, but Jack just tells me that it was okay when we first looked at it this morning.
+Joe, we confirm. Our gage reading is - on the number 2 O<sub>2</sub> tank is reading off-scale high now, but Jack just tells me that it was okay when we first looked at it this morning.
 We verify that. At 01:22:45:00 we had 82 percent and apparently when he stirred the, the cryos, the sensor broke.
 Okay.
-So it's no problem. You're above nominal on all your consumables. On the H2 tank problem, we have a procedure that we'd like you to carry out which is simply turning the H2 tank 2 heaters to OFF at this time, and we want to see whether that won't solve the problem of the tank pressure setting off caution and warning. We want to look at it that way for a few hours.
-Okay. You want both H2 tank 2 heaters to OFF. Is that correct?
+So it's no problem. You're above nominal on all your consumables. On the H<sub>2</sub> tank problem, we have a procedure that we'd like you to carry out which is simply turning the H<sub>2</sub> tank 2 heaters to OFF at this time, and we want to see whether that won't solve the problem of the tank pressure setting off caution and warning. We want to look at it that way for a few hours.
+Okay. You want both H<sub>2</sub> tank 2 heaters to OFF. Is that correct?
 That's negative; just tank 2. We want tank 1 to stay in AUTO.
 Okay. Tank 2 heaters off at this time.
 Okay. Good deal. That's been the high tank and apparently while waiting for that pressure switch to close, to start the heater cycle, the tank 1 pressure has been dropping even a little bit lower and just setting off caution and warning, so we feel if we turn off the tank 2 heater and let tank 1 activate the heater cycle, we won't get into the caution and warning range.
@@ -1937,7 +1937,7 @@ Okay, 13. To start off with, got a minor procedural change for Jack on his next 
 Okay. Jack's still off COMM. We'll hold off on that a little bit and then we'll pick it up when he gets on COMM.
 Okay; fine. I've got two updates for you, Jim. One is a procedure for looking for Comet Bennett at about 02:01:45:00, and I'll wait till Jack gets up before passing you the details on that. The other update is concerned with going into the LM 3 hours early, and I think Vance mentioned to you last night that this was a possibility, that we'd like to look at the SHe tank pressure early. And since we're not going to do midcourse 3, we'd like LM entry at 55 hours. Is that okay with you?
 Okay. Right, that's fine with us. We'll move up LM entry to 55 hours.
-Okay. I've got some details on the flight plan for you as follows. Of course, since there's no MCC-3 you'll be deleting all the midcourse 3 stuff including the - the P52, which is called out at about 54-1/2, and we'll be slipping that until later, which I'll - which I'll tell - which I'll tell - which I'll tell you in a minute. Okay. Then you - we want to move the battery charge up 3 hours to about 02:04:30:00. And we want to move the - moving the LM tunnel vent valve to LM/CM DELTA-P up 3 hours to 02:04:45:00, and at that point you can simply go to the 57-hour point in the flight plan and change your number from 57 hours to 54 hours and start through that. In the remarks section at about 02:09:50:00 it says, "O2 fuel cell purge and waste water dump," here. If not performed earlier, we want you to do that at 54 hours and 50 minutes. The TV pass then, will be at 55 hours to 02:07:30:00. You'll go right through the LM Activation checklist stuff. I'm losing you; let's wait a minute.
+Okay. I've got some details on the flight plan for you as follows. Of course, since there's no MCC-3 you'll be deleting all the midcourse 3 stuff including the - the P52, which is called out at about 54-1/2, and we'll be slipping that until later, which I'll - which I'll tell - which I'll tell - which I'll tell you in a minute. Okay. Then you - we want to move the battery charge up 3 hours to about 02:04:30:00. And we want to move the - moving the LM tunnel vent valve to LM/CM DELTA-P up 3 hours to 02:04:45:00, and at that point you can simply go to the 57-hour point in the flight plan and change your number from 57 hours to 54 hours and start through that. In the remarks section at about 02:09:50:00 it says, "O<sub>2</sub> fuel cell purge and waste water dump," here. If not performed earlier, we want you to do that at 54 hours and 50 minutes. The TV pass then, will be at 55 hours to 02:07:30:00. You'll go right through the LM Activation checklist stuff. I'm losing you; let's wait a minute.
 13, Houston. How do you read me?
 13, Houston. You back with us?
 Apollo 13, Houston. Are you back with us?
@@ -1958,13 +1958,13 @@ That's correct, Jim. And, 13, Houston. The computer is yours.
 The computer is ours. We're in BLOCK, and exactly when do you want the TV to be cranked up?
 You can crank it up sometime prior to 55 hours at your convenience just to set it up. We'll be expecting transmission at 55 hours.
 Okay.
-And, Houston, Apollo 13. One thing I missed about the O2 fuel cell purge and waste and water dump.
-Roger. We'd like the the O2 fuel cell purge and waste water dump at 02:06:50:00.
+And, Houston, Apollo 13. One thing I missed about the O<sub>2</sub> fuel cell purge and waste and water dump.
+Roger. We'd like the the O<sub>2</sub> fuel cell purge and waste water dump at 02:06:50:00.
 Roger. We'll pick up those items at 02:06:50:00.
 Apollo 13, Houston.
 Go ahead, Joe.
-All right, Jack. One thing we'd like to have done sometime soon is to have you cycle the cryo fans in O2 tank 2 one more time. We'd like to see if we can get that sensor back.
-Okay. O2 tank 2 fan on now.
+All right, Jack. One thing we'd like to have done sometime soon is to have you cycle the cryo fans in O<sub>2</sub> tank 2 one more time. We'd like to see if we can get that sensor back.
+Okay. O<sub>2</sub> tank 2 fan on now.
 Roger.
 Houston, 13.
 Go, 13.
@@ -1972,7 +1972,7 @@ We - We have just one question, the LM tunnel vent valve. We're questioning why 
 Right. Stand by on that.
 13, Houston.
 Go ahead.
-Roger. The word on that, Jim, is that they want to insure the proper O2 concentration in the LM when you get to the surface, and this is a method of doing that by bleeding out additional nitrogen.
+Roger. The word on that, Jim, is that they want to insure the proper O<sub>2</sub> concentration in the LM when you get to the surface, and this is a method of doing that by bleeding out additional nitrogen.
 Okay. Thank you.
 And, 13, Houston. If Jack is up, I'd like to talk to him about the P52, briefly.
 Okay. He's here.
@@ -1985,15 +1985,15 @@ Roger that.
 Okay, Joe. I'm ready to copy the ... now.
 Okay, Jack. I'm going to read it to you, and then add some comments and we'll talk about it a little. This should occur sometime after 02:01:30:00. After the P52 realine at 49 hours, if time permits we would like the crew to investigate while in PTC if there is a roll angle in which the comet can be observed for photos. If there is, record the optimum roll angle for possible photography, prior to reinitiating PTC at 02:08:30:00 or so, whenever the guys are done in the LM, use P52 planet option, and the following half-unit vectors for tracking Comet Bennett at about 02:01:46:00. Are you ready to copy half-unit vectors? Over.
 Okay. Go ahead, Joe.
-Okay. R1 plus 0.34202, R2 minus 0.07374, R3 plus 0.35719. Read back.
-Okay. Copy R1 plus 0.34202, R2 minus 0.07374, R3 plus 0.35719.
+Okay. R<sub>1</sub> plus 0.34202, R<sub>2</sub> minus 0.07374, R<sub>3</sub> plus 0.35719. Read back.
+Okay. Copy R<sub>1</sub> plus 0.34202, R<sub>2</sub> minus 0.07374, R<sub>3</sub> plus 0.35719.
 Okay. That's correct and the last sentence on the update is that you can expect AOS of the comet at a roll of 45 degrees and LOS at a roll of 155 degrees. Now, the deal here, Jack, according to the plots they showed me is, the comet appears to be about 10 degrees away from the Sun, and due to the geometry of the LM there shadowing the Sun, it would appear that you will be able to see the comet through the sextant without getting Sun shafting between roll angles of about 45 degrees and 75 degrees. It appears that as your roll gets higher than 75 degrees, although the comet is still in the field of view, the Sun is also in the field of view, and you probably will not have any success between 75 and 155 if you haven't got it from 45 to 75. If you do find that you can see the comet somewhere between 45 and 75 or 80 degrees, just note that roll angle and then if it's feasible we'd like you to photograph it after the LM entry part of the checklist. Over.
 Okay, Joe. Let me give it back to you and see if I've got it here. After the P52, during our PTC you want us to use P52 and observe Bennett's Comet through the sextant; note a roll angle if we can find it visible. It would be visible somewhere between - ideally between 45 and 75 degrees, and we should lose it about 155 roll, and if we do see it, make an observation of whether it is photographable, note the roll angle for photographs to be taken after or prior to initiation of PTC at 02:08:30:00.
 That's exactly right, Jack.
 Okay. Real fine.
 Apollo 13, Houston.
 Go ahead, Joe.
-We're ready to have to O2 tank 2 fan off, and thank you.
+We're ready to have to O<sub>2</sub> tank 2 fan off, and thank you.
 Okay. Doesn't look like we got it back, huh?
 No, it doesn't, Jack.
 Houston, Apollo 13.
@@ -2039,14 +2039,14 @@ Okay, Jack. Notice you've secured from that, and that was going to be our recomm
 Okay.
 Apollo 13, Houston. Over.
 Go ahead, Joe.
-Okay, Jack. I'd like to pass you a switch configuration on the CRYO O2 TANKS and give you the reason. Right now, we'd like you to go to HEATERS tank 1, OFF; tank 2, AUTO, which is the opposite of the way you've got them now. Over.
-Okay. Is this O2 or H2?
-This is O2, and stand by for a minute and we'll have a - Excuse me. This is H2, Jack; it's H2.
+Okay, Jack. I'd like to pass you a switch configuration on the CRYO O<sub>2</sub> TANKS and give you the reason. Right now, we'd like you to go to HEATERS tank 1, OFF; tank 2, AUTO, which is the opposite of the way you've got them now. Over.
+Okay. Is this O<sub>2</sub> or H<sub>2</sub>?
+This is O<sub>2</sub>, and stand by for a minute and we'll have a - Excuse me. This is H<sub>2</sub>, Jack; it's H<sub>2</sub>.
 ... is AUTO, ... 2 OFF.
 Okay, Joe. Do we have you back again?
-Okay, Jack. We're getting you back, and I hope you copied my - my correction of my mistake. I'm talking about the H2 CRYO TANKS. We'd like the tank 1 HEATER to OFF; tank 2 to AUTO. Over.
-Okay. We lost you again. Here's our heater configuration now. H2 HEATERS 1, OFF; 2, AUTO. Both O2 HEATERS are in AUTO.
-Okay. That's the configuration we want you in, and here's what we're thinking about. When we went to tank 1 AUTO, tank 2 OFF; we found that the heater cycle had a tank 1 pressure of about 233 psi, which is well above the caution and warning limit, and if we go to that configuration for sleep, we'll keep from getting CAUTION AND WARNING lights during the sleep cycle. Okay. In order to do that comfortably, we want to spend the rest of the day using more H2 out of tank number 2, so as to get an unbalance in favor of tank 1, so at the end of the sleep cycle it'll all come out even. And that's why we have you in tank 1 OFF, tank 2 AUTO, now. We expect to get about a 3-percent unbalance over the next 10 hours; and prior to sleep, we'll call you to reverse the configuration again. Now the only disadvantage here is that, during the day, you will probably get a few CAUTION AND WARNINGS, and we just figured it would be better to get them now than while you were sacked out. Over.
+Okay, Jack. We're getting you back, and I hope you copied my - my correction of my mistake. I'm talking about the H<sub>2</sub> CRYO TANKS. We'd like the tank 1 HEATER to OFF; tank 2 to AUTO. Over.
+Okay. We lost you again. Here's our heater configuration now. H<sub>2</sub> HEATERS 1, OFF; 2, AUTO. Both O<sub>2</sub> HEATERS are in AUTO.
+Okay. That's the configuration we want you in, and here's what we're thinking about. When we went to tank 1 AUTO, tank 2 OFF; we found that the heater cycle had a tank 1 pressure of about 233 psi, which is well above the caution and warning limit, and if we go to that configuration for sleep, we'll keep from getting CAUTION AND WARNING lights during the sleep cycle. Okay. In order to do that comfortably, we want to spend the rest of the day using more H<sub>2</sub> out of tank number 2, so as to get an unbalance in favor of tank 1, so at the end of the sleep cycle it'll all come out even. And that's why we have you in tank 1 OFF, tank 2 AUTO, now. We expect to get about a 3-percent unbalance over the next 10 hours; and prior to sleep, we'll call you to reverse the configuration again. Now the only disadvantage here is that, during the day, you will probably get a few CAUTION AND WARNINGS, and we just figured it would be better to get them now than while you were sacked out. Over.
 I'll buy that 100 percent.
 Okay. Good deal. One other detail for you, Jack; GNC tells us that the OPTICS jitter is very similar to what we had on Apollo 12. It's no problem, but when you're not using the OPTICS, we recommend that you turn the OPTICS POWER switch to OFF to guard against a possible degradation as the flight progresses. Over.
 Okay. Will do.
@@ -2133,14 +2133,14 @@ That's correct, Jim.
 Okay.
 Apollo 13, Houston.
 Go ahead, Houston.
-Roger, 13. Because of the O2 tank 2 quantity sensor drop out, EECOM wants to keep a little closer track of the cryo quantities, and he's going to be asking you to stir all the cryo tanks at slightly more frequent intervals than had been planned, and the first time is now, and we will be calling you probably every 5 or 6 hours, except during sleep period and high activity periods. We'd like you to do it now. Over.
+Roger, 13. Because of the O<sub>2</sub> tank 2 quantity sensor drop out, EECOM wants to keep a little closer track of the cryo quantities, and he's going to be asking you to stir all the cryo tanks at slightly more frequent intervals than had been planned, and the first time is now, and we will be calling you probably every 5 or 6 hours, except during sleep period and high activity periods. We'd like you to do it now. Over.
 Okay. We'll start it ... now.
 Thank you.
 And, 13, Houston. For your information, a normal 1-minute or so stir will be fine.
 Apollo 13, Houston.
 Go ahead, Houston.
-Jim, just an advisory; expect a CAUTION AND WARNING on H2 tank 1 pretty quick. No problems; Just warning you about it.
-Okay. A zero pressure light on H2 tank 1 coming on shortly, huh?
+Jim, just an advisory; expect a CAUTION AND WARNING on H<sub>2</sub> tank 1 pretty quick. No problems; Just warning you about it.
+Okay. A zero pressure light on H<sub>2</sub> tank 1 coming on shortly, huh?
 Right.
 Okay. Well, you're pretty close. It just came on.
 Any other predictions you'd like?
@@ -2176,11 +2176,11 @@ Houston, Apollo 13.
 Right, we're not doing anything right now, Vance, we're just getting curious, we could start the LM entry procedures, and get everything squared away, and then when the TV comes up at 55 hours, we can just use it for the TV, and we wouldn't be worrying about checking out the SHe tank pressures and everything like that.
 Okay, let us mull that one a minute here, and I'll get right back with you.
 Okay.
-Also, Houston, Apollo 13. We'd like to move up the waste water dump and maybe the O2 fuel cell purge a little bit early, if we could.
+Also, Houston, Apollo 13. We'd like to move up the waste water dump and maybe the O<sub>2</sub> fuel cell purge a little bit early, if we could.
 Okay, stand by.
 Apollo 13, Houston.
 Go ahead, Houston.
-Jim, you're clear to go on into the LM, and just advise though that the TV time is still fixed at 55 hours, and - so we'll be standing by to support your entry and we'll get back with you on a minute - in a minute on the O2 fuel cell purge and the waste water dump.
+Jim, you're clear to go on into the LM, and just advise though that the TV time is still fixed at 55 hours, and - so we'll be standing by to support your entry and we'll get back with you on a minute - in a minute on the O<sub>2</sub> fuel cell purge and the waste water dump.
 Okay. Sounds good.
 And also request your LM/CM DELTA-P which was on the flight plan for 53 hours. What did you vent it down to? Over.
 We have 1.7 now. We vented it down to that figure.
@@ -2203,7 +2203,7 @@ Go ahead, Houston.
 Okay, to answer your question, Jim, that increase in pressure is normal, because it was just tracking an increase in cabin pressure.
 Okay. Okay.
 We're not thinking today.
-And, 13, from Houston, it's okay with us if you want to move the O2 fuel cell purge and the water dump up to this time. Over.
+And, 13, from Houston, it's okay with us if you want to move the O<sub>2</sub> fuel cell purge and the water dump up to this time. Over.
 Okay. We'll work it in shortly. Thank you.
 Right.
 Apollo 13, Houston.
@@ -2217,7 +2217,7 @@ Okay. We read you loud and clear.
 Okay. The only comment that we just made was that, in case you were thinking of stopping PTC, there's no need to stop it until 55 GET when TV starts.
 Right. We'll stop it when we're setting up our TV.
 Roger.
-Okay, Houston, the waste water dump and O2 fuel cell purge are complete.
+Okay, Houston, the waste water dump and O<sub>2</sub> fuel cell purge are complete.
 Houston. Roger.
 Okay, Houston, the LM/CM DELTA-P is constant. We're going to go ahead with hatch removal.
 Houston. Roger.
@@ -2408,7 +2408,7 @@ Okay. Right now, Houston, the voltage is - is looking good. And we had a pretty 
 Roger, Fred.
 In the interim here, we're starting to go ahead and button up the tunnel again.
 Roger.
-Yes. That jolt must have rocked the sensor on - see now - O2 QUANTITY 2. It - was oscillating down around 20 to 60 percent. Now it's fullscale high again.
+Yes. That jolt must have rocked the sensor on - see now - O<sub>2</sub> QUANTITY 2. It - was oscillating down around 20 to 60 percent. Now it's fullscale high again.
 Roger.
 And, Houston, we had a RESTART on our computer and we had a PGNCS light and the RESTART RESET.
 Roger. RESTART and a PGNCS light. RESET on a PGNCS, RESET - -
@@ -2442,8 +2442,8 @@ Fuel cell 1 nitrogen reads zero.
 Roger. Zero.
 13, Houston. We'd like you to open circuit fuel cell 1; leave 2 and 3 as is.
 Okay. I'll get to work on that.
-And, Jack, our O2 quantity number 2 tank is reading zero. Did you get that?
-O2 QUANTITY number 2 is zero.
+And, Jack, our O<sub>2</sub> quantity number 2 tank is reading zero. Did you get that?
+O<sub>2</sub> QUANTITY number 2 is zero.
 That's AC, okay. Yes, that's good AC and it looks to me, looking out the hatch, that we are venting something. We are venting something out into the - into space.
 Roger. We copy your venting.
 It's a gas of some sort.
@@ -2518,23 +2518,23 @@ BATTERY A OFF. Roger.
 Now you're ... up.
 I'm transmitting. I don't have any current now.
 Hey, it's off - it's off. They - they killed the bus completely now.
-13, Houston. We'd like you to isolate your O2 surge tank. Over.
-Surge tank off now, Jack? Okay, Jack, are you copying - O2 tank 1 cryo pressure?
+13, Houston. We'd like you to isolate your O<sub>2</sub> surge tank. Over.
+Surge tank off now, Jack? Okay, Jack, are you copying - O<sub>2</sub> tank 1 cryo pressure?
 That's affirmative. And we're trying to get power to that tank. Stand by; we're working on it.
 Okay.
 Okay. We had a - SERVICE MODULE RCS B light, jack, due to package temperature.
 SERVICE MODULE RCS B. We copy. No problem.
 Let's read you the lights we got on now; CRYO PRESS, FUEL CELL 1, FUEL CELL 3, MAIN BUS B UNDERVOLT, SUIT COMPRESSOR.
-Roger, we copy them and we'd like to build up the pressure in O2 tank 1, so turn the heaters on manually; we'll watch the pressure for you.
+Roger, we copy them and we'd like to build up the pressure in O<sub>2</sub> tank 1, so turn the heaters on manually; we'll watch the pressure for you.
 Okay, do you want to see - -
 Go ahead.
 - - We're going to get a MAIN BUS A UNDERVOLT, probably.
 Roger. We realize that; we feel we can stand 5 more amps on it.
 Okay.
 Okay, heater on tank 1's ON.
-13, Houston. We'd like you to additionally bring on the fans in O2 tank 1, and we can stand the additional amperage on that.
-Okay - bring up the fans on O2 tank 1.
-13, Houston. We'd like you to check some circuit breakers on panel 226. CRYO O2 HEATER number 1 MAIN A, and check the three CRYO FAN MOTORS, TANK 1, three phases.
+13, Houston. We'd like you to additionally bring on the fans in O<sub>2</sub> tank 1, and we can stand the additional amperage on that.
+Okay - bring up the fans on O<sub>2</sub> tank 1.
+13, Houston. We'd like you to check some circuit breakers on panel 226. CRYO O<sub>2</sub> HEATER number 1 MAIN A, and check the three CRYO FAN MOTORS, TANK 1, three phases.
 Okay, Jack. 226 is configured just like it should be. I got three REACS breakers and three RAD breakers open. All the rest are closed.
 Okay, Fred. Thank you.
 Jack, looking outside, the number of particles has diminished greatly, almost ceased now, which indicates maybe what was venting has almost stopped.
@@ -2550,19 +2550,19 @@ Okay. We'll start with display number 1.
 Okay, Jack. On MDC 1, there's nothing abnormal. All the rate indicators are zero. Ball number 2 is frozen, of course; we lost MAIN B. I've got - Ball number 1 appears to be working normally. Right now I'm sitting at roll 0, pitch 180, and yaw about 13 degrees. I'm going to try and hold 0, 180, and 0.
 Okay, Houston. The center panel - I'm looking at the RCS indicator A. We have a package temperature of about 180. Our helium pressure is 3900. I'm looking at fuel pressure of about 180 and percentage of about, I'd say 85 percent. B is about the same, except that that package pressure is 190. On quad C, we're looking about the same, except that the package temperature is 100. On quad D, we're looking at package temperature of 160. All other indications are about the same. CM pressure - RCS pressure is looking nominal. Helium pressure's up around 4000. And package temperature is about - a little less than 80 on ring 1 and about the same on ring 2.
 And the - talkbacks on the SM RCS, I've got HELIUM 1 now are all gray. HELIUM 2 are all gray. PRIMARY PROPELLANT all gray. SECONDARY PROPELLANT, I've got two barber pole, and A is barber pole, B gray, C barber pole, and D gray. Okay. On the ECS RADIATORS, barber pole is gray. On the - On the ECS, PRIMARY INDICATOR.
-Okay, Jack. Starting at the top. Okay. The CRYO TANKS; H2 1 is reading 230 and the same for 2. Our O2 CRYO TANK 1 is - looks like it's barely holding its own at 300. And, CRYO TANK 2 is reading zip. Our quantities: H2 1 is reading 73, 2, 74. On the O2 side, we're reading O2 1 at quantity, 76; O2 pegged to full scale high. RAD TEMPs PRIMARY INLET, we're reading about 55; RAD OUT is reading about 30, and the SECONDARY OUTLET is reading - reading 52 degrees. And the EVAP OUT TEMP is 45, STEAM PRESSURE 0.17, and GLYCOL DISCHARGE 48. SUIT COMPRESSOR is reading zip. The ACCUM is reading 30; H2O WASTE is reading about 34; POTABLE's reading about 98; SECONDARY RAD INLET is reading about 71; and the RAD OUT is about 30; GLYCOL EVAP TEMP is reading 65, STEAM PRESSURE pegged full scale high; DISCHARGE PRESSURE 9 psi.
+Okay, Jack. Starting at the top. Okay. The CRYO TANKS; H<sub>2</sub> 1 is reading 230 and the same for 2. Our O<sub>2</sub> CRYO TANK 1 is - looks like it's barely holding its own at 300. And, CRYO TANK 2 is reading zip. Our quantities: H<sub>2</sub> 1 is reading 73, 2, 74. On the O<sub>2</sub> side, we're reading O<sub>2</sub> 1 at quantity, 76; O<sub>2</sub> pegged to full scale high. RAD TEMPs PRIMARY INLET, we're reading about 55; RAD OUT is reading about 30, and the SECONDARY OUTLET is reading - reading 52 degrees. And the EVAP OUT TEMP is 45, STEAM PRESSURE 0.17, and GLYCOL DISCHARGE 48. SUIT COMPRESSOR is reading zip. The ACCUM is reading 30; H<sub>2</sub>O WASTE is reading about 34; POTABLE's reading about 98; SECONDARY RAD INLET is reading about 71; and the RAD OUT is about 30; GLYCOL EVAP TEMP is reading 65, STEAM PRESSURE pegged full scale high; DISCHARGE PRESSURE 9 psi.
 Excuse me, Fred; I'd like to butt in here a minute. We'd like to have THRUSTER C-1 off.
 C-1 is off.
 And proceed - -
 Okay - -
 - - my last copy is SECONDARY RAD IN.
-Okay. Your SECONDARY RAD IN, I gave to you 70 - about 72 degrees; the RAD OUT is about 30; the GLYCOL EVAP TEMP is reading about 65; STEAM PRESSURE full scale high, GLYCOL DISCHARGE PRESSURE about 9 psi. The ACCUM - SECONDARY ACCUMULATOR is about 30 - 34 percent. Our temperatures: SUITS showing about 52 degrees; CABIN about 58 degrees; pressures, SUIT reading 4.1, CABIN at 5. PARTIAL PRESSURE CO2 is up to little over 1, about 1.1. On the SPS side of the house, the temperature is 72 degrees, helium's reading 3500; N2 A is reading 2300; N2 B about 2450. And our ullage pressures: FUEL is reading about 165; OXIDIZER 170. Fuel cells: FUEL CELL 1, both CLOSED, they're zip; SKIN TEMP 405 degrees; CONDENSE EXHAUST is lower scale. FUEL CELL 2 - right now we've got an O2 or an H2 FLOW reading of 0.13 to 0.14, and the O2 FLOW is right now pegged full scale high although it has been varying depending on thruster activity which has also given us MAIN BUS A under volts from a steady reading of about 1.1 up to full scale high. The TSKIN is about 445 and the CONDENSOR EXHAUST 17, correction, 180. Let's see if you want it on the DC indicator: FUEL CELL 1 is 0 amps; 2 is reading somewhere between 44 and about - oscillating 44 to 48 again depending on thruster activity.
+Okay. Your SECONDARY RAD IN, I gave to you 70 - about 72 degrees; the RAD OUT is about 30; the GLYCOL EVAP TEMP is reading about 65; STEAM PRESSURE full scale high, GLYCOL DISCHARGE PRESSURE about 9 psi. The ACCUM - SECONDARY ACCUMULATOR is about 30 - 34 percent. Our temperatures: SUITS showing about 52 degrees; CABIN about 58 degrees; pressures, SUIT reading 4.1, CABIN at 5. PARTIAL PRESSURE CO<sub>2</sub> is up to little over 1, about 1.1. On the SPS side of the house, the temperature is 72 degrees, helium's reading 3500; N<sub>2</sub> A is reading 2300; N<sub>2</sub> B about 2450. And our ullage pressures: FUEL is reading about 165; OXIDIZER 170. Fuel cells: FUEL CELL 1, both CLOSED, they're zip; SKIN TEMP 405 degrees; CONDENSE EXHAUST is lower scale. FUEL CELL 2 - right now we've got an O<sub>2</sub> or an H<sub>2</sub> FLOW reading of 0.13 to 0.14, and the O<sub>2</sub> FLOW is right now pegged full scale high although it has been varying depending on thruster activity which has also given us MAIN BUS A under volts from a steady reading of about 1.1 up to full scale high. The T<sub>SKIN</sub> is about 445 and the CONDENSOR EXHAUST 17, correction, 180. Let's see if you want it on the DC indicator: FUEL CELL 1 is 0 amps; 2 is reading somewhere between 44 and about - oscillating 44 to 48 again depending on thruster activity.
 Stand by.
 - - is 0 amps. Say again, Jack.
 Houston, 13.
 Hello, Houston; Apollo 13. How do you read?
-Okay, 13. This is Houston. It appears to us that we're losing O2 flow through fuel cell 3. So, we want you to close the REAC valve on fuel cell 3. It looks like fuel cell 1 and 2 are trying to hold up okay. You copy?
-Are you saying fuel cell 1 and 2 - 1 and 2 are trying to hold up but we're leaking O2 out of fuel cell 3? And you want me to shut the REAC valve on fuel cell 3? Did I hear you right?
+Okay, 13. This is Houston. It appears to us that we're losing O<sub>2</sub> flow through fuel cell 3. So, we want you to close the REAC valve on fuel cell 3. It looks like fuel cell 1 and 2 are trying to hold up okay. You copy?
+Are you saying fuel cell 1 and 2 - 1 and 2 are trying to hold up but we're leaking O<sub>2</sub> out of fuel cell 3? And you want me to shut the REAC valve on fuel cell 3? Did I hear you right?
 That's affirmative. Close the REAC valve on fuel cell 3.
 Okay. I'll go to the SSR page. Do you want me to go through that whole smash for fuel cell shutdown? Is that correct?
 Stand by.
@@ -2605,9 +2605,9 @@ Roger. 4.0. Say again what it is, please.
 3 Able, 3-A.
 3-B is reading 1.8.
 And 3-D is reading 1.95.
-And, Houston, 13. O2 tank pressure number 1 is less than 300 now.
+And, Houston, 13. O<sub>2</sub> tank pressure number 1 is less than 300 now.
 Roger. We're seeing that. We confirm it.
-13, Houston. We're going to have to have you go through the shutdown procedure on fuel cell 1. Our O2 pressure is going down as you note and the temperature confirms it. Did you copy?
+13, Houston. We're going to have to have you go through the shutdown procedure on fuel cell 1. Our O<sub>2</sub> pressure is going down as you note and the temperature confirms it. Did you copy?
 Okay. Well, what bus configuration - What main bus do you want powered?
 Okay, Jack. We want you to leave the bus configuration as it is. Fuel cell 2 on MAIN A, and we need OMNI Bravo.
 Okay, Jack. We're proceeding on the shutdown procedure for fuel cell 1.
@@ -2641,7 +2641,7 @@ Okay, Jack. When we got the loud bang, we got also a restart. Did you copy that?
 Stand by.
 13, Houston. We're ready with a VERB 74 now, please.
 Coming down at you.
-Okay, Jack. It looks like O2 tank 1 pressure is just a hair over 200.
+Okay, Jack. It looks like O<sub>2</sub> tank 1 pressure is just a hair over 200.
 We confirm that here and the temperature also confirms it.
 Okay. Does it look like it's still going down?
 It's slowly going to zero, and we're starting to think about the LM lifeboat.
@@ -2680,9 +2680,9 @@ Okay. In the CSM, on panel 5, we want CB LM POWER 1 and 2, OPEN. Then the LM POW
 That's a good readback, Fred.
 And, 13, Houston. As a final effort here, we would like you to turn on the fans in tank 2. Over.
 Roger. Understand. Turn on the fans in tank 2.
-You want the O2 fans in tank 2, Jack?
+You want the O<sub>2</sub> fans in tank 2, Jack?
 That's affirmative, Jim.
-O2 tanks - fans in tank 2 are on.
+O<sub>2</sub> tanks - fans in tank 2 are on.
 Roger.
 13, Houston. We'd like you to start making your way over to the LM now.
 Fred and Jim are in the LM.
@@ -2735,7 +2735,7 @@ That's affirm.
 And, Jack, in the CSM, go to BYPASS on the radiators and turn your GLYCOL PUMP off.
 Okay. Pull the BYPASS; GLYCOL PUMP going off.
 Roger.
-And, 13, in the CSM, we want to verify that all the fuel cell pumps are off, and we want to have you turn off the O2 fans in the tank 2.
+And, 13, in the CSM, we want to verify that all the fuel cell pumps are off, and we want to have you turn off the O<sub>2</sub> fans in the tank 2.
 Okay. Tank 2 fans going off. Okay. That leaves me with tank 1 fans on the tank 1 heaters on.
 That's affirm.
 Fuel cell 2 pump going off now.
@@ -2823,10 +2823,10 @@ Aquarius, we need to get your sublimator powered up, Activation page 20 and Acti
 Roger. Activation page 20 and Activation page 21, step 3, sublimator.
 Roger.
 That's Activation, page 20? Okay, Jack. Now I have to power down IMU. I have no control at all. I'm going to turn my 16 jets off, Say again the other things you wanted?
-Okay, Jack. We'd like you to turn off your O2 tank 2 heaters and fans. Correction - tank 1. Turn the fans and heaters off.
+Okay, Jack. We'd like you to turn off your O<sub>2</sub> tank 2 heaters and fans. Correction - tank 1. Turn the fans and heaters off.
 Okay. And, Jack, can we turn on the FDAI circuit breakers so we could have a ball to see if we go to gimbal lock or not?
 Stand by.
-Houston, he's going to give a 16 NOUN 20, Jack. And, okay, I've got O2 heaters and fans off in tank 1.
+Houston, he's going to give a 16 NOUN 20, Jack. And, okay, I've got O<sub>2</sub> heaters and fans off in tank 1.
 And, Jack, let me know if you get close to gimbal lock, would you?
 Jim, we don't want you to power down the ball in the LM. We wanted you to power down the ball in the CSM.
 Jack, they haven't powered down - -
@@ -2984,8 +2984,8 @@ Okay. Watch the - -
 I'm just glad ...
 Okay, stand by.
 Okay. Here, unplug this.
-Aquarius, Houston. We notice that the O2 pressure in the ASCENT TANK O2 is a little high, so we want to use some of it. So close DESCENT O2 and open ASCENT O2, tank 2. Over.
-Okay, Jack. Switch now on ASCENT number 2 O2 tank, DESCENT O2 is closed.
+Aquarius, Houston. We notice that the O<sub>2</sub> pressure in the ASCENT TANK O<sub>2</sub> is a little high, so we want to use some of it. So close DESCENT O<sub>2</sub> and open ASCENT O<sub>2</sub>, tank 2. Over.
+Okay, Jack. Switch now on ASCENT number 2 O<sub>2</sub> tank, DESCENT O<sub>2</sub> is closed.
 Roger, Fred.
 ... that?
 Okay, Houston; Aquarius. How do you read?
@@ -3109,7 +3109,7 @@ I got the mission timer circuit breaker in.
 Okay. We're going to probably need NUMERICS LIGHTING. There you go. You got it.
 Aquarius, Houston. I think we've got a better way of getting your mission time up.
 Go ahead with it.
-Okay. We can do a VERB 55, ENTER, and then put an R1, minus 00088. In R2, minus 00059; R3 minus 03274.
+Okay. We can do a VERB 55, ENTER, and then put an R<sub>1</sub>, minus 00088. In R<sub>2</sub>, minus 00059; R<sub>3</sub> minus 03274.
 Watch the crapping attitude.
 We're okay.
 God damn. I wish you'd get to something I know.
@@ -3189,8 +3189,8 @@ Aquarius, Houston. Radio check.
 Okay. Every time you transmit, Jack, the AGC starts to drop off and the static level turns up.
 Okay, Fred. You're loud and clear.
 I wish you were.
-Fred, go to DESCENT O2.
-DESCENT O2. Roger.
+Fred, go to DESCENT O<sub>2</sub>.
+DESCENT O<sub>2</sub>. Roger.
 Hello, Houston; Aquarius.
 Hello there, Aquarius. How do you read me now?
 Hello, Houston. Aquarius.
@@ -3341,9 +3341,9 @@ Go right ahead, Jack.
 Okay. We want you to hold your maneuver until we finish making the load. We haven't completed it yet. Are you ready to copy P30 maneuver pad?
 That's affirm.
 Okay. Here we go. The purpose is midcourse correction for free return. NOUN 33: 02:13:29:42; minus 0021.3, plus 0004.1, minus 0031.2; HA and HP are NA; DELTA-V 0038.0; 031, 120, 298, minus 00213, plus 00041, minus 00312; COAS NA. And I have your LM GDA angles. Pitch 5.86, roll 6.75. Your DPS throttling, 5 seconds at 10 percent, burn the rest at 40 percent. Your ullage will be two jets for 10 seconds.
-Okay, Jack, we have a P30 maneuver pad, a midcourse for free return. NOUN 33: 02:13:29:42; minus 0021.3, plus 004.1, minus 0031.2; HA and HP N/A; DELTA-VR 0038.0; 031, 120, 298; minus 00213, plus 00041, minus 00312. COAS N/A; GDA angles; pitch 5.86, roll 6.75; DPS throttle 5 seconds at 10 percent; burn the rest at 40 percent. And we need a two-jet, 10-second ullage.
-That's a good readback, Fred. I'd like to verify, however, in NOUN 81, in VY, it's plus three balls 41.
-Okay. NOUN 81, VY is plus 0004.1.
+Okay, Jack, we have a P30 maneuver pad, a midcourse for free return. NOUN 33: 02:13:29:42; minus 0021.3, plus 004.1, minus 0031.2; HA and HP N/A; DELTA-V<sub>R</sub> 0038.0; 031, 120, 298; minus 00213, plus 00041, minus 00312. COAS N/A; GDA angles; pitch 5.86, roll 6.75; DPS throttle 5 seconds at 10 percent; burn the rest at 40 percent. And we need a two-jet, 10-second ullage.
+That's a good readback, Fred. I'd like to verify, however, in NOUN 81, in V<sub>Y</sub>, it's plus three balls 41.
+Okay. NOUN 81, V<sub>Y</sub> is plus 0004.1.
 Good readback. Let's press on with the checklist.
 Okay. And, Jack, find out about using TTCA to maneuver with.
 Okay. We're finished with the computer, it's yours, and we recommend using the TTCA to maneuver with.
@@ -3353,7 +3353,7 @@ Okay. Aquarius, negative on the PGNS self test.
 Okay. I'll scratch page 6 and on page 7, we're not going to activate the - or rather we had the S-band activated, ECS Activation I have all done. And, at the bottom of the page, the docked IMU coarse aline is done.
 Roger.
 We've - Okay, we've also completed, I guess in essence, all of page 8.
-That's affirmative and page 9 to boot. Scratch VHF. We've done the Tephems.
+That's affirmative and page 9 to boot. Scratch VHF. We've done the T<sub>ephems</sub>.
 Okay. You've updated it, that's right. We cranked in the time.
 And, Houston, let's go to activation - or get into page 10 and see what we did there.
 Okay. The only item on page 10 is to deploy the landing gear.
@@ -3547,19 +3547,19 @@ Stand by.
 Okay. Go ahead, Jack.
 Okay, Fred. P30 maneuver purpose is PC plus 2, DPS to this time, we're going to the MPL. And NOUN 33, 079, 27, 4013, plus 08144, minus 00443, minus 02226, apogee is N/A, perigee is plus 00205, 08455, 420, 268, 261, plus 08155, minus 00443, minus 02187, COAS is N/A. Your GDA ought to be okay as it is from the last burn, but pitch ought to be at 5.85; in roll, it's 6.74. Your ullage will be two jets for 10 seconds. Your DPS throttle will be 10 percent for 5 seconds, 40 percent for 21 seconds, and the remainder at full throttle. And for your information, this will put you in the water at 142 plus 47. Over.
 Okay. DPS, pericynthion plus 2 into the MPL, 079, 27, 4013, plus 08144, minus 00443, minus 00226, N/A, plus 00205, 08455, 4 plus 20, 268, 261, plus 08155, minus 00443, minus 021, 2187, N/A. GDA should be okay as is, which hopefully is pitch 5.85, yaw 6.74. Two-jet ullage for 10 seconds, the DPS throttle 10 percent for 5 seconds, 40 percent for 21 seconds, 100 percent for the rest of the burn. And this should put us into the water at 142 plus 47.
-Okay, Fred. I have a correction in NOUN 81. DELTA-VZ is minus 02226. Read back.
-Okay. DELTA-VZ in NOUN 81 is minus 02226.
+Okay, Fred. I have a correction in NOUN 81. DELTA-V<sub>Z</sub> is minus 02226. Read back.
+Okay. DELTA-V<sub>Z</sub> in NOUN 81 is minus 02226.
 Okay. Good readback.
-Somehow that didn't add up with the DELTA-VX to give a DELTA-VR of that magnitude. It seems like it'd been bigger.
+Somehow that didn't add up with the DELTA-V<sub>X</sub> to give a DELTA-V<sub>R</sub> of that magnitude. It seems like it'd been bigger.
 Okay. We'll take another look at it, Fred.
 Okay, Houston. I'm not having too much luck holding this particular attitude.
 Okay, Jim. Stand by 1.
 Okay, Aquarius. When you get her pretty much in attitude there, and it looks like you're as close as we need to be, we'd like to try a control mode and see if it will work; sort of a semi-PTC. We'll leave the ball powered up for this, and if this doesn't work, why, we'll have to revert to ATTITUDE HOLD mode. But - Stand by 1, please.
-We'd like you to think about this control mode, Jim, and see if you think it might work from what you know right now. We're a little skeptical, but we'd like to put it to you. So, once you get in a pretty good attitude, monitor in VERB 16 NOUN 20, go to PGNS MINIMUM IMPULSE, VERB 76, as we have, and set up a yaw rate - yaw rate to the right. Monitor the middle gimbal on R3 on the DSKY and see if she'll kind of stabilize out. If not, the only other suggestion we've got is to go to PGNS ATTITUDE HOLD. We'll keep the ball up until you make this evaluation.
+We'd like you to think about this control mode, Jim, and see if you think it might work from what you know right now. We're a little skeptical, but we'd like to put it to you. So, once you get in a pretty good attitude, monitor in VERB 16 NOUN 20, go to PGNS MINIMUM IMPULSE, VERB 76, as we have, and set up a yaw rate - yaw rate to the right. Monitor the middle gimbal on R<sub>3</sub> on the DSKY and see if she'll kind of stabilize out. If not, the only other suggestion we've got is to go to PGNS ATTITUDE HOLD. We'll keep the ball up until you make this evaluation.
 Okay, Houston. You cut out, say again.
 Okay. Where'd you lose me, Jim?
 I lost you when you said try the control mode; you're a little skeptical.
-Okay. From what you say, we have to be a little skeptical of this procedure, but we'd like to have you try it and have you evaluate it. You can monitor the middle gimbal on R3. Before we power down the ball, we want your evaluation. The next best choice is PGNS ATTITUDE HOLD. Over.
+Okay. From what you say, we have to be a little skeptical of this procedure, but we'd like to have you try it and have you evaluate it. You can monitor the middle gimbal on R<sub>3</sub>. Before we power down the ball, we want your evaluation. The next best choice is PGNS ATTITUDE HOLD. Over.
 Okay. I'll try it.
 Okay. Go ahead with the control mode procedure.
 Hello, Houston; Aquarius.
@@ -3574,11 +3574,11 @@ Stand by 1.
 Odyssey, Houston. The two circuit breakers you referred to, leave them in.
 Okay. Copy. Leave them in.
 Okay, Houston. I can control yaw in minimum impulse, but stand by on pitch.
-And, Fred-o, the DELTA-VR resultant computes with the components.
+And, Fred-o, the DELTA-V<sub>R</sub> resultant computes with the components.
 Fred's off the COMM now, Jack.
 Roger. Your PAD is good.
 And, Jack, we didn't get that whole sentence there.
-Okay. I said that the DELTA-VR that Fred questioned computes well with the component - its rms.
+Okay. I said that the DELTA-V<sub>R</sub> that Fred questioned computes well with the component - its rms.
 Okay. Copy.
 Okay, now. Jack, let's go over this once more. You wanted me to try out control of the spacecraft in the PULSE mode. Is that correct?
 That's affirmative. Set up a yaw rate and monitor the middle gimbal angle.
@@ -3632,7 +3632,7 @@ We just got a change on that. Let's keep the ASA closed.
 How about SUIT FLOW CONTROL and ENGINE ARM?
 Okay, Jim. SUIT FLOW CONTROL can be open, and ENGINE ARM - ENGINE ARM open.
 Okay. Let's go to row 3.
-Okay. Row 3 under COMM. Open DISPLAYS, close SE AUDIO, open VHF A TRANSMITTER and B RECEIVER, close the PRIMARY S-BAND circuit breakers, both of them. Open the S-BAND ANTENNA, PMP closed, TV open, and all the rest of them open under ECS, except CO2 SENSOR, closed.
+Okay. Row 3 under COMM. Open DISPLAYS, close SE AUDIO, open VHF A TRANSMITTER and B RECEIVER, close the PRIMARY S-BAND circuit breakers, both of them. Open the S-BAND ANTENNA, PMP closed, TV open, and all the rest of them open under ECS, except CO<sub>2</sub> SENSOR, closed.
 Roger.
 Okay. Under row 4: under HEATERS, your RCS QUAD heaters should - four of them - be closed, open DISPLAYS, open S-BAND ANTENNA, open SEQUENCE CAMERA. Under EPS, open DISPLAYS, close DC BUS VOLT, open INVERTER 2, open ASCENT ECA CONTROL and ASCENT ECA, close DESCENT ECA, DESCENT ECA CONTROL, TRANSLUNAR BUS TIE, close CROSS TIE BAL LOADS, open CROSS TIE BUS, close BAT FEED TIES. Over.
 That's been completed, Jack.
@@ -3655,8 +3655,8 @@ Okay. We've opened up the UPDATA LINK, and we've gone OFF of DATA, and I've got 
 Roger, Jim. I guess we're going to just kind of perk away here now.
 Okay, Jack. One more question about Odyssey here.
 Go ahead, Jack.
-Okay. How about the service module O2 supply valve? Do you want that off?
-Affirmative. Service module O2 supply off, Jack.
+Okay. How about the service module O<sub>2</sub> supply valve? Do you want that off?
+Affirmative. Service module O<sub>2</sub> supply off, Jack.
 Okay. On the way.
 And, Jim, we see a PROGRAM ALARM in there. We think it's just got to do with pulling the UPDATA LINK circuit breaker - UPLINK too fast.
 Roger. I don't see it. Should I reset?
@@ -3669,9 +3669,9 @@ Okay, Jim. That's a good thought, and we've looked at that, and it looks like th
 And, something else, Jack. When it's time for me to make my 90-degree yaw, what I planned on doing was going to NOUN 76 hold and just pulse and yaw several times until the yaw start and hope that pitch and roll stay within the limit.
 Roger. It sounds like a good plan and you can use your TTCA in MIN IMPULSE to take care of pitch and roll.
 Okay.
-Aquarius, Houston. We see ASCENT O2 tank number 2 building up again, so we'd like to use something out of it, so turn on ascent O2 tank number 2 and turn off descent O2.
-Roger. Opening up ascent O2 tank number 2, and turning off descent.
-And, Aquarius, Houston. We're starting to think about CO2 buildup up in the command module there so we've got a recommendation, and what we're recommending is that you take the commander's hoses in the LM and put a cap over the red return hose and then figure out a way to fasten those hoses so they blow up into the CSM by extending them up through the tunnel as far as possible. And we'll get some flow out the blue side, circulate up and around the command module and to keep the CO2 level down.
+Aquarius, Houston. We see ASCENT O<sub>2</sub> tank number 2 building up again, so we'd like to use something out of it, so turn on ascent O<sub>2</sub> tank number 2 and turn off descent O<sub>2</sub>.
+Roger. Opening up ascent O<sub>2</sub> tank number 2, and turning off descent.
+And, Aquarius, Houston. We're starting to think about CO<sub>2</sub> buildup up in the command module there so we've got a recommendation, and what we're recommending is that you take the commander's hoses in the LM and put a cap over the red return hose and then figure out a way to fasten those hoses so they blow up into the CSM by extending them up through the tunnel as far as possible. And we'll get some flow out the blue side, circulate up and around the command module and to keep the CO<sub>2</sub> level down.
 Roger. We're thinking of that too, and one problem is that the COMM is connected securely to the hose, so we've got to get the COMM cable off somehow to get that - So we'll still have COMM down here in the LM and you have the hose up there.
 Houston, we're trying to extend that commander's hose by use of the vacuum hose.
 Sounds like a good plan if you can work that out, Jim.
@@ -3680,14 +3680,14 @@ Okay. Stand by.
 Okay, Jack. Is this a long one?
 Oh, it's about 12 - 15 lines. It's a matter of verifying some valves and so forth.
 Okay. Go ahead.
-Okay. We want you to go in when you can and verify the following valves and leave them as we outline here. REPRESS PACKAGE valve, off; EMERGENCY CABIN PRESSURE, off; DIRECT O2, off; DEMAND REG, off; both WATER ACCUMULATORS, off; MAIN REG A and B, open; WATER GLYCOL - correction - WATER and then GLYCOL TANK INLET and OUTLET, both. Now if you want to get some water, we recommend that you momentarily turn the SURGE TANK on to pressurize the system and then turn it off and take out water as required. Over.
+Okay. We want you to go in when you can and verify the following valves and leave them as we outline here. REPRESS PACKAGE valve, off; EMERGENCY CABIN PRESSURE, off; DIRECT O<sub>2</sub>, off; DEMAND REG, off; both WATER ACCUMULATORS, off; MAIN REG A and B, open; WATER GLYCOL - correction - WATER and then GLYCOL TANK INLET and OUTLET, both. Now if you want to get some water, we recommend that you momentarily turn the SURGE TANK on to pressurize the system and then turn it off and take out water as required. Over.
 That's it, Jack. And another note on taking water; if you don't drain enough water so that - -
 Say again, Aquarius.
 That wasn't us, Jack.
 Okay. One more note on the water, Jack. If you don't bleed the pressure off when you - don't take enough water to bleed the pressure off completely, the pressure that's left on there is going to drain away in a period of 1 to 3 hours. So it's a small amount of oxygen, but we might as well save it. So if you want to eliminate that problem you could completely drain the pressure off by putting the water in a water bag and saving it that way.
 Okay. That's a good idea.
 So that's the end of my - -
-What I'll do - let me repeat - Okay. Let me repeat it all back to you. REPRESS PACKAGE VALVE, off; EMERGENCY CABIN PRESSURE, off; DIRECT O2, off; both the DEMAND REGs, off; both H2O ACCUMULATORS, WATER GLYCOL ACCUMULATORS, off; MAIN REG A and B, open; WATER and GLYCOL TANK INLET and OUTLET, open; for water, momentarily pressurize the SURGE TANK, take out water as required. You're recommending drain out all the water until I can't get any more water out of it in order to conserve the oxygen.
+What I'll do - let me repeat - Okay. Let me repeat it all back to you. REPRESS PACKAGE VALVE, off; EMERGENCY CABIN PRESSURE, off; DIRECT O<sub>2</sub>, off; both the DEMAND REGs, off; both H<sub>2</sub>O ACCUMULATORS, WATER GLYCOL ACCUMULATORS, off; MAIN REG A and B, open; WATER and GLYCOL TANK INLET and OUTLET, open; for water, momentarily pressurize the SURGE TANK, take out water as required. You're recommending drain out all the water until I can't get any more water out of it in order to conserve the oxygen.
 Okay. We just want you to turn off the water accumulators and not the glycol accumulator. Over.
 Okay. These are the water accumulators on 382, right?
 That's affirm. The accumulators on 382.
@@ -3794,10 +3794,10 @@ We're on the ascent tank, too.
 Houston, Aquarius. Did you call?
 Negative, Houston. We did not call. How you reading us?
 Get up front and turn that antenna ...
-And, Houston, could you give us an approximate time to turn off the ascent O2 in case we're losing point with you?
+And, Houston, could you give us an approximate time to turn off the ascent O<sub>2</sub> in case we're losing point with you?
 Roger, Jim; and copying about half your words.
-Roger, Houston. We'd like a time to go back to descent O2 in case we lose communications with you.
-Jim, Houston. That's affirmative. You may go back to descent O2. Over.
+Roger, Houston. We'd like a time to go back to descent O<sub>2</sub> in case we lose communications with you.
+Jim, Houston. That's affirmative. You may go back to descent O<sub>2</sub>. Over.
 Roger. Going back now.
 Copy that.
 We're ... up-side down.
@@ -4143,12 +4143,12 @@ Okay. Stand by, Aquarius. We'll be back with you momentarily.
 Okay.
 Aquarius, Houston. You ready with your G&N dictionary? Over.
 Okay. I'm on page 34 now, looking at P52.
-Okay, Fred-o. At the bottom of the page, we want step 1, on the flashing 0406, we want an option 3, and that'll pull us over to 6; and, on the 5025, we want you to do the ENTER on the 5025, and that'll bring up flashing 0170, and load in R1 200. Over.
+Okay, Fred-o. At the bottom of the page, we want step 1, on the flashing 0406, we want an option 3, and that'll pull us over to 6; and, on the 5025, we want you to do the ENTER on the 5025, and that'll bring up flashing 0170, and load in R<sub>1</sub> 200. Over.
 Okay. Let me see if I'm with you. We call up P52 and, on the flashing 0406, we PRO on a 3 REFSMMAT which leads us to a flashing 5025. We ENTER on that. On the flashing 0170, we want to ENTER a 200.
 That's affirmative; and after that, you PRO on that, and you come up with a flashing 0688, and we'll have to load NOUN 88. And if you're ready to copy, I have the Sun half-unit vectors at 74 hours GET. Over.
 Okay. Go ahead.
-Okay. At Sun half-unit vectors, X, R1, is plus 0.45498, Y plus 19024, Z plus 08250. Over.
-Okay. We PRO on - after entering the 200. We'll get a flashing 0688. We then load the Sun unit vectors for 74 hours, which are R1 plus 5 - correction, plus 45498, R2 plus 19024, R3 plus 08250.
+Okay. At Sun half-unit vectors, X, R<sub>1</sub>, is plus 0.45498, Y plus 19024, Z plus 08250. Over.
+Okay. We PRO on - after entering the 200. We'll get a flashing 0688. We then load the Sun unit vectors for 74 hours, which are R<sub>1</sub> plus 5 - correction, plus 45498, R<sub>2</sub> plus 19024, R<sub>3</sub> plus 08250.
 Roger. That's good, Fred-o. And that'll bring you to step 8, and you get a flashing 5018 when you PRO on the NOUN 88. Okay. At 5018, we want to do an AUTO maneuver to - to the attitude, so just do the - the PRO with the GUIDANCE CONTROL, PNGS; MODE CONTROL, PNGS, AUTO; and we'll take this attitude. Now, that's going to put us at - at attitude for the Sun check. Now, we're being a 1.4-degree deadband in this program in a docked configuration; so, to help you out, you could call VERB 62 to get your needles - and it - when the needles go through zero or null out and - in that deadband - then you take a look in the AOT and see how close the Sun is. And we want within plus or minus 1 degree. Over.
 Okay. So we PRO on the NOUN 88, and we end up with a flashing 5018; and you want an AUTO maneuver here rather than using the TTCA, so we PRO with GUIDANCE, PNGS; MODE CONTROL, AUTO. We've got a 1.4-degree deadband with a VERB 62 will give us the needles to try to zero them in and, at that time I look through the AOT and, if it's like Apollo 11 Sun check, all we've got to have is the Sun somewhere in the - out there somewhere on the Sun as it passes. Is that correct?
 I think that's a little tight; that's about a quarter degree. We can go a little bit out of that. Stand by 1. Fred, we'll get you an answer on that one. And also, if you'll stand by, we'll give you a DAP load for this maneuver. Over.
@@ -4164,15 +4164,15 @@ Roger. Now, if we pass that check, you can just terminate P52 right there, and w
 Stand by 1, Charlie.
 Okay. Go ahead for 75 hours - Sun and Earth half-unit vectors.
 Roger. First with the Sun; for X, plus 45483; for Y, plus 19053; for Zebra, plus 08262; Earth half-unit vector at 75 hours, plus 32120, minus 34155, minus 17370. Over.
-Okay. Sun half-unit vectors: R1 plus 45483, R2 plus 19053, R3 plus 08262; Earth half-unit vectors: R1 plus 32120, R2 minus 34155, R3 minus 17370.
+Okay. Sun half-unit vectors: R<sub>1</sub> plus 45483, R<sub>2</sub> plus 19053, R<sub>3</sub> plus 08262; Earth half-unit vectors: R<sub>1</sub> plus 32120, R<sub>2</sub> minus 34155, R<sub>3</sub> minus 17370.
 Roger, Fred-o. Good readback. Now, on the Earth, we estimate it - if you have to do this alinement, that the Earth will be about a 2-degree Earth. And it'll be approximately three-quarters lighted. Now, to mark on the Earth, we'd like you to take an imaginary line between the horns of the crescent and mark midway between the horns. Over.
 Okay. We got a 2-degree Earth that's three-quarter lighted, and we're to imagine a line between the horns of the Earth and mark right in the center of that line.
 That's affirmative. Now, on - on this star check - correction, the Sun check, Fred, at - On the 5018, I got some FDAI angles for you if you're ready to copy. Over.
 Okay. You're talking about the check at 74 hours GET, right?
-Roger. Okay. At 74 hours when you start this maneuver, the 5018 should look like R1 of 2703 degrees, pitch R2 is 0903, and R3 of 2908. Over.
+Roger. Okay. At 74 hours when you start this maneuver, the 5018 should look like R<sub>1</sub> of 2703 degrees, pitch R<sub>2</sub> is 0903, and R<sub>3</sub> of 2908. Over.
 Okay. How about making those all five digit readouts; read them again, Charlie.
 Okay. Pardon me. It's 27030, 09030, 29080.
-Okay. The 5018 should look like R1 plus 27030, R2 plus 09030, R3 plus 29080.
+Okay. The 5018 should look like R<sub>1</sub> plus 27030, R<sub>2</sub> plus 09030, R<sub>3</sub> plus 29080.
 Roger. That's good readback. Now, we got one more procedure for you; and, right now, we got the rendezvous radar stowed and we won't be able to see anything out of detent 2, so we'd like you to position the radar to 0283; and we have a procedure for that. And we'd like you to do that right before you get the attitude. Over.
 Okay. Stand by.
 Okay. Go ahead.
@@ -4335,13 +4335,13 @@ Yes.
 Okay.
 And COMMANDER FDAI.
 Okay.
-And on your HA, yaw right side, lift main line ... ...
+And on your H<sub>A</sub>, yaw right side, lift main line ... ...
 Okay.
 Now ... 30 second ... Okay. Now let's get ready to run this back. ...
 Okay.
 Okay. DEADBAND OPTION.
 Okay. ... ...
-Okay ... on this ... vector. Okay, R1 plus 45498 ... Okay, plus 190 ..., plus 08256. Okay, now we show zips ... Okay. VERB 62 ENTER. Okay. ... and the main ... in AUTO ... ...
+Okay ... on this ... vector. Okay, R<sub>1</sub> plus 45498 ... Okay, plus 190 ..., plus 08256. Okay, now we show zips ... Okay. VERB 62 ENTER. Okay. ... and the main ... in AUTO ... ...
 Houston, are you monitoring our P52 technique?
 - - Apollo 13 - -
 Roll, yaw, roll, pitch, and yaw.
@@ -4380,7 +4380,7 @@ Listen, I'm not.
 We're ... going to be two diameters out, huh?
 Yes.
 Okay. Tell me what that technique is to get the lamp on, in case I don't see it.
-They'll have to give you AC again and you punch in your breaker -Well, let's see - I've still got HP on for the FDAIs, so you're in business now. All you need is the lamp breaker, the AC BUS A AOT lamp breaker, that is.
+They'll have to give you AC again and you punch in your breaker -Well, let's see - I've still got H<sub>P</sub> on for the FDAIs, so you're in business now. All you need is the lamp breaker, the AC BUS A AOT lamp breaker, that is.
 Let me know when these start going. There's the Sun. Give me the - Give me the AOT.
 Okay.
 Never mind. I don't need it. Go ahead. I got it. Never mind.
@@ -4433,7 +4433,7 @@ Roger. We will have an attitude for you to maneuver to in a moment. And you shou
 Got the book.
 Go ahead, Vance.
 Okay. This is FDAI attitudes for the maneuver. Yaw 060 degrees, pitch 083 degrees, roll 272 degrees.
-Let's not read that in the R1, R2. I don't want VERB 69 twice. I want VERB 49, 58g's so I can fly the needle.
+Let's not read that in the R<sub>1</sub>, R<sub>2</sub>. I don't want VERB 69 twice. I want VERB 49, 58g's so I can fly the needle.
 Jim. Those are not VERB 49 angles. Those are strictly FDAI attitudes. Over.
 Okay. I understand, Vance. It's much easier if the ball is up to fly the needles; that gives me a drift of VERB 49, 58g maneuver. We could fly that manually.
 Stand by. We'll try to get you a VERB 49 angle.
@@ -4485,7 +4485,7 @@ Hey, Fred? Stand by on that.
 Okay. Plus 27100. Okay. Stand by. Right now you can enter ...
 Okay. Apollo 13, Houston.
 Go ahead.
-Okay, Jim. We sorted it out, and it is correct the way we gave you the first time. So, R1 27100, and in the LM, that's yaw; R2 35500, and that's pitch; R3 33000, and that's roll in the LM. Over.
+Okay, Jim. We sorted it out, and it is correct the way we gave you the first time. So, R<sub>1</sub> 27100, and in the LM, that's yaw; R<sub>2</sub> 35500, and that's pitch; R<sub>3</sub> 33000, and that's roll in the LM. Over.
 I agree with you. Okay. 5018, it's there, and 5018, and that's what it will be. Okay.
 That's right. That's VERB 49.
 There are 25. 25, ENTER.
@@ -4629,7 +4629,7 @@ Understand. Switching OMNIs. Over.
 Okay. How do you read? ..., how do you read me now?
 Okay, you're a little better. How me? Over.
 Okay, Houston. Coming in loud and clear. I got your caution/warning checkout, step 1, do; the warning lights we'll have will be ASCENT PRESS, CES AC, CES DC. The only caution lights we may have will be a heater light and go ahead and proceed from there.
-Okay, good. The component light, we won't have the H2O SEP. Okay, on CB(16) right under that, "HEATER DISPLAY, CLOSE," you can scratch that out. Perform all of step 2 and perform step 4 with the following changes. On panel 11, under AC BUS B, are you ready to copy? Over.
+Okay, good. The component light, we won't have the H<sub>2</sub>O SEP. Okay, on CB(16) right under that, "HEATER DISPLAY, CLOSE," you can scratch that out. Perform all of step 2 and perform step 4 with the following changes. On panel 11, under AC BUS B, are you ready to copy? Over.
 Go ahead.
 Okay, under AC BUS B: S-BAND ANTENNA, OPEN; ORDEAL, OPEN. Under AC BUS A: TAPE RECORDER, OPEN. Row 2 under RCS SYSTEM A: MAIN SOV. Starting with a QUAD TCA; all four CLOSED. Under FLIGHT DISPLAYS: CROSS - COMMANDER CROSS-POINTER, OPEN; COAS, OPEN; ORDEAL, OPEN. For row 3 under HEATERS: RENDEZVOUS RADAR STANDBY, OPEN; LANDING RADAR, OPEN. Under STAB/CONTROL: ATTITUDE DIRECT CONTROL, CLOSE. Under ED: LOGIC POWER A, OPEN; and under LIGHTING: UTILITY, OPEN. Are you with me? Over.
 Yes. I'm still with you, Charlie; go ahead.
@@ -4944,7 +4944,7 @@ Okay. LOS 03:05:08:35, AOS 03:05:33:10. Sunrise - First I'll give you sunset whi
 Okay. LOS at 03:05:08:35, AOS at 03:05:33:10. Sunset at 03:04:32:45, sunrise at 03:05:16:48.
 Roger. We'll get back with you on the powerup time and, if you're ready to copy, have angles to load into NOUN 22 for your VERB 49 maneuver to burn attitude. Over.
 Okay. Go ahead with the VERB 49 value.
-Okay. R1 plus 27210, R2 plus 35570, R3 plus 33010. Second item, as you know, due to maneuver with a PROCEED and a PROCEED; and, after your attitude, a reminder that P40 will not set you back to a narrow deadband. To get back to the 1.40-degree deadband, you have to use the procedure I gave you, which is VERB 21, NOUN 01, ENTER, 3011, ENTER. And 200, ENTER.
+Okay. R<sub>1</sub> plus 27210, R<sub>2</sub> plus 35570, R<sub>3</sub> plus 33010. Second item, as you know, due to maneuver with a PROCEED and a PROCEED; and, after your attitude, a reminder that P40 will not set you back to a narrow deadband. To get back to the 1.40-degree deadband, you have to use the procedure I gave you, which is VERB 21, NOUN 01, ENTER, 3011, ENTER. And 200, ENTER.
 Okay. VERB 49, register 1, plus 27218; register 2, plus 35570; register 3, plus 33010; and to get the narrow deadband back we want a VERB 21, NOUN 01, ENTER, 3011, ENTER, 200 ENTER.
 Roger. And a correction on your - on your first number for register 1. That should be plus 27210. And another comment; after you get into the narrow deadband at that attitude, why, you might tell us where you see Nunki.
 Roger. Will do, Vance.
@@ -5275,7 +5275,7 @@ That's correct. Okay. Next. Mode - at - When you're established at the attitude,
 Okay, Vance. PTC procedure: GUIDANCE CONTROL, PGNS; MODE CONTROL, ATT HOLD; VERB 76, ENTER; maneuver to PTC attitude; roll 0, pitch 90, yaw 0; my ball now, of course, is inoperative, so I'll have to get that on the DSKY. The 5 is MODE CONTROL, AUTO; 6: VERB 16, NOUN 20, monitor rates; rates less that 1 degree per second in each axis, disable, and I didn't hear that last part. The next one was VERB 25, NOUN 07, ENTER; 1257, ENTER; 252, ENTER; 1, ENTER; VERB 77, ENTER; VERB 48, ENTER; 22110, PROCEED; VERB 34, ENTER; VERB 16, NOUN 20, ENTER; monitor rates. Rates less than 0.01 degrees per second in all axis. VERB 76, ENTER; MODE CONTROL, ATT HOLD; then 30 clicks of right yaw to stop - to start - maneuvers
 Roger. That's correct, Jim. To - to answer your questions and correct one point, yaw should be your present yaw, whatever it is, and that's up with roll 0, pitch 90, present yaw. The other thing is, you said disable and you didn't hear the rest. That's disable plus-X thrusters. And, finally, near the end, the 22110 referred to DAP loading.
 Roger. Now, to maneuver to PTC roll 0, pitch 90 and yaw in - and pitch in here, roll is here. Yaw - whatever yaw we have in. Okay, Vance. In our initial maneuver to PTC attitude, I am going to have to use - to display 16 20 and I'll have to use the TTCA to get there.
-Jim, Roger. Your use of the TC - TTCA and just a reminder that in maneuvering that - that - that roll is in R3 and yaw is in R1.
+Jim, Roger. Your use of the TC - TTCA and just a reminder that in maneuvering that - that - that roll is in R<sub>3</sub> and yaw is in R<sub>1</sub>.
 That's affirm. And I'm going to take out roll first to get it zero and then I'm going to take care of pitch.
 Okay.
 Okay. GUIDANCE CONTROL, PGNS; MODE CONTROL to ATT HOLD. VERB 73 clears. Okay. We've got to get that out. ... it stopped moving.
@@ -5355,20 +5355,20 @@ Roger. Copy.
 I now have both pitch and yaw - or pitch and roll going toward the designated amounts, now passing through 23 degrees in pitch, and I'm going up past 321 degrees in roll. And I am letting go that direction and when I get there, 90 in pitch and zero in roll, I'll go to AUTO and damp the rates.
 Get a little sleep? That's okay.
 We've got to rig up a method of using those lithium hydroxide canisters.
-Okay, Houston. We just got a MASTER ALARM and an ECS light. I take it the partial pressure CO2 is - Yes - That's what tripped it.
+Okay, Houston. We just got a MASTER ALARM and an ECS light. I take it the partial pressure CO<sub>2</sub> is - Yes - That's what tripped it.
 There's that mother.
 Aquarius, Houston. Say again.
-All right. CO2. Our CO2 value is getting high. We had a DPS ECS light and a blinking component light.
+All right. CO<sub>2</sub>. Our CO<sub>2</sub> value is getting high. We had a DPS ECS light and a blinking component light.
 Okay. Copy.
-Stand by on that PTC O2.
+Stand by on that PTC O<sub>2</sub>.
 Say again, Houston.
 Hello, Houston. How do you read? Over.
 Okay. Read you loud and clear now, Jim.
-Okay. Did you hear what I just said about the ECS light and the blinking CO2 component light?
+Okay. Did you hear what I just said about the ECS light and the blinking CO<sub>2</sub> component light?
 Okay. We got that and - Stand by 1.
 Okay.
 Not much.
-Jack, we might have to have you rig up this CO2 rig they're talking about.
+Jack, we might have to have you rig up this CO<sub>2</sub> rig they're talking about.
 Go ahead. Houston. Over.
 Oh! We've got a long ways to go.
 Go ahead.
@@ -5725,11 +5725,11 @@ Now, why don't you go through that, Jack, and make sure those - -
 Yes.
 - -
 Okay, I'll take this.
-Okay, Jack, my only other concern now is the CO2 rise in the spacecraft. I guess you're keeping a handle on that?
+Okay, Jack, my only other concern now is the CO<sub>2</sub> rise in the spacecraft. I guess you're keeping a handle on that?
 That's affirmed, Jim. We have you up to 10.6 now, and we're willing to go a little higher on that. We have another cartridge and we have a procedure for making the command module cartridges up. We'll pass that on later.
 Oh, yes. I'm not worried about that. I just wanted to make sure that you - -
 Are they going to - -
-- - that - We just don't want to go to sleep here and forget about the rise in CO2.
+- - that - We just don't want to go to sleep here and forget about the rise in CO<sub>2</sub>.
 Are they going to use ... - -
 Roger. We're watching it for you - -
 Yes, they're getting it ...
@@ -5801,7 +5801,7 @@ Right. And another thing we've done is to pull your ECS and EPC DISPLAY breakers
 Okay. That's very good, Jack. You're watching them. That's good enough.
 And everybody's fine at home El Lago.
 Great.
-And, Fred, your CO2 is building up. It's at 11 on our gage, and we've got a medical buildup to 15 millimeters, at which time we'll switch over to secondary. Looks like we've got plenty of lithium hydroxide, about 192 hours including the CSM cartridges. And as you know, we've got a way to use those. And as soon as we get them written in some good words, why, we'll pass; that along. You might be able to make one.
+And, Fred, your CO<sub>2</sub> is building up. It's at 11 on our gage, and we've got a medical buildup to 15 millimeters, at which time we'll switch over to secondary. Looks like we've got plenty of lithium hydroxide, about 192 hours including the CSM cartridges. And as you know, we've got a way to use those. And as soon as we get them written in some good words, why, we'll pass; that along. You might be able to make one.
 Okay. Yes, we'll sure give her a try. And I'm showing onboard about 12-1/2 millimeters of mercury.
 Roger. And I have a flight plan update when you get a time to copy it sometime, I'll pass it along. There's no hurry on it.
 Okay. Stand by 1. Jack's back now.
@@ -5823,12 +5823,12 @@ We concur with that.
 Okay, Fred, we're not going to bother the skipper up there. We won't be taking any pictures out of the command module window until after rest period.
 Okay.
 Shifting to FORWARD OMNI.
-Okay. Fred, for your information, your CO2 reading onboard is a little higher than what we're reading here on the ground, and so when it gets to 15 on your meter, switch to secondary. And we'd like to get a status about every 30 minutes - we'll give you a call on that. But just to let us know we're still thinking about you, we'd like you to go BIOMED RIGHT, please.
+Okay. Fred, for your information, your CO<sub>2</sub> reading onboard is a little higher than what we're reading here on the ground, and so when it gets to 15 on your meter, switch to secondary. And we'd like to get a status about every 30 minutes - we'll give you a call on that. But just to let us know we're still thinking about you, we'd like you to go BIOMED RIGHT, please.
 Okay, Going BIOMED RIGHT.
 Hey, how do you read me on this COMM mode on S-band?
 5 square, Fred. How me?
 We're still here, Fred. How's it going?
-Okay. My CO2 reading is now just below 13.
+Okay. My CO<sub>2</sub> reading is now just below 13.
 Say again what it is.
 It's just - just below 13.
 Okay. Just below 13. And just for your information, we've got people working on several subjects. We're working on the midcourse coming up to determine our control system and how to do it with the control system we select, what we should do about the alinement. We've got the LMS and a couple of crews cranked up working on that. And we're also working on our entry, how and when we ought to activate the CSM. And we're working on the CSM systems status. Tomorrow sometime we're going to have a MAIN BUS B checkout, so we've got a lot of people swinging pretty hard here and I've got some f-stop settings for you for the lunar-surface camera. At 1/250th, we'd like you to take targets of opportunity. Each picture use three f-stops, because we don't know exactly which one is going to work the best, so use 4, 5.6, and 8 and 1/250th for the surface camera. Copy?
@@ -5886,7 +5886,7 @@ Well, I'm sneaking inside of the LM where he doesn't have ... Incidentally, this
 Good. Let's see if it goes the other way.
 These guys down here are saying they knew it all the time.
 Well, that's right. They do good work. Whoever heard of doing a P52 in the LM?
-Say, Fred, sometime when you're not too busy chewing on that beef, how about telling us what the CO2 reads?
+Say, Fred, sometime when you're not too busy chewing on that beef, how about telling us what the CO<sub>2</sub> reads?
 Okay, I'm reading 13, 1 3.
 Okay. It looks like our reading is getting kind of close to yours.
 Yes. It appears the wobble is going the other way, Jack, because the Earth is now rising and the Moon is starting to get lower in the window.
@@ -5995,12 +5995,12 @@ Fred-o, would say the checkpoint over which you're right now?
 Okay. And incidentally, the LPD on the Moon was zero, so it's coming back down. The point looks like we're just about straight over is around Censorinus and the point between it and FPA 8.
 Okay.
 Okay. And, Jack, the Earth LPD angle is 24 degrees.
-Roger. Earth at 24. And it looks like you're getting up to about 15 on the CO2, so we want you to select SECONDARY and swap out the primary cartridge. Over.
+Roger. Earth at 24. And it looks like you're getting up to about 15 on the CO<sub>2</sub>, so we want you to select SECONDARY and swap out the primary cartridge. Over.
 Okay. I'll select SECONDARY and swap out the primary cartridge.
 Okay, Fred. And when you select - When you swap out the primary cartridge, don't reselect PRIMARY. Stay on SECONDARY until we use the secondary up. Over.
 Okay. I'm changing out primary and - stay in SECONDARY until we use it up.
 And the change out is complete, Jack.
-Okay. Copy the changeout complete, and we're reading 4.5 on the CO2 here.
+Okay. Copy the changeout complete, and we're reading 4.5 on the CO<sub>2</sub> here.
 Okay. I'm ...
 Okay. And the Earth LPD was 8 degrees.
 Did you - Did you say 8 degrees, Fred?
@@ -6026,9 +6026,9 @@ Is Jack up there with you?
 No, Jack's still sacked out.
 Okay, Jim. We're kind of watching this PTC a little bit. Fred's been giving us a few LPD angles as we swang by the center of the Earth - center of the Moon. We noticed that the COMM has been degrading just a little bit so you might have to talk up.
 Roger. Understand.
-And we just went on to the secondary CO2 canister. Fred swapped out the primary, but we want to stay on the secondary until it is all used up.
-Okay. I'm going to use the tape ... CO2.
-We're reading a partial pressure CO2 of 4.2 millimeters. We're cleared to use the secondary until it reaches 15.
+And we just went on to the secondary CO<sub>2</sub> canister. Fred swapped out the primary, but we want to stay on the secondary until it is all used up.
+Okay. I'm going to use the tape ... CO<sub>2</sub>.
+We're reading a partial pressure CO<sub>2</sub> of 4.2 millimeters. We're cleared to use the secondary until it reaches 15.
 Okay. That's good.
 Aquarius, in comparing our initial estimates of water usage and electrical power usage, it appears that we're right on the money on water usage, and we're using a little less amperes than we had originally expected in our first analysis, so we're either right on the money or just a little bit ahead of the game in that regard.
 Well, that sounds encouraging, Jack.
@@ -6120,7 +6120,7 @@ Roger. Confirm that ENGINE GIMBAL will be off.
 And, Jack, how long do you estimate the length of the burns will be?
 Okay. The length of the burns are going to be probably less than a minute. And we want you to have cut-off based on time. So we will give you a burn time. And I have a P30 maneuver pad for midcourse-7 in the event that we lose COMM if you are ready to copy.
 Okay, Jack. Ready to copy.
-Okay, Jim. P30 LM maneuver pad: the purpose is midcourse-7. NOUN 33 is 05:14:59:42. NOUN 81 is N/A. HA is N/A. HP is plus 0020.5. DELTA-V R is 0019.3. Burn time, 0:39; 008, 000; the rest is N/A; thrust will be at 10 percent. Read back.
+Okay, Jim. P30 LM maneuver pad: the purpose is midcourse-7. NOUN 33 is 05:14:59:42. NOUN 81 is N/A. H<sub>A</sub> is N/A. H<sub>P</sub> is plus 0020.5. DELTA-V R is 0019.3. Burn time, 0:39; 008, 000; the rest is N/A; thrust will be at 10 percent. Read back.
 All right. This is midcourse-7 corridor control, and it's in case we lose COMM: 05:14:59:42; NOUN 81 is N/A; 42, N/A; plus 0020.5; 0019.3. Burn time, 0:39; 008, 000. All the rest is N/A: thrust 10 percent.
 Okay, Jim. That's a good readback, and in the event of lost COMM, use the procedures that I gave you. It may be that between now and tomorrow these procedures will change a little bit, so we'll go with what we've got now, and stand by for something better if it comes. Over.
 Okay, Jack. I'm looking at your burn pad and I see that the ... total gimbal ... 19.3 feet per second.
@@ -6434,10 +6434,10 @@ Okay. That's correct. Let's go to page 3, and the first one on page 3, TOWER JET
 Okay.
 Okay. The next one, two, three, four, five, six, seven are the same, and then we get CAUTION/WARNING NORMAL to ACK, CAUTION/WARNING CSM to CM, and CAUTION/WARNING POWER to OFF. Over.
 Okay. Got it.
-Okay. The next one, two, three, four are the same, and then we get to the H2 HEATERS, two, OFF; and the O2 HEATERS, two, OFF. Got that?
-Yes. ... we don't have any H2 or O2 ... Okay.
+Okay. The next one, two, three, four are the same, and then we get to the H<sub>2</sub> HEATERS, two, OFF; and the O<sub>2</sub> HEATERS, two, OFF. Got that?
+Yes. ... we don't have any H<sub>2</sub> or O<sub>2</sub> ... Okay.
 Okay, Jack. Those are the only changes on page 1-3.
-Okay. POWER JETT, two, OFF. And then I'll just go on down: CAUTION and WARNING NORMAL to ACKNOWLEDGE; CAUTION and WARNING CSM - CAUTION and WARNING CSM to CM; CAUTION and WARNING POWER, OFF; H2 and O2 HEATERS, OFF.
+Okay. POWER JETT, two, OFF. And then I'll just go on down: CAUTION and WARNING NORMAL to ACKNOWLEDGE; CAUTION and WARNING CSM - CAUTION and WARNING CSM to CM; CAUTION and WARNING POWER, OFF; H<sub>2</sub> and O<sub>2</sub> HEATERS, OFF.
 That's correct, Jack. Those are the only changes on 1-3. Now, let's go to 1-4. No changes on the remaining three panel 2 switches. On panel 3, the first one, two, three, four are unchanged and then we want FUEL CELL HEATERS, three, to OFF. Over.
 Okay.
 Okay. The next one, two, three, four, five, six, seven, eight are the same, and then we want FUEL CELL 2 MAIN BUS A to OFF; and, skipping one, we want FUEL CELL 2 MAIN BUS A to OFF. Over.
@@ -6483,8 +6483,8 @@ Okay. On panel 6, skip the first one. We want POWER to OFF, and skip down then t
 All right.
 Okay. On panel 7 we want EDS POWER, OFF. TVC SERVO POWER 1 and 2, OFF; FDAI/GPI POWER, OFF; and LOGIC 2 slash 3 POWER, OFF. Over.
 Okay. I'll read back. SUIT COMPRESSOR 1 and 2, OFF; FUEL CELL PUMPS 1, 2, and 3, OFF; G/N POWER, OFF; MAIN BUS TIES, OFF; INTERIOR INTEGRAL LIGHTING, OFF; INTERIOR FLOODLIGHTING, OFF; then coming down, all circuit breakers on panel open; panel 6, the POWER should be OFF; SUIT POWER should be OFF; panel 7, all 5 of those switches should be OFF.
-Okay, Jack. That's correct. Go to page 1-7. SCS ELECTRONICS POWER, OFF; SCS SIGNAL CONDITIONER/ DRIVER BIAS 1 and 2, OFF; and BMAG POWER, both, OFF; and DIRECT O2 valve to close. Over.
-Okay. SCS ELECTRONICS POWER, OFF; both SIGNAL CONDITIONER/DRIVER BIAS POWER, OFF; BMAG POWER, two of them OFF; DIRECT O2 to close.
+Okay, Jack. That's correct. Go to page 1-7. SCS ELECTRONICS POWER, OFF; SCS SIGNAL CONDITIONER/ DRIVER BIAS 1 and 2, OFF; and BMAG POWER, both, OFF; and DIRECT O<sub>2</sub> valve to close. Over.
+Okay. SCS ELECTRONICS POWER, OFF; both SIGNAL CONDITIONER/DRIVER BIAS POWER, OFF; BMAG POWER, two of them OFF; DIRECT O<sub>2</sub> to close.
 Okay. Now on panel 8, I'm going to have to read you a number of circuit breakers that we want open, and so start with CB panel 8 all closed except leave the two that we have there CM/RCS HEATERS, open, and FLOAT BAG open, and add the following. I'll read them up one at a time, and you can Roger. SCS LOGIC BUS, four, to open. Over.
 SCS LOGIC BUS, four, open.
 Right. SPS PITCH and YAW, four, to open.
@@ -6544,7 +6544,7 @@ Could you say that again?
 Affirmative. CENTRAL TIMING EQUIPMENT, CTE, both open. Over.
 Okay, CTE, two, open.
 Affirmative. And that's all the changes on page 1-9.
-Okay. Let me read it back here. ... order ... POWER, OFF. NUMERICS LIGHTING, FLOOD LIGHTING, and INTEGRAL LIGHTING, three of them, OFF. Panel 101, URINE DUMP HEATERS, URINE DUMP to OFF, WASTE H2O to OFF. Panel 122, CONDITION LAMPS, OFF. Panel 201, FOOD WARMER, OFF. Panel 225, add additions that I read: S-BAND TRANSMITTER DSE, GROUP 1; FLIGHT BUS, MAIN A and MAIN B, CET, two to open.
+Okay. Let me read it back here. ... order ... POWER, OFF. NUMERICS LIGHTING, FLOOD LIGHTING, and INTEGRAL LIGHTING, three of them, OFF. Panel 101, URINE DUMP HEATERS, URINE DUMP to OFF, WASTE H<sub>2</sub>O to OFF. Panel 122, CONDITION LAMPS, OFF. Panel 201, FOOD WARMER, OFF. Panel 225, add additions that I read: S-BAND TRANSMITTER DSE, GROUP 1; FLIGHT BUS, MAIN A and MAIN B, CET, two to open.
 Okay. That's correct, Jack. Let's go to page 1-10. And on panel 226 - -
 All right. We are going to switch on these. Got a switch on the ...
 Okay.
@@ -6588,18 +6588,18 @@ Okay. And those are all the changes on 1-11, Jack.
 Okay. Ready for 1-12.
 Okay. On page 1-12, panel 325, we want both CABIN PRESSURE RELIEF valves to NORMAL. Over.
 Okay. Both to NORMAL.
-Okay. On panel 326, we want the REPRESS PACKAGE valves to OFF; the SM O2 SUPPLY valves to OFF; the SURGE TANK O2 valve to OFF. Over.
-Okay. REPRESS, SERVICE MODULE O2 SUPPLY, SURGE TANK O2, three of them, to OFF.
+Okay. On panel 326, we want the REPRESS PACKAGE valves to OFF; the SM O<sub>2</sub> SUPPLY valves to OFF; the SURGE TANK O<sub>2</sub> valve to OFF. Over.
+Okay. REPRESS, SERVICE MODULE O<sub>2</sub> SUPPLY, SURGE TANK O<sub>2</sub>, three of them, to OFF.
 Roger. You did include the REPRESS PACKAGE there. Okay, GLYCOL RESERVOIR IN valve to CLOSED. BYPASS to OPEN, and OUT valve to CLOSED. Over.
 Okay. GLYCOL RESERVOIR IN valve CLOSED; BYPASS valve OPEN; and RESERVOIR OUT valve CLOSED.
-That's affirmative. Panel 350, no change. Panel 351, MAIN REGULATOR valves, two, to CLOSED, and the H2O/GLYCOL TANK PRESSURE REGULATOR valve, OFF, and RELIEF valve, OFF. Over.
+That's affirmative. Panel 350, no change. Panel 351, MAIN REGULATOR valves, two, to CLOSED, and the H<sub>2</sub>O/GLYCOL TANK PRESSURE REGULATOR valve, OFF, and RELIEF valve, OFF. Over.
 Okay. MAIN REG valve, two, to CLOSED. WATER/GLYCOL TANK PRESSURE REG and RELIEF valves, both OFF.
 Okay. That's affirm. Those to the left, changes on 1-12. Let's go to 1-13.
 Okay. Ready to copy.
-Okay. Go down to panel 380, O2 DEMAND REG valve, OFF, and SUIT CIRCUIT RETURN VALVE, pulled to OPEN. Over.
-Okay, both O2 DEMAND REG valves are OFF and SUIT CIRCUIT RETURN VALVE pulled OPEN.
-That's correct. Go to panel 382. The first one, two, three, four are unchanged. We want SEC EVAP H2O CONTROL valve OFF, and PRIM EVAP H2O CONTROL valve to OFF. Those both are both counterclockwise. Over.
-Okay, Houston. Reading back 382, SECONDARY EVAPORATOR H2O CONTROL valve's OFF, and PRIMARY EVAPORATOR H2O CONTROL valve, OFF.
+Okay. Go down to panel 380, O<sub>2</sub> DEMAND REG valve, OFF, and SUIT CIRCUIT RETURN VALVE, pulled to OPEN. Over.
+Okay, both O<sub>2</sub> DEMAND REG valves are OFF and SUIT CIRCUIT RETURN VALVE pulled OPEN.
+That's correct. Go to panel 382. The first one, two, three, four are unchanged. We want SEC EVAP H<sub>2</sub>O CONTROL valve OFF, and PRIM EVAP H<sub>2</sub>O CONTROL valve to OFF. Those both are both counterclockwise. Over.
+Okay, Houston. Reading back 382, SECONDARY EVAPORATOR H<sub>2</sub>O CONTROL valve's OFF, and PRIMARY EVAPORATOR H<sub>2</sub>O CONTROL valve, OFF.
 That's correct. Those are the only changes on 1-13, and there are no changes on 1-14, and you've got it all, Jack. Over.
 Okay. Real good, Joe. ... configures for that panel.
 Okay. You can get those configures when you can. And the next order of business I've got for you is a procedure to verify that MAIN BUS B is good. And a little after that, we'll want to read up to you, for your future information, a procedure for transferring LM power to the command module. Over.
@@ -6657,7 +6657,7 @@ Deke says unstow the Exer-Genie.
 Okay.
 Aquarius, Houston. Over.
 Go ahead, Houston.
-Fred, just wanted to let you know in advance that we're coming up on the redline CO2 value for the secondary canister, and we expect to get there in something like a half hour, at which time we'll be asking you to switch over to the command module canisters. I have the rest of that procedure ready and I just wanted to warn you a little bit in advance. Over.
+Fred, just wanted to let you know in advance that we're coming up on the redline CO<sub>2</sub> value for the secondary canister, and we expect to get there in something like a half hour, at which time we'll be asking you to switch over to the command module canisters. I have the rest of that procedure ready and I just wanted to warn you a little bit in advance. Over.
 Okay. And I've got a question for you, Joe.
 Go ahead.
 Okay. The - I need to find out if the condensate container that we were going to use to strain some water in on the lunar surface - is that container also completely airtight? Okay to use it to put fluid in through here in zero g?
@@ -6680,9 +6680,9 @@ Okay, Joe. One thing I've noticed, that a couple of circuits there now - the pul
 Okay, Fred. Copy that. Thank you.
 Houston, Aquarius.
 Aquarius, Houston. Go ahead.
-What do you read down there for partial pressure CO2?
+What do you read down there for partial pressure CO<sub>2</sub>?
 Oh, let's see. We're reading 6.6 right now, Fred. What do you read?
-I'm reading about 12.5. I guess we've got a gage problem ... I did just get a MASTER ALARM and no caution light; we kind of figured that's what it was, with CO2 approaching its limit. Maybe it didn't quite come out here.
+I'm reading about 12.5. I guess we've got a gage problem ... I did just get a MASTER ALARM and no caution light; we kind of figured that's what it was, with CO<sub>2</sub> approaching its limit. Maybe it didn't quite come out here.
 Okay. Let me get a go, and I think it's time for us to go ahead and put these other canisters on. Stand by 1.
 Okay. We went to 15 on the primary last night before I changed it and - -
 Roger that, Fred. We wanted to - -
@@ -6728,7 +6728,7 @@ Is will it leak? Oh, yes. Stand by 1.
 And we've checked all the fittings and I know I can hook everything up to our UCDs. So, if it doesn't leak, we can transfer.
 Okay, Fred. We still don't have a final answer on whether or not it'll leak. If you need it, I'd go ahead and use it; and standing by for your completion of the hose-insertion procedure.
 Okay. The hose-insertion procedure ... the second cartridge is complete.
-Okay. That's complete. The next step is to switch to the primary CO2 canister and remove the secondary canister and stow it. Over.
+Okay. That's complete. The next step is to switch to the primary CO<sub>2</sub> canister and remove the secondary canister and stow it. Over.
 Okay. I'm going to have to get off COMM here; I'll let Jack get the headset.
 Okay.
 Hey, Joe. I'm on the headset now.
@@ -6763,8 +6763,8 @@ Okay. Next, SUIT CIRCUIT RELIEF to CLOSE. Over.
 SUIT CIRCUIT RELIEF to CLOSE.
 Roger.
 Okay. I got that done.
-Okay. And the last step is select secondary CO2 canister. We'll let it flow through the empty hole, and let's see how we do.
-Select secondary CO2 canister.
+Okay. And the last step is select secondary CO<sub>2</sub> canister. We'll let it flow through the empty hole, and let's see how we do.
+Select secondary CO<sub>2</sub> canister.
 Roger, Jack. That completes that procedure, and the next thing I've got for you is a procedure for going back into the command module and powering up the main buses temporarily using the BUS TIE switches. We want to do this for two reasons: first of all, we want it absolutely verified that there are no loads on the main buses, that we've got everything off and that the buses look good; and the second thing we want to do is to power the bus - the main buses, with the BUS TIE motor switches, and then depower them by pulling the circuit breakers, leaving the MAIN BUS TIE switches in the on position, just to assure that they'll be there when we need them, whether the batteries get cold or not. Over.
 Okay, Joe. How you read?
 Better now, Jack. Satisfactory. Did you copy my rationale for the main bus powerup?
@@ -6799,8 +6799,8 @@ No, let me see if I've got it here. I go down to panel 275, open CB MAIN A, BAT 
 Okay, Jack. We don't want you to close those last two. Those are changes to your basic configuration, and we want to leave them open for now. Over.
 Okay. I'll do that. Was the rest of the readback okay?
 That's correct. Readback was 100 percent, and we'll wait to hear from you.
-Okay, Joe. And just for confirmation, I went through the switch list you gave me. We are in exactly that configuration with one exception, and that is over on panel 382. I have not, the a - H2O ACCUMULATOR is in the OFF position so that if we need any more water, we can get it.
-Okay. Roger, Jack. Copy that. On panel 382, you've left the H2O ACCUMULATOR valves in the OFF position, and we concur.
+Okay, Joe. And just for confirmation, I went through the switch list you gave me. We are in exactly that configuration with one exception, and that is over on panel 382. I have not, the a - H<sub>2</sub>O ACCUMULATOR is in the OFF position so that if we need any more water, we can get it.
+Okay. Roger, Jack. Copy that. On panel 382, you've left the H<sub>2</sub>O ACCUMULATOR valves in the OFF position, and we concur.
 Okay. And there's one other thing that I don't know whether you're aware of. We have no lithium hydroxide canisters in panel two fif- in - canisters now. So when we get ready to power up, you'll have to remind us when you want us to add some.
 Okay, Jack. We copy that. That's correct, and I'll add that to our basic checklist so that we won't forget it.
 Okay. Real fine, Joe, and I'm on my way back into the command module.
@@ -6838,7 +6838,7 @@ I'm sorry, Fred, but we got noisy again there.
 Okay. Let me know when you want me to try it.
 Okay. That sounds better already. Go ahead.
 Okay. I'd just like to ... how's - how's our lith-o cartridge setup ... appear to be working down there.
-We are reading 0.2 on our CO2 sets here, and we're all delighted. It seems to be working fine.
+We are reading 0.2 on our CO<sub>2</sub> sets here, and we're all delighted. It seems to be working fine.
 Boy, that is great.
 And Fred, Houston. In a little while here, I'm going to have a procedure that I want to read up to you and have you copy down for future use. It's a procedure for powering the command module main bus off the LM, and it's something that we feel that's going to come in real handy later on for such things as popping off the command module entry batteries, and also possibly for doing some preheating and preliminary powering up of the command module before we get rid of the LM. We'll have that for you in probably 10 or 15 minutes. Over.
 Okay, okay, Joe. That's good. Sounds good.
@@ -6865,7 +6865,7 @@ Roger.
 Aquarius, Houston. Over.
 Aquarius, Houston. Over.
 Go ahead.
-Okay. We're chasing a small glitch that we saw a while ago in the O2 flow rate which is now normal again, but what we'd like you to do is, first of all, to tell us whether, during that canister procedure, you moved O2 DEMAND REG A to any position other than CABIN, and then we'd like you to move it to OFF momentarily and back to CABIN for us.
+Okay. We're chasing a small glitch that we saw a while ago in the O<sub>2</sub> flow rate which is now normal again, but what we'd like you to do is, first of all, to tell us whether, during that canister procedure, you moved O<sub>2</sub> DEMAND REG A to any position other than CABIN, and then we'd like you to move it to OFF momentarily and back to CABIN for us.
 Okay. To answer your question, Joe, it's no. I checked the CABIN all the time. Qualitatively, when we switched to this configuration, it didn't seem like the frequency or the suit fan noise ... decreased ... logged down a little bit, but I'll follow your procedure. You want me to take REG A, go to close and back to CABIN; is that correct?
 That's correct, Fred.
 Okay. We're in close.
@@ -6895,7 +6895,7 @@ On how far out what?
 From the Moon we are now?
 Oh. Our little plot shows you just touching the 180-thousand-mile line. So you're about 40 K out from the Moon.
 Okay. Okay. And the other thing is, we've noticed some fresh new particles floating around outside, so possibly the service module is starting to vent a little bit again.
-Okay. Copy that, Fred. On the O2 flow thing, we clearly saw the DEMAND REGULATOR go to OFF and back to CABIN. TELMU thinks that it's no big thing that you've seen a little change in flow due to the different resistance we've got in the circuit.
+Okay. Copy that, Fred. On the O<sub>2</sub> flow thing, we clearly saw the DEMAND REGULATOR go to OFF and back to CABIN. TELMU thinks that it's no big thing that you've seen a little change in flow due to the different resistance we've got in the circuit.
 Roger.
 Aquarius, Houston.
 Go ahead.
@@ -7033,7 +7033,7 @@ Okay, Fred. Since you went ahead and used the PLSS condensate container, we got 
 Okay. We haven't removed it from its stowage spot. We just left it right in place, and just - he mated the tank at the end of the cable and hooked right into that.
 Understand. That's satisfactory and recommended that you leave it in the stowage spot. That should help the situation.
 Roger.
-We got a - we got another flow shower going on outside. Particles, seeing them vented against the service module. Jack thinks it may be an H2 vent. ...
+We got a - we got another flow shower going on outside. Particles, seeing them vented against the service module. Jack thinks it may be an H<sub>2</sub> vent. ...
 Okay. Copy that. What window are you looking at it out of, Fred?
 Out the LM docking window.
 The docking window. Roger that. Somebody just handed me your latest consumables status report, and you're using between 11 to 12 amps an hour real steady, and it looks real good.
@@ -7326,11 +7326,11 @@ That's affirm. Picking up at plus 5 seconds; scratch the rest of the page. "TTCA
 Scratch the remainder of the page.
 Okay. Now, like to verify that under the 35 seconds, minus 35 seconds, the only thing you have remaining is "ENGINE ARM to DESCENT." Over.
 That's affirm. That's the only thing I have.
-Okay. Turning to the next page and the last page, Jim, 34. Top of the page, "Monitor DELTA-VX via 470." Scratch next two lines, "When propellant quantity equals 37" and the "DESCENT HELIUM REG." Scratch "TTCA commander, reduce to 10 percent." Now we want you to add a line; "shut" - It's a shutdown criteria, "shutdown on burn time minus 1 second." Over.
+Okay. Turning to the next page and the last page, Jim, 34. Top of the page, "Monitor DELTA-V<sub>X</sub> via 470." Scratch next two lines, "When propellant quantity equals 37" and the "DESCENT HELIUM REG." Scratch "TTCA commander, reduce to 10 percent." Now we want you to add a line; "shut" - It's a shutdown criteria, "shutdown on burn time minus 1 second." Over.
 Okay, "The shutdown is on burn time minus 1 second." Let me give you an example. If we have a 30-second burn, we're going to shut down at 29 seconds. Is that correct?
-That's affirmative. We'll give you the pad, be coming up here from FIDO in a couple of hours, I guess, when we stabilize out on our tracking. The reason for - If you're ready to copy out a couple of more steps, and then I'll explain the reason we want to shut down on this burn time minus 1 second. Picking up on "When DELTA-VX - -
+That's affirmative. We'll give you the pad, be coming up here from FIDO in a couple of hours, I guess, when we stabilize out on our tracking. The reason for - If you're ready to copy out a couple of more steps, and then I'll explain the reason we want to shut down on this burn time minus 1 second. Picking up on "When DELTA-V<sub>X</sub> - -
 Okay.
-"- - When DELTA-VX equal to the final DELTA-VX," scratch that line. Scratch "ATTITUDE CONTROL: YAW, to PULSE." Add - Correction, scratch "Damp excessive rates via LM Y, Z translation" and add at that point "Null" error needles. Trim address 470 to 0.1 foot per second." Over.
+"- - When DELTA-V<sub>X</sub> equal to the final DELTA-V<sub>X</sub>," scratch that line. Scratch "ATTITUDE CONTROL: YAW, to PULSE." Add - Correction, scratch "Damp excessive rates via LM Y, Z translation" and add at that point "Null" error needles. Trim address 470 to 0.1 foot per second." Over.
 Okay, going through. After the "Shutdown on burn time minus 1 second," we scratch the next line; and we scratch "ATTITUDE CONTROL: YAW, to PULSE"; we scratch "Damp excessive rates via LM Y, Z translation"; we add the line "Null" error needles, trim - Null the error needles and trim address 470 to - What was the value there, Charlie?
 "0.1 foot per second." The reason we are shutting down on the burn time is, since the ASA breaker has been out for so long, we're not real confident that our AGS PIPAs are going to be super-sharp. So we want to make sure that we just get a burn time - no overburn; so we're shutting down on burn time minus 1 second. And then that will allow us a plus-X translation to trim 470 if it looks okay. If we had an overburn, we'd be in - -
 Okay.
@@ -7422,7 +7422,7 @@ Okay. Go ahead.
 Okay. Panel 4: TELCOMM, GROUP 1, to AC1. Panel 5: close the following circuit breakers: ECS, PRESS GROUP 1, MAIN B; ECS, PRESS GROUP 2, MAIN B; ECS, TEMP, MAIN B; ECS, SECONDARY LOOP TRANSDUCER, MAIN B; ECS RAD, CONTROL/HEATERS, MAIN B; BAT RELAY BUS, BAT B; BAT CHARGER, BAT B, CHARGE - or to B, CHARGE; INVERTER CONTROL, 2; INVERTER CONTROL, 1; EPS SENSOR SIGNAL, AC1; EPS SENSOR SIGNAL MAIN B; EPS SENSOR UNIT, AC BUS 1; WASTE/POTABLE WATER, MAIN B; INSTRUMENTS, ESS, MAIN B; that's ESSENTIAL, MAIN B. Are you with me?
 Okay, Vance. Are you with me?
 Roger. Why don't you read that group back, and then we'll proceed on.
-Okay, sounds good. Because I don't know where I - how far I lost you. Okay, panel 4; TELCOMM, GROUP 1, to AC1. On panel 5, close the following circuit breakers: ECS, PRESSURE GROUP 1, MAIN B; ECS, PRESSURE GROUP 2, MAIN B; ECS, TEMP, MAIN B; ECS, SECONDARY LOOP TRANSDUCER, MAIN B; ECS RAD, CONTROL/HEATERS, MAIN B; BAT RELAY BUS, BAT B; BAT CHARGER, BAT B; INVERTER CONTROL, 2; INVERTER CONTROL, 1; EPS SENSOR SIGNAL, AC1; EPS SENSOR SIGNAL, MAIN B; EPS SENSOR UNIT, AC1; WASTE/POTABLE H2O, MAIN B; INSTRUMENTATION, ESSENTIAL, MAIN B.
+Okay, sounds good. Because I don't know where I - how far I lost you. Okay, panel 4; TELCOMM, GROUP 1, to AC1. On panel 5, close the following circuit breakers: ECS, PRESSURE GROUP 1, MAIN B; ECS, PRESSURE GROUP 2, MAIN B; ECS, TEMP, MAIN B; ECS, SECONDARY LOOP TRANSDUCER, MAIN B; ECS RAD, CONTROL/HEATERS, MAIN B; BAT RELAY BUS, BAT B; BAT CHARGER, BAT B; INVERTER CONTROL, 2; INVERTER CONTROL, 1; EPS SENSOR SIGNAL, AC1; EPS SENSOR SIGNAL, MAIN B; EPS SENSOR UNIT, AC1; WASTE/POTABLE H<sub>2</sub>O, MAIN B; INSTRUMENTATION, ESSENTIAL, MAIN B.
 Okay; That's all correct. Is that reading rate okay for you?
 Yes, that's fine.
 Okay, and leave a little space if you can to the right of these because when we talk about the backup procedure, why then we can just use the same listing, and I'll - I'll tell you open instead of close these circuit breakers, or at least most of them. Over.
@@ -7722,9 +7722,9 @@ Vance, we have the quad heaters on, now.
 Roger. Copy, Jim. And the - Jack's going to read you the pad right now, so I recommend you go ahead and get started. You shouldn't be delayed by the pad at all.
 Aquarius, Houston. I've got your burn pad.
 Roger, Houston. Stand by. Are you ready - Stand by to copy. Okay. Ready to copy.
-Okay. A P30 maneuver pad on the DPS: purpose is midcourse 5, NOUN 33, 04:09:30:00, NOUN 81 is N/A, HA is N/A, perigee, plus 0019.8, 0.007.8, 0.15, the rest is N/A. Shut down the engine at 1 second prior to the end of burn time. Shut down at 14 seconds manually. Ullage is four jets for 10 seconds, 10-percent throttle. Go ahead.
-Okay, Jack. We've got a DPS midcourse 5: NOUN 33, 04:09:30:00; NOUN 81, N/A; HA N/A; plus 0019.8, 0007.8, burn time 0.15, the rest of the pad, N/A. Shut down manually at 14 seconds, ullage four jets for 10 seconds, and the entire burn is at 10-percent throttle.
-Okay, Fred. I want to verify that your DELTA-VR is 0007.8.
+Okay. A P30 maneuver pad on the DPS: purpose is midcourse 5, NOUN 33, 04:09:30:00, NOUN 81 is N/A, H<sub>A</sub> is N/A, perigee, plus 0019.8, 0.007.8, 0.15, the rest is N/A. Shut down the engine at 1 second prior to the end of burn time. Shut down at 14 seconds manually. Ullage is four jets for 10 seconds, 10-percent throttle. Go ahead.
+Okay, Jack. We've got a DPS midcourse 5: NOUN 33, 04:09:30:00; NOUN 81, N/A; H<sub>A</sub> N/A; plus 0019.8, 0007.8, burn time 0.15, the rest of the pad, N/A. Shut down manually at 14 seconds, ullage four jets for 10 seconds, and the entire burn is at 10-percent throttle.
+Okay, Fred. I want to verify that your DELTA-V<sub>R</sub> is 0007.8.
 Okay. I read you back 0007.8.
 Okay. Good readback. You got it.
 Aquarius, Houston, I have some additional entry data that goes with the pad I just read up. It's five items. Let me know when you're ready to copy. It's on a maneuver pad.
@@ -7906,7 +7906,7 @@ Okay.
 Okay. I'm ready now.
 Okay. We're predicting that you still have more water than you need. And one thing we'd like for you to do is when you're going to sleep up there in the command module take a look through the optics and see if you can see any stars.
 Okay, Jack, I will do. Jim and I were able to spot constellations from the windows of the LM when there's no venting taking place. Could you give me some time on these consumables, what you're predicting they're good for? I think you started to give them times, didn't you, or was I just hearing things.
-We started to give you some times. We think we might be able to give you some better ones pretty soon. But it looks like your water is good through 154 hours, and you've got takusan O2 through 272 hours, plenty of lithium hydroxide, and your amp-hours ought to be good through 199 or 200 hours. Over.
+We started to give you some times. We think we might be able to give you some better ones pretty soon. But it looks like your water is good through 154 hours, and you've got takusan O<sub>2</sub> through 272 hours, plenty of lithium hydroxide, and your amp-hours ought to be good through 199 or 200 hours. Over.
 Okay; good. Copy that.
 We expect that your water rate is going to drop off and at the time, DELTA will go up to 160 - 165 hours quite shortly. Another thing we're interested in is what's your status on rest and medication.
 Okay. None of us, I know of, had any medications, and right now as far as rest, I suppose we're no tireder than normally in this situation. I'm going to relay the work-sleep cycle.
@@ -7928,7 +7928,7 @@ Stand by 1. I'll get a prediction on that. By the way, I hope you're keeping tra
 Yes, right now, we have numbers 7 and 8 in the LM here.
 Roger.
 They were two brand new fresh ones.
-Aquarius, Houston. In regards to the CO2 canisters, by the way the PCO2 is reading 1.6 down here now. We expect that we can get 6 more hours out of the two canisters that we have there - 6 hours at least. However, at 112 hours, when we've got several people up, we're going to rig up two more and we have the new simplified procedure for doing this. However, in the meantime, should we need to have a canister change, we plan to switch to the LM primary canister. Over.
+Aquarius, Houston. In regards to the CO<sub>2</sub> canisters, by the way the PCO<sub>2</sub> is reading 1.6 down here now. We expect that we can get 6 more hours out of the two canisters that we have there - 6 hours at least. However, at 112 hours, when we've got several people up, we're going to rig up two more and we have the new simplified procedure for doing this. However, in the meantime, should we need to have a canister change, we plan to switch to the LM primary canister. Over.
 Okay. Copy that, Jack.
 And, Aquarius, how's your PTC holding up?
 Well, we got a little bit off Jack. The - It starts high in the LMP's window and goes low in the CDR window.
@@ -8099,7 +8099,7 @@ Same. Everything's smooth there, too.
 Good.
 Jim, we've had a lot of people working on the entry procedures, and they'll be continuing to do so. We got a few ideas we'd like to toss at you so you can start thinking about them if you think you're in a position to discuss them without waking up the other guys. What do you think?
 Yes, go ahead. It's okay.
-Okay. One of the first things we want to do is charge the battery in CSM, so we can get some LM power over there to do that, and we have procedures ginned up to do it. In regards to reentry, we're planning our last midcourse at 5 hours before entry interface, and, if we have to make one, that is. And then we'd like to jettison the service module at 4 hours and a half, roughly, before entry interface, and take the next 3 to 3-1/2 hours for taking pictures, cranking up the command module G&N, taking care of stowage, and other odds and ends. And we'd hang on to the LM until 1 hour before entry interface, and then we'd jettison that. And these procedures are going to be run integrated in the CMS and LMS tomorrow morning, and, hopefully, later on in the day, we'll do it again with Mission Control on the loop. A couple of other things we'd like to toss at you: one question is what do we do with the OPS. The thought is that there is adequate O2 in the command module and that the OPS represents high pressure source and a stowage problem, and people are thinking about leaving them in the LM. The other thing is that we think you might want to make this a suited entry, suiting up prior to LM jettison, because what we're doing is, when we jettison the LM, we're going to do it like we did in Apollo 10 - just let the beauty go, and if we weren't suited, why, we'd be betting on the hatch seal to take care of us. So we thought we'd toss these few ideas at you. Some of them are ones that are particularly pertinent questions at this time.
+Okay. One of the first things we want to do is charge the battery in CSM, so we can get some LM power over there to do that, and we have procedures ginned up to do it. In regards to reentry, we're planning our last midcourse at 5 hours before entry interface, and, if we have to make one, that is. And then we'd like to jettison the service module at 4 hours and a half, roughly, before entry interface, and take the next 3 to 3-1/2 hours for taking pictures, cranking up the command module G&N, taking care of stowage, and other odds and ends. And we'd hang on to the LM until 1 hour before entry interface, and then we'd jettison that. And these procedures are going to be run integrated in the CMS and LMS tomorrow morning, and, hopefully, later on in the day, we'll do it again with Mission Control on the loop. A couple of other things we'd like to toss at you: one question is what do we do with the OPS. The thought is that there is adequate O<sub>2</sub> in the command module and that the OPS represents high pressure source and a stowage problem, and people are thinking about leaving them in the LM. The other thing is that we think you might want to make this a suited entry, suiting up prior to LM jettison, because what we're doing is, when we jettison the LM, we're going to do it like we did in Apollo 10 - just let the beauty go, and if we weren't suited, why, we'd be betting on the hatch seal to take care of us. So we thought we'd toss these few ideas at you. Some of them are ones that are particularly pertinent questions at this time.
 Okay. A suited entry would sort of ... the 1-hour LM jettison back and ... back and forth up to that time. ... impede our progress back and forth. ...
 We're losing you, Jim
 Okay. I think I've got you back. I guess the midcourse at 5 hours prior to ...
@@ -8456,7 +8456,7 @@ Okay.
 And, how do you read now?
 Not too bad, Fred.
 Okay. We've got both canisters completed now.
-Okay. Roger that, Fred. And you're reading 0.1 again on the CO2. Incidentally, are you guys having good luck getting water out of the command module?
+Okay. Roger that, Fred. And you're reading 0.1 again on the CO<sub>2</sub>. Incidentally, are you guys having good luck getting water out of the command module?
 We - We haven't tried that yet today.
 Okay.
 Yes. This is quite an apparatus hanging on to these hoses now. And that ECS design engineer ... because it sure seems to work.
@@ -8476,7 +8476,7 @@ No, it doesn't. This is Jack, Joe. Fred ... It doesn't bother me at all.
 Okay.
 Just happy to know that you're standing by.
 Roger that. Except I'm sitting by.
-Did that CO2 drop?
+Did that CO<sub>2</sub> drop?
 Joe, how far out are we now and how fast are we closing?
 Okay, Jack. The plot shows you about 130 000 miles out, which is about, gee, 10 000 closer than you were when I came on a couple of hours ago. And let me check with FIDO for your rate of closure.
 Hey, Jack. Over.
@@ -8488,7 +8488,7 @@ Go ahead, Joe.
 Roger, Jack. Hate to keep bugging you, but we would like another volts and amps reading. Over.
 Okay. We'll get it for you.
 Good show.
-Joe, did our sticky MOD on that - those CO2 canisters work? I'm sorry - ...
+Joe, did our sticky MOD on that - those CO<sub>2</sub> canisters work? I'm sorry - ...
 Jack, I think you asked if the canister MOD was working and the answer is, it sure as hell is.
 Okay, Joe. I got the voltage. It's 39.0 amps and 1.75.
 Copy 39.0 and 1.75.
@@ -8579,8 +8579,8 @@ Okay. Real good.
 Houston, Aquarius.
 Aquarius, Houston. Go.
 Volts, 39.3; amps, 1.2 zip.
-Okay. We copy 39.3 and 1.20. And, Jim, I've got one more item for information for you. At - In about 45 minutes or so, you will get an H2O quantity caution light on the descent tank. We expect this. It occurs at 16 percent. And it's no problem, because we intend to run the tank dry just for drill. To reset the - the light, on panel 2, just set the O2 H2O QUANTITY MONITOR to the CAUTION/WARNING RESET position and the light will go away. Over.
-Okay. I understand. We're going to get a H2O warning light here shortly, and I'll reset it.
+Okay. We copy 39.3 and 1.20. And, Jim, I've got one more item for information for you. At - In about 45 minutes or so, you will get an H<sub>2</sub>O quantity caution light on the descent tank. We expect this. It occurs at 16 percent. And it's no problem, because we intend to run the tank dry just for drill. To reset the - the light, on panel 2, just set the O<sub>2</sub> H<sub>2</sub>O QUANTITY MONITOR to the CAUTION/WARNING RESET position and the light will go away. Over.
+Okay. I understand. We're going to get a H<sub>2</sub>O warning light here shortly, and I'll reset it.
 Okay. Good deal.
 Houston, Apollo 13.
 Aquarius, Houston; go ahead.
@@ -8771,7 +8771,7 @@ DSEA; that's recorder in - will go in the command module; it's recommended you s
 Okay, the DSEA - that's the recorder - will be stowed in R-13.
 That's affirm. Next. LM flight data file. That will go in R-1, R-2, and R-3. Next. Three PPKs in A-8.
 Okay.
-Okay. 16-millimeter and 70-millimeter exposed film in R-13. Okay, next. O2 hose screen caps on the O2 hoses. Next: two 70-millimeter Hasselblad cameras, and stow these in B-6 in the empty LiOH volume.
+Okay. 16-millimeter and 70-millimeter exposed film in R-13. Okay, next. O<sub>2</sub> hose screen caps on the O<sub>2</sub> hoses. Next: two 70-millimeter Hasselblad cameras, and stow these in B-6 in the empty LiOH volume.
 Okay, next. Black-and-white TV camera, and recommend stow that on top of A-7 and A-11 in decontamination bag. Next: flag kit, stowage location A-8. Next: LM fecal bags, used, R-9, waste management system chute.
 Okay, that's the first list, Jim.
 Okay.
@@ -9221,7 +9221,7 @@ Wha - Wha -
 Okay, Jack. We want to put the PRIMARY and the SECONDARY EVAPORATED WATER CONTROL valves to AUTO.
 Okay.
 And, Jack, can you give us a readout on BAT B and the charger current?
-Okay, Ken. That was the PRIMARY and SECONDARY H2O CONTROL valves to AUTO on 382.
+Okay, Ken. That was the PRIMARY and SECONDARY H<sub>2</sub>O CONTROL valves to AUTO on 382.
 That's affirmative, and did you copy about the readout on the battery and charger?
 Yes. Jim's on his way up.
 Okay. Thank you. All right, the next little step after your water control valves is to perform the CSM RCS preheat. We'll do that on page E/1-5, steps 35 and 37.
@@ -9471,7 +9471,7 @@ Okay.
 Okay. And let me tell you what we're going to do since we told you a different story this afternoon on this tunnel. We're actually going to vent the tunnel down so that we end up with about 1-1/2 to 2 psi absolute in the tunnel. And this will give us a DELTA-P of 3. So we'll do our hatch integrity check at the same time we're venting the tunnel down.
 Okay. It sounds good.
 Okay. Now let me give you some plumbing switches here. Let's take the SURGE TANK OXYGEN valve to ON.
-SURGE TANK O2 to ON.
+SURGE TANK O<sub>2</sub> to ON.
 All right. Take the MAIN REGs, two, OPEN.
 MAIN REGs, two, to OPEN.
 Okay. And the WATER AND GLYCOL TANK PRESSURE, the PRESSURE valve and the RELIEF valve to BOTH.
@@ -9545,10 +9545,10 @@ Okay, panel 7: BMAG NUMBER 2 POWER to WARM UP.
 That's correct. Now, I'd like to verify the SURGE TANK and REPRESS PACKAGES are ON.
 Verify SURGE TANK and REPRESS PACKAGE are ON.
 That's correct. On panel 5: circuit breaker ENVIRONMENTAL - CONTROL SYSTEM; WASTE WATER/URINE DUMP HEATER, two of them, closed.
-Panel 5: CB ECS, WASTE H2O/URINE DUMP HEATERS, two, to close.
+Panel 5: CB ECS, WASTE H<sub>2</sub>O/URINE DUMP HEATERS, two, to close.
 That's correct. SUIT COMPRESSOR number 2 to OFF.
 SUIT COMPRESSOR 2 to OFF.
-That's right, Jack, and what this - what we're planning to do in order to conserve power is we're going to run the suit compressor from an hour to this point at minus 40. And we'll be watching the PCO2; if that thing's working, we'll turn it off at the earliest time that we have a good cabin, and then we'll just leave it off. And in the event that the PCO2 gage isn't working properly or something like that, well, we'll just go ahead and run it for this time frame.
+That's right, Jack, and what this - what we're planning to do in order to conserve power is we're going to run the suit compressor from an hour to this point at minus 40. And we'll be watching the PCO<sub>2</sub>; if that thing's working, we'll turn it off at the earliest time that we have a good cabin, and then we'll just leave it off. And in the event that the PCO<sub>2</sub> gage isn't working properly or something like that, well, we'll just go ahead and run it for this time frame.
 Okay, that sounds good.
 All right. Now we're at EI minus 30. SEQUENTIAL, LOGIC, that's two of them, to ON, up.
 EI minus 30; SEQ, LOGIC, two, ON.
@@ -9740,7 +9740,7 @@ Okay.
 That's a note.
 Jack, that's what we want to end up with ultimately is 1-1/2 to 2 there in that tunnel and depending on the gage reading, but that should be about 3.
 Okay, Deke.
-Okay, then, Jack. Continuing on, everything's okay until you get down to - on the next page, you get through "Verify O2 FLOW INDICATOR no increase." We would like to delete everything below that, until the last step, which is TUNNEL LIGHTS, OFF. So starting with "Before undocking only," delete all lines through "TUNNEL VENT VALVE to TUNNEL VENT."
+Okay, then, Jack. Continuing on, everything's okay until you get down to - on the next page, you get through "Verify O<sub>2</sub> FLOW INDICATOR no increase." We would like to delete everything below that, until the last step, which is TUNNEL LIGHTS, OFF. So starting with "Before undocking only," delete all lines through "TUNNEL VENT VALVE to TUNNEL VENT."
 Okay. Delete the section that says "Before un-docking only" down to where it says "TUNNEL VENT VALVE to TUNNEL VENT."
 Yes, through that.
 Well, through that. Leave "TUNNEL LIGHTS OFF" is the only step remaining.
@@ -10756,8 +10756,8 @@ Roger that, Jim. What's his amperage? Did he read that off?
 I guess. He says it's down in the mud; it's less than 2 amps.
 Down in the mud. Okay, understand that. Request he turn them back on and - Okay, Jim, that's the AUTO coils back on RING 1, MAIN A, and when you get that done, I'd like you to copy the entry pad.
 Okay, Joe. Standing by to copy the entry pad.
-Okay, here we come. Entry pad: Mid-Pacific, 000153; 000. The next two lines will be the GET of moonset and the Moon-check attitude; 05:22:38:17, 178; NOUN 61, minus 21.66, minus 165.37; 06.7; 36211, 6.51; 1168.9, 36292; 05:22:40:40; 00:28. The next four are N/A; DO is 4.00, 02:04; 00:17, 03:22, 08:14; 33, 353.1, 29.9. Boresight star is Sigma Libra, down 08.8, left 0.4; lift vector up. Comments: GDC for entry alinement, stars 31 and 23. The roll aline 041, pitch 245, yaw 024, use EMS nonexit pattern. Maintain Moon-check attitude until moonset; then go to entry attitude or track horizon with the 36-degree window mark. Last comment: constant g entry is roll right. Over.
-Entry pad as follows: Mid-PAC, 000153, 000; 05:22:38:17, 178; minus 21.66, minus 165.37; 06.7; 36211, 6.51; 1168.9, 36292; 05:22:40:40; 00:28. Next four columns are N/A; DO is 4.00, 02:04; 00:17, 03:22 08:14; 33, 353.1, 29.9. Zebra Libra, or something like that, Beta Libra is down 08.8, left 0.4; lift vector up; GDC entry alined, stars 31, 33. Roll 041, pitch, 045, yaw 024. EMS nonexit pattern to be used; maintain Moon-check attitude until moonset. and if all else is lost, the constant g entry is right - Roll is right.
+Okay, here we come. Entry pad: Mid-Pacific, 000153; 000. The next two lines will be the GET of moonset and the Moon-check attitude; 05:22:38:17, 178; NOUN 61, minus 21.66, minus 165.37; 06.7; 36211, 6.51; 1168.9, 36292; 05:22:40:40; 00:28. The next four are N/A; D<sub>O</sub> is 4.00, 02:04; 00:17, 03:22, 08:14; 33, 353.1, 29.9. Boresight star is Sigma Libra, down 08.8, left 0.4; lift vector up. Comments: GDC for entry alinement, stars 31 and 23. The roll aline 041, pitch 245, yaw 024, use EMS nonexit pattern. Maintain Moon-check attitude until moonset; then go to entry attitude or track horizon with the 36-degree window mark. Last comment: constant g entry is roll right. Over.
+Entry pad as follows: Mid-PAC, 000153, 000; 05:22:38:17, 178; minus 21.66, minus 165.37; 06.7; 36211, 6.51; 1168.9, 36292; 05:22:40:40; 00:28. Next four columns are N/A; D<sub>O</sub> is 4.00, 02:04; 00:17, 03:22 08:14; 33, 353.1, 29.9. Zebra Libra, or something like that, Beta Libra is down 08.8, left 0.4; lift vector up; GDC entry alined, stars 31, 33. Roll 041, pitch, 045, yaw 024. EMS nonexit pattern to be used; maintain Moon-check attitude until moonset. and if all else is lost, the constant g entry is right - Roll is right.
 Okay. Roger that, Jim. I want to verify a couple of things I'm not sure I heard you read back. The first one was Zebra Libra (laughter) that's Sigma Libra. The set stars 31 and 23. Did you get that? Over.
 Okay. No, I had 31 and 33, and I got Sigma Libra now, and it'll be 31 and 23 for the set stars.
 Okay. And your GDC pitch aline, I wasn't sure whether that was - whether you read back 245 or 045. The correct number is 245. Over.
@@ -11067,13 +11067,13 @@ Yes, We've transferred that.
 Okay. Good deal. Jack, let me mention something about the hatch integrity check. You're going to vent the tunnel until you get a 3-psi DELTA-P. That should take 9 or 10 minutes, and it's our firm feeling that you don't have to wait another 10 minutes after that for a leak check. If it holds pressure for a minute or so or even gets down there, you know you've got a good hatch. Over.
 Okay. Copy that.
 Okay.
-Okay, Houston. We've got an O2 FLOW HIGH.
+Okay, Houston. We've got an O<sub>2</sub> FLOW HIGH.
 Okay, Jack, are you -
 Well, we might be pressurizing a lot of the system that was not pressurized.
 Roger. I expect that's the case. Let us check it.
 Okay. Take a good look at CABIN.
 Will do.
-Odyssey, Houston, just verify your DIRECT O2 is OFF. Over.
+Odyssey, Houston, just verify your DIRECT O<sub>2</sub> is OFF. Over.
 Yes, sir. That is verified.
 Okay, and - -
 ... It's dropping now, Joe.
@@ -11143,7 +11143,7 @@ Okay, real good. Incidentally, your power is looking real good also, Jim.
 Thank you.
 Odyssey, Houston. I have your final entry pad when you are ready.
 Okay, Houston. Ready to copy.
-Okay. Mid-PAC, 000152, 000; 05:22:38:19, 178; and you recall that's GET moonset and Moon-check attitude. NOUN 61, minus 21.66, minus 165.37; 05.2; 3621.1, 6.20; 1119.7, 36291; 05:22:40:46; 00:30; the next four are N/A; DO is 4.00, 02:20; 00:19, 03:38, 07:59. The rest of the pad is N/A for this one. You are lift vector up at the very bottom. And the remarks all remain the same; if you want me to copy them, let me know; otherwise, you can read back. Over.
+Okay. Mid-PAC, 000152, 000; 05:22:38:19, 178; and you recall that's GET moonset and Moon-check attitude. NOUN 61, minus 21.66, minus 165.37; 05.2; 3621.1, 6.20; 1119.7, 36291; 05:22:40:46; 00:30; the next four are N/A; D<sub>O</sub> is 4.00, 02:20; 00:19, 03:38, 07:59. The rest of the pad is N/A for this one. You are lift vector up at the very bottom. And the remarks all remain the same; if you want me to copy them, let me know; otherwise, you can read back. Over.
 Okay. Entry pad as follows: Mid-PAC, 000152, 000; 05:22:38:19, 178; minus 21.66, minus 165.37; 05.2; 3621.1, 6.20; 1119.7, 36291; 05:22:40:46; 00:30; all the DLS are N/A. DO is 4.00, 02:20; 00:19, 03:38, 07:59. All the rest are N/A, except lift vector which is up; and I have the the ...
 Okay, Jim. That's a tiny hair shallower than we had you before, but it's based on solid tracking, and it still is lift vector up comfortably.
 Roger. We never did bring that angle up, did we?

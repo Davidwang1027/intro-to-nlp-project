@@ -470,7 +470,7 @@ That's what we want to get clear.
 Roger.
 Okay. You don't have to acknowledge this - you're in a 89.2 by 155 orbit and it's a 4.8 day lifetime.
 Roger.
-Turn your Right Secondary O2 OPEN, your Left Secondary O2 CLOSED.
+Turn your Right Secondary O<sub>2</sub> OPEN, your Left Secondary O<sub>2</sub> CLOSED.
 Houston advises you can use any attitude you want for the Extravehicular Activity.
 There was no velcro put on the outdoor 16-mm camera. We sure could have used it.
 Gemini 4, Houston CAP COM.
@@ -686,7 +686,7 @@ Right.
 Disconnect inlet and outlet ECS hoses. Remove your interconnect.
 Okay, let's see. Remove the interconnect. Interconnect the two ECS hoses ... by your elbow.
 Okay.
-Pack Primary O2 OPEN.
+Pack Primary O<sub>2</sub> OPEN.
 Roger.
 Not yet.
 No.
@@ -743,7 +743,7 @@ Roger.
 Quantity Read is OFF.
 Roger.
 Okay. We got a good blood pressure from you.
-Your Right Secondary O2 should be OPEN and your Left Secondary O2 should be CLOSED.
+Your Right Secondary O<sub>2</sub> should be OPEN and your Left Secondary O<sub>2</sub> should be CLOSED.
 That is affirmative. That's the configuration. The left is CLOSED; the right is OPEN.
 We have a GO to start decompression, is that right?
 That's affirmative for decompression and a GO for EVA.
@@ -939,9 +939,9 @@ Gemini 4, Hawaii CAP COM. Read you loud and clear. How me?
 Loud and clear. We're on VOX. I guess you aren't getting us on VOX.
 Roger. We just now received you. What is your status on decompression?
 Got the outside 60-mm camera mounted, and he's getting the gun ready right now.
-Roger. I understand. Can you give us a reading on emergency O2?
+Roger. I understand. Can you give us a reading on emergency O<sub>2</sub>?
 Did you copy, Gemini 4?
-Roger. You mean the emergency O2 in Ed's bottle?
+Roger. You mean the emergency O<sub>2</sub> in Ed's bottle?
 Affirmative.
 This one's full and ...
 It's 34 right now.
@@ -1138,9 +1138,9 @@ Yes, I noticed that.
 You've got 4 minutes and 30 seconds left.
 Okay, I'm going to free drift a little bit, and see if I can drift into some good picture-taking position.
 Okay. Here, let me control the spacecraft ...
-Just for your information Ed, we're only down to 48 percent on our O2.
+Just for your information Ed, we're only down to 48 percent on our O<sub>2</sub>.
 Okay.
-ECS O2 pressure is about 830, so it's staying right up there.
+ECS O<sub>2</sub> pressure is about 830, so it's staying right up there.
 You know one thing about this. Where we have this tether attached, I can't get a good push off.
 Oh yes, is that right? Where it's attached to you or where it's attached to the spacecraft?
 Where it's attached to the spacecraft. There's nothing particularly to get a push off on. Now, let's see if I can get a decent push off. If I didn't have the gun I could do a little better. There just isn't anything to push on.
@@ -1230,7 +1230,7 @@ Gemini 4, Houston CAP COM.
 Okay, okay. Don't wear yourself out now. Just come on in.
 How are you doing there?
 I'm doing great.
-Good. ECS O2 ... is back in order.
+Good. ECS O<sub>2</sub> ... is back in order.
 All right.
 Lots of pressure ... 47 pounds ...
 Roger.
@@ -1583,8 +1583,8 @@ Okay, I'm reading you now. I have an onboard map update for you. The ascending n
 Roger. Say again the longitude of the ascending node.
 Roger. It's 132° East.
 Roger. 132° East and 21 39 00.
-That's affirmative and would you put your ECS O2 switch to OFF.
-Which ECS O2 switch to OFF?.
+That's affirmative and would you put your ECS O<sub>2</sub> switch to OFF.
+Which ECS O<sub>2</sub> switch to OFF?.
 All right, that's the heater switch. Your waste valve Off. Your EVA bottle empty and ZIP GUN empty.
 Say again Houston CAP COM. You're difficult to read.
 We want your waste valve off, and empty the EVA bottle.
@@ -1646,8 +1646,8 @@ Roger.
 Houston CAP COM, this is Gemini 4.
 Houston CAP COM, Gemini 4.
 Go ahead Gemini 4.
-I never did understand what ECS O2 switch you wanted me to turn off.
-Roger. It's the ECS O2 heater switch. Heater switch.
+I never did understand what ECS O<sub>2</sub> switch you wanted me to turn off.
+Roger. It's the ECS O<sub>2</sub> heater switch. Heater switch.
 How come you want that off?
 ... says we won't need it anymore. The pressure will sustain itself.
 Okay, fine. We're still up about 42 percent.
@@ -1755,7 +1755,7 @@ Roger. You should be heads-up. We've got tape dump, also.
 Okay.
 And also get your Quantity Read Switch for about 15 seconds.
 What is your status for 18-1?
-18-1 is fine. We've got both RCS rings, two left secondary O2 bottles.
+18-1 is fine. We've got both RCS rings, two left secondary O<sub>2</sub> bottles.
 Roger. Are you going to Main batteries?
 Roger. Stand by one.
 We have you GO on the ground here. Have you unstowed your bungee cord?
@@ -1819,7 +1819,7 @@ Roger from Hawaii.
 Gemini 4, Hawaii.
 Gemini 4, Hawaii.
 This is Gemini 4. Be advised that I just got a DCS update.
-Roger. I just sent a TX.
+Roger. I just sent a T<sub>X</sub>.
 Gemini 4, Houston CAP COM. Over.
 Gemini 4, I'm reading you weak. I have a new 6-4 without OAMS update for you. It's 01 days, 00 09 30, 8+18. 16+10. Over.
 ...
@@ -1944,10 +1944,10 @@ Give me a short count on REENTRY.
 Roger, I'm on REENTRY now. 1, 2, 3, 4, 5 - 5, 4, 3, 2, 1. Are you reading?
 Roger, reading you loud and clear. Now I would like for you to roll heads-up. Suggest using Pulse. Use minimum fuel. While you are rolling, perform another voice check on REENTRY.
 Roger, stand by. I've got to get my ac power ON.
-Roger. Also would like for you to build up cabin pressure to 5.4 psi using O2 High Rate.
-Roger, you want us to build cabin up to 5.4 using O2 High Rate?
+Roger. Also would like for you to build up cabin pressure to 5.4 psi using O<sub>2</sub> High Rate.
+Roger, you want us to build cabin up to 5.4 using O<sub>2</sub> High Rate?
 Affirm.
-About 5.3. I'm going to O2 High Rate now.
+About 5.3. I'm going to O<sub>2</sub> High Rate now.
 Gemini 4, Hawaii CAP COM.
 Go ahead Hawaii CAP.
 Can you position your Real Time T/M Switch to REAL-TIME and ACQ-AID?
@@ -2079,8 +2079,8 @@ I've got a very clear horizon now. It's rather light and I've got a horizon comp
 I'm looking out now at Grus, and its stars are quite clear, even the small fourth and fifth order magnitude stars in the ... This time of evening and at night, the skies are quite black and the stars are quite visible. I can see at least fifth order.
 Gemini 4, RKV CAP COM.
 Roger RKV, Gemini 4.
-Roger. Request that you monitor primary O2 source pressure, and go to O2 High Rate to hold source pressure between 930 and 960 psi. Do you copy?
-Roger, understand go to O2 High Rate to control the O2 source between 930 and 960 psi.
+Roger. Request that you monitor primary O<sub>2</sub> source pressure, and go to O<sub>2</sub> High Rate to hold source pressure between 930 and 960 psi. Do you copy?
+Roger, understand go to O<sub>2</sub> High Rate to control the O<sub>2</sub> source between 930 and 960 psi.
 Gemini 4, RKV CAP COM.
 Roger. Go ahead RKV, Gemini 4.
 Roger. I have a 9-3 update for you.
@@ -2132,7 +2132,7 @@ Roger. And also Area 13-2 120. 2+33. 01 days, 10 10 25. 04+21. 9+08.
 Roger. 13-2 120. 2+33. 01 10 10 25. 04+21. 9+08.
 Roger, you got it.
 Roger.
-Be advised, my O2 pressure is holding just a little past 960. I'm not going to O2 High Rate at this time because the Command Pilot is sleeping pretty well and I'll let him sleep.
+Be advised, my O<sub>2</sub> pressure is holding just a little past 960. I'm not going to O<sub>2</sub> High Rate at this time because the Command Pilot is sleeping pretty well and I'll let him sleep.
 Roger.
 I'll keep my eye on it and not let it go much higher.
 Say again.
@@ -2193,7 +2193,7 @@ Roger. Ascending node longitude 3° West. G.m.t. 05:53.
 Roger. Understand ascending node longitude 03° West at 05:53 G.m.t.
 That's affirmative. The Cape is also going to try air-to-ground remoting over Ascension.
 Roger. We'll be standing by for ... at the present time.
-Roger, we gave you a TX.
+Roger, we gave you a T<sub>X</sub>.
 Roger.
 Will you relay to Houston than we have apparently a burned-out bulb in aft window of the sextant, and if they might have any further instructions for us. Perhaps we have an extra bulb onboard ... battery ... the bulb.
 RKV, Gemini 4. Did you hear me?
@@ -2214,15 +2214,15 @@ Roger, Gemini 4. This is Houston CAP COM. I'm reading you now very, very weak. T
 Roger. You're coming through five-square ...
 Roger. You're barely readable. We'd like to recommend that you advise us as to your sleep periods, whether or not you feel you're getting enough. And we'll attempt to real time the flight plan around your sleep period. Over.
 ... 25 minutes ... not wake him up at that time if he's still sleeping soundly and let him go ahead and sleep it out.
-Ed, this is Houston CAP COM. I can't read you - can't understand what you're talking about. Apparently you can read me. We're concerned about your O2 source pressure. Did you say it was 973? 973?
-Gemini 4, this is Houston CAP COM. We're concerned about your O2 source pressure getting to the limit. Over.
-Roger. Be advised the O2 is at ...
+Ed, this is Houston CAP COM. I can't read you - can't understand what you're talking about. Apparently you can read me. We're concerned about your O<sub>2</sub> source pressure. Did you say it was 973? 973?
+Gemini 4, this is Houston CAP COM. We're concerned about your O<sub>2</sub> source pressure getting to the limit. Over.
+Roger. Be advised the O<sub>2</sub> is at ...
 Houston CAP COM, Gemini 4.
 Go Gemini 4. Houston CAP COM.
-Roger. Be advised the O2 is at about 970 at the present time.
+Roger. Be advised the O<sub>2</sub> is at about 970 at the present time.
 Gemini 4, Houston CAP COM, Say again your last, please. Say again.
-... O2 ...
-Gemini 4, Houston CAP COM. Understand your O2 source pressure is holding at 970. Is that affirm?
+... O<sub>2</sub> ...
+Gemini 4, Houston CAP COM. Understand your O<sub>2</sub> source pressure is holding at 970. Is that affirm?
 ...
 Gemini 4, Houston CAP COM. You are unreadable, apparently you are reading us okay. I'll just be standing by. Over.
 Jim's starting to come out on the day side on his side again, and again I have quite good stars on my side. I have Aquila right out in front of me right now. Looks like I'm reading - seeing magnitudes now down to the fifth order, and Jim's got daylight on his side.
@@ -2398,8 +2398,8 @@ Roger, will you turn your Quantity Read Switch ON, please?
 Okay, we've got it.
 Have you completed your M-3 exercise experiment?
 That's just a medical pass.
-All right. I'd like to read out this Primary O2 pressure and quantity from you, please.
-Roger, primary - primary O2 pressure is 970 psi. Quantity is about 39 1/2 percent.
+All right. I'd like to read out this Primary O<sub>2</sub> pressure and quantity from you, please.
+Roger, primary - primary O<sub>2</sub> pressure is 970 psi. Quantity is about 39 1/2 percent.
 Roger, I copied. Thank you.
 Gemini 4, I've got some times for you. Ready to copy? These are some changes to your Flight Plan.
 Okay, go ahead.
@@ -2557,7 +2557,7 @@ We are losing you.
 Gemini 4, Canary CAP COM.
 Go ahead, Canary, Gemini 4.
 Roger, just wanted to let you know all your systems look green.
-Roger. They look good from up here also. The O2 is staying down around 940, 947.
+Roger. They look good from up here also. The O<sub>2</sub> is staying down around 940, 947.
 Gemini 4, Canary CAP COM. LOS-1. Do you have anything for us?
 Gemini 4, Canary CAP COM.
 Roger, Canary. Gemini 4.
@@ -2680,7 +2680,7 @@ Roger.
 I can't see down at this time. I'm oriented to look at the stars.
 Say again.
 I say, I can't see down toward Australia, this time - she's oriented up toward the stars - I've got your update.
-Roger. I gave you a TX.
+Roger. I gave you a T<sub>X</sub>.
 Roger.
 You said the Command Pilot is asleep. He doesn't happen to have that oral probe in his mouth, does he, for a temperature?
 No, I'm afraid he's not that cooperative.
@@ -2691,13 +2691,13 @@ Gemini 4, Houston CAP COM.
 Gemini 4, Houston CAP COM, Houston CAP COM.
 Gemini 4, Houston CAP COM.
 Go ahead Houston, Gemini 4.
-Roger, Ed. Will you go to O2 High Rate and bring your cabin pressure back up - if you haven't already done so?
+Roger, Ed. Will you go to O<sub>2</sub> High Rate and bring your cabin pressure back up - if you haven't already done so?
 Gemini 4, Houston. Did you read that?
 Hello Houston CAP COM, Gemini 4.
-Gemini 4, Houston CAP COM. If you read, use your O2 High Rate to bring your cabin pressure back up.
+Gemini 4, Houston CAP COM. If you read, use your O<sub>2</sub> High Rate to bring your cabin pressure back up.
 Gemini 4, Houston CAP COM.
 ... Gemini 4.
-Roger. Use your O2 High Rate to bring your cabin pressure, if you haven't done so.
+Roger. Use your O<sub>2</sub> High Rate to bring your cabin pressure, if you haven't done so.
 Roger. It's going up now. It's been holding in that vicinity, though, for some time.
 Roger. How are you getting this relay?
 I'm not reading you very well, but right now I'm pointed small end ...
@@ -3117,7 +3117,7 @@ Gemini 4, Houston CAP COM.
 Gemini 4, how do you read Houston CAP COM now?
 ... make it work.
 It seems like on the last roll, that the red light didn't come on at the end of the roll. We were running at the end of the roll when I noticed it, so we might have lost the tape dump between the last tape, 8, and the present tape, 6.
-The O2 pressure gage is unsatisfactory in many respects. Not only does it not have enough scale, but, in our case now the ... is set down low enough so that it is setting in the normal operating range. We're causing it to go to O2 High Rate all the time to bring it down.
+The O<sub>2</sub> pressure gage is unsatisfactory in many respects. Not only does it not have enough scale, but, in our case now the ... is set down low enough so that it is setting in the normal operating range. We're causing it to go to O<sub>2</sub> High Rate all the time to bring it down.
 Actually it's not the gage itself. It's the fact that the vent pressure is set lower ...
 That's right ... bottles.
 ... vent ground -
@@ -3411,7 +3411,7 @@ It's off.
 Roger. I'm standing by for battery read-outs.
 Roger, Gemini 4. You ready to copy?
 Go ahead.
-Roger. The adapter batteries are all reading 2 on the amps and 24 volts. The RCS rings are holding up well. The Secondary O2 bottles are holding up well. The main batteries are reading 9 and about 22.5 to 23 volts. The control bus is (illegible), S2 at 26, S2 is 26, and the main is 23.5.
+Roger. The adapter batteries are all reading 2 on the amps and 24 volts. The RCS rings are holding up well. The Secondary O<sub>2</sub> bottles are holding up well. The main batteries are reading 9 and about 22.5 to 23 volts. The control bus is (illegible), S2 at 26, S2 is 26, and the main is 23.5.
 Roger. You might look for a tropical storm over the west coast of Mexico. You should be right on top of it about 22:43 Zulu, which is right about now.
 Understand. We'll be looking. We're over some pretty good weather right now ...
 Just took a frame of some thunderstorm buildups ...
@@ -3643,8 +3643,8 @@ Okay, read you with background noise. Understand that you want to inquire of Hou
 ... see if they want to make up for one they missed a while back.
 Roger. Gemini 4, Houston will advise you over Hawaii.
 Roger, understand.
-Gemini 4, CSQ. Would you verify that the ECS O2 heater switch is OFF?
-Roger, that's affirmative. The ECS O2 heater switch is OFF and has been OFF.
+Gemini 4, CSQ. Would you verify that the ECS O<sub>2</sub> heater switch is OFF?
+Roger, that's affirmative. The ECS O<sub>2</sub> heater switch is OFF and has been OFF.
 Gemini 4, HAW CAP COM.
 Go ahead, Hawaii, Gemini 4.
 Roger. You are looking good on the ground.
@@ -3698,9 +3698,9 @@ Negative. All of your dumps have been very good.
 Roger. Rather than power-up and go to heads-up attitude, we'd just as soon continue in the manner in which we have. I went to the powered-up configuration and heads-up over Hawaii for that dump. I would prefer to remain in a free-drift mode at this time.
 Roger. Flight says that's okay.
 Roger. Thank you.
-Okay. We'd also like to get a Primary O2 read. Would you cycle it ON, please?
+Okay. We'd also like to get a Primary O<sub>2</sub> read. Would you cycle it ON, please?
 Roger. Coming ON.
-When was the last time that you had Primary O2 read?
+When was the last time that you had Primary O<sub>2</sub> read?
 It was probably while I was asleep.
 Roger.
 There's no need to get it too accurately.
@@ -4269,8 +4269,8 @@ Gemini 4, Canary CAP COM.
 Canary, Gemini 4.
 Roger, Gemini 4. Read you loud and clear. You look green from here.
 Roger. Everything's GO in the spacecraft. Looking good. The Command Pilot's asleep right now.
-Gemini 4, Canary CAP COM. What is your primary O2 tank pressure?
-Roger. Primary O2 tank pressure is 950.
+Gemini 4, Canary CAP COM. What is your primary O<sub>2</sub> tank pressure?
+Roger. Primary O<sub>2</sub> tank pressure is 950.
 You say 950?
 That's affirmative. Just a little under.
 Gemini 4, Carnarvon CAP COM.
@@ -4342,20 +4342,20 @@ Gemini 4, Houston CAP COM. You can turn your Quantity Read Switch OFF.
 Roger, it's OFF.
 Roger, you're looking good here. Have a good day.
 Roger.
-Gemini 4, this is Houston CAP COM. We have your O2 tank pressures around 970.
+Gemini 4, this is Houston CAP COM. We have your O<sub>2</sub> tank pressures around 970.
 Okay. We're reading about 960. We'll dump ...
 Okay. Understand.
 When was this going ON?
 Cabin temperature is going ON at 13:22.
 Gemini 4, Canary CAP COM.
 Go ahead, Canary, Gemini 4.
-Roger. Request that you use the Cabin Recheck Valve instead of O2 High Rate. Also, be advised that Houston says do not relieve through the cabin if you can avoid it.
+Roger. Request that you use the Cabin Recheck Valve instead of O<sub>2</sub> High Rate. Also, be advised that Houston says do not relieve through the cabin if you can avoid it.
 We don't need a push.
-We don't have any other place to put the oxygen except in the cabin. We've just finished doing it to the O2 High Rate. We got the ECS O2 pressure down to 910.
+We don't have any other place to put the oxygen except in the cabin. We've just finished doing it to the O<sub>2</sub> High Rate. We got the ECS O<sub>2</sub> pressure down to 910.
 Roger. They were warning you to avoid relieving through the cabin area.
-O2 pressure down to 910.
+O<sub>2</sub> pressure down to 910.
 Roger. I understand 910.
-Can you tell me why they want to use the Repress instead of the O2 High Rate? Where else would we put the oxygen?
+Can you tell me why they want to use the Repress instead of the O<sub>2</sub> High Rate? Where else would we put the oxygen?
 Roger.
 Jim, we're not ...
 Well, he said that in order to get MSC-1 they wanted the ACQ Aid Beacon OFF for 5 minutes. You know, you were going to leave - to do some ECS on and off ... thruster.
@@ -4368,18 +4368,18 @@ Go ahead.
 Roger. The reason for using the Repress was to avoid turning off your fans and to cut down on your noise level in your cabin.
 Okay.
 They meant do not relieve overboard if you can avoid it.
-Oh, don't ... they don't want to vent the ECS O2 tank overboard directly. They want to vent it overboard through the cabin. Is that it?
+Oh, don't ... they don't want to vent the ECS O<sub>2</sub> tank overboard directly. They want to vent it overboard through the cabin. Is that it?
 They don't want to avoid overboard at all if possible.
 Roger, I know it.
-Okay. Your O2 usage for the last 24 hours -- correction -- over the last 2 or 3 hours has been 25 percent higher than normal.
+Okay. Your O<sub>2</sub> usage for the last 24 hours -- correction -- over the last 2 or 3 hours has been 25 percent higher than normal.
 Roger. Our cabin's been holding all right. There really doesn't seem to be much we can do about that. That tank pressure goes up and that is just about all there is to it. We're actually venting oxygen overboard that we don't need to.
 Roger.
-How is our O2 consumption? I've been plotting it and it looks like we're in reasonably good shape.
+How is our O<sub>2</sub> consumption? I've been plotting it and it looks like we're in reasonably good shape.
 It doesn't really call out for my time hack ...
 Okay.
 ... get a drink of something.
 I'm thirsty.
-Your rate even at your present rate - you have 5 or 10 hours more than you need plus secondary O2.
+Your rate even at your present rate - you have 5 or 10 hours more than you need plus secondary O<sub>2</sub>.
 Okay, fine. Thank you.
 And I'll try to take your advice and not vent any overboard, but I just don't know how I'm going to do that.
 Roger, we understand.
@@ -4574,7 +4574,7 @@ My window's not in the light anymore, and I still don't see the stars. If there'
 Go ahead, Houston. Gemini 4.
 Roger, are you busy with [Experiment] D-9?
 No, I think it just drew to a close. We just can't see the stars in the daylight, and we can't carry on the daylight portion of it. We'll wait till we get back to the nighttime and do a little bit more with that.
-Roger, Jim. I want to talk to you about this O2 high usage rate thing.
+Roger, Jim. I want to talk to you about this O<sub>2</sub> high usage rate thing.
 Okay.
 We don't think it's any problem. We would like for you to put your Quantity Read Switch ON and leave it on for the next several hours so we can get a feel for what's going on. Even at the rate that's been used in the last several hours, it won't be any problem, but we'd like to find some way to control this thing without it being a nuisance to use so you won't be bothered with it. That's the reason we want to take a look at it for some time. Don't like the idea of you having to reduce pressures or build up pressure every few minutes. Do you read me?
 Houston, Gemini 4. I got the part where we leave the Read Switch ON for a while, and then all the rest cut off. Say again.
@@ -4583,7 +4583,7 @@ Okay. Jim, how do you read me now?
 Wait till we get Bermuda acquisition. I'll try you there.
 Gemini 4, Houston. How do you read now?
 Go ahead, Houston. Gemini 4.
-What I was saying - we want to get a hack on what's going on with that pressure buildup in the Primary O2 system. We want to try to find some way to control it without you having to relieve cabin pressure every few minutes or every few hours, so this is the reason we want your Quantity Read Switch ON for the next several hours.
+What I was saying - we want to get a hack on what's going on with that pressure buildup in the Primary O<sub>2</sub> system. We want to try to find some way to control it without you having to relieve cabin pressure every few minutes or every few hours, so this is the reason we want your Quantity Read Switch ON for the next several hours.
 Okay. What did you say about my usage rate?
 It's a little bit higher than it has been, but it is nothing to worry about. You have plenty so don't be concerned about it.
 Okay. I've been plotting it, and it looks like we're going to end up with 7 or 8 percent remaining.
@@ -4617,7 +4617,7 @@ We're traveling across Africa right now. I'm in the Pulse Mode. We had a rather 
 Gemini 4, Canary CAP COM.
 This is Gemini 4, here, Canary. Go ahead.
 Roger. You still look real good.
-Okay. Listen. Be advised that I've just been maintaining my own little personal plot of ECS O2, and I don't see any increase in quantity used in the rate over the last few hours. It looks like my ragged plot is still going to come out about what it looked like it would right after we got ...
+Okay. Listen. Be advised that I've just been maintaining my own little personal plot of ECS O<sub>2</sub>, and I don't see any increase in quantity used in the rate over the last few hours. It looks like my ragged plot is still going to come out about what it looked like it would right after we got ...
 Houston concurs.
 Okay.
 Aw, shoot.
@@ -5024,7 +5024,7 @@ Say again.
 Yes. Did you get any of that - did you get it recorded on your onboard tape?
 Roger. We got a good bit of it.
 Okay. Good.
-Hey, we'd like you to bring your Primary O2 pressure down to 800. It's up to - we're reading it at 960.
+Hey, we'd like you to bring your Primary O<sub>2<sub> pressure down to 800. It's up to - we're reading it at 960.
 Okay. I've got 950. We'll bring it on down.
 Okay.
 Gus, on this - what's on the Voice Tape Recorder - they say we were turning it on and off. So we don't have it all.
@@ -5041,7 +5041,7 @@ Okay, on that last pass we took about 38 pictures on the Synoptic Terrain Photog
 Gemini 4, Houston CAP COM.
 Gemini 4, Houston CAP COM.
 Just saw a satellite, very high, ... spotted away like a star on the ground when you see one go by. A long, long ways away. When I saw this satellite go by, we were pointed just about directly overhead. It looked like it was going from left to the right. ... back towards the west, so it must have been going from south to north.
-The fix on the vent valve and the ECS O2 was very cleverly fixed to take care of John's complaint that it vented out of scale. Now, of course, it vents down into the scale and causes quite a bit of problem, as everyone knows, with the oxygen. The problem still lies in getting the ... in here ...
+The fix on the vent valve and the ECS O<sub>2<sub> was very cleverly fixed to take care of John's complaint that it vented out of scale. Now, of course, it vents down into the scale and causes quite a bit of problem, as everyone knows, with the oxygen. The problem still lies in getting the ... in here ...
 Gemini 4, Carnarvon CAP COM.
 Gemini 4, Carnarvon CAP COM.
 Go ahead, Carnarvon, Gemini 4.
@@ -7046,7 +7046,7 @@ Roger.
 Roger.
 Roger. Area 57-2 86. 1+49. 07 42 52. 7+12. 11+52. 58-2 94. 1+59. 09 16 42. 5+49. 10+41. Area 58-BRAVO split burn, 55 forward, 51 aft. 1+31. 1+54. 10 00 10. 9+03. Area 55-2 104. 2+12. 10 50 54. 4+26. 9+45. Do you copy?
 Roger.
-Roger. We're reading 960 on your primary O2 pressure, you might watch that.
+Roger. We're reading 960 on your primary O<sub>2</sub> pressure, you might watch that.
 Roger, I'll try to hold that. Could you give me 55-DELTA again? You were a little garbled.
 Roger, first reading. 55-DELTA 82. 1+44. 04 34 10. 9+57.
 Roger, then the next one was 55-3?
@@ -7299,7 +7299,7 @@ Carnarvon's acquisition 11 53 13.
 Command Pilot, Canary CAP COM. Flight wants to know if you are planning to sleep now.
 Roger, I am. In about another 10 or 15 minutes.
 Roger.
-Gemini 4, Canary CAP COM. Have you been lowering your Primary O2 bottle pressure?
+Gemini 4, Canary CAP COM. Have you been lowering your Primary O<sub>2</sub> bottle pressure?
 We have just a little bit. Not by dumping it, but just by letting it bleed into our cabin bringing it up to about 5.3.
 Roger. We have a slight rise in cabin pressure. Thank you.
 Say that again.
@@ -7732,8 +7732,8 @@ Rog. Survival lanyard. Yours connected. Mine connected. All right, then. My harn
 That's your harness and your belt, aren't they?
 Yes.
 Got your shoulder harness now?
-Yes. Secondary O2, OPEN.
-My Secondary O2 is OPEN.
+Yes. Secondary O<sub>2</sub>, OPEN.
+My Secondary O<sub>2</sub> is OPEN.
 You're sure ...
 ...
 Okay, I'm putting the new tape in.
@@ -7743,7 +7743,7 @@ Okay. Elbow support on your side. Unstowed.
 Yes.
 Sequence Lights Test -- AMBER -- GREEN -- then RED.
 ... okay.
-Verify all your Circuit Breakers are CLOSED. You're still fooling with that TR-5.
+Verify all your Circuit Breakers are CLOSED. You're still fooling with that T<sub>R</sub>-5.
 No, I'm just putting it ON.
 Verify attitude would indicate with FDI. Attitude Indicator, with FDI.
 With FDI.
@@ -7810,7 +7810,7 @@ No, it was really bad before I tightened that up.
 You might go through a few ... gyrations.
 Okay. We're going to go to CAGE now.
 Yes.
-Okay. What do we do at TR-30 seconds?
+Okay. What do we do at T<sub>R</sub>-30 seconds?
 We checklist then.
 You've got to start your timers going on a hack from Carnarvon. Then go through and aline the platform again. Get your Controller and stuff out.
 ... pick up early. I don't want to get seasick.
@@ -7976,10 +7976,10 @@ Wonder why we don't have the cabin fan ON.
 Wonder if that's not on here.
 Did you go off the checklist?
 Yes.
-The batteries will come on the TR-5 checklist.
-All right. I guess we don't have to worry about venting the ECS O2 anymore, do we? Ha! Ha!
+The batteries will come on the T<sub>R</sub>-5 checklist.
+All right. I guess we don't have to worry about venting the ECS O<sub>2</sub> anymore, do we? Ha! Ha!
 No.
-You have your Secondary O2 on too, don't you?
+You have your Secondary O<sub>2</sub> on too, don't you?
 Yes, mine's been on the whole flight.
 Very good.
 Hm! Hm! ... circuit breakers on ...
@@ -8012,7 +8012,7 @@ No, I just cleared them. They're clear.
 We ... to clear them like that.
 Ha! Ha!
 Okay. Let's just go through our procedures a little bit.
-TR-5. What are you going to do?
+T<sub>R</sub>-5. What are you going to do?
 I've got a checklist to complete.
 Okay. What is it?
 I'm going to start the G.m.t. stopwatch per your time hack. I've already done about half of it. I'm going to put the Main Batteries ON. Verify RCS Propellant A and B -- ON.
@@ -8021,7 +8021,7 @@ Okay.
 Antenna Select to REENTRY, and it's already on REENTRY. Propellant gage RCS-B, and I've already set it to B. Quantity, OFF. Quantity is OFF. Indicate Retro Attitude, and I'll ... I guess you've got to have something on over there for me to do that, though.
 I've (illegible) have something (illegible) Retro Power. Remember we've always had that thing out of order.
 Yes. Okay.
-Let's put that Retro Power thing at TR-5 for you to do.
+Let's put that Retro Power thing at T<sub>R</sub>-5 for you to do.
 Okay.
 Okay. I'll hit Indicate Retro Attitude, Sections 1 and 2 Power Control-OFF. Then you have some things: Platform-ORBIT RATE, FDR-PLATFORM, FDM-RATE, FDI Scale-High. Verify Rate Gyros-PRIMARY. I've already done this. Attitude-RATE COMMAND.
 You're in PULSE now.
@@ -8145,7 +8145,7 @@ Oh boy!
 You couldn't see anything.
 15 minutes from now.
 Okay. We've got 3 minutes till our burn.
-Start giving a TR-13 checklist at 14.
+Start giving a T<sub>R</sub>-13 checklist at 14.
 Okay.
 Start Comp. You don't need to do that.
 You've got another minute.
@@ -8238,7 +8238,7 @@ Roger.
 Gemini 4, Hawaii, stand by for an 8 minute mark to retrofire.
 1 - MARK!
 Roger, got your mark.
-... TR-5 and -6. Okay.
+... T<sub>R</sub>-5 and -6. Okay.
 Okay.
 Some of it anyway.
 Yes, well, I can't do much of it, Jim.
@@ -8314,7 +8314,7 @@ Roger.
 If you feel there's something wrong with that RCS, holler, and I'll put you in the DIRECT.
 Okay, very good.
 Gemini 4, Guaymas CAP COM.
-Roger, Guaymas. Gemini 4. TR-5 Checklist is complete.
+Roger, Guaymas. Gemini 4. T<sub>R</sub>-5 Checklist is complete.
 Roger. I'll give you a mark at 1 minute 30 seconds.
 Roger.
 All you have to do, Jim, is to fire and fly her through.
@@ -8377,9 +8377,9 @@ Okay. Attitude Control, REENTRY RATE COMMAND, Scanner is OFF. Roll Rate gyros ar
 We're not in neutral, check yours.
 Mine are in neutral.
 Mine were in LOCK where they should have been.
-Okay, Cabin Fan ON. ECS O2 heater is OFF. Platform, FREE ... thruster is OFF. Check and lock restraint harness. Hatch pawls should be neutral.
+Okay, Cabin Fan ON. ECS O<sub>2</sub> heater is OFF. Platform, FREE ... thruster is OFF. Check and lock restraint harness. Hatch pawls should be neutral.
 Okay, let's see.
-Gemini 4, Guaymas. I can give you a mark at TR+3 minutes.
+Gemini 4, Guaymas. I can give you a mark at T<sub>R</sub>+3 minutes.
 Okay.
 If you don't have it, I can give it to you anytime. We make these at anytime.
 We make these mistakes all the time, huh?
@@ -8389,7 +8389,7 @@ Give it plenty of ...
 Yes, I can. You have 30 seconds to go.
 We'll have to put the roll in shortly.
 The first blood pressure came disconnected. I'm pumping it up again.
-Stand by for a mark at TR+3 minutes.
+Stand by for a mark at T<sub>R</sub>+3 minutes.
 MARK! 3 minutes.
 Got that, Jim.
 Right.
@@ -8655,9 +8655,9 @@ Okay.
 Ye-hoo!
 Okay, let me give you this one, Jim.
 Don't you have one over there, really?
-Yeah, it's packed with garbage on top of it. It really stinks in here, doesn't it? Let's go to O2 High Rate, you want to? Get some fresh air?
+Yeah, it's packed with garbage on top of it. It really stinks in here, doesn't it? Let's go to O<sub>2</sub> High Rate, you want to? Get some fresh air?
 Yes.
-What's the matter? O2 High Rate doesn't come on. I guess we must have all the lights off ...
+What's the matter? O<sub>2</sub> High Rate doesn't come on. I guess we must have all the lights off ...
 Negative, Omnibus.
 Roger, read you 5 square, Omnibus.
 Hello, Omnibus ... Gemini 4.

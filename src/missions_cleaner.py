@@ -9,7 +9,7 @@ SPEAKER_RE = re.compile(
 )
 GLOSSARY_RE = re.compile(r"\[glossary:([^\]|]+)(?:\|[^\]]*)?\]")
 BRACKET_TERM_RE = re.compile(r"\[[A-Za-z0-9_-]+:([^\]|]+)(?:\|[^\]]*)?\]")
-TAG_RE = re.compile(r"</?[^>]+>")
+TAG_RE = re.compile(r"<(?!/?(?:sub|sup)\b)/?[^>]+>", flags=re.IGNORECASE)
 SPACE_RE = re.compile(r"\s+")
 
 

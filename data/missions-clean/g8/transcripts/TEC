@@ -22,7 +22,7 @@ Cabin's 5.5 psid looks good. Fuel cells are good.
 Okay.
 DCS update received.
 Roger. DCS.
-Secondary O2 is good.
+Secondary O<sub>2</sub> is good.
 Okay.
 DCS looks good.
 Pulse is good.
@@ -130,7 +130,7 @@ Good. Darn good.
 Computer PRELAUNCH.
 ... just from the IVI's ... after the burn at 18 with a plane indicating right. Now, heads up.
 Okay. Retro ... squibs to CLOSE.
-Secondary O2 to CLOSE.
+Secondary O<sub>2</sub> to CLOSE.
 OAMS Heaters's circuit breaker coming closed.
 And it stays closed.
 Roger.
@@ -197,8 +197,8 @@ Just fine!
 Okay. We're showing you real good here on the ground. We're giving you a GO on your radiator. Put your Evaporator to NORMAL.
 Evaporator is NORMAL.
 Okay.
-How about your Quantity Read switch to ECS O2 position and leave it there until I tell you to move it.
-Roger. ECS O2.
+How about your Quantity Read switch to ECS O<sub>2</sub> position and leave it there until I tell you to move it.
+Roger. ECS O<sub>2</sub>.
 Okay. I'm showing you in PRELAUNCH. Are you doing some computations or can you go into CATCH-UP?
 Ready for Accelerometer Bias Check any time you are.
 Okay. Let's go to CATCH-UP.
@@ -721,12 +721,12 @@ Gemini VIII, Houston.
 Go ahead.
 Roger. Would you place your T/M switch to REAL-TIME and ACQ and your Tape Playback switch to COMMAND?
 Roger. REAL-TIME and ACQ, and Tape Playback to COMMAND.
-And would you place your Cryogenic Quantity switch to ECS O2?
-Roger. ECS O2.
-Be advised we did get a Delta-P on the H2 purge on Section 2.
+And would you place your Cryogenic Quantity switch to ECS O<sub>2</sub>?
+Roger. ECS O<sub>2</sub>.
+Be advised we did get a Delta-P on the H<sub>2</sub> purge on Section 2.
 Roger. The Delta-P.
-And now will you place your Cryogenic switch to FUEL CELL O2?
-Gemini VIII, this is Houston. Put your Cryogenic Quantity switch to FUEL CELL H2.
+And now will you place your Cryogenic switch to FUEL CELL O<sub>2</sub>?
+Gemini VIII, this is Houston. Put your Cryogenic Quantity switch to FUEL CELL H<sub>2</sub>.
 Roger.
 Houston, Gemini VIII. Fuel cell purge complete. The Crossover is on.
 Roger. Understand the fuel cell purge is complete and Cryogenic Quantity switch then to OFF, please.
@@ -1278,7 +1278,7 @@ I think I'll get the section here in a minute and we'll be able to see something
 Your OAMS source pressure is 190.
 1900?
 You always get me on those.
-ECS O2 is rather high. 810.
+ECS O<sub>2</sub> is rather high. 810.
 When that sun comes in, boy it is warm!
 Man, this is easy!
 Is it really?
@@ -1288,7 +1288,7 @@ I don't either, except maybe it's not running.
 Want me to turn to OFF now?
 Tape recorder is on but just doesn't budge now.
 Sure does.
-Oh, oh! Fuel Cell H2 Heater circuit breaker popped.
+Oh, oh! Fuel Cell H<sub>2</sub> Heater circuit breaker popped.
 I'm trying to reset it. It's reset.
 Okay. Now a - this is - this is getting into Stationkeeping attitude for EDA. Boy ...
 Okay. I can see the Status Display. - Main Green, Secondary HI, ON; Secondary LO, ON; Power and Attitude, ON.
@@ -1475,9 +1475,9 @@ Roger. That's correct. And would you verify that the L-Band radar is off, please
 Roger. We should have OFF command. Do you want us to do it again?
 No. This is the Spacecraft L-Band radar.
 Roger. The L-Band in the transponder is off.
-Roger. Thank you. And would you put the ECS O2 heater off?
+Roger. Thank you. And would you put the ECS O<sub>2</sub> heater off?
 Okay. Going off.
-Roger. And T/M down here is saying that the Fuel Cell O2 and H2 Heater circuit breaker had opened up during the Pacific pass and we would like to know if Dave found that circuit breaker open, and did he reset it after Hawaii?
+Roger. And T/M down here is saying that the Fuel Cell O<sub>2</sub> and H<sub>2</sub> Heater circuit breaker had opened up during the Pacific pass and we would like to know if Dave found that circuit breaker open, and did he reset it after Hawaii?
 That's affirmative. He did find it open and he did reset it after Hawaii.
 Roger. Big Brother is watching.
 Say again.
@@ -1580,7 +1580,7 @@ ACS was really going.
 - - we had - vision; we could see the ACS thrusters firing on the Agena when we had ACS off, so we felt that something was definitely wrong.
 Roger.
 After checking the Spacecraft systems we found Thruster Number 8 apparently failed OPEN at the present time and this could have been true at the time of the incident, although we can't - cannot verify that at this time.
-Roger. Stand by. We'll update that new TR time.
+Roger. Stand by. We'll update that new T<sub>R</sub> time.
 Got it.
 Okay. And I'd also like to send your Load.
 Reentry Load.
@@ -1588,15 +1588,15 @@ DCS light on.
 The ATM okay?
 ATM has loaded Module 4A and verified 4A.
 Roger ...
-Roger. We're having LOS. We haven't updated your Load and TR.
+Roger. We're having LOS. We haven't updated your Load and T<sub>R</sub>.
 Okay.
 Okay. Did he have that - -
-What's the TR?
-TR time is for Area 7-3, which is approximately an hour and 15 minutes from now.
+What's the T<sub>R</sub>?
+T<sub>R</sub> time is for Area 7-3, which is approximately an hour and 15 minutes from now.
 What's our next AOS?
 Next AOS should be CSQ.
 Give us a time for that, please.
-8 52, TR is at 9 - -
+8 52, T<sub>R</sub> is at 9 - -
 Roger. Should be 8 hours, 52 minutes - 8 hours, 52 minutes.
 Okay. Thank you.
 We're in the process of restowing for Reentry.
@@ -1611,17 +1611,17 @@ Yes. Well, let's go ahead and do it.
 Purging fuel cells at 8 minutes and 8 seconds - correction, that's 8 hours, 18 minutes.
 Gemini VIII, CSQ. Com check. How do you read?
 Read you loud and clear. How us?
-We read you loud and clear. We have a new TR and Load for you.
-Okay. The TR we have is counting up.
+We read you loud and clear. We have a new T<sub>R</sub> and Load for you.
+Okay. The T<sub>R</sub> we have is counting up.
 Say again.
-The TR we have is counting up.
-The TR you've got is counting up. The one we've got is counting down, so don't sweat it. Verify that Module 4A is loaded.
+The T<sub>R</sub> we have is counting up.
+The T<sub>R</sub> you've got is counting up. The one we've got is counting down, so don't sweat it. Verify that Module 4A is loaded.
 We loaded it and verified it. ...
 Okay. Is your Preretro Check List complete?
 We just finished it up; continuing stowage procedure.
-Okay. What about your left Secondary O2? Verify that it is open.
+Okay. What about your left Secondary O<sub>2</sub>? Verify that it is open.
 ...
-Okay. I'm about to transmit a TR to you.
+Okay. I'm about to transmit a T<sub>R</sub> to you.
 Okay. Go ahead. Got it.
 Roger. Verified on the ground. Transmitting a Load.
 ...
@@ -1629,7 +1629,7 @@ Okay. I have some MDIU quantities for you. First of all let's see the ... messag
 ...
 Stand by a second.
 Okay.
-The TR is ...
+The T<sub>R</sub> is ...
 Roger.
 Okay. Area 7-3 GET RC, 10 04 47; RET, 400K, 22 plus 02; RET RB, 28 plus 15; bank left 50, bank right 60. Did you copy?
 Roger. Understand. Area 7-3 GET RC, 10 04 47; RET 400K, 22 plus 02; RET RB, 28 plus 15; bank left 50, right 60.
@@ -1643,7 +1643,7 @@ Okay. One correction there. That Core 66,65460.
 Roger. 65460.
 That's affirmative.
 How about 669?
-Will you verify that your TR-256 circuit breaker is closed?
+Will you verify that your T<sub>R</sub>-256 circuit breaker is closed?
 It's open at the present time.
 Okay. Would you close it?
 Okay. Coming closed.
@@ -1685,12 +1685,12 @@ Correction. That's 110 up.
 No! Down!
 That is probably 110 down.
 Okay. That's correct, Gemini. It was corrected by Flight, that it is down.
-Okay. RN, RP, plus 77, pitch angle at 400 foot nominal; correction, 400K foot nominal; RET 400K feet, 22 plus 02; beginning of blackout, 24 plus 43; end of blackout, 30 plus 01; Drogue Chute, 31 plus 37; Main Chute, 32 plus 58. And I have your recovery area weather and so forth for you, if you're ready to copy.
-Let me read these back to you. RN minus RP, plus 77; pitch for 400K, nominal; RET 400K, 22 plus 02; ETO, 24 plus 43; end blackout, 30 plus 01; Drogue, 31 plus 37; Main, 32 plus 58.
+Okay. R<sub>N</sub>, R<sub>P</sub>, plus 77, pitch angle at 400 foot nominal; correction, 400K foot nominal; RET 400K feet, 22 plus 02; beginning of blackout, 24 plus 43; end of blackout, 30 plus 01; Drogue Chute, 31 plus 37; Main Chute, 32 plus 58. And I have your recovery area weather and so forth for you, if you're ready to copy.
+Let me read these back to you. R<sub>N</sub> minus R<sub>P</sub>, plus 77; pitch for 400K, nominal; RET 400K, 22 plus 02; ETO, 24 plus 43; end blackout, 30 plus 01; Drogue, 31 plus 37; Main, 32 plus 58.
 That's correct.
 Okay. I'm ready for the rest of it.
 Stand by one.
-Gemini VIII. RN minus RP plus 77 is at a bank angle of 50.
+Gemini VIII. R<sub>N</sub> minus R<sub>P</sub> plus 77 is at a bank angle of 50.
 Roger. Read you. Bank angle is 50.
 I understand you're ready to copy your landing.
 Go ahead.
@@ -1750,7 +1750,7 @@ Connect shoulder harness and lap belt.
 Okay. Stick in a new voice tape, it says here.
 Do you have one?
 I'll get you one.
-Left Secondary O2 Bottle - OPEN.
+Left Secondary O<sub>2</sub> Bottle - OPEN.
 Okay. It's open.
 That goes over here.
 Yes.
@@ -1758,7 +1758,7 @@ Yes.
 It's open.
 Okay. Left circuit breaker's - closed.
 Yes, it's closed.
-TR-256 Circuit Breaker - closed.
+T<sub>R</sub>-256 Circuit Breaker - closed.
 It's closed.
 ATT IND - with FDI's.
 Roger.
@@ -1791,7 +1791,7 @@ REENTRY.
 Check my batteries.
 Might as well pull the HF antenna in, Gemini.
 Exterior lights, OFF.
-Okay. We're ready for TR minus 15.
+Okay. We're ready for T<sub>R</sub> minus 15.
 Okay. I'd like to have some of those numbers.
 Yes. The GET RC is 10 04 47.
 Okay.
@@ -1847,7 +1847,7 @@ Got yours hooked up?
 Yes.
 Install voice tape?
 Yes.
-Then down to TR-1.
+Then down to T<sub>R</sub>-1.
 Gemini VIII, RKV CAP COM.
 Go ahead.
 Roger. Gemini VIII, we have a medical update for you. Number 1 is drink water before and after Retrofire. Item 2, take one tablet Merazine. Code Alpha prior to Retrofire. If you leave Spacecraft, leave the medical kit alone. Do you copy?
@@ -1879,7 +1879,7 @@ You have about one minute to go.
 10 seconds, 3, 2, 1,
 MARK.
 Got it.
-Roger. And be advised that your TR on the Spacecraft is in sync.
+Roger. And be advised that your T<sub>R</sub> on the Spacecraft is in sync.
 Understand.
 Roger. Will you give me another hack at 14 minutes?
 Roger. We're getting close to LOS. We'll give it a try.
@@ -1903,7 +1903,7 @@ Roger.
 Houston standing by.
 Gemini VIII, Houston. There will be no contact with us after Retrofire. We might pick you up through the CSQ after blackout. We'll be standing by for HF after splash.
 Roger. Understand.
-Gemini VIII, Houston CAP COM. We've got one more minute to LOS. We'll be standing by to hear your TR minus 1 check.
+Gemini VIII, Houston CAP COM. We've got one more minute to LOS. We'll be standing by to hear your T<sub>R</sub> minus 1 check.
 Ascension LOS.
 Okay. We've not had this yet.
 We don't. Just let it stay there.
@@ -1917,10 +1917,10 @@ Okay.
 Okay. Now.
 2 23 04.
 Good.
-Gemini VIII, Houston CAP COM. Verify your TR minus 4 16 complete and we are standing by for your SEP ADAPT.
+Gemini VIII, Houston CAP COM. Verify your T<sub>R</sub> minus 4 16 complete and we are standing by for your SEP ADAPT.
 Roger. It's complete.
 Roger.
-We didn't get a TR minus 2 56 signal, but our TR is in sync.
+We didn't get a T<sub>R</sub> minus 2 56 signal, but our T<sub>R</sub> is in sync.
 Roger.
 Okay. Coming around to 1 minute.
 Okay.
@@ -2000,13 +2000,13 @@ You got them stowed?
 No, I haven't got this one little ... stowed.
 I guess I ought to go ahead.
 It's hard to see.
-PRI O2 Heater circuit breaker, OPEN.
+PRI O<sub>2</sub> Heater circuit breaker, OPEN.
 There's sunlight.
 Look at the stuff out the right window!
 Pretty! Whoa, boy! OAMS CONTROL PROP circuit breaker, OPEN.
 CALIB circuit breaker, OPEN. TAPE RECORDER CONTROL, OPEN.
-ECS O2 HEATER, OFF.
-Fuel Cell O2 and H2 Heater is off.
+ECS O<sub>2</sub> HEATER, OFF.
+Fuel Cell O<sub>2</sub> and H<sub>2</sub> Heater is off.
 Section 1 and 2 Power is off.
 1A, 1B, 1C, 2A, 2B, 2C - OFF.
 FDM, RATE.
@@ -2031,7 +2031,7 @@ Correct.
 Right.
 All this stuff floating.
 Yes.
-Okay. 400K is TR plus 22.
+Okay. 400K is T<sub>R</sub> plus 22.
 B-Ring ran out about 1300 pounds.
 Say again?
 B-Ring ran out about 1300 pounds.
@@ -2129,7 +2129,7 @@ Yes.
 We have a good Drogue.
 Yes. Okay. Let's go to RATE COMMAND.
 Okay. 30K.
-Okay. You can turn to O2 HI RATE.
+Okay. You can turn to O<sub>2</sub> HI RATE.
 Roger.
 You can ... down any time now.
 ... reads.

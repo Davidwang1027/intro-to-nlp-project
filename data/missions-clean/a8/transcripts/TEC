@@ -205,7 +205,7 @@ Apollo 8, Houston. Did you copy?
 Roger, Houston. This is a TLI plus 90 as follows: minus- the weight will be plus 63531 minus 164 plus 129 0041 74265 minus 04402 minus 0001 plus 48387 178 169 359 plus 00185 48587 603 48383. We will have to get the sextant information later; 123 minus 030.
 Apollo 8, Houston. Over.
 Houston, did you copy?
-Apollo 8, Houston. We are picking you up now over Bermuda. I did not copy your readback after DELTA-VC. That was the last quantity - I received.
+Apollo 8, Houston. We are picking you up now over Bermuda. I did not copy your readback after DELTA-V<sub>C</sub>. That was the last quantity - I received.
 Roger, Houston. Could you give us the sextant information again, the sextant star information?
 That's affirmative. The sextant star 06, shaft 2027, trunnion 250. Over.
 Roger. Starting out with the sextant star, 06 2007 250, earth's center down 123, right 22 plus 1123 minus 03000 12313 34494 017 47 39; north set, roll 068, pitch 097, yaw 356, no ullage.
@@ -227,7 +227,7 @@ Roger. Sextant star, 12 1037 211, earth center down 063, right 23 plus 1068 minu
 Roger, Houston. TLI plus 4. Weight remains the same, minus 164 plus 129 00:06:47:27 minus 01594 plus all balls plus 52885 178 155 000 NA plus 00192 52909 627 52694 12 1037 211, earth center down 063, right 213 plus 1068 minus 16500 12505 35061 00:26:42:57, north set roll 068, pitch 097, yaw 356, no ullage, high speed procedure not required.
 Very good. That's all correct, and I have a TLI PAD for you whenever you're ready to copy it.
 Ready to copy.
-Okay. Your computer PAD is in and verified. You can go to BLOCK, and we're going to have LOS here in about 45 seconds. I'll start on the TLI PAD anyway. Time base 6P 24136, roll 179, pitch 045, yaw 001, burn time 5 plus 15, DELTA-VC prime 105 196 VI 35569, roll 357, pitch 091; yaw 001. Comments: TLI plus 10 minutes; abort attitude is 199 degrees, and I don't believe you've got time to read that back. We'll see you over Canaries at 00:01:50:00 GET. Adios.
+Okay. Your computer PAD is in and verified. You can go to BLOCK, and we're going to have LOS here in about 45 seconds. I'll start on the TLI PAD anyway. Time base 6P 24136, roll 179, pitch 045, yaw 001, burn time 5 plus 15, DELTA-V<sub>C</sub> prime 105 196 V<sub>I</sub> 35569, roll 357, pitch 091; yaw 001. Comments: TLI plus 10 minutes; abort attitude is 199 degrees, and I don't believe you've got time to read that back. We'll see you over Canaries at 00:01:50:00 GET. Adios.
 Apollo 8, Houston. Over.
 Roger. Houston, Apollo 8. Reading you loud and clear. TLI plan 24136 179 045 001 515 105196 35569 357 091 001; TLI plus 10, abort attitude 199 on the pitch.
 Roger, Apollo 8. That is correct. We'd like to double check one number on the TLI plus 90 minutes. When you can dig that out, let us know.
@@ -282,7 +282,7 @@ Roger. Apollo 8, Houston. We're transmitting through ARIA 1, and you are also ga
 Apollo 8, Houston. Over.
 Go ahead, Houston. Apollo 8.
 Good; you're loud and clear through the Mercury, and you're looking good dawn here. Everything looks good.
-Roger. Understand. Our O2 flow is a little bit higher than I thought, but Bill says that it's just about what he expected.
+Roger. Understand. Our O<sub>2</sub> flow is a little bit higher than I thought, but Bill says that it's just about what he expected.
 Roger. Understand.
 Your He flow looks good down here.
 Thank you.
@@ -309,15 +309,15 @@ Apollo 8, Houston. Looks like a good cut-off. Everything is looking real good do
 Apollo 8, Houston.
 Go ahead, Houston. Apollo 8.
 Your cut-off looked very good down here. We have a whole room full of people that say you look good.
-Roger. Thank you. The only situation we have here in the O2 flow is high, O2 flow is a bit high.
-Roger. Understand; O2 flow high.
+Roger. Thank you. The only situation we have here in the O<sub>2</sub> flow is high, O<sub>2</sub> flow is a bit high.
+Roger. Understand; O<sub>2</sub> flow high.
 We'll get to first status report here shortly.
 Roger.
-Apollo 8, Houston. Your booster configured normally, and we're not concerned with the O2 high flow. We think it's normal.
+Apollo 8, Houston. Your booster configured normally, and we're not concerned with the O<sub>2</sub> high flow. We think it's normal.
 Okay.
 Houston, Apollo 8.
 Go ahead, Apollo 8.
-Roger. The DELTA-TIG looked like it was right on. Burn time appeared to us to be about 2 seconds longer, 517. VGX was reading 95485 when we got it. The attitude was nominal. VI was reading 35452 at cut-off, H-dot 04552, and H is 01791. ΔVC on the EMS was minus 20.6.
+Roger. The DELTA-TIG looked like it was right on. Burn time appeared to us to be about 2 seconds longer, 517. VGX was reading 95485 when we got it. The attitude was nominal. V<sub>I</sub> was reading 35452 at cut-off, H-dot 04552, and H is 01791. ΔV<sub>C</sub> on the EMS was minus 20.6.
 Roger. We copy that, Jim, and I've got some times here for you.
 Roger. Go ahead.
 Booster begins maneuver to SEP attitude at 00:03:10:55. Takes 5 minutes, so it arrives at 00:03:15:55, and SEP time, 00:03:20:55. Your SEP attitude, the gimbal angles on the PAD remain good.
@@ -327,7 +327,7 @@ Houston, Apollo 8. Over.
 Apollo 8, Houston. Go ahead.
 Roger. Going to start charging battery B.
 Okay. Battery B.
-And would you keep a special eye on the purge tank and cryo O2 tank 1 ΔV for us since our flowmeter is pegged out, we got no warning on O2 high flow.
+And would you keep a special eye on the purge tank and cryo O<sub>2</sub> tank 1 ΔV for us since our flowmeter is pegged out, we got no warning on O<sub>2</sub> high flow.
 Roger, Bill. We'll do that for you.
 Thank you.
 Okay. Maneuvers started to separation attitude.
@@ -342,7 +342,7 @@ Apollo 8, Houston.
 Go ahead, Houston. Apollo 8.
 Okay. Coming up on 00:03:15:00 as per flight plan; we have you GO.
 Roger. GO.
-You got any reading on that O2 flow?
+You got any reading on that O<sub>2</sub> flow?
 Stand by one.
 Apollo 8, Houston.
 Go ahead.
@@ -430,7 +430,7 @@ Roger. About that --
 Okay.
 -- We have the - Mike, we have the exact callout here for you and a burn status report.
 Alright.
-Alright, ΔVX minus 00011, ΔVY plus 0002, ΔVZ minus 0002, roll 0, pitch 180, yaw 0. Over.
+Alright, ΔV<sub>X</sub> minus 00011, ΔV<sub>Y</sub> plus 0002, ΔV<sub>Z</sub> minus 0002, roll 0, pitch 180, yaw 0. Over.
 Roger, Apollo 8.
 Apollo 8, Houston.
 Go ahead, Houston. Apollo 8.
@@ -443,7 +443,7 @@ Houston, Apollo 8. Will you give us the information when you want us to stop the
 Apollo 8, Houston. Roger.
 Apollo 8. Houston.
 Go ahead, Houston.
-Roger. What is the venting information are you inquiring about: the O2 flow high out through the waste tank or waste compartment, or are you talking about your evaporator?
+Roger. What is the venting information are you inquiring about: the O<sub>2</sub> flow high out through the waste tank or waste compartment, or are you talking about your evaporator?
 Evaporator. We are configuring now to stop boiling.
 Okay.
 We concur in that.
@@ -897,7 +897,7 @@ We're on the last setting of the second star right now.
 Okay. Real fine. And we've got a - it's about time for a cryo fan cycle.
 Okay. We'll do them one at the time for about 4 minutes on each of them.
 Roger.
-We've got the cryo fan on in H2 tank number 1.
+We've got the cryo fan on in H<sub>2</sub> tank number 1.
 Roger, Bill.
 Houston, Apollo 8. We've just got finished taking two sets, six sightings on Sirius, and one set on Procyon.
 Roger. I understand that's six on Sirius and one on Procyon.
@@ -909,11 +909,11 @@ Apollo 8, when you get a chance down in the lower equipment bay, it looks like y
 Roger. Just turned them off.
 Okay. Anytime you have them on, running dim 1 position is preferred to the LEB.
 Thank you.
-Houston. We have the cryo fan on - the number 1 H2 tank was on at 00:07:01:00. You can give us a hack when you want it - when you're ready for it to be turned off.
+Houston. We have the cryo fan on - the number 1 H<sub>2</sub> tank was on at 00:07:01:00. You can give us a hack when you want it - when you're ready for it to be turned off.
 Wilco.
 Okay, Apollo 8. You can terminate that one and go to the other tank.
 Roger.
-Okay. O2 gage number 2 is on.
+Okay. O<sub>2</sub> gage number 2 is on.
 Roger.
 Houston, Apollo 8.
 Go ahead.
@@ -927,7 +927,7 @@ Okay. Apollo 8, you can terminate the fans in the hydrogen, and we're ready to s
 Okay. Stand by.
 Apollo 8, we are through with the dump; you can have the tape recorder back.
 Roger. Thank you.
-Apollo 8, Houston. We are ready to go to the second O2 tank.
+Apollo 8, Houston. We are ready to go to the second O<sub>2</sub> tank.
 Okay.
 And for your information, it's Cleveland 24 to 10, and what we plan to do --
 Say again.
@@ -960,7 +960,7 @@ Go ahead.
 Okay. Before I get off on that one, I'd like to confirm that you used the VERB 37 procedure to go to P00.
 Roger.
 Okay. On P21, the thinking runs that you had a slight error in your state vector at the time you started, and when that was integrated out, it intercepted the lunar surface where it locked up and this is contained in a fairly recent program note.
-Okay. Now, we've closed the - the waste vent, so we should see this O2 come down now.
+Okay. Now, we've closed the - the waste vent, so we should see this O<sub>2</sub> come down now.
 Okay. Understand you closed the waste vent, and how about the lithium change? Have you done that one?
 Roger. That's done.
 Okay. Thank you.
@@ -1004,9 +1004,9 @@ Go ahead.
 Okay. Sometime when it's convenient for you now, I would like to see an oxygen fuel cell purge. And do you have any estimate on when you might be getting around to this COMM test?
 Right now we're right in the middle of trying to get something to eat, Ken. We can - I guess we can do the fuel cell purge.
 Apollo 8, there's no rush. Just didn't know what you were doing at the time and - Give us a call when you have a free moment; we'll pick up.
-We can start the O2 purge now, if you wish.
+We can start the O<sub>2</sub> purge now, if you wish.
 Okay. That'd be fine, and I'll keep track of the time for you.
-Okay. That'd be good. Now I'll turn on O2 now on fuel cell 1.
+Okay. That'd be good. Now I'll turn on O<sub>2</sub> now on fuel cell 1.
 Okay. Thank you.
 Apollo 8, Houston. That's about 2 minutes on your first fuel cell.
 Roger. It's up, and number 2 is on now.
@@ -1129,7 +1129,7 @@ That's affirmative.
 Apollo 8, Houston.
 Go ahead.
 Okay. We'd like to get a fan - a cryo fan cycle in here before the burn. About 1 minute on each should be fine.
-Roger. I've already given 2 minutes on H2 1 and 2 and O2 1, and I've just started O2 2.
+Roger. I've already given 2 minutes on H<sub>2</sub> 1 and 2 and O<sub>2</sub> 1, and I've just started O<sub>2</sub> 2.
 Roger. Thank you.
 Apollo 8, Houston. We'd like to dump your tape prior to the burn.
 Roger. It's only been running here about 15 minutes.
@@ -1165,7 +1165,7 @@ One minute.
 Roger.
 Houston, Apollo 8.
 Go ahead.
-Roger. The burn time was on time - about 2 seconds; we have residual 4.4 X. We burned it out to 0.2. Attitudes are nominal. The ΔVC before the residuals were taken out was a minus 2.4. I have transferred the state vector to the LM's slot in VERB 66.
+Roger. The burn time was on time - about 2 seconds; we have residual 4.4 X. We burned it out to 0.2. Attitudes are nominal. The ΔV<sub>C</sub> before the residuals were taken out was a minus 2.4. I have transferred the state vector to the LM's slot in VERB 66.
 Roger. Copy 4.4 for X and 2.4 on Z. And negative residual on Y prior to the trim. Is that affirm?
 That's affirmative, and we took out the 4.4 residual down to 0.2.
 Roger.
@@ -1224,7 +1224,7 @@ Just barely make out Clear Lake.
 Your nozzle temperatures have dropped from about 94 to around 66.
 Okay. I'm showing just a little bit above 50 percent here, and we'll keep on going, and if it looks too cold, give us a call.
 Okay. We'll do that.
-Houston, we had a momentary O2 high flow, but we think it's due to all the purging of the water lines we're doing here in the cabin.
+Houston, we had a momentary O<sub>2</sub> high flow, but we think it's due to all the purging of the water lines we're doing here in the cabin.
 Roger. We concur.
 Apollo 8, Houston. We show you down to 25 percent of your waste water.
 Okay. I'm just about 28, Houston. Stand by just a bit.
@@ -1267,7 +1267,7 @@ I'm showing a SPS helium pressure, about 3570, indicated on board.
 Roger.
 And fuel LOX tank pressures are 177 and 176, respectively.
 Okay.
-N2 A is 2400, B 2500.
+N<sub>2</sub> A is 2400, B 2500.
 Okay.
 Okay. And our back room tells you that you've got the right F stop.
 Okay. Then we'll keep using it.
@@ -1358,9 +1358,9 @@ Okay. Thank you.
 Apollo 8, Houston. Do you call?
 Negative, negative. Negative, Houston.
 Okay. Thank you. Say, we're curious about what you did with your Mae West?
-We thought we might bleed the CO2 out into the vacuum connector here in our next water dump. We forgot it the last time. Did you copy?
+We thought we might bleed the CO<sub>2</sub> out into the vacuum connector here in our next water dump. We forgot it the last time. Did you copy?
 Roger, Doesn't seem like there is any problem with going ahead and dumping it in the cockpit if you like.
-It is CO2, isn't it?
+It is CO<sub>2</sub>, isn't it?
 That's affirm.
 Apollo 8, Houston. We asked it again, and it looks like no problems at all with going ahead and bleeding it down in the cockpit. And then if you need it again on entry or after entry, well, we can blow it up with oral tube.
 Roger. Understand.
@@ -1412,8 +1412,8 @@ Go ahead, Apollo 8.
 Roger. Onboard calculations indicate that at 00:13:30:00 GET we are not 64 200 miles above the earth. That's using alternate slide rule.
 We've got 63 855.
 Houston, this is Apollo 8. We're going to try to keep the conversation down here for a while so the CDR can go to sleep.
-Okay. We would like to get some comments from you before you sign off concerning the telescope, sextant, and verification that you have done something with the CO2 in your Mae West and comment on the window status.
-Roger. Is it a requirement that we do something with the CO2 at this time? Over.
+Okay. We would like to get some comments from you before you sign off concerning the telescope, sextant, and verification that you have done something with the CO<sub>2</sub> in your Mae West and comment on the window status.
+Roger. Is it a requirement that we do something with the CO<sub>2</sub> at this time? Over.
 No. That is negative.
 Roger. We have maintained the same condition. We have left it as it was, and it will take care of it later.
 Okay.
@@ -1450,9 +1450,9 @@ Roger. We're showing RAD OUT temp on fuel cell 2 would be about 90 degrees, and 
 Roger. We show the same numbers on your outlet temperatures and thought that was a sensor failure. We've been watching the thing and we'll keep you advised of anything we see.
 Okay.
 And on the performance, you're right - they are not quite the same, 1 and 2 are a little bit lower but all of these are sitting within the ballpark.
-Roger. Fuel cell 1 has shown slightly a proportionately higher H2 flow than O2 flow all day long.
+Roger. Fuel cell 1 has shown slightly a proportionately higher H<sub>2</sub> flow than O<sub>2</sub> flow all day long.
 Okay.
-I'm showing 0.062 H2 and 0.48 O2.
+I'm showing 0.062 H<sub>2</sub> and 0.48 O<sub>2</sub>.
 Roger. We'll take some CAL curves on those.
 Okay. These things look reasonable to me and we'll keep looking at them. Our RAD OUT shows about 0.43 as opposed to your 0.48 on the oxygen, and we'll keep an eye on the CAL curves and just sort of watch it for you.
 Okay. Thank you.
@@ -1607,13 +1607,13 @@ The CDR got 5 hours of fitful sleep and rest, and the other two people are tryin
 Roger.
 Apollo 8, Houston.
 Go ahead, Houston. Apollo 8.
-Apollo 8, this is Houston. At 00:21:00:00, we'd like you to terminate the battery B charge and start battery A charge and then begin an O2 purge. Over.
-Roger. Understand; terminate battery B, start battery A, and an O2 purge.
-Roger. O2 fuel cell purge.
+Apollo 8, this is Houston. At 00:21:00:00, we'd like you to terminate the battery B charge and start battery A charge and then begin an O<sub>2</sub> purge. Over.
+Roger. Understand; terminate battery B, start battery A, and an O<sub>2</sub> purge.
+Roger. O<sub>2</sub> fuel cell purge.
 Thank you.
 Houston, Apollo 8. We are now charging battery A, and say again about the purge.
-Apollo 8, Houston. Roger. Copy your battery charge setup; now begin a fuel cell O2 purge. Over.
-Fuel cell O2 purge. Roger.
+Apollo 8, Houston. Roger. Copy your battery charge setup; now begin a fuel cell O<sub>2</sub> purge. Over.
+Fuel cell O<sub>2</sub> purge. Roger.
 Houston, the fuel cells are all purged.
 Roger, Frank.
 How's the tracking going, Jerry?
@@ -1960,7 +1960,7 @@ Roger.
 Apollo 8, Houston. Over.
 Roger, Houston. We are dumping waste water now. How is the nozzle temperature?
 Stand by. Looks good, Bill; 64 degrees. Over.
-Roger. We just got an O2 flow high from purging to vent line on the cabin.
+Roger. We just got an O<sub>2</sub> flow high from purging to vent line on the cabin.
 Roger. Understand.
 How is everything in Houston?
 Oh, just fine, Frank. Everything down here is GO. How are you?
@@ -2198,7 +2198,7 @@ Real fine.
 Remember, the most important part of the trip occurs in two days when we start back. So you all get better rested too.
 We'll do that.
 Affirmative, Apollo 8.
-Houston, we're starting the H2 fan now.
+Houston, we're starting the H<sub>2</sub> fan now.
 Roger, thank you.
 Houston, you just wanted 2 minutes cycling on those fans don't you? Two minutes each?
 That's affirmative, Apollo 8.
@@ -2221,8 +2221,8 @@ Okay. And our guys down here are watching high-gain antenna pointing program, so
 Okay. Why don't you give us REACQ angles, and we'll try that for the next time.
 Okay.
 Apollo 8, are you ready to copy some cryo quantities?
-I'm ready. How about O2 first.
-Okay. O2 tank 1, I show 88.1 percent.
+I'm ready. How about O<sub>2</sub> first.
+Okay. O<sub>2</sub> tank 1, I show 88.1 percent.
 Okay. Could you give it to me in pounds, please?
 Okay. You'll have to stand by while we convert that.
 Thank you.
@@ -2231,9 +2231,9 @@ Okay. We will try and get the pounds for you, too, Bill. Tank 1, oxygen 88.1.
 What time is that for?
 This is present.
 01:08:30:00, okay.
-Okay, I've got 01:08:35:00. And O2 - -
+Okay, I've got 01:08:35:00. And O<sub>2</sub> - -
 In weight not percentage.
-Okay, O2 tank 1, 88.1, O2 tank 2, 87.37.
+Okay, O<sub>2</sub> tank 1, 88.1, O<sub>2</sub> tank 2, 87.37.
 Is that 0.37 or 0.36?
 0.37.
 Roger, 2. Got it.
@@ -2765,8 +2765,8 @@ Roger. Reading you much better. We got the voice coming down through Honeysuckle
 Okay.
 Apollo 8, Houston.
 Go ahead, Houston. Apollo 8.
-Roger, Frank. Can you cycle the H2 and O2 cryo fans now for us?
-Roger. Will turn her now, the H2. Manual - 2 minutes.
+Roger, Frank. Can you cycle the H<sub>2</sub> and O<sub>2</sub> cryo fans now for us?
+Roger. Will turn her now, the H<sub>2</sub>. Manual - 2 minutes.
 Roger.
 You may need to call us now and then. Everybody is a little drowsy.
 Okay, Frank.
@@ -2897,7 +2897,7 @@ Okay. How about if we wait until this NAV exercise is over with?
 Roger.
 Bill, what we have planned for you right after Jim gets finished is a waste water dump, a cryo fan cycle, redundant component check, and a fuel cell purge.
 Roger.
-We'll be wanting an O2 and H2 fuel cell purge; we'll give you a 20-minute hack on the heater.
+We'll be wanting an O<sub>2</sub> and H<sub>2</sub> fuel cell purge; we'll give you a 20-minute hack on the heater.
 Okay. Want me to turn them on now or when you give me a hack?
 You better wait about 20 minutes.
 Okay.
@@ -2925,7 +2925,7 @@ Roger. I'll read back the entire remarks now just to make sure we got it straigh
 Roger. Copy.
 Apollo 8, Houston.
 Go ahead.
-Bill, you can turn on the H2 purge line heater now.
+Bill, you can turn on the H<sub>2</sub> purge line heater now.
 Okay.
 Apollo 8, Houston.
 Go ahead, Houston.
@@ -2957,26 +2957,26 @@ Roger.
 Apollo 8, Houston.
 Go ahead, Houston.
 Roger. We see waste water coming down now. While it's on its way down, how about a cryo fan cycle?
-Okay. Cryo fan cycle; I'll cycle H2 and O2 fans, one at a time, 2 minutes each.
+Okay. Cryo fan cycle; I'll cycle H<sub>2</sub> and O<sub>2</sub> fans, one at a time, 2 minutes each.
 Roger.
 Apollo 8, Houston. We're showing you at 20.0 percent now.
 Roger. We're showing about 25. We'll shut it off now.
-Roger. Next on deck is the fuel cell H2, O2 purge.
+Roger. Next on deck is the fuel cell H<sub>2</sub>, O<sub>2</sub> purge.
 Stand by.
 Okay. Houston, we're ready to start the purge.
 Roger, Bill. While you're purging, can you give us a crew status report?
-That's going to be O2 and H2. Is that correct?
+That's going to be O<sub>2</sub> and H<sub>2</sub>. Is that correct?
 Affirmative.
-Roger. H2 first, okay?
+Roger. H<sub>2</sub> first, okay?
 Roger. That's okay.
-We're getting H2 flow, Jerry, but we don't have any of the - any vapor particles anywhere. Some are starting now.
+We're getting H<sub>2</sub> flow, Jerry, but we don't have any of the - any vapor particles anywhere. Some are starting now.
 Roger. We confirm your flow and understand you're seeing particles now.
 Not much, though. Okay. Now going to number 2.
 Roger.
 You know, it's really too bad the side windows are fogged up because we never see any sun in the rendezvous windows, and we can't get very good pictures through these foggy ones.
 Roger.
-Start number 3. H2.
-Okay. Start number 3, O2.
+Start number 3. H<sub>2</sub>.
+Okay. Start number 3, O<sub>2</sub>.
 Roger, Apollo 8. Apollo 8, this is Houston. Would you set for ACCEPT for a P27 update, state vector to your LM side, and we'd like you to -
 Say again.
 Roger, Bill. Would you set up to ACCEPT a state vector update? We'll be putting it in the LM slot, and do not unzap. Over.
@@ -2992,15 +2992,15 @@ Okay. Start fuel cell 2.
 Roger.
 Apollo 8, Houston. Your state vector update is complete and verified. You can have the computer back in BLOCK. Over.
 Roger.
-Okay. Going to number 1, O2.
+Okay. Going to number 1, O<sub>2</sub>.
 Roger, Bill.
 Old Helmut Kuehnel's kitchen timer is pretty nice.
-Roger, Bill. You can turn off your H2 heaters now.
+Roger, Bill. You can turn off your H<sub>2</sub> heaters now.
 Wilco.
 Bill, we show you 168 000 out, and we're getting - still getting pretty good high bit rate off the 30-foot dishes.
 Okay. I'm in NARROW BEAM high gain now. Were you getting good high bit rate on the OMNI?
 That's affirmative. We're back on high gain now.
-Okay. Number 1 O2 is off, and will you clarify your previous statement. Were you getting good high bit rate while we were on the OMNI's about 10 minutes ago? Over.
+Okay. Number 1 O<sub>2</sub> is off, and will you clarify your previous statement. Were you getting good high bit rate while we were on the OMNI's about 10 minutes ago? Over.
 Apollo 8, Houston. That's affirmative. We were getting fairly good high bit rate with a little bit of noise.
 Okay. Thank you.
 Roger. We only got two things left to do now. We need your crew status report and a redundant component check.
@@ -3166,8 +3166,8 @@ Seventy-six percent, 231 pounds.
 Quad D.
 Seventy-six percent, 229 pounds.
 Okay.
-Would you give us the O2 and H2 as long as we are plotting?
-Roger. Stand by for O2 and H2.
+Would you give us the O<sub>2</sub> and H<sub>2</sub> as long as we are plotting?
+Roger. Stand by for O<sub>2</sub> and H<sub>2</sub>.
 Apollo 8, Houston. We have got those numbers in a percent. We are going to switch them over to pounds, and in the meantime, we are going to be changing our ground antenna in about another 2-1/2 minutes. You can expect a COMM glitch. Over.
 Thank you.
 Apollo 8, Houston. Over.
@@ -3661,7 +3661,7 @@ Roger. Going to BLOCK.
 Roger.
 Apollo 8, Houston.
 Go ahead, Houston.
-How about an O2 purge?
+How about an O<sub>2</sub> purge?
 Okay.
 Thank you.
 There's number 1.
@@ -3783,16 +3783,16 @@ MARK.
 Switched.
 Houston, Apollo 8.
 Go ahead.
-Roger. Burn on time, angles nominal, burn time about 12 seconds, 0.2 feet per second after the ΔVC, 0 in VGX. We have transferred the results of the burn over to the left slot VERB 66.
+Roger. Burn on time, angles nominal, burn time about 12 seconds, 0.2 feet per second after the ΔV<sub>C</sub>, 0 in VG<sub>X</sub>. We have transferred the results of the burn over to the left slot VERB 66.
 Roger. And got a couple of items that I would like to clean up. We will get you an RCS budget. We've got one redline now; we are trying to get some firmer numbers for you, and we will have those in a little bit. Right now your PTC usage is right on the flight plan line, so everything looks pretty good there. We want to get a crew status report from you. We would like to firm up the REV 2 flight plan idea; and sometime at your convenience, we would like to take a reading of the PRD for the commander and CMP and then have you swap them. We are trying to isolate the - what the possible reason is for the discrepancies or the disparity in the two readings.
 Roger.
 And we are maneuvering to the PTC attitude, Houston.
 Roger.
 Apollo 8, Houston. Could you give us the sign of that Z residual?
-Stand by, Houston. Alright, Houston. Looks like we didn't record just the Z. We recorded ΔVC, which is minus 0.2.
+Stand by, Houston. Alright, Houston. Looks like we didn't record just the Z. We recorded ΔV<sub>C</sub>, which is minus 0.2.
 Okay. Understand.
 ΔV was 0.1, but we didn't get the sign.
-Roger. Understand that was ΔVC was minus 0.2. I copied ΔVZ; ZULU is 0.2. Is that incorrect?
+Roger. Understand that was ΔV<sub>C</sub> was minus 0.2. I copied ΔV<sub>Z</sub>; ZULU is 0.2. Is that incorrect?
 Roger. It was 0.1, but we didn't get the sign.
 Okay. Thank you.
 We can get it. We have it on the tape, Houston, whenever you want to dump it.
@@ -4119,8 +4119,8 @@ Apollo 8, this is Houston with an LOI 1 PAD. Over.
 Roger. Understand. LOI 1.
 That is affirmative, LOI 1, SPS/G&N: 62844 1, correction, minus 161, plus 129 02:21:08:19, minus 29840, plus 02390, plus 01053. Copy?
 Apollo 8, Houston. Over.
-Roger. We broke lock; did not get the ΔVX.
-Apollo 8, Houston. Roger. Beginning with ΔVX: minus 29840, plus 02390, plus 01053 000 200 005 01693, plus 00600 29954 402 29788. Copy?
+Roger. We broke lock; did not get the ΔV<sub>X</sub>.
+Apollo 8, Houston. Roger. Beginning with ΔV<sub>X</sub>: minus 29840, plus 02390, plus 01053 000 200 005 01693, plus 00600 29954 402 29788. Copy?
 Roger.
 Roger. 01 0688 259, Persei Zeta, down 048, left 05. The remainder not applicable. Sirius, Rigel, 129 155 010; negative ullage. Horizon window, ignition minus 2 minutes, 40 degrees unlit, ignition 27 degrees unlit. Over.
 Roger. LOI 1, SPS/G&N: 62844 minus 161, plus 129 02:21:08:19, minus 29840, plus 02390, plus 01053 000 200 005 01693, plus 00600 29954 402 29788 01 0688 259, Persei Zeta, down 048, left 05; Sirius, Rigel, 129 155 010: no ullage, horizon 2 minutes 40 degrees unlit, ignition 27 degrees unlit.
@@ -4165,8 +4165,8 @@ Houston, this is Apollo 8. I copied. I question the latitude and the range to go
 Roger. I repeat, latitude plus 0920, minus 16500 12953 36175 06:02:32:16. Copy?
 I copied.
 Roger. Your GDC align is no change, ullage no change, horizon on the minus 2-degree line at ignition minus 3 minutes, assumes LOI 1. Over.
-Roger. TEI 2 maneuver PAD, SPS/G&N: 46728, minus 053, plus 121 03:01:21:30 plus 28466 minus 00352. I did not get the 502406 for a ΔVZ. 180 022 002, not applicable, plus 00188 28570 250 28401 42 0641 296, not applicable three times, plus 0920 minus 16500 12953 36175 06:02:32:16. No change in the GDC align stars, no change in ullage, a rise on the minus P-degree line at TIG minus 3, assumes LOI 1.
-Apollo 8, this is Houston. Roger. Correct. I repeat ΔVZ plus 02406. Over.
+Roger. TEI 2 maneuver PAD, SPS/G&N: 46728, minus 053, plus 121 03:01:21:30 plus 28466 minus 00352. I did not get the 502406 for a ΔV<sub>Z</sub>. 180 022 002, not applicable, plus 00188 28570 250 28401 42 0641 296, not applicable three times, plus 0920 minus 16500 12953 36175 06:02:32:16. No change in the GDC align stars, no change in ullage, a rise on the minus P-degree line at TIG minus 3, assumes LOI 1.
+Apollo 8, this is Houston. Roger. Correct. I repeat ΔV<sub>Z</sub> plus 02406. Over.
 Roger. Plus 02406.
 Roger.
 Apollo 8, Houston. If you can go 00 and ACCEPT, we'll start the NAV loads.
@@ -4248,7 +4248,7 @@ Roger. We are ready to activate the primary water boiler.
 Roger. Copy.
 We got a GO?
 Roger. GO.
-Okay. Steam pressure going to AUTO; H2 flow going to AUTO.
+Okay. Steam pressure going to AUTO; H<sub>2</sub> flow going to AUTO.
 Apollo 8, Houston. We are on low bit rate. We won't see your steam pressure; your RAD OUT is 33. Over.
 Roger. We're below the boiling limit, and steam pressure is steady at 0.15.
 Roger.
@@ -4299,11 +4299,11 @@ Roger, Houston. We read you loud and clear. How do you read us?
 Apollo 8, this is Houston. Reading you loud and clear now. And verify your evaporator water control panel switch to the AUTO position. Over.
 Roger. I am sure it is in AUTO.
 Roger.
-Burn status report as follows: burn on time, burn time 4 minutes 6-1/2 seconds, VGX minus 1.4, attitude is nominal, no trim, VGY was zero, VGZ was plus 0.2, ΔVC was minus 20.2, orbit 169.1 by 60.5.
-Apollo 8, Houston. Roger. The burn on time, burn time of 4:06.5, VGX is minus 1.4.
+Burn status report as follows: burn on time, burn time 4 minutes 6-1/2 seconds, VG<sub>X</sub> minus 1.4, attitude is nominal, no trim, VG<sub>Y</sub> was zero, VG<sub>Z</sub> was plus 0.2, ΔV<sub>C</sub> was minus 20.2, orbit 169.1 by 60.5.
+Apollo 8, Houston. Roger. The burn on time, burn time of 4:06.5, VG<sub>X</sub> is minus 1.4.
 Apollo 8, Houston. Verify your EVAP water control on panel 382 is AUTO. Your EVAP OUT temperature is high. Over.
 Roger. Standing by.
-Houston, Apollo 8. Roger. Primary EVAP is AUTO, H2 flow AUTO. Do you recommend activating the secondary water boiler?
+Houston, Apollo 8. Roger. Primary EVAP is AUTO, H<sub>2</sub> flow AUTO. Do you recommend activating the secondary water boiler?
 Roger. Copy. Stand by.
 Apollo 8, this is Houston. Reverify manual valve on panel 382, evaporator water control AUTOMATIC. Over.
 Roger. Verified.
@@ -4312,10 +4312,10 @@ Secondary EVAP coming on line.
 Roger.
 Apollo 8, Houston. Turn off your DSE, and we will go to high bit rate. Over.
 Roger.
-Apollo 8, this is Houston. And I will continue my readback of the burn status report. Copied VGX zero, VGY zero, VGZ 1.2, ΔV Charlie minus 20.2. Over.
+Apollo 8, this is Houston. And I will continue my readback of the burn status report. Copied VG<sub>X</sub> zero, VG<sub>Y</sub> zero, VG<sub>Z</sub> 1.2, ΔV Charlie minus 20.2. Over.
 Stand by; he's getting the chart out again.
-ΔVGZ was 0.2.
-Roger. Understand; 0.2 on VGZ.
+ΔVG<sub>Z</sub> was 0.2.
+Roger. Understand; 0.2 on VG<sub>Z</sub>.
 Houston, this is Apollo 8. We are on malfunction 1 of 6, going through step 1 to step 2. Over.
 Apollo 8, Houston. Roger. Copy.
 Correction. That is to step 4.
@@ -4326,10 +4326,10 @@ Now to step 14.
 Houston. Roger.
 Looks like the boiler dried out somewhere along the line.
 Roger, Bill.
-Houston, this is Apollo 8. I would like to confirm that burn status report. VGX was minus 1.4, VGY 0. VGZ 0.2, minus 0.2 that is. ΔVC was minus 20.2 -
+Houston, this is Apollo 8. I would like to confirm that burn status report. VG<sub>X</sub> was minus 1.4, VG<sub>Y</sub> 0. VG<sub>Z</sub> 0.2, minus 0.2 that is. ΔV<sub>C</sub> was minus 20.2 -
 Apollo 8, --
 -- apogee 169.1, perigee 60.5.
-Apollo 8, this is Houston. Roger. I will read back again. The burn was on time, 4 minutes and 6-1/2 seconds, VGX minus 1.4, trim nominal, VGY zero, VGZ minus 0.2, ΔV Charlie minus 20.2. Over.
+Apollo 8, this is Houston. Roger. I will read back again. The burn was on time, 4 minutes and 6-1/2 seconds, VG<sub>X</sub> minus 1.4, trim nominal, VG<sub>Y</sub> zero, VG<sub>Z</sub> minus 0.2, ΔV Charlie minus 20.2. Over.
 That's Roger.
 Roger. And we copy your apogee and perigee.
 Steam pressure is coming up.
@@ -4437,7 +4437,7 @@ We will not do that; we're going to stick with the flight plan, and make the bes
 Roger, Frank.
 As usual, in the real world, the flight plan looks a lot fuller than it did in Florida.
 Roger. Understand.
-Apollo 8, Houston. We need an O2 purge now.
+Apollo 8, Houston. We need an O<sub>2</sub> purge now.
 Roger. And we're standing by for a map update.
 Roger.
 Houston, Apollo 8. Just for your information, after we completed P52, I acquired the earth in the sextant. Quite a sight from here.
@@ -4752,8 +4752,8 @@ Houston, Apollo 8. Over.
 Apollo 8, Houston. Loud and clear. How me?
 Roger. Reading you loud and clear and ready for the burn status report.
 Roger. Ready to copy.
-Roger. The burn was on time, 11 seconds, 0.2 with a VGX, 1.8 VGY; that's minus 1.8, minus 0.2 VGZ. ΔVC was minus 9.4; VERB 82 gives us an apogee 62 and a perigee of 60.8.
-Apollo 8, this is Houston. Roger. Your burn was on time, 11 seconds; VGX was plus 0.2, VGY was minus 1.8, VGZ minus 0.2, ΔVC minus 9.4, apogee 62, perigee 60.8. Over.
+Roger. The burn was on time, 11 seconds, 0.2 with a VG<sub>X</sub>, 1.8 VG<sub>Y</sub>; that's minus 1.8, minus 0.2 VG<sub>Z</sub>. ΔV<sub>C</sub> was minus 9.4; VERB 82 gives us an apogee 62 and a perigee of 60.8.
+Apollo 8, this is Houston. Roger. Your burn was on time, 11 seconds; VG<sub>X</sub> was plus 0.2, VG<sub>Y</sub> was minus 1.8, VG<sub>Z</sub> minus 0.2, ΔV<sub>C</sub> minus 9.4, apogee 62, perigee 60.8. Over.
 Roger.
 Houston, how do you read? This is Apollo 8.
 Apollo 8, Houston. Weak but clear.
@@ -4789,7 +4789,7 @@ So far.
 Very good. 03:05:21:27, plus 30627, minus 00625, plus 00577 180 018 001, not applicable, plus 00188 30639 256 30452. Are you with me so far? Over.
 So far seems ... hold it a minute though, will you?
 Okay. Go ahead.
-Okay. The last number I gave was ΔVC. Picking up at the sextant star: 40 2730 396 033, down 030, left 19. Are you with me? Over.
+Okay. The last number I gave was ΔV<sub>C</sub>. Picking up at the sextant star: 40 2730 396 033, down 030, left 19. Are you with me? Over.
 Roger.
 Okay. Plus 0858, minus 16500 12960 36195 06:02:37:21; comments: north set of stars Sirius and Rigel, roll 129, pitch 155, yaw 010, ullage two quad, 20 seconds, two-zero seconds from quads Bravo and Delta; horizon on 2-degree line at tine of ignition minus 3 minutes. Over.
 Roger, Houston. We got a TEI 4 SPS/G&N 45695, minus 053 plus 141 03:05:21:27, plus 30627, minus 00625, plus 00577 180 018 001, NA, plus 00188 30639 256 30452 40 2730 396 033, down 030, left 19, plus 0858, minus 16500, plus 12960, plus 36195 06:02:37:21; Sirius, Rigel, 129 155 010, two quads, 20 seconds B and D, horizon 2 degrees at TIG minus 3.
@@ -4929,7 +4929,7 @@ Roger.
 It is in P00 and ACCEPT.
 Okay, Houston. Are you ready to talk about the water boiler problem?
 Roger. We copy you in P00 and ACCEPT, and we are sending you a P27 LM state vector. On the water boiler, it looks to us like the evaporator has been reserviced. How does it look to you? Over.
-Roger. I reserviced it, put it to AUTO - H2O flow to AUTO; and the steam pressure went to zero again. So I tried reservicing it the second time for 1 minute, and again no results. I'm in the present process of closing the back pressure valve manually. Over.
+Roger. I reserviced it, put it to AUTO - H<sub>2</sub>O flow to AUTO; and the steam pressure went to zero again. So I tried reservicing it the second time for 1 minute, and again no results. I'm in the present process of closing the back pressure valve manually. Over.
 Roger. Understand you tried to reservice it twice, both times steam pressure has gone to zero, and now you are closing the back pressure valve manually.
 Roger. Each time I have reserviced it, the steam pressure came up to about 0.07 to 0.1; but as soon as the steam and water were put to AUTO, the steam pressure went right back down again.
 Roger. We copy, and we are reading you loud and clear now, Bill. On your map update, did you copy that that I gave you previously?
@@ -4952,9 +4952,9 @@ Okay. I started immediately to reservice it.
 Apollo 8, Houston. We show that you closed it this last time about 4 minutes ago, so we would like you to wait another 15 minutes and then try to reservice it again at that time and then go to AUTO. Over.
 Roger.
 Roger. Thank you. The TEI 4 PAD which you have is still valid. We will have a TEI 5 PAD for you shortly.
-Roger. Be advised we are presently in steam pressure MANUAL, and we're in H2O flow AUTO, and are now in H2O flow OFF, as of about 5 seconds ago.
+Roger. Be advised we are presently in steam pressure MANUAL, and we're in H<sub>2</sub>O flow AUTO, and are now in H<sub>2</sub>O flow OFF, as of about 5 seconds ago.
 Roger. We copy that, Bill. And we confirm that's a good configuration.
-Right now, I've got the H2 flow OFF. Do we stay that way?
+Right now, I've got the H<sub>2</sub> flow OFF. Do we stay that way?
 Affirmative.
 Apollo 8, Houston. On your television update, we propose that you start the TV at the flight plan time of 03:13:37:00 and simply extend the stop time a few minutes. You're currently scheduled to stop at 03:14:00:00, and we would like to keep it going until the terminator, which should be approximately 03:14:14:00. Over.
 Roger.
@@ -4994,7 +4994,7 @@ We only got a couple hours rest.
 Okay.
 We're tired right now, but we will have to wait until TEI before we get back to the regular cycle.
 Alright. I suspect you're right.
-Okay, Houston. The water boiler has been reserviced, back pressure valve CLOSED for 1 minute, water ON for 2, and it's now steam pressure AUTO, H2O flow AUTO.
+Okay, Houston. The water boiler has been reserviced, back pressure valve CLOSED for 1 minute, water ON for 2, and it's now steam pressure AUTO, H<sub>2</sub>O flow AUTO.
 Roger. We copy, Bill.
 If we have a problem, a similar problem, again on the back side in the sunlight, might be a good idea to crank the secondary loop until we have AOS. What do you think about that?
 Stand by one, Bill.
@@ -5709,7 +5709,7 @@ Houston, Apollo 8. Over.
 Hello, Apollo 8. Loud and clear.
 Roger. Please be informed there is a Santa Claus.
 That's affirmative. You are the best ones to know.
-That burn status report: it burned on time; burn time 2 minutes 23 seconds, seven-tenths VGX. Attitude nominal, residuals minus five-tenths VGX plus four-tenths VGX - of minus O VGZ. ΔVC minus 26.4.
+That burn status report: it burned on time; burn time 2 minutes 23 seconds, seven-tenths VG<sub>X</sub>. Attitude nominal, residuals minus five-tenths VG<sub>X</sub> plus four-tenths VG<sub>X</sub> - of minus O VG<sub>Z</sub>. ΔV<sub>C</sub> minus 26.4.
 Roger.
 Apollo FLIGHT has -
 Apollo 8, reconfirm your burn time, please.
@@ -5886,7 +5886,7 @@ How are we doing on the cryos?
 Oh, you've got some pretty good numbers on that that I sent up yesterday, and you had about 06:16:00:00. Well, I'll check that out, but you were fat on cryo. I've got some SPS ΔV. You've got 33:20. You fly the service module RCS through the DAP. You have 142; and through SCS, it's 121.
 Roger.
 Apollo 8, Houston. We can't monitor on low bit rate whether you started your fuel cell purge. If you haven't, we can still go ahead and start now; and if you can, keep us posted as you go through it.
-Roger. You want an O2 and an H2 purge, Ken?
+Roger. You want an O<sub>2</sub> and an H<sub>2</sub> purge, Ken?
 That's affirmative.
 You shall have it.
 Thank you.
@@ -6167,7 +6167,7 @@ Houston, Apollo 8.
 Apollo 8, Houston. Go.
 Roger. Are the Guidance boys busy this morning?
 They say they are.
-I just worked out an answer to move my landing longitude 6 degrees east. I just want to compare with what they've got based on the same burn time of 04:18:00:00, based on the bias impact longitude determined from the P37 which is wrong. I've indicated that I need 600 foot per second ΔVC burn plus, and my ΔVX changes from a minus 11.6 feet per second. I'd like to have them verify that if I could.
+I just worked out an answer to move my landing longitude 6 degrees east. I just want to compare with what they've got based on the same burn time of 04:18:00:00, based on the bias impact longitude determined from the P37 which is wrong. I've indicated that I need 600 foot per second ΔV<sub>C</sub> burn plus, and my ΔV<sub>X</sub> changes from a minus 11.6 feet per second. I'd like to have them verify that if I could.
 Roger Jim. Standby, and I'll see if they copied all that.
 Apollo 8, Houston.
 Go ahead.
@@ -6180,7 +6180,7 @@ Roger. We're reading you much better now. Jim can go ahead with his transmission
 Roger. Wait one. The GERU at TIG was plus 07972.
 Roger. Plus 07972.
 Apollo 8, this is Houston. We are ready to copy your data. Over.
-Okay, Houston. Based on the P37 with minus MA solution, I got an impact longitude of minus 160.95. I biased it to get an impact latitude - longitude of 163.75. I wanted to change my impact point 30 degrees to the east, and I tried to determine what my P30 burn parameters would be to do this, and I got a ΔVX burn of minus 11.6 and a ΔVC of plus 600, ΔVY of zero. Now that changed my previous ΔVX burn from minus 50.2. I just want to know whether that meets with their approval.
+Okay, Houston. Based on the P37 with minus MA solution, I got an impact longitude of minus 160.95. I biased it to get an impact latitude - longitude of 163.75. I wanted to change my impact point 30 degrees to the east, and I tried to determine what my P30 burn parameters would be to do this, and I got a ΔV<sub>X</sub> burn of minus 11.6 and a ΔV<sub>C</sub> of plus 600, ΔV<sub>Y of zero. Now that changed my previous ΔV<sub>X</sub> burn from minus 50.2. I just want to know whether that meets with their approval.
 Roger, Jim. We copy and will run it through the mill and give you an answer.
 Roger.
 Apollo 8, Houston.
@@ -6563,7 +6563,7 @@ Twenty seconds to ignition.
 Roger.
 Houston, Apollo 8.
 Go ahead, Jim.
-Roger. We burned on time, 14 seconds, attitude nominal. Our residuals were plus 2 in VGX, minus 1 in VGY nothing in VGZ. Our EMS stopped about 6.2 and continued counting after the burn.
+Roger. We burned on time, 14 seconds, attitude nominal. Our residuals were plus 2 in VG<sub>X</sub>, minus 1 in VG<sub>Y</sub> nothing in VG<sub>Z</sub>. Our EMS stopped about 6.2 and continued counting after the burn.
 Roger. Understand 14 seconds, burn on time, nominal attitude, two-tenths X, one-tenth Y, and nothing - minus one-tenth Y, and nothing Z; and you put 6.2 on the EMS, and it continued to count after the burn. Is that affirmative?
 No. We put the burn - we put the burn ΔV in the EMS, and after the burn, it was still counting.
 Roger. Understand.
@@ -7634,7 +7634,7 @@ Roger. I don't think that it's that time-critical, but I'll ask.
 Houston, Apollo 8.
 Go ahead, 8.
 Go ahead, 8.
-We're going to hold up on the LiOH change for about a half an hour. The PCO2 reading is low, and we don't want to wake up the CDR. It's right by his feet.
+We're going to hold up on the LiOH change for about a half an hour. The PCO<sub>2</sub> reading is low, and we don't want to wake up the CDR. It's right by his feet.
 Good headwork.
 Apollo 8, Houston.
 Go ahead, Houston.
@@ -7892,7 +7892,7 @@ Come off that, Jerry. Come on; you promised.
 I'll get you that bottle of brandy when I get home, Jerry.
 Maybe we can get him to go to PROGRAM 01 again today, too.
 Roger. That sounds good.
-Apollo 8, Houston. Also, on the flight plan for 05:04:30:00, we would like for you to run an O2 purge on the fuel cells.
+Apollo 8, Houston. Also, on the flight plan for 05:04:30:00, we would like for you to run an O<sub>2</sub> purge on the fuel cells.
 Okay.
 Hey, Jerry. We were going over the checklist on entry here, you know?
 Roger, Frank.
@@ -7923,7 +7923,7 @@ And on star number 1, mark 3, the DELTA-R and ΔV.
 DELTA-R is 00006, ΔV 00001.
 Roger. Four balls 6 and four balls 1. Okay. Frank, your PTC attitude is pitch 180, yaw 315, and roll rate 0.3 degrees per second. The reason for wanting to point it north is not because we are concerned at all about any changes due to venting, there's been, as we can tell, no effects on your trajectory by venting. We just want to try out that direction on it.
 That's fine. We are going to stay in for about two more seconds while Jim takes the pictures through the sextant for the optics people.
-Okay, Frank. And then, also, we are looking for a fuel cell O2 purge when you get a chance.
+Okay, Frank. And then, also, we are looking for a fuel cell O<sub>2</sub> purge when you get a chance.
 That's right. At - I got the word now; it's supposed to be at 05:04:30:00.
 Right.
 Okay. We'll do it.
@@ -7966,9 +7966,9 @@ Frank, on this free pitch and yaw, if either one of them gets outside of 15 degr
 Okay.
 Apollo 8, Houston. I would like to have the BIOMED switch left now, if you can.
 Roger, it's LEFT.
-The fuel cell purged to complete, O2.
+The fuel cell purged to complete, O<sub>2</sub>.
 Say again, Apollo 8.
-O2 fuel cell purge complete.
+O<sub>2</sub> fuel cell purge complete.
 Roger, thanks.
 Apollo 8, Houston.
 Go ahead, Houston. Apollo 8.
@@ -8410,12 +8410,12 @@ Roger. With you.
 Good. 000 304 000, not applicable, 000 191 00014 004 00014 450 - -
 Hey, Mike, hold it. Hold it, Mike.
 Okay. Holding.
-You said not applicable for HA and HP; I started to copy it down, and then I didn't get the right number sequence. Did you skip down to what, VT?
-No. Let's go back to apogee is not applicable, and then I just started reading the numbers again. From there, I've got a perigee and then a ΔVT and then a burn time and so forth. Over.
+You said not applicable for HA and HP; I started to copy it down, and then I didn't get the right number sequence. Did you skip down to what, V<sub>T</sub>?
+No. Let's go back to apogee is not applicable, and then I just started reading the numbers again. From there, I've got a perigee and then a ΔV<sub>T</sub> and then a burn time and so forth. Over.
 Okay. I didn't hear a plus or minus on the HP, and I only got four numbers off of it. So could you start with HP again?
 Okay. Going back to apogee, not applicable; perigee, plus 00191. And you weren't hearing things; it was my mistake. Over.
 Roger.
-Okay. Picking up with ΔVT 00014 004 00014 45 0459 225, Shaula, up 236 000, plus 0813 minus 16503 12202 36301 06:02:46:41; north set of stars, Sirius and Rigel, roll 308, pitch 209, yaw 357; remarks: perigee in P30 equals plus 22.2 nautical miles. Over.
+Okay. Picking up with ΔV<sub>T</sub> 00014 004 00014 45 0459 225, Shaula, up 236 000, plus 0813 minus 16503 12202 36301 06:02:46:41; north set of stars, Sirius and Rigel, roll 308, pitch 209, yaw 357; remarks: perigee in P30 equals plus 22.2 nautical miles. Over.
 Roger. Midcourse number 7 RCS/G&N: 31600, not applicable, not applicable, 06:00:45:57. Are you with me?
 I'm with you.
 Minus 00014, plus all zeros, plus 00001 000 304 000, not applicable, plus 00191 00014 004 00014 45 0459 225 Shaula, up 236 000, plus 0813, minus 16503 12202 36301 06:02:46:41, Sirius, Rigel, 308 209 357, HP, and P30 is 22.2 nautical miles.
@@ -8752,7 +8752,7 @@ Go ahead, Houston. Apollo 8.
 Okay, 8. We have an entry PAD for you.
 Good. Just a minute.
 Ready to copy, Houston.
-Okay. This will be the mid-Pacific, 357 152 359 06:02:29:00 268, plus 0813, minus 16503 065 36221 645 12122 36301 06:02:46:14 0028. The next block is November Alfa: D0 400 02 12 0025 0334 08 14 16 0590 312; Zeta Persei, up 165, right 34, up. Use nonexit EMS pattern, GDC align; primary star Sirius, secondary Rigel, roll 308, pitch 209, yaw 357; this entry will not involve P65. Over.
+Okay. This will be the mid-Pacific, 357 152 359 06:02:29:00 268, plus 0813, minus 16503 065 36221 645 12122 36301 06:02:46:14 0028. The next block is November Alfa: D<sub>0</sub> 400 02 12 0025 0334 08 14 16 0590 312; Zeta Persei, up 165, right 34, up. Use nonexit EMS pattern, GDC align; primary star Sirius, secondary Rigel, roll 308, pitch 209, yaw 357; this entry will not involve P65. Over.
 Houston, Apollo 8. Entry PAD as follows: mid-Pacific, 357 152 359 06:02:29:30 268 plus 0813 minus 16503 065 36221 645 12122 36301 06:02:46:14 0028, next block not applicable, 400 0212 0025 0334 0814 16059 312, Zeta Persei, up 165, right 35 up, use nonexit EMS pattern, backup alignment; Sirius, Rigel, roll 308, pitch 209, yaw 357, and we won't need P65.
 Okay, Apollo 8. I would like to verify sextant star shaft 0590, and the boresight star.
 Roger.
@@ -8835,7 +8835,7 @@ Go ahead, Houston.
 Okay. Two fast items: number one, it has been suggested that since Marezine takes some time to take effect, you might consider whether you would be interested in taking some now. And I have an entry PAD which has some very small updates to go on it if you would like to copy that.
 Okay. Stand by. Let me get out the entry PAD.
 Okay. Go ahead with the entry PAD, Houston.
-Okay. We are still going to the mid-Pacific, 357 152 359 06:02:29:13 267, plus 0813, minus 16503 066 36221 647 12166 36301 06:02:46:13 0028, the next block is November Alfa, V0 400 0210 0025 0335 0816 160590 312; Zeta Persei, up 165, right 34, up nonexit EMS pattern; Sirius and Rigel, roll 308, pitch 209, yaw 357, no P65 involved. Over.
+Okay. We are still going to the mid-Pacific, 357 152 359 06:02:29:13 267, plus 0813, minus 16503 066 36221 647 12166 36301 06:02:46:13 0028, the next block is November Alfa, V<sub>0</sub> 400 0210 0025 0335 0816 160590 312; Zeta Persei, up 165, right 34, up nonexit EMS pattern; Sirius and Rigel, roll 308, pitch 209, yaw 357, no P65 involved. Over.
 Roger, Houston. Entry PAD as follows: mid-Pacific, 357 152 359 06:02:29:13 267, plus 0813, minus 16503 066 36221 647 12166 36301 06:02:46:13 0028, NA, 400 0210 0025 0335 0816 160590 312, Zeta Persei, up 165, right 34, up. Use nonexit EMS pattern; Sirius, Rigel, 308, 209, 357, no P65.
 That's correct, Apollo 8.
 Apollo 8, Houston. You are clear to initiate cabin coldsoak at your discretion. Over.
