@@ -42,7 +42,7 @@ That's affirmative. And immediately following that, we want to go to the CSM Exp
 Okay. And then we do - get ready for the Gum Nebula sequence B on page X/2-8.
 That's affirmative. This will give you some warning here because, after you eat there, there's probably not enough time to get that before you have to start it. Okay, at 143:35...
 Okay, yep.
-...acquire MSFN with the - the Manual, Wide, zero and 170. Just change it to the angles you've got. Normal acquisition, S-Band, greater than ½ scale, you know, then Reacq now.
+acquire MSFN with the - the Manual, Wide, zero and 170. Just change it to the angles you've got. Normal acquisition, S-Band, greater than ½ scale, you know, then Reacq now.
 Roger.
 Okay, at 144:15...
 Okay.
@@ -50,7 +50,7 @@ Go to P00. Then Verb 49 maneuver to DSM, that's Deep-Space Measurement/Gum Nebul
 Okay, at 144:10, I want to go to P00, Verb 49 to DSM/Gum Nebula point 2. The attitude, 305, 136, and 298. Maneuver completion times 144:25.
 Roger. And that was to be accomplished at 144:15, and at 144:30...
 Yes, sir.
-...it calls for a P52. They want to move that back to 144:26.
+it calls for a P52. They want to move that back to 144:26.
 Okay. You want to do the P52 as soon as the maneuver is completed, about 144:26.
 That's affirmative. Right in - as soon as you get in the dark. And could you give us the Gamma Ray, Shield on now.
 Okay, the Shield is on.
@@ -64,7 +64,7 @@ The deep-space measurements start at 144:30. The Gum Nebula photo sequence - you
 Okay. That's 144:36 to 144:50.
 Roger. That's when the photos are going...
 Okay, and that's in the deep-space-measurement business, I don't have to do anything...
-...you're getting deep-space measurements all the time that's going.
+you're getting deep-space measurements all the time that's going.
 That is affirmative, Ken.
 Roger. I don't have to do anything during that time, though. Is that correct? Okay.
 And at 144:35, of course, delete that Verb 49 maneuver.
@@ -72,7 +72,7 @@ Roger.
 And Ken, that gets us through the next rev. I've got a few more changes, but if you like, we can wait until the following rev to read them off.
 You're coming up...
 Okay. I'll do the - the stuff that comes up right at...
-...on Gegenschein here now.
+on Gegenschein here now.
 Okay, the stuff I have to do between the time I have LOS and the time I pick you up again is still good. So why don't we just put it off, and let me get going on this Gegenschein?
 Okay.
 Ken, we understand that Mag ZZ is in the Nikon, and FAO says that ought to have plenty of film to do the Gum Nebula.
@@ -80,16 +80,16 @@ Okay. Fine. Thank you, sir.
 Casper, Houston. No need to acknowledge. We're back 2 minutes from LOS. All your systems are looking good. Just a reminder to configure your DSE to High Bit Rate, Forward, Forward, Command Reset at LOS.
 Okay, Hank. I copied you, and I'll catch that. Thank you.
 Roger.
-Sixty [garble].
+Sixty.
 Another one we sneaked by.
-[garble] now.
+now.
 Thirty-six.
 Okay, now this little terminator should be out here at 60.
 Must have been Mandel'shtam I was looking at. Yeah. That would change [garble
 Okay, and the lighter areas seem to have fewer craters.
 Almost all these craters in the - let's see, can we say that the - I see no elongate craters at all. I'm just looking in the area just past Mandel'shtam. The dark areas seem to have more craters and more small craters. The light areas have - not so many craters.
-Some bright halos and dark ones. And the darker areas look like Cayley, don't have as many bright craters on them, as a matter of fact. Let's see, can I - Yeah, there's one bright-rayed guy on - another Cayley type. Most of the Cayley types seem to have dark craters - generally rimless. Everything here is still - On the small scale, we have circular craters; on the large scale, we have crater chains and - and lineaments - they're on a very large scale. Both [garble] certainly.
-Now, there's places out here in this Cayley now where you find smooth areas that interweave with the - the more pitted areas. Then these smoother bands seem to be just like these thin bands at [garble]. Then some of these bands seem to cross both the white and the Cayley-looking materials. Now then, here comes - this must be Mandel'shtam that I'm coming up on now.
+Some bright halos and dark ones. And the darker areas look like Cayley, don't have as many bright craters on them, as a matter of fact. Let's see, can I - Yeah, there's one bright-rayed guy on - another Cayley type. Most of the Cayley types seem to have dark craters - generally rimless. Everything here is still - On the small scale, we have circular craters; on the large scale, we have crater chains and - and lineaments - they're on a very large scale. Both certainly.
+Now, there's places out here in this Cayley now where you find smooth areas that interweave with the - the more pitted areas. Then these smoother bands seem to be just like these thin bands at. Then some of these bands seem to cross both the white and the Cayley-looking materials. Now then, here comes - this must be Mandel'shtam that I'm coming up on now.
 No, I guess not. Rather, this must be - our old friend, the Cayley floor.
 That stuff is all so subdued, it's just like someone stretched a cold cream over it up from underneath to hide it. Like it was a thick paint, and it - it just barely reflects all the things that are underneath it. And every now and then there's a little old bubble in it that popped.
 As I look out to the south, I still see more and more of that same sort of thing.
@@ -126,7 +126,7 @@ At 148:29, where it talks about "Gamma Ray: Gainstep" et cetera, delete the midd
 At 148:30, at the top of the next column, the SIM status should be "Plus 1111, 02222." At the top of the next page, 149 hours, SIM status code should be the same as before, "Plus 1111, 02222."
 And at 149:18, the block there that refers to "Pan Camera: Standby, Stereo, Power, Operate (T-start)," that little group, - this is a note to yourself - should be moved up such that the T-start occurs at 149:16.
 At 149:30, the SIM status code should be "Plus 1211, 22222." And, Ken, that's all of them for now.
-Okay, Hank, let me read them back to you, and I'll just start - start back here at the last one you gave me. At 149:30, we got the status code as 1211 and 22222. We moved the pan camera block that's now at 149:18 up to a point where the Operate comes at 149:16. SIM code on that page is - is four sticks [four "ones"], and zero, four deuces [four "2"s] . Same status code on the top at 148:30. 148:29, it's "Gamma Ray: Gainstep, On - or Shield, On." 148:20, it's "Gamma Ray, Deploy." And, at about 148:17, it's "Pan Camera, Standby at T-stop, and then Off at MSFN command." 148:15, it's "Pan Camera: Standby, Stereo, Power, and then Operate at T-start," and I got a block ready for T-start and stop. At 148 even, it's "Gamma Ray, retract to 7½ feet," that's two minutes and 26 seconds from full retract - from full extension, and - I've deleted the Mapping Camera PAD at 147:15. I've deleted the block Mapping Camera at 147:12 - Oops, except for the "Image Motion, Increase," which still goes in there. I got a status change at the top of 147; the bottom line is now 02222. 146:27, we delete the "Gamma Ray" line. Big change in position of the Pan Camera photo PAD to 148:10. Deleted the little block of items starting with "Gamma Ray: Shield, Off," and ending with "Image Motion, Off" at 146:16. And the Mapping Camera photo PAD down 145:12 is two and a half revs and ends at 23.7 west.
+Okay, Hank, let me read them back to you, and I'll just start - start back here at the last one you gave me. At 149:30, we got the status code as 1211 and 22222. We moved the pan camera block that's now at 149:18 up to a point where the Operate comes at 149:16. SIM code on that page is - is four sticks, and zero, four deuces. Same status code on the top at 148:30. 148:29, it's "Gamma Ray: Gainstep, On - or Shield, On." 148:20, it's "Gamma Ray, Deploy." And, at about 148:17, it's "Pan Camera, Standby at T-stop, and then Off at MSFN command." 148:15, it's "Pan Camera: Standby, Stereo, Power, and then Operate at T-start," and I got a block ready for T-start and stop. At 148 even, it's "Gamma Ray, retract to 7½ feet," that's two minutes and 26 seconds from full retract - from full extension, and - I've deleted the Mapping Camera PAD at 147:15. I've deleted the block Mapping Camera at 147:12 - Oops, except for the "Image Motion, Increase," which still goes in there. I got a status change at the top of 147; the bottom line is now 02222. 146:27, we delete the "Gamma Ray" line. Big change in position of the Pan Camera photo PAD to 148:10. Deleted the little block of items starting with "Gamma Ray: Shield, Off," and ending with "Image Motion, Off" at 146:16. And the Mapping Camera photo PAD down 145:12 is two and a half revs and ends at 23.7 west.
 Okay, Ken. That all looked pretty good, except at 148:30 - want to make sure you deleted the mass spec retraction.
 Yeah, sure did. I'm sorry, I just read you the gainstep line. Yes, I'll leave the mass spec out.
 Okay. That's a good readback.
@@ -143,12 +143,12 @@ Is that right? What - what looks different when they're on it?
 Just an enormous amount of blocks, and - they're - just the way the terrain's all churned up; and they can tell this stuff's been thrown on top.
 Beautiful.
 Ken, the guys are on the first of one of those terraces there, just passing Station 5 now, and they - they were able to recognize the - the ray just by the block count.
-Okay [garble].
+Okay.
 Hey, Henry, how do you read Casper now?
 Reading you five by five, Ken. How me?
 Oh, loud and clear. I - I guess you probably didn't get my comment about the glint over on Stone Mountain?
 Negative. I hadn't heard anything for a while. I gave you a call while ago to tell you where they were.
-(Chuckle) Yeh, okay, and I answered you and I guess I wasn't on Vox, I just realized. Just as you said that I - I had just gotten in a position as I passed overhead the - the area, and I was taking a look - I had two things in mind. One of them was to - to [garble] by the landing area, and I got there too late to tell whether or not I had seen any of that. And then the - the next thing I did was to look over towards the terraces and see how they look today, and - when I looked over towards the terraces, it was kind of strange because I was looking out - And I'd say maybe you can see - at this Sun angle looks like there might be a terrace out there. And you can see Crest [?] crater very plainly. And the - the Cincos, you have to be - I have to be on top of the landing site to see it, and by the time I got around to that, I was downstream a ways; but I got a flash of light right at the base of Stone Mountain; just a glint, like a piece of metal flashed in the sunlight. And I'll bet you anything I got a reflection off the Rover if - if at about that time they were right at the base of Stone.
+(Chuckle) Yeh, okay, and I answered you and I guess I wasn't on Vox, I just realized. Just as you said that I - I had just gotten in a position as I passed overhead the - the area, and I was taking a look - I had two things in mind. One of them was to - to by the landing area, and I got there too late to tell whether or not I had seen any of that. And then the - the next thing I did was to look over towards the terraces and see how they look today, and - when I looked over towards the terraces, it was kind of strange because I was looking out - And I'd say maybe you can see - at this Sun angle looks like there might be a terrace out there. And you can see Crest crater very plainly. And the - the Cincos, you have to be - I have to be on top of the landing site to see it, and by the time I got around to that, I was downstream a ways; but I got a flash of light right at the base of Stone Mountain; just a glint, like a piece of metal flashed in the sunlight. And I'll bet you anything I got a reflection off the Rover if - if at about that time they were right at the base of Stone.
 That's about where they were, Ken. It's about time to start your V49 maneuver.
 Okay. Thank you.
 And, John and Charlie are up there, now. They're at Cinco.
@@ -161,12 +161,12 @@ And I need to get you your mapping camera photos PAD up here before we get - you
 Okay. Go ahead.
 Okay. This is to be copied at about 145:12. T-start is 145...
 Got it.
-...18:40. T-stop, 150:16:05. And the image motion changes called in the Flight Plan are good.
+18:40. T-stop, 150:16:05. And the image motion changes called in the Flight Plan are good.
 Okay. T-start, 145:18:40; stop, 150:16:05.
 Good readback, Ken. And I won't bother you anymore while you're setting up.
 Okay. One other thing I wanted to tell you about the - in the Descartes area. You remember the little cone-shaped thing that we looked at on the plotter?
 Roger.
-Just to the north and mostly to the west of Canoe [?].
+Just to the north and mostly to the west of Canoe.
 That's affirmative.
 Okay. Well, I - I've looked for it on four revs now, and I - I've identified the feature that it looked like it was, and it doesn't look like that at all. It's just a little - just a little soft mound with a crater in it, and it doesn't look any different than all the other craters when you look at it from here.
 Well, that's interesting, but disappointing.
@@ -196,7 +196,7 @@ As a matter of fact, I'm gonna have to wait awhile here just to clear the Moon t
 Roger. You should be clear, according to the Flight Plan, at about 36 after.
 Are you sure - Has somebody verified that these - these long exposure times we're taking are going to be satisfactory when we've got a brightly lit Moon in the field of view? You know we looked at all this kind of stuff on the original, but when we started coming back trying to piece things in here in real time, I wonder if some of those things need to be verified.
 Roger. FAO's checking. This was the PI's request.
-Okay. I - We'll go ahead and take them, but he ought to be aware that I got a beautiful Earth-lit Moon out here. I just passed - I believe that's . Rima Sirsalis and - you know, you can see features, not as good as the first night, but, boy, they - they're still real big obvious features out here.
+Okay. I - We'll go ahead and take them, but he ought to be aware that I got a beautiful Earth-lit Moon out here. I just passed - I believe that's. Rima Sirsalis and - you know, you can see features, not as good as the first night, but, boy, they - they're still real big obvious features out here.
 At least the star patterns all check out. I've got Canopus and Regor and Avior and all those stars in sight.
 Well, that's good.
 Casper, Houston. FAO advises they'd like for you to wait until LOS to do the photos.
@@ -204,7 +204,7 @@ Okay. Understand you want to wait until LOS. Okay. That ought to get us a little
 We might be pressed to get that P52 in there after that, but we'll just have to do the best we can.
 Well, I'm not sure you're going to get a P52 in there either, Hank. Seems to me like I'm supposed to go to a north oblique photo attitude...
 That's affirmative, and so why don't we just go ahead and scrub that 52?
-...and we're gonna be pressed just to make that thing. That's what I was gonna suggest. Good plan. And I'll catch 52 the next time we get in the dark. The platform is - obviously knows where it is. So, we'll go ahead and get this north oblique in here, and I'm gonna have a - It looks like that may be a tight one, too - just to get to it. But I'll - we'll get there, if we have to use the higher rate.
+and we're gonna be pressed just to make that thing. That's what I was gonna suggest. Good plan. And I'll catch 52 the next time we get in the dark. The platform is - obviously knows where it is. So, we'll go ahead and get this north oblique in here, and I'm gonna have a - It looks like that may be a tight one, too - just to get to it. But I'll - we'll get there, if we have to use the higher rate.
 Roger.
 Hank, you asked me earlier about the configuration of the DSE switches. Was there some problem in the last time I reconfigured?
 INCO had some data that showed that it wasn't in Forward, and he was puzzled about it.
@@ -218,12 +218,12 @@ Okay, Ken, we're about four minutes from LOS. Everything's looking good on this 
 Yeah? How about that. I think I told you yesterday that - that it appears to me that the interior of North and South Ray are significantly different.
 Roger.
 South Ray shows a great deal of dark and light splotches and North Ray just doesn't show that real dramatic difference.
-[Garble] reason not to wear this hat [garble] thing. Okay, I want to go magazine Papa Papa.
-[Sneeze.] Excuse me. Mmm.
+reason not to wear this hat thing. Okay, I want to go magazine Papa Papa.
+Excuse me. Mmm.
 Okay. Image Motion coming On -
 Mark. Barber pole.
 And it's gray.
-[Garble] on at 19.
+on at 19.
 There's the barber pole; 1, 2, 3.
 Intervalometer; coming.
 Partly blank.
@@ -232,7 +232,7 @@ Well, the outer flanks of King look exactly like the central peaks in their char
 The old Sun angle comes down, you start to see more and more features around King's rim. This real white stuff looks like it's all streaked flow. It's hard to tell. Right now it looks to me like maybe some of these pools of things - they've got dark blocks in it and a lot more ripples. And it almost looks like that white cliff to the north had material flowing into the pool, rather than vice versa. And yet the stuff in the pool looks like it's flowing down and lapping into the crater itself. That pool of material runs out to the north. And this time, we'll try to follow some of these things out. The terrain out here doesn't look significantly different. It all has a somewhat radial pattern leaving King.
 You sure can't see any here yet, the very subtle expression that runs up. These slumps that I talked about yesterday that are out here in the crater just to the northwest look like they emanate away from King, like they maybe rushed up the side of this - of this cliff in this old crater. I'm not sure if that's the true interpretation, but that's the way they appear. The one that I find that's so dramatic and startling - is this blob on the side. I'm gonna take a frame of Papa Papa of that anyhow. Now where did it go? Come here, you. That is really an impressive thing.
 There's some blocks of material on the wall and some blocks in the center.
-Let me get a picture here of the center, one out here of the wall feature, one of the rib feature. Okay, that's three pictures on magazine Papa Papa. They go up to 65 [AS16-121-19407, 408, 409?]. And that - that crater is really different, in that - that one outcrop, that outpouring. It's got a very dark band of material that hangs down from it. It's got another lighter blob running down that looks dark, but it's not as dark. Around the very upper crest, you see the same evidence of dark material that you see around the sharp crests of most of these big craters.
+Let me get a picture here of the center, one out here of the wall feature, one of the rib feature. Okay, that's three pictures on magazine Papa Papa. They go up to 65. And that - that crater is really different, in that - that one outcrop, that outpouring. It's got a very dark band of material that hangs down from it. It's got another lighter blob running down that looks dark, but it's not as dark. Around the very upper crest, you see the same evidence of dark material that you see around the sharp crests of most of these big craters.
 Ah, the good old Earth. And in this - this little area here where it has - this bright splash going over the sides -
 Doesn't seem to have hi - has hills that look like King. And you find all these color variations up here; they're really associated with the craters for the most part. They look like swirls, but they really are associated with craters. Now I think that I 'm looking at right below me - stuff like just very light, dusty patterns that are laid out on the surface that really aren't associated with swirls or any such thing.
 Casper, Houston.
@@ -257,7 +257,7 @@ Okay. I'll get that in just a second.
 Okay. The Power is Off.
 Casper, you're awful quiet.
 Yeah. I'm doing a little housecleaning.
-Roger. And I hear your radio [sic - means tape player] running while you're doing it.
+Roger. And I hear your radio running while you're doing it.
 Oh, yeah. And this one is kind of appropriate. Are you familiar with Mr Holst's suite "The Planets?"
 No, I'm not.
 Well, seemed that was an appropriate thing to bring along.
@@ -265,7 +265,7 @@ Roger.
 You know, Hank, you wouldn't think you could lose something in only 12 feet. Right now, I've probably got more things lost than I've got found.
 (Laughter) Roger.
 Somewhere, I lost the ring sight that goes on the TV camera and the Hasselblad. And it's probably wherever I put it. (Laughter) But, unfortunately, I just don't happen to know where that is. I guess that's really the only piece of operating equipment that I've misplaced. Well, that's pretty good, considering the shambles that this place generally stays in.
-It's really puzzling. I've been sitting here - one of the reasons I'm not saying an awful lot is I'm trying to get some kind of an idea in my head as to how you describe the differences between the front and the back [side] materials. And that's really hard. Because every time you look for a - an objective thing, you really kind of find that there's a lot of similarities, when you get down to the details. It's not clear that the back side is - would be that much different from the front if we put a few mares in there and a couple of - of the big rilles.
+It's really puzzling. I've been sitting here - one of the reasons I'm not saying an awful lot is I'm trying to get some kind of an idea in my head as to how you describe the differences between the front and the back materials. And that's really hard. Because every time you look for a - an objective thing, you really kind of find that there's a lot of similarities, when you get down to the details. It's not clear that the back side is - would be that much different from the front if we put a few mares in there and a couple of - of the big rilles.
 One of the things that I noticed about - most of the craters on the back side, the larger ones - even the ones with the steep interiors - do not have any kind of a - a block ejecta around the outsides. You know. I shouldn't say none, but it's very seldom - You have to stop and look for each block. But there are a few craters like - Chaplygin, and - a couple like that that - in fact, have large blocks around the outside. King is another one that has - The outer flanks of King look very much like the central feature in the interior.
 And I got North and South Ray again and -
 John and Charlie are at Station 5 now, Ken.
@@ -278,10 +278,10 @@ Roger. It sure seems that the Sun angle really affects what - what you're able t
 That's correct.
 Okay. We're just coming up on Albategnius and Klein now. Boy, I wish we could get a couple more of those - forward oblique photo passes. That was the one time when the windows were really pointing in the direction you'd like to have them. Other than that, you have a permanent crick in your neck.
 I've looked at Alphonsus on quite a few of our revs; and, at the lower Suns, there was absolutely no - nothing I could say about dark halos around those little craters. Now, this time, I look at them, and there's a very obvious dark halo. It looks exactly like the dark halos you see around the two craters to the south of Theophilus. I've looked for some topographic or - or surface feature that might he different between the northern and southern halves of Alphonsus, and I've had absolutely no luck at all with that. I see now one, two, three distinct, dark halo areas and probably a fourth one. The rim of Alphonsus and the rim of Ptolemaeus are inseparable - where I am right now. I haven't quite gotten to it yet. The long, north-south trending lineament that runs through Alphonsus looks just like the photographs. It does indeed run up there, and it runs through the wall, and looks like it's an extension of the little crater chain that runs through Ptolemaeus. Halley fill in the floor of Ptolemaeus looks just like it does in Alphonsus. I don't see any - any really significant difference. The only thing I can say about the dark halo areas in Alphonsus - is that - Well, I can't get the binoculars on them because I can't get close enough to the window.
-If you remember that one we looked at the blowups of, I'm looking at that now, and - Yeah, there's a slight albedo difference or a darkening of the material around the - It doesn't look any different than any other crater down there. It's filled in on the western flank. It has a slightly raised rim around the eastern side. It's very subtle. It looks very subdued. It looks just like all the rest of the craters that you see all over the rest of the Moon. Nothing significant about it - except in its setting. I really don't see any relationship between Davy and Davy's chain with any other feature that shows in either Ptolemaeus or the surroundings. The main token - I can't even get over far enough to take a good look at - at Alpetragius. [Garble] is just about out of the field of view. And one thing I am gonna try to take a look at, and I don't know if we have enough Sun yet, and I'm gonna use these light level - red and blue filters, and take a look at Lassell C. And see whether or not there's any enhancement that's comparable to what we've seen with the photographs with the red and [garble]. blue filters.
+If you remember that one we looked at the blowups of, I'm looking at that now, and - Yeah, there's a slight albedo difference or a darkening of the material around the - It doesn't look any different than any other crater down there. It's filled in on the western flank. It has a slightly raised rim around the eastern side. It's very subtle. It looks very subdued. It looks just like all the rest of the craters that you see all over the rest of the Moon. Nothing significant about it - except in its setting. I really don't see any relationship between Davy and Davy's chain with any other feature that shows in either Ptolemaeus or the surroundings. The main token - I can't even get over far enough to take a good look at - at Alpetragius. is just about out of the field of view. And one thing I am gonna try to take a look at, and I don't know if we have enough Sun yet, and I'm gonna use these light level - red and blue filters, and take a look at Lassell C. And see whether or not there's any enhancement that's comparable to what we've seen with the photographs with the red and. blue filters.
 And just looking at these things directly through the filters, you don't - you don't see anything there at all. I didn't really think you would, but I thought it was an interesting thing to try.
 Roger. Copy.
-And I can see a lot of the - that little crater that's out to the west of Lassell C, the one that looks like it has a little cone [garble], is very obvious now that the Sun's come up higher; and it's - it does look a little different, but there's so many of these little craters and little mountain things that stick up through the floor of the mare that it's not real obvious that that's anything out of the ordinary.
+And I can see a lot of the - that little crater that's out to the west of Lassell C, the one that looks like it has a little cone, is very obvious now that the Sun's come up higher; and it's - it does look a little different, but there's so many of these little craters and little mountain things that stick up through the floor of the mare that it's not real obvious that that's anything out of the ordinary.
 Can you see the little bright ray there?
 Say again.
 There should be a little bright ray, I think. Isn't it? Near the suspected dark cone?
@@ -312,7 +312,7 @@ Well, it looks to me like a - like a crater, like all the rest of the craters ar
 Roger. And does the blob look at all like lava?
 (Laughter) Well, I can't get close enough right now to see. There's...
 Okay. We just want you to have these questions...
-...two things that look like flows. One of them is a - Yeah. Well, I - obviously, that's one of the things that - and I don't think we're gonna be able to answer that question; at least, I can't. But I - it looks like - it looks just like the - material that you see coming down the side of the mountains to the north of Flagstaff. I know that's lava, but whether this is the same sort of thing or not I don't know, because there's so many places on the back side where you see what appears to be flow lines and if you follow them far enough, you find some pla - place where they get lost. Now this one is a - has a real dark set of material - and when I say real dark, I mean dark compared to the rest of the Moon. And it's - it seems to be - consisting of two different flows, or two different units: one - much lighter and closer to the regular lunar surface; both of them are darker though, and the dark ones look like the same kind of dark material - I'd say it looks the same as what you see in subtle expressions in the little domes in King and along the central peak.
+two things that look like flows. One of them is a - Yeah. Well, I - obviously, that's one of the things that - and I don't think we're gonna be able to answer that question; at least, I can't. But I - it looks like - it looks just like the - material that you see coming down the side of the mountains to the north of Flagstaff. I know that's lava, but whether this is the same sort of thing or not I don't know, because there's so many places on the back side where you see what appears to be flow lines and if you follow them far enough, you find some pla - place where they get lost. Now this one is a - has a real dark set of material - and when I say real dark, I mean dark compared to the rest of the Moon. And it's - it seems to be - consisting of two different flows, or two different units: one - much lighter and closer to the regular lunar surface; both of them are darker though, and the dark ones look like the same kind of dark material - I'd say it looks the same as what you see in subtle expressions in the little domes in King and along the central peak.
 Casper, could you get the Laser Altimeter On, please?
 Oh. Yes sir. It's on. Thank you.
 Okay. And could you give us an estimate of how large this feature is?
@@ -329,7 +329,7 @@ Ken, you have been getting some exercise - You haven't been omitting these exerc
 No. No. But that just isn't - you know, that just isn't much. I can hardly get a heart rate enough to even tell it's there. It doesn't seem like I can change it with the equipment I have.
 Okay. Well, we want you to...
 No. I get the exercise. It just doesn't amount to anything.
-...take full advantage of all these.
+take full advantage of all these.
 (Laughter) Yeah. Well, you'll feel better when you get through, having done something like that. Even though I don't think it's enough exercise to amount to anything, it just makes you feel better. I advocate doing them.
 Casper, we have the angles. You're clear to start.
 Okay. I'll catch it at 00:50.
@@ -337,13 +337,13 @@ And you'd better get your camera set up, Ken, for the terminator photos.
 Okay. Thank you.
 And when you get that, just might as well do your exercise ' don't want to interfere with that. And I'll just give you a brief call prior to LOS.
 Okay.
-By golly, I did clean my sinuses out. [Laughter.]
+By golly, I did clean my sinuses out.
 Casper, Houston. Do you read? You are looking good at LOS, and we'd like you to verify the DSE after LOS.
 Okay, Hank. Will do.
 Casper, if you still read, the Surgeon says you got your heart rate up to 90 now.
 Hank, according to that theory, it sounds like the hardest work I've done in this flight was lift-off.
 (Laughter) Roger. Hey, INCO says he's going to take care of the tape recorder, but you might ought to verify.
-[Garble] supposed to [garble] But - don't care about that.
+supposed to But - don't care about that.
 Okay; I'm looking down at Mendeleev again, and - guess one of the things that I'm starting to notice is that - in this outer rim up here, we have a - a fairly smooth, Cayley-like looking material. It's the same as what's down on the floor, Then we have what looks like an old slump material. And on the outside of this smooth Cayley that's at the top, looks like more smooth material. It's non-pitted, which means non-Cayley. The margins of all this stuff are all very, very indistinct. Just can't see anything. There's no flow fronts, there's -
 They just come together. You can see where the break is, and it's just exactly the same way it looks down there at Stone Mountain. It just isn't obvious where one unit starts and another one stops. It looks like mare material to me, but with - without the grabens and without the wrinkle ridges and with probably a larger crater count in general.
 I'm looking at that big chunk in the wall where it looks like something else has run down inside. And when you get up and look at it up close, it all looks the same. You don't see that something else. That's - that's a subtle textural difference. That little area has a lot more pits, and there seems to be a lot more slump. I can look back in the shadows with the binoculars, and I see a lot of what looks like unconsolidated material. It just sort of looks like mud that exceeded its angle of repose, all slumped in there. There are craters in the walls of this slump material. Some look like they're pointing down, some like they went into the sides. Around the top, it looks like another highly cratered area. As though this top portion may have been a - a crater all its own, just like the one next to it. And then whatever dropped in this big event created Mendeleev, just sliced it off. But throughout it all, the only thing I see that's different from one place to another is just the amount of - of pockmarks that you see on these surfaces. They're all crosshatched, and thatched, and some of them show - there's one here that shows a little bending. When you look down on it, they look like nice sharp lineaments, but, boy, when you get down and look at them in detail, they just lose all that sharpness completely.
@@ -352,7 +352,7 @@ Mostly the back side is - is characterized with an absence of blocks. It's reall
 Oh, that thing is probably gonna be too hard to get to. Doggone it. There it is. It looks like a baby King.
 That one was number 48, the magazine Victor.
 Now I'll get a good picture of the outer materials of King; this is typical sampling. Here's a good picture of that northern rim. Looks like this stuff to the south looks very much like a flow that comes out from King. And the south mid-west looks very much like the material that's oozed out. All the material that's going out to the north - I mean, that's the south and east - all the material that's going out to the north and east has that same characteristic. There's light material that runs through there and seems to be running through - almost without any kind of rhyme or reason, go through the walls and out onto the ejecta.
-Whole area looks different than most other places around here. Now, some of this stuff that I'm calling ejecta - I'm gonna get a picture here of what it looks like as it goes up on the rims of this adjacent crater. And looks to me like it splashes up onto this other crater, as though it all came out in a big surge. I'm not sure that's a reasonable thing to be saying. This series of King ends with frame number 50 [AS16-120-19226 to 232. The last is the 48th frame on the film].
+Whole area looks different than most other places around here. Now, some of this stuff that I'm calling ejecta - I'm gonna get a picture here of what it looks like as it goes up on the rims of this adjacent crater. And looks to me like it splashes up onto this other crater, as though it all came out in a big surge. I'm not sure that's a reasonable thing to be saying. This series of King ends with frame number 50.
 Well, I'll be darned. That looks - that's even different than I thought it was before. Here I got this crater that goes from the top of Guyot down; then this black stuff comes down; then all those striations around there make a pattern that swirls and curves with it. I 'm gonna have to draw a sketch of that, because I'll never be able to describe it in words. But it does indeed run right down the walls. That's really beautiful. And there's old Mother Earth. Man, that is a beauty, too.
 Never get tired of watching earthrise.
 Casper, Houston.
@@ -463,61 +463,60 @@ Okay.
 Can I get the rest of those updates then?
 That's affirmative.
 Okay. Thank you.
-Minus 3 minutes before [garble].
+Minus 3 minutes before.
 Okay. The Shield is on.
 Copy.
 Casper, Houston. We're about 4 minutes or so from LOS. We may lose the high gain here shortly. Everything is looking good at this point. And INCO says it might help on acquisition to tweak your dial a little bit. Pitch, 10; Yaw, 0 for the next acquisition. And like to remind you to configure your DSE.
 Okay, Hank. Thank you.
-[Garble] It's on the solar sunrise - solar corona portion. Requires 5 percent of the DAC film in the [garble] camera. That's gonna start at minus 5 minutes before sunrise, or the equivalent of 4 minutes on the countdown in the checklist. Stand by for start [garble].
-Requires 5 percent of the DAC film in the [garble] camera. That's gonna start at minus 3 minutes before sunrise, or the equivalent of 4 minutes on the countdown in the checklist. Stand by for start [garble].
+It's on the solar sunrise - solar corona portion. Requires 5 percent of the DAC film in the camera. That's gonna start at minus 5 minutes before sunrise, or the equivalent of 4 minutes on the countdown in the checklist. Stand by for start.
+Requires 5 percent of the DAC film in the camera. That's gonna start at minus 3 minutes before sunrise, or the equivalent of 4 minutes on the countdown in the checklist. Stand by for start.
 Four, 3, 2, 1 -
 Start.
-One-half, 1/8, 1/30, 1/60; 4 seconds, 1 second [garble]; 10 seconds, 4 seconds, 1 second [garble].
+One-half, 1/8, 1/30, 1/60; 4 seconds, 1 second; 10 seconds, 4 seconds, 1 second.
 One-half, 1/8, 1/30, 1/60.
 (Cough)
-(Singing) Dee-dee-dah-dum. This darn spacecraft is really cooler [garble] is.
-[Garble].
+(Singing) Dee-dee-dah-dum. This darn spacecraft is really cooler is.
 Fifteen seconds, CMC Mode going Free.
 Stand by. CMC Mode, Free.
-In 20 seconds, the DAC will go on and remain on until sunrise. That will be DAC [garble] adjust the settings.
+In 20 seconds, the DAC will go on and remain on until sunrise. That will be DAC adjust the settings.
 Stand by.
-DAC on. I got the EL camera. Verify that it [garble] to the [garble] exposure [garble].
-[garble] be 10 seconds [garble]. Stand by.
+DAC on. I got the EL camera. Verify that it to the exposure.
+be 10 seconds. Stand by.
 One, 2, 3, 4, 5, 6, 7, 8, 9 -
-Close [garble] 4 seconds. Stand by [garble]. 2, 3 -
-Close. Stand by for 1 second [garble]. Stand by -
+Close 4 seconds. Stand by. 2, 3 -
+Close. Stand by for 1 second. Stand by -
 Open. Go one click to the right, one-half second. Stand by -
 Open. Go two clicks to the right and I'm on one-eighth of a second. Five seconds to go. Standby -
 Mark it. Two clicks to the right and I'm on one-thirtieth of a second. Five seconds to go. Standby -
-Mark it [garble]. to the right, one-sixtieth of a second. Stand by -
-Mark it. The EL camera off and the DAC off. CMC Mode, Auto [garble]. GET [garble]. On the countdown. 64.
+Mark it. to the right, one-sixtieth of a second. Stand by -
+Mark it. The EL camera off and the DAC off. CMC Mode, Auto. GET. On the countdown. 64.
 Gamma Ray coming to Retract -
 Mark.
 Image Motion going to barber pole plus 4.
 Barber pole, l, 2, 3, 4.
 The Gamma Retract is Off.
-Actually, that worked out pretty good. I've never done it without the - without the two [garble].
+Actually, that worked out pretty good. I've never done it without the - without the two.
 Okay, Standby, Stereo, Power. Standby, Stereo, and Power. Barber pole and gray. Go to Operate at 16:24.
-[garble] 8.
+8.
 Operate. Barber pole and gray. Now we'll finish up a little sunrise solar corona.
 Now, let's see, we got a 70 - EL shows 73. DAC shows 82.
 Eighty-one.
-That's right. That's supposed to [garble] seconds before it. [Garble] right.
-[Garble] DAC's [garble] here.
-And [garble] Power, On. Okay, put the tone booster back on. And we'll check it. [Tone] Oh, there's my [garble] for the night.
+That's right. That's supposed to seconds before it. right.
+DAC's here.
+And Power, On. Okay, put the tone booster back on. And we'll check it. Oh, there's my for the night.
 Sure would like to have that little Hasselblad. That's a nice camera. Had a real one that you could keep as your own. I like that electric feature.
 Okay, let's try a little check on the surface polarizer filter. I don't think that'll show me a thing. I think I looked at that once.
-Now, that's interesting [garble]. looked at that once.
+Now, that's interesting. looked at that once.
 Casper, Houston.
 Hello, Houston. Are you there?
 Roger. How's it going?
 Oh, just fine. That last sequence worked out just right on the money. Last frame...
 Glad to hear that.
-...off and up came the Sun.
+off and up came the Sun.
 What could you see through your Polaroid filter?
 Oh, it doesn't do a thing. There's apparently just a little bit of polarizing done by the windows. And as I rotate the filter, why, it brightens and dims the scene just slightly. And I checked it against different types of material - the darker materials and the lighter things. And they all seemed to respond exactly the same way. I can't see any - I can't see any effects of polarizing from the surface reflection at all.
 I believe I would have expected a difference.
-That time as I went by King, I took a look at a little different approach. I started out with the central peak and I tried to follow it to the worth. And it appeared to me that perhaps those central peak three prongs - I was looking at the crater blocks that are on them. And then I looked at the floor, and there's a lot of crater blocks that are laying on the floor in between the two main tongues of that central fork. The - it appears to me now that maybe there were three of those pieces of central peak that run out instead of two and that perhaps they curve a little bit over to the right. Because you do see a line of the light material that continues on to the north for quite a distance that's the same thing we have seen on the photos. The first time that I've been able to see any continuous chain that goes between the central peak into the walls. And I'd like to look one more time, and see if there's any variation in the number of blocks that I see as I look circumferentially around the wall. Perhaps there is - Where the expression of the central peak goes through, I may find a higher concentration of blocks. That's what I'd like to look for next. But it looks like perhaps those - if those central features do go through the wall, that they must take a slight curve to the right. As the Sun angle comes down, these things that I reported as swirls look more and more like swirls than they did at the higher Sun, which is just backwards from what I would have anticipated, and ...
+That time as I went by King, I took a look at a little different approach. I started out with the central peak and I tried to follow it to the worth. And it appeared to me that perhaps those central peak three prongs - I was looking at the crater blocks that are on them. And then I looked at the floor, and there's a lot of crater blocks that are laying on the floor in between the two main tongues of that central fork. The - it appears to me now that maybe there were three of those pieces of central peak that run out instead of two and that perhaps they curve a little bit over to the right. Because you do see a line of the light material that continues on to the north for quite a distance that's the same thing we have seen on the photos. The first time that I've been able to see any continuous chain that goes between the central peak into the walls. And I'd like to look one more time, and see if there's any variation in the number of blocks that I see as I look circumferentially around the wall. Perhaps there is - Where the expression of the central peak goes through, I may find a higher concentration of blocks. That's what I'd like to look for next. But it looks like perhaps those - if those central features do go through the wall, that they must take a slight curve to the right. As the Sun angle comes down, these things that I reported as swirls look more and more like swirls than they did at the higher Sun, which is just backwards from what I would have anticipated, and...
 Ken, we are coming up on T-stop for the Pan Camera.
 Thank you, sir.
 And, it's off - or Standby, I should say.
@@ -555,14 +554,14 @@ That's affirmative, sir. And we - we still got the urine dump in there. And at 1
 Okay. That's "Plus all 1's, 01222."
 Negative. In the first register there, the last digit is 0. Because we got the...
 Okay. "Plus 1110."
-...Alpha Particle door closed.
+Alpha Particle door closed.
 Roger.
 Okay. And right after that, we want to delete both of those P52s. Both the Option 3 and the Option 1.
 Okay, they're deleted.
 Okay. That does it for now, Ken.
 (Laughter) It didn't leave much, did it? I'll tell you one thing...
 [garble
-...I want to squeeze in here somewhere, and I'm not sure we're at the right place to do it. But I have yet to pick up a star pattern in the telescope. And I'm going to take one of these backside areas here and make a concerted effort to that.
+I want to squeeze in here somewhere, and I'm not sure we're at the right place to do it. But I have yet to pick up a star pattern in the telescope. And I'm going to take one of these backside areas here and make a concerted effort to that.
 All righty.
 But I can see plenty of stars all over the place outside, and I just can't see a thing through that telescope. And I know we could when we were in Earth orbit, because the first thing I thought was that we didn't have it, and then I waited until we got around and looked at a bright part of the sky, and we got hold of Scorpion. It was there and it was all beautiful. And now, I look out there and it's just - there's just nothing there. It's just black. And that's after getting well dark adapted.
 Where did they go?
@@ -592,13 +591,13 @@ Ken, could you give us a barber pole on Image Motion?
 Okay, barber pole on the IMC.
 That's one I - slipped by...
 There it is.
-...me when I got to talking.
+me when I got to talking.
 I'm sorry. Say again?
 I let that one slip by me when I got to talking to you about the landing site.
 Uh-oh. I think you'd go a long ways before you get very far behind.
 Casper, Houston.
 Go ahead, Hank.
-Roger. So far, we haven't seen anything - a smear [?] or anything requesting that urine dump by itself. So that thing is still in question. Your next urine dump would be scheduled for 20 hours from now. But it's also scheduled in conjunction with a water dump, et cetera. So I don't know where that thing stands. We're gonna check into it.
+Roger. So far, we haven't seen anything - a smear or anything requesting that urine dump by itself. So that thing is still in question. Your next urine dump would be scheduled for 20 hours from now. But it's also scheduled in conjunction with a water dump, et cetera. So I don't know where that thing stands. We're gonna check into it.
 Okay. It'll probably take me another 20 hours to make it worthwhile.
 Roger (laughter).
 Golly.
@@ -638,7 +637,7 @@ Ah so. It's the same volume I'm in. We passed the other volume and I went back f
 Okay, this is the only bistatic we gonna do. Start where it says, "Configure comm" and end where it says, "S-Band Antenna, High Gain, Manual, Wide." And the only change in there is that the VHF antenna should be "Left" instead of "Right." We're in a different attitude.
 Okay. I start where it says, "Configure comm for S-band." And I stop where - including, I assume, the high gain settings.
 Negative. We got different high gain settings...
-[Garble] VHF antenna left instead of right. Okay. You got different high gains. All right; thank you.
+VHF antenna left instead of right. Okay. You got different high gains. All right; thank you.
 Okay. If you'll turn back down to 151, I'll give you that high gain. It's "Pitch, 20 - plus 20; YAW, 209."
 Okay. That's "Pitch, plus 20; Yaw, 209."
 Roger. And verify the DSE as "Low Bit Rate, Forward, Forward, Command Reset."
@@ -685,7 +684,7 @@ Okay. "Configure DSE, High Bit Rate, Command Reset" at 153 even.
 And I think that's all of it.
 Okay. I guess the thing that seems to me like it might be missing here is where you're gonna get - Well, you've got me setting my DSE to high bit rate over here at 153. I guess we'll get some of that, won't we? Because we - we've had it running with no dump...
 Roger. We've been running in low bit rate.
-...[garble] side, and I didn't stop the bistatic until after - That's right - low bit rate - but I didn't stop the bistatic until after LOS. So you're gonna get about half of this in low bit rate and about half of it in high. Okay?
+side, and I didn't stop the bistatic until after - That's right - low bit rate - but I didn't stop the bistatic until after LOS. So you're gonna get about half of this in low bit rate and about half of it in high. Okay?
 Roger.
 I - I guess I got it straight.
 Okay, Ken. I got some more words on that question you had about - where I said verify the DSE with the bistatic. That should be - should be "verify" rather than "configure."
@@ -738,7 +737,7 @@ Okay; and the reason why we're doing this is the cabin is coming up a little bit
 Okay. I guess I'm just not breathing hard enough, huh?
 Oh, man, just great metabolism there. And over at 155:30, we can add "Waste Stowage Vent valve, Closed."
 Okay. "Waste Stowage Vent, Closed" at 155:30.
-Okays, that will be one step off your pre-sleep checklist there, see. And after the pre-sleep checklist, we'd like to add "Accept VHF." And what we're gonna do here is get you configured for the VHF bistatic test during your sleep period, so disregard the VHF part of your pre-sleep. And at 155 ...
+Okays, that will be one step off your pre-sleep checklist there, see. And after the pre-sleep checklist, we'd like to add "Accept VHF." And what we're gonna do here is get you configured for the VHF bistatic test during your sleep period, so disregard the VHF part of your pre-sleep. And at 155...
 You want to give me a complete...
 Yeah, we can do that. The time on that is 155:36 and you've got about six or seven lines; you might want to come out to the left there.
 Okay, all set.
@@ -837,7 +836,7 @@ Okay, Ken. I guess what you're trying to say is when you get too close to the fo
 That must be.
 Looks like most of these medium-size craters out here in Cognitum are - they have raised rims, but they're very smooth raised rims, and they kind of - they have a convex instead of a concave side to them. It's - very much like the little suspected cone we saw next to Lassell C. It's just that he's by himself out there, and as you get into Cognitum you see quite a few that look just like that.
 By Jove. We got that, Ken.
-Okay. Maybe we could have drawn a terminator that was a little more over towards the area where we've shown our target, but there may be quite a drop-off in elevation here. It would only take - quite a bit, to the Sun angle wouldn't have to be an awful lot, on a geologic scale I guess. But the actual terminator was running down just to the west of Le Alda [or Mädler?] so I ran a strip down that.
+Okay. Maybe we could have drawn a terminator that was a little more over towards the area where we've shown our target, but there may be quite a drop-off in elevation here. It would only take - quite a bit, to the Sun angle wouldn't have to be an awful lot, on a geologic scale I guess. But the actual terminator was running down just to the west of Le Alda so I ran a strip down that.
 Okay. We got that. You want to give us the frame number while you got it handy.
 Okay. Good show. How about 84? [It is not clear which film magazine Ken is referring to here.
 Okay; 84.
@@ -846,15 +845,15 @@ Go ahead.
 Okay, Ken, as far as tomorrow, you've got a full schedule of the SIM Bay and visuals and landmark tracking and so forth, I'm sure you don't want the details now. Would you be interested in the times of PC-1, lift-off and -
 Yeah. Let me get my - let me get my little scratch pad out here and let you give a kind of a summary - of major events anyhow.
 Okay. Go ahead.
-Well, I don't want to - the first part of the day I really don't want to try to get into any details, Ken. It's - it's your standard P20 with a lot of Mapping Camera/Pan Cameras, and all the sensors we got - we got going. You're going to burn plane change 1 at 169 plus 40. That's - that's approximate times. And LM lift-off is approximately 175 plus 50. And I guess [garble] one in the middle there, too. Your - your landmark tracking will come at about 173:20, something in - in that order. And after docking - we're showing you...
+Well, I don't want to - the first part of the day I really don't want to try to get into any details, Ken. It's - it's your standard P20 with a lot of Mapping Camera/Pan Cameras, and all the sensors we got - we got going. You're going to burn plane change 1 at 169 plus 40. That's - that's approximate times. And LM lift-off is approximately 175 plus 50. And I guess one in the middle there, too. Your - your landmark tracking will come at about 173:20, something in - in that order. And after docking - we're showing you...
 Hey, that's landmark on the LM?
 That's the landing site landmark.
 Okay.
 And we'd like to have Auto on the High Gain.
 Right, you've got it.
 Okay. And then as I said before after - after docking, at - at this time, we're showing you an hour and 30 minutes for the transfer. And then you'll come inside, have an eat period, and hopefully start the rest period. And your rest period will start at about...
-Okay [garble].
-...100 - and start at about 181:30, in that area, will be the rest period.
+Okay.
+100 - and start at about 181:30, in that area, will be the rest period.
 Okay. And the day starts about 164, was it?
 That's affirmative. Around 164.
 Okay. That's not so bad.
@@ -863,7 +862,7 @@ Well, I'll tell you, it was - it was kind of nice to just sit back and have that
 Yes. I know what you mean.
 Okay, and since you reminded me of film, let me give you the - what I got on this DAC magazine too while I take it down. That'll save asking about it later. I have a - a feeling we may be quite a ways behind on our film status. Magazine II has - that'd be 20 - that's looks to me like 42 percent.
 Okay. I copy. II, Item Item, and 42.0 percent.
-[garble] yeah.
+yeah.
 And I made it your last.
 That's quite a bit off from the prediction. I wonder if I - I turned it on at the right time, and I turned it off at the right time.
 Oh, I don't know, Ken. That's - that's within 18 percent.
@@ -877,7 +876,7 @@ It is unbelievable. (Laughter) Well, I started to say I was worried about the sp
 Probably get the pictures back and find that it has a natural frequency that's the same as the camera.
 That's why they made it so big.
 (Laughter) That thing wouldn't even vibrate on a Saturn V.
-I think the part I liked most about this experiment was Chris Printer's [?] little window shade.
+I think the part I liked most about this experiment was Chris Printer's little window shade.
 It worked just fine, and it couldn't be simpler.
 And, Ken, on your next time around, we're going to want to be talking a little bit about your rendezvous procedure, for tomorrow, and I guess we'll - as we mentioned before, we're recommending using SCS, and we've got some procedures marked up and we can give you as much detail as you want on them as for the switches, so you might want be thinking about that. And any questions about it.
 Okay. I think what you told me yesterday sounds like a good plan. I - I don't think that's very difficult to remember. It goes - it's straightforward enough. It goes right along with operating without an IMU except you have the luxury of having all that nice manoeuvre for you.
@@ -885,7 +884,7 @@ Yeah, Ken, it - you know - we talked about a couple of little pitfalls there, yo
 Oh, I'll take all the thoughts that you got, Stu.
 Okay. We'll - we'll probably give you those on your - we will give you those on your next time around so you can cogitate on them.
 Okay.
-I'd hardly be the Government's hero if I over-torqued my Dukesons [?] on the rendezvous.
+I'd hardly be the Government's hero if I over-torqued my Dukesons on the rendezvous.
 Well, that's - that's the one thing you've always got to watch out for. That and Check 6.
 And, Ken, a reminder on your Waste Stowage Vent valve.
 Gee, thank you. Is it that time? It sure is.
@@ -938,7 +937,7 @@ Okay.
 Okay. If I am in SCS control, though, I can - I can afford to do an Enter on 204?
 That's affirmative. If you're in SCS control, you have no power to that relay. It comes through the Spacecraft Control switch, and it...
 Okay. That was my impression.
-...and it must be in CMC, so you cannot get the activation of the relay as long as you're in SCS.
+and it must be in CMC, so you cannot get the activation of the relay as long as you're in SCS.
 Okay.
 All righty.
 I can still have good navigation through the CMC.
@@ -1022,7 +1021,7 @@ Could you stand by one for us, Ken?
 Sure thing.
 Okay. Ken, we're ready for the E-memory dump, and Big Brother is looking over your shoulder. We notice...
 You're kidding.
-...you're in SCS Control.
+you're in SCS Control.
 Thank you, Big Brother.
 And, Casper; Houston.
 Go ahead.

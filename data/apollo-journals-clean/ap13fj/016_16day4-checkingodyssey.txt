@@ -1,220 +1,219 @@
 Roger, Jack. That completes that procedure, and the next thing I've got for you is a procedure for going back into the Command Module and powering up the main buses temporarily using the Bus Tie switches. We want to do this for two reasons: first of all, we want it absolutely verified that there are no loads on the main buses, that we've got: everything off and that the buses look good; and the second thing we want to do is to power the bus - the main buses, with the Bus Tie motor switches, and then depower them by pulling the circuit breakers, leaving the Main Bus Tie switches in the On position, just to assure that they'll be there when we need them, whether the batteries get cold or not. Over.
-[garble] [Long pause.]
 Okay, Joe. How you read?
 Better now, Jack. Satisfactory. Did you copy my rationale for the main bus powerup?
 Yes, I did. You want to remove - You want to power up both buses, with the Bus Tie motor switches; first of all, to see that there are no loads on the buses, and second, and then depower the buses by pulling the circuit breakers to insure that the motor switches don't - that the Bus Ties stay on so that they're there when we need them.
 That's correct, Jack. Are you ready to copy the procedure?
 Okay. Go ahead.
 Okay. As the first step, I have one change to the basic configuration that we gave you, and it's two more circuit breakers that we want open. On panel 225 - Are you ready to write that down? Over.
-Yes. I'm all ready, Joe. Go ahead. [Pause.]
+Yes. I'm all ready, Joe. Go ahead.
 Joe, I'm all ready. Go ahead.
-Okay. On panel 225, we want the Rendezvous Transponder Flight Bus circuit breaker open, and the S-Band FM Transmitter/DSE Flight Bus circuit breaker open. Over. [Long pause.]
+Okay. On panel 225, we want the Rendezvous Transponder Flight Bus circuit breaker open, and the S-Band FM Transmitter/DSE Flight Bus circuit breaker open. Over.
 Okay. TV Rendezvous Transponder Flight Bus, open; TV S-Band Transmitter/DSE Flight Bus open on panel 225.
-Okay. That's correct, Jack. And now we'll go into the main bus power up procedure. And the first step there, is on panel 5. We want the Bat Charger Bat A Charge circuit breaker closed, and the Bat Charger Bat B Charge circuit breaker closed. Over. [Long pause.]
+Okay. That's correct, Jack. And now we'll go into the main bus power up procedure. And the first step there, is on panel 5. We want the Bat Charger Bat A Charge circuit breaker closed, and the Bat Charger Bat B Charge circuit breaker closed. Over.
 Okay. That's Bat Charger Bat A Charge, Bat Charger Bat B Charge, both closed on panel 5.
-That's affirmative. We need them closed to power the switches. Next on panel 5, we want the EPS Sensor Signal Main A and Main B circuit breakers closed. Over. [Long pause.]
+That's affirmative. We need them closed to power the switches. Next on panel 5, we want the EPS Sensor Signal Main A and Main B circuit breakers closed. Over.
 Okay. Panel 5, CB EPS sensor's signals Main A and Main B closed.
-Okay. That's affirmative. We need them closed so that you can read out your volts and amps. Next step, on panel 250, we want circuit breaker Bat A Power Entry and Postlanding and Bat B Power Entry and Postlanding, closed. Over. [Long pause.]
+Okay. That's affirmative. We need them closed so that you can read out your volts and amps. Next step, on panel 250, we want circuit breaker Bat A Power Entry and Postlanding and Bat B Power Entry and Postlanding, closed. Over.
 Okay on panel 250, CB Bat A Power, Entry and Postlanding, closed; Bat B Power Entry and Postlanding, closed.
-That's affirmative. And at that point, we'd like you to check the Bat bus voltages on both Bat buses to make sure we don't have any shorts. Over. [Pause.]
+That's affirmative. And at that point, we'd like you to check the Bat bus voltages on both Bat buses to make sure we don't have any shorts. Over.
 Okay. Read the Bat bus voltages on Bat Bus A and Bat Bus B.
-That's affirmative. The next step on panel 275: circuit breaker Main A, Bat Bus A, closed, and circuit breaker Main B, Bat Bus B, closed. Over. [Long pause.]
+That's affirmative. The next step on panel 275: circuit breaker Main A, Bat Bus A, closed, and circuit breaker Main B, Bat Bus B, closed. Over.
 Okay. On 275, circuit breakers Main A, Bat Bus A, closed; Main B, Bat Bus B, closed.
-That's affirmative. The next step on panel 5: we want the Main Bus Tie A/C switch to the Bat A/C position, and verify proper voltage on Main Bus A, and read the amps on Bat A to make sure we don't have a short. Over. [Long pause.]
-Okay. [garble] [Pause.]
-Okay, Jack, Houston. We're in bad comm again; let's wait a minute. [Long pause.]
+That's affirmative. The next step on panel 5: we want the Main Bus Tie A/C switch to the Bat A/C position, and verify proper voltage on Main Bus A, and read the amps on Bat A to make sure we don't have a short. Over.
+Okay.
+Okay, Jack, Houston. We're in bad comm again; let's wait a minute.
 Okay. How do you read?
 That's better, Jack. Go ahead with your readback.
 Okay. Place Main Bus Tie A/C, on, read Main Bus A current and voltage.
-Okay. That's affirmative. The next step will be the Main Bus Tie B/C switch to the On position and read Main B voltage and battery B amperage as above. Over. [Long pause.]
+Okay. That's affirmative. The next step will be the Main Bus Tie B/C switch to the On position and read Main B voltage and battery B amperage as above. Over.
 Okay, Main Bus Tie B/C on; read Main B voltage and current.
 Okay. That is correct. Then to reconfigure from this configuration, Jack, we want you to leave the Main Bus Tie switches in the On position and pull the circuit breakers out in reverse order that we had you close them. Over; and do you want me to read them up individually?
 No, let me see if I've got it here. I go down to panel 275, open CB Main A, Bat Bus A and CB Main B, Bat Bus B. Then I go down to 250, and pull CB Bat A Power Entry/Postlanding and Bat B Power Entry/Postlanding and then up on panel 5, pull EPS Sensor Signal Main A, Sensor Signal Main B, Battery Charger Bat B Charge, Battery Charger Bat A Charge. And then close - I don't know whether you want me to close the Rendezvous Radar Transponder Flight Bus and S-Band Transmitter/DSE Flight Bus.
 Okay, Jack. We don't want you to close those last two. Those are changes to your basic configuration, and we want to leave them open for now. Over.
 Okay. I'll do that. Was the rest of the readback okay?
-That's correct. Readback was 100 per cent, and we'll wait to hear from you. [Pause.]
+That's correct. Readback was 100 per cent, and we'll wait to hear from you.
 Okay, Joe. And just for confirmation, I went through the switch list you gave me. We are in exactly that configuration with one exception, and that is over on panel 382. I have not, the a - H2O Accumulator is in the Off position so that if we need any more water, we can get it.
 Okay. Roger, Jack. Copy that. On panel 382, you've left the H2O Accumulator valves in the Off position, and we concur.
 Okay. And there's one other thing that I don't know whether you're aware of. We have no lithium hydroxide canisters in panel two fif - in - canisters now. So when we get ready to power up, you'll have to remind us when you want us to add some.
 Okay, Jack. We copy that. That's correct, and I'll add that to our basic checklist so that we won't forget it.
 Okay. Real fine, Joe, and I'm on my way back into the Command Module.
 Good deal.
-Thank you. [Pause.]
-How do you read, Joe? [Long pause.]
+Thank you.
+How do you read, Joe?
 And, Joe, how do you read Aquarius?
 Aquarius, Houston. Pretty good. Go ahead.
-Okay. I'm back on the line now, but Jack really [Garble], headed back to the upstairs bedroom.
-Okay. Roger that, Fred. [Long pause.]
+Okay. I'm back on the line now, but Jack really, headed back to the upstairs bedroom.
+Okay. Roger that, Fred.
 Aquarius, Houston. Over.
 Go ahead.
-Okay, Fred. We recommend that you push your Master Alarm circuit breaker in so you'll have audio and visual on that, and, also, we medical types are getting to feel left out down here, and we'd like you to give us BIOMED [garble] position, if you're plugged in for it, and we'll see whether it affects the voice or not. Over.
-Okay. [Long pause.]
+Okay, Fred. We recommend that you push your Master Alarm circuit breaker in so you'll have audio and visual on that, and, also, we medical types are getting to feel left out down here, and we'd like you to give us BIOMED position, if you're plugged in for it, and we'll see whether it affects the voice or not. Over.
+Okay.
 Hey, Houston; Aquarius. On Down Voice Backup S-band, how do you read me?
 Aquarius, Houston. Read you now satisfactory.
-Okay. And that's my [Garble]
+Okay. And that's my
 Okay. Thank you very much, Fred.
-Actually, a good deal of that little power pack heats up and [Garble]
+Actually, a good deal of that little power pack heats up and
 Roger that.
 Houston, Aquarius.
 Aquarius, Houston. Go ahead.
-Okay, Jack just [garble] himself back down. And after he put on the 250 Bat A, Bat B breakers, he read Bat bus volts as 32.3 on A, 37.0 on B; he then punched in the 275 breakers, which tied the batteries to the buses, and at that time he read the A bus volts 32.0 on A, zero amps; 37.0 on B, zero amps.
-Aquarius, Houston. The comm got noisy there, and I want to make sure we get these numbers right, so I'd like to ask you to repeat them [garble] [Long pause.]
+Okay, Jack just himself back down. And after he put on the 250 Bat A, Bat B breakers, he read Bat bus volts as 32.3 on A, 37.0 on B; he then punched in the 275 breakers, which tied the batteries to the buses, and at that time he read the A bus volts 32.0 on A, zero amps; 37.0 on B, zero amps.
+Aquarius, Houston. The comm got noisy there, and I want to make sure we get these numbers right, so I'd like to ask you to repeat them
 Okay. How do you read now, Joe?
 Okay; probably okay, Fred. Read it nice and slow so we'll be sure to get it. Over.
 Okay. Jack pushed in the 250 Bat A, Bat B entry breakers. He read battery bus volts as 32.3 on A, 37.0 on B. Then he pushed in the 275 breakers tying the BATs to the main buses. In this configuration, Main A is at 32.0 volts, zero amps; Main B is at 37.0 volts, zero amps. So it looks like the buses are okay.
-Okay, Fred. Copy those numbers and thank you very much. I assume you got them off all right. [Pause.]
+Okay, Fred. Copy those numbers and thank you very much. I assume you got them off all right.
 That's affirm. We got all the breakers pulled again.
 Okay. Real fine.
 Hey, Houston; Aquarius. How do you read?
 Aquarius, Houston. Go ahead.
-Okay. How did our [garble] configurations appear to be working down there?
-I'm sorry, Fred, but we got noisy again there. [Pause.]
+Okay. How did our configurations appear to be working down there?
+I'm sorry, Fred, but we got noisy again there.
 Okay. Let me know when you want me to try it.
 Okay. That sounds better already. Go ahead.
-Okay. I'd just like to [garble] how's - how's our lith-o cartridge setup [garble] appear to be working down there.
+Okay. I'd just like to how's - how's our lith-o cartridge setup appear to be working down there.
 We are reading 0.2 on our CO2 sets here, and we're all delighted. It seems to be working fine.
-Boy, that is great. [Pause.]
+Boy, that is great.
 And Fred, Houston. In a little while here, I'm going to have a procedure that I want to read up to you and have you copy down for future use. It's a procedure for powering the Command Module main bus off the LM, and it's something that we feel that's going to come in real handy later on for such things as topping off the Command Module entry batteries, and also possibly for doing some preheating and preliminary powering up of the Command Module before we get rid of the LM. We'll have that for you in probably 10 or 15 minutes. Over.
 Okay, okay, Joe. That's good. Sounds good.
 Roger.
 Aquarius, Houston.
 Go ahead.
-Okay, Fred. Our procedure-generating mill has generated another very short one for you here. It's a procedure for getting an onboard read-out ...
+Okay, Fred. Our procedure-generating mill has generated another very short one for you here. It's a procedure for getting an onboard read-out...
 Stand by 1, Joe.
-Okay. [Long pause.]
+Okay.
 Okay, Joe. Go ahead.
-Okay, Fred. This is a procedure for getting a read-out of the descent propellant tank temps. It's no big problem, but our LM people say that the bottom of the descent stage is probably cooling off, and we just want to verify that the descent water tank will be okay. Right now, it looks as though it won't freeze until several hours after it's empty, but we want to have you read these temperatures out to us so we can see how good our predictions are. The procedure is, on panel 16, close the Propellant Display/Engine Override Logic circuit breaker. Over. [Long pause.]
-Okay. The Propellant Display Override circuit breakers are closed. [garble] the propellant. [Pause.]
-Right, Fred. The next step is simply to turn the Propellant Temp Press Monitor switch to Descent 1, read the fuel and Ox temps, turn it to Descent 2, read the fuel and Ox temps; tell us what they are. [Pause.]
-Okay. On Descent 1, I get a fuel temp of 66.5 degrees, Ox [garble] on Descent 2, I get [garble] [Pause.]
-Okay, Fred. We're in noisy comm here; I got Descent 1 fuel 66.5; stand by a second. [Long pause.]
-Okay. How do you read, now [Garble]?
+Okay, Fred. This is a procedure for getting a read-out of the descent propellant tank temps. It's no big problem, but our LM people say that the bottom of the descent stage is probably cooling off, and we just want to verify that the descent water tank will be okay. Right now, it looks as though it won't freeze until several hours after it's empty, but we want to have you read these temperatures out to us so we can see how good our predictions are. The procedure is, on panel 16, close the Propellant Display/Engine Override Logic circuit breaker. Over.
+Okay. The Propellant Display Override circuit breakers are closed. the propellant.
+Right, Fred. The next step is simply to turn the Propellant Temp Press Monitor switch to Descent 1, read the fuel and Ox temps, turn it to Descent 2, read the fuel and Ox temps; tell us what they are.
+Okay. On Descent 1, I get a fuel temp of 66.5 degrees, Ox on Descent 2, I get
+Okay, Fred. We're in noisy comm here; I got Descent 1 fuel 66.5; stand by a second.
+Okay. How do you read, now?
 That's better. Go ahead.
 Okay. You got 66.5 on Descent 1 fuel temp, oxidizer temp is 66 degrees.
-Okay. Copy ...
+Okay. Copy...
 On Descent TANK 2, fuel is reading 60 - Okay. Descent 2 fuel is reading 68 degrees; oxidizer, 65 degrees.
 Okay. Copy that, Fred. Thank you. We'd like you to pull the circuit breaker, and we'll probably come to you again in 5 or 6 hours for another check.
-Okay. The panel 16 [garble] [garble] Engine [garble] Override is open.
+Okay. The panel 16 Engine Override is open.
 Roger.
-Aquarius, Houston. Over. [Long pause.]
+Aquarius, Houston. Over.
 Aquarius, Houston. Over.
 Go ahead.
-Okay. We're chasing a small glitch that we saw a while ago in the O2 flow rate which is now normal again, but what we'd like you to do is, first of all, to tell us whether, during that canister procedure, you moved O2 Demand Reg A to any position other than Cabin, and then we'd like you to move it to Off momentarily and back to Cabin for us. [Long pause.]
-Okay. To answer your question, Joe, it's no. I checked the Cabin all the time. Qualitatively, when we switched to this configuration, it didn't seem like the frequency or the suit fan noise [garble] decreased [garble] logged down a little bit, but I'll follow your procedure. You want me to take Reg A, go to close and back to Cabin; is that correct?
+Okay. We're chasing a small glitch that we saw a while ago in the O2 flow rate which is now normal again, but what we'd like you to do is, first of all, to tell us whether, during that canister procedure, you moved O2 Demand Reg A to any position other than Cabin, and then we'd like you to move it to Off momentarily and back to Cabin for us.
+Okay. To answer your question, Joe, it's no. I checked the Cabin all the time. Qualitatively, when we switched to this configuration, it didn't seem like the frequency or the suit fan noise decreased logged down a little bit, but I'll follow your procedure. You want me to take Reg A, go to close and back to Cabin; is that correct?
 That's correct, Fred.
 Okay. We're in close.
 Okay.
 Now, I'm back to Cabin.
 Okay. Thank you very much, Fred. I'll get back to you if we see anything.
-[garble] Thank you.
-Hey, have you guys got a woman on board? [Pause.]
-No way I could handle that. [Long pause.]
-And, Joe, do you have the [garble] out for the [Garble]?
-I'm not sure I copied that, Fred. If you asked me whether I had that powerup procedure, I don't have it for you, yet. Over. [Pause.]
-No. The question was, do you have a [garble] from the Moon burn.
+Thank you.
+Hey, have you guys got a woman on board?
+No way I could handle that.
+And, Joe, do you have the out for the?
+I'm not sure I copied that, Fred. If you asked me whether I had that powerup procedure, I don't have it for you, yet. Over.
+No. The question was, do you have a from the Moon burn.
 Still didn't understand, Fred. I'm sorry.
 Okay. We'll be able to get better comm.
-Roger. [Long pause.]
-Okay. [Long pause.]
-Fred, Houston. You want to try it, now? [Long pause.]
+Roger.
+Okay.
+Fred, Houston. You want to try it, now?
 How do you read, Houston?
 That's pretty good, Fred.
-Okay. Two things: first of all, we noticed a [Garble]
+Okay. Two things: first of all, we noticed a
 Gol darn it. Just as you started talking, it got noisy again, Fred; try it again.
-Okay. [Pause.]
+Okay.
 Try it now, loud and slow.
-Okay. Jack had a question on how far out from the Moon are we now? [Pause.]
+Okay. Jack had a question on how far out from the Moon are we now?
 On how far out what?
 From the Moon we are now?
 Oh. Our little plot shows you just touching the 180-thousand-mile line. So you're about 40 K out from the Moon.
 Okay. Okay. And the other thing is, we've noticed some fresh new particles floating around outside, so possibly the Service Module is starting to vent a little bit again.
 Okay. Copy that, Fred. On the O2 flow thing, we clearly saw the Demand Regulator go to Off and back to Cabin. TELMU thinks that it's no big thing that you've seen a little change in flow due to the different resistance we've got in the circuit.
-Roger. [Long pause.]
+Roger.
 Aquarius, Houston.
 Go ahead.
-Okay, Fred. Recommend you go to Off on the Biomed switch. We never did get any Biomed and it might clear up the comm a little bit. [Pause.]
+Okay, Fred. Recommend you go to Off on the Biomed switch. We never did get any Biomed and it might clear up the comm a little bit.
 Okay. How you read now?
-Okay, Fred. That might be a little better. [Long pause.]
+Okay, Fred. That might be a little better.
 We're on the 180 - K line, right now.
 From Earth.
-We're about 40 050. [Long pause.]
-[garble] It's 550 over there.
-Okay. It's [garble] there.
+We're about 40 050.
+It's 550 over there.
+Okay. It's there.
 Just split the difference.
 Yes.
-Okay. I got a copy of the [garble] K [Garble]
+Okay. I got a copy of the K
 Is that right?
-EECOM. [Pause.]
+EECOM.
 That midcourse should be interesting. You know, the mode we're going to do it in.
-Manual AGS [garble] DPS burn. We're controlling [garble] TTCA attitude. [Garble]
-[garble] down under [Garble]
+Manual AGS DPS burn. We're controlling TTCA attitude.
+down under
 Fortunately.
-We can't help them too much. Actually it isn't bad [garble] but [garble] [garble] goddamned unfortunate. In part, I get a feeling [garble] now when I get [garble] Just before [garble] goes to zero in 1 second I'm going to pull them out [Garble]
-Another burn that's never been done. [Pause.]
-Go to the - Go to the technique for a lash and [garble] it's the burn technique. [Long pause.]
-I'm sure they got something written out, maybe [Garble]
+We can't help them too much. Actually it isn't bad but goddamned unfortunate. In part, I get a feeling now when I get Just before goes to zero in 1 second I'm going to pull them out
+Another burn that's never been done.
+Go to the - Go to the technique for a lash and it's the burn technique.
+I'm sure they got something written out, maybe
 A what?
-Well, hell, Jack. All you - you don't use a very good one [garble] Just if you'll go [garble] at your attitude reference for [garble] and the g-meter backup. Because, really, you can almost [garble] The Command Module and your odds are 60 to 40 that you're going to hit Earth blunt-end first, without any reference.
-[garble] I didn't realize that. That proves you've got a little bit above 50-percent odds that you're going to enter blunt end, and...
-We made an entry like that in Apollo 8 in a [garble] with Houston, ol' Buzz went and turned on the Command Module heaters and left them on. The activators, they went, "Shooo!" both tanks; we had no gas. Just had a real slow rate [garble] We actually went out in the console and started debriefing, but left it running and watched it; and the son of a bitch did a hop-skipout, a hopout, underneath [Garble], but not much, and then we did a long hop [garble] but - The second reentry, also, it did one [garble] both times. It lucked out twice and made a real peculiar [garble] They went to zero g [Garble]
-Yes. [Long pause.]
-Yes, we did, Jack. [Garble].
-[Garble] But we're in this wobble.
-[Garble] pass [garble] then it'll come back down.
+Well, hell, Jack. All you - you don't use a very good one Just if you'll go at your attitude reference for and the g-meter backup. Because, really, you can almost The Command Module and your odds are 60 to 40 that you're going to hit Earth blunt-end first, without any reference.
+I didn't realize that. That proves you've got a little bit above 50-percent odds that you're going to enter blunt end, and...
+We made an entry like that in Apollo 8 in a with Houston, ol' Buzz went and turned on the Command Module heaters and left them on. The activators, they went, "Shooo!" both tanks; we had no gas. Just had a real slow rate We actually went out in the console and started debriefing, but left it running and watched it; and the son of a bitch did a hop-skipout, a hopout, underneath, but not much, and then we did a long hop but - The second reentry, also, it did one both times. It lucked out twice and made a real peculiar They went to zero g
+Yes.
+Yes, we did, Jack..
+But we're in this wobble.
+pass then it'll come back down.
 Hey, Houston; Aquarius. How do you read me?
 Aquarius, Houston. Okay. Go ahead.
-Okay, Joe. It - Our wobble in this PTC has picked up where the Moon is running by pretty high in the window and the Earth pretty low; so I expect - On the side where the Moon's present, we're having a little bit of trouble with the comm [garble] breakout there in a couple of places.
+Okay, Joe. It - Our wobble in this PTC has picked up where the Moon is running by pretty high in the window and the Earth pretty low; so I expect - On the side where the Moon's present, we're having a little bit of trouble with the comm breakout there in a couple of places.
 Okay. Roger that, Fred.
-[Garble] pressure gage as far as the noise [garble] get the thing from the AFT. [garble] [Long pause.]
+pressure gage as far as the noise get the thing from the AFT.
 Houston, Aquarius.
 Aquarius, Houston. Go.
 Okay, Joe. I'm all set to copy that procedure for powering up the Command Module from the LM, whenever you want to give it to me. When did you, I guess you want to put Battery A out of the Charge, huh?
 Jack, we're not certain when the best time is to implement this procedure, and what we want to do at this time is read it up to you, so you'll have it and understand it and we'll - We'll be able to do it quickly when the time comes. And I don't have it for you quite yet. Over.
 (Laughter) Okay. All right. I'll be standing by to copy it whenever you get it.
 Okay, Jack.
-Aquarius, Houston. Over. [Pause.]
+Aquarius, Houston. Over.
 Joe, I got to switch antennas here. Okay, Joe. I read you on the Forward antenna.
 Okay, Jack, I have the procedure now to read up to you. Before I do, I want to mention something that will be of interest to Fred. We are looking at the SHe tank pressure rise and we expect it to blow. We don't know exactly what time it will go, somewhere around 105 hours or perhaps later than that. We've got plenty of blowdown capability. We just thought you ought to be informed. Over.
 Okay. Stand by. I'll tell him, now.
 Okay.
-Fred, they said they're looking at the SHe tank pressure rise, and they expect it to blow somewhere around 105 hours [garble] Okay. Fred thought they did. [Garble]
+Fred, they said they're looking at the SHe tank pressure rise, and they expect it to blow somewhere around 105 hours Okay. Fred thought they did.
 Okay. Real fine. Are you ready for the procedure, now, Jack?
-Yes. Joe, how long is it? Is it a big long one, or a short one, or a medium sized [garble] about how many pages?
+Yes. Joe, how long is it? Is it a big long one, or a short one, or a medium sized about how many pages?
 It's about - I'd say 15 to 20 steps, Jack. Some of it is LM stuff, and the rest of it is in CSM.
 Okay. I got a fresh page here, and I'm ready to copy.
-Okay. I'll give you the LM steps first. They have to be done first, and the first step is on panels 11 and 16, circuit breakers Ascent ECA, ASC ECA, two to close. Over. [Pause.]
+Okay. I'll give you the LM steps first. They have to be done first, and the first step is on panels 11 and 16, circuit breakers Ascent ECA, ASC ECA, two to close. Over.
 Okay. Panels 11 and 16 CBs Ascent ECA to closed.
-Okay. Next step: panels 11 and 16 CB Ascent ECA Control, two, to close. Over. [Pause.]
+Okay. Next step: panels 11 and 16 CB Ascent ECA Control, two, to close. Over.
 Okay. On 11 and 16 CBs Ascent ECA Controls to close.
-Okay. That's correct. The next step is Bat 5 and 6 Normal Feed to high; those are switches. [Long pause.]
+Okay. That's correct. The next step is Bat 5 and 6 Normal Feed to high; those are switches.
 Okay. Bats 5 and 6 Normal Feed, On.
-That's correct. Next step: Bats 1 and 3 to Off/Reset. Over. [Pause.]
+That's correct. Next step: Bats 1 and 3 to Off/Reset. Over.
 Bats 1 and 3 to Off/Reset.
-That's correct. Next step: wait 30 minutes for preconditioning. Over. [Pause.]
+That's correct. Next step: wait 30 minutes for preconditioning. Over.
 Okay. That's wait 30 minutes for preconditioning.
-That's correct, and the last LM step for now is Bats 2 and 4 to Off/Reset. Over. [Long pause.]
+That's correct, and the last LM step for now is Bats 2 and 4 to Off/Reset. Over.
 Okay. Bats 2 and 4 to Off/Reset.
-That's correct. Now we'll go to the CSM, and the first step there is connect LM/CSM umbilical. Over. [Pause.]
+That's correct. Now we'll go to the CSM, and the first step there is connect LM/CSM umbilical. Over.
 Okay. Connect LM/CSM umbilical.
-Okay. The next step on panel 5, CB LM Power-1 Main B and LM Power-2 Main B, both, closed. Over. [Pause.]
+Okay. The next step on panel 5, CB LM Power-1 Main B and LM Power-2 Main B, both, closed. Over.
 Okay. On panel 5, CB LM Power-1 Main B and 2 Main B, both, closed.
-That's correct. On panel 5, CB EPS Sensor Signal Main B to close. Over. [Pause.]
+That's correct. On panel 5, CB EPS Sensor Signal Main B to close. Over.
 EPS Sensor Signal Main B closed on panel 5.
-That's correct. Next step, panel 250: CB Bat B Power Entry/Postlanding; closed. Over. [Long pause.]
+That's correct. Next step, panel 250: CB Bat B Power Entry/Postlanding; closed. Over.
 Okay. On panel 250: CB Bat B Power Entry/Postlanding; closed. Over.
-That's Charlie. Verify Main Bus voltage; then, LM Power switch on panel 2 to CSM. Over. [Long pause.]
+That's Charlie. Verify Main Bus voltage; then, LM Power switch on panel 2 to CSM. Over.
 Okay. That's verify the Main Bus voltage, and switch LM Power to CSM.
-Okay. That's correct. Then go back to 275, CB Main B Bat Bus B to open. Hey, Jack, that's the step I skipped for you, I'm afraid. Before verifying Main Bus voltage, you have to, on panel 275, close CB Main B Bat Bus B. Over. [Long pause.]
+Okay. That's correct. Then go back to 275, CB Main B Bat Bus B to open. Hey, Jack, that's the step I skipped for you, I'm afraid. Before verifying Main Bus voltage, you have to, on panel 275, close CB Main B Bat Bus B. Over.
 Okay, Joe. How are you reading on the Aft Omni.
 You're okay now. Go ahead.
-Okay. After putting the Battery B Power Entry/Postlanding On, then I want to push the - on panel 275 Main B to Bat Bus B in, huh? [Pause.]
+Okay. After putting the Battery B Power Entry/Postlanding On, then I want to push the - on panel 275 Main B to Bat Bus B in, huh?
 That's right. Then you go to verify Main Bus voltage, LM Power to CSM, and then, on panel 275, circuit breaker Main B Bat Bus B to open. Over.
 Okay. After verifying the Main Bus voltage connecting the LM Power to CSM I want to pull Main B Bat Bus B, or Main B to Bat Bus B, open.
-That's correct. And then on panel 250, circuit breaker Bat B Power Entry/Postlanding to open, and verify Main Bus B voltage. [Long pause.]
+That's correct. And then on panel 250, circuit breaker Bat B Power Entry/Postlanding to open, and verify Main Bus B voltage.
 Okay. Panel 250 Bat B Power Entry/Postlanding open, and then verify the Main Bus voltage.
-Okay. That's correct. The last, steps are to get LM back to descent batteries. The first step is Bats 1, 2, 3 and 4, Hi Voltage, On, Over. [Long pause.]
+Okay. That's correct. The last, steps are to get LM back to descent batteries. The first step is Bats 1, 2, 3 and 4, Hi Voltage, On, Over.
 Okay. Then the next step is a LM step, Bats 1, 2, 3 and 4, Hi Voltage, On.
-That's correct, and the last step in LM, Bats 5 and 6 to Off. Over. [Pause.]
+That's correct, and the last step in LM, Bats 5 and 6 to Off. Over.
 Okay. Say again you cut out there, Joe.
 Okay, Jack. The last step in LM, Batteries 5 and 6 to Off. Over.
 Okay, Bats 5 and 6 to Off.
@@ -222,23 +221,23 @@ That's correct. That should configure you. Note that circuit-breakers, protectio
 Okay. Real fine.
 Good deal, Jack.
 Okay. And I'll be ready to implement this whenever you call it up.
-Roger that. [Long pause.]
+Roger that.
 And how do you read, Joe?
 Pretty good, Fred.
 Okay. While Jack was on comm, I was looking out the docking window here, and I could see another good shower off particles coming out of the Service Module. And the position this time appears to be on the other side. Before, we'd always seen them out of window 1, and where I'm looking at it from here, it looks like it'd be down below window 6 somewhere in the Service Module. Jack's going upstairs to see what it looks like up there.
-Okay. Good deal. We copy that, Fred. And to show you how relaxed we are about the entry, Ken is looking at - giving you guys a chance to - prior to going into entry, Prep to snap a few pictures of the Service Module. [Pause.]
+Okay. Good deal. We copy that, Fred. And to show you how relaxed we are about the entry, Ken is looking at - giving you guys a chance to - prior to going into entry, Prep to snap a few pictures of the Service Module.
 Ken is, huh? (Laughter)
 Yes, he's got all that film up there, and he doesn't want to waste it.
 Oh, I thought maybe you'd want me to do a PLSS EVA to go shoot pictures or something.
-Okay, okay. [Pause.]
-You're right; we got a lot of pictures. [Pause.]
-I guess I agree it surely would be nice to document it someway if we can, but it doesn't look like [Garble].
-Yes, we think it'd be a lot of help. [Long pause.]
+Okay, okay.
+You're right; we got a lot of pictures.
+I guess I agree it surely would be nice to document it someway if we can, but it doesn't look like.
+Yes, we think it'd be a lot of help.
 Joe, how do you read me?
 Aquarius, Houston. Go ahead.
 Okay. The condensate transfer worked great.
 Stand by a minute, Fred. We're in a bad comm mode.
-Okay. [Long pause.]
+Okay.
 Okay. How's that?
 That's better.
 Okay. The waste transfer into the condensate can works real well, Joe.
@@ -247,28 +246,28 @@ So, I guess we can keep FIDO happy with no overboard dumps.
 Roger that. (Long pause.)
 Yes, that brings up one more possibility, Joe.
 Say again, Fred.
-Brings up another possibility. Now that we've got all of that stowed into the bags and the condensate can, we could probably blow all of that through the PLSS [Garble], I wonder how the sublimator would work on waste water.
+Brings up another possibility. Now that we've got all of that stowed into the bags and the condensate can, we could probably blow all of that through the PLSS, I wonder how the sublimator would work on waste water.
 It might work if we had to do it, Fred. Right now we're looking at a comfortable excess of water through the sublimator. We were talking among ourselves this morning about having you try out the PLSS to ascent tank water-transfer situation and we decided not to do it, not to recommend it, because we figure it'd take us 30 hours to empty one of the ascent tanks, which you have to do in order to get PLSS water to it, and we'd rather use the descent water and we don't think we've gotten any sweat. Over.
-Okay, Joe. I don't think there's any question about it from the plumbing standpoint that we could do that if we had to. [Pause.]
+Okay, Joe. I don't think there's any question about it from the plumbing standpoint that we could do that if we had to.
 Okay. Copy that.
 And, how do you read, Joe?
 Read you pretty good, Fred. Go ahead.
-I think our PTC wobble is growing worse. The Earth now is really up to the top of the window. I have to get way down almost to the floorboards to view it. Conversely, the Moon is way down at the bottom of the window. [Long pause.]
+I think our PTC wobble is growing worse. The Earth now is really up to the top of the window. I have to get way down almost to the floorboards to view it. Conversely, the Moon is way down at the bottom of the window.
 Okay.
 A lot more wobble.
-Roger ...
+Roger...
 Far more wobble than I noticed on my previous watch.
 Okay. Copied that, Fred. And our thermal people will be looking at it. One of the things we're talking about relative to the midcourse correction is we'd like not to do it before the SHe tank goes, if it's going to go, just so it won't give us a problem reestablishing PTC. And right now our people think that the burst disk will pop around 106 hours.
 Okay.
-The L-shaped bag is [garble].
+The L-shaped bag is.
 Aquarius, Houston. Over.
 Go ahead.
 Okay, Fred. Since you went ahead and used the PLSS condensate container, we got the procedure in for using it. I'm not going to read it up to you except that it cautions a little bit about shaking it too much or about filling it too full, because they feel that if you do that the vent valve might unseat and the bag might leak a little bit. Over.
 Okay. We haven't removed it from its stowage spot. We just left it right in place, and just - he mated the tank at the end of the cable and hooked right into that.
 Understand. That's satisfactory and recommended that you leave it in the stowage spot. That should help the situation.
-Roger. [Long pause.]
-We got a - we got another flow shower going on outside. Particles, seeing them vented against the Service Module. Jack thinks it may be an H2 vent. [Garble]
+Roger.
+We got a - we got another flow shower going on outside. Particles, seeing them vented against the Service Module. Jack thinks it may be an H2 vent.
 Okay. Copy that. What window are you looking at it out of, Fred?
 Out the LM docking window.
-The docking window. Roger that. Somebody just handed me your latest consumables status report, and you're using between 11 to 12 amps an hour real steady, and it looks real good. [Long pause.]
+The docking window. Roger that. Somebody just handed me your latest consumables status report, and you're using between 11 to 12 amps an hour real steady, and it looks real good.
 Roger.

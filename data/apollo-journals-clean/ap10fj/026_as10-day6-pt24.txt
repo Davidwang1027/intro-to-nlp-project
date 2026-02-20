@@ -1,13 +1,13 @@
 Hello, Houston. Houston. This is Apollo 10. Over.
 Good morning, Apollo 10. This is Houston. Go ahead.
 Stand by one, Jack.
-...I've got Battery A on the line, and I'm purging the fuel cells at this time. I've gone through O2 on 3, and I'm down, I'm on 2 now.
+I've got Battery A on the line, and I'm purging the fuel cells at this time. I've gone through O2 on 3, and I'm down, I'm on 2 now.
 Roger. We copy.
 How are things in Houston this morning?
 Everything's great. Everybody's raving about your performance yesterday and very happy. No doubt you guys are equally well pleased.
-... good day, Jack. Pretty challenging and pretty satisfying really, when we look back at it.
-Apollo 10, this is Houston. You got up kind of early this morning. We were going to let you sleep in for quite a while yet. We've got a little information that will be of interest to you. Your consumables are away ahead of schedule as usual. We have you in a 65.9 by 55.6 orbit [122.0 x 103.0 km]. Your spacecraft looks real good. You might be interested to know that the LM ascent stage is 23,000 miles [42,500 km] from the Moon heading straight up at 5,400 feet per second [1,645 m/s], and haven't quite been able to tell yet whether it's going into orbit around the Sun or if it's going to head straight at the Sun.
-Hot, isn't he? 23,000 miles [42,500 km] away?
+good day, Jack. Pretty challenging and pretty satisfying really, when we look back at it.
+Apollo 10, this is Houston. You got up kind of early this morning. We were going to let you sleep in for quite a while yet. We've got a little information that will be of interest to you. Your consumables are away ahead of schedule as usual. We have you in a 65.9 by 55.6 orbit. Your spacecraft looks real good. You might be interested to know that the LM ascent stage is 23,000 miles from the Moon heading straight up at 5,400 feet per second, and haven't quite been able to tell yet whether it's going into orbit around the Sun or if it's going to head straight at the Sun.
+Hot, isn't he? 23,000 miles away?
 Yes. Old Snoop's really moving out.
 I hope I didn't leave my watch aboard there.
 I...
@@ -24,7 +24,7 @@ And, 10, this is Houston. I've got a congratulatory message here. It says, "Cong
 Beautiful.
 Houston, I've got a status report for you.
 Roger. Go ahead.
-We're all feeling good, and were about ready to [garble]. We got in about 5 to 6 hours pretty fair sleep. The rads: CDR is 26040; the chimps (CMP) is 05309 [garble] and 15041. Cycling the fans at this time [garble] purge.
+We're all feeling good, and were about ready to. We got in about 5 to 6 hours pretty fair sleep. The rads: CDR is 26040; the chimps (CMP) is 05309 and 15041. Cycling the fans at this time purge.
 Apollo 10, Houston. You're coming in very broken. We're going to have to repeat the report. Wait one until we check out the network. Over.
 How do you read me now, Jack?
 You're cutting out. Let's attempt to fix it up with the network, and then we'll give you a call in a minute.
@@ -64,7 +64,7 @@ Yes. And I can send it through one cycle myself and it's all recocked. And I hav
 Roger. We copy that the gear cycles - has to be cycled manually as opposed to turning automatically after taking a picture.
 I'll play with it a little while longer and see if there's something screwed up in this lens thing.
 Roger. We have people working on it.
-Roger. One final little bit more of information. When I did [garble] recocked that gear took the lens off, rather, and recocked the gear, I get a one-shot affair, and it appears that the mechanism that's jamming is not in the lens, and it's obviously not in the pack, but it's somewhere in the body of the camera.
+Roger. One final little bit more of information. When I did recocked that gear took the lens off, rather, and recocked the gear, I get a one-shot affair, and it appears that the mechanism that's jamming is not in the lens, and it's obviously not in the pack, but it's somewhere in the body of the camera.
 Roger. We copy.
 Apollo 10, Houston. Could you give us an inventory of which cameras you have working and what ones you're having problems with at this time. Over.
 Okay. We've got one 70-millimeter camera with all three lenses, LM lens, two CSM lenses, and I guess we've got two sequence cameras working.
@@ -73,15 +73,15 @@ Apollo 10, Houston. We'll be going LOS in about 10 minutes; and I still have Rev
 Okay, Jack. I'll copy it.
 Go ahead, Jack. I'm ready to copy it.
 Okay. The map update pad REV 22: 117:22:53, 119:32:46, 118:09:03. Sunrise, 117:36:00; sunset, 118:48:26. Ready for your readback, and a go ahead on your photography update.
-Okay. 22: LOS, 117:22:53. 150 is 119 [garble] Sunset [garble].
+Okay. 22: LOS, 117:22:53. 150 is 119 Sunset.
 Houston, did you get that?
 Okay, 10. This is Houston. No, you were cut off part way through the readback. Start at 150, please.
 119:32:46, 118:09:03, 117:36:00, 118:48:26.
 Okay. That's affirmative. You ready to go ahead with LS2 photography PAD:
 Yes. I'm ready to copy something, John - or Jack. Go ahead.
-Okay. LS2 PAD: f:8 is 118:28:52. T1 is 118:33:15, with your TCA [Time of Closest Approach] at 2 minutes; f:2.8 is 118:34:15 with your TCA at 1 minute. T2 is 118:35:15 TCA.
+Okay. LS2 PAD: f:8 is 118:28:52. T1 is 118:33:15, with your TCA at 2 minutes; f:2.8 is 118:34:15 with your TCA at 1 minute. T2 is 118:35:15 TCA.
 Hey. Jack. I got that all down but I'm not sure what you all said. I'm looking for the PAD that it goes to.
-Okay. It's entitled. "Oblique Photography," and f:8 is camera on [time]. T1 is start a half a degree...
+Okay. It's entitled. "Oblique Photography," and f:8 is camera on. T1 is start a half a degree...
 Yes. But what page - hey, is that - Don't we have an update here somewhere? Can you give me the page it's on?
 Apollo 10, Houston...
 Jack, we don't have the same...
@@ -101,92 +101,79 @@ That's affirmative.
 Boy, I knew you guys just couldn't resist waiting until we got airborne and then change all the formats. How about that?
 That's what we get for missing that data priority meeting you had after lift-off.
 Okay, Apollo 10. Houston. Before you go out of sight here, some more information on your update for ALS2. Your roll should be 180, your pitch 339, and your yaw 000. and the TCA numbers we were giving you were time-of-closest-approach, so that T1 would be 2 minutes before closest approach. And you go to f:2.8, 1 minute before closest approach; and then T2, or course is time-of-closest-approach. Over.
-[Garble].
-You're [garble].
-[Garble] we go ahead?
-I don't know. [Garble].
-Okay. [Garble].
-[Garble].
-[Garble] real good? Okay?
-[Garble].
-Yes, I think so. [Garble].
-Yes. Those guys [garble].
-[Garble] after TEI, we're all sitting on our...
-[Garble]?
-Yes. There is still a lot of [garble] all my work [garble] fighting those freaking hoses. [Garble] those goddam things.
-Man, I was running all over the cotton-picking [garble] every time [garble].
-You know, it's really - [garble]. It just flows right out here. I - I [garble] get over there and back [garble].
-Hell, yes; I tried [garble].
-[Garble].
-[Garble] here.
+You're.
+we go ahead?
+I don't know..
+Okay..
+real good? Okay?
+Yes, I think so..
+Yes. Those guys.
+after TEI, we're all sitting on our...
+Yes. There is still a lot of all my work fighting those freaking hoses. those goddam things.
+Man, I was running all over the cotton-picking every time.
+You know, it's really -. It just flows right out here. I - I get over there and back.
+Hell, yes; I tried.
+here.
 All I can see is Mars and Antares.
-Get the [garble].
-[Garble].
+Get the.
 Don't we need three?
-That puts you at 118, and you've got 30 minutes [garble].
-[Garble] Automaneuver, John? Well now, what - what's the inertial angle now?
-I think so, if this thing works. Say, how was - somebody's got to [garble]. How are we going to do it [garble]?
+That puts you at 118, and you've got 30 minutes.
+Automaneuver, John? Well now, what - what's the inertial angle now?
+I think so, if this thing works. Say, how was - somebody's got to. How are we going to do it?
 Yes.
-I don't know. Let me get the card. [Garble] that way.
-[Garble].
-[Coughing] [Garble] pressurize it through here. Try to get a hold right here [garble]. How's that? [Garble] straight?
-Yes. [Garble].
+I don't know. Let me get the card. that way.
+pressurize it through here. Try to get a hold right here. How's that? straight?
+Yes..
 Yes. I - I - Yes, that'll be right, John.
-Have you still got the [garble]? [Garble].
-This is [garble]. Well, I got about 30 or 40 pictures [garble], John. [Garble].
-We're using the black and white film [garble].
-What's the [garble] - the whole roll?
-[Garble].
-John, I've got - I've got some [garble] here to put all that crap [garble].
+Have you still got the?.
+This is. Well, I got about 30 or 40 pictures, John..
+We're using the black and white film.
+What's the - the whole roll?
+John, I've got - I've got some here to put all that crap.
 Do it in color or black and white?
-John, how - Oh, yes, you can. Hey, I'll tell you one thing we might do. Yes, we can just clean out this stuff in the inflow valve. Yes. Oh, that son of a bitch is [garble] there. Yes.
+John, how - Oh, yes, you can. Hey, I'll tell you one thing we might do. Yes, we can just clean out this stuff in the inflow valve. Yes. Oh, that son of a bitch is there. Yes.
 Need some tape?
 Gene-o, where's the tape?
-[Garble] is still holding [garble].
+is still holding.
 Yes, babe. Where was that little plastic bag? Oh,
-[Garble].
-Right there on the [garble]. That's the one.
-[Garble].
+Right there on the. That's the one.
 What time are you supposed to start pitching? Matter of a fact, I'd better get over there. No, I'm doing it.
 Okay.
-Yes, that's [garble], babe. They want - they want roll 180 and pitch to 231, huh?
-Hey, Gene-o. While you're down there, would you put this, you know, this ... bag back, babe? No, it's not. It's in that - [garble] bag [garble].
-This is just a [garble] of the last time [garble]. Yes.
-Yes. [Garble]. Yes, [garble].
-[Garble].
+Yes, that's, babe. They want - they want roll 180 and pitch to 231, huh?
+Hey, Gene-o. While you're down there, would you put this, you know, this... bag back, babe? No, it's not. It's in that - bag.
+This is just a of the last time. Yes.
+Yes.. Yes,.
 Hold it.
-[Garble].
-[Garble]. Huh? Two dots? Yes.
-Look at that son of a bitch! No, look at this. Look at this! Look what I found - out the window. What do you see, old buddy? [Garble] appear in a magnetic field. Look out there. We got a piece of Snoopy hanging on. It's - it's [garble]. Get a picture of that. Black and white [garble] color.
+Huh? Two dots? Yes.
+Look at that son of a bitch! No, look at this. Look at this! Look what I found - out the window. What do you see, old buddy? appear in a magnetic field. Look out there. We got a piece of Snoopy hanging on. It's - it's. Get a picture of that. Black and white color.
 Here. You got some. color?
-Yes. You still have - f:11 at 250. A piece of Snoop [garble] you get it, John. Just hanging there. 17 - 53.
+Yes. You still have - f:11 at 250. A piece of Snoop you get it, John. Just hanging there. 17 - 53.
 That's got to be Snoopy.
 Huh? It is?
 It's yellow like that, huh?
-You got the color squared away? ... you want to take - Oh, you - oh, you - did this - this what I'd been using yesterday.
+You got the color squared away?... you want to take - Oh, you - oh, you - did this - this what I'd been using yesterday.
 Yes, it's out.
-[Garble] there's another [garble] color film. That stuff [garble] color film.
-I don't have it here. Yes, I do, too. Here we go. Take this. We ought to get a lot of [garble]. Here we are. Here is your color film. Right.
-This is a good film [garble]. You - didn't get it, huh?
-That's when I called in some stuff the other day, y'all [garble]. Okay, Gene-o, [garble] pitch up.
-Hey, Gene-o, while you're down there, how about opening this thing; put the rest of these things down there. [Garble].
+there's another color film. That stuff color film.
+I don't have it here. Yes, I do, too. Here we go. Take this. We ought to get a lot of. Here we are. Here is your color film. Right.
+This is a good film. You - didn't get it, huh?
+That's when I called in some stuff the other day, y'all. Okay, Gene-o, pitch up.
+Hey, Gene-o, while you're down there, how about opening this thing; put the rest of these things down there..
 Okay, we're still upright at 335 Orb Rate.
-How about killing one of these roll [garble], babe?
-Okay, base it. 16 millimeter. Oh, you're not going to use real phase, are you? 8 - f:8 at [garble].
+How about killing one of these roll, babe?
+Okay, base it. 16 millimeter. Oh, you're not going to use real phase, are you? 8 - f:8 at.
 Do you want the color, babe? This is used. We're all out of color on this.
-Here's one over here, Gene-o. See that black? Black is [garble]. Can you see over to the left here or do you want me to take it? Hold it, Gene-o. How much - how much of the stuff we got left? About out?
-[Garble].
-[Garble]. Got this all started, babe.
-Well, we could [garble] that [garble].
+Here's one over here, Gene-o. See that black? Black is. Can you see over to the left here or do you want me to take it? Hold it, Gene-o. How much - how much of the stuff we got left? About out?
+Got this all started, babe.
+Well, we could that.
 What? Yes.
-That son of a bitch right down below us is tan and brown. I don't - it - Look at those [garble] craters. You got some coming straight down below you, Gene-o.
-Hey, here's a good example of what fills up craters. You see that son of a bitch coming in down below. You - Get a look at its [garble] in there. I mean. Beautiful. Okay.
-Hey, you see this big, big one down here right be to your left, John, probably. We're coming around - You see how the sides are slumping down and filling up the bottom? That might not be any [garble].
-It looks like that stuff is scraped off. It's in big layers, and it's brown, and the whole thing slumped in. [Garble], you know it?
-[Garble] oblique thing, what are we using - Did they tell us to use a 250 or an 80 [mm lens]?
+That son of a bitch right down below us is tan and brown. I don't - it - Look at those craters. You got some coming straight down below you, Gene-o.
+Hey, here's a good example of what fills up craters. You see that son of a bitch coming in down below. You - Get a look at its in there. I mean. Beautiful. Okay.
+Hey, you see this big, big one down here right be to your left, John, probably. We're coming around - You see how the sides are slumping down and filling up the bottom? That might not be any.
+It looks like that stuff is scraped off. It's in big layers, and it's brown, and the whole thing slumped in., you know it?
+oblique thing, what are we using - Did they tell us to use a 250 or an 80?
 Man, it is - Here's the flattest crater over here.
-Oblique [garble].
-Yes, babe. Use the 80 and the intervalometer. Where's our intervalometer? José, why don't you get the intervalometer? Also, we need that - we need that mount. [Garble] need the mount [garble]. You know it's...
+Oblique.
+Yes, babe. Use the 80 and the intervalometer. Where's our intervalometer? José, why don't you get the intervalometer? Also, we need that - we need that mount. need the mount. You know it's...
 Apollo 10, Houston. How do you read. Over.
 Hello, Houston. Apollo 10.
 Roger, Apollo 10. Read you loud and clear. How me?
@@ -242,8 +229,8 @@ Apollo 10, Houston. If you're transmitting, you're coming in broken. Over.
 Okay. We're coming right to the landing site now.
 Roger.
 Tell Jack Schmitt there's some very interesting looking type impacts here on the backside and also some very interesting looking things that sort of look like volcanoes. There's one on the backside that I - that, if it was in a different setting, you would call Mount Fujiyama.
-Ah so, gazaimaus. [probably 'Ohayou gozaimasu', a Japanese form of 'thank you'.]
-...Apollo 10. I'm looking backwards [garble] past [garble] Sabine and Ritter [garble] couple of minutes [garble] looking down now [garble] area [garble] over here [garble] all types of volcanic [garble] domes and [garble] uprisings, out here [garble] looks like you've had tremendous volcanic action, here.
+Ah so, gazaimaus.
+Apollo 10. I'm looking backwards past Sabine and Ritter couple of minutes looking down now area over here all types of volcanic domes and uprisings, out here looks like you've had tremendous volcanic action, here.
 Roger, 10. We copy. You're coming in a little bit broken, though.
 Roger, Houston, Apollo 10. Over.
 Okay. You sound better, John.
@@ -251,14 +238,13 @@ Okay. This morning when we were turning around, first time, we had about - I est
 John, Houston. We didn't copy the first part of your transmission. You were broken. We'd like you to say again your observation. And we'd also like to get some information as to whether or not you are noticing any moisture collecting around that hatch. Over.
 John's going up to take a look at it now.
 Roger. We have some questions we'd like to ask you regarding that, that you might be able to help us out with while John's up there doing that. And we'd like you to go over again the description of the forward hatch thermal blanket damage. Describe your recollection of the location, the directions, and the general appearance of the edges of the tears. And the reason we want this is because we're CCB-ing it today on 107 and we need the information.
-Okay, What the problem was, when we opened the pressure equalization valve, it just blew the insulation blanket right up. And I don't know how much air was going in there, and we didn't open it any more than cautiously on that first time, I'll tell you that. And so it wasn't being opened very fast, and what it did was it blew the blanket right up and from then on it blew all the insulation out from down in the Mylar covering, right in the center of the hatch, right in the pressure equalization valve, right around that area. So it seems to be a problem in attaching [garble] around that location. Realize that it's got to put up with the air that comes out of the pressure equalization valve, which could be a pretty considerable force, if you haven't thought about that before. I can see how it happened easy enough.
+Okay, What the problem was, when we opened the pressure equalization valve, it just blew the insulation blanket right up. And I don't know how much air was going in there, and we didn't open it any more than cautiously on that first time, I'll tell you that. And so it wasn't being opened very fast, and what it did was it blew the blanket right up and from then on it blew all the insulation out from down in the Mylar covering, right in the center of the hatch, right in the pressure equalization valve, right around that area. So it seems to be a problem in attaching around that location. Realize that it's got to put up with the air that comes out of the pressure equalization valve, which could be a pretty considerable force, if you haven't thought about that before. I can see how it happened easy enough.
 Houston, Apollo 10. Just inside the Command Module we picked up the bag that you stow your gloves in inside the helmet. We have one of those bags that we jettisoned in Snoopy completely full of this fiberglass Mylar.
 Roger, 10. Understand that when you opened the pressure equalization valve, the insulation blanket blew up and then blew out insulation from around the pressure equalization valve and you filled a whole bag of it. Is that affirmative?
 That is affirmative. And we still have - still finding considerable pieces of insulation in the Command Module, and Snoopy looked like a snowstorm hit it inside there. Needless to say, it makes you itch quite a bit in the eyes, ears, nose, all over; but there's no problem to continue.
 Of course we didn't realize we had it until we pulled the hatch off in there, and first we knew was when we got the hatch turned over, boy that was...
-Looked like [garble] snowstorm [garble] got all the insulation...
+Looked like snowstorm got all the insulation...
 Apollo 10, this is Houston. You're getting unreadable. We're going to have to clear up this comm before we go on. Over.
-[Garble].
 10, this is Houston. Let's actuate your High Gain and see if it's any better.
 Apollo 10, this is Houston. And could you continue on with your description of the Mylar insulation, please.
 Right, Jack. I'm sure you remember from LM-3, and we had the same problem initially on LM-4, when we vented the same forward hatch in the altitude chamber, how all the Mylar blew out and it blew out the skin on the top side. Well, this is exactly what happened except we just had a few layers of Mylar and all this fiberglass insulation or something of that nature down below it, and when the Mylar - There just was no provisions made for really properly venting through the Mylar and when that blew out, that let all the insulation just flake out in the tunnel, and the probe and drogue were just packed in there with all this fluffy insulation. And so I'm not sure of the total design criteria for the new fix, but you sure want to fix it before the next Command Module flies because we've been itching and scratching in here for about 3 days. Over.
@@ -296,8 +282,8 @@ Roger. Sounds like living in the Dust Bowl in Oklahoma.
 Yes. I had some good training on that (laughter) area.
 That's right; he was right at home.
 It's not that way now. It's a beautiful place now, Jack.
-Okay, Apollo 10. You've got LOS and AOS. We are well caught up on information going up, so let's go up with the news now. Prague, Czechoslovakia: US astronaut Frank Borman, one of three lunar pioneers on the Apollo 8 Moon flight last year has been awarded the Czech Academy of Sciences Gold Medal for service to science and humanity. About 1,000 Czechs, shouting "Long live, glory, glory" greeted Borman, first American to win the award, as he stepped from the Academy building, Thursday. "By the end of 1970," Borman told the news conference, "we'll be able to take scientists and doctors of many nations on flights to the Moon." [Laughter.] New York: Johnny Carson was honored Thursday as the Performer of the Year by the International Radio and Television Society. Carson told the audience at the Americana Hotel that he was once chewed out by a station manager for oversleeping and missing a broadcast. "So I got cocky and told them that someday I would have my own network show and win an important award," Carson said. And the station manager said, "The day that happens, they'll send a man to the Moon." Hong Kong: Communist Chinese authority [laughter] - thought you'd get a chuckle out of that. Communist Chinese authorities have confiscated a Hong Kong fishermans permit because he played hookey from Mao Tse Tung's thought study classes. A Hong Kong government spokesman said today, "The licenses allowed him to operate in Hong Kong and Chinese waters." Washington: one of our old friends, Charles A. Lindbergh, the Lone Eagle of pioneer aviation, says rocket pioneer Robert Goddard told him in 1929 a Moon voyage was theoretically impossible, theoretically impos - correction - theoretically possible, but economically improbable. In a rare public utterance, the reporters and news photographers barred, Lindbergh philosophized about the future of American aviation, and reminisced about Goddard. He said Goddard told him it was possible to send a multistage rocket to the Moon; then he smiled a little bit and said, "It might cost a million dollars and of course that was out." [Laughter.] Carlton, England: Fred Alder, 67, saved all his life to buy an 11-bedroom house on the sea to give children from poor homes a vacation. "It's the happiest day of my life," Alder said, as the first contingent of 20 youngsters arrived at the house that cost him almost $20,000. He said 200 children will have 10 days at his new seaside home by the end of summer. And a trust fund has been set up for the future. Oh, yes, we heard again from that unemployed local philosopher. With all the excitement he lost his head and digressed from his favorite subject of color television to say that, "For three fellows who, by their own admission, could not figure out which way was up, you sure did a doggone respectable job yesterday." And here's the sports news. Houston beat Montreal 7 to 4. Atlanta beat New York 15 to 3. And the Cubs defeated Los Angeles last night 3 to 1. John Young has had these interesting astrocasts. Today it is, "Keep all operations above board. Confidential transactions are apt to blow up later with considerable embarrassment for all. Travel is better postponed; the people you would go to see are not yet set for the visit." [Laughter.] And in the golf world, at the Atlanta Classic, the first round leaders are George Knudson and Jackie Cupit, under par, 67. That's the news. Over.
-Roger. [Laughter.] Thank you very much, Jack.
+Okay, Apollo 10. You've got LOS and AOS. We are well caught up on information going up, so let's go up with the news now. Prague, Czechoslovakia: US astronaut Frank Borman, one of three lunar pioneers on the Apollo 8 Moon flight last year has been awarded the Czech Academy of Sciences Gold Medal for service to science and humanity. About 1,000 Czechs, shouting "Long live, glory, glory" greeted Borman, first American to win the award, as he stepped from the Academy building, Thursday. "By the end of 1970," Borman told the news conference, "we'll be able to take scientists and doctors of many nations on flights to the Moon." New York: Johnny Carson was honored Thursday as the Performer of the Year by the International Radio and Television Society. Carson told the audience at the Americana Hotel that he was once chewed out by a station manager for oversleeping and missing a broadcast. "So I got cocky and told them that someday I would have my own network show and win an important award," Carson said. And the station manager said, "The day that happens, they'll send a man to the Moon." Hong Kong: Communist Chinese authority - thought you'd get a chuckle out of that. Communist Chinese authorities have confiscated a Hong Kong fishermans permit because he played hookey from Mao Tse Tung's thought study classes. A Hong Kong government spokesman said today, "The licenses allowed him to operate in Hong Kong and Chinese waters." Washington: one of our old friends, Charles A. Lindbergh, the Lone Eagle of pioneer aviation, says rocket pioneer Robert Goddard told him in 1929 a Moon voyage was theoretically impossible, theoretically impos - correction - theoretically possible, but economically improbable. In a rare public utterance, the reporters and news photographers barred, Lindbergh philosophized about the future of American aviation, and reminisced about Goddard. He said Goddard told him it was possible to send a multistage rocket to the Moon; then he smiled a little bit and said, "It might cost a million dollars and of course that was out." Carlton, England: Fred Alder, 67, saved all his life to buy an 11-bedroom house on the sea to give children from poor homes a vacation. "It's the happiest day of my life," Alder said, as the first contingent of 20 youngsters arrived at the house that cost him almost $20,000. He said 200 children will have 10 days at his new seaside home by the end of summer. And a trust fund has been set up for the future. Oh, yes, we heard again from that unemployed local philosopher. With all the excitement he lost his head and digressed from his favorite subject of color television to say that, "For three fellows who, by their own admission, could not figure out which way was up, you sure did a doggone respectable job yesterday." And here's the sports news. Houston beat Montreal 7 to 4. Atlanta beat New York 15 to 3. And the Cubs defeated Los Angeles last night 3 to 1. John Young has had these interesting astrocasts. Today it is, "Keep all operations above board. Confidential transactions are apt to blow up later with considerable embarrassment for all. Travel is better postponed; the people you would go to see are not yet set for the visit." And in the golf world, at the Atlanta Classic, the first round leaders are George Knudson and Jackie Cupit, under par, 67. That's the news. Over.
+Roger. Thank you very much, Jack.
 Oh, by the way, Tom, I've got your astrocast here too. "Your natural tendency for moderate, sparse consumption serves you well. Your system is a little more sensitive to strange foods."
 He's been eating like a horse for 4 days. He's the only one that saved us from the Mylar. He ate it up.
 Gene, I think we should read your astrocast here, too. Gene, "Conditions are bewildering. There are so many odd and unfamiliar details. Just curb your impatience; question everything, and put things into place, one at a time."
@@ -332,62 +318,56 @@ Okay, Houston. We're doing the main regulator checks now.
 Roger. Copy.
 Apollo 10, Houston. We think the unscheduled tube action would best come around Rev-29, and we have a question about the LM acquisition lights after staging. Did John see the LM ACQ lights any time after staging? Over.
 Houston. Apollo 10. Talking about the big track light out there above the forward hatch. John saw it all the way, in fact, we had to turn it off for him at the end it was so bright. Over.
-[Garble]. Beautiful. It fills up the whole reticle when it's close - close in, about 10 or 11 miles [18 or 20 km].
-Yes, I could see it out to - Shoot, there one time, it was over 200 miles [370 km].
+Beautiful. It fills up the whole reticle when it's close - close in, about 10 or 11 miles.
+Yes, I could see it out to - Shoot, there one time, it was over 200 miles.
 Roger. Copy you saw it all the way.
-Could you see us all the way out there? Because that was over 300 [miles, 555 km] [garble].
+Could you see us all the way out there? Because that was over 300.
 And, Apollo 10, Houston. Do you have any idea what might have fixed the VHF problem after undocking yesterday?
-Yes. Yes. While I wasn't tracking [garble] No idea whatsoever. We just tried it again and it worked.
+Yes. Yes. While I wasn't tracking No idea whatsoever. We just tried it again and it worked.
 Yes. We had the same switch configuration again that was - thought it might be corona but, I mean, there was no way for us to tell, but you did come in just unreadable before and after we undocked and squared away. We tried again and it was unreadable and we tried it one more time...
 Roger, 10. See you around the corner.
-[Garble] ain't going to bother him [garble].
-[Laughter.]
+ain't going to bother him.
 What did I say?
-No sunlight on us now. That's what we [garble] Got 20 minutes to [garble] again.
+No sunlight on us now. That's what we Got 20 minutes to again.
 Okay, Houston, I did a sextant star check just to make sure that was a good alignment. The star's pretty close to being in the middle of the scope.
-Hey, lookie here. Them [garble] finally figured out a way to [garble]. How about that?
-I'm trying to. I can't find it. I don't know where it is - [garble] and say, well, there's [garble] Mars and all that shit. [Garble], babe. It looks to me like it's shit. We going [garble] today?
-Yes. Thought we'd [garble].
-Boy, I bet you that low light level [garble].
+Hey, lookie here. Them finally figured out a way to. How about that?
+I'm trying to. I can't find it. I don't know where it is - and say, well, there's Mars and all that shit., babe. It looks to me like it's shit. We going today?
+Yes. Thought we'd.
+Boy, I bet you that low light level.
 Hello. Houston; Apollo 10.
 Gene-o. When we do this landmark tracking, it's going to be a beautiful time to get the Earth coming up.
 You're right.
-After we [garble].
-I got to [garble].
-Yes. Yes. Fine, [garble].
-[Garble].
-Yes. We ought to get that film stuff all - I got a bunch back here that I got before [garble].
-[Garble].
+After we.
+I got to.
+Yes. Yes. Fine,.
+Yes. We ought to get that film stuff all - I got a bunch back here that I got before.
 You got - Here's one color, Gene-o. Color was all used up. Now we have special color back here, I think.
 And I got black and white.
 I got the special color...
-[Garble].
 The only other roll we had is that one in the LM.
 Is it?
 Yes. Now where is that one at? Is that that one? You what?
-[Garble].
 Where does this go? Where does this go?
 You had two rolls...
 Where does this go?
-...you had one in the Command Module, one in the LM, and one [garble] special. Now, the main thing is, where is that roll of color film?
+you had one in the Command Module, one in the LM, and one special. Now, the main thing is, where is that roll of color film?
 How about getting me one roll of color film? You may need a different dark slide on it. That dark slide is all freaked up, too. We start this pass in 15 minutes, Gene-o.
 The vertical path.
-[Garble].
-That's just after - [garble] vertical path. Okay? It's just that - it's just [garble]. Yes. When you don't take any oblique, you don't pitch over.
-No. Just the - just the - We don't need the sequence [garble]. How much color film do we have left? Have you got all the exposed and unexposed? We ought to take inventory. We ought to get some good stuff of that Moon [means Earth] coming up.
+That's just after - vertical path. Okay? It's just that - it's just. Yes. When you don't take any oblique, you don't pitch over.
+No. Just the - just the - We don't need the sequence. How much color film do we have left? Have you got all the exposed and unexposed? We ought to take inventory. We ought to get some good stuff of that Moon coming up.
 We don't have any more color film?
-I can't believe [garble].
-That's it. That's why I was anxious to get [garble].
-Hell, they had too many goddam [garble].
+I can't believe.
+That's it. That's why I was anxious to get.
+Hell, they had too many goddam.
 Should I call up Verb 82, José?
 Yes.
 That noise on that VHF sure sounded weird yesterday, didn't it?
 Yes, it did.
-Okay. Now when we first start - near the terminator we're going back to what they gave us on this card, f:4 and 250 [garble] As it gets lighter, we'll go to f:4 at [garble].
-That works out pretty good. I tried to extrapolate ahead for you when I got that attitude [garble].
+Okay. Now when we first start - near the terminator we're going back to what they gave us on this card, f:4 and 250 As it gets lighter, we'll go to f:4 at.
+That works out pretty good. I tried to extrapolate ahead for you when I got that attitude.
 65 east, I yaw right.
-[Garble] go right [garble].
+go right.
 (Sneeze) Pardon me. Gene-o, could you give me a tissue?
 Yes. Just give me one of them.
-John, [garble] paper is all over.
-[Garble], you know it, you know it [garble].
+John, paper is all over.
+you know it, you know it.

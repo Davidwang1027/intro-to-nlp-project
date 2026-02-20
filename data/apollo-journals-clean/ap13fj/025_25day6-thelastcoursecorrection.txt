@@ -1,73 +1,72 @@
-Fred, are you sleeping. [Pause.]
-Go ahead. [Pause.]
-Fred, in a couple of minutes we're going to hand over the Honeysuckle, so there'll be - Our uplink will be terminated. We'll contact you when we get it back. [Pause.]
-Okay. [Long pause.]
-After that, I've got a couple minutes of work for you. [Pause.]
+Fred, are you sleeping.
+Go ahead.
+Fred, in a couple of minutes we're going to hand over the Honeysuckle, so there'll be - Our uplink will be terminated. We'll contact you when we get it back.
+Okay.
+After that, I've got a couple minutes of work for you.
 All right. Go ahead.
-Let's wait until after the handover. [Long pause.]
+Let's wait until after the handover.
 Are you there, Jack?
 Yes, I'm hearing you loud and clear. How me, Fred?
-[Garble.]
 Okay. We want to get some ranging data on you for about 15 minutes. So close the Power Amplifier circuit breaker and go to Normal Voice, please.
-Okay. [Long pause.]
-Okay. You ought to have it now, Jack. [Pause.]
+Okay.
+Okay. You ought to have it now, Jack.
 Okay. You're coming through good now, Fred. I've got three Deltas to the checklist. They're minor changes. I'd like to pass them along now. One of them is to the CSM checklist. So if you'll pick that up, I'll give it to you.
 Okay. Which one?
 Okay. Stand by 1.
 Is it the one Jack wrote them all in? The big long readout? He also wrote something in the G&N book.
 It's in the big, long one he wrote out at about EI minus 02:30. EMS entry check.
-Okay. He's coming back down with it. [Long pause.]
+Okay. He's coming back down with it.
 Meanwhile, Fred, I've got two for you on the LM Prep checklist.
-Okay. Jack's here now. I'll hand it to him. [Long pause.]
+Okay. Jack's here now. I'll hand it to him.
 Okay, Houston; Aquarius.
-Hello, Aquarius. I've got a couple of changes for you on your CSM checklist. [Pause.]
-Okay. Stand by 1. [Pause.]
+Hello, Aquarius. I've got a couple of changes for you on your CSM checklist.
+Okay. Stand by 1.
 Okay. Go ahead.
 Okay, Jack. The time line between EI minus 02:30 and 1 hour is real crowded, so you're really going to have to hustle, and we've decided to delete the EMS entry check at minus 02:30. That'll give you a little more time in there. What we've decided to do with it is wait until after EI minus 1, just before you initialize the EMS. If you have time, and only if you have time, do the EMS entry check. Otherwise, forget it and go right on into EMS initialization. You understand?
 Okay. You're going to delete between 2 hours and 30 minutes and 02:15 there, and you're going to add it, if there is time, only if there is time, at EI minus 1 hour where the EMS initialization occurs.
-That's right. You got it correctly. Okay, Jack. One other item. Just before EI minus 2 hours and 15 minutes, we need an E-memory dump Verb 74 Enter. Over. [Pause.]
-Okay. Stand by 1, would you, please? [Long pause.]
+That's right. You got it correctly. Okay, Jack. One other item. Just before EI minus 2 hours and 15 minutes, we need an E-memory dump Verb 74 Enter. Over.
+Okay. Stand by 1, would you, please?
 Okay. Right before 2 hours and 15 minutes, I assume that's before MSFN gives their P27 update, I do a Verb 74. Right?
-That's affirmative, Jack. [Long pause.]
-How much sleep did you get, Jack? [Pause.]
+That's affirmative, Jack.
+How much sleep did you get, Jack?
 Oh, I guess - Stand by. I guess maybe 2 or 3 hours. It was awful cold, and it wasn't very good sleep.
 Roger. You plan to try to get any more?
 What GET do you have?
-We got 132:37. [Long pause.]
-Well, if I - If I get everything done, I'll try, but I tell you, it's almost impossible to sleep. [Pause.]
+We got 132:37.
+Well, if I - If I get everything done, I'll try, but I tell you, it's almost impossible to sleep.
 All of us have that same problem. It's just too cold to sleep.
-Roger. The way we're looking at it, looks like you ought to have a couple free hours here before you have to really get with it. [Pause.]
-We'll - we'll take it easy, but I - and we'll try to sleep, but it's just awful cold. [Pause.]
+Roger. The way we're looking at it, looks like you ought to have a couple free hours here before you have to really get with it.
+We'll - we'll take it easy, but I - and we'll try to sleep, but it's just awful cold.
 Present data indicates that your entry angle is minus 6.03 degrees. Your Delta-V at the midcourse is going to 2.8 feet a second.
-Okay. Copy. [Pause.]
+Okay. Copy.
 Jack, this is. Jim. I understand this is going to be an RCS burn.
 That's affirmative, Jim. It's going to be an RCS burn.
 Okay.
-And we need the Suit Circuit Relief valve back to Auto. Correction, back to Close. [Pause.]
+And we need the Suit Circuit Relief valve back to Auto. Correction, back to Close.
 Hey, Jack, that's in work. And one thing, comparing Jim's checklist with my own, I find one difference there at EI minus 02:30. His checklist has me changing a - opening a EPS Sensor Signal circuit breaker right prior to turning off LM power. Is - I'd like to find out which checklist is correct.
 Hey, Jack. The LM checklist is just for information to Jim. It's just to tell him that - that you're changing back to Command Module power. Your checklist is correct. Over.
 Okay. And when do you figure that you'll be sending up the PADs that you have?
 Aquarius, all of your PADs will be coming up in about 3½ hours, at EI minus 06:30. And one thing we want to remind you of, when you remove power from the Command Module LM umbilical, is to be sure that you open the LM Power Main B circuit breakers, both of them, before you start throwing switches and circuit breakers in the LM. Do it as we've outlined it in the procedure, in that order. Over.
-Okay. That's the way we planned on it. We'll let Jack do his three and then he'll tell us when we're Go from there. What pages are those changes on? [Pause.]
+Okay. That's the way we planned on it. We'll let Jack do his three and then he'll tell us when we're Go from there. What pages are those changes on?
 Okay, Fred. The one I've got for you is at the end of power removal from the Command Module LM umbilical. And just for your information, after you go through that entire procedure and about the time you're ready to transfer to the Command Module, at that time, power will be removed from the umbilical, and it's okay to disconnect it. That is, after you've thrown the switches in the LM. Is that clear?
 Roger. That's where I've got a remark here to check with you to see if it's all right to proceed.
-Roger. And that would be just after, on panel 16, you opening Ascent ECA Control breakers. [Pause.]
-Which step number is that? [Long pause.]
+Roger. And that would be just after, on panel 16, you opening Ascent ECA Control breakers.
+Which step number is that?
 The confusing thing is, Jack, where they told me to wait for MSFN Go before proceeding was that Bat 2 Low Volts Off/Reset, then On.
 Okay. That's still affirmative. We'll give you a go after waiting 5 seconds, and then down from there just a few steps, after you have opened the Ascent ECA Control breakers on panel 16, at that point, the umbilical is not powered, and it's okay to disconnect them should you care to do so.
 Okay. After the last step then, I'm free to disconnect.
 Right. And one other change we have is, shortly after that, where we're configuring for jettison, we have closed both the Forward Dump valve and the Overhead Dump valve. And we don't want to get in a locked up position like that, so one way to get around it is to - After we close the Forward Dump valve, turn the Descent Oxygen valve off. Over.
-Okay. After the Forward Dump valve, add a step in that says the Descent Ox valve, off. [Pause.]
+Okay. After the Forward Dump valve, add a step in that says the Descent Ox valve, off.
 Okay, Fred. That concludes the Deltas. And perhaps you heard that our Gammas are still minus 6.03 and our Delta-V will be a 2.8 foot per second RCS burn.
-Roger. [Long pause.]
-Freddo, we've got one more change we'd like to give you to clarify a question that Jack asked earlier. At EI minus 02:30 ...
+Roger.
+Freddo, we've got one more change we'd like to give you to clarify a question that Jack asked earlier. At EI minus 02:30...
 Okay. Hold on a minute, Jack. I meant to call Jack back down. I'm not familiar with the previous discussion.
 Negative. This is on your checklist.
 Okay. Go ahead.
 At E mi - EI minus 02:30, during power removal from the umbilical, first thing we do is two steps with the CSM. We open the Main B, the LM Power to Main B circuit breakers, and then there's a third step which says "Circuit breaker EPS Sensor Signal, Main B, open." Just delete that step. Over.
 Okay. Delete the third step.
 And, Aquarius, for your information, as far as our water supply is concerned, including our plans for powerup, we have an additional 18 hours of water remaining from this point.
-Okay. Eighteen hours of water remaining from this point, Jack. [Long pause.]
+Okay. Eighteen hours of water remaining from this point, Jack.
 Hello, Houston; Aquarius.
 Hello, Aquarius. Go ahead.
 Okay, Jack. This is Jim. I just want to make sure that you're filtering the changes to the checklist that come up to make sure that they're absolutely essential. When we learn our procedures, we can only do it one time, and we can't make changes at the last minute. We'd like to do the best, the safest way possible, but unless the changes are really essential, don't bother sending them up.
@@ -77,15 +76,15 @@ Yes. For your information, Jim, I don't know whether you heard that originally, 
 I concur. I think for reentry we don't have to have a real accurate platform, but I haven't told Jack that.
 Roger. Hey, Jim, while you're up and things are nice and quiet, let me give you a couple of other things to think about. One specifically. I know none of you are sleeping worth a damn because it's so cold, and you might want to dig out the medical kit there around 01:35 or in that ballpark, and pull out a couple of Dexedrines apiece and try one about then, and another around 01:39 to 01:40.
 Well, I hadn't brought that up. We might - We might consider it.
-Okay. [Long pause.]
+Okay.
 Wish we could figure a way to get a hot cup of coffee up to you. It'd probably taste pretty good about now, wouldn't it?
-Yes, it sure would. You don't realize how cold this thing becomes when it's in a PTC mode that's slowing down, and I just clocked the cycles on my [garble] And it's about 11 to 12 minutes now, and the Sun is directly overhead, so it's shining on the engine bell of the Service Module and not getting down to the spacecraft at all. [Pause.]
+Yes, it sure would. You don't realize how cold this thing becomes when it's in a PTC mode that's slowing down, and I just clocked the cycles on my And it's about 11 to 12 minutes now, and the Sun is directly overhead, so it's shining on the engine bell of the Service Module and not getting down to the spacecraft at all.
 Hang in there. It won't be long now.
 Yes. That's right. As a matter of fact, doing this alignment on the Earth this time will be like making a landing with a fogged-up windshield.
-Aquarius, Houston. [Long pause.]
+Aquarius, Houston.
 Go ahead, Houston.
 Okay, Skipper. We figured out a way for you to keep warm. We decided to start powering you up now, and what we want you to do - what we want you to do is take your entry LM Prep checklist and start at the top where it says "Bat 5 Normal FEED on," and then jump over as it says to your 30-minute activation, and do all of the 30-minute activation up to, but not including, the burn. You copy?
-Okay. If I understand you correctly, then that gives me leeway to maneuver when we get up to activation complete, and we can be in position for the burn, but we will not burn. We don't have a PAD anyway. [Long pause.]
+Okay. If I understand you correctly, then that gives me leeway to maneuver when we get up to activation complete, and we can be in position for the burn, but we will not burn. We don't have a PAD anyway.
 That's affirm, Jim. You could maneuver to burn attitude, or you could maneuver to an attitude which should put the Sun in the windows to warm the place up.
 Sounds good, and you're sure we have plenty of electrical power to do this?
 That's affirmative. We've got plenty of power to do it. I can get you a number, though.
@@ -96,24 +95,24 @@ I understand.
 Houston, Aquarius.
 Go ahead, Aquarius.
 Okay. Question. This short turn on step 3 on page 24 has us only turning on the RCS System A/B, two quads, and the breakers are still out on panel 11. Did you want those in, too, or are we just going to use one set of heaters?
-Stand by. [Long pause.]
+Stand by.
 Aquarius, Houston. Go as the checklist recommends for now. When you get into the circuit breaker panel configuration, you're going to get the number 1 set of heaters on anyway.
 Okay.
 Okay, Houston. We'd like to get a hack to set our mission timer here, Jack.
-Okay, Freddo. Set it at 133:35 straight up. You've got about 30 seconds to set it. [Long pause.]
+Okay, Freddo. Set it at 133:35 straight up. You've got about 30 seconds to set it.
 Okay. Standing by.
 Okay. I'll give you the 2-second delay in there. Stand by to start.
 Start.
 Okay. We've got it.
 Okay. I'm counting 133:35:10.
-Right on. [Long pause.]
-Aquarius, Houston. One other way to warm things up in a hurry in there is when you get your AC on to turn on the window heaters. [Long pause.]
-Okay. I guess the only question I have is what it's liable to do to us with the - looks like almost a frost on it now. [Long pause.]
+Right on.
+Aquarius, Houston. One other way to warm things up in a hurry in there is when you get your AC on to turn on the window heaters.
+Okay. I guess the only question I have is what it's liable to do to us with the - looks like almost a frost on it now.
 Understand this, Jack. I'd like to let it maybe warm up just a little bit more before hitting it with the heat load.
 Not a bad idea.
-And, as you can see, Houston, at turn-on we got our old friend downlink 2 back. [Pause.]
+And, as you can see, Houston, at turn-on we got our old friend downlink 2 back.
 Roger. We're seeing it, Fred.
-Aquarius, Houston. It looks like you're proceeding toward the gimbal lock there. We'd like you to check that, please. [Pause.]
+Aquarius, Houston. It looks like you're proceeding toward the gimbal lock there. We'd like you to check that, please.
 Roger. Not much we can do about it. We can't use the thrusters, Houston.
 Okay. Forget it now; we'll get it later.
 And, Houston, Aquarius. I guess the next thing for the PGNS will be a coarse align 000, but I guess we ought to hold up now until we get enough time on the RCS thrusters.
@@ -124,35 +123,35 @@ Roger. Did you get my Go for RCS?
 That's affirm. We're Go. What we're doing now, Jack, is letting the spacecraft drift in this mode to pick up the Earth again.
 Okay.
 I don't want to just go blasting around the sky and get high rates, because I don't have anything to null the rates on until the Earth comes back up again. And - Once I get the Earth in sight, we have no strain on nulling rates. That part of the Earth, that is.
-It's going to be interesting today, Jack. The Earth's a lot bigger; the crescent is a lot more pronounced than it was yesterday. [Pause.]
+It's going to be interesting today, Jack. The Earth's a lot bigger; the crescent is a lot more pronounced than it was yesterday.
 Well, you're going in the right direction.
 That's right.
-And, Jack, I guess we haven't changed our angle much with respect to the Sun 93 million miles away, so it ought to be in about the same place in the AOT, isn't that Charlie? [Long pause.]
+And, Jack, I guess we haven't changed our angle much with respect to the Sun 93 million miles away, so it ought to be in about the same place in the AOT, isn't that Charlie?
 Hold 1 on that, Fred. I'll get an answer for you.
 Okay.
 Aquarius, your ASA is warmed up now. You can activate the AGS.
 Okay.
 Aquarius, Houston. When you look out a detent 2 in the proper burn attitude, what you ought to see is the Sun at 12 o'clock, about halfway between the top of the AOT and the center of the pipper. And you ought to see the Earth...
 Okay.
-...at 6 o'clock.
-Okay. [Long pause.]
-And, it's getting a little warmer in here now. Thank you. [Long pause.]
+at 6 o'clock.
+Okay.
+And, it's getting a little warmer in here now. Thank you.
 Duck blinds are always warmer, Jim, when the birds are flying.
-Right. [Long pause.]
+Right.
 Jack, I've gotten so used to flying attitude with the TTCA, I won't be able to do it normally.
 Say again, Jim.
 I said I gotten so used to flying attitude with the translational control, I won't be able to do with the ACA.
-Aquarius, we see your glycol temperature getting up there. If you want to make it a little warmer, or you can try putting your Suit Temp valve to High, if you haven't already got it there. [Pause.]
+Aquarius, we see your glycol temperature getting up there. If you want to make it a little warmer, or you can try putting your Suit Temp valve to High, if you haven't already got it there.
 Okay.
-Aquarius, something we're thinking about right now is, if we can do it without using a lot of RCS, it would be to our advantage timewise to try to get an alignment. [Pause.]
+Aquarius, something we're thinking about right now is, if we can do it without using a lot of RCS, it would be to our advantage timewise to try to get an alignment.
 Okay. You mean a P52?
 We're...
-I'll [garble] around.
-A combination of 51 and 52. [Pause.]
+I'll around.
+A combination of 51 and 52.
 I'll see what we can do, Jack.
 Okay. And we'd planned to use the Moon and the Sun for that.
 Aquarius, Houston. On panel 16, we'd like for you to close the Cross Tie Bal Loads breaker, please.
-Okay. it's closed. [Pause.]
+Okay. it's closed.
 And it looks like we could support a - an alignment in a few minutes, if you'd be willing to go ahead with that.
 Jack, it sounds good. I think from our position here, we know where the Sun and Moon are and it's strictly going to be a pitch maneuver. But I think we can save some gas. I'll see what we can do.
 Roger.
@@ -160,16 +159,16 @@ Houston, Aquarius.
 Go ahead, Aquarius.
 We're all set to go. Are you going to ship us up a REFSMMAT?
 Yes, we are. Stand by 1.
-Okay. [Long pause.]
-The Sun feels wonderful. It's shining in the rendezvous window. [Pause.]
+Okay.
+The Sun feels wonderful. It's shining in the rendezvous window.
 And, Aquarius, before we can ship you a load, we'll have to have, on panel 11, under Comm, the Updata Link circuit breaker closed.
 It's closed.
 Roger. It'll be a few...
-[Garble] closed [garble].
-Okay. And it'll be a few minutes yet, Jim. We're still cranking it up. [Pause.]
+closed.
+Okay. And it'll be a few minutes yet, Jim. We're still cranking it up.
 Okay. Stay with it, Jack, and I'll go back to data.
-Roger. [Long pause.]
-I got Bat in about 33⅓ per cent on that uplink. Too fast alarm. [Pause.]
+Roger.
+I got Bat in about 33⅓ per cent on that uplink. Too fast alarm.
 Say again on that, Fred.
 I just got another uplink too fast when I took the Data switch back off - It's happening, I guess, about a third of the time.
 Roger.
@@ -183,8 +182,8 @@ Roger. Aquarius, we're through with it, it's your computer.
 Thank you.
 And, Aquarius, Houston; take option 1 on a P52 when you get to it. And I've got some ball angles for a Sun and Moon.
 Okay. We want an option 1 and you've got some ball angles for Sun and Moon. And right now, Jim has the Sun pretty well squared away right in the middle of AOT.
-And have you got some plan in vectors for us, Jack? [Long pause.]
-Okay, Freddo. For the Sun, I've got 246; for the Moon I've got 250. [Pause.]
+And have you got some plan in vectors for us, Jack?
+Okay, Freddo. For the Sun, I've got 246; for the Moon I've got 250.
 Are you talking about ball theta angles?
 Negative. I was - I was reporting the code for Noun 70.
 They're in the computer, Fred.
@@ -196,63 +195,63 @@ Go ahead.
 Just as a note of interest, in this dock configurations for P52s, the Command Module docking probe is right down the middle of - the docking light, rather, is right down the middle of the detent. And when the Sun flashes on, it really makes it difficult.
 Roger.
 Just like the simulator.
-Yes. It was good training. [Long pause.]
+Yes. It was good training.
 Well, Jack, that's what it says the torqueing angles are.
-We haven't got them yet. [Pause.]
+We haven't got them yet.
 Aquarius, hold on to torqueing angles, Please.
-We're doing that. [Long pause.]
+We're doing that.
 Jim, the reason for the delay is that we're not seeing the data yet. We're having to check a point here; and as soon as they come up, we'll let you know what to do with them.
-Okay. We had a large Noun 05 of - what - 112, and our torqueing angles, Jack, are minus 01713, minus 03278, minus 01395. [Pause.]
-Roger. Minus 01713, and we see them now. [Long pause.]
+Okay. We had a large Noun 05 of - what - 112, and our torqueing angles, Jack, are minus 01713, minus 03278, minus 01395.
+Roger. Minus 01713, and we see them now.
 Aquarius, torque them.
-Okay. [Pause.]
+Okay.
 At 35:04:25.
-Aquarius, do you have a star close by there you could check? [Pause.]
+Aquarius, do you have a star close by there you could check?
 I'll...I'll look around, Jack. I was just trying to get a check on the Moon, again, to see if those angles were indeed true, and we got the Moon back again and centered.
 Roger.
 Okay, Jack. What you're reading now the angles? We had the Moon centered, and it's pretty close to what we have on the 8 ball, I guess. Close enough for any entry that we'd like to do.
-Roger. And I'm told that Denubla - Denebola and Regulus are nearby if you wanted to make a star check. [Pause.]
-Okay. I'm going to start pitching around again, and I'll see if I can pick them up. I have Orion out here to my left a little bit, but it's pretty close to the - oh, here. I've got Sirius. That's a nice one. How about that? [Pause.]
+Roger. And I'm told that Denubla - Denebola and Regulus are nearby if you wanted to make a star check.
+Okay. I'm going to start pitching around again, and I'll see if I can pick them up. I have Orion out here to my left a little bit, but it's pretty close to the - oh, here. I've got Sirius. That's a nice one. How about that?
 Sounds good here.
 Aquarius, is Jack sitting on the rumble seat there?
 He was. He just headed upstairs to take another look around.
 Okay. I got a minor addition to the entry checklist for him. This time it's in the...
 Okay. Stand...
-...entry book.
-Okay. Stand by 1. He has that in his pocket. [Long pause.]
+entry book.
+Okay. Stand by 1. He has that in his pocket.
 What I'm doing, Jack, is just - I'm pitching over now. I'm going to pick up another star. Sirius was just too far off. I thought I was going to use too much gas getting there.
 Roger.
-By the time I get aligned in the - in the AOT - be nice if we didn't, have Odyssey attached, we could just Auto - Auto maneuver over to these things. [Long pause.]
+By the time I get aligned in the - in the AOT - be nice if we didn't, have Odyssey attached, we could just Auto - Auto maneuver over to these things.
 Looks to us like you've got her aligned, Jim, so I wouldn't worry about it too much.
 Yeah. I'm pretty confident that the platform's fairly decent.
 Aquarius, Houston. We need an E Mod Verb 74, when you've got a chance, please.
 Okay. Coming to you.
 Okay, Jack. Go ahead.
-Okay, Jack. On your entry checklist, on page 2-5. Down there on step 9, where it says 152 degrees pitch at .05g, adjacent to that, so that Recovery can see you better on the way down, we want you to turn your S-Band, Power Amplifier to High. Over. [Long pause.]
-Okay. Turn S-Band, Power AMP to High at .05g time.
-That's affirmative. [Pause.]
+Okay, Jack. On your entry checklist, on page 2-5. Down there on step 9, where it says 152 degrees pitch at.05g, adjacent to that, so that Recovery can see you better on the way down, we want you to turn your S-Band, Power Amplifier to High. Over.
+Okay. Turn S-Band, Power AMP to High at.05g time.
+That's affirmative.
 Okay. Is that it?
 That's it, Jack.
 Aquarius, Houston. We're considering doing the midcourse with PGNS, unless you'd rather do it in AGS.
 No. PGNS is fine with me. I just align myself up with the old ball again. So I've got you foresighted again, but any way you want to do it.
 Like you say, you might as well go first class.
-I guess you're right. [Pause.]
-Now wait a minute, Jack. [Pause.]
+I guess you're right.
+Now wait a minute, Jack.
 I just lost a lot of friends there.
 And, Jack, you can tell Owen Morris that the RCS System A/B 2 Quad 1 breaker is still nicely in.
 Roger. We'll pass the word.
 Aquarius, Houston. We think we've figured out a way to save you some time at a very critical - very full schedule. And that's by doing a docked coarse align, since we got the LM up now. That would save you a maneuver or two.
 Houston, Aquarius. It seemed to me a docked coarse align might be quicker for - for Jack.
 Yes. We think it would be, and it'd save quite a bit of time at a place where you're going to be pretty busy. Also save you some petrol.
-Affirm. [Long pause.]
-Okay, Jim. We're looking at doing this in the Service Module Sep attitude, and the optics will be pointed away from the Sun. So it should be a good attitude for a P52. [Pause.]
-Okay. So, we'll be going to the Service Module Sep attitude, at which time we'll do a docked coarse align, and... [Pause.]
-Then you want - You want Jack then to do a P52? [Long pause.]
+Affirm.
+Okay, Jim. We're looking at doing this in the Service Module Sep attitude, and the optics will be pointed away from the Sun. So it should be a good attitude for a P52.
+Okay. So, we'll be going to the Service Module Sep attitude, at which time we'll do a docked coarse align, and...
+Then you want - You want Jack then to do a P52?
 The way we'll do that in our time line Jim, is to go ahead and do the Service Module Jett and then we'll just stay in that attitude and when it comes time in our time line as we've outlined, to bring the platform up, we'll proceed with the P52 - coarse align, and then the P52.
 Okay. Are we going to use the same techniques that we normally do for LM activation? In other words, I try to maintain an attitude, and give him some angles and then - Are you going to give him the angles? Then he does the 52.
 Basically, it's the same procedure just reversed, Jim.
 Okay.
-Another nice thing about this, is it's one we've done before. [Long pause.]
+Another nice thing about this, is it's one we've done before.
 And, Aquarius. One thing, however, that we do not plan to do is to proceed with the Command Module power-up prematurely.
 Roger.
 Understand.
@@ -262,16 +261,16 @@ Okay. I just wanted to talk over with you, it looks like we've had some changes 
 Roger, Jack. Since we've got the PGNS up, we plan to use that information to give the CMC a dock coarse align, and then we're in the Service Module jettison attitude, we'll wait until it comes time to power up the CMC, and we'll get the CMC a dock coarse align, and we'll pick some good stars to give you a fine align with, and it looks like we can pick some stars that are looking away from the Sun in which you can find in that Service Module jettison attitude; so, we'll save you quite a bit of gas, and save you some time in a very busy time.
 Hey, that sounds good. Really fine.
 Keeping warm?
-Hey, it's warmed up here now. It's almost comfortable. [Pause.]
-I'm looking out the window now, Jack, and that Earth is whistling in like a high-speed freight train. [Long pause.]
+Hey, it's warmed up here now. It's almost comfortable.
+I'm looking out the window now, Jack, and that Earth is whistling in like a high-speed freight train.
 We're clocking you at 48,000 miles and coming in at about 9,000.
-I don't think there's many LMs that have seen it like this. I'm still looking for Fra Mauro and Cone Crater. [Pause.]
-You're going the wrong way, son. [Long pause.]
-Okay, Jack. It looks - Just looking over what I may expect here, it looks like I'm just going to get three angles to do a Verb 41 Noun 20, right? [Pause.]
+I don't think there's many LMs that have seen it like this. I'm still looking for Fra Mauro and Cone Crater.
+You're going the wrong way, son.
+Okay, Jack. It looks - Just looking over what I may expect here, it looks like I'm just going to get three angles to do a Verb 41 Noun 20, right?
 That's what it looks like from here, Jack. It's pretty much the opposite of the LM activation procedure where we do the dock coarse align.
-Yes, except in a way we did a lot of Verb 06 Noun 20, Enters, simultaneously, and then you all shipped him up post-torque values. You're not going to do anything like that are you? [Pause.]
+Yes, except in a way we did a lot of Verb 06 Noun 20, Enters, simultaneously, and then you all shipped him up post-torque values. You're not going to do anything like that are you?
 Say again, please, Jack.
-Okay. During the activation part, we do a lot of Verb 06 Noun 20, Enters simultaneously, reading you out the difference in the angles, and then MSFN furnishes the post-torqueing angles, in order to get the platform fine aligned. Do you plan something like that or just three coarse align angles. [Pause.]
+Okay. During the activation part, we do a lot of Verb 06 Noun 20, Enters simultaneously, reading you out the difference in the angles, and then MSFN furnishes the post-torqueing angles, in order to get the platform fine aligned. Do you plan something like that or just three coarse align angles.
 Jack, we're going to give you three coarse align angles, and then you can go right to your checklist as we're giving it, and start in with the Verb 40 Noun 20.
 Okay. Real fine.
 And, Jack, how do you read?
@@ -283,35 +282,35 @@ Okay. I'd guessed right after all, but thank you.
 Aquarius, Houston. Over.
 Go ahead, Houston.
 Okay, Jim. I got MCC-7 PAD when you're ready to copy. Over.
-Okay. Stand by. [Long pause.]
+Okay. Stand by.
 Okay. We're in luck, I got one PAD left.
 Okay. We'll take care not to change this one. Ready to go?
 Go ahead, Joe.
-MCC-7: 137:39:48.39, minus 0003.1, plus all zeros, plus 00001, N/A, plus 0020.5, 0003.1, 0:23, 008, 359; the rest is N/A. Remarks: plus-X, four jets, RCS; and your weights for the DAP load: LM weight, 25181; CSM weight, 62468. Over. [Pause.]
+MCC-7: 137:39:48.39, minus 0003.1, plus all zeros, plus 00001, N/A, plus 0020.5, 0003.1, 0:23, 008, 359; the rest is N/A. Remarks: plus-X, four jets, RCS; and your weights for the DAP load: LM weight, 25181; CSM weight, 62468. Over.
 Okay, Joe. MCC-7: 137:39:48.39, minus 0003.1, plus all balls, plus 0000.1, N/A, plus 0020.5, plus 0003.1, 0:23, 008, 359; the rest of pad N/A. Remarks: plus-X, four jets, RCS, ullage; the LM weight, 25181; CSM weight, 62468. Over.
-Okay. Readback correct. [Long pause.]
+Okay. Readback correct.
 And, Aquarius; Houston. I have a Service Module Sep PAD if you want to copy that, now. Over.
 Say again, Joe.
 Roger, Fred. I have a Service Module Sep PAD with the attitudes. You don't need a PAD sheet for it; just any old blank sheet will do.
 Okay. I was going to say I don't - We don't hardly carry a Service Module Sep PAD.
 Yes, we'll have to change that.
 Okay. I'm using a P27 here. Go ahead.
-Okay. The PAD reads as follows and then I'll repeat the angles for you so you can copy them. The following MCC-7, maneuver the LM to the following FDAI attitudes: roll, 000; pitch, 91.3; yaw, 000. Now do you want those attitudes repeated, Fred? [Pause.]
+Okay. The PAD reads as follows and then I'll repeat the angles for you so you can copy them. The following MCC-7, maneuver the LM to the following FDAI attitudes: roll, 000; pitch, 91.3; yaw, 000. Now do you want those attitudes repeated, Fred?
 Okay. Following MCC-7 we're to maneuver to the following attitudes: roll, 000; pitch, 091.3; yaw, 000.
-Okay. That's correct. And the last part of the PAD is at GET 138:10:00, which is EI minus 4.5 hours, execute a push of 0.5 feet per second, four jet, plus-X; perform SM Sep; then execute pull, 0.5 feet per second, four jet, minus-X. Over. [Pause.]
+Okay. That's correct. And the last part of the PAD is at GET 138:10:00, which is EI minus 4.5 hours, execute a push of 0.5 feet per second, four jet, plus-X; perform SM Sep; then execute pull, 0.5 feet per second, four jet, minus-X. Over.
 Houston, Aquarius. Jack's entering the Command Module, now.
-Okay, Jim. [Long pause.]
+Okay, Jim.
 Okay. That last Joe was execute at the GET at 138:10:00 which is EI minus 4½ hours; execute a push of 0.5 feet per second, four-jet ullage; then execute SM Sep followed by a pull of 0.5 feet per second, with respect to a nomenclature on the TTCA; I think we really need an up of 0.5 and then a down of 0.5.
-That's correct, Fred. [Long pause.]
-Okay, Aquarius. The last PAD I had for you right now is the LM jettison PAD. Similar to the - Stand by 1, Aquarius. [Long pause.]
+That's correct, Fred.
+Okay, Aquarius. The last PAD I had for you right now is the LM jettison PAD. Similar to the - Stand by 1, Aquarius.
 Okay, Aquarius; Houston. Request P00 and Data for a data load. Over.
 You got it.
-Okay. And I was about to say the LM jettison PAD is similar to the SM Sep PAD, Fred, when you're ready to copy. [Pause.]
+Okay. And I was about to say the LM jettison PAD is similar to the SM Sep PAD, Fred, when you're ready to copy.
 Just about the same number of lines?
-Yes. [Long pause.]
+Yes.
 Okay. Go ahead, Joe.
 Okay, Fred. Prior to 141:40:00, which is EI minus 1 hour, maneuver the LM to the following FDAI angles: roll, 130; pitch, 125; yaw, 012.4. The corresponding CSM gimbal angles will be roll, 291; pitch, 196; yaw, 045, and that's the PAD. Over. And the computer is yours, Aquarius.
-Thank you. [Pause.]
+Thank you.
 Okay. A LM Sep PAD prior to 141:40:00, EI minus 1 hour, maneuver to following attitudes: roll, 130; pitch, 125; yaw, 012.4. The corresponding CSM gimbal angles are roll, 291; pitch, 196; yaw, 045.
 Readback correct.
 Aquarius, Houston.
@@ -325,7 +324,7 @@ Okay. I hope that when you send up all those uplinks to Jack that you could get 
 We're shooting for less than 5 minutes.
 Sounds good.
 And are you still using the computer?
-That's a negative, Fred. The computer is yours. [Pause.]
+That's a negative, Fred. The computer is yours.
 And, Fred, the computer has your target load in.
 Okay.
 Houston, Aquarius.
@@ -346,14 +345,14 @@ And mind out for gimbal lock.
 We will.
 Aquarius, Houston.
 Go ahead, Houston.
-Roger. We're looking at LM current, to see if Jack has started his preheat, and we haven't seen it yet. Is he doing okay down there? [Long pause.]
+Roger. We're looking at LM current, to see if Jack has started his preheat, and we haven't seen it yet. Is he doing okay down there?
 Houston, Jack said he's already started it, and he said that in 1 more minute, he'll be up to 20 minutes.
-Oh. Roger that. [Pause.]
-Jim, Houston. Have him let us know what his test meter reads when he's done. [Pause.]
+Oh. Roger that.
+Jim, Houston. Have him let us know what his test meter reads when he's done.
 He says that he had a Battery A voltage drop of 2 volts, and he'll try to look at the test meter for you right now.
 Okay.
 He's been looking at, them, but they haven't been coming up, so far.
-We copy. [Long pause.]
+We copy.
 Do you see a current now, Houston?
 Stand by 1 on that, Jim. That's affirmative, Jim; it looks like we are seeing one now.
 Okay. And thanks for keeping us on it.
@@ -362,23 +361,23 @@ Aquarius, Houston.
 Go ahead.
 Roger. Reminder P41 for the RCS burn.
 Thanks for keeping us honest.
-We got to protect our jobs, Jim. [Pause.]
+We got to protect our jobs, Jim.
 We've been DPS-ing so long here.
 Yes.
 Okay, Houston. I finished up the maneuvers, the Auto maneuver in 41; but my roll and yaw needles seem to be offset. Pitch is okay.
 Okay, Jim. We copy. Stand by.
 Okay.
-Houston, Aquarius. [Long pause.]
+Houston, Aquarius.
 Aquarius, Houston. Did you call?
 Roger, Joe. Figured, if we're going to do this burn in PGNS now, I ought to give you an update on the contingency book pages 32, 33, and 34, because the last time we went through this portion, we were burning it in AGS.
-Okay, Fred. Stand by. We've been talking about possibly having you do it in AGS. We recommend at this time that you do an AGS to PGNS align, the 400 plus 3 procedure only. Over. [Pause.]
-Okay. [Long pause.]
+Okay, Fred. Stand by. We've been talking about possibly having you do it in AGS. We recommend at this time that you do an AGS to PGNS align, the 400 plus 3 procedure only. Over.
+Okay.
 And, Aquarius, Houston
 Go ahead, Houston.
-Roger. We recommend that you perform this burn in AGS, as you did the last midcourse maneuver; we think it will save gas. Over. [Pause.]
+Roger. We recommend that you perform this burn in AGS, as you did the last midcourse maneuver; we think it will save gas. Over.
 Okay. Joe, do you want me to line up the same way we did the last one, too?
-Stand by on that. [Long pause.]
-And, Joe, Jack just handed me some injector temperatures, if you want to read these on [garble] so I can plug them in.
+Stand by on that.
+And, Joe, Jack just handed me some injector temperatures, if you want to read these on so I can plug them in.
 Roger. Go ahead with those.
 Okay. 5 Charlie, 4.0; 5 Dogs, 3.7; 6 Able, 3.5; 6 Bravo, 4.1; 6 Charlie, 4.2; 6 Delta, 3.8.
 Okay. Copy those, Fred.
@@ -387,31 +386,31 @@ Go ahead, Houston.
 Okay, Jim. Our recommendation on this burn is that you maneuver to the burn attitude, in PGNS Min Impulse, then do a body-axis align, 400 plus 5, followed by 400 plus 0, and then do the burn in AGS. Over.
 Okay. Now we're spinning it with the PGNS, what you gave us for a PGNS attitude. Is this the wrong one? Do you want me to just to align up the Earth as I did before in the last midcourse?
 No. We don't want you to do that. Read me your FDAI angles, and let's compare them with what we have down here.
-Okay. You're looking at them in the DSKY. I've got roll of 8.47; pitch of about 0.51; and yaw looking at about 3.750. [Pause.]
+Okay. You're looking at them in the DSKY. I've got roll of 8.47; pitch of about 0.51; and yaw looking at about 3.750.
 Okay, Jim. Those are very close - I guess all you need to do is trim them up a bit.
-I plan to do a final trim - Auto trim, and then a four-jet translation. [Long pause.]
+I plan to do a final trim - Auto trim, and then a four-jet translation.
 Okay, Jim. For fuel conservation, we'd prefer you to trim it up Min Impulse, and there's really very little trim required; and then go ahead and do it AGS. We're on the expected fuel usage, but we're just being old ladies about it.
 Okay. Understand. My only question, Joe, is the fact that both the roll and the yaw needles did not go to null when I did an Auto maneuver. I'd tried to go manually to the attitude; and then went to Auto, but the roll and the yaw do not come in at all.
 Roger. I haven't got an answer on that yet, but your attitude looks very close.
-Okay. I can take it on [garble].
-And, Houston, Aquarius. I'm not sure that if I follow and null the needles, that will be the proper attitude. [Long pause.]
+Okay. I can take it on.
+And, Houston, Aquarius. I'm not sure that if I follow and null the needles, that will be the proper attitude.
 Okay. Stand by 1, Jim. We're talking about it. It's going to be very close; in any event, close enough.
 Okay.
 And, Jim, just for your information, I have the entry PAD. I have the landing area weather summary, which you probably don't even have to copy, but which I'll read up to you when you're ready; and some stars for Jack that I'm holding for him for later on.
-Okay. [Pause.]
+Okay.
 And, Joe, Jack says all the injector temperatures, he just checked them again, and they're all over 3.9...
-...If he knows the needles...
-Understand, that they're all over 3.9 now. Thanks a lot. [Pause.]
+If he knows the needles...
+Understand, that they're all over 3.9 now. Thanks a lot.
 You can tell him that it's looking good to us. They were even happy with the previous ones.
-Okay. [Long pause.]
+Okay.
 And, my only question, Houston, is do you want me to null the PGNS needle manually?
 Okay. Stand by 1 more minute, Jim.
 Houston, Aquarius.
 Go ahead, Aquarius.
-Yes. I guess the basic question is comparing the balls here and out the window it doesn't look too unreasonable, and I guess Jim says the COAS is yawed and roll slightly off from what he might eyeball; but yet, the FDAI air needles for PGNS are showing a full scale left in roll and full scale left in yaw. [Garble]...
+Yes. I guess the basic question is comparing the balls here and out the window it doesn't look too unreasonable, and I guess Jim says the COAS is yawed and roll slightly off from what he might eyeball; but yet, the FDAI air needles for PGNS are showing a full scale left in roll and full scale left in yaw....
 Okay. Go ahead.
 Yes. It appears if we track those we, obviously, aren't going to be on the attitude that we burned the last midcourse.
-Okay. Well, this attitude we passed you is not quite aligned to the terminator, and stand by on this. [Pause.]
+Okay. Well, this attitude we passed you is not quite aligned to the terminator, and stand by on this.
 It should be off about 8 degrees, Flight.
 How you doing, there, Houston?
 Oh, we're getting there, Jim. We're - we're all agreed that you're almost, but not quite, in the proper attitude, and we're just trying to get you one firm recommendation on how to proceed from here.
@@ -423,36 +422,36 @@ Aquarius, Houston.
 Go ahead.
 Okay. Here's the big story. Your attitude really looks quite good except in roll, and we'd like you to do the following. In Min Impulse PGNS, we'd like you to trim to zero pitch, which is about where you are now; to 008 degrees in roll, which is about 16 degrees from your present roll attitude; and to zero degrees in yaw, which is about where you are now. Then we'd like you to do the body-axis align 400 plus 5, 400 plus 0. Pitch and Roll to Pulse, select AGS, do the burn in AGS. How does that sound? Over.
 Okay. I'm rolled the wrong way; that is what you're saying, right?
-That's right. [Pause.]
+That's right.
 And you know I can't roll in minimum impulse. I've got to use TTCAs.
 That's right, Jim. Sorry.
-And you don't want me to automatically trim 5018, I take it. [Long pause.]
+And you don't want me to automatically trim 5018, I take it.
 That's affirm, Jim. Don't trim 5018.
-Okay. [Pause.]
+Okay.
 We just want you to cycle on through P41 to get the Average G and burn it out.
-Okay. [Long pause.]
+Okay.
 Aquarius, Houston.
 Go ahead.
 Just for your information, we see 3.0 in register 1. We read you up 3.1 on the PAD. The actual Delta-V was 3.05, and they warned me that it might come out 3.0.
 Okay. That's a little burn.
 Right.
 Aquarius, Houston. Your attitude looks real good. We will give you a mark at 10 minutes to the burn, which is in 28 seconds.
-Okay. We'll burn it in AGS and use the AGS ball. [Pause.]
+Okay. We'll burn it in AGS and use the AGS ball.
 Right. I was looking at the wrong clock, and we're a little under 10 minutes now. I'll give you a mark at 9 minutes. Okay?
-That's fine. [Long pause.]
+That's fine.
 Aquarius, Houston. We have 10 seconds until 9 minutes to the burn. 3, 2, 1...
 Mark.
 Nine minutes.
 Very well. That agrees with our event timer.
 Okay.
-Okay, Houston. About 3 minutes to go, and we're all squared away. [Long pause.]
+Okay, Houston. About 3 minutes to go, and we're all squared away.
 And, Aquarius; Houston. Roger that. And we're standing by for your body-axis align and your zeroing 404, 405, 406, going to 470.
-Okay. You'd asked - you'd asked me before, Joe, to go 400 plus 3, which I did. I assume you've changed the script again. [Long pause.]
+Okay. You'd asked - you'd asked me before, Joe, to go 400 plus 3, which I did. I assume you've changed the script again.
 Okay, Fred. We did tell you to do that awhile ago, and it doesn't matter; you're looking good.
 Okay.
 Yes. It looks like we had a minus 0.2 bias at 470. We're burning.
-Copy that, Fred. [Long pause.]
+Copy that, Fred.
 Good show, Aquarius.
 We're tweaking now, Joe.
 Roger. Aquarius, Houston. You're good right where you are.
-Okay. That's it. [Pause.]
+Okay. That's it.

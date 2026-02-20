@@ -29,7 +29,7 @@ Roger. Copy. Jett complete.
 Houston, the LM doesn't seem to be holding attitude.
 Roger. Understand doesn't seem to be holding attitude?
 That's affirmative. Okay. And, Hank, would you run over my RCS select procedures again? I'm not sure I got the right combination for you.
-Okay, Ken. We don't have High Bit Rate. The way you can do this is ...
+Okay, Ken. We don't have High Bit Rate. The way you can do this is...
 What should they be, please?
 Okay. We just want the single jet authority in roll. That's the only thing we have to worry about the boom. And you're gonna have to burn out the - your Y as if you were trimming the plane-change burn, using that same roll and - roll 90 degrees to get rid of your Y.
 If I go into attitude, I can get it all in - get rid of the Y anyhow, can't I?
@@ -68,7 +68,7 @@ They looked good, Charlie.
 Apollo 16, Houston. If possible, we would like to have somebody watch when you jettison the boom; see if they can see it going.
 Okay.
 Hank, would you give me the jettison time again, please?
-Roger. We have given you a time of 195:35 [195:23], Ken, but anywhere between 00:25 and 00:45 is good.
+Roger. We have given you a time of 195:35, Ken, but anywhere between 00:25 and 00:45 is good.
 Okay. That goes for 00:25 to 00:45.
 This attitude should put the CSM out in front of everything, the boom and the LM.
 Apollo 16, Houston; could you bring up the High Gain?
@@ -85,15 +85,15 @@ Okay. We're about to jettison the boom.
 Okay.
 Roger.
 Okay; go.
-Okay. It's up ...
+Okay. It's up...
 Okay.
-... and off. There she goes.
+and off. There she goes.
 Boom clear.
 Straight out. Boom's clear.
 I'll see if I can see it.
 Not a bit of roll. There she goes, Ken, this way...
-[Garble] see it.
-...straight out Window 5.
+see it.
+straight out Window 5.
 Hey, that is beautiful.
 Understand the boom blew clear. Is that correct?
 That's affirmative.
@@ -103,7 +103,7 @@ Yeah. It's right straight out there. Beautiful. Here, Charlie. Charlie?
 Hey, it's great to know one thing works.
 Yeah.
 There she goes.
-Gee, I hadn't even thought of that [garble].
+Gee, I hadn't even thought of that.
 It's all set.
 Apollo 16, if you can get to it, we'd like to terminate the Bat A Charge.
 That's terminated, Hank.
@@ -117,9 +117,9 @@ That's negative. You can go couple now, Ken.
 Okay. I have.
 Okay, Ken, and the first changes we want to get to, start at Page 3 - 328.
 Go ahead.
-Roger. Now, 218 hours there is now 196:10 [195:59]. And you have a constant delta...
+Roger. Now, 218 hours there is now 196:10. And you have a constant delta...
 Yes, sir.
-...constant delta from now on of subtracting 21 hours and 50 minutes, and this will apply through TEI.
+constant delta from now on of subtracting 21 hours and 50 minutes, and this will apply through TEI.
 Okay, that's a minus 21:50 through TEI, and I think I have marked all my pages with that amount already.
 All righty. Then the first change is at 196:21. Delete the "Verb 48" and the "P20" and the "Set Omni." Just delete that group of data.
 Okay.
@@ -127,9 +127,9 @@ At 196:35, add "Enable all jets, except A-1, A-2, B-1, Bravo 2, Delta 1, Delta 2
 Hank, is that the SIM jet - jet configuration?
 Negative. This gives you couple jets in all axes but roll, and we want Quad 3 providing roll control. Now this is so FDO can get good tracking for TEI, and this is being coordinated with OSC and is acceptable to the Mapping Camera PADs.
 Okay, why don't you - you read me a list of jets not to have on. Is that right?
-That's affirmative. Everything on, except Alfa 1 and Alfa 2 ...
+That's affirmative. Everything on, except Alfa 1 and Alfa 2...
 Okay, now - Keep going.
-... Bravo 1, Bravo 2, and Delta 1 and Delta 2.
+Bravo 1, Bravo 2, and Delta 1 and Delta 2.
 This just gives you B/D Roll, Off.
 Yea, that Logic probably should go back to - No, - center. Bottom position's okay, too. That's it.
 Do you have that, Ken?
@@ -144,14 +144,14 @@ Okays I guess I don't see any magic about - about the time when you do that. If 
 Okay. We'll do so. Thank you very much. But we'll be there in any event by 00:41.
 Roger. And at 00:42, and I don't see why you can't do this one early either, Mapping Camera/Laser Altimeter Cover, Open; Mapping Camera, Extend.
 Okay. We'll get the Mapping Camera covers open and the Camera extended.
-At 196:47 [196:35], Laser Altimeter, On; Image Motion, On; Mapping Camera, On; T-start; Image Motion, Increase, barber pole plus 1. And your T-start is 196:49:43.
+At 196:47, Laser Altimeter, On; Image Motion, On; Mapping Camera, On; T-start; Image Motion, Increase, barber pole plus 1. And your T-start is 196:49:43.
 Okay. T-start is 196:49:43.
 And we'll have the Laser, On, and the IMC, On, and we'll go to barber pole plus 1.
 That's affirmative. And at 196:52, orbital science visual, King. That's Victor 4. It's on charts Delta 4 and Delta 5, window 5. And note that the visual runs until 197:02.
 Okay. We'll cover King on window 5 when we go by it.
-Roger. And at 196:56 [196:44]: acquire mix - MSFN, Manual, Wide, Pitch 10, Yaw 0.
+Roger. And at 196:56: acquire mix - MSFN, Manual, Wide, Pitch 10, Yaw 0.
 Okay. We'll acquire MSFN at Pitch 10 and Yaw zero, in Manual and Wide.
-Okay, Ken, and we'll save the rest of this until the next rev. You can go ahead and start dopping [sic - "doffing"?] and getting ready for the satellite jett.
+Okay, Ken, and we'll save the rest of this until the next rev. You can go ahead and start dopping and getting ready for the satellite jett.
 Okay. Thank you.
 Okay, Houston. Going off comm for doffing the suits.
 Roger. Copy.
@@ -160,89 +160,75 @@ Okay, Charlie. I'll do that.
 Houston, 16.
 Go ahead.
 Hank, I'm looking ahead here trying to find out where we have a Pan Camera turn-on, and I don't see it. Maybe I'm missing it somewhere. Can you - I thought you said something about we're supposed to have both a Mapping Camera and a Pan Camera pass.
-Roger, Ken. We get it on it just after AOS at 197:03 [196:52]. We got some more changes for you for that Rev, and we thought we'd read them up the first part of the rev, rather than clutter you up right now.
+Roger, Ken. We get it on it just after AOS at 197:03. We got some more changes for you for that Rev, and we thought we'd read them up the first part of the rev, rather than clutter you up right now.
 Why don't you clutter me up right now with those things, please.
 You want them now? Okay, 197:03...
 Yes, please. Go ahead.
-Okay, 197:03 [196:52]; Image Motion, Increase; barber pole, On; Pan Camera, Standby, Stereo, Power; 197:05, configure camera for orbital science; CM5/EL...
+Okay, 197:03; Image Motion, Increase; barber pole, On; Pan Camera, Standby, Stereo, Power; 197:05, configure camera for orbital science; CM5/EL...
 Whose?
-...250/CEX intervalometer. That's f/8, 1/250...
+250/CEX intervalometer. That's f/8, 1/250...
 Huh?
-...infinity. You'll be taking 128 frames...
+infinity. You'll be taking 128 frames...
 I think this is where it's - where it's bad.
-... magazine Romeo Romeo. 197:14, PC ...
-[Garble] got it [garble].
+magazine Romeo Romeo. 197:14, PC...
+got it.
 Okay, what's that going to be a target of, Hank?
 Okay, we're going to pick up that long run you had that; started down at Vogel and...
 Why don't you get a new one of those?
-... and went up to Lassell and Alpetragius end stopped. And then you picked up at the one down at Bullialdus. Well, Bullialdus ...
+and went up to Lassell and Alpetragius end stopped. And then you picked up at the one down at Bullialdus. Well, Bullialdus...
 Why don't you get a new one of those?
-... PC - Okay, we're going to pick up that long run you had that started down at Vogel and ...
+PC - Okay, we're going to pick up that long run you had that started down at Vogel and...
 Why don't you get a new one of those?
-... and went up to Lassell and Alpetragius end stopped. And then you picked up at the one down at Bullialdus. Well, Bullialdus ...
+and went up to Lassell and Alpetragius end stopped. And then you picked up at the one down at Bullialdus. Well, Bullialdus...
 Hey, John.
-... is too far south. So what we're going to do is start at Vogel, make a Jog at Alpetragius, and go all the way to the Helmet on past Gassendi. And we're about up on LOS now; I'll tell you more about that at AOS.
+is too far south. So what we're going to do is start at Vogel, make a Jog at Alpetragius, and go all the way to the Helmet on past Gassendi. And we're about up on LOS now; I'll tell you more about that at AOS.
 Okay, Hank. Thank you.
 Okay. What were you getting ready to ask?
 Huh?
 What were you getting ready to ask?
-[Garble].
 Okay. I got to - got to launch this satellite now.
 What time does that come on?
 In three minutes. John, can you get over there? I got to launch this satellite in three minutes.
 Sure.
 Okay; I'm Panel 230. Check that the Data System is On.
 Here, I'll get it, John.
-[Garble].
 Okay. On Panel 230, you got a couple more things. Make sure the - Is the Gamma Ray retracted? Is the switch down in Retract position and is the talkback gray?
 Yeah.
-[Garble].
 Okay; before I can tell if that talkback's gray, are those switches on 181 in the center Off or in the Deploy/Retract position? Put them down to Deploy/Retract.
-[Garble].
 Huh?
 Gamma Ray's still gray.
 Okay. Alpha/X-Ray Covers, Close, Charlie.
 Oh, sure.
-Alpha/X-Ray ...
+Alpha/X-Ray...
 Hey, wait a minute. They're here. They are closed.
 We're in attitude; we've been damping rates. Holy smokes! Where was I going to put that attitude? Okay.
 Okay, on 250, we've already checked our Pyro A, Sequential A; Pyro B, Sequential B is Closed. Okay; on 181. Logic Power, two, is closed. We know that. The Logic Power switches, two of them, up to Jettison.
 Okay. All right, the next thing we'll do is I'll give you a call when to hit the Satellite Launch switch. And we - we're about a minute and a half from the launch. And the Satellite Launch switch is one - is one that you put up and hold. I think it's a three-position guy.
-That [garble] switch?
+That switch?
 Yeah. But not now. I'll give you a call.
-[Garble].
 We'll see if it - if it - should be a - a - maintain. And it should go barber pole when you put it up, and it should hold barber pole until it's launched, and then it should go back to gray.
 Say again?
-[Garble].
 Okay. And the circuit breakers are in? The two logic guys next to them? All right.
-[Garble] seconds.
+seconds.
 Two, 3, 4, 5...
 Launch.
-[Garble].
-[Garble] out there.
+out there.
 Okay, did you turn? Retract?
-[Garble] found this mistake.
+found this mistake.
 Barber pole?
-[Garble].
-[Garble] go gray?
-[Garble].
+go gray?
 It went back to the center Off position?
 They're Off.
-Okay, Logic Power [garble] 181 [garble] Deploy/Retract. That's done.
-[Garble].
+Okay, Logic Power 181 Deploy/Retract. That's done.
 Okay.
-[Garble].
 All right.
-[Garble].
-Good [garble] good work.
-I found our - I found their mistake. Their mistake. They left the - they didn't have any AC power [Garble].
-[Garble].
+Good good work.
+I found our - I found their mistake. Their mistake. They left the - they didn't have any AC power.
 Yeah.
-[Garble] asking me - asking me AC power.
-[Garble].
-Yeah. Okay [garble].
+asking me - asking me AC power.
+Yeah. Okay.
 Okay, Charlie. It's - it's no good then.
-Okay [garble].
+Okay.
 Casper, Houston. How do you read?
 Casper, Houston. How do you read?
 Casper, how do you read Houston?
@@ -268,15 +254,15 @@ Okay, it looks like 197:29 is for Vogel. And it'll be a continuous pass from tha
 Okay; thank you.
 Okay, and I have a couple of other updates at 197:14 and 15.
 Go ahead.
-Okay, at 197:14 [197:12], it's Pan Camera, Operate; T-start 197:14:18.
-Okay, that's 197:14:18 [197:12:28] for the Pan Camera to be running. We'll get it.
-Roger. And right now, you're up to that point where you should go Image Motion, Increase, and Pan Camera, Standby, and all that stuff at 197:03 [196:52].
+Okay, at 197:14, it's Pan Camera, Operate; T-start 197:14:18.
+Okay, that's 197:14:18 for the Pan Camera to be running. We'll get it.
+Roger. And right now, you're up to that point where you should go Image Motion, Increase, and Pan Camera, Standby, and all that stuff at 197:03.
 Okay.
-Okay; and at 197:15 [197:03], we want Image Motion, Increase.
+Okay; and at 197:15, we want Image Motion, Increase.
 Stand by, please.
 Okay. Standing by.
 Okay, Don. Go ahead.
-Okay, at 197:15 [197:03], we want Image Motion, Increase, barber pole, plus 3 steps/On.
+Okay, at 197:15, we want Image Motion, Increase, barber pole, plus 3 steps/On.
 Okay. Barber pole plus 3 at 15.
 That's affirmative.
 Okay. Is that - is that all for about 10 minutes, please?
@@ -308,7 +294,7 @@ Will it be too crowded for that?
 Negative. I don't think so.
 Say again, Don.
 We'll hold off. Go ahead with your strip.
-Okay. Looks like we're about a minute from Boboland [?].
+Okay. Looks like we're about a minute from Boboland.
 Okay. I'm all set; thank you. And I'm starting with an f/8 and 1/250. And I'll wait for you to tell me when to change settings.
 Roger. We'll do it.
 Don, one of the things that I just noticed in passing Alphonsus is the dark halo craters. And each of those has a little amount of light material inside of the crater itself, just like all the rest of these craters around here. So maybe a dark halo is really an early stage in development.
@@ -334,7 +320,7 @@ Okay. The Laser's Off. The Pan Power's Off. And I'm going to Standby on the mapp
 Roger.
 And the Image Motion is Off.
 Roger. Okay. And then we want to do Mapping Camera, Retract.
-Mapping Camera's Retracting .
+Mapping Camera's Retracting.
 Okay.
 Okay, Don. You want to talk about that - the cue card change, or whatever it was you were getting ready to do awhile back?
 Roger. And verify that you've got Mapping Camera/Laser Altimeter Cover Closed.
@@ -343,14 +329,14 @@ Okay; then we want Mapping Camera/Laser Altimeter Cover Closed, and enable all j
 Okay. We got the Cover Closed.
 Okay. The jets are configured.
 Okay. We need to go to Block on the computer. And, Ken, it looks like that circ flag has not been set. I'm sorry; it's set. It needs to be reset.
-You :mean - you mean the numbers, Verb 45?
+You:mean - you mean the numbers, Verb 45?
 Stand by a minute. Verb 45, Ken.
 Okay, Ken. And we've got one note on the Service Module RCS system. I got a TEI PAD, couple more changes to the Flight Plan, and a SPS cue card change for you. And you can copy them in any order you want.
 Okay. Let's start with your RCS notes. And then following that, let's take the Flight Plan, and the - I think - Let's take the RCS, the cue card, the Flight Plan, and finally the PADs.
 Okay. The RCS note is we want the Service Module RCS Secondary Propellant Pressure switches, four, Open. And that's to prevent the primary fuel tank depletion during TEI.
 Don, did you copy?
 Roger, Ken. I copied you. And I had started reading there on the RCS note. Did you read that?
-No, sir. I hadn't [garble]...
+No, sir. I hadn't...
 No, we missed you.
 Okay. I'll - I'll try it again here. The Service Module RCS Secondary Propellant Fuel Pressure switches, four, Open. And the purpose for that is to prevent primary tank fuel tank depletions during TEI.
 Do that right now?
@@ -366,7 +352,7 @@ Negative. We don't have any - any evidence that says that's likely to happen or 
 All right. Is that the - that's the context of the changes?
 That's affirmative.
 Okay. Now let's take it from the top.
-Okay. About a third of the way down the page then, we want to add, "PUG Mode, Aux; Oxidiser Flow Valve, Normal, Secondary." And in a comment, we want to add - "Do not ...
+Okay. About a third of the way down the page then, we want to add, "PUG Mode, Aux; Oxidiser Flow Valve, Normal, Secondary." And in a comment, we want to add - "Do not...
 Would this be - Is there something different about this than what we've done here - for all of the other burns?
 I think just the "PUG Mode, Aux" is the only change.
 Okay. You want to go PUGs, Mode to Aux. You want to leave the Oxidiser Flow Valve in Secondary. And the position of the valve in Normal. Is that correct?
@@ -386,34 +372,33 @@ Okay. We want to add a waste water dump to 10 percent.
 Okay. We'd have gotten that down further, but we just - just couldn't get it all done the last time.
 Okay. And that's somewhere between the P52 and AOS, anywhere you want to stick it.
 Okay.
-Okay. And at 199:45 [199:33]...
-At 199:45 [199:33], we want to add ...
+Okay. And at 199:45...
+At 199:45, we want to add...
 Don, you gave me that at 199:40, didn't you?
-Negative. That ...
+Negative. That...
 You gave me that waste water dump at 199:40 or 45?
-Negative ...
+Negative...
 You had me -
-... It was 198:40 [198:28] on the waste water dump.
+It was 198:40 on the waste water dump.
 Okay. That makes more sense. Thank you.
-And at 199:45 [198:33]...
+And at 199:45...
 All right. Go ahead.
-At 199:45 [198:33], we want to add "Load EMP 509."
-Okay. "Load 509 at 199:40 [199:28]."
-Okay. That's 199:45 [198:33]. And now I've got the preliminary TEI-64 PAD.
+At 199:45, we want to add "Load EMP 509."
+Okay. "Load 509 at 199:40."
+Okay. That's 199:45. And now I've got the preliminary TEI-64 PAD.
 Go ahead. Over.
 Some chicken soup?
 Mm?
-...?
 Yeah.
-... the last one.
+the last one.
 Yeah.
 Okay.
 Chicken soup. I get you some meatballs with sauce; you got some instant breakfast; you got some orange juice.
 Okay,
 Okay. Preliminary TEI-64, SPS/G&N; 38332; plus 0.61 plus 0.95; 200:33:20.44; Noun 81's plus 3265.6, plus 0808.0, minus 0215.1; 180, 000, 000; HA is not applicable, HP plus 0021.7; 3371.0, 02:42, 3351.7; sextant star 23, 183.7, 37.5; boresight star is not applicable; Noun 61's minus 00.72, minus 156.04; 1049.4, 36277; 265:49:12. Set stars Sirius and Rigel; 118; 311; 007. Ullage, two jets, 17 seconds. Use quads A Alfa and Charlie. Under other: number 1, PAD based on TEI REFSMMAT; number 2, sextant star not available until 200 hours GET, and we do not have a single-bank burn time for the preliminary PAD. We'll get you one for the final PAD. And we're about a minute from LOS now. You can try a readback if you want.
-Okay. Pre-TEI-64, SPS/G&N; 38 ...
-3833 ...
-38332; plus 0.61, plus 0.95; 200:33:20.44; plus 3265.6, plus 0808.0, minus 0215.1; 180, 000, 000; plus 21.7; plus 3371.0, 2 minutes 42 seconds, 3351.7; sextant star 23, 183.7, 37 and a half; latitude, minus 7.2, minus 156.0, 1049.4; 36277 ...
+Okay. Pre-TEI-64, SPS/G&N; 38...
+3833...
+38332; plus 0.61, plus 0.95; 200:33:20.44; plus 3265.6, plus 0808.0, minus 0215.1; 180, 000, 000; plus 21.7; plus 3371.0, 2 minutes 42 seconds, 3351.7; sextant star 23, 183.7, 37 and a half; latitude, minus 7.2, minus 156.0, 1049.4; 36277...
 16, Houston. How do you read?
 Loud and clear, Pete. How are you?
 Loud and clear.
@@ -421,7 +406,7 @@ Okay, Houston. The gyro torquing angles on the P52 option 3, with the star angle
 Roger.
 And, 16, I've got a map update - rev 65 - at about - 200 hours 30 minutes in the Flight Plan. TEI -.
 Okay.
-Okay. It's around 65 instead of 76. And the numbers are 200:07:27; 200:31:33 [200:19:43]; with TEI, 200:43:09 [200:31:19]; without TEI, 200:52:48 [200:40:37].
+Okay. It's around 65 instead of 76. And the numbers are 200:07:27; 200:31:33; with TEI, 200:43:09; without TEI, 200:52:48.
 Okay. 200:07:27, 31:33, 43:09, and 52:48.
 That's affirmative.
 (Laughter) I would suspect that you can probably throw this one back in that jett bag, too, then. There. Thank you.
@@ -440,11 +425,11 @@ No. I - I think - now I tried it - purposely having at least, say, a degree mist
 Okay. I get the - Sounds like - if you could - you could damp the rates - damp the oscillations quickly by getting it into Rate Command - I mean the - Auto and then use the old thumbwheel procedure to change the pointing accuracy if you aren't pointing in the right direction.
 Yeah. You - you don't have much control with that - with that thumbwheel in - in the Auto. I think, probably, I would take it in Rate Command, go back to my attitude, recycle my BMAGs, uncage them again at my - at the attitude I wanted, and then accept the trim - the mistrim in the - in the gimbal and - and let that damp out. I think you're going to be hard put to try to guess - guess your thumbwheel setting. However, let us think about that a little bit; and, also, I'd like to say this has been checked. I talked with North American this afternoon. This all agrees with the hardware evaluator, as far as our characteristics, so I think we're pretty close to your spacecraft.
 Okay. That's outstanding. Sounds like you guys have done a mighty thorough job. My first choice then would be to - I think, based on what you said right now, just do the natural thing and take the oscillations unless they're excessive, and look - just download in the normal manner and ride it out.
-Okay. That sounds - I think that's very ...
+Okay. That sounds - I think that's very...
 So, as the first choice, I think we'll do the normal thing and burn CMC.
-By all means, yes. CMC is - is prime, or you can - you can download ...
+By all means, yes. CMC is - is prime, or you can - you can download...
 Yes, okay.
-... You'll be in Rate Command, and you will have the bell shaking. It'll start to damp a little bit; but every time you hit with an impulse, why, you'll excite the oscillation again.
+You'll be in Rate Command, and you will have the bell shaking. It'll start to damp a little bit; but every time you hit with an impulse, why, you'll excite the oscillation again.
 Okay. Thank you very much, Stu.
 Roger.
 And one other thing, Ken. After convincing you that that system is - is real good, which we believe it is, we'd like to say - and I'm - I'm assuming that you would do this anyway - that if everything isn't checking out real good - primary system-wise or anything else, you'll just come around and let us take another look at it.
@@ -494,7 +479,6 @@ Okay. Is that what you want to do or did you want to just go ahead and cut it to
 We'll let it run out, Ken.
 Okay.
 16, can you verify that the sub-satellite deployed on time?
-[Garble].
 How's it doing?
 Okay. I guess we're not able to see it until the LM electrical power runs out.
 Yes, sir. It went on time. Of course, it was in the dark and we couldn't see it to verify it visually, but - all indications were that everything was a normal deployment.
@@ -532,7 +516,7 @@ Roger.
 TVC Servo Power 1, Servo Power 2, done. Rotation Normal, number 2 to AC, the Direct 2s are Off. BMAGs, three, to 1/2. Spacecraft Control going to SCS -
 Mark. RHC number 2 is armed. Standing by to bring on Main A's...
 Go ahead.
-... 20 seconds. I've got no objections to doing them now.
+20 seconds. I've got no objections to doing them now.
 Okay.
 Here comes Main A, number 1.
 One.
@@ -557,7 +541,7 @@ Okay.
 Okay, going back to neutral.
 And no MTVC.
 No MTVC. Okay, we're at 0, 0, trim. Okay.
-Says circuit breaker Pitch 2 ...
+Says circuit breaker Pitch 2...
 Yeah, but I haven't started my second one. I'm going to wait and pull those after we get going.
 Okay.
 Okay, Power to AC/DC. Directs to Main A/Main B. I'm going to arm both hand Controllers. Make sure yours is locked.
@@ -571,7 +555,7 @@ Minus 2, 0, yaw, plus 2, minus 2, 0. Trim - trims are good.
 Okay.
 Okay. Now we'll do a Verb 48 Enter. Verb 21 Enter. 11001 Enter. Pro, Pro, Pro. Verb 25 Noun 7 Enter; 1 Enter; 0 Enter.
 Good.
-509 flag is down. Okay. With 4 minutes to go, SCALE is 5/1. All right, now I'm gonna bring on Main Bs, number 2; go ...
+509 flag is down. Okay. With 4 minutes to go, SCALE is 5/1. All right, now I'm gonna bring on Main Bs, number 2; go...
 Go ahead.
 Here comes.
 It started.
@@ -581,7 +565,7 @@ Okay. Yes, sir. Okay. Okay.
 Okay, ready over here.
 All ready on the right.
 All ready on the left.
-All ready on the ...
+All ready on the...
 Firing line (laughter).
 Okay. My Rate switch is going to High.
 High.
@@ -589,22 +573,22 @@ Start the DET again at 58. No, I think I'll catch it at 57. Give it another try.
 John, there's old Orion out there.
 Okay.
 Okay. Good, Charlie.
-Burn time is two minutes and ...
-Forty-two ...
-... 42 seconds.
+Burn time is two minutes and...
+Forty-two...
+42 seconds.
 Okay. And that means I go to 2 seconds overburn, and shut it down.
 Okay, I'll give you the normal countdown, Ken.
 All right, sir.
 Starting at about 35.
 That'll be just fine.
 Okay.
-Okay, the GDC looks like it's - pretty much - I'm gonna dress it up. [Garble] has nothing to do with the uncaged gyro. It's the attitude reference. Okay.
+Okay, the GDC looks like it's - pretty much - I'm gonna dress it up. has nothing to do with the uncaged gyro. It's the attitude reference. Okay.
 It counted that time.
 Two minutes. It's working now.
 Okay, Charlie's got the watches?
 Yeah.
 Okay, we've done everything down to here.
-Two Jets, 17 seconds. Our A and C [?].
+Two Jets, 17 seconds. Our A and C.
 Awful quiet, isn't it?
 Okay.
 Okay.
@@ -619,18 +603,17 @@ Looks like it's counting good.
 Okay.
 Seventeen seconds.
 Ullage is on.
-[Garble].
 EMS is counting.
-Working. Nine, 8 ...
+Working. Nine, 8...
 Attitude's good.
-... 7, 6, 5, Pro -
+7, 6, 5, Pro -
 Enable.
 Three, 2, 1.
 She's open.
 Man, hardly move.
 Okay.
 B.
-[Garble] is open.
+is open.
 Mark B.
 B is open. I think it's late on the second watch.
 Okay.
@@ -646,13 +629,13 @@ EMS and VT to go are right with each other.
 Okay. The gimbals are nice and steady.
 Okay.
 It's just this - Boy, you know, look at those rates. Imag - imagine what that would look like if you're - really had the thing swinging.
-The roll has increased ...
+The roll has increased...
 Coming up on a minute -
 Mark.
 Okay. Chamber pressure's up to 99. Reading almost half a g.
-This PUGS and AUX is glitching, I guess every time it goes by a point sensor, it ...
+This PUGS and AUX is glitching, I guess every time it goes by a point sensor, it...
 Yeah.
-... glitches. It's okay.
+glitches. It's okay.
 Yeah.
 Both attitudes are steady as a rock, 18 per cent.
 Coming up on 01:30...
@@ -668,35 +651,35 @@ Okay.
 Mark. Two minutes.
 Boy, that burn time is right on.
 Right on the burn time. Okay. We have less than a minute, and we're still right on.
-Yep. Two attitudes ...
+Yep. Two attitudes...
 We are.
-... are sitting perfect. We're up to 100 psi chamber pressure.
+are sitting perfect. We're up to 100 psi chamber pressure.
 EMS looks good.
 01:15.
-For some reason ...
+For some reason...
 01:25 -
 Mark.
-... this thing is cycling - well, it's cycling in roll. I've never seen that.
+this thing is cycling - well, it's cycling in roll. I've never seen that.
 Yeah.
 01:30. 02:30 -
 Mark. Thirty-five, 36, 37, 38, 39, 40, 41, 42.
 Shutdown.
 SPS Pressure light.
 Okay.
-41 ...
+41...
 Okay. Right on.
-... 3371 point ...
+3371 point...
 Wait - wait - we've got to get the attitude stopped here. Why don't you go ahead and Pro?
 Pro.
 That'll put me back in Narrow Dead Band and hold it.
-Plus 0.2. Plus - plus 1.2 ...
+Plus 0.2. Plus - plus 1.2...
 Dead Band.
-... plus 1.
-And after that, an attitude of 184.28, 5.82 ...
-- point one and the drogue? What, sir?
-184.28 ...
-I got it [garble]
-... 5.82.
+plus 1.
+And after that, an attitude of 184.28, 5.82...
+point one and the drogue? What, sir?
+184.28...
+I got it
+5.82.
 Okay.
 351.69.
 Okay.
@@ -707,7 +690,7 @@ Ready. Get it.
 My Delta-V C is minus 19.1.
 Okay.
 That's about right.
-Okay, let's get the gimbal motors off. Let me get my circuit breakers ...
+Okay, let's get the gimbal motors off. Let me get my circuit breakers...
 Go ahead. You get your breakers.
 Got them. Main B.
 Go.
@@ -721,21 +704,20 @@ One, 2.
 Good. Main Bus Ties coming Off.
 Servo Power's Off.
 Do you think you're in?
-[Garble] two Off. Translation Control Power, Off. Rot Control Power, Direct 2, Off.
+two Off. Translation Control Power, Off. Rot Control Power, Direct 2, Off.
 Direct Ullages are out.
-Okay. Got the Direct - Direct 2 ullage on the [garble] powers.
-Okay. Circuit breakers. I'll pull them now. Pitch 1 ...
+Okay. Got the Direct - Direct 2 ullage on the powers.
+Okay. Circuit breakers. I'll pull them now. Pitch 1...
 TCA.
 Anybody get that?
 No.
-[Garble] ...
 Have you got the fuels there?
-... residuals.
+residuals.
 Yeah.
 Okay.
 EMS Function, Off, and Mode to Standby.
 Yeah, I'll just leave it here because that'll keep quiet in here.
-[Garble]. Have you got the Direct Rot Control, On?
+Have you got the Direct Rot Control, On?
 Okay. I've got those two Off; and this is back; these go to Rate 2.
 Okay. Main Bus Ties are Off.
 We got those. You got the Bit Rate back to Low?
@@ -751,7 +733,7 @@ Mapping Camera going to Extend; Track Extend.
 Yes, sir.
 Mark. Barber pole.
 Pan Camera, Standby.
-Pan Camera, Standby [garble]
+Pan Camera, Standby
 Stereo - No, wait a minute - Mono.
 Mono, okay, go.
 Got the Power to Power.
@@ -769,39 +751,39 @@ Hey, you got the one with the Earth in it?
 Yeah.
 Beautiful.
 16 Houston. How do you read?
-Hello there, Houston [garble] [Mattingly: "[Garble] Hello, there." in CM transcript.]
+Hello there, Houston Hello, there." in CM transcript.]
 Man, you come up like thunder. Wowee!
 Okay, is the mapping camera out yet?
 Yeah, it says barber pole.
 All right. The burn was nominal.
 Barber pole. Still barber pole.
-Let me get this [garble] before [garble] ...
-Okay [garble]. operate it, though.
-[Garble] this book here.
+Let me get this before...
+Okay. operate it, though.
+this book here.
 16, I can't make out the words. We can hear you calling.
-Roger. [Garble.] [From the CM Transcript: "The burn was nominal. We had - we just saw you rise."]
+Roger.
 Roger. Understand.
 He already knows.
 We got a high - we got a high gain angle?
 Not until we get there. I - I think I set it.
-Well, what did - what did you set it to on this, Ken ?
+Well, what did - what did you set it to on this, Ken?
 On what?
 This camera.
 What are you taking pictures of?
-[Garble] the Earth, and then me.
+the Earth, and then me.
 1/250, f/8.
 There's Omni Delta.
 Charlie, what's that result again?
 I'm just about pitch and roll.
 Oh.
-When we get to attitude, it'll be Pitch, 45; and Yaw, 320. It's set. I don't see how that's gonna work; it's not looking at the Earth [garble].
+When we get to attitude, it'll be Pitch, 45; and Yaw, 320. It's set. I don't see how that's gonna work; it's not looking at the Earth.
 Me, either. What is it? Just targets of opportunity out through there?
 Man, we are climbing out.
 16, Houston. Let's try it again.
 Do you read us now, Don?
 Roger. You're a lot better now.
 Roger, just saw you come up like thunder, and that's how we're coming up. Just going away from it like - nothing.
-Hey, look at that beauty out there. Isn't that something? It's [garble] ...
+Hey, look at that beauty out there. Isn't that something? It's...
 Roger.
 It's better than an AB climb, Pete.
 Roger. Understand.
@@ -812,17 +794,15 @@ Okay, would you put the Mapping Camera to On?
 Mapping Camera's going On, right.
 Okay, Pan Camera to Operate.
 Operate.
-[Garble].
 That came off.
 Okay, Image Motion to Increase.
 Okay.
-[Garble] plus 2.
-[Garble] ...
-You have ...
-... [garble] barber pole plus 2?
+plus 2.
+You have...
+barber pole plus 2?
 You said it. One -
 Barber pole. One - Got it.
-Okay, have you got the Pan Camera to V/H [garble]?
+Okay, have you got the Pan Camera to V/H?
 Yeah.
 Okay, I'll pick you up the status report. Why don't you get this one? It's all on the same page here.
 Okay. Okay, that's right.
@@ -832,7 +812,7 @@ Look at that horizon thing, would you, you guys!
 Wonder if I can get that DAC on this thing.
 Yeah, why don't you get the status report; I'll try to get the DAC going.
 Okay.
-John, [garble].
+John,.
 Here. Take the pictures, Charlie.
 Roger. Give me a window.
 Okay, I think we can get it out of that one.
@@ -842,7 +822,7 @@ Okay, Houston. Burn status report follows. There is no Delta-TIG. Burn time, 242
 The -
 3.9 is the oxidizer and 5.2 is the fuel.
 Roger.
-Man, did that beauty feel good! Ah! Must admit I feel good enough to [garble] ...
+Man, did that beauty feel good! Ah! Must admit I feel good enough to...
 It was really beautiful; that baby just hummed right out of there.
 That's great, John.
 She can really put on the power. It's - it's kind of refreshing to get a whole half g from her.
@@ -853,11 +833,11 @@ Roger.
 Get a pan.
 We got - we got some pictures of earthrise as we were climbing out. I bet they're really spectacular.
 Roger. Hope they come out nice.
-This Moon is really - is really a fascinating satellite. Boy, there's something new and different, and - and you can sure see a lot of variety from this view right here. This is almost ...
+This Moon is really - is really a fascinating satellite. Boy, there's something new and different, and - and you can sure see a lot of variety from this view right here. This is almost...
 Look at that!
-This is even more spectacular almost than the Moon - than the Moon in earthshine when we're coming in here just ...
+This is even more spectacular almost than the Moon - than the Moon in earthshine when we're coming in here just...
 Boy, you can see old Neper and all that stuff.
-... 5 days ago, or however long ago it was.
+5 days ago, or however long ago it was.
 Roger.
 Let's see, am I looking north or south here, Ken?
 North is that way.
@@ -869,26 +849,24 @@ Hey, are we in SIM bay attitude?
 Yes, sir.
 Got to have the High Gain.
 (Laughter) How can I come around with a P00?
-[Garble]
 Can't believe that'll work yet.
-[Garble]
 Okay, I'll let you back at the -
-Yeah, I can get that [garble].
+Yeah, I can get that.
 Thank you.
 Hey, Houston, how do you read on the High Gain?
 You're loud and clear now.
 Okay. I missed your last thing; we're switching over.
 Roger.
 We're now getting a view of - on the horizon, and there's Crisium. Way up north there, Charlie.
-Hey, Charlie, be sure you get the florals [?] down there.
+Hey, Charlie, be sure you get the florals down there.
 Right down there? Yeah, that's what I been doing.
-No, wait a minute. No ...
+No, wait a minute. No...
 I didn't see anything.
 I don't think that's what I'm talking about.
 Right down here?
 This stuff over here. All those - take a strip that runs right out through here.
 Okay.
-And ...
+And...
 Oh, yeah, yeah. I see it.
 That stuff?
 Uh-huh.
@@ -903,16 +881,16 @@ I don't know.
 What does that do?
 Oh, I guess I didn't stop it in time.
 Didn't stop it in time?
-I'm going - going to attitude. And - [garble] That's the problem with that program.
+I'm going - going to attitude. And - That's the problem with that program.
 What's that?
 That thing goes off to - to play with itself and then manuevers - at 15-minute maneuvers; but you got 8 seconds at the end. If you don't hit Pro on it, it stops right there and it won't keep the rate drive going.
 No, but you have to watch it; it's okay.
 That's just spectacular!
-Well, I told you if you watch it. But you got to sit there and watch it. Which I ain't - guess I haven't ...
+Well, I told you if you watch it. But you got to sit there and watch it. Which I ain't - guess I haven't...
 At 10-minute intervals?
 Huh?
 At 15-minute intervals?
-No, if it takes you 15 minutes to get into attitude ...
+No, if it takes you 15 minutes to get into attitude...
 Oh, by then you got to - you got to hit the maneuver when you get there. Yeah.
 Whenever it gets through with this, 10 seconds or 15 minutes.
 Yeah.
@@ -921,9 +899,9 @@ Should give you a tone warning or something.
 Yeah.
 Look at that. Isn't that something, you guys?
 It really is.
-It is really ...
-I don't care. I'm sorry E.V. [?] isn't getting his pictures. To heck with that. (Laughter)
-Go ahead. I wish we had [garble].
+It is really...
+I don't care. I'm sorry E.V. isn't getting his pictures. To heck with that. (Laughter)
+Go ahead. I wish we had.
 Hey, Pete, this is really a spectacular view. Wait until I get the camera clear.
 Boy, Pete, this is really a spectacular view. Really get the curvature.
 Tell us about it.
@@ -931,13 +909,13 @@ Yeah, the old crescent Earth coming up there.
 Boy, look at it. There's old King right down there, the old crab.
 See it?
 Yeah, I can see it.
-The - the earthrise was just beautiful, and it just ...
-Well, you look like [garble].
-... came up like gangbusters. We were looking right out the window ...
+The - the earthrise was just beautiful, and it just...
+Well, you look like.
+came up like gangbusters. We were looking right out the window...
 Right down here.
-... and there you came, and right now ...
-[Garble] are?
-... you're a - almost a - just a crescent Earth, just a very sliver out there. And I tell you, we can hardly wait. I know we got a couple of things to do before we get there, but we're looking forward to it.
+and there you came, and right now...
+are?
+you're a - almost a - just a crescent Earth, just a very sliver out there. And I tell you, we can hardly wait. I know we got a couple of things to do before we get there, but we're looking forward to it.
 Roger.
 Did you tell them about sunset?
 What about sunset?
@@ -946,9 +924,9 @@ No. What about it?
 I - I just want to try it.
 Tell him.
 Earthrise. Take a look now.
-[Young in Tech transcript] Houston, another great view that we had right before TEI was your - your prime Earthset. Your crescent was - your - the lit - light crescent of the Earth was tangent to the lunar horizon. And, as you went down, you ended up looking like a ...
-I bet you'd like [garble].
-... big bull horns up there.
+Houston, another great view that we had right before TEI was your - your prime Earthset. Your crescent was - your - the lit - light crescent of the Earth was tangent to the lunar horizon. And, as you went down, you ended up looking like a...
+I bet you'd like.
+big bull horns up there.
 Look at all those swirls.
 Yeah, why don't you get some of those? I -
 Roger. 16, let's go High Gain, Auto.
@@ -1007,13 +985,13 @@ You know, as we move out from the Moon, I think that by looking at the varied st
 Roger. Charlie, on the problem with the rings, I guess we don't really have an answer for you, and we may get some more in the morning. But there's no apparent good way to do anything about that. We don't have a cleansing agent or a lubricant that we can use on them. I guess you'll just have to use more force on them.
 Fine. With - we can get them locked with a little force, and they pass checks okay, once we get them on.
 Roger.
-And, 16, I've got a couple of Flight Plan changes for you at 201:30 [201:18] and 201:35 [201:22].
+And, 16, I've got a couple of Flight Plan changes for you at 201:30 and 201:35.
 Okay. Wait a second.
 Roger.
 Can you stand by just a second on those.
 Sure can. Just call me before you do the Verb 49. We've got some attitude changes.
 Okay. We won't go anywhere.
-Okay, 16. The Verb 49 at about 201:07 [200:55] in the Flight Plan, for the UV photography, should have been started, oh, about 10 minutes ago.
+Okay, 16. The Verb 49 at about 201:07 in the Flight Plan, for the UV photography, should have been started, oh, about 10 minutes ago.
 Okay. We'll go to it now.
 Roger. And it's correct as you have it now.
 Okay, Don. This is the 174, 212, and 64, right?
@@ -1025,15 +1003,15 @@ And, 16, if you can copy, I've got this Flight Plan update; I guess we need to g
 Okay, Don. Give me 30 seconds.
 Roger.
 Okay, Don. Go ahead with your updates.
-Okay. I've got this Verb 49 maneuver that's at 201:30 [201:18]. We want to change that from a maneuver to thermal attitude to a ramu - maneuver to Sco X-1 attitude. And the angle - the new angles are at 347, 071, 000, and the High Gain is minus 36, and Yaw is 176. And we also want to add Alpha Particle/X-Ray Cover, Open, at that point.
+Okay. I've got this Verb 49 maneuver that's at 201:30. We want to change that from a maneuver to thermal attitude to a ramu - maneuver to Sco X-1 attitude. And the angle - the new angles are at 347, 071, 000, and the High Gain is minus 36, and Yaw is 176. And we also want to add Alpha Particle/X-Ray Cover, Open, at that point.
 Okay. And we've got a Verb 49 maneuver to Sco X-1 and the attitude is 347, 071, and 000. The High Gain is minus 36 and 176, and we'll open the Alpha/X-Ray Cover.
-Roger. And at 202:25 [202:13] -
-Okay. Just a second, I had - we hadn't updated our time this far. Well, we're going to get a clock sync here when we ...
-Okay, Ken. I wouldn't bother updating the time very much further because you're going to do a clock resync here at 202:20 [202:08].
+Roger. And at 202:25 -
+Okay. Just a second, I had - we hadn't updated our time this far. Well, we're going to get a clock sync here when we...
+Okay, Ken. I wouldn't bother updating the time very much further because you're going to do a clock resync here at 202:20.
 Okay. Well, I stopped an hour too soon.
-Ken, all you really need to do is, in the old ...
+Ken, all you really need to do is, in the old...
 All right sir.
-... going by the old numbers where it was 224:18 or so, which is now about 202:25 [202:13] or so, we want to delete that Verb 49 maneuver. And at 202:25 [202:13] or thereabouts, we will resync the clocks, and that'll bring you up - the clock'll come 226:30, so we'll pick up with the nominal Flight Plan, which will have you going to bed a couple hours earlier tonight.
+going by the old numbers where it was 224:18 or so, which is now about 202:25 or so, we want to delete that Verb 49 maneuver. And at 202:25 or thereabouts, we will resync the clocks, and that'll bring you up - the clock'll come 226:30, so we'll pick up with the nominal Flight Plan, which will have you going to bed a couple hours earlier tonight.
 Okay. Very good. Thank you, sir. Okay, and then what do we do about this - can we do our PTC REFSMMAT change at the same time we're in this attitude?
 Say again?
 Can we do our PTC REFSMMAT change while we're in this Sco X attitude?
@@ -1068,10 +1046,10 @@ Roger. There's no hurry.
 No, sir. Be with you in a minute.
 Okay.
 Okay, Don; go ahead.
-Okay, on the LiOH canister, the words we got on it are that we'd never had one of those straps break on a flight unit. However, apparently if you put more than 128 pounds of force on them you - you can break them. And what we'd like you to do now is go ahead and change - make that change so that we don't miss it when we do the clock sync. I believe it's listed at ...
+Okay, on the LiOH canister, the words we got on it are that we'd never had one of those straps break on a flight unit. However, apparently if you put more than 128 pounds of force on them you - you can break them. And what we'd like you to do now is go ahead and change - make that change so that we don't miss it when we do the clock sync. I believe it's listed at...
 Now, Pete, that's some good thinking. Yes, sir; I've got it at 202:20.
-Roger. And we were afraid we'd get the clock ...
-... get that out of the way.
+Roger. And we were afraid we'd get the clock...
+get that out of the way.
 Okay.
 Say again, Don.
 I'm just saying it's up close to the time we're gonna sync the clocks. We're afraid we might omit it.
@@ -1080,7 +1058,7 @@ Stand by one.
 Ken, you talking about the clock sync?
 Yes, sir.
 Okay, I guess we'd like you to do the P52 first.
-Okay. We'll get on with that in just a minute as soon as we get the [garble] changed here.
+Okay. We'll get on with that in just a minute as soon as we get the changed here.
 Hey, Pete, y'all got any ideas why old Orion didn't hold attitude jettisoned?
 I guess I don't have a complete briefing on it. We've got a couple of suspect conditions. I'll try to get back to you later.
 Okay. No hurry on that one.
@@ -1099,13 +1077,13 @@ Stand by one. About 30 or 40 more minutes, 16.
 Okay, thank you.
 Okay, Houston. Would you like to take over our clock?
 Stand by. We're just about ready to do that.
-Okay, 16; if you'll go Accept, we'll uplink this clock sync. And while they're doing that, I'll tell you kind of what's going to happen. But - We're going to do it. The total change will be 24 hours 34 minutes and 12 seconds. And what we would like you to do is on, let's see here, Page 338 in the Flight Plan, we'd like you to pick up at about 226:30 in the Flight Plan ...
+Okay, 16; if you'll go Accept, we'll uplink this clock sync. And while they're doing that, I'll tell you kind of what's going to happen. But - We're going to do it. The total change will be 24 hours 34 minutes and 12 seconds. And what we would like you to do is on, let's see here, Page 338 in the Flight Plan, we'd like you to pick up at about 226:30 in the Flight Plan...
 Hey, Don, (laughter) I'm sorry you're gonna - Hey, Don, you're gonna have to start over again. Just as you started talking, our cabin fan let out a great big moan, and so we turned it off then, after all sitting up straight to see what it was. So would you start over again?
 Okay, I'll do that. If you'll go Accept, we've got the clock sync ready to go, and it'll be a 24 hour 34 minute and 12 second total change in the clocks. And what we would like you to do is pick up the Flight Plan at the old - at the old point of 226:30, actually pick up those events, although your clock may not come out exactly on that time. And what we're saying is we may cut a little bit into your rest period.
 Okay; but we're planning to do a little stowage here that we never have had a chance to get done.
 Roger.
 So we're going to have to do some of that stuff now.
-Okay. The items we'll pick up with, I guess, are the ones immediately following 226:30 [201:55]in the old Flight Plan.
+Okay. The items we'll pick up with, I guess, are the ones immediately following 226:30 in the old Flight Plan.
 Okay.
 Okay. Ken, your clock should be changed now. And if you'll pick up with - on Page 338 where it says, "Gamma Ray, Shield Off," you can go ahead and finish that stuff up.
 Okay. I take it we're gonna hold off on this PTC for a while until you've had enough time in this attitude?
@@ -1151,14 +1129,14 @@ Charlie, while we're working that, can you copy about four short items into the 
 Yeah, wait a minute.
 Charlie, you can go ahead and start getting that camera out. We'll work up the lines here.
 Okay.
-Okay, 226:40 [201:53]; go ahead.
-Okay; at 226:40 [201:53], we want to Retract Mapping Camera, Close the door, put the Mapping Camera to Standby, put the X-Ray to Standby, and then pick up at 226:50 there in the Flight Plan.
-Okay [garble].
+Okay, 226:40; go ahead.
+Okay; at 226:40, we want to Retract Mapping Camera, Close the door, put the Mapping Camera to Standby, put the X-Ray to Standby, and then pick up at 226:50 there in the Flight Plan.
+Okay.
 Pete, did y'all copy that?
 Negative. I guess we lost comm there temporarily, Say again, Charlie.
-Okay; you gave us a Flight Plan update for 226, and our clocks now say 227 ...
+Okay; you gave us a Flight Plan update for 226, and our clocks now say 227...
 That's affirmative.
-... 23.
+23.
 We're going to have to go back to 226. It's just prior to where you go into PTC and pick up these four items, and then get into PTC.
 Well, why don't you give us a call when you want us to do those, since we don't know when 226 is.
 Okay.
@@ -1225,23 +1203,22 @@ One final shot of the beautiful Moon.
 Roger.
 Say, Charlie, why don't you try to give us a close-up of each guy, and maybe we can get a playback for the wives tomorrow.
 Okay; we'll do that.
-You want - you want [garble].
-I think if we get in the LEB [garble].
-[Garble] always work [garble].
-That ain't [garble].
+You want - you want.
+I think if we get in the LEB.
+always work.
+That ain't.
 Okay; we got it off. We'll turn - bring it up in just a second.
 Roger.
-All right, you guys [garble].
-(Laughter) [Garble.] Boy, you know, I think this is [garble] picture.
+All right, you guys.
+(Laughter) Boy, you know, I think this is picture.
 Huh?
 Huh?
-[Garble].
 I know it. (Laughter)
-[Garble] like that, you could go all over the country.
-[Garble] Flight Plan right in front of you.
-Yeah, [garble].
+like that, you could go all over the country.
+Flight Plan right in front of you.
+Yeah,.
 Are you?
-Huh? Yeah, I'm trying [garble] (laughter).
+Huh? Yeah, I'm trying (laughter).
 Oh, yeah. Don't want to waste any time.
 This is the relaxing attitude for the world - for the seasoned space traveller.
 Boy, I can hardly believe the last 3 days, Pete. That was - The Cayley Plains is really the most fascinating place I've ever been in my life and will ever hope to go, and we sure had a good time collecting all the rocks.
@@ -1250,14 +1227,13 @@ Shift.
 Ken. I'll let you look at somebody else now.
 Charlie, everybody else is doing a mental interpolation. The Surgeon's standing on his head.
 You say - what - what was that?
-[Garble].
 (Laughter) Okay.
 I said everybody in the MOCR is doing a mental interpolation except the Surgeon, and he's standing on his head.
 (Laughter) Okay. That's great.
 (Laughter)
-Hey, tell him ...
+Hey, tell him...
 Okay; Ken just turned the camera over, you can have him turn the other way now.
-Roger. (Laughter) I'll have him ...
+Roger. (Laughter) I'll have him...
 But then the rest of you will stand on your heads.
 Okay; I don't know if you can see this or not. See this dirty hand?
 Oh yeah, we can see that.
@@ -1270,8 +1246,7 @@ Oh, I think we're all breathing easy now. And if we can, we'd like to get a quic
 Okay. Will do.
 Excuse me, Ken.
 The only - the only really neat guy on the crew.
-Huh? [Garble].
-[Garble].
+Huh?.
 What'd you say? You must be blind.
 He does dress pretty well.
 Notice the reflection off the bald head?
@@ -1286,7 +1261,7 @@ Okay. Thanks, Pete. We'll go back to SCI on the S-Band Aux.
 Okay. And for thermal reasons, as soon as you can, we'd like to go on now and get into PTC.
 All right. We'll start up.
 We're for that.
-[Garble], Ken.
+Ken.
 Let me move out of here, T.K. Okay. What'd you have?
 What's happening down in there?
 Say again, Charlie.
@@ -1317,21 +1292,19 @@ Yeah. Go ahead, John.
 I don't know if we told you or not, but Charlie and I think you really did one whale of a job doing those EVAs. We know how tough that is to do all those real-time changes. We just thought you did one heck of a good job, and we sure appreciate it. Just wanted you to know that.
 Oh, thank you much. But you guys made it awful easy.
 Hey, Tony. I was sitting here today thinking about those rocks we got, and the thing that really strikes me is that there was - I really don't think we got any volcanic rocks to speak of. Maybe some of those little black clasts were volcanics, but otherwise - I don't think we got any. There wasn't any there. The - there was one other - one other point that could have been - Those ones we were calling shocks could have been a tuff breccia, since they were so friable. But - that we might - that might prove to be the case; but to us, they looked shocked due to the other features that we saw that - that - applied a shocked metamorphism. Over.
-Right. We - From your description, we had thought there was a good chance that you might have gotten a tuff breccia there. I think, also, the fact that a lot of the breccias were one-rock breccias would in - would mean that you may have your basalts or gabbroic anorthosites or whatever, and that they're just broken up. If they're one-rock breccias or two-rock breccias, it still has most of the information of the - of the rocks we're looking for. It's not like a - you know - if you remember, it's not like a soil breccia, where everything is lost. So we - we're very happy with what you found. Also, did anyone brief you on the newest on the X-ray results ?
+Right. We - From your description, we had thought there was a good chance that you might have gotten a tuff breccia there. I think, also, the fact that a lot of the breccias were one-rock breccias would in - would mean that you may have your basalts or gabbroic anorthosites or whatever, and that they're just broken up. If they're one-rock breccias or two-rock breccias, it still has most of the information of the - of the rocks we're looking for. It's not like a - you know - if you remember, it's not like a soil breccia, where everything is lost. So we - we're very happy with what you found. Also, did anyone brief you on the newest on the X-ray results?
 No. Go ahead.
 Okay. You remember the first look I gave - The first look that I reported to you indicated that the aluminium-to-silicon ratio was sort of intermediate. Well, they've gone back; and with the newer data and a better analysis, it turns out that Descartes has one of the highest ratios on the Moon. The only place we've seen like it right now is on the east side of Smythii. We don't really have a good comparison yet with the east of Crisium. But anyway, it indicates that if any place has anorthosites, you've found them.
 I tell you, Tony, some of those rocks that we picked up - I was leaning, with the color and the crystalline structure that we had - they really gave me the - I didn't want to call it that, but they were certainly crystalline rocks; and there was no question in my mind. They had a sugary texture - the whitish ones. That big - one on the - rim of North Ray, there, with the shatter cone that had - a - a bluish tint to it in the crystalline structure. Although, it might have been just the - an aph - I say crystalline structure, or it might have been an aphanitic matrix; but y'all are gonna sort all of that out when you get bagged ones. I tell you, it really wasn't what we thought - I thought we were going to find up there. I imagined a lot of volcanics; and frankly, if the - if these shocked rocks turn out to be tuff breccias, that will be the only volcanics we found.
-Right. Understand. I think ...
-[Garble].
-...the fact that you recovered from the picture we had given you before you went and went ahead and found out what was there and sampled it so well - I think that's - a good indication that the training was good and you guys are really on the ball.
+Right. Understand. I think...
+the fact that you recovered from the picture we had given you before you went and went ahead and found out what was there and sampled it so well - I think that's - a good indication that the training was good and you guys are really on the ball.
 Well, we tried hard, anyway, Tony; and I think we got every - a piece of every rock that was up there. I really do. They were - and that's, I think, because we were lucky, and the rocks were identifiable.
-You know, the ...
-[garble]
-... difference between a rock being identifiable and not being identifiable is the level of training. That just says you guys are well trained.
+You know, the...
+difference between a rock being identifiable and not being identifiable is the level of training. That just says you guys are well trained.
 Well, you guys tried to beat it into us long enough, I'll tell you that. Hope we did a good job.
-I just got a set of questions that the geology team ...
-It looks like ...
-... would like to send up to you sometime. Maybe sometime during the Trans-Earth coast, we'll have a chance. I haven't really read through them, so I don't know what they're all about yet.
+I just got a set of questions that the geology team...
+It looks like...
+would like to send up to you sometime. Maybe sometime during the Trans-Earth coast, we'll have a chance. I haven't really read through them, so I don't know what they're all about yet.
 Okay. Well, we're gonna go into an eat period and a an EVA prep and try to get some rest before the EVA tomorrow, so - we'll wait on those. Okay?
 That's fine. Hey, we have the TV back on on the Moon up there, and everything's looking fine. It hasn't changed much since you left.
 Well, we were glad that y'all were able to watch lift-off. We heard that they got about 30 or 40 seconds, which, I think, was neat. It took me about that long to uncase my eyeballs when that ascent engine lifted off.
@@ -1342,17 +1315,17 @@ Well, that's just super.
 I don't know - We don't know whether Ken understood the up-link while ago on the biomed harness. The idea is that he's going to have to change it before the EVA in the morning. So, if he'll sleep better without one on tonight, he could take the old one off, now.
 Okay. We'll tell him.
 And, Tony, the only - on that - on the rocks, back to one other little point, there. That - You know, we called the whitish rocks tuff breccias- I mean, shocked rocks. But we're cou - at least, I'm personally convinced that there are at least two endogenic craters that we passed, and - the big one on the way to North Ray and the big one coming back from - from Stop 8. And so, that might have been a source of a tuff - if that's what they turn out to be.
-Very good. I just want to emphasize again that ...
-[Garble] situation, though.
+Very good. I just want to emphasize again that...
+situation, though.
 Right. I understand. I just think it was outstanding, maybe serendipity, that we probably - your landing there at Descartes probably sampled the most differentiated place we could find on the front side of the Moon. I think that's really outstanding.
 That's the feeling I got when we started seeing those rocks. That - that basalt that I called under the engine bell there, I think, might end up to be that blackish-bluish rock that we sampled up at North Ray, and so - we'll - but we'll see. We couldn't get any of what I call real basalt in rocks. Maybe some of the clasts will be, though.
 Okay.
 Could you tell from the TV, Tony, how rough that place was? Could you see all those - those swales and valleys that we didn't have mapped on our - that didn't show up on our map that were maybe, some of them, 30, 40, 50 meters deep?
 Yeah, I sure could. It reminded me of a dune area.
 Yeah. That's what it sort of looked like, sort of a dunes plains.
-Incidentally, somebody here is kind of worried about ...
+Incidentally, somebody here is kind of worried about...
 I'll tell you...
-... thermal problems, and we would like to get into PTC as soon as possible..
+thermal problems, and we would like to get into PTC as soon as possible..
 Okay, as soon as the thing - as soon as the rates get low enough, we will.
 Okay.
 Are the rates good enough now?

@@ -15,7 +15,7 @@ Okay. Stand by. (Long Pause)
 Antares, Houston. You can reset the ABORT pushbutton. (Pause)
 Okay. It's reset. (Pause)
 Okay. You can reset the STOP button...
-(Garbled under Haise) ...Fredo?
+(Garbled under Haise)...Fredo?
 You can reset the STOP button now, Ed, and press on with the P52.
 Okay.
 Okay. STOP button is reset.
@@ -88,7 +88,7 @@ Okay, Ed, it's VERB 25 NOUN 7 ENTER. Then, 105 ENTER; 400, four zero zero, ENTER
 Okay. VERB 25 NOUN 07 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. And when do I do this?
 Okay. You to do this as soon as you can after ignition. We're trying to get this in - to - before there's any chance of the bit getting set in this interval.
 Okay. We have to let P63 call up normally, get ignition in ATT HOLD, MANUAL THROTTLE, and then reset the bit, hopefully, before it gets - or rather, lock out the bit, hopefully, before it gets set. Is that right?
-That's affirm, Ed. And, if somehow you get hung up a little further downstream, you can go ahead and throttle up manually at 26. I'd like to explain the implications of this. What we've done, then, is locked out P70 and P71, so any aborts have to be done on the AGS. And, while you got the card handle [sic, means 'handy] you can - I'll give you something that will reenable P70, P71.
+That's affirm, Ed. And, if somehow you get hung up a little further downstream, you can go ahead and throttle up manually at 26. I'd like to explain the implications of this. What we've done, then, is locked out P70 and P71, so any aborts have to be done on the AGS. And, while you got the card handle you can - I'll give you something that will reenable P70, P71.
 Okay. We understand, and go ahead with your words.
 Okay. It's VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 1 ENTER. (Pause)
 Okay. Readback: VERB 25 NOUN 07 ENTER; 105 ENTER; 400 ENTER; 1 ENTER. That's all straightforward enough.
@@ -145,11 +145,11 @@ That's correct. Okay. After we... after we get by THROTTLE UP, it's VERB 25 NOUN
 Okay. Understand after THROTTLE up, we enter VERB 25 NOUN 7; 101 ENTER; 200 ENTER; 1 ENTER. And this enables guidance steering at that point.
 Roger. Okay the next entry. VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. (Pause)
 Okay. Understand VERB 25 NOUN 7 ENTER; 105 ENTER; 400 ENTER; 0 ENTER. And this looks like our procedures you gave us earlier (at 106:34:17 Ed will do the entry at 108:03:23).
-That's right, Ed. This'll disable P70, P71 . Okay, the next entry: VERB 21 NOUN 1 ENTER; 10 10 ENTER; 77 ENTER. (Pause)
+That's right, Ed. This'll disable P70, P71. Okay, the next entry: VERB 21 NOUN 1 ENTER; 10 10 ENTER; 77 ENTER. (Pause)
 Okay. VERB 21 NOUN 1 ENTER; 10 10 ENTER; 77 ENTER.
 Okay. This gets the P63 in the MODREG which gets us right for landing radar. Now, the same words apply if...
 Okay.
-...an abort requirement exists. We're going to be on the AGS. And one thing maybe I didn't make clear before, is the procedure for re-enabling P70, P71. You're not to perform (those procedures), unless you do abort on AGS.
+an abort requirement exists. We're going to be on the AGS. And one thing maybe I didn't make clear before, is the procedure for re-enabling P70, P71. You're not to perform (those procedures), unless you do abort on AGS.
 Roger. Roger. Understand that, in an abort situation, we will abort on AGS and use the re-enable procedure previously given up (at 106:36:03).
 Okay. And the only other thing I can say is, as you already know, be sure and get MANUAL THROTTLE UP at 26; and after the last entry, Ed, add one more thing; we need THROTTLE to MINIMUM setting. (Pause)
 Okay. Got that. The last entry we return the COMMANDER's THROTTLE to MINIMUM setting.
@@ -195,9 +195,9 @@ Okay.
 Okay. Now, you're loud and clear.
 (To Ed, garbled under Haise) here's your VERB 83 coming up.
 Very good. (Pause)
-(To Al) Okay, that looks good. 317, looks good; 3883 (?), that looks good. Let's go to 277, that looks good. Great. All right, I can start loading the AGS pad, now. 231, plus 56963 ...6963 ENTER. 240 is the same...
+(To Al) Okay, that looks good. 317, looks good; 3883 (?), that looks good. Let's go to 277, that looks good. Great. All right, I can start loading the AGS pad, now. 231, plus 56963...6963 ENTER. 240 is the same...
 Right.
-...plus 56963.
+plus 56963.
 Okay, 254.
 Okay, 254, plus 05428.
 Right.
@@ -206,8 +206,8 @@ Right.
 00037, (2)61, 00037 ENTER. 6...
 (2)62 minus...
 (2)62 minus...
-...00147.
-...00...0147. (2)62, minus 00147.
+00147.
+00...0147. (2)62, minus 00147.
 Right. 404.
 (4)04.
 Minus 12345.
@@ -241,20 +241,20 @@ Okay. I see you're already past that point, and we need the throttle to... THROT
 Okay. We're... we'll get it when... We've got it on our checklist, Fred. We're not quite there yet.
 Okay, Ed. And one other thing the...
 (Let's) go ahead and change our DPS Burn (Card).
-...the value of 231 (seventh line up from the bottom of the lefthand column on page 5) has changed, Ed; so, we need you to reload 231 and 240 with the following number: plus 56978. That's an update to your RLS (Radius of Landing Site or Reference Landing Site).
+the value of 231 (seventh line up from the bottom of the lefthand column on page 5) has changed, Ed; so, we need you to reload 231 and 240 with the following number: plus 56978. That's an update to your RLS (Radius of Landing Site or Reference Landing Site).
 Roger. 56978, CLEAR 231; 56978, ENTER; (2)40, plus 56978, ENTER. Okay, Fred. They are in.
 Roger, Ed. (Pause)
 (Taking care of the sixth and seventh lines of the DPS Burn Card) Okay, AUTO/COMMANDER. AUTO again. (Pause)
 Okay, we're done with that (DPS Burn Card) down to the point where we check out ABORT and ABORT STAGE, RESET. DEAD BAND, MIN, MODE CONTROL 3 (ATT CONT switches).
 (Referring to the first line on the DPS Burn Card) Okay. Did you get your circuit breaker to GIMBAL AC.
 Yes. They... they're all set.
-All right. Let me check mine then. ...
+All right. Let me check mine then....
 I already checked yours.
 Okay.
 Okay. (Pause) (Taking care of the last four lines before 'For PDI GO TO TIMELINE BOOK') PGNS in... PGNS AUTO and AGS AUTO. STOP pushbuttons are RESET. (Garbled, but referring to the final line: CDR TTCA - THROT) is in MIN. (Pause)
 Okay, how far down are we on the DPS configuration card now, down to...
 There.
-...down to there. Okay.
+down to there. Okay.
 We're through with that card.
 Okay.
 Back on this one? (Timeline Book page 5)
@@ -366,7 +366,7 @@ Put that to Off?
 (Garbled under Al) it got bumped.
 Okay....
 (Garbled)
-...(the) DSKY's on time.
+(the) DSKY's on time.
 Engine Arm to Descent.
 Average g is On. The Descent Engine is armed.
 Roger, Antares.
@@ -389,7 +389,7 @@ Throttle up.
 Okay. We're at full throttle, Houston.
 Command is Down. Verb (garbled) 5...
 Roger, Antares.
-...Noun 7, Enter 101.
+Noun 7, Enter 101.
 1.7.
 001, Enter. Should have guidance. And you have Command and Throttle.
 Okay. We have guidance.
@@ -403,7 +403,7 @@ And we're standing by for Noun 69. As appropriate. (Pause)
 And, Antares, Noun 69...
 (Garbled under Haise) back to normal now, huh?
 (Garbled under Haise).
-...is plus (+) 02800.
+is plus (+) 02800.
 Plus...What is it?
 02 - no, (only) one zero - plus 02800.
 Okay, Houston, how does that look? (Pause)
@@ -438,7 +438,7 @@ Antares, Houston. You're Go at 5.
 5:30 (into the burn). (Pause) We're on
 Okay, 6 plus 40...
 (Garbled).
-...is throttle down, Antares.
+is throttle down, Antares.
 Roger.
 Roger, Houston. We still have Altitude (and)
 Roger. (Pause)
@@ -457,7 +457,7 @@ Okay. Pro(ceed). Converging. Pro.
 Great. Whew; that was close.
 Okay, and monitor...
 (Garbled).
-...Descent Fuel 2.
+Descent Fuel 2.
 Okay, the throttle-down was on time, essentially.
 Roger, Al.
 (Garbled). (Pause)
@@ -495,7 +495,7 @@ Houston, I'm on AFT (omni-directional antenna).
 Roger, Ed.
 Okay, 2000; 48 feet (per second descent
 One click left.
-...coming down a little fast.
+coming down a little fast.
 One click left.
 2000; 60 feet a second, a little bit fast, but
 Okay. (Pause) Outstanding!
@@ -514,7 +514,7 @@ Okay. I think so; you're through 340 feet.
 Att(itude) Hold. (Pause)
 Okay. Okay; I'd give it a few clicks. You're
 Go level.
-...per second. That looks good.
+per second. That looks good.
 Go level here.
 Nine percent fuel, looks great. (Pause) Okay,
 You're 170 feet, Al; 2 feet per second down; 8

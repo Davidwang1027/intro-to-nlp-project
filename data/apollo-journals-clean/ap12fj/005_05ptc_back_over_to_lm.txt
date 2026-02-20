@@ -2,7 +2,7 @@ Hello, Houston; 12.
 12, Houston.
 Roger. It - I think it's about time I went to PTC, don't you?
 Roger. That's affirmative, Dick. And now that you're back in out of the LM and ready to pick up, why don't I give you some of the things we've been thinking about as far as the time line. You'll be back on that nominal time line when you take the Primary Evap and deactivate it after PTC. And also for PTC, we'd like you to disable Quads Alpha and Bravo.
-Roger. Understand disable Alpha and Bravo. [Long pause.]
+Roger. Understand disable Alpha and Bravo.
 12, Houston.
 Go ahead, Houston.
 Would you go ahead and turn off Hydrogen tank 1 heater to get us to do some Cryo balancing? And secondly, give us a readout of the Service Module RCS propellant quantity for all quads?
@@ -23,21 +23,21 @@ Roger. We're bringing them both on now, and understand you're going to watch the
 Roger. We're looking.
 Hello, Houston; 12.
 12, Houston. Go ahead.
-What's that tank doing? You give us a [garble] Tank 2 O2.
+What's that tank doing? You give us a Tank 2 O2.
 12, Houston. We are showing on Tank 1, 737; Tank 2, 755; and they appear to be holding.
 Say that again, Houston.
 12, we show on Tank 1, 737; Tank 2, 755.
-Roger. We are trying to figure out ourselves why they [garble ] normal [garble] [Pause.]
-12, give us Omni Alpha, Omni Alpha. [Pause.]
-12, go to Omni Alpha, Omni Alpha. [Long pause.]
+Roger. We are trying to figure out ourselves why they normal
+12, give us Omni Alpha, Omni Alpha.
+12, go to Omni Alpha, Omni Alpha.
 Houston, 12.
 12, Houston.
 12, Houston. Go ahead.
 Houston, this is 12. I just stated that I have quads Alpha and Bravo disabled with the Auto RCS.
-Roger. [Pause.]
+Roger.
 And, 12, would you go ahead and verify that the O2 Heaters are in Auto?
 Both O2 Heaters are in Auto.
-Roger, Al. [Long pause.]
+Roger, Al.
 12, Houston. We're looking at the O2 again and reading Tank 1, 758; and 777, Tank 2. It's coming up slow.
 Okay. We're going to leave our H - I mean our O2 fans on until you give us a call, then.
 Roger. That's a good idea. Looks as though you just have some stratification, and it's going to take a little while to mix it up.
@@ -54,7 +54,7 @@ Hello, Houston; 12.
 12, Houston. Go ahead.
 Roger. We are still venting this cabin overboard. We think we should have terminated that about 8 hours. Can we go ahead and terminate the cabin purge?
 Dick, we show that we ought to go on with that until about 12 hours.
-Okay [Garble.]
+Okay
 12, Houston.
 Go ahead, Houston.
 Pete, we'd like you to take the S-band antenna to the Omni and go to the Bravo position.
@@ -65,9 +65,9 @@ Roger. Let us know when you think we can deactivate the evaporator.
 Roger, Dick. Will do.
 Thank you.
 Dick, you can go ahead and deactivate that now.
-Okay. [Long pause.]
+Okay.
 Hello, Houston. This is 12, and we're about to change Lithium Hydroxide canister number 1.
-Roger, Dick. We copy. [Long pause.]
+Roger, Dick. We copy.
 Okay, Houston. The evaporator's secured.
 Roger, 12. Copy the evaporator secured.
 12, Houston.
@@ -100,21 +100,21 @@ Okay, Houston. What page was that? We got column B, line 4 as 14616 and line 5, 
 Roger, Al. Numbers are good, and that's on page 1-32.
 It's in your alternate...
 We got it.
-...contingency checklist.
-We got it. [Long pause.]
+contingency checklist.
+We got it.
 12, the uplink is complete. You can go back to Block.
 Roger. What did you give me?
 Gave you a good state vector.
 You mean I ruined it, huh?
 Ed, are you telling me that I ruined it with my P23?
-Dick, stand by on that and we'll see what your P23 did do. [Long pause.]
+Dick, stand by on that and we'll see what your P23 did do.
 Dick, it looks as though your P23 did improve your state vector. However, we had a little longer time to work on it, about 6 hours worth of MSFN, and so we gave you one a tad more accurate.
 Thank you.
 Houston, 12.
 12, Houston. Go ahead.
 You want that P52 at 10 - about 10:45?
 Stand by on that, Pete.
-Okay. [Long pause.]
+Okay.
 Pete, that P52 is really your option. We don't need it. You can go ahead and do it if you like. You have one coming up at around 15 hours and that would suffice.
 Okay. We'll wait.
 Roger.
@@ -128,19 +128,19 @@ Okay. That indicates at least that you didn't have the switch out of position.
 Houston, we're on our way back in now.
 Roger, Pete.
 We'll get the world's record for ingress/egressing out of this baby in a couple of more.
-Roger. Give us a mark. [Long pause.]
+Roger. Give us a mark.
 Pete, we assume that you powered down the circuit breaker Panel as - on activation 3 and 4. Two circuit breakers there that should be out which are shown in: one is utility light which we discussed and the other under ECS panel 16, the cabin Repress, should also be out. That was closed in a previous step.
 We'll check them.
 Okay, Houston. You got any more bets? The utility circuit - utility light circuit breaker on Panel 11 is out and the cabin Repress circuit breaker on Panel 16 is out.
 Roger, Pete. We copy that. Stand by and we'll see if there's anything else we can do while we're in there.
-Okay. We're going to go through the whole phase 3 here again. [Long pause.]
+Okay. We're going to go through the whole phase 3 here again.
 Okay, Houston. We've got a question for you. We - When we left last time, we put our exterior lighting switch from Dock to Off, since we'd already docked, and it may be that when it's in Off it doesn't turn out the cabin lights when you close the Hatch. Could you check that?
 Roger. We'll check that. We saw down here that when you opened the hatch, you didn't get any drop in the current, and we suspect that the problem was the floodlight, but stand by on that.
 Pete, would you go ahead and verify the position of the floodlight switch? Verify that it's off?
 Floodlights are off and exterior lighting in Off. We also punched the little button on the hatch and the floodlights went off.
 Roger. We copy.
 Pete, would you go ahead and open the Floodlight circuit breaker, Panel 16, and we'll troubleshoot. We'll be watching the current down here and see if we get a change.
-Houston, 12. When you pulled that circuit breaker [garble] the service testmeter dropped 0.4 of an amp - correction - 0.4 of a volt.
+Houston, 12. When you pulled that circuit breaker the service testmeter dropped 0.4 of an amp - correction - 0.4 of a volt.
 Roger, 12. We confirm that. We show a drop in amps back to what looked to be the same before you went in. We'd like you to go ahead and leave that circuit breaker open, and you can leave it in that configuration when you leave the LM. When you go back in, of course, we'll just have to punch it in.
 Okay. We're getting back out of the LM, Houston. Must be that switch in the hatch is out of adjustment somehow.
 Yes. He can put - the switch works by me pushing my finger on it, but it may not cut it off - when it's closed any more.
@@ -175,9 +175,9 @@ Okay, Houston, we're going to turn off the dump now.
 Roger, 12.
 Say, Houston, how far out are we?
 Stand by, Pete. We'll give you a good figure.
-Thank you. [Long pause.]
-12, you are about 56,000 [nautical] miles [104,000 km] out now, and you are smoking along at 7,600 feet per second [2,300 m/s].
-Okay. Thank you. [Long pause.]
+Thank you.
+12, you are about 56,000 miles out now, and you are smoking along at 7,600 feet per second.
+Okay. Thank you.
 Al, are you still at the window?
 That's affirmative.
 Houston, Apollo 12.
@@ -191,14 +191,14 @@ That sub-solar point is over the water now, and it glints on the surface of the 
 Roger. How...
 It looks like we can see the coast of China and Japan now. It's kind of hard to tell. You can see red Earth pretty well, but if there's greens or grays, it is very difficult to discern them from the blues.
 Roger, Al. That glint, is that about a quarter of the way off the - about half-way between the terminator and the edge?
-That's about right. [Music: 'San Antonio Rose']
+That's about right.
 Al's getting homesick up here; we're just trying to keep him happy.
 Pete, is that you singing?
 No. Unfortunately, it's not.
-Pete, let's hear a little of that good music. [Music: 'San Antonio Rose'.]
+Pete, let's hear a little of that good music.
 Okay, that's enough. Pete, I asked for a little of the good music.
 Roger-Roger.
-Just a minute. I'll go see if I can find it. [Music - 'Louisiana Man' by Rusty and Doug.]
+Just a minute. I'll go see if I can find it.
 Pete, all the folks down here feel that isn't half bad.
 All bad.
 Well, I'll tell you what it's done. It's precipitated a big search for the rest of the tapes. Al and Dick are scurrying all over the spacecraft.
@@ -208,27 +208,27 @@ Houston, 12.
 Okay. What about the waste stowage vent?
 12, you can go ahead and close it now.
 Okay. And we'll hold off until we finish charging Battery B, before we dump the battery compartment.
-Roger, Dick. That sounds good. [Long pause.]
-Ed, I guess you might as well start logging this leak rate now for the LM. It's - Delta-P is plus 0.2 right at this time, and I don't think we'll be [garble] for a day or so now so we can start logging, and Zero on our gage is 0.1 plus 0.1.
+Roger, Dick. That sounds good.
+Ed, I guess you might as well start logging this leak rate now for the LM. It's - Delta-P is plus 0.2 right at this time, and I don't think we'll be for a day or so now so we can start logging, and Zero on our gage is 0.1 plus 0.1.
 Roger. Copy Delta-P 0.2, and Zero is 0.1.
-That's affirmative. [Long pause.]
+That's affirmative.
 Houston, this is 12. We went ahead and vented that Battery right now and it's on its way down to zero. It was up to 3 volts when we started.
-Roger, 12. [Long pause.]
+Roger, 12.
 Okay, Houston. At 12:24 it says here in our Flight Plan that we'll be full frame for a 500 millimeter and we have it out, and I presume that that time is still pretty good.
-Stand by on that, Pete. [Long pause.]
+Stand by on that, Pete.
 Pete, was that a recent write-in to the Flight Plan?
 No, it's on our photo card.
 We just found that out before we left.
-Roger. [Music: 'Chattanooga Choo-Choo'.]
+Roger.
 Pete, those values of the F-Stops you just questioned look good. That's F:11 for the Earth, F:8 for the Moon.
 Okay. Thank you.
-...is that any better?
+is that any better?
 Well, we suggest, Dick, that maybe you continue scurrying around there.
 Oh, you're really hard at it today, aren't you? Okay.
 That Earth view is really going to be something weird coming back, Houston, when you only got about a - just a little bitty sliver of the Earth, because, like I said earlier, you just can't see anything in the black. And when we had that eclipse at about 5 hours, I guess the Earth's going to completely disappear.
 Roger, Al, copy. You see Australia coming up over the - over by the edge?
 I sort of do. It's difficult to tell, unless the ground is - has a pretty good contrast to the -to the water. And I can see some red over there, and I'm not really sure whether that's Australia or exactly what it is. Makes you wish you had studied your geology harder in high school, or something- geography, that is.
-Okay, Houston. We've got Australia. [Long pause.]
+Okay, Houston. We've got Australia.
 12, Houston. Say again.
 Roger, we got Australia in sight now at the - oh, it's about the 8 o'clock position, with respect to the terminator.
 Al, are you able to pick out any small islands out there in the Pacific?
@@ -238,7 +238,7 @@ Roger.
 Hey, Houston, 12.
 Houston. Go ahead.
 Roger. Have you been plotting this PTC on the ball? How's it looking?
-Roger, Dick. We've been watching it; stand by. [Long pause.]
+Roger, Dick. We've been watching it; stand by.
 Dick, we've been looking at your trace here, and it looks as though you're up to around 27 degrees now; you're just sort of pig-tailing out. What gave you a large excursion was the waste-water dump. It looks as though you'll be heading back in; you won't really significantly improve -that is, you won't really get the alignment rate right down close to zero at the rate you're going, but you'll probably stay within 30 degrees, so just hold what you've got.
 Okay, Ed. Thank you.
 Apollo 12, Houston. We have a - some P37 PADs for lift-off, 25, 35, 45, and 60, when you're ready to copy.
@@ -249,28 +249,28 @@ P37 Block Data: 025:00, 4227, minus 169, 074:12; 035:00, 6327, minus 166, 073:39
 That's it, Al. Read back.
 Okay, the last one I got before we lost S-band there with you was the 122, and I didn't copy the last part GET 400K.
 Okay. GET at 400K was 122:01.
-Okay, read-back follows: 025:00, 4227 [garble]; 035:00, 6327, minus 166, 073:39; [garble] 0 [garble] 045:00, 4917, minus 168, 097:5 [garble]...
+Okay, read-back follows: 025:00, 4227; 035:00, 6327, minus 166, 073:39; 0 045:00, 4917, minus 168, 097:5...
 Al, hold up; your transmissions are all broken.
 I'll see if I can get a little closer to the Mike; do you want me to start over again?
 Stand by, Al. We still have a lot of static on the line.
-Okay. [long pause.]
+Okay.
 Okay, Al. Go ahead with your read-back. After 025:00 we pretty much lost all of it.
 Okay. I'll start anew. 025:00, 4227, minus 169, 074:12; 035:00, 6327, minus 166, 073:39; 045:00, 4917, minus 168, 097:58; 060:00, 4496, minus 168, 122:01.
 Read-back correct, Al.
 Hello, Houston, 12.
 12, Houston. Go ahead.
-Roger. It looks like - get another calibration point for our Service Test-Meter. Looks like the Battery compartment is vented when it reads 0.4 of a volt. It's been on for about - well, 30 minutes and going [garble.] Can you take a look at that ?
+Roger. It looks like - get another calibration point for our Service Test-Meter. Looks like the Battery compartment is vented when it reads 0.4 of a volt. It's been on for about - well, 30 minutes and going Can you take a look at that?
 Roger. Copy. Voltage for vented is 0.4.
 Roger. You confirm us closing that - at this time, starting on a Battery B charge, over -or a Battery Alpha charge.
 Dick, we'd like to go ahead and close the battery manifold, but continue charging Battery B.
-Okay. [Long pause.]
+Okay.
 Dick, we estimate another 30 to 45 minutes for charging Battery Bravo.
 Okay.
 Apollo 12, Houston.
 Go ahead, Houston.
 Dick, you can go ahead and stop charging Battery Bravo and start on battery Alpha. If you go ahead and charge that until you hit the sleep period, you'll be able to get 60 percent of the charge back in.
 Okay. We're going to go off Bat B and start charging Bat A.
-Roger. [Long pause.]
+Roger.
 Okay. We're charging Bat A at this time.
 Roger, 12.
 Apollo 12, Houston.
@@ -278,10 +278,10 @@ Go ahead, Houston.
 Roger. We're sort of suggesting here that, when you terminate your PTC, you go directly to your P23 attitude as listed in the Flight Plan to do your P52. There should be good stars there and it will save one attitude maneuver later.
 Okay.
 And at the P23 Optics Cal, the Roll is 204, Pitch 262, and Yaw 0.
-Okay. [Long pause.]
-Welcome aboard, Don. [Pause.]
+Okay.
+Welcome aboard, Don.
 You certainly had an exciting one this morning.
-Yes. It keeps recurring in our conversation [laughter] throughout the day today.
+Yes. It keeps recurring in our conversation throughout the day today.
 Anybody see anything from the ground in all that business?
 That's affirmative. We saw lightning coming right down your plume, right to the ground.
 Are you kidding me, or not?
@@ -294,7 +294,7 @@ Houston, go.
 You know these marks are going to be good. Dick Gordon even used his eye patch this trip.
 Roger.
 I was looking at the Earth a few moments ago. You can see the entire top of Australia. Sure is pretty, and hardly any clouds at all over it. And looks to me like it's to be about one and a half to two times the size of a golf ball at arm's length.
-Should be a pretty impressive view from that altitude. [Long pause]
+Should be a pretty impressive view from that altitude.
 Apollo 12, would you select Omni Alpha, please?
 Roger. Didn't seem to change anything.
 Houston, say again.
@@ -320,10 +320,10 @@ SCE power is in Normal.
 In Normal. Roger.
 Hello, Houston, Apollo 9. Correction, 12.
 Go ahead. Houston, 12.
-Roger, Houston. What state vectors do you have in the LM slot? [Long pause.]
+Roger, Houston. What state vectors do you have in the LM slot?
 It's the CSM prior to the P23.
 Thank you.
-Apollo 12, Houston. [Long pause.]
+Apollo 12, Houston.
 Apollo 12, Houston.
 Go ahead, Houston.
 Roger. It looks like we're ready for PTC now, and when you start the maneuver we would suggest Omni Bravo.
@@ -332,19 +332,19 @@ Hey, Houston, how do those P23s look to the guys in the back?
 They look great.
 They're real happy, huh?
 They sure are.
-Okay. If they're happy, I'm happy. [Pause.]
+Okay. If they're happy, I'm happy.
 12, we've got an uplink to the gyro drift whenever you can give us the computer.
 Okay. It's all yours.
 Thank you.
-Apollo 12, the computer's yours again. Thank you. [Long pause.]
+Apollo 12, the computer's yours again. Thank you.
 Apollo 12, Houston. We're finished with the computer. It's yours again.
 Okay. Thank you.
-Thank you. [Long pause.]
+Thank you.
 This is Houston, 12. Did you call?
 That's negative, Houston. Some other spacecraft must have called in.
-Roger. [Laughter] I was hearing you occasionally weak, and we're not sure whether it's you or the others.
+Roger. I was hearing you occasionally weak, and we're not sure whether it's you or the others.
 Roger-Roger.
-Apollo 12, Houston. [Long pause.]
+Apollo 12, Houston.
 Apollo 12, Houston.
 Go ahead, Houston.
 Roger. We wanted to make a couple of suggestion: for you before you settle down for the night, and we wanted to leave that up to your option, when you want to go to sleep after you eat. And a couple of items before - we wanted to remind you of - that you'll have to include before you settle down for the night. First one is that the H2 tanks, both 1 and 2, should be in Auto. You would terminate the battery charge, and you'd change the lithium hydroxide canister, and then we wanted to leave it up to you when you wanted to terminate your activity today.
@@ -355,7 +355,7 @@ Okay. H2 heaters to Auto after pre-sleep checklist. Roger-Roger.
 You guys calling, Houston?
 Not us. You must be talking to somebody strange now.
 Okay.
-Apollo 12, Houston. [Long pause.]
+Apollo 12, Houston.
 Apollo 12, Houston.
 Go ahead, Houston.
 Listen, those transmissions you thought you heard a couple of minutes ago were us running some keying checks. We didn't think they were getting out, but apparently a couple of them did; so apparently, nobody is up there flying with you.
@@ -363,7 +363,6 @@ Okay. Very good.
 Apollo 12, Houston.
 Go ahead, Houston.
 Roger. We liked your PTC maneuver down here. Looks pretty good. And just a reminder to - you can turn off the Auto RCS select switches now.
-[Garble.]
 Houston, Apollo 12.
 Go.
 How about a E-memory dump?
@@ -373,7 +372,7 @@ Apollo 12, Houston.
 Go ahead, Houston.
 Could you give us that dump again? We switched bit rate on you in the middle and fouled ourselves up.
 Coming at you, Houston.
-Thank you. [Long pause.]
+Thank you.
 Hey, Houston, seeing we don't have any Service Module RCS propellants gauge that's working, could you give us our - what you think our present A, B, C, and D quads are, please?
 Houston, Apollo 12.
 Go.
@@ -392,7 +391,7 @@ Okay. The pre-sleep checklist is complete. We have no medical crew status report
 Roger. Have pleasant dreams. We see you in the morning.
 Okay. The battery charge is going off at this time.
 Roger.
-Apollo 12, Houston. [Long pause.]
+Apollo 12, Houston.
 Apollo 12, Houston.
 Go ahead, Houston.
 Sorry to bother you again, Pete. We need pyro Bat readouts from you if we could. We'd also like to get a LM/Command Module Delta-P reading and a confirmation that the heaters are on Auto - the cryo heaters.

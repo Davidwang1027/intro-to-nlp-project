@@ -25,7 +25,7 @@ It was a pretty long day. I'm sure it was for you. It sure was for us.
 Yeah, you bet.
 Gerry, thanks for everything. We'll be seeing you when we get back.
 Okay, Charlie.
-Incidentally, I talked to Lee [Silver] yesterday, and he sends you all a 'Very well done.'
+Incidentally, I talked to Lee yesterday, and he sends you all a 'Very well done.'
 Thank you.
 Tony, you still there?
 Yeah. Go ahead.
@@ -38,10 +38,10 @@ That would be a good deal, wouldn't it?
 Yeah, maybe you can fix that up for us so we can go back and try it again.
 There's another 400 or 500 pounds up there, Tony, we'd like to bring you.
 We didn't make Lee's ton a year, but we're working on it.
-[Laughter.] Yeah, if you don't get a - get a ton - Lee's going to be disappointed. No, I don't think so. I think he's pretty happy.
+Yeah, if you don't get a - get a ton - Lee's going to be disappointed. No, I don't think so. I think he's pretty happy.
 Okay, Houston. With the crew status report.
 Go ahead.
-Okay. For the Commander, A1 is still stowed, A3 is 7 hours, A4 is none, A5 is 1725 ...
+Okay. For the Commander, A1 is still stowed, A3 is 7 hours, A4 is none, A5 is 1725...
 John, we lost comm there about the CDR's A-5. If you can do that one again, please.
 Okay. A-5: 17, 25, and 16; A-6 is: 1 is 8, 2 is 4, 3 is 6, 4 is 5, and 5 is 8. All those - all those quantities are in ounces.
 Okay.
@@ -87,7 +87,7 @@ Okay. Ken, why don't you press on through that malfunction 6 there on Page 28; a
 Okay.
 Do you have any questions on killing the DAP, Ken?
 Okay, that time when I went to do a Verb 40, just about the time it should have run its time out and blanked the DSKY, we got another Program Alarm, and a - shows 3777 again.
-Roger, [garble] that.
+Roger, that.
 Do you still have the ISS light, Ken?
 That's affirmative.
 16, Houston. We'd like to proceed with the malfunction procedure.
@@ -163,7 +163,7 @@ Right after we've opened the SECS circuit breakers there, we want to write in "B
 Okay, battery compartment pressure check - that's meter 7-A. If off-scale high, open through entry - and, just for your information, right now it's about 2.9.
 Okay; copy. Okay, and then at the bottom of that page, after the P52, put in - I'm sorry - let's do it before the P52. Add "Start EMP 509." And this is just an arbitrary point that we've - that we've picked, Ken. We're getting close enough now that we think we ought to have 509 running. We would prefer you to go ahead and do the P52 in SCS, as you have been doing. But let's just have 509 running before you go into that P52.
 Okay, that's fair.
-Okay, let's go over to 1-3 and ...
+Okay, let's go over to 1-3 and...
 All right.
 Down under the boresight - this is the standard bit - delete your "Verb 41 Noun 91," and add "Verb 16 Noun 91 Enter; use Manual Optics."
 Okay, Manual on the boresight.
@@ -201,7 +201,7 @@ Okay. Those are the changes, Ken. And - we're working up a - a list here. It'll 
 Okay. Thank you.
 Roger. Oh, I'd like to also add here, Ken, and - of course, as you well know, we - in this mysterious glitch solutions, we gotta shotgun it, and we're trying to find the areas that are a prime candidate for glitch in the CDU. And one of these is during your GDC align procedure, when you have your Att Set switch to Att Set and you either switch in to or out of IMU on the Source. What you're doing here is loading up the CDU's, and they feel that this is a prime candidate for a glitch. So, our words of wisdom are to minimize the number of times that you use this switch, and I guess after your GDC align in the normal checklist;, we'd kind of like to see you not cycle that Source switch to IMU with your Att Set switch in Att Set. I guess you could still check your GDC versus Noun 20s if you wanted to, but I did want you to be aware of this particular switch combination as - as loading up the CDU. And this is where we have the probability of glitches.
 Okay, thank you.
-And just ...
+And just...
 As you know, we've - we've only aligned the GDC IMU a thousand times, and I don't think that's had anything to do with the glitch we've had so far.
 Yeah, we realize that, John. The problem is - we don't know what - what's causing the glitch. We just, at this time, can't say.
 That's true, but I'm saying that - Oh, never mind, never mind.
@@ -213,20 +213,20 @@ Thank you.
 Ken, it all looks good down here. We don't think you need the Verb 40.
 Okay. I agree. Sure gets your attention, though.
 Roger.
-Wait a couple hours, Ken, and it'll even get your attention faster. And when all of you've got a chance to listen, I've got a couple of words on the - on the CDU transient fuse [?].
+Wait a couple hours, Ken, and it'll even get your attention faster. And when all of you've got a chance to listen, I've got a couple of words on the - on the CDU transient fuse.
 Okay. Why don't you wait a few minutes. We're still cleaning up a little stowage here.
 Okay.
 Well, here we go again.
 Roger. We see it.
 Okay, Houston. I got it out that time by kicking the panel. Sounds to me like switch - it sounds to me like same kind of contamination in the - in the switch.
-Where ...
+Where...
 In the relay or whatever.
 Where did you kick, John?
-I kicked right - I put my - I - when it went out, I was kicking right over the Noun 99 codes, and just below that - I think it was ...
-[garble] LEB and the ...
-Yeah, I think I was ...
-... Optics panel.
-... kicking on the region of the - What's just below there, the PSA with the modules in it?
+I kicked right - I put my - I - when it went out, I was kicking right over the Noun 99 codes, and just below that - I think it was...
+LEB and the...
+Yeah, I think I was...
+Optics panel.
+kicking on the region of the - What's just below there, the PSA with the modules in it?
 All right. Maybe there was something to that Tool E hitting it awhile ago.
 Could have been. Or maybe it just went out.
 Apollo 16, Houston. We'd like to verify the S-Band Aux TV switch, Off.
@@ -389,7 +389,7 @@ You have it.
 It appears that that PIPA's responding to temperature changes, is what the problem is, John.
 Apollo 16, the computer's yours.
 Okay, going to Block.
-... Set. Tape is running. Standing by for 289:58 [265:11], Separation Checklist.
+Set. Tape is running. Standing by for 289:58, Separation Checklist.
 Think they've slipped.
 Okay, they've given us this. Is there any reason why we shouldn't...
 Houston, have you got the PIPA incorporated?
@@ -403,7 +403,7 @@ Yeah. That's CM-SM SEP, one, two, Closed.
 Primary Glycol To Rad, Bypass, Pull.
 Want to do this early? We're about a minute.
 We're about a minute up.
-[garble] Glycol.
+Glycol.
 Bypass is pulled. Okay, now.
 Repress Package, Fill, to 865. It already is; I just checked it. Then On.
 Repress Package you want On.
@@ -420,7 +420,7 @@ Yep.
 Service Module RCS Secondary Propellant Fuel Pressure, four, Open.
 Yeah.
 Verify that.
-Secondary [garble]
+Secondary
 VHF AM A and B going off.
 Okay, Hank; your VHF is off. I'm turning off the fuel pumps now.
 Roger.
@@ -440,34 +440,34 @@ Enter; 1...
 Enter; 0 Enter.
 Go.
 I thought it was after you called P61.
-[garble] for.
+for.
 Okay, we have knocked down the average g flag.
-[Garble] 4.
+4.
 Roger.
 Okay, you want to call P61.
 Let's see now; that's - we're 23 minutes to go. Think that's - think that's too much - too long for the integration?
 What's it supposed to be, 18:30?
-That's [garble] ...
+That's...
 We're supposed to have a flashing 06 61 at 18:30.
 Want to go at 20?
 Yeah.
-Okay, at 20, it'd be about 290:02 [265:15], but make it 03.
+Okay, at 20, it'd be about 290:02, but make it 03.
 Okay.
-Well, we've got a ...
-We got three minutes ...
+Well, we've got a...
+We got three minutes...
 Three minutes to go - four minutes, actually, John.
 Yeah.
 Okay (sigh).
-Okay, Ken, when we hit the .05g time, I'll - I'll call .05g -time, mark, and remind you of the roll and the .05g switch.
+Okay, Ken, when we hit the.05g time, I'll - I'll call.05g -time, mark, and remind you of the roll and the.05g switch.
 All right, sir.
 Okay?
 Thank you.
 Okay, now, down on the flashing 06 61, we got a Verb 21 Noun 46 has to be set.
 Yes, sir.
-Okay. That's after sep ...
-[garble] that's - Yeah, that's the next 06 61.
+Okay. That's after sep...
+that's - Yeah, that's the next 06 61.
 Yeah.
-Okay, horizon check comes up at 290:06:30 [265:20:28][garble]. Fifteen minutes.
+Okay, horizon check comes up at 290:06:30. Fifteen minutes.
 That clock is off again.
 Oh, let's call it up.
 Okay; go.
@@ -492,18 +492,18 @@ Okay.
 Okay, that - this can change to the integration as you come around.
 Yeah, we integrated out too far away.
 Yeah. Go ahead...
-[Garble] Pro.
+Pro.
 1071.
 Okay, 1051. We'll take it.
 It's close.
 36272.
-Twenty-one minutes to .05g; 23 [garble] 24 - Yep, that all looks pretty - pretty reasonable. Shall we?
-Yeah [garble] to separate.
-Okay, at 17 minutes, that's 290:06:31 [265:20:29] - three minutes from now.
+Twenty-one minutes to.05g; 23 24 - Yep, that all looks pretty - pretty reasonable. Shall we?
+Yeah to separate.
+Okay, at 17 minutes, that's 290:06:31 - three minutes from now.
 Okay, but you probably ought to yaw about 45 degrees now anyway.
 Yeah.
 Yeah. Are you ready to do that now?
-Okay, manual attitude ...
+Okay, manual attitude...
 You're looking good coming up on sep.
 Manual Attitude, three, Rate Command.
 I have three in Rate Command.
@@ -536,12 +536,12 @@ EMS Mode to Standby, verify.
 That's verified.
 Okay, the CM RCS Logic, on, up.
 CM RCS Logic is on.
-Okay, we ...
+Okay, we...
 Turn up the lights.
-Yes, sir. John ...
-The reason is because you can't see out once we ...
+Yes, sir. John...
+The reason is because you can't see out once we...
 Yeah.
-... [garble] in here.
+in here.
 Yeah. That's - that's a good plan.
 Okay.
 Now we've got 17 minutes. We're coming up - or on 17. We separate at 15, at 290:08:31. We'll hold off on the Logic until 17. Okay?
@@ -555,11 +555,11 @@ Ten seconds.
 Okay.
 Okay, SECS Pyro ARM, two, arm.
 Two armed.
-Okay, at 15, which is 290:08:31 [265:22:29], we separate. CM/SM Sep, two, on.
+Okay, at 15, which is 290:08:31, we separate. CM/SM Sep, two, on.
 This time, John, you can hit any switch up there.
-[Garble] (laughter).
+(laughter).
 Just that row.
-Okay. Tell me when, Charlie, [Garble].
+Okay. Tell me when, Charlie,.
 I will. We got a minute and a half.
 Okay; we're a minute and a half to CM/SM Sep.
 Okay, you got your hand controller locked, but it's armed.
@@ -576,9 +576,9 @@ Say when.
 Okay.
 3, 2, 1 -
 Separate. There we go.
-What's the Master [garble] for?
+What's the Master for?
 That's just - got to go to Caution and Warning.
-Putting them in [garble]...
+Putting them in...
 Separation, Houston.
 Roger.
 Man, it really went, didn't it? Manual Attitude, three, Min Impulse.
@@ -588,9 +588,9 @@ Rate 2.
 C&W mode, Command Module; RCS Transfer, Command Module...
 Everything looks good from down here, 16.
 Go.
-... CM RCS Logic, Off. Check ...
+CM RCS Logic, Off. Check...
 CM RCS Logic is Off.
-... pressures. They're good.
+pressures. They're good.
 Okay. Oh. How's the cabin pressure?
 Great.
 Okay.
@@ -604,9 +604,9 @@ Boy, there's a lot of stuff out there.
 Yaw back to ze - Okay?
 I'm going back to zero, Charlie.
 Pitch to entry attitude.
-Okay, was I supposed to put EMS ...
+Okay, was I supposed to put EMS...
 153.
-Okay, was I supposed to put the EMS to - Normal yet? I mean ...
+Okay, was I supposed to put the EMS to - Normal yet? I mean...
 Yeah. EMS data, verify?
 It's 1051 and 36276.
 EMS Function, Entry.
@@ -614,11 +614,10 @@ It's Entry.
 EMS Mode -
 Normal.
 Normal.
-Verify the filter down on .05g.
+Verify the filter down on.05g.
 That's verified.
 Okay, when you get to attitude, you can Pro to activate the entry ja - DAP.
 Okay. No; wait a minute. We're not in attitude.
-[garble]
 We got to pitch to 152.
 Well, you can Pro on that anyhow. Where - where do we do our thing here?
 Right here.
@@ -637,12 +636,12 @@ Enter.
 Okay. There you go. Enter.
 Done.
 Okay, Houston, we have the - we have the bit 3 set in the 21 46.
-[Garble]. We're venting something.
+We're venting something.
 Roger; and you're looking good.
 We're venting something. Maybe it's the steam duct.
-Yeah, the water - water boils ...
+Yeah, the water - water boils...
 I want to - going to the right and that thing - I looked up again and it turned around and went back to the left.
-Okay, the water boiling [garble] it right back. Yeah. Very definitely.
+Okay, the water boiling it right back. Yeah. Very definitely.
 Yeah, we're boiling.
 I didn't remember anyone ever mentioning that. That isn't in the simulator.
 That doesn't do it very much. Got to be very sensitive.
@@ -671,7 +670,7 @@ Okay, we got P64 up and she's looking good...
 Roger. P63.
 Scared.
 Okay, how far are we from EI?
-Okay, we're at ...
+Okay, we're at...
 Eight minutes?
 No, we're at 11 minutes.
 Eleven minutes.
@@ -680,19 +679,19 @@ The horizon will be about - Well, I've already missed the horizon. Okay.
 Yeah. You can't tell with all those particles out there.
 What? The horizon's out there?
 It ain't lit.
-No, the horizon's gonna be [garble].
+No, the horizon's gonna be.
 It ain't lit.
 Well, when I find the Moon, I'm going to know where the horizon is. It'll be just below it.
 What's pitch attitude, Ken?
 We're about 210.
 Okay.
 Look - look at that, John. Look how fast that comes down.
-Yeah, it - it [garble].
+Yeah, it - it.
 You don't have to be too terribly sensitive to see that. That's the first place where the simulator hasn't been just like this thing.
 Well, sometimes it - water boils and sometimes it don't.
 (Laughter) Okay.
 Okay, at - when we get to 06 64, FDAI Scale, 5/5.
-Okay, I ...
+Okay, I...
 Okay.
 I won't be there for a minute. I'll tell you when I get there.
 Okay, fine.
@@ -710,13 +709,12 @@ Six minutes away.
 Six minutes?
 About, yeah.
 No.
-Ten [garble] ...
-[garble] ...
+Ten...
 Ten, yeah.
 Be nine minutes.
 I've got it on f/11, Just what the checklist says.
 Yeah.
-Wh ...
+Wh...
 I was just thinking - I don't know why I didn't think of this before, but I bet you could get moonset on that thing. Give a little burst as the Moon goes down.
 Okay. Okay, I'll set it to about 6 frames a second.
 What - what's it normally on?
@@ -739,7 +737,7 @@ Roger, 16. We're coming through ARIA now.
 Yeah, it was. That's Hank.
 Really?
 Yeah.
-[Garble] y'all have heard [garble] on ARIA.
+y'all have heard on ARIA.
 Okay; you sounded pretty good then.
 Seven g's.
 (Laughter) It's going to feel it.
@@ -756,10 +754,10 @@ Still don't see the Moon.
 It won't show up until it - it's moving. It isn't, but we are - moving very rapidly in central angle now.
 Yeah.
 And when it comes, it's going to go down - it only takes like a second or two to set.
-Don't know what ...
+Don't know what...
 Okay, we got the attitude yet?
 Not quite,
-... [garble] what good that does you.
+what good that does you.
 Oh, okay. That simple, I'd buy it.
 3000 miles to go, gang; 33,971 feet a second, Charlie.
 3000 miles to go?
@@ -768,17 +766,17 @@ Gyah! We're hauling it. I'll tell you, babe, we're hauling it.
 We're still accelerating.
 Yeah, we're starting to pick up speed now.
 You can feel it go faster.
-Is that to touchdown ...
-I feel it ...
-... or is that to EI?
-... [garble] I'm heavy.
+Is that to touchdown...
+I feel it...
+or is that to EI?
+I'm heavy.
 Huh?
 Is that 3000 miles to EI?
-Touchdown ...
+Touchdown...
 That's 3000 miles to touchdown.
 Oh.
-[garble] SET is 290 ...
-... the last 3000 is the hardest. They don't say it. I just made it up.
+SET is 290...
+the last 3000 is the hardest. They don't say it. I just made it up.
 I see. That's very good.
 We don't want to come up with any more of those little things.
 (Laughter) Yeah. I get the last 10,000 feet.
@@ -797,7 +795,7 @@ Yes, sir.
 That's the only thing I know this morning.
 That's really all you've got to know.
 We've got a couple of things to do, really; FDAI Scale and Rot Control Power.
-Okay, Rot Control Power - what are you going to do with that? I got [garble] ...
+Okay, Rot Control Power - what are you going to do with that? I got...
 Direct, two, Main A/Main B.
 Yeah, I did that before Sep.
 Got data back and you're looking good.
@@ -809,8 +807,8 @@ Digital manpower at work.
 There's something basic about telling time that - seems to be very difficult. Okay, I'm at attitude, Charlie.
 Okay. FDAI Scale, 5/5.
 Okay, going to 5/5.
-Okay. Now we just stay hanging in here - until .05g.
-Okay, and I want to start my wristwatch at .05. I don't know what good that'll do me. I mean at RRT. I'll - I'll set this thing; it just might work. Maybe it'll be sympathetic. It did it on TEI, much to my amazement.
+Okay. Now we just stay hanging in here - until.05g.
+Okay, and I want to start my wristwatch at.05. I don't know what good that'll do me. I mean at RRT. I'll - I'll set this thing; it just might work. Maybe it'll be sympathetic. It did it on TEI, much to my amazement.
 Okay, we got 3 minutes to RRT.
 Now, the Moon's already set according to this.
 No, 292 - Yeah, it is - too - I never saw it.
@@ -833,9 +831,9 @@ CM/SM Sep switch - circuit breakers are in.
 Yep.
 Think of anything else.
 I got to get these.
-Yeah. Yeah, okay; that's at .05g. You - you also .05g switch and EMS ROLL switch.
+Yeah. Yeah, okay; that's at.05g. You - you also.05g switch and EMS ROLL switch.
 Okay.
-Okay, and Spacecraft Control - SC MCC [sic]. You got four to get ...
+Okay, and Spacecraft Control - SC MCC. You got four to get...
 Apollo 16, Houston. You're still looking good.
 Roger.
 You're one minute out.
@@ -856,30 +854,30 @@ Mark; RRT. Watch is started.
 Clock's running. Okay, I'm going to Rate Command.
 And Spacecraft Control to CMC.
 Better get it back; get that needle back.
-Okay, we got some - glow ...
-Okay, get your [garble]. Look at the glow.
-Give it [garble].
+Okay, we got some - glow...
+Okay, get your. Look at the glow.
+Give it.
 It's got it. CMC has control.
 Okay.
-Okay. Hundredth of a g ...
+Okay. Hundredth of a g...
 Camera's started.
-One ...
+One...
 200.
 Twenty-three.
-Tape [?] four.
-.05g -
+Tape four.
+05g -
 Mark.
-Six, 7 ...
-Okay, EMS and .05g Roll.
+Six, 7...
+Okay, EMS and.05g Roll.
 Okay.
 Here we go.
-Okay, 0.12g's ...
+Okay, 0.12g's...
 Beautiful.
 0.17, 0.24, 0.34.
 Okay.
 0.5; okay, 0.7.
-Coming up on 1 ...
-1.0, 1.3, 2, 2.8 ...
+Coming up on 1...
+1.0, 1.3, 2, 2.8...
 That's just 2?
 No, that's 4.
 4.
@@ -896,7 +894,6 @@ Plus 90.
 Good.
 Plus 164.
 Outstanding.
-[Garble].
 Doing good work; 5g's.
 5g's; 4.9.
 Outstanding machine! Something's on my window.
@@ -909,23 +906,23 @@ Fly, you booger.
 Okay, we're subcirc.
 Oh, yeah; are we?
 Yeah; subcirc.
-My watch is - my ...
+My watch is - my...
 Comp for plus one.
 Okay.
 And roll.
-Doing good work, machine. How's the ...
-[Garble] .. north ...
+Doing good work, machine. How's the...
+north...
 How's the pressures?
-... and 11.7 -
+and 11.7 -
 Pressures are looking good in the RCS.
 Twenty-five overshoot; 34 overshoot; comp for lift down; 74 degrees right; 75 degrees right.
 Okay, I'll just copy it, John. No sweat; we are sitting right in here. Beautiful machine. EMS and G&N are converging. We're down to 2½g's.
 (Coughing)
 Plus 68; plus 69. Reversing roll.
 Outstanding.
-It went ...
+It went...
 Good decision.
-... 23 north; now it's going back south.
+23 north; now it's going back south.
 Okay, what time you got, Charlie?
 I got three minutes -
 Mark.
@@ -936,7 +933,7 @@ Yeah. Ahh.
 Outstanding!
 Okay, the RCS pressures are looking good. They're at 3000...
 27:02; we in blackout?
-Minus 86 ...
+Minus 86...
 It's gonna start pulling that range off.
 Minus 84.
 It's gonna pull another 4g's here pretty soon.
@@ -945,14 +942,14 @@ Yeah.
 Minus 80.
 Okay, we -
 Minus 77; minus 76 -
-Okay, we [garble] blackout right on time.
+Okay, we blackout right on time.
 Okay.
 Got signal strength.
 Houston, we're out of the first blackout there.
 Okay, the gs are going to be building up again.
 Okay.
-Minus 50 ...
-[Garble] up.
+Minus 50...
+up.
 Minus 50.
 Fine.
 Minus 50; minus 48; minus 48.
@@ -963,7 +960,7 @@ Zero down range.
 Coming up on - 4 minutes.
 Apollo 16, Houston.
 Roger. Loud and clear.
-Okay ...
+Okay...
 Roger. How's it going?
 Minus 49.
 Okay, don't bother to read the angles.
@@ -975,10 +972,10 @@ I'm glad, mmm. But I'm willing to concede.
 What's the g's now?
 Coming up on 3.
 Okay.
-You're going to get maybe another half ...
+You're going to get maybe another half...
 Apollo 16, Houston. We're getting a little data now and everything looks good.
-04:30 ...
-... and that's about it.
+04:30...
+and that's about it.
 Mark.
 It's doing all the right things. It's gonna have to give you another half a g.
 Man, that EMS would have gotten home.
@@ -988,15 +985,14 @@ Reversing.
 Good show.
 Supposed to. Man, it hoses it out, I'll tell you.
 Oh.
-[garble] ...
-You know, I didn't think we were having many g's ...
+You know, I didn't think we were having many g's...
 Five minutes.
-... until I tried to raise my head (chuckle).
+until I tried to raise my head (chuckle).
 Yeah.
 Man, 2g's felt like a ton.
 You're sitting on 3.
 Okay.
-[Garble] steady as a rock.
+steady as a rock.
 Plus 70.
 Steering looks a champion.
 Yeah, it looks good.
@@ -1007,7 +1003,6 @@ Oh, beautiful
 Okay, m - on my mark, it'll be 05:30.
 Mark; 05:30.
 Okay. Looks to me like that little guy is just gonna do a super job.
-[Garble].
 Land us right on the sh - the ship.
 Okay, coming up on 6 minutes. We should be at 90K momentarily.
 Okay.
@@ -1017,7 +1012,7 @@ It's not?
 No.
 Okay, I think we're just about to the transonic region.
 Okay. Okay, there comes the - there comes the steam pressure.
-P67 ...
+P67...
 Gonna be late - late on the steam pressure.
 Okay.
 P67; I'm stopping the DAC. Okay, changing to f/8. Okay, steam pressure's pegged.
@@ -1032,7 +1027,7 @@ Okay.
 Altimeter's off the peg.
 Give me a call at 50K.
 Stand by.
-Go to - go to Boost/Entry ...
+Go to - go to Boost/Entry...
 Boost/Entry.
 Mark; 50K.
 Boost/Entry.
@@ -1041,19 +1036,19 @@ Okay. At 30K, we want ELS Logic and ELS, Auto.
 Okay. Coming up on 40. That's the relief valves.
 40K.
 Okay.
-Give me a ...
+Give me a...
 At 35K,
 Okay.
 I'll start the camera.
 I think that's too bright of a setting.
 Yeah.
 Okay, get...
-Okay, [garble]...
+Okay,...
 30K.
-Okay, ELS Logic; ELS, Auto ...
-[garble] Logic and Auto.
+Okay, ELS Logic; ELS, Auto...
+Logic and Auto.
 Okay, stand by for 24.
-Standing by. Give it [garble]
+Standing by. Give it
 There's one.
 There you go.
 The apex cover.
@@ -1066,7 +1061,7 @@ Huh?
 Looks like the cabin's coming up.
 Yeah, I can smell it.
 Cabin's coming up.
-Okay. We're stabilizing. You want me to go to Boost/En ...
+Okay. We're stabilizing. You want me to go to Boost/En...
 No, no. You're okay. Cabin's coming up.
 Okay. Man, I didn't expect that.
 Man, those beauties are out there.
@@ -1078,29 +1073,29 @@ Okay, it's gonna drop away and you get two reef...
 That's right.
 Okay, they are...
 There they go. There go the mains...
-... [garble] are out [garble]...
+are out...
 MA, O2 Flow. Okay, we got three reefed.
 Okay, stand by...
-... [garble] is off.
+is off.
 Photo has visual contact.
 Okay, we've de-reefed.
 Recovery has visual.
-I see one ...
-... two, three. They're - now they're de-reefed.
+I see one...
+two, three. They're - now they're de-reefed.
 Now they go. There they go. all three open.
 Ohhh, beauties.
 Okay, let's turn off the propellant.
 Okay.
-Okay ...
+Okay...
 Okay, read the checklist.
-One - one second ...
+One - one second...
 Read your checklist.
 Surge Tank, O2, Off.
 Surge Tank O2 is Off.
 Repress Package, Off.
 Repress Package is Off.
-I'm going to Recovery; A to Simplex, and Beacon is On. Okay ...
-[Garble] see that.
+I'm going to Recovery; A to Simplex, and Beacon is On. Okay...
+see that.
 Recovery, this is Apollo 16.
 Go to Dump.
 Dump?
@@ -1110,10 +1105,10 @@ Roger, We're showing point - minus 0.72, 156.28:west.
 Okay, I'm putting the DAC under the couch.
 Okay.
 With a miss of 1.6 miles.
-Okay, CB Flight/Post Landing, four, Close. Close three, four, Close ...
+Okay, CB Flight/Post Landing, four, Close. Close three, four, Close...
 Ah, you beauties.
 This is Recovery. Roger. What is your condition? Over.
-Main A and Main B, Open ...
+Main A and Main B, Open...
 Outstanding.
 (Laughter) It's super! Hey, I didn't hear you -
 Tico, ELS.
@@ -1133,7 +1128,6 @@ CM RCS Propellant at BK. We want those closed.
 (Coughing)
 And Swim's got a visual.
 Roger.
-[Garble].
 That's what I said.
 Roger.
 I know, but John didn't want to until three.
@@ -1151,14 +1145,13 @@ Isn't that?
 Say, you can't top that.
 Isn't that - isn't that something?
 You gonna bleep the controller?
-Yeah, that's at 800 feet ...
-... [garble] ...
+Yeah, that's at 800 feet...
 I'll read it out, okay?
 We may hit the water at 800 feet.
-Well, wait a minute. That thing's ...
+Well, wait a minute. That thing's...
 No, we aren't even above the clouds - we're still above the clouds.
 Well, they don't know what 2000 scattered is out here.
-Yeah, [garble].
+Yeah,.
 I could see the clouds; they're in the water.
 (Chuckle) Get your head back in here.
 (Chuckle) I'm all right. I just want to make sure we don't hit nobody.
@@ -1166,13 +1159,13 @@ You're in Dump, huh?
 Yeah, one's in Dump.
 That certainly is beautiful.
 Tico, this is Photo. All main chutes are deployed. There is no sway on the Module - it's coming down, straight down.
-Okay, that's [garble]...
+Okay, that's...
 Roger.
-... likely to be in Stable 1.
+likely to be in Stable 1.
 (Coughing)
 You might think about positioning for landing?
 I'm - I'm in.
-[Garble] clips?
+clips?
 Well, mine won't work, but my feet are up straight.
 Okay.
 Okay, give me a hack at 3K, Ken.
@@ -1184,7 +1177,7 @@ They're Off.
 They're Off.
 Floods, Post Landing.
 Floods to Post Landing.
-Okay, we wait ...
+Okay, we wait...
 They're on.
 Okay, we wait until 800.
 Houston, we're passing to - through 2800 now.
@@ -1199,23 +1192,23 @@ You just can't describe something like that, that 2gs.
 Okay, there's 2000.
 Okay; 800 feet is what we're waiting on.
 Let's leave - let's leave that one.
-Yeah, let's ...
+Yeah, let's...
 I don't want to end up in the water with my dump valve open.
-Okay, they'll splash in there anyway. You can close them [garble]. Okay, go ahead and do it, Ken.
-Okay, I'm closing ...
+Okay, they'll splash in there anyway. You can close them. Okay, go ahead and do it, Ken.
+Okay, I'm closing...
 What are you supposed to close?
 I don't know - I don't know if you should close them.
-Well, you ...
-Wait ...
-...[garble] gonna get a negative pressure.
-At 800 feet - Wait - yeah, at 800 feet, close them. We're - we're - there's the helicopter out ...
+Well, you...
+Wait...
+gonna get a negative pressure.
+At 800 feet - Wait - yeah, at 800 feet, close them. We're - we're - there's the helicopter out...
 Okay.
 We're looking good.
 Okay.
-Okay, we're still ...
+Okay, we're still...
 Tico, this is ELS. We have the two drogue chutes in sight.
 There's 1000.
-Okay ...
+Okay...
 And they are due south of the Command Module.
 Roger.
 900.
@@ -1226,9 +1219,9 @@ Okay, command - plus or minus yaw for one second, direct.
 Roger.
 There you go.
 Okay, that's done.
-Okay ...
+Okay...
 Okay, the yaw has been put in.
-... Main Bus Ties coming Off.
+Main Bus Ties coming Off.
 Okay. The purge burn has been accomplished.
 Splashdown.
 Splash.
